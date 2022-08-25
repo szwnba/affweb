@@ -1,0 +1,82 @@
+<html>
+<head>
+  <title>Step 9 - Setup PopAds Postback in BeMob</title>
+  <basefont face="微软雅黑" size="2" />
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="exporter-version" content="YXBJ Windows/605495 (zh-CN, DDL); Windows/10.0.0 (Win64); EDAMVersion=V2;"/>
+  <style>
+    body, td {
+      font-family: 微软雅黑;
+      font-size: 10pt;
+    }
+  </style>
+</head>
+<body>
+<a name="2039"/>
+<h1>Step 9 - Setup PopAds Postback in BeMob</h1>
+
+<div><span>
+  <div style="--en-clipped-content:selection">
+<div><br/></div><div style="font-size: 16px; display:block; min-width: 100%; position: relative;"> <div style="line-height:1.15;text-size-adjust:100%;font:400 15px / 1.4 &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, sans-serif;color:rgb(20, 20, 20);overflow-wrap:break-word;background-color:rgb(236, 236, 236);box-sizing:border-box;scroll-padding-top:47px;"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;background:rgb(236, 236, 236);"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;vertical-align:top;"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;color:rgb(20, 20, 20);border-radius:4px;background:none;"><div style="box-sizing:border-box;list-style:none;border-top-left-radius:3px;border-top-right-radius:3px;border-bottom-left-radius:3px;border-bottom-right-radius:3px;"><div style="box-sizing:border-box;color:rgb(20, 20, 20);background:rgb(254, 254, 254);border-radius:4px;"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;vertical-align:top;min-width:0px;border-radius:0px;border-top-right-radius:3px;border-bottom-right-radius:3px;"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;"><div style="box-sizing:border-box;font-family:&quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, sans-serif;"><div style="box-sizing:border-box;"><span style="box-sizing:border-box;margin-top:0px;font-size:22px;"><b style="box-sizing:border-box;font-weight:700;">Setup PopAds Postback in BeMob</b></span><br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+We want to setup the <a href="https://afflift.com/f/link-directory/popads.2/" style="background-color:transparent;color:rgb(37, 119, 177);text-decoration:none;box-sizing:border-box;cursor:pointer;" target="_self" title="">PopAds</a> postback in <a href="https://afflift.com/f/link-directory/bemob.15/" style="background-color:transparent;color:rgb(37, 119, 177);text-decoration:none;box-sizing:border-box;cursor:pointer;" target="_self" title="">BeMob</a> so that BeMob can notify PopAds whenever we get a conversion.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+Earlier, we setup our postback from BeMob in <a href="https://afflift.com/f/link-directory/mobipium.77/" style="background-color:transparent;color:rgb(37, 119, 177);text-decoration:none;box-sizing:border-box;cursor:pointer;" target="_self" title="">MOBIPIUM</a>. That was so that MOBIPIUM could notify BeMob whenever we get a conversion.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+Now, we also want to let PopAds know when we get a conversion. Why? It’ll allow us to use PopAds reports to do some optimizations as well. It’s not 100% necessary and there are many advanced affiliates who refuse to give <a href="https://afflift.com/f/link-directory/categories/traffic-sources.1/" style="background-color:transparent;color:rgb(37, 119, 177);text-decoration:none;box-sizing:border-box;cursor:pointer;" target="_self" title="">traffic sources</a> this type of data on their campaigns, but we’re just beginners and I think the more data we have at our disposal (and the more we can learn about running reports and doing optimizations), the better.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+Once we set the postback conversion tracking form PopAds in BeMob, <b style="box-sizing:border-box;font-weight:700;">we do NOT need to do it again</b>. This does not change on each campaign. We’ll set it once and then BeMob will notify PopAds on all our future campaigns.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+First, go back to your BeMob account and click on <b style="box-sizing:border-box;font-weight:700;">Traffic sources</b>. Select <b style="box-sizing:border-box;font-weight:700;">PopAds</b> and click <b style="box-sizing:border-box;font-weight:700;">Edit:</b><br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+
+<div style="box-sizing:border-box;display:inline-block;max-width:100%;cursor:pointer;" title="1572899199809.png">
+<img src="Step 9 - Setup PopAds Postback in BeMob_files/Image.png" type="image/png" data-filename="Image.png" height="274" style="border-style:none;box-sizing:border-box;max-width:100%;height:auto;" title="1572899199809.png" width="1275"/>
+</div>
+<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+We need to replace your advertiser ID in your Postback URL. You’ll notice that in BeMob your PopAds Postback URL has the word <b style="box-sizing:border-box;font-weight:700;">REPLACE</b> in it. That is what we’re going to replace.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+Go back to PopAds (you should still be on the <b style="box-sizing:border-box;font-weight:700;">Conversion Tracking</b> page) and look at the <b style="box-sizing:border-box;font-weight:700;">Postback</b> box.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+There is a long string of letters and numbers in the postback URL after <b style="box-sizing:border-box;font-weight:700;">aid=</b>.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+<div style="box-sizing:border-box;display:inline-block;max-width:100%;" title="1572899231005.png">
+<img src="Step 9 - Setup PopAds Postback in BeMob_files/Image [1].png" type="image/png" data-filename="Image.png" height="196" style="border-style:none;box-sizing:border-box;max-width:100%;height:auto;" title="1572899231005.png" width="736"/>
+</div>
+<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+(copying this can be difficult because PopAds assumes you want to copy the entire URL when you click on it. You may need to copy the entire URL and then copy the string highlighted above)<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+You want to copy that string after the <b style="box-sizing:border-box;font-weight:700;">aid=</b> and before the <b style="box-sizing:border-box;font-weight:700;">&amp;id=</b>. That is your advertiser ID. Once you have it copied, open BeMob back up and paste it where the postback in BeMob says <b style="box-sizing:border-box;font-weight:700;">REPLACE:</b><br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+<div style="box-sizing:border-box;display:inline-block;max-width:100%;" title="1572899255748.png">
+<img src="Step 9 - Setup PopAds Postback in BeMob_files/Image [2].png" type="image/png" data-filename="Image.png" height="128" style="border-style:none;box-sizing:border-box;max-width:100%;height:auto;" title="1572899255748.png" width="393"/>
+</div>
+<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+Click <b style="box-sizing:border-box;font-weight:700;">Save</b> and you will never have to edit your PopAds <a href="https://afflift.com/f/link-directory/categories/traffic-sources.1/" style="background-color:transparent;color:rgb(37, 119, 177);text-decoration:none;box-sizing:border-box;cursor:pointer;" target="_self" title="">traffic source</a> template again!<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+Now, there’s not really anything we need to do but wait for PopAds to approve our Campaign (they should) and wait for our $5 budget to be spent.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+PopAds can take awhile to approve new campaigns. I typically see my new campaigns approved within about 12 hours. I will set a stopwatch and let you know how long it takes them to approve this one. I submitted it at around 3:45pm. I hope it is approved before I go to sleep tonight. If not, it should be when I wake up.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+14 hours later...<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+<b style="box-sizing:border-box;font-weight:700;"><img src="Step 9 - Setup PopAds Postback in BeMob_files/2705.png" type="image/png" data-filename="2705.png" height="22" style="border-style:none;height:auto;box-sizing:border-box;vertical-align:text-bottom;max-width:none;width:1.467em;" title="Check mark button :white_check_mark:" width="22"/> Campaign Approved!</b><br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+I woke up this morning to see that my campaign had been approved and I had spent my $5 budget within 10 minutes:<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+<div style="box-sizing:border-box;display:inline-block;max-width:100%;" title="1572899283660.png">
+<img src="Step 9 - Setup PopAds Postback in BeMob_files/Image [3].png" type="image/png" data-filename="Image.png" height="103" style="border-style:none;box-sizing:border-box;max-width:100%;height:auto;" title="1572899283660.png" width="819"/>
+</div>
+<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+So, it took about 14 hours for approval. Your campaign will likely take about the same amount of time.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+I am now going to analyze the results of my first $5 test. You are welcome to continue with this guide while you wait for your campaign to be approved and run, but I also recommend you take a look through this section once your campaign has run so you can review your results using the methods I am about to show you.<br style="box-sizing:border-box;"/>
+<br style="box-sizing:border-box;"/>
+<b style="box-sizing:border-box;font-weight:700;">NEXT</b>: <a href="https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/" style="background-color:transparent;color:rgb(37, 119, 177);text-decoration:none;box-sizing:border-box;">Step 10 - Analyzing Your PopAds Campaigns using BeMob</a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+</div>
+</span>
+</div></body></html> 
