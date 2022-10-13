@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>如何识别和克服减慢创造力的心理障碍</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="46785e31-3478-4e0b-bf79-64c824577875" class="page sans"><header><h1 class="page-title">如何识别和克服减慢创造力的心理障碍</h1></header><div class="page-body"><p id="ec34e8c4-a6d8-48d8-90af-9890af219b76" class="block-color-gray"><a href="https://www.asianefficiency.com/productivity/identify-overcome-a-mental-block/">https://www.asianefficiency.com/productivity/identify-overcome-a-mental-block/</a></p><p id="1a76fdb1-4332-40f7-9533-06cac508259d" class="">
+</p><figure id="9110cd9d-efe0-4d32-98b3-7a36c47e7f8a" class="image"><a href="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/absolutvision-82TpEld0_e4-unsplash-500x333.jpg"><img style="width:500px" src="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/absolutvision-82TpEld0_e4-unsplash-500x333.jpg"/></a></figure><p id="de9fae53-17d0-456b-b366-d99b56c4d786" class="">Being consistently prolific in your creative work is not an anomaly.</p><p id="f7e4b12f-a01c-40cd-ab34-9be6d27c4d00" class="">In fact, prolific creativity is – or can be – your norm. You can experience flow in your work, increase your creative output, and enjoy your work process.</p><p id="0fb30c71-8ea0-4049-a922-f6f85959b49c" class="">But you have to make it possible by clearing the way for your brain to make those connections (between <a href="https://today.duke.edu/2017/02/creative-people-have-better-connected-brains">parts of your brain</a>, and between <a href="https://www.brainpickings.org/2014/05/13/pete-seeger-paul-zollo-songwriters-on-songwriting/">the bits of knowledge that your brain accumulates</a>) required for creativity.</p><p id="d593ce21-cf38-4eb6-aac8-46e7bc40ef5a" class="">To increase your productivity and creativity, you’ve probably learned a lot about <a href="https://www.asianefficiency.com/productivity/scientifically-backed-morning-rituals-successful-people/">rituals</a> and habits, and creating <a href="https://www.asianefficiency.com/productivity/17-tips-keep-work-place-organized/">a good workspace</a>, and <a href="https://www.asianefficiency.com/podcast/247-top-ten-apps/">using the right tools</a>, and <a href="https://www.asianefficiency.com/email-management/notifications-vip/">dealing with email</a>.</p><p id="8ab00a9a-4b46-4556-b8e6-4d4bdbd3ab77" class="">Those are great things to learn. However, if you focus only on the external components of productive creativity, and neglect the internal issues – those mental blocks – you’ll find yourself stuck in the same place over and over again.</p><p id="fc00299a-4672-4e5e-9a85-97faa868e02a" class="">You can prime everything outside your head for prolific creativity, and what’s inside can stop you cold. <a href="https://asianefficiencygo.com/inbox-detox-blog">Inbox Zero</a> will not save you if that negative monologue in your head is feeding you reasons that you can’t do the work you want to do.</p><p id="85f660fc-9083-4fb9-ae7f-f2fb83ffb6b1" class="">So, let’s kill the monologue! Or learn how to control it, and all the other common mental blocks that might slow you down.</p><figure id="c129b34b-57b5-4ed9-a363-dc3a0efdf911" class="image"><a href="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/Waiting-for-inspiration-e1503568105678.jpg"><img style="width:700px" src="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/Waiting-for-inspiration-e1503568105678.jpg"/></a></figure><h2 id="d293ae24-dad0-442e-988c-acf2aa99cca6" class="">Seven common mental blocks</h2><p id="03977d7e-6885-40b2-8760-2486ca5d5755" class="">Here’s a shortlist of the most common mental blocks that can stop you from being prolifically creative. Which ones sound most familiar to you?</p><h3 id="6fc5d71f-6e86-4938-ac12-5d471220b1a3" class="">1. Self-doubt</h3><p id="28ed7cb2-ad0a-4cb0-87d3-b4ea2b4b7c24" class=""><em>“I never feel qualified, no matter how qualified I am.”</em></p><p id="3dcc114e-89ff-43d3-a53f-7675f486ab61" class="">The mental block of self-doubt can show up in lots of different ways: as a specific fear (perhaps of embarrassment or low quality of work), as general anxiety, or as <a href="https://www.apa.org/gradpsych/2013/11/fraud.aspx">imposter phenomenon</a>. Self-doubt makes you feel unqualified: no matter how hard you’ve worked to develop your skills, no matter what other, objective parties may say, you feel that what you do has little value. Self-doubt isn’t logical, but it will find arguments that seem logical and parade them before you. Because it’s all happening inside your head, you may not realize how weak those arguments are.</p><h3 id="87a29e09-ec59-45e8-b218-dfdd57707175" class="">2. Indecision</h3><p id="e6a277cb-3523-4a7d-9b41-24bf2b4a31ec" class=""><em>“I have to optimize every decision or I will fail!”</em></p><p id="876220c6-2603-4fbe-a9fa-89b44f013f71" class="">The mental block of indecision causes you to place too much value on each decision; you feel that making the best decision about a single item determines your success or failure in an entire area. Indecision may come because you’re unsure of your priorities, or because you don’t trust yourself to identify what is important. The result is an inability to focus. If you’re struggling internally with the “right decision,” then you’re not putting your full attention on the task before you. And when you’re not fully immersed in what you’re doing, it’s not very fun to do it.</p><h3 id="f6c7e83c-2d79-4eca-9f25-e73a823cdf7b" class="">3. Fixed mindset</h3><p id="9766b667-5a85-4478-97d0-c5d277b27259" class=""><em>“I’m limited by my past self.”</em></p><p id="b84a5f84-d239-4731-9ae4-ef0de842fc96" class="">According to a fixed mindset, what you have been able to do in the past sets a limit on what you’ll be able to do in the future. A fixed mindset is a belief that your capabilities have certain limits that you can’t overcome. While this is true to some degree – everyone has limits – a fixed mindset will keep you from learning, growing, or pushing yourself past your comfort zone. You’ll accept arbitrary limits that are well below your actual capabilities, and as a result, be tied to what is familiar and unable to see your own potential.</p><h3 id="d079916e-30d0-430e-8aa8-23db86252c28" class="">4. Comparison</h3><p id="d466c837-b834-476b-b70f-b2eb320d9fe0" class=""><em>“Other people’s success takes away from mine.”</em></p><p id="a3d097da-8804-45f7-a74b-5af5c455fe28" class="">The mental block of comparison grows from a belief in success scarcity: there is only so much opportunity, and thus, only so much success available in the world. Therefore, if someone else succeeds before you do, they’re a threat to you. This idea, of course, is nonsense. Comparison will keep you in a state of panic and continual fluctuation as you will always find other people who are slightly more skilled, or started sooner, or seem to do better work than you. Their achievements will make you feel as if your efforts are pointless. You’ll want to give up, or you will continually shift your focus looking for some ground you can claim first.</p><h3 id="a226ab87-6f7f-4ac7-98f4-d22a28df4b56" class="">5. Uncertainty</h3><p id="fd324841-e0f0-4f2a-8ee3-d0f687c19174" class=""><em>“I think I know what I want, but I never really do.”</em></p><p id="326d7339-2155-4ed9-a4ee-9a678bea36c3" class="">Uncertainty differs from indecision in this key way: you’ll make a decision, but then you find yourself unable to figure out how to carry it out. Uncertainty paralyzes you in the execution of your decision. In this age of constant data, it’s even easier to feel overwhelmed by potential methods and tools, so uncertainty over <em>how to do something</em> can appear about the most minute decisions. If you’ve ever spent an hour deciding between five apps that are basically the same, you know what uncertainty feels like. It’s <a href="https://www.asianefficiency.com/productivity/how-to-beat-decision-fatigue-the-ultimate-guide/">the paralysis of too many options</a>, and it keeps you wandering from one possibility to the next. Because the options are so similar, your brain can’t analyze which one is better (the differences are minute enough that there isn’t enough of an advantage to calculate) so you keep assessing, endlessly.</p><h3 id="b83ffb39-56f8-4ccd-a5c9-0ecb5c1d37bd" class="">6. No limits</h3><p id="9141aced-226d-4816-8f45-78a43559fc3e" class=""><em>“I can do all things!”</em></p><p id="d5e59b23-5149-4f6e-ab0f-aedb300e50a9" class="">The mental block of no-limits seems to be anything but a block: it’s a combination of many interests, many endeavors, and the ability to enthusiastically overestimate your own resources and abilities, despite all evidence to the contrary. Enthusiasm is great, of course; without focus, however, it gets spread too thin and the result is very little actual movement forward. You end up spinning in circles, trying to keep all your projects moving forward. Because you have too many things going, you can’t make significant progress in anything, so you begin to feel depressed and soon, you want to quit. Everything. A belief in no limits ultimately leads to many dead ends.</p><h3 id="5779d00f-c836-47b0-a147-eb0cbc0aa054" class="">7. Tunnel vision</h3><p id="e7ced991-53ca-4cd0-a00b-98e797d62afe" class=""><em>“I can’t see past the boundaries of my own experience.”</em></p><p id="3154e202-1f1e-4c19-a4f7-2595736ac9a5" class="">Tunnel vision locks you inside your own perspective, no matter how skewed or inaccurate it might be. When the mental block of tunnel vision is activated, you lose objectivity, which can lead to all sorts of issues. For example, you may be locked in so tightly on a specific method for reaching your goal that you cannot see other, easier, more accessible options. Conversely, tunnel vision can also cause you to see obstacles as bigger than they are, feel as if you are all alone when you aren’t, or assess your own work as terrible or unhelpful when it’s neither.</p><figure id="50ce6921-0939-49a2-acb2-aba2265d0a15" class="image"><a href="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/Young-man-reading-book-e1503568234653.jpg"><img style="width:700px" src="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/Young-man-reading-book-e1503568234653.jpg"/></a></figure><h2 id="4a344b38-f325-4b63-b2e5-9c67030c731b" class="">How to identify your mental blocks</h2><p id="196cc442-9232-44be-81ad-4f28879960a0" class="">Which of these obstacles sounds most familiar to you? If you’re having trouble identifying the mental blocks that slow you down, try this little experiment:</p><ol type="1" id="012072a6-224a-41cb-93e4-78a756515fc5" class="numbered-list" start="1"><li>Choose a task connected to a current goal or project.</li></ol><ol type="1" id="858e852f-102a-4f27-b0d2-c411f5c97c56" class="numbered-list" start="2"><li>Set a timer for 15 minutes.</li></ol><ol type="1" id="e492017e-0bd3-436f-b95e-a7679cabeeca" class="numbered-list" start="3"><li>Start working on your chosen task. Every time you hesitate, slow down, sigh, stare at the window or wall, think about getting coffee, want to change position, or otherwise engage in anything-but-working-on-the-task behavior, stop and listen to your thoughts. You have a continual monologue inside your head, and it’s telling you something. Whatever it’s saying is the voice of your loudest mental block.</li></ol><ol type="1" id="ac761273-aa3e-4ad9-b299-c7713b054a56" class="numbered-list" start="4"><li>Listen and notice the patterns in your internal monologue. What words and phrases keep repeating? What feelings come to the surface? What’s your experience as you try to work? It’s helpful to write down (or speak aloud and record) what you’re hearing in your head, then read it back to yourself (or listen to the recording). Do this long enough, and you’ll find the patterns. The patterns will expose your mental block (s).</li></ol><figure id="d50fd621-6c8a-47cc-9817-d4d273a05ebd" class="image"><a href="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/Young-woman-sitting-cross-legged-in-busy-square-with-sketchpad-e1503568366950.jpg"><img style="width:700px" src="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/Young-woman-sitting-cross-legged-in-busy-square-with-sketchpad-e1503568366950.jpg"/></a></figure><h2 id="7dab97a8-2845-4092-9add-7d0a3965fa7b" class="">How to Overcome Mental Blocks</h2><p id="3c6ae9df-f1bb-4246-94c5-e8f417db8ac9" class="">There are four basic strategies for dealing with your mental blocks:</p><ol type="1" id="49191ebe-609d-46ce-b2fb-12327f694a8e" class="numbered-list" start="1"><li>Uncover</li></ol><ol type="1" id="0cf2039b-15a6-4924-88d2-96ac106c3a69" class="numbered-list" start="2"><li>Remove</li></ol><ol type="1" id="12d1d289-fbea-45fb-a058-80515afcf59c" class="numbered-list" start="3"><li>Reduce</li></ol><ol type="1" id="b4888ab8-c2fd-4c18-ae5b-01ea73a487bf" class="numbered-list" start="4"><li>Transform</li></ol><p id="6eb82c71-60bb-43ce-9626-90de6a9a3512" class="">Let’s take a closer look at these strategies and the ways you can use them to deal with your mental blocks.</p><h3 id="606d9a67-4b66-47ee-b60e-a2c78d0e7c0d" class="">Strategy 1: Uncover the causes</h3><p id="68d567d1-01f2-4d4a-bbea-9e30796df36f" class="">Imagine that one of your blocks is self-doubt. To find out where the self-doubt is coming from, take a look at your values. Perhaps you value humility and honesty. That’s great! But perhaps your personality also tends toward perfectionism, and as a result, you have trouble giving yourself credit or recognizing your own achievements when they fall short of perfection. Which, let’s be honest, is all the time since perfect is an impossible standard to achieve.</p><p id="e52e869c-b9b1-46df-acc1-21f13f9f2b57" class="">The combination of your particular personality and your core values lead to a debilitating sense of self-doubt and, most likely, a deep frustration with the conflict between your large ambitions and your self-perceived lack of capability. Since you’re not able to give yourself credit for anything short of perfect, you don’t recognize the skills and capabilities you do have. And since you value humility and honesty, you’re not going to pretend to be more skilled or capable than you think you actually are.</p><p id="e63338c1-7d76-4a5d-b70e-99fd9f398606" class="">Oh, wow. What a mess.</p><p id="46963f0f-f0d5-48fc-8405-a5f95b275071" class="">The truth is that you are skilled and capable, but your own personality and values are getting in your way. The resulting self-doubt grabs you by the throat every time you’re tackling a project.</p><p id="7ae46435-ee3a-465c-aaf3-bbcaa19885ca" class="">To uncover the causes of your mental blocks, try one or more of these tactics:</p><p id="baebf1a4-c8dc-4346-badf-d351a975addd" class=""><strong>Know your values</strong></p><p id="2d83ed1f-55b0-4165-a89d-95fba9d1d37d" class="">Make a list of your core values and then define each one. <a href="https://www.asianefficiency.com/mindsets/asian-efficiencys-core-values/">Asian Efficiency has its own core values</a> that you can check and help you define your own. As you define your values, you might see connections to the mental blocks that slow you down.</p><p id="ddfb9109-46dc-4ddc-94b3-6e4e9345420d" class=""><strong>Ask why</strong></p><p id="b26e00af-9308-4867-99f5-9b64e441f41a" class="">Why do I think this? Why do I feel this? Why am I saying this to myself? Keep asking why and keep following the why down the rabbit hole. Many times you’ll find the answer buried deep in your past, your values, and/or your personality. Asking yourself “why” will also help you <a href="https://www.asianefficiency.com/mindsets/5-questions-to-help-you-discover-your-purpose/">discover your purpose</a>.</p><p id="c2b23732-628f-477d-bc04-9b8d253389ae" class=""><strong>Find examples</strong></p><p id="8d4f40c6-27dd-4242-83a2-2e4677751fb0" class="">For each core value you name, come up with a person or cause (or multiple ones) that represents that particular value for you. Then look for associations between those examples of value and your mental blocks. Perhaps your example of humility is someone you know who is very humble, but also self-effacing and often mistreated. As a result, you may equate being humble with being a victim, which leads you to a trap of comparison and a fixed mindset.</p><p id="d3456a78-1831-4d3e-a14d-706e2e7bf8a1" class=""><strong>Look for conflicts</strong></p><p id="d6496e77-694b-4f75-add0-d231c5da8500" class="">Scan your list of examples, from above, and look for conflicts between them. You may value success and, also, friendliness. There’s no apparent conflict there – you can be both successful and friendly – but notice, for instance, if your examples of success are famously reclusive high-achievers. Your examples of success make you think that you can only be successful while also being unfriendly; since you value friendliness, you continually balk at or undermine your own success.</p><p id="5d3ef2a1-86b5-427b-9644-a0ec3cc6a22f" class="">When you uncover the beliefs, values, or conflicts that have created your mental blocks, you can begin to undo them and reset the patterns. Redefine your values. Come up with new definitions. Find new examples. Recognize the conflicts and think about them. You don’t have to change your core values or your personality, but you also don’t have to let them produce negative consequences.</p><figure id="648e2e86-7ebc-429f-b640-1b0c2e6afc83" class="image"><a href="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/Woman-facing-problems-and-challenging-obstacles-in-life-e1503568482965.jpg"><img style="width:700px" src="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/Woman-facing-problems-and-challenging-obstacles-in-life-e1503568482965.jpg"/></a></figure><h3 id="31899a4e-92cd-48b8-9dba-847d7226f955" class="">Strategy 2: Remove the blocks</h3><p id="468b91ea-5d11-4e3d-a152-104f204f6a84" class="">Sometimes the blocks in your mental landscape have existed in there for a long, long time.</p><p id="b1067e24-e398-4ef8-a764-6589d8e24594" class="">Many times, mental blocks grow out of experiences or instructions that were small and seemingly harmless. In fact, childhood instructions often take on a life of their own and become detrimental unless you do the work to dismantle them. You might have been taught as a child to listen respectfully to your elders; that’s no big deal unless it plants itself in your mind and grows into an endlessly repeating monologue telling you that your voice and opinions have no value. Is that what the instruction meant when it was given to you? Of course not. But you can take messages in, add other experiences to them, misunderstand it all, and mash it into a big mental mess.</p><p id="32312514-5f5a-4885-85c8-00608663ad91" class="">To start removing the mental blocks that don’t belong in your brain, try these tactics:</p><p id="09fc4d69-0645-4e05-bbc6-30178e9984b2" class=""><strong>Record the monologues</strong></p><p id="1c7692d4-34ff-483e-9b35-a78cb7d0f467" class="">Become aware of the repetitive phrases and patterns in your internal monologue. As discussed above, they are clues to the mental blocks you carry and the beliefs behind them. Write down what you’re hearing, and you might realize how far off from the truth it is. Or you might recognize where it’s coming from. The more you know about the contents of your own mind, the more power you can exert over them.</p><p id="bc9cf5fe-eb30-434b-9935-59f4b9a720a5" class=""><strong>Trace the source</strong></p><p id="ca65f06c-25d2-41c7-b2bd-e1036f72f501" class="">At the risk of sounding like a psychologist on the hunt for repressed memories, here is some advice: ask “Where is this coming from?” and “When did I first hear this?” about the negative messages in your internal monologues. A happy childhood and a loving family can still result in internalized messages that don’t make sense for life as an adult. Pull them out and examine them. Think about what they really mean. Keep what is good and reasonable. Let the rest go.</p><p id="1660db4a-97f8-4994-a589-c8c991989e77" class=""><strong>Require evidence</strong></p><p id="726da73f-6eec-4b80-8931-fd114287fd1f" class="">When you find yourself facing the symptom of a mental block – whether it’s fear, anxiety, insecurity, or lack of focus – ask your own mind to provide evidence that supports it. For example, if your mind is telling you that you just can’t focus, ask for a list of five reasons why focus is impossible for you right now. Write them down. Address the ones that can be addressed (“It’s too hot”); reject the ones that are vague (“It’s not likely on a Tuesday”) or depend on past justification (“You couldn’t focus last night, either”).</p><h3 id="d91d401b-711f-4a80-b65d-2286950d2ea7" class="">Strategy 3: Reduce their power</h3><p id="e6d0016c-5ff2-4df2-9834-3e79d1f7e71a" class="">Many mental blocks serve a purpose beyond their negative effect on your creative flow; in fact, if you see them in their full spectrum, you may not want to eliminate them.</p><p id="d1bf5abc-4bcb-445c-8df2-b33828e3ec7b" class="">Your tendency toward uncertainty, for example, may keep you in a perpetual loop of hesitation. However, that uncertainty is also part of other, useful abilities: the abilities to evaluate options, analyze different courses of actions, anticipate obstacles, and devise optimized strategies for achieving a particular goal. Those abilities can serve your creative process, help you avoid burnout, and show you how to build an efficient workflow that leads to greater quality and quantity in your work. The key is to learn how to use those abilities without letting them control you.</p><p id="bdaa1a67-75cb-414e-aa76-03322cde9419" class="">Try these tactics to reduce the power that mental blocks might have over you so you can use them, but keep them in their place:</p><p id="b05dbfa2-2954-4d4d-aba0-9a40bc8d6f68" class=""><strong>Assign a percentage</strong></p><p id="0b46bc5b-e039-4fc1-92d9-c22206b7beba" class="">Once you’ve identified a particular mental block, assign a percentage to it that limits how much it can influence your decision-making. In our example, above, you might give your uncertainty a 30% influence limit. When you’re assessing your options, let your uncertainty explore them, and advise you. It has valuable insight. Apply those insights, but with a 30% influence rating, so that your final decision is influenced less by uncertainty and more by the other factors (such as your final goal, and your time limits).</p><p id="c59d2903-d52b-4871-b9bf-f8a8dbfcf641" class=""><strong>What’s the risk?</strong></p><p id="425cfd44-9b23-4371-9a96-14f55587f312" class="">Fear plays a big role in your mental blocks. You often react negatively to situations or obligations because you’re afraid of failure or of a potentially negative result. If you take the time to identify the actual risk in any experience, you can often reduce the fear and thus control your reaction to that fear. That way, you can assess the risks and evaluate how to handle them without letting fear play too big a part.</p><p id="e112e394-5ece-4851-8db1-2fe16bb1ba0b" class=""><strong>Not right now</strong></p><p id="981ba82b-4ecf-4175-bf08-e54ecf136235" class="">When mental blocks and their related monologues pop up at inopportune times, promise to get back to them later. “Not right now,” is the phrase you can use. Jot the concern or hesitation down somewhere. Then continue on with the action you need to take. Do return to the note you’ve made later, consider it, and act on it as necessary; it’s important that you can trust yourself.</p><figure id="e8c35e5c-d23f-4569-b9f2-26880857cb83" class="image"><a href="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/I-can-do-it-e1503568617136.jpg"><img style="width:700px" src="%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E5%85%8B%E6%9C%8D%E5%87%8F%E6%85%A2%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%2046785e3134784e0bbf7964c824577875/I-can-do-it-e1503568617136.jpg"/></a></figure><h3 id="638a8923-9c9e-4820-9f20-f11eff11e8d6" class="">Strategy 4: Transform the mental block</h3><p id="c0a2ac64-ee10-4be9-a56b-bad4005d09b4" class="">Some mental blocks have the potential to become your powerful allies in prolific creativity. Negative feelings or responses can make you more empathetic to others who have the same experiences. Empathy helps you to be a better communicator and, really, an all-around better person.</p><p id="ee081dbf-b9a4-4d95-a321-33fb50505c5e" class="">If comparison is a mental block of yours, transform it into a tool for connection and encouragement. When you feel comparison taking over, take action. Make a call, write an email, or send a message to the person you’re admiring (and feeling a little jealous of). Tell them what you admire about what they’re doing. Spread the praise. Be genuine. Don’t ask for anything.</p><p id="9d6a7643-dfd7-435a-800d-7ebc0f9058fe" class="">If you treat comparison as a means of connection every time it starts to slow you down, you’ll get two results: first, you’ll start to build an amazing network of people you truly admire. That’s a fabulous result by itself. Second, you’ll transform comparison into equality. By reaching out instead of hanging back in the shadows, you build your own skills and focus less on your differences and more on your commonalities. This transforms the negative emotion into a positive one. Turns out we’re all people trying to do stuff.</p><p id="608c7ef0-93d6-4c91-a2cf-85d4a20e96b1" class="">Try these tactics to transform a mental block into a powerful, positive habit:</p><p id="ad76a57e-2618-402b-ad58-ed4b736f0bc7" class=""><strong>Take action</strong></p><p id="74f7a38c-4746-43ab-b8e3-b6a2d1c5c3c8" class="">As in the comparison example, above, find an action (or several actions) that you can take when your mental block starts slowing you down. Comparison can become a connection. Struggling with a fixed mindset? Learn a new vocabulary word whenever it tells you about your limits. Find a positive action and take it, every time, to transform the obstacle into an asset.</p><p id="ff00e71b-141b-4ce1-87ab-28e6a59654a7" class=""><strong>Talk about it</strong></p><p id="d296b649-931e-4a61-a02e-016593d65077" class="">Other people have experienced what you’re experiencing. We all have more in common than we realize. Include your honest take on your struggles in your writing and communication. <a href="https://asianefficiencygo.com/dojo-2/">Find a community of people</a> who understand. The purpose is not to sit around in self-pity together, but to share stories and solutions. You’re not alone. It’s good to know that.</p><p id="262a5855-0b02-4a42-98e8-c9e146746765" class=""><strong>Recognize the patterns</strong></p><p id="2c55a8a2-a2c7-4ddf-9a9f-d4ada0e09a98" class="">If you know that, for you, gray rainy days lead to feeling demotivated and that leads to lack of progress and lack of progress leads to uncertainty and soon you’re completely derailed… Stop the cycle before it starts by knowing what causes it. Once you’re 65% into the cycle, it’s more difficult to slow it down. Look for the patterns and loops and identify the triggers. Then you can take action, seek help, or schedule a break as soon as you see that you’ve hit a trigger.</p><p id="2a65d0c9-e0e2-4ebe-9190-5e7aff9daa96" class=""><strong>Reset yourself</strong></p><p id="216170df-9e59-4de1-bd1b-593ed0432a93" class="">Come up with a list of positive actions, help, resources, and people that can help you when a cycle is triggered. For example, when you have many looming deadlines, you may notice that self-doubt begins to yell loudly in your head. Soon you’re unable to focus, you’re not making progress on anything, and you’re feeling more overwhelmed and less qualified all the time. Develop some coping mechanisms to use in order to reset yourself: make a list and use it when you feel stuck.</p><p id="01a4dcbd-3603-40e6-82f4-1bc0996839b7" class="">Clearing the way for prolific creativity means clearing out your mental blocks.</p><p id="331cff39-5c71-421e-9222-44a3c14e5f7a" class="">We all have them. And clearing them out is not the work of an hour here or an afternoon there; it’s ongoing. But the more awareness you put into how you think, the more conscious control you can exert over your mental patterns.</p><p id="cc8150f3-a8af-45df-935b-04b51c294901" class="">You don’t have to accept your <a href="https://www.asianefficiency.com/productivity/how-to-handle-unproductive-days/">mental blocks</a> as a default way of thinking. Take back the power! Identify and dismantle – or, at least, diminish – those mental blocks that slow you down and get back to your natural state of prolific creativity.</p><h2 id="127abfaf-1ff4-4e8e-9953-71328f2e103e" class="">Next Steps</h2><p id="626446f2-9ef5-4b78-ab65-53cdff88523e" class="">The first step in overcoming mental blocks is first identifying what your mental blocks are. Once you have identified what those are, you know every time it happens. By knowing, you then can go over what you can do to overcome it: uncover the cause, remove the blocks, reduce their power, and transform the mental block.</p><h3 id="cdcd06ce-0b97-4356-983e-b1737833ebb0" class="">Invitation</h3><p id="9977f6f0-068d-4b68-bad5-6785955b3ade" class="">Do you want to know how to set up your workplace and your computer to get more done? Are you interested to know how you can structure your ideal day and build routines? If you answered yes to both or even just one, then join our FREE TRAINING by <a href="https://asianefficiencygo.com/pah-webinar-registration/">clicking this link</a>. It is absolutely 100% free.</p></div></article></body></html>

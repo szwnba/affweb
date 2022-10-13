@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>TEA：释放全部潜力所需的 3 大生产力支柱</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="6027e58f-16b7-4faa-bed5-215696cb8947" class="page sans"><header><div class="page-header-icon undefined"><span class="icon">🌄</span></div><h1 class="page-title">TEA：释放全部潜力所需的 3 大生产力支柱</h1></header><div class="page-body"><p id="5bdb00a4-c572-4dfd-a9cd-48e0e87c2d65" class="block-color-gray"><a href="https://www.asianefficiency.com/productivity/tea-framework/">https://www.asianefficiency.com/productivity/tea-framework/</a></p><p id="7c130f18-7648-433f-86b6-e9c78c501da1" class="">
+</p><figure id="ed77ac32-5aa9-4a05-a5d6-0f63b04269a8" class="image"><a href="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/achieveyourgoals.jpg"><img style="width:700px" src="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/achieveyourgoals.jpg"/></a></figure><p id="7d05f319-829c-4779-9456-284d460d8b6d" class="">It doesn’t matter if you are a Fortune 500 CEO or a solopreneuer, whether you’re happy working from home or climbing the corporate ladder. Deep down, we all want the same thing: to reach our full potential. The problem is that there are millions of potential ways to get there, and no two people are the same. Whether you are just starting on your productivity spirit quest or you’ve been at it awhile, the question remains: how do you know what will really work for your situation? Which “lifehack” should you apply first? Should you try a new task manager, or should you create better habits? Do you need to eat healthier, or should you try to do more deep work?</p><p id="ff4f042a-b1fb-4efa-ae31-9319dfaa4d39" class="">In this post, we’re going to introduce you to a simple framework which will cut through the noise. Understanding the TEA framework can help you zero in on the one thing that will provide the greatest return on your time, energy, and attention investment so you can overcome the resistance that is keeping you from your ideal future.</p><p id="065f42f1-780d-4958-ab36-4762405de4ee" class="">Let me paint a picture for you based on the results of a survey I read that said <a href="https://www.nytimes.com/2002/09/28/opinion/think-you-have-a-book-in-you-think-again.html">81% of Americans felt that they had a book in them and that they should write it</a>. I like this study because it closely relates to my own story, as the process of writing my book (even though “I’m not a writer”) is what led me to get connected with the Asian Efficiency team. I’ll spare you the details here, because what I want to focus on is the actual numbers from this study. At the time of the survey, if the 81% that said they want to write a book actually wrote it, it would come out to around <em>200 million books</em>. But the reality is that only about <em>80,000</em> books get published every year. That means only about <strong>.4% each year actually write their book</strong> – the rest just talk about it.</p><p id="90592acb-3a0a-4262-a460-3f78fe2c4729" class="">What is the thing that helps the .4% take action and write their book? I believe they are able to take massive action on their goals because they are able to align their lives to hit the productivity sweet spot and get “in the zone” on a regular basis.</p><p id="0e82a689-1089-4c28-8208-c82791a53cb0" class="">Hitting that sweet spot doesn’t happen accidentally or automatically (if it did, you wouldn’t be reading this right now). You need a framework which puts you in a position to align all your physical, mental, and emotional resources toward achieving your goals and creating your ideal future.</p><h2 id="19346d64-6d5e-4c14-b907-6ce030fb9859" class="">The TEA Framework</h2><figure id="ee554ff9-3d11-4efa-9c15-e2c316eeb4a8" class="image"><a href="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/tea.jpeg"><img style="width:700px" src="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/tea.jpeg"/></a></figure><p id="0ad420be-4d3c-4df5-81b7-2f1638c991ae" class="">We’ve worked with over 13,000 people to help them solve their productivity problems and achieve their full potential, and we recognized that most of the obstacles people face can be broken down into three simple categories:</p><ul id="1b454b0c-b2db-4294-bd45-ea1ce03cfbd0" class="bulleted-list"><li style="list-style-type:disc">Time</li></ul><ul id="d66ba725-77a9-4a03-b980-06a30b97ecc5" class="bulleted-list"><li style="list-style-type:disc">Energy</li></ul><ul id="db6c8a63-eb2b-4a8a-9e29-a5b7c68c55de" class="bulleted-list"><li style="list-style-type:disc">Attention</li></ul><p id="061e157b-b23f-42d0-88e5-3d5bb5597821" class="">As we worked with people to craft solutions to their productivity problems, the light bulb went on as we began to see how these three areas fit together. All of the systems, habits, mindsets, and ideas fit nicely into this simple framework. Even better, this framework made it easy for people to self-diagnose what was keeping them from reaching their full potential, allowing them to focus on the one thing that will make a difference <em>for them.</em> They didn’t have to try and implement everything at once because they could see right away where they needed help, and they also were able to quickly identify what they could do to fix it.</p><p id="19f6edf5-4680-47db-b140-1ccb1dd90ada" class="">We call this the <em>TEA Framework </em>(Time, Energy, Attention – get it?)</p><p id="9022dfc3-c181-41df-9f3d-cce4f40e1268" class="">When you have all three of these working for you, it’s easy to be productive. If you’re struggling, you need to figure out where the disconnect is and take steps to address the problem.</p><p id="d8a01ddf-a75e-425c-a55d-bfc71569c0e2" class="">Let me give you a couple of examples:</p><p id="99ea42dc-2c59-40df-8f93-2bddee77ee01" class="">When you have no time, you usually feel trapped or stuck. You might say things like:</p><ul id="e9e4a76e-4974-47d2-8d45-2854ce3c7ff3" class="bulleted-list"><li style="list-style-type:disc">“I wish there were more hours in a day”</li></ul><ul id="3e609fe7-a121-4e63-b291-899d8c3fb7f3" class="bulleted-list"><li style="list-style-type:disc">“I don’t have time to do X”</li></ul><ul id="d6d0cff1-325d-481d-ad82-c8d4bb8bcf9d" class="bulleted-list"><li style="list-style-type:disc">“I have so much to do and not enough time to do it”</li></ul><p id="ae3a9a74-a822-4caa-84de-26848f10e5c5" class="">You might have the energy to work on your important project and attention to focus on it, but you just don’t have any time in your day in order to get it done.</p><p id="5e311447-49fc-43ed-8164-404de229b25d" class="">Here are some examples of people who have Energy &amp; Attention, but no Time:</p><ul id="7ec7ec0f-a789-4b27-b0a5-7f8a4cd6ca0a" class="bulleted-list"><li style="list-style-type:disc">The overworked corporate worker that wakes up at 6am and doesn’t come home until 8pm</li></ul><ul id="a1e5e1da-b0e6-4940-9caf-86fb86f1350c" class="bulleted-list"><li style="list-style-type:disc">The overcommitted person whose calendar is jam-packed with meetings, appointments and commitments and has zero downtime</li></ul><ul id="a0173c96-4f01-47ea-a5f5-30af7cc11ae8" class="bulleted-list"><li style="list-style-type:disc">The crazy-busy parent is who is constantly running kids back and forth from school to soccer practice and never has time for him or herself</li></ul><figure id="a7327686-bb3a-42d5-a771-cc83e5664ede" class="image"><a href="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/overwhelmed-1.png"><img style="width:700px" src="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/overwhelmed-1.png"/></a></figure><p id="04cc56c1-21cc-485c-87ce-0ec13b595008" class="">Let’s go back to the example we introduced earlier of someone who wants to write a book. The person who is struggling with time is motivated to publish a book but is too busy to even write one chapter, let alone write drafts. They just have too much to do every day.</p><p id="6d27b669-1401-4269-ba14-1c883be1f8f1" class="">Here are some simple strategies they can use to create more time:</p><ul id="3de47afb-4af0-4548-8e98-68d7db31d1e9" class="bulleted-list"><li style="list-style-type:disc">Scheduling time to write every day and putting it on the calendar</li></ul><ul id="51349f96-24b0-41d6-91eb-f5f5cb265e13" class="bulleted-list"><li style="list-style-type:disc">Having someone help with writing/editing</li></ul><ul id="bf2f504a-423f-4c72-9ab6-4df04b8d6804" class="bulleted-list"><li style="list-style-type:disc">Freeing up time elsewhere (delegating other tasks)</li></ul><ul id="d72787f9-cb6a-4685-90b8-44a35f3fe08f" class="bulleted-list"><li style="list-style-type:disc">Optimizing other things or systems to create time to write</li></ul><p id="6584e2ff-015a-425c-b27c-34737099af73" class="">When you have no energy, you usually feel frustrated because you know what to do and you have time to do it but you can’t follow through. You find creative ways to procrastinate even though in the back of your head you’re saying to yourself, “I know I should be doing X.”</p><p id="03069a7b-cddd-44d7-9e05-9d001877df93" class="">You might have time to work on your important project and you’re focused on getting it done, but you can’t even get started because you just don’t have enough energy to overcome the resistance and get started.</p><p id="a421bdd3-a589-43a1-8eaa-1aa2701e2e5a" class="">Here are some examples of people who have Time &amp; Attention, but no Energy:</p><ul id="a5454294-85b5-4ebc-82d2-f3b80ddb1d5c" class="bulleted-list"><li style="list-style-type:disc">The one time A-player in your organization that you just can’t count on anymore</li></ul><ul id="b4eb9cfd-6d3b-47ae-b787-488d53885582" class="bulleted-list"><li style="list-style-type:disc">The person who has everything they need to succeed but still doesn’t get things done</li></ul><ul id="c96ce565-7147-4329-a640-69b15e8a6b89" class="bulleted-list"><li style="list-style-type:disc">The person at work you never ask for help because you don’t know if they can handle one more thing</li></ul><p id="57c9290c-1c81-469a-ace3-8476ecbeaa62" class=""><a href="https://www.asianefficiency.com/productivity/increase-energy-productivity-breakthrough/">The word to describe the person who has Time and Attention, but no Energy is </a><a href="https://www.asianefficiency.com/productivity/increase-energy-productivity-breakthrough/"><strong>exhausted</strong></a><a href="https://www.asianefficiency.com/productivity/increase-energy-productivity-breakthrough/">.</a></p><figure id="0b8f5dba-f321-41f8-b9e5-0849b240a0d4" class="image"><a href="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/exhausted-1.png"><img style="width:700px" src="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/exhausted-1.png"/></a></figure><p id="f59f9783-5404-4688-803f-69eb3883650a" class="">For the person who wants to write a book, maybe they lack the motivation to sit down and write. They lay in bed on a Saturday morning, even though they have a whole day dedicated on their calendar to write. They know it’s important, but they just can’t face a blank page to actually start.</p><p id="3c6e4dc0-171b-451f-8988-a628225a2f95" class="">Here are some simple strategies they can use to create more energy:</p><ul id="adb90c18-ea57-42fb-8fe5-33e1834574bc" class="bulleted-list"><li style="list-style-type:disc">Go to bed earlier instead of watching Netflix so they have more energy in the morning</li></ul><ul id="57a7e179-6fbe-450a-83e6-0a9e14b3f20e" class="bulleted-list"><li style="list-style-type:disc">Start working out regularly so they feel energized and excited when they sit down to write</li></ul><p id="c998ca8d-1288-4847-8a47-f0fcfcd4e70e" class="">When you have no attention, you easily feel overwhelmed by everything you “need” to do. You have trouble focusing on one thing for any length of time or even selecting the right task to work on. You might say things like:</p><ul id="f3ac3e6c-adf2-408a-bb83-3b82c9f81d4a" class="bulleted-list"><li style="list-style-type:disc">“I have so much to do, I don’t know where to start”</li></ul><ul id="02db39a7-d370-4a6b-bc20-e4f8bd485f69" class="bulleted-list"><li style="list-style-type:disc">“I’d like to close my email client, but I can’t”</li></ul><ul id="2be3bd0a-c065-4fdd-bfd6-e5c97b8fa745" class="bulleted-list"><li style="list-style-type:disc">“Where did my time go?”</li></ul><p id="3f6208ff-e768-45da-a02f-8dd3db0cc7eb" class="">You have time to work on your important project and energy to take action, but you still don’t make any progress because you are constantly being distracted by things that really aren’t that important.</p><p id="11137fcd-ac21-4a45-89b6-534da6f432b6" class="">Here are some examples of people who have Time &amp; Energy, but no Attention:</p><ul id="0c026c5f-4bab-4654-a6eb-e9405f7d9471" class="bulleted-list"><li style="list-style-type:disc">The high-achieving sales person that limits their earning potential by spending most of his/her time doing non-sales work</li></ul><ul id="da970a2b-cee4-4731-bf9f-c4010decb176" class="bulleted-list"><li style="list-style-type:disc">A stay-at-home parent who doesn’t actually get to spend much quality time with their kids</li></ul><ul id="10d22640-4479-4d15-9a86-c38519c5fa92" class="bulleted-list"><li style="list-style-type:disc">The person who is always talking about their great ideas but never actually does anything</li></ul><figure id="3bb03c9e-8d38-4457-b100-ac6d4c16d8c5" class="image"><a href="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/distracted.png"><img style="width:700px" src="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/distracted.png"/></a></figure><p id="f4b7d985-6e99-497c-8e3f-1618f1c2cbf7" class="">For the person who wants to write a book, they may wake up fully refreshed on a Saturday fully intending to write but end up doing house chores and running errands instead. They get distracted by busywork and never end up writing.</p><p id="8d643af1-eada-4653-8e6a-4b76415be42f" class="">Here are some simple strategies they can use to create more attention:</p><ul id="629621d1-6712-4690-b094-6e212eac90e1" class="bulleted-list"><li style="list-style-type:disc">Turn on <em>Do Not Disturb</em> when you sit down to write so you’re not interrupted by notifications</li></ul><ul id="64c3d5e2-3eb2-4b3c-8817-62e130ffedf8" class="bulleted-list"><li style="list-style-type:disc">Clean your desk the day before so you there are no distractions when you sit down to write</li></ul><h2 id="39083f4e-346c-46d0-9645-d7433b386c93" class="">The 3 Pillars of Productivity</h2><p id="41f82559-51ac-489f-8b8b-b7a68119ba12" class="">Time, Energy, and Attention are the three currencies you <em>MUST</em> master if you want to reach your full potential. Just like a stool, you must have all 3 three legs to offer proper support. If even one of these is a little bit wobbly, you’re in danger of falling on your face. In other words, Time, Energy, and Attention are the <em>3 Pillars of Productivity</em>.</p><figure id="12ad580a-e8a0-4a1a-9d4b-886586037eae" class="image"><a href="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/3-pillars.png"><img style="width:700px" src="TEA%EF%BC%9A%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E6%BD%9C%E5%8A%9B%E6%89%80%E9%9C%80%E7%9A%84%203%20%E5%A4%A7%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%94%AF%E6%9F%B1%206027e58f16b74faabed5215696cb8947/3-pillars.png"/></a></figure><p id="3c60a363-caaa-4b36-b7d3-bfa423698753" class="">Let’s break these down one by one.</p><h2 id="c9ed82b6-1e7b-4337-a183-6b8d8818a6c2" class="">Pillar 1: Time</h2><p id="3ba4aa05-26aa-4f25-a0af-50e48481db49" class="">The first pillar of productivity is <em>Time</em>. This is where most people start on their productivity journey because it’s one of the most obvious signs that something is wrong (“I don’t have enough time”). Time is about creating margin by manipulating the systems in your life to make them as efficient as possible.</p><p id="0cfadd6b-5aab-45af-a0e4-7eac287f5e51" class="">There are 3 components to time: <em>Systems</em>, <em>Strategies</em>, and <em>People</em>.</p><p id="7bff3ba3-d9fe-4ffb-80c5-9c16f39d3c4a" class="">Systems are everywhere. In fact, our lives are comprised of a series of independent and interdependent systems. Understanding how these systems work allows you to manipulate the systems to produce the desired results.</p><p id="ad2a6007-cb03-4875-a20b-fd3de26421d7" class="">Here are some resources where we talk about specific systems in greater detail:</p><h3 id="cfcea34b-a152-49e0-911c-b9fb6d3f08c7" class="">Strategies</h3><p id="3f8784a9-ea5b-494d-bd49-226168752cf9" class="">Strategies are like maps you can use to navigate through the busyness of your day. These simple frameworks allow you to navigate difficult situations with ease and keep your day from getting thrown off track. If you know that something frequently gets you off track (i.e. dealing with email), that’s a strong indication that a good strategy (like the AE email workflow) is required.</p><p id="7868224e-b574-449d-b078-8d68728630e8" class="">Here are a couple of blog posts and podcast episodes where we discuss specific productivity strategies:</p><h3 id="f8f5e002-7429-4a7a-9949-2f02a8ba474c" class="">People</h3><p id="b82bba8b-bb13-45e7-b9c7-03609cedeb4a" class="">It’s one thing to figure out the strategies and systems that allow <em>you</em> to work efficiently, but it’s quite another when you work as part of a team. Working effectively with other people bring another set of challenges, like communication, delegation, and working together as a team. You oftentimes need to be able to work effectively with people and have the right expectations so it allows you to be productive.</p><p id="1e43d482-1604-4e48-b968-1d55f473a55e" class="">Here are a couple of additional resources for help in you deal with people productively:</p><p id="2a135c53-861f-4935-bf9b-631b3988ed7d" class="">For a more detailed post on how to create more time in your day, <a href="https://www.asianefficiency.com/productivity/tea-framework-making-time/">check out this post</a>.</p><h2 id="e27d3dd4-6227-47c6-a0e2-4197e4200013" class="">Pillar 2: Energy</h2><p id="804755ca-85d9-438a-a56d-a3e7658d18c0" class="">The second pillar of productivity is <em>Energy</em>. You may have the time to do your work, but if you don’t have energy then you won’t be able to follow through and take action on your important projects. Energy is about managing and increasing your energy so that you can overcome procrastination and achieve your goals with consistent action.</p><p id="06c6914e-5855-438a-b8e8-a4242652fe0b" class="">There are 3 components to energy: <em>Sleep</em>, <em>Rituals</em>, and <em>Motivation</em>.</p><p id="c75ed6c5-eeaf-487b-9091-1e27aa090f5e" class="">Here are a couple additional resources if you want to dive deeper on the topic of sleep:</p><h3 id="6a004fed-f0cd-4a6d-8f46-138e475cf9fc" class="">Rituals</h3><p id="956aad7e-8fb9-4c88-a960-a2cd2f434156" class="">Here are some additional resources if you want to dive deeper on the topic of habits and rituals.</p><h3 id="54b27e14-9cf9-45d7-b5f4-34d77ccb24a9" class="">Motivation</h3><p id="8fe4cfce-7765-450c-927e-7e962e3282ab" class="">Here are some blog posts and podcast episodes if you want to learn more about motivation:</p><p id="226a1c51-498c-4bd1-acab-80b486378ffb" class="">For more specific details to improve your energy, <a href="https://www.asianefficiency.com/productivity/increase-energy-productivity-breakthrough/">read this detailed post</a>.</p><h2 id="2736b47b-a29b-4583-a426-5497df0afc9c" class="">Pillar 3: Attention</h2><p id="5f6f1f7f-b969-4c1d-97c1-41bdcf2fd5df" class="">The third pillar of productivity is <em>Attention</em>. If you set aside time to work on your important project and have the energy to do so, you still won’t get much done if you don’t manage your attention and are constantly being distracted. You must be able to not only select the right tasks to work on, but also eliminate distractions and interruption so you can get them done. Attention is about working on what matters and staying on course as you create your ideal future.</p><p id="7df803bd-5022-4b78-a701-a01ae30f0a6c" class="">There are 3 components to attention: <em>Focus</em>, <em>Goals</em>, and <em>Mindsets</em>.</p><p id="892bd7b3-c484-4d56-8a92-3871135c6d00" class="">Here are some additional resources to help you develop your focus muscle:</p><h3 id="ceb1c010-57c9-498e-8e4f-a1aaf0aaa9c9" class="">Goals</h3><p id="72801dac-e0cc-41fe-83d1-0c0eeb28e989" class="">Here are some blog posts and podcast episodes to help you when it comes to setting and achieving goals:</p><h3 id="cbea4e41-864b-4d49-ab6f-0d75b63cb359" class="">Mindsets</h3><p id="86901083-ab12-4703-9a56-0767a7ef0ca4" class="">Here are some additional resources to help you develop the right mindsets to maximize your productivity</p><p id="f7af18f2-f414-431b-81a6-6579c12d7175" class="">For more specific details to improve your Attention, <a href="https://www.asianefficiency.com/productivity/stop-others-hijacking-attention-will-achieve-goals-tea-framework/">read this detailed post</a>.</p><h2 id="777df746-8184-41e7-8781-0dac6fa3f1fa" class="">Where Do I Start?</h2><p id="0f4c721d-495d-4507-b315-5463665aa665" class="">Everyone who comes to Asian Efficiency for help is unique, but every productivity problem we help people solve can be traced back to one of these three areas:</p><p id="71410b75-9d5c-43f5-8885-bd9df9e98573" class="">Here are a couple tips to help you get started on addressing your own productivity problems so you can achieve your full potential and create your ideal future:</p><ol type="1" id="0284f2dc-04fb-4039-9713-0f86e57cd4c2" class="numbered-list" start="1"><li>If you’re brand new to Asian Efficiency, the place to start is probably <em>Time</em>. If you don’t have time to do the things that will get you to your ideal future, it doesn’t matter how much energy and attention you have. <a href="https://www.asianefficiency.com/productivity/tea-framework-making-time/">We have a more detailed post on Time right here</a>.</li></ol><ol type="1" id="2a31aae8-c2be-4740-bb38-a9dcb30017ba" class="numbered-list" start="2"><li>If you have time but still aren’t happy with your results, look to improve your <em>Energy</em>. Once you have the time to do the things that will create your ideal future, you’ll need to manage your energy well in order to take action. <a href="https://www.asianefficiency.com/productivity/increase-energy-productivity-breakthrough/">Read this post on how to improve your Energy</a>.</li></ol><ol type="1" id="15142d02-837c-4b33-a694-16497acaaad5" class="numbered-list" start="3"><li>Once you have time and energy working for you, <a href="https://www.asianefficiency.com/productivity/stop-others-hijacking-attention-will-achieve-goals-tea-framework/">look to improve your attention</a>. Being able to focus that energy in a specific direction will allow you to build consistency and momentum.</li></ol><p id="f288f8a1-1693-44df-b97c-d9b2b089e2ae" class="">And if you want a little more personalized help to escape overwhelm and get unstuck, <a href="https://asianefficiency.com/quiz">take a few minutes to complete our Productivity Quiz</a>. In just a couple of minutes of your time, we can help you identify the major obstacles that preventing you from reaching your full potential and give you personalized tips and strategies to help you get unstuck and on your way towards attaining your ideal future.</p><p id="89d11b85-5fc2-4cc9-bf43-ae4558309d14" class="">Do you want to know how to set up your workplace and your computer to get more done? Are you interested to know how you can structure your ideal day and build routines? If you answered yes to both or even just one, then join our FREE TRAINING by <a href="https://asianefficiencygo.com/pah-webinar-registration/">clicking this link</a>. It is absolutely 100% free.</p></div></article></body></html>

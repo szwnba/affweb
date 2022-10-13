@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>阻止拖延的一种习惯</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="a3c3689a-202e-4c11-8de0-3aad7a3467f2" class="page sans"><header><h1 class="page-title">阻止拖延的一种习惯</h1></header><div class="page-body"><p id="4ef41d51-e07d-4d27-85d2-e9237d08586c" class="block-color-gray"><a href="https://www.asianefficiency.com/habits/stop-procrastination-by-clearing-to-neutral/">https://www.asianefficiency.com/habits/stop-procrastination-by-clearing-to-neutral/</a></p><p id="1d668ccb-3dc8-45dc-a95a-4330bfa4e149" class="">
+</p><figure id="3fc60374-5709-415b-96a4-b412fd7d6090" class="image"><a href="%E9%98%BB%E6%AD%A2%E6%8B%96%E5%BB%B6%E7%9A%84%E4%B8%80%E7%A7%8D%E4%B9%A0%E6%83%AF%20a3c3689a202e4c118de03aad7a3467f2/ctn-header.jpg"><img style="width:700px" src="%E9%98%BB%E6%AD%A2%E6%8B%96%E5%BB%B6%E7%9A%84%E4%B8%80%E7%A7%8D%E4%B9%A0%E6%83%AF%20a3c3689a202e4c118de03aad7a3467f2/ctn-header.jpg"/></a></figure><p id="6bc88bb9-68ee-4359-bfbe-ff668c9a2bd3" class="">So what are you waiting for?</p><p id="9b99ded1-6d75-4901-b707-5bf5f6816399" class="">It is a good question to ask yourself about your goals, priorities, and most important tasks. Have you ever reached the end of the day and asked yourself, “What did I really get done today?” You may have everything you need to accomplish your goals, yet you still fight to find your focus. One of the causes for this is procrastination. It is one of the most common productivity traps. Sometimes this happens even if you have been busy. Some days it is much easier to do things that just use your time instead of finishing your most important tasks. In this article we are going to tell you how to stop procrastinating.</p><h2 id="e39cc2ca-e9ae-4b84-8e23-2450a90db54d" class="">What is procrastination?</h2><p id="9d48d630-17c8-402c-9f32-21a2cca11a5b" class="">Procrastination is when you delay or postpone something. It is the invisible force between what you intend to do and taking action on it. When you know what you need to get done, but you lack the focus to make it happen. It is easier to plan something than to actually do it.</p><h3 id="d0e950e5-8375-498f-816e-42753e82b1cc" class="">Procrastination is the Friction Between You and Your Goals</h3><p id="afbd4d23-994a-4368-b062-724073d9b373" class="">The most effective way to stop procrastinating is to remove friction between you and your most important tasks.</p><p id="9fe6a0f2-b551-4082-a962-91c35ae9ecc7" class="">Friction is procrastination’s best friend. Think of friction as a hurdle that stops you from doing something immediately. Let’s say that you want to add drinking of water immediately after waking up as part of your morning ritual. But every time you wake up, you end up checking your phone first because it’s right beside your bed and you still need to get up and go to the kitchen just to get water. The friction point in that example is that the water is not readily available.</p><p id="a79fae42-4288-4fc9-8f47-32ac48e779bb" class="">Sounds simple enough, right? But if you think about all the time you procrastinated on your goals and the panic that ensues to make sure you finish some tasks, it stops being a simple issue. When you procrastinate daily, your todo list also stacks up. We all do not like a never-ending to-do list but when you procrastinate, it’s inevitable.</p><p id="5713eabe-9dff-4768-b183-e0b44cbec45c" class="">Just think of the last time you procrastinated. Why did you put it off? Where was the friction point? Chances are it falls in one of these three buckets:</p><h3 id="93e8f96d-d669-472d-a62b-bc6b8ac90058" class="">The Three Buckets of Procrastination</h3><figure id="539d8b49-0e3c-4ddf-a125-0d48a61786f3" class="image"><a href="%E9%98%BB%E6%AD%A2%E6%8B%96%E5%BB%B6%E7%9A%84%E4%B8%80%E7%A7%8D%E4%B9%A0%E6%83%AF%20a3c3689a202e4c118de03aad7a3467f2/buckets-500x334.jpg"><img style="width:500px" src="%E9%98%BB%E6%AD%A2%E6%8B%96%E5%BB%B6%E7%9A%84%E4%B8%80%E7%A7%8D%E4%B9%A0%E6%83%AF%20a3c3689a202e4c118de03aad7a3467f2/buckets-500x334.jpg"/></a></figure><ol type="1" id="9128ae42-858c-41e4-9757-6882f5fde118" class="numbered-list" start="1"><li>Getting to clarity about the outcome you’re hoping to achieve</li></ol><ol type="1" id="c07fc67b-07f2-423d-9b68-8656d7f72d63" class="numbered-list" start="2"><li>Getting started on a task (even though you know exactly what to do)</li></ol><ol type="1" id="934b35c1-dace-4403-8da2-3788dcf47d47" class="numbered-list" start="3"><li>Lack of energy and willpower to do anything (especially if it seems challenging)</li></ol><p id="c29dfc22-c3b4-4bfc-b394-5eaa00836836" class="">After working with so many people on their procrastination challenges, <a href="https://www.asianefficiency.com/podcast/167-procrastination/">we’ve identified that most procrastination challenges</a> fall into one of three buckets. And in my experience, the first one is the most common pitfall. At Asian Efficiency, we’ve helped more than 15 thousand of our customers and readers get clarity on what they want to achieve. Having clarity helped them stop procrastinating and actually get stuff done. Let’s face it. You should not be sacrificing what’s important to you because you end up procrastinating all the time end up not get anything done.</p><p id="6e08d178-c91b-4149-bffe-2bd4481df6e0" class="">When you don’t have clarity about the outcome, it’s easy to put things off until the last minute. To put it in other words: if you are motivated about achieving a goal and you know all the benefits of achieving that goal, you’re more likely to get started.</p><h2 id="9f58a15c-2b0b-408f-9880-71b0fbda69ea" class="">Clarity For Long Term Goals</h2><p id="1d58d20f-f1cb-433d-9878-f37b8c2f4027" class="">Most people who procrastinate never get to clarity. We address this extensively in our paid online courses (<a href="https://shop.asianefficiency.com/dojo/">especially in the Dojo, the biggest productivity training library on the market</a>), but today we will cover all the other ways people procrastinate, and what you can do about it. Even when you have clarity, we still procrastinate for various reasons.</p><p id="fbbd12a1-ebf7-46bb-9fc1-6dc85c97d146" class="">No matter how motivated I am to grow Asian Efficiency and how acutely aware I am of all the benefits that come with that, there are days when I wake up and don’t feel like putting in the work.</p><p id="b48256cc-548e-44ef-9814-70bf4b522b57" class="">We all have these kinds of days. What do you then?</p><p id="d9eae58d-6c75-45a1-924d-bd2ffad5fa6a" class=""><strong>Eliminate every friction point you have in your life.</strong></p><p id="446b7b97-aeb1-4575-b5d1-30b9830d8bc2" class="">A lot of procrastination techniques we teach in <a href="https://shop.asianefficiency.com/dojo/">our paid courses</a> address friction points. When you remove common friction points it becomes easy to get started on things you need to do.</p><p id="45dc5ba4-eb6c-45ab-8bae-fbf0f072691e" class="">In fact, we teach all of our clients one specific habit that will eliminate most of the friction points in your life. We call it <strong>Clearing To Neutral</strong>.</p><p id="be9123dd-6870-42e8-8777-c6b1b6afe1b7" class=""><strong>Sidenote:</strong> <em>When other productivity experts join the AE team, this is one of the first things I teach them. Not only is it one of the core concepts AE is known for, but I also want them to be able to implement it themselves and get all the benefits from it. As we like to say, happy people are productive people.</em></p><h2 id="15062bbc-b3bb-4788-ad9d-00df6823d024" class="">What is Clearing To Neutral?</h2><p id="673227df-208c-4841-bd6d-af0002e4e414" class="">The idea is very simple: how can you make your life easy for “future you” to get started?</p><p id="ab7a9aed-0614-4e03-82b2-3e34ca5dba84" class="">In restaurants, the process of cleaning the grill is very important. It ensures the grill will last longer, the food will taste better, and you prevent any bacteria from growing. Before the restaurant closes, the people in the kitchen always clean the grill so the next day when they come in it is ready for use.</p><p id="10e2edda-6ce0-43fc-8976-ef61e59a3a91" class="">Imagine for a moment that you’re the chef. You come in, highly motivated to cook delicious dishes for your guests. As soon as you step into the kitchen, you see pots and pans laying on the floor. There are dirty dishes in the sink. The grill is covered in grease and the place smells like rotten eggs.</p><p id="e5a77d31-1626-4872-97c2-1f96d433ba9e" class="">Would you still be motivated to cook for your guests?</p><p id="c7567b94-2671-488b-93f6-75741b6dd0a3" class="">At this point, you lost all your <a href="https://www.asianefficiency.com/motivation/eliminating-motivation-doing-the-right-thing/">desire to do anything</a>. Before you can get to your specialty (cooking), you have to mop the floors, wash the dishes, inspect food twice to make sure it’s not expired, and clean the grill. By the time you’re done, you have no more energy left to cook and get in your zone of genius.</p><p id="eb2afd2c-ca26-43e1-8adb-aaa61d42f07f" class="">That’s how sometimes our lives are:</p><ul id="2aaeed54-f84e-4a17-85ff-8432f386416e" class="bulleted-list"><li style="list-style-type:disc">Before we can write our book, we’re so disorganized with our notes, papers and digital files that we get frustrated and in a bad mood by the time we sit down to write.</li></ul><ul id="0c9607b7-dacc-4f8e-9608-8ea677c11d60" class="bulleted-list"><li style="list-style-type:disc">When you walk into your office, you have to clear your desk, put stuff in different places, shred papers, and only then are you ready to open your computer to start work.</li></ul><ul id="ec8c616c-2dfa-488d-a254-ad84b22bb87b" class="bulleted-list"><li style="list-style-type:disc">When you open your laptop you see your browser with 34 tabs open, a Youtube video that’s resuming play, and 12 notifications coming up on the sidebar. Now you’re triggered and distracted, and your plan to sit down to do your weekly review is now in jeopardy.</li></ul><p id="78ae6353-8145-46ee-815e-6891d982f413" class="">Can you see how easy it is to procrastinate?</p><p id="59dc488d-7172-4d04-988b-30fe7f55cc66" class="">When you have so much friction before you get to do the actual thing you wanted to do in the first place, it’s no wonder people procrastinate.</p><h3 id="1f574206-9182-47de-a876-98424051a67b" class="">Clearing to Neutral Will Help You Stop Procrastinating</h3><p id="9f0adced-3e36-44c9-a3dc-e61577d11bc1" class="">With Clearing to Neutral, a habit we introduced to the world back in 2012 that changed the game, you eliminate the initial friction.</p><p id="59cb4677-5589-41d7-8920-30a92a6302d2" class="">The reason we call it CTN is because whenever you finish an activity, you need to clear everything so it is in a neutral position. When something is neutral, it’s ready to be used right away.</p><p id="ce17b6e8-8758-4b0c-81a7-5ec4c17045f2" class="">Finish brushing your teeth? Put the toothbrush in its place so it’s ready for next time.</p><p id="1ab94122-8e3e-4c0b-8fe0-086422caa2d6" class="">As you wrap up your writing, close all browser tabs and apps on your computer.</p><p id="447bdccf-c3bd-430c-af2c-71c70f8b1e5f" class="">When you finish cooking, clean the grill, pots, and pans so they are ready for use next time.</p><p id="4265ca67-c387-4cf0-a597-181d523a08a9" class="">This is why the habit of Clearing To Neutral is so important: <strong>it prevents you from procrastinating in the future</strong>. By making sure you set everything up for “future you,” <a href="https://www.asianefficiency.com/mindsets/inevitability-mindset/">you make it easy for “future you” to hit the ground running</a>. There’s no friction to getting started (which is why most of us procrastinate).</p><h3 id="a0423985-ebc3-4d0a-b16a-dc5656833c8e" class="">3 Phases of Taking Action</h3><p id="686c4003-c905-45fa-a270-e5cc2e6d76d8" class=""><em>For my fellow systems thinkers, here’s another way to think about it: everything has 3 phases.</em></p><ol type="1" id="553b81f8-4afe-4cc3-8807-b58d85e75eed" class="numbered-list" start="1"><li><em>A setup phase</em></li></ol><ol type="1" id="9b0fb0ef-52d1-431b-b21f-e90280d94d49" class="numbered-list" start="2"><li><em>An execution phase</em></li></ol><ol type="1" id="56fee83b-f06f-463e-82c7-0c8757e5e4b0" class="numbered-list" start="3"><li><em>A reset phase</em></li></ol><p id="7c7d88e3-53da-4e38-b8a7-2631b4d1ab49" class=""><em>As we always talk about at AE, everything in life is a system. Most of us have the initial two phases figured out but miss the third one. That’s really what Clearing To Neutral introduces.</em></p><p id="ad44b8fb-8f00-466c-9369-1614ab9d8455" class="">We recommend you introduce a Clearing To Neutral habit on top of every habit you have. This is an easy place to start.</p><h3 id="ddd02b4d-ea01-40d3-bd44-949d8fc5c6e0" class="">3 Every Day Examples for Clearing to Neutral</h3><ul id="568b9b8e-1e93-4c73-bb5e-108e65566049" class="bulleted-list"><li style="list-style-type:disc">After you’re done with your morning ritual, Clear To Neutral by setting everything up for tomorrow.</li></ul><ul id="bd5ee3c5-95ad-48aa-b128-bb86ecc30cf4" class="bulleted-list"><li style="list-style-type:disc">Before you leave the office, Clear To Neutral your desk, computer and any inboxes you have.</li></ul><ul id="283d45d2-59c1-4cfc-8d4a-72dffcad0b78" class="bulleted-list"><li style="list-style-type:disc">Anytime you’re about to get away from your computer, Clear To Neutral by closing all apps and browser tabs.</li></ul><p id="4f837ff9-0788-45ea-950a-0a7ff88216c1" class="">Virtually any habit you have will benefit from having a CTN action added at the end. Just think about your future self. How can you make it easy for future YOU to stop procrastinating?</p><h2 id="701ac81b-e49c-4957-abb1-6dbc159f642d" class="">Taking Action</h2><p id="c25d8a08-4a1c-401f-a7e9-5ec9ebcfcfad" class="">Here’s how we recommend you start:</p><ol type="1" id="9512a9c2-f897-4968-8849-e720c80e71e3" class="numbered-list" start="1"><li>Write down 3 rituals that first come to mind.</li></ol><ol type="1" id="2cf33e9d-62cb-41ba-a3a3-3dc1843523e4" class="numbered-list" start="2"><li>Ask yourself for each ritual: “what can I do at the end of this ritual to make it easy for my “future self” to implement the ritual?”</li></ol><ol type="1" id="ef963fd9-cca8-449e-bbe5-a720e7e34593" class="numbered-list" start="3"><li>Add this to your newly updated ritual.</li></ol><p id="2f021109-0c35-492a-86b7-5ab0d1e7b3bd" class="">The last thing I’d like you to do is to close all your browser tabs and clear your desk before you call it a day. I know, it sounds so simple, but please do it today. Your future self will thank me tomorrow.</p><p id="471af91b-0a54-4def-9375-f756c0b67c79" class="">Double your productivity and free up 5-8 hours a week when you get our proven productivity system<strong>.</strong></p></div></article></body></html>

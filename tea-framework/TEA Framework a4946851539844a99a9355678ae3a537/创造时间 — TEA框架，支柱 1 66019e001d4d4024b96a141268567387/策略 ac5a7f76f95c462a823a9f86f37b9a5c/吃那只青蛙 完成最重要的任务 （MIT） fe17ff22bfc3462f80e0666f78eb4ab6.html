@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>吃那只青蛙 |完成最重要的任务 （MIT）</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="fe17ff22-bfc3-462f-80e0-666f78eb4ab6" class="page sans"><header><h1 class="page-title">吃那只青蛙 |完成最重要的任务 （MIT）</h1></header><div class="page-body"><p id="317ada05-a4d1-452b-9e10-0af9be2f01b9" class="block-color-gray"><a href="https://www.asianefficiency.com/habits/eat-that-frog-most-important-tasks/">https://www.asianefficiency.com/habits/eat-that-frog-most-important-tasks/</a></p><p id="76a2b0bc-6204-4bec-afbb-3891f0147728" class="">
+</p><figure id="63e1f24f-432e-43ed-837e-f9efbc53770a" class="image"><a href="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/david-clode-DCelW4ytxfM-unsplash-500x384.jpg"><img style="width:500px" src="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/david-clode-DCelW4ytxfM-unsplash-500x384.jpg"/></a></figure><p id="9e2f4a75-85ec-491e-a36a-fe96a7aad4f0" class="">Successful people have a strong bias towards action.</p><p id="5c953070-0b02-466c-8775-762bd04ab95d" class="">The strong motivation to stop procrastinating and get something done is key to achieving high-performance levels and consistently being productive (in life and business). You know you should be working on your most important task, but learning how to recognize it and focus on it is a skill you must develop. In this article, we will share the critical success factors you need to identify your most important task and finish it every day.</p><h2 id="88a10906-1de1-489e-9300-0ef7cba45578" class="">Eat That Frog</h2><p id="a74f68bc-69b1-4155-a309-5a4717e27dd9" class="">Asian Efficiency founder, Thanh Pham, is often asked what his number one productivity tip is. What is the one thing you can do that can transform your productivity? His answer is, “Eat that frog.”</p><p id="b160a5f0-3e37-4682-974d-7393436d2739" class="">He bases his response on a simple but powerful principle attributed to author and speaker Brian Tracey (founder of Brian Tracy International). Brian wrote a book about that we highly recommend, <a href="https://www.asianefficiency.com/likes/eat-that-frog-kindle/"><em>Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time</em></a><em>.</em></p><p id="4e2abdc6-40f0-4dd2-ab58-b1afce4ea31f" class="">A quote attributed to Mark Twain inspired the name.</p><blockquote id="a690eb71-31a6-46e4-81a5-9ace563a69a7" class="">“Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.”</blockquote><h3 id="2b4bf2a8-5313-4366-9595-316ff8ecd298" class="">So, What is a “frog”?</h3><p id="2c9c2d4d-2551-42ea-b659-838e2e21b818" class="">The “frog” is the most important item on your to-do list. It is the one thing you can do right now that is the <a href="https://www.asianefficiency.com/podcast/219-tea-framework-time/">best use of your time</a>. It is something that checks all of the boxes of importance, high-priority, and high-value. So why does Brian Tracy refer to it as a frog? The answer is that some things are easier said than done. Time management and personal productivity require you to do more than make a list of everything you need to do.</p><p id="32c347e0-212a-4630-90e4-cbc98d21d03d" class=""><strong>First, you may not know how to identify your frog.</strong> Frogs are good at hiding in a disorganized to-do list. Without clear goals and well-defined priorities, the frog is just another task waiting to be done someday.</p><p id="ba60879a-bd13-496f-9f1e-646f7c53741c" class=""><strong>Second, you have to overcome distractions and procrastination to get more done.</strong> It is easy to stay busy doing good things that steal your time, attention, and energy from eat that frog goal.</p><p id="dbc57103-3dfc-43cd-b22b-65ab2421f57f" class="">Frogs may be hard to eat, but they also have the potential to have the greatest positive impact on your life and work. Fortunately, you can take some practical steps successfully eat that frog on a consistent basis.</p><h2 id="13cee610-e6d6-47c0-8bbb-0f1caf858265" class="">1. How to Find Your Frog</h2><p id="44fbb7b9-f569-4d5e-808e-bee9e4760c90" class="">Before you eat that frog, you first have to find it.</p><h3 id="e30a1908-f4e8-43b5-9939-79c7d983015f" class=""><strong>Aim at the right target</strong></h3><p id="445972b1-1064-47be-bc19-05d34e8cc051" class=""><a href="https://www.independent.co.uk/sport/olympics/shot-at-wrong-target-costs-rifleman-gold-587595.html">Matthew Emmons</a> is an Olympic gold-medalist sharpshooter. He was considered to be the best in the world in his discipline when he entered the 2004 Olympic Games in Athens, Greece. In fact, he won the gold medal in his first event. Emmons was expected to win a second gold medal, but a tragic error in the final round of competition cost him the victory. He aimed at the wrong target.</p><p id="32671aa3-5004-4980-b69c-d0dc675aafa6" class="">Your to-do list is full of targets. There are more things to do than can be done. To be successful, you have to aim at the right target. You have to find your frog.</p><p id="e14feefe-c797-4005-8b82-dd2b2fb7fae2" class="">The problem for most people is a lack of clarity. Author Brian Tracy says, “clarity is perhaps the most important concept in personal productivity.” To eat that frog, you need a clear to-do list that is <a href="https://www.asianefficiency.com/productivity/prioritize-todo-list/">organized according to your highest prioritie</a>s based on your most important goals.</p><h3 id="760aadf4-f7fa-4666-a206-37a8c484a5b6" class=""><strong>1. Get clear on your goals.</strong></h3><p id="c059093c-79c6-4153-99ee-ab2ba3af3f50" class="">Step 1 “Set the Table.” If you want to eat that frog, you need to know exactly what you want to accomplish.</p><p id="23d7874c-be77-4d9d-9e8a-6b88771c7402" class="">Most people have too many goals. Every good thing cannot be a goal. In his life changing book, <a href="https://www.asianefficiency.com/likes/good-to-great-book/"><em>Good to Great: Why Some Companies Make the Leap and Others Don’t</em></a>, author Jim Collins said, “Good is the enemy of great.” He continues, “Few people attain great lives, in large part because it is just so easy to settle for a good life.” When you consider every possibility, what are the truly most incredible goals you can have for your life or business? Think of it like mining for gold. You are looking for the few goals that represent the best for your life and business.</p><p id="47045378-7728-4ab6-a888-4a55ba591ed4" class="">When you are looking for ways to stop procrastinating and get more done in less time, it starts with clear goals. Take an inventory of your current goals. Write them down if you have not already done so. Make a list. Then ask yourself which 3-5 are the most important goals.</p><p id="160c4c27-99e7-491b-9b85-5b8dd706a827" class="">Use those goals as a basis for establishing your priorities.</p><h3 id="1b52c4cf-c908-47a0-89f2-a1c7a4c5ceaf" class=""><strong>2. Get clear on your priorities.</strong></h3><figure id="2ad6c71d-d795-45d9-bcd5-298047afe167" class="image"><a href="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/engin-akyurt-K2I4JzgvjEk-unsplash-500x333.jpg"><img style="width:500px" src="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/engin-akyurt-K2I4JzgvjEk-unsplash-500x333.jpg"/></a></figure><p id="0e597fc0-655d-41d4-b0c9-8fb2c45e79e2" class="">Something will be the first thing you do each day.</p><p id="d5662636-8482-4f5c-9938-a88bea2c54da" class="">Brian Tracy recommends following the <a href="https://www.briantracy.com/blog/business-success/the-law-of-forced-efficiency/"><em>Law of Forced Efficiency</em></a> which states:</p><blockquote id="024dcf9e-5d2e-4c65-8a34-a3db9a169e6c" class="">“There is never enough time to do everything, but there is always enough time to do the most important thing.”</blockquote><p id="456c50f1-4471-46bf-95e5-4398c2c34495" class="">Important things are sometimes sacrificed for the sake of urgent things. The principle of Eat That Frog is based on doing the most important task first. Ask yourself, “After my morning routine, what is the first thing I did today?” Was it the most important thing you could have done? Every activity in your day is a choice you make about spending your<a href="https://www.asianefficiency.com/productivity/tea-framework/"> time, attention, and energy</a>. Those are limited resources. The more you use, the less you have. For this reason, it is important to align your activities with your goals and priorities. It is the only way to eat that frog.</p><p id="fbc51124-d9fd-4c42-b937-78852906a2ba" class="">Setting <a href="https://www.asianefficiency.com/productivity/power-priorities/">priorities</a> based on your most important goals is like creating a bridge between your to-do list and your goals. It helps to define the path you need to follow to reach your goals.</p><p id="05f69be1-0773-4d2d-850b-084f2c2c7d25" class="">For example, if your goal is to lose weight, you might have a priority to exercise. If your goal is to own your home, you might have a priority to save money. If your goal is to be an entrepreneur, you might prioritze to network with other business owners.</p><p id="29223ff8-0278-4ef4-9241-eafafe42d388" class="">When you have clarity about your most important goals and highest priorities, you will be in a position to make the right decisions about organizing your daily to-do list.</p><h3 id="c4a8df90-a4dd-4faa-bf6f-643ddf5cfa09" class="">The benefits of setting priorities</h3><ul id="0b29b23f-0550-4ac9-afaf-ea28b9a911dc" class="bulleted-list"><li style="list-style-type:disc">Make better decisions about time management</li></ul><ul id="c8923c4d-b9b9-43cb-9f96-e3f90361e041" class="bulleted-list"><li style="list-style-type:disc">Avoid wasting time on low-value tasks</li></ul><ul id="7b76eb1d-0c12-4e3a-9b35-9f1e3fe791ed" class="bulleted-list"><li style="list-style-type:disc">Helps you overcome procrastination to get more done in less time</li></ul><ul id="b0a5bbcb-a86c-4226-8065-6a52b6b2f2db" class="bulleted-list"><li style="list-style-type:disc">Feel more positive and confident about your work</li></ul><ul id="e31a6cc8-887e-4e67-9597-4146ecfe3a71" class="bulleted-list"><li style="list-style-type:disc">Develops a habit of starting and finishing important tasks</li></ul><ol type="1" id="034f5893-7a5c-4ce9-9bf1-6a03c8980e50" class="numbered-list" start="1"><li><strong>Create Large Chunks of Time.</strong> You need large chunks of time to do your most important work. Another life changing book we recommend for understanding the need to get important things done is <em>Deep Work (Rules for Focused Success in a Distracted World)</em> by Cal Newport</li></ol><ol type="1" id="5ec37197-ee9b-4b41-afc9-5435beaa9b5e" class="numbered-list" start="2"><li><strong>Single Handle Every Task.</strong> When you single handle every task, you increase your personal productivity because you are only touching a task one time. Once you decide on your “eat that frog” task, you start working on it and continue until you finish it. If the task is too large to complete in one session of focused work, consider the option to “slice and dice the task” into smaller more manageable steps.</li></ol><ol type="1" id="ff779721-c4e7-4ae4-8604-84a0a37ba302" class="numbered-list" start="3"><li><strong>Focus Your Attention.</strong> Eliminate as many distractions as possible. Create an environment that allows you to work without interruptions. Turn off the notifications, close your email application, and/or listen to focus music. Do things that increase your ability to concentrate on one thing – eat that frog.</li></ol><ol type="1" id="426e87dd-41a9-4595-bbe4-d44815dda70d" class="numbered-list" start="4"><li><strong>Apply the 80 20 rule. </strong>The Pareto Principle (commonly called the 80 20 rule) states that twenty percent of your activities will account for eighty percent of your results. To make the best use of your time, focus on the those activities that fall within the twenty percent.</li></ol><h3 id="0fb71479-1482-4117-9665-22c6af4bafae" class=""><strong>3. Get clear on your tasks</strong></h3><figure id="8bcf4537-7687-49a7-a734-36483f84819a" class="image"><a href="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/todo-list-500x333.jpg"><img style="width:500px" src="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/todo-list-500x333.jpg"/></a></figure><p id="89037510-7310-489f-8ffe-bdf395ecf844" class="">To be productive, your goals have to be translated into your most important tasks.</p><h3 id="80d24814-4bf7-42db-a98d-51c3d493e0a1" class="">Ask yourself clarifying questions</h3><p id="c3f048f5-05e5-4ccc-98ac-80d64189292f" class="">Brian Tracy recommends asking yourself three clarifying questions to determine what tasks you should be working on each day.</p><ol type="1" id="059cf5cc-b30e-4800-a190-10a95b48e8c2" class="numbered-list" start="1"><li>What are my highest-value activities?</li></ol><ol type="1" id="3a871c0d-6286-4124-9805-b16b9b1fc4ea" class="numbered-list" start="2"><li>What can I and only I do, that if done well, will make a real difference?</li></ol><ol type="1" id="eeac8736-f69e-4fe8-a640-49d6888eb5ac" class="numbered-list" start="3"><li>What is the most valuable use of my time right now?</li></ol><p id="2b05d577-06bf-4847-958e-cd959d6cf13e" class="">Most of the important work you need to do will require large chunks of time to complete. You need to be strategic on how to organize your day for maximum focus and effort on your most important tasks (starting with your “Eat That Frog” number 1 most important task).</p><ul id="caebc98d-1de9-4bfd-832a-eeb7967f857e" class="bulleted-list"><li style="list-style-type:disc"><strong>Schedule blocks of time.</strong> You need time to eat that frog. Use your calendar to set boundaries around your priorities. Schedule blocks of time for doing your most important work.</li></ul><ul id="54bc7b48-c52b-4dd4-8371-aac5aab1fab6" class="bulleted-list"><li style="list-style-type:disc"><strong>Use a time planner.</strong> Use a calendar (analog or digital) that shows you an at-a-glance view of your day. Think about your time the same way as a budget. Choose carefully how you spend your time. When you see your day, ask yourself if you spent your time on your doing your most important work.</li></ul><ul id="49cda0f0-9679-4d2b-bc2c-62ba676fbab6" class="bulleted-list"><li style="list-style-type:disc"><strong>Make every minute count.</strong> Recognize moments during the day that you can leverage for personal productivity that might otherwise be lost. Waiting time can be used to take action.</li></ul><h2 id="2dc32d92-e17c-4992-964d-5b057b404515" class="">2. How to Eat That Frog</h2><p id="52c3b528-f231-4968-9ed7-4b5b9d79fcb2" class="">Once you have a sound system to identify your frog, you need a plan for how to eat it. Here is what we recommend.</p><h3 id="6bf71a0a-0a25-4cd2-bcd6-4cf377832822" class="">1. Plan Every Day in Advance</h3><p id="6d728107-694b-478d-add4-55112f7278b6" class="">Tracy advocates that you plan every day in advance. There is some science to support your subconscious mind working on your list while you sleep. When you wake up the next day, you can start the day in a state of preparedness. As a minimum, your preparation should include the following:</p><ul id="74fef112-7c01-47ec-abb1-76ed1b6bf647" class="bulleted-list"><li style="list-style-type:disc">Identify your eat that frog task for the next morning</li></ul><ul id="9f131aa6-e7d8-4d54-bbfa-85aff07af172" class="bulleted-list"><li style="list-style-type:disc">Write it down</li></ul><ul id="bc22ead5-88fb-4636-84ac-fe05e10fb7db" class="bulleted-list"><li style="list-style-type:disc">Schedule the time on your calendar. You might even title the appointment as “Eat that frog.”</li></ul><h3 id="72f3379f-5561-4802-b6d8-bce916e930d4" class="">2. Focus on Your Most Important Tasks</h3><figure id="e96381f5-160b-49b7-af2f-501db684ea50" class="image"><a href="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/jack-millard-9JeXImRHkl4-unsplash-500x333.jpg"><img style="width:500px" src="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/jack-millard-9JeXImRHkl4-unsplash-500x333.jpg"/></a></figure><blockquote id="8cf7f74f-50eb-45b0-be87-14de366fe311" class="">“All of life is the study of attention; where your attention goes, your life follows.” – Jiddu Krishnamurti</blockquote><p id="9830c164-0398-4143-b29e-2a8fc474fba2" class="">Do you feel pulled in a million directions? It is impossible to give your best if you feel like everyone is always demanding your time and attention. Today, I work from home, but in the past, I had to close the door to my office and put a sign on the door that said (in a nice way) that I cannot be disturbed because I am working on my most important task for today – i.e., eat that frog. It is harder to “close your door” in our digitally connected world, but not impossible. With intentionality, you can create an environment for yourself that promotes the work you need to get done.</p><ul id="3cc1cc1a-1ab9-4653-b3d8-4c21478e9050" class="bulleted-list"><li style="list-style-type:disc">If you use a shared calendar, mark this time as busy or unavailable.</li></ul><ul id="8c4ee85a-7e84-465e-893b-b8050c05ac82" class="bulleted-list"><li style="list-style-type:disc">Consider using the Do Not Disturb setting on your phone to reduce the number of distractions, notifications, and interruptions.</li></ul><ul id="a04222ed-e0d9-4e20-a424-66da94611114" class="bulleted-list"><li style="list-style-type:disc">Use a technique like the <a href="https://www.asianefficiency.com/motivation/pomodoro-technique-ultimate-guide/">Pomodoro</a> to structure a time of focused work</li></ul><ul id="09d539c0-ad71-4a2b-ba83-db792a2ad688" class="bulleted-list"><li style="list-style-type:disc">Apply the <a href="https://www.asianefficiency.com/mindsets/the-pareto-principle-or-8020-rule/">80 20 rule</a> to your daily workflow</li></ul><h3 id="943a5033-c96c-4fed-98cb-dfccc65c00d0" class="">3. Consider the Consequences</h3><p id="83786a00-8283-4de3-af5f-81199b3b2419" class="">The number one enemy of Eat That Frog is procrastination.</p><p id="3fe848db-e7de-4f97-92c5-06a69dd88dd8" class="">According to <a href="https://www.merriam-webster.com/dictionary/procrastinate">Merriam-Webster dictionary</a>, procrastination is to intentionally put off something that should be done. When faced with eating a frog, procrastination is the voice that tempts you to give your time, attention, and energy to something other than your most important task for the day.</p><p id="b5e94f12-5248-450f-983a-8fde00fc2a8d" class=""><strong>Consider the consequences </strong>means think about the results. Based on your decisions for how to spend your time, what will be the positive impact on your life? What are the possible adverse results? If you keep the end in mind, you can make the best use of your time to eat that frog.</p><p id="dae70765-7b4c-44ef-8641-d0ced5de12bc" class=""><strong>Procrastination Trap 1 – Email and Social Media</strong></p><p id="3fe21c72-4ca6-412a-a01e-3ab93aa5345c" class="">How much of your time is being consumed by your digital devices?</p><p id="b656aaa4-5a37-4266-be8c-0f3d576f3bb7" class="">Once you enter one of your social media accounts – Twitter, Facebook, Instagram, or TickTock – it is challenging to overcome the power of the infinite scroll. One thing leads to the next thing without end.</p><p id="1571483e-669d-4f84-9be2-c7a2db23570e" class="">If you need extra accountability to avoid this procrastination trap, an application like <a href="https://freedom.to/">Freedom</a> is a great cross-platform solution. If you have more self discipline, you could try something as simple as turning off your phone while working.</p><p id="7ab193e7-5213-48b5-b57a-bf0f4253d600" class="">Email is even more tricky because you can usually justify email as a work activity. The difference is that responding to email is not how you eat that frog. In his book, Tracy quotes a journalist from <em>Fortune</em> magazine who said, “I realized that, just because somebody sends me an e-mail, it does not mean that they own a piece of my life.”</p><p id="ada18e30-0605-4581-8b95-9e568d3d599d" class="">One strategy that can help you avoid this procrastination trap is to schedule a block of time to respond to email. In fact, a time-bound limitation for email will make you more productive in how you process it.</p><p id="ada0602a-f8f7-4898-a24f-e53f770b38ac" class=""><strong>Procrastination Trap 2 – The small things</strong></p><p id="83280d3e-b803-4bbb-8dd9-4a07ff5bdf2f" class="">Author Brian Tracy warns to resist the temptation to clear up small things before you start (honestly, this is my biggest struggle). All of those little things can add up to more time than you think. They are using your resources of time, energy, and attention that you should use to eat that frog. Resist. Resist. Resist.</p><p id="917630fa-af5f-49f3-9a0a-6be7b2828492" class="">Brian Tracy’s approach is to practice creative procrastination. It is the intentional practice of putting off tasks that are of low value.</p><blockquote id="3f244c5d-cd2b-4951-8aa7-d85d2e9d013b" class="">“Low-value tasks are like rabbits; they multiply continually… Since you must procrastinate anyway, decide today to procrastinate on low-value activities.” — Brian Tracy</blockquote><p id="743ce68e-9a99-40f3-89b0-9f7f671d5884" class="">Successful people carefully choose what to procrastinate. Instead of being distracted, they choose to focus on key tasks that are directly related to their goals and priorities. Nothing distracts them from their mission to eat that frog.</p><h3 id="68b2e18a-e6cf-4552-a67f-e095a4c349c2" class="">4. Start Right Away</h3><figure id="7f950462-2f52-413a-b7c3-71b611b77126" class="image"><a href="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/starting-line-500x334.jpg"><img style="width:500px" src="%E5%90%83%E9%82%A3%E5%8F%AA%E9%9D%92%E8%9B%99%20%E5%AE%8C%E6%88%90%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BB%BB%E5%8A%A1%20%EF%BC%88MIT%EF%BC%89%20fe17ff22bfc3462f80e0666f78eb4ab6/starting-line-500x334.jpg"/></a></figure><p id="79d5c7fa-46f8-4a59-92d4-ba58066cfae2" class="">Always start with the frog.</p><p id="39e91054-308a-465a-90a9-78dcc0112f87" class="">In order to eat a live frog, you have to take the first bite. Just starting make the greatest positive impact on your productivity. Brian Tracy describes this as taking it “one oil barrel at a time.” Tracy relates his experience of crossing the Sahara Desert. It was a dangerous journey that covered 500 miles of nothing but the sun and the sand. More than 1,300 people had perished in the attempt at the time of Tracy’s crossing. They navigated the barren terrain by following a series of fifty-five gallon oil drums that the French had placed every five kilometers to mark the path. Tracy said,</p><blockquote id="2d5efeb3-a053-4109-9e75-f90ea25b600f" class="">All we had to do was steer for the next oil barrel. As a result, we were able to cross the biggest desert in the world by simply taking it “one oil barrel at a time.”</blockquote><p id="f6df1c0a-2870-450b-a834-e7840b1494ba" class="">You can use the same principle to eat that frog every day. You take one bite at a time until it is done.</p><h3 id="d442aff3-20f8-4083-9bbc-35e5db0e50a9" class="">Eat that frog is about action.</h3><p id="ccc0cac0-775f-4937-968d-d4b45ba2a54e" class="">You have to do it. Ask yourself, “What is the next step you can take towards accomplishing your most important task?” If it seems too big, break it down into smaller steps. As a writer, my first steps might include opening my computer, opening <a href="https://www.asianefficiency.com/likes/ulysses/">Ulysses</a> (my favorite writing app), creating a document, placing the title and date at the top of the page, and writing my first 200 words. That is a long way from finishing an article, but it is enough to create momentum. The first bite leads to the second bite. Each small action you take to eat that frog creates the momentum you need for the next one.</p><ol type="1" id="ebb63c8c-a68e-4144-ba89-5014a08a4bfd" class="numbered-list" start="1"><li><strong>Put pressure on yourself to eat that frog</strong>. If you could be as productive all the time as you are those last few days before you go on vacation, imagine how much work you could accomplish. When that happens, it feels like a super power. Really, it is just quality of your focus. You have a sense of urgency and self discipline to work on your stop procrastinating and get your job done.</li></ol><ol type="1" id="7b7c5a9b-ec93-401d-b31f-11563861322f" class="numbered-list" start="2"><li><strong>Motivate yourself into action.</strong> In a perfect world, if a co-worker was facing a challenge, you would say something to encourage them or do something to help them. A positive perspective and an encouraging word make a real difference. Sometimes, you need to be that person for yourself. Believe in your own ability to eat that frog.</li></ol><h2 id="b47beb16-ac4c-482e-88f8-d95ee8c3a5e8" class="">Next Steps</h2><p id="a7cb06a7-2b50-4464-beba-1d92b8d2abf4" class="">Here is how to make it all work starting today.</p><p id="13b7a351-d014-4602-8720-0b7826116308" class="">On a piece of paper or in your favorite task manager, write down one task – only one task – that will be your frog for tomorrow. Don’t worry if you have not mastered all of your goals and priorities yet. You will get better at that each day. For now, just start. Schedule a block of time in the morning to eat that frog. Say no to procrastination and distraction. Keep working until you eat that frog.</p><h3 id="f3c66e22-9334-450a-bc57-0fe35c6e3b5d" class="">5 Steps to Eat That Frog</h3><ol type="1" id="704c84df-260c-42ee-9be8-27beab7ef129" class="numbered-list" start="1"><li>Choose one important task to be your frog for tomorrow</li></ol><ol type="1" id="b2bf777d-2e3c-4c9b-9d60-4c90da1727b7" class="numbered-list" start="2"><li>Write it down</li></ol><ol type="1" id="868b7e8e-e0b8-448d-8425-37eed8fb6ad9" class="numbered-list" start="3"><li>Schedule time to eat that frog</li></ol><ol type="1" id="7068428e-9b7e-4ec2-baf4-6dde5f3d6be7" class="numbered-list" start="4"><li>Resist all distractions</li></ol><ol type="1" id="8f8ccbb9-1e4d-4b6b-b9f2-ae16b9ffd197" class="numbered-list" start="5"><li>Eat your first frog</li></ol><h3 id="51e37850-b1b3-48d1-b39e-a7a46b6ac61c" class="">Invitation</h3><p id="bf7c0ace-3b01-48ec-ac2f-19d2bb82dcf0" class="">Do you want to know how to set up your workplace and your computer to get more done? Are you interested to know how you can structure your ideal day and build routines? If you answered yes to both or even just one, then join our FREE TRAINING by <a href="https://asianefficiencygo.com/pah-webinar-registration/">clicking this link</a>. It is absolutely 100% free.</p><p id="f20b4cfb-54d0-4479-b097-8bcdcf833784" class="">Double your productivity and free up 5-8 hours a week when you get our proven productivity system<strong>.</strong></p></div></article></body></html>

@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>如何处理非生产性日子</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="26a6afb5-8016-4755-aa3c-35e9849f3ebf" class="page sans"><header><h1 class="page-title">如何处理非生产性日子</h1></header><div class="page-body"><p id="ea92bf9b-a133-41b5-a6bd-a6d046661376" class="block-color-gray"><a href="https://www.asianefficiency.com/productivity/how-to-handle-unproductive-days/">https://www.asianefficiency.com/productivity/how-to-handle-unproductive-days/</a></p><p id="3205218b-27fb-473c-a2f5-b6ab5771d95c" class="">
+</p><figure id="b2a691b7-218a-40ba-8e5b-7d38431cba68" class="image"><a href="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/unproductive-days.jpg"><img style="width:640px" src="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/unproductive-days.jpg"/></a></figure><p id="1b87473f-e4ee-4999-a135-6622ea164ca6" class="">Everyone has unproductive days every now and then. This is true even to Asian Efficiency team members. It happens even to the best of us.</p><p id="6a13bc0e-8776-4a80-b06c-c12c2f252ab1" class="">These are the days where nothing seems to go right – your Internet is down, you’re just not motivated, or you find yourself busy doing things but look back at the end of the day and crossed no items off your to-do list. Sometimes you find yourself working on the same task for what seems like the longest time… but it just doesn’t get done. Basically, whatever it is you need to get done just doesn’t get done! Despite all these, don’t throw in the towel just yet.</p><p id="8312cdf0-f1a2-4770-be95-dce1308146dd" class="">There are reasons why these days happen. Let’s look into some of them and how to handle unproductive days.</p><h2 id="e894682a-ebd6-46f0-a303-f2e7ed8be1b0" class="">Summary of an Unproductive Day</h2><ul id="43e01857-1149-4744-a8c0-59519a9685be" class="bulleted-list"><li style="list-style-type:disc">Unproductive days occur because of a number of varied reasons.</li></ul><ul id="76f7e249-6c09-4340-9ad6-dce36c0ccb79" class="bulleted-list"><li style="list-style-type:disc">Unproductive days that aren’t handled can spiral into unproductive weeks, months, years…</li></ul><ul id="5ee7000d-cb01-4373-a03d-4554d6862f78" class="bulleted-list"><li style="list-style-type:disc">Overcoming unproductive days in the short-term is a matter of using certain hacks and quick-fixes.</li></ul><ul id="6d73751e-dc52-448c-a717-28acbd9a392c" class="bulleted-list"><li style="list-style-type:disc">Overcoming unproductive days in the long-term is a matter of uncovering why they occur and addressing the problems at the root.</li></ul><p id="b2f975cd-72ca-4e63-b6da-7c64eed10c4b" class="">A decision tree for unproductive days (click to enlarge).</p><figure id="2117da1b-8d1b-493d-aaf2-87c8cd92856e" class="image"><a href="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/unproductive-days-chart.png"><img style="width:700px" src="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/unproductive-days-chart.png"/></a></figure><h2 id="f010f0a1-14d2-46c9-b8ca-e6df2cb841d8" class="">Why Unproductive Days Happen</h2><p id="0738b275-a309-405f-a772-13ef9d936059" class="">There is a popular idea in the fitness world that 20% of all your exercise sessions will be “bad workouts”. When pressed for elaboration, most trainers and fitness professionals like to explain that if your diet is off, or you didn’t <a href="https://www.asianefficiency.com/productivity/optimize-sleep-maximum-efficiency/">get enough sleep</a>, or if your <a href="https://www.asianefficiency.com/motivation/eliminating-motivation-doing-the-right-thing/">motivation levels are a bit down</a> – then your workout isn’t going to be quite as good as it could be.</p><p id="6d50a8d5-7597-4b0f-9cdf-9c1a382944ae" class="">For work and productivity, we think that 20% is a bit high of a number – that would be at least 1 day every workweek where you just get nothing done. Our estimate places the number at closer to 3-5% – about 1-2 days a month are genuinely unproductive, the rest are either excellent or simply average.</p><p id="2f9b4cf1-539b-419f-b578-ea998e33e6b5" class="">Here’s the difference:</p><ul id="92e00b78-cbd7-462c-a236-309f14405651" class="bulleted-list"><li style="list-style-type:disc"><strong>Excellent.</strong> Everything just works. You set a list of <a href="https://www.asianefficiency.com/productivity/coveys-time-management-quadrant/">high-value tasks</a> and proceed to hammer them out one-by-one until they’re done. Then you go back for more.</li></ul><ul id="59019342-dad9-4f85-ba88-2b838cdc6909" class="bulleted-list"><li style="list-style-type:disc"><strong>Average.</strong> You set <a href="https://www.asianefficiency.com/habits/eat-that-frog-most-important-tasks-morning/">6 tasks in the morning</a> and get through 3 or 4 before calling it a day.</li></ul><ul id="4a15dd1e-c88d-44f7-b095-49a1e0ba71c9" class="bulleted-list"><li style="list-style-type:disc"><strong>Unproductive.</strong> You set your tasks in the morning and start at it. But you get distracted. Or someone distracts you. Before you know it, you’ve been busy all day but it’s already 5pm and none of those tasks have been completed.</li></ul><p id="52c9e47e-6597-44ce-b9e1-c972a206f680" class="">One important idea is that even if you have a bad start to a day, you can correct that using some of the techniques and strategies that will be discussed in this article. This will let you turn what could potentially be an unproductive day into an average or even excellent day.</p><h3 id="fb1f28b4-4b07-4bcc-ac57-cf1e9e315135" class="">9 Reasons for an Unproductive Day</h3><p id="2db53bd4-7faa-402e-b9d9-3813547e4fa2" class="">There are all sorts of reasons why we have unproductive days. Here are the main ones:</p><ol type="1" id="e8e73653-39ca-4c09-89d1-0f1c12f0bbcc" class="numbered-list" start="1"><li><strong>Poor energy management.</strong> If you don’t manage your physical, emotional, and mental energy well, then you can’t be optimally productive – you’ll end up in a state of semi-sleep-semi-alertness which leads to a generally unproductive day.</li></ol><ol type="1" id="3a14bf97-a011-4f2c-97c3-3646dbf67dec" class="numbered-list" start="2"><li><strong>Getting overwhelmed.</strong> Most people’s days get overwhelmed by either too many tasks or too many emails, or a combination of the two. If you feel like you have too many things to juggle at any given time, that’s a sign that you’re headed for a period of un-productivity – unless you do something about it.</li></ol><ol type="1" id="96eafb5f-9a02-4c57-b280-2986df029281" class="numbered-list" start="3"><li><strong>Bad health.</strong> This goes alongside poor energy management. If you don’t eat properly, exercise properly, or <a href="https://store.asianefficiency.com/better-sleep/">sleep properly</a>, it’s really hard to be productive. And if you think that you can ignore signs of degrading health and “just power through”, you are setting yourself up for some major health issues down the line. Also in this category would be people who are just burnt out from too much work, and people who are physically ill (e.g., it’s flu season).</li></ol><ol type="1" id="b9cf8d38-9504-4ebd-8db0-7d2e6c711c71" class="numbered-list" start="4"><li><strong>Constantly playing to weaknesses.</strong> People who either don’t know what their strengths are or are forced to do work that isn’t in alignment with their talents suffer from this. Yes, it can be done, but it takes a toll on our willpower and discipline. A prime example is creative people who find themselves glued up in administrative work all day.</li></ol><ol type="1" id="61c44a78-a44b-416e-9089-a893f634a252" class="numbered-list" start="5"><li><strong>Constant interruptions.</strong> If you are in an environment where you are constantly interrupted by phone, email, co-workers, and messages, it’s going to be hard to be productive.</li></ol><ol type="1" id="989188ec-518c-4f37-aabc-b684618d6c2e" class="numbered-list" start="6"><li><strong>Multitasking.</strong> Enough said. (Find out why you shouldn’t multitask by listening to this <a href="https://www.asianefficiency.com/podcast/212-enemies-mindfulness/">episode 212 of the Productivity Show</a>)</li></ol><ol type="1" id="1d5537ec-1b1b-4819-93c9-e9dee964b6d7" class="numbered-list" start="7"><li><strong>Inability to find flow.</strong> Some people don’t understand very well how to harness flow and use it to their advantage. More here in our article on <a href="https://www.asianefficiency.com/habits/hero-mode/">Hero Mode</a>.</li></ol><ol type="1" id="e1016e60-3ee6-4ffb-911f-2269d671b20c" class="numbered-list" start="8"><li><strong>Depleted willpower, discipline, and fortitude.</strong> All these are finite resources that need to be renewed. We need <a href="https://www.asianefficiency.com/productivity/downtime-and-breaks/">downtime</a> to help us maintain levels of willpower and discipline which make us productive.</li></ol><ol type="1" id="8078a605-81d4-41db-8be2-6afd4c32dbc6" class="numbered-list" start="9"><li><strong>Lack of control.</strong> Sometimes, things happen that simply aren’t within our control – weather phenomena, our Internet connection goes down, a family emergency. We can try to put things in place to prevent these things from happening, but sometimes there really isn’t much we can do.</li></ol><p id="289d9377-36da-43cd-aa12-c43fd112c753" class="">As you can see, there are all sorts of reasons why unproductive days occur. What’s important to remember is that there are solutions to all these things, in both the long-term and short-term form. We’ll look at them shortly.</p><h3 id="8bb5633d-3a8b-4c1a-a723-ce25794e770e" class="">Productivity Timeframes</h3><p id="e2690f00-9f4d-4795-a4cd-6809b4abdc4e" class="">We’ve talked about unproductive days but the reality is that they can often turn into unproductive weeks and months too. Here’s a quick look at different timeframes and why un-productivity can stretch out:</p><ul id="7b19f135-9ea0-4484-b65f-8d5a2ca4b59c" class="bulleted-list"><li style="list-style-type:disc"><strong>Days.</strong> As we mentioned, 1-2 unproductive days per month is pretty normal. In an average week, it’s possible to have 3-4 excellent days followed by 1-2 average ones.</li></ul><ul id="51b12c73-8302-468e-9e52-59fbfe56564e" class="bulleted-list"><li style="list-style-type:disc"><strong>Weeks.</strong> Unproductive weeks occur if you’re either 1) sick (or have poor energy management), or 2) you’re working on a project that just drags on and on and on, and you haven’t taken the time to renew your willpower and concentration.</li></ul><ul id="5f6c386d-80bb-4b61-9716-a11f861a8bac" class="bulleted-list"><li style="list-style-type:disc"><strong>Months.</strong> These really suck, but they do happen, usually in association with really tough work projects or assignments, or a problem in your personal life that is taking up a lot of your time (and a lot of conscious concentration and attention even when you’re not working on it).</li></ul><ul id="2146fd79-9489-445a-817f-c7e09818a642" class="bulleted-list"><li style="list-style-type:disc"><strong>Years.</strong> The only time I’ve seen this is when someone has a debilitating illness, or when the first online role-playing video games came out and university students lost a whole year of their life playing <em>World of Warcraft</em>. A different interpretation of this are people who are stuck in a dead-end career that is going nowhere, but are in so deep that they can’t see what’s happening or that there is a way out.</li></ul><h2 id="4f8846fe-5ba4-44c0-8c54-9affe9c0bdde" class="">How to Get Back on Track</h2><figure id="6d7a5264-30bb-4258-8a80-592b35bcb93e" class="image"><a href="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/true-north-500x352.jpg"><img style="width:500px" src="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/true-north-500x352.jpg"/></a></figure><p id="740dd8cc-75b8-49f8-98a3-88d5f5be9eef" class="">Even the most productive members of our productivity community, <a href="https://asianefficiencygo.com/dojo-2/">The Dojo</a>, experience unproductive days. Let’s look at how to handle unproductive days or unproductive starts to the day.</p><h3 id="10027b97-ffb1-4b40-a3da-316bde576b60" class="">Short Term Solutions and Fixes</h3><p id="79125277-32a6-4405-a801-fe3e3fbdac5d" class="">Here are some short-term hacks and fixes that will help overcome unproductive starts to a day, or help you get through days that are just generally terrible and uninspiring.</p><h3 id="d9b81f05-6041-4b6f-acee-c4fb888b0070" class=""><strong>1. A Better Tomorrow</strong></h3><p id="59efd4af-5738-4b1b-8065-c1f0c95a8f61" class="">It seems obvious, but sometimes it really is just better to wait and do things the next day. Sleep is a fantastic reset for our thoughts, emotions, and other mental faculties. Be sure to give it a little help by setting up your outcomes for tomorrow today, and then putting them out of sight until the next morning.</p><h3 id="66f08745-038a-43f4-948a-b24c6b73e8c5" class=""><strong>2. Procrastination Hacks</strong></h3><p id="7f42fb9b-0631-45f1-98b3-6ed1d8bf4ac5" class="">Procrastination hacks can definitely help in the short-term. The most popular that we recommend are the <a href="https://www.asianefficiency.com/motivation/pomodoro-technique-ultimate-guide/">Pomodoro Technique</a> and <a href="https://www.asianefficiency.com/motivation/solar-flaring-to-overcome-procrastination/">Solar Flaring</a>. Another hack that works for certain people in the money-to-a-friend gambit: give a trusted friend a large-enough amount of money, say $500 or $1,000, on the condition that they only give it back to you when you have completed a specific task.</p><h3 id="4dd5c50f-9a62-4734-a7f5-a1e3833a5878" class=""><strong>3. Productive Mood Anchors</strong></h3><p id="bf804a37-3b37-489a-8bef-4c05b1d37f47" class="">Most people have something that serves as a good “anchor” for their productive moods. We’ve found that it is usually something like coffee or green tea. Personally, I only drink English Breakfast Tea when I’m really focused on a creative task, so for me, it serves as an anchor for being in a productive flow. The right productivity mindset can make a big difference in what gets done today.</p><p id="45f9efb2-17b3-4222-a542-c33dd5cb50c0" class="">A different kind of mood anchor would be good music. Music can be a productivity secret weapon – <a href="https://www.asianefficiency.com/motivation/music-working/">see our article on good working music for more</a>.</p><h3 id="612276ff-7339-4f4f-9876-e028fb2ea920" class=""><strong>4. Switch Type of Tasks</strong></h3><p id="fc5bc7b2-1cf8-4b26-92c0-0529d851d672" class="">If you’ve started doing one type of work and really struggling with it, try switching up to doing something different. For example, if you’re doing creative work but finding it hard to produce words or images, switch over to some “easy” administrative tasks like returning phone calls, checking email, or running some errands.</p><h3 id="08ba79f9-6499-4ac0-9718-8fd40f6ca471" class=""><strong>5. Take a Short Break</strong></h3><p id="72221123-c191-4adf-902e-2256a69bf2e3" class="">We’ve <a href="https://www.asianefficiency.com/productivity/downtime-and-breaks/">talked about this</a> again and again and again, but one of the best (and most counter-intuitive) things you can do to stay focused is to take a short break. Just step outside for some air or a walk and come back in 10-20 minutes with renewed focus. When you take a break, you reset your focus and get back on track for a productive day.</p><h3 id="c985fc27-9cfd-4f08-9b60-a9d0c8bc5409" class=""><strong>6. Take a Nap</strong></h3><p id="442e40c1-8230-4dcf-bd6b-6c4c9e5e5144" class="">Much like taking a short break, but with a higher impact. Keep it short (20-45 minutes), and make sure you don’t drop into deep sleep.</p><h3 id="cb7ce3ac-87f8-4697-b26e-f984182bfbec" class=""><strong>7. Switch Environments</strong></h3><p id="8195ce35-9f74-4b43-98b0-e534a3be054f" class="">Grabbing your laptop and heading to the park, coffee shop, or simply another room or part of the building to work can be a great way to reset your focus and your mood. Sometimes the switch in a contextual environment is enough to jumpstart our brains into a productive state.</p><figure id="133542ae-3b99-4adb-8583-836104582e21" class="image"><a href="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/poolside.jpg"><img style="width:640px" src="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/poolside.jpg"/></a></figure><p id="6620a15b-dcb5-4cd2-b4a9-103a442ef9c4" class="">Jumpstarting my brain poolside.</p><h3 id="8931aff2-b2c5-4f83-9061-68c35fc969d8" class="">Long-Term Solutions and Systemic Fixes</h3><p id="c2dd423a-890c-43bd-95ff-8572f45ae3c5" class="">Now that you have a list of quick ways to get your unproductive funk out and into focus, let’s look at some of the long-term things you can implement to prevent unproductive days from occurring completely.</p><h3 id="73606be8-9528-4327-bf75-d451537c5a0f" class=""><strong>1. Energy Management</strong></h3><p id="48592fbc-8e0e-4064-9520-83921ba40967" class="">Health is the big one. It is the foundation on which all our productivity and everything else we do rests. Simply put – if you ignore your health and wellbeing, you’ll pay the price for it in your ability to do things.</p><p id="e8c31f15-87dd-4a43-ac92-f9bd1af1d27a" class="">Staying in good health involves sleeping well (<a href="https://store.asianefficiency.com/better-sleep/?utm_source=asianefficiency.com&amp;utm_medium=blog-post&amp;utm_term=how-to-handle-unproductive-days&amp;utm_content=in-post&amp;utm_campaign=bs-text">we have a product called Better Sleep about this</a>), it involves exercising appropriately for your lifestyle and physical condition, and it involves learning a bit about nutrition and making better food choices.</p><h3 id="3f17011c-fe68-483f-867e-9c1d6dcfd530" class=""><strong>2. Email Management</strong></h3><p id="e107c541-3f81-46b2-a2c7-b90ac619d1d4" class="">Getting overwhelmed by email is an unfortunate part of today’s work environment. <a href="https://www.asianefficiency.com/email-management/simple-guide-to-managing-your-email/">We have an article about how to systematically address this here</a>, but some simple rules:</p><ul id="90ea7283-b7d0-4247-8283-ea59b2b36dfa" class="bulleted-list"><li style="list-style-type:disc">Don’t check your email the first thing in the morning.</li></ul><ul id="08770e76-48de-4ca3-9e67-1ed643c32ec9" class="bulleted-list"><li style="list-style-type:disc">Turn off email notifications.</li></ul><ul id="1d43d201-5fb8-4b1a-b385-ee538704d4a9" class="bulleted-list"><li style="list-style-type:disc">Check email less rather than more.</li></ul><h3 id="01177946-f971-4cd1-981a-298f57d9696e" class=""><strong>3. Task Management</strong></h3><p id="8f6fc033-aa7e-4658-a22b-be5b3ed7f007" class="">Alongside too much email is too many tasks.</p><p id="212c94be-5ee5-490f-8e50-2f72ba553aaa" class="">The first thing to try is a better system for task management, <a href="https://www.asianefficiency.com/task-management/simple-task-management/">whether it is something simple</a>, or something more industrial-grade like <a href="https://www.asianefficiency.com/omnifocus/">OmniFocus</a>.</p><p id="b633ad68-aa00-4fc0-b602-cf6631123768" class="">If you have a task management system in place that works and you still find yourself overwhelmed, that may be a sign that you are overcommitted across the different areas of your life and need to reassess what is really important to you and why. Set goals and priorities, and plan your day accordingly.</p><h3 id="4fa04890-dd27-49e8-821e-0dd46fb78904" class=""><strong>4. Interruption Management</strong></h3><p id="129fd158-e398-4610-9b49-6392b75caa1e" class="">If you work in an office, establish a very clear door policy for when you can be and can’t be interrupted. Wear earphones and people will magically leave you alone. Put your phone away or at least on silent and out of sight while you are working and turn off email notifications.</p><p id="c016e116-b579-4060-bc29-b51e40156e1d" class="">Use a program like <a href="https://selfcontrolapp.com/">Self Control</a> to block websites you shouldn’t be looking at.</p><h3 id="bb83768e-22ae-47cf-8b19-8fa08d879813" class=""><strong>5. Find Your Flow</strong></h3><p id="68326b97-6955-45a6-aa41-da656fa3fc70" class="">Learn how to <a href="https://www.asianefficiency.com/productivity/6-steps-getting-flow-state-maximizing-productivity/">access flow</a> – your state of peak performance. This is about the right time of day for the right kind of work (<a href="https://www.asianefficiency.com/habits/hero-mode/">see Hero Mode</a>). It’s also about setting up a <a href="https://www.asianefficiency.com/technology/essential-tools-for-a-productive-workspace-environment/">productive working environment</a> that keeps you focused and motivated.</p><h3 id="f32e0bfc-c2ac-4f61-92b0-1d7ebb3631c4" class=""><strong>6. Downtime and Renewal</strong></h3><figure id="35be7fd1-63ac-4c86-a407-bef7d7247872" class="image"><a href="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/downtime-640x427.jpg"><img style="width:640px" src="%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E6%97%A5%E5%AD%90%2026a6afb580164755aa3c35e9849f3ebf/downtime-640x427.jpg"/></a></figure><p id="7cd2b945-6f47-4871-b8e1-da2ed26103ab" class="">Make sure you get enough downtime – you need to both do your work <strong>and</strong> take a break on a daily basis. Take at least 1 day off every week, and make sure on that day the “focus” is something other than work (even if you check your email or do 1-2 hours of work).</p><h3 id="674e9f01-cb67-4fcb-80c0-d8cbd1fc0d02" class=""><strong>7. Play to Your Strengths</strong></h3><p id="fdada979-13eb-4bd6-84eb-682723bc613c" class="">Look at what your highest value activities are based on your skillset and spend most of your time there. This is about <a href="https://www.asianefficiency.com/mindsets/day-3-living-alignment/">aligning your tasks and attention</a>.</p><h2 id="5f70f150-4597-4fe2-b42c-d011861f9a3f" class="">Next Actions For How To Handle An Unproductive Day</h2><ol type="1" id="fa65e523-ad0d-47e0-8b08-3772c0adde7d" class="numbered-list" start="1"><li>Work out why it is you’re having unproductive days – lack of energy, lack of focus, too many tasks…</li></ol><ol type="1" id="9d84e633-88ae-48fa-b31e-15378f7078b3" class="numbered-list" start="2"><li>Really try to identify the root cause, the big reason why your unproductive days are occurring.</li></ol><ol type="1" id="fcd72105-b962-403e-ab07-522c5e8e1496" class="numbered-list" start="3"><li>Start with short-term hacks and fixes to get you through unproductive starts to the day.</li></ol><ol type="1" id="5cc9455c-bd57-4ead-ac0a-9a3653d2b5d9" class="numbered-list" start="4"><li>Implement long-term solutions over time, and watch your number of average and excellent days rise.</li></ol></div></article></body></html>

@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>习惯不起作用的5个原因（以及为什么你需要仪式）</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="b639c672-65ab-4fa1-8c4a-58ec8b2541b4" class="page sans"><header><h1 class="page-title">习惯不起作用的5个原因（以及为什么你需要仪式）</h1></header><div class="page-body"><p id="d49f4697-62d4-42e4-ab49-7cfa4a387c21" class="block-color-gray"><a href="https://www.asianefficiency.com/habits/why-habits-dont-work/">https://www.asianefficiency.com/habits/why-habits-dont-work/</a></p><p id="6fc18e7a-5662-4640-b469-c5efaa100589" class="">
+</p><figure id="7052aec9-134f-4454-ae11-61afb198fced" class="image"><a href="%E4%B9%A0%E6%83%AF%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8%E7%9A%845%E4%B8%AA%E5%8E%9F%E5%9B%A0%EF%BC%88%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E9%9C%80%E8%A6%81%E4%BB%AA%E5%BC%8F%EF%BC%89%20b639c67265ab4fa18c4a58ec8b2541b4/running-shoes-bed.jpg"><img style="width:700px" src="%E4%B9%A0%E6%83%AF%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8%E7%9A%845%E4%B8%AA%E5%8E%9F%E5%9B%A0%EF%BC%88%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E9%9C%80%E8%A6%81%E4%BB%AA%E5%BC%8F%EF%BC%89%20b639c67265ab4fa18c4a58ec8b2541b4/running-shoes-bed.jpg"/></a></figure><p id="09aaca38-bfb3-48d7-bb57-ad1dee57d745" class="">The biggest challenge with habits is making them sticky and keeping them going. We often get excited about starting a new habit, but then that excitement fizzles out after a few days. The best example is having a new year’s resolution. Let’s say you want to make running a weekly habit. You do it religiously for the first couple of weeks and then poof–you stopped. Only 8% of new year’s resolutions are actually successful. If there are one million people who start each year with a resolution, only eighty thousand are able to complete it. That’s a very low count and you don’t want to be part of the other 92%.</p><p id="cb3d36cf-ce1e-43e4-ba41-c6308aacf7ad" class="">So why is it so difficult to start and maintain a habit?</p><p id="925fba33-10c6-474f-8d57-a258e1e8f5a2" class="">It’s not a matter of information. If you just needed more information, you’d have already done it.</p><p id="96234f29-e5ea-41b4-8bad-9f5265f30266" class="">We know that regular exercise is good for us. So why aren’t we doing this?</p><p id="c691487b-5a32-46d9-9272-6dbc6267be6a" class="">How many times have you read that waking up early can help boost your productivity? Why aren’t you doing this?</p><p id="8f33934b-d85c-4d5b-a3b7-24a92eac1697" class="">The answer to this mystery is not so obvious. In fact, it took me YEARS to figure out why I failed at habits.</p><p id="e31f99e3-6e4b-4dc9-9cde-8d58d81eaf0b" class="">If you met me a few years ago, the habits I had were staying up late, waking up late, frantically heading to work and always feeling like I needed to be working even after I came home.</p><p id="52578008-04a0-4542-ba68-c7b152a99663" class="">I was the antithesis of what habits a person should have. No matter what I tried, the good habits never stuck with me for more than a few days.</p><p id="4cffc2cb-71fa-4c89-8b60-610e6f88c637" class="">Then I figured it out why this is. The summary: habits don’t work, but rituals do. I’ll share five reasons why. These are all tried and tested methods of Asian Efficiency that we’ve shared with thousands of our customers as well.</p><h2 id="605285df-e7cf-46e1-9c3f-3d741b750621" class="">1. Habits Are Not Specific Enough</h2><p id="ac6c5254-a83f-4def-86f4-49dd664c9a03" class="">One of the reasons we don’t get started on something is because what we want to do is not specific enough.</p><p id="9b7c759e-5cb3-43c7-9a85-3dc4b0df7467" class="">What would you do if someone said to be confident?</p><p id="73c7704f-a365-4828-94d7-e8865f9c323e" class="">What would you do if someone said to stop procrastinating?</p><p id="41a887d3-5925-4bb5-8e04-384a16e41cd0" class="">What would you do if someone said to be positive?</p><p id="a55d1d74-0def-4883-b414-41dd8e070576" class="">These are all good things to do, but they’re too vague. We logically understand what they mean, but then our brain goes “alright how do I actually do this?” We freeze up. As a result, we don’t do anything and move on.</p><p id="064c73c6-0a1b-4f32-8a67-42a89a71fa94" class="">It’s the same thing with habits. They are vague.</p><p id="a6e99afd-e35c-44d5-b1c7-eaca2cf1a008" class="">If you want to pick up the habit of meditation, what does that mean? Do you need to find a spiritual leader from India and fly him in to guide you through a session? Do you do this by myself or in a group setting? Do you need a special pillow?</p><p id="ba6c5024-b635-4659-b5ed-8dd8a1e835e7" class="">What you need is specificity. That’s why rituals are more effective – they are specific.</p><p id="bfb7a09e-47ec-4d09-a7f7-bfdc9ad9e266" class="">When things are vague, our default action is not to take any action. It’s too hard to get started, which bring me to the next reason habits don’t work.</p><h2 id="bd1379e3-d4c4-4355-823e-49b57d337709" class="">2. Habits Don’t Get You Started</h2><p id="7efbf4b4-a25e-4f91-bb8f-d8de3fb42425" class="">One of the secrets to fighting procrastination is to make the first step so simple that it would be ridiculous to say no.</p><p id="28bc40af-860e-499d-ae66-b696fb7ee31c" class="">Want to go running? Just tying your shoes should be the first step.</p><p id="1034e266-48ce-4ee7-b84c-3ee8927d5ea3" class="">Want to pick up the habit of flossing? Only floss one tooth.</p><p id="aef50c68-f16e-4421-a7e1-27ee3b6c4a53" class="">The challenge we have is that we tend to think too far in advance. When we want to exercise more, we think about the ripped body we want, the compliments we’ll receive and all the extra energy we’ll have.</p><p id="026e58db-94b1-43a8-9ea3-0266def50750" class="">That’s all good grasshopper, but what’s step one?</p><p id="dc1cf687-aa7c-4166-8dba-20b867474611" class="">This is where most people fall off and then never get started. It’s okay to think about the result, as long as you know what step one is. You want step one to be so simple you have no excuse not to do it and no possible reason to reject it.</p><p id="93f896ce-c3de-40dc-a0e2-9b333e9aa137" class="">So when you want to try form a new habit, clarify the first step. That’s why rituals are so powerful and effective – they force you to define what the first step is (and step 2, 3 and so on) and make it easy to get started.</p><p id="0f05c10a-225d-4e93-be3e-6c8dc8435327" class="">Habits come up a lot in <a href="https://shop.asianefficiency.com/dojo/">The Dojo</a>, our productivity community. When someone is struggling to establish a habit or ritual, the first thing the (always extremely helpful) members of the community do is to help break down what the first step is, and then the path forward becomes much clearer.</p><p id="24e3c180-bef6-4fec-b0cb-30b65ba2643b" class=""><a href="https://shop.asianefficiency.com/dojo/">Click here to learn more about The Dojo</a> if you are struggling with your habits or rituals.</p><h2 id="6e7dba3b-be0e-4b5d-931b-0c6e7cc593b1" class="">3. Habits Don’t Address Why You Need This</h2><p id="90a513a5-5b51-4b80-b7bb-51ae79871aff" class="">Do you remember that feeling when you’re excited and pumped to start a new habit?</p><p id="972b269a-2c00-4b45-a10e-d40ed11739e5" class="">That source of motivation is something you can bring up anytime you want. The problem is that we don’t know how to regain it when we want to. Motivation comes and goes. One day we have a full fuel tank of it, other days we’re lucky we have one drop of it.</p><p id="f4e329e0-0e98-4c90-baac-9003fb385018" class="">When we rely on motivation to get started and keep going, we’re setting ourselves up for failure and inconsistent results.</p><p id="a568e84b-860f-4993-a617-cee43e5a9d72" class="">One trick that works to counter this is to figure out your why.</p><p id="9db65b28-65ed-49fb-9a70-679534e37de7" class="">Why do you want to pick up this habit?</p><p id="2e0cee66-5ad1-4dda-a61c-a7c59904e871" class="">This is not an easy question to answer. Your first instinct is to give a superficial answer. Let’s take the exercise habit as an example.</p><p id="693911ae-53fe-4074-b353-322135166919" class="">Why do you want to have the habit of exercising? Common gut responses include:</p><ul id="627f7909-093b-4a40-bada-30f5a3fe8c4d" class="bulleted-list"><li style="list-style-type:disc">“I want to look good in the mirror.”</li></ul><ul id="2cd6d703-318f-4e18-899e-652851d8f3b3" class="bulleted-list"><li style="list-style-type:disc">“I want to fit in my old clothes again.”</li></ul><ul id="6a0e2daf-e3e9-4847-9964-ce0451f16905" class="bulleted-list"><li style="list-style-type:disc">“I want to eat whatever I want and still look good.”</li></ul><p id="53578f1f-ac54-4cad-9b1d-cf16a43b9f0e" class="">Don’t get me wrong; these aren’t bad reasons. Heck, I sometimes tell myself these things in the mirror.</p><p id="4dc73e8d-b59c-4f9e-a129-028424b71cae" class="">But they aren’t effective for maintaining habits. Otherwise, you wouldn’t have had troubles with this habit (or any other habit).</p><p id="e2bb6d7c-8c1d-44a0-bf97-6764a0c7b120" class="">You need to find the real reason, and often that is one or two layers deeper.</p><p id="e6d525bd-55a5-4776-b54d-782e54f62f85" class="">For example, the reason I exercise regularly is that I don’t want to end up like my grandparents who always complain about joint pains. They can’t move around, and they live in pain every day. They can’t enjoy their last part of their lives. I’ve witnessed firsthand how terrible this situation is, and that’s not what I want.</p><p id="871f000b-13e2-41f6-9428-675bfaadf705" class="">That’s my why for my exercise habit. Yours will almost certainly be different. Some answers I’ve heard from private clients include things like:</p><ul id="ec4bbbca-15d7-4b31-b55b-5ac714822ab2" class="bulleted-list"><li style="list-style-type:disc">“I want to have the energy to be around for my kids when they grow up so I can be a good parent. My parents were never around because they worked so hard that they were always tired by the time they had any time for me. I don’t want that for my kids.”</li></ul><ul id="ab00dc5f-15f2-4834-b553-1df11f04f260" class="bulleted-list"><li style="list-style-type:disc">“I feel strong when I exercise. It makes me feel in touch with my masculine identity knowing that I can protect my family and loves ones.”</li></ul><p id="2674ae4a-fd16-469a-90fb-4efe941e6a4e" class="">Whatever your why is for your habit, go beyond the superficial reasons. Write it down and pull it up whenever you don’t feel like keeping up your habit – it’ll fire you back up (if you picked the right why).</p><p id="0769844f-ba5d-473a-956a-b19de182be3b" class="">Every ritual has this naturally built in, and it’s extremely effective. It’s one of the secret sauces that make rituals work.</p><p id="358766a9-d9f2-4b53-a0bb-03d5be6e9431" class="">The AE team is made up of people with all different backgrounds: moms who live in Asia, dads who live in North America, and single folks who travel all over the world. We all have different whys, and we all use them to complete our goals every day.</p><h2 id="cee7acee-b62d-4fbd-aa05-ebea9597be58" class="">4. Habits Aren’t Sticky</h2><p id="d62aceb9-2230-4826-b674-73aa56b6fbc2" class="">Most advice assumes that we know how to keep a habit going. It’s like email: we are magically supposed to know how to maintain our overwhelming email inboxes and deal with information overload.</p><p id="d562023f-ca16-441b-9fbf-476128f15946" class="">If you’re like most of us, no one has ever shown us how to deal with this. It’s not part of our education system, especially when it comes to building and keeping habits.</p><p id="95bc0966-6db9-4395-a6e6-e2600e4188c2" class="">Everyone makes it sound easy just to walk more, wake up earlier and meditate.</p><p id="0613b183-3a87-4468-ab93-3b83e4d483b6" class="">What they don’t tell you is how to get started, how to keep it going and most of all how to fit it into your schedule without disrupting the rest of your life. We all have people to take care of, bills to pay, dishes to wash and a billion other things to do.</p><p id="a7def011-3440-42f0-9aa9-4c2bef754fc2" class="">Integrating a new habit into your life is not easy, let alone keeping it going while a lot of other things might seem more important. When everything seems like a priority, that’s a red flag.</p><p id="09720a50-d6c3-4d92-a9d2-76d0fdde4bf1" class="">Don’t get me even started on how much energy we have day to day and how motivated we are. These things can fluctuate a lot and can cause our habits to go off the rails even with the best of intentions.</p><p id="8fb93a1a-a61d-4f09-90ae-8eac6634a79e" class="">Without a solid game plan and system, maintaining habits can feel like a second full-time job.</p><p id="a372d58c-b911-4038-b446-0f41bf75d37b" class="">For more on how to make habits sticky and make it much more likely that you will achieve what you want to set out to achieve, check out our podcast episode on habits vs. rituals:</p><p id="e2174a5c-6483-446d-8692-5f74e8bc05fa" class="">If you want habits to be “set it and forget it,” you need to turn them into a ritual that is powered by a system. Which raises the next point…</p><h2 id="26f7735c-9e7a-4ee9-a8b2-65ce96292148" class="">5. There’s no Step-by-Step System</h2><p id="07325cbd-c9b5-4968-a032-2dca1b7f0804" class="">To increase your chances of taking action, there are three things that need to be in place:</p><ol type="1" id="d7f809ef-b619-4b1d-aeb0-b38c1365fd42" class="numbered-list" start="1"><li>You need to have the desire to do it (your why).</li></ol><ol type="1" id="93a1c356-4541-4b28-b7a8-703b15c191a9" class="numbered-list" start="2"><li>You need a first step that is simple to do.</li></ol><ol type="1" id="cae89086-0b37-43cb-b310-6aafbf36ac22" class="numbered-list" start="3"><li>You need a step-by-step system that is proven to work and easy to follow.</li></ol><p id="21b70ba8-d54e-44ad-ba08-a6f5d486692a" class="">Once all three are in place, you have a formula for success. An analogy I like to use is when you first cook a special meal. Regardless of what you cook, you’re excited about it, and you’ll probably follow a recipe that has step-by-step instructions on how to prepare it.</p><p id="8466a55d-667f-4911-b870-57d7d6108655" class="">What if there was such a thing for forming rituals?</p><p id="ad2203a6-d988-4f18-83fa-70d733fa4e0e" class="">Wouldn’t it be nice if there was a fool-proof step-by-step system that shows you exactly how to “set it and forget it” so it runs on autopilot?</p><p id="dbf2681f-d326-4e9b-9a28-65a0f392eb6a" class="">We’ve been developing this over many years, and we’re excited to reveal this system to you on a free presentation. We want to make sure that everyone can create the rituals that help them get their most important goals completed, so we packed this one with value.</p><p id="506e9b55-e64d-455f-82fd-a50d24427c3e" class="">It’s what we and members of the community have been using to install rituals that allow us to wake up early, exercise regularly, complete our most important tasks every day and more – without wasting time maintaining them.</p><p id="69039df8-f826-400a-8a79-ca1f24f449aa" class="">The presentation also includes proven strategies that make it ridiculously easy to regain any ritual where you might have slipped up (it happens to everyone).</p></div></article></body></html>

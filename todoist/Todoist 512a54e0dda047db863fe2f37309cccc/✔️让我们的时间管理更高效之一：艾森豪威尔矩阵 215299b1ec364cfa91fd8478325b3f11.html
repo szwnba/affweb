@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>✔️让我们的时间管理更高效之一：艾森豪威尔矩阵</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="215299b1-ec36-4cfa-91fd-8478325b3f11" class="page sans"><header><h1 class="page-title">✔️让我们的时间管理更高效之一：艾森豪威尔矩阵</h1></header><div class="page-body"><p id="8bc94306-fb7d-4005-8167-671195ff99b6" class="block-color-gray"><a href="https://baijiahao.baidu.com/s?id=1732437049503014204&amp;wfr=spider&amp;for=pc&amp;searchword=%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94%E7%9F%A9%E9%98%B5">https://baijiahao.baidu.com/s?id=1732437049503014204&amp;wfr=spider&amp;for=pc&amp;searchword=%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94%E7%9F%A9%E9%98%B5</a></p><p id="df55592f-f328-4a17-886d-273967d68512" class="">
+</p><figure id="8cf45acc-5968-452f-a149-4ac0e41536f3" class="image"><a href="%E2%9C%94%EF%B8%8F%E8%AE%A9%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%9B%B4%E9%AB%98%E6%95%88%E4%B9%8B%E4%B8%80%EF%BC%9A%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94%E7%9F%A9%E9%98%B5%20215299b1ec364cfa91fd8478325b3f11/4034970a304e251f4d76b9fe80d4991d7e3e538b.jpegf_auto"><img style="width:640px" src="%E2%9C%94%EF%B8%8F%E8%AE%A9%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%9B%B4%E9%AB%98%E6%95%88%E4%B9%8B%E4%B8%80%EF%BC%9A%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94%E7%9F%A9%E9%98%B5%20215299b1ec364cfa91fd8478325b3f11/4034970a304e251f4d76b9fe80d4991d7e3e538b.jpegf_auto"/></a></figure><p id="0ee85e3d-21a2-4294-8f2e-ee91a56a2aa4" class="">曾在2014年风靡全国的那首《时间都去哪儿了》，让许多人停下匆忙的人生脚步，深思这个平凡朴素而沁彻心扉的问题。相信大多数人都会觉得除了个人生理必需活动时间外，大部分时间被工作占据了。事实也确实如此。那么如何让我们的时间管理更高效呢？运用艾森豪威尔矩阵，会让您在工作和生活过程中更高效、更从容、更持久地带来价值和产出。</p><p id="98516f44-7e80-4262-8832-114818e93a84" class="">美国前总统艾森豪威尔曾说：“ 最紧迫的决策通常都不是最重要的。”艾森豪威尔被视为时间管理大师，艾森豪威尔矩阵也称为时间管理优先矩阵，它把时间按其紧迫性和重要性分成两个轴，四个象限。紧迫性是指解决问题的形势的迫切性,强调时间的紧迫性，常常有很多必须立即处理，不能拖延。重要性是指解决问题的好处或意义，强调事情的重要程度。</p><figure id="5057fcf1-c39d-4429-8ced-9cccb3d16e71" class="image"><a href="%E2%9C%94%EF%B8%8F%E8%AE%A9%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%9B%B4%E9%AB%98%E6%95%88%E4%B9%8B%E4%B8%80%EF%BC%9A%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94%E7%9F%A9%E9%98%B5%20215299b1ec364cfa91fd8478325b3f11/3812b31bb051f8190f183a24fce61ae72e73e77f.jpegf_auto"><img style="width:640px" src="%E2%9C%94%EF%B8%8F%E8%AE%A9%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%9B%B4%E9%AB%98%E6%95%88%E4%B9%8B%E4%B8%80%EF%BC%9A%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94%E7%9F%A9%E9%98%B5%20215299b1ec364cfa91fd8478325b3f11/3812b31bb051f8190f183a24fce61ae72e73e77f.jpegf_auto"/></a></figure><p id="c4ba956d-2cb0-49a0-89a3-75b6e1a2fc93" class=""><strong>1、第一象限：重要且紧急的事情</strong></p><p id="6e434e44-2941-42fa-888f-4cc22e01656f" class="">第一象限内的事情主要是紧迫的问题以及其他现在不采取行动会产生负面后果的事情。例如：重要会议、商务谈判、客户投诉、财务危机、即将到期的任务等等。</p><p id="49b0f6d9-c660-4647-8671-91492dc6be67" class="">针对第一象限内的事情可以采用美国时间管理大师、著名演说家博恩·崔西的“三只青蛙”法则 ，即“如果你必须吃掉一只青蛙，不要长时间盯着它看。如果你必须连着吃掉三只青蛙，记得要先吃掉最大、最丑的那只。”</p><p id="426d6fa8-c8bc-4552-8b6d-35f8c68737f6" class=""><strong>2、第二象限：重要但不紧急的事情</strong></p><p id="09508f6f-60c0-424f-88e0-ee576cdc03a3" class="">第二象限内的事情主要是不具有时间上的紧迫性，但是，它具有重大的影响，对于个人或者企业的存在和发展以及周围环境的建立维护，都具有重大的意义。例如：制定计划、技能提升、定期体检、问题调研、汇报材料、客户关系维护等等。第二象限内的事情大多数为预防性、规划性甚至长期性工作，有助于顺利实现项目或长期目标的事情，也是未来真正能够影响和改变我们的事情，因此需要非常清醒的优先保证这么事情的执行。如果第二象限内的事情不能及时完成，将会导致第一象限内的事情层出不穷。</p><p id="fb6f19ae-9c72-4932-bb38-9383e2a4a02c" class="">针对第二象限内的事情可以做一个时间表、五色日历、便签等等，保证自己在未来一段时间里每天专注至少一个小时去做。</p><p id="133ec11c-fde3-43d7-802a-84c1187a37ff" class=""><strong>3、第三象限：紧急但不重要的事情</strong></p><p id="a2f15333-d853-485c-b5ef-cb6e358dff0d" class="">第三象限内的事情主要是不重要但很紧迫的事情，更多的是急需去做但没有多少意义的事情。例如：临时有客人来访、无用电话、无意义的会议等等。这类事情占用了日常大量的工作时间，让人陷于日常琐碎的事务而不能自拔。</p><p id="a8f2ea83-ba93-4de2-ae1a-d79983eca491" class="">针对第三象限内的事情可以发挥团队合作的作用，可以尽量委派其他人去做这些任务，同时做好跟踪，这样将确保有更多的时间处理前两个象限的事情。</p><p id="5170b6ed-e634-4719-96ee-b5c5609d09aa" class=""><strong>4、第四象限：不紧急且不重要的事情</strong></p><p id="a4cb91c0-f010-4113-8813-9708bcd59b07" class="">第四象限内的事情主要是没有时间的紧迫性，没有任何的重要性，纯粹就是一些琐碎的事情，例如：闲聊八卦、打牌、娱乐、游戏等等。这些事情对目标并不重要，而提高工作效率的唯一方法就是消除它们，当然这需要比较好的自律性。</p><p id="a821b5fb-2a29-44c3-8d3c-829f05bd1fe8" class="">针对第四象限内的事情可以采用意大利弗朗西斯科·西里洛创立的番茄加工法。番茄工作法需遵守的规则：①一个番茄时间共30分钟，25分钟工作,5分钟休息；②一个番茄时间是不可分割的；③每4个番茄时间后，停止工作，进行一次较长时间的休息，大约15到30分钟。我们可以要求自己在做第一象限、第二象限事情的间歇完成第四象限的事情，这样可以长时间坚持形成一种习惯。</p><figure id="29ccea78-40c9-4d89-bbcb-b0693898606d" class="image"><a href="%E2%9C%94%EF%B8%8F%E8%AE%A9%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%9B%B4%E9%AB%98%E6%95%88%E4%B9%8B%E4%B8%80%EF%BC%9A%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94%E7%9F%A9%E9%98%B5%20215299b1ec364cfa91fd8478325b3f11/f3d3572c11dfa9ecf6fb54d24482a709938fc1fe.jpegf_auto"><img style="width:640px" src="%E2%9C%94%EF%B8%8F%E8%AE%A9%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%9B%B4%E9%AB%98%E6%95%88%E4%B9%8B%E4%B8%80%EF%BC%9A%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94%E7%9F%A9%E9%98%B5%20215299b1ec364cfa91fd8478325b3f11/f3d3572c11dfa9ecf6fb54d24482a709938fc1fe.jpegf_auto"/></a></figure><p id="7374399e-21c1-450b-91a3-8c742918aa1e" class=""><strong>结语</strong></p><p id="1ec7129c-224e-41d1-a63a-30304b1b4c37" class="">时间管理在工作生活中必不可少。良好的时间管理工具能够取得事半功倍的效果。当我们熟练运用时间管理工具，将自己的工作生活安排的井井有条时，会让我们的人生更加从容、更加多姿多彩。</p><p id="dc04a75b-e5c2-406f-af59-5acbdca1625c" class="">【本文图片来源于网络。欢迎关注，如有侵权，请联系删除。】</p></div></article></body></html>

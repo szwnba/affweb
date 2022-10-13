@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>焦点音乐的科学</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="9048a8c1-9b84-479a-8041-d135785f33ce" class="page sans"><header><h1 class="page-title">焦点音乐的科学</h1></header><div class="page-body"><p id="4f335efc-c93a-4ea8-9535-ff60ec255f96" class="block-color-gray"><a href="https://www.asianefficiency.com/productivity/science-focus-music/">https://www.asianefficiency.com/productivity/science-focus-music/</a></p><p id="f6129f4d-1b73-4c98-974b-95db72c6435f" class="">
+</p><figure id="0125587a-8b4b-4fb0-aa9d-19daa91dca9c" class="image"><a href="%E7%84%A6%E7%82%B9%E9%9F%B3%E4%B9%90%E7%9A%84%E7%A7%91%E5%AD%A6%209048a8c19b84479a8041d135785f33ce/Young-woman-intently-listening-to-music-on-headphones-e1498809677562.jpg"><img style="width:700px" src="%E7%84%A6%E7%82%B9%E9%9F%B3%E4%B9%90%E7%9A%84%E7%A7%91%E5%AD%A6%209048a8c19b84479a8041d135785f33ce/Young-woman-intently-listening-to-music-on-headphones-e1498809677562.jpg"/></a></figure><p id="29f6faec-6c48-48ea-8ce5-4f209489be0f" class="">You’ve probably listened to music while working. Maybe when you were a teenager you turned the music up to almost unbearable levels and tried to do your algebra homework, only minimizing the volume when your parents insisted.Now you may put on headphones and turn up the tunes to drown out the chatter of coworkers and help you focus on that project you really need to get done.</p><p id="04445ccb-e5ba-4496-9327-f18d248d6d43" class="">In recent years, several companies have created music that is <em>specifically </em>designed to improve focus and concentration. <a href="https://www.brain.fm/">Brain.fm</a> and <a href="https://www.focusatwill.com/">Focus@Will</a> both claim that listening to their music will give you laser productivity and boost your overall levels of focus. Focus@Will even claims they can boost your focus by 400%.</p><p id="641d9718-7f19-47ef-9120-af0d099e00f0" class="">Additionally, Spotify, Apple Music, and other services have specific “focus” playlists, with songs designed to improve concentration.</p><p id="087850d8-4fe7-4217-b71d-d087f4c59431" class="">And while Spotify and Apple Music don’t claim to have science behind their playlists, Brain.fm and Focus@Will do.</p><p id="0004b258-fa3e-4358-9430-d7e6aad95426" class="">Do these services actually work? Is their real, legitimate science behind their claims? How does focus music even work?</p><p id="ffdf536e-7f0a-4233-9d4c-840a8d28eec8" class="">In this post, we’re going to do a deep dive into the science of focus music. We’re going to examine the science and see how music and the brain interact. We’ll close with some action steps to take.</p><h2 id="67aedb9f-6844-435b-a37c-ebef7f9575cb" class="">The Problem Of Executive Attention</h2><figure id="ea5d523a-976d-4c9e-879b-4da741a69fea" class="image"><a href="%E7%84%A6%E7%82%B9%E9%9F%B3%E4%B9%90%E7%9A%84%E7%A7%91%E5%AD%A6%209048a8c19b84479a8041d135785f33ce/Stressed-overworked-young-businesswoman-e1498810771594.jpg"><img style="width:700px" src="%E7%84%A6%E7%82%B9%E9%9F%B3%E4%B9%90%E7%9A%84%E7%A7%91%E5%AD%A6%209048a8c19b84479a8041d135785f33ce/Stressed-overworked-young-businesswoman-e1498810771594.jpg"/></a></figure><p id="cb99d6f8-6148-4932-a673-8dbedcdf634f" class="">It’s not secret that noise while working <a href="https://www.asianefficiency.com/productivity/how-to-beat-decision-fatigue-the-ultimate-guide/">is distracting</a>. The constant cough of a coworker, chatter around the coffee pot, construction outside, even the drip of a leaky faucet. It can be exceedingly difficult to concentrate when something keeps butting in.</p><p id="08047c11-0177-4a67-9bb1-e728284c77bc" class="">The issue at hand is executive attention. Every moment of every day, you are being bombarded by a variety of stimuli. Noises, tastes, temperature changes, movement, and thousands of other things flash across your brain, trying to grab your focus.</p><p id="2248cf48-76c2-4cb0-814c-e5d5889caf38" class=""><a href="https://www.focusatwill.com/app/pages/science-of-focus-concentration">Executive attention</a> is what allows you to maintain your sanity. It is the process by which your brain determines what things will have your attention and which will fade into the background. It’s like a teacher in a classroom. Not everyone can talk at once. Each person has to wait their turn.</p><p id="45c3dddb-c543-4a42-b0ef-e67b81d2497b" class="">When you encounter various stimuli, the part of your brain called the locus coeruleus sends noradrenaline to different parts of your brain, which then determines which stimuli grab your attention.</p><p id="de307b19-6c96-4a9f-8858-e34920102bef" class="">Without any executive attention, you would probably go insane, unable to separate out various stimuli, constantly pulled between this and that, unable to concentrate on anything. Focus would be completely impossible.</p><p id="b8ba4a38-d514-4b7d-81b8-b3a424a2b385" class=""><a href="https://www.ncbi.nlm.nih.gov/pubmed/10560036">Researchers think</a> that problems such as ADHD, stress disorders, and emotional affective disorders may be the result of a malfunctioning locus coeruleus.</p><p id="c21a9a2d-4396-4f5b-9cdd-bb83f4f86301" class="">Your executive attention is what allows you to focus. It keeps certain stimuli at bay so you are able to give all your attention to the thing in front of you.</p><p id="4702fd09-60dc-4d4b-901b-6a1a7d62894e" class="">When you are constantly bombarded by a variety of distractions, your executive attention has to fight relentlessly to keep you on track, and this results in attention fatigue, which in turn leads to distraction and <a href="https://www.asianefficiency.com/productivity/9-ways-to-break-up-your-work-to-stay-focused-and-productive/">a lack of focus</a>.</p><p id="51edf740-d113-4aa9-8e80-b4bfe1ef5250" class="">So, at the most basic level, focus music blocks out distracting stimuli with one, relatively simple stimuli (simple music).</p><p id="c4588db6-78b9-41e8-aed7-78e2f4201239" class="">This is why Brain.fm is very careful about the sound of their music. They say:</p><blockquote id="706710be-485a-4425-a5a6-f4b58c603d15" class="">To minimize distraction by surprising elements, three complementary strategies are applied: The music is bandpass filtered to remove both ultra-low (&lt; 45 Hz) overly loud bass and high pitch sounds (&gt; 5 kHz) that tend to become annoying over time. The melodic structure is exempt from ruptures, such as pauses, breaks or major volume deviations. Finally, the complexity level (e.g. type and number of instruments) remains constant through the musical piece.</blockquote><p id="37af6ad0-b956-4594-b3ef-95f2907bfe8f" class="">If you are listening to music with lots of variety or that goes from soft to loud, you’ll probably end up being distracted. Although you may love the new Adele or U2 album, it’s probably not the best for focus.</p><p id="6e7a3ec7-375a-4f8e-96af-2a57a798738a" class="">The best music for concentration is relatively calm and straightforward, without abrupt volume changes or annoying high or low pitches.</p><h2 id="02e12a70-4e1a-4936-8f96-dbbe446e72e4" class="">The Problem of Habituation</h2><figure id="93b57061-5625-4f5d-86a0-5721f754d64f" class="image"><a href="%E7%84%A6%E7%82%B9%E9%9F%B3%E4%B9%90%E7%9A%84%E7%A7%91%E5%AD%A6%209048a8c19b84479a8041d135785f33ce/Interior-Of-Coffee-Shop-With-Customers-Using-Digital-Devices-e1498811429289.jpg"><img style="width:700px" src="%E7%84%A6%E7%82%B9%E9%9F%B3%E4%B9%90%E7%9A%84%E7%A7%91%E5%AD%A6%209048a8c19b84479a8041d135785f33ce/Interior-Of-Coffee-Shop-With-Customers-Using-Digital-Devices-e1498811429289.jpg"/></a></figure><p id="15f9b43f-7eda-4593-8cdf-e36658b4ede1" class="">Interior Of Coffee Shop With Customers Using Digital Devices</p><p id="50ba91d8-e887-40a3-9535-1ed0f98c2ff6" class="">Some people feel like they work better in a mildly noisy coffee shop than in a completely quiet library. Why is this? It has to do with something called “<a href="https://www.verywell.com/what-is-habituation-2795233">habituation</a>”.</p><p id="44b78234-93e7-47aa-b256-9e8a0995f423" class="">When you senses are suddenly bombarded with stimuli (like at a coffee shop), you’ll probably initially feel distracted. But after 10 to 20 minutes, the noise begins to fade to the background and you are able to focus.</p><p id="7bdf6218-b5c6-462b-89ed-b25b14ef5fe7" class="">Your brain is <em>habituated</em> to the noise and you are able to give your attention to what’s in front of you.</p><p id="19e8c613-a990-4d16-866c-fa014bcf896d" class="">Habituation works for a while, but after some time you’ll probably find yourself growing restless. This is because your brain is getting bored and starts to look for other, more exciting stimuli. Your focus will start to wane and you’ll find yourself on Buzzfeed taking another one of those dumb personality quizzes.</p><p id="7a0a096c-3413-458d-836c-8a5e8810317a" class="">Therefore, maintaining focus involves not letting your brain get bored. As Focus@Will puts it on their site:</p><p id="52406426-a737-4907-813b-ce0c7a773cc9" class="">So the trick is occupying your brain just enough to let you work, but feeding your brain novel stimuli at just the right times so that you don’t try to seek novelty by distracting yourself. It turns out listening to music while you work can do the trick.</p><h2 id="2f9c01bb-45bc-48cd-a658-00dcc0f7dc48" class="">The Power of Entrainment</h2><p id="d96f3319-8b29-477f-b7ae-00a320bfdda4" class="">There is one more bit of science behind focus music: entrainment. It is believed that brainwaves can be synchronized to external sound waves, such as music. In other words, as the brain is exposed to repeated sound waves over a period of time, the brain waves will become synchronized with the sound waves.</p><p id="044335d1-4c71-4267-87f1-b1e479575439" class="">This synchronization is called entrainment.</p><p id="16204f0f-abe1-4558-9171-90acd729f998" class="">If brainwaves and sound waves can be synchronized, it follows that listening to certain types of music can lead to certain brain states (sleep, relaxed, focused, etc.), because each brain state has a particular brainwave pattern.</p><p id="11ef7e9b-42ef-47cb-9a5c-0aae1f6aaaac" class="">Entrainment in particular is behind the music produced by Brain.fm. They note (and this is a bit technical):</p><p id="16bcda70-fbec-4c20-b75e-6fc8ce722bbf" class="">A low-frequency oscillator generates amplitude modulations in the low-frequency range (&lt;20 Hz). For example, beta modulations (12-18 Hz) are used to stimulate attentional focus, as beta-band activity is related to the maintenance of the current cognitive state. Thus, entrainment of beta oscillations helps listeners keep their attentional focus for a longer time period.</p><p id="a5c53c5a-a6bf-40e7-bc79-19dee5297e09" class="">In other words, the music follows a particular pattern that mimics the brain waves present in a focused state. After listening for some time, the brain waves become entrained to the music, helping you get focused.</p><h2 id="1808edb0-9121-41e5-80fd-6d4d2b9cd7fc" class="">Music, Creativity, and Emotion</h2><figure id="37c4b64c-7583-408b-83f6-ec69a125be0d" class="image"><a href="%E7%84%A6%E7%82%B9%E9%9F%B3%E4%B9%90%E7%9A%84%E7%A7%91%E5%AD%A6%209048a8c19b84479a8041d135785f33ce/Smiling-man-networking-late-at-night-e1498811148450.jpg"><img style="width:700px" src="%E7%84%A6%E7%82%B9%E9%9F%B3%E4%B9%90%E7%9A%84%E7%A7%91%E5%AD%A6%209048a8c19b84479a8041d135785f33ce/Smiling-man-networking-late-at-night-e1498811148450.jpg"/></a></figure><p id="904774b8-51e8-4570-b513-933bd4bfa065" class="">Smiling man networking late at night</p><p id="7553ed1c-4240-4632-961c-0866528b3835" class="">There is also some evidence that music can stimulate creativity. As <a href="https://www.jcr-admin.org/files/pressreleases/061812093656_Mehtarelease.pdf">one study notes</a>:</p><p id="eeae04da-5482-41ad-9606-36e9074ae2a7" class="">A high level of noise may cause a great deal of distraction, causing individuals to process information to a lesser extent and therefore to exhibit lower creativity. A moderate (vs. low) level of noise, however, is expected to distract people without significantly affecting the extent of processing. Further, we reason that such a moderate distraction, which induces processing difficulty, enhances creativity by prompting abstract thinking.</p><p id="197907af-ddcb-4494-820d-76be7f021a6c" class="">In other words words, low levels of noise (think music or coffee shop), can lead to abstract, or “sideways” thinking. This kind of thinking often leads to <a href="https://www.asianefficiency.com/productivity/how-to-maintain-your-creativity-without-burning-out/">creative solutions</a> that otherwise wouldn’t have been found.</p><p id="c38e63cf-f858-464d-88ee-0d63ae377dd8" class="">Additionally, <a href="https://news.usc.edu/71969/studying-for-finals-let-classical-music-help/">a study in France</a> found that students who studied with classical music on in the background scored significantly higher than those who studied in silence. The researchers believe that the music put the students in an aroused emotional state, which led to more effective processing of information.</p><h2 id="85f18825-035d-4a80-827e-48a126605268" class="">So What’s The Final Verdict?</h2><p id="a5d07ed7-80cd-49d0-93cf-082d6be5f422" class="">Before you become a focus music evangelist, you should know that the science behind it is still in the early stages. Brain.fm is still in the process of having their own pilot study validated by others and Focus@Will has to make some leaps to get at their conclusions.</p><p id="9df9a6bc-a159-4a06-a282-e88c0b8e3d96" class="">But just because the science is in the early stages doesn’t mean you shouldn’t at least try focus music. Some people find it incredibly helpful, even if it’s just to block out the sound of distracting noises. Others say it helps them get <a href="https://www.asianefficiency.com/mindsets/flow-validation-state-and-productivity/">into a flow state</a>, where they are only aware of the task immediately at hand.</p><p id="091be376-ab5b-42ad-82eb-e962a58c0dec" class="">The great thing about Brain.fm and Focus@Will is that they create all the tracks for you. You don’t have to find the right playlist and you don’t have to worry about it being too loud or distracting.</p><p id="e10a7b84-96d1-4c95-9e10-2e322999ced5" class="">At a minimum, they make for nice background noise for working or studying. If you’re trying to find a way to block out your coworkers, housemates, or the construction happening outside, this is a great option.</p><h2 id="b89e61f5-eeb1-416f-9967-73084ad9e6b4" class="">Next Actions</h2><ul id="06647432-1d04-4b73-9b1c-0a42225ee1cf" class="bulleted-list"><li style="list-style-type:disc">Sign up for a free trial account at <a href="https://www.brain.fm/">Brain.fm</a> or <a href="https://www.focusatwill.com/">Focus@Will</a>.</li></ul><ul id="300010ec-9c85-4313-b5b7-29e724ef443b" class="bulleted-list"><li style="list-style-type:disc">Over the course of the trial, try to chart your productivity, both when you’re listening to the music and when you’re not.</li></ul><ul id="1b1eefea-e33e-4004-a7ff-82d97e4e7da9" class="bulleted-list"><li style="list-style-type:disc">At the end of the trial, evaluate your results. Did you find yourself more focused? Were you able to get more accomplished?</li></ul><ul id="ca1a27b2-29d3-41ca-ad37-a7a5685d58f9" class="bulleted-list"><li style="list-style-type:disc">Additionally, you may want to explore these Spotify playlists: <a href="https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZeKCadgRdKQ">Deep Focus</a>, <a href="https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX3Ogo9pFvBkY">Ambient Chill</a>, and <a href="https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZIOAPKUdaKS">Focus Now</a> (which is classical music).</li></ul></div></article></body></html>

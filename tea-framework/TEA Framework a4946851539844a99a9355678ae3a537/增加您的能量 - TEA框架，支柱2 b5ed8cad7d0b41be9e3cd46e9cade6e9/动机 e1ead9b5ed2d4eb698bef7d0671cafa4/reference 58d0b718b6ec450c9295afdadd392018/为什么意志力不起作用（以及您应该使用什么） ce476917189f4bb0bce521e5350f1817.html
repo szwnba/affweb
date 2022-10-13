@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>为什么意志力不起作用（以及您应该使用什么）</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="ce476917-189f-4bb0-bce5-21e5350f1817" class="page sans"><header><h1 class="page-title">为什么意志力不起作用（以及您应该使用什么）</h1></header><div class="page-body"><p id="7815badb-3149-4711-9702-b05100fb298b" class="block-color-gray"><a href="https://www.asianefficiency.com/motivation/why-willpower-doesnt-work/">https://www.asianefficiency.com/motivation/why-willpower-doesnt-work/</a></p><p id="1a5cf8af-3880-4dcc-9f57-36fce4f834ab" class="">
+</p><figure id="dec5f370-27c0-4779-8578-0e5b256d62c0" class="image"><a href="%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%8F%E5%BF%97%E5%8A%9B%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8%EF%BC%88%E4%BB%A5%E5%8F%8A%E6%82%A8%E5%BA%94%E8%AF%A5%E4%BD%BF%E7%94%A8%E4%BB%80%E4%B9%88%EF%BC%89%20ce476917189f4bb0bce521e5350f1817/willpower-1.jpg"><img style="width:700px" src="%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%8F%E5%BF%97%E5%8A%9B%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8%EF%BC%88%E4%BB%A5%E5%8F%8A%E6%82%A8%E5%BA%94%E8%AF%A5%E4%BD%BF%E7%94%A8%E4%BB%80%E4%B9%88%EF%BC%89%20ce476917189f4bb0bce521e5350f1817/willpower-1.jpg"/></a></figure><p id="85553902-0ee7-4996-bab1-a28c47b3bdc3" class="">The reason so many high-achievers make a habit of success while others struggle mightily is no secret: they consistently do that things that will produce the results they are looking for. But if it’s so simple, why doesn’t everyone follow this formula? What factors allow some people to create their ideal future while others stay stuck and overwhelmed? In this post, I explain why I think well-meaning productivity nerds everywhere have got it wrong when it comes to high achievement.</p><h2 id="6ed7be22-3580-4fb7-874e-b7795f2d91c6" class="">Willpower: The Traditional Approach</h2><p id="893a71f0-c8d1-4f73-b744-0a1b560a7a9c" class="">The traditional productivity advice for overcoming procrastination and consistently taking action on your goals has been to develop more willpower. And while I think willpower is important, I don’t believe it’s wise to rely on willpower alone when it comes to creating the life you want to live.</p><p id="cc8e5e4b-6fe8-4d5b-abaa-85ca27b70d97" class="">Let’s start by looking at the dictionary definition of willpower:</p><blockquote id="d7fb38f3-2815-42fb-9d10-1f656f192c1f" class="">Willpower: control exerted to do something or restrain impulses</blockquote><p id="dfd7c985-eff7-497d-9e57-a3ca373ee473" class="">According to the definition of the word, we can use willpower to do one of 2 things:</p><ol type="1" id="55b4d6c4-c456-48a4-99c5-2293b993da61" class="numbered-list" start="1"><li>do something we should be doing</li></ol><ol type="1" id="9bdef1da-e206-4ff9-9a1e-c2abc595d519" class="numbered-list" start="2"><li>stop doing something we shouldn’t be doing</li></ol><p id="f2b0331f-1637-4939-8f70-92bd07d6667e" class="">Both of these scenarios are constructed the same: 1) we have a desired state of action, 2) our natural inclination is to avoid that state of action, 3) we either succeed or fail in overcoming ourself to create that state of action. Here’s a visual illustration of how this internal struggle (ideally) plays out:</p><figure id="471504cc-f65a-4fda-ae69-5391cc798d8c" class="image"><a href="%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%8F%E5%BF%97%E5%8A%9B%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8%EF%BC%88%E4%BB%A5%E5%8F%8A%E6%82%A8%E5%BA%94%E8%AF%A5%E4%BD%BF%E7%94%A8%E4%BB%80%E4%B9%88%EF%BC%89%20ce476917189f4bb0bce521e5350f1817/action-1.png"><img style="width:700px" src="%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%8F%E5%BF%97%E5%8A%9B%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8%EF%BC%88%E4%BB%A5%E5%8F%8A%E6%82%A8%E5%BA%94%E8%AF%A5%E4%BD%BF%E7%94%A8%E4%BB%80%E4%B9%88%EF%BC%89%20ce476917189f4bb0bce521e5350f1817/action-1.png"/></a></figure><p id="08170b7f-b9ab-41ee-bb56-4cca46810905" class="">Of course, this is assuming that you have enough willpower that you’ve succeeded in overcoming the resistance. But many times you won’t – what do you do then?</p><h2 id="4e13bf0d-5e89-4311-9139-b9090bdbb052" class="">Why Willpower Alone Isn’t Enough</h2><p id="a13aa8e9-7ae2-4dac-a595-2bee64ecb87a" class="">There’s a couple of reasons I believe relying on willpower alone is an early death to the achievement of your goals:</p><ol type="1" id="155b34e5-566e-4c08-a33c-7bb24513f356" class="numbered-list" start="1"><li>Willpower is usually attributed after the fact</li></ol><ol type="1" id="b1ab4bb5-8338-4d01-a51c-dd69fc0c3e48" class="numbered-list" start="2"><li>Willpower is a finite resource that is impossible to measure</li></ol><ol type="1" id="31f1c1d9-bc23-4545-a342-da72f146c50c" class="numbered-list" start="3"><li>Willpower is a situation-specific attribute (can vary greatly)</li></ol><p id="c8db445e-daac-454a-b84c-31ed997ebd52" class="">Let’s examine these individually.</p><h3 id="d94cddd0-57f0-4e88-8db7-ee3bb38182d8" class="">Attributed After the Fact</h3><p id="17e54fd4-a9c3-4512-bac4-6b8983c0ef16" class="">One of the biggest problems with willpower is that it usually applied as the reason why something happened (or the justification for why it didn’t). This is useful information, but only if we intend to hold our own personal retrospective (like the <a href="https://www.asianefficiency.com/podcast/207-personal-retreat/">personal retreat we talked about in episode 207 of The Productivity Show</a>). Often we don’t take the time to analyze why something didn’t work, so it’s impossible to <a href="https://www.asianefficiency.com/systems/systems-thinking/">modify the systems of our life</a> in any meaningful way. And with willpower being assigned after the fact, it’s often too late to do anything about the outcome.</p><p id="ca6070be-87e2-41cb-aed0-a42216de8e5d" class="">The term for this is a <em>lag measure.</em> (I originally heard this term in the 4 Disciplines of Execution by Chris McChesney, Sean Covey, &amp; Jim Huling). A lag measure is something that shows whether what you did was successful. Great information to learn from, but not something you can influence in the moment. If you want something that can influence your future success, the term for that is a <em>lead measure</em>. A lead measure is something you can do right now that will impact the outcome in a meaningful way. It’s a lever you can pull <em>right now</em> that will have positive impact on whether or not you achieve your goal. Let me give you an example from the Asian Efficiency team…</p><p id="872d2562-1fb1-4dda-834e-b93541471bca" class="">Here at Asian Efficiency, we have a team of productivity experts with a combined 25+ years of experience in the productivity space. Myself, Brooks, Marmel, Thanh – we each have different experiences and different backgrounds. We have a CEO with no kids, a high achiever with 5 kids, a former 10+ years corporate worker with a family, just to name a few. So when you come to Asian Efficiency for advice, it’s not just one guru sharing what worked for them. You get actionable insights, shortcuts, and proven solutions from multiple experts, so you have a much better chance of the strategies working for you.</p><p id="1c6b8097-a8bc-4ca5-bbba-e8b5c652a654" class="">Our goal is to give away 95% of our content for free (even though it’s often better than most people’s paid content), but we curate the best 5% content in our premium courses and trainings. We don’t invent anything – we curate the best stuff for you so you don’t have to waste your time trying to figure out how to make it all work.</p><p id="32532719-aea4-49f3-bb39-942fa79453d0" class="">Let’s say we’re developing a new premium training course (like Finisher’s Fastlane, our focus course). In order to make sure we live up to this brand promise, we want to make sure our solutions work before we make the product available for sale. There are 2 approaches we can take to make sure that we deliver what our audience expect:</p><ol type="1" id="118197a2-15eb-48d8-9099-126c74fa85e0" class="numbered-list" start="1"><li>We can talk to our readers/listeners/customers after the fact to see if they like it and find out if it worked for them (lag measure)</li></ol><ol type="1" id="26928514-c57b-412f-acc3-a56dbd9e9571" class="numbered-list" start="2"><li>We can talk to our readers/listeners/customers <em>before</em> we start working on the course to make sure we address the major problems they’re having (lead measure).</li></ol><p id="fee1e93c-9b74-45df-ad74-203df2403fe5" class="">The second strategy is definitely the better one (and is in fact what we’ve done for the last couple flagship courses we’ve developed). The lead measure in this case is the positive feedback we get from our customers before we build the videos for the course. It’s still a lot of work, but it’s a lot less work than getting it all done and then finding out that what we made doesn’t help anybody. And if we notice early on that it’s not quite right, we can make it right.</p><p id="de348292-5674-4564-935f-5ec6f4f9d6a2" class="">When it comes to you and your goals, <em>willpower is a lag measure</em>. It’s useful after the fact, but it doesn’t help you in the moment. But there is a <em>lead measure for your success</em>, something you can influence right now (we’ll get to this in just a moment).</p><h3 id="afd24d39-0644-4da5-bb62-a09ec01672a0" class="">A Finite Resource</h3><p id="3eb179a4-6992-4d9d-aa13-79fbbe33faf6" class="">A popular analogy is that willpower is like a muscle – the more you exercise it, the stronger it gets. The problem with this view of willpower is that it is extremely difficult to measure how much you’ve got let. Unlike time, which has limits (24 hours in a day) and markers to show you where you are and how much remains, there is no way to know in the moment how much willpower you’ve burned up. Even more important, there is no way to know how much you have left in the tank. Which is extremely unfortunate when you view willpower as the gas that powers our productivity machines. Unlike a full gauge in your vehicle, you have no way of knowing how much you have left in the tank. You wouldn’t drive a car with no fuel gauge, would you? You might run out of gas on the way to where you want to go! But when you rely on willpower to achieve your goals, it’s not a matter of if you’ll run out of gas – it’s <em>when</em>. Which means you’re pretty much guaranteed to stop short of your destination (your ideal future).</p><p id="d57e9dae-f1b6-46f9-be79-51becc58c561" class="">There is some truth to willpower being a finite resource. And it’s also true that it gets depleted as you go about your day, which is why we advocate for the procrastination-busting strategy of <a href="https://www.asianefficiency.com/habits/eat-that-frog-most-important-tasks-morning/">eating your frog</a>. In fact, in <a href="https://www.asianefficiency.com/podcast/147-decision-fatigue/">episode 147 of The Productivity Show</a>, Thanh and I talked at length about how every decision you make throughout your day (as many as 35,000 of them) depletes your willpower.</p><p id="8e830784-8aec-4528-a614-ddcd7075ecab" class="">But let’s say you’re reading this at your job on your lunch break. Maybe you realize you didn’t do a great job of managing your time, attention, energy, and focus so far today. And now you’re about to head back from a big lunch and you’re expected to have a productive afternoon of work. Is it hopeless? Certainly not! There are other things you can use in the moment to push through and take action. Regardless of how little willpower you have in the moment, all is not lost.</p><h3 id="9313c2b0-9409-4838-a7e0-ce9633b48d50" class="">A Situation-Specific Attribute</h3><p id="c3e0575b-1c0d-4487-ba93-9cf6f454a922" class="">Assuming the work scenario I described previously is true, that means that willpower is a situation-specific attribute. If you’ve ever found yourself with a deadline looming, you know what this feels like. All else equal, a fast-approaching deadline suddenly changes whether you have enough “willpower” to finally write the report you’ve been putting off.</p><p id="4520d508-76d4-4239-b323-a82f0eb0ef22" class="">This is my biggest beef with using willpower to achieve your goals. Sometimes it is a very valid reason for whether action gets taken, other times it doesn’t matter at all. So how do you know when willpower is important to pay attention to and when it isn’t?</p><p id="cdb788e2-c936-4eb9-9dbb-5de769bfe47c" class="">Even if you could clearly categorize your life events this way, to some degree it doesn’t even matter. Your situation can change in an instant. People are capable of amazing things when crisis occurs. If you’ve lacked willpower (<em>lag measure</em>) to mow your lawn for 4 weeks and you get a notice from the city saying you’re going to be fined, your lack of willpower suddenly is irrelevant. The pain of having to pay a fine is enough for you to overcome any lack of willpower – no matter how tired you are when you get back home after a long day at work.</p><p id="ec66a792-2f72-4214-a6d6-985508aad77a" class="">Which challenges us to rethink our understanding of willpower. Maybe what looks like willpower is something else entirely. Could it be that people who seem to have more willpower have actually changed their preferences so that they enjoy the activities some of us resist? I think so. I believe what makes people successful is being able to change their view of the things many of us resist – like eating healthy, studying, or exercising. They are able to change their perspective in order to overcome resistance and take consistent action on their goals.</p><p id="49ce69e9-4454-43be-9a4d-6bdc51c4fd89" class="">In the next section, we’ll look at how they do it.</p><h2 id="c54084bf-e8aa-4ef3-a32b-6d1ffdb4d8a5" class="">Motivation: The Lead Measure for Achieving Your Goals</h2><p id="dc13b3a5-994b-4c09-b6dc-07e8094a86c6" class="">By now you should understand that willpower alone is not enough to consistently achieve your goals. Successful people have tapped into something else, something I would argue is even more powerful:</p><p id="6a4ddd5f-2898-4cca-b888-a1f9099d4084" class=""><em>Motivation.</em></p><p id="48610e93-6a9c-4878-b819-32f8f4c3aa28" class="">Motivation is the key to overcoming resistance and taking action on your goals. And if you can maintain motivation, you can achieve any goal. Motivation can make sure that you <em>consistently</em> do the small things that will add up to the significant results you’re looking for.</p><p id="2ac66e57-2d6f-4159-82f8-78db27165805" class="">Earlier we looked at the dictionary definition of willpower. For comparison, here’s the dictionary definition of motivation:</p><blockquote id="7924d104-a306-4578-bbc3-d409c80f6e4b" class="">Motivation: the reason or reasons one has for acting or behaving in a particular way</blockquote><p id="285ff2bd-f0bc-4b25-890d-f6a91763810e" class="">If I were to summarize this, it would be <em>the why behind what you do</em>.</p><p id="1750c327-826b-447b-b67b-43b7495225a5" class="">Your <em>why</em> is extremely important. Your <em>why</em> is the one thing you can go to at any given moment to help you overcome resistance and take your desired action. Which is why I believe that we need to fundamentally rethink our approach to willpower. Willpower doesn’t care about your <em>why</em>.</p><p id="74e17645-5573-427a-af9e-d83348ca51e0" class="">One of the things we recommend for establishing a strong <em>why</em> is the Five Whys exercise. It’s pretty simple – start with the thing you want to do and ask yourself “why?” five times, drilling down deeper each time. <a href="https://www.asianefficiency.com/podcast/176-new-years-resolutions/">Brooks and I went through this live on episode 176 of The Productivity Show</a>, but here’s the example I used from that podcast episode on why I wanted to run a half-marathon:</p><blockquote id="81238cf0-e9b6-4c85-86dd-5e1692372978" class="">“I want to run a half marathon.”</blockquote><p id="a2356e8f-c234-4214-84b7-bbdb9c093fde" class="">Why? (#1)</p><blockquote id="f1cf35d6-41ac-4f8c-b145-74196a001a8c" class="">“I want to get in really good shape.”</blockquote><p id="f96f5a94-b1f5-42ff-9d78-8efc3ef89a2c" class="">Why do you want to be in really good shape? (#2)</p><blockquote id="8fd50dd6-6e24-4aec-8d21-874bc59bac56" class="">“I want to be able to play sports with my kids when they are older and not be limited physically (like my dad was).”</blockquote><p id="3b462aac-43d4-4c5e-bd8d-decef13285ef" class="">Why do you want to be able to play sports with your kids? (#3)</p><blockquote id="4d32fbd9-bd03-4e92-ad0f-be9c5d9fe668" class="">“Because sports were a big part of my life growing up and I want to be able to share that experience with my kids.”</blockquote><p id="1dd67a8e-42ed-4b50-afee-6be1dbd3d756" class="">Why do I want to be able share that experience with my kids? (#4)</p><blockquote id="aef6035c-5a56-4e97-962f-b0160797d2e0" class="">“Because I want to always be there when my kids might need me and have an open door when they are older to speak into their lives.”</blockquote><p id="49b06aa9-806c-42fd-b722-ae18c6919951" class="">Why do I want to have an open door to speak into their lives? (#5)</p><blockquote id="35f73048-2079-47d6-99a7-79fa8d6cc934" class="">“So they don’t have to make the same mistakes that I did and they can go beyond anything that I’ve done.”</blockquote><p id="286b44d2-8f57-458b-bc45-b364af581e2b" class="">Do you see how powerful this exercise is? By creating a vivid picture of my ideal future, it exponentially increases my motivation for doing something. This is a key skill if you want to manage your motivation well. You have to be able to see your desired state before you can create it.</p><blockquote id="795a9e25-4a26-41c0-9271-4411a995f0be" class="">“Everything is created twice, first in the mind and then in reality.” – Robin Sharma</blockquote><p id="10dde346-5fe5-4c54-b0fd-03735f75bfb6" class="">Motivation is the bridge between the real and your ideal future. If you can see it, you can achieve it.</p><h2 id="1e4ce565-f5ec-4e8a-aa94-355bd3b2dee4" class="">2 Strategies for Maintaining Motivation</h2><p id="dbbeed15-6c8b-43fb-a4c9-5b50fbed6ab2" class="">Whether you want to start or stop dong something, the formula is still the same. When your reason for acting is greater than the resistance, you will take action.</p><p id="9c2725fc-51f0-4a5e-a3b3-fcd41d675558" class="">This means that there are 2 approaches we can take to managing our motivation:</p><ol type="1" id="f4e32ec9-17b0-44e7-b35d-f02967cc8d4d" class="numbered-list" start="1"><li>We can increase the reason to keep going (pleasure)</li></ol><ol type="1" id="4e767120-76f4-4408-a220-a56121f02490" class="numbered-list" start="2"><li>We can decrease reasons to stop (pain)</li></ol><p id="94174192-ee8e-4641-8710-56b82be1b09e" class="">The Five Whys exercise will naturally lead you to these two motivations. If you find yourself having trouble making a change or creating a habit, use this exercise to connect to higher levels of motivation. Once you reach the point where your reason is greater than the resistance, the desired action is inevitable.</p><blockquote id="05618c7e-01c4-4c5d-9bb1-ba40f8f86bd0" class="">“At some point, the pain of not doing it becomes greater than the pain of doing it.” – Steven Pressfield</blockquote><p id="cdb3cf31-e7ce-4f75-bab8-9ebcfbc794e6" class="">But the best part about motivation is that you can actually make it a habit. The more you repeat the desired action, the easier it gets to activate it. As we talk about in <a href="https://www.asianefficiency.com/podcast/203-motivation/">episode 203 of The Productivity Show</a>, forming a habit of deliberate practice by increasing your motivation is a key skill that high-performers possess. If you want to join the high achievers club, you have to get good at managing your motivation. If you do, no goal will be beyond your reach.</p><h2 id="9a007bf8-7830-42e7-a40d-9fc9d30bc227" class="">Conclusion</h2><p id="01c05de5-7d3d-427d-b8e8-980c9436cf09" class="">Here a couple of action steps to help you manage your motivation and take action on your goals:</p><ol type="1" id="c6179b41-a264-45a8-89f5-4a42450f6ad2" class="numbered-list" start="1"><li>Identify an action or habit you’ve been trying to change but haven’t been able to.</li></ol><ol type="1" id="01abe6d8-0dca-4214-93ef-43686e0eb8c5" class="numbered-list" start="2"><li>Complete the Five Whys exercise by asking, “why do I want to change/achieve this?”</li></ol><ol type="1" id="9068777d-411c-42c0-aa1c-1cfba89dd652" class="numbered-list" start="3"><li>Recognize which motivation (pain/pleasure) is driving the change and look for ways to bolster this.</li></ol><p id="cebc1984-cdfa-4809-8f6a-de98812be350" class="">And if you want a little more personalized help to escape overwhelm and get unstuck, <a href="https://asianefficiency.com/quiz">take a few minutes to complete our Productivity Quiz</a>. In just a couple of minutes of your time, we can help you identify the major obstacles that preventing you from reaching your full potential and give you personalized tips and strategies to help you get unstuck and on your way towards attaining your ideal future.</p></div></article></body></html>

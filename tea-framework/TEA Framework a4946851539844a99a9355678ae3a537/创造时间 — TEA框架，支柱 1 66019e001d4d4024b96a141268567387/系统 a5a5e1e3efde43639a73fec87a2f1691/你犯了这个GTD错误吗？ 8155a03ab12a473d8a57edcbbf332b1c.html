@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>你犯了这个GTD错误吗？</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="8155a03a-b12a-473d-8a57-edcbbf332b1c" class="page sans"><header><h1 class="page-title">你犯了这个GTD错误吗？</h1></header><div class="page-body"><p id="2de50423-ef3f-4925-9f2b-bb7c4663cf18" class="block-color-gray"><a href="https://www.asianefficiency.com/productivity/common-gtd-mistake/">https://www.asianefficiency.com/productivity/common-gtd-mistake/</a></p><p id="fd1a1078-cd6a-4ca8-b3be-55193464e4a8" class="">
+</p><figure id="02268522-8e7f-4d97-9f54-8db1f6577d76" class="image"><a href="%E4%BD%A0%E7%8A%AF%E4%BA%86%E8%BF%99%E4%B8%AAGTD%E9%94%99%E8%AF%AF%E5%90%97%EF%BC%9F%208155a03ab12a473d8a57edcbbf332b1c/thanh-gtd.jpg"><img style="width:700px" src="%E4%BD%A0%E7%8A%AF%E4%BA%86%E8%BF%99%E4%B8%AAGTD%E9%94%99%E8%AF%AF%E5%90%97%EF%BC%9F%208155a03ab12a473d8a57edcbbf332b1c/thanh-gtd.jpg"/></a></figure><p id="8b589f11-9d1a-41fa-9989-9525dbf3393e" class="">I first learned about GTD back in 2008 when I picked up a paperback at the local bookstore. A few weeks earlier I got promoted at work and I was overwhelmed. Deadlines were getting missed, my workload went up and I had no way of handling this.</p><p id="8ac486c2-a210-46ee-9ba0-56fa76fbc0d0" class="">Then I remembered my uncle, a successful entrepreneur, telling me about GTD and how it helped him. He was someone I looked up to so I decided to get my own copy of <a href="https://www.asianefficiency.com/likes/gtd-book/">Getting Things Done</a> by David Allen.</p><p id="a2f9dd7d-0806-4404-b96c-31bd0243e444" class="">It helped me get a system place for handling my day-to-day. For the first time since my promotion, I was on top of everything and I felt like I had a new superpower.</p><p id="086034f2-2daa-4513-ad94-f660adfcb6cb" class="">Fast forward to today, after starting Asian Efficiency, <a href="https://www.asianefficiency.com/task-management/gtd-intro/">I’ve learned a lot about the GTD methodology</a>. I was a purist for a few years until I developed my own productivity system that we now teach to our clients. Through Asian Efficiency, we’ve helped thousands of people be more successful with the Getting Things Done methodology.</p><p id="15da213a-12b3-40e5-a090-42201692f27e" class="">After helping so many clients we’ve noticed that there’s one common mistake that we see most new GTD users make. Are you making this mistake?</p><h3 id="b2b6187e-269f-471e-ab1b-9c8611699d59" class="">#1 Mistake New GTD Users Make</h3><p id="0b41878d-2d51-415d-b903-734682c834b0" class="">Many years ago, I met this smart and beautiful woman in Las Vegas. We were both single and flirting with each other. She asked me what I did for a living and I said that I was blogging about productivity.</p><p id="3f48e170-d487-4eeb-b925-7bcdf551acb5" class="">“You must be a GTD user too,” she said.</p><p id="45191f66-998b-485b-a59a-66efd2eee052" class="">“Yes, I am. I doubt you are.”</p><p id="9093e0cb-a633-4fc7-97ec-1d6d0f483c08" class="">Playfully she replied, “Excuse me? Are you doubting me that I don’t know what GTD is?”</p><p id="2bb20da0-e3dd-4751-9e4a-5550f5a1642f" class="">“Yes, I do. What’s the most important step in Getting Things Done?”</p><p id="d75b10ae-c69a-4cdb-b75d-71a5536db098" class="">Only someone who is a GTD practitioner and follows the methodology on a regular basis would be able to answer this question. A few seconds later, she said:</p><p id="106b6172-51d3-42a8-b66e-0fd354141b10" class="">“It’s the review step. Without it, the whole system falls apart.”</p><p id="82359698-ef30-4b1c-be43-5f883aa00b37" class="">(That’s when I fell in love with this woman. We ended up dating for a few years.)</p><p id="649e4952-e26d-4291-a005-2ece97824fa6" class="">She’s right. The review step, which sometimes is referred to as the Reflect step, is the most important step of the whole <a href="https://www.asianefficiency.com/getting-things-done/">GTD framework</a>. Without it, you cannot be on top of everything that’s going on. Especially if you’re in a situation where you have many things going on at work, hundreds of emails to deal with, and many meetings to attend.</p><p id="4b7c7df0-66f3-46df-89c0-aa87add16d20" class=""><a href="https://www.asianefficiency.com/task-management/quick-capture-primer/">It’s easy for pieces of information, tasks, and reminders to get scattered all over the place</a>. Organizing that is important (which is why it’s one of the steps in GTD) but reviewing everything is crucial to get yourself focused on the right things coming ahead of you.</p><figure id="3cf23989-95de-4c3c-90ea-b4ac9b695d90" class="image"><a href="%E4%BD%A0%E7%8A%AF%E4%BA%86%E8%BF%99%E4%B8%AAGTD%E9%94%99%E8%AF%AF%E5%90%97%EF%BC%9F%208155a03ab12a473d8a57edcbbf332b1c/David-Allen-and-Thanh-Pham-480x640.jpg"><img style="width:480px" src="%E4%BD%A0%E7%8A%AF%E4%BA%86%E8%BF%99%E4%B8%AAGTD%E9%94%99%E8%AF%AF%E5%90%97%EF%BC%9F%208155a03ab12a473d8a57edcbbf332b1c/David-Allen-and-Thanh-Pham-480x640.jpg"/></a></figure><p id="9c0ffc8c-6381-4fb0-bc9e-f8022498156e" class="">The biggest mistake I see that new Getting Things Done users make is that they are not consistently doing their reviews. Out of the five steps in the GTD methodology, this is the most neglected step. Without the review step, you might end up focusing your time and energy on the wrong thing. That’s not productive, is it?</p><p id="bab6cc6c-f742-448d-b439-dc764956122b" class="">So why do people struggle with this step so much? Based on my experience, there are a couple of reasons why:</p><ul id="00ca05b7-e45d-416d-941b-381c4ffed5e9" class="bulleted-list"><li style="list-style-type:disc">It can be very tedious the first few times you do it</li></ul><ul id="bd6f4846-e2f3-4345-aada-d462a9a64648" class="bulleted-list"><li style="list-style-type:disc">It can take a long time to do (an hour or two)</li></ul><ul id="64fc7972-0e12-4bba-8e5f-9482c28579ab" class="bulleted-list"><li style="list-style-type:disc">You have to make it a habit <a href="https://www.asianefficiency.com/podcast/149-gtd-setup/">which is already hard to do on top of everything else you have to learn</a></li></ul><p id="6d2f16f4-6672-4bd4-b249-fcf07edfc700" class="">The tricky thing with the review step, which the book recommends you do weekly, is that when you skip it you don’t immediately see the negative effects of it. The flip side is also true when you do review your projects and lists you feel temporary that you have a grasp of what’s coming up. However, that feeling might only last a few minutes and then it’s gone. So you might not make it habitual because you don’t see the big benefit of it.</p><p id="04539f2e-d2e4-4e16-a7ee-54bfdbfae34f" class="">When you skip it a few times and don’t experience any repercussions, it’s easy to keep on skipping it and not realize you’re slowly getting to a place of overwhelm. It’s a slow process that will creep up on you.</p><p id="9456cfa6-19ba-45a3-b534-134a211277ef" class="">Once you hit the tipping point that’s when you feel overwhelmed, deadlines are getting missed, and you start to procrastinate more often. You hit the point of wanting to do “<a href="https://www.asianefficiency.com/podcast/116-getting-things-done-mistakes/">GTD all over again</a>” because your projects, lists, and inbox are cluttered and all over the place.</p><p id="9022e628-4295-4d56-b910-f0364cd759de" class="">That could have all been prevented when you did your review regularly. You have to think of it as cleaning your home on a regular basis. If you don’t do it you can still be a clean freak but eventually, it’ll get messy.</p><p id="1095c38a-77fb-4ad5-bf1e-55ee16e16e20" class="">Imagine that you want to have people come over for dinner. What do you do? You probably start cleaning first, putting stuff away, organizing your home, and making sure everything is in the right place before you start cooking and setting the dinner table.</p><p id="f711a52e-f36b-452c-9aaf-0ac13b049ca4" class="">Imagine for a moment that you already had a clean house. Everything was dusted, there are no clothes on the floor and the dishes were clean. Wouldn’t it be easier, stress-free, and more fun to start preparing for dinner and having friends come over?</p><p id="c0af6c2a-06c3-4753-bf17-685e195b3573" class="">That’s possible for your life too when you regularly review everything. You don’t have to do all the cleaning, moving, and organizing before you do think about how to have a fun dinner party. It’s already nice and tidy! All you have to focus on is to “do the work” and you make it easy for your future-self to get started. No more procrastination, feeling overwhelmed, or feeling behind.</p><p id="168a0d20-6baf-4a3c-be63-8e6e7fe1ddea" class="">Now you’re on top of everything and you can focus on what matters in front of you.</p><h3 id="97769ebd-24de-4e55-a47f-3690765baddc" class="">How Often Should You Review?</h3><figure id="dbd132d1-cd58-4f2e-9826-a8de443703d3" class="image"><a href="%E4%BD%A0%E7%8A%AF%E4%BA%86%E8%BF%99%E4%B8%AAGTD%E9%94%99%E8%AF%AF%E5%90%97%EF%BC%9F%208155a03ab12a473d8a57edcbbf332b1c/img-gtd_fold_2x-1.png"><img style="width:700px" src="%E4%BD%A0%E7%8A%AF%E4%BA%86%E8%BF%99%E4%B8%AAGTD%E9%94%99%E8%AF%AF%E5%90%97%EF%BC%9F%208155a03ab12a473d8a57edcbbf332b1c/img-gtd_fold_2x-1.png"/></a></figure><p id="ca629db6-7baa-49ee-9642-792a9ddefb96" class="">To continue the house cleaning analogy, some people are messier than others. Personally, I’m a very messy person which is why I have a housekeeper coming by every week. Without her help, my place would look like a refugee camp where my parents were in the 80s.</p><p id="ee481891-8d39-4800-a999-2acc42b7404e" class="">(Fun fact: I was born in a refugee camp in the Philippines after my parents escaped the communist regime in Vietnam.)</p><p id="234c54be-86ef-4798-9040-13cabdbd23b1" class="">Others aren’t that messy and keep their homes clean every day and it might take them a few weeks before it gets messy. They might need a housekeeper to come by once a month.</p><p id="717e021f-ac86-458b-ab11-213d91be4585" class="">Everyone’s situation is different and the same is true for you with how often you need to keep your projects and lists in check. The GTD book recommends starting once a week which is a great idea for most of us. After working with some clients, I’ve also discovered that a weekly review is too long of a time period because they’re so busy and have many daily things to deal with that they needed a daily review. Some even do it twice a day because their lives are that hectic.</p><p id="164d5149-0af1-4b54-aeba-a5f896ee7d60" class="">My recommendation is to start with once a week. If your life is so busy filled with lots of emails, meetings, requests, and daily new tasks you want to move to a daily review. Most of our clients find that doing it towards the end of the day helps them stay on top of everything.</p><p id="7e6c9a50-198a-463a-9769-d6fdbf181e54" class="">If you’re like me and you only need a weekly review, here’s how to make it consistent: schedule it on your calendar and make it a ritual. For me, this is every Sunday at 6 pm. For newbies, it might take 30-60 minutes to do a review but you’ll get faster at it the more you do it.</p><p id="7505494b-f382-4f2c-8d5f-9324ef6b981b" class="">Nowadays I can do mine in about 15-20 minutes. In fact, I have a very simple checklist that I follow in Evernote <a href="https://www.asianefficiency.com/technology/best-gtd-apps/">one of our recommended GTD apps </a>so I know exactly what I need to do each time (and not rely on my memory and start wandering off doing other things).</p><h3 id="fe5f348a-db7b-41c8-a301-0fc3e51a05cb" class="">Next Actions</h3><p id="b959776a-ddd8-4043-8925-046ac2cbea3d" class="">We have a podcast called The Productivity Show and we have an episode on the <a href="https://theproductivityshow.com/309">Top 5 Mistakes Most GTD Users Make</a>. We go into more detail there too of other things you might be doing wrong and how to fix it.</p><p id="dd5b848c-def7-4687-9203-29fa7c6a6435" class="">If you want to get more productivity training and my checklist for a weekly review, you have to become a Productivity Academy member. It’s our private community that comes with mentorship, coaching, and accountability. This is where we help members become more productive every week at work and in life. <a href="https://go.asianefficiency.com/productivity-academy/">You can sign up for it here</a>.</p><p id="c0d5b351-1fe9-491d-8a4f-0db205ab42e1" class="">In fact, we have a Weekly Review training exclusive for our Productivity Academy members where we’ll walk you through how to conduct a daily and weekly review. <a href="https://go.asianefficiency.com/productivity-academy/">Here’s the link to sign up for the Productivity Academy.</a> You can also register for our next live masterclass.</p><p id="e1e53984-db33-4883-9941-f662df5b11c9" class="">There will be a recording of it too so if you cannot make it live, we’ll send you a recording of it.</p><p id="03eb15c0-b5b2-42cc-a4cf-c72057e25749" class="">Get the Productivity System Used By Over 15,129 Highly Productive People</p><p id="02587543-a4fd-4928-b06e-b56327a8f4fb" class="">Double your productivity and free up 5-8 hours a week when you get our proven productivity system<strong>.</strong></p></div></article></body></html>

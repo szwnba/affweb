@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>10个简单的列表制作应用程序如何制作列表</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="26844adb-2938-43a7-936d-d0d91ab008a2" class="page sans"><header><h1 class="page-title">10个简单的列表制作应用程序如何制作列表</h1></header><div class="page-body"><p id="9e34a656-6624-48cd-a950-7da4418277a9" class="block-color-gray"><a href="https://www.asianefficiency.com/technology/10-simple-list-making-apps/">https://www.asianefficiency.com/technology/10-simple-list-making-apps/</a></p><p id="17dde1b3-76c2-4b63-b4d7-e438cc1d2010" class="">
+</p><figure id="1da88057-31d2-4352-add0-c72b91c3080e" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/apps-list-fanatics.jpg"><img style="width:700px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/apps-list-fanatics.jpg"/></a></figure><p id="e84ecd26-73cd-41f1-8d65-496565268199" class=""><em>This is a guest post by</em> <em><strong>Kayla Matthews</strong></em><em>. She is a productivity blogger and efficiency enthusiast. You can find her on</em> <a href="https://productivitytheory.com/"><em>ProductivityTheory.com</em></a><em>, on The Huffington Post, and on </em><a href="https://plus.google.com/u/0/+KaylaMatthewsE/about"><em>Google+</em></a> <em>and</em> <a href="https://twitter.com/KaylaEMatthews"><em>Twitter</em></a><em>.</em></p><p id="a1f2fc83-7aab-4ff2-8b4c-e19095f7b892" class="">I have two great loves in life: coffee and making lists.</p><p id="ab58152a-f8ed-4e15-bf42-8a0f5b8dce72" class="">Okay, I do care about other things.</p><p id="89903c0c-5183-4193-ab2d-a5f9eb036be6" class="">But seriously, I love, love, love list-making. I feel like I can’t properly think until I’ve made a list.</p><p id="be912662-0f58-4bad-9781-92e5423427eb" class="">I can’t go grocery shopping, plan my week, write a blog post or even enjoy my weekend until I’ve made a list for it (this last one can drive the people around me a bit crazy, but I seriously prefer to plan my weekend activities via lists).</p><p id="04cc2310-5fe7-426f-853e-5b6805d421c4" class="">When I can see my priorities mapped out in front of me, I feel… calmer. Like, “Ahh, now I know I won’t forget any of these things.” And then I can focus on relaxing or doing whatever I want.</p><p id="108c855a-d05f-4aa3-b9c2-3dd9c4a036bb" class="">I’ve tried to go without making lists.</p><p id="66b7c71e-883a-4ed0-893b-230ae83ccd14" class="">I tried to just think of things in the moment and then put them into my mental “Remember this for later” folder.</p><p id="bee869cc-9f8c-4131-bc03-723315276191" class="">But do you know what happens when I try this approach? I end up coming back from the grocery store with tons of food I didn’t need and not the three items I did.</p><p id="5495b650-587a-4d54-bd86-9380285ef8fa" class="">If any of this is sounding familiar to you, take comfort in knowing that you’re not alone.</p><p id="1f70aaaf-f2d3-4ad2-be90-27808382fbe6" class="">According to a recent <a href="https://blog.linkedin.com/2012/05/22/professional-to-do-list/">LinkedIn study</a> involving 6,500 professionals in more than 15 countries, 63 percent said they tracked their progress via to-do lists. Unfortunately, only 11 percent accomplished all of the tasks they planned to have completed, citing their tendency to become easily distracted.</p><p id="d0cfd1ff-c373-4a64-bea3-bdfcdfb0fcc1" class="">That said, to-do lists have an undeniable effect on our psyche. The fact that there always seem to be a few things we never get around to isn’t necessarily a bad thing – but it is something that you can account for when making your lists.</p><p id="9fae795d-325a-425e-8f6d-8deff36138bd" class="">But why should you be making lists in the first place?</p><h2 id="311e6562-3850-42d2-9670-e186164cd2e3" class="">The Benefits of Making Lists</h2><p id="b4899c8a-5518-4aaa-becc-188ea324d7ec" class="">There are a few reasons why lists have become such an important part of our daily lives:</p><ol type="1" id="c26a0ff7-a821-4335-8e2d-54b41c9b5f70" class="numbered-list" start="1"><li><strong>Lists hold us accountable. </strong>Until you write them down, the things you need to complete are all too easily dismissed as tasks that aren’t important. Planning out how to keep our commitments makes us far more likely to accomplish our goals.</li></ol><ol type="1" id="00f29546-8245-4937-8c40-94b40f72c95a" class="numbered-list" start="2"><li><strong>They help us relieve stress</strong>. To-do lists allow us to feel productive, especially if things can be crossed off early in the day. They allow us to plan our time more effectively and schedule well-deserved breaks or downtime when necessary.</li></ol><ol type="1" id="c7a19ce8-e3a8-4428-a17f-4e5e35877610" class="numbered-list" start="3"><li><strong>Lists can be as flexible or rigid as we like. </strong>As long as we have every intention of completing each task and our goals are realistic, we’re free to change and manage our priorities. In this way, lists can be great motivators.</li></ol><ol type="1" id="5318edc2-20de-4f8d-8e8a-3310a4e80780" class="numbered-list" start="4"><li><strong>They provide us with structure. </strong>For the most part, people need reminders for the important things such as paying bills and remembering important dates. Using lists to create a systematic approach can help us navigate this increasingly complex world and ground us with a sense of responsibility.</li></ol><ol type="1" id="40a56807-30cd-46b2-ae25-00069a113097" class="numbered-list" start="5"><li><strong>They allow us to delegate. </strong>Lists are useful when we need to rely on others or ensure that everyone is on the same page. Additionally, to-do lists allow us to gauge and think critically about our own capabilities to prevent us from taking on too many tasks at once.</li></ol><ol type="1" id="fadaa175-6e49-4baa-8a23-063689344ba1" class="numbered-list" start="6"><li><strong>Lists allow us to block in similar tasks. </strong>We become infinitely more efficient when we’re able to coordinate our efforts and group particular tasks according to location, type and level of involvement, helping us to save time.</li></ol><p id="ad6cd375-e3da-4d75-8ced-19a50c373512" class="">While most of us are familiar with the benefits of creating a to-do list, there are many who struggle to implement and enforce time management strategies, which are often just as important.</p><h2 id="08d187c7-8348-4e3a-9f06-2603c15861ca" class="">Understanding the Limitations of Lists</h2><p id="6c4d594d-c60b-4910-bb8b-c96455bacf2a" class="">In today’s busy world, it can seem as though there is a never-ending list of things to do, regardless of your efficiency. Understandably, we all go through what is known as the <a href="https://www.samuelthomasdavies.com/the-zeigarnik-effect/">Zeigarnik Effect</a>, or a tendency to experience intrusive thoughts about a task or objective we pursued at one time but left incomplete.</p><p id="e7bd3777-0ead-45de-bb75-9b965bf8f2e6" class="">Rolling over those unfinished tasks serves to reinforce the necessity of lists, and it also brings up the possibility of us becoming unmotivated by negative thoughts.</p><p id="6ae7ec03-8f88-4f4a-a76f-5d07b93e9235" class="">As a result, some people are quick to dismiss the effectiveness of to-do lists without understanding how and <a href="https://lifehacker.com/5967563/master-the-art-of-the-to-do-list-by-understanding-how-they-fail">where they fail</a>. Once these areas are identified, you’ll find it much easier to get the most out of your day and track and improve your efficiency.</p><p id="f2e7a709-2d75-44a7-b9ce-d492e53b7786" class=""><strong>That said, list-lovers can be categorized into two groups:</strong> those who prefer to write things down by hand and those who prefer a software-based approach, though it is quite common for people to make use of both.</p><p id="835c6eb8-a972-4a71-8e3d-d4a94d514a9a" class="">As long as there has been work to be done, people have procrastinated. But now, the latest in time management and list-making apps practically do all the work for us.</p><h2 id="8d18c522-c985-4782-be20-acf42f657977" class="">Should You Make Use of List-Making Apps?</h2><p id="b6cf05e3-164e-41bb-b8ec-1ef1dc6e5cd7" class="">To-do lists have survived for so long on paper because they’re immediate and less likely to be forgotten. But, with the advent of smart phones and new technologies, there are now more options available.</p><p id="ab4beb34-5fd2-417f-8fbc-47fa74627976" class="">Those looking to make the transition to digital lists may find the learning curve a little steep. However, the advantages of list-management apps make them viable alternatives, especially when:</p><ul id="80ef3dcd-a78e-4403-a549-471d5aa896f7" class="bulleted-list"><li style="list-style-type:disc">You can update the lists from anywhere via your mobile device.</li></ul><ul id="975fac48-de73-488a-b392-155d9de25305" class="bulleted-list"><li style="list-style-type:disc">You’re able to synchronize and automate priority tasks.</li></ul><ul id="bd27d10c-82d6-4a2f-99ec-709a60933779" class="bulleted-list"><li style="list-style-type:disc">You can add other users and allow multiple people to contribute.</li></ul><p id="6aeb5543-2b1a-447d-8d00-5c78a2b51fcb" class="">There are many more advantages and much potential for list-management apps. And for every advantage, there is likely an application built with it in mind.</p><p id="226bcb73-a8d6-49a7-a1e6-6a3745516217" class="">This makes the task of selecting the perfect app a challenge, but let your personal preferences guide you and inform your decision.</p><h2 id="b2dd9d2f-9e06-4bee-8780-e4e7d61e435a" class="">Finding the List App of Your Dreams</h2><p id="bddb7c9b-862c-400e-b934-5cdfc5e11589" class="">People think and work differently, so it’s best to take the time to try out several different systems to see what works for you. The following list-making applications represent some of the best on the market:</p><h3 id="845135f8-824e-4793-9b9c-d8bd70e0129b" class="">1. Trello</h3><figure id="b9145c99-3b8e-45a6-9bff-2fb58d9edb15" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/trello.jpg"><img style="width:670px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/trello.jpg"/></a></figure><p id="e03bbc0d-9c1a-4cdb-8e3c-b7f3c21e7512" class="">Functioning more like a virtual whiteboard than a traditional to-do list, <a href="https://www.asianefficiency.com/likes/trello/">Trello</a> is a great application for professionals who need to manage their time, collaborative ventures and creative projects as effectively as possible.</p><p id="a0bbff40-793b-40f9-934b-03a577b00784" class="">Its main attraction lies in the use of completely customizable cards to which you can add images, videos and more. These can then be jointly edited or managed by co-workers to improve efficiency, making them as simple or as sophisticated as you’re comfortable with.</p><p id="24b95eaa-30dc-4482-900b-8223239d1460" class="">The app is quite intuitive, and it only takes a few taps to get started. Even after you’ve created a dozen or more boards, you’ll find things remain relatively easy to change and edit due to its effortless drag-and-drop and renaming capabilities.</p><p id="6fc10256-759a-44e4-9485-717e8245e10f" class="">One thing to keep in mind is that Trello requires some micro-management in order for it to simplify your life. But as everything is synced and saved to the Cloud, you won’t have to worry about accessibility or backing up your data.</p><p id="ed11c241-0915-4b42-b827-569eb2311574" class=""><strong>Download links: </strong><a href="https://www.asianefficiency.com/likes/trello-ios/">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.trello">Android</a></p><h3 id="2d55a6d0-a1d5-43d8-ae7c-1ae9a68d75a1" class="">2. GTasks</h3><figure id="ed53249f-de71-4b65-86fc-17f57d499b93" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/gtasks.jpg"><img style="width:700px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/gtasks.jpg"/></a></figure><p id="86526649-aadb-4944-9f44-334872ca55e0" class="">As one of the most straightforward to-do list management apps, <a href="https://play.google.com/store/apps/details?id=org.dayup.gtask&amp;hl=en">GTasks</a> favors simplicity over the flashy and somewhat awkward features of its competition. If you’re looking for something geared more toward setting priorities, reminders and due dates, you’ll find this free app a joy to use.</p><p id="f84cd912-ff79-4e68-b152-d48419dca580" class="">Its strongest feature is its ability to sync multiple Google accounts at once and work with custom launchers so that your overall agenda can be viewed at a glance, even from your desktop.</p><p id="3d2d5794-54a7-48ae-ac2e-a90c9825ecc4" class="">Note that there is a <a href="https://play.google.com/store/apps/details?id=org.dayup.gtask.key&amp;hl=en">premium key available for $4.99</a> that unlocks additional functions such as customized backgrounds, themes, pattern security locks and more.</p><p id="24e33de7-1724-4d21-9e7d-7a203175c542" class=""><strong>Download links: </strong><a href="https://play.google.com/store/apps/details?id=org.dayup.gtask&amp;hl=en">Android</a></p><h3 id="0c50c0ff-974e-45ac-a284-e212aae2c010" class="">3. Wunderlist</h3><figure id="adb99a12-c6b9-40cd-9016-10c677db6023" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/wunderlist.jpg"><img style="width:670px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/wunderlist.jpg"/></a></figure><p id="decb0bb3-258e-4c2b-8331-6f43c1383802" class="">In stark contrast to GTasks, <a href="https://www.wunderlist.com/">Wunderlist</a> is a beautiful app. It works across all of the major mobile platforms including iOS, Android and Windows and doubles as a web app should you wish to work from your desktop browser instead.</p><p id="c7637e9d-bd0a-4d12-9387-7b62f3a0bf11" class="">The free version limits users to 25 assignees, 25 subtasks, 5MB attachments and 20 backgrounds, but this will often meet the needs of most users.</p><p id="8abd8151-6142-4851-8f97-8faf61e125e2" class="">Upgrading to the Pro version for $50 per year or $5 per month removes these restrictions and grants access to additional management tools.</p><p id="26d5bd8e-0c4a-4685-ab39-9c00bb603c16" class="">Those who appreciate an aesthetically pleasing design and a smart interface are sure to gravitate toward Wunderlist for its convenience and ease of use.</p><p id="fbddad1e-930f-48a1-acb0-773285b4aa9c" class=""><strong>Download links: </strong><a href="https://www.asianefficiency.com/likes/wunderlist-ios/">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid">Android</a></p><h3 id="6472d17b-c981-4757-ade6-d0d842860635" class="">4. Any.Do</h3><figure id="2b2cedcc-2a7f-4715-a775-d77e6b3ade0f" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/anydo.jpg"><img style="width:670px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/anydo.jpg"/></a></figure><p id="78b460cd-5ee2-4b8a-9f90-5cf355d7094e" class="">Used by millions of people from all over the world, <a href="https://www.any.do/">Any.Do</a> is an award-winning app best known for its streamlined design and user-friendly interface. The app supports iOS and Android and works with Google Chrome to make creating and managing new tasks from any device a breeze.</p><p id="eea0bd4d-9de9-4bfa-a6a0-8527d56b28ef" class="">Unfortunately, there is no calendar view included in the standard app, but the developers have recently introduced <a href="https://itunes.apple.com/us/app/cal-shared-calendar-daily/id648287824?mt=8&amp;uo=6&amp;at=10l66z&amp;ct=">Cal</a>, a feature that addresses this issue. At any rate, iPhone users will find the geolocation features more than enough to tip the scales back in the app’s favor.</p><p id="855280bf-568e-4b1d-a60a-1c5e86d4e1b5" class="">Other important features include the ability to make calls, schedule time-sensitive or reoccurring reminders, organize meetings and upload files for convenient viewing.</p><p id="0ff3bd9b-c84d-4e35-970a-5bc0b1f55ff2" class="">Those looking to purchase a premium version of a list-making app will find Any.do a cost-effective alternative to Wunderlist at half the price: $26.99 per year or $2.99 per month.</p><p id="1c011316-1968-49d6-97a0-faa7a541adbc" class=""><strong>Download links: </strong> <a href="https://itunes.apple.com/il/app/any.do-simple-to-do-list-daily/id497328576?mt=8">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.anydo">Android</a></p><h3 id="eda0a72a-e082-4ba7-a105-809f89253dd5" class="">5. Todoist</h3><figure id="99bc3357-0850-4603-8548-cb80bf0b540d" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/todoist.jpg"><img style="width:670px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/todoist.jpg"/></a></figure><p id="840c5290-4e5c-4511-8442-a4d619ff81e4" class="">Advertized as the world’s most powerful cross-platform list-management app, <a href="https://www.asianefficiency.com/likes/todoist/">Todoist</a> looks and feels similar to your email inbox, making it an excellent productivity tool.</p><p id="d316008c-a2aa-4139-adcd-e1290651d330" class="">The free version functions like a Cloud-based filing system and supports up to 150 active tasks, 80 active projects, 12 color-coding options and more.</p><p id="b1e5d520-2348-4ef8-b3a3-8acd193b1d28" class="">For the app to be considered viable by professionals, users will need to decide whether email, text message notifications or more sophisticated functions are important to them. These features can only be unlocked by purchasing the premium version of the app for $34 per year or $3 per month.</p><p id="189b609d-1810-44cc-afb4-999bb0689217" class=""><strong>Download links: </strong><a href="https://itunes.apple.com/us/app/todoist-to-do-list-task-list/id572688855">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.todoist">Android</a></p><h3 id="231c4dce-156b-45e8-b1d8-76bf767dce2b" class="">6. Tick Tick</h3><figure id="8ebdf3f3-b573-4eea-9d19-97c16f0bcba5" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/ticktick.jpg"><img style="width:670px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/ticktick.jpg"/></a></figure><p id="55f6e286-4baa-43ca-8844-8340dce6047f" class="">If you notice a similarity between <a href="https://ticktick.com/">TickTick</a> and GTasks it’s probably because they were both designed by the same developers. The app provides features in synchronization, recurring event reminders, subtasks, checklists, tagging and priority setting abilities, third party calendar subscriptions and more.</p><p id="15c438c1-fc86-43fe-a08b-f4545f6b0f3b" class="">Users can organize and track their items in separate daily lists but can also choose to view the entire week ahead if they wish. Notes can be added to individual to-dos, and editing the items is as easy as dragging and dropping them to their new priority locations.</p><p id="65b67630-2d7d-4049-a271-d8134d4a886d" class="">Additionally, lists can be shared with colleagues or family members. The app is versatile enough to benefit both casual users and busy professionals.</p><p id="68c54c9a-2eeb-4484-ab5e-d28f40328716" class="">TickTick remains a straightforward and intuitive app that will suffice for most situations. Its cost-efficiency places it high on the list of potential candidates: You can buy the premium version for $1.99 a month or $19.99 a year.</p><p id="7e1da615-ab25-42c4-9bcc-d0a3782addcf" class=""><strong>Download links: </strong> <a href="https://www.asianefficiency.com/likes/ticktick-ios/">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.ticktick.task">Android</a></p><h3 id="b3583d7c-c17a-4c50-9ac1-032abbd5f04e" class="">7. Evernote</h3><figure id="26ea7b27-9393-487f-80b1-a770bd0cf252" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/evernote.jpg"><img style="width:670px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/evernote.jpg"/></a></figure><p id="160fcbf6-e876-473c-b228-5e2c0798bb6e" class="">No list that claims to assemble the best applications in the business would be complete without at least mentioning <a href="https://evernote.com/">Evernote</a>, the quintessential list-making and time management app.</p><p id="a131ab8a-3c71-4388-a147-ebab100569f3" class="">Today, the service has moved far beyond its original iteration as a Cloud-based note service. It now allows users to upload to-dos as well as photos from their mobile devices or desktop setups. You can even add new items by voice via home screen widgets.</p><p id="a26679fe-8e3a-41d7-9dae-e2e6ee6300c7" class="">What makes Evernote famous is its ability to keep track of anything and everything a potential user might like to document. That, coupled with a searchable text function, makes it the perfect tool for today’s busy professionals who are constantly on the move.</p><p id="441b25a7-0999-4131-85d5-e7c08333182c" class="">In actuality, the app is much closer to a personal assistant than a list-making technology. What’s more is that Evernote supports synchronicity between a variety of <a href="https://evernote.com/products/">companion applications</a> designed to improve and organize your life.</p><p id="8a9dee62-c7e6-429c-8511-e3cf26700f54" class="">Additionally, you can pin notes to the top of your list, set timed alerts to prompt you when something is due and whatever else you can think of. All of these functions are free, but if you’re looking to access your notes offline or want enhanced search and collaboration features, you can purchase Premium and Business plans for $5 and $11 per month respectively.</p><p id="1c62870e-e959-458c-aec6-7594a3f5914b" class=""><strong>Download links: </strong> <a href="https://www.asianefficiency.com/likes/evernote-iphone/">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.evernote&amp;hl=en">Android</a></p><h3 id="c568086d-71be-4045-b44b-93f879897e60" class="">8. Awesome Note</h3><figure id="8b87da94-7093-45f9-8f81-14f1eb43d91b" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/awesomenote.jpg"><img style="width:670px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/awesomenote.jpg"/></a></figure><p id="17d5316c-bce8-46aa-b229-ad5af6258ee7" class="">As an innovative note-taking application and to-do list manager, <a href="https://www.bridworks.com/anote/eng/">Awesome Note</a> allows users to combine notes with flexibility.</p><p id="1f9c875f-58bc-412a-a9bd-092ab31d0882" class="">This particular app prides itself on being highly visual and highly customizable, and its graphical calendar is a great way to keep track of deadlines. Best of all, it features an excellent array of settings and auto reminder functions. It syncs with Evernote and Google Docs, making it a top choice for business professionals.</p><p id="9e86f565-64db-4b38-8aef-b016434f0fdb" class="">The only real downside is that Awesome Note still cannot communicate with the Cloud and is only available on iOS platforms and the Galaxy Note.</p><p id="573cc7b9-d55c-447d-be91-9636d1ddaa1c" class="">If that doesn’t faze you, the sliding interface, sleek design, multiple view options and colored themes will surely capture your attention. This app will even let you change the size and style of font so you can group things more efficiently and in a more visually coordinated way.</p><p id="13003354-2f3e-40f1-92cd-8cf44353f520" class="">Awesome Note is available for iPhone, iPad and Galaxy Note only.</p><p id="466a0573-9df5-454e-8c12-29ec33b7f888" class=""><strong>Download links: </strong><a href="https://www.asianefficiency.com/likes/awesomenote-ios/">iOS</a></p><h3 id="911dce03-4dcd-410c-8a5d-4a85e102ca6c" class="">9. Gneo</h3><figure id="bed513c4-50fb-4bbd-94bf-dd5f399603b7" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/gneo.jpg"><img style="width:670px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/gneo.jpg"/></a></figure><p id="198b6e00-3dfb-4b28-9ea4-fadb8665f95d" class="">Since becoming the Editor’s Choice for Best App in 2013, <a href="https://gneo.co/">Gneo</a> has officially carved out a niche and enjoys a strong and loyal following. It scores highly in the looks-department and many find a lot to appreciate about this newcomer.</p><p id="a0cc103d-bfe1-4796-80a5-61df47d38236" class="">One thing that it does better than the competition is allow users to prioritize tasks as they add them via a toggle switch that changes the importance of the task. This comes in handy when you switch over to the app’s Work Canvas, which divides the display into quadrants for review.</p><p id="fd6029d0-8b9d-4d6b-b673-4f8458b4f83e" class="">The company’s mantra is that “True productivity is about doing the right things at the right time,” and this approach to time management is clearly evident. If you’re looking for a great iOS app that plays well with others, consider downloading and installing Gneo for a seamless and fuss-free experience.</p><p id="44552639-f9e6-4f0a-ac76-ccb6675399fc" class=""><strong>Download links: </strong> <a href="https://www.asianefficiency.com/likes/gneo-ios/">iOS</a></p><h3 id="e6844fdf-220e-47ac-ad44-8dbb8f557411" class="">10. Clear</h3><figure id="c8c8560b-05c8-4496-9ff5-7a70819b6fc4" class="image"><a href="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/clear.jpg"><img style="width:670px" src="10%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%88%97%E8%A1%A8%E5%88%B6%E4%BD%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%88%97%E8%A1%A8%2026844adb293843a7936dd0d91ab008a2/clear.jpg"/></a></figure><p id="bcee3c5a-ca11-4a0b-b00a-e76e9365a79d" class="">Last but not least is <a href="https://realmacsoftware.com/clear">Clear</a>, an app currently helping over 2.5 million people lead more productive lives. If you’re a fan of flat design done well, you’ll find many things to love about this brilliant task manager.</p><p id="635986af-bed9-4451-bbc8-0693814c94c6" class="">It is quite list-centric and doesn’t boast a lot in the way of features when compared to some of the other apps mentioned. Fortunately, what it does, it does very well.</p><p id="e81b7fca-c0d4-49d7-b206-5c0cd442a190" class="">You’ll be able to create multiple lists, set reminders and sync with iCloud to improve your efficiency wherever you are. Many of those who use the app will tell you that it offers the best combination of design, flexibility and ease of use.</p><p id="ad718050-45db-468b-9144-8cc3a955ee00" class="">The language and interface is almost entirely controlled by gestures, so if you love swiping, this might be the perfect app for you. It’s available for $4.99 on iOS only.</p><p id="e4316ee1-d910-407a-b9a5-08975271823a" class=""><strong>Download links: </strong> <a href="https://www.asianefficiency.com/likes/clear-ios/">iOS</a></p><p id="a3518a29-e4b9-43e8-85e6-3daa74954760" class="">Besides these 10 apps, there are <a href="https://www.asianefficiency.com/omnifocus/">plenty of other services</a> available for you to pursue. At the end of the day, the most appropriate app will be the one that suits your individual needs and allows you to take control of your life.</p><p id="95db1f49-00d9-4dac-9c43-c9e79a4b83ce" class="">Whether you prefer to have all the bells and whistles of Evernote or you like to keep things minimal with the simplicity of something like Clear, it’s almost guaranteed that there’s a perfect app out there for you.</p><p id="6efac890-3a1c-4fa0-bd0f-7760dc72188f" class=""><em>Do you have a favorite list-making app that isn’t included in this post? I’d love to hear what you love about it in the comments section below!</em></p><p id="7bdc7470-a06d-488a-a249-f83e63322965" class=""><em>This is a guest post by</em> <em><strong>Kayla Matthews</strong></em><em>. She is a productivity blogger and efficiency enthusiast. You can find her on</em> <a href="https://productivitytheory.com/"><em>ProductivityTheory.com</em></a><em>, on The Huffington Post, and on </em><a href="https://plus.google.com/u/0/+KaylaMatthewsE/about"><em>Google+</em></a> <em>and</em> <a href="https://twitter.com/KaylaEMatthews"><em>Twitter</em></a><em>.</em></p></div></article></body></html>

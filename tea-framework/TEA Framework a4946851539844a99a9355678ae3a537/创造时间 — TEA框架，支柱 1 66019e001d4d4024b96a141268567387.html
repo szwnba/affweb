@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title> 创造时间 — TEA框架，支柱 1</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="66019e00-1d4d-4024-b96a-141268567387" class="page sans"><header><div class="page-header-icon undefined"><span class="icon">🏝️</span></div><h1 class="page-title"> 创造时间 — TEA框架，支柱 1</h1></header><div class="page-body"><p id="60783603-464d-48ce-9a9f-54ebe8731a96" class="block-color-gray"><a href="https://www.asianefficiency.com/productivity/tea-framework-making-time/">https://www.asianefficiency.com/productivity/tea-framework-making-time/</a></p><p id="e20cc79e-c7e7-46c0-989b-5dd1e9567929" class="">
+</p><figure id="12d4b383-0731-4e7d-886f-124a2d0060b7" class="image"><a href="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/vintage-clock.jpg"><img style="width:700px" src="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/vintage-clock.jpg"/></a></figure><p id="0dd76b63-4291-4d6c-bfe0-ae65f700e0b5" class="">We’ve all had that friend or colleague that seems to be able to get more done than anyone else. They do well at work, they have hobbies, they volunteer, and somehow they have time to coach their daughter’s soccer team, too. Through it all, they don’t seem stressed out or overwhelmed.</p><p id="72ef3d4e-c7cf-4da7-8cd2-0b78af944214" class="">How is that possible?</p><p id="85c2786d-ad48-42d7-9bea-ed4e3b47c265" class="">We know that this seemingly-superhuman person doesn’t have more time than the 168 hours the rest of us have in a week, so the only answer must be that they have figured out some way to manage their time effectively. They’ve uncovered a way to make time for what is important to them.</p><h2 id="c096094d-a54a-4b92-8465-482210ab8998" class="">Don’t feel this way? You’re not alone</h2><p id="f2fdcfb4-1821-4573-8e60-8f9d862b228b" class="">If you feel like you don’t have time to get everything done, you’re definitely not alone. Every year, Gallup polls Americans and asks, “generally speaking, do you have enough time to do what you want to do these days, or not?” <a href="https://news.gallup.com/poll/187982/americans-perceived-time-crunch-no-worse-past.aspx">48% of Americans say they do not</a>.</p><p id="451c1924-f34c-4b4d-badf-5bd7c5c9684e" class="">(It may not surprise you to hear that when broken down by gender, the “no” vote rises to 51% for women.)</p><p id="6bee6bca-5e23-4b97-9f1b-2955fc62256a" class="">But the numbers get even more interesting when you dig a bit deeper:</p><blockquote id="8fdfe847-da1c-4918-9f57-88f4ec4087de" class="">About six in 10 working Americans (61%) say they do not have enough time to do what they want, compared with 32% of those who are not working. Having young children also appears to be an important factor in Americans’ perceptions of time pressure. Sixty-one percent of those with children younger than 18 say they do not have enough time, while 42% of those without young children report the same.</blockquote><p id="1b681a76-45bf-43ac-9740-e73aacb7d105" class="">For many of us, especially those with children, getting things done by the end of the day feels more like Indiana Jones escaping under the door.</p><p id="30564543-c960-414d-bbf5-763a964a18d0" class="">But it doesn’t have to be this way. The AE team has helped thousands of people with their productivity, and we’ve found that there are 3 key levers involved in achieving your goals. We call this the TEA Framework, and it has been remarkably effective.</p><h2 id="32fd3187-99b8-403d-8342-2535d51bfe0e" class="">TEA Framework Refresher</h2><p id="8ed4ddf9-db3c-4831-bf1d-248e4ec6c2c6" class="">We first <a href="https://www.asianefficiency.com/productivity/tea-framework/">introduced the TEA Framework in this article</a>, and it breaks productivity down into three pillars:</p><ul id="ea02d8da-df00-477b-a2ec-19e5587c0ea4" class="bulleted-list"><li style="list-style-type:disc"><strong>Time</strong></li></ul><ul id="6d2320cd-667e-4484-9255-726dd8af2aa4" class="bulleted-list"><li style="list-style-type:disc"><strong>Energy</strong></li></ul><ul id="da9ed88c-81d7-4642-80a2-d8b5abf19912" class="bulleted-list"><li style="list-style-type:disc"><strong>Attention</strong></li></ul><p id="091a7850-db8f-410e-a89b-61b9a494d5dd" class="">We call it the 3 Pillars of Productivity.</p><figure id="b82092e9-a5cb-4a66-8521-8772c6302e95" class="image"><a href="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/3-pillars.png"><img style="width:700px" src="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/3-pillars.png"/></a></figure><p id="897b4e1f-bf2b-4f84-925f-b4a0d8a5a89d" class="">At the risk of quoting ourselves, here’s what we had to say about TEA:</p><blockquote id="aa715f19-7e9b-4d9b-917b-f41483f0e7d3" class="">As we worked with people to craft solutions to their productivity problems, the light bulb went on as we began to see how these three areas fit together. All of the systems, habits, mindsets, and ideas fit nicely into this simple framework. Even better, this framework made it easy for people to self-diagnose what was keeping them from reaching their full potential, allowing them to focus on the one thing that will make a difference for them. They didn’t have to try and implement everything at once because they could see right away where they needed help, and they also were able to quickly identify what they could do to fix it.</blockquote><h2 id="695b6d63-3824-4ea8-89c5-267b03d4b268" class="">Why Is Time The First Pillar of Productivity?</h2><p id="352f91e7-73e2-48fc-8d3b-44114dd9555b" class="">In this article we’ll be focusing on the first pillar <strong>Time</strong>. But why does Time come first? Why not the “EAT Framework” or the “ATE Framework”?</p><p id="bb221a65-12d9-4c56-bdbd-ca9086766e9f" class="">If you think about it, it makes intuitive sense. You can have your Energy nailed down and be ready to take action. You can be super-focused and have full Attention. None of that matters if you don’t have the time to actually accomplish your goals.</p><p id="94f46629-fdde-48f7-bf01-33723f6aa09e" class="">Having energy and attention but no time is a recipe for overwhelm – you know what you need to do, you’re ready to do it, but you feel like you just can’t.</p><figure id="0d396653-290b-4430-82cb-4258a419b1f0" class="image"><a href="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/overwhelmed-1.png"><img style="width:700px" src="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/overwhelmed-1.png"/></a></figure><p id="309b55ef-5d94-483d-944f-c846cac4b596" class="">Having this time crunch impacts the other pillars as well. For example, in the 1960s (!), Gary S. Becker studied how economic progress impacted standards of living. <a href="https://www.economist.com/christmas-specials/2014/12/20/why-is-everyone-so-busy">The Economist notes</a>:</p><blockquote id="d474afda-1c9e-4378-8c1c-4a063358b52c" class="">He found that when people are paid more to work, they tend to work longer hours because working becomes a more profitable use of time. So the rising value of work time puts pressure on all time. Leisure time starts to seem more stressful, as people feel compelled to use it wisely or not at all.</blockquote><p id="52a431ce-3746-4529-919a-9bd2ef9014c5" class="">The feeling of no time leads to pressure on leisure time which leads to lower energy and attention.</p><p id="8a26b1fb-ac7b-4805-b704-3871eeffcbc8" class="">So, it is important to make sure your Time pillar is solid before worrying about Energy and Attention.</p><p id="30cc2869-6166-450b-887c-0aa59ef4810a" class="">How do you do that?</p><p id="d5a798d5-e88a-4818-a488-aea99aca62a4" class="">(Note: don’t worry, we will be skipping the normal advice of “watch less TV!” and “stay off social media!” We assume you know you need to do that, or at least you know you need to be intentional about the time you allocate to those activities.)</p><h2 id="76757bea-7354-4496-a640-aaaa4eac2b74" class="">The Three Components of Time</h2><p id="272e0669-2875-4251-a907-cc1ca082ad2e" class="">When we talk about productivity, we talk about breaking it down into Time, Energy, and Attention.</p><p id="e244ad7d-a546-4e47-b648-01066e57f172" class="">Similarly, we can break down Time into components to focus on. This allows you to laser in on one particular area and isolate exactly where the biggest issue to work on is.</p><p id="1f0228b9-5296-42fe-96f5-43fe157e4b19" class="">Once you’ve isolated the problem (or one of them), you then have something to work with and you can find solutions. Once you’ve made improvement in that specific area of focus, you can then move on to the next one.</p><p id="829f2d01-b7b3-4a9b-b934-a1eb7ac7a053" class="">Focused action leads to more useful results.</p><p id="189e713a-7f44-493e-a1b4-14d95f3b7ccd" class="">The three components of Time we are going to focus on are:</p><ul id="549b656e-d295-4c73-9348-488d805355ac" class="bulleted-list"><li style="list-style-type:disc"><strong>Systems</strong> — Evaluating what is happening and looking for improvements</li></ul><ul id="084a2a49-e758-4152-9f80-2d31a66796a6" class="bulleted-list"><li style="list-style-type:disc"><strong>Strategies</strong> — How will you actually make these improvements?</li></ul><ul id="285bea64-5405-4d7b-907b-b1df798bc87e" class="bulleted-list"><li style="list-style-type:disc"><strong>People</strong> — Who can help (or hurt) your time improvements?</li></ul><h2 id="73fee1a0-f99c-4767-8237-79f7fa7136c0" class="">Systems</h2><p id="bd5d037d-f287-4d5e-a975-9d6adbfbb09e" class="">If you look at all the systems around you (and once you start thinking about systems, you’ll see that pretty much everything is a system), you’ll notice that there are really 3 parts to any system. Let’s examine them in relation to time:</p><ol type="1" id="5872e9d3-d0a8-48f9-9d7e-03131997d187" class="numbered-list" start="1"><li><strong>Inputs</strong> — The things coming in to your system. you want to control, manage, or improve everything coming in that could possibly take some of your precious time.</li></ol><ol type="1" id="5286fc24-ed0f-4fc2-b2a6-cd571cb97dbc" class="numbered-list" start="2"><li><strong>Process</strong> — The actual steps and function the system will perform. The way you actually spend your time and the way you go about doing it.</li></ol><ol type="1" id="121ade7f-7eed-47f5-8b8a-ce15218dab59" class="numbered-list" start="3"><li><strong>Output</strong> — The result after doing the steps in your system.</li></ol><p id="4adc456d-bc24-4457-9e7b-a423dac4edff" class="">If you want to improve your use of time, you’ll want to optimize the Input as much as possible, and then find the right Process to get your desired Output.</p><p id="06bc0e26-3309-4037-bfb1-0c1650801338" class=""><a href="https://www.asianefficiency.com/systems/systems-thinking/">When you think about things in this way</a>, you’ll see that when you feel like you don’t have enough time, there’s a good chance that your Input and your Process aren’t aligned, or you haven’t thought through the Output (the way you want to be spending your time) you want fully.</p><p id="bf91d99e-5b63-425e-9c4b-da54212f2c13" class="">We define systems thinking as a process for understanding how things influence each other to produce favorable results.</p><p id="e4280d0a-cdde-4d24-8c9d-c8e3cc938c42" class="">Here’s an example. My oldest son is in his first year of high school, and he is finding that it is much, much more difficult to stay on top of everything and have assignments done on time than it was in elementary school.</p><p id="6ba87d6c-3a6d-4d5c-ab56-68173e485891" class="">His initial reaction was similar to many adults who are struggling at work:</p><ul id="bbf07efb-8770-4659-bf36-aa0bfe59a0bf" class="bulleted-list"><li style="list-style-type:disc">“My teachers (bosses) are unreasonable.”</li></ul><ul id="c88f1243-1de8-4081-9caf-e2c9736a0b3d" class="bulleted-list"><li style="list-style-type:disc">“I don’t have time to get everything done.”</li></ul><ul id="4c57203c-6572-43ec-b933-f6494d18ad57" class="bulleted-list"><li style="list-style-type:disc">“I keep forgetting to do things – they just keep slipping through the cracks.”</li></ul><ul id="adf5d713-485d-4e53-a65f-26cb62039afe" class="bulleted-list"><li style="list-style-type:disc">“My parents are amazing and I listen to everything they say.”</li></ul><p id="b06f445e-974e-4a26-9186-50f1510836ed" class="">(It’s possible one of those he did not actually say.)</p><p id="64fcfd1b-ac91-40a4-ba87-b23b6bb844ce" class="">So, we applied some systems thinking:</p><ul id="46472d52-dc3f-4dd3-9f2d-e929532d2a09" class="bulleted-list"><li style="list-style-type:disc">What are the <strong>inputs</strong>? — Homework comes from school. Hours a week at soccer practice/games, hours a week playing Xbox and watching Youtube, household chores.</li></ul><ul id="c8e17a4c-003f-46b2-9e60-68c484d54113" class="bulleted-list"><li style="list-style-type:disc">What is the <strong>process</strong>? — Wake up, possibly eat breakfast, do morning chores, some screen time, go to school, come home, some screen time, do homework before or after soccer, eat dinner before or after soccer, do evening chores, maybe some screen time depending on the time.</li></ul><ul id="a5c538f1-046f-42e7-8b75-c244d506c94f" class="bulleted-list"><li style="list-style-type:disc">What is the <strong>output</strong>? — Struggling at school, not sleeping well.</li></ul><p id="ae166de4-768e-4d55-aabc-3ebebabc490a" class="">What levers could we pull to improve things now that we know the current system?</p><p id="589af6d3-70a2-4673-8310-3da06955fc28" class="">For the <strong>output</strong> lever, he wants to do well in school, be stress-free (or as stress-free as a teenager can be), and still have time to do activities he enjoys.</p><p id="6f09c0d6-53a7-4d49-b180-27e877bd341b" class="">Obviously, reduce screen time or reduce time at soccer is one lever and the one that would jump out at most people. Optimizing the <strong>inputs</strong> could definitely help.</p><p id="da6f74f6-37f6-4a57-a415-d0b0b245646f" class="">A possibly more impactful lever is the <strong>process</strong> lever. If we changed things up a bit, it would definitely help:</p><ul id="65259ca5-3421-4bb6-8939-987530da75e2" class="bulleted-list"><li style="list-style-type:disc">Wake up, eat breakfast, do morning chores, <em>review agenda to know what is coming that day</em>, go to school, <em>use before school time to get clarification from teachers if needed</em>, <em>capture things in the agenda throughout the day consistently</em>, come home, <em>do homework/studying right after school</em>, have screen time, go to soccer, eat dinner, <em>review agenda for tomorrow</em> do evening chores, go to bed.</li></ul><p id="ec1d63be-5806-407f-998f-7ca2e88330d5" class="">By switching around the process and adding a few items, there is a greater chance of him having time for his big rocks, but he still has time to do the things he wants to do (screen time, soccer).</p><p id="8aac6e1c-4ae8-4756-8e75-47c718df8419" class="">Automation (both technical and non-technical) can have a huge impact on time, and saves you decision-making power that you can use later for the other two pillars Energy and Attention.</p><p id="fec883fa-68d6-4381-b596-4673dc9a3d3b" class="">The little things we do throughout the day really add up. Look for opportunities to:</p><ul id="a5ebc2a3-536e-4e1d-af7e-9968b01cd0ce" class="bulleted-list"><li style="list-style-type:disc">Automate your finances</li></ul><ul id="447af6c3-b37e-41c4-8213-5ba913bf57d3" class="bulleted-list"><li style="list-style-type:disc">Automate your grocery shopping</li></ul><ul id="af752e7c-9a20-41d5-9537-1debe5e92914" class="bulleted-list"><li style="list-style-type:disc">Automate your meal preparation</li></ul><ul id="9221f99d-6a4d-494d-9c12-17ffeeafeb62" class="bulleted-list"><li style="list-style-type:disc">Automate your laundry (yes, that’s a thing)</li></ul><p id="04562828-851d-4b3b-9ead-c598dbeb8a5b" class="">All of these things will free up time for you to focus on the things you want to want to be doing.</p><p id="1c4b56b3-83b9-407f-a193-bd3cadcae32e" class="">There are many things you can do that take a little bit of up-front work, but have a big payoff over time.</p><p id="47d9d2b5-7712-418b-9d62-ed4ba32c492c" class="">For example, you may have tasks that have multiple steps that you need to do every time. Instead of having to remember/figure them out every time and deal with the fallout from forgetting a step, take a few moments to <a href="https://www.asianefficiency.com/technology/10-simple-list-making-apps/">put together a checklist</a>.</p><p id="01687ed1-5f61-42a4-a847-bead30174d5b" class="">In <a href="https://shop.asianefficiency.com/dojo/">the Dojo</a>, our online productivity community, I shared a number of checklists I created using Siri Shortcuts on my iPad and iPhone. With one tap, the project checklist is created in my task management system. I’ve created one-tap checklists for:</p><ul id="674bdc47-2370-427a-97c4-385893026545" class="bulleted-list"><li style="list-style-type:disc">Travel preparation</li></ul><ul id="2ddd41ea-d97e-479f-a155-d747428c97ab" class="bulleted-list"><li style="list-style-type:disc">Things I need to do every game as a soccer team manager</li></ul><ul id="0e023412-c44e-473b-bf32-ca363ea48f98" class="bulleted-list"><li style="list-style-type:disc">Book review and conference review</li></ul><ul id="42200b62-f193-4600-8eac-3f7c99865495" class="bulleted-list"><li style="list-style-type:disc">Bookkeeping preparation</li></ul><p id="4b67e2ab-8ef6-474c-bb47-ce61d0d8de94" class="">You get the idea. Everything goes faster and more smoothly with a checklist, and the more you can systematize it the better it is.</p><p id="077facb5-d318-4cc6-b6f2-03c0cb22d254" class="">Another thing that is a short-term time investment for long-term gain is the creation of a <a href="https://store.asianefficiency.com/morning-ritual-starter-kit/">Morning Ritual</a> and an <a href="https://www.asianefficiency.com/habits/evening-challenge-1/">Evening Ritual</a>. By consolidating the key activities for your day into these rituals, it makes sure they are completed consistently and frees up time during the day to focus on achieving your goals.</p><p id="c224b832-bece-4d39-ad25-9f9f0140eb31" class="">You want to make sure you are making the more effective use of your time and that your time is spent moving you toward your most important goals.</p><p id="99884bec-3023-4bf8-93ae-3cfc1fe4232e" class="">Many people find success using an established system that has a step-by-step way to help you make decisions about what you should be doing.</p><p id="c14e8c72-fa0b-43dd-be70-130624852b54" class="">Two popular systems that we like here at AE are:</p><ul id="0653b322-3441-4d2c-b8cf-5cfd1cb12da7" class="bulleted-list"><li style="list-style-type:disc">Getting Things Done (GTD) — David Allen’s methodology as outlined in his famous <a href="https://www.asianefficiency.com/likes/gtd-book/">book</a>. We have GTD resources in <a href="https://shop.asianefficiency.com/dojo/">The Dojo</a>, and also our <a href="https://www.asianefficiency.com/task-management/gtd-intro/">GTD 101 blog post</a> is very popular.</li></ul><ul id="46915be1-92d3-4d34-9ecf-d006cf5c2177" class="bulleted-list"><li style="list-style-type:disc">The 12 Week Year — Brian Moran’s <a href="https://www.asianefficiency.com/likes/12-week-year/">book</a> is very popular in The Dojo because of its focus on tracking progress towards your goals. We have an excellent training course in The Dojo, and you may also find <a href="https://www.asianefficiency.com/systems/12-week-year-mistakes-2/">5 Common Mistakes That Cause The 12 Week Year to Fail (and What to Do About Them)</a> helpful as you implement it.</li></ul><p id="8514fa0b-a20b-4e20-813c-319fa34e7f17" class="">Whatever you use having a system will help you ensure that you are using your time wisely. As <a href="https://jamesclear.com/">James Clear</a> said <a href="https://twitter.com/JamesClear/status/1047643455722283009">on Twitter</a>:</p><figure id="a7f5499c-82fa-4f33-852e-d20dd34088fe" class="image"><a href="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/james-clear-systems.png"><img style="width:700px" src="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/james-clear-systems.png"/></a></figure><h2 id="f19d75e1-b725-47ac-8d8c-097bb6720f4e" class="">Strategies</h2><p id="65a28d40-7a6d-43aa-9a3d-ab48df9c02dd" class="">Strategies are the “How” — how do I know what I can do that will help me make the most effective use of my time?</p><p id="1b0401e9-77b1-479c-bcf5-3233bcece587" class="">Usually the strategy that you use will line up with the challenge that you have.</p><p id="a3039273-0de6-4015-bc2c-4a6386f3b2b2" class="">For example:</p><ul id="47de62b3-6418-468e-94e3-2fe14dde2a56" class="bulleted-list"><li style="list-style-type:disc">Are you getting to the end of the day and you haven’t made any progress on the most important thing you needed to do that day? You’ll probably want to <a href="https://www.asianefficiency.com/habits/eat-that-frog-most-important-tasks-morning/">Eat That Frog</a>.</li></ul><ul id="b4da01a5-f794-4cd2-b388-ddcde28e0098" class="bulleted-list"><li style="list-style-type:disc">Do you find yourself always responding to things that pop up and don’t have a handle on what you should <em>really</em> be doing? You’ll want to <a href="https://www.asianefficiency.com/task-management/simple-task-management/">learn to use a task manager to achieve your goals</a>.</li></ul><ul id="0d15ff28-998e-4dd0-a261-eee914df1322" class="bulleted-list"><li style="list-style-type:disc">Are you not making time to work on those big tasks that you know you really should be doing? (For example, writing a blog post about Time…). <a href="https://www.asianefficiency.com/motivation/become-more-productive-with-the-pomodoro-technique/">The Pomodoro Method®</a> is outstanding.</li></ul><ul id="602d70f6-4014-4fc8-add3-aa39a11a13b2" class="bulleted-list"><li style="list-style-type:disc">Is email eating up your entire day? <a href="https://asianefficiencygo.com/inbox-detox-blog">Inbox Detox</a> will help.</li></ul><ul id="8458ef96-07c9-45c5-a537-9b8dc83657c1" class="bulleted-list"><li style="list-style-type:disc">Do you have too much on your plate? <a href="https://www.asianefficiency.com/podcast/155-better-decisions/">Learn how to say no effectively</a>.</li></ul><p id="d5e8b43d-b012-4c44-80a0-670a838ebeb4" class="">These are all strategies you can use to keep your day from getting thrown off track.</p><h2 id="2168a2d5-e031-4856-b464-aa062c5790b4" class="">People</h2><p id="0612ea7f-11d4-4331-9851-c20a0bddd5d9" class="">Sometimes it feels like we would be 100x more productive if we didn’t have to interact with others.</p><p id="2f7057cc-7911-4a6b-bb8c-deb43dd91baa" class="">A customer told us once that she puts a traffic cone in front of her office door to people dropping in for “just a minute”. Perhaps you can relate (or perhaps you’re already scouting traffic cones online).</p><p id="72b1bf3f-bf09-4004-9184-7c785ef2a678" class="">On the flip side, in some cases working with others can dramatically increase productivity. Many of the strategies in “Automating Your Life” above involve working with others.</p><p id="ee467d53-4df7-44c0-a167-f12d2c566d53" class="">You can <a href="https://www.asianefficiency.com/outsourcing/personal-outsourcing/">outsource</a> tasks you don’t want to do (or at least shouldn’t be doing, even if you like it).</p><p id="deae392e-f1b7-41b8-ba95-7cf4f6ca8052" class="">If you’re a business owner or in a leadership position, we have a podcast with <a href="https://www.asianefficiency.com/podcast/182-delegating/">3 steps to delegate work the right way</a> and an interview about <a href="https://www.asianefficiency.com/podcast/190-executive-assistant/">hiring your first Executive Assistant</a> (this has been a huge time-saver for Thanh).</p><p id="da14a95d-3683-42b6-993c-e271ef702712" class="">If you work in an organization of almost any size, a big chunk of your working time is taken up by meetings. In the last year, we made it a priority to focus and optimize our meeting rhythm, and it’s been extremely successful. We’ve written up what we’ve learned in our <a href="https://www.asianefficiency.com/productivity/asian-efficiency-guide-productive-meetings/">guide to productive meetings</a>. Don’t let Joe in Accounting’s bad meeting habits suck up all your big rock time.</p><h2 id="c3e37e30-a0fb-4af1-b958-a48bc568fc21" class="">Additional Tactics</h2><p id="5b0dc39c-1fd5-4b9c-976f-5cfbe70246ec" class="">Finally, there are actions we can take that don’t really fall into a specific system or strategy, but can help quickly free up time.</p><p id="8165972f-d8e6-4317-a38c-b4da770e5f1d" class="">Examples include:</p><ul id="6e83c7b3-aaad-4640-8967-c27bca17503c" class="bulleted-list"><li style="list-style-type:disc">Using <a href="https://www.asianefficiency.com/productivity/10-powerful-apps-help-maintain-laser-focus/">a content blocker</a> to shut down access to time-sucking apps and websites when you’re trying to work.</li></ul><ul id="0eb7d029-9740-4992-80fd-098dd7078022" class="bulleted-list"><li style="list-style-type:disc">Using a <a href="https://www.asianefficiency.com/technology/comprehensive-textexpander-guide/">text expansion tool</a> to translate text shortcuts into larger blocks of text. If you write any amount of text on your computer, this is a lifesaver.</li></ul><ul id="e4171859-5c42-45c2-a6db-719e5d0b5ffc" class="bulleted-list"><li style="list-style-type:disc">Learn to use <a href="https://www.macstories.net/stories/shortcuts-a-new-vision-for-siri-and-ios-automation/">Siri Shortcuts</a> or <a href="https://assistant.google.com/">Google Assistant</a> on your devices.</li></ul><p id="626d5d83-698e-42a2-9e04-196c1026c371" class="">Do you have other quick productivity tactics? Let us know in the comments!</p><h2 id="07eec14a-0653-461b-bb0a-f6170f2d3ea7" class="">Action Steps</h2><p id="7ec6b7f5-de61-4e10-b7fa-b16e8ca87047" class="">If you want to make the most of your limited time, here’s what we recommend that you do:</p><ol type="1" id="6668d23d-80a1-48bb-9d19-d97ca2b52712" class="numbered-list" start="1"><li>Figure out how you’re actually spending your time (for example using <a href="https://asianefficiency.com/likes/timing/">Timing</a> for the Mac or <a href="https://www.asianefficiency.com/likes/toggl/">Toggl</a>. When you have this information, it will become very clear what Inputs you may need to change to your productivity system.</li></ol><ol type="1" id="8f5b0536-706f-45c0-8749-659b27dd4157" class="numbered-list" start="2"><li>Ask yourself: Is there anything you can stop doing? If so, come up with a plan for stopping.</li></ol><ol type="1" id="6d6fa545-b8fd-4237-b4ae-9da8de3c632f" class="numbered-list" start="3"><li>Ask yourself: Is there anything you can delegate to someone else? If so, come up with a plan for that too.</li></ol><ol type="1" id="55d743bc-4dbf-4a20-88c1-8dc0918bb0d0" class="numbered-list" start="4"><li>Ask yourself: If you had more time, what one thing would you do? Schedule that (put it on your calendar) and build the rest of your day or week around doing it.</li></ol><p id="df8dce3f-c1d2-4aba-af75-89ebdcd3d74f" class="">If you want to find out where you should start, <a href="https://asianefficiency.com/quiz">take our quick Productivity Quiz</a>. It will give you customized advice and action steps that will focus on your top productivity goals.</p><p id="0c9b2d26-17f0-4518-9230-2cf4a800adf9" class="">Double your productivity and free up 5-8 hours a week when you get our proven productivity system<strong>.</strong></p><figure id="a5a5e1e3-efde-4363-9a73-fec87a2f1691" class="link-to-page"><a href="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/%E7%B3%BB%E7%BB%9F%20a5a5e1e3efde43639a73fec87a2f1691.html"><span class="icon">🎞️</span> 系统</a></figure><figure id="ac5a7f76-f95c-462a-823a-9f86f37b9a5c" class="link-to-page"><a href="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/%E7%AD%96%E7%95%A5%20ac5a7f76f95c462a823a9f86f37b9a5c.html"><span class="icon">🥊</span> 策略</a></figure><figure id="b29e4d84-57d6-4a48-ac2b-aea48daffea2" class="link-to-page"><a href="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/%E4%BA%BA%20b29e4d8457d64a48ac2baea48daffea2.html"><span class="icon">🛩️</span> 人</a></figure><figure id="ccd3413b-cccb-4585-b1c8-be4382120569" class="link-to-page"><a href="%E5%88%9B%E9%80%A0%E6%97%B6%E9%97%B4%20%E2%80%94%20TEA%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%9F%B1%201%2066019e001d4d4024b96a141268567387/%E5%85%B6%E4%BB%96%E6%88%98%E6%9C%AF%20ccd3413bcccb4585b1c8be4382120569.html"><span class="icon">🎷</span>其他战术</a></figure></div></article></body></html>

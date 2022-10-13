@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>个人外包：如何每天超过24小时</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="0609212b-2560-4fe8-887a-dc30ef3351cf" class="page sans"><header><h1 class="page-title">个人外包：如何每天超过24小时</h1></header><div class="page-body"><p id="13090a2d-31ab-4b85-a343-2883deb6f59a" class="block-color-gray"><a href="https://www.asianefficiency.com/outsourcing/personal-outsourcing/">https://www.asianefficiency.com/outsourcing/personal-outsourcing/</a></p><p id="3e129cc3-64f8-495d-89d4-4f643359151f" class="">
+</p><figure id="98446e83-4fa9-438b-ac31-171fe670be8a" class="image"><a href="%E4%B8%AA%E4%BA%BA%E5%A4%96%E5%8C%85%EF%BC%9A%E5%A6%82%E4%BD%95%E6%AF%8F%E5%A4%A9%E8%B6%85%E8%BF%8724%E5%B0%8F%E6%97%B6%200609212b25604fe8887adc30ef3351cf/dog-walker.jpg"><img style="width:640px" src="%E4%B8%AA%E4%BA%BA%E5%A4%96%E5%8C%85%EF%BC%9A%E5%A6%82%E4%BD%95%E6%AF%8F%E5%A4%A9%E8%B6%85%E8%BF%8724%E5%B0%8F%E6%97%B6%200609212b25604fe8887adc30ef3351cf/dog-walker.jpg"/></a></figure><p id="70b30450-f707-4280-9ba9-f095ae33f2fc" class="">Dog Walker</p><p id="5f8489b7-be0c-4756-9948-58aa28eb39eb" class="">Outsourcing is a term borrowed from the corporate world, that refers to taking a function of a business and having it provisioned by an external company, often overseas. Applied to our personal lives, outsourcing is about taking things that we would normally have to do in our day-to-day lives, and having someone else do it at a low(ish) cost.</p><p id="ebcbd3df-5e70-44c2-8d17-0f7332b6852e" class="">The first popular mention of personal outsourcing comes from <a href="https://www.esquire.com/ESQ0905OUTSOURCING_214">AJ Jacobs of Esquire magazine</a>. His article, written (by outsourcers) back in 2005, was a humorous look at just how much of your life could be run by a team of Indian virtual assistants at a low hourly rate.</p><p id="990eb5f1-9785-46a9-8d02-de94e7510ad3" class="">In terms of efficiency, personal outsourcing is incredibly valuable as it allows you to get more out of the 24 hours a day that we are all given. While you are working, someone else can be doing your shopping, your taxes and life management tasks. This article is a very basic primer to the most common things that can be (and should often be) outsourced to others, freeing up your time for higher value activities.</p><h2 id="26bbf78e-af6b-4a5a-8190-831b78c59a2e" class="">The Premise</h2><figure id="36236fcf-36e7-4c04-9cef-f531cd69f3a8" class="image"><a href="%E4%B8%AA%E4%BA%BA%E5%A4%96%E5%8C%85%EF%BC%9A%E5%A6%82%E4%BD%95%E6%AF%8F%E5%A4%A9%E8%B6%85%E8%BF%8724%E5%B0%8F%E6%97%B6%200609212b25604fe8887adc30ef3351cf/laundry.jpg"><img style="width:640px" src="%E4%B8%AA%E4%BA%BA%E5%A4%96%E5%8C%85%EF%BC%9A%E5%A6%82%E4%BD%95%E6%AF%8F%E5%A4%A9%E8%B6%85%E8%BF%8724%E5%B0%8F%E6%97%B6%200609212b25604fe8887adc30ef3351cf/laundry.jpg"/></a></figure><p id="9366a39e-f38c-4d81-a428-c403b65e77b1" class="">The important thing to remember about personal outsourcing is that you absolutely must know <a href="https://www.asianefficiency.com/productivity/time-tracking/">how much your time is worth</a> (usually per hour). This is the only way to find out if something is worth outsourcing or not.</p><p id="6f47008b-a042-4901-91ce-c54b3850e75a" class="">Let’s look at an example. The average per capita income for someone living in California is $38,956 according to the US Department of Commerce. The average person works 9-5, 8 hours a day, 5 days a week for 52 weeks. This means they work 260 days, or 2080 work hours a year. $38,956 divided by 2080 is $18.73 per hour.</p><p id="3164bdfa-562f-4b45-8b84-9fef77f9deb0" class="">This means that an hour of that person’s time, is potentially worth $18.73 per hour. Now of course, there are further considerations. Real Hourly Wage encompasses more than just working hours – it factors in commute time, time spent thinking about work, time spent at company social events, overtime and so on. But for the purposes of example and simplicity, let’s go with the $18.73 per hour for the average Californian worker.</p><p id="f563d8a9-410b-415c-b049-d22ce2575910" class="">What this means, is that any task that has a cost of less than $18.73 an hour should potentially be outsourced to others. When calculating the cost of a task, you must also consider the time it takes you to complete the task compared to someone who you outsource it to. For example, it may take you the better part of two weekends to complete your taxes (assuming a minimal 20 hours, that’s $374!), but it may only take your accountant a couple of days. Plus, he or she is more likely to get it right the first time and take everything into consideration. The question then becomes: well, what do you do instead of the tasks that you have outsourced?</p><p id="14ce0dc2-7b6a-4096-9ddc-7a21abef1b71" class="">If you are an entrepreneur this is easy – work on your business! If you are employed, it becomes a bit blurrier. You should be spending time working on tasks that have a greater value (monetary or otherwise) than what you have outsourced – whether it is furthering your education for better work prospects, starting a side business, or just spending quality time with friends and family.</p><h2 id="513a1596-7bec-4dc5-a9ff-a6cb86b9acff" class="">Common Tasks</h2><p id="c063d7ea-33a3-4fbd-b795-02aeb1b8f814" class="">There are two types of outsourcing: onshore and offshore. Onshore refers to having people in your local area or city who you outsource to. Offshore refers to having people in another geography (usually another country or state) who you outsource to. You’ll find that most of the examples below are for Onshore (or Local) Outsourcing. The reason for this is that there are limitations as to what your offshore outsourcers are capable of doing, and managing them would take another entire article to describe.</p><p id="d9703530-67d7-4038-bb38-cf090e13421e" class="">Here are some examples of things you can outsource.</p><ul id="c8468093-d1cf-41fd-a67f-20d2cc993c69" class="bulleted-list"><li style="list-style-type:disc"><strong>Laundry.</strong> Depending on your living arrangements, laundry is one of those things that can be easily outsourced. In most major American cities, people usually spend at least 1.5-2 hours each week doing their laundry (assuming a standard sized load – you may indeed have more). Thus, the opportunity cost of doing laundry (in addition to the cost of machine operation if any) would be about $28-37. In would be relatively simple to find someone on Craigslist to do your laundry for you at less than that amount.</li></ul><ul id="2906b20e-380b-4aef-9e06-d7d55c5e1eb8" class="bulleted-list"><li style="list-style-type:disc"><strong>Grocery Shopping.</strong> When I lived in San Francisco, I used to visit the grocery store twice weekly, spending about an hour each time getting there, shopping and then unpacking once home. For a minimal cost, I could have had my groceries delivered (or even free if over a certain amount), thus freeing up my time to work on my business.</li></ul><ul id="cb5d8700-929e-4a5a-aed4-d234179cf957" class="bulleted-list"><li style="list-style-type:disc"><strong>Gardening.</strong> If you have a garden or yard, it is usually worth your while to have someone else mow the lawn or even water the yard. Plus they’ll have all the proper equipment, which you would then not have to buy.</li></ul><ul id="58970b01-77c5-483a-a492-ac1cdc950e13" class="bulleted-list"><li style="list-style-type:disc"><strong>Everyday Errands.</strong> These are errands like waiting in line at the post office, calling your credit card company or even visiting the bank. Of course, there are certain limitations (especially with financial transactions) but for the most part, you simply don’t have to deal with these. Know a neighbor’s teenager who wants some pocket money? Have them take your mail to the post office for you. Have to call and discuss things with your bank/credit card company? You can find an offshore virtual assistant to do that for you for $4 an hour.</li></ul><ul id="1b6c1000-77a5-4d8b-bfa3-afb5738bf94f" class="bulleted-list"><li style="list-style-type:disc"><strong>Maid or Cleaner.</strong> This is where we start to get into the more “expensive” areas of outsourcing. Having a maid or cleaner come in on a weekly basis seems like a luxury for most people, but using Craigslist or local classifieds in your area you can probably find someone to do it for you – in half the time.</li></ul><ul id="495250ad-676c-462e-9e7d-2622f13d819e" class="bulleted-list"><li style="list-style-type:disc"><strong>Cooking and Food.</strong> Having a chef come in and prepare meals is pretty nice, but can get pricey. A better solution is to have an arrangement with a local takeout place to deliver you food daily. Prepay them if you can, and tell them to mix and match however many dishes you want per day… and never worry about working out what to cook again.</li></ul><ul id="948d2621-4b05-44ba-a916-a80d212f0d84" class="bulleted-list"><li style="list-style-type:disc"><strong>Driver.</strong> If you have a long commute where you are capable of being productive, this is something you should consider. See this article by the CEO of <a href="https://www.asianefficiency.com/likes/jangomail/">JangoMail</a> to find out more how you outsourcing to a driver can make your business grow.</li></ul><h2 id="68cae4d1-700e-46e6-b29f-06cdd18e1317" class="">A Blurry Line</h2><p id="03716f53-a293-4e15-8ced-e7c0e71c1b68" class="">We’ve mostly looked at the simple, everyday things that you can outsource. But there is so much more. Some people ask where the line should be drawn – if you have a boring and monotonous office task at work, can you outsource that to say an assistant in India who will do it for a fraction of the cost? Well, it’s really up to you. There is of course the issue of professional accountability and responsibility. Where you draw the line has become increasingly blurry in today’s world.</p><h2 id="097cdc4b-4ba2-4ffb-b879-7bd62ba81cdb" class="">Quick Tips and Tricks</h2><ul id="67231e23-58bb-48c6-9835-137f91feeee0" class="bulleted-list"><li style="list-style-type:disc"><strong>Consider non-monetary trades and barter.</strong> Parents do this with their children all the time – do your chores and then you get to go play for an hour. You can do this with your roommates, family members, neighbours or friends – say trading waiting in a laundromat (where you can do something productive like read a book) for them picking up some groceries for you weekly.</li></ul><ul id="ad401d67-d6d9-47bf-8be7-cec8fd48382b" class="bulleted-list"><li style="list-style-type:disc"><strong>Try to find local people.</strong> For most tasks this is necessary due to the necessity of a physical presence, but in general, is easier due to direct face-to-face communication and there is less potential for misunderstandings.</li></ul><ul id="f5f6fa3a-cefd-4b29-9a18-16b31c70aeee" class="bulleted-list"><li style="list-style-type:disc"><strong>Clear instruction and communication.</strong> Make sure your instructions and communication with your outsourcers are crystal clear, and that there is no potential for misunderstanding. There is nothing more annoying than having to have someone repeat a task because they didn’t ask a simple clarification question first.</li></ul><ul id="0c13f65d-cf02-4955-8515-5f987eeb5409" class="bulleted-list"><li style="list-style-type:disc"><strong>Get creative.</strong> There are probably a bunch of tasks (like going to the post office) that you would think that other people wouldn’t do. But you’ll be surprised. It may seem unconventional to you, but it may be perfectly normal for someone else. The only way to find out is to ask, and see if someone’s willing to do it!</li></ul><h2 id="0d61d590-7f19-4055-a7c0-2aacee84b334" class="">Resources</h2><p id="8ed4e978-c474-40f2-a8af-d375bf911ec0" class="">There are a number of resources you can use to find “outsourcers”.</p><p id="67cffa28-4f01-41cb-897b-210989090dab" class="">For local tasks, the number one, at least in the US, is Craigslist. It will take time to filter through applicants and postings, but can be well worth it.</p><p id="c566ab01-000a-4bf2-a04b-d932080f19fa" class="">For professional tasks, the most popular online marketplaces are <a href="https://www.asianefficiency.com/likes/odesk/">Odesk</a> and <a href="https://www.asianefficiency.com/likes/elance/">Elance</a>.</p><p id="c99f903b-f166-4abb-9910-8fca34f01e67" class="">For miscellaneous remote tasks (and some fun), check out <a href="https://www.asianefficiency.com/likes/fiverr/">Fiverr</a> – it is fairly amazing to see what people will do for $5.</p><p id="2015f726-f2bd-4f52-8702-a085ccb98c0c" class="">If you live in the San Francisco Bay Area, check out <a href="https://www.taskrabbit.com/">TaskRabbit</a>.</p><h2 id="d88231f2-b2b4-4584-acdf-90d529767b01" class="">Next Actions</h2><ul id="87346c8d-842c-4f99-b0ea-aaf90b9fc13c" class="bulleted-list"><li style="list-style-type:disc">Work out how much your time is worth per hour.</li></ul><ul id="82f75225-f344-428b-891a-0e0433b92f33" class="bulleted-list"><li style="list-style-type:disc">Think about the things you do weekly, but really don’t like to do or would rather have someone else do.</li></ul><ul id="701210d9-54c3-4f0d-ab4a-641b6b86a76c" class="bulleted-list"><li style="list-style-type:disc">Post up some ads on Craigslist looking for people to fill those things.</li></ul><ul id="0fca2484-a6c4-4bb6-a2be-647ab2ee955c" class="bulleted-list"><li style="list-style-type:disc">Start enjoying the extra time you now have – and put it to good use by doing something productive!</li></ul></div></article></body></html>

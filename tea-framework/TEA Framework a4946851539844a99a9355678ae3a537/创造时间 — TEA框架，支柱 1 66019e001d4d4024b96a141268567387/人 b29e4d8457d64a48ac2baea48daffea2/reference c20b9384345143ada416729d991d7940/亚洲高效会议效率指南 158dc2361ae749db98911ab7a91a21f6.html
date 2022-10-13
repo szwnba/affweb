@@ -1,0 +1,671 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>亚洲高效会议效率指南</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="158dc236-1ae7-49db-9891-1ab7a91a21f6" class="page sans"><header><h1 class="page-title">亚洲高效会议效率指南</h1></header><div class="page-body"><p id="c4c84e75-77ab-4f46-a8c8-aafd9e14aef8" class="block-color-gray"><a href="https://www.asianefficiency.com/productivity/asian-efficiency-guide-productive-meetings/">https://www.asianefficiency.com/productivity/asian-efficiency-guide-productive-meetings/</a></p><p id="e71a13fa-9189-4d5f-99fd-281192a10052" class="">
+</p><figure id="2272f5dc-ddf9-48be-8c58-35fef7541222" class="image"><a href="%E4%BA%9A%E6%B4%B2%E9%AB%98%E6%95%88%E4%BC%9A%E8%AE%AE%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%20158dc2361ae749db98911ab7a91a21f6/Team-Meeting-e1526474448597.jpg"><img style="width:700px" src="%E4%BA%9A%E6%B4%B2%E9%AB%98%E6%95%88%E4%BC%9A%E8%AE%AE%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%20158dc2361ae749db98911ab7a91a21f6/Team-Meeting-e1526474448597.jpg"/></a></figure><p id="640dd864-a1cb-43d2-b61c-62e775bcbbbb" class="">I have spent a lot of time in the corporate world and I know first-hand how unproductive meetings can be. During my time in the BPO (Business Process Outsourcing) industry, it was normal to start the day in a meeting. I remember my routine well: buy coffee, ride the elevator to my floor, drop my stuff at my desk, and then directly go to the conference room. When I was done, at least two hours have passed. Unfortunately, that wasn’t the only meeting I had to attend. By the end of my workday, I was exhausted and I felt that I was not able to accomplish much. Having every day filled with meetings drained me of my time and my energy and I would ask myself “Where did my time go?”</p><p id="a97a4807-0614-4da7-8a46-bc32b31d4071" class="">But in this post, I’m going to show you what we figured out here at AE that significantly reduced the unproductive time that we spent in meetings so we could get important work done.</p><p id="8100df63-cfd7-4b84-9167-d58edc033a4a" class="">Now imagine that for an entire month, you don’t have to attend a single meeting. Does that make you happy? Productive? Unproductive? We will have different answers. Some of us might say that, yes, it will make us happy. At the same time, we will worry if there is a disconnect between us and our team or clients. Even if some of us don’t like attending meetings, we recognize that most of them are still important.</p><p id="3ad2d0de-cf9c-49c3-b798-984246ddc1e4" class="">But not all meetings are created equal.</p><p id="f262ca57-2256-41c5-ad0f-1026fa80c63d" class="">Of the past 5 meetings that you have attended, can you still recall all the action items from those meetings? What were the outcomes from those meetings? Can you recall the goals? Perhaps we remember some–but not all. This is especially true if you’ve attended a meeting that had nothing to do with you. A study by Atlassian said that half of those who attended meetings think that they <a href="https://www.atlassian.com/time-wasting-at-work-infographic">wasted their time and that they spent 31 hours in unproductive meetings</a> in a month.</p><p id="3b5909e0-b221-4974-b5fe-b9882211b8aa" class="">Thirty-one hours is a LOT of time and if we feel that it was unproductive, then we are saying that we lost 31 hours of time that we cannot take back. Thinking about that is already stressful.</p><h2 id="960d1f33-5024-4bef-b896-8d122241d362" class="">But why are meetings toxic? Here are 4 reasons:</h2><h3 id="3df0d361-8bc5-4781-bb0d-20e2bf368c78" class="">1. It is the #1 time-wasting activity in most companies</h3><p id="821fde84-2611-4aa5-b7a4-11df4d7a3a9f" class="">When someone invites us to a meeting, we often ask “How long will it last?” This is because we have to schedule our other tasks around those meetings and as much as we want all meetings to be less than an hour, that’s not entirely true. Senior managers spend approximately <a href="https://orgscience.uncc.edu/sites/orgscience.uncc.edu/files/media/Rogelberg%20et%20al.%20-%202007%20-%20The%20science%20and%20fiction%20of%20meetings.pdf">23 hours in meetings per week</a>. That’s a lot of time spent for someone managing a team, a project, or an entire department.</p><p id="80deef4d-f04e-4ade-98fe-aa33dfd2e12d" class="">Then there are meetings that are NOT in our calendar…</p><p id="68e5cd7b-8267-456b-82c6-be7770f2494c" class=""><em>“Knock Knock”</em><em>“Come in!”</em><em>“Hey! Do you have time? John wants to meet in the conference room right now.”</em><em>“How long will this take? I am still creating a client report.”</em><em>“Oh, it won’t take long. 30 minutes max.”</em><em>“Okay.”</em></p><p id="b51c116c-3858-4a6f-8ef8-7f41b90609d4" class="">Well, 30 minutes wasn’t really 30 minutes. It was really 60 minutes. So what? It’s just 30 minutes difference, right? But if this happens at least twice a week, 30 minutes becomes 4 hours in a month. Just think about what you could have accomplished if you had an extra 4 hours each month. You can use this extra time to work on achieving your important goals instead.</p><h3 id="ce71f244-8f66-464c-9f44-ae0e44bc4bb8" class="">2. Just because you’re invited, doesn’t mean you’re needed</h3><p id="80552dae-da82-4b00-97fb-0368dbe17ebf" class="">Have you ever attended a meeting that made you wonder “Why am I even here?” When you attend a meeting that has nothing to do with you, you not only waste time, you waste mental energy as well. Plus, now you are thinking about stuff that really doesn’t concern you or the job that you do. If you find yourself daydreaming during a meeting or doodling on your notepad, it could be because the meeting doesn’t need you or perhaps an email summary will suffice.</p><h3 id="b8695a83-3388-431c-afb1-9498ebd75ef9" class="">3. Each person in a meeting costs the business money</h3><p id="c3db577b-6827-4926-970b-887e50125035" class="">Meetings are expensive. Are you making money while you are in a meeting? Not really. Is the business spending money while you are in a meeting? Yes because your time is paid. Put 10 executives in a one-hour meeting and (let’s say) <a href="https://en.wikipedia.org/wiki/Executive_compensation_in_the_United_States">their hourly rate is $480</a>, that’s $4,800 cost for an hour-long meeting. Which is fine as long as they need to be there or if the meeting is necessary. But if it’s not or there’s no real value added—well, there goes $4,800. And if it happens every month, that’s $57,600 per year.</p><p id="c88069c6-e663-434b-bfe9-32c5d8c95405" class="">We will feel this more if we have a smaller business since every dollar saved is a dollar added to the business. Time spent in meetings costs money. If you have 2 sales representatives for your small business and you take them out of the field several hours per week for a meeting, that means no sales for those hours.</p><p id="1967afe7-3b41-4c74-be49-d4cb360bc035" class="">Ouch.</p><h3 id="63ff23dc-67d2-4aad-a73b-50f000d9e2ac" class="">4. You don’t get anything productive done</h3><p id="bac6cb04-c924-4af4-9ce3-c1443693990a" class=""><em>“He’s so busy these days. He attends several meetings every single day.”</em></p><p id="7630139e-4dc5-4c1e-9fbd-7677542babd2" class="">Just because you’re busy attending meetings doesn’t mean that you are productive. If no goals were met after several meetings, then you are 100% sure that the purpose of those meetings you’ve attended regularly, went down the drain together with your time, money, and effort.</p><p id="b9652db0-ffff-4c9a-b477-12fef9ac296b" class="">When you attend unnecessary meetings, focus time is taken away from you and you are not able to work on your own goals. Remember, because meetings are on our calendar, we have to schedule everything else around it. How can you focus when meetings, both scheduled and unscheduled, keep interrupting your deep-work time?</p><p id="de772b27-9f22-4e81-a63d-b00091fde218" class="">Another side of the story is when you have the right people attending the meeting but they are not as committed. What does this mean? It means that they come to the meeting but they are working on other tasks, checking emails, not paying attention, or they are simply dozing off.</p><p id="d812e92b-23a7-447f-9046-69f08baf5415" class="">In the US alone, <a href="https://www.inc.com/laura-montini/infographic/the-ugly-truth-about-meetings.html">unproductive meetings </a>wastes more than $37 BILLION per year.</p><p id="4bcc40d5-e102-42a7-9ac6-e588f66950e5" class="">I hope I’ve not put you off attending meetings or calling for meetings. The fact is, meetings play an important role in any type of organization. Good decisions are made during meetings, conflicts are resolved, action items are discussed. It is when meetings are ineffective that we stop seeing the value in attending one. But it doesn’t have to be that way. Although it is a universal problem, it is a problem that has solutions. Even in our <a href="https://shop.asianefficiency.com/dojo/">Productivity Community, the Dojo</a>, our members would often discuss ways on how to improve the meeting process.</p><h2 id="81148281-7ada-4bcb-be8a-a3f4faf36ce7" class="">This is AE’s journey before we started implementing changes to our meetings…</h2><p id="b3d27980-41c8-4c65-8534-f46ae1a1e24e" class="">We had our meetings spread out over the week. We’d basically have a meeting every day on top of our Daily Huddle. During our Daily Huddle (for other companies, they call it Daily Stand Up) we discuss what we plan to work on that day and if there’s anything stopping us from completing tasks.</p><p id="801b15d2-7fc6-4549-94fc-421328308950" class="">We also have our:</p><ul id="dfd893c8-116b-4433-947b-62fe044fe65f" class="bulleted-list"><li style="list-style-type:disc">Sprint Retrospective and Planning (1.5 hrs)</li></ul><ul id="20464c28-c207-41bd-8328-cb75f0de001a" class="bulleted-list"><li style="list-style-type:disc">Backlog Grooming (1 hr)</li></ul><ul id="d67c8406-f0df-474f-a369-f78de0b8346a" class="bulleted-list"><li style="list-style-type:disc">Strategic Planning (1 hr)</li></ul><ul id="7b1e5371-5244-422d-b79e-53956ce56cd8" class="bulleted-list"><li style="list-style-type:disc">Customer Success Meeting (30 mins)</li></ul><ul id="7b5ef620-0435-454d-99b1-e4f6d35dc99e" class="bulleted-list"><li style="list-style-type:disc">Operations Team Meeting (1 hr)</li></ul><ul id="53379a2c-d03e-4ec2-a042-52417067bc80" class="bulleted-list"><li style="list-style-type:disc">Team Updates (30 mins)</li></ul><ul id="6412042a-3e94-49e8-9c6c-1f1b766687b9" class="bulleted-list"><li style="list-style-type:disc">Team Training (30 mins)</li></ul><ul id="7972374c-45dc-4a01-b537-6c955392265d" class="bulleted-list"><li style="list-style-type:disc">Finance Meeting (30 mins)</li></ul><ul id="5a4a2ba2-9367-4ed2-9506-d4a21dd34c2d" class="bulleted-list"><li style="list-style-type:disc">Monthly Video call (1.5 hrs)</li></ul><p id="37ab7e88-35b3-41f5-8dea-cece755ae116" class="">As a team, we have all agreed that we needed to set aside time for all these meetings because these were necessary. We have pretty much mastered the ‘who should attend’ part but we knew we needed to work on the other toxic areas.</p><p id="ddda4aa1-0fb6-4ec3-b4c8-4dcf507d0b72" class="">With the meetings spread out throughout the week, it meant that we had to set time every single day to prepare for those meetings (example: gather weekly metrics, podcast numbers, etc). We had to schedule our working time around our meeting times which meant that we had to stop working even when we have gained momentum and our brain juice was overflowing. It meant that even if the task we were working on is part of our quarterly or monthly goals, we had to stop.</p><p id="d7eb6882-cfed-440f-baa7-f0385bfa7943" class="">It wasn’t the most ideal situation and it took a toll on the team. We noticed that there was a dip in our overall productivity which we saw through our sprint velocity.</p><p id="61193cd7-f416-412b-9af0-e94fa716fbcf" class="">Thanh, during a conference he attended, found a solution to our dilemma—how to ensure that the team remains productive and attend all the necessary meetings. The solution: have a separate ‘Meeting Day’.</p><h2 id="3bf4fd88-8488-46ff-810f-1fe9f94ec655" class="">AE Meeting Day Structure</h2><p id="9a3420d3-c2c7-49b6-a22d-8ca50a83de2c" class="">Using a poll add-on in Confluence, we asked everyone on the team what was the best day for our Meeting Day. Wednesday got 63% and that’s how Meeting Day Wednesday (MDW) started.</p><p id="aae07adf-960b-4f9c-bb19-7995af7e7f0a" class="">Starting on the week that we implemented MDW, we knew that we should not schedule any high-value tasks on Wednesdays (which made the rest of the week open up for everything else).</p><p id="6786cef8-8818-420d-89ce-94abe179213e" class="">Our meeting time blocks are straightforward and it allows a hard-stop so that we don’t get carried away and actually stick to the agenda.</p><p id="ad3316d1-a6c4-4801-917c-22be19be94d9" class="">Our Wednesday looks like this (all in Central Time):</p><p id="64c043cb-1c75-4be9-9343-ce88b8eaaf2f" class="">[9:30] AM to [10:00] AM Customer Success[10:00] AM to [11:00] AM Operations Team[11:00] AM to [11:15] AM Daily Huddle[11:15] AM to [11:45] AM Weekly Team Meeting or[11:15] AM to [12:30] PM Monthly Video Call (every 2nd Wednesday of each Month)
+ — lunch break —[1:00] PM to [2:00] PM Strategic Planning/Backlog Grooming (alternates weekly)[3:00] PM to [4:00] PM Finance</p><p id="f002710d-1a33-4d60-ab26-416ab157ccfa" class="">Since the team is located across the world, in different time zones, we are still able to respect everyone’s schedule. And even if we travel, we know what to expect every Wednesday. As for me, I know that I should not schedule anything for Thursday morning (I am located in the Philippines) since I know I will be off work at 3 AM (the earliest).</p><p id="773a62d2-8d81-446c-b925-cb2f10beb2f3" class="">Meeting Day Wednesday also makes scheduling our leaves easier and we don’t have to worry about missing meetings. When we travel, we usually do so at the end of the week or when we travel back, at the beginning of the week. Having our meetings every Wednesday ensures that everyone is around. And if I base this on our team calendar, I also see that most of us would go on leave Thursday and Friday or Friday and Monday. This allows us to make sure everyone is at the meeting who needs to be there and the meeting can be productive.</p><p id="3aabbdec-844a-4f02-951d-6631dbdb4c76" class="">After the first week of implementing Meeting Day Wednesday, Thanh asked the team if the new process works, and everyone (100%) agreed.</p><p id="835e2488-813d-45d6-9d47-d38e687d5081" class="">Brooks: <em>“It frees up time and space throughout the rest of the week to focus on my important tasks instead of having to constantly fit “productive work” around the stop/start of meetings.”</em></p><p id="9e3f8b37-35aa-4bbe-ba94-fa7f1ee39885" class="">Mary: <em>“We get to finish all our tasks within the week and have just one meeting day to think of in a week”</em></p><p id="71e7fc0c-8c10-4a78-ae9e-57740ef2458e" class="">Even Thanh said: <em>“It makes it much more efficient to have all meetings in one day </em>so on<em> other days, I can focus on other things (deep work, in-person meetings, etc).”</em></p><p id="c5527eaf-7fea-40bb-95dd-aa4a8ecfd181" class="">If you want to implement Meeting Day in your organization, here are some tips for doing so…</p><h3 id="2580e28b-0021-4060-b8f9-6eae192015ba" class="">Have the right people attend</h3><p id="c15080ab-e627-456a-845f-b2434d2dad6c" class="">Who to invite to a meeting largely depends on the purpose of the meeting.</p><p id="500893a4-f57c-4fdc-9250-3314b74cad7f" class="">We are a small team, but that doesn’t mean that we let everyone attend ALL the meetings. For example, our Customer Success Meeting is attended by our CS team, Brooks, Marie, and myself. Operations Meeting is Brooks, Thanh, and myself. Daily Huddle, Weekly Team Updates, and Monthly Video Calls are attended by everyone.</p><p id="8e14070d-f3f0-48d4-8711-77bf52dd75a5" class="">That does not mean that others are not welcome to join if they want to. Like Thanh and/or Mike can also attend the CS meeting if they want. There are special days wherein we invite other members of the team to be present. For example, during our Strategic Planning call (attended by the Growth Hacking Team) we invited Sherby to attend because we were discussing how to make customers happy (for that meeting). We needed her inputs since she’s part of our Customer Success Team. But if they have other important work to do, they are free to do so.</p><p id="b7dbdd7e-2f01-43f3-9aea-b7eb224fb737" class="">Be selective when you call for a meeting or when you attend one. No matter how organized it is (clear goals, concise, etc), if attended by the wrong people, the purpose of the meeting will not be met and you’ll end up wasting peoples’ time.</p><h3 id="43277da9-7a03-4fbd-9e79-25ac8bbae120" class="">Begin and end on time</h3><figure id="5b059d5e-6b63-4b27-9b43-15076a71d64f" class="image"><a href="%E4%BA%9A%E6%B4%B2%E9%AB%98%E6%95%88%E4%BC%9A%E8%AE%AE%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%20158dc2361ae749db98911ab7a91a21f6/Woman-checking-watch-in-meeting-room-e1526474816522.jpg"><img style="width:700px" src="%E4%BA%9A%E6%B4%B2%E9%AB%98%E6%95%88%E4%BC%9A%E8%AE%AE%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%20158dc2361ae749db98911ab7a91a21f6/Woman-checking-watch-in-meeting-room-e1526474816522.jpg"/></a></figure><p id="b04caccf-1bc1-4da3-be6f-8ef84cf1112e" class="">We are a remote team and we use Zoom for all our meetings. It’s a very rare occurrence that someone is late for the meeting and if someone is late, it’s only for a minute or two and it’s usually a tech issue. No one joins in late because we all know that the meeting will start on time.</p><p id="1840d862-ec70-4362-82ad-6c02a83eb14b" class="">When you’re in an organization and the person who sets the meeting is usually late, the rest of the attendees will follow—they will no longer show up on time since it will start late ‘anyway’. It’s a bad practice that you need to nip sooner rather than later.</p><p id="129fc885-5061-49c9-b831-ac79a35d2ec5" class="">It’s also one way to respect the time of other people. Several years ago (before I joined AE), I attended an 8 AM meeting together with my best friend. It became clear that some of the attendees were running late. The facilitator kept saying that we’ll start in a bit. Or we’ll start in 5 minutes. [8:30] AM and my best friend finally stood up and said what was on my mind “Why can’t we start now? We made time for this and made sure we came in early. Can you also respect our time? Why are you giving more importance to those who are late? What about us who came in early?” So we started late and ended late. And it caused us to be late for our next engagement.</p><p id="b177a797-9ed2-4457-a512-922fea3a28a1" class="">When you start late and end late, it means that there’s going to be a string of events that will be affected by it because of the change. We do not always know that the attendees cleared another hour on top of what was in the calendar invite.</p><p id="dcf71b63-cf6d-4b3c-bc5b-59b5710f3518" class="">Keeping within the time frame set in the invite also means that you have to make sure that the agenda is followed and the meeting stays on track.</p><h3 id="f1e6a021-9fbd-4aaa-8b76-bf4e7c71ca9e" class="">Create your meeting notes page ahead of time</h3><p id="8936b45f-1079-4652-a42a-0e31e646ae4f" class="">At Asian Efficiency, our calendar invites also includes the link to our meeting notes for that particular meeting. The link contains the date, attendees, agenda, and a space for action plans. This gives us an idea on what the meeting is all about and we can already think forward on what we can share during the meeting—we can even edit the meeting notes page to add our ideas BEFORE the meeting.</p><p id="64949b76-cf4b-4b25-bb2f-fe78ef6c96a8" class="">When you have everything set, you can expect your attendees to come in prepared. This is especially powerful for the high fact-finders (Kolbe) in your team who like to feel prepared and not feel surprised at the last moment.</p><h3 id="fe9e197e-04ea-4f9a-a6f8-e598c0361d60" class="">Assign someone to take notes</h3><p id="7d1ce1f1-6251-4e3b-a695-84a05d7919a8" class="">You can have the best discussions or the best ideas in a meeting but if none is recorded, it might just end up forgotten. That is why <a href="https://www.asianefficiency.com/systems/how-to-take-good-meeting-notes/">we always have someone on the team assigned to take notes</a> and update the meeting notes page. The same person will also update the page with the action items of the meeting.</p><h2 id="0f398e63-9cf3-43b1-a661-e480117fb3f3" class="">Next Actions</h2><p id="359d8817-cdea-4089-a7a8-0c7591274779" class="">Meetings are necessary, but they need not be toxic. Before you even schedule one, ask yourself “Is a meeting really needed?” If you need to get consensus, can an online poll suffice? If you need to get updates, will a private message do? If you need to share updates, will an email be sufficient?</p><p id="41f8f3b8-a1fc-4eb3-9478-c30c893b2b7b" class="">If it’s not possible to have 1 meeting day per week, you can also set up a ‘no meeting’ day. For example, you agree with your team that no meetings will be set every Friday.</p><p id="326c7efb-21b1-4a86-915c-64015af52f1a" class="">Find out what works for your team or your organization and improve on it.</p><p id="1b07489f-d8d0-4f8f-90bd-f705715e64c4" class="">Mike and I spoke at length about our <a href="https://www.asianefficiency.com/podcast/195-effective-meetings/">Meeting Day process in the Productivity Show</a>. Make sure to listen to it to get more inputs.</p></div></article></body></html>

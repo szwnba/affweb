@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>✔️完成工作：您的分步指南</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="b98d169e-edb0-46e6-9deb-70c6d0a49036" class="page sans"><header><h1 class="page-title">✔️完成工作：您的分步指南</h1></header><div class="page-body"><p id="d5737f29-d57e-47ba-a0b0-6c5e0673af40" class="block-color-gray"><a href="https://todoist.com/productivity-methods/getting-things-done">https://todoist.com/productivity-methods/getting-things-don</a>e</p><p id="50ef7c72-8a4c-46b2-8fd2-2d1dbbaa9ae0" class="">
+</p><figure id="994db2e7-90d6-4cfa-8291-d5cbf6bb77e8" class="image"><a href="%E2%9C%94%EF%B8%8F%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%EF%BC%9A%E6%82%A8%E7%9A%84%E5%88%86%E6%AD%A5%E6%8C%87%E5%8D%97%20b98d169eedb046e69deb70c6d0a49036/Getting_Things_Done_GTD.png"><img style="width:700px" src="%E2%9C%94%EF%B8%8F%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%EF%BC%9A%E6%82%A8%E7%9A%84%E5%88%86%E6%AD%A5%E6%8C%87%E5%8D%97%20b98d169eedb046e69deb70c6d0a49036/Getting_Things_Done_GTD.png"/></a></figure><p id="8a1758e0-49f6-4dbe-808b-98de7820a609" class="">Getting Things Done, or GTD for short, is a popular task management system created by productivity consultant David Allen. The methodology is based on a simple truth: The more information bouncing around inside your head, the harder it is to decide what needs attention. As a result, you spend more time thinking about your tasks than actually doing them. When information piles up in your head, it leads to stress, overwhelm, and uncertainty.</p><p id="606a4b68-4684-49e8-a941-a774cf1aa49b" class="">Allen observed that our brains are much better at processing information than storing it (&quot;your head&#x27;s a crappy office&quot;). His GTD method lays out how to dump all your mental clutter into an external system and then organize it so you can focus on the right things at the right times. When your GTD workflow is set up right, you’ll be able to confidently answer “what should I be working on?” at any given moment without worrying that you might forget something important you need to do later.</p><p id="a997633b-915e-477e-b317-932f826b7703" class="">Try GTD if you...</p><ul id="227b4e37-a9c5-45e4-8b09-3ba481d3e8b1" class="bulleted-list"><li style="list-style-type:disc">Feel overwhelmed by the amount of things you need to keep track of</li></ul><ul id="00caa941-4a11-4811-b878-c00c0ba9a929" class="bulleted-list"><li style="list-style-type:disc">Worry about forgetting small details</li></ul><ul id="f4cf8287-a974-4210-acd1-ad41b0726540" class="bulleted-list"><li style="list-style-type:disc">Wear lots of hats in your job and life</li></ul><ul id="d36bab67-c147-42af-87b3-0a6ecd9c2d9d" class="bulleted-list"><li style="list-style-type:disc">Starts lots of projects but have trouble finishing them</li></ul><ul id="7ef44612-0779-4b87-aa52-9e331b01eac1" class="bulleted-list"><li style="list-style-type:disc">Have never GTD&#x27;d before (everyone should GTD at least once in their lives)</li></ul><p id="925b8f94-9856-4eb6-9ad5-60b004e1d1bf" class="">This guide will introduce you to GTD principles and workflows, and what we think is the most intuitive way to implement them. We&#x27;ll be focusing on how to GTD with Todoist, but the same principles apply no matter what app you use. The key to GTD isn’t the specific tools you choose but rather the habits you employ on a daily basis to think about and prioritize your work.</p><p id="67449b36-eb03-4461-9fab-3b9731f523c7" class="">If you&#x27;re completely new to GTD, we highly recommend reading Allen&#x27;s bestselling book, <a href="https://www.goodreads.com/book/show/1633.Getting_Things_Done">Getting Things Done</a>, and, if you’re a Todoist user, buying the <a href="https://store.gettingthingsdone.com/Todoist-Setup-Guide-p/10484.htm">official GTD Todoist Setup Guide</a> for a more complete overview of setting up your GTD system with Todoist.</p><h2 id="45629ed1-5ce9-442e-a493-0c64d6dd108c" class="">What is GTD? A brief overview</h2><p id="f44f081f-ee09-4cff-8a04-df7054a9ec52" class="">The GTD method is made up of five simple practices to systematize the clutter in your brain and get things done:</p><ol type="1" id="c38ff536-7195-49b0-bbd7-d842c6cea5f7" class="numbered-list" start="1"><li><strong>Capture Everything:</strong> Capture anything that crosses your mind. Nothing is too big or small! These items go directly into your inboxes.</li></ol><ol type="1" id="cb0eca14-bab4-4552-a71b-1e478fbac737" class="numbered-list" start="2"><li><strong>Clarify:</strong> Process what you’ve captured into <a href="https://gettingthingsdone.com/2017/02/episode-27-gtd-keys-to-clarifying/">clear and concrete action steps</a>. Decide if an item is a project, next action, or reference.</li></ol><ol type="1" id="69c77048-8eb6-40f7-a0b3-828f8e18c511" class="numbered-list" start="3"><li><strong>Organize:</strong> Put everything into the right place. Add dates to your calendar, delegate projects to other people, file away reference material, and sort your tasks.</li></ol><ol type="1" id="d86ae307-99c9-4809-b797-8fba96d21eea" class="numbered-list" start="4"><li><strong>Review:</strong> Frequently look over, update, and revise your lists.</li></ol><ol type="1" id="b12f5f8d-9fa9-467e-ab3b-98ceeb5c91b7" class="numbered-list" start="5"><li><strong>Engage:</strong> Get to work on the important stuff.</li></ol><p id="1dcc64d7-c2d1-47ca-9faa-617cbe022748" class="">While GTD requires an upfront investment in time and energy to set up, it pays off with consistent use. You’ll no longer worry about forgetting a deadline or missing an important task. Instead, you’ll be able to respond to incoming information calmly and prioritize your time confidently.</p><blockquote id="4172db9e-6bc4-43ec-b041-f6b053f82a33" class="">Some very specific but seemingly mundane behaviors, when applied, produce the capacity to exist in a kind of sophisticated spontaneity, which, in my experience, is a key element to a successful life.<p id="bf4599bb-5f89-4392-8617-64ff9e9608e9" class="">— David Allen</p></blockquote><p id="885c1937-5d4f-425c-bf7b-9622d9c989c4" class="">Though the basis of GTD are these five simple steps, they’re not always easy to execute. GTD doesn’t require a specific tool, app, or product. Allen doesn’t even make a case for digital over analog systems. Rather the key to any lasting productivity system is to keep it as simple as possible and to use it as often as possible. Your tool should be versatile enough to handle your most complex projects yet simple enough to maintain when you’re low on energy.</p><p id="08777a2e-e2fd-4945-9294-ae801d0d5464" class="">The rest of this article will cover the specifics of each of the five GTD practices above and walk you through how implement them with Todoist. But, again, the same principles should apply no matter what tool you use.</p><h2 id="7ccb7bc9-7252-4048-a2e4-be6369ee89c1" class="">Capture</h2><p id="502b780f-a661-4a7b-bc88-451320e8b0cc" class="">For GTD to work, you must stop storing information in your brain. Anything that crosses your mind — to-dos, events, ideas, book recommendations, etc — must be captured and stored immediately in an inbox. In GTD an inbox, be it physical or digital, is a visual representation of all the inputs you need to somehow deal with on a daily basis.</p><p id="2072bb9e-d2e5-42c8-a65e-7039983db78a" class="">Your inbox is only used to collect the chaos of your thoughts in order to get them off your mind. This is not the place or time to worry about organization.</p><p id="05b233f6-9109-435d-949a-62839ca03914" class="">In Todoist, your inbox will act as the default place to hold all your inputs until you have a chance to organize them. To add a new task to your Inbox in the web or desktop apps, click the plus sign in the right corner or simply press “q.” The task will be added to the Inbox by default unless you otherwise specify a project.</p><h3 id="129e2dda-97b1-42e5-88c7-48a7f1d09591" class="">Do an initial mind sweep</h3><p id="e0bba9f8-b747-44f6-9fa2-ea5d74e3145c" class="">If you’re just starting out with GTD, do a full mind sweep of all the &quot;open loops&quot; you can think of — anything you might need to take action on in the future. Add them as tasks to your Todoist Inbox now. Consult the GTD <a href="https://gettingthingsdone.com/free-articles/attachment/mind_sweep_trigger_list/">trigger list</a> to help jog your memory for commitments you may have forgotten.</p><h3 id="2c5e25b8-d722-4e44-9047-286bc643cd9e" class="">Capture new tasks right away</h3><p id="7bf76353-7bea-447f-8164-0b66288a94af" class="">One of the core tenets of GTD is to get tasks out of your head and into your external system the moment they come to you. Todoist syncs across platforms — computer, phone, web browser, email client, smartwatch, or smart home assistant — so you can enter tasks anytime, from anywhere.</p><p id="f68c67cf-0925-4a62-a502-8a1b09d48249" class="">Whenever a new task comes to mind, make it a habit to immediately add it to your Inbox and worry about organizing it later. To capture tasks as quickly as possible wherever you are, we recommend installing Todoist or your app of choice:</p><ul id="e9ac9640-3363-4176-9926-a13ec96ff125" class="bulleted-list"><li style="list-style-type:disc">As an app on your computer</li></ul><ul id="9953c1c5-fc4c-4893-91e4-c02094769df8" class="bulleted-list"><li style="list-style-type:disc">As an app on your phone</li></ul><ul id="6f48719f-da42-42f1-bf09-099c94db8674" class="bulleted-list"><li style="list-style-type:disc">As extension for the web browser you use (for adding websites as tasks)</li></ul><ul id="89822665-0766-482c-a2a6-620bf7b8e202" class="bulleted-list"><li style="list-style-type:disc">As a plugin for the email client you use (for adding emails as tasks)</li></ul><h3 id="af3739e1-3e1e-4380-9a33-4e73591af2d2" class="">Consolidate your inboxes</h3><p id="9a151c25-4e73-4f30-a0a8-fc0458c7764a" class="">You can use Todoist to consolidate your other inboxes — from emails you need to follow up on, to messages you need to take action on, to articles to read, to grocery lists, to reference materials you save for later. The fewer inboxes you have to check for open loops, the easier your system will be to maintain.</p><p id="8e41d865-6169-469c-a99f-2d0c8fe718fc" class=""><strong>Send items to Todoist from your email or team messaging tool:</strong></p><ul id="298024e1-d501-41b7-b80c-ce3c2a103210" class="bulleted-list"><li style="list-style-type:disc"><a href="https://get.todoist.help/hc/en-us/articles/360000249160-Forwarding-emails-to-Todoist?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Forward emails</a> directly to your Todoist inbox using your project forwarding address.</li></ul><ul id="861301a9-74ef-445f-ad1e-d8a4574febce" class="bulleted-list"><li style="list-style-type:disc">Turn messages into tasks from your team messaging tools like <a href="https://get.twist.help/hc/en-us/articles/115005210905?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Twist</a> or <a href="https://doist.com/blog/todoist-slack-integration/?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Slack</a>.</li></ul><p id="589cf927-4108-413f-993e-a3648af18245" class=""><strong>Capture reading &amp; reference material:</strong></p><ul id="4d4c0e38-49e9-41e6-8abf-4c180adbc673" class="bulleted-list"><li style="list-style-type:disc">Take photos of business cards or event reminders and attach them to the relevant <a href="https://get.todoist.help/hc/en-us/articles/205348311-Comments-File-Uploads?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">task’s comments</a>.</li></ul><ul id="bd58522a-597d-4933-b197-ce8c1284c6cd" class="bulleted-list"><li style="list-style-type:disc"><a href="https://get.todoist.help/hc/en-us/articles/205348311-Comments-File-Uploads?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Attach files</a> from Dropbox, Google Drive, or your computer to any task to read or work on later.</li></ul><ul id="af40b468-5609-4ccf-a98a-ffc11125c7d7" class="bulleted-list"><li style="list-style-type:disc">Connect a reading app like Pocket with Todoist via our <a href="https://ifttt.com/todoist">IFTTT integration</a> and have a Todoist task automatically created every time you add an article to Pocket.</li></ul><ul id="bf273bdf-dd0e-41f3-b956-4f9f54f7ebbd" class="bulleted-list"><li style="list-style-type:disc">Use the Todoist share extensions on Android or iOS to share pages from mobile apps as tasks.</li></ul><p id="a966a281-62d9-4d40-b167-7227c260fa94" class="">Attach reference materials – photos, documents, links, notes, or even audio files – to the relevant tasks.</p><h2 id="ae7bb41a-dd66-49fe-878d-7ec4d35d90fa" class="">Clarify</h2><p id="dbe9482e-3ff0-4422-b79d-b9bd39ea3bcd" class="">Now that your inbox is full, the next step is to transform the chaotic clutter of everything you’ve captured into concrete action steps. Go through each item in your inbox, and do one of the following (there are more specifics on how to do each step in the next section):</p><ul id="6fe4661a-2cb2-4433-b679-a0efbfbe6d90" class="bulleted-list"><li style="list-style-type:disc">If the item will take less than 2 minutes, complete it right away.</li></ul><ul id="30c195b1-ddcc-4787-a043-5461e22db991" class="bulleted-list"><li style="list-style-type:disc">If it can be delegated, assign the task to someone else.</li></ul><ul id="443f40b4-b980-4acb-b949-00bc64f4620b" class="bulleted-list"><li style="list-style-type:disc">If it&#x27;s a non-actionable reference item (eg, a file, document, article, contact information etc.) that you&#x27;ll need to come back to later, file it away in a separate reference project or attach it to the comments of the relevant task or project.</li></ul><ul id="b74b3c1c-36a0-406e-89f4-3ee11c93662d" class="bulleted-list"><li style="list-style-type:disc">If the item needs to be done at a specific date and/or time, give the task a <a href="https://get.todoist.help/hc/en-us/articles/205325931?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">due date</a>.</li></ul><ul id="aac16573-a902-4c3b-8cbd-22393fa77edc" class="bulleted-list"><li style="list-style-type:disc">If the task is no longer needed or actionable, delete it.</li></ul><ul id="1bb732cf-f6be-463c-8c70-03ae661a86a1" class="bulleted-list"><li style="list-style-type:disc">If a task requires more than one step, create a project to house all of the items associated with it and identify the one next action you can take to move the project forward.</li></ul><p id="19b0722e-5549-4a2b-b11d-4ccf0f541450" class="">Make your tasks as specific and actionable as possible. Add as much information as you can to save you time puzzling over it later. For example, “Call Mom” may actually need to be entered as “Call Mom to discuss birthday dinner.” Or, &quot;Taxes&quot; could be &quot;Call Mary to discuss tax documents&quot; with Mary&#x27;s phone number and a list of the specific documents attached in the task’s comments (more on task comments later).</p><p id="303daabb-4964-4088-8893-60a13ed33d52" class="">Make your tasks as specific and actionable as possible.</p><h2 id="228b675d-80df-4a30-83cb-45ed14a737b6" class="">Organize</h2><p id="ac95e9c5-2470-4ed9-ab6d-d011936c47ed" class="">Once you’ve clarified an item in your inbox, it’s time to sort it into the appropriate place. In reality, clarifying and organizing your tasks will happen in tandem as you clean out your inbox, but it&#x27;s helpful to think about them as separate actions.</p><p id="605e00de-be51-46ae-80a3-2992d13b30af" class="">There are many different ways to organize your tasks with the GTD methodology, but we recommend using a combination of projects and labels.</p><h3 id="b9d92a2f-6d59-47ce-9a83-3ca248799adc" class="">One-off tasks</h3><p id="65e8423b-4043-401a-a04d-b377cdc83580" class="">These are tasks that take longer than 2 minutes but only require one step. For example, &quot;reply to Josh&#x27;s email about project pricing&quot; or &quot;renew car tabs&quot;. You don&#x27;t want them cluttering up your inbox, but they also don&#x27;t belong in any other project.</p><p id="c11a07fb-0274-472a-a2eb-d23a5b4efa9e" class="">Create a new Todoist project for one-off tasks</p><ul id="1bb8424b-3207-4716-8632-7f6fdbd60df8" class="bulleted-list"><li style="list-style-type:disc">Drag and drop your one-step tasks from the inbox to this project by clicking on the grey &quot;handle&quot; to the left of the task name and dragging it to the project name in the left-hand menu.</li></ul><ul id="99f85791-4809-4453-b1f0-3a0b9b5ecec1" class="bulleted-list"><li style="list-style-type:disc">You can also designate a different project by typing &quot;#&quot; into the task field to pull up a list of all your projects. Select your project from the list or keep typing the project name to narrow down the results.</li></ul><p id="f687445d-eb42-4fed-9c33-5e35a069e8a9" class="">Use the # shortcut to select a project</p><h3 id="ed721694-3009-4ff9-92f3-c81e1fd6c9cc" class="">Projects</h3><p id="7705c3ec-f6a3-496e-80ad-752abe5ebf72" class="">You’ll find that many of the tasks you wrote down are actually projects. In the GTD philosophy, projects are any item that requires more than two steps to complete. For example, &quot;paint the bedroom&quot; is a project because it includes other tasks like getting paint samples, picking a color, buying supplies, prepping walls, etc. Here&#x27;s how to handle projects in Todoist:</p><ul id="b371ea9c-1fb8-4a14-9837-47264f3f905e" class="bulleted-list"><li style="list-style-type:disc">Create a new project for each multi-step project you identified as you were clarifying your tasks.</li></ul><ul id="60b3b95c-d381-4b38-b336-1ea8baae4790" class="bulleted-list"><li style="list-style-type:disc">Drag and drop the associated tasks from your Inbox to the appropriate project. Or click on a task and type &quot;#&quot; into the task field to pull up a list of your projects to choose from.</li></ul><ul id="dfb9fce0-312a-4e3e-871a-70d3dff78024" class="bulleted-list"><li style="list-style-type:disc">As you think of other steps, add them as new tasks inside the projects.</li></ul><p id="eae9eb0a-de4d-4135-a342-66b5ff3cab2c" class="">Create a project for any item that takes 2 or more steps to complete</p><h3 id="11e1fb72-835a-45d1-85a9-9fda95212ebb" class="">Areas of focus</h3><p id="fdac36b9-af82-4bf3-ad0d-872dbe826add" class="">It may be helpful to group your projects based on your &quot;<a href="https://gettingthingsdone.com/2016/08/episode-20-defining-your-areas-of-focus">Areas of Focus</a>&quot; — the GTD term for the various areas of responsibility you have in your life. These areas are a tool to draw attention to your broader life goals while deciding what to work on next. If a task does not fit within the scope of any of your areas of focus, it may be time to reassess if it&#x27;s something you want to spend your time on. Or you may just want to separate your projects between &quot;Work&quot; and &quot;Personal&quot;.</p><p id="52943db3-581b-4cf6-879c-cff53c87b4ae" class="">You can easily accomplish this in Todoist using <a href="https://get.todoist.help/hc/en-us/articles/115001862065?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">sub-projects</a>. Here&#x27;s how:</p><ol type="1" id="a7ac18ec-fe14-4df1-ae5b-fdc180ef67d4" class="numbered-list" start="1"><li>Create a project for each area of focus. This project won’t have any tasks in it, it’s just for visual organization.</li></ol><ol type="1" id="dcfdce2d-7ef5-464a-9e1f-6b1affe80cbd" class="numbered-list" start="2"><li>Click on the grey handle to the left of the project name and drag and indent your actual projects underneath the high-level “Folders” you just created to turn them into sub-projects.</li></ol><ol type="1" id="00883cc4-18f5-4f64-87b6-b3de2f383663" class="numbered-list" start="3"><li>(Optional) To create even more visual separation between your areas of focus, assign a different project color for each area.</li></ol><p id="6e26d81e-f84d-4a5b-bd4b-120e6292fa8b" class="">Nestle sub-projects under each Area of Focus</p><p id="30fc2485-cee1-4bdc-ac92-e5acbdc1d829" class="">Now you’ll be able to keep your project list clean by collapsing your sub-projects underneath the parent project. For example, while you&#x27;re at work, you can keep your work projects in view while your personal projects are hidden and vice versa.</p><p id="0ef8ba07-53c0-4ce8-9d06-0f84ce494179" class="">To keep things simple, finish setting up your GTD system first to get a sense of your workflow. If needed, come back and organize your projects into broader categories later.</p><h3 id="b1df0b52-2bc9-40c7-b146-5d6abc5f40f4" class="">Next actions</h3><p id="539f36b1-606c-4657-a7dd-8c6b8b271cbb" class="">These are tasks with a clear, concrete action you’ll do at the next opportunity (e.g. &quot;Email James the budget for office party&quot;). Next actions are separate from future actions — steps you&#x27;ll take eventually but do not need your focus right now.</p><p id="60e4d1e8-8176-43fd-a8e4-bc9290f2e070" class="">Identify the next action for each project by <a href="https://get.todoist.help/hc/en-us/articles/205195042-Labels?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">tagging it with the label</a> &quot;@next&quot;. To add a label, simply type &quot;@&quot; into the task field and start typing the task name.</p><p id="938f7698-6563-4393-a163-cd673b2c43dd" class="">Create a new @next label</p><p id="83721892-abce-4546-9b87-a35e1b51fda9" class="">See all your tasks labeled @next</p><h3 id="49b17eff-f897-4cc4-b23a-0206a056c33d" class="">Tasks with a due date and/or time</h3><p id="ca27eeb3-c40d-4410-8ba5-e6fa204213eb" class="">For items that must be completed at a specific date and/or time, <a href="https://get.todoist.help/hc/en-us/articles/205325931?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">schedule them</a>. But be warned: GTD cautions against over-reliance on due dates. Only add them to the tasks that really have to be done on a given date and time. For everything else, trust your next actions and a regular weekly review of all your task lists (more on that later).</p><p id="37ca9907-42a0-4f73-82e8-9dd17f0caf72" class="">While editing a task, you can click on the <em>Schedule</em> field and select a date and time from the calendar. Or simply type the due date and/or time into the task field using natural language, for example, <em>next Monday at 8am</em>. The smart Quick Add will automatically recognize and highlight the due date and add it when you save the task. You can even type in recurring due dates like <em>every other Wednesday </em>for tasks that repeat on a regular basis.</p><p id="0fb1e45d-2a66-41a8-9442-a1b0b0161228" class="">Type a due date into the task field using natural language like &quot;Friday&quot;</p><p id="69b1ca64-e20d-4ef6-b935-6046caba9d00" class="">You can move items with due dates from the inbox to the relevant project or to the <em>One-Off Tasks </em>project if they aren&#x27;t associated with a multi-step project.</p><p id="b7f90a96-119c-4da0-8091-262c77b0303d" class="">See your Todoist tasks in your Google Calendar and your Google Calendar events in Todoist.</p><h3 id="205a2895-d099-458b-847f-5a38a9df0c3d" class="">Agendas</h3><p id="34dbe24a-874f-4180-a515-96f12a530964" class="">Some of the items you capture in your inbox will be reminders of things you want to bring up with someone else rather than next actions. To keep track of these agenda items:</p><ul id="91e0b54f-375e-418c-8db0-a96f2e9d8cef" class="bulleted-list"><li style="list-style-type:disc">Create a new project called <em>Agendas.</em></li></ul><ul id="5d56109a-d51b-4e93-b0a4-9079ad23e526" class="bulleted-list"><li style="list-style-type:disc">Create a new sub-project underneath <em>Agendas </em>for each person you need to touch base with on a regular basis. For example, your boss and any direct reports. You may also want to create sub-projects for each regular team or project meeting you have. For example, <em>Marketing Weekly</em>.</li></ul><ul id="9517c56e-9a0f-4b7c-8bbe-4751c9a2fd8d" class="bulleted-list"><li style="list-style-type:disc">Add the items you need to bring up as tasks in the relevant agenda sub-project.</li></ul><ul id="3e4d71c3-ee0c-48fc-8f43-9f8f9d3729af" class="bulleted-list"><li style="list-style-type:disc">When you meet with that person or come to the meeting, pull up the relevant project to see a list of all of the items you need to cover.</li></ul><ul id="e1241b67-81c0-4ec5-a407-c05d45ae673f" class="bulleted-list"><li style="list-style-type:disc">(Optional) <a href="https://get.todoist.help/hc/en-us/articles/205195062?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Share your agenda projects</a> with the relevant people so everyone can see, add, and even assign items to discuss.</li></ul><p id="65e88699-b92a-4460-a8ab-a14ba447c0de" class="">Create sub-projects underneath a master Agendas project for each regular meeting you have</p><h3 id="5af0e362-ee0d-4ed9-8e2f-7e308f99e075" class="">Reference materials</h3><p id="da9761f4-e139-4a3f-b198-0ecd416e85f7" class="">Reference materials are non-actionable items that you need to save (e.g., tax documents, reading material, spreadsheets, Word docs, phone numbers, etc). While they aren&#x27;t tasks themselves, they’re often needed to complete a task later. You can organize these kinds of supporting reference materials in Todoist by attaching them to the relevant task or project comments:</p><ul id="93c3fc5a-97d6-4787-8489-3078dcdbb68b" class="bulleted-list"><li style="list-style-type:disc">Task-specific reference materials can be attached to the relevant task&#x27;s comments.</li></ul><p id="4c617bd2-a9f9-46b4-a0cf-9ec8910e58dd" class="">Attach task-specific reference materials to task comments.</p><ul id="22d3374f-26cb-4fee-a97f-28c68bcde791" class="bulleted-list"><li style="list-style-type:disc">Higher-level project materials (design specs, drafts, shared folders) can be attached or linked to in the project comments.</li></ul><p id="f185af6c-10bc-4f0c-82e3-64e659d55a44" class="">Save project-level reference materials in project comments</p><p id="03870463-1689-4ee7-a6ab-33979e89ab90" class="">This way, when you&#x27;re ready to start the task or project, you&#x27;ll have all of the information you need close at hand.</p><p id="3126de5f-3d77-448a-9a40-4f7947e35e42" class="">You&#x27;ll likely also have reference materials that aren&#x27;t associated with a specific task or project. For example, an article you saved from the web for later, a file with important information, or a gift idea for your partner&#x27;s next birthday. Many people like to use a <a href="https://doist.com/blog/best-productivity-apps/?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">separate notes app</a> to organize their reference materials, but you can also keep track of some or all of them in Todoist. Here&#x27;s how:</p><ul id="5265a833-9161-4f51-985a-2ba0d13ab2d9" class="bulleted-list"><li style="list-style-type:disc">Create a new <em>Reference</em> project</li></ul><ul id="b4ed3e33-a2d2-4a08-8255-2b7c403651d4" class="bulleted-list"><li style="list-style-type:disc">Create new sub-projects underneath the <em>Reference </em>project for each type of reference list. For example, <em>Gift Ideas</em>, <em>Birthdays</em>, <em>Contact Information,</em> <em>Recipes</em>, etc.</li></ul><ul id="fabf83fc-bc01-4b23-bb85-114b2e73ab6e" class="bulleted-list"><li style="list-style-type:disc">Move your reference material tasks to the appropriate project by dragging and dropping them from your Inbox. Or select a new project via Quick Add by clicking to edit the task and typing &quot;#&quot; into the task field followed by the project name.</li></ul><ul id="e08754e8-6ada-488c-a31f-dbf6ed4d0afd" class="bulleted-list"><li style="list-style-type:disc">To collapse your reference sub-projects, click on the grey arrow to the left of your <em>Reference </em>parent project. This helps remove visual clutter from your list.</li></ul><p id="cee0e798-3a95-4678-affa-136c686387e7" class="">Create new projects for different types of reference materials</p><h3 id="2e4eaba1-7198-4fbd-9511-896a518fd91b" class="">Waiting for</h3><p id="e45c53e0-5f26-4c04-99da-7cd0fec44365" class="">These are items that have been delegated or are awaiting action by someone else. For example, if you need to finish writing a blog post but are waiting on your editor to get you feedback on your last draft. Identify these tasks by tagging them with the label &quot;@waiting_for&quot;. Keep @waiting_for tasks organized inside the projects their related to, or inside the<em> One-Off Tasks</em> project if they&#x27;re unrelated to other tasks.</p><p id="77af079f-4789-4dc1-865c-cc714fbab61d" class="">Label tasks your waiting on something to complete with an @waiting_for label</p><h3 id="329edfe1-282f-43ca-ba2e-79369f2209f0" class="">Someday/maybe</h3><p id="4193b3ed-40d7-40e4-871e-05f991787564" class="">Many items that you capture will be ideas for things you want to do in the future, but don&#x27;t have the bandwidth to work on now (e.g. places you may want to travel, books to read, new projects you may want to try, ideas for blog posts, etc.). You want to be able to review these later, but you don&#x27;t want them gumming up your system now.</p><ul id="6cacb718-b056-4a20-a0c1-e47ec22ed5e0" class="bulleted-list"><li style="list-style-type:disc">Create a new <em>Someday/Maybe </em>project</li></ul><ul id="1c6c35bb-b7d0-4f6f-842b-3a199a1713e7" class="bulleted-list"><li style="list-style-type:disc">Add all of the tasks and/or you want to do in the future, but aren&#x27;t actively working on there</li></ul><ul id="843e9b78-f647-4a9f-a227-71f076401874" class="bulleted-list"><li style="list-style-type:disc">(Optional) Add sub-projects for specific types of &quot;Someday/Maybe&quot; tasks. For example, you may want to separate <em>Someday/Maybe — Personal </em>and <em>Someday/Maybe — Work </em>projects</li></ul><ul id="3cebd66a-d739-4350-b5ae-b85aedbca65b" class="bulleted-list"><li style="list-style-type:disc">Review your someday/maybe projects when time and energy open up to take on new work</li></ul><p id="fcb62234-3171-4bfc-9690-bb09942e23ad" class="">Create a Someday/Maybe project to house your ideas for the future</p><h3 id="50718b03-9b90-460e-a4f3-7005d75ee448" class="">Tasks that can be delegated</h3><p id="ccb5e3b6-abac-4e7d-a31f-94ef1082fc79" class="">If you can delegate a task to free up your own time and energy, you should. In Todoist you can <a href="https://get.todoist.help/hc/en-us/articles/205195062?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">share projects with people</a>, assign them tasks with due dates, and collaborate in comments.</p><p id="457f3e34-818a-4dc5-b654-3fd331987e18" class="">Share projects and assign tasks to the people you collaborate with</p><p id="f7076521-7708-46c3-b62d-6422d6ecb6b7" class="">Your sharing setup will be different depending on your circumstances. Here are 3 ways you could set it up:</p><ul id="42d9fc7e-a572-46b0-8b24-f1e3f8d4cb66" class="bulleted-list"><li style="list-style-type:disc">Create a separate shared project for each person you collaborate with (you could even reuse your Agendas sub-projects for this purpose)</li></ul><ul id="f1dc3b85-bf5c-42f0-a7d6-512b8dcad903" class="bulleted-list"><li style="list-style-type:disc">Create a single shared project with your whole team (if you have, you&#x27;ll have an additional Team Inbox that the whole team is automatically added to)</li></ul><ul id="206defab-12de-477a-a580-bffcbd68a0f1" class="bulleted-list"><li style="list-style-type:disc">Share existing projects that involve heavy collaboration ad hoc</li></ul><p id="dd39fc14-5fdf-426c-957b-f2bffd44fc65" class="">Or you could use a combination of all three approaches.</p><p id="fe67d8ed-d4f2-4451-9d9c-a6e3cfdf2043" class="">Quick Tip: You can search for all of the tasks you&#x27;ve delegated <a href="https://get.todoist.help/hc/en-us/articles/205248842?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">using the query</a> &quot;assigned by: me&quot;. It&#x27;s a handy list to reference during your weekly review.</p><h3 id="ed7b945f-3de2-46d4-b1e4-0e172fd76499" class="">Contexts</h3><p id="3750e1b0-2f83-4713-a1e5-eee78fbcd588" class="">With your project lists in place and your tasks sorted, you&#x27;re now ready to tackle contexts. In GTD, contexts identify tools, places, or people that you require to complete a given task. In other words, contexts allow you to focus on what you can actually get completed given your current circumstances. For example, if you are at your office, you don’t want to waste time sorting out all the next actions you have at home.</p><p id="db6a6584-3f46-4990-bfb1-4a7c5d72683d" class="">Following the project approach we laid out above, the easiest way to add contexts is with <a href="https://get.todoist.help/hc/en-us/articles/205195042?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">labels</a>. GTD recommends the following contexts:</p><ul id="ab5277d3-8aab-4556-b0c0-8359573c003f" class="bulleted-list"><li style="list-style-type:disc">Computer/internet</li></ul><ul id="98fb7e99-21e0-4f3f-ab4d-2435e571c897" class="bulleted-list"><li style="list-style-type:disc">Home</li></ul><ul id="37a6f6cf-3841-4c03-ae0f-39ea6e7f4ae7" class="bulleted-list"><li style="list-style-type:disc">Office</li></ul><ul id="b65eff69-71e8-47e3-b4d0-34d8c8885670" class="bulleted-list"><li style="list-style-type:disc">Errands</li></ul><ul id="9bf54091-d7e1-4b16-8533-f49c7427f2f4" class="bulleted-list"><li style="list-style-type:disc">Calls</li></ul><ul id="ec0a1edb-aadb-451d-abbc-396d63dbbe12" class="bulleted-list"><li style="list-style-type:disc">Anywhere</li></ul><p id="ce5228f0-7f9d-448f-929c-4ca275a84de1" class="">You can also add others that will help you sort your tasks quickly based on your current context. Some people like to add an Email context so they can take care of all their emails at once. Others add labels for the amount of time a task might take. For example, if you have just 15 minutes before your next meeting, it&#x27;s helpful to be able to identify all the tasks you could do quickly with an @15_min label. For most people, it&#x27;s more useful to create an &quot;Offline&quot; label rather than an &quot;Internet&quot; one for tasks you can do when you don&#x27;t have an internet connection.</p><p id="01c00df4-83ba-44f4-8c4b-f3cb1e3b89f6" class="">Create labels for each context</p><p id="c7ed0429-5a70-4513-89ed-b478a7cb4538" class="">It’s tempting to go overboard and start creating labels for everything — resist the temptation. For your GTD system to work, you need to build a habit of adding the correct labels to each and every task. The fewer labels you have to choose from, the easier it will be to remember.</p><p id="4e48b79f-8bcd-4c44-a0c3-ec51fa33bb4c" class="">To add a label, go to the labels section of your left-hand menu and tap the “+” button. You can also add a label while editing or adding a task by typing @ into the task field. All your existing labels will appear in a drop down menu and the results will narrow down as you continue typing the task name. And if the label you want doesn&#x27;t exist yet, you&#x27;ll have the option to create a new one to add to your list.</p><h2 id="5b271e7d-0979-4569-9412-eb1b39921354" class="">Engage</h2><p id="3f75f4a3-aecd-44c7-b345-6203c08cd732" class="">Here is where the time spent clarifying and organizing your tasks pays off. Your system is now full of concrete, actionable items organized into logical categories, ready for you to jump in. You’ll see that all of the labels, projects, and due dates added in the steps above help you quickly answer the question “What should I be doing right now?” at any given moment.</p><p id="ac0a50fb-b53b-47b1-82aa-7fdb32b3db7d" class="">The time spent clarifying and organizing your tasks means that when it&#x27;s time to engage with work, you have fewer choices to make and fewer reference materials to find. To decide what to do next, you can see upcoming tasks with due date, sort tasks by label, or create filters to see your next actions based on context.</p><h3 id="de280756-d8c1-41b6-8126-cc3c2e97675d" class="">Today and Upcoming views</h3><p id="8dfc6eb7-6d46-43b5-b687-785752ca5e27" class="">When you&#x27;re ready to sit down to work, click on Today in the left-hand navigation menu to see any tasks that you must complete today. Open <a href="https://doist.com/blog/todoist-upcoming-view/?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Upcoming </a>to see what&#x27;s coming down the pipeline this week and any week in the future.</p><p id="7ca7b9dd-8a72-417c-a9aa-eae16af81cc2" class="">See which tasks you need to get done today</p><p id="4ef1515b-1d61-41b6-8645-4c1a94a0dae2" class="">Use Upcoming view to visualize and plan the week ahead.</p><h3 id="c7916b39-c4c0-401e-8c7e-4d31b8c31c26" class="">View Next Actions and Contexts via label</h3><p id="d387b4fe-46cd-4697-98a9-e91f983c6a2c" class="">To view a full list of next actions across all your projects, type &quot;@next&quot; into the Quick Find bar at the top of your Todoist.</p><p id="d46f565a-967c-4735-80b6-d78b34b57173" class="">Search for a label to view all of the associated tasks</p><p id="f5bb11ad-367a-402a-96d7-67d911676022" class="">See all your next actions filtered by area of responsibility</p><p id="686a640e-cf1d-4357-b07c-d8dc12f4f636" class="">You can also quickly sort your tasks by context by selecting a given label to see all the associated tasks. For example, if you search for @errands, you&#x27;ll see a list of tasks with the @errands label that can be completed while you&#x27;re already out and about. To see a list of all the tasks you&#x27;re waiting on something to complete, search for the label @waiting_for.</p><p id="0344f419-241f-416a-8d44-61f69217b0ab" class="">You can also view all the tasks tagged with a specific label by clicking on the label&#x27;s name in the label list to the left of your Todoist.</p><h3 id="8bdd3a89-c480-4b04-bcfb-cf7e591bf178" class="">Create more custom task views with filters</h3><p id="1a99f9f2-e843-4b26-9d07-aa0656376d15" class="">The real GTD magic happens when you create your own custom task views in Todoist using <a href="https://get.todoist.help/hc/en-us/articles/205248842?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">filters</a>. Filters are essentially saved searches that sort your list with one click. You can use filters to search for tasks based on:</p><ul id="10926ae8-618f-4063-9bd3-4e9d68d5b6ff" class="bulleted-list"><li style="list-style-type:disc">Due date</li></ul><ul id="c166556d-f6d6-4987-b77a-f8a56ecd5bf7" class="bulleted-list"><li style="list-style-type:disc">Label</li></ul><ul id="557d2bc7-6058-4a87-b148-5a69840342df" class="bulleted-list"><li style="list-style-type:disc">Priority</li></ul><ul id="58c86caf-1103-4f5b-9b53-b41d119c9be5" class="bulleted-list"><li style="list-style-type:disc">Project</li></ul><ul id="a58b618b-4d36-4ac8-b975-153d2643a531" class="bulleted-list"><li style="list-style-type:disc">Date a task was created</li></ul><ul id="6bc94252-3b43-4d26-9345-19ee94a172d3" class="bulleted-list"><li style="list-style-type:disc">Assignee</li></ul><ul id="916efd16-42af-4d80-a923-9dbed3cea0e8" class="bulleted-list"><li style="list-style-type:disc">Keywords</li></ul><ul id="3b1addcf-3d07-4b02-be48-b349e8c17371" class="bulleted-list"><li style="list-style-type:disc">Or a combination of some or all of the above</li></ul><p id="185b048c-77a9-4f53-95df-b80a9d92be8a" class="">To set up a new filter, go to the Filter list at the bottom of your left-hand navigation menu (after Projects and Labels), then click <em>Add filter </em>at the bottom of the list. Give your filter a name and add the search query you want to see.</p><p id="172498fb-5b0d-4ecd-8f76-117bc662a59f" class="">Set up custom filters to view your next actions by Area of Focus</p><p id="615367a5-8276-4ed2-9b04-1124458b720e" class="">See all your next actions filtered by area of responsibility</p><p id="79839b61-392c-4c6d-844a-11bef2e486b9" class="">For GTD, the most relevant labels will likely combine &quot;@next_action&quot; with an area of focus or a context. For example, to set up a filter for all the next actions you can do at work, use the query &quot;##Work &amp; @next_action&quot;. This will show all tasks in your Work project <em>and</em> associated sub-projects that also have the @next_action label. Or create a filter for next actions that can be finished at the office use the query &quot;@next_action &amp; @office&quot;.</p><p id="ca70ed8f-d2ef-488a-87c0-f35690982c95" class="">The most useful task views will depend on your specific needs, but these are some of the most common useful ones:</p><table id="a27c4967-541f-4012-9c2b-1df3f524989a" class="simple-table"><tbody></tbody></table><p id="e7282337-5d20-429d-99d3-cc3bec78ded2" class="">Add your most important task views to your <a href="https://get.todoist.help/hc/en-us/articles/360000358065?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">favorites</a> so that they appear at the top of your left-hand navigation menu above your Projects list. Simply right-click the filter, label, or project and select “Add to Favorites”. The filter will then show up in your navigation panel.</p><h2 id="2dbfe806-8e51-46d7-8914-39badda3ef84" class="">Review</h2><p id="8f4a1598-b7d9-4b02-930b-d4765db94bbf" class="">Each week, set aside time to look over all your lists, organize your tasks and keep your system running smoothly. The review helps you adapt to changes, refocus your attention, identify next actions, and reflect on your workflow.</p><p id="ad4a14b5-3f46-49a2-adb2-830feb8e97b9" class="">David Allen has called this weekly review a &quot;critical factor for success&quot; because frequent review of your system will ensure that you aren’t just doing things, but that you are doing the right things.</p><p id="8abdd088-1324-4481-ad4b-1e432f7f089e" class="">To get started, import <a href="https://todoist.com/templates/personal/gtd-weekly-review?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Todoist’s GTD Weekly Review template</a> into your projects list. This template includes all of the steps you’ll need to complete your review each week. Customize the template by adding <a href="https://get.todoist.help/hc/en-us/articles/206432369?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">sub-tasks</a> or task comments to hold the lists of all your inboxes, your current areas of focus, or to track reflections on your week.</p><p id="7edd900f-22b8-424a-a9d7-895c762f1c02" class="">Import the GTD Weekly Review template into your Todoist</p><p id="5fb6ade2-15e8-4f57-8e66-a5eb45ccd737" class="">Schedule your weekly review by setting up a <a href="https://get.todoist.help/hc/en-us/articles/360000636289?itm_campaign=getting_things_done&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">recurring</a> date in any task field. Simply enter your date as natural language, like “every Sunday at 5pm,” and Todoist will automatically recognize and schedule it when you save the task.</p><p id="c0249016-76ef-436f-a4c6-28dfe47407fd" class="">There&#x27;s a reason why millions of people around the world swear that Getting Things Done changed their lives. While strict GTD isn&#x27;t for everyone, you&#x27;re bound to pick up a habit or two that will help you worry less and do more. Everyone interested in being less stressed and more productive should try it at least once.</p><p id="30d4954c-2c4c-40b9-be7c-d46c4c23a390" class="">Give it a shot and see which aspects of GTD work for you!</p></div></article></body></html>

@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>最好的GTD®应用程序，以完成工作 - 亚洲效率</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="986f17ea-b732-481c-acb3-6649b460adde" class="page sans"><header><h1 class="page-title">最好的GTD®应用程序，以完成工作 - 亚洲效率</h1></header><div class="page-body"><p id="3223d3d6-b0ea-4c49-a297-137644a4068b" class="block-color-gray"><a href="https://www.asianefficiency.com/technology/best-gtd-apps/">https://www.asianefficiency.com/technology/best-gtd-apps/</a></p><p id="755041b6-4b6d-40e0-9c7f-254ad7215926" class="">
+</p><figure id="53c42f39-bfe6-4344-8ce3-30e95e85058b" class="image"><a href="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/mind-like-water.jpeg"><img style="width:700px" src="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/mind-like-water.jpeg"/></a></figure><p id="ac965df1-fefc-4f2b-865a-3a385dd274b2" class="">Want a fun blast from the past? Go to your Amazon history and take a look at your very first order. My very first purchase on Amazon.com was the <a href="https://www.asianefficiency.com/likes/gtd-book/"><em>Getting Things Done</em></a> book by David Allen on September 3, 2005. I was going through a particularly tough time at my job at a financial software company, with tasks and deliverables going out of control. I felt that I wasn’t giving my employees the responsive support that they deserved.</p><figure id="df22dd12-de5f-4742-86e9-b29a7aa10b09" class="image"><a href="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/amazon-gtd2x2.png"><img style="width:700px" src="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/amazon-gtd2x2.png"/></a></figure><p id="c37ab96e-7f8d-4ce4-8389-46e69228f2a3" class="">(It was exactly six months after the birth of my first child, which explains all those Merchant Ivory DVDs. My wife wanted something for those late-night marathons.)</p><p id="2e3fb669-ac53-4c89-bc1b-ef42d3118224" class="">Other than the 6-month-old-induced lack of sleep, I felt that my to-do list was endless. I’d receive phone calls, emails, and sit in meetings, but action items would either get missed or I’d write them down them somewhere never to be looked at again.</p><p id="b7ec6d34-df09-4c62-bb35-06151f231be6" class="">I wanted to be home with my new baby, but I found that I was going in to work earlier and earlier just to try to catch up.</p><p id="eae3c541-caba-41ae-96e7-80f0d4b11e2a" class="">Eventually I realized that financial software client services isn’t rocket science. There <em>must</em> be a way to get the important things done during the work day. Going into the office at 6:30 a.m. all the time wasn’t sustainable.</p><p id="e4240448-dbd7-4630-b9dc-89d1e2540ded" class="">I’m not overstating things when I say that Getting Things Done, or GTD as it is commonly called, changed my life and completely changed my career. The very first time I had that “mind like water” feeling, I couldn’t believe it. Things don’t have to be bananas at work after all!</p><p id="41464718-6ec1-48e0-b2de-fc47a50e3e47" class="">At the time there were very few digital tools, so I had to hack together my own system at first. Thankfully things have changed, and we have the opposite problem: there are so many amazing GTD tools out there, how do you choose what to use?</p><p id="0a10621a-39ac-4337-8d94-941e3867ee4f" class="">In this article, I’ll take you through some of the best GTD tools on Mac, Windows, web, and mobile.</p><p id="9fd10f55-a150-49f9-bc28-138498f08947" class="">By “best” I don’t mean which has the most features — I mean which tool will help you be in control and get your important work done.</p><h2 id="dbac5809-6020-4cff-a020-7ababde11426" class="">What Is GTD?</h2><p id="f24be0c3-870d-4cc6-8964-ddb9f3975711" class="">As mentioned, GTD stands for “Getting Things Done,” and became popular after the book of the same name was published in 2001.</p><p id="6042720c-ae2e-442f-bba7-27638b3b84c9" class="">At its heart, GTD helps you answer two questions:</p><ol type="1" id="a0dfff94-267e-47cd-8445-81e51e7060d8" class="numbered-list" start="1"><li>Is everything that I need to do captured in a trusted system so that I can use my brain power to focus on my important tasks instead of trying to remember and juggle information and to-dos?</li></ol><ol type="1" id="4506ec41-b100-47c8-89c5-3d35c7e65969" class="numbered-list" start="2"><li>Do I know what I can take action on next for each of my projects, given the constraints of time, place, and ability?</li></ol><p id="6d2614ac-7fdf-493e-8aec-8c6479bc06ae" class="">When you apply the GTD methodology to the things you need to do, your work goes through five phases:</p><ul id="eba49a42-ca6a-4eb0-8331-f3a2c3c8631d" class="bulleted-list"><li style="list-style-type:disc"><strong>Capture</strong>: Make sure everything you need to do or think about is written down in a trusted system and out of your head.</li></ul><ul id="f06eaba7-9f2c-4c1f-8deb-afe29086385d" class="bulleted-list"><li style="list-style-type:disc"><strong>Clarify</strong>: Figure out what the next action is (or if it is even actionable!), and apply <a href="https://www.asianefficiency.com/task-management/gtd-intro/">the 2-minute rule</a>.</li></ul><ul id="e91e5e7e-c52a-41b1-a61a-280905eb330e" class="bulleted-list"><li style="list-style-type:disc"><strong>Organize</strong>: Have your tasks organized into categories that make sense for you.</li></ul><ul id="126da80c-dd94-4597-8c9a-8b66d50baf0a" class="bulleted-list"><li style="list-style-type:disc"><strong>Reflect</strong>: Review and update your system on a regular basis.</li></ul><ul id="17b0c014-1d4b-40fa-b4ca-e42dbda57d90" class="bulleted-list"><li style="list-style-type:disc"><strong>Engage</strong>: Actually do the things you say you’re going to do!</li></ul><p id="f06d4a72-2a51-4c5e-9395-5dcdc210509d" class="">I want to take a moment to highlight the <em>Reflect</em> phase, because it is so important, and skipping it is <a href="https://www.asianefficiency.com/productivity/common-gtd-mistake/">one of the biggest GTD mistakes</a> you can make. We’ve recorded a <a href="https://www.asianefficiency.com/podcast/311-weekly-review/">podcast about the GTD Weekly Review</a> that we highly recommend you listen to.</p><p id="5dce3b44-81c1-4885-b1bd-af2c921bde3c" class="">To learn more about GTD, check out our <a href="https://www.asianefficiency.com/task-management/gtd-intro/">Getting Things Done summary</a> article. We also had David Allen, the inventor of Getting Things Done, <a href="https://www.asianefficiency.com/podcast/058-david-allen/">on our podcast</a>.</p><p id="d6fae63d-3190-4cc6-804d-95b183c5ff0d" class="">If you’re a visual person, we put together this <a href="https://www.asianefficiency.com/productivity/gtd-workflow-map/">Getting Things Done flowchart</a> for you, with links to useful resources.</p><h2 id="85b968de-861c-4348-8375-d18768deb434" class="">Why Do We Like Using Apps For GTD?</h2><p id="9c7dedb3-bc9b-42c5-ae67-7792826f32ff" class="">Do you need to use an app for GTD? No, of course not. One of the great things about the GTD system is that it is tool neutral.</p><p id="919fcc26-ca33-49d4-9d6d-87642141ba26" class="">Many people very happily implement Getting Things done with pen and paper, or a hybrid system.</p><p id="a5194bfb-ff58-42e9-b38c-534e5ca33214" class=""><a href="https://www.asianefficiency.com/podcast/177-analog-productivity/">We recorded a podcast episode about analog productivity systems, which you can listen to if you are into paper task management</a>.</p><p id="ec0c8b67-4708-4b71-b5ca-74efec04de86" class="">There are a few reasons why we like using digital tools:</p><ul id="e1295ebf-83fd-4b6a-9dde-24d94e70f2d1" class="bulleted-list"><li style="list-style-type:disc">For knowledge workers, we spend much of the day at a computer, tablet, or mobile device. With digital, our tasks are right there with the rest of our work.</li></ul><ul id="c2710f93-aaa6-4590-ac35-f9c6331dd28a" class="bulleted-list"><li style="list-style-type:disc">Digital tools often support integrations with email programs, mobile operating systems, and web browsers — it makes it fast and easy to capture tasks.</li></ul><ul id="1835fc47-8f03-49fb-add0-80244e10f423" class="bulleted-list"><li style="list-style-type:disc">Many apps allow you to synchronize between computers, tablets, mobile devices, and the web. Wherever you are, you have access to your tasks and have the ability to capture to your trusted system. With analog systems, if you don’t have your notebook with you, you don’t have your task system with you.</li></ul><p id="20ed9960-99a6-42bd-aa09-166a25ddd11d" class="">We cover this more in detail in <a href="https://www.asianefficiency.com/podcast/149-gtd-setup/">this podcast where we share simple strategies for using GTD in your life and how to set it up</a>. Just make sure you <a href="https://www.asianefficiency.com/podcast/116-getting-things-done-mistakes/">avoid the common mistakes new GTD users make</a>.</p><h2 id="0e919c7c-bbb1-4efb-9300-3c164662cd24" class="">What A GTD App Needs</h2><p id="a9b2d051-fa8f-4aef-8ac4-a80d692a36d2" class="">For us to consider an app one of the “best” GTD apps, it needs to have the following:</p><ol type="1" id="269cc878-66f5-4533-abbb-cd021d8ec727" class="numbered-list" start="1"><li>It needs to support the three big “parts” of GTD:<ul id="01c6f57d-774e-4809-b4d0-bf734be14db9" class="bulleted-list"><li style="list-style-type:disc"><strong>Projects</strong>: If a task has more than one action item, it is (in GTD terms) a project. A task management app needs to be more than just a flat list of to-dos.</li></ul><ul id="a356b993-7cd1-4683-9279-d8a62a1434fb" class="bulleted-list"><li style="list-style-type:disc"><strong>Contexts</strong>: The traditional definition of contexts is the location where you do your tasks or the thing you need to do them. Early GTD examples show contexts of “Office” or “Phone”. Now that our office can be anywhere and we always have our devices, the definition becomes blurred. A GTD app should have some way to help you decide when or where you can do the tasks, which may or may not conform to a specific location or device. For example, a member of the <a href="https://shop.asianefficiency.com/dojo/">Dojo</a> (our online productivity community) has a <em>Braindead</em> tag to bang out those tasks when one is feeling low energy. A note of warning: on the podcast, we talk about <a href="https://www.asianefficiency.com/podcasts/309-gtd-mistakes/">mistakes people make when using Getting Things Done tools</a>. One of them is to rely too heavily on Contexts. At this point, Thanh or I barely use them at all, but you still want an app that supports them so that you have the option.</li></ul><ul id="edb9f7d7-a2b8-46df-bd35-3ccccc121798" class="bulleted-list"><li style="list-style-type:disc"><strong>Next Actions</strong>: There needs to be a way to see what the next action you can do for each given project. There shouldn’t be any confusion about what you can work on at any given point.</li></ul></li></ol><ol type="1" id="e1b0a2f4-40a6-41be-a375-f719acef6e1d" class="numbered-list" start="2"><li>It needs to be able to sync between devices. You want to be able to capture and view your tasks from wherever you are.</li></ol><ol type="1" id="a0d6d985-8ea4-4243-a1c9-1272b4660e4f" class="numbered-list" start="3"><li>It should be seamless to get tasks in. Quick capture is key.</li></ol><p id="4692ce19-e280-4a06-982e-e1b1706430e4" class="">We’ve written before about <a href="https://www.asianefficiency.com/task-management/simple-task-management/">how to evaluate a task management system</a>. While that article is not specifically about GTD, it is helpful to decide what type of system will work best for you.</p><p id="9c721bf1-b612-45a6-a104-81f725a36239" class="">Here are what we consider to be the best GTD apps on each platform. Either a member of the AE team uses the tool, or it is popular among <a href="https://shop.asianefficiency.com/dojo/">Dojo</a> members.</p><p id="ff694075-915d-4fbc-96e4-d2ee8ecc7636" class="">If there’s a GTD tool out there, chances are we’ve tried it at some point.</p><h2 id="c2bee8bd-049f-4b2d-9a4a-2c852fd1971d" class="">A Note About Our Getting Things Done App Recommendations</h2><p id="e2033438-5115-4697-812c-effd8266e6c9" class="">Are you using a GTD app right now? If so, you might read this list and be tempted to make a switch.</p><p id="57e509d7-7ddb-44ea-99f8-9cee27021a3c" class="">This might sound surprising, but before switching to a new app, we highly recommend that you stop and think about it:</p><ul id="952ef7d4-cb73-421e-ac41-d2ac118a20c2" class="bulleted-list"><li style="list-style-type:disc">What do you not like about your current app?</li></ul><ul id="86864a9e-125d-4335-b73e-a803325e357d" class="bulleted-list"><li style="list-style-type:disc">What do you wish it did differently?</li></ul><ul id="8d4dabfa-dab2-40c8-961c-405dda8a94af" class="bulleted-list"><li style="list-style-type:disc">Is this new app really better than your current app, or does it just look cool?</li></ul><ul id="9f9ef756-0c65-405b-a2fd-3bb8ff5a0319" class="bulleted-list"><li style="list-style-type:disc">Is this new app <em><strong>way</strong></em> better than your current app, or just a little bit?</li></ul><p id="a4d8d6db-65ed-42d8-95e2-d68f35ae1054" class="">Switching apps has a cost. It may not be big financially, but it can have a huge time and attention cost. Remember, it is our job to play with apps — it probably isn’t yours.</p><p id="2c0d7980-5878-42c4-98be-d8bbf8413fc5" class="">With that said, here are our top 5 recommended Getting Things Done apps:</p><p id="768e25c3-23ad-4bda-b222-f9735bb6ee3e" class="">OmniFocus is the task manager of choice for Brooks, Thanh, Marmel, and others on the Asian Efficiency team.</p><figure id="6713a5a5-7119-415d-bfd8-cb8244e76955" class="image"><a href="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/omnifocus-gtd2x3.png"><img style="width:700px" src="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/omnifocus-gtd2x3.png"/></a></figure><p id="5f2e9b2d-4600-4a34-80ed-253bfce92713" class="">I switched to OmniFocus in 2012 because I wanted a way to see <em>only</em> the things I should be focusing on at any one time.</p><p id="d1552feb-4113-4b29-a7d9-3480e4255144" class="">OmniFocus supports Projects, Contexts (via tags), and you can have it only show you what tasks are available to be worked on right now.</p><p id="b9a433fb-cefc-4731-9b3a-e098c48dc435" class="">This is hugely freeing because it avoids the overwhelm that comes from typical task management systems. If you see 100 uncompleted tasks, it can make it hard to focus on your three most important tasks for the day because there is overwhelm and distraction.</p><p id="6405f7e3-3d2b-4e0f-bb60-b84d57660042" class="">There is a handy Forecast view that will show you what you can work on today (or on any given day) without cluttering up your screen with everything else.</p><p id="62b075c6-4c07-41fd-9a3c-f8c0d66123eb" class="">OmniFocus is not the cheapest task management system out there, but if you are going to invest in it, we recommend you purchase or subscribe to the Pro version. That way you can use two of the features that set OmniFocus apart from other GTD apps:</p><ul id="a5a7b6de-0e17-4752-8cfe-19457235d832" class="bulleted-list"><li style="list-style-type:disc">The Forecast Tag – this allows you to include tasks with a specified tag in your Forecast view, giving you more options for looking at the work you want to get done today besides just the date.</li></ul><ul id="f3ccc8b9-c922-41c5-a4f5-5efe65421725" class="bulleted-list"><li style="list-style-type:disc">Custom Perspectives – this is the big one. This allows you to create your own perspectives for looking at your tasks and planning your work. For example, every day I look at these Perspectives:<ul id="be6bdb4f-d2b0-4208-8142-444e68a15902" class="bulleted-list"><li style="list-style-type:circle">Due: What is due today?</li></ul><ul id="6bbdd17a-628b-4c54-991f-cd5685773756" class="bulleted-list"><li style="list-style-type:circle">Waiting For: Am I waiting for anything from others? Maybe I should follow up.</li></ul><ul id="e052666b-6e5c-4b1a-8ba7-af64c3c5836b" class="bulleted-list"><li style="list-style-type:circle">Stalled: Are there any Projects that don’t have a Next Action associated? It’s either done so I can get rid of it, or I’d better make sure I am still taking action.</li></ul><ul id="7441565a-6359-4aec-aa15-abe0a26f0a07" class="bulleted-list"><li style="list-style-type:circle">Execution: What are my Most Important Tasks for the day?.</li></ul></li></ul><p id="ebcbb2d9-8eaa-4118-894a-5fcf94be5db5" class="">OmniFocus is available for Mac iOS, and Apple Watch. There is an OmniFocus Web version that will allow you to access and work with your tasks from any device. This can be really handy if you want to use OmniFocus, but can’t install it on your work device.</p><p id="65263ea8-81a2-4dc3-b2f6-3a165d98229d" class="">For more information on how we recommend using OmniFocus with GTD, <a href="https://www.asianefficiency.com/podcast/136-omnifocus/">check out this OmniFocus GTD podcast episode we did for The Productivity Show</a>. We also talk with Tim Stringer, the founder of <a href="https://www.asianefficiency.com/likes/learn-omnifocus/">Learn OmniFocus</a>, on the <a href="https://www.asianefficiency.com/podcast/312-tim-stringer/">podcast about how he uses OmniFocus in a team environment</a>.</p><h3 id="acf30331-c4ee-489e-ae8a-96b1b4dd33ca" class="">2. <a href="https://www.asianefficiency.com/likes/todoist/">Todoist</a> (Web)</h3><p id="20a0e7fb-eecc-4ba7-923c-dd29e1519254" class="">If you want a traditional web-based task management system, it is hard to beat Todoist. It’s web-based but also has clients for Mac, Windows, iOS, and Android.</p><figure id="20f9ac99-2540-48f3-836a-243a32ccd470" class="image"><a href="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/todoist-1-640x424.png"><img style="width:640px" src="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/todoist-1-640x424.png"/></a></figure><p id="21c2a334-65a3-446c-b93f-f197069cf63d" class="">Many email programs and web services have Todoist integration built-in, so it makes it fast and easy to capture tasks or ideas to the Todoist Inbox.</p><p id="07c4e64e-9fe8-4401-94fd-abd0f1f1a1c4" class="">From there, you can go through the rest of your GTD process of reflecting and organizing.</p><p id="63f858b5-6268-4a03-aee4-107929d69b5f" class="">There are many ways to use Todoist with GTD, but here’s a suggestion:</p><ul id="9951f66c-64d5-4378-9aa2-5eff1478de5d" class="bulleted-list"><li style="list-style-type:disc">Use Projects for your GTD projects. If it makes sense, you can set up a project hierarchy and break into Home, Work, etc.</li></ul><ul id="2d634639-cd89-4d75-8ee3-5dc9c1c78010" class="bulleted-list"><li style="list-style-type:disc">Use Labels to apply Contexts or other dimensions (time, energy, etc.)</li></ul><h3 id="5884d558-cd17-49bf-b49c-514fe70f8389" class="">3. <a href="https://www.asianefficiency.com/likes/things-site/">Things</a> (Mac, iOS, Apple Watch)</h3><p id="23bf5945-e1c5-4bdb-9686-10269019de81" class="">Things is a task manager that is extremely popular with members of <a href="https://shop.asianefficiency.com/dojo/">The Dojo</a>.</p><figure id="51266628-df1c-4512-990e-66ce78071a0c" class="image"><a href="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/things3-gtd.png"><img style="width:700px" src="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/things3-gtd.png"/></a></figure><p id="b2adf99b-7c01-4a40-9ca0-53d408796838" class="">People like it because it is less complex than OmniFocus and has a cleaner interface.</p><p id="5751a4de-bf66-497d-919f-54b51c63986d" class="">Headings is a popular feature — you can break your task list up into smaller sections with headings. It makes it visually easier to see what is going on.</p><p id="a7733b7c-b580-46de-b5d9-519af11e4b66" class="">It has an Inbox for collecting ideas and tasks as they come to mind. Like OmniFocus, you can see what tasks you have today and upcoming, but Things has a clever <em>This Evening</em> section for those tasks you know you’re not going to get to until later in the day.</p><p id="399269f8-6520-42ed-8efc-bdaea8f84653" class="">Dojo member Mat Rhein does a deep dive into Things in our popular <a href="https://www.asianefficiency.com/podcast/194-task-managers-guide/">podcast episode on selecting task managers</a>.</p><p id="93095647-fcab-4db9-92bd-69e5c469679e" class="">Things is available for Mac, iOS, and Apple Watch.</p><h3 id="b2f48704-442e-439c-8ddd-b8d5bb3dcaa6" class="">4. <a href="https://www.asianefficiency.com/likes/trello/">Trello</a> (Web)</h3><p id="236311a6-6793-4e4f-926d-859f014799a7" class="">You may be surprised to find Trello on this list. Trello is not what most people would think of as a “GTD app.” It’s a Kanban app, where you have Kanban boards, lists, and cards. You can move items between them as the tasks move through your workflow.</p><figure id="bcf16b72-e314-44bc-9eb8-c996ac206233" class="image"><a href="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/trello-gtd.png"><img style="width:700px" src="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/trello-gtd.png"/></a></figure><p id="20c01c81-020c-4456-bf31-29e5919ac566" class="">We wanted to include Trello in this list because we have found that many “visual” people find it difficult to use a traditional task manager but thrive using a Kanban board. There’s something about the visual nature of the boards, lists, and cards and dragging items between them that speaks to them.</p><p id="4f3ec69a-34b7-4cd7-a94c-7b393d82f955" class="">If that’s you, it is possible to implement GTD in Trello. There are different ways to do it, but at a high level:</p><ul id="2261f582-065a-4bca-b712-f1aa8f504eeb" class="bulleted-list"><li style="list-style-type:disc">Create an <em>Inbox</em> list</li></ul><ul id="211de04f-955d-4c97-b731-1cc7648d1e37" class="bulleted-list"><li style="list-style-type:disc">Create lists for <em>Next Actions</em>, <em>Completed</em>, <em>Projects</em>, <em>Waiting For</em>, and other GTD states that work for you.</li></ul><p id="b1847ab3-06ce-45de-a3c3-451be80ad749" class="">Trello has a <a href="https://blog.trello.com/gtd-getting-things-done-maximizing-productivity-trello">blog post</a> describing how to use GTD, and a <a href="https://trello.com/b/fbsKz8Uh/gtd-template">Trello GTD template</a>. David Allen Company also sells a <a href="https://store.gettingthingsdone.com/Trello-Setup-Guide-p/10485.htm">Trello Setup Guide</a> if you want to see different ways to set it up.</p><p id="d1d6ed8a-7578-43b0-9ce5-a991e3427ca6" class="">“Outlook as a GTD app?!”, I can hear you saying with a mix of distrust and disdain.</p><p id="fbc4c745-7917-4d4d-8059-fa622b1b29f6" class="">I hear you. Outlook users on Windows, of which there are many, generally fall into one of two categories:</p><ol type="1" id="19c638ff-0e36-45dd-abc7-f1b9b6f48840" class="numbered-list" start="1"><li>Outlook users who are using it under duress, being forced to by corporate IT.</li></ol><ol type="1" id="e78d27de-fb91-4419-b64a-4316a5c6a1bb" class="numbered-list" start="2"><li>Outlook ninjas who can make the platform sing.</li></ol><p id="d88e5845-0581-483a-9981-68429a8277c1" class="">When I worked in corporate, I was a mix of the two. Whichever camp you fall into, it is easier than ever to use Outlook for GTD.</p><p id="d901e7fb-585d-4e43-9828-b5d0a4bd26d8" class="">If you already have it and are locked down by IT from installing other tools, it can be a solid option.</p><figure id="f02b38b0-8fc0-4e3b-84bf-9921248d1c53" class="image"><a href="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/microsoft-todo-1-640x500.png"><img style="width:640px" src="%E6%9C%80%E5%A5%BD%E7%9A%84GTD%C2%AE%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%BB%A5%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%20-%20%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%20986f17eab732481cacb36649b460adde/microsoft-todo-1-640x500.png"/></a></figure><p id="d64a9719-e4f1-47ce-a32a-1a5da7263278" class="">The key with Outlook is to set it up so that Outlook Tasks synchronize using the Microsoft To-Do platform.</p><p id="f9c319c9-c127-432b-8bd3-2bdc4a949d2d" class="">Create Task folders under “Tasks” in Outlook for your Projects and Contexts.</p><p id="ff7919bf-9489-42bf-8d5d-5500a0402ae1" class="">You can then set up a GTD system using different views and Lists as GTD Projects.</p><p id="71ffb917-8363-4ac5-a0d5-a8245e986689" class="">For more Outlook productivity tips, check out <a href="https://asianefficiencygo.com/optimize-outlook-evergreen/">Optimize Outlook</a> — our super-actionable resource for being more productive with Outlook at work.</p><h2 id="c718999a-355f-4fe5-b823-741258f135fc" class="">Honorable Mentions</h2><p id="aaf78abc-ca2d-46db-9f4c-7bc5d9501074" class="">The 5 GTD apps mentioned above are our top 5 picks, but readers of the blog, listeners of <a href="https://theproductivityshow.com/">our productivity podcast</a>, and members of our <a href="https://shop.asianefficiency.com/dojo/">Dojo</a> community have other favorites.</p><p id="e0c56044-a698-464d-be05-71a788a82915" class="">We’d be remiss if we didn’t mention these other options:</p><p id="eef3c136-3b07-4eec-8379-a22c366a0f1b" class=""><a href="https://www.asianefficiency.com/likes/nozbe-app/"><strong>Nozbe</strong></a><strong> (Windows, Mac, Mobile, Linux)</strong></p><p id="75362e97-447b-46b5-9e42-0afc486b47c1" class="">Nozbe is one of the oldest (in a good way) GTD apps out there, and one of the most comprehensive. It has apps for Mac, iOS, Windows, Android, and Linux.</p><p id="32501686-c562-4faf-b674-c6cbc41f9be5" class=""><a href="https://www.asianefficiency.com/likes/Nirvana/"><strong>Nirvana</strong></a><strong> (Web, Android, iOS)</strong></p><p id="2789035e-f4d7-4b40-9c37-ce5e986679e9" class="">Comes with built-in features to help you gauge how much time and energy it will take to complete a task.</p><p id="33d13f83-556d-4578-84ca-ececa2c79a4c" class=""><a href="https://www.asianefficiency.com/likes/asana/"><strong>Asana</strong></a><strong> (Web, iOS, Android)</strong></p><p id="61d7244a-2a41-4009-967b-74d5325dbd96" class="">Asana is a super-popular collaborative platform. Mentioning it as a “GTD app” doesn’t do it justice, and if you work with a team, you should give it a look. In TPS312, Tim Stringer shares how he uses Asana in conjunction with OmniFocus.</p><p id="5d682925-8e71-4aaa-97b7-1fe80e60539d" class=""><a href="https://www.asianefficiency.com/likes/2do/"><strong>2D</strong></a><a href="https://facilethings.com/"><strong>o</strong></a><strong> (Web, iOS, Android)</strong></p><p id="1ef97fbf-ec73-4020-a438-9b0a86a37a19" class="">2Do has been mentioned by many Asian Efficiency blog readers as their favorite GTD app.</p><p id="922a8351-be4d-41ac-a5b7-2fec53ad4453" class=""><a href="https://www.asianefficiency.com/likes/Pocket-Informant/"><strong>Pocket Informant</strong></a><strong> (macOS, iOS, Android)</strong></p><p id="75da89eb-8256-48b6-ad4f-d0c48cb648e7" class="">Pocket Informant has a powerful template feature, for repeatable tasks and projects.</p><h2 id="185c25a1-24bf-48b8-a839-a11b936d4624" class="">Which GTD App Is Right For You?</h2><p id="05a2d7f1-0373-42f0-b227-55315b8e7c23" class="">We’ve listed a number of GTD apps here, but how do you know which one is right for you?</p><p id="c7af66a4-607a-4498-bf64-2fe4b55f56b5" class="">Start by asking yourself some questions:</p><ul id="5eea713f-b303-43fc-aeaf-08bfd2bdaf54" class="bulleted-list"><li style="list-style-type:disc"><em>What platform do you need to use?</em> Are you all in on the Apple ecosystem? Is your Windows computer locked down at work? Are you mobile-first? Do you need to use both Mac and Windows or desktop and Android, or do you live in your browser? Maybe a web-based tool will work best.</li></ul><ul id="1f124f21-0e37-4985-b3c6-c2739ff6d25d" class="bulleted-list"><li style="list-style-type:disc"><em>How complex are your tasks and projects?</em> If you have a lot of moving parts, an app like OmniFocus is great for giving you clarity. If you have more simple needs and don’t want complexity, Things might be a better choice.</li></ul><ul id="cf93edf3-86c6-42f3-9b20-f2afb7a4475c" class="bulleted-list"><li style="list-style-type:disc"><em>Do you recoil at the thought of having to use a “task manager” in the first place?</em> Before you abandon digital apps totally, give Trello a look. Many people respond well to Trello’s visual nature.</li></ul><p id="94eaf83e-8467-426a-b2b7-a11eff37dd9f" class="">Most if not all of these tools have a free trial. Download the app or sign up for the web service and give it a try. You don’t have to implement your whole task system at the start — just give it a small project and see how it goes. If you like the feel of it, then you can purchase or subscribe.</p><p id="79a973dc-5174-41cf-88a4-038caaaa6066" class="">Remember that just adding an app to an ineffective process or workflow will be a band-aid at best, and may even make things worse. The Dojo, <a href="https://shop.asianefficiency.com/dojo/">our community that comes with a library of productivity courses</a>, covers a lot of these apps in more detail and how to use them.</p><h3 id="14ee56a5-4bde-4865-a24a-725f2dc88f4d" class="">Invitation</h3><p id="ca5b999f-49b9-4782-b5a3-56d32cb53e6f" class="">Do you want to know how to set up your workplace and your computer to get more done? Are you interested to know how you can structure your ideal day and build routines? If you answered yes to both or even just one, then join our FREE TRAINING by <a href="https://asianefficiencygo.com/pah-webinar-registration/">clicking this link</a>. It is absolutely 100% free.</p></div></article></body></html>

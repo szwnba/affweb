@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>番茄工作制终极指南</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="2ff82dd9-13a4-485d-b75d-eacbbc2318f9" class="page sans"><header><h1 class="page-title">番茄工作制终极指南</h1></header><div class="page-body"><p id="14bebf3a-a763-435d-9c1b-a5dbdc1d2b85" class="block-color-gray"><a href="https://www.asianefficiency.com/motivation/pomodoro-technique-ultimate-guide/">https://www.asianefficiency.com/motivation/pomodoro-technique-ultimate-guide/</a></p><p id="f76cb903-ca95-4bef-bcca-2fe2c5b513f9" class="">
+</p><figure id="aa5ada97-363b-4d80-bdda-720e3b6fdcf4" class="image"><a href="%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%202ff82dd913a4485db75deacbbc2318f9/Thanh_pomodoro.jpg"><img style="width:700px" src="%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%202ff82dd913a4485db75deacbbc2318f9/Thanh_pomodoro.jpg"/></a></figure><p id="8059eae3-defa-4e36-99d7-a3ed38800d82" class="">Time is your most valuable asset. Each day there are 24 hours. It is the same for everyone. I have heard busy people make jokes about needing more hours in the day to get everything done. The truth is that those people may be very busy, but it does not mean that those people are productive. Productive people do not have more hours in the day than someone else. They use the time in a way that makes them appear to have a super power. In this article, we are going to reveal one of the simple strategies you can use today to make the most of your day. It is called the Pomodoro Technique.</p><p id="ea2d0e0f-56ec-4aca-9f2e-3d10a5970e2d" class="">From the beginning of Asian Efficiency, we have been able to help more than 13 thousand people become more productive. It does not happen by accident. It happens as the result of small incremental changes based on proven techniques and strategies. The Pomodoro Technique is one of first things we teach our clients. It is simple to implement, but it is so damn powerful. It has stood the test of time (literally). This technique can make it seem like you really do have more than 24 hours in a day. If that seems to good to be true, read on.</p><h2 id="10ddd3f4-2f26-4c84-ac1c-a03de5c136c8" class="">How the Pomodoro Technique Works</h2><p id="3e960831-0e54-436a-b57f-9716b9d7f9e7" class="">Back in the 80s, Francesco Cirillo invented the Pomodoro Technique as a personal system for getting more studying done. When he released his free whitepaper of how it worked others have found a lot of success with it.</p><p id="3e65d6e1-535a-47f9-a83e-b69da31a8eb4" class="">The main idea behind the Pomodoro Technique is something called “timeboxing”. Timeboxing is where you allocate a fixed time period to a planned activity. When the time expires, you stop. It is a method that many people use to insure that activities do not consume more time than they should. For example, someone may decide to check email or their social media feeds. These activities do not have a clear starting point or ending point. You can spend an hour or an entire day doing them without arriving to the finish line. Time boxing is to put helpful limits into place. If you set a limit of 30 minutes for email, then you stop after 30 minutes regardless of how many open emails you have in your inbox. The Pomodoro Technique helps you to protect your focus for doing your most productive work.</p><p id="478bdbd8-344f-456d-b86d-52963d7cf5fd" class="">We’ve all been in a situation that we can’t seem to start on a task. You might look at your to-do list and start to think that it’s just too big of a task or immediately assume that you can never get it done. You don’t want to end up failing or desperate just because you find it hard to start on a single task. You don’t want to just give up on working on your goals or just keep on pushing them off until you can’t anymore.</p><p id="c9f951f8-b4a2-46c9-9bb4-e3b5938e6a19" class="">That’s where the Pomodoro Technique comes into play. The basic premise of the Pomodoro Technique is to firewall your attention for a small amount of time and mentally recharge after each interval of work.</p><p id="accd00f5-2931-4342-9784-4b5107025afe" class="">The Pomodoro Technique works in 25-minute intervals. All you need is a timer (also called a Pomodoro) for this technique to work. Here are the steps:</p><ol type="1" id="74ab0130-70d8-4465-b4b8-d9257351d38b" class="numbered-list" start="1"><li>Identify what the task at hand is.</li></ol><ol type="1" id="86e4d588-2501-412f-b48d-09bddfbfb378" class="numbered-list" start="2"><li>Set your Pomodoro to 25 minutes.</li></ol><ol type="1" id="9afa4125-250c-4c4c-b65b-571c2b26d413" class="numbered-list" start="3"><li>Work on the task until the Pomodoro is over.</li></ol><ol type="1" id="654650ca-6bb1-44f7-8ed2-a256029a7865" class="numbered-list" start="4"><li>Take a 5-minute break.</li></ol><ol type="1" id="c87081e0-9f8f-4665-ba44-3399a1392ede" class="numbered-list" start="5"><li>For every four Pomodoros take a longer break (15-20 minutes).</li></ol><p id="3b160394-b06f-4697-8437-f106e579dda4" class="">It’s really that simple. Once you know what you need to do, set a timer for 25 minutes and all you do is work on your task during that time. You’re not allowed to do anything else but work on your task.</p><p id="38c03c3a-a4ec-4b85-9a04-0bbe5f15c0ba" class="">By setting this constraint, a lot of people find it very freeing to know that they can focus on just one thing and then do other stuff once the timer is over. People with ADD/ADHD find this technique very powerful.</p><p id="9d694e55-909f-4f88-824d-02fb9b82ba63" class="">What Francesco and others have discovered is that when you complete a small chunk of work, you build momentum so that you will feel more productive which in itself leads to getting more work done. I’m sure you’ve experienced this yourself. There was this one task you dreaded and procrastinated on for hours, maybe even weeks. One day you decided you start it anyway – even if it was only a few minutes. Before you knew it, you kicked yourself in the head because it was actually not that bad to finish the task and you wished you started it earlier.</p><p id="0c855fdc-040b-40a8-abe5-1086eec318da" class="">We see this happen all the time. It’s often the initial resistance that’s holding us back but once you get past it, it’s often very easy to complete your work.</p><p id="5727df41-5598-4aeb-8be7-f57bae33b7de" class="">This is where the Pomodoro Technique really shines. By setting a short timer (and 25 minutes is really short) you give yourself a reason to get started and to fight the initial resistance. “Oh, I’m just going to do this for 25 minutes” and it’s not uncommon for people to want to continue to work.</p><p id="12a5fa25-d9e6-4522-8b70-b5b18a68e9af" class="">If you haven’t tried the Pomodoro Technique yet, I highly recommend you try it out today.</p><h2 id="f9e45bcf-0d68-4fe1-b98c-e9a3fecb0420" class="">What if you have tried it but it didn’t work for you?</h2><figure id="59d9eda6-d510-4f11-93c4-d21be8b01469" class="image"><a href="%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%202ff82dd913a4485db75deacbbc2318f9/businessman-procrastinating.jpg"><img style="width:700px" src="%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%202ff82dd913a4485db75deacbbc2318f9/businessman-procrastinating.jpg"/></a></figure><p id="10995aed-a547-40be-ba62-62c9b1a06be7" class="">Let me see if I can correct your form. I truly believe everyone can benefit from this technique so there might be something that you’re missing.</p><p id="d69b4462-2ee8-4144-abf2-d3175ca82755" class="">One of the big benefits of running AE is that we get hundreds of thousands of people coming to the site, millions of people downloading our podcast <a href="https://www.asianefficiency.com/podcast/">The Productivity Show</a> and over a thousand people posting on the Dojo forum (<a href="https://shop.asianefficiency.com/dojo/">our private community and training library</a>). I can see what’s working and not working for people in the real world with all vastly different backgrounds. I thought I’d share the insights with you to help you implement this technique more effectively.</p><h2 id="7a2c11f5-39a5-46b8-b91f-c3b5e03cd112" class="">Do you always stop after 25 minutes? What if I’m in the groove and I want to keep going?</h2><p id="783b009a-6409-461d-883d-36e008e70a59" class="">This is something I keep seeing popping up over and over again. After working with many people, here’s what I’ve found to work as a general guideline.</p><ol type="1" id="3d2692c0-deac-4b6e-a8c4-2748a6adfb14" class="numbered-list" start="1"><li>If you are new to using the Pomodoro Technique and you struggle with getting focused work done, then stop working after the timer rings.</li></ol><ol type="1" id="c43bfa0f-7e42-46ce-82ec-d57eaadc67b5" class="numbered-list" start="2"><li>If you’ve used the Pomodoro Technique many times with success, feel free to continue to work after the timer goes off.</li></ol><p id="83ed49de-a050-413a-b774-e2c6314dc196" class="">The reason we recommend for newbies to stop after the timer runs out is to build a sustainable habit of starting and stopping. I’ve seen too many people start the Pomodoro Technique for the first few times, continue to work after the timer, and then get back to their old ways of procrastinating on their work. You want to avoid that and that’s why it’s beneficial to first get used to just using the technique to get started. The more times you can force yourself to start a timer and focus, the easier it becomes in the future to work on things you don’t want to work on (which is usually correlated with stuff that moves you closer to your goals).</p><p id="061370e9-30f0-4e40-a3b9-0b4cbdb87a08" class="">The timer is really just a gimmick to get you started and to build “productivity momentum”. Once you are used to running the timer and taking frequent breaks, you can then continue to work after it finishes. This is different per person but I’d recommend at least having a week of the Pomodoro Technique under your belt before you go beyond the 25 minutes.</p><p id="3b2d7204-3a67-4712-98fa-c02cc6ab6c1c" class="">In fact, a lot of people (including myself) will then change the duration of the timer to 50 or 60 minutes. Once you find yourself in situations where 25 minutes is too short for most of your work, it’s okay to change the timer for a longer duration. I still use 25 minutes to force myself whenever <a href="https://www.asianefficiency.com/habits/clearing-to-neutral/">I’m procrastinating</a>. The times I feel motivated, I’ll set it to 60 minutes and dive right in.</p><h2 id="32f7d391-f6ef-4c4d-a03c-9a9ef31b3c8a" class="">Which Pomodoro apps do you recommend?</h2><p id="b7dec23a-7a8f-41a5-8f29-28df74efd963" class="">If you’re on the Mac, <a href="https://www.asianefficiency.com/likes/vitamin-r/">Vitamin-R</a> is by far the best Pomodoro timer. It’s not even close. The app comes with a hefty price tag but it has every feature you want:</p><ul id="7eced002-dff6-4d06-8137-12760e2bb1bf" class="bulleted-list"><li style="list-style-type:disc">You can customize the duration of your timer</li></ul><ul id="c5acfe28-92be-4a70-94f6-726b0e45c422" class="bulleted-list"><li style="list-style-type:disc">It integrates with OmniFocus, Things and other task managers</li></ul><ul id="53121bf0-311b-4fa6-a63b-16d416e1d349" class="bulleted-list"><li style="list-style-type:disc">The reminders and notifications help you to take breaks</li></ul><ul id="a7f3cbd3-2b9b-4358-83b6-baa51f649388" class="bulleted-list"><li style="list-style-type:disc">It has time tracking built-in</li></ul><ul id="757c920b-9bbc-4392-876d-571b6d052086" class="bulleted-list"><li style="list-style-type:disc">The reporting and analysis is effortless which is ideal for a weekly review</li></ul><ul id="813c424c-4c40-4f48-93c2-c91926f559fb" class="bulleted-list"><li style="list-style-type:disc">You can play background noise if you desire to focus</li></ul><p id="7f0a23de-19b6-4619-b6b5-1f470aad0739" class="">There are a lot of features while it doesn’t feel overwhelming.</p><p id="2a681ffc-3b7d-48f5-893e-2148825e0880" class="">Another popular app is <a href="https://www.asianefficiency.com/likes/be-focused-pro/">Be Focused Pro</a> – a Dojo community favorite (besides Vitamin-R).</p><p id="190a9a42-83b3-4b63-b022-e39280682bc3" class="">For those who are on Windows, your options aren’t great. The popular timers are either web-based or cross-platform but there is no dedicated Windows app. With that said, we recommend <a href="https://www.focusboosterapp.com/">Focus Booster</a>. It’s free up to 20 Pomodoros a month and then after you’ll be looking into a subscription. As I have mentioned before, lots of productivity apps are <a href="https://www.asianefficiency.com/productivity/subscriptions-trend/">moving towards a subscription model</a> but in my opinion, that’s not worth a subscription paying for.</p><p id="9629a3cb-7357-49e2-9409-745b17a43e39" class="">The best alternative is <a href="https://www.microsoft.com/en-us/store/p/focus-10/9nblggh5g2xh">Focus 10</a>. It’s very simple so if that’s your thing, go for it. Just don’t expect a feature-rich set like Vitamin-R has.</p><p id="eb696b7a-be1f-4337-aa53-0bfe3982ea2b" class="">Another one is <a href="https://pomodoneapp.com/">PomoDone</a> that has a couple more features.</p><p id="381a4cc2-fd4b-437b-8dfc-8c3ca82b9d22" class="">An alternative is to get a timer app on your phone. You can easily use the default timer that comes with every phone. Heck, you could even use Siri or Google Assistant as timers if you wanted to. A big benefit is that you use this timer anywhere you bring your phone and it works great when you also use the Pomodoro Technique with analog tools (like your paper planner). The downside of the builtin timers is that they have no reporting and customization.</p><p id="1fc9496d-e8c2-4b30-bc46-103949a7ec3c" class="">For iOS, we recommend <a href="https://www.asianefficiency.com/likes/pomodoro-keeper/">Pomodoro Keeper</a> and for Android <a href="https://play.google.com/store/apps/details?id=com.kinp.pomodoro&amp;hl=en">Pomodoro + White Noise</a></p><h2 id="3b58c682-a625-4fcf-b7f2-83f169b9f552" class="">What are some activities you do on your Pomodoro breaks?</h2><figure id="9b2d92c2-4ee4-42d2-a51e-392fe389ebb6" class="image"><a href="%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%202ff82dd913a4485db75deacbbc2318f9/walk-with-dog-1.jpg"><img style="width:700px" src="%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%202ff82dd913a4485db75deacbbc2318f9/walk-with-dog-1.jpg"/></a></figure><p id="f29c90f8-f603-4cc3-8b54-be847e2f7eb3" class="">I never thought of addressing this but this was a very popular <a href="https://shop.asianefficiency.com/dojo/">forum topic in the Dojo</a> (our private community and training library). Whenever I have my short break, I just sit on the couch, drink some water and relax for a bit before I hit my next Pomodoro. I’ve also taken short walks around the neighborhood and done some stretching.</p><p id="1311aef5-0238-4a7a-85f7-0af0784c0ad5" class="">On the Dojo forum people came up with a great list of other things you could do on your breaks:</p><ul id="160fa601-6bdb-4b1c-bcc7-73e2fc014f97" class="bulleted-list"><li style="list-style-type:disc">Some form of simple exercise (kettlebell swings, pushups, jumping jacks, pull-ups)</li></ul><ul id="375f30ac-c833-4d04-9b02-4bb38eab45c5" class="bulleted-list"><li style="list-style-type:disc">Play a musical instrument (guitar, violin, piano)</li></ul><ul id="1b1d3866-59cb-4c8b-bb91-e4d54907a5cc" class="bulleted-list"><li style="list-style-type:disc">A power nap</li></ul><ul id="ee2f162e-ccd4-47fe-939c-bca3722bf69a" class="bulleted-list"><li style="list-style-type:disc">Reading a book</li></ul><ul id="f87a9937-e520-4691-be94-ed99069ca1b2" class="bulleted-list"><li style="list-style-type:disc">Juggling</li></ul><ul id="b9abfbd3-55ea-4c7f-9f99-175e231336fb" class="bulleted-list"><li style="list-style-type:disc">Read the Dojo forum (I totally approve!)</li></ul><ul id="30ba3412-e135-4cf0-b74e-566ed41f5806" class="bulleted-list"><li style="list-style-type:disc">Stretching</li></ul><p id="92d1f486-f83a-4a5a-ae4d-4a15b0159a89" class="">We usually recommend that you <a href="https://www.asianefficiency.com/habits/clearing-to-neutral/">step away from your desk</a> when you take your break. It allows you to mentally take a break from your “work” space and then re-engage when you sit down again. So clearing your OmniFocus inbox or checking email on your breaks are not something we recommend.</p><h2 id="8c0f02dc-e0b5-4b09-99fd-269f57b3bdcf" class="">How many pomodoros do people typically aim to do in a day?</h2><p id="8b7f9084-4738-4303-ad22-c157965b4ee7" class="">Let’s get a big myth out of the way: <a href="https://www.asianefficiency.com/productivity/real-working-hours/">there’s no such thing as an 8-hour workday</a>.</p><p id="5ab92a2d-638a-4998-b956-fa5fd2889509" class="">You might actually be at work for 8 hours but when you subtract lunch, water cooler talk, meetings and checking email…you really only have 1 to 4 hours of available time to get focused work done. Everyone’s job is different so there’s no hard and fast rule for how many Pomodoros you should aim for.</p><p id="b6170c4a-93db-4545-8bf1-585862298541" class="">Personally, if I can do 4 Pomodoros in a day (that’s essentially two hours of focused time) I would consider that a highly productive day. In two hours of uninterrupted time, I can create massive value and solve a lot of complex problems. Do I achieve that every day? Absolutely not. Realistically, on a good week, I might achieve that 3-4 times. That would be considered a very productive week.</p><p id="e7482321-9215-4918-85e5-24a03a5e9f30" class="">The bare minimum should be 2 pomodoros. If you can’t get at least one hour of uninterrupted time, you have a bigger problem to deal with. Your time allocation is way off and you’re probably wasting a lot of time in other areas. Now there’s an exception…</p><h2 id="f1add696-e7ed-42de-be83-5baab0319c60" class="">My line of work is very interrupt-driven. Can this still work for me?</h2><figure id="2d4673bf-e082-497b-a5af-aac8dff4d273" class="image"><a href="%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%202ff82dd913a4485db75deacbbc2318f9/hospital-setting.jpg"><img style="width:700px" src="%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E5%88%B6%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97%202ff82dd913a4485db75deacbbc2318f9/hospital-setting.jpg"/></a></figure><p id="bb9701a5-1b48-42b3-a9ff-78b2638bc180" class="">When your job is driven by people interrupting you, critical email notifications and phone calls it can be difficult to get focused time in. A lot of people who work in the medical field, IT and customer service roles experience this.</p><p id="79343ef9-83ac-4f12-bb61-b345c8036063" class="">If you find yourself in such situation, the first thing you have to accept is that the value of your role is being flexible and being interrupted is part of your job. Part of your salary and the value your offer is for addressing everything that would be considered interruptions.</p><p id="74da97bd-a8cc-4c17-af22-d72879f84e86" class="">With that said, think of the Pomodoro Technique as a tool you can use at a time that is suitable. Even though your day might be sporadic and all over the place, there will also be times when you know you’ll have pockets of time to focus. Use the Pomodoro Technique for those moments. It might not be a suitable tool for everyday use but very useful for those times when you know you have an hour or two for yourself. Especially if you know that you tend to procrastinate during those times.</p><p id="34fa1ff7-0466-4683-99a9-726c496dfc79" class="">Don’t shoot for a number of Pomodoros in a day. Your line of work doesn’t allow you to control your time like others can. You’ll have to be okay with not getting any Pomodoros done but when you do accomplish one, it would be a major victory! Again, use the Pomodoro Technique as a tool when you can but don’t beat yourself if you can’t.</p><h2 id="97985418-e306-465f-8a8d-b315f8ba4db8" class="">Next Actions</h2><p id="8804f353-49c9-4f51-b599-6a512df023fb" class="">The Pomodoro Technique is a great way to beat procrastination at the start of your day. If you begin your day right, it is much easier to get things done later in the day (hence why we love <a href="https://www.asianefficiency.com/habits/eat-that-frog-most-important-tasks-morning/">eating frogs</a>). Some people use the Pomodoro Technique to get started and once they have that momentum going, they just free flow the rest of the day and don’t’ need the timer anymore. Use this technique to your own liking because all that matters is that YOU are getting work done. It doesn’t matter how you do it.</p><p id="0343d9bd-738f-4c75-b8c3-daf118da5969" class="">Set a 25-minute timer right now on your phone for your next task and then take a break. Commit to focus ONLY on the task and nothing else. Once the timer rings, take a 5-minute break and walk away from your desk. Congratulations, you’ve completed your first Pomodoro!</p><p id="3ae64019-ce20-4264-b82c-af22324cb361" class="">Once you see it’s working for you then it’s worthwhile to get one of our recommended apps.</p><p id="106bba38-dbee-4053-a737-b5c1b628fcab" class="">For any more questions, let us know in the comments. If you also want to get involved in the Dojo (our private community and training library), sign up for the waitlist <a href="https://shop.asianefficiency.com/dojo/">here</a>.</p><h3 id="748c7c60-932a-4a69-932d-0f4cef9b9f0e" class="">Invitation</h3><p id="079d74c2-65ec-4578-9804-a498abb4960d" class="">Do you want to know how to set up your workplace and your computer to get more done? Are you interested to know how you can structure your ideal day and build routines? If you answered yes to both or even just one, then join our FREE TRAINING by <a href="https://asianefficiencygo.com/pah-webinar-registration/">clicking this link</a>. It is absolutely 100% free.</p><p id="e05361c4-9de6-44c3-928e-59b723680edb" class="">Double your productivity and free up 5-8 hours a week when you get our proven productivity system<strong>.</strong></p></div></article></body></html>

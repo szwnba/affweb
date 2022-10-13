@@ -1,0 +1,674 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>你能同时实现多个目标吗？</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="e3ae94bf-02f4-4941-a2ec-afce4024aed8" class="page sans"><header><h1 class="page-title">你能同时实现多个目标吗？</h1></header><div class="page-body"><p id="0e4a3d0b-1416-4e2e-abbc-ec5bbc261d19" class="block-color-gray"><a href="https://www.asianefficiency.com/mindsets/work-life-balance-part-2/">https://www.asianefficiency.com/mindsets/work-life-balance-part-2/</a></p><p id="68d49d67-1e13-4241-a05e-83e86279bf6b" class="">
+</p><figure id="b0ce6869-299f-461c-a4c7-35ebd446fabb" class="image"><a href="%E4%BD%A0%E8%83%BD%E5%90%8C%E6%97%B6%E5%AE%9E%E7%8E%B0%E5%A4%9A%E4%B8%AA%E7%9B%AE%E6%A0%87%E5%90%97%EF%BC%9F%20e3ae94bf02f44941a2ecafce4024aed8/Thinking-alone-e1501788548927.jpg"><img style="width:700px" src="%E4%BD%A0%E8%83%BD%E5%90%8C%E6%97%B6%E5%AE%9E%E7%8E%B0%E5%A4%9A%E4%B8%AA%E7%9B%AE%E6%A0%87%E5%90%97%EF%BC%9F%20e3ae94bf02f44941a2ecafce4024aed8/Thinking-alone-e1501788548927.jpg"/></a></figure><p id="82113dfe-4889-4e6a-a07d-8af62cd3a431" class="">At AE, we don’t believe in work-life balance but in something much better.</p><p id="26d53db6-2648-4ed1-98dd-66c0e529be4b" class="">The short version is: there’s no such thing as work-life balance. It’s a myth.</p><p id="f9338695-da42-45c7-b089-94364b732a6f" class="">When people say they want work-life balance, what they are really saying is “I want to be happy at work and at home, and be in control of how I spend my time”. It usually means having multiple goals at once and feeling confident that you can achieve them all.</p><p id="4043c9bd-9a4b-4b9d-9728-d3313f211c5b" class="">The productivity nerd in me goes, well…how do we make that happen?</p><p id="3591734b-49a7-4cbe-b909-7a0706d37f15" class="">That’s where I want to introduce you to a simple tool you can use today.</p><p id="c20ba132-0d08-437a-bdce-aee3366f6705" class="">You probably have 3-5 goals at any given time. You might have one or two goals you want to have accomplished at work, and then a couple for your personal life.</p><p id="78fb3f88-801c-491e-9ee8-d4121d3e41c5" class="">When most people say they want “work-life balance” what that would look like is that they can accomplish all of their goals (without having to endure any form of stress and anxiety).</p><p id="30bf6b47-fefc-4c05-9d36-a00e3500892c" class=""><strong>That’s where the big work-life balance myth comes in</strong>.</p><p id="f2946fd6-fa10-4d85-bfb7-2bef9b3e7bb3" class="">You cannot accomplish all of your goals at the same time without enduring any form of stress.</p><p id="c2687110-903a-4d93-ab76-88793edfcbdc" class="">To put it another way: if you want to accomplish more than one goal at a time, be prepared to make (significant) sacrifices.</p><p id="649837ec-ec06-4c9d-a934-95985cdbf437" class="">The ugly truth is, most people don’t want to give up things to accomplish a goal. When you want to get fit, you have to be willing to change your schedule and give up certain foods. When you want to save money, you have to give up certain things you want to buy or cut down on things you’d normally spend money on.</p><p id="d03f25ad-91d2-42a1-ad8b-228bcb411003" class="">In my experience, when you want to achieve a new level of growth, in the short-term you usually have to give something up in order to grow. And not everyone is willing to do that.</p><p id="6e05498d-a8fa-4483-922d-9cb43d257363" class="">That’s okay. Luckily for you, we’ve figured out a way for you to accomplish all of your goals without “sacrificing” anything.</p><p id="dc0cf868-bb9c-4845-97cd-479f8132395f" class="">All you have to do is implement this tool that we use and teach all of our private clients.</p><p id="6690cc5b-0914-4867-ba50-368dbc17c763" class="">The premise is very simple: out of all the goals you have, be prepared to postpone all of them except for one goal. In other words, you have to be willing to focus on just one goal at a time.</p><p id="3fe9e9ea-1efd-43a4-9f19-bc199208fc55" class=""><strong>When you have more than one goal, your chances of achieving any goal decreases exponentially.</strong></p><p id="54f20e2d-8877-429b-b3f9-73aace8703b3" class="">I was working with Jaime (not real name) 1-on-1 as part of our private coaching. She worked a 9-5 corporate job and was happily married with two kids. It was mid-2016 when we started working together because she felt stuck on achieving her goals and she knew she needed help.</p><p id="c0eea0ea-98a9-44ae-a060-0c321aeb3008" class="">This was her list of goals:</p><p id="60bfd0f9-e31b-4798-9dbf-1cdec79c4f56" class="">1. Make an extra $100,000 in my side-business
+ 2. Read more books
+ 3. Lose weight
+ 4. Have a great relationship with mom and dad
+ 5. More free time for myself</p><p id="1c87d5ce-3c7b-4b24-8c8e-9882039b1f11" class="">Are you seeing what I’m seeing?</p><p id="7158fc50-c5c0-4ff1-b782-419eb995820e" class="">The first thing I noticed was that she had too many goals. There’s no freakin way a normal person can accomplish all that in one year.</p><p id="601ca693-0a94-49c5-a0e9-1471496b0ea9" class="">(I think you can actually do it, but more on that in a bit.)</p><p id="1cdbf78d-0c8b-452e-b7e1-abbad8c6d0b7" class="">Second thing: notice how the last four goals are really vague. What does “lose weight” mean? Is it a couple pounds/kilos? Is it fitting in your jeans from college? Is it visibly seeing your abs? Is it weighing 90 lbs?</p><p id="b7857bfe-7bf6-4fd7-9c49-788e009b7a31" class="">When your goals are vague, it’s easy to feel like you can never accomplish your goals….because you can’t measure success. It feels like you’re trying to hit a moving target.</p><p id="7a8dfa25-86d0-4815-8e4a-b80b68cc8b8c" class="">Having a great relationship with mom and dad is a great goal, but again very vague. How do we actually know if we’ve accomplished it?</p><p id="b5a46686-2f89-4e89-a7fe-e035b4c6fe65" class="">Same goes for “more free time for myself” and “read more books”?</p><p id="b4edcd55-d715-47e7-8d28-8ebc6585311f" class="">We need to make it concrete and measurable. That’s usually the easy part and what I spent time on working with Jaime.</p><p id="01d05d14-0263-452b-9c8a-5a519d00ea9e" class="">The hard part is deciding which one to focus on…and which one to ignore for the time being.</p><p id="61362d21-5bad-4ff7-b4ce-7650698f11fc" class="">When I first told Jaime that we could only work on one goal, she immediately fired back at me that all of her goals were important to her.</p><p id="9a64a393-4da6-4c29-a227-32e76f0ebd1d" class="">I told her that it’s very unlikely that she’ll achieve any goal because she was unfocused and her goals were vague. She was scatter-brained, had 5 goals at the same time, and wasn’t laser-focused on getting just one goal done at a time.</p><p id="9c136ef0-e6e2-4a01-babf-9480a5fac202" class="">I’m fairly confident that if she solely focused on her side-business, she would make more than $100,000 that year (which we ended up choosing as the goal to focus on).</p><p id="0ee4fc37-8555-4dd3-9d53-30ab0d91658a" class="">I’m sure you can relate. You probably have a bunch of goals you want to achieve. <strong>How do you know which one to focus on first?</strong></p><p id="c23dea10-05d4-48a0-9041-ecd6fd49676e" class="">When everything looks equally important, that’s a sign that you’re missing a clear priority system. I taught Jaime a simple tool that allowed her to see which goal was most important to her.</p><p id="126f9ae4-62bd-47a4-ba78-4d6dec90ce04" class="">Now I want you to have this tool too.</p><p id="e076e92a-48a5-435c-a4e6-ab141e1ef964" class="">We call it the <strong>Wheel of Life</strong>. Use this tool today and you’ll instantly know which goal you should focus on first.</p><figure id="6b3d328a-7332-441c-afa4-a87e318a03b1" class="image"><a href="%E4%BD%A0%E8%83%BD%E5%90%8C%E6%97%B6%E5%AE%9E%E7%8E%B0%E5%A4%9A%E4%B8%AA%E7%9B%AE%E6%A0%87%E5%90%97%EF%BC%9F%20e3ae94bf02f44941a2ecafce4024aed8/Zacks-Wheel-500x476.png"><img style="width:500px" src="%E4%BD%A0%E8%83%BD%E5%90%8C%E6%97%B6%E5%AE%9E%E7%8E%B0%E5%A4%9A%E4%B8%AA%E7%9B%AE%E6%A0%87%E5%90%97%EF%BC%9F%20e3ae94bf02f44941a2ecafce4024aed8/Zacks-Wheel-500x476.png"/></a></figure><p id="352df07a-6028-4c58-8dc9-e38a8ad70a8a" class="">It’s all explained in today’s video. It includes a free worksheet that you can download and use right away.</p><p id="1b663152-ab54-452c-a424-70c773ee72e2" class="">This video is part of our <em>Finisher’s Fastlane</em> course, but today you’re going to get access to one of the most powerful tools we teach our clients.</p><p id="f8e38eea-fc42-4685-82ae-43cf42d53b18" class="">Watch the video now and download the worksheet (while it’s still available). Don’t wait until the time is right. Watch it right now and get clarity on your number one goal.</p><p id="1607ea44-de21-443d-99f0-3bf096750a7b" class="">Get the Productivity System Used By Over 15,129 Highly Productive People</p><p id="b656a4b7-c293-4b8e-bb23-a1dea62d3fc4" class="">Double your productivity and free up 5-8 hours a week when you get our proven productivity system<strong>.</strong></p></div></article></body></html>

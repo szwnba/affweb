@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>亚洲冥想效率指南，减少压力，提高生产力和幸福生活</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="e90574de-b981-4ad5-a299-03fc74664512" class="page sans"><header><h1 class="page-title">亚洲冥想效率指南，减少压力，提高生产力和幸福生活</h1></header><div class="page-body"><p id="305dd66d-46ed-49fa-b268-1c79098046e4" class="block-color-gray"><a href="https://www.asianefficiency.com/health/meditation-guide/">https://www.asianefficiency.com/health/meditation-guide/</a></p><p id="204424ad-a9d0-4921-9263-06998ee0bc88" class="">
+</p><figure id="d90090eb-b54e-406d-b61d-6648ee0ff913" class="image"><a href="%E4%BA%9A%E6%B4%B2%E5%86%A5%E6%83%B3%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%8C%E5%87%8F%E5%B0%91%E5%8E%8B%E5%8A%9B%EF%BC%8C%E6%8F%90%E9%AB%98%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%92%8C%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB%20e90574deb9814ad5a29903fc74664512/meditating.jpg"><img style="width:640px" src="%E4%BA%9A%E6%B4%B2%E5%86%A5%E6%83%B3%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%8C%E5%87%8F%E5%B0%91%E5%8E%8B%E5%8A%9B%EF%BC%8C%E6%8F%90%E9%AB%98%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%92%8C%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB%20e90574deb9814ad5a29903fc74664512/meditating.jpg"/></a></figure><p id="3e189818-dd94-4ad6-8b2e-e4ba410b0bef" class="">One of the most productive habits I’ve picked up over the past couple of years is the habit of meditation.</p><p id="a8c20a72-5934-447f-be86-a070fb5e627b" class="">When I first heard about it, I was skeptical. As someone who’s very factual and “down to earth”, meditation sounded like a voodoo practice. My woo-woo radar went off and I dismissed it for years.</p><p id="0551e590-4294-42d8-a624-dc5ab2e4c3f3" class="">As time went by, lots of people I admired kept bringing up how they meditated. I usually just let it slide but after repeatedly hearing about it I decided to give meditation another look.</p><p id="87194d97-0a07-4476-bb4e-7d1009e5e84a" class="">Looking back…I’m really glad I did.</p><h2 id="e905e2a9-66d6-4214-b7f6-a30326f2ccc2" class="">What is Meditation?</h2><p id="242c1616-b979-4637-bb62-833ef84f656d" class="">In its simplest form, meditation is a breathing exercise – you learn to control your breathing.</p><p id="41d2ed0c-71e7-44d3-ae01-4e4669295442" class="">We take for granted that we breathe every day and once something is so habitual or “part of living” we often overlook the opportunity to optimize it. Honestly, have you ever thought about how you could optimize your body’s hydration, nutritional needs, sleep patterns, brain chemistry and such?</p><p id="c23e1cbc-74c6-4d35-ba52-3998f6ac38c9" class="">These are systems running every second that are ripe for optimization. One tiny improvement in one system can has drastic positive results. What might start off as a small adjustment and improvement can have drastic results as the system keeps running. That’s the case with meditation.</p><p id="5ebeceba-c1a9-4ec0-b571-14af7623edbc" class="">Even though I started off learning a simple breathing exercise, what it has really taught me is to be more present and raise awareness to my quality of living.</p><h2 id="f7e1bf7f-458a-4bc7-b95c-a96ffc07ed64" class="">5 Reasons You Should Meditate</h2><figure id="ca823b27-8895-4f19-9ced-d9a31418cb9e" class="image"><a href="%E4%BA%9A%E6%B4%B2%E5%86%A5%E6%83%B3%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%8C%E5%87%8F%E5%B0%91%E5%8E%8B%E5%8A%9B%EF%BC%8C%E6%8F%90%E9%AB%98%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%92%8C%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB%20e90574deb9814ad5a29903fc74664512/zenrocks.jpg"><img style="width:640px" src="%E4%BA%9A%E6%B4%B2%E5%86%A5%E6%83%B3%E6%95%88%E7%8E%87%E6%8C%87%E5%8D%97%EF%BC%8C%E5%87%8F%E5%B0%91%E5%8E%8B%E5%8A%9B%EF%BC%8C%E6%8F%90%E9%AB%98%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%92%8C%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB%20e90574deb9814ad5a29903fc74664512/zenrocks.jpg"/></a></figure><p id="a2e12d4c-e613-4566-82c5-5b4ade8cd0ab" class="">There are lots of studies that prove the benefits of meditation (see <a href="https://newsroom.ucla.edu/portal/ucla/evidence-builds-that-meditation-230237.aspx">here</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/19104459">here</a> and <a href="https://news.harvard.edu/gazette/story/2012/11/meditations-positive-residual-effects/">here</a>). I won’t bother you with the science but here’s a quick list of benefits:</p><ol type="1" id="ea72de68-1cf0-4a4e-91bd-7d936338821e" class="numbered-list" start="1"><li><strong>Less stress and anxiety</strong> – I’ve noticed over time that I experienced less stress and anxieties – especially when life got really busy. Now I’m able to decompress when I need to and if I find myself in a tense situation I know how to get myself out of it to avoid the stress and anxieties.</li></ol><ol type="1" id="daf2f43a-8d8d-4035-8eb9-f78fb6f7fae4" class="numbered-list" start="2"><li><strong>Getting laser-like focus</strong> – getting focused in today’s hyper-interconnected and technological world is one of the biggest personal challenges we have but meditation is the one thing you can do to combat that. I also consider it one of my secret weapons for whenever I’m tense, overwhelmed and I feel like there’s no end to my todo list. I’ll simply meditate and I have the clarity knowing what to do next without any hesitation.</li></ol><ol type="1" id="4ff6a3af-73b6-48f6-972a-926e302da18c" class="numbered-list" start="3"><li><strong>Be present</strong> – when life gets busy and you feel like you’re not in control of your day, it’s easy to run around like a headless chicken, put out fires all day and never feel like you’ve accomplished much. Meditation will help you stay calm and centered despite all the hectic things that are going on around you.</li></ol><ol type="1" id="ade50148-7266-4e18-97e3-80f5745afa3e" class="numbered-list" start="4"><li><strong>Faster learning</strong> – when you make meditation a daily practice, you’re literally changing your brain’s anatomy that allows you to better absorb information and learn. More gray matter = good.</li></ol><ol type="1" id="f4ddc90d-527e-4ea4-8304-74931835e663" class="numbered-list" start="5"><li><strong>Increase willpower</strong> – thru practiced meditation you learn how to control your willpower and make it stronger. After several months I started to notice I felt more in control of my decisions and that was really empowering. I started making more of the right decisions by <a href="https://www.asianefficiency.com/motivation/eliminating-motivation-doing-the-right-thing/">not relying on motivation to do the right thing</a>.</li></ol><h2 id="d9f60154-52c2-4c62-a531-31bcea0c7a08" class="">The Breathing Exercise</h2><p id="4feeb69b-1208-4f62-8584-24406874d3c4" class="">I’m going to give you the no-BS and straight-to-the-point exercise you can use today to start your meditation habit. When you research meditation you see a lot of people sitting in a lotus position somewhere serene but that’s totally overkill.</p><p id="8bcaca8e-a33f-477a-be9b-bd30524ddea7" class="">In the <a href="https://www.asianefficiency.com/likes/productivity-blueprint-post/">Productivity Blueprint</a> I show my exact meditation practice but I want to give you the basic instructions for it:</p><ol type="1" id="d5075221-6697-4e78-bba8-12395af3f405" class="numbered-list" start="1"><li>Sit down comfortably and straight up in a chair</li></ol><ol type="1" id="617a0150-a85f-44a8-99f7-461c0b882995" class="numbered-list" start="2"><li>Close your eyes</li></ol><ol type="1" id="47836711-7b4c-4530-9ab8-f89c0a95f470" class="numbered-list" start="3"><li>Breathe in for 3 seconds</li></ol><ol type="1" id="ecdffb30-ee49-4687-874c-4adfafe122f0" class="numbered-list" start="4"><li>Breathe out for 6 seconds</li></ol><ol type="1" id="cc61b697-7415-48eb-8b8f-465d0040784e" class="numbered-list" start="5"><li>Repeat this for 5 minutes every day</li></ol><p id="0c6398d4-7dd9-4a9a-877c-5355845ea9f6" class="">Don’t let the simplicity fool you (that’s what I used to do). When you do this every day, it will change your life.</p><p id="b2de8276-46c4-4eb3-88c4-5ffd37488cf0" class="">In the Productivity Blueprint I go deeper into it and I show more of the nuances that you can copy but here’s a video I found that shows you how to sit down in your chair before meditating.</p><h2 id="896818fe-a053-4b41-963b-eca0b7ab73d3" class="">Resources</h2><p id="8a15471e-4774-428b-a9cc-3e90f1de9ef2" class="">If you’re interested in learning more about meditation, I can recommend the following resources:</p><ul id="e9649e09-ab86-479e-a7de-4d54afeee58c" class="bulleted-list"><li style="list-style-type:disc">Book: <a href="https://www.amazon.com/Minute-Meditation-Expanded-Quiet-Change-ebook/dp/B00NMPN1OM/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;qid=1600091918&amp;sr=8-1">8 minute meditation</a></li></ul><ul id="02de80b4-b3f3-4c82-80ba-7f824bab2372" class="bulleted-list"><li style="list-style-type:disc">Apps: <a href="https://www.asianefficiency.com/likes/headspace-app/">headspace</a> (provides you with instructions and music you can meditate to)</li></ul><ul id="573e126d-6b74-44ad-a9a3-4a32cbd757b7" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.asianefficiency.com/likes/productivity-blueprint-post/">The Productivity Blueprint</a> where I show you my meditation routine</li></ul></div></article></body></html>

@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>生产力的10种心态</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="420df77f-4e0d-47b6-a3ad-ffcdcd2bebd6" class="page sans"><header><h1 class="page-title">生产力的10种心态</h1></header><div class="page-body"><p id="2ca94e20-8708-4d6e-99a4-7585696d8fa5" class="block-color-gray"><a href="https://www.asianefficiency.com/mindsets/the-10-mindsets-of-productivity/">https://www.asianefficiency.com/mindsets/the-10-mindsets-of-productivity/</a></p><p id="e53a665a-3039-4fc8-a9d1-fd2db6a8229e" class="">
+</p><figure id="3092c69b-656d-4b62-bbbe-24d58b24faa6" class="image"><a href="%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%8410%E7%A7%8D%E5%BF%83%E6%80%81%20420df77f4e0d47b6a3adffcdcd2bebd6/thinking.jpg"><img style="width:640px" src="%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%8410%E7%A7%8D%E5%BF%83%E6%80%81%20420df77f4e0d47b6a3adffcdcd2bebd6/thinking.jpg"/></a></figure><p id="b5d4c9c9-9e0a-4783-8152-fb70820335bb" class="">Everyone has a different idea as to what success means, but at the same time, everyone wants to be successful. At Asian Efficiency we write a lot about time management and productivity, two concepts that are related to success. Look at the successful people around you and you will notice that most of them are organized people who value their time. You might wonder what makes them so successful. Oftentimes, it is something you cannot see on the outside. Do you know what it is? It’s the mindsets these people have.</p><p id="4d23545e-de67-44b0-b943-58be4e3c8ba1" class="">We’ve analyzed what successful people have in common when it comes to time management and productivity. While people can manage their time in many different ways, the principles behind it are the same. Coming up with these principles wasn’t easy, but zooming out and with some high-level thinking, we came up with 10 mindsets behind time management and productivity. Apply these mindsets for yourself and become an Efficient Asian.</p><h2 id="866601d4-b151-4f0a-99d4-af21a765ab76" class="">1. Inside-out.</h2><p id="f7777f32-5790-47ac-ae40-54da5dd91283" class="">Before you can apply time management techniques, it is important to understand the logic behind them. It is not efficient to apply techniques and things to your life if you don’t understand why you are doing them. To get the full effect you have to understand the <a href="https://www.asianefficiency.com/mindsets/inner-game-of-productivity/">psychology of time management</a> and it starts with how you think about time management. T. Harv Eker gives a great analogy in his book <a href="https://www.asianefficiency.com/likes/millionaire-mind/"><em>Secrets of the Millionaire Mind</em></a> why working on your beliefs and mindsets are important. This is a direct quote from the book (which we highly recommend):</p><blockquote id="3fba2cc3-baaf-46f6-9bfd-8e9ae1527696" class="">Imagine a tree. Lets suppose this tree represents the tree of life. On this tree there are fruits. In life, our fruits are called our results. So we look at the fruits (our results) and we don’t like them; there aren’t enough of them, they’re too small, or they don’t taste good. So what do we tend to do? Most of us put even more attention and focus on the fruits, our results. But what is it that actually creates those particular fruits? It’s the seeds and the roots that create those fruits. It’s what’s under the ground that creates what’s above the ground. It’s what’s invisible that creates what’s visible. So what does that mean? It means that if you want to change the fruits, you will first have to change the roots. If you want to change the visible, you must first change the invisible.</blockquote><p id="37d4c497-b633-45a2-a479-ffce2055a572" class="">In other words, work on the inside first and your outer results will be a reflection of that. Having the right thoughts and views on time management will automatically translate in the right behaviors that will make you more productive. In order to improve your time management skills, you must first understand it. Once you understand the principles, it doesn’t matter how you apply them.</p><h2 id="3561b46d-d09c-41fa-bc5a-f316a6eccd6c" class="">2. Control.</h2><p id="c2775b29-894f-4e51-9067-d8198fb25231" class="">When people think of the purpose of time management, they think it is about being more organized. On the surface level, this is true. On a more deeper level, what time management really gives you is a sense of control and control to decide what you want to do.</p><figure id="79e631e2-60d7-4188-a06e-fe8a6b185a05" class="image"><a href="%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%8410%E7%A7%8D%E5%BF%83%E6%80%81%20420df77f4e0d47b6a3adffcdcd2bebd6/locus_of_control.jpg"><img style="width:499px" src="%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%8410%E7%A7%8D%E5%BF%83%E6%80%81%20420df77f4e0d47b6a3adffcdcd2bebd6/locus_of_control.jpg"/></a></figure><p id="188c2f06-7ddd-481d-80f4-8046b52bcb69" class="">Locus of Control</p><p id="c8b52330-a052-475d-800b-7d5d4da735a9" class="">In psychology, you have the concept of <strong>Locus of Control</strong>. What that comes down to is, the more you feel like you are in control of your life, the happier you are. By being able to manage your time and life efficiently, your sense of control goes up. That in return makes you a happier person. Isn’t that what everyone wants?</p><h2 id="6014ad3b-c612-4260-9671-fd74f175d404" class="">3. Responsibility.</h2><p id="c1eb304c-a0c8-451f-891f-d3832737025d" class="">The first step to being in control of your time and life is by taking responsibility for all your actions. When you take full responsibility, you are in control. It is easy to blame the outside world, but what that really means is that you are not in control. Remember in the previous point, the more you are in control of your life, the happier you feel.</p><p id="9897b0e5-81c3-42b8-a64d-1599e0ea4418" class="">Be the CEO (Chief Executive Officer) of your life. As the CEO, you control what is going on and take full responsibility for everything. When things go bad, guess who gets the blame first? That’s right, the CEO. <em>Whether it is the CEO’s fault or not, the CEO always takes full responsibility for what is happening.</em></p><p id="f298ce31-a17e-4fe2-8ad2-3ca4baa51310" class=""><strong>The same idea applies to your life. You are the primary creative for your own life. How you manage yourself and time is your responsibility. You choose to focus and concentrate on the important tasks, or you choose to spend your resources on time wasters.</strong></p><p id="1bf5221e-36d2-4b87-ac33-8e0abbd6cf2b" class="">During times when you don’t feel like you aren’t organized or you don’t like how much work you got done, take full responsibility for this. These inconveniences are a direct result of your actions (which you have control over). When you don’t take responsibility for them, it gets easy to blame external forces. The sad truth is, we often cannot influence external forces. That is thinking with an external locus of control, where you believe that outside forces directly control your ability to succeed.</p><p id="357175e5-11d0-49eb-89a3-b1bb63db6313" class="">Before we can move forward, we have to be able to accept where we are at right now. If you aren’t as organized as you like to be, take responsibility for it, accept it, and move forward. You can’t change the past, but you can influence your present and future. The only place to go is forward.</p><h2 id="960e1543-0d5a-4cd9-985d-329acfdb454d" class="">4. Leverage points.</h2><p id="9cabc28d-13bf-447a-bdaf-5a181618ed5b" class="">What motivates you, might not motivate me to take action. Everyone has different triggers that motivate them. Find what motivates you to take action. These could be:</p><ul id="c23a8bb9-aba5-4f5b-9cd6-721ab2bc6404" class="bulleted-list"><li style="list-style-type:disc">Hopes</li></ul><ul id="71b712a3-f97e-4b9b-99d0-3fa284e20609" class="bulleted-list"><li style="list-style-type:disc">Dreams</li></ul><ul id="15020611-d9e3-453f-96f9-1e22b370377a" class="bulleted-list"><li style="list-style-type:disc">Goals</li></ul><ul id="df576cf1-bdad-4c0f-9967-6e7f6226c6db" class="bulleted-list"><li style="list-style-type:disc">Passion</li></ul><p id="46796031-95c0-4d72-aacf-770035d09d1f" class="">Once you have identified what motivates you, setup up triggers that will motivate you into action.</p><p id="102a7ccf-8e3a-4f1d-b17e-cf8cccdd40e6" class="">Nowadays, we get overwhelmed with things to do and information, and we easily get sidetracked. By reminding yourself constantly of your leverage points you keep yourself in check so you can focus on what is important to you.</p><h2 id="e2c7931d-7e8c-4ce5-960b-a64085075c61" class="">5. Clarity.</h2><p id="87dbcedb-decb-476f-b41c-9f29802222b3" class="">Clarity is the driving force behind goal setting and prioritizing. Know what you want and where you are heading to. Not knowing what you want leads to procrastination and to wasting time on unimportant things.</p><p id="959b0143-5af2-41b1-8b07-f9b16ad60c81" class="">When you prioritize, you have to know what the desired results are. That’s why for the <a href="https://www.asianefficiency.com/mindsets/the-pareto-principle-or-8020-rule/">80/20 rule</a> to be effective, you have to know what your desired outcome is. Or else there is no way you can figure out what is important and what is not. The same goes for goal setting. The very first step in goal setting is knowing what you want and then figuring out how to get it.</p><p id="cff7416f-b994-45fb-9dd4-4c19c9e11726" class="">Having no clarity with what you want to achieve is like driving a car in foggy weather. You go slow, get lost often, and you hesitate a lot about what you should do. On the other hand, when you know the end destination, it is like driving a car in bright daylight, with your favorite music playing, and a GPS system guiding you along the way. You reach your destination much faster, it is more fun, and you know exactly what to do and when to do it.</p><p id="1f384296-203e-4737-9d91-815d2be81906" class="">Know your destination and where you are beginning; the middle will make itself up. With your leverage points, you will find a way to get what you want.</p><h2 id="6e9766e3-0475-45d7-8613-564bc152075c" class="">6. Habits.</h2><p id="c166a5a8-a900-4292-b86a-39046f8295aa" class="">Humans are a creature of habit; we tend to do the same things over and over again. You can think of habits as systems in your life that do the same thing repeatedly. To create and have effective habits, you will need these three components:</p><ul id="735e6978-4cc2-4cef-bf5a-d6af439c6b01" class="bulleted-list"><li style="list-style-type:disc">Knowledge</li></ul><ul id="e27efca0-834e-4492-aa2a-62268d9d7bf1" class="bulleted-list"><li style="list-style-type:disc">Desire</li></ul><ul id="c3e4b21c-cd3c-4da2-a7bf-4352e0fde6f3" class="bulleted-list"><li style="list-style-type:disc">Skills</li></ul><p id="bc44efea-aa91-4010-af60-1d2d917961c9" class="">It is crucial to understand that we operate this way because this allows you to make your systems and processes more efficient. You can’t optimize something if you do not understand the underlying mechanics of it (knowledge). The desire, as part of your leverage points, will put you into action. What’s left is the skills that can translate that knowledge and desire into repeated processes.</p><figure id="8fde22a9-d899-4afb-80af-517b98832298" class="image"><a href="%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%8410%E7%A7%8D%E5%BF%83%E6%80%81%20420df77f4e0d47b6a3adffcdcd2bebd6/effective_habits.jpg"><img style="width:375px" src="%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%8410%E7%A7%8D%E5%BF%83%E6%80%81%20420df77f4e0d47b6a3adffcdcd2bebd6/effective_habits.jpg"/></a></figure><p id="e8a7014b-7c72-48a7-928f-9e68479661cf" class="">Effective Habits</p><p id="9d82a3a5-eefc-4545-a189-06cd282a9431" class="">Fortunately, you have control over what your habits are. Some of your habits aren’t productive, whereas some of them are. You want to make most of your habits to be productive as possible and make your <a href="https://www.asianefficiency.com/podcast/025-mike-schmitz/">habits align with goals</a> you want to achieve.</p><p id="19754988-b414-42b6-99e3-5d0e48db8548" class="">Most people are not consciously aware of what habits they have. By bringing awareness to your habits you can start changing them to be aligned with what you ultimately want to achieve.</p><h2 id="2f03f1c5-13b9-4968-94d3-e6cd11dc2b0a" class="">7. Remove inefficiencies.</h2><p id="a0f23b50-a4b9-4bc9-83af-77d5386703b3" class="">Everyone has the same amount of time every day. Some people use their time more wisely than others. In every endeavor or project, there will always be limiting factors holding you back from progressing, and it is your job to remove all inefficiencies to maximize your use of time. Inefficiencies slow you down and waste valuable time and energy.</p><p id="a82fd5bb-64b8-4a20-8b3e-b5f6687d8162" class="">Sometimes the bottleneck is you. You can only do so much with the skills you have. Other times could be something else. Whatever it is, in order to move forward in the fastest way possible you have to remove all the inefficiencies. That could mean learning to say no to things and people, removing people from your life, <a href="https://www.asianefficiency.com/outsourcing/personal-outsourcing-how-to-get-more-than-24-hours-out-of-each-day/">personal outsourcing</a>, and many more, just to name a few.</p><p id="53fcdd4b-8b71-4558-a686-04a70508e8f7" class="">Find the inefficiencies, and remove or optimize them for frictionless progress.</p><h2 id="17d7e08c-bd0c-4a48-8a4d-5f76723af2f1" class="">8. Manage yourself.</h2><p id="9e599259-edd0-450e-909b-fd9981bbc810" class="">Everything starts with you. To be productive you have to use your mind and body in optimal form. It is key to understand how your body functions for you to allow to take full advantage.</p><p id="b7ba83a1-c49f-42c8-a0b3-b7da38e6442d" class="">It is a myth that you can work productively every hour of the day. Not all your energy gets used the same way. It goes against how our body functions because it goes through multiple different cycles within 24 hours. There are times when we can fully engage at what we are doing but also we need to allow ourselves to recover.</p><p id="5f283c46-eee8-4aa8-9e4c-071d1ec796f1" class="">In the book <a href="https://www.asianefficiency.com/likes/power-of-full-engagement/"><em>The Power of Full Engagement</em></a> (<a href="https://www.asianefficiency.com/books/the-power-of-full-engagement/">review</a>), Tony Schwartz explains this concept by using an analogy of comparing sprinters and marathon runners. Both runners get over the finish line but do it in different ways. A marathon runner goes slow and steady whereas a sprinter fully engages in his running, disengages from it, and then goes back at it on the next sprint.</p><p id="b9ab5076-b71e-4fd6-9ad1-20f68f106fef" class="">The latter is how we naturally function. When we are awake we can engage at what we do and then we renew ourselves when we sleep. In order to get the most leverage, you need to fully engage at the task at hand (that’s why we say <a href="https://www.asianefficiency.com/podcast/255-back-on-track/">multitasking is bad</a>) and renew your energy by disengaging from work.</p><p id="2be00762-ddbc-4dbb-8b4e-8bbfe4ec4fde" class="">Sprinters know what their destination is, engage in their sprints, take a break, and then focus again on the next sprint. That is one of the reasons why time-boxing techniques like the <a href="https://www.asianefficiency.com/motivation/pomodoro-technique-ultimate-guide/">Pomodoro Technique</a> work so well. On the other hand, a marathon runner is not fully engaged and he is pushing beyond his body’s natural level of capacity which causes unnecessary stress. That is why you will never see anyone work all 8 hours at full capacity. It goes against how our bodies naturally work.</p><p id="3787a3d9-a7b3-4f38-8182-2c82730b45d1" class="">Thus it is important to manage yourself to keep it aligned with how your body functions, and to manage your energy levels at all times. Your energy levels are the bedrock of getting things done because nobody can get work done when they are tired.</p><h2 id="627aa34a-e198-4f5a-9ee3-0796a2d607b8" class="">9. Your own ecosystem.</h2><p id="28dea7ce-0473-492f-a45e-c5684384214e" class="">Everyone can be productive if they are put in the right environment. Your surroundings have a direct negative or positive influence on your productivity. We are often unaware of how our environment and surrounding affect us, but being aware of its components is a good step in the right direction. Your environment can consist of the following components:</p><ul id="a5206e67-1579-4398-9b0c-4bdc11a1b3c5" class="bulleted-list"><li style="list-style-type:disc">Location</li></ul><ul id="583fe376-d896-454f-94b4-a5a09760c061" class="bulleted-list"><li style="list-style-type:disc">Weather</li></ul><ul id="8b96e3ac-8ea7-452b-b794-34d593220c5c" class="bulleted-list"><li style="list-style-type:disc">Equipment</li></ul><figure id="cea6e6d8-0766-4837-a94b-06446ce05145" class="image"><a href="%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%8410%E7%A7%8D%E5%BF%83%E6%80%81%20420df77f4e0d47b6a3adffcdcd2bebd6/productivity_ecosystem.jpg"><img style="width:486px" src="%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%8410%E7%A7%8D%E5%BF%83%E6%80%81%20420df77f4e0d47b6a3adffcdcd2bebd6/productivity_ecosystem.jpg"/></a></figure><p id="164d3cdb-e5a4-4b84-9495-17ad57f97777" class="">Your Productivity Ecosystem</p><p id="736bd90d-2f81-4598-8b81-c48e5a9aa89f" class="">All these components are part of your own little ecosystem. What characterizes an ecosystem is that there are different components that all influence each other and work together.</p><p id="0fd9c288-38ed-480d-8743-28881c244ed3" class="">Imagine you are an architect and you have the ability to design your own ecosystem. In essence, your living environment is like an ecosystem that you can set up to be productive, or not. The people you live with, the city you live in, the weather, and your workspace environment all affect each other and work in harmony. Most importantly, they all directly influence you and your personal productivity. Are they influencing you in a good way or a bad way?</p><p id="b9f7dec9-574f-447c-b54c-f298df25e420" class="">Fortunately, you have direct control of how you design your ecosystem. Integrate all the optimized components together in your environment and when everything around you works together in harmony, it will push you to be productive. Set up your motivational triggers, surround yourself with the right people, have the right tools in your workspace, and manage yourself. All these factors are part of your ecosystem that will directly boost your productivity. Play architect and design your own ecosystem that will be your playground.</p><h2 id="9b96fb09-0575-4594-bc7a-f80bd2f1852b" class="">10. You 2.0.</h2><p id="4234b78b-949f-47c8-8a35-4db722cb6a35" class="">No lazy person ever became successful. Nor do lazy people have time management skills. However, all successful people do have time management skills and to go to the next level, you as a person you need to go to the next level. You need to become your best self. Einstein put it best, “We cannot solve our problems with the same level of thinking we created them.”</p><p id="323cd9a2-f027-488f-9207-b0df73b045b5" class="">Start by working in different areas of your life to improve:</p><ul id="87d60559-5d8f-4b65-ba80-173de6ce1dc9" class="bulleted-list"><li style="list-style-type:disc">Health</li></ul><ul id="8f19886b-45b7-468a-8fc6-5237c7f4ad98" class="bulleted-list"><li style="list-style-type:disc">Wealth</li></ul><ul id="a3deb581-905c-4782-b881-617045244049" class="bulleted-list"><li style="list-style-type:disc">Education</li></ul><ul id="411be07b-fdd0-44ef-a053-4d7f6e4f7280" class="bulleted-list"><li style="list-style-type:disc">Relationships</li></ul><p id="06c2108f-91c0-4088-9a51-db7222d163e7" class="">All these factors when improved will directly impact your time management skills. Fortunately, there are ways to accelerate your path to become YOU 2.0. Specifically, seek out the following components:</p><ul id="028f2eee-44df-4416-ae21-f1ef40b86eec" class="bulleted-list"><li style="list-style-type:disc">Mentors</li></ul><ul id="7f63030f-c5e1-4089-82cf-3cd01790d60a" class="bulleted-list"><li style="list-style-type:disc">Knowledge</li></ul><ul id="bd20de27-30b3-4e37-a9c2-12c9a3862b25" class="bulleted-list"><li style="list-style-type:disc">Experiences</li></ul><ul id="a70a5c7a-7178-4547-9042-9b38ea0db840" class="bulleted-list"><li style="list-style-type:disc">Models (see <a href="https://www.asianefficiency.com/systems/systems-thinking/">systems thinking</a>)</li></ul><ul id="572cae0d-7b1c-4eb6-a488-89f7908f4f1b" class="bulleted-list"><li style="list-style-type:disc">People networks</li></ul><p id="81fad48b-d224-4f83-94c1-e7af8b99362f" class="">These will put you on the fast track to become you 2.0 and to be an Efficient Asian.</p><p id="7a6ae161-2349-4906-bec2-e71432b55f7c" class="">Did you like this? Then you’ll love our free Asian Efficiency training. It’s completely free and we’ll show you our top 3 productivity hacks that helped us save hours. <a href="https://event.webinarjam.com/register/2/rm9rqb8">Sign up here for the next available time slot</a>.</p></div></article></body></html>

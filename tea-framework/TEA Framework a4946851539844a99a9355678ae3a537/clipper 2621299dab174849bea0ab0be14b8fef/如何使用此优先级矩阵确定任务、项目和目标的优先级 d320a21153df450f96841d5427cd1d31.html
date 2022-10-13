@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>如何使用此优先级矩阵确定任务、项目和目标的优先级</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="d320a211-53df-450f-9684-1d5427cd1d31" class="page sans"><header><h1 class="page-title">如何使用此优先级矩阵确定任务、项目和目标的优先级</h1></header><div class="page-body"><p id="84527c39-111d-4c9f-ac76-4ce751fae3f8" class="block-color-gray"><a href="https://www.asianefficiency.com/goals/how-to-prioritize-ice-matrix/">https://www.asianefficiency.com/goals/how-to-prioritize-ice-matrix/</a></p><p id="acf6110b-e5f3-4844-a0dd-315b28f6cf17" class="">
+</p><figure id="60b2d352-7032-482a-a245-de92ffcf33ba" class="image"><a href="%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%AD%A4%E4%BC%98%E5%85%88%E7%BA%A7%E7%9F%A9%E9%98%B5%E7%A1%AE%E5%AE%9A%E4%BB%BB%E5%8A%A1%E3%80%81%E9%A1%B9%E7%9B%AE%E5%92%8C%E7%9B%AE%E6%A0%87%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%20d320a21153df450f96841d5427cd1d31/woman-thinking-768x512.jpg"><img style="width:700px" src="%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%AD%A4%E4%BC%98%E5%85%88%E7%BA%A7%E7%9F%A9%E9%98%B5%E7%A1%AE%E5%AE%9A%E4%BB%BB%E5%8A%A1%E3%80%81%E9%A1%B9%E7%9B%AE%E5%92%8C%E7%9B%AE%E6%A0%87%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%20d320a21153df450f96841d5427cd1d31/woman-thinking-768x512.jpg"/></a></figure><p id="bcd6b592-9c43-4c55-8d1c-2d746c631d9a" class="">At Asian Efficiency we have a lot of ideas and opportunities that we like to pursue. Whether it’s creating an app, a physical planner, organizing a conference, launching a new online course, or hosting an in-person productivity bootcamp…the list is endless. Every year some of us get together to plan the upcoming year and we always have the same challenge: what do we decide to make our #1 priority?</p><p id="9b8822cc-daee-4114-9688-0d88d8ac55b2" class="">When you have a long list of opportunities and ideas it becomes difficult to pick what to focus on. If there’s one thing we’ve learned at AE is that it’s better to focus on one goal than try to accomplish multiple goals at the same time. It’s also why we never advocate for <a href="https://www.asianefficiency.com/productivity/productivity-tips-18/">multitasking</a>. But what do you do when have so many brilliant and amazing ideas? How do you prioritize them? Which one you should start first?</p><p id="9e09ad44-460d-43ec-806a-c6da279f9851" class="">We’ve run into this dilemma so many times and eventually, we discovered a useful tool that allowed us to prioritize and it’s called the <strong>ICE Matrix</strong>. What I’m about to share is the process we use at Asian Efficiency to prioritize and execute our goals, projects, and tasks on a company level. You can use the same ideas for your team and tweak it for your personal life.</p><h2 id="b024b4de-9f83-4f5f-b3f8-ce1ae0c0eb44" class="">How to Prioritize Projects and Why It’s Important</h2><p id="30f3c636-e8a7-4922-a21d-fe821b3fc8ce" class="">At Asian Efficiency we’re known for the <a href="https://www.asianefficiency.com/productivity/tea-framework/">TEA Framework which is our productivity methodology</a> that allows anyone to become more productive at work and in life. The underlying idea behind is that we have limited resources available to us: time, energy and attention. Those currencies are limited. There’s only so much time, energy, and attention you have available each day.</p><p id="9b4bf7fb-d1d4-4984-b246-53477d8d3343" class="">To get the most out of our lives we need to concentrate our efforts and project prioritization. When you spread your efforts over multiple projects, <a href="https://www.asianefficiency.com/mindsets/effectiveness-before-efficiency/">you’re not effective and efficient</a>. It’s better to focus on one thing at a time. Whether that’s a goal, project, or task. <a href="https://www.asianefficiency.com/productivity/flow-state/">People who single-focus on one thing at a time are more effective, efficient, and faster</a>. This what we have found to be true too for teams and companies.</p><p id="b0660b16-6946-4287-9e13-50c6bc556034" class="">When you ask people, “how do you prioritize your work or tasks,” most people wouldn’t be able to answer that question. I didn’t know either. Before I started Asian Efficiency, I had over $5,000 in credit card debt. Every month I would make the minimum monthly payment and never pay much attention to it. This went on for a year and the balance barely went down by a few hundred dollars. It would take me over 7 years to pay off the full debt at this pace. Meanwhile, I was focused on other things like getting a sixpack, traveling to 5 new countries, and reading books 10 books in a year. They were all lofty goals but I never accomplished any of them.</p><p id="6be02d8b-9c9e-41d3-8112-3515211eac71" class="">One year I decided to focus on just one goal and I could only start a new goal if I accomplished my other goal. This time I set out to pay off all my debt. Once I made it my number one priority to pay off my debt, I became obsessed with it. All I could think about were ways to pay it off faster. It was my top goal and I would remind myself every day how to be debt-free. After I’ve decided to focus on this goal, I was able to pay off my debt within 10 months and I was debt-free without making more money.</p><p id="49523e00-8a84-4408-beb8-84d4b6d9387d" class="">It was simply because I made it a <a href="https://www.asianefficiency.com/productivity/prioritize-todo-list/">priority and focused all my efforts on one goal</a>. When you don’t prioritize, you will end up wasting a lot of time, energy, and attention. Your progress slows down a lot. Some things move forward but rarely get done. <a href="https://www.asianefficiency.com/productivity/tea-framework/">Remember, your time, energy, and attention are limited</a>. You can only focus on a few things (one thing, really) to maximize your life and efforts. You don’t need special prioritization skills or <a href="https://www.asianefficiency.com/mindsets/focus-self-discipline/">self-discipline</a> but you do need to be able to commit to focusing on only one thing at a time.</p><p id="94b061c7-bf5a-4a9c-82f1-4bbf3dfb301e" class="">Whenever you try to pursue multiple goals, projects, and tasks you’re never as accomplished compared to when you only go after one thing. Over the years I’ve seen this happen over and over again in my personal life, our clients’ lives, and our goals at Asian Efficiency.</p><p id="001eddce-425e-4687-989c-a3e74ec240b1" class="">At Asian Efficiency we tried pursuing three goals per quarter and it resulted in us missing our quarterly goals for three quarters in a row. It was very bad for the morale of the company and people felt like we didn’t live up to our <a href="https://www.asianefficiency.com/mindsets/asian-efficiencys-core-values/">own core values and teachings</a>.</p><p id="28769822-1320-4bb5-8610-ef2350242bcb" class="">Since then we’ve decided to only pursue one goal per quarter. Guess what happened?</p><p id="382299c1-b231-4d83-ad7e-680d098784a8" class="">We’ve hit our goals for 7 quarters in a row. In fact, our company grew faster during this time than it ever did in the past. By simply reducing the number of opportunities we pursued.</p><p id="b612c445-5ae1-4239-8e91-4dd3f2ffe364" class="">It’s a good idea to use prioritization techniques to help you discover what to focus on. There are a few of them available and here’s how we do it.</p><h2 id="8007c160-ea95-4bce-abf8-0097a6cf1913" class="">A Prioritization Framework</h2><p id="7771d466-521f-4478-a1ae-333c60d4b6e8" class="">Have you ever worked on a project but in the back of your mind you’ve always questioned whether it’s the right thing?</p><p id="3951cde3-1d79-4c92-81f2-efbadafbe21c" class="">When you have that nagging feeling, that’s when you know you haven’t prioritized properly. When you google around you might find that there many ways to prioritize. We’ve tried them all. Some are good, some are bad, and some don’t work at all.</p><p id="faef11ed-86c4-4760-ba81-a31f2eb28b03" class="">One method we do like is the <a href="https://www.asianefficiency.com/productivity/prioritize-todo-list/">Eisenhower Box</a> (or some call it the Eisenhower Matrix). This is a useful beginner tool to prioritize projects and tasks but it’s not as effective for goals or companies. At Asian Efficiency we needed something more advanced to prioritize our goals and projects.</p><p id="9eda4d19-76fe-4877-8df4-ecb87baa0e8e" class="">A few years ago, I discovered this tool called the ICE Matrix at high-level a mastermind. I paid over $25,000 to be part of a group of successful entrepreneurs to learn from each other, create partnerships, and share ideas. It’s one of the best investments I’ve made and one of the more impactful things I’ve learned was how another entrepreneur shared his method for prioritizing his goals.</p><p id="ed9342fe-6ac9-4140-a93e-599e558e1cf0" class="">He shared on stage how every single business runs into the same problem: you have so many goals and opportunities but you can’t decide which one to pursue.</p><p id="cc5d1b29-a550-495f-9615-0733d99d8b8b" class="">He asked everyone: what is the most important step in prioritizing goals?</p><p id="d7bbb0a0-a118-4b44-b886-37e31b530aa2" class="">The room was silent.</p><p id="79d4cab2-74c7-4236-8f8b-4bb8cbec135a" class="">You have all these successful entrepreneurs but nobody could answer a simple question.</p><p id="df73ae27-7fbd-4dd4-ace8-edfcc08153e6" class="">So he started to share his <strong>prioritization grid</strong> which he referred to as the ICE Matrix (or as some people call it the ICE Scoring Method). ICE stands for <strong>Impact, Confidence, and Ease</strong>. There are different variations of this tool and some companies, especially in the corporate world, might even use different names like Impact, Costs, and Effort but the idea is the same. We like to use Impact, Confidence, and Ease and it’s what you’ll see in this post.</p><p id="43261532-fad1-4e67-872c-4189c0e6c56b" class="">He started to explain how it worked and what kind of great results he has seen from implementing it. His company started to go from 0% goal succession rate to 100% by implementing this tool. Their revenues started to grow, company morale went up, and everyone knew at any given moment what the #1 priority was of the company.</p><p id="3a8d50f4-c2e5-4fea-adbc-d5d739c71cc1" class="">I was blown away by the simplicity of the tool. As soon as I got home, we started to use it at Asian Efficiency as well and we’ve seen great results from it too.</p><h2 id="f87516f6-a957-4e04-bb0e-4373deac4796" class="">How the ICE Matrix Works</h2><p id="2c67ecec-c0ca-4e10-b6eb-2276fe1024ba" class="">Here’s how to ICE Matrix works. It’s very simple yet powerful.</p><p id="dd7d17b8-178c-4ea9-b0c9-e8558a1c75b1" class="">I like to use a Google Sheet for this. You can use Excel or a sheet of paper for this.</p><p id="31a9cd12-8c60-47a6-b2ba-80273053b039" class="">You create a matrix with 5 columns: <strong>Projects, Impact, Confidence, Ease, Score.</strong></p><p id="39fa35e9-b956-4769-b491-026c14274c1a" class="">Under the column of Projects, you list down all the projects you want to start and work on. At our planning meetings, we have everyone in the company contribute ideas and we go through our backlog of ideas. We put everything on there no matter how crazy it might be.</p><p id="08e0f379-004a-4a6d-a157-d431a110f487" class="">Next up we want to score each project. On a scale of 1–5 (1=lowest, 5=highest), you want to score each project on the Impact, Confidence, and Ease. Here’s a simple definition of each:</p><ul id="b7345632-6e23-4b27-8de1-fe83095a8b20" class="bulleted-list"><li style="list-style-type:disc"><strong>Impact</strong> – how big of an impact will this project make if it got accomplished? This could be for customers, our company or some other form of impact.</li></ul><ul id="cea25be9-b1a2-4b3b-8907-efe4d27bb294" class="bulleted-list"><li style="list-style-type:disc"><strong>Confidence</strong> – how confident are you that we, as a company, can pull this off? Not how confident you are about the impact but our ability, skills and resources to accomplish this project.</li></ul><ul id="2ab7ad13-ab17-4579-828d-ac96d71b6b70" class="bulleted-list"><li style="list-style-type:disc"><strong>Ease</strong> – how easy would it be to get this done? The simpler it is, the higher the score. The more difficult it is, the lower the score.</li></ul><p id="9fdd593e-dad7-4b62-b38c-7c535cb924fb" class="">Once you have your list of projects, you want to score each one on Impact, Confidence, and Ease on a scale of 1 through 5. Here’s an example of how we’ve done at Asian Efficiency:</p><p id="c318bd0d-7459-4131-be70-15c8ee3e5585" class="">The way you calculate the score is you multiple the numbers with each other. You do this for every project. As an example in the image you can see we have five opportunities at Asian Efficiency:</p><ul id="f97cf95f-7c9d-47ca-b6a6-da58700d2192" class="bulleted-list"><li style="list-style-type:disc">Publish a book</li></ul><ul id="c5da2ea7-0ae4-418c-8fb1-bd0930a0555d" class="bulleted-list"><li style="list-style-type:disc">Launch a new course on WFH</li></ul><ul id="5f17012a-04c1-4be7-a7b0-5fbd543e3c1a" class="bulleted-list"><li style="list-style-type:disc">Update an old course to be relevant today</li></ul><ul id="bca04ea8-9ad5-4a82-9be2-fe58e5e787f4" class="bulleted-list"><li style="list-style-type:disc">Create a new todo list app for Mac</li></ul><ul id="c763df0c-cb70-4d11-9d59-27e44c09a60d" class="bulleted-list"><li style="list-style-type:disc">Organize the first productivity conference</li></ul><p id="dab1a6af-7631-428b-92ef-a12e6adff793" class="">(We have in fact way more but we kept it to five for simplicity reasons for this post.)</p><p id="5f8175da-51fc-45b3-a64a-29f425cc630f" class="">If the goal is to grow the company to a certain revenue size then all opportunities could look equally important. In such situations, a tool like this can be very helpful to sift and sort what is most important. This is also where tools like the Eisenhower Matrix fall short because most of the projects here are non-urgent and important so you still get stuck deciding between multiple options.</p><p id="fbc40bda-b59b-420d-88f6-0170b2ffa7c7" class="">Since we have multiple options the ICE Matrix helps us decide, objectively, and without emotions, what the best path forward is. I’ve listed each project on the ICE Matrix and then scored them (remember, you multiply, not add). Let me give my reasoning for each score.</p><p id="bfd37ce9-9366-42cf-a4fa-0e0295cec9b3" class="">When it comes to Impact, a book can impact many people. People already read books, the cost is low and it’s very accessible. If the book were to hit a best-seller list, something we’ve never done before, it could reach millions. The danger of a book is that you spend years writing one only to discover it never reaches masses.</p><p id="32aa911b-40de-4890-a4d5-e8e72ab65b98" class="">My confidence to pull this off is medium. I’ve written hundreds of blog posts and newsletters but never a real book. Based on conversations with other authors, it’s a very intensive process. Something I could do but haven’t done before.</p><p id="64395375-ec61-482d-b3ee-5ff4f6df6d44" class="">It won’t be a cakewalk to get this done. I would have to get an editor, publisher, and possibly other people involved to make this book reach the masses. The secondary activities, like doing a book tour, appearing on podcasts, public speaking, etc would also take up a lot of time and resources to make this book a success. Am I committed enough to do that? Would that be easy?</p><h3 id="5d806ff8-9f52-4843-a6e7-e51a86721f40" class="">Launch a new course on WFH</h3><p id="13239117-f1f3-4636-a0b6-189209b83792" class="">We’ve launched many courses at Asian Efficiency and it’s our bread and butter. We’ve helped thousands of people through our courses so I know it’s impactful and I’m very confident we can do this. It’s also easy because we’ve done it so many times. Hence a five for everything.</p><p id="9689b56d-673e-4241-8414-bc8c2d1f16c7" class="">The timing right now (during a pandemic when everyone’s working from home) is also perfect. A year ago the impact might have been a 2 or 3 but now it’s definitely a 5.</p><h3 id="2e873e78-6760-4098-b69e-e7cdf65e21db" class="">Update an old course to be relevant today</h3><p id="22163010-ec9d-42bc-afc3-674f48f53a0a" class="">Online courses require maintenance too. We want to keep existing customers happy and updating it will also give us new opportunities to market it and reach more people. The impact won’t be as high compared to launching a new WFH course (due to the timing). We could easily do this and we’re confident it’ll be do-able but based on past experience updating an old course takes up just as much time as creating a new one.</p><h3 id="54908dc3-9ff6-4e24-b302-3b53f58692ee" class="">Create a new todo list app for Mac</h3><p id="a76faa3c-1b7c-4922-b95a-d84fb9f90c31" class="">There are many great task managers and to-do lists apps there but most of them a few critical features that we like to see. There are millions of people who would benefit from a great, simple task manager but we have zero technical expertise when it comes to building apps. So while the impact might be somewhat high, our confidence and ease of making this happen is very low.</p><h3 id="a36a001d-9945-46ab-91fc-0d15d68db2c6" class="">Organize the first productivity conference</h3><p id="7fcc4176-86bd-4430-b782-db8ffb852f64" class="">One thing I’ve heard from a successful conference organizer is you want to put together an event for a specific group of people who like to congregate. Entrepreneurs love hanging out with entrepreneurs so putting an event together for them is easy. Just like board gamers like hanging out with each other.</p><p id="f36e8b9c-53eb-4fa5-8251-4c2185246665" class="">But do “productivity people” like to hang out in person? There’s no industry conference right now. Why is that? Is that because these people don’t like hanging out with each other?</p><p id="74fe28f3-b93b-4c1c-a43f-6f3a9a29e0da" class="">While I do think bringing people together around content would be impactful, I’m doubtful. Being the first can give a huge advantage but it also comes with risks. We also have never run a big conference so my confidence is low and it won’t be easy (from what I’ve heard). We would have to hire someone to help us guide through this. But more importantly, we’re in a pandemic right now so the timing for it is not right.</p><p id="ba197524-bc47-44fc-b763-22fc74a4e5fd" class="">After sharing with you my thought process and scoring you can see that one goal stands out: launch a new course on WFH (working from home).</p><p id="a1839bd0-3d24-4f5a-9db2-872bbfa2e63a" class="">Everything else didn’t even come close and it’s how we ended up creating the <a href="https://aelikes.com/tl/101">Productive At Home course that teaches people how to be productive working from home</a>.</p><p id="05dd1574-3c1a-46ef-803a-6e7cf89525a4" class="">The timing was relevant, we’ve created an online course before and we knew from our customer feedback that people needed this. So the following quarter that became our #1 goal and everyone rallied around it. All the other projects got shelved and might be revisited again in the future.</p><h2 id="ba3d04f0-5101-4bf1-901e-f2ca23f9e8cd" class="">How to Prioritize Your Goals and Projects with the ICE Matrix In a Team Setting</h2><p id="94eff432-6bf9-4bea-be45-9b8529f7a457" class="">In a team setting, you want everyone to score the projects. Everyone does it on their own, in private, without sharing what they’ve scored or their reasoning. This is important because you don’t want to lead the witness. If someone speaks up and shares their scores and reasoning before the next person starts scoring, it will influence their scoring. You don’t want that. Everyone should score privately and once it’s done, then you want to allow everyone to share why they scored each project a certain way.</p><p id="1854dd00-e35e-4e80-9a30-3f96059f6742" class="">The scoring in a team setting is the same. You multiply the scores for each column for every team member. The total score is then the sum of everyone’s scores.</p><p id="33624bad-c1b7-458e-806d-43f6960b13fa" class="">In the example, I gave my own score and that would be a simple way to determine what to focus on. However, when you involve other people they will often have different points of view and opinions on how impact something might be, how confident they are that we can pull it off, and how difficult it might be to get done.</p><p id="2f2b59b7-f7ff-49f8-84a0-1beba2d1f825" class="">You want to pick the top 3 scores and then have everyone share their thoughts on them and why they scored them. This will lead to team discussions and only after that can you decide what you want to make the number one priority. The beautiful part of this process is that everyone feels heard, involved, and bought in. Even if you decide as a company to pursue a goal that wasn’t the most popular option, at least everyone will understand why because you’ve discussed all possible options.</p><p id="0e52ba67-3883-4d42-abd0-7671293b317b" class="">What you will also find is that this tool makes it very objective to uncover what the best options are for the company. Oftentimes you will advocate for a project or goal because you’re passionate about it but when you start scoring it, you might find that it’s not the right time or we simply don’t have the ability to do it.</p><p id="41480d07-5106-4ea2-b566-db3ff929865b" class="">For example, we would love to organize a productivity conference where we bring together everyone who follows Asian Efficiency and anyone who’s interested in becoming more productive at work and in life. We think the impact of this would be amazing for everyone there and it would take our company brand to new heights.</p><p id="a01ecbec-cd78-4371-9918-866ff4bfd4c4" class="">However, we’ve never done this before and the timing of it (hey, we’re in the middle of a pandemic as I’m writing this) is off. It’s a great idea but the timing is not right.</p><p id="f9c3269d-5a42-4d47-ae89-c1314ef0370d" class="">On the flip side, due to the pandemic, everyone is now working from home so creating a new online course (something we’ve done a million times) on this topic seemed like a very obvious choice. That’s what this tool allowed us to do – to be objective and clear on what’s the right move.</p><h2 id="680e26fd-38d7-4d9d-be03-acadcb4de844" class="">Next Actions</h2><p id="824907cf-0573-4f8b-acf2-65eb18c39dc6" class="">The next time you have to figure out what your #1 goal or priority is, create a simple ICE Matrix. Whether it’s a team setting or for yourself, it takes less than 5 minutes to do and it will make it very easy and clear for you what your top priority will be going forward.</p><p id="c8e6a961-d15d-439f-a2da-4bd16f7459d1" class="">For more tips and guidance on prioritizing your goals, projects and tasks you want <a href="https://asianefficiencygo.com/dojo-2/">to check out our Dojo</a>. It’s a productivity community that comes with training, coaching, and mentorship. In there we have training materials that show you how we use the ICE Matrix and how we prioritize our goals and projects. <a href="https://asianefficiencygo.com/dojo-2/">You can check it out here</a>.</p></div></article></body></html>

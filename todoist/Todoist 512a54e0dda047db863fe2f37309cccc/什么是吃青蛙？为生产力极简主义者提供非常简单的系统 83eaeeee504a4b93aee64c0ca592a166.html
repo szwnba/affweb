@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>什么是吃青蛙？为生产力极简主义者提供非常简单的系统</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="83eaeeee-504a-4b93-aee6-4c0ca592a166" class="page sans"><header><h1 class="page-title">什么是吃青蛙？为生产力极简主义者提供非常简单的系统</h1></header><div class="page-body"><p id="5d092658-9b9e-45dc-9c65-c9f552c9b572" class="block-color-gray"><a href="https://todoist.com/productivity-methods/eat-the-frog">https://todoist.com/productivity-methods/eat-the-frog</a></p><p id="57ad2d01-60fc-49a4-a815-43fa56d85d76" class="">
+</p><figure id="b17d0034-d576-4d7d-944c-151cfa8f4fd8" class="image"><a href="%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%83%E9%9D%92%E8%9B%99%EF%BC%9F%E4%B8%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E8%80%85%E6%8F%90%E4%BE%9B%E9%9D%9E%E5%B8%B8%E7%AE%80%E5%8D%95%E7%9A%84%E7%B3%BB%E7%BB%9F%2083eaeeee504a4b93aee64c0ca592a166/Eat-The-Frog.jpg"><img style="width:700px" src="%E4%BB%80%E4%B9%88%E6%98%AF%E5%90%83%E9%9D%92%E8%9B%99%EF%BC%9F%E4%B8%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E8%80%85%E6%8F%90%E4%BE%9B%E9%9D%9E%E5%B8%B8%E7%AE%80%E5%8D%95%E7%9A%84%E7%B3%BB%E7%BB%9F%2083eaeeee504a4b93aee64c0ca592a166/Eat-The-Frog.jpg"/></a></figure><blockquote id="367f302c-a941-4d03-81c9-875ef0e341e7" class="">“Most people overestimate what they can get done in a year and underestimate what they can do in a decade.”</blockquote><p id="ba5fed22-964e-47a3-95aa-0f57f6a317fa" class="">This famous piece of wisdom (most commonly attributed to Bill Gates) holds true over shorter time spans too. We tend to overestimate what we can get done in a day, but underestimate what we can accomplish in a year.</p><p id="ef1f2957-4d22-4391-bc8b-76ada5069b1c" class="">How do we get around this quirk of human psychology? How do we make consistent progress toward our biggest goals without drowning day-to-day in our overly optimistic to-do lists? How do we overcome the mental resistance that comes with big goals and just get started?</p><p id="e0a4b58d-8d55-45d1-80cf-0b4366e81ef5" class="">The answer is a deceptively simple and memorably named productivity method called Eat The Frog.</p><p id="f3073878-1ea8-48ca-8fbd-cbb498730280" class="">Eat The Frog is perfect for anyone who:</p><ul id="fd7e35ea-5ed4-45ac-9d51-ac288cb12327" class="bulleted-list"><li style="list-style-type:disc">Struggles with procrastination</li></ul><ul id="b31344fe-fd6f-49ef-90ec-9a3f2a7b5792" class="bulleted-list"><li style="list-style-type:disc">Gets a lot done but isn’t making progress on the important stuff</li></ul><ul id="48959138-bce9-4b71-aa8b-e06144d55dda" class="bulleted-list"><li style="list-style-type:disc">Has a hard time sticking to a productivity system</li></ul><ul id="741f7ee1-1e6c-4a42-9837-b492bde82619" class="bulleted-list"><li style="list-style-type:disc">Has trouble deciding what to work on at any given time</li></ul><ul id="95cfd14c-ce00-4e52-9f8e-583887066db3" class="bulleted-list"><li style="list-style-type:disc">Feels overwhelmed by their to-do list</li></ul><h2 id="f5f8671b-cc9d-4d7b-910d-46f8bb5115cf" class="">What is Eat The Frog?</h2><blockquote id="58403a33-986f-408b-bbc2-eae284fc3c38" class="">“If it&#x27;s your job to eat a frog, it&#x27;s best to do it first thing in the morning. And If it&#x27;s your job to eat two frogs, it&#x27;s best to eat the biggest one first.”</blockquote><p id="ea6d7b1f-2230-4566-9398-2adc1dcf1a2f" class="">Productivity consultant Brain Tracy <a href="https://www.briantracy.com/blog/time-management/the-truth-about-frogs/">named the Eat The Frog method</a> after this vivid piece of advice from Mark Twain. While there’s more power and nuance to this method than meets the eye, it all boils down to this: Identify one important task for the day and do it first.</p><p id="453dc0b5-7484-4721-b3b2-55ff339f08f6" class="">At this point, you may be thinking “ONE TASK? ARE YOU INSANE? I HAVE DOZENS OF THINGS I HAVE TO GET DONE EVERY DAY. I CAN’T POSSIBLY DO JUST ONE THING!”</p><p id="1ecadcb5-37db-4e29-97a4-bec08c4f6026" class="">Bear with me. If you feel pulled in a million directions and overwhelmed by the number of tasks on your plate each day, I’d argue that this method will be even more powerful for you. It’s not that you’ll kick up your feet and call it a day once you’ve eaten your one frog. You’ll still work on other things, but your most important (often your most difficult task that requires the most energy and focus) will be prioritized first before all those other less-important-but-more-urgent things get in the way. For example, Doist’s founder and CEO <a href="https://todoist.com/productivity-methods/systemist">routinely checks 15-20 tasks off</a> in a day but sets a goal to complete at least one high impact task daily.</p><p id="bbe54faa-0979-47f6-bacc-57ae1805737e" class="">Of course, you can always experiment with the exact number of tasks. <a href="https://doist.com/blog/personal-productivity-methods/?utm_source=productivity_methods&amp;utm_medium=referral&amp;utm_campaign=eat_the_frog#agile-results">Agile Results</a> calls for 3 tasks a day, the <a href="https://jamesclear.com/ivy-lee?utm_source=productivity_methods&amp;utm_medium=referral&amp;utm_campaign=eat_the_frog">Ivy Lee method</a> calls for 6. But I’d encourage you to try out the most extreme version first. There’s something about the extreme simplicity and hyper-focus of just one task that I’ve found makes this method particularly effective.</p><h2 id="1138a996-f2fe-4c5b-964e-7c40b9936fa4" class="">Why Eat The Frog works</h2><p id="aa0f619b-8de1-4089-bea4-7a1d7ba352d7" class="">Here&#x27;s why Eat the Frog should be in everyone&#x27;s productivity arsenal, even if you already use another method like <a href="https://todoist.com/productivity-methods/time-blocking">time blocking</a> or the <a href="https://todoist.com/productivity-methods/pomodoro-technique">pomodoro technique</a>:</p><h3 id="a05356f2-572e-47ac-a38e-c70101df1f18" class="">It promotes a deep work habit</h3><p id="2a494b09-d54f-4330-be50-dd8cc7daff8c" class="">The most valuable work in today’s knowledge economy is almost invariably work that requires all your mental resources to be focused on one thing — think cognitively demanding tasks like coding, designing, writing, strategizing, and problem-solving. Yet the modern workplace isn’t set up to support that kind of distraction-free “<a href="https://doist.com/blog/deep-work/?itm_campaign=eat_the_frog&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">deep work</a>” (a phrase coined by computer science professor Cal Newport). We’re distracted by so many emails, meetings, chat messages and requests for input that we don’t have the time or space to focus on our highest impact tasks.</p><p id="abfb1fa9-5e96-49d2-ac72-dc13bd652597" class="">Eat The Frog requires us to push back against all of those distractions — both external (others interrupting us) and internal (us interrupting ourselves) — and prioritize the actions that will actually bring us closer to our goals.</p><h3 id="28fd31c3-00dd-4322-9b80-762979d1a609" class="">It ensures you’re setting your own agenda</h3><p id="10b84010-dd10-44c7-8625-ce3056ddc4a8" class="">All too often, the first thing we do when we sit down to work is check our email and incoming messages. Email and <a href="https://doist.com/blog/betting-against-slack/?itm_campaign=eat_the_frog&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">instant messaging tools</a> put you in reactive mode — as soon as you start responding, you’ve ceded your time and attention to what other people want or need you to do. This kind of reactive prioritization can quickly take over your workday. In contrast, Eat The Frog asks you to put your agenda first before any other requests come in to derail your day.</p><h3 id="8a4c938d-a99c-4213-80c2-6a43e282c326" class="">It sets you up to win</h3><p id="10486035-543e-48f2-a993-35a4ae7339e6" class="">Like we talked about at the start of this guide, it’s human nature to overestimate what we can get done in a day, even when we know we’re likely to overestimate. That’s why productivity systems often end up making us feel like we’re constantly behind and failing to keep up. When we feel bad we’re more likely avoid what’s making us feel bad in favor of things that boost our mood in the moment (i.e. <a href="https://doist.com/blog/overcome-procrastination/?itm_campaign=eat_the_frog&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">procrastination</a>).</p><p id="d5fa1b6c-6d5a-47f1-95ed-3861887ed1ea" class="">In contrast, Eat The Frog forces you to focus on less, even when you know you can do more. Any day that you eat your frog is a good day. Furthermore, following the method means you’ll be making progress on something meaningful on a daily basis. Studies have shown that that kind of progress is a key motivator and predictor of happiness and engagement at work, and can lead to a virtuous cycle of getting things done. We feel good when we follow through on the things we intended to do which in turn makes it easier to continue doing them. When you experience a win first thing in the morning, you’re more likely to build momentum and good vibes to carry you through the rest of your workday.</p><h3 id="efcec850-2b26-444d-97f6-115d31ae9613" class="">It takes full advantage of your best work hours</h3><p id="ad921232-ff1f-4ba4-b0c6-f6627bff9ac2" class="">We all know intuitively that <a href="https://www.theguardian.com/books/2018/jan/08/when-the-scientific-secrets-perfect-timing-daniel-pink-review?utm_source=productivity_methods&amp;utm_medium=referral&amp;utm_campaign=eat_the_frog">not all work hours are created equal</a>. The first hour of the morning when your energy and willpower are high is a helluva lot more productive than the hour after lunch when all you want to do is curl up and take a nap. Eat the Frog ensures that you’re using your best hours to do your most mentally taxing work and leaves less important tasks for times when you’ve already exhausted your brain power for the day.</p><h3 id="a984827f-dc76-47e1-8f54-8f4e77fbaf6b" class="">It’s dead simple and infinitely flexible</h3><p id="07598c50-2f23-406a-a9cb-bdb501352c87" class="">While there are benefits to more complex and all-encompassing methods like <a href="https://todoist.com/productivity-methods/getting-things-done">Getting Things Done</a>, maintaining them can often become just another task on your to-do list that you’re not getting to. Eat The Frog is a simple method anyone can fall back on at any time with very little time or mental resources required. And it’s almost universally applicable. No matter your job, goals, or circumstances, we all have to contend with our limited time and energy. Eat The Frog is a simple, yet effective way to ensure that you’re making progress on something meaningful each and every day.</p><h2 id="a72b6945-7c5f-4ef6-8a14-bf6ca8ae8a39" class="">Tips for eating your frogs</h2><p id="b0964422-6ebc-4bd2-80b8-5d63bf7573c9" class="">Eat The Frog is simple and straightforward, but there are a few tips that will help you apply the method consistently and successfully:</p><h3 id="57a24bf4-bc39-4199-b60b-3a60ff6419db" class="">1. Decide on your frog</h3><p id="c262b07d-e8d5-4dc7-8ec7-73de7c505b6e" class="">Also known as your Most Important Task (MIT). This task is often <a href="https://todoist.com/productivity-methods/eisenhower-matrix">important but not urgent</a>, the type of difficult task that creates a lot of mental resistance and ensuing procrastination if you don&#x27;t intentionally make time for it. You probably already know the task I’m talking about.</p><h3 id="7f0245c3-cbe2-4a12-8e9f-f73f66b938ed" class="">2. Pick something you&#x27;ll be able to complete in 1-4 hours</h3><p id="ac1d3c3a-30a3-42e4-abc0-140ffadc501d" class="">Your frog should take half a day’s work, tops. A clearly defined, realistic task will make it easier to get started and not procrastinate on. Checking it off your list before lunch will give you a concrete win and accompanying endorphin boost to carry you into the rest of your day.</p><h3 id="1b643cf1-83a9-4410-96f8-dc099f8504ba" class="">3. Break it down into smaller steps if needed</h3><p id="0d3c7882-29de-4571-8735-f780f7818e64" class="">If your frog is going to take more than half a day, break it down into smaller steps that will take 4 hours or less. The next concrete action on that list is your new frog. For example, in order to complete the task “Create a business plan”, your frog for today might be “Complete competitive market research”.</p><h3 id="8a640704-56d2-4b7e-b3cb-1a351a9f98b3" class="">4. Resist the temptation to plan ahead</h3><p id="acb733c5-c059-4cf8-9b9e-e3ad4a6ee9cb" class="">Once you start breaking your big tasks down, you may be tempted to schedule out your frogs for the whole week or several weeks to come. Don’t do it! Accurately forecasting tasks into the future is nearly impossible and will only set you up for getting behind quickly. One of the benefits of Eat The Frog is that you get to start fresh with a singular focus each morning. Identify and tackle your frogs one day at a time.</p><h3 id="61fd8066-5359-42a4-9934-a2ae9913f908" class="">5. Prepare your frog the night before</h3><p id="f4999b84-c32f-4418-b4ed-e5ce21475a9d" class="">Ok, so you should plan a little bit ahead. The night before, you’re close enough to be able to plan accurately, but still far enough removed from actually having to do it for too much mental resistance to kick in.</p><p id="46daa127-bf0a-4c83-a3c2-5f96b4f34c15" class="">Lifehacker founder and serial entrepreneur Gina Trapani <a href="https://www.fastcompany.com/1592454/work-smart-do-your-worst-task-first-or-eat-live-frog-every-morning">recommends</a> getting everything you need to get started on tomorrow’s frog set up before you leave work at the end of the day. For example, today my frog was to finish the first draft of this guide. Yesterday before closing my computer at the end of the workday, I closed out all of my other tabs and apps but left my research and outline Word document open in full-screen “Focus” mode so it was the first and only thing I saw when I sat down to work this morning.</p><p id="bcac0ad9-ec5b-4830-8495-b189c71cc577" class="">It’s not a fool-proof method of staying on track, but it does provide a powerful reminder of what you’re supposed to be working on and decreases the chances you’ll get distracted looking for the right app, email, document, website, or whatever else you need to get started.</p><h3 id="1a011ff9-cc75-4858-9d80-c9a26a1a54ee" class="">6. Eat your frog first thing</h3><p id="dd41bc76-9a26-490d-a595-4b747f96cc1c" class="">Whatever your frog for the day happens to be, do it first thing when you sit down to work. If at all possible, don’t schedule meetings. Don’t catch up on Twitter. Don’t check your email. Don’t even think about thinking about all the other less important things you’ll have to do later in the day. Focus all of your mental energy on your frog and only your frog.</p><p id="88140ec1-f749-4ed9-b46c-73a2c7965b98" class="">Not a morning person? Don’t throw the tadpole out with the swamp water. The same principles of hyper-prioritization can be applied to any time of day that you feel the most energized, focused, and productive. The point is to take full advantage of your best work hours, whether that’s 8am or 8pm. When that time comes around each day, do your most important task first.</p><h2 id="96558b87-3186-46c3-a536-7f51a1dae851" class="">How to eat your frogs with Todoist</h2><p id="1741fd1b-881c-4ccc-834e-d64f9477f653" class="">As with most workflows, there are multiple ways you can set them up with Todoist. For Eat The Frog, we recommend one of two approaches: priority levels or labels.</p><h3 id="7a2d5b92-d008-4f54-bf6c-58cf2a1861e8" class="">Using priority levels</h3><p id="bb16d221-c2a0-4125-8d8b-c9e9ff0cb33f" class="">The easiest way to set up Eat The Frog in Todoist is with priority levels. Here’s how:</p><ul id="d9a41a41-4bbe-42ce-a134-a197c3793647" class="bulleted-list"><li style="list-style-type:disc">Identify your most important task and <a href="https://get.todoist.help/hc/en-us/articles/205873321?itm_campaign=eat_the_frog&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">mark it P1</a>. You’ll need to be very disciplined with your use of “priority 1” as you’ll only get one P1 task per day.</li></ul><ul id="dfa14ca3-b3c0-4fc1-bb77-6bfbbf734330" class="bulleted-list"><li style="list-style-type:disc"><a href="https://get.todoist.help/hc/en-us/articles/205248842-Filters?itm_campaign=eat_the_frog&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Create a new filter</a> called “Today’s Frog 🐸” using the query “p1 &amp; today”. This filtered view will show just your P1 tasks due today — in other words, your single frog for the day.</li></ul><ul id="72302196-f661-45ee-843d-9188a3e3b9a0" class="bulleted-list"><li style="list-style-type:disc"><a href="https://doist.com/blog/introducing-todoist-favorites/?itm_campaign=eat_the_frog&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Pin the filter to your favorites</a> so it’s always visible above your project list in your left-hand navigation menu.</li></ul><ul id="091a823f-c213-47ad-8791-7b2a13bc6130" class="bulleted-list"><li style="list-style-type:disc">(Optional) Set your Eat The Frog filter as your <a href="https://get.todoist.help/hc/en-us/articles/360000281429?itm_campaign=eat_the_frog&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">Start View</a> in the General tab of your Todoist Settings so it’s the first thing you see when you open Todoist for the day.</li></ul><p id="1d4c8a64-5be1-4e27-b76a-5aa9bcf1b7ef" class="">While you should only have one p1 task per day, you can identify all of your high impact tasks with the label @high_impact. When you’re ready to choose your frog for the next day, click on or search for the @high_impact label to view a full list of your most important tasks.</p><h3 id="2c336faa-e859-49fc-afe2-38b8f578c301" class="">Using labels</h3><p id="60333f55-d8e9-4c3d-b5c6-f9df4a075618" class="">If you already use priority levels in a different way, you can also use an “@frog 🐸” <a href="https://get.todoist.help/hc/en-us/articles/205195042-Labels?itm_campaign=eat_the_frog&amp;itm_medium=referral&amp;itm_source=productivity_methods_guides">label</a> to identify your most important task of the day. You can either pin the label directly to your favorites or create a filter with the query “@frog &amp; today” to show you all tasks labeled @frog that are due today.</p><p id="67506c92-a87e-47c6-b73e-e35008902125" class="">When it comes to <a href="https://todoist.com/productivity-methods">productivity methods</a>, it&#x27;s tempting to go for the more complex workflows and overlook the simple ones. However, the most effective methods are the ones we can stick to when we&#x27;re low on energy and fall back on when we find ourselves reverting to bad habits.</p><p id="14756752-a040-4794-af04-0ec873439b38" class="">Whether you&#x27;re looking to overcome procrastination or bring more focus and intention to your workday, Eat The Frog is a deceptively simple yet powerful tool to help you get there.</p></div></article></body></html>

@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>设定亚洲效率之道的目标</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="05eb0d88-6bd8-45b5-8700-95d6177813f7" class="page sans"><header><h1 class="page-title">设定亚洲效率之道的目标</h1></header><div class="page-body"><p id="9ed355c1-c671-4522-abe6-891b016faf93" class="block-color-gray"><a href="https://www.asianefficiency.com/goals/goal-setting-the-asian-efficiency-way/">https://www.asianefficiency.com/goals/goal-setting-the-asian-efficiency-way/</a></p><p id="f322423a-3547-4b1c-a451-5b98329d5a06" class="">
+</p><figure id="19c8d631-c958-45ac-abe5-c99cd02ad5e0" class="image"><a href="%E8%AE%BE%E5%AE%9A%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%E4%B9%8B%E9%81%93%E7%9A%84%E7%9B%AE%E6%A0%87%2005eb0d886bd845b5870095d6177813f7/on-time-delivery.jpg"><img style="width:640px" src="%E8%AE%BE%E5%AE%9A%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%E4%B9%8B%E9%81%93%E7%9A%84%E7%9B%AE%E6%A0%87%2005eb0d886bd845b5870095d6177813f7/on-time-delivery.jpg"/></a></figure><p id="1488bd0e-6ce4-4a05-8943-69434c54ab71" class="">On Time Delivery</p><p id="7f0cf2b0-55ec-4249-868a-e08f83e005e4" class="">We all know that goal setting is important and that we should all do it. In fact, a lot of people do indeed set goals. But what happens, is that they read an article somewhere that says that they have to set goals a certain way – that there’s some sort of secret magic formula for setting goals that your 100% guaranteed to achieve.</p><p id="3b4acdfc-9d98-4732-8774-4da311dee1c4" class=""><strong>I’ll let you in on a big secret: in reality, things don’t work that way.</strong></p><p id="bc2bfae3-886f-4130-be38-6d1bf2b49654" class="">In fact, almost any goal setting process that you follow does what it’s meant to do – give you a list of goals to work towards. What they don’t do, is show you how to actually get goals.</p><p id="b89e44ad-354a-431e-a6a4-219f4bd092aa" class="">Originally this article was going to be about both setting and getting goals, but we decided that it would be a <em>really long</em> article if we wrote it that way. So, it’s going to be about setting goals. We’ll do doing a follow-up audio about getting goals in the near future.</p><p id="4d8b3835-7a89-4231-ad00-6155c6c6c864" class="">I’d like to briefly mention the idea of timeframes and goals. Lots of people say that you have to set “immediate, 3-month, 6-month, 1-year, 3-year, 5-year and 10-year” goals. I personally don’t believe in that. What you want to do is set goals for the immediate <strong>right now</strong>, because that’s what you’re going to be motivated to take action on, and thus that’s going to be what you will be more likely to accomplish. Even if a goal doesn’t eventuate for 5 years time, you should consider it a <strong>right now goal</strong>.</p><p id="c07ce272-5139-4466-b69f-8173fe013303" class=""><em>(Note: this does not apply to organizations – organizations *must* have long-term goals and planning due to the need to coordinate many people and resources.)</em></p><p id="5501d953-5037-420a-ab0f-a49ded3d3988" class="">We’re going to give you two goal setting processes – the first is the minimalist Asian Efficiency version, and the one that we recommend. The other, is the “I want everything and I wanted it FedEx’d to me yesterday” version. Neither process is inherently better than the other, and it really comes down to your personality and attention span. We’ve found that some people respond better when given a list of 40 goals to accomplish in a year (and usually end up achieving 12-15 of them), some people respond better to a smaller list of 6-12 goals (and usually end up achieving most of them).</p><p id="cec6a9eb-a2e0-492d-8e55-05ea1399d7c9" class="">There are three parts to these goal setting processes, and they only deviate in the third part:</p><ol type="1" id="ee5d159f-3e06-480f-8238-9e1091605c90" class="numbered-list" start="1"><li>Tony Robbins’ want-finding process.</li></ol><ol type="1" id="5321ee1b-59d3-4297-8cd1-c89a49537c0f" class="numbered-list" start="2"><li>The Asian Efficiency framework for making wants into goals.</li></ol><ol type="1" id="28b8dcf6-7057-4293-bf49-54f24c9d9403" class="numbered-list" start="3"><li>The Minimalist AE Version or the “I want everything” version of listing out your goals.</li></ol><figure id="f634df4d-b6f3-4eea-86ac-535f811ea429" class="image"><a href="%E8%AE%BE%E5%AE%9A%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%E4%B9%8B%E9%81%93%E7%9A%84%E7%9B%AE%E6%A0%87%2005eb0d886bd845b5870095d6177813f7/ae-article-goalsettingprocess.jpg"><img style="width:646px" src="%E8%AE%BE%E5%AE%9A%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%E4%B9%8B%E9%81%93%E7%9A%84%E7%9B%AE%E6%A0%87%2005eb0d886bd845b5870095d6177813f7/ae-article-goalsettingprocess.jpg"/></a></figure><p id="d9c69478-6d04-4a8f-b235-c9dd5d2c5c5d" class="">The Asian Efficiency Goal Setting Process.</p><h2 id="949b2ac8-f7fe-4ed1-9b74-1a40c568c823" class="">Awaken the Giant Within</h2><p id="afb3c30a-8a84-41fc-8ee0-ae688887d5af" class="">As I mentioned in the introduction, most goal setting processes will help you define your goals – there is no one that is better than the other. I just happen to like the Tony Robbins version from his book <a href="https://www.asianefficiency.com/likes/awaken-the-giant-within/"><em>Awaken the Giant Within</em></a>, probably because it was the first goal setting process I ever came across, and it is fairly comprehensive. It goes something like this:</p><ul id="45d041c3-9fb8-4044-b5f3-b28dd7fee013" class="bulleted-list"><li style="list-style-type:disc">Look at all the different areas of your life (health, wealth, relationships, stuff that makes you happy).</li></ul><ul id="d4a54497-c579-44e0-8d68-a4a2df14d7cf" class="bulleted-list"><li style="list-style-type:disc">Write down <strong>everything</strong> you could possible want in that area.</li></ul><ul id="7464e09e-37c6-47e2-9638-8a8d8d9d1958" class="bulleted-list"><li style="list-style-type:disc">Make no judgements, and place no conditions.</li></ul><ul id="dd4bae7a-d28d-48a7-8b8e-ff18ea666c84" class="bulleted-list"><li style="list-style-type:disc">Take 3-4 hours to do this.</li></ul><p id="6dc3f9b7-c1eb-4189-9ce5-0ac6f1603b62" class="">Very simple, and very effective.</p><h2 id="64277efe-4287-4b8f-9307-aa8429962c6a" class="">Asian Efficiency Framework: Turning Wants into Goals</h2><p id="b19cc4c7-b898-4f59-97c3-4072d2892611" class="">What you should have after going through that process of listing out everything you could possible want… is well, a giant list of wants. You now need to turn these into goals. There are a couple of ways to do this. You can borrow a goal-defining structure, like the one Thanh <a href="https://www.asianefficiency.com/goals/5-steps-goal-setting/">wrote about here</a>, or the SMART structure of:</p><ul id="59f98a0e-6780-4413-b0c8-1497fa7c4efc" class="bulleted-list"><li style="list-style-type:disc">Specific</li></ul><ul id="25b191bd-f813-46f6-9b7d-34afd0ae66af" class="bulleted-list"><li style="list-style-type:disc">Measurable</li></ul><ul id="101ae145-3ebe-48f0-82d2-9f73a84538f0" class="bulleted-list"><li style="list-style-type:disc">Attainable</li></ul><ul id="0b152406-2933-4745-a3fa-4ccbe9d685cb" class="bulleted-list"><li style="list-style-type:disc">Realistic</li></ul><ul id="3817a6b4-752b-48d3-859f-0608b2237abf" class="bulleted-list"><li style="list-style-type:disc">Timely</li></ul><p id="03051c1b-13ae-4f68-baae-a37745719c55" class="">Or, I rather like the structure that Chip and Dan Heath talk about in <a href="https://www.asianefficiency.com/likes/switch/"><em>Switch</em></a> (it’s for change, but you can adapt it to goal setting).</p><p id="dddf621a-f1db-4f09-80fe-365bc42fe117" class="">At the most basic level though, every want that is to become a goal must have the following:</p><ol type="1" id="d61d8c73-5905-43ef-ab08-49c5363b5497" class="numbered-list" start="1"><li>A strong reason why behind it, to emotionally compel you.</li></ol><ol type="1" id="80757269-9d92-437e-a36c-b7251297aa52" class="numbered-list" start="2"><li>The goal must be actionable – you must be able to take steps *today* towards that goal, even if they are teeny-tiny steps. This gives the goal a logical foundation and allows you to start shaping the environmental path towards the goal.</li></ol><p id="7d9d7549-9044-4fdd-bdc8-61e8846ed40e" class=""><em>(note: if a goal is not actionable, it is not a goal – yet. File it under “someday” and review it at a later time)</em></p><h2 id="64f991fb-fcb3-4265-96a3-52236137d4e0" class="">Asian Efficiency Goal Selection</h2><p id="304d1488-a7dd-4da7-b10b-660ee9d4ba34" class="">Once you’ve applied the above framework to your list of wants, you should end up with a number of goals. If you want to follow us into Asian Efficiency land, we suggest picking the most important 1-2 goals for each area of your life (or one for each sub-area, e.g., career and finances under “wealth”) and focussing on those. You can consider these “immediate” or “1-year” goals if you like (but in reality, you’ll be working towards achieving them as quickly as possible).</p><p id="2dbc92cb-52d1-4024-9088-f49aaf49aea3" class="">Often it is more important to know which opportunities to NOT pursue, than which ones to pursue. This does have the belief of “you can’t have everything and then more” attached to it but with good reason: pursuing goal takes time, and time is the only finite resource that we have.</p><p id="abdfc58d-5f1e-40cc-9758-02f68f4f1e66" class="">Once you’ve done this, you will have a list of around 6-12 goals. We’ll talk about what to do with them in the section on tracking goals below.</p><h2 id="32699d34-133e-4325-b300-ac12b2c0b380" class="">“I want everything” Goal Sorting</h2><p id="ba42f6a1-b388-48ce-b251-e4f986c8a44c" class="">The other version of goal setting (particularly suited to those who get bored easily) is the turn all your goals into “right now” goals. This means your take all your goals from the “wants into goals” process, and sort them under an area of life (health, wealth, relationships, happiness). You then prioritize them by number.</p><p id="5f5d5985-b9d3-40b5-86a3-0ad8273ec0c4" class="">These are now your immediate goals for near future.</p><h2 id="3d21cc91-8203-47c6-8af3-d4a33328acd9" class="">Tracking Goals</h2><p id="363f1aa0-65f3-4594-b9f0-be2272f74f5e" class="">Now that you have your list of goals, you have to do something with them. I suggest putting them into a mindmap as such:</p><p id="c3ea73ca-7ec4-4604-994d-eb985ce3ca85" class="">An example of what your mindmap of goals may look like.</p><p id="0f622a10-d147-4ca4-bc6d-217eb7fafe5f" class="">Consider this your “20,000 foot” view of your life, and where you would like it to go. I would look at this mindmap every morning, as part of <a href="https://www.asianefficiency.com/habits/productive-morning-rituals/">your morning ritual</a>, and every evening as part of your evening ritual. Review this mindmap (and your list of goals) monthly, and cross off goals as they are achieved.</p><p id="ca8efbd4-3c4b-4952-9116-a81d0345bae0" class="">Because all your goals are actionable, they can be <a href="https://www.asianefficiency.com/task-management/simple-task-management-using-paper-things-or-microsoft-word/">divided into smaller projects and subsequently, have actions directed towards achieving those goals</a>.</p><p id="dfd3a348-d241-44c1-bb6f-f182274c53b0" class=""><a href="https://dankennedy.com/">Dan Kennedy</a> says that if you spend 50% of your time or more directed towards your goals, you’re being productive. And as we’ve mentioned before – the only to truly tell if you’re doing that, is to <a href="https://www.asianefficiency.com/productivity/time-tracking/">track your time</a>.</p><p id="6d837d53-0267-4c31-97ca-5175306b811a" class="">Tracking goals is not difficult – it’s simply about knowing where your time is going, and knowing that you are taking actionable steps every day towards your goals.</p><h2 id="6ba5f8f1-fd40-4730-94f0-da0968e72645" class="">Getting Goals</h2><p id="93fa5ae0-215e-47e6-be11-57db843eea5b" class="">As mentioned in the introduction, there is <strong>a lot</strong> to say about how to actually get goals, including how the neurology of our brain works, the role of hard work and action and supporting frameworks. We’ll release an audio about this at a future point in time.</p><h2 id="8a1ec8ed-1e25-4bc8-b263-5df7774ca150" class="">Next Actions</h2><ol type="1" id="5cf01dc2-1967-43af-a888-3a3fe6af104c" class="numbered-list" start="1"><li>If you have a list of existing goals, make sure they all have a reason why and that they’re actionable.</li></ol><ol type="1" id="f918f75b-6de3-4ea1-89e7-1d1cc42c51c1" class="numbered-list" start="2"><li>If not, pick the minimalist or “I want everything” version and follow through the <a href="https://www.asianefficiency.com/likes/awaken-the-giant-within/">Tony Robbins</a> and “wants to goals” frameworks and define your goals.</li></ol><p id="3633ea49-eabc-495e-8223-4d194bcac44d" class="">Did you like this post? We have some of our best productivity hacks and tips in the <em>Asian Efficiency Primer</em>. <a href="https://store.asianefficiency.com/primer/">Check it out here</a>.</p><figure id="d32bb80f-5251-4d36-a48e-90dc01f78f3d" class="image"><a href="%E8%AE%BE%E5%AE%9A%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%E4%B9%8B%E9%81%93%E7%9A%84%E7%9B%AE%E6%A0%87%2005eb0d886bd845b5870095d6177813f7/ae-products-rcp-logo-century-storeicon-border-500x500.png"><img style="width:500px" src="%E8%AE%BE%E5%AE%9A%E4%BA%9A%E6%B4%B2%E6%95%88%E7%8E%87%E4%B9%8B%E9%81%93%E7%9A%84%E7%9B%AE%E6%A0%87%2005eb0d886bd845b5870095d6177813f7/ae-products-rcp-logo-century-storeicon-border-500x500.png"/></a></figure></div></article></body></html>

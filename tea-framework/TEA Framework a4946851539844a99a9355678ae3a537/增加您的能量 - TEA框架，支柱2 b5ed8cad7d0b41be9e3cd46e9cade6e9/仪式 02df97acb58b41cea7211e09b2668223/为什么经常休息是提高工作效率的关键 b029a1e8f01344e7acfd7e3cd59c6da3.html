@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>为什么经常休息是提高工作效率的关键</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="b029a1e8-f013-44e7-acfd-7e3cd59c6da3" class="page sans"><header><h1 class="page-title">为什么经常休息是提高工作效率的关键</h1></header><div class="page-body"><p id="13f4c4e4-b608-4571-92b2-fcc99eaca843" class="block-color-gray"><a href="https://www.asianefficiency.com/productivity/taking-frequent-breaks-key-productivity/">https://www.asianefficiency.com/productivity/taking-frequent-breaks-key-productivity/</a></p><p id="3f9c5ee3-8e21-41e8-8027-1ae27f4f962a" class="">
+</p><figure id="dadd86d7-0382-4b32-b421-80a20ad374d9" class="image"><a href="%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E5%B8%B8%E4%BC%91%E6%81%AF%E6%98%AF%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%85%B3%E9%94%AE%20b029a1e8f01344e7acfd7e3cd59c6da3/ThinkstockPhotos-489763838-e1490767826261.jpg"><img style="width:700px" src="%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E5%B8%B8%E4%BC%91%E6%81%AF%E6%98%AF%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%85%B3%E9%94%AE%20b029a1e8f01344e7acfd7e3cd59c6da3/ThinkstockPhotos-489763838-e1490767826261.jpg"/></a></figure><p id="d67a3464-4b30-40f9-b098-f8e678550c9f" class=""><em>This is a guest post by </em><em><strong>Nils Salzgeber</strong></em><em>. He is a lifestyle coach and co-founder of </em><a href="https://www.njlifehacks.com/"><em>njlifehacks.com</em></a><em>, a blog dedicated to helping people live a better life through relentless self-improvement. Nils is on his journey to becoming the greatest version of himself and loves sharing what he learns along the way.</em></p><p id="0e6bd5fe-93e9-4066-af50-c28b357a5545" class="">Remember the good old times? When humanity thought the world was flat? When we thought intelligence was a completely fixed trait? When we thought our brains couldn’t physically be altered? When we thought saturated fats were the public health enemy #1? When we thought taking breaks was a waste of time?</p><p id="b2c2f34e-7a8d-44d0-97f9-00d9d1fe1579" class="">Wait, what was that last one again?! You heard me right. I believe in a few years we will mostly agree on the fact that frequent recovery breaks are NOT a waste of time, but in fact the key to productivity.</p><p id="75f5a861-98c9-4c83-9c93-6b84b767e330" class="">Skeptical? Keep reading.</p><h2 id="9d878be2-558f-4d4e-9378-ba0fc78fe66c" class="">Our Physiological Need for Breaks</h2><p id="3db21f16-1247-4f59-b1dc-12ded218059f" class="">We live in a world characterized by rhythmic, wavelike movements.</p><p id="42e022d1-329a-4aa5-86fe-9738a12fc59f" class="">Think about the daily rising and setting of the sun, the ebb and flow of the tides, and the movement between seasons. Similarly, all organisms on this planet, including human beings, follow rhythms.</p><p id="c619117f-2e24-47c6-864d-f9064e2768b0" class="">You and I, and every other human being on this planet, we are constantly moving between periods of activity (spending energy) and periods of rest (renewing energy). This is because we adhere to rhythms, most notably the circadian rhythm.</p><p id="ccf16f85-9430-4360-8201-3e0ad6bb3bd2" class=""><strong>The circadian rhythm </strong>dictates that we live our lives in 24 hour cycles. We’re ‘on’, awake, and spending energy for approximately 16 hours. And then we’re ‘off’, asleep, and renewing energy for approximately 8 hours.</p><p id="8f5232a1-3f19-40c3-9528-030b23ac807c" class="">If you’ve ever pulled an all-nighter (who hasn’t?) or tried to stay awake for as long as possible as a kid, then you know overriding your circadian rhythm is a terrible idea and a productivity no-go.</p><p id="ae692fc5-1f5e-460c-a91a-f4a2eee70ad9" class="">And the circadian rhythm is by no means the only rhythm influencing our lives. During our 16 hours of wake time for example, our energy also heavily fluctuates – anyone who’s ever experienced the infamous ‘afternoon slump’ can surely attest to that.</p><p id="08b45667-7996-4825-b128-56e606729a0f" class="">One rhythm that is partly responsible for that is <strong>the ultradian rhythm.†</strong>Tony Schwartz and Jim Loehr explain how it works in their book <em>The Power of Full Engagement</em></p><blockquote id="34e918c9-a556-448a-a056-1abbf17ece9b" class="">These ultradian rhythms help to account for the ebb and flow of our energy throughout the day. Physiological measures such as heart rate, hormonal levels, muscle tension and brain-wave activity all increase during the first part of the cycle – and so does alertness. After an hour or so, these measures start to decline. Somewhere between 90 and 120 minutes, the body begins to crave a period of rest and recovery. Signals include a desire to yawn and stretch, hunger pangs, increased tension, difficulty concentrating, an inclination to procrastinate or fantasize, and a higher incidence of mistakes.</blockquote><p id="ce36c1a2-1adb-4394-8c2d-e5005cad0814" class="">So the ultradian rhythm is a cycle that repeats itself multiple times during the day. For approximately 90 minutes you are in high performance mode. Your alertness, concentration, creativity, emotional resilience, and mental stamina are all at the top of their game.</p><p id="eed7fe84-fb59-41ae-9cae-8a9b439d36e8" class="">Then, for a period of approximately 20 minutes, your body needs time to rest and renew its energy stores.</p><p id="e32e8437-694a-438f-b019-687c5e76b8fe" class="">The point I’m trying to make is this: We are NOT super computers. We are not built to run at high speeds, continuously, for long periods of time.</p><p id="7406730d-efee-4ace-af6a-91c3bfb63057" class="">Instead we work best when we adhere to our natural rhythms, which dictate periods of intense activity (expending energy) followed by periods of rest (renewing energy).</p><h2 id="7e929bce-b9fc-4e31-a516-d9a20a8e8dfe" class="">Science Agrees: More Breaks = Higher Productivity</h2><figure id="d643f6b3-63dd-4653-803d-7dc5bff481b3" class="image"><a href="%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E5%B8%B8%E4%BC%91%E6%81%AF%E6%98%AF%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%85%B3%E9%94%AE%20b029a1e8f01344e7acfd7e3cd59c6da3/ThinkstockPhotos-515742016-e1490767926849.jpg"><img style="width:700px" src="%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E5%B8%B8%E4%BC%91%E6%81%AF%E6%98%AF%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%85%B3%E9%94%AE%20b029a1e8f01344e7acfd7e3cd59c6da3/ThinkstockPhotos-515742016-e1490767926849.jpg"/></a></figure><p id="a1f40e29-85d0-4161-b5b4-240384a28402" class="">Time-tracking app Desktime found that the most productive people work for 52 minutes, and then take a break for 17 minutes.</p><p id="4d838b9d-119e-4070-8674-427b200e8414" class="">They also note that employees with the highest productivity ratings for the most part don’t even work 8 hours a day. The secret to retaining the highest level of productivity over the span of a work day is NOT working longer, but working more efficiently and with frequent breaks.</p><p id="7ce5c1b4-ccfd-4e65-98e9-1ad7bd59248a" class="">They explain:</p><blockquote id="75c6001a-e8f3-490a-81b4-d6838a2dd94b" class="">The reason the 10% most productive employees are able to get the most done during the comparatively short periods of working time is that they’re treated as sprints for which they’re well-rested. They make the most of the 52 working minutes, in other words, they work with purpose.</blockquote><p id="71fef67f-c4e7-401e-883c-ee12a55e8e66" class="">According to their study, the key to maximizing your productivity lies in working hard for short periods of time and then taking frequent breaks to reload the guns (so to speak). Sounds like they’re following a certain rhythm, huh?</p><p id="9153e1f3-1b15-47aa-9ba1-45ffd3193788" class="">Researcher <a href="https://www.psy.fsu.edu/faculty/ericsson.dp.html">K. Anders Ericsson</a>, who has studied elite performers, including musicians, athletes, actors and chess players, found a similar pattern.</p><p id="e5cab838-63d6-40a6-91b6-960623eb3b80" class="">Turns out the best performers in each of these fields typically practice in uninterrupted sessions that last no more than 90 minutes. They begin in the morning, take a break between sessions, and rarely work for more than four and a half hours in any given day. They aren’t spending more time practicing their craft, but they engage in more so-called deliberate practice – intentional, high effort, high concentration practice beyond ones comfort zone.</p><p id="e5f73d8d-9326-45bd-9525-d541aacd72d7" class="">High performance isn’t about working for longer, but smarter.</p><h2 id="27957aed-6e94-4638-a19c-308232e31cd4" class="">How to Work Like an Expert and Maximize Your Productivity</h2><p id="eec267df-ad73-49f8-8e01-b68fcf03eba6" class="">If we want to work like an expert and maximize our productivity, we need to learn from elite performers. Here’s the recipe:</p><ol type="1" id="0841640b-8185-42ec-af06-4bdff947767a" class="numbered-list" start="1"><li><strong>Work in sprints:</strong> Give it all you’ve got for short periods of time. Get as much done during that time as possible. Push hard.</li></ol><ol type="1" id="4acbc191-f0a9-44e7-ad75-e38e03cf26e0" class="numbered-list" start="2"><li><strong>Take frequent recovery breaks:</strong> In-between work sprints you need to recover and replenish some of your energy.</li></ol><p id="f4025caa-9775-4444-847c-fc15daa43c0b" class="">That’s it. You’re either working super hard – deeply focused, fully engaged, highly concentrated, at full speed – or you’re taking a recovery break.</p><p id="b52eec28-ab4c-447e-97ca-4719f1970382" class="">There’s no more in-between. There’s no more ‘doing some work’. There’s no more preserving energy when you’re working. There’s no more half-assed working because you’re tired or whatever. You either work (you’re super productive) or you don’t (you’re taking a break). You’re either expending energy (work sprint) or replenishing energy (recovery break).</p><p id="4a0824dd-45ca-4ef8-8dde-9831be63ce3d" class="">That’s working according to your natural rhythms and it’s exactly how the highest performing people in the world do it.</p><p id="da7eef60-74ee-46e8-a338-9b07c6d49a2d" class="">Now, <em><strong>How long should those work sprints and recovery breaks ideally be?</strong></em></p><p id="fa2c1fd5-5089-4a49-a03f-1184c4f61ae2" class="">If you want to copy the best, then the ideal length seems to be working for 90 minutes and recovering for 15 minutes. (That way you also adhere to the ultradian rhythm.)</p><p id="f2c4dda7-c354-4258-88a3-6038c03dc4d9" class="">For most people, however, that’s not very practical. You may have a meeting coming up, co-workers interrupting you, or whatever. What’s important is that you either work or recover. Don’t do some half-working/half-chilling stuff.</p><p id="f13ddd5a-9982-4956-a3db-06aefd468ef8" class="">Sometimes you may have a work sprint that only lasts for 30 minutes. Or one that lasts for 80 minutes. Or heck, even one that goes on for 2 hours. Similarly, some breaks may only last 10 minutes, or 5 minutes, or 40 minutes.</p><p id="31fa30df-5f67-4d9f-9b51-677d0bdbad2c" class="">Don’t overcomplicate it. The key is to make waves and follow periods of intense activity with periods of intense recovery. If you work, work hard. If you take a break, recover properly.</p><p id="bf75ac01-1f06-4770-8b03-29bd7047ea07" class="">Do that and your productivity <em>will</em> go through the roof.</p><h2 id="331c0e16-f360-42c6-913e-cbaeb48e8dee" class="">How to Get the Most Out of Your Work Sprints</h2><figure id="6c5c48b0-825e-483e-9af6-6e37aa6306c5" class="image"><a href="%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E5%B8%B8%E4%BC%91%E6%81%AF%E6%98%AF%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%85%B3%E9%94%AE%20b029a1e8f01344e7acfd7e3cd59c6da3/ThinkstockPhotos-486042024-e1490768020886.jpg"><img style="width:700px" src="%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E5%B8%B8%E4%BC%91%E6%81%AF%E6%98%AF%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%85%B3%E9%94%AE%20b029a1e8f01344e7acfd7e3cd59c6da3/ThinkstockPhotos-486042024-e1490768020886.jpg"/></a></figure><p id="d86de7f7-3329-45af-a8d9-f3a31d6ff93e" class="">There are a few strategies that’ll help you make your work sprints as productive as possible.</p><h3 id="a06c3d5f-8fef-4f59-b6ff-9102cb4cee23" class="">1) Give it all you’ve got:</h3><p id="76426ab8-20c2-4405-b82a-c200c6ac60a3" class="">Work sprints are called ‘sprints’ for a reason.</p><p id="7e9b4416-5c7e-4537-bc7e-daa480b51509" class="">During these relatively short periods of time, you really want to give it your all. Work like a maniac. Completely plunge in. Focus deeply. Get fully engaged. Do NOT try to pace yourself and preserve energy.</p><p id="fe60c0e0-d6ed-4a83-b234-40cd756d3119" class="">Remember, you’ll get a break soon. Working in this sprint-like fashion accomplishes two things: 1) You get a massive amount of work done in a short period of time. 2) Your ability to work this way increases. Because you’re pushing yourself hard, you’ll actually get better at it. Your energy levels, concentration, and focus will all improve over time (and so will your productivity). This is exactly what elite performers do when they train with deliberate practice.</p><h3 id="99e97d5e-2d95-4a80-8a06-1d5b92c946c6" class="">2) Eliminate all distractions:</h3><p id="5c969c1b-205a-4c2e-a256-6812c416b8a0" class="">This means:</p><ul id="02996c55-f218-4fcf-89f1-45e71182fb65" class="bulleted-list"><li style="list-style-type:disc">no phone</li></ul><ul id="da51d20d-af28-4d40-b376-9bef25c34216" class="bulleted-list"><li style="list-style-type:disc">no emails</li></ul><ul id="95b661df-ece2-40c1-9047-59433c081c11" class="bulleted-list"><li style="list-style-type:disc">no notifications</li></ul><ul id="1e302393-1b4f-4cb8-b0a7-8308f2653b51" class="bulleted-list"><li style="list-style-type:disc">no calls</li></ul><ul id="642d7441-0cb6-4fef-b052-a353fca6a795" class="bulleted-list"><li style="list-style-type:disc">no conversations</li></ul><ul id="4d6ecc9a-447f-4ab7-b6b0-dc392aace33a" class="bulleted-list"><li style="list-style-type:disc">no Facebook</li></ul><ul id="bb210a71-2311-4fb6-880a-e5389ca00fd4" class="bulleted-list"><li style="list-style-type:disc">no news</li></ul><p id="02d57610-7bb2-486a-9551-bb6795a18f2c" class="">The single goal during your work sprints is to get as much done as possible. You can handle everything else later on, but you can’t have any distractions during your work sprints whatsoever.</p><p id="fe9f145a-572a-4a9e-9b35-a3df87115125" class="">If you’re off checking email every 5 minutes, chances are you won’t get anything done and you certainly won’t improve your concentration, focus, and ability to work hard for sustained periods of times.</p><h3 id="1df33ec5-ca62-4630-bf62-ad8dc5967518" class="">3) Single-task and work on one task, uninterruptedly, for long periods of time</h3><p id="96855494-4e16-48e9-bbda-8633856c28a0" class="">Haven’t heard the news yet?</p><p id="bddd65a6-50c8-44b6-8fb6-76057459cace" class=""><a href="https://www.njlifehacks.com/multitasking/">Multitasking makes you 40% less productive</a>. (It also SHRINKS your brain, temporarily lowers your IQ, and creates unnecessary stress for the brain. More about the downfalls of multitasking here.)</p><p id="ba95879b-3882-4715-b09d-737c8affe531" class="">Even better than just not multitasking: Work on ONE and the same project for long periods of time. While switching between projects isn’t as bad as multitasking, it still isn’t ideal. Every time you switch to a new project, your attention doesn’t immediately follow. Instead, a residue of your attention remains stuck thinking and wrestling with the previous project.</p><p id="0447c537-7365-41e5-9475-c2e37034b787" class="">This is called <a href="https://www.sciencedirect.com/science/article/pii/S0749597809000399"><em>attention residue</em></a><em>, </em>a term that was originally coined by Sophie Leroy. She explains why switching between projects isn’t a smart idea:</p><blockquote id="890d8fe2-ec84-4b68-8c8e-8da5649d77e8" class="">“People experiencing attention residue after switching tasks are likely to demonstrate poor performance on that next task”.</blockquote><h3 id="b042d279-faee-4c4f-9ae7-428e6748f9f9" class="">4) Take mini breaks every 20 minutes:</h3><p id="7fbf53a3-dffb-4361-ad2a-79c17e0ce4d0" class="">Turns out our brains aren’t able to focus on one thing, without <em>any</em> interruption, for more than 15-20 minutes.</p><p id="64267f0a-b2b4-42f4-ac96-edaa1d334d9e" class="">A study in the journal <em>Cognition</em> showed that people can maintain their focus or vigilance much longer when their brains are given something else to think about every 20 minutes.</p><p id="1b4763e6-cf61-488a-a501-cb6308d61f7c" class="">Neuroscientist Mark Waldman confirms this:</p><blockquote id="5defcb17-a853-4d92-95c2-8c67fbc52ac0" class="">Our research has found that taking 2-3 breaks during each hour to consciously relax, stretch, meditate, or do something pleasurable–even for 10 seconds–will reduce stress, enhance your awareness, and significantly boost your concentration and productivity.</blockquote><p id="7d2428b1-678f-4fcd-91e3-c24f7cd66be2" class="">So, every approximately 20 minutes, take a mini break of 10 – 120 seconds. Here are some ideas:</p><ul id="825fbcc8-d0a3-4080-8c79-d9ef109595b5" class="bulleted-list"><li style="list-style-type:disc">Take a few deep breaths</li></ul><ul id="1f45fcff-ffc0-4736-8540-9522471a1dff" class="bulleted-list"><li style="list-style-type:disc">Yawn and stretch</li></ul><ul id="6038a81c-97a6-4d60-8b3e-02246c8a15de" class="bulleted-list"><li style="list-style-type:disc">Look at nature (outside the window or even just on a picture)</li></ul><p id="e4e2cb3a-ab09-431d-b7eb-a2359a4c476c" class="">These three activities are all shown to be highly relaxing and rejuvenating for the brain.</p><h2 id="ea0e339f-cb3c-43d1-be6d-eb6e6ea88519" class="">How to Get the Most Out of Your Breaks Between Work Sprints</h2><figure id="0b381839-7efa-421a-bfa6-d72019cd09a1" class="image"><a href="%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E5%B8%B8%E4%BC%91%E6%81%AF%E6%98%AF%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%85%B3%E9%94%AE%20b029a1e8f01344e7acfd7e3cd59c6da3/ThinkstockPhotos-122436420-e1490768164145.jpg"><img style="width:700px" src="%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E5%B8%B8%E4%BC%91%E6%81%AF%E6%98%AF%E6%8F%90%E9%AB%98%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%85%B3%E9%94%AE%20b029a1e8f01344e7acfd7e3cd59c6da3/ThinkstockPhotos-122436420-e1490768164145.jpg"/></a></figure><p id="5f12efcf-79c4-433c-b7b0-1a6f6791d51e" class="">Do you know the difference between some of the best tennis players and average tennis players? One difference is that top players are maximizing their recovery between points.</p><p id="fed502ef-a0fd-4d7e-a524-33b839ae0650" class="">Tony Schwartz and Jim Loehr, authors of <a href="https://www.amazon.com/Power-Full-Engagement-Managing-Performance/dp/0743226755"><em>The Power of Full Engagement</em></a> have found that the top players are able to lower their heart rates between points by up to twenty beats per minute. The average player’s heart rate stays the same, because he hasn’t optimized his recovery/rest period.</p><p id="41cee0dd-92a5-452d-8790-f73620fe2554" class="">If a match goes into the 4th or 5th set, guess who’s going to have more energy left?</p><p id="a02a042b-48bb-4fa2-8c4c-7ab1f4530ad7" class="">The point of this story is that getting the most out of your recovery breaks is crucial if you’re looking to maximize your productivity. Yes, taking <em>any</em> break is better than not taking breaks at all. But there are better and worse ways to spend your time during breaks.</p><p id="7ae3006e-d131-442e-80f0-e39a56268afd" class="">Watching TV, reading the news, or checking your Facebook newsfeed won’t give you the highest possible returns from your recovery breaks.</p><p id="235a632f-9355-443e-ac9e-1ae5e47458c5" class="">Instead, you may want to choose one of the following activities:</p><ul id="02d13ee0-0723-45f5-8060-92adc034130d" class="bulleted-list"><li style="list-style-type:disc">Exercise</li></ul><ul id="1c52d293-331d-490d-a578-e920a727fa49" class="bulleted-list"><li style="list-style-type:disc">Get in nature</li></ul><ul id="918f74ac-184b-4b14-bfab-bc9d97f4c300" class="bulleted-list"><li style="list-style-type:disc">Boost your mood</li></ul><ul id="a846f6ed-6008-42bf-b221-2f8dcf827a1c" class="bulleted-list"><li style="list-style-type:disc">Meditate</li></ul><p id="b3d7fb3d-983f-429c-9237-34517d65000a" class="">What’s so special about these activities? They are all shown to increase your productivity. It’s like killing two birds with one stone:</p><ol type="1" id="bdc8f5a3-f2d9-4b99-ab8c-f68938b006db" class="numbered-list" start="1"><li>You get the benefits and enhanced productivity from taking a break</li></ol><ol type="1" id="2120e1ec-701f-4c26-888b-6762a6cc7271" class="numbered-list" start="2"><li>You get the benefits and enhanced productivity from doing something that itself is highly beneficial</li></ol><p id="1dc4c158-47f8-44a0-9c4d-af331c4e548c" class="">If you watch TV during your breaks, you only get the benefits of taking a break.</p><h2 id="42b1833b-0909-44ea-aaf5-64c5642955b0" class="">The End</h2><p id="f3c62ce0-24c5-45ea-b9a5-c0860bda500b" class="">Quick summary:</p><ul id="a4decd10-4296-4059-865d-8f42cdfcfcc3" class="bulleted-list"><li style="list-style-type:disc">We work best when we adhere to our natural rhythms, which dictate switching between periods of expending energy and periods of renewing energy</li></ul><ul id="d0f5b92d-888b-4228-8386-33faad6faf92" class="bulleted-list"><li style="list-style-type:disc">Elite musicians, actors, and athletes know this well enough and rarely practice for longer than 90 minutes in one session. They take breaks between sessions, and rarely work/practice for more than 4.5 hours in any given day.</li></ul><ul id="92988963-41ec-44eb-b9d9-d378a40f06b6" class="bulleted-list"><li style="list-style-type:disc">To maximize your productivity you need to copy their blueprint: Work hard for approximately 60-120 minutes and then take a recovery break for approximately 10-30 minutes.</li></ul><p id="09989560-7357-40c4-b7ee-dd5316bb8034" class="">And that’s the science behind why taking frequent breaks makes you more productive.</p><p id="47e7b67f-e25f-443f-af80-d9f675edc1ec" class=""><em>Now I’d love to hear from you. What’s your experience with taking regular breaks at work? Let me know in the comments below, and thanks for reading!</em></p><p id="fe6c67d3-847a-48d6-8add-d307640b89e0" class=""><em>This is a guest post by </em><em><strong>Nils Salzgeber</strong></em><em>. He is a lifestyle coach and co-founder of </em><a href="https://www.njlifehacks.com/"><em>njlifehacks.com</em></a><em>, a blog dedicated to helping people live a better life through relentless self-improvement. Nils is on his journey to becoming the greatest version of himself and loves sharing what he learns along the way.</em></p><p id="e0b4ce7a-f9f1-48d1-a374-14af355c626c" class="">Double your productivity and free up 5-8 hours a week when you get our proven productivity system<strong>.</strong></p></div></article></body></html>

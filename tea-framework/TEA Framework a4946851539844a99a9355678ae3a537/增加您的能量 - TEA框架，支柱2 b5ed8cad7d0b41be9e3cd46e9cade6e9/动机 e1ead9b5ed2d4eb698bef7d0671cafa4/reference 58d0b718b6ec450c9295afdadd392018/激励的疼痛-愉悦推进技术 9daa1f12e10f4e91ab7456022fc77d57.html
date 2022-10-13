@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>激励的疼痛-愉悦推进技术</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="9daa1f12-e10f-4e91-ab74-56022fc77d57" class="page sans"><header><h1 class="page-title">激励的疼痛-愉悦推进技术</h1></header><div class="page-body"><p id="10264288-71f3-431e-8bee-100e8b189455" class="block-color-gray"><a href="https://www.asianefficiency.com/systems/pain-pleasure-propulsion-technique-for-motivation/">https://www.asianefficiency.com/systems/pain-pleasure-propulsion-technique-for-motivation/</a></p><p id="ff398be0-acd6-4649-947e-3e4420561abd" class="">
+</p><figure id="896fc3fb-1456-46f5-9e26-1c3f150977bd" class="image"><a href="%E6%BF%80%E5%8A%B1%E7%9A%84%E7%96%BC%E7%97%9B-%E6%84%89%E6%82%A6%E6%8E%A8%E8%BF%9B%E6%8A%80%E6%9C%AF%209daa1f12e10f4e91ab7456022fc77d57/pain-pleasure-propulsion.jpg"><img style="width:640px" src="%E6%BF%80%E5%8A%B1%E7%9A%84%E7%96%BC%E7%97%9B-%E6%84%89%E6%82%A6%E6%8E%A8%E8%BF%9B%E6%8A%80%E6%9C%AF%209daa1f12e10f4e91ab7456022fc77d57/pain-pleasure-propulsion.jpg"/></a></figure><p id="7c557418-af37-4c62-bbfd-a534b2f55bf2" class="">Let’s talk about a different way to generate motivation. The technique I want to share with you today is part of a class of exercises that we call “inner game techniques” at Asian Efficiency. These are ways to systematically implement psychological and behavioural changes in yourself quickly and effectively.</p><p id="5b16040e-fdfd-4297-aae6-330b8fe956c8" class="">I’ve been re-reading Tony Robbins lately, and one of the things he really emphasises is the idea that our motivations and actions in life are governed by the forces of pain and pleasure. Robbins states that varying amount of pain and/or pleasure are what push us in one direction or the other at any given moment. He also says that most people are more likely to be driven by escaping pain than acquiring pleasure, but that both have a part to play. The technique you’re about to learn takes advantage of that duality.</p><p id="434b3f4c-25d1-4f88-91a4-04e7b64f0d62" class="">This is a NLP-based technique that I developed a few years ago as a very effective way of instilling motivation in myself. It has been shared with others as well, and works similarly well for them. If you read <a href="https://store.asianefficiency.com/premium-newsletters/?utm_source=asianefficiency.com&amp;utm_medium=textlink&amp;utm_content=blog-post&amp;utm_campaign=premium-newsletters">April’s newsletter on Speed of Implementation</a>, then you’ll know how important it is to be able to implement ideas right away. Inner game techniques such as this one can help you do that.</p><p id="ebc17e42-c910-4a8c-92ce-7200d3df6cc8" class=""><em><strong>Note:</strong></em><em> As we’ve mentioned in the past, NLP does drift towards the woo-woo-and-wishful-thinking side of things a bit, but the aspects of it that do work tend to work very well – and results are more important in the end.</em></p><p id="7f86a740-7b10-4bcd-861c-72f9638bb89b" class=""><em><strong>Disclaimer:</strong></em><em> I am neither a psychologist, therapist, NLP trainer or medical professional of any sort. Use this at your own risk, and seek competent professional advice before trying anything.</em></p><h2 id="e143e809-07b1-4acf-8851-3eef8aad26af" class="">What This is For</h2><p id="e013dafe-f9d0-4455-af5e-077253037940" class="">The technique itself is fairly easy to execute as you’ll see below.</p><p id="3d0f3e10-a532-4db7-806f-81765fee59ea" class="">Before we go ahead though, you’ll need to know what it’s for. This<strong> particular technique is for greatly increasing your motivation levels for a particular goal or outcome</strong>. For example, it could be a sales target, <a href="https://www.asianefficiency.com/health/exercise-and-productivity/">a habit of working out</a>, or pushing yourself towards learning something new.</p><p id="6b78f82e-3f9e-4be7-8536-352eccc07690" class="">Some quick terminology:</p><ul id="0f84556e-bedb-4c20-9412-d7210defb99f" class="bulleted-list"><li style="list-style-type:disc">State – your physiological and emotional state.</li></ul><ul id="cdbee499-f663-48e0-a3af-4f44cd1741cf" class="bulleted-list"><li style="list-style-type:disc">Anchor – a trigger for an emotional response. In this case, our “anchors” will be spots in the floor.</li></ul><p id="587e5b90-f6c8-40bb-a0af-1dea78016266" class="">It should also be noted that this is easiest done with someone watching you and helping walk you through it, so you don’t have to memorize or constantly refer to the steps.</p><h2 id="cf19814f-2d6d-4271-b2de-73c7de918d65" class="">The Pain-Pleasure Propulsion Technique</h2><p id="f27c3e26-023d-4df8-84d8-13c19ecd8549" class="">The Pain-Pleasure Propulsion Technique. Click to enlarge.</p><figure id="3ce70d5c-90f2-41ec-bc0c-c3bac8e54267" class="image"><a href="%E6%BF%80%E5%8A%B1%E7%9A%84%E7%96%BC%E7%97%9B-%E6%84%89%E6%82%A6%E6%8E%A8%E8%BF%9B%E6%8A%80%E6%9C%AF%209daa1f12e10f4e91ab7456022fc77d57/pain-pleasure-propulsion-technique.png"><img style="width:700px" src="%E6%BF%80%E5%8A%B1%E7%9A%84%E7%96%BC%E7%97%9B-%E6%84%89%E6%82%A6%E6%8E%A8%E8%BF%9B%E6%8A%80%E6%9C%AF%209daa1f12e10f4e91ab7456022fc77d57/pain-pleasure-propulsion-technique.png"/></a></figure><p id="1ec4434e-70ed-41ea-8ee1-6630ae1f5c59" class="">The technique is to be performed spatially. This means that you move to different areas in a small space, and use location to perform different thoughts and actions.</p><p id="7b9d98d7-12a1-4e55-8468-322f420be6b6" class="">You’ll see in the diagram above the rectangle labelled <strong>Thinking Spot</strong>. This is where you do your setup and reflection throughout the exercise – it can be a chair or just somewhere you stand.</p><h3 id="97ca65ac-9655-4529-80e3-e3afa97d46af" class="">1. Identify what you want and what you don’t want.</h3><p id="b02d120f-f9aa-4280-8cca-b670a015e7f7" class="">Go to your Thinking Spot. Work out the goal or outcome that you want, and its “opposite”. What you want is your goal. What you don’t want is what happens if you fail to achieve that goal. For example, if you are seeking financial success, the opposite could be becoming broke or heavily in debt. It helps here to think about compounding effects too – if you “fail” at your goal, what effects will that have on you, your life, your family, your friends, and everything else in your environment? What about if you achieve your goal?</p><h3 id="418c2e8e-fdaf-49f0-b741-d67ee7ca969e" class="">2. Create a Resource State Anchor.</h3><p id="6336f63a-f107-47d5-b0e0-24d52bc5ff35" class="">Step off to the side into a new spatial location. Think of a happy memory, or being around people you trust and who make you feel comfortable. Imagine those feelings flowing into that spot on the floor.</p><p id="e754c149-e8a1-489c-844f-3aa498f2fc33" class="">You’ve just created a “Resource Anchor” – a safety zone/panic button that you can hit if something goes wrong. It can also be used to help clear your mind in-between the upcoming steps.</p><h3 id="376319cd-c898-45ff-ba4c-734c02ba4db3" class="">3. Create a Pain/Fear Anchor.</h3><p id="37d34a78-85c1-4865-998d-2ed83f26c579" class="">Step into a new spatial location on the floor. This is going to be your pain/fear location. Start thinking about all your greatest fear – maybe not paralyzing ones, but get pretty close to it. Be it death, physical pain, loss of loved ones, humiliation, embarrassment, public speaking… whatever it is, think about it and let it build. Then visualize it all flowing into that spot on the floor.</p><p id="f3d4a31f-179b-4f0d-8b55-fbcba5777ff0" class="">And… that’s how you create a pain/fear anchor.</p><p id="88312378-c073-4449-9b22-a0a61f5385a3" class="">Now, “break state”. What this means is stepping away from that spot and clearing away any emotional or mental fog about what you were just thinking about. Some way to do this:</p><ul id="a2b3dbd1-d97d-43fb-9b4d-188287c1e6cb" class="bulleted-list"><li style="list-style-type:disc">Visualise staring at a white wall, completely blank.</li></ul><ul id="d00ec671-1376-452c-9804-38129f4d98da" class="bulleted-list"><li style="list-style-type:disc">Say your phone number backwards, out loud.</li></ul><ul id="545332dd-cc2d-43bd-9129-6fb826fead95" class="bulleted-list"><li style="list-style-type:disc">Go to the resource state anchor and stand there for a bit.</li></ul><h3 id="811a22eb-c043-4af1-b2b8-8de75332fd80" class="">4. Create a Pleasure Anchor.</h3><p id="e087ae6f-adf6-441c-bd00-095984df275a" class="">Once you’ve cleared your mind, step into a different spatial position on the floor. This is your pleasure location. Think about things that give you a ton of pleasure – be it time spent with loved ones, sex, food or anything else. Let it build then visualize it all flowing into that spot on the floor. That forms your pleasure anchor.</p><p id="a903aca3-20cf-4211-b359-e8b26c340f01" class="">Now break state as before.</p><h3 id="dd99d725-4f3f-425e-890b-de4f5fde4a5f" class="">5. Pain Association.</h3><p id="29faf13a-1b51-4fd6-b96d-0ac581e529bf" class="">Now it’s time to put it all together.</p><p id="0ffd325a-c03e-4cbc-bb98-f75d86a1527c" class="">Think about what you have identified as “don’t want”, then step onto the pain/fear anchor location from before.</p><p id="d6917705-e699-4b55-ac3f-6ddc423cc682" class="">Really visualize the fear and pain, as well as what you don’t want, together. Magnify the feelings by making the images more vivid, the sensations more real, and try to hear any associated sounds and experience any related smells or odours too.</p><p id="4594666f-68b0-494e-a375-297dc7840188" class="">If you need help with this, locate the place in your body where the sensation is focussed and spin it faster.</p><p id="bd077cda-15c7-44db-9f65-483842f99493" class="">Once you’re substantially frightened enough or have the feelings of pain associated with what you don’t want, break state. If you need to, go to the resource anchor for a brief moment.</p><h3 id="4909fa07-a452-4645-9b67-06880b50d20e" class="">6. Pleasure Association.</h3><p id="18512ed6-e73c-448e-89c3-26b0b0c17ca8" class="">Now it’s time to do the same with what you do want and the pleasure anchor.</p><p id="f6094d94-1e55-4fda-990d-afb042b6b1aa" class="">Think about what you do want – your goal, your outcome. Step into the pleasure anchor location, and really visualize and wonder about the pleasures from before and your goal. Magnify it by enhancing any mental images, experiencing the sensations, tastes, sounds or scents. If necessary, locate the pleasurable buzz in your body and spin it faster and faster.</p><p id="1cf6a631-bb02-4842-909b-e21f78c82b6e" class="">When you’re ready, break state as before.</p><h3 id="a1d9938b-2476-4089-ad5b-831ecea4001f" class="">7. Test.</h3><p id="937d2212-1756-4df6-8ce0-bb47bd49b594" class="">Sit aside for a couple of minutes, then test.</p><p id="9bc17e7b-6af0-4c84-9da9-d6874fb2fbb3" class="">Think about your goal – how do you feel about it now? Are you more motivated to achieve it? Are you more motivated to NOT FAIL?</p><p id="559a1152-9f36-4aa4-a6a6-d96609e121e5" class="">If necessary, go back and repeat steps 5 and 6 until you’re satisfied.</p><h3 id="b14d32da-6b9f-42f1-b021-a4558271a9e9" class="">8. Ecology Check.</h3><p id="6caf727b-6729-4b68-8474-0b513c62ccae" class="">After the associations have been made, you need to check in with yourself and make sure that the changes you’ve made do not conflict with other part of your well being. This can simply be a matter of asking yourself if the changes made are good for you, and noticing if any objections come to mind. If necessary, address each objection or tune back the associations that you just made.</p><h3 id="4c4375d0-7891-4614-93d9-2569a527a954" class="">9. Clean Up.</h3><p id="06470078-929a-4e75-ae04-098c8c5a0616" class="">The last step is to mentally “mop up” the floor where your resource, pain and pleasure anchors are. It may seem silly, but anchors are not something to be casually discarded, especially when they can trigger intense emotional states.</p><h2 id="c754e144-600d-4d01-9bd7-0768acffed2f" class="">Closing Notes</h2><p id="c2836e3b-5afa-46e9-a7b8-816e5439e727" class="">Hopefully the nature of this technique hasn’t scared you too much. Use it to give yourself a motivational kick on a really important goal or outcome that you have – it will make the outcome more exciting, while giving you a taste of the consequences of not taking action or achieving the goal too.</p><p id="3eadcf0c-56c4-4863-887d-9f333f5a92a9" class="">If you’d like to see more material like this from Asian Efficiency, let us know in the comments below!</p><p id="3bb54d4a-ee73-45a2-aeff-65570c488e53" class="">Get the Productivity System Used By Over 15,129 Highly Productive People</p><p id="e1b49977-b80a-4c90-a27d-9d2ef051fea0" class="">Double your productivity and free up 5-8 hours a week when you get our proven productivity system<strong>.</strong></p></div></article></body></html>

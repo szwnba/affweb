@@ -1,0 +1,670 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>提高能量和生产力的3种仪式</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-opaquegray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="d83f441c-c9a8-47f1-8117-37ce6efd817d" class="page sans"><header><h1 class="page-title">提高能量和生产力的3种仪式</h1></header><div class="page-body"><p id="541b39dd-32cf-4df6-8773-8f9daf9b964c" class="block-color-gray"><a href="https://www.asianefficiency.com/productivity/3-rituals-that-give-you-more-energy-and-double-your-productivity/">https://www.asianefficiency.com/productivity/3-rituals-that-give-you-more-energy-and-double-your-productivity/</a></p><p id="bc61e11b-37bd-4b19-ae34-3edc36fabc32" class="">
+</p><figure id="939345f6-a016-4626-8fdc-09fde1eabae8" class="image"><a href="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/woman-drinking-coffee.jpg"><img style="width:700px" src="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/woman-drinking-coffee.jpg"/></a></figure><p id="ce01c6e9-6421-4159-8398-3f80f0603dd5" class="">It was Saturday morning and I was still laying on my bed. My iPhone home screen showed it was 8:39am and I was determined to declutter my home that day.</p><p id="f4a813cb-8db3-417f-bf55-12a710f0f0a8" class="">The week leading up to Saturday I was telling my friends how excited I was to declutter my home and that I was going to donate items to Goodwill. On my calendar, I had a whole day blocked off to go through my closet, get rid of excess stuff and go to Goodwill.</p><p id="dd31eefd-6a3c-4328-a992-bccb7904ef0d" class="">When I got out of bed, I looked at my checklist that I prepared earlier that week. I knew exactly what I needed to do. Since I was intermittent fasting, I skipped breakfast and thought I would go right into declutter-mode after I finished my matcha tea.</p><p id="022c8e4b-bfe0-4727-be6a-459cd2af76a5" class="">Earlier that night I didn’t sleep well and I felt a little “off”. My mind was groggy and even though I had my tea I still didn’t feel 100%. “Let’s wait a bit until this feeling goes away before I start decluttering,” is what I told myself.</p><p id="0e32867f-2c98-4a37-a1fc-ec3a27a5a81f" class="">I skipped my morning ritual, grabbed my iPad and I watched this vlog of a couple traveling through Asia. About 30 minutes later, I got inspired to book my trip to Korea and Japan. So I started doing my own research on where to go, which cities to explore and what kind of foods to eat. My brain went 100 miles per hour while I was researching and planning my new trip.</p><p id="bcd4eaeb-7306-40a3-a262-89a49f18aff0" class="">A few hours later, I felt tired and I was getting hungry. I thought it was time to finally break my 18-hour fast. By the time I was done eating, it was already 1:30pm and I still hadn’t decluttered my home yet.</p><p id="e1437f72-e12e-4477-ae9a-4f6df0510f33" class="">“Okay, let’s start decluttering!”</p><p id="efbb2635-65a0-4fd0-a1ac-40e3ed1d935e" class="">But I still didn’t feel like it. My brain was tired from the lack of sleep and any energy I did have was already spent on planning my Asia trip. My carb-heavy meal also didn’t really help.</p><p id="87811b6d-1ab2-41c4-a601-2b9eb2965fed" class="">By the end of the day, I never decluttered my home and I had to move my Declutter project in OmniFocus to another week. Why did this happen?</p><h2 id="0633dced-6bfc-462c-adef-062a810c6ef3" class="">The Real Problem</h2><figure id="88464f91-20eb-4177-b48e-5263e9b6d375" class="image"><a href="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/sleepy-businessman-e1550009713867.jpg"><img style="width:700px" src="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/sleepy-businessman-e1550009713867.jpg"/></a></figure><p id="0b0feed4-573b-46a2-b0aa-2f9c159a5ea9" class="">A day later, during my weekly review, I reflected on what happened. I never ended up decluttering and I wondered what happened. Kaizen, continuous improvement, is one of <a href="https://www.asianefficiency.com/mindsets/asian-efficiencys-core-values/">my personal core values</a> and I’m always looking for ways to improve things – even the little things that seem to make no difference.</p><p id="009352e7-5e5d-4402-b603-d0172dfb2eb4" class="">So I started asking myself questions. What happened? Why didn’t I declutter? What’s story versus facts? How could I have prevented this from happening? How can I prevent this from happening again?</p><p id="8f02228a-d36b-42b5-8a35-4fe155afc49d" class="">A million questions went through my head. As I was dissecting the situation, I came to an interesting realization.</p><p id="176fdfce-7685-43db-a759-490c4f34119b" class="">Most people can’t accomplish things because <a href="https://www.asianefficiency.com/productivity/tea-framework-making-time/">they blame the lack of time for their misfortunes</a>. Sometimes that’s true. Some of us are so busy – maybe even overcommitted – that we simply don’t have time for the things we want and need to do.</p><p id="1970042b-5d1b-4a10-b6ef-e0926cf81b75" class="">But that wasn’t my problem. I had a whole Saturday blocked off. I had the time to declutter.</p><p id="6ebc7089-66d0-4e23-bd19-7cc5d26bab64" class="">Was it a procrastination issue? If so, what’s the root cause of it?</p><p id="bf3dd24d-f3d2-4d6b-a8e5-41c90a15d6ed" class="">After working with hundreds of people over the years, <a href="https://www.asianefficiency.com/podcast/167-procrastination/">a lot of procrastination is caused by uncertainty and lack of clarity</a>. We have a hard time starting things when we don’t know what the outcome is that we want. It sounds silly but I see this happen all the time.</p><p id="62eddfc8-0b62-46d1-b79b-e1969cd26944" class="">Why would you work on your business right now if you don’t even know if you’re going to make it successful? That’s uncertainty giving you a reason to procrastinate.</p><p id="246d1eb7-ea32-46a7-87cb-ec98a964a4ac" class="">Why would you bother working on tasks if you don’t even know what the point of it is? This is very common when we have no clear vision and goal of what we want. When you know exactly what you want to accomplish, you feel empowered to be productive and get things done. When you have no clarity, it’s easy for us to procrastinate.</p><p id="900f338a-b0f8-417a-9f76-350118dfe906" class="">But, again, that wasn’t my problem! I knew exactly what I needed to do (declutter) and I had a checklist of things I needed to follow. <a href="https://www.asianefficiency.com/goals/goal-setting-and-getting-having-a-why/">I even wrote down my “why”</a> (to make my home feel clean again to empower me and my work). So it wasn’t uncertainty of the outcome or lack of clarity that made me procrastinate.</p><p id="23045bc8-7250-4a60-a969-b3138febed5a" class="">So what was it then?</p><p id="b8d3d64d-c19f-465d-9ce4-c15a9afa228c" class="">After thinking hard about it, I came to the realization that the lack of sleep was the root cause of everything. It’s the thing that caused everything else to fall apart. I skipped <a href="https://store.asianefficiency.com/morning-ritual-starter-kit/">my morning ritual</a>, I didn’t feel very good and my brain felt groggy.</p><p id="f8892951-c91f-4822-a155-d01507d4f711" class="">Even though I was a black belt Asian Efficient and I had all the right productivity tools and checklists…it didn’t matter. My poor night of sleep made me unproductive and ultimately procrastinate.</p><h2 id="ea11a749-e81a-4b12-8ad0-481faaf68284" class="">Why Energy Is More Important Than Anything Else</h2><figure id="4fd8fab8-f704-40f8-946e-37a52cd22037" class="image"><a href="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/couple-biking-e1550009878813.jpg"><img style="width:700px" src="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/couple-biking-e1550009878813.jpg"/></a></figure><p id="8c3b4f2b-c75f-4cd6-bedf-5ca196812d02" class="">This example shows you why productivity is not about time management. The most outdated productivity advice out there focuses too much on maximizing every minute of your day, scheduling every hour and managing time to your best ability.</p><p id="033c3dac-c0ed-4378-9d72-1ffa0d1deeef" class="">There is some value to that but for most of you reading this, that’s probably not your challenge. Especially if you’ve already followed Asian Efficiency for a while or have been subscribed to <a href="https://itunes.apple.com/us/podcast/the-productivity-show/id955075042?mt=2">our iTunes-winning podcast The Productivity Show</a>.</p><p id="9bb60b44-fc81-4541-b7d4-afa76573f993" class="">Time is usually not a challenge we have. It’s our capacity to do work – our energy. <a href="https://www.asianefficiency.com/productivity/increase-energy-productivity-breakthrough/">When you don’t have energy, it doesn’t matter if you’re a GTD master and you have all the right productivity tools</a>. You can’t use them if you have no energy. It’s like trying to drive a supercar with no gas in the tank. You’re not going anywhere unless you have gas. The same applies to you and me. <a href="https://www.asianefficiency.com/productivity/increase-energy-productivity-breakthrough/">We can only be Asian Efficient when we have the energy to do the work</a>.</p><p id="25cd5e48-09bc-43ee-a94a-6b8b44ea68b8" class="">You’ve already experienced this before. Remember the last time you were sick? How productive were you? My guess…not much. You might have even stayed home in bed and not show up for work.</p><p id="a4286e70-f105-4f98-934d-1367ccb7156f" class="">Now that’s an extreme example but I hope it shows you that you cannot be Asian Efficient unless you have energy. Ideally, we want to be in peak condition ourselves so we have more capacity to do work.</p><h2 id="f0d22998-adc2-4c45-8bed-32d38cad3f1e" class="">The TEA Framework</h2><p id="53f6c177-3c79-4af6-b96d-a80b0f47f9b3" class="">As we started to impact more people through Asian Efficiency, we started to see a pattern. The most productive people have three things figured out: <a href="https://www.asianefficiency.com/productivity/tea-framework/">time, energy and attention</a>. When you have all three currencies at max capacity, you’re Asian Efficient. When you miss one of them (or more), it’s almost impossible to be really productive.</p><p id="c7c4a19f-c381-4eec-82a8-d68847e9547a" class="">When you have energy and attention but no time, you’re overwhelmed.</p><p id="80abe263-e0b3-448b-ae7d-6c57828dc878" class="">When you have time and energy but you don’t have attention, you’re distracted.</p><p id="cc8fcb4a-207b-4108-877b-d8455823a982" class="">When you have the time and attention but lack energy, you’re exhausted.</p><p id="c2b747bd-e1d3-43d2-89e1-6492313e1865" class=""><a href="https://www.asianefficiency.com/productivity/tea-framework/">That’s why we came up with the TEA framework for mastering productivity</a>. Every person that wants to be more productive needs to have all three currencies and with this framework, it’s easy to diagnose what you’re missing.</p><p id="f13d555a-aa8e-4419-82cc-3993512810ea" class="">If you’re reading this, you might feel exhausted. That’s when you know that energy is a currency that you need to focus on.</p><h2 id="86d6226d-6faf-48a2-b887-fa8396d680dd" class="">3 Things You Can Do Right Now To Have More Energy</h2><p id="1995077e-092c-410e-9e22-ed166d627e73" class=""><a href="https://www.asianefficiency.com/productivity/increase-energy-productivity-breakthrough/">In our article on the TEA Framework where we cover Energy</a>, we identify three components for improving your energy (in no particular order):</p><ul id="e064a2ab-e87a-4dc0-8970-521b84a4a812" class="bulleted-list"><li style="list-style-type:disc">Sleep</li></ul><ul id="5eec2cd5-d204-47df-8912-f532b6c53a90" class="bulleted-list"><li style="list-style-type:disc">Rituals</li></ul><ul id="17d2aeea-710d-4730-b3f8-a02cd8b859bf" class="bulleted-list"><li style="list-style-type:disc">Motivation</li></ul><p id="fdd3502c-dbf5-4759-80b3-dffeb12fa04b" class="">The better you sleep, the more energy you have. Rituals are powerful because they can serve two benefits: they can save you energy and they can give you energy.</p><p id="976f2720-d91c-4b88-813a-3dee149d8988" class="">Motivation is a mental state of mind and its core it’s a feeling. When you’re motivated, you feel energized. This feeling is something everyone can manufacture on command but it’s a fleeting feeling. It’s something all of us have to generate each day – some days more, some days less.</p><p id="68bbca16-61ba-4012-aa52-9ba02a058729" class="">I’ll share a tip for each that will instantly help you improve your energy. As always with Asian Efficiency, you can expect it to be simple and actionable.</p><h2 id="83992e04-22d3-4372-a185-d9fe591ee1ad" class="">To Sleep Better, Do This</h2><figure id="5a319e67-e891-4575-bdb1-8dc90eb6fb8b" class="image"><a href="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/woman-sleeping-e1550010134769.jpg"><img style="width:700px" src="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/woman-sleeping-e1550010134769.jpg"/></a></figure><p id="89e6df3f-6a60-44e6-82a0-101c1d3762c8" class="">I won’t tell you to wake up early. You’ve probably heard that a million times and while there are many benefits to it, I know some of you would rather eat dirt than wake up at 5am.</p><p id="e1632c71-431f-4786-a2d9-e09fcc8eb6b5" class="">So I’ll share with you another powerful tip for getting better sleep. Research has shown that most people do not get enough sleep. Here’s a simple litmus test: are you afraid to take a nap because you’ll be sleeping instantly and not wake up for hours later?</p><p id="1ae325eb-cbfb-46a7-be1d-fcd226f296ca" class="">If that’s you, you’re definitely lacking sleep!</p><p id="6f97580a-125c-4180-8d54-0e1a5f34330c" class="">There are lots of things you can do to improve the quality of your sleep (which is just as important if not more important than how much sleep you get). Getting more sleep is relatively easy – just go to bed an hour earlier.</p><p id="29e5b015-dcff-4ba0-997e-9ac058c8c9df" class="">To improve the quality of your sleep, I recommend you <a href="https://www.asianefficiency.com/habits/7-p-highly-effective-evening-routine/">introduce an evening ritual in your life</a>. Think of it as a reverse morning routine. Instead of waking up and getting ready for the day, the evening ritual is the exact opposite. You’re now getting yourself ready for bed and to optimize the quality of your sleep.</p><p id="437bea96-4510-4927-9e3f-20b25cedc2e2" class="">We have a post on <a href="https://www.asianefficiency.com/habits/7-p-highly-effective-evening-routine/">how to build your own evening ritual</a> (something we cover in more detail in our <strong>Rituals</strong> course). To make it simple and actionable for you right now, something you can always expect from Asian Efficiency, I recommend you do this one thing: before you go to bed, grab a piece of paper or a journal and write down whatever comes to mind.</p><p id="46872852-0cd4-4c3c-8910-135f7f3f77c0" class="">That’s it.</p><p id="35a87f0e-5bdb-4c95-8819-85550f3814d4" class="">Just write down whatever comes to mind. It might be a call you have to make tomorrow, reminding yourself of an appointment coming up or any emotion you’re currently feeling. Just write it down and forget about it. The more open loops you can close, the better.</p><p id="4e297975-edef-4cad-938e-4a0f3ff0d67b" class="">The reason this is powerful is that it allows your brain to shut down when you go to sleep. It’s not worrying about closing open loops anymore or trying to force you to remember things for when you wake up. Have you ever gone to bed reminding yourself to call someone or to go to an appointment? When you do that, you stress yourself to remember something important which is the last thing you want to do before you go to sleep!</p><p id="5184943d-d46f-413b-b7c9-e5927735368c" class="">So stop doing that. Write down your stray thoughts and go to bed. It’s so simple yet powerful, you’ll be amazed how well you’ll sleep tonight. You can thank me tomorrow.</p><h2 id="30db64a6-2492-4fcf-9362-dce10e887d05" class="">The One Ritual To Save Energy</h2><figure id="a3008a7d-b536-4f59-90dd-2568c4db47ae" class="image"><a href="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/clean-kitchen-e1550010356480.jpg"><img style="width:700px" src="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/clean-kitchen-e1550010356480.jpg"/></a></figure><p id="673479f0-2330-4c59-9e28-441e16a273ce" class="">Rituals help you save energy and some even give you energy. I just shared with you how an evening ritual is great for improving the quality of your sleep (give energy) so let me share with you another ritual that will save you energy.</p><p id="4475c369-3c33-4a1d-932e-6214fd0ebb07" class="">This is what we call <a href="https://www.asianefficiency.com/habits/clearing-to-neutral/">Clearing to Neutral</a> (CTN). It’s the idea that whenever you finish a task, you clear everything away and prepare it for next time so your future self can get started right away.</p><p id="0c1ef176-26bf-4bfa-9c98-d00bbb55f8d5" class="">I learned this from chefs. Whenever they finish their shift, before they go home they clean their kitchen from top to bottom. When they come in tomorrow, there’s no pots, pans and dirty sinks that need to be cleaned. They can start prepping and cooking right away.</p><p id="e5f883b4-53a2-47c6-8e13-c96e25d289ad" class="">Imagine if the chefs didn’t clean their kitchen before they went home. Every time they come in they would have to clean and mop the floors before they can do their job. That’s not only robbing them of energy and excitement, it’s also a huge waste of time (if you ever washed your dishes a day or two later you know how dirty and sticky food rests can be).</p><p id="47974168-69d4-405a-a4ba-0153e59231bc" class="">The same idea applies to your work. Anytime you finish your task, reset everything so you make it easy for your future-self to get started. Whenever I finish writing a newsletter, I quit all the apps on my computer. When I finish my workday, I clean my desk so the next day I feel good about starting my workday.</p><p id="60c41dad-d76a-4020-835e-b86c3666216c" class=""><a href="https://www.asianefficiency.com/habits/real-world-examples-clear-neutral/">You can apply Clearing to Neutral everything you do</a>. Literally. When I finish brushing my teeth, I put my toothbrush in the exact same place. So start thinking about how you can Clear to Neutral what you do.</p><p id="3f24ea75-dfed-4a57-8bb7-e2c1a9bf2512" class="">If there’s a good place to start, it’s your desk. Before you go home today, clear your desk. Your future-self will thank you and you can thank me tomorrow (again).</p><h2 id="27a13afe-4864-4203-86ae-9c5c8e7438b4" class="">How to Get Motivated</h2><figure id="81ef284a-db1a-4775-bf1c-0c17d050b194" class="image"><a href="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/youg-girl-with-lollipop-e1550010778366.jpg"><img style="width:700px" src="%E6%8F%90%E9%AB%98%E8%83%BD%E9%87%8F%E5%92%8C%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%9A%843%E7%A7%8D%E4%BB%AA%E5%BC%8F%20d83f441cc9a847f1811737ce6efd817d/youg-girl-with-lollipop-e1550010778366.jpg"/></a></figure><p id="7c68aee2-1a84-4614-b1bc-51c49007b48b" class="">Ahhh, motivation. Something we all want yet we have it least when we need it the most.</p><p id="668c6c48-8c3a-4736-bb44-93ec7f0cb2f2" class="">When you think about motivation, at its core, it’s an emotional feeling that pushes you to accomplish something. I’ve been to many motivational seminars, I’ve listened to dozens of motivational audiobooks and I’ve probably watched hundreds of motivational videos on YouTube.</p><p id="66b06c7b-b9f8-497c-ac38-9992320037f3" class="">They are great and they serve its purpose: to feel motivated for a very short period of time. I love consuming them when I’m feeling low on it but I’ve also learned that it’s like trying to inject yourself with dopamine on command. Yes, it works but it’s not sustainable.</p><p id="06099f91-b21c-4596-860e-1102e18d7079" class="">What if you could feel motivated most of the time? Not all the time, most of the time.</p><p id="fe898b32-9657-4256-a18d-2f553669a20b" class="">After trying lots of things, there’s one strategy that I consistently see working for myself and for Asian Efficiency clients.</p><p id="f5c45bba-382d-4bef-a8a6-89c03277090b" class="">What I’ve struggled with and have seen other people struggle with is that you get bored of your goal after a while. Even though you might be making progress, the goal might look so far away that you lose motivation after a while.</p><p id="fd4f7851-fe09-44fc-a51f-4465b08b616d" class="">So the solution is quite simple: reward yourself for progress as you’re on your way achieving your goal.</p><p id="47b9d15a-5574-449f-a585-bddcef66c107" class="">The mistake most of us make is that we only reward ourselves when we accomplish our goals. What I’ve found work even better is to reward yourself throughout the process to keep yourself motivated.</p><p id="90ca9849-6fcb-44ab-ace2-e00ebe74f699" class="">When you set your goal, think about two or three milestones that would make you proud. Give yourself a small reward when you accomplish them. For example, one of my fitness goals was to go from 22% body fat to 12% body fat. Realistically, that would take me about a year to accomplish (if not longer).</p><p id="0dc62e73-01f3-4c18-9a14-5c2e630d6b48" class="">Do I really have the motivation to keep going for that long? No! I know I’m Mr. Asian Efficiency but even I am human. So I set rewards for myself along the way. At 20%, 17% and 15% I would reward myself. Luckily, I was smart enough to reward myself in ways that weren’t counterproductive. I used to think eating pasta or ice cream would be a nice reward but that would actually set me back. Same thing when you try to build up your savings account…buying something as a reward is counterproductive to the goal.</p><p id="e3f5518c-2c8a-41aa-8609-08fbdfd67dbd" class="">For me, the rewards were very simple. They don’t have to be big or expensive. When I hit 20% body fat, I took an extra half-day off at work. Once I hit 17% body fat, I rewarded myself with watching a movie at the theatre. At 15% is where I could see my abs and I upgraded my iPhone (something I postponed for 2+ years).</p><p id="0ea733bb-8ba4-429d-8081-a5e09a882d2c" class="">As you can see, the rewards had nothing to do with my actual fitness goal. These were things I’ve been wanting to do for a while but I needed something to motivate myself. Hence, they became milestone rewards. It almost feels like a 2-for-1 deal and I’m all for being efficient with that!</p><p id="6fa26bae-9918-414f-8c6a-03f66b10de72" class="">So look at your goal right now. What are two or three milestones you can set right now? How will you reward yourself for it when you accomplish them? Can you see how this will give you more energy to keep going?</p><h2 id="2c7d4841-9639-4c41-95f5-780065de5db1" class="">Action Steps</h2><p id="a6af10f0-2c6b-4fab-992b-96fe44030942" class="">Now that you understand how important your energy levels are for productivity, it’s now up to you to implement something today to improve your energy.</p><ol type="1" id="d4c758ff-fb02-4087-9078-da80755ba079" class="numbered-list" start="1"><li>Before you go to bed tonight, write down your stray thoughts.</li></ol><ol type="1" id="73c7f607-dec9-47eb-b7fb-192aa0e3efab" class="numbered-list" start="2"><li>Clear to Neutral your work desk before you go home.</li></ol><ol type="1" id="ddeddb79-31dc-4a94-88ba-d7ea35f514e6" class="numbered-list" start="3"><li>Set milestones for your goal and reward yourself.</li></ol><p id="9a5ac4e6-0ded-49e1-b310-73619045d29a" class="">Any of the three action steps will immediately help you. When you do all three, you’re definitely more Asian Efficient than most people and if you want more tips and strategies for becoming more productive, then I suggest you take our <a href="https://www.asianefficiency.com/quiz/">Productivity Quiz</a> right now. Within a few minutes, you’ll get a custom plan of apps, habits, and strategies that we recommend for you to become more productive.</p><h3 id="ba6fb4f4-97fb-41ed-97dc-b88c6f86e83a" class="">Invitation</h3><p id="225c78f0-441c-4c4a-a447-d49c30a0cc81" class="">Do you want to know how to set up your workplace and your computer to get more done? Are you interested to know how you can structure your ideal day and build routines? If you answered yes to both or even just one, then join our FREE TRAINING by <a href="https://asianefficiencygo.com/pah-webinar-registration/">clicking this link</a>. It is absolutely 100% free.</p></div></article></body></html>
