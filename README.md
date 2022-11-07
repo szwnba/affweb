@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
 - [Profit seasons with PropellerAds. Join the CONTEST!](https://afflift.com/f/threads/profit-seasons-with-propellerads-join-the-contest.9793/)
-- [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
-- [Asia is calling... Join us at Affiliate World Asia 2022!](https://afflift.com/f/threads/asia-is-calling-join-us-at-affiliate-world-asia-2022.9813/)
-- [Long Tail Pro Support](https://afflift.com/f/threads/long-tail-pro-support.9859/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+- [How to Run Campaign on Revcontent](https://afflift.com/f/threads/how-to-run-campaign-on-revcontent.9857/)
+- [Bob&#39;s Journey to Propellerads 💎Platinum#ProfitSeasonsPropellerAds](https://afflift.com/f/threads/bobs-journey-to-propellerads-%F0%9F%92%8Eplatinum-profitseasonspropellerads.9848/)
+- [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)
 <!-- BLOG-POST-LIST:END -->
