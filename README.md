@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
-- [How to Run Campaign on Revcontent](https://afflift.com/f/threads/how-to-run-campaign-on-revcontent.9857/)
+- [🔥Best 911 S5 Proxy Alternative - Pia S5 Proxy With Over 50 Million Residential IP Addresses](https://afflift.com/f/threads/%F0%9F%94%A5best-911-s5-proxy-alternative-pia-s5-proxy-with-over-50-million-residential-ip-addresses.9818/)
+- [BLACKFRIDAY &amp; CYBERMONDAY CASHBACK](https://afflift.com/f/threads/blackfriday-cybermonday-cashback.9858/)
 - [Affiliate Network For Antivirus/Cleaner Offers &lpar;Google Play Install&rpar;](https://afflift.com/f/threads/affiliate-network-for-antivirus-cleaner-offers-google-play-install.9856/)
-- [Propeller Ads With Pin Submit Offer 💀 &quot;#PA10k&quot;](https://afflift.com/f/threads/propeller-ads-with-pin-submit-offer-%F0%9F%92%80-pa10k.8917/)
-- [AI Image Generation](https://afflift.com/f/threads/ai-image-generation.8855/)
+- [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
+- [PPC traffic network for newbies  Help needed](https://afflift.com/f/threads/ppc-traffic-network-for-newbies-help-needed.9855/)
 <!-- BLOG-POST-LIST:END -->
