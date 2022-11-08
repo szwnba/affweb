@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Run Campaign on Revcontent](https://afflift.com/f/threads/how-to-run-campaign-on-revcontent.9857/)
+- [AI Image Generation](https://afflift.com/f/threads/ai-image-generation.8855/)
+- [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
 - [Multiple offers on CPA goal?](https://afflift.com/f/threads/multiple-offers-on-cpa-goal.9864/)
-- [Do Not Think Of Working with Propellerads Until You Read This. &lpar;MUST READ&rpar;](https://afflift.com/f/threads/do-not-think-of-working-with-propellerads-until-you-read-this-must-read.9841/)
-- [Niche Research](https://afflift.com/f/threads/niche-research.9863/)
-- [OliMob Review](https://afflift.com/f/threads/olimob-review.9862/)
-- [Trying to Setup Pop Guide Campaign Using Skro Tracking - Help!](https://afflift.com/f/threads/trying-to-setup-pop-guide-campaign-using-skro-tracking-help.9850/)
+- [FBKILLSWITCH.COM | Google/FB Agency Accounts | BMs, Personal Profiles, Pages](https://afflift.com/f/threads/fbkillswitch-com-google-fb-agency-accounts-bms-personal-profiles-pages.8818/)
 <!-- BLOG-POST-LIST:END -->
