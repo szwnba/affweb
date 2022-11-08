@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spooky Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/spooky-contest-vote-for-your-favorite-follow-along.9831/)
+- [Instagram Login Issue!](https://afflift.com/f/threads/instagram-login-issue.9866/)
+- [ADLEADPRO - the best solution for monetizing your traffic with in-House &amp; Exclusive mVAS and Sweepstakes offers!](https://afflift.com/f/threads/adleadpro-the-best-solution-for-monetizing-your-traffic-with-in-house-exclusive-mvas-and-sweepstakes-offers.7408/)
+- [Spooky $3k Contest - $1k for the BEST Follow Along](https://afflift.com/f/threads/spooky-3k-contest-1k-for-the-best-follow-along.9658/)
 - [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
-- [My &lpar;kinda sorta&rpar; First Follow along. Let&#39;s make my campaign GREEN For Black Friday!!!](https://afflift.com/f/threads/my-kinda-sorta-first-follow-along-lets-make-my-campaign-green-for-black-friday.9865/)
-- [Multiple offers on CPA goal?](https://afflift.com/f/threads/multiple-offers-on-cpa-goal.9864/)
-- [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 <!-- BLOG-POST-LIST:END -->
