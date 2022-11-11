@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
-- [My second FA #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/my-second-fa-profitseasonspropellerads.9882/)
-- [CPV Lab Pro - Track, Test and Optimize All of Your Marketing](https://afflift.com/f/threads/cpv-lab-pro-track-test-and-optimize-all-of-your-marketing.3912/)
-- [🔥Best 911 S5 Proxy Alternative - Pia S5 Proxy With Over 50 Million Residential IP Addresses](https://afflift.com/f/threads/%F0%9F%94%A5best-911-s5-proxy-alternative-pia-s5-proxy-with-over-50-million-residential-ip-addresses.9818/)
-- [AW Asia: Who&#39;s going? And who has extra passes?](https://afflift.com/f/threads/aw-asia-whos-going-and-who-has-extra-passes.9889/)
+- [Spooky Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/spooky-contest-vote-for-your-favorite-follow-along.9831/)
+- [Trying to Make This Campaign As Big as I Can](https://afflift.com/f/threads/trying-to-make-this-campaign-as-big-as-i-can.6832/)
+- [TikTok test that made it ✊🏼🔥 - ROI 30%](https://afflift.com/f/threads/tiktok-test-that-made-it-%E2%9C%8A%F0%9F%8F%BC%F0%9F%94%A5-roi-30.9751/)
+- [AIVIX - Financial offers with CPA up to $1200](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1200.8167/)
+- [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 <!-- BLOG-POST-LIST:END -->
