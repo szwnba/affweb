@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
-- [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
+- [Question about print on demand website](https://afflift.com/f/threads/question-about-print-on-demand-website.9902/)
+- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 - [Voluum - Black Friday Boosted Plans!](https://afflift.com/f/threads/voluum-black-friday-boosted-plans.9898/)
-- [How do you deal with the volatility of carrier billing offers?](https://afflift.com/f/threads/how-do-you-deal-with-the-volatility-of-carrier-billing-offers.9900/)
-- [Only For You: Exclusive Affiliate Offers at Indoleads](https://afflift.com/f/threads/only-for-you-exclusive-affiliate-offers-at-indoleads.9783/)
+- [The landers from my FA](https://afflift.com/f/threads/the-landers-from-my-fa.9186/)
+- [My second FA #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/my-second-fa-profitseasonspropellerads.9882/)
 <!-- BLOG-POST-LIST:END -->
