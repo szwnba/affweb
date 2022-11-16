@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Galaksion + ClickFlare + Monetizer](https://afflift.com/f/threads/galaksion-clickflare-monetizer.9906/)
-- [Verify Emails BEFORE They&#39;re Added To Your List](https://afflift.com/f/threads/verify-emails-before-theyre-added-to-your-list.8468/)
-- [Submit + Track Email Submissions with Javascript](https://afflift.com/f/threads/submit-track-email-submissions-with-javascript.8435/)
-- [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
+- [Almost $30k profit in 10 days.. From FREE Traffic 🚀](https://afflift.com/f/threads/almost-30k-profit-in-10-days-from-free-traffic-%F0%9F%9A%80.9922/)
+- [&lpar;3&rpar; BFCM 2022 Discounts you can not miss!](https://afflift.com/f/threads/3-bfcm-2022-discounts-you-can-not-miss.9933/)
 - [Binom Space Issue - Easier way to Expand/Backup](https://afflift.com/f/threads/binom-space-issue-easier-way-to-expand-backup.9905/)
+- [November PropellerAds Promo Codes](https://afflift.com/f/threads/november-propellerads-promo-codes.9920/)
+- [Galaksion + ClickFlare + Monetizer](https://afflift.com/f/threads/galaksion-clickflare-monetizer.9906/)
 <!-- BLOG-POST-LIST:END -->
