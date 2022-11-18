@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
-- [Meet Zeropark at Affiliate World Asia in Bangkok 🇹🇭](https://afflift.com/f/threads/meet-zeropark-at-affiliate-world-asia-in-bangkok-%F0%9F%87%B9%F0%9F%87%AD.9947/)
+- [In search for a sparing partner](https://afflift.com/f/threads/in-search-for-a-sparing-partner.9946/)
+- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+- [How to tracking propellerads on monetizer with direct link？](https://afflift.com/f/threads/how-to-tracking-propellerads-on-monetizer-with-direct-link%EF%BC%9F.9932/)
 - [November PropellerAds Promo Codes](https://afflift.com/f/threads/november-propellerads-promo-codes.9920/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
-- [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 <!-- BLOG-POST-LIST:END -->
