@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [Meet Zeropark at Affiliate World Asia in Bangkok 🇹🇭](https://afflift.com/f/threads/meet-zeropark-at-affiliate-world-asia-in-bangkok-%F0%9F%87%B9%F0%9F%87%AD.9947/)
+- [November PropellerAds Promo Codes](https://afflift.com/f/threads/november-propellerads-promo-codes.9920/)
+- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 - [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
-- [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
-- [In search for a sparing partner](https://afflift.com/f/threads/in-search-for-a-sparing-partner.9946/)
-- [How to find new streams of purchase-ready shoppers? Interview with Petr Misek from Zeropark [by MyLead]](https://afflift.com/f/threads/how-to-find-new-streams-of-purchase-ready-shoppers-interview-with-petr-misek-from-zeropark-by-mylead.9945/)
-- [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 <!-- BLOG-POST-LIST:END -->
