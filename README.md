@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
+- [RichAds: Premium push, pops, in-page, calendar, direct click, google uac traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-google-uac-traffic.991/)
+- [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 - [Hello Everyone!](https://afflift.com/f/threads/hello-everyone.9963/)
-- [Are you prepared for the Black Friday?](https://afflift.com/f/threads/are-you-prepared-for-the-black-friday.9938/)
-- [Let&#39;s try Push this time with PropellerAds #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/lets-try-push-this-time-with-propellerads-profitseasonspropellerads.9952/)
-- [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
+- [MaxWeb+ Voluum DSP Native Ads Follow Along](https://afflift.com/f/threads/maxweb-voluum-dsp-native-ads-follow-along.6696/)
+- [Going strong on november #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/going-strong-on-november-profitseasonspropellerads.9957/)
 <!-- BLOG-POST-LIST:END -->
