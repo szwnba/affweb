@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)
-- [Voluum &amp; Adcombo Tracking](https://afflift.com/f/threads/voluum-adcombo-tracking.9217/)
-- [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
-- [Black Friday 2022 and Affiliate Marketing: Insights and Trends](https://afflift.com/f/threads/black-friday-2022-and-affiliate-marketing-insights-and-trends.9964/)
 - [MaxWeb+ Voluum DSP Native Ads Follow Along](https://afflift.com/f/threads/maxweb-voluum-dsp-native-ads-follow-along.6696/)
+- [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [TraffCore is a Smartlink Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-smartlink-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
+- [Going strong on november #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/going-strong-on-november-profitseasonspropellerads.9957/)
 <!-- BLOG-POST-LIST:END -->
