@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RichAds: Premium push, pops, in-page, calendar, direct click, google uac traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-google-uac-traffic.991/)
-- [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
+- [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
 - [Hello Everyone!](https://afflift.com/f/threads/hello-everyone.9963/)
+- [November PropellerAds Promo Codes](https://afflift.com/f/threads/november-propellerads-promo-codes.9920/)
 - [MaxWeb+ Voluum DSP Native Ads Follow Along](https://afflift.com/f/threads/maxweb-voluum-dsp-native-ads-follow-along.6696/)
-- [Going strong on november #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/going-strong-on-november-profitseasonspropellerads.9957/)
+- [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)
 <!-- BLOG-POST-LIST:END -->
