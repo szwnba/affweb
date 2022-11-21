@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to find new streams of purchase-ready shoppers? Interview with Petr Misek from Zeropark [by MyLead]](https://afflift.com/f/threads/how-to-find-new-streams-of-purchase-ready-shoppers-interview-with-petr-misek-from-zeropark-by-mylead.9945/)
 - [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)
-- [Financial Offer On Propellerads](https://afflift.com/f/threads/financial-offer-on-propellerads.9774/)
-- [What To Do For Income When Everything Is Failing](https://afflift.com/f/threads/what-to-do-for-income-when-everything-is-failing.9955/)
-- [🔥Best 911 S5 Proxy Alternative - Pia S5 Proxy With Over 50 Million Residential IP Addresses](https://afflift.com/f/threads/%F0%9F%94%A5best-911-s5-proxy-alternative-pia-s5-proxy-with-over-50-million-residential-ip-addresses.9818/)
+- [Going strong on november #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/going-strong-on-november-profitseasonspropellerads.9957/)
 - [November PropellerAds Promo Codes](https://afflift.com/f/threads/november-propellerads-promo-codes.9920/)
+- [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
 <!-- BLOG-POST-LIST:END -->
