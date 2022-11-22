@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Forum support question](https://afflift.com/f/threads/forum-support-question.9965/)
-- [Let&#39;s try Push this time with PropellerAds #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/lets-try-push-this-time-with-propellerads-profitseasonspropellerads.9952/)
-- [November PropellerAds Promo Codes](https://afflift.com/f/threads/november-propellerads-promo-codes.9920/)
-- [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
-- [⏩ 200$/day Profit Propellerads + Golden Goose + Propush](https://afflift.com/f/threads/%E2%8F%A9-200-day-profit-propellerads-golden-goose-propush.9450/)
+- [Hello from Surrey, UK!](https://afflift.com/f/threads/hello-from-surrey-uk.9970/)
+- [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
+- [Voluum &amp; Adcombo Tracking](https://afflift.com/f/threads/voluum-adcombo-tracking.9217/)
+- [What To Do For Income When Everything Is Failing](https://afflift.com/f/threads/what-to-do-for-income-when-everything-is-failing.9955/)
+- [Hello Everyone!](https://afflift.com/f/threads/hello-everyone.9963/)
 <!-- BLOG-POST-LIST:END -->
