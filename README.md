@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
-- [Who will be at AWA Bangkok?](https://afflift.com/f/threads/who-will-be-at-awa-bangkok.9969/)
-- [Paid traffic and promoting SaaS?](https://afflift.com/f/threads/paid-traffic-and-promoting-saas.9968/)
-- [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
-- [ADLEADPRO - the best solution for monetizing your traffic with in-House &amp; Exclusive mVAS and Sweepstakes offers!](https://afflift.com/f/threads/adleadpro-the-best-solution-for-monetizing-your-traffic-with-in-house-exclusive-mvas-and-sweepstakes-offers.7408/)
+- [Forum support question](https://afflift.com/f/threads/forum-support-question.9965/)
+- [Let&#39;s try Push this time with PropellerAds #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/lets-try-push-this-time-with-propellerads-profitseasonspropellerads.9952/)
+- [November PropellerAds Promo Codes](https://afflift.com/f/threads/november-propellerads-promo-codes.9920/)
+- [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+- [⏩ 200$/day Profit Propellerads + Golden Goose + Propush](https://afflift.com/f/threads/%E2%8F%A9-200-day-profit-propellerads-golden-goose-propush.9450/)
 <!-- BLOG-POST-LIST:END -->
