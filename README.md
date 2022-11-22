@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AIVIX - Financial offers with CPA up to $1200](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1200.8167/)
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
-- [MaxWeb+ Voluum DSP Native Ads Follow Along](https://afflift.com/f/threads/maxweb-voluum-dsp-native-ads-follow-along.6696/)
-- [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
+- [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
+- [Who will be at AWA Bangkok?](https://afflift.com/f/threads/who-will-be-at-awa-bangkok.9969/)
 - [Paid traffic and promoting SaaS?](https://afflift.com/f/threads/paid-traffic-and-promoting-saas.9968/)
+- [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
+- [ADLEADPRO - the best solution for monetizing your traffic with in-House &amp; Exclusive mVAS and Sweepstakes offers!](https://afflift.com/f/threads/adleadpro-the-best-solution-for-monetizing-your-traffic-with-in-house-exclusive-mvas-and-sweepstakes-offers.7408/)
 <!-- BLOG-POST-LIST:END -->
