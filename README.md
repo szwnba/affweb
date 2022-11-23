@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
+- [Going strong on november #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/going-strong-on-november-profitseasonspropellerads.9957/)
+- [Journey to first $1-$5/Day CPA Campaign - Pops + MB / Zeydoo](https://afflift.com/f/threads/journey-to-first-1-5-day-cpa-campaign-pops-mb-zeydoo.9971/)
+- [Let&#39;s try Push this time with PropellerAds #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/lets-try-push-this-time-with-propellerads-profitseasonspropellerads.9952/)
 - [Configure the Golden Goose Traffic Back URL](https://afflift.com/f/threads/configure-the-golden-goose-traffic-back-url.7073/)
-- [🔥Best 911 S5 Proxy Alternative - Pia S5 Proxy With Over 50 Million Residential IP Addresses](https://afflift.com/f/threads/%F0%9F%94%A5best-911-s5-proxy-alternative-pia-s5-proxy-with-over-50-million-residential-ip-addresses.9818/)
-- [What is The Best Way to Setup a Campaign Using PPC](https://afflift.com/f/threads/what-is-the-best-way-to-setup-a-campaign-using-ppc.9953/)
-- [Southeast Asia with dr.cash. Vietnam. TOP 5 facts about GEO.](https://afflift.com/f/threads/southeast-asia-with-dr-cash-vietnam-top-5-facts-about-geo.9726/)
-- [Hello from Surrey, UK!](https://afflift.com/f/threads/hello-from-surrey-uk.9970/)
 <!-- BLOG-POST-LIST:END -->
