@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revsharing Betting Offers - WorldCup?](https://afflift.com/f/threads/revsharing-betting-offers-worldcup.9976/)
-- [🔥Best 911 S5 Proxy Alternative - Pia S5 Proxy With Over 50 Million Residential IP Addresses](https://afflift.com/f/threads/%F0%9F%94%A5best-911-s5-proxy-alternative-pia-s5-proxy-with-over-50-million-residential-ip-addresses.9818/)
-- [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
-- [What would your ideal tracker include?](https://afflift.com/f/threads/what-would-your-ideal-tracker-include.9928/)
-- [Let&#39;s try Push this time with PropellerAds #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/lets-try-push-this-time-with-propellerads-profitseasonspropellerads.9952/)
+- [Bona Fides: the first |Gaming affiliate network in the blockchain](https://afflift.com/f/threads/bona-fides-the-first-gaming-affiliate-network-in-the-blockchain.9978/)
+- [Hello Everyone](https://afflift.com/f/threads/hello-everyone.9974/)
+- [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+- [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
+- [Mgid and Adskeeper](https://afflift.com/f/threads/mgid-and-adskeeper.9977/)
 <!-- BLOG-POST-LIST:END -->
