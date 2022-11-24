@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What would your ideal tracker include?](https://afflift.com/f/threads/what-would-your-ideal-tracker-include.9928/)
+- [Voluum - Black Friday Boosted Plans!](https://afflift.com/f/threads/voluum-black-friday-boosted-plans.9898/)
+- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 - [Hello Everyone](https://afflift.com/f/threads/hello-everyone.9974/)
 - [Blog Post Affiliate Marketing - Been awhile](https://afflift.com/f/threads/blog-post-affiliate-marketing-been-awhile.9975/)
-- [⏩ 200$/day Profit Propellerads + Golden Goose + Propush](https://afflift.com/f/threads/%E2%8F%A9-200-day-profit-propellerads-golden-goose-propush.9450/)
-- [Do You Have a Messy Campaign?](https://afflift.com/f/threads/do-you-have-a-messy-campaign.9972/)
-- [AdFlex, The Most Intelligent Facebook Adspy Tool!](https://afflift.com/f/threads/adflex-the-most-intelligent-facebook-adspy-tool.9290/)
 <!-- BLOG-POST-LIST:END -->
