@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello World!](https://afflift.com/f/threads/hello-world.9985/)
-- [Skro - Black Friday Super Deals](https://afflift.com/f/threads/skro-black-friday-super-deals.9988/)
+- [Multiply your bonus on Black Friday!](https://afflift.com/f/threads/multiply-your-bonus-on-black-friday.9989/)
+- [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
+- [November PropellerAds Promo Codes](https://afflift.com/f/threads/november-propellerads-promo-codes.9920/)
 - [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [Pro-Push problems on pops traffic](https://afflift.com/f/threads/pro-push-problems-on-pops-traffic.9984/)
 <!-- BLOG-POST-LIST:END -->
