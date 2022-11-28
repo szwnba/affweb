@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Applying for Zeropark Traffic Source](https://afflift.com/f/threads/applying-for-zeropark-traffic-source.6892/)
-- [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
-- [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
-- [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
-- [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 GET 3 GB FOR FREE 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-get-3-gb-for-free-%F0%9F%9F%A3.9996/)
+- [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+- [Meet Zeropark at Affiliate World Asia in Bangkok 🇹🇭](https://afflift.com/f/threads/meet-zeropark-at-affiliate-world-asia-in-bangkok-%F0%9F%87%B9%F0%9F%87%AD.9947/)
+- [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
+- [November PropellerAds Promo Codes](https://afflift.com/f/threads/november-propellerads-promo-codes.9920/)
+- [Affiliate Marketing Awards 2022 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2022-peak-awards-by-afflift.9939/)
 <!-- BLOG-POST-LIST:END -->
