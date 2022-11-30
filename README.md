@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
-- [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
-- [MyBid Follow Along: First-Time with a Managed Account + Adult Smartlink](https://afflift.com/f/threads/mybid-follow-along-first-time-with-a-managed-account-adult-smartlink.9601/)
-- [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
-- [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
+- [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
+- [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
+- [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
+- [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
+- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 <!-- BLOG-POST-LIST:END -->
