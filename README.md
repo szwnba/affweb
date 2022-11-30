@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revcontent Convenience Fee](https://afflift.com/f/threads/revcontent-convenience-fee.10005/)
-- [Almost $30k profit in 10 days.. From FREE Traffic 🚀](https://afflift.com/f/threads/almost-30k-profit-in-10-days-from-free-traffic-%F0%9F%9A%80.9922/)
-- [Trying again after an absense](https://afflift.com/f/threads/trying-again-after-an-absense.9781/)
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
-- [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
+- [Hello Everyone!](https://afflift.com/f/threads/hello-everyone.9963/)
+- [Hello from Surrey, UK!](https://afflift.com/f/threads/hello-from-surrey-uk.9970/)
+- [Hello Everyone](https://afflift.com/f/threads/hello-everyone.9974/)
+- [Hello World!](https://afflift.com/f/threads/hello-world.9985/)
+- [Hello!](https://afflift.com/f/threads/hello.9995/)
 <!-- BLOG-POST-LIST:END -->
