@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+- [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
+- [MyBid Follow Along: First-Time with a Managed Account + Adult Smartlink](https://afflift.com/f/threads/mybid-follow-along-first-time-with-a-managed-account-adult-smartlink.9601/)
+- [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 - [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
-- [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
-- [Does domain name matter in Push notification traffic?](https://afflift.com/f/threads/does-domain-name-matter-in-push-notification-traffic.9998/)
-- [Creating and uploading blacklist from Voluum to Revcontent](https://afflift.com/f/threads/creating-and-uploading-blacklist-from-voluum-to-revcontent.10004/)
-- [RichAds: Premium push, pops, in-page, calendar, direct click, google uac traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-google-uac-traffic.991/)
 <!-- BLOG-POST-LIST:END -->
