@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
-- [ClickFlare Review](https://afflift.com/f/threads/clickflare-review.10010/)
-- [AIVIX - Financial offers with CPA up to $1200](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1200.8167/)
+- [ADLEADPRO - the best solution for monetizing your traffic with in-House &amp; Exclusive mVAS and Sweepstakes offers!](https://afflift.com/f/threads/adleadpro-the-best-solution-for-monetizing-your-traffic-with-in-house-exclusive-mvas-and-sweepstakes-offers.7408/)
+- [Royal Partners | iGaming affiliate network | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-network-in-house-offers-cpa-revshare-hybrid.10011/)
+- [Landing Page Design](https://afflift.com/f/threads/landing-page-design.9999/)
 - [Building a massive email list for my product and converting customers](https://afflift.com/f/threads/building-a-massive-email-list-for-my-product-and-converting-customers.8271/)
-- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+- [Say Hi! to us @Affiliate World Asia - Bangkok 2022 🇹🇭](https://afflift.com/f/threads/say-hi-to-us-affiliate-world-asia-bangkok-2022-%F0%9F%87%B9%F0%9F%87%AD.10003/)
 <!-- BLOG-POST-LIST:END -->
