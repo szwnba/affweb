@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/)
-- [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
-- [Affiliate Marketing Awards 2022 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2022-peak-awards-by-afflift.9939/)
-- [Get 65% ROI on Native Ads with a Dating Offer](https://afflift.com/f/threads/get-65-roi-on-native-ads-with-a-dating-offer.10015/)
-- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+- [Trying again after an absense](https://afflift.com/f/threads/trying-again-after-an-absense.9781/)
+- [Casino + CD/Gotzha + Propeller Ads - Follow Along](https://afflift.com/f/threads/casino-cd-gotzha-propeller-ads-follow-along.7301/)
+- [Do you have a favourite/lucky number?](https://afflift.com/f/threads/do-you-have-a-favourite-lucky-number.8668/)
+- [How much do you sleep? 💤](https://afflift.com/f/threads/how-much-do-you-sleep-%F0%9F%92%A4.6981/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 <!-- BLOG-POST-LIST:END -->
