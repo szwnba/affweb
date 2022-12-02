@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get 65% ROI on Native Ads with a Dating Offer](https://afflift.com/f/threads/get-65-roi-on-native-ads-with-a-dating-offer.10015/)
+- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+- [The Best Anti-fraud Tool for an Affiliate Network](https://afflift.com/f/threads/the-best-anti-fraud-tool-for-an-affiliate-network.10014/)
 - [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 - [Trying again after an absense](https://afflift.com/f/threads/trying-again-after-an-absense.9781/)
-- [Landing Page Design](https://afflift.com/f/threads/landing-page-design.9999/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
-- [Hello from Surrey, UK!](https://afflift.com/f/threads/hello-from-surrey-uk.9970/)
 <!-- BLOG-POST-LIST:END -->
