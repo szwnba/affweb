@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claim Your Name](https://afflift.com/f/threads/claim-your-name.8300/)
+- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+- [Trying again after an absense](https://afflift.com/f/threads/trying-again-after-an-absense.9781/)
+- [Landing Page Design](https://afflift.com/f/threads/landing-page-design.9999/)
+- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 - [Hello from Surrey, UK!](https://afflift.com/f/threads/hello-from-surrey-uk.9970/)
-- [Codex JavaScript Sandbox &lpar;OpenAI for coding&rpar;](https://afflift.com/f/threads/codex-javascript-sandbox-openai-for-coding.10013/)
-- [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
-- [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 <!-- BLOG-POST-LIST:END -->
