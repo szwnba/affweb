@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EPC ERA - next generation multi-vertical affiliate network](https://afflift.com/f/threads/epc-era-next-generation-multi-vertical-affiliate-network.9872/)
-- [AIVIX - Financial offers with CPA up to $1200](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1200.8167/)
-- [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
-- [$0 to $10,000 p/month - Theme Pages &lpar;Tiktok, Insta, Youtube, FB Reels&rpar; - Case Study / Follow Along!](https://afflift.com/f/threads/0-to-10-000-p-month-theme-pages-tiktok-insta-youtube-fb-reels-case-study-follow-along.9903/)
-- [Track and Rip Protected Landing pages, When spytools Fail to!!](https://afflift.com/f/threads/track-and-rip-protected-landing-pages-when-spytools-fail-to.10006/)
+- [Galaksion CPAGoal bidding method？](https://afflift.com/f/threads/galaksion-cpagoal-bidding-method%EF%BC%9F.10020/)
+- [December PropellerAds Promo Codes](https://afflift.com/f/threads/december-propellerads-promo-codes.10021/)
+- [Hello Afflifters!](https://afflift.com/f/threads/hello-afflifters.10017/)
+- [Help with tracking PropellerAds/Zeydoo across landing pages](https://afflift.com/f/threads/help-with-tracking-propellerads-zeydoo-across-landing-pages.10019/)
+- [ADHORNET - Affiliate Network - CPI/CPA offers. WW GEO, all verticals](https://afflift.com/f/threads/adhornet-affiliate-network-cpi-cpa-offers-ww-geo-all-verticals.9838/)
 <!-- BLOG-POST-LIST:END -->
