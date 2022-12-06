@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Ausaffiliate.com is scam or legit?](https://afflift.com/f/threads/ausaffiliate-com-is-scam-or-legit.10026/)
-- [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
-- [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
-- [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/)
-- [Track and Rip Protected Landing pages, When spytools Fail to!!](https://afflift.com/f/threads/track-and-rip-protected-landing-pages-when-spytools-fail-to.10006/)
+- [Help with tracking PropellerAds/Zeydoo across landing pages](https://afflift.com/f/threads/help-with-tracking-propellerads-zeydoo-across-landing-pages.10019/)
+- [Mirelia Networks says &quot;Hi!&quot; to Afflift community!](https://afflift.com/f/threads/mirelia-networks-says-hi-to-afflift-community.10025/)
+- [December PropellerAds Promo Codes](https://afflift.com/f/threads/december-propellerads-promo-codes.10021/)
+- [Galaksion CPA &quot;Successfully tested slices&quot;](https://afflift.com/f/threads/galaksion-cpa-successfully-tested-slices.10029/)
+- [How to run Crypto offers on Facebook | From A - Z](https://afflift.com/f/threads/how-to-run-crypto-offers-on-facebook-from-a-z.10018/)
 <!-- BLOG-POST-LIST:END -->
