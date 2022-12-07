@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Trying to Make This Campaign As Big as I Can](https://afflift.com/f/threads/trying-to-make-this-campaign-as-big-as-i-can.6832/)
+- [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
+- [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 - [Need help making adsempire&amp;imonetizeit with binom](https://afflift.com/f/threads/need-help-making-adsempire-imonetizeit-with-binom.10032/)
-- [🔥Best 911 S5 Proxy Alternative - Pia S5 Proxy With Over 50 Million Residential IP Addresses](https://afflift.com/f/threads/%F0%9F%94%A5best-911-s5-proxy-alternative-pia-s5-proxy-with-over-50-million-residential-ip-addresses.9818/)
-- [Need some advice to optimized my push campaign](https://afflift.com/f/threads/need-some-advice-to-optimized-my-push-campaign.9643/)
-- [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
+- [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
+- [How to run Crypto offers on Facebook | From A - Z](https://afflift.com/f/threads/how-to-run-crypto-offers-on-facebook-from-a-z.10018/)
 <!-- BLOG-POST-LIST:END -->
