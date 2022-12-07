@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Here is a campaign: 25% ROI + 66% bonus](https://afflift.com/f/threads/here-is-a-campaign-25-roi-66-bonus.9456/)
 - [Trying again after an absense](https://afflift.com/f/threads/trying-again-after-an-absense.9781/)
+- [AdStart Media - Performance Marketing Network &amp; Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-direct-advertiser.9494/)
+- [AdStart Media Review](https://afflift.com/f/threads/adstart-media-review.10036/)
 - [EPC ERA - next generation multi-vertical affiliate network](https://afflift.com/f/threads/epc-era-next-generation-multi-vertical-affiliate-network.9872/)
-- [Hope not to lose too much💲!My First Push Ads👿](https://afflift.com/f/threads/hope-not-to-lose-too-much%F0%9F%92%B2-my-first-push-ads%F0%9F%91%BF.9667/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
-- [AIVIX - Financial offers with CPA up to $1200](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1200.8167/)
 <!-- BLOG-POST-LIST:END -->
