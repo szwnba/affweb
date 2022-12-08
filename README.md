@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
-- [Youtube ads on Nutra offers](https://afflift.com/f/threads/youtube-ads-on-nutra-offers.10046/)
-- [The Best Anti-fraud Tool for an Affiliate Network](https://afflift.com/f/threads/the-best-anti-fraud-tool-for-an-affiliate-network.10014/)
-- [Galaksion CPA &quot;Successfully tested slices&quot;](https://afflift.com/f/threads/galaksion-cpa-successfully-tested-slices.10029/)
-- [How to Track ProPush Subscriptions in Your Tracker with Custom Conversions](https://afflift.com/f/threads/how-to-track-propush-subscriptions-in-your-tracker-with-custom-conversions.10045/)
+- [Direct Linking](https://afflift.com/f/threads/direct-linking.10047/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [ADLEADPRO - the best solution for monetizing your traffic with in-House &amp; Exclusive mVAS and Sweepstakes offers!](https://afflift.com/f/threads/adleadpro-the-best-solution-for-monetizing-your-traffic-with-in-house-exclusive-mvas-and-sweepstakes-offers.7408/)
+- [December PropellerAds Promo Codes](https://afflift.com/f/threads/december-propellerads-promo-codes.10021/)
+- [How to Run CPA Offers Using Google Ads](https://afflift.com/f/threads/how-to-run-cpa-offers-using-google-ads.10042/)
 <!-- BLOG-POST-LIST:END -->
