@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
-- [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
-- [Need help to find the source](https://afflift.com/f/threads/need-help-to-find-the-source.10044/)
-- [How to Track ProPush Subscriptions in Your Tracker with Custom Conversions](https://afflift.com/f/threads/how-to-track-propush-subscriptions-in-your-tracker-with-custom-conversions.10045/)
-- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+- [Here is a campaign: 25% ROI + 66% bonus](https://afflift.com/f/threads/here-is-a-campaign-25-roi-66-bonus.9456/)
+- [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
+- [Push prompt on CTA click + pop offer in new window?](https://afflift.com/f/threads/push-prompt-on-cta-click-pop-offer-in-new-window.10038/)
+- [Affiliate Marketing Awards 2022 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2022-peak-awards-by-afflift.9939/)
+- [TraffCore is a Smartlink Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-smartlink-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 <!-- BLOG-POST-LIST:END -->
