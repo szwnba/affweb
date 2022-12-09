@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Codex JavaScript Sandbox &lpar;OpenAI for coding&rpar;](https://afflift.com/f/threads/codex-javascript-sandbox-openai-for-coding.10013/)
-- [EPC ERA - next generation multi-vertical affiliate network](https://afflift.com/f/threads/epc-era-next-generation-multi-vertical-affiliate-network.9872/)
-- [Ucliq - #1 Affiliate marketing platform to launch a partner network in 1 day](https://afflift.com/f/threads/ucliq-1-affiliate-marketing-platform-to-launch-a-partner-network-in-1-day.10052/)
-- [What is cost updates and how you can use it in RedTrack.](https://afflift.com/f/threads/what-is-cost-updates-and-how-you-can-use-it-in-redtrack.10051/)
-- [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+- [How to track Exoclick CPM campaigns in Voluum?](https://afflift.com/f/threads/how-to-track-exoclick-cpm-campaigns-in-voluum.10049/)
+- [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
+- [The Millionaire&#39;s Handbook for Affiliate Marketing](https://afflift.com/f/threads/the-millionaires-handbook-for-affiliate-marketing.10048/)
+- [Bona Fides: the first |Gaming affiliate network in the blockchain](https://afflift.com/f/threads/bona-fides-the-first-gaming-affiliate-network-in-the-blockchain.9978/)
+- [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 <!-- BLOG-POST-LIST:END -->
