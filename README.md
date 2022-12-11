@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
+- [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
+- [Newbie to Push Ads](https://afflift.com/f/threads/newbie-to-push-ads.9950/)
+- [How to Track ProPush Subscriptions in Your Tracker with Custom Conversions](https://afflift.com/f/threads/how-to-track-propush-subscriptions-in-your-tracker-with-custom-conversions.10045/)
 - [Direct Linking](https://afflift.com/f/threads/direct-linking.10047/)
-- [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
-- [Smartbid in Taboola](https://afflift.com/f/threads/smartbid-in-taboola.10058/)
-- [Bona Fides: the first |Gaming affiliate network in the blockchain](https://afflift.com/f/threads/bona-fides-the-first-gaming-affiliate-network-in-the-blockchain.9978/)
-- [Here is a campaign: 25% ROI + 66% bonus](https://afflift.com/f/threads/here-is-a-campaign-25-roi-66-bonus.9456/)
 <!-- BLOG-POST-LIST:END -->
