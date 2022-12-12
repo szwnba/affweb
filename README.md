@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Journey to $5/Day in Profit - Carrier Billing/mVas/Sweeps + Pops + Golden Goose/Zeydoo](https://afflift.com/f/threads/journey-to-5-day-in-profit-carrier-billing-mvas-sweeps-pops-golden-goose-zeydoo.9971/)
+- [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/)
 - [Revcontent daily budget can&#39;t be spent](https://afflift.com/f/threads/revcontent-daily-budget-cant-be-spent.10060/)
-- [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
-- [Connect Local US Businesses With Major Post-Pandemic Revenues!!!](https://afflift.com/f/threads/connect-local-us-businesses-with-major-post-pandemic-revenues.9924/)
-- [Affiliate Marketing Training... For The Rest Of Us](https://afflift.com/f/threads/affiliate-marketing-training-for-the-rest-of-us.10059/)
+- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+- [High Ticket Affiliate Program For Biz Consultants, Marketers, Agencies, And Networkers &lpar;$1,000+ Per Referral, No Upfront Cost To Clients, Exclusive&rpar;](https://afflift.com/f/threads/high-ticket-affiliate-program-for-biz-consultants-marketers-agencies-and-networkers-1-000-per-referral-no-upfront-cost-to-clients-exclusive.10055/)
+- [Journey to $5/Day in Profit - Carrier Billing/mVas/Sweeps + Pops + Golden Goose/Zeydoo](https://afflift.com/f/threads/journey-to-5-day-in-profit-carrier-billing-mvas-sweeps-pops-golden-goose-zeydoo.9971/)
 <!-- BLOG-POST-LIST:END -->
