@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Affiliate Marketing Awards 2022 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2022-peak-awards-by-afflift.9939/)
-- [PropellerAds Evolution: New Website and Advertising Opportunities](https://afflift.com/f/threads/propellerads-evolution-new-website-and-advertising-opportunities.10062/)
-- [Need help regain access to my old propellerads advertiser account](https://afflift.com/f/threads/need-help-regain-access-to-my-old-propellerads-advertiser-account.10033/)
-- [The very first competition for affiliates of all levels!](https://afflift.com/f/threads/the-very-first-competition-for-affiliates-of-all-levels.10007/)
-- [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [Revcontent daily budget can&#39;t be spent](https://afflift.com/f/threads/revcontent-daily-budget-cant-be-spent.10060/)
+- [Solo Ads - yes or no?](https://afflift.com/f/threads/solo-ads-yes-or-no.10056/)
+- [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/)
+- [Journey to $5/Day in Profit - Carrier Billing/mVas/Sweeps + Pops + Golden Goose/Zeydoo](https://afflift.com/f/threads/journey-to-5-day-in-profit-carrier-billing-mvas-sweeps-pops-golden-goose-zeydoo.9971/)
 <!-- BLOG-POST-LIST:END -->
