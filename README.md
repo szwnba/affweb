@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Applying for Affiliate Networks](https://afflift.com/f/threads/applying-for-affiliate-networks.6890/)
-- [Journey to $5/Day in Profit - Carrier Billing/mVas/Sweeps + Pops + Golden Goose/Zeydoo](https://afflift.com/f/threads/journey-to-5-day-in-profit-carrier-billing-mvas-sweeps-pops-golden-goose-zeydoo.9971/)
+- [Here is a campaign: 25% ROI + 66% bonus](https://afflift.com/f/threads/here-is-a-campaign-25-roi-66-bonus.9456/)
 - [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/)
-- [Please suggest some pops platforms to work with.](https://afflift.com/f/threads/please-suggest-some-pops-platforms-to-work-with.10064/)
-- [Connect Local US Businesses With Major Post-Pandemic Revenues!!!](https://afflift.com/f/threads/connect-local-us-businesses-with-major-post-pandemic-revenues.9924/)
+- [Trying again after an absense](https://afflift.com/f/threads/trying-again-after-an-absense.9781/)
+- [Hello Afflifters!](https://afflift.com/f/threads/hello-afflifters.10017/)
+- [Suggestions for incoming email server](https://afflift.com/f/threads/suggestions-for-incoming-email-server.10065/)
 <!-- BLOG-POST-LIST:END -->
