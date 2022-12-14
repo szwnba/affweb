@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Nutra WEBINAR with MaxWeb: Discussing the USA Geo](https://afflift.com/f/threads/nutra-webinar-with-maxweb-discussing-the-usa-geo.10070/)
+- [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
+- [📝 Free Notebook from affLIFT](https://afflift.com/f/threads/%F0%9F%93%9D-free-notebook-from-afflift.10054/)
+- [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
 - [Hi everyone!](https://afflift.com/f/threads/hi-everyone.10071/)
-- [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
-- [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
-- [In-Page Push Traffic from Propellerads](https://afflift.com/f/threads/in-page-push-traffic-from-propellerads.3175/)
+- [Nutra WEBINAR with MaxWeb: Discussing the USA Geo](https://afflift.com/f/threads/nutra-webinar-with-maxweb-discussing-the-usa-geo.10070/)
 <!-- BLOG-POST-LIST:END -->
