@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
-- [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
-- [Hi everyone!](https://afflift.com/f/threads/hi-everyone.10071/)
-- [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
-- [Distacart Affiliate Program &lpar;Earn 20% Commission&rpar;](https://afflift.com/f/threads/distacart-affiliate-program-earn-20-commission.10050/)
+- [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
+- [In-Page Push Traffic from Propellerads](https://afflift.com/f/threads/in-page-push-traffic-from-propellerads.3175/)
+- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 <!-- BLOG-POST-LIST:END -->
