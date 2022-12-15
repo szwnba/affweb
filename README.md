@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
-- [How to Run CPA Offers Using TikTok Ads](https://afflift.com/f/threads/how-to-run-cpa-offers-using-tiktok-ads.10057/)
-- [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
-- [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
-- [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+- [How do you deal with so many traffic sources?](https://afflift.com/f/threads/how-do-you-deal-with-so-many-traffic-sources.9925/)
+- [iGB Affiliate London 2023](https://afflift.com/f/threads/igb-affiliate-london-2023.10075/)
+- [Lucky.Online - CPA affiliate network. Get LUCKY with us!](https://afflift.com/f/threads/lucky-online-cpa-affiliate-network-get-lucky-with-us.2316/)
+- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 <!-- BLOG-POST-LIST:END -->
