@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [EPC ERA - next generation multi-vertical affiliate network](https://afflift.com/f/threads/epc-era-next-generation-multi-vertical-affiliate-network.9872/)
 - [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
-- [Help with optimization](https://afflift.com/f/threads/help-with-optimization.10095/)
-- [Hello everyone :&rpar;](https://afflift.com/f/threads/hello-everyone.10097/)
-- [Get Super Hot Christmas Bonuses](https://afflift.com/f/threads/get-super-hot-christmas-bonuses.10099/)
+- [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)
+- [iGB Affiliate London 2023](https://afflift.com/f/threads/igb-affiliate-london-2023.10075/)
+- [New GEOs for low price offers!🤑](https://afflift.com/f/threads/new-geos-for-low-price-offers-%F0%9F%A4%91.10100/)
+- [PropellerAds Evolution: New Website and Advertising Opportunities](https://afflift.com/f/threads/propellerads-evolution-new-website-and-advertising-opportunities.10062/)
 <!-- BLOG-POST-LIST:END -->
