@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Generating Low CPAs on Galaksion Pops](https://afflift.com/f/threads/generating-low-cpas-on-galaksion-pops.10105/)
-- [Journey to $5/Day in Profit - Carrier Billing/mVas/Sweeps + Pops + Golden Goose/Zeydoo](https://afflift.com/f/threads/journey-to-5-day-in-profit-carrier-billing-mvas-sweeps-pops-golden-goose-zeydoo.9971/)
+- [Do I need to pause ad over Christmas?](https://afflift.com/f/threads/do-i-need-to-pause-ad-over-christmas.10106/)
 - [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
-- [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
+- [Journey to $5/Day in Profit - Carrier Billing/mVas/Sweeps + Pops + Golden Goose/Zeydoo](https://afflift.com/f/threads/journey-to-5-day-in-profit-carrier-billing-mvas-sweeps-pops-golden-goose-zeydoo.9971/)
+- [Beginner-friendly whitelists [GEOs, bids, sources, volumes] for low payout offers 📈💰](https://afflift.com/f/threads/beginner-friendly-whitelists-geos-bids-sources-volumes-for-low-payout-offers-%F0%9F%93%88%F0%9F%92%B0.8907/)
+- [Nutra WEBINAR with MaxWeb: Discussing the USA Geo](https://afflift.com/f/threads/nutra-webinar-with-maxweb-discussing-the-usa-geo.10070/)
 <!-- BLOG-POST-LIST:END -->
