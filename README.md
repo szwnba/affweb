@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
-- [TacoLoco - BackUnder Test](https://afflift.com/f/threads/tacoloco-backunder-test.10080/)
-- [Nutra WEBINAR with MaxWeb: Discussing the USA Geo](https://afflift.com/f/threads/nutra-webinar-with-maxweb-discussing-the-usa-geo.10070/)
 - [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
-- [[Help]Conversion not tracking](https://afflift.com/f/threads/help-conversion-not-tracking.9578/)
+- [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
+- [I&#39;m Back! 🙃](https://afflift.com/f/threads/im-back-%F0%9F%99%83.10108/)
+- [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
+- [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
 <!-- BLOG-POST-LIST:END -->
