@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 - [stripe payment hold](https://afflift.com/f/threads/stripe-payment-hold.10120/)
+- [EPC ERA - next generation multi-vertical affiliate network](https://afflift.com/f/threads/epc-era-next-generation-multi-vertical-affiliate-network.9872/)
+- [Make $935 on Sweepstakes this Christmas! [Case study]](https://afflift.com/f/threads/make-935-on-sweepstakes-this-christmas-case-study.10121/)
 - [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
-- [Journey to $5/Day in Profit - Carrier Billing/mVas/Sweeps + Pops + Golden Goose/Zeydoo](https://afflift.com/f/threads/journey-to-5-day-in-profit-carrier-billing-mvas-sweeps-pops-golden-goose-zeydoo.9971/)
+- [AIVIX - Financial offers with CPA up to $1200](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1200.8167/)
 <!-- BLOG-POST-LIST:END -->
