@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
+- [Special Promo Codes from PropellerAds!](https://afflift.com/f/threads/special-promo-codes-from-propellerads.10122/)
+- [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
 - [stripe payment hold](https://afflift.com/f/threads/stripe-payment-hold.10120/)
-- [EPC ERA - next generation multi-vertical affiliate network](https://afflift.com/f/threads/epc-era-next-generation-multi-vertical-affiliate-network.9872/)
-- [Make $935 on Sweepstakes this Christmas! [Case study]](https://afflift.com/f/threads/make-935-on-sweepstakes-this-christmas-case-study.10121/)
-- [AIVIX - Financial offers with CPA up to $1200](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1200.8167/)
+- [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
+- [Royal Partners | iGaming affiliate network | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-network-in-house-offers-cpa-revshare-hybrid.10011/)
 <!-- BLOG-POST-LIST:END -->
