@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
-- [Tips for Creating a White Page for Black Hat Offers](https://afflift.com/f/threads/tips-for-creating-a-white-page-for-black-hat-offers.10140/)
-- [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
-- [Passing back conversions to Revcontent](https://afflift.com/f/threads/passing-back-conversions-to-revcontent.9549/)
-- [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
+- [Issues with Google Safebrowsing](https://afflift.com/f/threads/issues-with-google-safebrowsing.10136/)
+- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+- [AIVIX - Financial offers with CPA up to $1300](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1300.8167/)
+- [Question about how to host a &quot;landing page&quot; of cod offers](https://afflift.com/f/threads/question-about-how-to-host-a-landing-page-of-cod-offers.10139/)
+- [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 <!-- BLOG-POST-LIST:END -->
