@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
-- [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
-- [Generating Low CPAs on Galaksion Pops](https://afflift.com/f/threads/generating-low-cpas-on-galaksion-pops.10105/)
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
+- [Issues with Google Safebrowsing](https://afflift.com/f/threads/issues-with-google-safebrowsing.10136/)
+- [CPA Goal Push with RichAds](https://afflift.com/f/threads/cpa-goal-push-with-richads.10142/)
+- [Totally new](https://afflift.com/f/threads/totally-new.10138/)
+- [Question about how to host a &quot;landing page&quot; of cod offers](https://afflift.com/f/threads/question-about-how-to-host-a-landing-page-of-cod-offers.10139/)
+- [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 <!-- BLOG-POST-LIST:END -->
