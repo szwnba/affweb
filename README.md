@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iGB Affiliate London 2023](https://afflift.com/f/threads/igb-affiliate-london-2023.10075/)
+- [Hello from Australia! Let&#39;s do this!](https://afflift.com/f/threads/hello-from-australia-lets-do-this.10167/)
+- [New Community Leader: dood](https://afflift.com/f/threads/new-community-leader-dood.10163/)
 - [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
-- [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
-- [URLscan.io , Can I Use It As a Spytool?](https://afflift.com/f/threads/urlscan-io-can-i-use-it-as-a-spytool.10144/)
-- [Build an SSP Local Ad Network](https://afflift.com/f/threads/build-an-ssp-local-ad-network.10166/)
-- [EPC ERA - next generation multi-vertical affiliate network](https://afflift.com/f/threads/epc-era-next-generation-multi-vertical-affiliate-network.9872/)
+- [TacoLoco - BackUnder Test](https://afflift.com/f/threads/tacoloco-backunder-test.10080/)
 <!-- BLOG-POST-LIST:END -->
