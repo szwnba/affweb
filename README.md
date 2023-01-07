@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
-- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
-- [New Year&#39;s journey from newbies.](https://afflift.com/f/threads/new-years-journey-from-newbies.10193/)
+- [Hello, everyone, I&#39;m a freshman,and I&#39;ve had some difficulties,could you help me?](https://afflift.com/f/threads/hello-everyone-im-a-freshman-and-ive-had-some-difficulties-could-you-help-me.9790/)
+- [January PropellerAds Promo Codes](https://afflift.com/f/threads/january-propellerads-promo-codes.10169/)
+- [How to find out what is on Monetizer offer?](https://afflift.com/f/threads/how-to-find-out-what-is-on-monetizer-offer.10187/)
 - [2023 mVas Campaign - Learn More Together](https://afflift.com/f/threads/2023-mvas-campaign-learn-more-together.10194/)
-- [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
+- [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
 <!-- BLOG-POST-LIST:END -->
