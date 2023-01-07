@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [New Year&#39;s journey from newbies.](https://afflift.com/f/threads/new-years-journey-from-newbies.10193/)
+- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+- [2023 mVas Campaign - Learn More Together](https://afflift.com/f/threads/2023-mvas-campaign-learn-more-together.10194/)
+- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 - [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
-- [🐰 Pull a Rabbit out of a hat！ New Year Contest](https://afflift.com/f/threads/%F0%9F%90%B0-pull-a-rabbit-out-of-a-hat%EF%BC%81-new-year-contest.10192/)
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [propeller ads for victorious ads](https://afflift.com/f/threads/propeller-ads-for-victorious-ads.10191/)
 <!-- BLOG-POST-LIST:END -->
