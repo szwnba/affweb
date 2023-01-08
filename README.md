@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
-- [Itsjay24&#39;s Propeller Ads Journey To Pop Mastery](https://afflift.com/f/threads/itsjay24s-propeller-ads-journey-to-pop-mastery.10146/)
-- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
-- [New awesome affLIFT swag t-shirt](https://afflift.com/f/threads/new-awesome-afflift-swag-t-shirt.10190/)
-- [New Year - New Start - Time to Fly](https://afflift.com/f/threads/new-year-new-start-time-to-fly.10184/)
+- [New Year Contest! 🎊 - {MGID + Adcombo} - 1st Native Campaign](https://afflift.com/f/threads/new-year-contest-%F0%9F%8E%8A-mgid-adcombo-1st-native-campaign.10195/)
+- [2023 - LET&#39;S GO RICH](https://afflift.com/f/threads/2023-lets-go-rich.10186/)
+- [2023 mVas Campaign - Learn More Together](https://afflift.com/f/threads/2023-mvas-campaign-learn-more-together.10194/)
+- [🐰 Pull a Rabbit out of a hat！ New Year Contest](https://afflift.com/f/threads/%F0%9F%90%B0-pull-a-rabbit-out-of-a-hat%EF%BC%81-new-year-contest.10192/)
+- [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
 <!-- BLOG-POST-LIST:END -->
