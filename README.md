@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
-- [New Year Contest! 🎊 - {MGID + Adcombo} - 1st Native Campaign](https://afflift.com/f/threads/new-year-contest-%F0%9F%8E%8A-mgid-adcombo-1st-native-campaign.10195/)
+- [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
 - [📝 Free Notebook from affLIFT](https://afflift.com/f/threads/%F0%9F%93%9D-free-notebook-from-afflift.10054/)
-- [mVas Dating Campaign](https://afflift.com/f/threads/mvas-dating-campaign.10199/)
+- [New Year&#39;s journey from newbies.](https://afflift.com/f/threads/new-years-journey-from-newbies.10193/)
 - [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+- [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
 <!-- BLOG-POST-LIST:END -->
