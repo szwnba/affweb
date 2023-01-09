@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
-- [Direct Linking](https://afflift.com/f/threads/direct-linking.10047/)
+- [📝 Free Notebook from affLIFT](https://afflift.com/f/threads/%F0%9F%93%9D-free-notebook-from-afflift.10054/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
 - [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
-- [Need Help with Big Click Loss in Zeydoo](https://afflift.com/f/threads/need-help-with-big-click-loss-in-zeydoo.10168/)
-- [2023 mVas Campaign - Learn More Together](https://afflift.com/f/threads/2023-mvas-campaign-learn-more-together.10194/)
+- [Offers for Europe with great opportunities for growth rates! 🤩](https://afflift.com/f/threads/offers-for-europe-with-great-opportunities-for-growth-rates-%F0%9F%A4%A9.10200/)
 <!-- BLOG-POST-LIST:END -->
