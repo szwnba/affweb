@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Passing back conversions to Revcontent](https://afflift.com/f/threads/passing-back-conversions-to-revcontent.9549/)
+- [How to use Binom to build your own database for future monetization while promoting affiliate offers.](https://afflift.com/f/threads/how-to-use-binom-to-build-your-own-database-for-future-monetization-while-promoting-affiliate-offers.10145/)
+- [mVas Dating Campaign](https://afflift.com/f/threads/mvas-dating-campaign.10199/)
+- [AIVIX - Financial offers with CPA up to $1300](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1300.8167/)
 - [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
-- [📝 Free Notebook from affLIFT](https://afflift.com/f/threads/%F0%9F%93%9D-free-notebook-from-afflift.10054/)
-- [New Year&#39;s journey from newbies.](https://afflift.com/f/threads/new-years-journey-from-newbies.10193/)
-- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
-- [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
 <!-- BLOG-POST-LIST:END -->
