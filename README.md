@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fb and IG ads creative testing](https://afflift.com/f/threads/fb-and-ig-ads-creative-testing.10209/)
+- [New Year - New Start - Time to Fly](https://afflift.com/f/threads/new-year-new-start-time-to-fly.10184/)
+- [AddSMM.com | Properly Working Practical | Start from 0.0007 per 1000 | Followers, Views, Likes, Comments, and more.](https://afflift.com/f/threads/addsmm-com-properly-working-practical-start-from-0-0007-per-1000-followers-views-likes-comments-and-more.10206/)
+- [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
 - [Anti-Virus PPS Offers + RollerAds](https://afflift.com/f/threads/anti-virus-pps-offers-rollerads.10213/)
-- [What To Do For Income When Everything Is Failing](https://afflift.com/f/threads/what-to-do-for-income-when-everything-is-failing.9955/)
-- [Me vs. CPA Algorithms - $2023 New Year Contest](https://afflift.com/f/threads/me-vs-cpa-algorithms-2023-new-year-contest.10210/)
-- [reseller traffic networks](https://afflift.com/f/threads/reseller-traffic-networks.10098/)
+- [AdStart Media - Performance Marketing Network &amp; Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-direct-advertiser.9494/)
 <!-- BLOG-POST-LIST:END -->
