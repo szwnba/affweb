@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
-- [Me vs. CPA Algorithms - $2023 New Year Contest](https://afflift.com/f/threads/me-vs-cpa-algorithms-2023-new-year-contest.10210/)
+- [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
+- [Is $30k/month profit possible with push ads?](https://afflift.com/f/threads/is-30k-month-profit-possible-with-push-ads.10212/)
 - [Anti-Virus PPS Offers + RollerAds](https://afflift.com/f/threads/anti-virus-pps-offers-rollerads.10213/)
-- [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
-- [EPC ERA - next generation multi-vertical affiliate network](https://afflift.com/f/threads/epc-era-next-generation-multi-vertical-affiliate-network.9872/)
+- [Zeydoo: get +7% to your payout with our newest deal in 2023](https://afflift.com/f/threads/zeydoo-get-7-to-your-payout-with-our-newest-deal-in-2023.10214/)
+- [The BEST keyword to target &lpar;when you are allowed to&rpar;](https://afflift.com/f/threads/the-best-keyword-to-target-when-you-are-allowed-to.977/)
 <!-- BLOG-POST-LIST:END -->
