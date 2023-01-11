@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fb and IG ads creative testing](https://afflift.com/f/threads/fb-and-ig-ads-creative-testing.10209/)
 - [Anti-Virus PPS Offers + RollerAds](https://afflift.com/f/threads/anti-virus-pps-offers-rollerads.10213/)
+- [What To Do For Income When Everything Is Failing](https://afflift.com/f/threads/what-to-do-for-income-when-everything-is-failing.9955/)
+- [Me vs. CPA Algorithms - $2023 New Year Contest](https://afflift.com/f/threads/me-vs-cpa-algorithms-2023-new-year-contest.10210/)
 - [reseller traffic networks](https://afflift.com/f/threads/reseller-traffic-networks.10098/)
-- [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
-- [New Year - New Start - Time to Fly](https://afflift.com/f/threads/new-year-new-start-time-to-fly.10184/)
-- [Is $30k/month profit possible with push ads?](https://afflift.com/f/threads/is-30k-month-profit-possible-with-push-ads.10212/)
 <!-- BLOG-POST-LIST:END -->
