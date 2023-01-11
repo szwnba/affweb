@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anti-Virus PPS Offers + RollerAds](https://afflift.com/f/threads/anti-virus-pps-offers-rollerads.10213/)
+- [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
+- [New Year - New Start - Time to Fly](https://afflift.com/f/threads/new-year-new-start-time-to-fly.10184/)
 - [Golden Goose office is awesome...](https://afflift.com/f/threads/golden-goose-office-is-awesome.10216/)
-- [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
-- [Going strong on november #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/going-strong-on-november-profitseasonspropellerads.9957/)
-- [Is $30k/month profit possible with push ads?](https://afflift.com/f/threads/is-30k-month-profit-possible-with-push-ads.10212/)
 - [2023 PopAds + Monetizer](https://afflift.com/f/threads/2023-popads-monetizer.10185/)
 <!-- BLOG-POST-LIST:END -->
