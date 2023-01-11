@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Golden Goose office is awesome...](https://afflift.com/f/threads/golden-goose-office-is-awesome.10216/)
-- [What To Do For Income When Everything Is Failing](https://afflift.com/f/threads/what-to-do-for-income-when-everything-is-failing.9955/)
-- [Going strong on november #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/going-strong-on-november-profitseasonspropellerads.9957/)
-- [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
-- [mVas Dating Campaign](https://afflift.com/f/threads/mvas-dating-campaign.10199/)
+- [Southeast Asia with dr.cash. Vietnam. TOP 5 facts about GEO.](https://afflift.com/f/threads/southeast-asia-with-dr-cash-vietnam-top-5-facts-about-geo.9726/)
+- [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [2023 PopAds + Monetizer](https://afflift.com/f/threads/2023-popads-monetizer.10185/)
+- [Is $30k/month profit possible with push ads?](https://afflift.com/f/threads/is-30k-month-profit-possible-with-push-ads.10212/)
 <!-- BLOG-POST-LIST:END -->
