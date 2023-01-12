@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
+- [ApproachX Dating + PropellerAds](https://afflift.com/f/threads/approachx-dating-propellerads.10218/)
+- [first ever follow along&lpar;Mvas offer with propellerads popunder&rpar;](https://afflift.com/f/threads/first-ever-follow-along-mvas-offer-with-propellerads-popunder.10205/)
 - [Step 3 - Setup PropellerAds in BeMob](https://afflift.com/f/threads/step-3-setup-propellerads-in-bemob.7474/)
-- [Isaac From VipAds Network says Hi](https://afflift.com/f/threads/isaac-from-vipads-network-says-hi.10220/)
-- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
-- [PropellerAds + Dating](https://afflift.com/f/threads/propellerads-dating.10188/)
+- [Why can&#39;t you make it work for you in affiliate marketing?](https://afflift.com/f/threads/why-cant-you-make-it-work-for-you-in-affiliate-marketing.9927/)
+- [New Year - New Start - Time to Fly](https://afflift.com/f/threads/new-year-new-start-time-to-fly.10184/)
 <!-- BLOG-POST-LIST:END -->
