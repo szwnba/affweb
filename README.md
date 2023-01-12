@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MGID- Keto product follow-along in Germany - Spooky Contest](https://afflift.com/f/threads/mgid-keto-product-follow-along-in-germany-spooky-contest.9712/)
-- [reseller traffic networks](https://afflift.com/f/threads/reseller-traffic-networks.10098/)
-- [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
-- [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/)
-- [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
+- [AdStart Media is hiring a Sales Manager!](https://afflift.com/f/threads/adstart-media-is-hiring-a-sales-manager.10221/)
+- [PropellerAds + Dating](https://afflift.com/f/threads/propellerads-dating.10188/)
+- [Step 3 - Setup PropellerAds in BeMob](https://afflift.com/f/threads/step-3-setup-propellerads-in-bemob.7474/)
+- [What To Do For Income When Everything Is Failing](https://afflift.com/f/threads/what-to-do-for-income-when-everything-is-failing.9955/)
+- [Need help to find the source](https://afflift.com/f/threads/need-help-to-find-the-source.10044/)
 <!-- BLOG-POST-LIST:END -->
