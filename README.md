@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AdStart Media is hiring a Sales Manager!](https://afflift.com/f/threads/adstart-media-is-hiring-a-sales-manager.10221/)
-- [ASW 2023](https://afflift.com/f/threads/asw-2023.10219/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [MGID- Keto product follow-along in Germany - Spooky Contest](https://afflift.com/f/threads/mgid-keto-product-follow-along-in-germany-spooky-contest.9712/)
+- [Isaac From VipAds Network says Hi](https://afflift.com/f/threads/isaac-from-vipads-network-says-hi.10220/)
+- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 - [ApproachX Dating + PropellerAds](https://afflift.com/f/threads/approachx-dating-propellerads.10218/)
-- [first ever follow along&lpar;Mvas offer with propellerads popunder&rpar;](https://afflift.com/f/threads/first-ever-follow-along-mvas-offer-with-propellerads-popunder.10205/)
-- [Step 3 - Setup PropellerAds in BeMob](https://afflift.com/f/threads/step-3-setup-propellerads-in-bemob.7474/)
 <!-- BLOG-POST-LIST:END -->
