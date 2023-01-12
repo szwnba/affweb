@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AdStart Media is hiring a Sales Manager!](https://afflift.com/f/threads/adstart-media-is-hiring-a-sales-manager.10221/)
+- [What To Do For Income When Everything Is Failing](https://afflift.com/f/threads/what-to-do-for-income-when-everything-is-failing.9955/)
+- [New Year Contest! 🎊 - {MGID + Adcombo} - 1st Native Campaign](https://afflift.com/f/threads/new-year-contest-%F0%9F%8E%8A-mgid-adcombo-1st-native-campaign.10195/)
 - [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 - [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
-- [MGID- Keto product follow-along in Germany - Spooky Contest](https://afflift.com/f/threads/mgid-keto-product-follow-along-in-germany-spooky-contest.9712/)
 <!-- BLOG-POST-LIST:END -->
