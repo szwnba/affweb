@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Proxy-IPv4.com - Private 4G/LTE, IPv4 and IPv6 proxies | From $0.36 per IP | 20+ locations ✅](https://afflift.com/f/threads/proxy-ipv4-com-private-4g-lte-ipv4-and-ipv6-proxies-from-0-36-per-ip-20-locations-%E2%9C%85.10228/)
-- [Let’s talk about RTB!](https://afflift.com/f/threads/let%E2%80%99s-talk-about-rtb.10227/)
-- [AIVIX - Financial offers with CPA up to $1300](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1300.8167/)
-- [ClickAdilla Pop Traffic](https://afflift.com/f/threads/clickadilla-pop-traffic.9187/)
-- [Anti-Virus PPS Offers + RollerAds](https://afflift.com/f/threads/anti-virus-pps-offers-rollerads.10213/)
+- [EPC ERA - next generation multi-vertical affiliate network](https://afflift.com/f/threads/epc-era-next-generation-multi-vertical-affiliate-network.9872/)
+- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+- [first ever follow along&lpar;Mvas offer with propellerads popunder&rpar;](https://afflift.com/f/threads/first-ever-follow-along-mvas-offer-with-propellerads-popunder.10205/)
+- [#PA10K - PropellerAds don&#39;t Stop the POP! 🎉🎉](https://afflift.com/f/threads/pa10k-propellerads-dont-stop-the-pop-%F0%9F%8E%89%F0%9F%8E%89.8960/)
+- [Jonathan from Clickout | Finixio says hi](https://afflift.com/f/threads/jonathan-from-clickout-finixio-says-hi.10225/)
 <!-- BLOG-POST-LIST:END -->
