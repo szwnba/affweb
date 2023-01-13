@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HELP - PropellerAds CPM vs SmartCPM?](https://afflift.com/f/threads/help-propellerads-cpm-vs-smartcpm.10224/)
-- [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
-- [first ever follow along&lpar;Mvas offer with propellerads popunder&rpar;](https://afflift.com/f/threads/first-ever-follow-along-mvas-offer-with-propellerads-popunder.10205/)
-- [ClickFlare Free Trial Extended. Don&#39;t miss it!](https://afflift.com/f/threads/clickflare-free-trial-extended-dont-miss-it.10223/)
-- [Jonathan from Clickout | Finixio says hi](https://afflift.com/f/threads/jonathan-from-clickout-finixio-says-hi.10225/)
+- [Proxy-IPv4.com - Private 4G/LTE, IPv4 and IPv6 proxies | From $0.36 per IP | 20+ locations ✅](https://afflift.com/f/threads/proxy-ipv4-com-private-4g-lte-ipv4-and-ipv6-proxies-from-0-36-per-ip-20-locations-%E2%9C%85.10228/)
+- [Let’s talk about RTB!](https://afflift.com/f/threads/let%E2%80%99s-talk-about-rtb.10227/)
+- [AIVIX - Financial offers with CPA up to $1300](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1300.8167/)
+- [ClickAdilla Pop Traffic](https://afflift.com/f/threads/clickadilla-pop-traffic.9187/)
+- [Anti-Virus PPS Offers + RollerAds](https://afflift.com/f/threads/anti-virus-pps-offers-rollerads.10213/)
 <!-- BLOG-POST-LIST:END -->
