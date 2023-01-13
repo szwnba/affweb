@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ClickFlare Free Trial Extended. Don&#39;t miss it!](https://afflift.com/f/threads/clickflare-free-trial-extended-dont-miss-it.10223/)
-- [Me vs. CPA Algorithms - $2023 New Year Contest](https://afflift.com/f/threads/me-vs-cpa-algorithms-2023-new-year-contest.10210/)
-- [The BEST keyword to target &lpar;when you are allowed to&rpar;](https://afflift.com/f/threads/the-best-keyword-to-target-when-you-are-allowed-to.977/)
-- [first ever follow along&lpar;Mvas offer with propellerads popunder&rpar;](https://afflift.com/f/threads/first-ever-follow-along-mvas-offer-with-propellerads-popunder.10205/)
-- [New Year Contest! 🎊 - {MGID + Adcombo} - 1st Native Campaign](https://afflift.com/f/threads/new-year-contest-%F0%9F%8E%8A-mgid-adcombo-1st-native-campaign.10195/)
+- [How to check the offers before running it with your campaigns](https://afflift.com/f/threads/how-to-check-the-offers-before-running-it-with-your-campaigns.8132/)
+- [Pre-search!?](https://afflift.com/f/threads/pre-search.10226/)
+- [Jonathan from Clickout | Finixio says hi](https://afflift.com/f/threads/jonathan-from-clickout-finixio-says-hi.10225/)
+- [HELP - PropellerAds CPM vs SmartCPM?](https://afflift.com/f/threads/help-propellerads-cpm-vs-smartcpm.10224/)
+- [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 <!-- BLOG-POST-LIST:END -->
