@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shared hosting or VPS for CPV Lab](https://afflift.com/f/threads/shared-hosting-or-vps-for-cpv-lab.10238/)
-- [The Ultimate Adplexity Mobile Guide  A-Z](https://afflift.com/f/threads/the-ultimate-adplexity-mobile-guide-a-z.7858/)
-- [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
-- [The lander domain name is marked as such by virustotal, does it matter?](https://afflift.com/f/threads/the-lander-domain-name-is-marked-as-such-by-virustotal-does-it-matter.10237/)
-- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+- [Download landing page question](https://afflift.com/f/threads/download-landing-page-question.10236/)
+- [ApproachX Dating + PropellerAds](https://afflift.com/f/threads/approachx-dating-propellerads.10218/)
+- [affiliate marketing IS NOT dead 💪](https://afflift.com/f/threads/affiliate-marketing-is-not-dead-%F0%9F%92%AA.6567/)
+- [2023 PopAds + Monetizer](https://afflift.com/f/threads/2023-popads-monetizer.10185/)
+- [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
 <!-- BLOG-POST-LIST:END -->
