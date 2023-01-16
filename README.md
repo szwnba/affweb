@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello from Lisbon, Portugal](https://afflift.com/f/threads/hello-from-lisbon-portugal.10239/)
-- [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
+- [ApproachX Dating + PropellerAds](https://afflift.com/f/threads/approachx-dating-propellerads.10218/)
+- [Google Allows Obvious Double Standards = A Bunch of Algo-Hypocrites](https://afflift.com/f/threads/google-allows-obvious-double-standards-a-bunch-of-algo-hypocrites.10233/)
+- [Download landing page question](https://afflift.com/f/threads/download-landing-page-question.10236/)
 - [All you need to know about working with advertisers](https://afflift.com/f/threads/all-you-need-to-know-about-working-with-advertisers.10037/)
-- [Looking for fan page monetization ideas](https://afflift.com/f/threads/looking-for-fan-page-monetization-ideas.10240/)
-- [app install + pop traffic](https://afflift.com/f/threads/app-install-pop-traffic.10181/)
+- [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
 <!-- BLOG-POST-LIST:END -->
