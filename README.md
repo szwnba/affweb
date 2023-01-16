@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for fan page monetization ideas](https://afflift.com/f/threads/looking-for-fan-page-monetization-ideas.10240/)
-- [Pin submit, Click2SMS and terminologies](https://afflift.com/f/threads/pin-submit-click2sms-and-terminologies.10243/)
+- [100$ Wire to &quot;PropellerAds&quot; disappeared](https://afflift.com/f/threads/100-wire-to-propellerads-disappeared.10244/)
+- [All you need to know about working with advertisers](https://afflift.com/f/threads/all-you-need-to-know-about-working-with-advertisers.10037/)
+- [$2023 Contest - Will 2023 be my most productive year?](https://afflift.com/f/threads/2023-contest-will-2023-be-my-most-productive-year.10235/)
 - [Road to Greenland with Pops | $2023 Contest](https://afflift.com/f/threads/road-to-greenland-with-pops-2023-contest.10201/)
-- [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
-- [2023 PopAds + Monetizer](https://afflift.com/f/threads/2023-popads-monetizer.10185/)
+- [Looking for fan page monetization ideas](https://afflift.com/f/threads/looking-for-fan-page-monetization-ideas.10240/)
 <!-- BLOG-POST-LIST:END -->
