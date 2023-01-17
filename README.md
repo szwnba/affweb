@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Royal Partners | iGaming affiliate network | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-network-in-house-offers-cpa-revshare-hybrid.10011/)
-- [mVas Dating Campaign](https://afflift.com/f/threads/mvas-dating-campaign.10199/)
-- [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
-- [🐰 Pull a Rabbit out of a hat！ New Year Contest](https://afflift.com/f/threads/%F0%9F%90%B0-pull-a-rabbit-out-of-a-hat%EF%BC%81-new-year-contest.10192/)
-- [Niche Research](https://afflift.com/f/threads/niche-research.9863/)
+- [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+- [ApproachX Dating + PropellerAds](https://afflift.com/f/threads/approachx-dating-propellerads.10218/)
+- [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
+- [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
+- [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 <!-- BLOG-POST-LIST:END -->
