@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Niches for small SEO sites](https://afflift.com/f/threads/niches-for-small-seo-sites.8559/)
-- [$2023 Contest - Will 2023 be my most productive year?](https://afflift.com/f/threads/2023-contest-will-2023-be-my-most-productive-year.10235/)
-- [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
-- [Pin submit, Click2SMS and terminologies](https://afflift.com/f/threads/pin-submit-click2sms-and-terminologies.10243/)
-- [Itsjay24&#39;s Propeller Ads Journey To Pop Mastery](https://afflift.com/f/threads/itsjay24s-propeller-ads-journey-to-pop-mastery.10146/)
+- [I have kind of a job offer for you, if you want to do media buying without taking risks &lpar;you won&#39;t spend money, i will&rpar;](https://afflift.com/f/threads/i-have-kind-of-a-job-offer-for-you-if-you-want-to-do-media-buying-without-taking-risks-you-wont-spend-money-i-will.10255/)
+- [My new Journey 2023, the first time use paid traffic to cpa](https://afflift.com/f/threads/my-new-journey-2023-the-first-time-use-paid-traffic-to-cpa.10217/)
+- [first ever follow along&lpar;Mvas offer with propellerads popunder&rpar;](https://afflift.com/f/threads/first-ever-follow-along-mvas-offer-with-propellerads-popunder.10205/)
+- [Shared hosting or VPS for CPV Lab](https://afflift.com/f/threads/shared-hosting-or-vps-for-cpv-lab.10238/)
+- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 <!-- BLOG-POST-LIST:END -->
