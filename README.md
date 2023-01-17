@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
-- [Everything should start with green](https://afflift.com/f/threads/everything-should-start-with-green.10253/)
-- [Mobidea+clickflare &lpar;tracking problem&rpar;](https://afflift.com/f/threads/mobidea-clickflare-tracking-problem.10252/)
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [New Year&#39;s journey from newbies.](https://afflift.com/f/threads/new-years-journey-from-newbies.10193/)
+- [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
+- [🐰 Pull a Rabbit out of a hat！ New Year Contest](https://afflift.com/f/threads/%F0%9F%90%B0-pull-a-rabbit-out-of-a-hat%EF%BC%81-new-year-contest.10192/)
+- [mVas Dating Campaign](https://afflift.com/f/threads/mvas-dating-campaign.10199/)
+- [Niche Research](https://afflift.com/f/threads/niche-research.9863/)
+- [Niches for small SEO sites](https://afflift.com/f/threads/niches-for-small-seo-sites.8559/)
 <!-- BLOG-POST-LIST:END -->
