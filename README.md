@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 PopAds + Monetizer](https://afflift.com/f/threads/2023-popads-monetizer.10185/)
+- [Blacklisting vs Whitelisting](https://afflift.com/f/threads/blacklisting-vs-whitelisting.10251/)
+- [New Year&#39;s journey from newbies.](https://afflift.com/f/threads/new-years-journey-from-newbies.10193/)
+- [2023 Contest - Ready, Set, Let&#39;s GOOOOO!](https://afflift.com/f/threads/2023-contest-ready-set-lets-gooooo.10246/)
 - [How to Protect Your Campaign From Getting Fake Conversions](https://afflift.com/f/threads/how-to-protect-your-campaign-from-getting-fake-conversions.10204/)
-- [Niche Research](https://afflift.com/f/threads/niche-research.9863/)
-- [Niches for small SEO sites](https://afflift.com/f/threads/niches-for-small-seo-sites.8559/)
-- [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
-- [🎬🍿 Watch the new VIDEO from Voluum tracker!](https://afflift.com/f/threads/%F0%9F%8E%AC%F0%9F%8D%BF-watch-the-new-video-from-voluum-tracker.10249/)
 <!-- BLOG-POST-LIST:END -->
