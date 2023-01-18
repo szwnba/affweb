@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2023 Follow Along contest](https://afflift.com/f/threads/2023-follow-along-contest.10259/)
-- [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
+- [Blacklisting vs Whitelisting](https://afflift.com/f/threads/blacklisting-vs-whitelisting.10251/)
+- [Itsjay24&#39;s Propeller Ads Journey To Pop Mastery](https://afflift.com/f/threads/itsjay24s-propeller-ads-journey-to-pop-mastery.10146/)
+- [$2023 New Year Contest With Adsterra](https://afflift.com/f/threads/2023-new-year-contest-with-adsterra.10196/)
 - [ApproachX Dating + PropellerAds](https://afflift.com/f/threads/approachx-dating-propellerads.10218/)
-- [Scaling with Smart CPM](https://afflift.com/f/threads/scaling-with-smart-cpm.10260/)
-- [mVas Dating Campaign](https://afflift.com/f/threads/mvas-dating-campaign.10199/)
+- [2023 Follow Along contest](https://afflift.com/f/threads/2023-follow-along-contest.10259/)
 <!-- BLOG-POST-LIST:END -->
