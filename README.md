@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AW Dubai - discount?](https://afflift.com/f/threads/aw-dubai-discount.10273/)
-- [ApproachX Dating + PropellerAds](https://afflift.com/f/threads/approachx-dating-propellerads.10218/)
-- [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
-- [PropellerAds + Dating](https://afflift.com/f/threads/propellerads-dating.10188/)
-- [PropellerAds + Golden Goose + Zeydoo + ProPush &lpar;First Campaign&rpar; #ProfitSeasonsPropellerAds](https://afflift.com/f/threads/propellerads-golden-goose-zeydoo-propush-first-campaign-profitseasonspropellerads.10123/)
+- [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
+- [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+- [Issues with Google Safebrowsing](https://afflift.com/f/threads/issues-with-google-safebrowsing.10136/)
+- [🗳️ POLL: Do you know + use SQL for affiliate marketing?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-do-you-know-use-sql-for-affiliate-marketing.10270/)
+- [January PropellerAds Promo Codes](https://afflift.com/f/threads/january-propellerads-promo-codes.10169/)
 <!-- BLOG-POST-LIST:END -->
