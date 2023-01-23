@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
-- [MGID- Keto product follow-along in Germany - Spooky Contest](https://afflift.com/f/threads/mgid-keto-product-follow-along-in-germany-spooky-contest.9712/)
-- [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
-- [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
+- [My 2021 Email Marketing Review/Report](https://afflift.com/f/threads/my-2021-email-marketing-review-report.8096/)
+- [2022 Email Marketing Report : Mixed Results](https://afflift.com/f/threads/2022-email-marketing-report-mixed-results.10283/)
+- [AW Dubai - discount?](https://afflift.com/f/threads/aw-dubai-discount.10273/)
+- [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
+- [RichAds: Premium push, pops, in-page, calendar, direct click, google uac traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-google-uac-traffic.991/)
 <!-- BLOG-POST-LIST:END -->
