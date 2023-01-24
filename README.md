@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2022 Email Marketing Report : Mixed Results](https://afflift.com/f/threads/2022-email-marketing-report-mixed-results.10283/)
-- [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
-- [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
-- [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
-- [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
+- [Hello from Australia! Let&#39;s do this!](https://afflift.com/f/threads/hello-from-australia-lets-do-this.10167/)
+- [Hello from Lisbon, Portugal](https://afflift.com/f/threads/hello-from-lisbon-portugal.10239/)
+- [There are seasons or special dates to make campaings in some verticals?](https://afflift.com/f/threads/there-are-seasons-or-special-dates-to-make-campaings-in-some-verticals.9153/)
+- [In what vertical can a beginner earn?](https://afflift.com/f/threads/in-what-vertical-can-a-beginner-earn.10266/)
+- [YR2023 first follow along also participate in new year $2023 contest](https://afflift.com/f/threads/yr2023-first-follow-along-also-participate-in-new-year-2023-contest.10279/)
 <!-- BLOG-POST-LIST:END -->
