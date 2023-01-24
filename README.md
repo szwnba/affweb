@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
+- [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+- [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 - [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 - [2023 Contest - Facebook + Zeydoo + Monetizer in Latam](https://afflift.com/f/threads/2023-contest-facebook-zeydoo-monetizer-in-latam.10256/)
-- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
-- [Zeydoo payout on hold?](https://afflift.com/f/threads/zeydoo-payout-on-hold.10284/)
-- [Tracker Domain Flagged](https://afflift.com/f/threads/tracker-domain-flagged.10287/)
 <!-- BLOG-POST-LIST:END -->
