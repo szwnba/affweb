@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [app install + pop traffic](https://afflift.com/f/threads/app-install-pop-traffic.10181/)
-- [Mirelia Networks Review](https://afflift.com/f/threads/mirelia-networks-review.10292/)
-- [I&#39;m sorry but some people need to hear this](https://afflift.com/f/threads/im-sorry-but-some-people-need-to-hear-this.10289/)
+- [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
+- [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 - [Issues with Google Safebrowsing](https://afflift.com/f/threads/issues-with-google-safebrowsing.10136/)
-- [Top 4 Niches To Promote in 2023](https://afflift.com/f/threads/top-4-niches-to-promote-in-2023.10291/)
+- [Zeydoo payout on hold?](https://afflift.com/f/threads/zeydoo-payout-on-hold.10284/)
+- [app install + pop traffic](https://afflift.com/f/threads/app-install-pop-traffic.10181/)
 <!-- BLOG-POST-LIST:END -->
