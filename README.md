@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Zeydoo payout on hold?](https://afflift.com/f/threads/zeydoo-payout-on-hold.10284/)
-- [January PropellerAds Promo Codes](https://afflift.com/f/threads/january-propellerads-promo-codes.10169/)
-- [Hello from Australia! Let&#39;s do this!](https://afflift.com/f/threads/hello-from-australia-lets-do-this.10167/)
-- [Hello from Lisbon, Portugal](https://afflift.com/f/threads/hello-from-lisbon-portugal.10239/)
-- [There are seasons or special dates to make campaings in some verticals?](https://afflift.com/f/threads/there-are-seasons-or-special-dates-to-make-campaings-in-some-verticals.9153/)
+- [I&#39;m sorry but some people need to hear this](https://afflift.com/f/threads/im-sorry-but-some-people-need-to-hear-this.10289/)
+- [Roadblocks of Reviving a RevContent Campaign](https://afflift.com/f/threads/roadblocks-of-reviving-a-revcontent-campaign.9853/)
+- [Best Offer Wall traffic sources?](https://afflift.com/f/threads/best-offer-wall-traffic-sources.10288/)
+- [$2023 Contest - Will 2023 be my most productive year?](https://afflift.com/f/threads/2023-contest-will-2023-be-my-most-productive-year.10235/)
 <!-- BLOG-POST-LIST:END -->
