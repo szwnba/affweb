@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tracker Domain Flagged](https://afflift.com/f/threads/tracker-domain-flagged.10287/)
 - [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
-- [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
-- [Issues with Google Safebrowsing](https://afflift.com/f/threads/issues-with-google-safebrowsing.10136/)
-- [Zeydoo payout on hold?](https://afflift.com/f/threads/zeydoo-payout-on-hold.10284/)
-- [app install + pop traffic](https://afflift.com/f/threads/app-install-pop-traffic.10181/)
+- [Virus Total Flagging frenzy-Voluum+others](https://afflift.com/f/threads/virus-total-flagging-frenzy-voluum-others.10293/)
+- [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
+- [New Year - New Start - Time to Fly](https://afflift.com/f/threads/new-year-new-start-time-to-fly.10184/)
 <!-- BLOG-POST-LIST:END -->
