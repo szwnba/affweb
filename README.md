@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Virus Total Flagging frenzy-Voluum+others](https://afflift.com/f/threads/virus-total-flagging-frenzy-voluum-others.10293/)
-- [URLscan.io , Can I Use It As a Spytool?](https://afflift.com/f/threads/urlscan-io-can-i-use-it-as-a-spytool.10144/)
-- [Mirelia Networks: Direct advertiser in dating. Check in-house dating offers!](https://afflift.com/f/threads/mirelia-networks-direct-advertiser-in-dating-check-in-house-dating-offers.10022/)
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
+- [How to Build an IP Blacklist Using Golden Goose &quot;Traffic Back&quot; Feature](https://afflift.com/f/threads/how-to-build-an-ip-blacklist-using-golden-goose-traffic-back-feature.10294/)
+- [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
+- [Everything should start with green](https://afflift.com/f/threads/everything-should-start-with-green.10253/)
+- [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
 - [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
 <!-- BLOG-POST-LIST:END -->
