@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Driving traffic to finance offers: vertical overview + tips from media buyers](https://afflift.com/f/threads/driving-traffic-to-finance-offers-vertical-overview-tips-from-media-buyers.10299/)
-- [Approved creatives for Facebook ads | Crypto, Nutra, Gambling, Adult, Replica](https://afflift.com/f/threads/approved-creatives-for-facebook-ads-crypto-nutra-gambling-adult-replica.10156/)
+- [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
+- [Hot 🔥 TikTok Funnel - Case Study](https://afflift.com/f/threads/hot-%F0%9F%94%A5-tiktok-funnel-case-study.10290/)
 - [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
-- [2023 Contest - Ready, Set, Let&#39;s GOOOOO!](https://afflift.com/f/threads/2023-contest-ready-set-lets-gooooo.10246/)
-- [unable to login to Maxbounty ?](https://afflift.com/f/threads/unable-to-login-to-maxbounty.10298/)
+- [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
+- [MMP &lpar;Mobile measurement partner&rpar; - Appsflyer, Adjust, Singular](https://afflift.com/f/threads/mmp-mobile-measurement-partner-appsflyer-adjust-singular.10300/)
 <!-- BLOG-POST-LIST:END -->
