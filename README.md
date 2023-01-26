@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [iGB Affiliate London 2023](https://afflift.com/f/threads/igb-affiliate-london-2023.10075/)
-- [Who works with the gambling?](https://afflift.com/f/threads/who-works-with-the-gambling.10303/)
-- [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
-- [CPA Goal Push with RichAds](https://afflift.com/f/threads/cpa-goal-push-with-richads.10142/)
-- [TES Affiliate Conference 2023](https://afflift.com/f/threads/tes-affiliate-conference-2023.10302/)
+- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+- [Scaling with Smart CPM](https://afflift.com/f/threads/scaling-with-smart-cpm.10260/)
+- [Hi everyone from TacoLoco - new ad network from LosPollos!](https://afflift.com/f/threads/hi-everyone-from-tacoloco-new-ad-network-from-lospollos.3468/)
+- [Isaac From VipAds Network says Hi](https://afflift.com/f/threads/isaac-from-vipads-network-says-hi.10220/)
+- [Jonathan from Clickout | Finixio says hi](https://afflift.com/f/threads/jonathan-from-clickout-finixio-says-hi.10225/)
 <!-- BLOG-POST-LIST:END -->
