@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CPA Goal Push with RichAds](https://afflift.com/f/threads/cpa-goal-push-with-richads.10142/)
 - [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
+- [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
 - [Landing page set up + creation](https://afflift.com/f/threads/landing-page-set-up-creation.10304/)
-- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
-- [Who works with the gambling?](https://afflift.com/f/threads/who-works-with-the-gambling.10303/)
+- [New Year - New Start - Time to Fly](https://afflift.com/f/threads/new-year-new-start-time-to-fly.10184/)
+- [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
 <!-- BLOG-POST-LIST:END -->
