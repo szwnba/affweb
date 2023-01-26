@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
-- [Scaling with Smart CPM](https://afflift.com/f/threads/scaling-with-smart-cpm.10260/)
-- [Hi everyone from TacoLoco - new ad network from LosPollos!](https://afflift.com/f/threads/hi-everyone-from-tacoloco-new-ad-network-from-lospollos.3468/)
-- [Isaac From VipAds Network says Hi](https://afflift.com/f/threads/isaac-from-vipads-network-says-hi.10220/)
-- [Jonathan from Clickout | Finixio says hi](https://afflift.com/f/threads/jonathan-from-clickout-finixio-says-hi.10225/)
+- [2023 Contest - Ready, Set, Let&#39;s GOOOOO!](https://afflift.com/f/threads/2023-contest-ready-set-lets-gooooo.10246/)
+- [NY 2023 Contest FA - Pops and mVAS to Profitability?](https://afflift.com/f/threads/ny-2023-contest-fa-pops-and-mvas-to-profitability.10285/)
+- [Driving traffic to finance offers: vertical overview + tips from media buyers](https://afflift.com/f/threads/driving-traffic-to-finance-offers-vertical-overview-tips-from-media-buyers.10299/)
+- [Building back links immediately after site complete ?](https://afflift.com/f/threads/building-back-links-immediately-after-site-complete.10276/)
+- [Almost 4 Years With affLIFT](https://afflift.com/f/threads/almost-4-years-with-afflift.9673/)
 <!-- BLOG-POST-LIST:END -->
