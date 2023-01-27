@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
-- [URLscan.io , Can I Use It As a Spytool?](https://afflift.com/f/threads/urlscan-io-can-i-use-it-as-a-spytool.10144/)
-- [PropellerAds Push CPA Goal Whitelist](https://afflift.com/f/threads/propellerads-push-cpa-goal-whitelist.10308/)
-- [CPA Goal Push with RichAds](https://afflift.com/f/threads/cpa-goal-push-with-richads.10142/)
-- [ApproachX Dating + PropellerAds](https://afflift.com/f/threads/approachx-dating-propellerads.10218/)
+- [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
+- [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
+- [unable to login to Maxbounty ?](https://afflift.com/f/threads/unable-to-login-to-maxbounty.10298/)
+- [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+- [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
 <!-- BLOG-POST-LIST:END -->
