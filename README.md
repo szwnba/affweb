@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CPA Goal Push with RichAds](https://afflift.com/f/threads/cpa-goal-push-with-richads.10142/)
-- [looking for Mortgage &amp; Auto Insurance offers.](https://afflift.com/f/threads/looking-for-mortgage-auto-insurance-offers.9883/)
-- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
-- [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
-- [Looking for dating offers that go straight to registration &lpar;no prelanders!&rpar;](https://afflift.com/f/threads/looking-for-dating-offers-that-go-straight-to-registration-no-prelanders.10310/)
+- [Noviclick Optimization is AWESOME](https://afflift.com/f/threads/noviclick-optimization-is-awesome.10321/)
+- [Me vs. CPA Algorithms - $2023 New Year Contest](https://afflift.com/f/threads/me-vs-cpa-algorithms-2023-new-year-contest.10210/)
+- [Hi from Zagreb, Croatia!!!](https://afflift.com/f/threads/hi-from-zagreb-croatia.10315/)
+- [ApproachX Dating + PropellerAds](https://afflift.com/f/threads/approachx-dating-propellerads.10218/)
+- [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 <!-- BLOG-POST-LIST:END -->
