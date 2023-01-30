@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MaxBounty and PropellerAds Popunders](https://afflift.com/f/threads/maxbounty-and-propellerads-popunders.10320/)
+- [CPA Goal Push with RichAds](https://afflift.com/f/threads/cpa-goal-push-with-richads.10142/)
+- [looking for Mortgage &amp; Auto Insurance offers.](https://afflift.com/f/threads/looking-for-mortgage-auto-insurance-offers.9883/)
+- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 - [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
-- [Hi from Zagreb, Croatia!!!](https://afflift.com/f/threads/hi-from-zagreb-croatia.10315/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
-- [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
+- [Looking for dating offers that go straight to registration &lpar;no prelanders!&rpar;](https://afflift.com/f/threads/looking-for-dating-offers-that-go-straight-to-registration-no-prelanders.10310/)
 <!-- BLOG-POST-LIST:END -->
