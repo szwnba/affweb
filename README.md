@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MaxBounty and PropellerAds Popunders](https://afflift.com/f/threads/maxbounty-and-propellerads-popunders.10320/)
-- [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
-- [Looking for dating offers that go straight to registration &lpar;no prelanders!&rpar;](https://afflift.com/f/threads/looking-for-dating-offers-that-go-straight-to-registration-no-prelanders.10310/)
+- [🔥 Mobidea&#39;s Dating Challenge](https://afflift.com/f/threads/%F0%9F%94%A5-mobideas-dating-challenge.10325/)
+- [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
 - [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
-- [How to Split Test BackUnder and Other Scripts on Your LPs](https://afflift.com/f/threads/how-to-split-test-backunder-and-other-scripts-on-your-lps.10324/)
+- [2023 Contest - Facebook + Zeydoo + Monetizer in Latam](https://afflift.com/f/threads/2023-contest-facebook-zeydoo-monetizer-in-latam.10256/)
+- [Beginner-friendly whitelists [GEOs, bids, sources, volumes] for low payout offers 📈💰](https://afflift.com/f/threads/beginner-friendly-whitelists-geos-bids-sources-volumes-for-low-payout-offers-%F0%9F%93%88%F0%9F%92%B0.8907/)
 <!-- BLOG-POST-LIST:END -->
