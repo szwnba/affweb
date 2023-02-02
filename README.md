@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [New Year&#39;s journey from newbies.](https://afflift.com/f/threads/new-years-journey-from-newbies.10193/)
-- [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
-- [New Year $2023 Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/new-year-2023-contest-vote-for-your-favorite-follow-along.10333/)
-- [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
-- [FBKILLSWITCH.COM | Google/FB Agency Accounts | BMs, Personal Profiles, Pages](https://afflift.com/f/threads/fbkillswitch-com-google-fb-agency-accounts-bms-personal-profiles-pages.8818/)
+- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+- [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
+- [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
+- [ANNOUNCING: Biggest Search Arbitrage Meetup Ever](https://afflift.com/f/threads/announcing-biggest-search-arbitrage-meetup-ever.10332/)
+- [AIVIX - Financial offers with CPA up to $1300](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1300.8167/)
 <!-- BLOG-POST-LIST:END -->
