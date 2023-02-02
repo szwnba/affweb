@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
+- [2023 Contest - Facebook + Zeydoo + Monetizer in Latam](https://afflift.com/f/threads/2023-contest-facebook-zeydoo-monetizer-in-latam.10256/)
+- [$2023 Contest - Will 2023 be my most productive year?](https://afflift.com/f/threads/2023-contest-will-2023-be-my-most-productive-year.10235/)
 - [New Year $2023 Follow Along Contest](https://afflift.com/f/threads/new-year-2023-follow-along-contest.10177/)
 - [Sweepstakes Follow Along - Golden Goose + ProPush + Zeydoo + PropellerAds &lpar;New Year 2023 contest&rpar; - Attempt 2](https://afflift.com/f/threads/sweepstakes-follow-along-golden-goose-propush-zeydoo-propellerads-new-year-2023-contest-attempt-2.10313/)
-- [MaxBounty and PropellerAds Popunders](https://afflift.com/f/threads/maxbounty-and-propellerads-popunders.10320/)
-- [Me vs. CPA Algorithms - $2023 New Year Contest](https://afflift.com/f/threads/me-vs-cpa-algorithms-2023-new-year-contest.10210/)
-- [PropellerAds - not getting any traffic from high volume zone? [SOLVED]](https://afflift.com/f/threads/propellerads-not-getting-any-traffic-from-high-volume-zone-solved.9505/)
 <!-- BLOG-POST-LIST:END -->
