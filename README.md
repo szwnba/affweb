@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
+- [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
+- [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 - [February PropellerAds Promo Codes](https://afflift.com/f/threads/february-propellerads-promo-codes.10344/)
 - [January PropellerAds Promo Codes](https://afflift.com/f/threads/january-propellerads-promo-codes.10169/)
-- [Golden Goose - &quot;Unknown&quot; in the stats](https://afflift.com/f/threads/golden-goose-unknown-in-the-stats.10345/)
-- [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
-- [2023 Contest - Facebook + Zeydoo + Monetizer in Latam](https://afflift.com/f/threads/2023-contest-facebook-zeydoo-monetizer-in-latam.10256/)
 <!-- BLOG-POST-LIST:END -->
