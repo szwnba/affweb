@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Back after a decade](https://afflift.com/f/threads/back-after-a-decade.10349/)
+- [Step 11 - Relaunch Campaign](https://afflift.com/f/threads/step-11-relaunch-campaign.7482/)
+- [February PropellerAds Promo Codes](https://afflift.com/f/threads/february-propellerads-promo-codes.10344/)
 - [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
 - [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/)
-- [I&#39;m just start with gambling vertical and need some help!](https://afflift.com/f/threads/im-just-start-with-gambling-vertical-and-need-some-help.10356/)
-- [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
-- [Receive very little traffic after &quot;Be optimized&quot; &lpar;direct click mode&rpar;](https://afflift.com/f/threads/receive-very-little-traffic-after-be-optimized-direct-click-mode.10354/)
 <!-- BLOG-POST-LIST:END -->
