@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to sell music dload ?](https://afflift.com/f/threads/how-to-sell-music-dload.9545/)
-- [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
-- [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+- [Receive very little traffic after &quot;Be optimized&quot; &lpar;direct click mode&rpar;](https://afflift.com/f/threads/receive-very-little-traffic-after-be-optimized-direct-click-mode.10354/)
 - [Applying for Affiliate Networks](https://afflift.com/f/threads/applying-for-affiliate-networks.6890/)
-- [BUT, how can I be 100% certain whether...](https://afflift.com/f/threads/but-how-can-i-be-100-certain-whether.8731/)
+- [$2023 Follow Along Contest - Dating](https://afflift.com/f/threads/2023-follow-along-contest-dating.10296/)
+- [New Year&#39;s journey from newbies.](https://afflift.com/f/threads/new-years-journey-from-newbies.10193/)
+- [Hello and good afternoon from Des Moines!](https://afflift.com/f/threads/hello-and-good-afternoon-from-des-moines.10340/)
 <!-- BLOG-POST-LIST:END -->
