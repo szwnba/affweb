@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ADHORNET - Affiliate Network - CPI/CPA offers. WW GEO, all verticals](https://afflift.com/f/threads/adhornet-affiliate-network-cpi-cpa-offers-ww-geo-all-verticals.9838/)
-- [Adhornet Review](https://afflift.com/f/threads/adhornet-review.10372/)
-- [Free Affiliate Marketing Course: Shift to a Pro Level With 21 Video Lectures From Industry Experts](https://afflift.com/f/threads/free-affiliate-marketing-course-shift-to-a-pro-level-with-21-video-lectures-from-industry-experts.10371/)
-- [2023 Follow Along contest](https://afflift.com/f/threads/2023-follow-along-contest.10259/)
-- [Many dollars spent with little peny in return](https://afflift.com/f/threads/many-dollars-spent-with-little-peny-in-return.10368/)
+- [MaxBounty and PropellerAds Popunders](https://afflift.com/f/threads/maxbounty-and-propellerads-popunders.10320/)
+- [Road to Greenland with Pops | $2023 Contest](https://afflift.com/f/threads/road-to-greenland-with-pops-2023-contest.10201/)
+- [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
+- [Receive very little traffic after &quot;Be optimized&quot; &lpar;direct click mode&rpar;](https://afflift.com/f/threads/receive-very-little-traffic-after-be-optimized-direct-click-mode.10354/)
+- [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 <!-- BLOG-POST-LIST:END -->
