@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Is Monetizer down right now?](https://afflift.com/f/threads/is-monetizer-down-right-now.10234/)
-- [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
-- [Turkish and Syrians need your help](https://afflift.com/f/threads/turkish-and-syrians-need-your-help.10376/)
-- [February PropellerAds Promo Codes](https://afflift.com/f/threads/february-propellerads-promo-codes.10344/)
-- [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+- [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/)
+- [AdFlex, The Most Intelligent Facebook Adspy Tool!](https://afflift.com/f/threads/adflex-the-most-intelligent-facebook-adspy-tool.9290/)
+- [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
+- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
+- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 <!-- BLOG-POST-LIST:END -->
