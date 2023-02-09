@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips &amp; Tricks 💡 to Get the Most 🚀 Out of Your 🐥 Golden Goose 🐥 Account](https://afflift.com/f/threads/tips-tricks-%F0%9F%92%A1-to-get-the-most-%F0%9F%9A%80-out-of-your-%F0%9F%90%A5-golden-goose-%F0%9F%90%A5-account.7199/)
+- [Step by step to host your landing pages in your own vultr server](https://afflift.com/f/threads/step-by-step-to-host-your-landing-pages-in-your-own-vultr-server.4044/)
 - [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)
 - [First Taboola Ecommerce CampaignS](https://afflift.com/f/threads/first-taboola-ecommerce-campaigns.10375/)
 - [New Year $2023 Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/new-year-2023-contest-vote-for-your-favorite-follow-along.10333/)
-- [Sometimes Aff marketing is really fun](https://afflift.com/f/threads/sometimes-aff-marketing-is-really-fun.10381/)
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 <!-- BLOG-POST-LIST:END -->
