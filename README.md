@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CPVLab VPS Setup Guide 🤓 &lpar;with shared build scripts&rpar; 😎](https://afflift.com/f/threads/cpvlab-vps-setup-guide-%F0%9F%A4%93-with-shared-build-scripts-%F0%9F%98%8E.6427/)
-- [Conference swag](https://afflift.com/f/threads/conference-swag.10382/)
-- [Affiliate Manager &amp; Affiliate](https://afflift.com/f/threads/affiliate-manager-affiliate.10383/)
-- [Some Native Tips To Help You Get Started](https://afflift.com/f/threads/some-native-tips-to-help-you-get-started.9066/)
-- [Hello everyone. I am a rookie in arbitrage and I am still learning. I am from China.](https://afflift.com/f/threads/hello-everyone-i-am-a-rookie-in-arbitrage-and-i-am-still-learning-i-am-from-china.10360/)
+- [New Year $2023 Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/new-year-2023-contest-vote-for-your-favorite-follow-along.10333/)
+- [Hello from Trinidad &amp; Tobago!](https://afflift.com/f/threads/hello-from-trinidad-tobago.10387/)
+- [February PropellerAds Promo Codes](https://afflift.com/f/threads/february-propellerads-promo-codes.10344/)
+- [What prelanders for games offers?](https://afflift.com/f/threads/what-prelanders-for-games-offers.10379/)
+- [Step by step to host your landing pages in your own vultr server](https://afflift.com/f/threads/step-by-step-to-host-your-landing-pages-in-your-own-vultr-server.4044/)
 <!-- BLOG-POST-LIST:END -->
