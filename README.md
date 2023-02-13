@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Distacart Affiliate Program &lpar;Earn 20% Commission&rpar;](https://afflift.com/f/threads/distacart-affiliate-program-earn-20-commission.10050/)
-- [Distacart Affiliate Program](https://afflift.com/f/threads/distacart-affiliate-program.10399/)
-- [Galaksion?](https://afflift.com/f/threads/galaksion.10397/)
-- [TaroAds Pop Traffic](https://afflift.com/f/threads/taroads-pop-traffic.10394/)
-- [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
+- [Hello from New Zealand!](https://afflift.com/f/threads/hello-from-new-zealand.10400/)
+- [New Year $2023 Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/new-year-2023-contest-vote-for-your-favorite-follow-along.10333/)
+- [Conference swag](https://afflift.com/f/threads/conference-swag.10382/)
+- [Step by step to host your landing pages in your own vultr server](https://afflift.com/f/threads/step-by-step-to-host-your-landing-pages-in-your-own-vultr-server.4044/)
+- [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 <!-- BLOG-POST-LIST:END -->
