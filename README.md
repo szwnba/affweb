@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello from Caprio](https://afflift.com/f/threads/hello-from-caprio.10413/)
-- [OneAmour for Dating](https://afflift.com/f/threads/oneamour-for-dating.7537/)
-- [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
-- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
-- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [100$ Wire to &quot;PropellerAds&quot; disappeared](https://afflift.com/f/threads/100-wire-to-propellerads-disappeared.10244/)
+- [✳️【Ｍｏｂｐｌｕｓ】+ 𝗣𝘂𝘀𝗵 𝗧𝗿𝗮𝗳𝗳𝗶𝗰 &lpar;Try On A Fresh MVAS Network&rpar; 🤩](https://afflift.com/f/threads/%E2%9C%B3%EF%B8%8F%E3%80%90%EF%BC%AD%EF%BD%8F%EF%BD%82%EF%BD%90%EF%BD%8C%EF%BD%95%EF%BD%93%E3%80%91-%F0%9D%97%A3%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B5-%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B3%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0-try-on-a-fresh-mvas-network-%F0%9F%A4%A9.10410/)
+- [ClickAdilla Pop Traffic](https://afflift.com/f/threads/clickadilla-pop-traffic.9187/)
+- [Saint Valentine’s bonuses from ClickAdilla &amp; Partners](https://afflift.com/f/threads/saint-valentine%E2%80%99s-bonuses-from-clickadilla-partners.10415/)
 <!-- BLOG-POST-LIST:END -->
