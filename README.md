@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [Ucliq - #1 Affiliate marketing platform to launch a partner network in 1 day](https://afflift.com/f/threads/ucliq-1-affiliate-marketing-platform-to-launch-a-partner-network-in-1-day.10052/)
-- [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
-- [TheOptimizer Mobile - Pop/Redirect/Push Campaigns on Auto-Pilot](https://afflift.com/f/threads/theoptimizer-mobile-pop-redirect-push-campaigns-on-auto-pilot.1514/)
-- [Richads Target Push CPA](https://afflift.com/f/threads/richads-target-push-cpa.10408/)
+- [Trying push traffic after facebook](https://afflift.com/f/threads/trying-push-traffic-after-facebook.10232/)
+- [Is it wise to send popunder straight to an offer?](https://afflift.com/f/threads/is-it-wise-to-send-popunder-straight-to-an-offer.10392/)
+- [Noviclick - Worldwide Pop, Push and Inpage Push Traffic | Official Thread](https://afflift.com/f/threads/noviclick-worldwide-pop-push-and-inpage-push-traffic-official-thread.7213/)
+- [Noviclick Optimization is AWESOME](https://afflift.com/f/threads/noviclick-optimization-is-awesome.10321/)
+- [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
 <!-- BLOG-POST-LIST:END -->
