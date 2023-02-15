@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to drive traffic to adult nutra with Native sources?](https://afflift.com/f/threads/how-to-drive-traffic-to-adult-nutra-with-native-sources.10346/)
-- [Custom Tracking Domain](https://afflift.com/f/threads/custom-tracking-domain.10411/)
-- [✳️【Ｍｏｂｐｌｕｓ】+ 𝗣𝘂𝘀𝗵 𝗧𝗿𝗮𝗳𝗳𝗶𝗰 &lpar;Try On A Fresh MVAS Network&rpar; 🤩](https://afflift.com/f/threads/%E2%9C%B3%EF%B8%8F%E3%80%90%EF%BC%AD%EF%BD%8F%EF%BD%82%EF%BD%90%EF%BD%8C%EF%BD%95%EF%BD%93%E3%80%91-%F0%9D%97%A3%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B5-%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B3%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0-try-on-a-fresh-mvas-network-%F0%9F%A4%A9.10410/)
-- [TaroAds Pop Traffic](https://afflift.com/f/threads/taroads-pop-traffic.10394/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+- [BeMob tracking problems](https://afflift.com/f/threads/bemob-tracking-problems.10406/)
+- [How to Split Test BackUnder and Other Scripts on Your LPs](https://afflift.com/f/threads/how-to-split-test-backunder-and-other-scripts-on-your-lps.10324/)
+- [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
 <!-- BLOG-POST-LIST:END -->
