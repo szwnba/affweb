@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
-- [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
-- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+- [Iframing on Bing](https://afflift.com/f/threads/iframing-on-bing.10426/)
+- [Using ChatGTP to better understand a market](https://afflift.com/f/threads/using-chatgtp-to-better-understand-a-market.10422/)
+- [Sometimes Aff marketing is really fun](https://afflift.com/f/threads/sometimes-aff-marketing-is-really-fun.10381/)
+- [If you need Affiliate Manager for Balkan area](https://afflift.com/f/threads/if-you-need-affiliate-manager-for-balkan-area.10425/)
 - [TaroAds Pop Traffic](https://afflift.com/f/threads/taroads-pop-traffic.10394/)
 <!-- BLOG-POST-LIST:END -->
