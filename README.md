@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2023 Follow Along contest](https://afflift.com/f/threads/2023-follow-along-contest.10259/)
-- [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
+- [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
 - [Dating email sequence](https://afflift.com/f/threads/dating-email-sequence.10431/)
-- [Clickstar.me ⭐ Global Ad Network [Push/iOS Notifications/Redirect🔥]](https://afflift.com/f/threads/clickstar-me-%E2%AD%90-global-ad-network-push-ios-notifications-redirect%F0%9F%94%A5.3433/)
-- [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
+- [Traffic DSP - New ClickAdilla’s Feature. How does it work?](https://afflift.com/f/threads/traffic-dsp-new-clickadilla%E2%80%99s-feature-how-does-it-work.10432/)
+- [ClickAdilla Pop Traffic](https://afflift.com/f/threads/clickadilla-pop-traffic.9187/)
+- [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
 <!-- BLOG-POST-LIST:END -->
