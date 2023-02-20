@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Use Youtube ads to run crypto](https://afflift.com/f/threads/use-youtube-ads-to-run-crypto.10441/)
+- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 - [How can I make it work?](https://afflift.com/f/threads/how-can-i-make-it-work.10444/)
-- [Richads Target Push CPA](https://afflift.com/f/threads/richads-target-push-cpa.10408/)
-- [If you’re collecting emails… you need to do this](https://afflift.com/f/threads/if-you%E2%80%99re-collecting-emails%E2%80%A6-you-need-to-do-this.10116/)
-- [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
+- [🔥 Mega post of Anstrex Landing pages 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-mega-post-of-anstrex-landing-pages-%F0%9F%94%A5.6125/)
+- [Why such difference in CTR between EvaDav and Push.House?](https://afflift.com/f/threads/why-such-difference-in-ctr-between-evadav-and-push-house.10434/)
 <!-- BLOG-POST-LIST:END -->
