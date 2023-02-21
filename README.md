@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Shareasale.com Application has been declined](https://afflift.com/f/threads/shareasale-com-application-has-been-declined.10451/)
+- [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
+- [Domain redirect &lpar;zero click&rpar; traffic](https://afflift.com/f/threads/domain-redirect-zero-click-traffic.8004/)
+- [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
+- [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 - [VOD / Sweepstakes Advertiser](https://afflift.com/f/threads/vod-sweepstakes-advertiser.10151/)
-- [Podcast advertising](https://afflift.com/f/threads/podcast-advertising.10312/)
-- [How can I make it work?](https://afflift.com/f/threads/how-can-i-make-it-work.10444/)
-- [Hello from Slovakia!](https://afflift.com/f/threads/hello-from-slovakia.10449/)
 <!-- BLOG-POST-LIST:END -->
