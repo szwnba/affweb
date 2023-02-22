@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
-- [🔬Testing Richads Traffic with mVas Offers in Tier 2-3 Geo! 💰](https://afflift.com/f/threads/%F0%9F%94%ACtesting-richads-traffic-with-mvas-offers-in-tier-2-3-geo-%F0%9F%92%B0.10420/)
-- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
-- [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
-- [Hello from Slovakia!](https://afflift.com/f/threads/hello-from-slovakia.10449/)
+- [Voluum DSP Alternative](https://afflift.com/f/threads/voluum-dsp-alternative.10435/)
+- [AIVIX - Financial offers with CPA up to $1300](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1300.8167/)
+- [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
+- [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
+- [Landerbolt Unresponsive &lpar; for refund :&rpar;&rpar;](https://afflift.com/f/threads/landerbolt-unresponsive-for-refund.10456/)
 <!-- BLOG-POST-LIST:END -->
