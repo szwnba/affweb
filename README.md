@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Quickly Create Lander Variations &lpar;Dynamic LP&rpar;](https://afflift.com/f/threads/how-to-quickly-create-lander-variations-dynamic-lp.9770/)
+- [OneAmour for Dating](https://afflift.com/f/threads/oneamour-for-dating.7537/)
+- [100$ Wire to &quot;PropellerAds&quot; disappeared](https://afflift.com/f/threads/100-wire-to-propellerads-disappeared.10244/)
+- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 - [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
-- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
-- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
-- [The lander domain name is marked as such by virustotal, does it matter?](https://afflift.com/f/threads/the-lander-domain-name-is-marked-as-such-by-virustotal-does-it-matter.10237/)
-- [Text spinning when downloading landing pages](https://afflift.com/f/threads/text-spinning-when-downloading-landing-pages.10454/)
 <!-- BLOG-POST-LIST:END -->
