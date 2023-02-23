@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Struggling with something in affiliate marketing? Give us more info and we might write a guide about it!](https://afflift.com/f/threads/struggling-with-something-in-affiliate-marketing-give-us-more-info-and-we-might-write-a-guide-about-it.10464/)
-- [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
-- [#MondiadSpring - My First-Ever Push Campaign](https://afflift.com/f/threads/mondiadspring-my-first-ever-push-campaign.10463/)
+- [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
+- [Question about flagged landing page](https://afflift.com/f/threads/question-about-flagged-landing-page.9042/)
+- [How to avoid getting flagged by Google and Antiviruses](https://afflift.com/f/threads/how-to-avoid-getting-flagged-by-google-and-antiviruses.7277/)
 - [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
-- [Using Drilldown Reports in Your Tracker](https://afflift.com/f/threads/using-drilldown-reports-in-your-tracker.10462/)
+- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
 <!-- BLOG-POST-LIST:END -->
