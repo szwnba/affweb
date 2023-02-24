@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [inPage or classic Push Notifications?](https://afflift.com/f/threads/inpage-or-classic-push-notifications.10471/)
-- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
-- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
+- [PropellerAds dropped traffic but can&#39;t tell me why!!](https://afflift.com/f/threads/propellerads-dropped-traffic-but-cant-tell-me-why.10467/)
+- [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
+- [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
+- [Cheap Native Traffic Source](https://afflift.com/f/threads/cheap-native-traffic-source.10472/)
 - [#MondiadSpring just anouther contest entry with mVas](https://afflift.com/f/threads/mondiadspring-just-anouther-contest-entry-with-mvas.10470/)
-- [Spare AWS tickets](https://afflift.com/f/threads/spare-aws-tickets.10438/)
 <!-- BLOG-POST-LIST:END -->
