@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [First Taboola Ecommerce CampaignS](https://afflift.com/f/threads/first-taboola-ecommerce-campaigns.10375/)
+- [#MondiadSpring- mVas offers with Mondiad Push](https://afflift.com/f/threads/mondiadspring-mvas-offers-with-mondiad-push.10480/)
+- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 - [Build an SSP Local Ad Network](https://afflift.com/f/threads/build-an-ssp-local-ad-network.10166/)
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
-- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+- [How to work with Facebook in 2023?](https://afflift.com/f/threads/how-to-work-with-facebook-in-2023.10490/)
+- [Candyoffers - a CPA Network that loves to spoil high performing affiliates!](https://afflift.com/f/threads/candyoffers-a-cpa-network-that-loves-to-spoil-high-performing-affiliates.10489/)
 <!-- BLOG-POST-LIST:END -->
