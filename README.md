@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#MondiadSpring- mVas offers with Mondiad Push](https://afflift.com/f/threads/mondiadspring-mvas-offers-with-mondiad-push.10480/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
-- [Build an SSP Local Ad Network](https://afflift.com/f/threads/build-an-ssp-local-ad-network.10166/)
-- [How to work with Facebook in 2023?](https://afflift.com/f/threads/how-to-work-with-facebook-in-2023.10490/)
-- [Candyoffers - a CPA Network that loves to spoil high performing affiliates!](https://afflift.com/f/threads/candyoffers-a-cpa-network-that-loves-to-spoil-high-performing-affiliates.10489/)
+- [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
+- [Newbie to Push Ads](https://afflift.com/f/threads/newbie-to-push-ads.9950/)
+- [Use Youtube ads to run crypto](https://afflift.com/f/threads/use-youtube-ads-to-run-crypto.10441/)
+- [How to Download ANY Image](https://afflift.com/f/threads/how-to-download-any-image.10488/)
+- [inPage or classic Push Notifications?](https://afflift.com/f/threads/inpage-or-classic-push-notifications.10471/)
 <!-- BLOG-POST-LIST:END -->
