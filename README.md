@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Are there any good youtube channels to follow?](https://afflift.com/f/threads/are-there-any-good-youtube-channels-to-follow.10475/)
-- [How Can I Find What Network Has This Affiliate Offer?](https://afflift.com/f/threads/how-can-i-find-what-network-has-this-affiliate-offer.10494/)
-- [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
-- [#MondiadSpring just another contest entry with mVas](https://afflift.com/f/threads/mondiadspring-just-another-contest-entry-with-mvas.10470/)
-- [Please suggest some pops platforms to work with.](https://afflift.com/f/threads/please-suggest-some-pops-platforms-to-work-with.10064/)
+- [#PA10K Sky is the Limit - Propellerads Pop/Push + Monetizer to the moon](https://afflift.com/f/threads/pa10k-sky-is-the-limit-propellerads-pop-push-monetizer-to-the-moon.8954/)
+- [Monetizer Questions &lpar;Terms, smart link optimization&rpar;](https://afflift.com/f/threads/monetizer-questions-terms-smart-link-optimization.10263/)
+- [How to use Google Sheets to check Monetizer offer status and start/stop traffic on PropellerAds](https://afflift.com/f/threads/how-to-use-google-sheets-to-check-monetizer-offer-status-and-start-stop-traffic-on-propellerads.10496/)
+- [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 <!-- BLOG-POST-LIST:END -->
