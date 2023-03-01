@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Struggling with something in affiliate marketing? Give us more info and we might write a guide about it!](https://afflift.com/f/threads/struggling-with-something-in-affiliate-marketing-give-us-more-info-and-we-might-write-a-guide-about-it.10464/)
-- [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
-- [𝗨𝗦𝗗𝗧 𝘁𝗼 𝗣𝗔𝗫𝗨𝗠 𝗨𝗦𝗗](https://afflift.com/f/threads/%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%97%F0%9D%97%A7-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%AB%F0%9D%97%A8%F0%9D%97%A0-%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%97.10500/)
-- [Hello from Turkey!](https://afflift.com/f/threads/hello-from-turkey.10501/)
-- [How Can I Find What Network Has This Affiliate Offer?](https://afflift.com/f/threads/how-can-i-find-what-network-has-this-affiliate-offer.10494/)
+- [One day wonder offer? Need your views](https://afflift.com/f/threads/one-day-wonder-offer-need-your-views.10502/)
+- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
+- [How to use Google Sheets to check Monetizer offer status and start/stop traffic on PropellerAds](https://afflift.com/f/threads/how-to-use-google-sheets-to-check-monetizer-offer-status-and-start-stop-traffic-on-propellerads.10496/)
+- [#MondiadSpring just another contest entry with mVas](https://afflift.com/f/threads/mondiadspring-just-another-contest-entry-with-mvas.10470/)
+- [PropellerAds SmartCPC worth a test?](https://afflift.com/f/threads/propellerads-smartcpc-worth-a-test.10366/)
 <!-- BLOG-POST-LIST:END -->
