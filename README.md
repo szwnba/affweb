@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginners Paradise? #MondiadSpring #NoCensorship](https://afflift.com/f/threads/a-beginners-paradise-mondiadspring-nocensorship.10518/)
-- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
+- [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
 - [What niches are trending in spring?💸](https://afflift.com/f/threads/what-niches-are-trending-in-spring-%F0%9F%92%B8.10517/)
-- [Cheap Native Traffic Source](https://afflift.com/f/threads/cheap-native-traffic-source.10472/)
-- [2023 Follow Along contest](https://afflift.com/f/threads/2023-follow-along-contest.10259/)
+- [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [#MondiadSpring: Lets give push traffic one more try](https://afflift.com/f/threads/mondiadspring-lets-give-push-traffic-one-more-try.10483/)
 <!-- BLOG-POST-LIST:END -->
