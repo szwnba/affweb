@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
-- [Facebook traffic: everything you need to know to start](https://afflift.com/f/threads/facebook-traffic-everything-you-need-to-know-to-start.10516/)
-- [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
-- [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
-- [One day wonder offer? Need your views](https://afflift.com/f/threads/one-day-wonder-offer-need-your-views.10502/)
+- [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+- [March PropellerAds Promo Codes 2023](https://afflift.com/f/threads/march-propellerads-promo-codes-2023.10510/)
+- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+- [Cheap Native Traffic Source](https://afflift.com/f/threads/cheap-native-traffic-source.10472/)
+- [AIVIX - Financial offers with CPA up to $1300](https://afflift.com/f/threads/aivix-financial-offers-with-cpa-up-to-1300.8167/)
 <!-- BLOG-POST-LIST:END -->
