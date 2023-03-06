@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Wallester cards – a perfect tool for online media buying 🔥](https://afflift.com/f/threads/wallester-cards-%E2%80%93-a-perfect-tool-for-online-media-buying-%F0%9F%94%A5.9532/)
-- [Tracking: ClickBank and Binom](https://afflift.com/f/threads/tracking-clickbank-and-binom.2665/)
+- [$ -2,799.90 in 2022 with Pop Traffic - Motivations Welcome!](https://afflift.com/f/threads/2-799-90-in-2022-with-pop-traffic-motivations-welcome.9471/)
 - [Hello from Canada! eh](https://afflift.com/f/threads/hello-from-canada-eh.10519/)
-- [AffliftxMondiad: Spring Push Contest #MondiadSpring](https://afflift.com/f/threads/affliftxmondiad-spring-push-contest-mondiadspring.10465/)
-- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
+- [Struggling with something in affiliate marketing? Give us more info and we might write a guide about it!](https://afflift.com/f/threads/struggling-with-something-in-affiliate-marketing-give-us-more-info-and-we-might-write-a-guide-about-it.10464/)
+- [#MondiadSpring just another contest entry with mVas](https://afflift.com/f/threads/mondiadspring-just-another-contest-entry-with-mvas.10470/)
+- [Host Your Landing Pages for Free &lpar;w/CDN&rpar; in 10 Minutes](https://afflift.com/f/threads/host-your-landing-pages-for-free-w-cdn-in-10-minutes.7673/)
 <!-- BLOG-POST-LIST:END -->
