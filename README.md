@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
+- [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/)
 - [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
-- [Premium Agency Ad Accounts - Unbannable ad accounts with highest tier of support](https://afflift.com/f/threads/premium-agency-ad-accounts-unbannable-ad-accounts-with-highest-tier-of-support.10530/)
-- [100$ Wire to &quot;PropellerAds&quot; disappeared](https://afflift.com/f/threads/100-wire-to-propellerads-disappeared.10244/)
-- [Clickdealer is being acquired](https://afflift.com/f/threads/clickdealer-is-being-acquired.10529/)
-- [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 <!-- BLOG-POST-LIST:END -->
