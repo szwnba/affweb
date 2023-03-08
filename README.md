@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
-- [Hello from Canada! eh](https://afflift.com/f/threads/hello-from-canada-eh.10519/)
-- [#MondiadSpring 🚀First campaign, follow along and see if I fall flat, or beginners luck!😂  🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%9A%80first-campaign-follow-along-and-see-if-i-fall-flat-or-beginners-luck-%F0%9F%98%82-%F0%9F%9A%80.10525/)
-- [Recurring scenario. Huge traffic loss.](https://afflift.com/f/threads/recurring-scenario-huge-traffic-loss.10522/)
-- [Hello from DatingPartners – direct dating advertiser](https://afflift.com/f/threads/hello-from-datingpartners-%E2%80%93-direct-dating-advertiser.8669/)
+- [Hello, my name is Edward, I&#39;m new to this and need help.](https://afflift.com/f/threads/hello-my-name-is-edward-im-new-to-this-and-need-help.10536/)
+- [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+- [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
+- [Zeydoo Finance Survey - My First FA](https://afflift.com/f/threads/zeydoo-finance-survey-my-first-fa.10524/)
+- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
 <!-- BLOG-POST-LIST:END -->
