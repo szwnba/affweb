@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#MondiadSpring 🚀First campaign, follow along and see if I fall flat, or beginners luck!😂  🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%9A%80first-campaign-follow-along-and-see-if-i-fall-flat-or-beginners-luck-%F0%9F%98%82-%F0%9F%9A%80.10525/)
-- [Hello, my name is Edward, I&#39;m new to this and need help.](https://afflift.com/f/threads/hello-my-name-is-edward-im-new-to-this-and-need-help.10536/)
-- [#MondiadSpring just another contest entry with mVas](https://afflift.com/f/threads/mondiadspring-just-another-contest-entry-with-mvas.10470/)
-- [Zeydoo Finance Survey - My First FA](https://afflift.com/f/threads/zeydoo-finance-survey-my-first-fa.10524/)
-- [What are XML feeds?](https://afflift.com/f/threads/what-are-xml-feeds.10542/)
+- [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
+- [#MondiadSpring 🏆🤑 Zero to Hero 🤑🏆 Let the Games begin](https://afflift.com/f/threads/mondiadspring-%F0%9F%8F%86%F0%9F%A4%91-zero-to-hero-%F0%9F%A4%91%F0%9F%8F%86-let-the-games-begin.10478/)
+- [#MondiadSpring Lets try push ads with Mondiad](https://afflift.com/f/threads/mondiadspring-lets-try-push-ads-with-mondiad.10540/)
+- [lets try already converting offer with other traffic network on #Mondiad traffic #MondiadSpring](https://afflift.com/f/threads/lets-try-already-converting-offer-with-other-traffic-network-on-mondiad-traffic-mondiadspring.10474/)
+- [The Lazy man&#39;s Guide to a New Traffic Source😮: How to Earn💲even if it&#39;s your first try?😍#MondiadSpring](https://afflift.com/f/threads/the-lazy-mans-guide-to-a-new-traffic-source%F0%9F%98%AE-how-to-earn%F0%9F%92%B2even-if-its-your-first-try-%F0%9F%98%8D-mondiadspring.10523/)
 <!-- BLOG-POST-LIST:END -->
