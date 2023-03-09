@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
-- [What are XML feeds?](https://afflift.com/f/threads/what-are-xml-feeds.10542/)
-- [Difference between default tracker domain vs custom domain](https://afflift.com/f/threads/difference-between-default-tracker-domain-vs-custom-domain.10541/)
-- [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
+- [Greetings from Cointraffic- crypto advertising network. Looking for quality crypto traffic?](https://afflift.com/f/threads/greetings-from-cointraffic-crypto-advertising-network-looking-for-quality-crypto-traffic.10543/)
+- [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
+- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+- [Zeydoo Finance Survey - My First FA](https://afflift.com/f/threads/zeydoo-finance-survey-my-first-fa.10524/)
 <!-- BLOG-POST-LIST:END -->
