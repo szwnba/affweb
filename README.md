@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
-- [best practice to target Monetizer Rev share offer via Cpa](https://afflift.com/f/threads/best-practice-to-target-monetizer-rev-share-offer-via-cpa.10547/)
-- [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
-- [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
+- [March PropellerAds Promo Codes 2023](https://afflift.com/f/threads/march-propellerads-promo-codes-2023.10510/)
+- [Follow Along: Detailed Survey Campaign 2023 -  #MondiadSpring](https://afflift.com/f/threads/follow-along-detailed-survey-campaign-2023-mondiadspring.10549/)
+- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
+- [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
+- [I wanna become an offer owner, what does it take?](https://afflift.com/f/threads/i-wanna-become-an-offer-owner-what-does-it-take.10550/)
 <!-- BLOG-POST-LIST:END -->
