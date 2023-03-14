@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 - [Golden Goose Payments](https://afflift.com/f/threads/golden-goose-payments.10554/)
+- [Beginner-friendly whitelists [GEOs, bids, sources, volumes] for low payout offers 📈💰](https://afflift.com/f/threads/beginner-friendly-whitelists-geos-bids-sources-volumes-for-low-payout-offers-%F0%9F%93%88%F0%9F%92%B0.8907/)
+- [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 - [Domains Get Flagged](https://afflift.com/f/threads/domains-get-flagged.10553/)
-- [Tips &amp; Tricks 💡 to Get the Most 🚀 Out of Your 🐥 Golden Goose 🐥 Account](https://afflift.com/f/threads/tips-tricks-%F0%9F%92%A1-to-get-the-most-%F0%9F%9A%80-out-of-your-%F0%9F%90%A5-golden-goose-%F0%9F%90%A5-account.7199/)
-- [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
+- [#MondiadSpring Push to Green Zone 💵📈](https://afflift.com/f/threads/mondiadspring-push-to-green-zone-%F0%9F%92%B5%F0%9F%93%88.10555/)
 <!-- BLOG-POST-LIST:END -->
