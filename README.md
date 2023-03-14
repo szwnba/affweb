@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Performance Marketing Network - Weekly Payments - $250 min - 600+ Nutra, Ecom, Lead Offers](https://afflift.com/f/threads/the-performance-marketing-network-weekly-payments-250-min-600-nutra-ecom-lead-offers.10534/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 - [Domains Get Flagged](https://afflift.com/f/threads/domains-get-flagged.10553/)
-- [CPA.House - Top affiliate network with the best deals and high payouts](https://afflift.com/f/threads/cpa-house-top-affiliate-network-with-the-best-deals-and-high-payouts.7788/)
-- [I wanna become an offer owner, what does it take?](https://afflift.com/f/threads/i-wanna-become-an-offer-owner-what-does-it-take.10550/)
 - [Golden Goose Payments](https://afflift.com/f/threads/golden-goose-payments.10554/)
+- [Tips &amp; Tricks 💡 to Get the Most 🚀 Out of Your 🐥 Golden Goose 🐥 Account](https://afflift.com/f/threads/tips-tricks-%F0%9F%92%A1-to-get-the-most-%F0%9F%9A%80-out-of-your-%F0%9F%90%A5-golden-goose-%F0%9F%90%A5-account.7199/)
+- [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 <!-- BLOG-POST-LIST:END -->
