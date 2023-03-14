@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Your Affiliate Earnings with GanttPRO !](https://afflift.com/f/threads/revolutionize-your-affiliate-earnings-with-ganttpro.10556/)
-- [#MondiadSpring Push to Green Zone 💵📈](https://afflift.com/f/threads/mondiadspring-push-to-green-zone-%F0%9F%92%B5%F0%9F%93%88.10555/)
-- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
-- [Bing approval times](https://afflift.com/f/threads/bing-approval-times.10521/)
-- [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
+- [When to cut a campaign/ad/geo/zone/offer &lpar;using statistics and scary math stuff&rpar;...](https://afflift.com/f/threads/when-to-cut-a-campaign-ad-geo-zone-offer-using-statistics-and-scary-math-stuff.3476/)
+- [#MondiadSpring Try native ads from Mondiad and it&#39;s my first native campaign.](https://afflift.com/f/threads/mondiadspring-try-native-ads-from-mondiad-and-its-my-first-native-campaign.10528/)
+- [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
+- [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+- [First Taboola Ecommerce CampaignS](https://afflift.com/f/threads/first-taboola-ecommerce-campaigns.10375/)
 <!-- BLOG-POST-LIST:END -->
