@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup CPA Goal with RichAds &lpar;like PropellerAds&rpar;](https://afflift.com/f/threads/how-to-setup-cpa-goal-with-richads-like-propellerads.10402/)
+- [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
+- [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
+- [First Taboola Ecommerce CampaignS](https://afflift.com/f/threads/first-taboola-ecommerce-campaigns.10375/)
 - [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
-- [MGID — Native Advertising Platform](https://afflift.com/f/threads/mgid-%E2%80%94-native-advertising-platform.925/)
-- [#MondiadSpring Try native ads from Mondiad and it&#39;s my first native campaign.](https://afflift.com/f/threads/mondiadspring-try-native-ads-from-mondiad-and-its-my-first-native-campaign.10528/)
-- [Push notifications - cc cleaner - android checker](https://afflift.com/f/threads/push-notifications-cc-cleaner-android-checker.10564/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 <!-- BLOG-POST-LIST:END -->
