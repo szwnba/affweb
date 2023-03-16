@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DeveloperAbz.com Affiliate program](https://afflift.com/f/threads/developerabz-com-affiliate-program.10569/)
+- [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
+- [Am I Tracking With Skro Right?](https://afflift.com/f/threads/am-i-tracking-with-skro-right.10565/)
 - [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 - [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
-- [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
-- [#MondiadSpring-Approachx&lpar;In-House-offer&rpar;+Mondiad Push&lpar;Or inpage&rpar;](https://afflift.com/f/threads/mondiadspring-approachx-in-house-offer-mondiad-push-or-inpage.10561/)
-- [How to write emails about “making money”](https://afflift.com/f/threads/how-to-write-emails-about-%E2%80%9Cmaking-money%E2%80%9D.10568/)
 <!-- BLOG-POST-LIST:END -->
