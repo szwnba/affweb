@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/)
-- [How to Setup CPA Goal with RichAds &lpar;like PropellerAds&rpar;](https://afflift.com/f/threads/how-to-setup-cpa-goal-with-richads-like-propellerads.10402/)
-- [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
-- [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)
-- [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
+- [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
+- [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
+- [#MondiadSpring 🚀First campaign, follow along and see if I fall flat, or beginners luck!😂  🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%9A%80first-campaign-follow-along-and-see-if-i-fall-flat-or-beginners-luck-%F0%9F%98%82-%F0%9F%9A%80.10525/)
+- [$8000 on Nutra offer with Native ads in Malaysia](https://afflift.com/f/threads/8000-on-nutra-offer-with-native-ads-in-malaysia.10175/)
+- [Quick 100% ROI This Weekend - Monetizer + PropellerAds](https://afflift.com/f/threads/quick-100-roi-this-weekend-monetizer-propellerads.3004/)
 <!-- BLOG-POST-LIST:END -->
