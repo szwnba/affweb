@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [Not slow LP with very high clickloss](https://afflift.com/f/threads/not-slow-lp-with-very-high-clickloss.10570/)
-- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
-- [March PropellerAds Promo Codes 2023](https://afflift.com/f/threads/march-propellerads-promo-codes-2023.10510/)
-- [NATIVE + COD - #MondiadSpring CONTEST](https://afflift.com/f/threads/native-cod-mondiadspring-contest.10562/)
+- [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/)
+- [How to Setup CPA Goal with RichAds &lpar;like PropellerAds&rpar;](https://afflift.com/f/threads/how-to-setup-cpa-goal-with-richads-like-propellerads.10402/)
+- [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
+- [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)
+- [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
 <!-- BLOG-POST-LIST:END -->
