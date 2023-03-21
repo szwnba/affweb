@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
-- [Let me setup a Target CPA Push Campaign with RichAds, it will turn profitable!](https://afflift.com/f/threads/let-me-setup-a-target-cpa-push-campaign-with-richads-it-will-turn-profitable.10579/)
-- [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
-- [Find winning ads ?](https://afflift.com/f/threads/find-winning-ads.10584/)
-- [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+- [Mondiad Follow Along Contest - Vote For Your Favorite Follow Along #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-vote-for-your-favorite-follow-along-mondiadspring.10592/)
+- [How to launch campaigns on Outbrain](https://afflift.com/f/threads/how-to-launch-campaigns-on-outbrain.8180/)
+- [Gain complete control over BING - Goal: MAKING PROFIT](https://afflift.com/f/threads/gain-complete-control-over-bing-goal-making-profit.10586/)
+- [Afflift Is Like Blackhatworld... But Without The Filler!](https://afflift.com/f/threads/afflift-is-like-blackhatworld-but-without-the-filler.10591/)
+- [Testing Push traffic #MondiadSpring](https://afflift.com/f/threads/testing-push-traffic-mondiadspring.10538/)
 <!-- BLOG-POST-LIST:END -->
