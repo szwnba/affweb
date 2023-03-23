@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
-- [Which Ad Format is Best for X Vertical?](https://afflift.com/f/threads/which-ad-format-is-best-for-x-vertical.10585/)
-- [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
-- [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
-- [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
+- [How to use Google Sheets to check Monetizer offer status and start/stop traffic on PropellerAds](https://afflift.com/f/threads/how-to-use-google-sheets-to-check-monetizer-offer-status-and-start-stop-traffic-on-propellerads.10496/)
+- [Create a PHP Script to Optimize PropellerAds](https://afflift.com/f/threads/create-a-php-script-to-optimize-propellerads.8770/)
+- [Free Optimizer Tool - Booster Script ⚡](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1.10601/)
+- [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+- [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 <!-- BLOG-POST-LIST:END -->
