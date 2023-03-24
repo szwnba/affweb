@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello from Seoul, Korea!](https://afflift.com/f/threads/hello-from-seoul-korea.10605/)
+- [Propellerads user activity](https://afflift.com/f/threads/propellerads-user-activity.10581/)
+- [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
+- [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
 - [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
-- [Second follow along “ATTEMPT”- I messed up ? - Zeydoo 2025 Finance Survey x PropellerAds](https://afflift.com/f/threads/second-follow-along-%E2%80%9Cattempt%E2%80%9D-i-messed-up-zeydoo-2025-finance-survey-x-propellerads.10607/)
-- [Shareasale.com Application has been declined](https://afflift.com/f/threads/shareasale-com-application-has-been-declined.10451/)
-- [Hello from EZmob.com - Push - Pop - Native - Display](https://afflift.com/f/threads/hello-from-ezmob-com-push-pop-native-display.1018/)
-- [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 <!-- BLOG-POST-LIST:END -->
