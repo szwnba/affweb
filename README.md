@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Benefits of spying on your Campaign while running](https://afflift.com/f/threads/benefits-of-spying-on-your-campaign-while-running.8619/)
+- [Issue with offer](https://afflift.com/f/threads/issue-with-offer.10610/)
 - [2023 Contest - Facebook + Zeydoo + Monetizer in Latam](https://afflift.com/f/threads/2023-contest-facebook-zeydoo-monetizer-in-latam.10256/)
 - [Propeller Ads With Pin Submit Offer 💀 &quot;#PA10k&quot;](https://afflift.com/f/threads/propeller-ads-with-pin-submit-offer-%F0%9F%92%80-pa10k.8917/)
 - [I am creating a Mastermind - Facebook Ads](https://afflift.com/f/threads/i-am-creating-a-mastermind-facebook-ads.10613/)
-- [Second follow along “ATTEMPT”- I messed up ? - Zeydoo 2025 Finance Survey x PropellerAds](https://afflift.com/f/threads/second-follow-along-%E2%80%9Cattempt%E2%80%9D-i-messed-up-zeydoo-2025-finance-survey-x-propellerads.10607/)
-- [When to cut a campaign/ad/geo/zone/offer &lpar;using statistics and scary math stuff&rpar;...](https://afflift.com/f/threads/when-to-cut-a-campaign-ad-geo-zone-offer-using-statistics-and-scary-math-stuff.3476/)
 <!-- BLOG-POST-LIST:END -->
