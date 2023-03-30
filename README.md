@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
-- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+- [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
+- [Mondiad Follow Along Contest - Vote For Your Favorite Follow Along #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-vote-for-your-favorite-follow-along-mondiadspring.10592/)
+- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
 - [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
-- [Spy on Others Like professionals, Part 2 &lpar;Anstrex &rpar; Spy on Push](https://afflift.com/f/threads/spy-on-others-like-professionals-part-2-anstrex-spy-on-push.6733/)
-- [LGaming.com - a powerful ecosystem and affiliate network of the future available today!](https://afflift.com/f/threads/lgaming-com-a-powerful-ecosystem-and-affiliate-network-of-the-future-available-today.10618/)
+- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 <!-- BLOG-POST-LIST:END -->
