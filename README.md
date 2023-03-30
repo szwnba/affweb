@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
-- [We are Gasmobi - Affiliate network &amp; Advertiser!](https://afflift.com/f/threads/we-are-gasmobi-affiliate-network-advertiser.4621/)
-- [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
-- [Looking for dating offers that go straight to registration &lpar;no prelanders!&rpar;](https://afflift.com/f/threads/looking-for-dating-offers-that-go-straight-to-registration-no-prelanders.10310/)
-- [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
+- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
+- [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+- [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+- [Spy on Others Like professionals, Part 2 &lpar;Anstrex &rpar; Spy on Push](https://afflift.com/f/threads/spy-on-others-like-professionals-part-2-anstrex-spy-on-push.6733/)
+- [LGaming.com - a powerful ecosystem and affiliate network of the future available today!](https://afflift.com/f/threads/lgaming-com-a-powerful-ecosystem-and-affiliate-network-of-the-future-available-today.10618/)
 <!-- BLOG-POST-LIST:END -->
