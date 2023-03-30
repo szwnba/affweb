@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
+- [Should I Worry About Spy Tools?](https://afflift.com/f/threads/should-i-worry-about-spy-tools.10609/)
+- [Carrier billing seems difficult in Pops](https://afflift.com/f/threads/carrier-billing-seems-difficult-in-pops.10593/)
+- [Tiny Winner - Can we scale? Argentina Dating.](https://afflift.com/f/threads/tiny-winner-can-we-scale-argentina-dating.10621/)
 - [Mondiad Follow Along Contest - Vote For Your Favorite Follow Along #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-vote-for-your-favorite-follow-along-mondiadspring.10592/)
-- [Mondiad Follow Along Contest - $2500 in Prizes - $1k First Place! #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-2500-in-prizes-1k-first-place-mondiadspring.10445/)
-- [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
-- [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+- [Propellerads as Per Intermediate Course](https://afflift.com/f/threads/propellerads-as-per-intermediate-course.10626/)
 <!-- BLOG-POST-LIST:END -->
