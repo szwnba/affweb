@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+- [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)
 - [Should I Worry About Spy Tools?](https://afflift.com/f/threads/should-i-worry-about-spy-tools.10609/)
-- [Carrier billing seems difficult in Pops](https://afflift.com/f/threads/carrier-billing-seems-difficult-in-pops.10593/)
+- [Attempting TikTok First Time with a Zip Submit](https://afflift.com/f/threads/attempting-tiktok-first-time-with-a-zip-submit.8175/)
 - [Tiny Winner - Can we scale? Argentina Dating.](https://afflift.com/f/threads/tiny-winner-can-we-scale-argentina-dating.10621/)
-- [Mondiad Follow Along Contest - Vote For Your Favorite Follow Along #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-vote-for-your-favorite-follow-along-mondiadspring.10592/)
-- [Propellerads as Per Intermediate Course](https://afflift.com/f/threads/propellerads-as-per-intermediate-course.10626/)
 <!-- BLOG-POST-LIST:END -->
