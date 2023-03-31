@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mondiad Follow Along Contest - Vote For Your Favorite Follow Along #MondiadSpring](https://afflift.com/f/threads/mondiad-follow-along-contest-vote-for-your-favorite-follow-along-mondiadspring.10592/)
-- [Tiny Winner - Can we scale? Argentina Dating.](https://afflift.com/f/threads/tiny-winner-can-we-scale-argentina-dating.10621/)
-- [Itsjay24&#39;s Propeller Ads Journey To Pop Mastery](https://afflift.com/f/threads/itsjay24s-propeller-ads-journey-to-pop-mastery.10146/)
-- [I want to setup tracking between mgid + adcombo +bemob](https://afflift.com/f/threads/i-want-to-setup-tracking-between-mgid-adcombo-bemob.10628/)
-- [Revcontent Problem](https://afflift.com/f/threads/revcontent-problem.10629/)
+- [Let&#39;s run some ads](https://afflift.com/f/threads/lets-run-some-ads.5826/)
+- [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
+- [What are some of newbie friendly Pay-per-call network?](https://afflift.com/f/threads/what-are-some-of-newbie-friendly-pay-per-call-network.2438/)
+- [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
+- [I&#39;ve arrived](https://afflift.com/f/threads/ive-arrived.9706/)
 <!-- BLOG-POST-LIST:END -->
