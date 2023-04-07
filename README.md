@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 - [Revcontent Ad Review](https://afflift.com/f/threads/revcontent-ad-review.10681/)
-- [Monetizing Twitter | $0 to $1000/Month Profit](https://afflift.com/f/threads/monetizing-twitter-0-to-1000-month-profit.10640/)
-- [Quiz plugin for lead gen](https://afflift.com/f/threads/quiz-plugin-for-lead-gen.8886/)
-- [What would make your Friday?](https://afflift.com/f/threads/what-would-make-your-friday.10679/)
+- [Push traffic from SelfAdvertiser - Tier 4 Geo](https://afflift.com/f/threads/push-traffic-from-selfadvertiser-tier-4-geo.10655/)
+- [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
+- [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
+- [Used to PopAds features](https://afflift.com/f/threads/used-to-popads-features.10680/)
 <!-- BLOG-POST-LIST:END -->
