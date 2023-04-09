@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
-- [where can i buy pva facebook accounts](https://afflift.com/f/threads/where-can-i-buy-pva-facebook-accounts.10688/)
+- [Questions about landing pages](https://afflift.com/f/threads/questions-about-landing-pages.10685/)
+- [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+- [Hello from Bangladesh](https://afflift.com/f/threads/hello-from-bangladesh.10686/)
+- [Itsjay24&#39;s Propeller Ads Journey To Pop Mastery](https://afflift.com/f/threads/itsjay24s-propeller-ads-journey-to-pop-mastery.10146/)
 - [PIN API GIVEAWAY! 💛](https://afflift.com/f/threads/pin-api-giveaway-%F0%9F%92%9B.10656/)
-- [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
-- [Is Megapush Still Alive?](https://afflift.com/f/threads/is-megapush-still-alive.10684/)
 <!-- BLOG-POST-LIST:END -->
