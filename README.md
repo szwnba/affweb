@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
+- [Propeller Ads + Sweeps](https://afflift.com/f/threads/propeller-ads-sweeps.10697/)
+- [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
 - [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
-- [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/)
-- [Super Simple Landing Pages - Tutorial](https://afflift.com/f/threads/super-simple-landing-pages-tutorial.10696/)
-- [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+- [Propellerads user activity](https://afflift.com/f/threads/propellerads-user-activity.10581/)
 <!-- BLOG-POST-LIST:END -->
