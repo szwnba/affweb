@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Questions about landing pages](https://afflift.com/f/threads/questions-about-landing-pages.10685/)
-- [Hello from Bangladesh](https://afflift.com/f/threads/hello-from-bangladesh.10686/)
-- [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
+- [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
+- [Landing Page Creation Issues](https://afflift.com/f/threads/landing-page-creation-issues.10703/)
+- [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 - [Let&#39;s Try Pushing COD Offers With Push](https://afflift.com/f/threads/lets-try-pushing-cod-offers-with-push.10646/)
-- [Itsjay24&#39;s Propeller Ads Journey To Pop Mastery](https://afflift.com/f/threads/itsjay24s-propeller-ads-journey-to-pop-mastery.10146/)
+- [Never ending journey to success](https://afflift.com/f/threads/never-ending-journey-to-success.10694/)
 <!-- BLOG-POST-LIST:END -->
