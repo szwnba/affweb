@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/)
-- [Can We Use Aggressive Landers For Zeydoo Smart Surveys?](https://afflift.com/f/threads/can-we-use-aggressive-landers-for-zeydoo-smart-surveys.10710/)
-- [Mobile Content Offers and Push Traffic [PropellerAds]: A Follow-Along Journey to Profitability](https://afflift.com/f/threads/mobile-content-offers-and-push-traffic-propellerads-a-follow-along-journey-to-profitability.10666/)
-- [How much should I bid on scpm campaigns](https://afflift.com/f/threads/how-much-should-i-bid-on-scpm-campaigns.10702/)
-- [Landing Page Creation Issues](https://afflift.com/f/threads/landing-page-creation-issues.10703/)
+- [My run to green with Propellerads!](https://afflift.com/f/threads/my-run-to-green-with-propellerads.10440/)
+- [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
+- [Selfadvertiser + Already Working Campaign](https://afflift.com/f/threads/selfadvertiser-already-working-campaign.10701/)
+- [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
+- [Scaling big on SelfAdvertiser! 🤑](https://afflift.com/f/threads/scaling-big-on-selfadvertiser-%F0%9F%A4%91.10711/)
 <!-- BLOG-POST-LIST:END -->
