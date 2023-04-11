@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
-- [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
-- [Let me setup a Target CPA Push Campaign with RichAds, it will turn profitable!](https://afflift.com/f/threads/let-me-setup-a-target-cpa-push-campaign-with-richads-it-will-turn-profitable.10579/)
-- [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
-- [Selfadvertiser + Already Working Campaign](https://afflift.com/f/threads/selfadvertiser-already-working-campaign.10701/)
+- [Can We Use Aggressive Landers For Zeydoo Smart Surveys?](https://afflift.com/f/threads/can-we-use-aggressive-landers-for-zeydoo-smart-surveys.10710/)
+- [Mobile Content Offers and Push Traffic [PropellerAds]: A Follow-Along Journey to Profitability](https://afflift.com/f/threads/mobile-content-offers-and-push-traffic-propellerads-a-follow-along-journey-to-profitability.10666/)
+- [How much should I bid on scpm campaigns](https://afflift.com/f/threads/how-much-should-i-bid-on-scpm-campaigns.10702/)
+- [Landing Page Creation Issues](https://afflift.com/f/threads/landing-page-creation-issues.10703/)
+- [Anyone trying adsense arbitrage using native ads?](https://afflift.com/f/threads/anyone-trying-adsense-arbitrage-using-native-ads.10698/)
 <!-- BLOG-POST-LIST:END -->
