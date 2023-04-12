@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Landing Page Creation Issues](https://afflift.com/f/threads/landing-page-creation-issues.10703/)
-- [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
-- [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
-- [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
-- [ADxAD is looking for an affiliate team and media buyers. CPM Gambling and Betting.](https://afflift.com/f/threads/adxad-is-looking-for-an-affiliate-team-and-media-buyers-cpm-gambling-and-betting.10717/)
+- [Choosing an offer and My Startegy](https://afflift.com/f/threads/choosing-an-offer-and-my-startegy.10714/)
+- [Hey Everyone Glad to be here](https://afflift.com/f/threads/hey-everyone-glad-to-be-here.10713/)
+- [Hello from Dublin!](https://afflift.com/f/threads/hello-from-dublin.10718/)
+- [Hello from France !](https://afflift.com/f/threads/hello-from-france.10667/)
+- [Hello from Bangladesh](https://afflift.com/f/threads/hello-from-bangladesh.10686/)
 <!-- BLOG-POST-LIST:END -->
