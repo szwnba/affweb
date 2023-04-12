@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
-- [Native ads Traffic Network](https://afflift.com/f/threads/native-ads-traffic-network.9760/)
-- [Native ads buddy](https://afflift.com/f/threads/native-ads-buddy.10147/)
-- [Revcontent daily budget can&#39;t be spent](https://afflift.com/f/threads/revcontent-daily-budget-cant-be-spent.10060/)
-- [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
+- [Landing Page Creation Issues](https://afflift.com/f/threads/landing-page-creation-issues.10703/)
+- [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
+- [Hey Everyone Glad to be here](https://afflift.com/f/threads/hey-everyone-glad-to-be-here.10713/)
+- [Let&#39;s Try Pushing COD Offers With Push](https://afflift.com/f/threads/lets-try-pushing-cod-offers-with-push.10646/)
+- [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 <!-- BLOG-POST-LIST:END -->
