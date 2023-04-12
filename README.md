@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Native ads partners](https://afflift.com/f/threads/looking-for-native-ads-partners.9951/)
-- [PUSH SUBSCRIBERS](https://afflift.com/f/threads/push-subscribers.10716/)
-- [ADxAD is looking for an affiliate team and media buyers. CPM Gambling and Betting.](https://afflift.com/f/threads/adxad-is-looking-for-an-affiliate-team-and-media-buyers-cpm-gambling-and-betting.10717/)
+- [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
+- [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
 - [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
-- [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
+- [Scaling big on SelfAdvertiser! 🤑](https://afflift.com/f/threads/scaling-big-on-selfadvertiser-%F0%9F%A4%91.10711/)
+- [CPA Bidding for pop or push network?](https://afflift.com/f/threads/cpa-bidding-for-pop-or-push-network.10700/)
 <!-- BLOG-POST-LIST:END -->
