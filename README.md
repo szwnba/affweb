@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
-- [🔥 PropellerAds + Zeydoo](https://afflift.com/f/threads/%F0%9F%94%A5-propellerads-zeydoo.10724/)
+- [ADxAD is looking for an affiliate team and media buyers. CPM Gambling and Betting.](https://afflift.com/f/threads/adxad-is-looking-for-an-affiliate-team-and-media-buyers-cpm-gambling-and-betting.10717/)
+- [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/)
 - [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
-- [Join OLE777 Affiliate and Earn a 50% Profit Share Today!](https://afflift.com/f/threads/join-ole777-affiliate-and-earn-a-50-profit-share-today.10723/)
-- [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)
+- [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
+- [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
 <!-- BLOG-POST-LIST:END -->
