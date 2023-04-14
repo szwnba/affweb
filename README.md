@@ -1,10 +1,13 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yepads](https://afflift.com/f/threads/yepads.8483/)
+- [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
+- [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
+- [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/)
 - [Testing SelfAdvertiser&#39;s Traffic on mVas 🚀](https://afflift.com/f/threads/testing-selfadvertisers-traffic-on-mvas-%F0%9F%9A%80.10738/)
 - [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
 - [Does anyone know what happened to AirPush?](https://afflift.com/f/threads/does-anyone-know-what-happened-to-airpush.10736/)
 - [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
-- [Yepads](https://afflift.com/f/threads/yepads.8483/)
 - [Need help tracking cost properly with Bemob](https://afflift.com/f/threads/need-help-tracking-cost-properly-with-bemob.10737/)
 - [Expose my problem](https://afflift.com/f/threads/expose-my-problem.10735/)
 - [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
@@ -17,7 +20,4 @@
 - [Greetings from Cointraffic- crypto advertising network. Looking for quality crypto traffic?](https://afflift.com/f/threads/greetings-from-cointraffic-crypto-advertising-network-looking-for-quality-crypto-traffic.10543/)
 - [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
 - [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
-- [Scaling big on SelfAdvertiser! 🤑](https://afflift.com/f/threads/scaling-big-on-selfadvertiser-%F0%9F%A4%91.10711/)
-- [A Beginners Paradise? #MondiadSpring #NoCensorship](https://afflift.com/f/threads/a-beginners-paradise-mondiadspring-nocensorship.10518/)
-- [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
 <!-- BLOG-POST-LIST:END -->
