@@ -1,8 +1,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A.I. FAIL thread &lpar;post a pic&rpar;](https://afflift.com/f/threads/a-i-fail-thread-post-a-pic.10739/)
 - [Search Monetization and Search Arbitrage - Here is what you need to know](https://afflift.com/f/threads/search-monetization-and-search-arbitrage-here-is-what-you-need-to-know.8185/)
 - [Traffic Arbitrage 🚀](https://afflift.com/f/threads/traffic-arbitrage-%F0%9F%9A%80.10641/)
-- [A.I. FAIL thread &lpar;post a pic&rpar;](https://afflift.com/f/threads/a-i-fail-thread-post-a-pic.10739/)
 - [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
 - [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
 - [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
