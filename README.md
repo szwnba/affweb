@@ -1,9 +1,9 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yepads](https://afflift.com/f/threads/yepads.8483/)
 - [Testing SelfAdvertiser&#39;s Traffic on mVas 🚀](https://afflift.com/f/threads/testing-selfadvertisers-traffic-on-mvas-%F0%9F%9A%80.10738/)
 - [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 - [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
-- [Yepads](https://afflift.com/f/threads/yepads.8483/)
 - [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
 - [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/)
 - [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
