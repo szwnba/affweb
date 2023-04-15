@@ -1,9 +1,12 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
+- [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
+- [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
+- [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
 - [Yepads](https://afflift.com/f/threads/yepads.8483/)
 - [Testing SelfAdvertiser&#39;s Traffic on mVas 🚀](https://afflift.com/f/threads/testing-selfadvertisers-traffic-on-mvas-%F0%9F%9A%80.10738/)
 - [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
-- [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
 - [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
 - [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/)
 - [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
@@ -17,7 +20,4 @@
 - [First Time Testing CPA + Richads Follow Along](https://afflift.com/f/threads/first-time-testing-cpa-richads-follow-along.10692/)
 - [Stuck at $xx/day on pops](https://afflift.com/f/threads/stuck-at-xx-day-on-pops.10729/)
 - [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
-- [When to Cut a Zone That Has Conversions &lpar;Using Statistical Analysis&rpar;](https://afflift.com/f/threads/when-to-cut-a-zone-that-has-conversions-using-statistical-analysis.10611/)
-- [Greetings from Cointraffic- crypto advertising network. Looking for quality crypto traffic?](https://afflift.com/f/threads/greetings-from-cointraffic-crypto-advertising-network-looking-for-quality-crypto-traffic.10543/)
-- [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
 <!-- BLOG-POST-LIST:END -->
