@@ -1,8 +1,9 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto insurance, Home Improvement Offers.](https://afflift.com/f/threads/auto-insurance-home-improvement-offers.9021/)
+- [A.I. FAIL thread &lpar;post a pic&rpar;](https://afflift.com/f/threads/a-i-fail-thread-post-a-pic.10739/)
 - [Monetizer Leaderboard](https://afflift.com/f/threads/monetizer-leaderboard.10740/)
 - [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
-- [A.I. FAIL thread &lpar;post a pic&rpar;](https://afflift.com/f/threads/a-i-fail-thread-post-a-pic.10739/)
 - [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
 - [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
 - [Search Monetization and Search Arbitrage - Here is what you need to know](https://afflift.com/f/threads/search-monetization-and-search-arbitrage-here-is-what-you-need-to-know.8185/)
@@ -19,5 +20,4 @@
 - [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 - [Need help tracking cost properly with Bemob](https://afflift.com/f/threads/need-help-tracking-cost-properly-with-bemob.10737/)
 - [Expose my problem](https://afflift.com/f/threads/expose-my-problem.10735/)
-- [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
 <!-- BLOG-POST-LIST:END -->
