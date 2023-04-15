@@ -14,6 +14,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://51.ruyo.net/feed,https://sspai.com/feed,https://cn.nytimes.com/rss/,https://afflift.com/f/forums/-/index.rss"
-          max_post_count: 50
+          feed_list: "https://afflift.com/f/forums/-/index.rss,http://www.bbc.co.uk/zhongwen/simp/index.xml,https://www.voachinese.com/api/zm_yqebbyi,https://rss.dw.com/rdf/rss-chi-all,https://cn.nytimes.com/rss/,https://51.ruyo.net/feed,https://sspai.com/feed,"
+          max_post_count: 100
 
