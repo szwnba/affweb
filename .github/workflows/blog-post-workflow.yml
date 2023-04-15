@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://51.ruyo.net/feed,https://sspai.com/feed,https://cn.nytimes.com/rss/,https://afflift.com/f/forums/-/index.rss"
-          #max_post_count: 20
+          max_post_count: 50
 
