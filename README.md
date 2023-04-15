@@ -1,5 +1,6 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
 - [Auto insurance, Home Improvement Offers.](https://afflift.com/f/threads/auto-insurance-home-improvement-offers.9021/)
 - [A.I. FAIL thread &lpar;post a pic&rpar;](https://afflift.com/f/threads/a-i-fail-thread-post-a-pic.10739/)
 - [Monetizer Leaderboard](https://afflift.com/f/threads/monetizer-leaderboard.10740/)
@@ -19,5 +20,4 @@
 - [Does anyone know what happened to AirPush?](https://afflift.com/f/threads/does-anyone-know-what-happened-to-airpush.10736/)
 - [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 - [Need help tracking cost properly with Bemob](https://afflift.com/f/threads/need-help-tracking-cost-properly-with-bemob.10737/)
-- [Expose my problem](https://afflift.com/f/threads/expose-my-problem.10735/)
 <!-- BLOG-POST-LIST:END -->
