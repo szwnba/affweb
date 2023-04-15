@@ -27,6 +27,7 @@
 
 ### voa
 <!-- voa:START -->
+- [苏丹反政府力量据称已经控制总统府和机场，各方担心会引发全面冲突](https://www.voachinese.com/a/sudan-paramilitaries-say-they-have-seized-presidential-palace-04152023/7052014.html)
 - [中共政治局委员王毅会见德国外长，贝尔伯克：欧洲不接受单边改变台海现状](https://www.voachinese.com/a/china-says-it-hopes-germany-supports-peaceful-taiwan-reunification-04152023/7051933.html)
 - [中国对美国制裁中国企业表示反对，秦刚重申不向俄罗斯提供武器](https://www.voachinese.com/a/china-protests-us-sanctioning-of-firms-dealing-with-russia-04152023/7051819.html)
 - [中国对台实施贸易壁垒调查，一场完美设计好的局？](https://www.voachinese.com/a/is-china-s-investigation-of-trade-barriers-to-taiwan-a-perfectly-designed-trap-20230415/7051733.html)
@@ -46,7 +47,6 @@
 - [中德外长谈台海两岸问题，贝尔伯克：冲突必须和平解决；秦刚：台独与和平绝不能共存](https://www.voachinese.com/a/china-vows-not-to-sell-arms-to-any-party-in-ukraine-war-20230414/7050330.html)
 - [两家中国公司和五名个人因涉嫌走私芬太尼受到美国制裁](https://www.voachinese.com/a/u-s-sanctions-suppliers-of-precursor-chemicals-for-fentanyl-production-20230414/7050705.html)
 - [马克龙谈台湾引反弹，欧盟官员连续在台湾问题上表达强硬立场](https://www.voachinese.com/a/europe-presses-tough-taiwan-stance-after-backlash-against-macron-comments-20230414/7050411.html)
-- [香港留学生因在日言论回港后被捕 日教授关注“国安法”影响日本言论自由](https://www.voachinese.com/a/concerns-raised-over-hong-kong-national-security-laws-impact-on-japans-speech-freedom-20230414/7050755.html)
 <!-- voa:END -->
 
 ### dw
