@@ -25,15 +25,21 @@ jobs:
           feed_list: "https://www.voachinese.com/api/zm_yqebbyi"
           max_post_count: 10
           comment_tag_name: "voa"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
       - name: Pull in dw posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rss.dw.com/atom/rss-chi-all"
           max_post_count: 10
           comment_tag_name: "dw"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
       - name: Pull in nytimes posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://cn.nytimes.com/rss/"
           max_post_count: 10
           comment_tag_name: "nytimes"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
