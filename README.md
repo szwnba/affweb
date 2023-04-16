@@ -27,16 +27,6 @@
 - [政府自己告自己：新泽西州指控本州破坏了它必须保护的土地](https://www.voachinese.com/a/nj-charges-itself-with-damaging-land-it-was-bound-to-protect-/7051342.html)
 - [揭谎频道：美军在叙偷油？北京与俄罗斯和伊朗合奏的又一谎言](https://www.voachinese.com/a/fact-check-china-falsely-portrays-us-looting-syrian-oil/7051199.html)
 - [中国退出联合国野生动物疫情控制调查](https://www.voachinese.com/a/china-out-of-un-s-wildlife-survey-for-pandemic-controls-20230414/7051202.html)
-- [乌克兰将中国科技公司小米列入“国际战争资助者”名单，小米表示“强烈反对”](https://www.voachinese.com/a/ukraine-s-anti-corruption-agency-designates-chinese-tech-brand-xiaomi-as-international-sponsor-of-war-20230414/7051263.html)
-- [前美国安顾问：美中是否因台湾爆发冲突“就看习有多大的虚荣心”](https://www.voachinese.com/a/us-china-taiwan-lyl-20230414/7051188.html)
-- [乌军从巴赫穆特一些地段撤离](https://www.voachinese.com/a/dead-17-wounded-in-russian-airstrike-in-sloviansk-20230414/7051261.html)
-- [“八方来朝”？习近平的“新秩序”到底有多大的吸引力？](https://www.voachinese.com/a/china-new-world-order-20230414/7051089.html)
-- [勤练国造UAR-10狙击枪技  乌克兰狙击手静待反攻时机](https://www.voachinese.com/a/ukrainian-sniper-says-counter-offensive-delayed-by-weather-20230415/7051094.html)
-- [印尼发生7.0级强烈地震](https://www.voachinese.com/a/powerful-7-0-magnitude-quake-strikes-indonesia-20230414/7051102.html)
-- [重大军情泄密案嫌疑人在联邦法庭过堂，当局公布诉状](https://www.voachinese.com/a/suspect-in-massive-leak-of-classified-documents-arraigned-20230414/7051106.html)
-- [中德外长谈台海两岸问题，贝尔伯克：冲突必须和平解决；秦刚：台独与和平绝不能共存](https://www.voachinese.com/a/china-vows-not-to-sell-arms-to-any-party-in-ukraine-war-20230414/7050330.html)
-- [两家中国公司和五名个人因涉嫌走私芬太尼受到美国制裁](https://www.voachinese.com/a/u-s-sanctions-suppliers-of-precursor-chemicals-for-fentanyl-production-20230414/7050705.html)
-- [马克龙谈台湾引反弹，欧盟官员连续在台湾问题上表达强硬立场](https://www.voachinese.com/a/europe-presses-tough-taiwan-stance-after-backlash-against-macron-comments-20230414/7050411.html)
 <!-- voa:END -->
 
 ### dw
