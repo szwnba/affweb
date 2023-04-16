@@ -16,6 +16,7 @@
 
 ### voa
 <!-- voa:START -->
+-  16 [普京称赞俄罗斯与中国的广泛关系](https://www.voachinese.com/a/putin-hails-russia-s-broad-ties-with-china-/7052921.html)
 -  16 [俄罗斯、乌克兰在东正教复活节交换更多战俘](https://www.voachinese.com/a/russia-ukraine-exchange-more-prisoners-on-orthodox-easter-/7052864.html)
 -  16 [巴西总统卢拉指责美欧延长乌克兰战争 华盛顿恼火指其倒向中俄](https://www.voachinese.com/a/brazil-talks-about-mediation-of-the-ukraine-war-04162023/7052789.html)
 -  16 [第一代农民工“趴活”中，老龄化中国的终极挑战](https://www.voachinese.com/a/china-tightens-age-limits-for-workers-impacting-livelihoods-of-80-million-elderly-migrant-workers-20230416/7052738.html)
@@ -24,8 +25,7 @@
 -  16 [台湾副总统称战争也会给中国造成灾难](https://www.voachinese.com/a/war-would-bring-disaster-to-china-too-taiwan-vice-president-says-20230416/7052496.html)
 -  16 [俄罗斯最新导弹袭击后，乌克兰等待美反导系统](https://www.voachinese.com/a/ukraine-waits-for-us-missile-system-in-wake-of-latest-russian-strike-20230416/7052479.html)
 -  15 [苏丹反政府力量据称已经控制总统府和机场，各方担心会引发全面冲突](https://www.voachinese.com/a/sudan-paramilitaries-say-they-have-seized-presidential-palace-04152023/7052014.html)
--  15 [中共政治局委员王毅会见德国外长，贝尔伯克：欧洲不接受单边改变台海现状](https://www.voachinese.com/a/china-says-it-hopes-germany-supports-peaceful-taiwan-reunification-04152023/7051933.html)
--  15 [中国对美国制裁中国企业表示反对，秦刚重申不向俄罗斯提供武器](https://www.voachinese.com/a/china-protests-us-sanctioning-of-firms-dealing-with-russia-04152023/7051819.html)<!-- voa:END -->
+-  15 [中共政治局委员王毅会见德国外长，贝尔伯克：欧洲不接受单边改变台海现状](https://www.voachinese.com/a/china-says-it-hopes-germany-supports-peaceful-taiwan-reunification-04152023/7051933.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
