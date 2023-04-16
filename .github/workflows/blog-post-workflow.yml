@@ -18,7 +18,7 @@ jobs:
           max_post_count: 10
           comment_tag_name: "bbc"
           date_format: "UTC: dd"
-          template: "$newline$date [$title]($url)"
+          template: "$newline $date [$title]($url)"
       - name: Pull in voa posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
