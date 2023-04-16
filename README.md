@@ -16,6 +16,7 @@
 
 ### voa
 <!-- voa:START -->
+- [台湾副总统称战争也会给中国造成灾难](https://www.voachinese.com/a/war-would-bring-disaster-to-china-too-taiwan-vice-president-says-20230416/7052496.html)
 - [俄罗斯最新导弹袭击后，乌克兰等待美反导系统](https://www.voachinese.com/a/ukraine-waits-for-us-missile-system-in-wake-of-latest-russian-strike-20230416/7052479.html)
 - [苏丹反政府力量据称已经控制总统府和机场，各方担心会引发全面冲突](https://www.voachinese.com/a/sudan-paramilitaries-say-they-have-seized-presidential-palace-04152023/7052014.html)
 - [中共政治局委员王毅会见德国外长，贝尔伯克：欧洲不接受单边改变台海现状](https://www.voachinese.com/a/china-says-it-hopes-germany-supports-peaceful-taiwan-reunification-04152023/7051933.html)
@@ -25,7 +26,6 @@
 - [帮助中国人逃避审查的知名博主被北京判处重刑](https://www.voachinese.com/a/an-iconic-blogger-helped-others-evade-censorship-then-beijing-caught-him-20230414/7051617.html)
 - [普京签署电子征兵法案](https://www.voachinese.com/a/7051620.html)
 - [政府自己告自己：新泽西州指控本州破坏了它必须保护的土地](https://www.voachinese.com/a/nj-charges-itself-with-damaging-land-it-was-bound-to-protect-/7051342.html)
-- [揭谎频道：美军在叙偷油？北京与俄罗斯和伊朗合奏的又一谎言](https://www.voachinese.com/a/fact-check-china-falsely-portrays-us-looting-syrian-oil/7051199.html)
 <!-- voa:END -->
 
 ### dw
