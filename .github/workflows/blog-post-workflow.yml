@@ -43,3 +43,11 @@ jobs:
           comment_tag_name: "nytimes"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
+      - name: Pull in FR posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://feedx.net/rss/rfi.xml"
+          max_post_count: 10
+          comment_tag_name: "FR"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"

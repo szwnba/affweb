@@ -55,3 +55,7 @@
 - [为什么说中国将主导电池产业的未来](https://cn.nytimes.com/business/20230413/china-sodium-batteries/?utm_source=RSS)
 - [在争议声中，旅美大熊猫丫丫准备返回中国](https://cn.nytimes.com/china/20230413/panda-china-memphis-zoo-ya-ya/?utm_source=RSS)
 <!-- nytimes:END -->
+
+### FR
+<!-- FR:START -->
+<!-- FR:END -->
