@@ -17,6 +17,7 @@ jobs:
           feed_list: "http://www.bbc.co.uk/zhongwen/simp/index.xml"
           max_post_count: 10
           comment_tag_name: "bbc"
+          date_format: "UTC: mm-dd"
           template: "$newline- [$title]($url) | $date"
       - name: Pull in voa posts
         uses: gautamkrishnar/blog-post-workflow@v1
