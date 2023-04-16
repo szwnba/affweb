@@ -41,16 +41,6 @@
 - [布林肯访问河内 美越提升关系对抗中国影响力](https://www.dw.com/zh/布林肯访问河内-美越提升关系对抗中国影响力/a-65332633?maca=chi-rss-chi-all-1127-xml-atom)
 - [日本首相演讲遇爆炸袭击 已安全脱身](https://www.dw.com/zh/日本首相演讲遇爆炸袭击-已安全脱身/a-65332540?maca=chi-rss-chi-all-1127-xml-atom)
 - [中国投资者深耕拉美 谁受益谁忧心？](https://www.dw.com/zh/中国投资者深耕拉美-谁受益谁忧心？/a-65271286?maca=chi-rss-chi-all-1127-xml-atom)
-- [社民党保守派推对华文件 批评外长贝尔博克](https://www.dw.com/zh/社民党保守派推对华文件-批评外长贝尔博克/a-65322354?maca=chi-rss-chi-all-1127-xml-atom)
-- [习近平会卢拉：谈经济合作、乌克兰战争](https://www.dw.com/zh/习近平会卢拉：谈经济合作、乌克兰战争/a-65322355?maca=chi-rss-chi-all-1127-xml-atom)
-- [德语媒体：舍本逐末](https://www.dw.com/zh/德语媒体：舍本逐末/a-65321836?maca=chi-rss-chi-all-1127-xml-atom)
-- [美国德州一奶牛场爆炸 18000头牛死亡](https://www.dw.com/zh/美国德州一奶牛场爆炸-18000头牛死亡/a-65320729?maca=chi-rss-chi-all-1127-xml-atom)
-- [化妆费近14万欧元 德外长公款支出引争议](https://www.dw.com/zh/化妆费近14万欧元-德外长公款支出引争议/a-65318417?maca=chi-rss-chi-all-1127-xml-atom)
-- [中国厂商小米被乌克兰列入战争资助者名单](https://www.dw.com/zh/中国厂商小米被乌克兰列入战争资助者名单/a-65318453?maca=chi-rss-chi-all-1127-xml-atom)
-- [美国泄密门:中国计划秘密向俄供应军火](https://www.dw.com/zh/美国泄密门-中国计划秘密向俄供应军火/a-65316799?maca=chi-rss-chi-all-1127-xml-atom)
-- [彭帅事件一年余 女子网球协会宣布恢复中国赛事](https://www.dw.com/zh/彭帅事件一年余-女子网球协会宣布恢复中国赛事/a-65316854?maca=chi-rss-chi-all-1127-xml-atom)
-- [貝爾博克談“降低風險”  秦剛說“最優的選擇”](https://www.dw.com/zh/貝爾博克談-降低風險-秦剛說-最優的選擇/a-65314039?maca=chi-rss-chi-all-1127-xml-atom)
-- [读历史看当下: 德国在核电问题上为何如此纠结？](https://www.dw.com/zh/读历史看当下-德国在核电问题上为何如此纠结？/a-62742413?maca=chi-rss-chi-all-1127-xml-atom)
 <!-- dw:END -->
 
 ### nytimes
