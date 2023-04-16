@@ -16,6 +16,7 @@
 
 ### voa
 <!-- voa:START -->
+-  16 [第一代农民工“趴活”中，老龄化中国的终极挑战](https://www.voachinese.com/a/china-tightens-age-limits-for-workers-impacting-livelihoods-of-80-million-elderly-migrant-workers-20230416/7052738.html)
 -  16 [中国出口市场风向标广交会外国订单减少，“世界工厂”面临“无米之炊”困境](https://www.voachinese.com/a/at-china-s-largest-trade-fair-exporters-worry-about-world-economy-04162023/7052714.html)
 -  16 [七国集团外长、财长聚会东京讨论俄中朝三大全球安全威胁](https://www.voachinese.com/a/diplomates-gather-in-japan-at-a-historic-turning-point-04162023/7052656.html)
 -  16 [台湾副总统称战争也会给中国造成灾难](https://www.voachinese.com/a/war-would-bring-disaster-to-china-too-taiwan-vice-president-says-20230416/7052496.html)
@@ -24,8 +25,7 @@
 -  15 [中共政治局委员王毅会见德国外长，贝尔伯克：欧洲不接受单边改变台海现状](https://www.voachinese.com/a/china-says-it-hopes-germany-supports-peaceful-taiwan-reunification-04152023/7051933.html)
 -  15 [中国对美国制裁中国企业表示反对，秦刚重申不向俄罗斯提供武器](https://www.voachinese.com/a/china-protests-us-sanctioning-of-firms-dealing-with-russia-04152023/7051819.html)
 -  15 [中国对台实施贸易壁垒调查，一场完美设计好的局？](https://www.voachinese.com/a/is-china-s-investigation-of-trade-barriers-to-taiwan-a-perfectly-designed-trap-20230415/7051733.html)
--  15 [美国国务卿会晤越南总理](https://www.voachinese.com/a/us-secretary-of-state-meets-with-vietnamese-prime-minister-20230415/7051721.html)
--  15 [帮助中国人逃避审查的知名博主被北京判处重刑](https://www.voachinese.com/a/an-iconic-blogger-helped-others-evade-censorship-then-beijing-caught-him-20230414/7051617.html)<!-- voa:END -->
+-  15 [美国国务卿会晤越南总理](https://www.voachinese.com/a/us-secretary-of-state-meets-with-vietnamese-prime-minister-20230415/7051721.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
