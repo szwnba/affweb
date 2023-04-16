@@ -3,16 +3,16 @@
 
 ### bbc
 <!-- bbc:START -->
--[苏丹内乱：喀土穆冲突的来龙去脉](https://www.bbc.com/zhongwen/simp/world-65291811?at_medium=RSS&at_campaign=KARANGA) | Sun Apr 16 2023 8:50 AM
--[巴西总统卢拉访华：中巴协议指向科技、金融国际新体系](https://www.bbc.com/zhongwen/simp/world-65286148?at_medium=RSS&at_campaign=KARANGA) | Sat Apr 15 2023 12:03 PM
--[解放军环台军演、美国机密文件泄露、卢拉访华及本周更多重要故事](https://www.bbc.com/zhongwen/simp/65272580?at_medium=RSS&at_campaign=KARANGA) | Sat Apr 15 2023 3:09 AM
--[台湾2024总统大选：潜在的竞争者都有谁？](https://www.bbc.com/zhongwen/simp/chinese-news-65277246?at_medium=RSS&at_campaign=KARANGA) | Fri Apr 14 2023 12:48 PM
--[ChatGPT：风起云涌的生成式AI和紧随而至的监管 从中国网信办新规看新赛道走向](https://www.bbc.com/zhongwen/simp/chinese-news-65274804?at_medium=RSS&at_campaign=KARANGA) | Fri Apr 14 2023 11:07 AM
--[美国军事机密外泄事件中，一名空军国民警卫队员涉嫌被捕](https://www.bbc.com/zhongwen/simp/world-65272573?at_medium=RSS&at_campaign=KARANGA) | Fri Apr 14 2023 8:08 AM
--[台湾民安演习登场 台中首度纳入“战时灾害抢救”](https://www.bbc.com/zhongwen/simp/chinese-news-65273165?at_medium=RSS&at_campaign=KARANGA) | Fri Apr 14 2023 7:16 AM
--[“台湾黑熊揍打维尼”：意外爆红的非官方空军臂章](https://www.bbc.com/zhongwen/simp/chinese-news-65265089?at_medium=RSS&at_campaign=KARANGA) | Thu Apr 13 2023 12:22 PM
--[马斯克：推特总裁接受BBC专访的六个要点--仇恨言论，封杀TikTok，BBC标签争议等](https://www.bbc.com/zhongwen/simp/world-65259764?at_medium=RSS&at_campaign=KARANGA) | Thu Apr 13 2023 7:48 AM
--[巴西总统卢拉访华：经贸合作、乌克兰战争、一带一路是重点议题](https://www.bbc.com/zhongwen/simp/world-65248165?at_medium=RSS&at_campaign=KARANGA) | Thu Apr 13 2023 2:04 AM<!-- bbc:END -->
+- [苏丹内乱：喀土穆冲突的来龙去脉](https://www.bbc.com/zhongwen/simp/world-65291811?at_medium=RSS&at_campaign=KARANGA) | Sun Apr 16 2023 8:50 AM
+- [巴西总统卢拉访华：中巴协议指向科技、金融国际新体系](https://www.bbc.com/zhongwen/simp/world-65286148?at_medium=RSS&at_campaign=KARANGA) | Sat Apr 15 2023 12:03 PM
+- [解放军环台军演、美国机密文件泄露、卢拉访华及本周更多重要故事](https://www.bbc.com/zhongwen/simp/65272580?at_medium=RSS&at_campaign=KARANGA) | Sat Apr 15 2023 3:09 AM
+- [台湾2024总统大选：潜在的竞争者都有谁？](https://www.bbc.com/zhongwen/simp/chinese-news-65277246?at_medium=RSS&at_campaign=KARANGA) | Fri Apr 14 2023 12:48 PM
+- [ChatGPT：风起云涌的生成式AI和紧随而至的监管 从中国网信办新规看新赛道走向](https://www.bbc.com/zhongwen/simp/chinese-news-65274804?at_medium=RSS&at_campaign=KARANGA) | Fri Apr 14 2023 11:07 AM
+- [美国军事机密外泄事件中，一名空军国民警卫队员涉嫌被捕](https://www.bbc.com/zhongwen/simp/world-65272573?at_medium=RSS&at_campaign=KARANGA) | Fri Apr 14 2023 8:08 AM
+- [台湾民安演习登场 台中首度纳入“战时灾害抢救”](https://www.bbc.com/zhongwen/simp/chinese-news-65273165?at_medium=RSS&at_campaign=KARANGA) | Fri Apr 14 2023 7:16 AM
+- [“台湾黑熊揍打维尼”：意外爆红的非官方空军臂章](https://www.bbc.com/zhongwen/simp/chinese-news-65265089?at_medium=RSS&at_campaign=KARANGA) | Thu Apr 13 2023 12:22 PM
+- [马斯克：推特总裁接受BBC专访的六个要点--仇恨言论，封杀TikTok，BBC标签争议等](https://www.bbc.com/zhongwen/simp/world-65259764?at_medium=RSS&at_campaign=KARANGA) | Thu Apr 13 2023 7:48 AM
+- [巴西总统卢拉访华：经贸合作、乌克兰战争、一带一路是重点议题](https://www.bbc.com/zhongwen/simp/world-65248165?at_medium=RSS&at_campaign=KARANGA) | Thu Apr 13 2023 2:04 AM<!-- bbc:END -->
 
 ### voa
 <!-- voa:START -->
