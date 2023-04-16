@@ -16,6 +16,7 @@
 
 ### voa
 <!-- voa:START -->
+-  16 [中国出口市场风向标广交会外国订单减少，“世界工厂”面临“无米之炊”困境](https://www.voachinese.com/a/at-china-s-largest-trade-fair-exporters-worry-about-world-economy-04162023/7052714.html)
 -  16 [七国集团外长、财长聚会东京讨论俄中朝三大全球安全威胁](https://www.voachinese.com/a/diplomates-gather-in-japan-at-a-historic-turning-point-04162023/7052656.html)
 -  16 [台湾副总统称战争也会给中国造成灾难](https://www.voachinese.com/a/war-would-bring-disaster-to-china-too-taiwan-vice-president-says-20230416/7052496.html)
 -  16 [俄罗斯最新导弹袭击后，乌克兰等待美反导系统](https://www.voachinese.com/a/ukraine-waits-for-us-missile-system-in-wake-of-latest-russian-strike-20230416/7052479.html)
@@ -24,8 +25,7 @@
 -  15 [中国对美国制裁中国企业表示反对，秦刚重申不向俄罗斯提供武器](https://www.voachinese.com/a/china-protests-us-sanctioning-of-firms-dealing-with-russia-04152023/7051819.html)
 -  15 [中国对台实施贸易壁垒调查，一场完美设计好的局？](https://www.voachinese.com/a/is-china-s-investigation-of-trade-barriers-to-taiwan-a-perfectly-designed-trap-20230415/7051733.html)
 -  15 [美国国务卿会晤越南总理](https://www.voachinese.com/a/us-secretary-of-state-meets-with-vietnamese-prime-minister-20230415/7051721.html)
--  15 [帮助中国人逃避审查的知名博主被北京判处重刑](https://www.voachinese.com/a/an-iconic-blogger-helped-others-evade-censorship-then-beijing-caught-him-20230414/7051617.html)
--  15 [普京签署电子征兵法案](https://www.voachinese.com/a/7051620.html)<!-- voa:END -->
+-  15 [帮助中国人逃避审查的知名博主被北京判处重刑](https://www.voachinese.com/a/an-iconic-blogger-helped-others-evade-censorship-then-beijing-caught-him-20230414/7051617.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
