@@ -29,6 +29,7 @@
 
 ### dw
 <!-- dw:START -->
+-  17 [时隔近40年香港教区主教再次访问北京](https://www.dw.com/zh/时隔近40年香港教区主教再次访问北京/a-64933021?maca=chi-rss-chi-all-1127-xml-atom)
 -  17 [德语媒体：欧洲的中国难题](https://www.dw.com/zh/德语媒体：欧洲的中国难题/a-65347995?maca=chi-rss-chi-all-1127-xml-atom)
 -  17 [美日韩联合军演 应对朝鲜导弹威胁](https://www.dw.com/zh/美日韩联合军演-应对朝鲜导弹威胁/a-65347335?maca=chi-rss-chi-all-1127-xml-atom)
 -  17 [美舰法舰分别通过台海 中方反应区别明显](https://www.dw.com/zh/美舰法舰分别通过台海-中方反应区别明显/a-65346495?maca=chi-rss-chi-all-1127-xml-atom)
@@ -37,8 +38,7 @@
 -  17 [疫苗损害难界定 首起案件将开庭](https://www.dw.com/zh/疫苗损害难界定-首起案件将开庭/a-65281551?maca=chi-rss-chi-all-1127-xml-atom)
 -  17 [金援外交？中國斥資助尼加拉瓜建社宅](https://www.dw.com/zh/金援外交？中國斥資助尼加拉瓜建社宅/a-65344651?maca=chi-rss-chi-all-1127-xml-atom)
 -  17 [不受馬克宏爭議言論影響 法國國會代表團訪台](https://www.dw.com/zh/不受馬克宏爭議言論影響-法國國會代表團訪台/a-65343523?maca=chi-rss-chi-all-1127-xml-atom)
--  17 [德國取證支持烏克蘭 指俄犯下百起戰爭罪](https://www.dw.com/zh/德國取證支持烏克蘭-指俄犯下百起戰爭罪/a-65342859?maca=chi-rss-chi-all-1127-xml-atom)
--  17 [普京會中國防長 罕見在克宮接見非國家元首](https://www.dw.com/zh/普京會中國防長-罕見在克宮接見非國家元首/a-65338710?maca=chi-rss-chi-all-1127-xml-atom)<!-- dw:END -->
+-  17 [德國取證支持烏克蘭 指俄犯下百起戰爭罪](https://www.dw.com/zh/德國取證支持烏克蘭-指俄犯下百起戰爭罪/a-65342859?maca=chi-rss-chi-all-1127-xml-atom)<!-- dw:END -->
 
 ### nytimes
 <!-- nytimes:START -->
