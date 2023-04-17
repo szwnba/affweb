@@ -3,9 +3,9 @@
 
 ### bbc
 <!-- bbc:START -->
+-  17 [香港示威：台海两岸关系趋紧，流亡台湾港人面临新的恐惧](https://www.bbc.com/zhongwen/simp/chinese-news-65296005?at_medium=RSS&at_campaign=KARANGA)
 -  16 [苏丹内乱：喀土穆冲突的来龙去脉](https://www.bbc.com/zhongwen/simp/world-65291811?at_medium=RSS&at_campaign=KARANGA)
 -  15 [巴西总统卢拉访华：中巴协议指向科技、金融国际新体系](https://www.bbc.com/zhongwen/simp/world-65286148?at_medium=RSS&at_campaign=KARANGA)
--  15 [解放军环台军演、美国机密文件泄露、卢拉访华及本周更多重要故事](https://www.bbc.com/zhongwen/simp/65272580?at_medium=RSS&at_campaign=KARANGA)
 -  14 [台湾2024总统大选：潜在的竞争者都有谁？](https://www.bbc.com/zhongwen/simp/chinese-news-65277246?at_medium=RSS&at_campaign=KARANGA)
 -  14 [ChatGPT：风起云涌的生成式AI和紧随而至的监管 从中国网信办新规看新赛道走向](https://www.bbc.com/zhongwen/simp/chinese-news-65274804?at_medium=RSS&at_campaign=KARANGA)
 -  14 [美国军事机密外泄事件中，一名空军国民警卫队员涉嫌被捕](https://www.bbc.com/zhongwen/simp/world-65272573?at_medium=RSS&at_campaign=KARANGA)
