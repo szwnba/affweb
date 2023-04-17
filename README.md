@@ -29,10 +29,10 @@
 
 ### dw
 <!-- dw:START -->
+-  17 [中國防長會見普京 談加強軍事合作](https://www.dw.com/zh/中國防長會見普京-談加強軍事合作/a-65338710?maca=chi-rss-chi-all-1127-xml-atom)
 -  16 [巴西总统：愿与中国、阿联酋联手调解俄乌冲突](https://www.dw.com/zh/巴西总统：愿与中国、阿联酋联手调解俄乌冲突/a-65339949?maca=chi-rss-chi-all-1127-xml-atom)
 -  16 [墙外文摘：美国改变“一中政策”正当其时？](https://www.dw.com/zh/墙外文摘：美国改变-一中政策-正当其时？/a-65339255?maca=chi-rss-chi-all-1127-xml-atom)
 -  16 [中国是伙伴还是竞争对手？欧盟高官：视北京的行动而定](https://www.dw.com/zh/中国是伙伴还是竞争对手？欧盟高官：视北京的行动而定/a-65338711?maca=chi-rss-chi-all-1127-xml-atom)
--  16 [中国防长出访莫斯科 中俄如何“务实合作”？](https://www.dw.com/zh/中国防长出访莫斯科-中俄如何-务实合作-？/a-65338710?maca=chi-rss-chi-all-1127-xml-atom)
 -  16 [德国之声事实核查：15分钟城市限制居民活动?](https://www.dw.com/zh/德国之声事实核查：15分钟城市限制居民活动/a-65301103?maca=chi-rss-chi-all-1127-xml-atom)
 -  16 [日本批准在大阪开设国内首家赌场](https://www.dw.com/zh/日本批准在大阪开设国内首家赌场/a-65321659?maca=chi-rss-chi-all-1127-xml-atom)
 -  16 [苏丹再爆军事冲突 欧盟、中国呼吁停火](https://www.dw.com/zh/苏丹再爆军事冲突-欧盟、中国呼吁停火/a-65337709?maca=chi-rss-chi-all-1127-xml-atom)
