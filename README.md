@@ -45,13 +45,13 @@
 -  17 [为什么习近平仍未与泽连斯基通话](https://cn.nytimes.com/world/20230417/why-chinas-leader-hasnt-called-the-president-of-ukraine/?utm_source=RSS)
 -  17 [IMF警告世界经济面临严重下滑风险](https://cn.nytimes.com/business/20230412/imf-world-economic-outlook/?utm_source=RSS)
 -  17 [习近平会晤巴西总统，发表联合声明呼吁俄乌谈判](https://cn.nytimes.com/world/20230417/brazil-china-russia-ukraine/?utm_source=RSS)
+-  16 [压力之下，中国或对贫穷国家债务重组作出让步](https://cn.nytimes.com/business/20230417/china-debt-relief/?utm_source=RSS)
 -  16 [关于苏丹武装冲突，你应该知道的](https://cn.nytimes.com/world/20230417/sudan-khartoum-military/?utm_source=RSS)
 -  14 [更多国家会转向亲中俄吗？](https://cn.nytimes.com/opinion/20230414/biden-foreign-policy-china-russia/?utm_source=RSS)
 -  14 [泄露文件揭示美国为何称中国曾考虑军援俄罗斯](https://cn.nytimes.com/world/20230414/new-leaked-documents-offer-a-clue-about-us-warnings-that-china-was-considering-giving-russia-military-aid/?utm_source=RSS)
 -  14 [中国八年间以间谍罪名拘捕17名日本公民](https://cn.nytimes.com/asia-pacific/20230414/china-japan-spying-espionage/?utm_source=RSS)
 -  13 [“绝密”还是秘密吗？泄密事件暴露美国情报安全漏洞](https://cn.nytimes.com/usa/20230414/documents-leak-security-clearance/?utm_source=RSS)
--  13 [美国机密文件泄露事件嫌疑人被捕，为空军国民警卫队成员](https://cn.nytimes.com/usa/20230414/documents-leak-leaker-identity/?utm_source=RSS)
--  13 [马克龙为涉台争议言论辩护，称希望避免局势升级](https://cn.nytimes.com/world/20230413/france-macron-taiwan-china/?utm_source=RSS)<!-- nytimes:END -->
+-  13 [美国机密文件泄露事件嫌疑人被捕，为空军国民警卫队成员](https://cn.nytimes.com/usa/20230414/documents-leak-leaker-identity/?utm_source=RSS)<!-- nytimes:END -->
 
 ### FR
 <!-- FR:START -->
