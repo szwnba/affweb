@@ -16,6 +16,8 @@
 
 ### voa
 <!-- voa:START -->
+-  17 [警方说，一名中国男子在巴基斯坦被控亵渎神明](https://www.voachinese.com/a/chinese-man-charged-in-pakistan-20230417/7054259.html)
+-  17 [美联邦检察官指控40名中国警察跨国镇压美国境内华裔异议人士](https://www.voachinese.com/a/officers-of-china-s-national-police-charged-in-transnational-repression-schemes-targeting-u-s-residents-20230417/7054218.html)
 -  17 [香港财经局长访英 示威者尝试阻截疑载官员车辆 被男子打伤](https://www.voachinese.com/a/hong-kong-finance-ministers-visit-to-uk-faces-protests-as-demonstrators-tried-to-block-cars-that-officials-were-suspected-to-be-in-20230417/7054131.html)
 -  17 [梵蒂冈与北京关系紧张之际香港教区主教近40年来首次访京](https://www.voachinese.com/a/hong-kong-bishop-visits-beijing-in-historic-trip-amid-sino-vatican-tension-20230417/7053543.html)
 -  17 [澳大利亚外长：澳中关系不可能回到昔日的蜜月期](https://www.voachinese.com/a/australia-says-chinese-relations-won-t-improve-to-past-highs-20230417/7053658.html)
@@ -23,9 +25,7 @@
 -  17 [香港前学生领袖黄之锋再遭判监 要将中共牢底坐穿？](https://www.voachinese.com/a/hong-kong-activist-wong-jailed-for-3-months-over-information-breach-20230417/7053501.html)
 -  17 [聿文视界：习近平号召学习习近平思想，现代中国的荒谬一幕](https://www.voachinese.com/a/deng-yuwen-on-xi-thoughts-studying-20230417/7053702.html)
 -  17 [特斯拉上海厂因安全事故扣除员工绩效奖金惹众怒](https://www.voachinese.com/a/angry-tesla-shanghai-workers-vent-to-elon-musk-over-bonus-cuts-20230417/7053529.html)
--  17 [高调划禁航区，中共旨在发射气象卫星? 分析：中国太空军首次扰台测试](https://www.voachinese.com/a/china-launched-satellite-rocket-in-waters-north-of-taiwan-20230416/7052872.html)
--  17 [中国绕台军演后 美导弹驱逐舰通过台湾海峡](https://www.voachinese.com/a/us-warship-transits-taiwan-strait-in-sensitive-time-20230417/7053449.html)
--  17 [七国集团外长会议第二天 聚焦中俄朝威胁](https://www.voachinese.com/a/g7-2nd-day-meeting-focus-on-china-russia-north-korea-threats-20230417/7053408.html)<!-- voa:END -->
+-  17 [高调划禁航区，中共旨在发射气象卫星? 分析：中国太空军首次扰台测试](https://www.voachinese.com/a/china-launched-satellite-rocket-in-waters-north-of-taiwan-20230416/7052872.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
