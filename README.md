@@ -16,6 +16,8 @@
 
 ### voa
 <!-- voa:START -->
+-  17 [高调划禁航区，中共旨在发射气象卫星? 分析：中国太空军首次扰台测试](https://www.voachinese.com/a/china-launched-satellite-rocket-in-waters-north-of-taiwan-20230416/7052872.html)
+-  17 [中国绕台军演后 美导弹驱逐舰通过台湾海峡](https://www.voachinese.com/a/us-warship-transits-taiwan-strait-in-sensitive-time-20230417/7053449.html)
 -  17 [七国集团外长会议第二天 聚焦中俄朝威胁](https://www.voachinese.com/a/g7-2nd-day-meeting-focus-on-china-russia-north-korea-threats-20230417/7053408.html)
 -  17 [马克龙风波后首团法国议员访台 重申法国政府对台政策不变](https://www.voachinese.com/a/first-french-delegation-arrives-in-taiwan-after-macron-remarks-20230417/7053402.html)
 -  17 [中国卫星发射火箭残骸坠落台湾以北外海 33架次航班改道](https://www.voachinese.com/a/china-satellite-launch-affects-taiwan-20230417/7053361.html)
@@ -23,9 +25,7 @@
 -  16 [普京称赞俄罗斯与中国的广泛关系](https://www.voachinese.com/a/putin-hails-russia-s-broad-ties-with-china-/7052921.html)
 -  16 [俄罗斯、乌克兰在东正教复活节交换更多战俘](https://www.voachinese.com/a/russia-ukraine-exchange-more-prisoners-on-orthodox-easter-/7052864.html)
 -  16 [巴西总统卢拉指责美欧延长乌克兰战争 华盛顿恼火指其倒向中俄](https://www.voachinese.com/a/brazil-talks-about-mediation-of-the-ukraine-war-04162023/7052789.html)
--  16 [第一代农民工“趴活”中，老龄化中国的终极挑战](https://www.voachinese.com/a/china-tightens-age-limits-for-workers-impacting-livelihoods-of-80-million-elderly-migrant-workers-20230416/7052738.html)
--  16 [中国出口市场风向标广交会外国订单减少，“世界工厂”面临“无米之炊”困境](https://www.voachinese.com/a/at-china-s-largest-trade-fair-exporters-worry-about-world-economy-04162023/7052714.html)
--  16 [七国集团外长、财长聚会东京讨论俄中朝三大全球安全威胁](https://www.voachinese.com/a/diplomates-gather-in-japan-at-a-historic-turning-point-04162023/7052656.html)<!-- voa:END -->
+-  16 [第一代农民工“趴活”中，老龄化中国的终极挑战](https://www.voachinese.com/a/china-tightens-age-limits-for-workers-impacting-livelihoods-of-80-million-elderly-migrant-workers-20230416/7052738.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
