@@ -16,6 +16,7 @@
 
 ### voa
 <!-- voa:START -->
+-  17 [香港财经局长访英 示威者尝试阻截疑载官员车辆 被男子打伤](https://www.voachinese.com/a/hong-kong-finance-ministers-visit-to-uk-faces-protests-as-demonstrators-tried-to-block-cars-that-officials-were-suspected-to-be-in-20230417/7054131.html)
 -  17 [梵蒂冈与北京关系紧张之际香港教区主教近40年来首次访京](https://www.voachinese.com/a/hong-kong-bishop-visits-beijing-in-historic-trip-amid-sino-vatican-tension-20230417/7053543.html)
 -  17 [澳大利亚外长：澳中关系不可能回到昔日的蜜月期](https://www.voachinese.com/a/australia-says-chinese-relations-won-t-improve-to-past-highs-20230417/7053658.html)
 -  17 [美国“可能”击毙了一名伊斯兰国领导人](https://www.voachinese.com/a/us-likely-kills-senior-islamic-state-leader-20230417/7053531.html)
@@ -24,8 +25,7 @@
 -  17 [特斯拉上海厂因安全事故扣除员工绩效奖金惹众怒](https://www.voachinese.com/a/angry-tesla-shanghai-workers-vent-to-elon-musk-over-bonus-cuts-20230417/7053529.html)
 -  17 [高调划禁航区，中共旨在发射气象卫星? 分析：中国太空军首次扰台测试](https://www.voachinese.com/a/china-launched-satellite-rocket-in-waters-north-of-taiwan-20230416/7052872.html)
 -  17 [中国绕台军演后 美导弹驱逐舰通过台湾海峡](https://www.voachinese.com/a/us-warship-transits-taiwan-strait-in-sensitive-time-20230417/7053449.html)
--  17 [七国集团外长会议第二天 聚焦中俄朝威胁](https://www.voachinese.com/a/g7-2nd-day-meeting-focus-on-china-russia-north-korea-threats-20230417/7053408.html)
--  17 [马克龙风波后首团法国议员访台 重申法国政府对台政策不变](https://www.voachinese.com/a/first-french-delegation-arrives-in-taiwan-after-macron-remarks-20230417/7053402.html)<!-- voa:END -->
+-  17 [七国集团外长会议第二天 聚焦中俄朝威胁](https://www.voachinese.com/a/g7-2nd-day-meeting-focus-on-china-russia-north-korea-threats-20230417/7053408.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
