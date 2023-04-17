@@ -16,6 +16,7 @@
 
 ### voa
 <!-- voa:START -->
+-  17 [打造台湾武器库？美台或联合生产弹药，专家指比军售更快更有效](https://www.voachinese.com/a/us-defense-contractors-may-collaborate-with-taiwan-to-produce-weapons-20230417/7054345.html)
 -  17 [美众议院议长：共和党人将提高国家债务上限](https://www.voachinese.com/a/house-speaker-mccarthy-republicans-will-raise-us-debt-ceiling-20230417/7054300.html)
 -  17 [美司法部宣布逮捕两名被控帮助开办秘密中国警察站的纽约居民](https://www.voachinese.com/a/two-arrested-for-operating-illegal-overseas-police-station-of-the-chinese-government-20230417/7054446.html)
 -  17 [荷兰情报部门：中国是对荷兰经济安全的“最大威胁”](https://www.voachinese.com/a/china-greatest-threat-to-dutch-economic-security-dutch-intelligence-says-20230417/7054302.html)
@@ -24,8 +25,7 @@
 -  17 [美联邦检察官指控40名中国警察跨国镇压美国境内华裔异议人士](https://www.voachinese.com/a/officers-of-china-s-national-police-charged-in-transnational-repression-schemes-targeting-u-s-residents-20230417/7054218.html)
 -  17 [香港财经局长访英 示威者尝试阻截疑载官员车辆 被男子打伤](https://www.voachinese.com/a/hong-kong-finance-ministers-visit-to-uk-faces-protests-as-demonstrators-tried-to-block-cars-that-officials-were-suspected-to-be-in-20230417/7054131.html)
 -  17 [梵蒂冈与北京关系紧张之际香港教区主教近40年来首次访京](https://www.voachinese.com/a/hong-kong-bishop-visits-beijing-in-historic-trip-amid-sino-vatican-tension-20230417/7053543.html)
--  17 [澳大利亚外长：澳中关系不可能回到昔日的蜜月期](https://www.voachinese.com/a/australia-says-chinese-relations-won-t-improve-to-past-highs-20230417/7053658.html)
--  17 [美国“可能”击毙了一名伊斯兰国领导人](https://www.voachinese.com/a/us-likely-kills-senior-islamic-state-leader-20230417/7053531.html)<!-- voa:END -->
+-  17 [澳大利亚外长：澳中关系不可能回到昔日的蜜月期](https://www.voachinese.com/a/australia-says-chinese-relations-won-t-improve-to-past-highs-20230417/7053658.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
