@@ -42,6 +42,7 @@
 
 ### nytimes
 <!-- nytimes:START -->
+-  17 [为什么习近平仍未与泽连斯基通话](https://cn.nytimes.com/world/20230417/why-chinas-leader-hasnt-called-the-president-of-ukraine/?utm_source=RSS)
 -  17 [IMF警告世界经济面临严重下滑风险](https://cn.nytimes.com/business/20230412/imf-world-economic-outlook/?utm_source=RSS)
 -  17 [习近平会晤巴西总统，发表联合声明呼吁俄乌谈判](https://cn.nytimes.com/world/20230417/brazil-china-russia-ukraine/?utm_source=RSS)
 -  14 [更多国家会转向亲中俄吗？](https://cn.nytimes.com/opinion/20230414/biden-foreign-policy-china-russia/?utm_source=RSS)
@@ -50,8 +51,7 @@
 -  13 [“绝密”还是秘密吗？泄密事件暴露美国情报安全漏洞](https://cn.nytimes.com/usa/20230414/documents-leak-security-clearance/?utm_source=RSS)
 -  13 [美国机密文件泄露事件嫌疑人被捕，为空军国民警卫队成员](https://cn.nytimes.com/usa/20230414/documents-leak-leaker-identity/?utm_source=RSS)
 -  13 [马克龙为涉台争议言论辩护，称希望避免局势升级](https://cn.nytimes.com/world/20230413/france-macron-taiwan-china/?utm_source=RSS)
--  13 [当美国寻求与中国“脱钩”，德国企业扩大在华投资](https://cn.nytimes.com/business/20230413/germany-china-trade/?utm_source=RSS)
--  12 [如何避免一场中美战争](https://cn.nytimes.com/opinion/20230413/china-usa-war-avoid/?utm_source=RSS)<!-- nytimes:END -->
+-  13 [当美国寻求与中国“脱钩”，德国企业扩大在华投资](https://cn.nytimes.com/business/20230413/germany-china-trade/?utm_source=RSS)<!-- nytimes:END -->
 
 ### FR
 <!-- FR:START -->
