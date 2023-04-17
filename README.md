@@ -16,6 +16,8 @@
 
 ### voa
 <!-- voa:START -->
+-  17 [荷兰情报部门：中国是对荷兰经济安全的“最大威胁”](https://www.voachinese.com/a/china-greatest-threat-to-dutch-economic-security-dutch-intelligence-says-20230417/7054302.html)
+-  17 [美导弹驱逐舰穿越台湾海峡  坚守自由开放印太地区承诺](https://www.voachinese.com/a/arleigh-burke-class-guided-missile-destroyer-uss-milius-conducts-taiwan-strait-transit-operation-20230418/7054292.html)
 -  17 [警方说，一名中国男子在巴基斯坦被控亵渎神明](https://www.voachinese.com/a/chinese-man-charged-in-pakistan-20230417/7054259.html)
 -  17 [美联邦检察官指控40名中国警察跨国镇压美国境内华裔异议人士](https://www.voachinese.com/a/officers-of-china-s-national-police-charged-in-transnational-repression-schemes-targeting-u-s-residents-20230417/7054218.html)
 -  17 [香港财经局长访英 示威者尝试阻截疑载官员车辆 被男子打伤](https://www.voachinese.com/a/hong-kong-finance-ministers-visit-to-uk-faces-protests-as-demonstrators-tried-to-block-cars-that-officials-were-suspected-to-be-in-20230417/7054131.html)
@@ -23,9 +25,7 @@
 -  17 [澳大利亚外长：澳中关系不可能回到昔日的蜜月期](https://www.voachinese.com/a/australia-says-chinese-relations-won-t-improve-to-past-highs-20230417/7053658.html)
 -  17 [美国“可能”击毙了一名伊斯兰国领导人](https://www.voachinese.com/a/us-likely-kills-senior-islamic-state-leader-20230417/7053531.html)
 -  17 [香港前学生领袖黄之锋再遭判监 要将中共牢底坐穿？](https://www.voachinese.com/a/hong-kong-activist-wong-jailed-for-3-months-over-information-breach-20230417/7053501.html)
--  17 [聿文视界：习近平号召学习习近平思想，现代中国的荒谬一幕](https://www.voachinese.com/a/deng-yuwen-on-xi-thoughts-studying-20230417/7053702.html)
--  17 [特斯拉上海厂因安全事故扣除员工绩效奖金惹众怒](https://www.voachinese.com/a/angry-tesla-shanghai-workers-vent-to-elon-musk-over-bonus-cuts-20230417/7053529.html)
--  17 [高调划禁航区，中共旨在发射气象卫星? 分析：中国太空军首次扰台测试](https://www.voachinese.com/a/china-launched-satellite-rocket-in-waters-north-of-taiwan-20230416/7052872.html)<!-- voa:END -->
+-  17 [聿文视界：习近平号召学习习近平思想，现代中国的荒谬一幕](https://www.voachinese.com/a/deng-yuwen-on-xi-thoughts-studying-20230417/7053702.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
