@@ -16,6 +16,8 @@
 
 ### voa
 <!-- voa:START -->
+-  17 [中国卫星发射火箭残骸坠落台湾以北外海 33架次航班改道](https://www.voachinese.com/a/china-satellite-launch-affects-taiwan-20230417/7053361.html)
+-  17 [时隔三年 澳大利亚大型商业代表团将再访华](https://www.voachinese.com/a/australia-major-business-delegation-to-china-after-3-years-20230417/7053358.html)
 -  16 [普京称赞俄罗斯与中国的广泛关系](https://www.voachinese.com/a/putin-hails-russia-s-broad-ties-with-china-/7052921.html)
 -  16 [俄罗斯、乌克兰在东正教复活节交换更多战俘](https://www.voachinese.com/a/russia-ukraine-exchange-more-prisoners-on-orthodox-easter-/7052864.html)
 -  16 [巴西总统卢拉指责美欧延长乌克兰战争 华盛顿恼火指其倒向中俄](https://www.voachinese.com/a/brazil-talks-about-mediation-of-the-ukraine-war-04162023/7052789.html)
@@ -23,9 +25,7 @@
 -  16 [中国出口市场风向标广交会外国订单减少，“世界工厂”面临“无米之炊”困境](https://www.voachinese.com/a/at-china-s-largest-trade-fair-exporters-worry-about-world-economy-04162023/7052714.html)
 -  16 [七国集团外长、财长聚会东京讨论俄中朝三大全球安全威胁](https://www.voachinese.com/a/diplomates-gather-in-japan-at-a-historic-turning-point-04162023/7052656.html)
 -  16 [台湾副总统称战争也会给中国造成灾难](https://www.voachinese.com/a/war-would-bring-disaster-to-china-too-taiwan-vice-president-says-20230416/7052496.html)
--  16 [俄罗斯最新导弹袭击后，乌克兰等待美反导系统](https://www.voachinese.com/a/ukraine-waits-for-us-missile-system-in-wake-of-latest-russian-strike-20230416/7052479.html)
--  15 [苏丹反政府力量据称已经控制总统府和机场，各方担心会引发全面冲突](https://www.voachinese.com/a/sudan-paramilitaries-say-they-have-seized-presidential-palace-04152023/7052014.html)
--  15 [中共政治局委员王毅会见德国外长，贝尔伯克：欧洲不接受单边改变台海现状](https://www.voachinese.com/a/china-says-it-hopes-germany-supports-peaceful-taiwan-reunification-04152023/7051933.html)<!-- voa:END -->
+-  16 [俄罗斯最新导弹袭击后，乌克兰等待美反导系统](https://www.voachinese.com/a/ukraine-waits-for-us-missile-system-in-wake-of-latest-russian-strike-20230416/7052479.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
