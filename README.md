@@ -1,6 +1,6 @@
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 ### TODO
+-  自动化框架优化
+-  阿良Devops 训练营资料
 -  生财有术精华帖子、航海帖子浏览
 -  Affiliate 每日训练
 
