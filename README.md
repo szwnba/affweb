@@ -40,8 +40,7 @@
 <!-- nytimes:START -->
 -  18 [一名中国人在巴基斯坦被捕，被控亵渎神明](https://cn.nytimes.com/world/20230418/pakistan-china-blasphemy/?utm_source=RSS)
 -  18 [国产电动车崛起，中国消费者开始追捧“中国制造”](https://cn.nytimes.com/business/20230418/china-shanghai-auto-show/?utm_source=RSS)
--  18 [Zoom高管被起诉，涉嫌干扰“六四”纪念会议](https://cn.nytimes.com/technology/20201221/zoom-tiananmen-square/?utm_source=RSS)
--  17 [中美关系究竟哪里出了问题？](https://cn.nytimes.com/opinion/20230418/china-america-relationship/?utm_source=RSS)<!-- nytimes:END -->
+-  18 [Zoom高管被起诉，涉嫌干扰“六四”纪念会议](https://cn.nytimes.com/technology/20201221/zoom-tiananmen-square/?utm_source=RSS)<!-- nytimes:END -->
 
 ### FR
 <!-- FR:START -->
