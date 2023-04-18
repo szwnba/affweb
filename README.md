@@ -29,6 +29,8 @@
 
 ### dw
 <!-- dw:START -->
+-  18 [中国籍男子因涉嫌&quot;亵渎&quot;在巴基斯坦被逮捕](https://www.dw.com/zh/中国籍男子因涉嫌-亵渎-在巴基斯坦被逮捕/a-65359549?maca=chi-rss-chi-all-1127-xml-atom)
+-  18 [G7外长向中、俄发出明确信号](https://www.dw.com/zh/g7外长向中、俄发出明确信号/a-65357733?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [冯德莱恩：欧盟需要一致的对华战略](https://www.dw.com/zh/冯德莱恩：欧盟需要一致的对华战略/a-65357710?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [阿拉巴馬爆派對槍擊案 美國槍枝暴力有解嗎？](https://www.dw.com/zh/阿拉巴馬爆派對槍擊案-美國槍枝暴力有解嗎？/a-65355493?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [中國上季GDP加速成長 達一年來最高](https://www.dw.com/zh/中國上季gdp加速成長-達一年來最高/a-65354900?maca=chi-rss-chi-all-1127-xml-atom)
@@ -36,9 +38,7 @@
 -  18 [媒體：台再購百枚美反艦飛彈以防範中國](https://www.dw.com/zh/媒體：台再購百枚美反艦飛彈以防範中國/a-65353711?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [涉經營中國海外警察站 兩男遭美FBI逮捕](https://www.dw.com/zh/涉經營中國海外警察站-兩男遭美fbi逮捕/a-65353631?maca=chi-rss-chi-all-1127-xml-atom)
 -  17 [荷兰情报机构：中国是荷兰经济安全的最大威胁](https://www.dw.com/zh/荷兰情报机构：中国是荷兰经济安全的最大威胁/a-65349823?maca=chi-rss-chi-all-1127-xml-atom)
--  17 [汉诺威博览会开幕 “德国制造”招牌还在？](https://www.dw.com/zh/汉诺威博览会开幕-德国制造-招牌还在？/a-65350128?maca=chi-rss-chi-all-1127-xml-atom)
--  17 [G7会议：德国外长批评中国推动自己的规则](https://www.dw.com/zh/g7会议：德国外长批评中国推动自己的规则/a-65350115?maca=chi-rss-chi-all-1127-xml-atom)
--  17 [SpaceX大火箭试射推迟 今后拟用于载人登月](https://www.dw.com/zh/spacex大火箭试射推迟-今后拟用于载人登月/a-65349831?maca=chi-rss-chi-all-1127-xml-atom)<!-- dw:END -->
+-  17 [汉诺威博览会开幕 “德国制造”招牌还在？](https://www.dw.com/zh/汉诺威博览会开幕-德国制造-招牌还在？/a-65350128?maca=chi-rss-chi-all-1127-xml-atom)<!-- dw:END -->
 
 ### nytimes
 <!-- nytimes:START -->
