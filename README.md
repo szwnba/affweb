@@ -42,8 +42,7 @@
 -  18 [国产电动车崛起，中国消费者开始追捧“中国制造”](https://cn.nytimes.com/business/20230418/china-shanghai-auto-show/?utm_source=RSS)
 -  18 [Zoom高管被起诉，涉嫌干扰“六四”纪念会议](https://cn.nytimes.com/technology/20201221/zoom-tiananmen-square/?utm_source=RSS)
 -  17 [中美关系究竟哪里出了问题？](https://cn.nytimes.com/opinion/20230418/china-america-relationship/?utm_source=RSS)
--  17 [中国一季度GDP同比增4.5%，“清零”后经济开始复苏](https://cn.nytimes.com/business/20230418/china-gdp-q1-2023/?utm_source=RSS)
--  17 [美检方首次对中国海外警务站提起刑事指控，两名华人被捕](https://cn.nytimes.com/usa/20230418/fbi-chinese-police-outpost-nyc/?utm_source=RSS)<!-- nytimes:END -->
+-  17 [中国一季度GDP同比增4.5%，“清零”后经济开始复苏](https://cn.nytimes.com/business/20230418/china-gdp-q1-2023/?utm_source=RSS)<!-- nytimes:END -->
 
 ### FR
 <!-- FR:START -->
