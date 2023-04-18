@@ -19,6 +19,7 @@ jobs:
           comment_tag_name: "bbc"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
+          filter_dates: "daysAgo/1/"
       - name: Pull in voa posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -27,6 +28,7 @@ jobs:
           comment_tag_name: "voa"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
+          filter_dates: "daysAgo/1/"
       - name: Pull in dw posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -35,6 +37,7 @@ jobs:
           comment_tag_name: "dw"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
+          filter_dates: "daysAgo/1/"
       - name: Pull in nytimes posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -43,6 +46,7 @@ jobs:
           comment_tag_name: "nytimes"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
+          filter_dates: "daysAgo/1/"
       - name: Pull in FR posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -51,3 +55,4 @@ jobs:
           comment_tag_name: "FR"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
+          filter_dates: "daysAgo/1/"
