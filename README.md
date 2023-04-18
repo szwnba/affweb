@@ -1,5 +1,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+### TODO
+-  生财有术精华帖子、航海帖子浏览
+-  Affiliate 每日训练
 
 ### bbc
 <!-- bbc:START -->
