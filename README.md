@@ -1,7 +1,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ### TODO
--  Pycharm安装自动coding插件
 -  生财有术精华帖子、航海帖子浏览
 -  Affiliate 每日训练
 
