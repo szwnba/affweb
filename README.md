@@ -12,6 +12,8 @@
 
 ### voa
 <!-- voa:START -->
+-  18 [美在台协会前主席：台海战争并非不可避免而台湾大选将影响两岸关系](https://www.voachinese.com/a/taiwan-china-military-conflict-is-not-inescapable-041823/7055501.html)
+-  18 [日本领衔G7外长护台湾，专家:法国耍嘴皮子哄中国而已](https://www.voachinese.com/a/g7-foreign-minister-meeting-called-for-taiwan-strait-stability/7055520.html)
 -  18 [美菲强化联盟之际秦刚造访马尼拉 意图打楔子？](https://www.voachinese.com/a/china-s-top-envoy-qin-gang-to-visit-philippines-20230418/7055436.html)
 -  18 [黄浦江封：又一次历史转折：中国青年能逃过上山下乡的命运吗？](https://www.voachinese.com/a/jiang-feng-on-chinese-youth-going-to-countryside-20230418/7055415.html)
 -  18 [连接巴基斯坦和阿富汗的主要道路发生致命山体滑坡](https://www.voachinese.com/a/deadly-landslide-on-main-road-connecting-pakistan-and-afghanistan-20230418/7055161.html)
@@ -19,9 +21,7 @@
 -  18 [普京突然现身俄军占领的乌克兰领土，俄军加剧对巴赫穆特的进攻](https://www.voachinese.com/a/putin-visits-two-regions-of-occupied-ukraine-russia-steps-up-assault-on-bakhmut-041823/7055334.html)
 -  18 [布林肯呼吁俄罗斯释放美国记者](https://www.voachinese.com/a/blinken-calls-on-russia-to-release-us-journalist-20230418/7055152.html)
 -  18 [七国集团外长会议落幕 对俄中朝立场一致 团结力量“前所未见”](https://www.voachinese.com/a/g7-foreign-ministers-conclude-meeting-with-united-stand-on-russia-and-china-/7055131.html)
--  18 [颠倒是非登峰造极 中国防长据称赞扬普京促进世界和平](https://www.voachinese.com/a/chinese-defense-minister-reportedly-praised-putin-for-world-peace-20230418/7055116.html)
--  18 [争取2024大选门票 郭台铭称台湾不必在中美间选边站](https://www.voachinese.com/a/foxconn-founder-gou-says-taiwan-no-need-to-side-with-us-or-china-20230418/7055078.html)
--  18 [朝鲜半岛情势升级之际 习近平致电金正恩要加强战略沟通](https://www.voachinese.com/a/xi-calls-kim-to-strengthen-strategic-communication-20230418/7055073.html)<!-- voa:END -->
+-  18 [颠倒是非登峰造极 中国防长据称赞扬普京促进世界和平](https://www.voachinese.com/a/chinese-defense-minister-reportedly-praised-putin-for-world-peace-20230418/7055116.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
