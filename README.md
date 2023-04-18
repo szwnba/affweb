@@ -12,16 +12,16 @@
 
 ### voa
 <!-- voa:START -->
+-  18 [美参议院共和党人新报告：新冠病毒可能源于两次中国实验室泄漏事件](https://www.voachinese.com/a/new-senate-report-finds-covid-likely-originated-from-two-chinese-lab-leaks-20230418/7055983.html)
+-  18 [苏丹宣布停火后继续枪战](https://www.voachinese.com/a/shooting-continues-in-sudan-20230418/7055969.html)
+-  18 [俄罗斯加强对巴赫穆特轰炸  波兰与美军办反俄入侵演习](https://www.voachinese.com/a/polish-forces-carry-counteroffensive-exercise-few-miles-from-russia-s-kaliningrad-20230419/7055965.html)
 -  18 [美中缺乏沟通而危机四伏 两国智库吁增加接触使双边关系恢复正常](https://www.voachinese.com/a/us-china-lack-of-communication-channel-has-raised-concerns/7055820.html)
 -  18 [只要不承认就没这事儿？中国否认海外警站及跨国镇压](https://www.voachinese.com/a/china-calls-us-accusations-of-police-stations-groundless-20230418/7055448.html)
 -  18 [美在台协会前主席：台海战争并非不可避免而台湾大选将影响两岸关系](https://www.voachinese.com/a/taiwan-china-military-conflict-is-not-inescapable-041823/7055501.html)
 -  18 [日本领衔G7外长护台湾，专家:法国耍嘴皮子哄中国而已](https://www.voachinese.com/a/g7-foreign-minister-meeting-called-for-taiwan-strait-stability/7055520.html)
 -  18 [美菲强化联盟之际秦刚造访马尼拉 意图打楔子？](https://www.voachinese.com/a/china-s-top-envoy-qin-gang-to-visit-philippines-20230418/7055436.html)
 -  18 [黄浦江封：又一次历史转折：中国青年能逃过上山下乡的命运吗？](https://www.voachinese.com/a/jiang-feng-on-chinese-youth-going-to-countryside-20230418/7055415.html)
--  18 [连接巴基斯坦和阿富汗的主要道路发生致命山体滑坡](https://www.voachinese.com/a/deadly-landslide-on-main-road-connecting-pakistan-and-afghanistan-20230418/7055161.html)
--  18 [中国经济首季增长高于预期 持续增长需顶风前行](https://www.voachinese.com/a/china-s-economy-gathers-speed-global-risks-raise-challenges-to-outlook-20230418/7055159.html)
--  18 [普京突然现身俄军占领的乌克兰领土，俄军加剧对巴赫穆特的进攻](https://www.voachinese.com/a/putin-visits-two-regions-of-occupied-ukraine-russia-steps-up-assault-on-bakhmut-041823/7055334.html)
--  18 [布林肯呼吁俄罗斯释放美国记者](https://www.voachinese.com/a/blinken-calls-on-russia-to-release-us-journalist-20230418/7055152.html)<!-- voa:END -->
+-  18 [连接巴基斯坦和阿富汗的主要道路发生致命山体滑坡](https://www.voachinese.com/a/deadly-landslide-on-main-road-connecting-pakistan-and-afghanistan-20230418/7055161.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
