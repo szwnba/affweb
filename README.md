@@ -42,16 +42,16 @@
 
 ### nytimes
 <!-- nytimes:START -->
+-  18 [一名中国人在巴基斯坦被捕，被控亵渎神明](https://cn.nytimes.com/world/20230418/pakistan-china-blasphemy/?utm_source=RSS)
 -  18 [国产电动车崛起，中国消费者开始追捧“中国制造”](https://cn.nytimes.com/business/20230418/china-shanghai-auto-show/?utm_source=RSS)
+-  18 [Zoom高管被起诉，涉嫌干扰“六四”纪念会议](https://cn.nytimes.com/technology/20201221/zoom-tiananmen-square/?utm_source=RSS)
 -  18 [中国一季度GDP同比增4.5%，“清零”后经济开始复苏](https://cn.nytimes.com/business/20230418/china-gdp-q1-2023/?utm_source=RSS)
 -  17 [为什么习近平仍未与泽连斯基通话](https://cn.nytimes.com/world/20230417/why-chinas-leader-hasnt-called-the-president-of-ukraine/?utm_source=RSS)
 -  17 [IMF警告世界经济面临严重下滑风险](https://cn.nytimes.com/business/20230412/imf-world-economic-outlook/?utm_source=RSS)
 -  17 [习近平会晤巴西总统，发表联合声明呼吁俄乌谈判](https://cn.nytimes.com/world/20230417/brazil-china-russia-ukraine/?utm_source=RSS)
 -  16 [压力之下，中国或对贫穷国家债务重组作出让步](https://cn.nytimes.com/business/20230417/china-debt-relief/?utm_source=RSS)
 -  16 [关于苏丹武装冲突，你应该知道的](https://cn.nytimes.com/world/20230417/sudan-khartoum-military/?utm_source=RSS)
--  14 [更多国家会转向亲中俄吗？](https://cn.nytimes.com/opinion/20230414/biden-foreign-policy-china-russia/?utm_source=RSS)
--  14 [泄露文件揭示美国为何称中国曾考虑军援俄罗斯](https://cn.nytimes.com/world/20230414/new-leaked-documents-offer-a-clue-about-us-warnings-that-china-was-considering-giving-russia-military-aid/?utm_source=RSS)
--  14 [中国八年间以间谍罪名拘捕17名日本公民](https://cn.nytimes.com/asia-pacific/20230414/china-japan-spying-espionage/?utm_source=RSS)<!-- nytimes:END -->
+-  14 [更多国家会转向亲中俄吗？](https://cn.nytimes.com/opinion/20230414/biden-foreign-policy-china-russia/?utm_source=RSS)<!-- nytimes:END -->
 
 ### FR
 <!-- FR:START -->
