@@ -16,6 +16,7 @@
 
 ### voa
 <!-- voa:START -->
+-  18 [中国威胁与日俱增 台湾据信再购入400枚美制反舰导弹](https://www.voachinese.com/a/taiwan-reportedly-buying-400-anti-ship-missiles-20230418/7055020.html)
 -  18 [乌克兰局势动态：欧盟反对乌克兰谷物进口禁令；白宫批评巴西学舌中俄宣传](https://www.voachinese.com/a/latest-in-ukraine-eu-rejects-bans-on-ukraine-grain-20230417/7054954.html)
 -  18 [五角大楼：文件泄漏审查结果在45天内准备就绪](https://www.voachinese.com/a/pentagon-leak-review-findings-ready-in-45-days-20230417/7054958.html)
 -  18 [有意参选总统的台湾民众党主席柯文哲访华盛顿，向美方介绍台湾政党第三势力](https://www.voachinese.com/a/taiwan-third-party-presidential-candidate-ko-wenje-visits-washington-20230417/7054933.html)
@@ -24,8 +25,7 @@
 -  18 [炮火在逼近：走访巴赫穆特附近的恰索夫亚尔](https://www.voachinese.com/a/battleground-towns-inside-russia-s-war-in-ukraine-20230417/7054576.html)
 -  18 [共和党议员：指控特朗普的检察官布拉格忽视了纽约市的暴力犯罪问题](https://www.voachinese.com/a/house-republicans-probe-violent-crime-in-manhattan-20230417/7054506.html)
 -  17 [苏丹军事冲突的死亡人数超过100](https://www.voachinese.com/a/sudan-death-toll-over-100-20230417/7054555.html)
--  17 [美国“不需要也不想要中国秘密警察站” 逮捕行动重挫中共海外统战](https://www.voachinese.com/a/china-overseas-police-station-20230417/7054512.html)
--  17 [打造台湾武器库？美台或联合生产弹药，专家指比军售更快更有效](https://www.voachinese.com/a/us-defense-contractors-may-collaborate-with-taiwan-to-produce-weapons-20230417/7054345.html)<!-- voa:END -->
+-  17 [美国“不需要也不想要中国秘密警察站” 逮捕行动重挫中共海外统战](https://www.voachinese.com/a/china-overseas-police-station-20230417/7054512.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
