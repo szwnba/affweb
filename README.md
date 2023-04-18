@@ -16,16 +16,16 @@
 
 ### voa
 <!-- voa:START -->
+-  18 [美菲强化联盟之际秦刚造访马尼拉 意图打楔子？](https://www.voachinese.com/a/china-s-top-envoy-qin-gang-to-visit-philippines-20230418/7055436.html)
+-  18 [黄浦江封：又一次历史转折：中国青年能逃过上山下乡的命运吗？](https://www.voachinese.com/a/jiang-feng-on-chinese-youth-going-to-countryside-20230418/7055415.html)
+-  18 [连接巴基斯坦和阿富汗的主要道路发生致命山体滑坡](https://www.voachinese.com/a/deadly-landslide-on-main-road-connecting-pakistan-and-afghanistan-20230418/7055161.html)
+-  18 [中国经济首季增长高于预期 持续增长需顶风前行](https://www.voachinese.com/a/china-s-economy-gathers-speed-global-risks-raise-challenges-to-outlook-20230418/7055159.html)
+-  18 [普京突然现身俄军占领的乌克兰领土，俄军加剧对巴赫穆特的进攻](https://www.voachinese.com/a/putin-visits-two-regions-of-occupied-ukraine-russia-steps-up-assault-on-bakhmut-041823/7055334.html)
 -  18 [布林肯呼吁俄罗斯释放美国记者](https://www.voachinese.com/a/blinken-calls-on-russia-to-release-us-journalist-20230418/7055152.html)
 -  18 [七国集团外长会议落幕 对俄中朝立场一致 团结力量“前所未见”](https://www.voachinese.com/a/g7-foreign-ministers-conclude-meeting-with-united-stand-on-russia-and-china-/7055131.html)
 -  18 [颠倒是非登峰造极 中国防长据称赞扬普京促进世界和平](https://www.voachinese.com/a/chinese-defense-minister-reportedly-praised-putin-for-world-peace-20230418/7055116.html)
 -  18 [争取2024大选门票 郭台铭称台湾不必在中美间选边站](https://www.voachinese.com/a/foxconn-founder-gou-says-taiwan-no-need-to-side-with-us-or-china-20230418/7055078.html)
--  18 [朝鲜半岛情势升级之际 习近平致电金正恩要加强战略沟通](https://www.voachinese.com/a/xi-calls-kim-to-strengthen-strategic-communication-20230418/7055073.html)
--  18 [美英防长对话 奥斯汀重申AUKUS长期道路](https://www.voachinese.com/a/us-reaffirms-defense-tie-with-uk-australia-20230418/7055038.html)
--  18 [中国威胁与日俱增 台湾据信再购入400枚美制反舰导弹](https://www.voachinese.com/a/taiwan-reportedly-buying-400-anti-ship-missiles-20230418/7055020.html)
--  18 [乌克兰局势动态：欧盟反对乌克兰谷物进口禁令；白宫批评巴西学舌中俄宣传](https://www.voachinese.com/a/latest-in-ukraine-eu-rejects-bans-on-ukraine-grain-20230417/7054954.html)
--  18 [五角大楼：文件泄漏审查结果在45天内准备就绪](https://www.voachinese.com/a/pentagon-leak-review-findings-ready-in-45-days-20230417/7054958.html)
--  18 [有意参选总统的台湾民众党主席柯文哲访华盛顿，向美方介绍台湾政党第三势力](https://www.voachinese.com/a/taiwan-third-party-presidential-candidate-ko-wenje-visits-washington-20230417/7054933.html)<!-- voa:END -->
+-  18 [朝鲜半岛情势升级之际 习近平致电金正恩要加强战略沟通](https://www.voachinese.com/a/xi-calls-kim-to-strengthen-strategic-communication-20230418/7055073.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
