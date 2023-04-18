@@ -16,6 +16,8 @@
 
 ### voa
 <!-- voa:START -->
+-  18 [争取2024大选门票 郭台铭称台湾不必在中美间选边站](https://www.voachinese.com/a/foxconn-founder-gou-says-taiwan-no-need-to-side-with-us-or-china-20230418/7055078.html)
+-  18 [朝鲜半岛情势升级之际 习近平致电金正恩要加强战略沟通](https://www.voachinese.com/a/xi-calls-kim-to-strengthen-strategic-communication-20230418/7055073.html)
 -  18 [美英防长对话 奥斯汀重申AUKUS长期道路](https://www.voachinese.com/a/us-reaffirms-defense-tie-with-uk-australia-20230418/7055038.html)
 -  18 [中国威胁与日俱增 台湾据信再购入400枚美制反舰导弹](https://www.voachinese.com/a/taiwan-reportedly-buying-400-anti-ship-missiles-20230418/7055020.html)
 -  18 [乌克兰局势动态：欧盟反对乌克兰谷物进口禁令；白宫批评巴西学舌中俄宣传](https://www.voachinese.com/a/latest-in-ukraine-eu-rejects-bans-on-ukraine-grain-20230417/7054954.html)
@@ -23,9 +25,7 @@
 -  18 [有意参选总统的台湾民众党主席柯文哲访华盛顿，向美方介绍台湾政党第三势力](https://www.voachinese.com/a/taiwan-third-party-presidential-candidate-ko-wenje-visits-washington-20230417/7054933.html)
 -  18 [加拿大广播公司被加注“政府资助媒体”标签后暂停使用推特](https://www.voachinese.com/a/cbc-pausing-twitter-after-government-funded-media-label-20230417/7054943.html)
 -  18 [美国将向乌克兰提供额外帮助，对俄罗斯的战争罪展开调查](https://www.voachinese.com/a/us-to-offer-additional-help-to-ukraine-for-russian-war-crimes-probes-20230417/7054539.html)
--  18 [炮火在逼近：走访巴赫穆特附近的恰索夫亚尔](https://www.voachinese.com/a/battleground-towns-inside-russia-s-war-in-ukraine-20230417/7054576.html)
--  18 [共和党议员：指控特朗普的检察官布拉格忽视了纽约市的暴力犯罪问题](https://www.voachinese.com/a/house-republicans-probe-violent-crime-in-manhattan-20230417/7054506.html)
--  17 [苏丹军事冲突的死亡人数超过100](https://www.voachinese.com/a/sudan-death-toll-over-100-20230417/7054555.html)<!-- voa:END -->
+-  18 [炮火在逼近：走访巴赫穆特附近的恰索夫亚尔](https://www.voachinese.com/a/battleground-towns-inside-russia-s-war-in-ukraine-20230417/7054576.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
