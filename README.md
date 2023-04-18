@@ -46,12 +46,12 @@
 -  18 [国产电动车崛起，中国消费者开始追捧“中国制造”](https://cn.nytimes.com/business/20230418/china-shanghai-auto-show/?utm_source=RSS)
 -  18 [Zoom高管被起诉，涉嫌干扰“六四”纪念会议](https://cn.nytimes.com/technology/20201221/zoom-tiananmen-square/?utm_source=RSS)
 -  18 [中国一季度GDP同比增4.5%，“清零”后经济开始复苏](https://cn.nytimes.com/business/20230418/china-gdp-q1-2023/?utm_source=RSS)
+-  17 [美检方首次对中国海外警务站提起刑事指控，两名华人被捕](https://cn.nytimes.com/usa/20230418/fbi-chinese-police-outpost-nyc/?utm_source=RSS)
 -  17 [为什么习近平仍未与泽连斯基通话](https://cn.nytimes.com/world/20230417/why-chinas-leader-hasnt-called-the-president-of-ukraine/?utm_source=RSS)
 -  17 [IMF警告世界经济面临严重下滑风险](https://cn.nytimes.com/business/20230412/imf-world-economic-outlook/?utm_source=RSS)
 -  17 [习近平会晤巴西总统，发表联合声明呼吁俄乌谈判](https://cn.nytimes.com/world/20230417/brazil-china-russia-ukraine/?utm_source=RSS)
 -  16 [压力之下，中国或对贫穷国家债务重组作出让步](https://cn.nytimes.com/business/20230417/china-debt-relief/?utm_source=RSS)
--  16 [关于苏丹武装冲突，你应该知道的](https://cn.nytimes.com/world/20230417/sudan-khartoum-military/?utm_source=RSS)
--  14 [更多国家会转向亲中俄吗？](https://cn.nytimes.com/opinion/20230414/biden-foreign-policy-china-russia/?utm_source=RSS)<!-- nytimes:END -->
+-  16 [关于苏丹武装冲突，你应该知道的](https://cn.nytimes.com/world/20230417/sudan-khartoum-military/?utm_source=RSS)<!-- nytimes:END -->
 
 ### FR
 <!-- FR:START -->
