@@ -16,16 +16,16 @@
 
 ### voa
 <!-- voa:START -->
+-  18 [有意参选总统的台湾民众党主席柯文哲访华盛顿，向美方介绍台湾政党第三势力](https://www.voachinese.com/a/taiwan-third-party-presidential-candidate-ko-wenje-visits-washington-20230417/7054933.html)
+-  18 [加拿大广播公司被加注“政府资助媒体”标签后暂停使用推特](https://www.voachinese.com/a/cbc-pausing-twitter-after-government-funded-media-label-20230417/7054943.html)
+-  18 [美国将向乌克兰提供额外帮助，对俄罗斯的战争罪展开调查](https://www.voachinese.com/a/us-to-offer-additional-help-to-ukraine-for-russian-war-crimes-probes-20230417/7054539.html)
+-  18 [炮火在逼近：走访巴赫穆特附近的恰索夫亚尔](https://www.voachinese.com/a/battleground-towns-inside-russia-s-war-in-ukraine-20230417/7054576.html)
 -  18 [共和党议员：指控特朗普的检察官布拉格忽视了纽约市的暴力犯罪问题](https://www.voachinese.com/a/house-republicans-probe-violent-crime-in-manhattan-20230417/7054506.html)
 -  17 [苏丹军事冲突的死亡人数超过100](https://www.voachinese.com/a/sudan-death-toll-over-100-20230417/7054555.html)
 -  17 [美国“不需要也不想要中国秘密警察站” 逮捕行动重挫中共海外统战](https://www.voachinese.com/a/china-overseas-police-station-20230417/7054512.html)
 -  17 [打造台湾武器库？美台或联合生产弹药，专家指比军售更快更有效](https://www.voachinese.com/a/us-defense-contractors-may-collaborate-with-taiwan-to-produce-weapons-20230417/7054345.html)
 -  17 [美众议院议长：共和党人将提高国家债务上限](https://www.voachinese.com/a/house-speaker-mccarthy-republicans-will-raise-us-debt-ceiling-20230417/7054300.html)
--  17 [美司法部宣布逮捕两名被控帮助开办秘密中国警察站的纽约居民](https://www.voachinese.com/a/two-arrested-for-operating-illegal-overseas-police-station-of-the-chinese-government-20230417/7054446.html)
--  17 [荷兰情报部门：中国是对荷兰经济安全的“最大威胁”](https://www.voachinese.com/a/china-greatest-threat-to-dutch-economic-security-dutch-intelligence-says-20230417/7054302.html)
--  17 [美导弹驱逐舰穿越台湾海峡  坚守自由开放印太地区承诺](https://www.voachinese.com/a/arleigh-burke-class-guided-missile-destroyer-uss-milius-conducts-taiwan-strait-transit-operation-20230418/7054292.html)
--  17 [警方说，一名中国男子在巴基斯坦被控亵渎神明](https://www.voachinese.com/a/chinese-man-charged-in-pakistan-20230417/7054259.html)
--  17 [美联邦检察官指控40名中国警察跨国镇压美国境内华裔异议人士](https://www.voachinese.com/a/officers-of-china-s-national-police-charged-in-transnational-repression-schemes-targeting-u-s-residents-20230417/7054218.html)<!-- voa:END -->
+-  17 [美司法部宣布逮捕两名被控帮助开办秘密中国警察站的纽约居民](https://www.voachinese.com/a/two-arrested-for-operating-illegal-overseas-police-station-of-the-chinese-government-20230417/7054446.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
