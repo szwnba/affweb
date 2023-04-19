@@ -25,6 +25,7 @@
 
 ### dw
 <!-- dw:START -->
+-  19 [左手歡迎歐盟右手抓捕律師 北京釋放什麼訊息？](https://www.dw.com/zh/左手歡迎歐盟右手抓捕律師-北京釋放什麼訊息？/a-65367629?maca=chi-rss-chi-all-1127-xml-atom)
 -  19 [巴西欲斡旋俄烏和談 烏克蘭邀盧拉親訪戰地](https://www.dw.com/zh/巴西欲斡旋俄烏和談-烏克蘭邀盧拉親訪戰地/a-65359634?maca=chi-rss-chi-all-1127-xml-atom)
 -  19 [中俄防長會面 同意擴大軍貿往來](https://www.dw.com/zh/中俄防長會面-同意擴大軍貿往來/a-65367022?maca=chi-rss-chi-all-1127-xml-atom)
 -  19 [德國健身房爆刺擊事件 嫌犯逃亡中](https://www.dw.com/zh/德國健身房爆刺擊事件-嫌犯逃亡中/a-65366785?maca=chi-rss-chi-all-1127-xml-atom)
@@ -33,8 +34,7 @@
 -  18 [德国电动车在中国市场步履蹒跚](https://www.dw.com/zh/德国电动车在中国市场步履蹒跚/a-65359971?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [世界苦于通胀，中国要担心通缩吗？](https://www.dw.com/zh/世界苦于通胀，中国要担心通缩吗？/a-65359964?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [中国籍男子因涉嫌&quot;亵渎&quot;在巴基斯坦被逮捕](https://www.dw.com/zh/中国籍男子因涉嫌-亵渎-在巴基斯坦被逮捕/a-65359549?maca=chi-rss-chi-all-1127-xml-atom)
--  18 [G7外长向中、俄发出明确信号](https://www.dw.com/zh/g7外长向中、俄发出明确信号/a-65357733?maca=chi-rss-chi-all-1127-xml-atom)
--  18 [冯德莱恩：欧盟需要一致的对华战略](https://www.dw.com/zh/冯德莱恩：欧盟需要一致的对华战略/a-65357710?maca=chi-rss-chi-all-1127-xml-atom)<!-- dw:END -->
+-  18 [G7外长向中、俄发出明确信号](https://www.dw.com/zh/g7外长向中、俄发出明确信号/a-65357733?maca=chi-rss-chi-all-1127-xml-atom)<!-- dw:END -->
 
 ### nytimes
 <!-- nytimes:START -->
