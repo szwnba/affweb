@@ -24,11 +24,11 @@
 
 ### dw
 <!-- dw:START -->
+-  19 [巴西欲斡旋俄烏和談 烏克蘭邀盧拉親訪戰地](https://www.dw.com/zh/巴西欲斡旋俄烏和談-烏克蘭邀盧拉親訪戰地/a-65359634?maca=chi-rss-chi-all-1127-xml-atom)
 -  19 [中俄防長會面 同意擴大軍貿往來](https://www.dw.com/zh/中俄防長會面-同意擴大軍貿往來/a-65367022?maca=chi-rss-chi-all-1127-xml-atom)
 -  19 [德國健身房爆刺擊事件 嫌犯逃亡中](https://www.dw.com/zh/德國健身房爆刺擊事件-嫌犯逃亡中/a-65366785?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [德语媒体：乌克兰战争与台海局势](https://www.dw.com/zh/德语媒体：乌克兰战争与台海局势/a-65362852?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [普京、泽连斯基分别视察乌克兰战区](https://www.dw.com/zh/普京、泽连斯基分别视察乌克兰战区/a-65362930?maca=chi-rss-chi-all-1127-xml-atom)
--  18 [俄外长访问巴西 巴西驳斥美国批评](https://www.dw.com/zh/俄外长访问巴西-巴西驳斥美国批评/a-65359634?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [德国电动车在中国市场步履蹒跚](https://www.dw.com/zh/德国电动车在中国市场步履蹒跚/a-65359971?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [世界苦于通胀，中国要担心通缩吗？](https://www.dw.com/zh/世界苦于通胀，中国要担心通缩吗？/a-65359964?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [中国籍男子因涉嫌&quot;亵渎&quot;在巴基斯坦被逮捕](https://www.dw.com/zh/中国籍男子因涉嫌-亵渎-在巴基斯坦被逮捕/a-65359549?maca=chi-rss-chi-all-1127-xml-atom)
