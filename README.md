@@ -12,16 +12,16 @@
 
 ### voa
 <!-- voa:START -->
+-  19 [福克斯新闻以7.875亿美元达成选举舞弊诽谤案和解](https://www.voachinese.com/a/fox-settles-dominion-defamation-lawsuit-for-787-5-million-avoiding-trial-20230418/7056612.html)
+-  19 [联合国对美国监视联合国官员的报道表示关切](https://www.voachinese.com/a/un-expresses-concern-to-us-over-spying-reports-20230418/7056604.html)
+-  19 [李尚福访俄，力挺普京之余，垂涎技术转让](https://www.voachinese.com/a/what-china-defense-minister-russia-trip-tells-us-20230418/7056191.html)
 -  18 [中国国防部长誓言加强与俄罗斯的关系](https://www.voachinese.com/a/china-s-military-chief-vows-to-bolster-ties-with-russia-20230418/7056202.html)
 -  18 [官媒低调，社媒审查：中国阻止公众讨论北京医院致命大火](https://www.voachinese.com/a/beijing-fire-media-censorship-20230418/7056201.html)
 -  18 [泽连斯基与普京分别访问在乌东作战的乌俄两军](https://www.voachinese.com/a/latest-in-ukraine-zelenskyy-putin-visit-their-troops-in-eastern-ukraine-20230418/7056152.html)
 -  18 [布林肯：北京需要明确表明自己的意图](https://www.voachinese.com/a/blinken-says-beijing-needs-to-make-its-intentions-clear-20230418/7056166.html)
 -  18 [美众议院通过法案追责中国间谍气球](https://www.voachinese.com/a/u-s-house-approves-bill-seeking-more-information-on-chinese-airborne-surveillance-20230418/7056085.html)
 -  18 [美参议院共和党人新报告：新冠病毒可能源于两次中国实验室泄漏事件](https://www.voachinese.com/a/new-senate-report-finds-covid-likely-originated-from-two-chinese-lab-leaks-20230418/7055983.html)
--  18 [苏丹宣布停火后继续枪战](https://www.voachinese.com/a/shooting-continues-in-sudan-20230418/7055969.html)
--  18 [俄罗斯加强对巴赫穆特轰炸  波兰与美军办反俄入侵演习](https://www.voachinese.com/a/polish-forces-carry-counteroffensive-exercise-few-miles-from-russia-s-kaliningrad-20230419/7055965.html)
--  18 [美中缺乏沟通而危机四伏 两国智库吁增加接触使双边关系恢复正常](https://www.voachinese.com/a/us-china-lack-of-communication-channel-has-raised-concerns/7055820.html)
--  18 [只要不承认就没这事儿？中国否认海外警站及跨国镇压](https://www.voachinese.com/a/china-calls-us-accusations-of-police-stations-groundless-20230418/7055448.html)<!-- voa:END -->
+-  18 [苏丹宣布停火后继续枪战](https://www.voachinese.com/a/shooting-continues-in-sudan-20230418/7055969.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
