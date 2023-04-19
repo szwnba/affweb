@@ -12,16 +12,11 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  18 [这两天chatgpt是不是有什么问题？](https://www.advertcn.com/forum.php?mod=viewthread&tid=109971)
--  17 [AI项目的深度拆解分析，流量就这么粗暴](https://www.advertcn.com/forum.php?mod=viewthread&tid=109969)
--  16 [哪里能够抢注域名，国内的太坑了。](https://www.advertcn.com/forum.php?mod=viewthread&tid=109956)
--  16 [现在国内买矿机有推荐的地方吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=109950)
--  16 [小白求教一个广告联盟的问题，希望各位大佬能帮忙解答.....](https://www.advertcn.com/forum.php?mod=viewthread&tid=109949)
--  15 [有没有人可以投这个品](https://www.advertcn.com/forum.php?mod=viewthread&tid=109942)
--  14 [新人报道！欧美建站服务器求推荐一下](https://www.advertcn.com/forum.php?mod=viewthread&tid=109933)
--  14 [微软广告投放详解，助力品牌“扬帆出海”](https://www.advertcn.com/forum.php?mod=viewthread&tid=109931)
--  14 [2023-05 计划未来1年内做【30K】个采集站](https://www.advertcn.com/forum.php?mod=viewthread&tid=109929)
--  14 [落地页多段落文字翻译问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=109928)<!-- advertcn:END -->
+-  19 [发几个Media buy跑 Brand bid最近的一个号情况](https://www.advertcn.com/forum.php?mod=viewthread&tid=109999)
+-  19 [倪叶明这么收割，心是黑的吧。](https://www.advertcn.com/forum.php?mod=viewthread&tid=109998)
+-  19 [各位大神，谷歌Ads展示量低，转化更是没有，怎么解决?](https://www.advertcn.com/forum.php?mod=viewthread&tid=109993)
+-  19 [Affiliate是微商、直销？](https://www.advertcn.com/forum.php?mod=viewthread&tid=109991)
+-  18 [meida buy 、广告联盟广告投放，适合什么性格的人](https://www.advertcn.com/forum.php?mod=viewthread&tid=109980)<!-- advertcn:END -->
 
 ### afflift
 <!-- afflift:START -->
