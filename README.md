@@ -39,6 +39,7 @@
 ### nytimes
 <!-- nytimes:START -->
 -  19 [七国集团外长会议落幕，强调团结一致应对中俄](https://cn.nytimes.com/world/20230419/blinken-g7-russia-china/?utm_source=RSS)
+-  18 [车企轮番打折促销，中国汽车市场爆发价格战](https://cn.nytimes.com/business/20230419/china-electric-vehicle-prices/?utm_source=RSS)
 -  18 [为何中国的人口危机是一个全球问题](https://cn.nytimes.com/china/20230419/china-population-india/?utm_source=RSS)
 -  18 [龙应台：北京未开一枪，已给台湾社会带来裂痕](https://cn.nytimes.com/opinion/20230419/taiwan-china-war-us/?utm_source=RSS)
 -  18 [北京医院火灾致20余人死亡，民众质疑当局信息不透明](https://cn.nytimes.com/china/20230419/fire-beijing-hospital/?utm_source=RSS)
