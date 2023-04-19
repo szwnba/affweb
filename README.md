@@ -25,6 +25,7 @@
 
 ### dw
 <!-- dw:START -->
+-  19 [北京民营医院起火 29人死亡](https://www.dw.com/zh/北京民营医院起火-29人死亡/a-65369576?maca=chi-rss-chi-all-1127-xml-atom)
 -  19 [報告：中國野心擴至南極 欲強化衛星監控](https://www.dw.com/zh/報告：中國野心擴至南極-欲強化衛星監控/a-65368602?maca=chi-rss-chi-all-1127-xml-atom)
 -  19 [歐洲搶佔中國車市 上海車展看點有哪些？](https://www.dw.com/zh/歐洲搶佔中國車市-上海車展看點有哪些？/a-65368370?maca=chi-rss-chi-all-1127-xml-atom)
 -  19 [左手歡迎歐盟右手抓捕律師 北京釋放什麼訊息？](https://www.dw.com/zh/左手歡迎歐盟右手抓捕律師-北京釋放什麼訊息？/a-65367629?maca=chi-rss-chi-all-1127-xml-atom)
@@ -33,8 +34,7 @@
 -  19 [德國健身房爆刺擊事件 嫌犯逃亡中](https://www.dw.com/zh/德國健身房爆刺擊事件-嫌犯逃亡中/a-65366785?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [德语媒体：乌克兰战争与台海局势](https://www.dw.com/zh/德语媒体：乌克兰战争与台海局势/a-65362852?maca=chi-rss-chi-all-1127-xml-atom)
 -  18 [普京、泽连斯基分别视察乌克兰战区](https://www.dw.com/zh/普京、泽连斯基分别视察乌克兰战区/a-65362930?maca=chi-rss-chi-all-1127-xml-atom)
--  18 [德国电动车在中国市场步履蹒跚](https://www.dw.com/zh/德国电动车在中国市场步履蹒跚/a-65359971?maca=chi-rss-chi-all-1127-xml-atom)
--  18 [世界苦于通胀，中国要担心通缩吗？](https://www.dw.com/zh/世界苦于通胀，中国要担心通缩吗？/a-65359964?maca=chi-rss-chi-all-1127-xml-atom)<!-- dw:END -->
+-  18 [德国电动车在中国市场步履蹒跚](https://www.dw.com/zh/德国电动车在中国市场步履蹒跚/a-65359971?maca=chi-rss-chi-all-1127-xml-atom)<!-- dw:END -->
 
 ### nytimes
 <!-- nytimes:START -->
