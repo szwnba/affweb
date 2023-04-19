@@ -11,48 +11,37 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in bbc posts
+      - name: Pull in afflift posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://www.bbc.co.uk/zhongwen/simp/index.xml"
+          feed_list: "https://afflift.com/f/forums/-/index.rss"
+          max_post_count: 12
+          comment_tag_name: "afflift"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
+      - name: Pull in 无忧分享 posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://51.ruyo.net/feed"
+          max_post_count: 3
+          comment_tag_name: "ruyo"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
+      - name: Pull in advertcn posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.advertcn.com/forum.php?mod=guide&view=hot&rss=1"
+          max_post_count: 10
+          comment_tag_name: "advertcn"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
+      - name: Pull in sspai posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://sspai.com/feed"
           max_post_count: 5
-          comment_tag_name: "bbc"
+          comment_tag_name: "sspai"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
-          filter_dates: "daysAgo/1/"
-      - name: Pull in voa posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://www.voachinese.com/api/zm_yqebbyi"
-          max_post_count: 10
-          comment_tag_name: "voa"
-          date_format: "UTC: dd"
-          template: "$newline- $date [$title]($url)"
-          filter_dates: "daysAgo/1/"
-      - name: Pull in dw posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://rss.dw.com/atom/rss-chi-all"
-          max_post_count: 10
-          comment_tag_name: "dw"
-          date_format: "UTC: dd"
-          template: "$newline- $date [$title]($url)"
-          filter_dates: "daysAgo/1/"
-      - name: Pull in nytimes posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://cn.nytimes.com/rss/"
-          max_post_count: 8
-          comment_tag_name: "nytimes"
-          date_format: "UTC: dd"
-          template: "$newline- $date [$title]($url)"
-          filter_dates: "daysAgo/1/"
-      - name: Pull in FR posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://feedx.net/rss/rfi.xml"
-          max_post_count: 10
-          comment_tag_name: "FR"
-          date_format: "UTC: dd"
-          template: "$newline- $date [$title]($url)"
-          filter_dates: "daysAgo/1/"
+
+
