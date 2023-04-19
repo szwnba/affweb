@@ -30,8 +30,7 @@
 -  19 [为工程师而生的 Linear，为何也是设计师的灵感源泉](https://sspai.com/post/79347)
 -  19 [用 10 万条微信聊天记录和 280 篇博客文章，我克隆了一个数字版自己](https://sspai.com/post/79230)
 -  19 [也许是最适合普通人的 Pro 设备：PICO 4 Pro 上手体验](https://sspai.com/post/79364)
--  19 [派早报：小米 13 Ultra 发布、蔚来推出 ES6 纯电中型 SUV 等](https://sspai.com/post/79369)
--  18 [Discogs——见证二手唱片的繁荣、失落与复兴](https://sspai.com/prime/story/music-database-discogs)<!-- sspai:END -->
+-  19 [派早报：小米 13 Ultra 发布、蔚来推出 ES6 纯电中型 SUV 等](https://sspai.com/post/79369)<!-- sspai:END -->
 
 ### advertcn
 <!-- advertcn:START -->
