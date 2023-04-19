@@ -11,6 +11,7 @@
 
 ### voa
 <!-- voa:START -->
+-  19 [拜登总统夫妇公布纳税申报表 去年收入近58万美元](https://www.voachinese.com/a/the-widens-release-tax-returns-20230419/7056747.html)
 -  19 [海外警察站屡屡受挫后 中国公安部长约见国际刑警组织秘书长](https://www.voachinese.com/a/china-police-chief-meets-interpol-chief-amid-overseas-police-setback-20230419/7056725.html)
 -  19 [美国称正与伙伴国分享信息 共同打击中国海外警察站与跨国镇压](https://www.voachinese.com/a/us-international-partnership-chinese-overseas-police-station-20230419/7056715.html)
 -  19 [五角大楼官员示警中国对台威胁，众院美国与中共战略竞争委员会将举行台海冲突兵推](https://www.voachinese.com/a/us-house-china-committee-taiwan-tabletop-exercise-20230418/7056628.html)
@@ -19,8 +20,7 @@
 -  19 [联合国对美国监视联合国官员的报道表示关切](https://www.voachinese.com/a/un-expresses-concern-to-us-over-spying-reports-20230418/7056604.html)
 -  19 [李尚福访俄，力挺普京之余，垂涎技术转让](https://www.voachinese.com/a/what-china-defense-minister-russia-trip-tells-us-20230418/7056191.html)
 -  18 [中国国防部长誓言加强与俄罗斯的关系](https://www.voachinese.com/a/china-s-military-chief-vows-to-bolster-ties-with-russia-20230418/7056202.html)
--  18 [官媒低调，社媒审查：中国阻止公众讨论北京医院致命大火](https://www.voachinese.com/a/beijing-fire-media-censorship-20230418/7056201.html)
--  18 [泽连斯基与普京分别访问在乌东作战的乌俄两军](https://www.voachinese.com/a/latest-in-ukraine-zelenskyy-putin-visit-their-troops-in-eastern-ukraine-20230418/7056152.html)<!-- voa:END -->
+-  18 [官媒低调，社媒审查：中国阻止公众讨论北京医院致命大火](https://www.voachinese.com/a/beijing-fire-media-censorship-20230418/7056201.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
