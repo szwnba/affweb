@@ -20,7 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
+-  19 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
 -  19 [Can&#39;t find a winning campaign? Why don&#39;t you use a fully managed ad network?](https://afflift.com/f/threads/cant-find-a-winning-campaign-why-dont-you-use-a-fully-managed-ad-network.10771/)
+-  19 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
 -  19 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  19 [LGaming.com - a powerful ecosystem and affiliate network of the future available today!](https://afflift.com/f/threads/lgaming-com-a-powerful-ecosystem-and-affiliate-network-of-the-future-available-today.10618/)
 -  19 [Scaling big on SelfAdvertiser! 🤑](https://afflift.com/f/threads/scaling-big-on-selfadvertiser-%F0%9F%A4%91.10711/)
@@ -28,10 +31,7 @@
 -  19 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)
 -  19 [Facebook instream Ads](https://afflift.com/f/threads/facebook-instream-ads.10705/)
 -  19 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  19 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
--  19 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
--  19 [PUSHGROUND - Push Ads Traffic that Drives Results.](https://afflift.com/f/threads/pushground-push-ads-traffic-that-drives-results.10571/)
--  19 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)<!-- afflift:END -->
+-  19 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
