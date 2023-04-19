@@ -12,6 +12,8 @@
 
 ### voa
 <!-- voa:START -->
+-  19 [北京长峰医院大火29人亡 院长等12人被拘捕 当局继续严控公众舆论](https://www.voachinese.com/a/beijing-releases-hospital-fire-info-after-initial-coverup-attempt-20230419/7056802.html)
+-  19 [韩总统尹锡悦暗示可能军援乌克兰 称台湾、朝鲜问题属全球性问题](https://www.voachinese.com/a/south-korea-yoon-signals-shift-on-supplying-weapons-to-ukraine-20230419/7056786.html)
 -  19 [拜登总统夫妇公布纳税申报表 去年收入近58万美元](https://www.voachinese.com/a/the-widens-release-tax-returns-20230419/7056747.html)
 -  19 [海外警察站屡屡受挫后 中国公安部长约见国际刑警组织秘书长](https://www.voachinese.com/a/china-police-chief-meets-interpol-chief-amid-overseas-police-setback-20230419/7056725.html)
 -  19 [美国称正与伙伴国分享信息 共同打击中国海外警察站与跨国镇压](https://www.voachinese.com/a/us-international-partnership-chinese-overseas-police-station-20230419/7056715.html)
@@ -19,9 +21,7 @@
 -  19 [在华盛顿对美大学生演说，台湾民众党主席柯文哲：维持现状是不得已的选择，两岸应重启对话](https://www.voachinese.com/a/chairman-ko-of-taiwan-peoples-party-speaks-to-students-in-washington-on-cross-strait-policy-positions-20230418/7056587.html)
 -  19 [福克斯新闻以7.875亿美元达成选举舞弊诽谤案和解](https://www.voachinese.com/a/fox-settles-dominion-defamation-lawsuit-for-787-5-million-avoiding-trial-20230418/7056612.html)
 -  19 [联合国对美国监视联合国官员的报道表示关切](https://www.voachinese.com/a/un-expresses-concern-to-us-over-spying-reports-20230418/7056604.html)
--  19 [李尚福访俄，力挺普京之余，垂涎技术转让](https://www.voachinese.com/a/what-china-defense-minister-russia-trip-tells-us-20230418/7056191.html)
--  18 [中国国防部长誓言加强与俄罗斯的关系](https://www.voachinese.com/a/china-s-military-chief-vows-to-bolster-ties-with-russia-20230418/7056202.html)
--  18 [官媒低调，社媒审查：中国阻止公众讨论北京医院致命大火](https://www.voachinese.com/a/beijing-fire-media-censorship-20230418/7056201.html)<!-- voa:END -->
+-  19 [李尚福访俄，力挺普京之余，垂涎技术转让](https://www.voachinese.com/a/what-china-defense-minister-russia-trip-tells-us-20230418/7056191.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
