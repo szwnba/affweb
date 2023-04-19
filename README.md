@@ -37,9 +37,8 @@
 
 ### nytimes
 <!-- nytimes:START -->
--  19 [北京一家医院发生火灾，至少21人死亡](https://cn.nytimes.com/china/20230419/fire-beijing-hospital/?utm_source=RSS)
--  18 [一名中国人在巴基斯坦被捕，被控亵渎神明](https://cn.nytimes.com/world/20230418/pakistan-china-blasphemy/?utm_source=RSS)
--  18 [国产电动车崛起，中国消费者开始追捧“中国制造”](https://cn.nytimes.com/business/20230418/china-shanghai-auto-show/?utm_source=RSS)<!-- nytimes:END -->
+-  19 [七国集团外长会议落幕，强调团结一致应对中俄](https://cn.nytimes.com/world/20230419/blinken-g7-russia-china/?utm_source=RSS)
+-  19 [北京一家医院发生火灾，至少21人死亡](https://cn.nytimes.com/china/20230419/fire-beijing-hospital/?utm_source=RSS)<!-- nytimes:END -->
 
 ### FR
 <!-- FR:START -->
