@@ -39,6 +39,7 @@
 ### nytimes
 <!-- nytimes:START -->
 -  19 [七国集团外长会议落幕，强调团结一致应对中俄](https://cn.nytimes.com/world/20230419/blinken-g7-russia-china/?utm_source=RSS)
+-  18 [中美关系究竟哪里出了问题？](https://cn.nytimes.com/opinion/20230418/china-america-relationship/?utm_source=RSS)
 -  18 [北京医院火灾致20余人死亡，民众质疑当局信息不透明](https://cn.nytimes.com/china/20230419/fire-beijing-hospital/?utm_source=RSS)<!-- nytimes:END -->
 
 ### FR
