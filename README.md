@@ -11,6 +11,8 @@
 
 ### voa
 <!-- voa:START -->
+-  19 [五角大楼官员示警中国对台威胁，众院美国与中共战略竞争委员会将举行台海冲突兵推](https://www.voachinese.com/a/us-house-china-committee-taiwan-tabletop-exercise-20230418/7056628.html)
+-  19 [在华盛顿对美大学生演说，台湾民众党主席柯文哲：维持现状是不得已的选择，两岸应重启对话](https://www.voachinese.com/a/chairman-ko-of-taiwan-peoples-party-speaks-to-students-in-washington-on-cross-strait-policy-positions-20230418/7056587.html)
 -  19 [福克斯新闻以7.875亿美元达成选举舞弊诽谤案和解](https://www.voachinese.com/a/fox-settles-dominion-defamation-lawsuit-for-787-5-million-avoiding-trial-20230418/7056612.html)
 -  19 [联合国对美国监视联合国官员的报道表示关切](https://www.voachinese.com/a/un-expresses-concern-to-us-over-spying-reports-20230418/7056604.html)
 -  19 [李尚福访俄，力挺普京之余，垂涎技术转让](https://www.voachinese.com/a/what-china-defense-minister-russia-trip-tells-us-20230418/7056191.html)
@@ -18,9 +20,7 @@
 -  18 [官媒低调，社媒审查：中国阻止公众讨论北京医院致命大火](https://www.voachinese.com/a/beijing-fire-media-censorship-20230418/7056201.html)
 -  18 [泽连斯基与普京分别访问在乌东作战的乌俄两军](https://www.voachinese.com/a/latest-in-ukraine-zelenskyy-putin-visit-their-troops-in-eastern-ukraine-20230418/7056152.html)
 -  18 [布林肯：北京需要明确表明自己的意图](https://www.voachinese.com/a/blinken-says-beijing-needs-to-make-its-intentions-clear-20230418/7056166.html)
--  18 [美众议院通过法案追责中国间谍气球](https://www.voachinese.com/a/u-s-house-approves-bill-seeking-more-information-on-chinese-airborne-surveillance-20230418/7056085.html)
--  18 [美参议院共和党人新报告：新冠病毒可能源于两次中国实验室泄漏事件](https://www.voachinese.com/a/new-senate-report-finds-covid-likely-originated-from-two-chinese-lab-leaks-20230418/7055983.html)
--  18 [苏丹宣布停火后继续枪战](https://www.voachinese.com/a/shooting-continues-in-sudan-20230418/7055969.html)<!-- voa:END -->
+-  18 [美众议院通过法案追责中国间谍气球](https://www.voachinese.com/a/u-s-house-approves-bill-seeking-more-information-on-chinese-airborne-surveillance-20230418/7056085.html)<!-- voa:END -->
 
 ### dw
 <!-- dw:START -->
