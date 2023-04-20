@@ -18,6 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Introducing SubVerticalization: Targeted Traffic That Converts by Traffic Nomads](https://afflift.com/f/threads/introducing-subverticalization-targeted-traffic-that-converts-by-traffic-nomads.10776/)
+-  20 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)
+-  20 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
 -  20 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  20 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/)
 -  20 [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
@@ -26,10 +29,7 @@
 -  20 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  20 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 -  20 [Hello from EZmob.com - Push - Pop - Native - Display](https://afflift.com/f/threads/hello-from-ezmob-com-push-pop-native-display.1018/)
--  20 [Dynamic LP Based on Creative ID &lpar;or URL Parameters&rpar;](https://afflift.com/f/threads/dynamic-lp-based-on-creative-id-or-url-parameters.9736/)
--  20 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  20 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  20 [How to automatically send conversions to Google Ads?](https://afflift.com/f/threads/how-to-automatically-send-conversions-to-google-ads.10774/)<!-- afflift:END -->
+-  20 [Dynamic LP Based on Creative ID &lpar;or URL Parameters&rpar;](https://afflift.com/f/threads/dynamic-lp-based-on-creative-id-or-url-parameters.9736/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
