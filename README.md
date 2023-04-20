@@ -33,6 +33,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
 -  20 [零碎的卡片笔记谁最擅长整理输出？flomo、Seeds 和 Writeathon 对比](https://sspai.com/post/79373)
 -  20 [派早报：HomePod 系列支持声音识别、索尼上调游戏价格等](https://sspai.com/post/79383)
 -  19 [为工程师而生的 Linear，为何也是设计师的灵感源泉](https://sspai.com/post/79347)<!-- sspai:END -->
