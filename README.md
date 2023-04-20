@@ -18,9 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [[Case Study] Profit of $4,000 on iGaming Offers With CPM Traffic](https://afflift.com/f/threads/case-study-profit-of-4-000-on-igaming-offers-with-cpm-traffic.10775/)
 -  20 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
 -  20 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)
--  20 [[Case Study] Profit of $4,000 on iGaming Offers With CPM Traffic](https://afflift.com/f/threads/case-study-profit-of-4-000-on-igaming-offers-with-cpm-traffic.10775/)
 -  20 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)
 -  20 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
 -  20 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
