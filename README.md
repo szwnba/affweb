@@ -18,6 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [{Affsub2}  - CPA Network | Dating Smartlink, Nutra, Insurance offers](https://afflift.com/f/threads/affsub2-cpa-network-dating-smartlink-nutra-insurance-offers.9010/)
+-  20 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
 -  20 [Super Easy Dynamic Insertion - WordPress Tutorial](https://afflift.com/f/threads/super-easy-dynamic-insertion-wordpress-tutorial.10773/)
 -  20 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
 -  20 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)
@@ -27,9 +29,7 @@
 -  19 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
 -  19 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  19 [Intercourse Follow Along.](https://afflift.com/f/threads/intercourse-follow-along.10764/)
--  19 [if i have a balance on propllerads 40$ and have account cpa build how to use it to generate revenue around 3$ per day ?](https://afflift.com/f/threads/if-i-have-a-balance-on-propllerads-40-and-have-account-cpa-build-how-to-use-it-to-generate-revenue-around-3-per-day.10769/)
--  19 [I want to setup finance survey in propellers ads and admaven](https://afflift.com/f/threads/i-want-to-setup-finance-survey-in-propellers-ads-and-admaven.10766/)<!-- afflift:END -->
+-  19 [Intercourse Follow Along.](https://afflift.com/f/threads/intercourse-follow-along.10764/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
