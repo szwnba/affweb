@@ -18,6 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  20 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/)
 -  20 [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
 -  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  20 [Selfadvertiser + Already Working Campaign](https://afflift.com/f/threads/selfadvertiser-already-working-campaign.10701/)
@@ -27,9 +29,7 @@
 -  20 [Dynamic LP Based on Creative ID &lpar;or URL Parameters&rpar;](https://afflift.com/f/threads/dynamic-lp-based-on-creative-id-or-url-parameters.9736/)
 -  20 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  20 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  20 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  20 [How to automatically send conversions to Google Ads?](https://afflift.com/f/threads/how-to-automatically-send-conversions-to-google-ads.10774/)
--  20 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
+-  20 [How to automatically send conversions to Google Ads?](https://afflift.com/f/threads/how-to-automatically-send-conversions-to-google-ads.10774/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
