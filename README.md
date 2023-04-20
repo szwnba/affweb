@@ -18,6 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Clickdealer account has been frozen due to inactivity.](https://afflift.com/f/threads/clickdealer-account-has-been-frozen-due-to-inactivity.10778/)
+-  20 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
 -  20 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)
 -  20 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)
 -  20 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)
@@ -27,9 +29,7 @@
 -  20 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
 -  20 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
 -  20 [Can&#39;t find a winning campaign? Why don&#39;t you use a fully managed ad network?](https://afflift.com/f/threads/cant-find-a-winning-campaign-why-dont-you-use-a-fully-managed-ad-network.10771/)
--  20 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  20 [Introducing SubVerticalization: Targeted Traffic That Converts by Traffic Nomads](https://afflift.com/f/threads/introducing-subverticalization-targeted-traffic-that-converts-by-traffic-nomads.10776/)
--  20 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  20 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
