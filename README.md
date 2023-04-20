@@ -33,6 +33,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [派早报：HomePod 系列支持声音识别、索尼上调游戏价格等](https://sspai.com/post/79383)
 -  19 [为工程师而生的 Linear，为何也是设计师的灵感源泉](https://sspai.com/post/79347)
 -  19 [用 10 万条微信聊天记录和 280 篇博客文章，我克隆了一个数字版自己](https://sspai.com/post/79230)
 -  19 [也许是最适合普通人的 Pro 设备：PICO 4 Pro 上手体验](https://sspai.com/post/79364)<!-- sspai:END -->
