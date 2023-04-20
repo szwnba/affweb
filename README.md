@@ -18,6 +18,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  20 [How to automatically send conversions to Google Ads?](https://afflift.com/f/threads/how-to-automatically-send-conversions-to-google-ads.10774/)
+-  20 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  20 [First Time Testing CPA + Richads Follow Along](https://afflift.com/f/threads/first-time-testing-cpa-richads-follow-along.10692/)
 -  20 [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
 -  20 [{Affsub2}  - CPA Network | Dating Smartlink, Nutra, Insurance offers](https://afflift.com/f/threads/affsub2-cpa-network-dating-smartlink-nutra-insurance-offers.9010/)
 -  20 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
@@ -25,11 +29,7 @@
 -  20 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
 -  20 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)
 -  20 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)
--  19 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)
--  19 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  19 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
--  19 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  19 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
