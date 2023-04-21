@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [OGAds - Weekly Payments - Landing Pages - Hot Offers](https://afflift.com/f/threads/ogads-weekly-payments-landing-pages-hot-offers.3223/)
 -  21 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
 -  21 [Propeller Ads + Sweeps](https://afflift.com/f/threads/propeller-ads-sweeps.10697/)
 -  21 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
@@ -28,8 +29,7 @@
 -  20 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  20 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  20 [Clickdealer account has been frozen due to inactivity.](https://afflift.com/f/threads/clickdealer-account-has-been-frozen-due-to-inactivity.10778/)
--  20 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
--  20 [I need a landing page that convert](https://afflift.com/f/threads/i-need-a-landing-page-that-convert.10754/)<!-- afflift:END -->
+-  20 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
