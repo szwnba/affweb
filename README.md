@@ -18,18 +18,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
 -  21 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)
 -  21 [Youtube Traffic Arbitrage Making $100 Profit Daily 🚀](https://afflift.com/f/threads/youtube-traffic-arbitrage-making-100-profit-daily-%F0%9F%9A%80.10780/)
+-  21 [How to handle IP blocking?](https://afflift.com/f/threads/how-to-handle-ip-blocking.10781/)
+-  21 [Can&#39;t find a winning campaign? Why don&#39;t you use a fully managed ad network?](https://afflift.com/f/threads/cant-find-a-winning-campaign-why-dont-you-use-a-fully-managed-ad-network.10771/)
+-  21 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
 -  21 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
 -  21 [Clickdealer account has been frozen due to inactivity.](https://afflift.com/f/threads/clickdealer-account-has-been-frozen-due-to-inactivity.10778/)
 -  21 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  21 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
 -  21 [How to automatically send conversions to Google Ads?](https://afflift.com/f/threads/how-to-automatically-send-conversions-to-google-ads.10774/)
 -  21 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
--  21 [OGAds - Weekly Payments - Landing Pages - Hot Offers](https://afflift.com/f/threads/ogads-weekly-payments-landing-pages-hot-offers.3223/)
--  21 [Propeller Ads + Sweeps](https://afflift.com/f/threads/propeller-ads-sweeps.10697/)
--  21 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)<!-- afflift:END -->
+-  21 [OGAds - Weekly Payments - Landing Pages - Hot Offers](https://afflift.com/f/threads/ogads-weekly-payments-landing-pages-hot-offers.3223/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
