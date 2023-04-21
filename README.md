@@ -18,18 +18,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Clickdealer account has been frozen due to inactivity.](https://afflift.com/f/threads/clickdealer-account-has-been-frozen-due-to-inactivity.10778/)
 -  21 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
+-  21 [How to handle IP blocking?](https://afflift.com/f/threads/how-to-handle-ip-blocking.10781/)
+-  21 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
+-  21 [Scaling on SelfAdvertiser for a Tier 3 Offer 💰](https://afflift.com/f/threads/scaling-on-selfadvertiser-for-a-tier-3-offer-%F0%9F%92%B0.10786/)
+-  21 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+-  21 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
+-  21 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
+-  21 [Clickdealer account has been frozen due to inactivity.](https://afflift.com/f/threads/clickdealer-account-has-been-frozen-due-to-inactivity.10778/)
 -  21 [Cointraffic Review](https://afflift.com/f/threads/cointraffic-review.10785/)
 -  21 [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
 -  21 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
--  21 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
--  21 [playmoTV Smart DNS and VPN Affiliate Program](https://afflift.com/f/threads/playmotv-smart-dns-and-vpn-affiliate-program.10783/)
--  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  21 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
--  21 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
--  21 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
--  21 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)<!-- afflift:END -->
+-  21 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
