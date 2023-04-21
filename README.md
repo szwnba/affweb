@@ -33,6 +33,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [派早报：vivo 发布 X Flip、X Fold 2 折叠屏手机等](https://sspai.com/post/79391)
 -  20 [你每天用的中文有个节日，如何输入这件事也有些门道](https://sspai.com/post/79385)
 -  20 [旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
 -  20 [零碎的卡片笔记谁最擅长整理输出？flomo、Seeds 和 Writeathon 对比](https://sspai.com/post/79373)<!-- sspai:END -->
