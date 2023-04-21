@@ -18,6 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Get bump for your review on Trustpilot!🤑](https://afflift.com/f/threads/get-bump-for-your-review-on-trustpilot-%F0%9F%A4%91.10782/)
+-  21 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  21 [Dynamic LP Based on Creative ID &lpar;or URL Parameters&rpar;](https://afflift.com/f/threads/dynamic-lp-based-on-creative-id-or-url-parameters.9736/)
 -  21 [Ucliq - #1 Affiliate marketing platform to launch a partner network in 1 day](https://afflift.com/f/threads/ucliq-1-affiliate-marketing-platform-to-launch-a-partner-network-in-1-day.10052/)
 -  21 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  21 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
@@ -26,10 +29,7 @@
 -  21 [Clickdealer account has been frozen due to inactivity.](https://afflift.com/f/threads/clickdealer-account-has-been-frozen-due-to-inactivity.10778/)
 -  21 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  21 [Adsterra Direct Link Traffic Arbitrage Making 100% ROI 🚀](https://afflift.com/f/threads/adsterra-direct-link-traffic-arbitrage-making-100-roi-%F0%9F%9A%80.10770/)
--  21 [Youtube Traffic Arbitrage Making $100 Profit Daily 🚀](https://afflift.com/f/threads/youtube-traffic-arbitrage-making-100-profit-daily-%F0%9F%9A%80.10780/)
--  21 [How to handle IP blocking?](https://afflift.com/f/threads/how-to-handle-ip-blocking.10781/)
--  21 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
--  21 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)<!-- afflift:END -->
+-  21 [Youtube Traffic Arbitrage Making $100 Profit Daily 🚀](https://afflift.com/f/threads/youtube-traffic-arbitrage-making-100-profit-daily-%F0%9F%9A%80.10780/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
