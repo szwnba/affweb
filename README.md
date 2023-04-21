@@ -18,6 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Pushtorm.net - push notification service✅ Additional monetization of your traffic🔥](https://afflift.com/f/threads/pushtorm-net-push-notification-service%E2%9C%85-additional-monetization-of-your-traffic%F0%9F%94%A5.10363/)
+-  21 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
+-  21 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  21 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 -  21 [How to handle IP blocking?](https://afflift.com/f/threads/how-to-handle-ip-blocking.10781/)
 -  21 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
@@ -26,10 +29,7 @@
 -  21 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
 -  21 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
 -  21 [Clickdealer account has been frozen due to inactivity.](https://afflift.com/f/threads/clickdealer-account-has-been-frozen-due-to-inactivity.10778/)
--  21 [Cointraffic Review](https://afflift.com/f/threads/cointraffic-review.10785/)
--  21 [RichAds: Premium push, pops, in-page, calendar, direct click traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-traffic.991/)
--  21 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
--  21 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)<!-- afflift:END -->
+-  21 [Cointraffic Review](https://afflift.com/f/threads/cointraffic-review.10785/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
