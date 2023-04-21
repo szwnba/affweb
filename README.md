@@ -33,6 +33,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
 -  21 [让 iPad Pro 物尽其用，我是从这些方面入手的](https://sspai.com/post/78887)
 -  21 [重拾剥落时光，唤醒褪色记忆：AI 老照片修复工具比较](https://sspai.com/post/79376)
 -  21 [派早报：vivo 发布 X Flip、X Fold 2 折叠屏手机等](https://sspai.com/post/79391)<!-- sspai:END -->
