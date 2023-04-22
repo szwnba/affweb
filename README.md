@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [What Traffic Source for the US market?](https://afflift.com/f/threads/what-traffic-source-for-the-us-market.10789/)
 -  21 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  21 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
 -  21 [The best way to make money with affiliate marketing](https://afflift.com/f/threads/the-best-way-to-make-money-with-affiliate-marketing.10788/)
@@ -28,8 +29,7 @@
 -  21 [Scaling on SelfAdvertiser for a Tier 3 Offer 💰](https://afflift.com/f/threads/scaling-on-selfadvertiser-for-a-tier-3-offer-%F0%9F%92%B0.10786/)
 -  21 [Pushtorm.net - push notification service✅ Additional monetization of your traffic🔥](https://afflift.com/f/threads/pushtorm-net-push-notification-service%E2%9C%85-additional-monetization-of-your-traffic%F0%9F%94%A5.10363/)
 -  21 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
--  21 [How to handle IP blocking?](https://afflift.com/f/threads/how-to-handle-ip-blocking.10781/)
--  21 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)<!-- afflift:END -->
+-  21 [How to handle IP blocking?](https://afflift.com/f/threads/how-to-handle-ip-blocking.10781/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
