@@ -33,6 +33,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [瓶中的小人究竟何时醒来：人、人工、智能和人工智能](https://sspai.com/post/79388)
 -  21 [处理器简史｜PowerPC 04：短兵相接 孤注一掷](https://sspai.com/prime/story/sv-anecdotes-11)
 -  21 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79396)
 -  21 [App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
