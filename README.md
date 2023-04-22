@@ -18,6 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
+-  22 [The best way to make money with affiliate marketing](https://afflift.com/f/threads/the-best-way-to-make-money-with-affiliate-marketing.10788/)
 -  22 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
 -  22 [Pls Suggest Some Payment Gateway For My SMM Website](https://afflift.com/f/threads/pls-suggest-some-payment-gateway-for-my-smm-website.10793/)
 -  22 [How to run FB conversion campaign to a messenger like LINE?](https://afflift.com/f/threads/how-to-run-fb-conversion-campaign-to-a-messenger-like-line.10794/)
@@ -27,9 +29,7 @@
 -  22 [Create a PHP Script to Optimize PropellerAds](https://afflift.com/f/threads/create-a-php-script-to-optimize-propellerads.8770/)
 -  22 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)
 -  22 [What Traffic Source for the US market?](https://afflift.com/f/threads/what-traffic-source-for-the-us-market.10789/)
--  22 [The best way to make money with affiliate marketing](https://afflift.com/f/threads/the-best-way-to-make-money-with-affiliate-marketing.10788/)
--  22 [Host Your Landing Pages for Free &lpar;w/CDN&rpar; in 10 Minutes](https://afflift.com/f/threads/host-your-landing-pages-for-free-w-cdn-in-10-minutes.7673/)
--  22 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)<!-- afflift:END -->
+-  22 [Host Your Landing Pages for Free &lpar;w/CDN&rpar; in 10 Minutes](https://afflift.com/f/threads/host-your-landing-pages-for-free-w-cdn-in-10-minutes.7673/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
