@@ -18,18 +18,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
+-  22 [Scaling on SelfAdvertiser for a Tier 3 Offer 💰](https://afflift.com/f/threads/scaling-on-selfadvertiser-for-a-tier-3-offer-%F0%9F%92%B0.10786/)
+-  22 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
+-  22 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)
 -  22 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
 -  22 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  22 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  22 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
 -  22 [The best way to make money with affiliate marketing](https://afflift.com/f/threads/the-best-way-to-make-money-with-affiliate-marketing.10788/)
 -  22 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
 -  22 [Pls Suggest Some Payment Gateway For My SMM Website](https://afflift.com/f/threads/pls-suggest-some-payment-gateway-for-my-smm-website.10793/)
 -  22 [How to run FB conversion campaign to a messenger like LINE?](https://afflift.com/f/threads/how-to-run-fb-conversion-campaign-to-a-messenger-like-line.10794/)
--  22 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
--  22 [Can You Collect Monetizer Push Subs When You Run On Push Traffic?](https://afflift.com/f/threads/can-you-collect-monetizer-push-subs-when-you-run-on-push-traffic.10791/)
--  22 [Create a PHP Script to Optimize PropellerAds](https://afflift.com/f/threads/create-a-php-script-to-optimize-propellerads.8770/)
--  22 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)<!-- afflift:END -->
+-  22 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
