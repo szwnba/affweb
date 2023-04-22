@@ -18,10 +18,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
 -  22 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  22 [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
 -  22 [Why a Sweepstake offer categorized as Main Stream Video?](https://afflift.com/f/threads/why-a-sweepstake-offer-categorized-as-main-stream-video.10796/)
--  22 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
 -  22 [What Traffic Source for the US market?](https://afflift.com/f/threads/what-traffic-source-for-the-us-market.10789/)
 -  22 [Strongest Google Threshold Accounts | FB $250/$1500 limit | TikTok Business Ad accounts](https://afflift.com/f/threads/strongest-google-threshold-accounts-fb-250-1500-limit-tiktok-business-ad-accounts.10396/)
 -  22 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
