@@ -33,5 +33,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  22 [瓶中的小人究竟何时醒来：人、人工、智能和人工智能](https://sspai.com/post/79388)
--  21 [处理器简史｜PowerPC 04：短兵相接 孤注一掷](https://sspai.com/prime/story/sv-anecdotes-11)<!-- sspai:END -->
+-  22 [瓶中的小人究竟何时醒来：人、人工、智能和人工智能](https://sspai.com/post/79388)<!-- sspai:END -->
