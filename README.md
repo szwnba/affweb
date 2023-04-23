@@ -33,5 +33,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  23 [派早报：Google Bard 新增编程辅助功能，三星下放 Camera Assistant 等](https://sspai.com/post/79416)
--  22 [瓶中的小人究竟何时醒来：人、人工、智能和人工智能](https://sspai.com/post/79388)<!-- sspai:END -->
+-  23 [派早报：Google Bard 新增编程辅助功能，三星下放 Camera Assistant 等](https://sspai.com/post/79416)<!-- sspai:END -->
