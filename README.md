@@ -14,6 +14,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Almost $30k profit in 10 days.. From FREE Traffic 🚀](https://afflift.com/f/threads/almost-30k-profit-in-10-days-from-free-traffic-%F0%9F%9A%80.9922/)
+-  23 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
 -  23 [Hello From the UK](https://afflift.com/f/threads/hello-from-the-uk.10580/)
 -  23 [Can You Run the Zeydoo Dating Survey Offer on Mainstream Traffic](https://afflift.com/f/threads/can-you-run-the-zeydoo-dating-survey-offer-on-mainstream-traffic.10800/)
 -  23 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/)
@@ -23,9 +25,7 @@
 -  23 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
 -  23 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
 -  23 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
--  23 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
--  23 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
--  23 [Let&#39;s test Mvas offers on Selfadvertiser POP!](https://afflift.com/f/threads/lets-test-mvas-offers-on-selfadvertiser-pop.10795/)<!-- afflift:END -->
+-  23 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
