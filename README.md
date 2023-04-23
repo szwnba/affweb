@@ -10,11 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  19 [看到有人在说倪叶明这事](https://www.advertcn.com/forum.php?mod=viewthread&tid=110003)
--  19 [发几个Media buy跑 Brand bid最近的一个号情况](https://www.advertcn.com/forum.php?mod=viewthread&tid=109999)
--  19 [倪叶明这么收割，心是黑的吧。](https://www.advertcn.com/forum.php?mod=viewthread&tid=109998)
--  19 [各位大神，谷歌Ads展示量低，转化更是没有，怎么解决?](https://www.advertcn.com/forum.php?mod=viewthread&tid=109993)
--  19 [Affiliate是微商、直销？](https://www.advertcn.com/forum.php?mod=viewthread&tid=109991)<!-- advertcn:END -->
+-  22 [做diet 方面比较大的联盟有哪些呢？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110045)<!-- advertcn:END -->
 
 ### afflift
 <!-- afflift:START -->
