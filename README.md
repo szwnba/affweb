@@ -14,6 +14,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/)
 -  23 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)
 -  23 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
 -  23 [The Performance Marketing Network - Weekly Payments - $250 min - 600+ Nutra, Ecom, Lead Offers](https://afflift.com/f/threads/the-performance-marketing-network-weekly-payments-250-min-600-nutra-ecom-lead-offers.10534/)
@@ -24,8 +25,7 @@
 -  23 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 -  23 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
 -  23 [Let&#39;s test Mvas offers on Selfadvertiser POP!](https://afflift.com/f/threads/lets-test-mvas-offers-on-selfadvertiser-pop.10795/)
--  23 [Scaling on SelfAdvertiser for a Tier 3 Offer 💰](https://afflift.com/f/threads/scaling-on-selfadvertiser-for-a-tier-3-offer-%F0%9F%92%B0.10786/)
--  23 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)<!-- afflift:END -->
+-  23 [Scaling on SelfAdvertiser for a Tier 3 Offer 💰](https://afflift.com/f/threads/scaling-on-selfadvertiser-for-a-tier-3-offer-%F0%9F%92%B0.10786/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
