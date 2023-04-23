@@ -14,6 +14,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
+-  23 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
+-  23 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
+-  23 [Can You Run the Zeydoo Dating Survey Offer on Mainstream Traffic](https://afflift.com/f/threads/can-you-run-the-zeydoo-dating-survey-offer-on-mainstream-traffic.10800/)
 -  23 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 -  23 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
 -  23 [Let&#39;s test Mvas offers on Selfadvertiser POP!](https://afflift.com/f/threads/lets-test-mvas-offers-on-selfadvertiser-pop.10795/)
@@ -21,11 +25,7 @@
 -  23 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)
 -  23 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  23 [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
--  23 [SelfAdvertiser + Bemob + Zeydoo ==&gt;  Let&#39;s do a typical POP campaign!](https://afflift.com/f/threads/selfadvertiser-bemob-zeydoo-lets-do-a-typical-pop-campaign.10798/)
--  23 [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
--  23 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
--  23 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
--  23 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)<!-- afflift:END -->
+-  23 [SelfAdvertiser + Bemob + Zeydoo ==&gt;  Let&#39;s do a typical POP campaign!](https://afflift.com/f/threads/selfadvertiser-bemob-zeydoo-lets-do-a-typical-pop-campaign.10798/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
