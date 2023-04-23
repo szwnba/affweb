@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
 -  23 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  23 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  22 [Appreciation thread to afflift](https://afflift.com/f/threads/appreciation-thread-to-afflift.10797/)
@@ -28,8 +29,7 @@
 -  22 [What Traffic Source for the US market?](https://afflift.com/f/threads/what-traffic-source-for-the-us-market.10789/)
 -  22 [Strongest Google Threshold Accounts | FB $250/$1500 limit | TikTok Business Ad accounts](https://afflift.com/f/threads/strongest-google-threshold-accounts-fb-250-1500-limit-tiktok-business-ad-accounts.10396/)
 -  22 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  22 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
--  22 [Let&#39;s test Mvas offers on Selfadvertiser POP!](https://afflift.com/f/threads/lets-test-mvas-offers-on-selfadvertiser-pop.10795/)<!-- afflift:END -->
+-  22 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
