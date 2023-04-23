@@ -33,4 +33,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [科研路上，我为什么离不开 Joplin](https://sspai.com/post/77020)
 -  23 [派早报：Google Bard 新增编程辅助功能，三星下放 Camera Assistant 等](https://sspai.com/post/79416)<!-- sspai:END -->
