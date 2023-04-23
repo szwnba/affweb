@@ -14,6 +14,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [The Performance Marketing Network - Weekly Payments - $250 min - 600+ Nutra, Ecom, Lead Offers](https://afflift.com/f/threads/the-performance-marketing-network-weekly-payments-250-min-600-nutra-ecom-lead-offers.10534/)
 -  23 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
 -  23 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
 -  23 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
@@ -24,8 +25,7 @@
 -  23 [Scaling on SelfAdvertiser for a Tier 3 Offer 💰](https://afflift.com/f/threads/scaling-on-selfadvertiser-for-a-tier-3-offer-%F0%9F%92%B0.10786/)
 -  23 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)
 -  23 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
--  23 [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
--  23 [SelfAdvertiser + Bemob + Zeydoo ==&gt;  Let&#39;s do a typical POP campaign!](https://afflift.com/f/threads/selfadvertiser-bemob-zeydoo-lets-do-a-typical-pop-campaign.10798/)<!-- afflift:END -->
+-  23 [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
