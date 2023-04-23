@@ -18,6 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
+-  23 [SelfAdvertiser + Bemob + Zeydoo ==&gt;  Let&#39;s do a typical POP campaign!](https://afflift.com/f/threads/selfadvertiser-bemob-zeydoo-lets-do-a-typical-pop-campaign.10798/)
 -  23 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  23 [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
 -  23 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
@@ -27,9 +29,7 @@
 -  22 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)
 -  22 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
 -  22 [My FOMO contest FA](https://afflift.com/f/threads/my-fomo-contest-fa.10704/)
--  22 [Why a Sweepstake offer categorized as Main Stream Video?](https://afflift.com/f/threads/why-a-sweepstake-offer-categorized-as-main-stream-video.10796/)
--  22 [What Traffic Source for the US market?](https://afflift.com/f/threads/what-traffic-source-for-the-us-market.10789/)
--  22 [Strongest Google Threshold Accounts | FB $250/$1500 limit | TikTok Business Ad accounts](https://afflift.com/f/threads/strongest-google-threshold-accounts-fb-250-1500-limit-tiktok-business-ad-accounts.10396/)<!-- afflift:END -->
+-  22 [Why a Sweepstake offer categorized as Main Stream Video?](https://afflift.com/f/threads/why-a-sweepstake-offer-categorized-as-main-stream-video.10796/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
