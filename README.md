@@ -18,11 +18,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  23 [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
 -  23 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
 -  23 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
 -  23 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
--  23 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  22 [Appreciation thread to afflift](https://afflift.com/f/threads/appreciation-thread-to-afflift.10797/)
 -  22 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)
 -  22 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
