@@ -30,5 +30,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  23 [补一张开往童年的车票：2023 年还有哪些 3DS 游戏值得玩](https://sspai.com/post/79420)
--  23 [科研路上，我为什么离不开 Joplin](https://sspai.com/post/77020)
--  23 [派早报：Google Bard 新增编程辅助功能，三星下放 Camera Assistant 等](https://sspai.com/post/79416)<!-- sspai:END -->
+-  23 [科研路上，我为什么离不开 Joplin](https://sspai.com/post/77020)<!-- sspai:END -->
