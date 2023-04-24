@@ -14,6 +14,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
 -  24 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
 -  24 [SelfAdvertiser + Bemob + Zeydoo ==&gt;  Let&#39;s do a typical POP campaign!](https://afflift.com/f/threads/selfadvertiser-bemob-zeydoo-lets-do-a-typical-pop-campaign.10798/)
 -  24 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
@@ -24,8 +25,7 @@
 -  23 [Hello From the UK](https://afflift.com/f/threads/hello-from-the-uk.10580/)
 -  23 [Can You Run the Zeydoo Dating Survey Offer on Mainstream Traffic](https://afflift.com/f/threads/can-you-run-the-zeydoo-dating-survey-offer-on-mainstream-traffic.10800/)
 -  23 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/)
--  23 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)
--  23 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)<!-- afflift:END -->
+-  23 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
