@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  24 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
 -  24 [Never ending journey to success](https://afflift.com/f/threads/never-ending-journey-to-success.10694/)
 -  24 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/)
@@ -29,8 +30,7 @@
 -  24 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  24 [Clickdealer account has been frozen due to inactivity.](https://afflift.com/f/threads/clickdealer-account-has-been-frozen-due-to-inactivity.10778/)
 -  24 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
--  24 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
--  24 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)<!-- afflift:END -->
+-  24 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
