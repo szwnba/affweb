@@ -19,18 +19,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [Hello From Bulgaria !](https://afflift.com/f/threads/hello-from-bulgaria.10803/)
--  24 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)
--  24 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  24 [Why a Sweepstake offer categorized as Main Stream Video?](https://afflift.com/f/threads/why-a-sweepstake-offer-categorized-as-main-stream-video.10796/)
--  24 [What Traffic Source for the US market?](https://afflift.com/f/threads/what-traffic-source-for-the-us-market.10789/)
--  24 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
--  24 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  24 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/)
--  24 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
--  24 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
--  24 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)
--  24 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)<!-- afflift:END -->
+-  24 [The Anatomy of a High Converting Advertorial on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-advertorial-on-native.10707/)
+-  24 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
+-  24 [Can You Run the Zeydoo Dating Survey Offer on Mainstream Traffic](https://afflift.com/f/threads/can-you-run-the-zeydoo-dating-survey-offer-on-mainstream-traffic.10800/)
+-  24 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  24 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
+-  24 [Almost $30k profit in 10 days.. From FREE Traffic 🚀](https://afflift.com/f/threads/almost-30k-profit-in-10-days-from-free-traffic-%F0%9F%9A%80.9922/)
+-  24 [What is the best push notification service provider?](https://afflift.com/f/threads/what-is-the-best-push-notification-service-provider.10722/)
+-  24 [How to run FB conversion campaign to a messenger like LINE?](https://afflift.com/f/threads/how-to-run-fb-conversion-campaign-to-a-messenger-like-line.10794/)
+-  24 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
+-  24 [Create a PHP Script to Optimize PropellerAds](https://afflift.com/f/threads/create-a-php-script-to-optimize-propellerads.8770/)
+-  24 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
+-  24 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
