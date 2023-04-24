@@ -29,5 +29,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [派早报：调查显示数字阅读增长，陪审团认定特斯拉对自动巡航车祸无责](https://sspai.com/post/79425)
 -  23 [补一张开往童年的车票：2023 年还有哪些 3DS 游戏值得玩](https://sspai.com/post/79420)
 -  23 [科研路上，我为什么离不开 Joplin](https://sspai.com/post/77020)<!-- sspai:END -->
