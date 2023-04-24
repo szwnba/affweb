@@ -19,18 +19,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
+-  24 [Programmers: Whats this script for?](https://afflift.com/f/threads/programmers-whats-this-script-for.10808/)
+-  24 [Mentorship](https://afflift.com/f/threads/mentorship.10809/)
 -  24 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
+-  24 [My First Follow Along - My 2nd Ever Affiliate Offer💥](https://afflift.com/f/threads/my-first-follow-along-my-2nd-ever-affiliate-offer%F0%9F%92%A5.10695/)
+-  24 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
+-  24 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
 -  24 [What is the best push notification service provider?](https://afflift.com/f/threads/what-is-the-best-push-notification-service-provider.10722/)
 -  24 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)
 -  24 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
 -  24 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
--  24 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
--  24 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
--  24 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
--  24 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)
--  24 [Selfadvertiser + Already Working Campaign](https://afflift.com/f/threads/selfadvertiser-already-working-campaign.10701/)
--  24 [The Anatomy of a High Converting Advertorial on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-advertorial-on-native.10707/)
--  24 [Can You Run the Zeydoo Dating Survey Offer on Mainstream Traffic](https://afflift.com/f/threads/can-you-run-the-zeydoo-dating-survey-offer-on-mainstream-traffic.10800/)<!-- afflift:END -->
+-  24 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
