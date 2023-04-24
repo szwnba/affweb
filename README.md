@@ -14,6 +14,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
 -  23 [Hello From Bulgaria !](https://afflift.com/f/threads/hello-from-bulgaria.10803/)
 -  23 [Almost $30k profit in 10 days.. From FREE Traffic 🚀](https://afflift.com/f/threads/almost-30k-profit-in-10-days-from-free-traffic-%F0%9F%9A%80.9922/)
 -  23 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
@@ -24,8 +25,7 @@
 -  23 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
 -  23 [The Performance Marketing Network - Weekly Payments - $250 min - 600+ Nutra, Ecom, Lead Offers](https://afflift.com/f/threads/the-performance-marketing-network-weekly-payments-250-min-600-nutra-ecom-lead-offers.10534/)
 -  23 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
--  23 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
--  23 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)<!-- afflift:END -->
+-  23 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
