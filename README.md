@@ -14,11 +14,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
 -  24 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
 -  24 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
 -  24 [SelfAdvertiser + Bemob + Zeydoo ==&gt;  Let&#39;s do a typical POP campaign!](https://afflift.com/f/threads/selfadvertiser-bemob-zeydoo-lets-do-a-typical-pop-campaign.10798/)
 -  24 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
--  24 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
 -  23 [Hello From Bulgaria !](https://afflift.com/f/threads/hello-from-bulgaria.10803/)
 -  23 [Almost $30k profit in 10 days.. From FREE Traffic 🚀](https://afflift.com/f/threads/almost-30k-profit-in-10-days-from-free-traffic-%F0%9F%9A%80.9922/)
 -  23 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
