@@ -34,8 +34,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 8 款](https://sspai.com/post/79463)
 -  25 [可以听的新玩意儿：ROG Phone 7、Analogue Pocket 和 AnkerWork 麦克风](https://sspai.com/post/79431)
 -  25 [一次「大开眼镜」的体验：四十岁人的近视屈光手术流水账](https://sspai.com/post/79450)
 -  25 [派早报：网之易起诉暴雪欠款 3 亿元等](https://sspai.com/post/79458)
--  24 [CHERRY XTRFY 的新商标新气象，VGN 上演自家人打自家人](https://sspai.com/prime/story/zouzhe-230425)
--  24 [派评 | 近期值得关注的 App](https://sspai.com/post/79446)<!-- sspai:END -->
+-  24 [CHERRY XTRFY 的新商标新气象，VGN 上演自家人打自家人](https://sspai.com/prime/story/zouzhe-230425)<!-- sspai:END -->
