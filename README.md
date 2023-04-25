@@ -19,17 +19,17 @@
 
 ### afflift
 <!-- afflift:START -->
--  25 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
--  25 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
--  25 [Can You Run the Zeydoo Dating Survey Offer on Mainstream Traffic](https://afflift.com/f/threads/can-you-run-the-zeydoo-dating-survey-offer-on-mainstream-traffic.10800/)
--  25 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
 -  25 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)
--  25 [Mentorship](https://afflift.com/f/threads/mentorship.10809/)
--  25 [i need landing page hammer of thor malyasia  that convert product html file](https://afflift.com/f/threads/i-need-landing-page-hammer-of-thor-malyasia-that-convert-product-html-file.10812/)
--  25 [Programmers: Whats this script for?](https://afflift.com/f/threads/programmers-whats-this-script-for.10808/)
--  25 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)
 -  25 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
--  25 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+-  25 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
+-  25 [i need landing page hammer of thor malyasia  that convert product html file](https://afflift.com/f/threads/i-need-landing-page-hammer-of-thor-malyasia-that-convert-product-html-file.10812/)
+-  25 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  25 [Scaling on SelfAdvertiser for a Tier 3 Offer 💰](https://afflift.com/f/threads/scaling-on-selfadvertiser-for-a-tier-3-offer-%F0%9F%92%B0.10786/)
+-  25 [Mentorship](https://afflift.com/f/threads/mentorship.10809/)
+-  25 [Testing SelfAdvertiser&#39;s Traffic on mVas 🚀](https://afflift.com/f/threads/testing-selfadvertisers-traffic-on-mvas-%F0%9F%9A%80.10738/)
+-  25 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
+-  25 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+-  25 [Can You Run the Zeydoo Dating Survey Offer on Mainstream Traffic](https://afflift.com/f/threads/can-you-run-the-zeydoo-dating-survey-offer-on-mainstream-traffic.10800/)
 -  25 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/)<!-- afflift:END -->
 
 ### 少数派
