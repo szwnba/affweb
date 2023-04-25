@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  20 [ClouDNS提供免费二级域名，每个账户限一个域名](https://51.ruyo.net/18345.html)<!-- ruyo:END -->
+-  25 [2023年可免费使用的AI平台，含ChatGPT，GPT-4，Claude等](https://51.ruyo.net/18350.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
