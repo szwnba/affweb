@@ -19,6 +19,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
+-  25 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)
+-  25 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
+-  25 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)
 -  25 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
 -  24 [Can You Run the Zeydoo Dating Survey Offer on Mainstream Traffic](https://afflift.com/f/threads/can-you-run-the-zeydoo-dating-survey-offer-on-mainstream-traffic.10800/)
 -  24 [Gtin issues in Google Merchant Center](https://afflift.com/f/threads/gtin-issues-in-google-merchant-center.10495/)
@@ -26,11 +30,7 @@
 -  24 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/)
 -  24 [Push or pop for videos?](https://afflift.com/f/threads/push-or-pop-for-videos.10810/)
 -  24 [Mentorship](https://afflift.com/f/threads/mentorship.10809/)
--  24 [Programmers: Whats this script for?](https://afflift.com/f/threads/programmers-whats-this-script-for.10808/)
--  24 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)
--  24 [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
--  24 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
--  24 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)<!-- afflift:END -->
+-  24 [Programmers: Whats this script for?](https://afflift.com/f/threads/programmers-whats-this-script-for.10808/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
