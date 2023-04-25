@@ -34,8 +34,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [派早报：网之易起诉暴雪欠款 3 亿元等](https://sspai.com/post/79458)
 -  24 [CHERRY XTRFY 的新商标新气象，VGN 上演自家人打自家人](https://sspai.com/prime/story/zouzhe-230425)
 -  24 [派评 | 近期值得关注的 App](https://sspai.com/post/79446)
 -  24 [家用咖啡手册 06 | 不想速溶想省事？那你得试试浸泡式萃取](https://sspai.com/post/79408)
--  24 [从文献检索到论文查重，这 16 个工具帮你顺利毕业](https://sspai.com/post/59906)
--  24 [受够了算法推荐，另辟蹊径让 AI 做「过滤」怎么样？](https://sspai.com/post/79437)<!-- sspai:END -->
+-  24 [从文献检索到论文查重，这 16 个工具帮你顺利毕业](https://sspai.com/post/59906)<!-- sspai:END -->
