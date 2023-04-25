@@ -19,6 +19,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
+-  25 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
+-  25 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
 -  25 [What is the best push notification service provider?](https://afflift.com/f/threads/what-is-the-best-push-notification-service-provider.10722/)
 -  25 [Push or pop for videos?](https://afflift.com/f/threads/push-or-pop-for-videos.10810/)
 -  25 [Hi](https://afflift.com/f/threads/hi.10752/)
@@ -27,10 +30,7 @@
 -  25 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 -  25 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)
 -  25 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  25 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
--  24 [Can You Run the Zeydoo Dating Survey Offer on Mainstream Traffic](https://afflift.com/f/threads/can-you-run-the-zeydoo-dating-survey-offer-on-mainstream-traffic.10800/)
--  24 [Gtin issues in Google Merchant Center](https://afflift.com/f/threads/gtin-issues-in-google-merchant-center.10495/)
--  24 [i need landing page hammer of thor malyasia  that convert product html file](https://afflift.com/f/threads/i-need-landing-page-hammer-of-thor-malyasia-that-convert-product-html-file.10812/)<!-- afflift:END -->
+-  25 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
