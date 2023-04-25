@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  25 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/)
 -  25 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
 -  25 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
 -  25 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
@@ -28,9 +30,7 @@
 -  25 [Hi From Belgium Bruxelles.](https://afflift.com/f/threads/hi-from-belgium-bruxelles.10765/)
 -  25 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)
 -  25 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
--  25 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)
--  25 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  25 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)<!-- afflift:END -->
+-  25 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
