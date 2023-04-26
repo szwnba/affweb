@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  26 [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
 -  26 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  26 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
@@ -29,8 +30,7 @@
 -  26 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
 -  26 [Hi](https://afflift.com/f/threads/hi.10752/)
 -  26 [How to clean and edit landing pages and pre-landing pages from SPY services and CPA networks...](https://afflift.com/f/threads/how-to-clean-and-edit-landing-pages-and-pre-landing-pages-from-spy-services-and-cpa-networks.10822/)
--  26 [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
--  26 [Scaling big on SelfAdvertiser! 🤑](https://afflift.com/f/threads/scaling-big-on-selfadvertiser-%F0%9F%A4%91.10711/)<!-- afflift:END -->
+-  26 [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
