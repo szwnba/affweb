@@ -19,18 +19,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
+-  26 [Hi](https://afflift.com/f/threads/hi.10752/)
+-  26 [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
+-  26 [Scaling big on SelfAdvertiser! 🤑](https://afflift.com/f/threads/scaling-big-on-selfadvertiser-%F0%9F%A4%91.10711/)
+-  26 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  26 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
+-  26 [Never get your ad accounts banned Again | Nexus - Trusted Mobile IPs for Affiliate Marketing | 1$ per IP | Get a Free Trial](https://afflift.com/f/threads/never-get-your-ad-accounts-banned-again-nexus-trusted-mobile-ips-for-affiliate-marketing-1-per-ip-get-a-free-trial.10442/)
 -  26 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  26 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  26 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
 -  26 [Vertical/horizontal testing](https://afflift.com/f/threads/vertical-horizontal-testing.10821/)
--  26 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)
--  26 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)
--  26 [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
--  26 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
--  26 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
--  26 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
--  25 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/)
--  25 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)<!-- afflift:END -->
+-  26 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
