@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
 -  26 [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
 -  26 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
 -  26 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
@@ -29,8 +30,7 @@
 -  25 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/)
 -  25 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/)
 -  25 [Popup banner script on landing page](https://afflift.com/f/threads/popup-banner-script-on-landing-page.10820/)
--  25 [Steal Traffic on Stolen LPs &lpar;JavaScript Included&rpar;](https://afflift.com/f/threads/steal-traffic-on-stolen-lps-javascript-included.10819/)
--  25 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)<!-- afflift:END -->
+-  25 [Steal Traffic on Stolen LPs &lpar;JavaScript Included&rpar;](https://afflift.com/f/threads/steal-traffic-on-stolen-lps-javascript-included.10819/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
