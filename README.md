@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Let&#39;s test Mvas offers on Selfadvertiser POP!](https://afflift.com/f/threads/lets-test-mvas-offers-on-selfadvertiser-pop.10795/)
+-  26 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
 -  26 [How to clean and edit landing pages and pre-landing pages from SPY services and CPA networks...](https://afflift.com/f/threads/how-to-clean-and-edit-landing-pages-and-pre-landing-pages-from-spy-services-and-cpa-networks.10822/)
 -  26 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
 -  26 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
@@ -28,9 +30,7 @@
 -  26 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
 -  26 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
 -  26 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
--  26 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  26 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
--  26 [Hi](https://afflift.com/f/threads/hi.10752/)<!-- afflift:END -->
+-  26 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
