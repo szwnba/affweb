@@ -34,6 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [2023 上海车展小记：两位「汽车小白」的走马观花之行](https://sspai.com/post/79462)
 -  26 [派早报：特斯拉向其他品牌新能源车开放充电网络试点等](https://sspai.com/post/79470)
 -  25 [CCD 的「复兴」：历史沿革与市场逻辑](https://sspai.com/prime/story/inside-the-ccd-revival)
 -  25 [浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 8 款](https://sspai.com/post/79463)
