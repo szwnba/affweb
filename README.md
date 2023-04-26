@@ -34,6 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [奇妙的均衡：红魔 8 Pro 氘锋透明银翼版使用体验补完](https://sspai.com/post/79465)
 -  26 [2023 上海车展小记：两位「汽车小白」的走马观花之行](https://sspai.com/post/79462)
 -  26 [派早报：特斯拉向其他品牌新能源车开放充电网络试点等](https://sspai.com/post/79470)
 -  25 [CCD 的「复兴」：历史沿革与市场逻辑](https://sspai.com/prime/story/inside-the-ccd-revival)
