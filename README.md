@@ -37,5 +37,4 @@
 -  26 [派早报：特斯拉向其他品牌新能源车开放充电网络试点等](https://sspai.com/post/79470)
 -  25 [CCD 的「复兴」：历史沿革与市场逻辑](https://sspai.com/prime/story/inside-the-ccd-revival)
 -  25 [浏览器扩展合集：实用而有趣的浏览器扩展，我们又为你找到了这 8 款](https://sspai.com/post/79463)
--  25 [可以听的新玩意儿：ROG Phone 7、Analogue Pocket 和 AnkerWork 麦克风](https://sspai.com/post/79431)
--  25 [一次「大开眼镜」的体验：四十岁人的近视屈光手术流水账](https://sspai.com/post/79450)<!-- sspai:END -->
+-  25 [可以听的新玩意儿：ROG Phone 7、Analogue Pocket 和 AnkerWork 麦克风](https://sspai.com/post/79431)<!-- sspai:END -->
