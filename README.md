@@ -34,8 +34,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [这个五一假期，用这些居家好物舒服一夏](https://sspai.com/post/79455)
 -  26 [你所熟悉的羊驼，在 AI 时代有了新内涵](https://sspai.com/post/79443)
 -  26 [奇妙的均衡：红魔 8 Pro 氘锋透明银翼版使用体验补完](https://sspai.com/post/79465)
 -  26 [2023 上海车展小记：两位「汽车小白」的走马观花之行](https://sspai.com/post/79462)
--  26 [派早报：特斯拉向其他品牌新能源车开放充电网络试点等](https://sspai.com/post/79470)
--  25 [CCD 的「复兴」：历史沿革与市场逻辑](https://sspai.com/prime/story/inside-the-ccd-revival)<!-- sspai:END -->
+-  26 [派早报：特斯拉向其他品牌新能源车开放充电网络试点等](https://sspai.com/post/79470)<!-- sspai:END -->
