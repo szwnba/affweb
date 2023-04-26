@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
+-  26 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  26 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
 -  26 [Hi](https://afflift.com/f/threads/hi.10752/)
 -  26 [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
@@ -28,9 +30,7 @@
 -  26 [Never get your ad accounts banned Again | Nexus - Trusted Mobile IPs for Affiliate Marketing | 1$ per IP | Get a Free Trial](https://afflift.com/f/threads/never-get-your-ad-accounts-banned-again-nexus-trusted-mobile-ips-for-affiliate-marketing-1-per-ip-get-a-free-trial.10442/)
 -  26 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  26 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
--  26 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
--  26 [Vertical/horizontal testing](https://afflift.com/f/threads/vertical-horizontal-testing.10821/)
--  26 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)<!-- afflift:END -->
+-  26 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
