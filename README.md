@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
+-  26 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  26 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  26 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
 -  26 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
@@ -26,11 +28,9 @@
 -  26 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  26 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/)
 -  26 [Hi](https://afflift.com/f/threads/hi.10752/)
+-  26 [How to clean and edit landing pages and pre-landing pages from SPY services and CPA networks...](https://afflift.com/f/threads/how-to-clean-and-edit-landing-pages-and-pre-landing-pages-from-spy-services-and-cpa-networks.10822/)
 -  26 [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
--  26 [Scaling big on SelfAdvertiser! 🤑](https://afflift.com/f/threads/scaling-big-on-selfadvertiser-%F0%9F%A4%91.10711/)
--  26 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  26 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
--  26 [Never get your ad accounts banned Again | Nexus - Trusted Mobile IPs for Affiliate Marketing | 1$ per IP | Get a Free Trial](https://afflift.com/f/threads/never-get-your-ad-accounts-banned-again-nexus-trusted-mobile-ips-for-affiliate-marketing-1-per-ip-get-a-free-trial.10442/)<!-- afflift:END -->
+-  26 [Scaling big on SelfAdvertiser! 🤑](https://afflift.com/f/threads/scaling-big-on-selfadvertiser-%F0%9F%A4%91.10711/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
