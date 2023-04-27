@@ -19,6 +19,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+-  27 [Ways of determining AIDA &lpar;action, desire, interest&rpar; on landing page?](https://afflift.com/f/threads/ways-of-determining-aida-action-desire-interest-on-landing-page.10831/)
+-  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  27 [Perform[cb]- Top 3 Qualities Affiliates Look for in a CPA Network](https://afflift.com/f/threads/perform-cb-top-3-qualities-affiliates-look-for-in-a-cpa-network.10824/)
 -  27 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
 -  27 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
@@ -27,10 +30,7 @@
 -  27 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  27 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/)
 -  27 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  27 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
--  27 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/)
--  27 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
--  27 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)<!-- afflift:END -->
+-  27 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
