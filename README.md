@@ -20,6 +20,7 @@
 ### afflift
 <!-- afflift:START -->
 -  27 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
+-  27 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
 -  27 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  27 [The Most Valuable Search Arb Guide](https://afflift.com/f/threads/the-most-valuable-search-arb-guide.10725/)
 -  27 [12 Years SEM/SEO Agency Veteran revisiting CPA Networks](https://afflift.com/f/threads/12-years-sem-seo-agency-veteran-revisiting-cpa-networks.2138/)
@@ -29,8 +30,7 @@
 -  27 [how to buy USA whatsapp number for whatsapp business account](https://afflift.com/f/threads/how-to-buy-usa-whatsapp-number-for-whatsapp-business-account.10825/)
 -  27 [Perform[cb]- Top 3 Qualities Affiliates Look for in a CPA Network](https://afflift.com/f/threads/perform-cb-top-3-qualities-affiliates-look-for-in-a-cpa-network.10824/)
 -  27 [Introducing SubVerticalization: Targeted Traffic That Converts by Traffic Nomads](https://afflift.com/f/threads/introducing-subverticalization-targeted-traffic-that-converts-by-traffic-nomads.10776/)
--  27 [Ways of determining AIDA &lpar;action, desire, interest&rpar; on landing page?](https://afflift.com/f/threads/ways-of-determining-aida-action-desire-interest-on-landing-page.10831/)
--  27 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)<!-- afflift:END -->
+-  27 [Ways of determining AIDA &lpar;action, desire, interest&rpar; on landing page?](https://afflift.com/f/threads/ways-of-determining-aida-action-desire-interest-on-landing-page.10831/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
