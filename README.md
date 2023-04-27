@@ -10,12 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  24 [优质offer 寻找各联盟工作室合作](https://www.advertcn.com/forum.php?mod=viewthread&tid=110068)
--  24 [fafa我回来了 但是不在Advidi了 到底发生了什么？来看](https://www.advertcn.com/forum.php?mod=viewthread&tid=110066)
--  24 [怎么批量删除cloudfare DNS里面的记录](https://www.advertcn.com/forum.php?mod=viewthread&tid=110061)
--  24 [。。。。。。。。。。。。。。。。。。。](https://www.advertcn.com/forum.php?mod=viewthread&tid=110058)
--  23 [个人觉得非常不错的一本书](https://www.advertcn.com/forum.php?mod=viewthread&tid=110054)
--  23 [chatGPT给我推荐的了一个谷歌搜索里没有的工具，还挺好用](https://www.advertcn.com/forum.php?mod=viewthread&tid=110053)<!-- advertcn:END -->
+-  27 [想要参加惰惰发的素材出海的培训，这有什么坑](https://www.advertcn.com/forum.php?mod=viewthread&tid=110123)
+-  27 [寻有出谷歌一代端口或有招代理的公司](https://www.advertcn.com/forum.php?mod=viewthread&tid=110117)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
