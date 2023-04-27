@@ -34,7 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [新玩意 143｜少数派的编辑们最近买了啥？](https://sspai.com/post/79496)
 -  27 [把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)
 -  27 [掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083)
--  27 [派早报：AMD 推出掌机处理器、ispace 登月任务失败等](https://sspai.com/post/79483)
--  26 [付费栏目负责人、暂居德国的 sainho 都装了啥](https://sspai.com/prime/story/zhuanglesha-sainho)<!-- sspai:END -->
+-  27 [派早报：AMD 推出掌机处理器、ispace 登月任务失败等](https://sspai.com/post/79483)<!-- sspai:END -->
