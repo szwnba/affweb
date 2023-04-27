@@ -17,6 +17,14 @@
 -  23 [个人觉得非常不错的一本书](https://www.advertcn.com/forum.php?mod=viewthread&tid=110054)
 -  23 [chatGPT给我推荐的了一个谷歌搜索里没有的工具，还挺好用](https://www.advertcn.com/forum.php?mod=viewthread&tid=110053)<!-- advertcn:END -->
 
+### zhihu
+<!-- zhihu:START -->
+-  27 [新派煮机 | 没人在 taco 上玩游戏：Nokia N-Gage 简史](https://sspai.com/prime/story/vintage-tech-stories-ng-history)
+-  27 [新玩意 143｜少数派的编辑们最近买了啥？](https://sspai.com/post/79496)
+-  27 [把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)
+-  27 [掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083)
+-  27 [派早报：AMD 推出掌机处理器、ispace 登月任务失败等](https://sspai.com/post/79483)<!-- zhihu:END -->
+
 ### afflift
 <!-- afflift:START -->
 -  27 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
