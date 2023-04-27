@@ -19,18 +19,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
+-  27 [Push vs In-Page push?](https://afflift.com/f/threads/push-vs-in-page-push.10827/)
+-  27 [AW Summit in Bucharest, 2023 - who&#39;s going?](https://afflift.com/f/threads/aw-summit-in-bucharest-2023-whos-going.10826/)
+-  27 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  27 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  27 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  27 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)
 -  27 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  27 [how to buy USA whatsapp number for whatsapp business account](https://afflift.com/f/threads/how-to-buy-usa-whatsapp-number-for-whatsapp-business-account.10825/)
 -  27 [General discussion about COD on Push](https://afflift.com/f/threads/general-discussion-about-cod-on-push.10632/)
 -  27 [COD Offers Testing](https://afflift.com/f/threads/cod-offers-testing.10804/)
--  27 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
--  27 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  27 [Push or pop for videos?](https://afflift.com/f/threads/push-or-pop-for-videos.10810/)
--  27 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
--  27 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
--  27 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)<!-- afflift:END -->
+-  27 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
