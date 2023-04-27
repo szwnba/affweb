@@ -19,6 +19,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [General discussion about COD on Push](https://afflift.com/f/threads/general-discussion-about-cod-on-push.10632/)
+-  27 [COD Offers Testing](https://afflift.com/f/threads/cod-offers-testing.10804/)
+-  27 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
 -  27 [Should I Ditch PropellerAds? Or Is It Just My Lack Of Skill?](https://afflift.com/f/threads/should-i-ditch-propellerads-or-is-it-just-my-lack-of-skill.10787/)
 -  27 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
 -  27 [Push or pop for videos?](https://afflift.com/f/threads/push-or-pop-for-videos.10810/)
@@ -27,10 +30,7 @@
 -  27 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
 -  27 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
 -  27 [Perform[cb]- Top 3 Qualities Affiliates Look for in a CPA Network](https://afflift.com/f/threads/perform-cb-top-3-qualities-affiliates-look-for-in-a-cpa-network.10824/)
--  27 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)
--  27 [What is the best push notification service provider?](https://afflift.com/f/threads/what-is-the-best-push-notification-service-provider.10722/)
--  26 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
--  26 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)<!-- afflift:END -->
+-  27 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
