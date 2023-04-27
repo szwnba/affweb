@@ -19,18 +19,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  27 [What is the best push notification service provider?](https://afflift.com/f/threads/what-is-the-best-push-notification-service-provider.10722/)
 -  27 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
+-  27 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
+-  27 [Push or pop for videos?](https://afflift.com/f/threads/push-or-pop-for-videos.10810/)
+-  27 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
+-  27 [Perform[cb]- Top 3 Qualities Affiliates Look for in a CPA Network](https://afflift.com/f/threads/perform-cb-top-3-qualities-affiliates-look-for-in-a-cpa-network.10824/)
+-  27 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)
+-  27 [What is the best push notification service provider?](https://afflift.com/f/threads/what-is-the-best-push-notification-service-provider.10722/)
 -  26 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
 -  26 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)
--  26 [Perform[cb]- Top 3 Qualities Affiliates Look for in a CPA Network](https://afflift.com/f/threads/perform-cb-top-3-qualities-affiliates-look-for-in-a-cpa-network.10824/)
 -  26 [Testing SelfAdvertiser&#39;s Traffic on mVas 🚀](https://afflift.com/f/threads/testing-selfadvertisers-traffic-on-mvas-%F0%9F%9A%80.10738/)
--  26 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
--  26 [Push or pop for videos?](https://afflift.com/f/threads/push-or-pop-for-videos.10810/)
 -  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  26 [Let&#39;s test Mvas offers on Selfadvertiser POP!](https://afflift.com/f/threads/lets-test-mvas-offers-on-selfadvertiser-pop.10795/)
--  26 [How to clean and edit landing pages and pre-landing pages from SPY services and CPA networks...](https://afflift.com/f/threads/how-to-clean-and-edit-landing-pages-and-pre-landing-pages-from-spy-services-and-cpa-networks.10822/)
--  26 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)<!-- afflift:END -->
+-  26 [Let&#39;s test Mvas offers on Selfadvertiser POP!](https://afflift.com/f/threads/lets-test-mvas-offers-on-selfadvertiser-pop.10795/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
