@@ -34,8 +34,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083)
 -  27 [派早报：AMD 推出掌机处理器、ispace 登月任务失败等](https://sspai.com/post/79483)
 -  26 [付费栏目负责人、暂居德国的 sainho 都装了啥](https://sspai.com/prime/story/zhuanglesha-sainho)
 -  26 [这个五一假期，用这些居家好物舒服一夏](https://sspai.com/post/79455)
--  26 [你所熟悉的羊驼，在 AI 时代有了新内涵](https://sspai.com/post/79443)
--  26 [奇妙的均衡：红魔 8 Pro 氘锋透明银翼版使用体验补完](https://sspai.com/post/79465)<!-- sspai:END -->
+-  26 [你所熟悉的羊驼，在 AI 时代有了新内涵](https://sspai.com/post/79443)<!-- sspai:END -->
