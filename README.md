@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
+-  28 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  28 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
 -  28 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  28 [Unknown Guy - Self Introduction](https://afflift.com/f/threads/unknown-guy-self-introduction.10835/)
@@ -26,11 +28,9 @@
 -  28 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)
 -  28 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  28 [Can You Collect Monetizer Push Sub on Propeller Pop?](https://afflift.com/f/threads/can-you-collect-monetizer-push-sub-on-propeller-pop.10834/)
--  28 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
 -  28 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)
 -  28 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
--  27 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
--  27 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)<!-- afflift:END -->
+-  27 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
