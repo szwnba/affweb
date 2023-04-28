@@ -19,7 +19,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
 -  28 [HELP! My domain is down - ERR_SSL_PROTOCOL_ERROR](https://afflift.com/f/threads/help-my-domain-is-down-err_ssl_protocol_error.10840/)
+-  28 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
 -  28 [Hello from Italy](https://afflift.com/f/threads/hello-from-italy.10838/)
 -  28 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  28 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
@@ -28,9 +30,7 @@
 -  28 [Smart Surveys Zeydoo + Selfadvertiser Push](https://afflift.com/f/threads/smart-surveys-zeydoo-selfadvertiser-push.10839/)
 -  28 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  28 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  28 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
--  28 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
--  28 [Perform[cb]- Top 3 Qualities Affiliates Look for in a CPA Network](https://afflift.com/f/threads/perform-cb-top-3-qualities-affiliates-look-for-in-a-cpa-network.10824/)<!-- afflift:END -->
+-  28 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
