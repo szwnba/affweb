@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
+-  28 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
 -  28 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
 -  28 [HELP! My domain is down - ERR_SSL_PROTOCOL_ERROR](https://afflift.com/f/threads/help-my-domain-is-down-err_ssl_protocol_error.10840/)
 -  28 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
@@ -28,9 +30,7 @@
 -  28 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)
 -  28 [Can You Collect Monetizer Push Sub on Propeller Pop?](https://afflift.com/f/threads/can-you-collect-monetizer-push-sub-on-propeller-pop.10834/)
 -  28 [Smart Surveys Zeydoo + Selfadvertiser Push](https://afflift.com/f/threads/smart-surveys-zeydoo-selfadvertiser-push.10839/)
--  28 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  28 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  28 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)<!-- afflift:END -->
+-  28 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
