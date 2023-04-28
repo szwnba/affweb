@@ -20,12 +20,12 @@
 ### afflift
 <!-- afflift:START -->
 -  28 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
+-  28 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  28 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
 -  28 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
 -  28 [HELP! My domain is down - ERR_SSL_PROTOCOL_ERROR](https://afflift.com/f/threads/help-my-domain-is-down-err_ssl_protocol_error.10840/)
 -  28 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
 -  28 [Hello from Italy](https://afflift.com/f/threads/hello-from-italy.10838/)
--  28 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  28 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  28 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)
 -  28 [Can You Collect Monetizer Push Sub on Propeller Pop?](https://afflift.com/f/threads/can-you-collect-monetizer-push-sub-on-propeller-pop.10834/)
