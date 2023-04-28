@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Can You Collect Monetizer Push Sub on Propeller Pop?](https://afflift.com/f/threads/can-you-collect-monetizer-push-sub-on-propeller-pop.10834/)
 -  28 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
 -  28 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)
 -  28 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
@@ -29,8 +30,7 @@
 -  27 [12 Years SEM/SEO Agency Veteran revisiting CPA Networks](https://afflift.com/f/threads/12-years-sem-seo-agency-veteran-revisiting-cpa-networks.2138/)
 -  27 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)
 -  27 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/)
--  27 [Never ending &quot;PropellerAds&quot; URL flags &lpar;Phising? 🎣&rpar;](https://afflift.com/f/threads/never-ending-propellerads-url-flags-phising-%F0%9F%8E%A3.10832/)
--  27 [how to buy USA whatsapp number for whatsapp business account](https://afflift.com/f/threads/how-to-buy-usa-whatsapp-number-for-whatsapp-business-account.10825/)<!-- afflift:END -->
+-  27 [Never ending &quot;PropellerAds&quot; URL flags &lpar;Phising? 🎣&rpar;](https://afflift.com/f/threads/never-ending-propellerads-url-flags-phising-%F0%9F%8E%A3.10832/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
