@@ -37,5 +37,4 @@
 -  28 [派早报：英国监管部门禁止微软收购动视暴雪、Phone Link 正式支持 iPhone 等](https://sspai.com/post/79501)
 -  27 [新派煮机 | 没人在 taco 上玩游戏：Nokia N-Gage 简史](https://sspai.com/prime/story/vintage-tech-stories-ng-history)
 -  27 [新玩意 143｜少数派的编辑们最近买了啥？](https://sspai.com/post/79496)
--  27 [把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)
--  27 [掌握这些设置技巧，让 Edge 浏览器的体验更干净](https://sspai.com/post/75083)<!-- sspai:END -->
+-  27 [把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)<!-- sspai:END -->
