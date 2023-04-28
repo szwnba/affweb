@@ -34,8 +34,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79512)
 -  28 [登顶 100+ 地区榜单，内置「模拟微信」的手游好玩吗？](https://sspai.com/post/79503)
 -  28 [一家「看门道」的新店，三位「有个性」的员工](https://sspai.com/post/79505)
 -  28 [要旅行吗？这是一篇懒人包](https://sspai.com/post/79502)
--  28 [派早报：英国监管部门禁止微软收购动视暴雪、Phone Link 正式支持 iPhone 等](https://sspai.com/post/79501)
--  27 [新派煮机 | 没人在 taco 上玩游戏：Nokia N-Gage 简史](https://sspai.com/prime/story/vintage-tech-stories-ng-history)<!-- sspai:END -->
+-  28 [派早报：英国监管部门禁止微软收购动视暴雪、Phone Link 正式支持 iPhone 等](https://sspai.com/post/79501)<!-- sspai:END -->
