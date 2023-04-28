@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)
+-  28 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  28 [Unknown Guy - Self Introduction](https://afflift.com/f/threads/unknown-guy-self-introduction.10835/)
 -  28 [All in one SEO tool for $19&quot;?](https://afflift.com/f/threads/all-in-one-seo-tool-for-19.10836/)
 -  28 [Singapore CPI Offer + Richads CPA Push](https://afflift.com/f/threads/singapore-cpi-offer-richads-cpa-push.10772/)
@@ -28,9 +30,7 @@
 -  28 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)
 -  28 [SelfAdvertiser Contest Domain Redirect](https://afflift.com/f/threads/selfadvertiser-contest-domain-redirect.10799/)
 -  27 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
--  27 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
--  27 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
--  27 [The Most Valuable Search Arb Guide](https://afflift.com/f/threads/the-most-valuable-search-arb-guide.10725/)<!-- afflift:END -->
+-  27 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
