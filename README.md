@@ -34,7 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [一家「看门道」的新店，三位「有个性」的员工](https://sspai.com/post/79505)
 -  28 [要旅行吗？这是一篇懒人包](https://sspai.com/post/79502)
 -  28 [派早报：英国监管部门禁止微软收购动视暴雪、Phone Link 正式支持 iPhone 等](https://sspai.com/post/79501)
--  27 [新派煮机 | 没人在 taco 上玩游戏：Nokia N-Gage 简史](https://sspai.com/prime/story/vintage-tech-stories-ng-history)
--  27 [新玩意 143｜少数派的编辑们最近买了啥？](https://sspai.com/post/79496)<!-- sspai:END -->
+-  27 [新派煮机 | 没人在 taco 上玩游戏：Nokia N-Gage 简史](https://sspai.com/prime/story/vintage-tech-stories-ng-history)<!-- sspai:END -->
