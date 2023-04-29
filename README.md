@@ -19,8 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  28 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
--  28 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  28 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
 -  28 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
 -  28 [HELP! My domain is down - ERR_SSL_PROTOCOL_ERROR](https://afflift.com/f/threads/help-my-domain-is-down-err_ssl_protocol_error.10840/)
