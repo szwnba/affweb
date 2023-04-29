@@ -19,18 +19,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [What is the Difference Between These Two Zeydoo Finance Survey Offers](https://afflift.com/f/threads/what-is-the-difference-between-these-two-zeydoo-finance-survey-offers.10845/)
+-  29 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
+-  29 [Never ending &quot;PropellerAds&quot; URL flags &lpar;Phising? 🎣&rpar;](https://afflift.com/f/threads/never-ending-propellerads-url-flags-phising-%F0%9F%8E%A3.10832/)
 -  29 [Hello from Italy](https://afflift.com/f/threads/hello-from-italy.10838/)
 -  29 [Fire Postback On Button Click](https://afflift.com/f/threads/fire-postback-on-button-click.10844/)
 -  29 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
--  29 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
 -  29 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
 -  29 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
 -  29 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  29 [Unknown Guy - Self Introduction](https://afflift.com/f/threads/unknown-guy-self-introduction.10835/)
 -  29 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
--  29 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
--  28 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
--  28 [HELP! My domain is down - ERR_SSL_PROTOCOL_ERROR](https://afflift.com/f/threads/help-my-domain-is-down-err_ssl_protocol_error.10840/)<!-- afflift:END -->
+-  29 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
