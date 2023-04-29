@@ -36,5 +36,4 @@
 <!-- sspai:START -->
 -  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79512)
 -  28 [登顶 100+ 地区榜单，内置「模拟微信」的手游好玩吗？](https://sspai.com/post/79503)
--  28 [一家「看门道」的新店，三位「有个性」的员工](https://sspai.com/post/79505)
--  28 [要旅行吗？这是一篇懒人包](https://sspai.com/post/79502)<!-- sspai:END -->
+-  28 [一家「看门道」的新店，三位「有个性」的员工](https://sspai.com/post/79505)<!-- sspai:END -->
