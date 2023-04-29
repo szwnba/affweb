@@ -34,5 +34,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79512)
--  28 [登顶 100+ 地区榜单，内置「模拟微信」的手游好玩吗？](https://sspai.com/post/79503)<!-- sspai:END -->
+-  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79512)<!-- sspai:END -->
