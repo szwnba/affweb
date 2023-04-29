@@ -18,6 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [How to Filter Fake Traffic &quot;Bots&quot; That mess your tracking statistics.](https://afflift.com/f/threads/how-to-filter-fake-traffic-bots-that-mess-your-tracking-statistics.10848/)
+-  29 [Let&#39;s Go - Rtx and Clickbank &lpar;Nutra&rpar;](https://afflift.com/f/threads/lets-go-rtx-and-clickbank-nutra.9699/)
+-  29 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
 -  29 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  29 [Smart Surveys Zeydoo + Selfadvertiser Push](https://afflift.com/f/threads/smart-surveys-zeydoo-selfadvertiser-push.10839/)
 -  29 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
@@ -26,10 +29,7 @@
 -  29 [SelfAdvertiser + Bemob + Zeydoo ==&gt;  Let&#39;s do a typical POP campaign!](https://afflift.com/f/threads/selfadvertiser-bemob-zeydoo-lets-do-a-typical-pop-campaign.10798/)
 -  29 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
 -  29 [Hello from Italy](https://afflift.com/f/threads/hello-from-italy.10838/)
--  29 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  29 [1st follow and 1st contest - CPI offer on SelfAdvertiser](https://afflift.com/f/threads/1st-follow-and-1st-contest-cpi-offer-on-selfadvertiser.10790/)
--  29 [What is the Difference Between These Two Zeydoo Finance Survey Offers](https://afflift.com/f/threads/what-is-the-difference-between-these-two-zeydoo-finance-survey-offers.10845/)
--  29 [SOI Offers Clickdealer &amp; Selfadvertiser Push 💥](https://afflift.com/f/threads/soi-offers-clickdealer-selfadvertiser-push-%F0%9F%92%A5.10846/)<!-- afflift:END -->
+-  29 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
