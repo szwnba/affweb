@@ -20,6 +20,7 @@
 ### afflift
 <!-- afflift:START -->
 -  29 [What is the Difference Between These Two Zeydoo Finance Survey Offers](https://afflift.com/f/threads/what-is-the-difference-between-these-two-zeydoo-finance-survey-offers.10845/)
+-  29 [SOI Offers Clickdealer &amp; Selfadvertiser Push 💥](https://afflift.com/f/threads/soi-offers-clickdealer-selfadvertiser-push-%F0%9F%92%A5.10846/)
 -  29 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
 -  29 [Never ending &quot;PropellerAds&quot; URL flags &lpar;Phising? 🎣&rpar;](https://afflift.com/f/threads/never-ending-propellerads-url-flags-phising-%F0%9F%8E%A3.10832/)
 -  29 [Hello from Italy](https://afflift.com/f/threads/hello-from-italy.10838/)
@@ -29,8 +30,7 @@
 -  29 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
 -  29 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  29 [Unknown Guy - Self Introduction](https://afflift.com/f/threads/unknown-guy-self-introduction.10835/)
--  29 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
--  29 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)<!-- afflift:END -->
+-  29 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
