@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
 -  29 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
 -  29 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
 -  29 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
@@ -29,8 +30,7 @@
 -  28 [HELP! My domain is down - ERR_SSL_PROTOCOL_ERROR](https://afflift.com/f/threads/help-my-domain-is-down-err_ssl_protocol_error.10840/)
 -  28 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
 -  28 [Hello from Italy](https://afflift.com/f/threads/hello-from-italy.10838/)
--  28 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  28 [[🔥Hot Offer] Revolutionize Hydration &amp; Earn Big with UVBrite - The Ultimate Water Purification Bottle!](https://afflift.com/f/threads/%F0%9F%94%A5hot-offer-revolutionize-hydration-earn-big-with-uvbrite-the-ultimate-water-purification-bottle.10807/)<!-- afflift:END -->
+-  28 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
