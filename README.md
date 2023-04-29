@@ -34,4 +34,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79512)<!-- sspai:END -->
+-  29 [这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)<!-- sspai:END -->
