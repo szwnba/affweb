@@ -10,8 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  27 [想要参加惰惰发的素材出海的培训，这有什么坑](https://www.advertcn.com/forum.php?mod=viewthread&tid=110123)
--  27 [寻有出谷歌一代端口或有招代理的公司](https://www.advertcn.com/forum.php?mod=viewthread&tid=110117)<!-- advertcn:END -->
+-  28 [跑Push Ads的第4天 出了第一单](https://www.advertcn.com/forum.php?mod=viewthread&tid=110132)
+-  28 [最近网站流量跌的很厉害](https://www.advertcn.com/forum.php?mod=viewthread&tid=110129)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
