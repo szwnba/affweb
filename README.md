@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)
 -  29 [SelfAdvertiser + Bemob + Zeydoo ==&gt;  Let&#39;s do a typical POP campaign!](https://afflift.com/f/threads/selfadvertiser-bemob-zeydoo-lets-do-a-typical-pop-campaign.10798/)
 -  29 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
 -  29 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
@@ -28,8 +29,7 @@
 -  29 [SOI Offers Clickdealer &amp; Selfadvertiser Push 💥](https://afflift.com/f/threads/soi-offers-clickdealer-selfadvertiser-push-%F0%9F%92%A5.10846/)
 -  29 [Never ending &quot;PropellerAds&quot; URL flags &lpar;Phising? 🎣&rpar;](https://afflift.com/f/threads/never-ending-propellerads-url-flags-phising-%F0%9F%8E%A3.10832/)
 -  29 [Fire Postback On Button Click](https://afflift.com/f/threads/fire-postback-on-button-click.10844/)
--  29 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
--  29 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)<!-- afflift:END -->
+-  29 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
