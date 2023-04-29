@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  28 [跑Push Ads的第4天 出了第一单](https://www.advertcn.com/forum.php?mod=viewthread&tid=110132)
--  28 [最近网站流量跌的很厉害](https://www.advertcn.com/forum.php?mod=viewthread&tid=110129)<!-- advertcn:END -->
+-  28 [路虎确实现在还有的朋友能够卖赶紧卖](https://www.advertcn.com/forum.php?mod=viewthread&tid=110139)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
