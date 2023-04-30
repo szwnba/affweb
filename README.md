@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Focus On 1 Zone Or Expand For Each Country?](https://afflift.com/f/threads/focus-on-1-zone-or-expand-for-each-country.10851/)
 -  30 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  30 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  30 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
@@ -28,8 +29,7 @@
 -  30 [SOI Offers Clickdealer &amp; Selfadvertiser Push 💥](https://afflift.com/f/threads/soi-offers-clickdealer-selfadvertiser-push-%F0%9F%92%A5.10846/)
 -  30 [Joining on a big date! HBD Afflift!](https://afflift.com/f/threads/joining-on-a-big-date-hbd-afflift.10850/)
 -  30 [Smart Surveys Zeydoo + Selfadvertiser Push](https://afflift.com/f/threads/smart-surveys-zeydoo-selfadvertiser-push.10839/)
--  30 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
--  30 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
+-  30 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
