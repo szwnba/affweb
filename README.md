@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [SOI Offers Clickdealer &amp; Selfadvertiser Push 💥](https://afflift.com/f/threads/soi-offers-clickdealer-selfadvertiser-push-%F0%9F%92%A5.10846/)
 -  30 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
 -  30 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  30 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
@@ -28,8 +29,7 @@
 -  29 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
 -  29 [Smart Surveys Zeydoo + Selfadvertiser Push](https://afflift.com/f/threads/smart-surveys-zeydoo-selfadvertiser-push.10839/)
 -  29 [Let&#39;s Go - Rtx and Clickbank &lpar;Nutra&rpar;](https://afflift.com/f/threads/lets-go-rtx-and-clickbank-nutra.9699/)
--  29 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  29 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/)<!-- afflift:END -->
+-  29 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
