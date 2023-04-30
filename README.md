@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  30 [How to Filter Fake Traffic &quot;Bots&quot; That mess your tracking statistics.](https://afflift.com/f/threads/how-to-filter-fake-traffic-bots-that-mess-your-tracking-statistics.10848/)
 -  30 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  30 [New contest and new challenge with Selfadvertiser&#39;s Pop](https://afflift.com/f/threads/new-contest-and-new-challenge-with-selfadvertisers-pop.10676/)
@@ -28,8 +29,7 @@
 -  30 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
 -  29 [Let&#39;s Flip Pop Traffic &lpar;Goal Of $25 A Day!&rpar;](https://afflift.com/f/threads/lets-flip-pop-traffic-goal-of-25-a-day.10597/)
 -  29 [Would It Be Suspicious If I Request Quality Check Early?](https://afflift.com/f/threads/would-it-be-suspicious-if-i-request-quality-check-early.10849/)
--  29 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
--  29 [Let&#39;s Go - Rtx and Clickbank &lpar;Nutra&rpar;](https://afflift.com/f/threads/lets-go-rtx-and-clickbank-nutra.9699/)<!-- afflift:END -->
+-  29 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
