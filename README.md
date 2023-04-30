@@ -18,8 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  30 [Focus On 1 Zone Or Expand For Each Country?](https://afflift.com/f/threads/focus-on-1-zone-or-expand-for-each-country.10851/)
 -  30 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+-  30 [Focus On 1 Zone Or Expand For Each Country?](https://afflift.com/f/threads/focus-on-1-zone-or-expand-for-each-country.10851/)
 -  30 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  30 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
 -  30 [Would It Be Suspicious If I Request Quality Check Early?](https://afflift.com/f/threads/would-it-be-suspicious-if-i-request-quality-check-early.10849/)
