@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  30 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  30 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
 -  30 [Would It Be Suspicious If I Request Quality Check Early?](https://afflift.com/f/threads/would-it-be-suspicious-if-i-request-quality-check-early.10849/)
@@ -28,8 +29,7 @@
 -  30 [Joining on a big date! HBD Afflift!](https://afflift.com/f/threads/joining-on-a-big-date-hbd-afflift.10850/)
 -  30 [Smart Surveys Zeydoo + Selfadvertiser Push](https://afflift.com/f/threads/smart-surveys-zeydoo-selfadvertiser-push.10839/)
 -  30 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
--  30 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  30 [Push traffic from SelfAdvertiser - Tier 4 Geo](https://afflift.com/f/threads/push-traffic-from-selfadvertiser-tier-4-geo.10655/)<!-- afflift:END -->
+-  30 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
