@@ -33,5 +33,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [幕后 | 以本土创新的力量，做影响世界的产品：Edge 浏览器中国团队专访](https://sspai.com/post/79495)
 -  29 [初次经历情感挫折，这是我 30 天里的变化](https://sspai.com/post/79336)
 -  29 [这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)<!-- sspai:END -->
