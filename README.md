@@ -34,5 +34,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  30 [担心新冠再流行？收好这份备药与防护方法（2023 年 4 月更新）](https://sspai.com/post/77155)
--  30 [幕后 | 以本土创新的力量，做影响世界的产品：Edge 浏览器中国团队专访](https://sspai.com/post/79495)
--  29 [初次经历情感挫折，这是我 30 天里的变化](https://sspai.com/post/79336)<!-- sspai:END -->
+-  30 [幕后 | 以本土创新的力量，做影响世界的产品：Edge 浏览器中国团队专访](https://sspai.com/post/79495)<!-- sspai:END -->
