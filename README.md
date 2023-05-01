@@ -18,6 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [SOI Offers Clickdealer &amp; Selfadvertiser Push 💥](https://afflift.com/f/threads/soi-offers-clickdealer-selfadvertiser-push-%F0%9F%92%A5.10846/)
+-  01 [Smart Surveys Zeydoo + Selfadvertiser Push](https://afflift.com/f/threads/smart-surveys-zeydoo-selfadvertiser-push.10839/)
 -  01 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
 -  01 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
 -  30 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
@@ -27,9 +29,7 @@
 -  30 [Native RTB](https://afflift.com/f/threads/native-rtb.10841/)
 -  30 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
 -  30 [Would It Be Suspicious If I Request Quality Check Early?](https://afflift.com/f/threads/would-it-be-suspicious-if-i-request-quality-check-early.10849/)
--  30 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)
--  30 [Let&#39;s test Mvas offers on Selfadvertiser POP!](https://afflift.com/f/threads/lets-test-mvas-offers-on-selfadvertiser-pop.10795/)
--  30 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)<!-- afflift:END -->
+-  30 [Find gold with SelfAdvertiser](https://afflift.com/f/threads/find-gold-with-selfadvertiser.10784/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
