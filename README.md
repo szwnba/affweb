@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
 -  30 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
 -  30 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  30 [Focus On 1 Zone Or Expand For Each Country?](https://afflift.com/f/threads/focus-on-1-zone-or-expand-for-each-country.10851/)
@@ -28,8 +29,7 @@
 -  30 [Let&#39;s test Mvas offers on Selfadvertiser POP!](https://afflift.com/f/threads/lets-test-mvas-offers-on-selfadvertiser-pop.10795/)
 -  30 [SelfAdvertiser Contest Follow Along - Pops &amp; Redirects](https://afflift.com/f/threads/selfadvertiser-contest-follow-along-pops-redirects.10813/)
 -  30 [SOI Offers Clickdealer &amp; Selfadvertiser Push 💥](https://afflift.com/f/threads/soi-offers-clickdealer-selfadvertiser-push-%F0%9F%92%A5.10846/)
--  30 [Joining on a big date! HBD Afflift!](https://afflift.com/f/threads/joining-on-a-big-date-hbd-afflift.10850/)
--  30 [Smart Surveys Zeydoo + Selfadvertiser Push](https://afflift.com/f/threads/smart-surveys-zeydoo-selfadvertiser-push.10839/)<!-- afflift:END -->
+-  30 [Joining on a big date! HBD Afflift!](https://afflift.com/f/threads/joining-on-a-big-date-hbd-afflift.10850/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
