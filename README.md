@@ -33,4 +33,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  30 [担心新冠再流行？收好这份备药与防护方法（2023 年 4 月更新）](https://sspai.com/post/77155)<!-- sspai:END -->
+-  01 [代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)<!-- sspai:END -->
