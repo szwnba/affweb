@@ -19,11 +19,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  02 [SOI Offers Clickdealer &amp; Selfadvertiser Push 💥](https://afflift.com/f/threads/soi-offers-clickdealer-selfadvertiser-push-%F0%9F%92%A5.10846/)
 -  02 [$400k in 6 Days with Zeydoo surveys](https://afflift.com/f/threads/400k-in-6-days-with-zeydoo-surveys.10856/)
 -  02 [Newbie Affiliate Marketer](https://afflift.com/f/threads/newbie-affiliate-marketer.10859/)
 -  02 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  02 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  02 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
 -  01 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  01 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
