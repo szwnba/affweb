@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
+-  02 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
 -  02 [TrafficHunt - Only high quality &amp; Member area traffic | Mainstream &amp; Dating Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-mainstream-dating-ad-platform.10862/)
 -  02 [Newbie Affiliate Marketer](https://afflift.com/f/threads/newbie-affiliate-marketer.10859/)
 -  02 [$400k in 6 Days with Zeydoo surveys](https://afflift.com/f/threads/400k-in-6-days-with-zeydoo-surveys.10856/)
@@ -28,9 +30,7 @@
 -  02 [Datafeedr: The One-Stop-Shop for Monetizing Your Website](https://afflift.com/f/threads/datafeedr-the-one-stop-shop-for-monetizing-your-website.10853/)
 -  02 [🚀📈SOI Offers Clickdealer &amp; Selfadvertiser Push Contest  💰🤑](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%93%88soi-offers-clickdealer-selfadvertiser-push-contest-%F0%9F%92%B0%F0%9F%A4%91.10846/)
 -  02 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
--  02 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
--  02 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  02 [Could I Sell A CPA Website?](https://afflift.com/f/threads/could-i-sell-a-cpa-website.10863/)<!-- afflift:END -->
+-  02 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
