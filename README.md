@@ -34,4 +34,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  02 [看什么·特别篇 | 超大包电子榨菜，陪你吃好每一餐](https://sspai.com/post/79538)
 -  01 [代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)<!-- sspai:END -->
