@@ -19,9 +19,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  01 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  01 [Newbie Affiliate Marketer](https://afflift.com/f/threads/newbie-affiliate-marketer.10859/)
--  01 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  01 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
 -  01 [Help Please - Affiliate Marketing](https://afflift.com/f/threads/help-please-affiliate-marketing.10858/)
 -  01 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
