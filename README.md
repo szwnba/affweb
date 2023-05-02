@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
 -  02 [TrafficHunt - Only high quality &amp; Member area traffic | Mainstream &amp; Dating Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-mainstream-dating-ad-platform.10862/)
 -  02 [SOI Offers Clickdealer &amp; Selfadvertiser Push 💥](https://afflift.com/f/threads/soi-offers-clickdealer-selfadvertiser-push-%F0%9F%92%A5.10846/)
 -  02 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
@@ -29,8 +30,7 @@
 -  02 [SelfAdvertiser contest entry](https://afflift.com/f/threads/selfadvertiser-contest-entry.10687/)
 -  02 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
 -  02 [Newbie Affiliate Marketer](https://afflift.com/f/threads/newbie-affiliate-marketer.10859/)
--  02 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  02 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)<!-- afflift:END -->
+-  02 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
