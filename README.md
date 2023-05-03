@@ -18,18 +18,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  03 [SCAM or not? KeyAffiliates cuts traffic &lpar;€8,766&rpar; of media buying company Traffic Squad due to its own manager&#39;s fault](https://afflift.com/f/threads/scam-or-not-keyaffiliates-cuts-traffic-%E2%82%AC8-766-of-media-buying-company-traffic-squad-due-to-its-own-managers-fault.10867/)
+-  03 [Looking for traffic?](https://afflift.com/f/threads/looking-for-traffic.10866/)
+-  03 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  03 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
+-  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  03 [Hello from Ukraine - Cpadok.media](https://afflift.com/f/threads/hello-from-ukraine-cpadok-media.10865/)
 -  03 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
 -  03 [Newbie Affiliate Marketer](https://afflift.com/f/threads/newbie-affiliate-marketer.10859/)
 -  03 [All in one SEO tool for $19&quot;?](https://afflift.com/f/threads/all-in-one-seo-tool-for-19.10836/)
 -  03 [50% Profit Share OLE777 Affiliate Program](https://afflift.com/f/threads/50-profit-share-ole777-affiliate-program.10756/)
 -  03 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
--  03 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
--  03 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
--  03 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
--  02 [🚀📈SOI Offers Clickdealer &amp; Selfadvertiser Push Contest  💰🤑](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%93%88soi-offers-clickdealer-selfadvertiser-push-contest-%F0%9F%92%B0%F0%9F%A4%91.10846/)<!-- afflift:END -->
+-  03 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
