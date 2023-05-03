@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  02 [指纹浏览器有没有那种自己本地搞的](https://www.advertcn.com/forum.php?mod=viewthread&tid=110173)<!-- advertcn:END -->
+-  03 [关于结汇，想说一下，根本没必要！](https://www.advertcn.com/forum.php?mod=viewthread&tid=110176)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
