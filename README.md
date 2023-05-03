@@ -33,6 +33,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [从不自量力到 AI 助力，我如何翻译完一整本英文书](https://sspai.com/post/79534)
 -  02 [本月玩什么 | 星战绝地：幸存者、死亡岛、边境](https://sspai.com/post/79543)
--  02 [近期值得一试的 6 个 VR 应用 / 游戏](https://sspai.com/post/79537)
--  02 [看什么·特别篇 | 超大包电子榨菜，陪你吃好每一餐](https://sspai.com/post/79538)<!-- sspai:END -->
+-  02 [近期值得一试的 6 个 VR 应用 / 游戏](https://sspai.com/post/79537)<!-- sspai:END -->
