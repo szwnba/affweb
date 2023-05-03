@@ -18,9 +18,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  03 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
--  02 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
+-  03 [New Contest 🚀 Still Me 😅 Finding the way to Green land with SelfAdvertiser](https://afflift.com/f/threads/new-contest-%F0%9F%9A%80-still-me-%F0%9F%98%85-finding-the-way-to-green-land-with-selfadvertiser.10663/)
+-  03 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
+-  03 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  02 [🚀📈SOI Offers Clickdealer &amp; Selfadvertiser Push Contest  💰🤑](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%93%88soi-offers-clickdealer-selfadvertiser-push-contest-%F0%9F%92%B0%F0%9F%A4%91.10846/)
 -  02 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
 -  02 [TrafficHunt - Only high quality &amp; Member area traffic | Mainstream &amp; Dating Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-mainstream-dating-ad-platform.10862/)
@@ -28,8 +29,7 @@
 -  02 [$400k in 6 Days with Zeydoo surveys](https://afflift.com/f/threads/400k-in-6-days-with-zeydoo-surveys.10856/)
 -  02 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  02 [How to Find Better PUSH &amp; Direct Networks Than These 2? &lpar;Please Share Your Tips&rpar;](https://afflift.com/f/threads/how-to-find-better-push-direct-networks-than-these-2-please-share-your-tips.10864/)
--  02 [Datafeedr: The One-Stop-Shop for Monetizing Your Website](https://afflift.com/f/threads/datafeedr-the-one-stop-shop-for-monetizing-your-website.10853/)
--  02 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)<!-- afflift:END -->
+-  02 [Datafeedr: The One-Stop-Shop for Monetizing Your Website](https://afflift.com/f/threads/datafeedr-the-one-stop-shop-for-monetizing-your-website.10853/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
