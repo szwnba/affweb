@@ -19,6 +19,7 @@
 ### afflift
 <!-- afflift:START -->
 -  03 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
+-  03 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  03 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
 -  03 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  03 [🚀📈SOI Offers Clickdealer &amp; Selfadvertiser Push Contest  💰🤑](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%93%88soi-offers-clickdealer-selfadvertiser-push-contest-%F0%9F%92%B0%F0%9F%A4%91.10846/)
@@ -28,8 +29,7 @@
 -  03 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  03 [How To Optimize A Push Advertising Campaign In Affiliate Marketing](https://afflift.com/f/threads/how-to-optimize-a-push-advertising-campaign-in-affiliate-marketing.10873/)
 -  03 [MaxWeb CPA Affiliate Network - #1 VSL Network](https://afflift.com/f/threads/maxweb-cpa-affiliate-network-1-vsl-network.10872/)
--  03 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)
--  03 [Looking for traffic?](https://afflift.com/f/threads/looking-for-traffic.10866/)<!-- afflift:END -->
+-  03 [April PropellerAds Promo Codes 2023](https://afflift.com/f/threads/april-propellerads-promo-codes-2023.10657/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
