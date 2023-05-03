@@ -34,5 +34,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  03 [2023 年，聊聊新冠疫苗有关的「新问题」（2023 年 4 月更新）](https://sspai.com/post/78146)
--  03 [从不自量力到 AI 助力，我如何翻译完一整本英文书](https://sspai.com/post/79534)
--  02 [本月玩什么 | 星战绝地：幸存者、死亡岛、边境](https://sspai.com/post/79543)<!-- sspai:END -->
+-  03 [从不自量力到 AI 助力，我如何翻译完一整本英文书](https://sspai.com/post/79534)<!-- sspai:END -->
