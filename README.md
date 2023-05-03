@@ -18,6 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Hello from Ukraine - Cpadok.media](https://afflift.com/f/threads/hello-from-ukraine-cpadok-media.10865/)
+-  03 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
+-  03 [Newbie Affiliate Marketer](https://afflift.com/f/threads/newbie-affiliate-marketer.10859/)
 -  03 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  03 [All in one SEO tool for $19&quot;?](https://afflift.com/f/threads/all-in-one-seo-tool-for-19.10836/)
 -  03 [50% Profit Share OLE777 Affiliate Program](https://afflift.com/f/threads/50-profit-share-ole777-affiliate-program.10756/)
@@ -26,10 +29,7 @@
 -  03 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
 -  03 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  02 [🚀📈SOI Offers Clickdealer &amp; Selfadvertiser Push Contest  💰🤑](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%93%88soi-offers-clickdealer-selfadvertiser-push-contest-%F0%9F%92%B0%F0%9F%A4%91.10846/)
--  02 [TrafficHunt - Only high quality &amp; Member area traffic | Mainstream &amp; Dating Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-mainstream-dating-ad-platform.10862/)
--  02 [Newbie Affiliate Marketer](https://afflift.com/f/threads/newbie-affiliate-marketer.10859/)
--  02 [$400k in 6 Days with Zeydoo surveys](https://afflift.com/f/threads/400k-in-6-days-with-zeydoo-surveys.10856/)
--  02 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)<!-- afflift:END -->
+-  02 [TrafficHunt - Only high quality &amp; Member area traffic | Mainstream &amp; Dating Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-mainstream-dating-ad-platform.10862/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
