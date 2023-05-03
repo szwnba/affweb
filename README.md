@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  01 [新人报道](https://www.advertcn.com/forum.php?mod=viewthread&tid=110164)
--  01 [最后一次卖cb账号 几年收入180万](https://www.advertcn.com/forum.php?mod=viewthread&tid=110162)<!-- advertcn:END -->
+-  02 [指纹浏览器有没有那种自己本地搞的](https://www.advertcn.com/forum.php?mod=viewthread&tid=110173)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
