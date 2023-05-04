@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
+-  04 [My run to green with Propellerads!](https://afflift.com/f/threads/my-run-to-green-with-propellerads.10440/)
 -  04 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  04 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  04 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
@@ -28,8 +30,6 @@
 -  04 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
 -  03 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  03 [$400k in 6 Days with Zeydoo surveys](https://afflift.com/f/threads/400k-in-6-days-with-zeydoo-surveys.10856/)
--  03 [My run to green with Propellerads!](https://afflift.com/f/threads/my-run-to-green-with-propellerads.10440/)
--  03 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
 -  03 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
 
 ### 少数派
