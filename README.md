@@ -34,5 +34,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [Castro：分流、筛选、个性化，属于重度播客爱好者的大更新解析](https://sspai.com/post/79551)
 -  04 [派早报：Nothing Phone &lpar;2&rpar; 确认夏季发布、DMA 法案正式实施等](https://sspai.com/post/79550)
 -  03 [2023 年，聊聊新冠疫苗有关的「新问题」（2023 年 4 月更新）](https://sspai.com/post/78146)<!-- sspai:END -->
