@@ -34,6 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [WWDC23 开幕在即，我们和曾经的获奖学生们聊了聊](https://sspai.com/post/79556)
 -  04 [新玩意 144｜少数派的作者们最近买了啥？](https://sspai.com/post/79558)
 -  04 [无密码、更安全的未来，你该如何登录？通行密钥上手体验](https://sspai.com/post/77376)
 -  04 [Castro：分流、筛选、个性化，属于重度播客爱好者的大更新解析](https://sspai.com/post/79551)
