@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  03 [关于结汇，想说一下，根本没必要！](https://www.advertcn.com/forum.php?mod=viewthread&tid=110176)<!-- advertcn:END -->
+-  03 [羞耻地展示一下去年的emu收入](https://www.advertcn.com/forum.php?mod=viewthread&tid=110180)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
