@@ -14,8 +14,7 @@
 
 ### zhihu
 <!-- zhihu:START -->
--  04 [国产动画《有兽焉》热播中，你看完有什么想说的？打算继续追吗？](http://www.zhihu.com/question/595128595/answer/2995312664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
--  03 [妙谈一下｜大神分享：知乎写「冷门」故事也能月入五六万！](http://zhuanlan.zhihu.com/p/625146576?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
+-  04 [国产动画《有兽焉》热播中，你看完有什么想说的？打算继续追吗？](http://www.zhihu.com/question/595128595/answer/2995312664?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
 
 ### afflift
 <!-- afflift:START -->
