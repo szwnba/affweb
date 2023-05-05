@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
 -  05 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  04 [New offer &lpar;B2B&rpar;: Autonix Trackable QR Codes 30% for 18 months](https://afflift.com/f/threads/new-offer-b2b-autonix-trackable-qr-codes-30-for-18-months.10885/)
 -  04 [Hi From Autonix &lpar;new Affiliate Offer&rpar;](https://afflift.com/f/threads/hi-from-autonix-new-affiliate-offer.10884/)
@@ -29,8 +30,7 @@
 -  04 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
 -  04 [⭕ Affiliate Marketing Telegram Groups? We want to join!](https://afflift.com/f/threads/%E2%AD%95-affiliate-marketing-telegram-groups-we-want-to-join.10623/)
 -  04 [12 Years SEM/SEO Agency Veteran revisiting CPA Networks](https://afflift.com/f/threads/12-years-sem-seo-agency-veteran-revisiting-cpa-networks.2138/)
--  04 [✅ SELLING HQ AGED GOOGLE ADS ACCOUNTS WITH SPENDING HISTORY FOR ANY BLACK AND GRAY VERTICALS](https://afflift.com/f/threads/%E2%9C%85-selling-hq-aged-google-ads-accounts-with-spending-history-for-any-black-and-gray-verticals.10883/)
--  04 [FPTraffic - Social Media Marketing Tool](https://afflift.com/f/threads/fptraffic-social-media-marketing-tool.10877/)<!-- afflift:END -->
+-  04 [✅ SELLING HQ AGED GOOGLE ADS ACCOUNTS WITH SPENDING HISTORY FOR ANY BLACK AND GRAY VERTICALS](https://afflift.com/f/threads/%E2%9C%85-selling-hq-aged-google-ads-accounts-with-spending-history-for-any-black-and-gray-verticals.10883/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
