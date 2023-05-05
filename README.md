@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/)
 -  05 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  05 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  05 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
@@ -28,8 +29,7 @@
 -  05 [Hello from Ukraine 380media/trustshop.agency](https://afflift.com/f/threads/hello-from-ukraine-380media-trustshop-agency.10874/)
 -  05 [Hi From Autonix &lpar;new Affiliate Offer&rpar;](https://afflift.com/f/threads/hi-from-autonix-new-affiliate-offer.10884/)
 -  05 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
--  05 [MOBIPIUM&#39;s Casino Offers](https://afflift.com/f/threads/mobipiums-casino-offers.10889/)
--  05 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  05 [MOBIPIUM&#39;s Casino Offers](https://afflift.com/f/threads/mobipiums-casino-offers.10889/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
