@@ -18,18 +18,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
+-  05 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
+-  05 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  05 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
+-  05 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
+-  05 [🚀📈SOI Offers Clickdealer &amp; Selfadvertiser Push Contest  💰🤑](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%93%88soi-offers-clickdealer-selfadvertiser-push-contest-%F0%9F%92%B0%F0%9F%A4%91.10846/)
+-  05 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
 -  05 [MaxWeb CPA Affiliate Network - #1 VSL Network](https://afflift.com/f/threads/maxweb-cpa-affiliate-network-1-vsl-network.10872/)
 -  05 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/)
 -  05 [How to Find Better PUSH &amp; Direct Networks Than These 2? &lpar;Please Share Your Tips&rpar;](https://afflift.com/f/threads/how-to-find-better-push-direct-networks-than-these-2-please-share-your-tips.10864/)
 -  05 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  05 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  05 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
--  05 [Statistical Analysis for Affiliate Marketers](https://afflift.com/f/threads/statistical-analysis-for-affiliate-marketers.10612/)
--  05 [Is there a way to run Tik tok ads without signing directly to Titok business plat ? I.e. an agency, a reseller,a network selling their traffic etc Tx](https://afflift.com/f/threads/is-there-a-way-to-run-tik-tok-ads-without-signing-directly-to-titok-business-plat-i-e-an-agency-a-reseller-a-network-selling-their-traffic-etc-tx.10881/)
--  05 [First test of Redirects: SelfAdvertiser + Golden Goose/Zeydoo](https://afflift.com/f/threads/first-test-of-redirects-selfadvertiser-golden-goose-zeydoo.10742/)
--  04 [New offer &lpar;B2B&rpar;: Autonix Trackable QR Codes 30% for 18 months](https://afflift.com/f/threads/new-offer-b2b-autonix-trackable-qr-codes-30-for-18-months.10885/)<!-- afflift:END -->
+-  05 [Statistical Analysis for Affiliate Marketers](https://afflift.com/f/threads/statistical-analysis-for-affiliate-marketers.10612/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
