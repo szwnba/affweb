@@ -34,6 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [派早报：摩托罗拉发布 Edge 40 手机、AMD 发布 Ryzen 7040U 系列处理器等](https://sspai.com/post/79570)
 -  04 [WWDC23 开幕在即，我们和曾经的获奖学生们聊了聊](https://sspai.com/post/79556)
 -  04 [新玩意 144｜少数派的作者们最近买了啥？](https://sspai.com/post/79558)
 -  04 [无密码、更安全的未来，你该如何登录？通行密钥上手体验](https://sspai.com/post/77376)
