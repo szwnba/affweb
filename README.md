@@ -33,7 +33,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [警惕那片「索拉里斯星的海」——AI 翻唱作品引发的合规省思](https://sspai.com/post/79510)
 -  05 [城市漫步指南：来海口，请查收这份「出差攻略」](https://sspai.com/post/79544)
 -  05 [派早报：摩托罗拉发布 Edge 40 手机、AMD 发布 Ryzen 7040U 系列处理器等](https://sspai.com/post/79570)
--  04 [WWDC23 开幕在即，我们和曾经的获奖学生们聊了聊](https://sspai.com/post/79556)
--  04 [新玩意 144｜少数派的作者们最近买了啥？](https://sspai.com/post/79558)<!-- sspai:END -->
+-  04 [WWDC23 开幕在即，我们和曾经的获奖学生们聊了聊](https://sspai.com/post/79556)<!-- sspai:END -->
