@@ -18,6 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
+-  05 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
+-  05 [B2B SaaS Affiliates:  What&#39;s interesting to you?](https://afflift.com/f/threads/b2b-saas-affiliates-whats-interesting-to-you.10888/)
 -  05 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  05 [Hello from Ukraine - Cpadok.media](https://afflift.com/f/threads/hello-from-ukraine-cpadok-media.10865/)
 -  05 [Hello from Ukraine 380media/trustshop.agency](https://afflift.com/f/threads/hello-from-ukraine-380media-trustshop-agency.10874/)
@@ -26,10 +29,7 @@
 -  05 [MOBIPIUM&#39;s Casino Offers](https://afflift.com/f/threads/mobipiums-casino-offers.10889/)
 -  05 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  05 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
--  05 [Pushtorm.net - push notification service✅ Additional monetization of your traffic🔥](https://afflift.com/f/threads/pushtorm-net-push-notification-service%E2%9C%85-additional-monetization-of-your-traffic%F0%9F%94%A5.10363/)
--  05 [B2B SaaS Affiliates:  What&#39;s interesting to you?](https://afflift.com/f/threads/b2b-saas-affiliates-whats-interesting-to-you.10888/)
--  05 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
--  05 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)<!-- afflift:END -->
+-  05 [Pushtorm.net - push notification service✅ Additional monetization of your traffic🔥](https://afflift.com/f/threads/pushtorm-net-push-notification-service%E2%9C%85-additional-monetization-of-your-traffic%F0%9F%94%A5.10363/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
