@@ -18,18 +18,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
--  05 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/)
--  05 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  05 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
--  05 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  05 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  05 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
--  05 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+-  05 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
+-  05 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
 -  05 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
--  05 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
+-  05 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/)
+-  05 [Private Chile with hot rates!🔝](https://afflift.com/f/threads/private-chile-with-hot-rates-%F0%9F%94%9D.10886/)
+-  05 [Happy 5th Birthday, affLIFT!](https://afflift.com/f/threads/happy-5th-birthday-afflift.10842/)
 -  05 [🚀📈SOI Offers Clickdealer &amp; Selfadvertiser Push Contest  💰🤑](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%93%88soi-offers-clickdealer-selfadvertiser-push-contest-%F0%9F%92%B0%F0%9F%A4%91.10846/)
--  05 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)<!-- afflift:END -->
+-  05 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
+-  05 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  05 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
+-  05 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+-  05 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
