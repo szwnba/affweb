@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  25 [2023年可免费使用的AI平台，含ChatGPT，GPT-4，Claude等](https://51.ruyo.net/18350.html)<!-- ruyo:END -->
+-  06 [如有乐享疑似被百度K了，持续更新整个过程](https://51.ruyo.net/18365.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
