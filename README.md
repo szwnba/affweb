@@ -33,6 +33,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [派早报：Google 正式公布 Pixel Fold、文石推出多款新品等](https://sspai.com/post/79590)
 -  05 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79581)
 -  05 [警惕那片「索拉里斯星的海」——AI 翻唱作品引发的合规省思](https://sspai.com/post/79510)
 -  05 [城市漫步指南：来海口，请查收这份「出差攻略」](https://sspai.com/post/79544)<!-- sspai:END -->
