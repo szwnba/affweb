@@ -35,5 +35,4 @@
 <!-- sspai:START -->
 -  05 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79581)
 -  05 [警惕那片「索拉里斯星的海」——AI 翻唱作品引发的合规省思](https://sspai.com/post/79510)
--  05 [城市漫步指南：来海口，请查收这份「出差攻略」](https://sspai.com/post/79544)
--  05 [派早报：摩托罗拉发布 Edge 40 手机、AMD 发布 Ryzen 7040U 系列处理器等](https://sspai.com/post/79570)<!-- sspai:END -->
+-  05 [城市漫步指南：来海口，请查收这份「出差攻略」](https://sspai.com/post/79544)<!-- sspai:END -->
