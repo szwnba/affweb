@@ -14,7 +14,7 @@
 
 ### zhihu
 <!-- zhihu:START -->
--  04 [【PentaQ.LPL十年盘点】万字长文盘点英雄联盟这十年战术与策略演变](http://zhuanlan.zhihu.com/p/626480490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
+-  06 [西北工业大学邵典老师-不正经招生指南](http://zhuanlan.zhihu.com/p/623058801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
 
 ### afflift
 <!-- afflift:START -->
