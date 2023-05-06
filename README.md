@@ -33,6 +33,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [长谈人工智能：AI 时代的伦理、教育、工作和生产力](https://sspai.com/post/79596)
 -  06 [一日一技 | 给国行 NW-A306 Walkman 刷上国际版系统](https://sspai.com/post/79531)
--  06 [派早报：Google 正式公布 Pixel Fold、文石推出多款新品等](https://sspai.com/post/79590)
--  05 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79581)<!-- sspai:END -->
+-  06 [派早报：Google 正式公布 Pixel Fold、文石推出多款新品等](https://sspai.com/post/79590)<!-- sspai:END -->
