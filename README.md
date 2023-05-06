@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
+-  06 [Let&#39;s make some money with push and COD](https://afflift.com/f/threads/lets-make-some-money-with-push-and-cod.10893/)
 -  06 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  06 [1st Follow Along - Servando&#39;s $10/day Guide](https://afflift.com/f/threads/1st-follow-along-servandos-10-day-guide.7438/)
 -  06 [How to track holds&amp;conversions COD offers with Bemob and TrafficStars for CPA pricing model?](https://afflift.com/f/threads/how-to-track-holds-conversions-cod-offers-with-bemob-and-trafficstars-for-cpa-pricing-model.10891/)
@@ -28,10 +30,8 @@
 -  06 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  06 [Does anyone spy on push ads manually?](https://afflift.com/f/threads/does-anyone-spy-on-push-ads-manually.10890/)
 -  05 [Gtin issues in Google Merchant Center](https://afflift.com/f/threads/gtin-issues-in-google-merchant-center.10495/)
--  05 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
 -  05 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  05 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/)
--  05 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  05 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
