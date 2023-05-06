@@ -18,18 +18,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
+-  06 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
 -  06 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  06 [Does anyone spy on push ads manually?](https://afflift.com/f/threads/does-anyone-spy-on-push-ads-manually.10890/)
 -  05 [Gtin issues in Google Merchant Center](https://afflift.com/f/threads/gtin-issues-in-google-merchant-center.10495/)
 -  05 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
 -  05 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  05 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  05 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/)
 -  05 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  05 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  05 [B2B SaaS Affiliates:  What&#39;s interesting to you?](https://afflift.com/f/threads/b2b-saas-affiliates-whats-interesting-to-you.10888/)
--  05 [Hello from Ukraine - Cpadok.media](https://afflift.com/f/threads/hello-from-ukraine-cpadok-media.10865/)
--  05 [Hello from Ukraine 380media/trustshop.agency](https://afflift.com/f/threads/hello-from-ukraine-380media-trustshop-agency.10874/)<!-- afflift:END -->
+-  05 [Hello from Ukraine - Cpadok.media](https://afflift.com/f/threads/hello-from-ukraine-cpadok-media.10865/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
