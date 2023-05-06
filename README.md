@@ -21,6 +21,7 @@
 ### afflift
 <!-- afflift:START -->
 -  06 [Let&#39;s make some money with push and COD](https://afflift.com/f/threads/lets-make-some-money-with-push-and-cod.10893/)
+-  06 [Does anyone know what is this kind of ads arbitrage?](https://afflift.com/f/threads/does-anyone-know-what-is-this-kind-of-ads-arbitrage.10894/)
 -  06 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
 -  06 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  06 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
@@ -30,8 +31,7 @@
 -  06 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
 -  06 [Hello from Ukraine 380media/trustshop.agency](https://afflift.com/f/threads/hello-from-ukraine-380media-trustshop-agency.10874/)
 -  06 [1st Follow Along - Servando&#39;s $10/day Guide](https://afflift.com/f/threads/1st-follow-along-servandos-10-day-guide.7438/)
--  06 [How to track holds&amp;conversions COD offers with Bemob and TrafficStars for CPA pricing model?](https://afflift.com/f/threads/how-to-track-holds-conversions-cod-offers-with-bemob-and-trafficstars-for-cpa-pricing-model.10891/)
--  06 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)<!-- afflift:END -->
+-  06 [How to track holds&amp;conversions COD offers with Bemob and TrafficStars for CPA pricing model?](https://afflift.com/f/threads/how-to-track-holds-conversions-cod-offers-with-bemob-and-trafficstars-for-cpa-pricing-model.10891/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
