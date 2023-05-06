@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [How to track holds&amp;conversions COD offers with Bemob and TrafficStars for CPA pricing model?](https://afflift.com/f/threads/how-to-track-holds-conversions-cod-offers-with-bemob-and-trafficstars-for-cpa-pricing-model.10891/)
 -  06 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
 -  06 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  06 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
@@ -28,8 +29,7 @@
 -  05 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
 -  05 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/)
 -  05 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  05 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  05 [B2B SaaS Affiliates:  What&#39;s interesting to you?](https://afflift.com/f/threads/b2b-saas-affiliates-whats-interesting-to-you.10888/)<!-- afflift:END -->
+-  05 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
