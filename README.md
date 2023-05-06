@@ -10,7 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  04 [[讨论]什么是Search feed套利,有没有大神能指导指导](https://www.advertcn.com/forum.php?mod=viewthread&tid=110195)<!-- advertcn:END -->
+-  06 [免费开立星展银行，渣打银行，花旗银行，多币种账户](https://www.advertcn.com/forum.php?mod=viewthread&tid=110247)
+-  06 [发现一个牛B的油管频道！傻瓜全自动发布..不要AI完成...](https://www.advertcn.com/forum.php?mod=viewthread&tid=110243)
+-  06 [黑五专用虚拟卡，五年诚信平台](https://www.advertcn.com/forum.php?mod=viewthread&tid=110239)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
