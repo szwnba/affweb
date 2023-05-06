@@ -18,6 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Does anyone spy on push ads manually?](https://afflift.com/f/threads/does-anyone-spy-on-push-ads-manually.10890/)
+-  05 [Gtin issues in Google Merchant Center](https://afflift.com/f/threads/gtin-issues-in-google-merchant-center.10495/)
 -  05 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
 -  05 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
 -  05 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
@@ -27,9 +29,7 @@
 -  05 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  05 [B2B SaaS Affiliates:  What&#39;s interesting to you?](https://afflift.com/f/threads/b2b-saas-affiliates-whats-interesting-to-you.10888/)
 -  05 [Hello from Ukraine - Cpadok.media](https://afflift.com/f/threads/hello-from-ukraine-cpadok-media.10865/)
--  05 [Hello from Ukraine 380media/trustshop.agency](https://afflift.com/f/threads/hello-from-ukraine-380media-trustshop-agency.10874/)
--  05 [Hi From Autonix &lpar;new Affiliate Offer&rpar;](https://afflift.com/f/threads/hi-from-autonix-new-affiliate-offer.10884/)
--  05 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)<!-- afflift:END -->
+-  05 [Hello from Ukraine 380media/trustshop.agency](https://afflift.com/f/threads/hello-from-ukraine-380media-trustshop-agency.10874/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
