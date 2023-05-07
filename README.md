@@ -18,9 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  07 [How to track holds&amp;conversions COD offers with Bemob and TrafficStars for CPA pricing model?](https://afflift.com/f/threads/how-to-track-holds-conversions-cod-offers-with-bemob-and-trafficstars-for-cpa-pricing-model.10891/)
 -  07 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
--  07 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  07 [The big question about propush](https://afflift.com/f/threads/the-big-question-about-propush.10897/)
 -  07 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  07 [FPTraffic - Social Media Marketing Tool](https://afflift.com/f/threads/fptraffic-social-media-marketing-tool.10877/)
