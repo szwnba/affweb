@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  06 [有谁专门做paypal解封业务的吗？我的paypal被风控了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110257)
--  06 [免费开立星展银行，渣打银行，花旗银行，多币种账户](https://www.advertcn.com/forum.php?mod=viewthread&tid=110247)<!-- advertcn:END -->
+-  06 [有谁专门做paypal解封业务的吗？我的paypal被风控了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110257)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
