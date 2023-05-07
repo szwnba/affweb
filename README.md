@@ -33,5 +33,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  07 [从手机内部设计开始聊起，探秘 iPhone 14 标准版和 Pro 版的设计之异](https://sspai.com/post/79533)
+-  07 [从手机内部设计聊起，探讨 iPhone 14 系列型号的设计之异](https://sspai.com/post/79533)
 -  07 [确诊焦虑症后，这些方法帮我缓解痛苦](https://sspai.com/post/79559)<!-- sspai:END -->
