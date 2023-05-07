@@ -36,6 +36,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [确诊焦虑症后，这些方法帮我缓解痛苦](https://sspai.com/post/79559)
 -  06 [处理器简史｜PowerPC 05：大厦将倾 力挽狂澜（上）](https://sspai.com/prime/story/sv-anecdotes-12)
--  06 [长谈人工智能：AI 时代的伦理、教育、工作和生产力](https://sspai.com/post/79596)
--  06 [一日一技 | 给国行 NW-A306 Walkman 刷上国际版系统](https://sspai.com/post/79531)<!-- sspai:END -->
+-  06 [长谈人工智能：AI 时代的伦理、教育、工作和生产力](https://sspai.com/post/79596)<!-- sspai:END -->
