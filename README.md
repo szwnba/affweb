@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [#PA10K - Mastering PropellerAds + Propush + Zeydoo and more!](https://afflift.com/f/threads/pa10k-mastering-propellerads-propush-zeydoo-and-more.8899/)
 -  06 [Does anyone know what is this kind of ads arbitrage?](https://afflift.com/f/threads/does-anyone-know-what-is-this-kind-of-ads-arbitrage.10894/)
 -  06 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
 -  06 [Let&#39;s make some money with push and COD](https://afflift.com/f/threads/lets-make-some-money-with-push-and-cod.10893/)
@@ -28,8 +29,7 @@
 -  06 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)
 -  06 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  06 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
--  06 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
--  06 [Detailed Security Campaign Follow Along 2023 - #SelfAdvertiser](https://afflift.com/f/threads/detailed-security-campaign-follow-along-2023-selfadvertiser.10779/)<!-- afflift:END -->
+-  06 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
