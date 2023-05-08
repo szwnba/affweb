@@ -17,7 +17,7 @@
 
 ### zhihu
 <!-- zhihu:START -->
--  06 [西北工业大学邵典老师-不正经招生指南](http://zhuanlan.zhihu.com/p/623058801?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
+-  08 [第二波大规模疫情可能会在什么时候到来？](http://zhuanlan.zhihu.com/p/624166149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
 
 ### afflift
 <!-- afflift:START -->
