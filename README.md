@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [#PA10K - Mastering PropellerAds + Propush + Zeydoo and more!](https://afflift.com/f/threads/pa10k-mastering-propellerads-propush-zeydoo-and-more.8899/)
 -  08 [Networks That Offer API For Orders Instead Of Affiliate Links?](https://afflift.com/f/threads/networks-that-offer-api-for-orders-instead-of-affiliate-links.10898/)
 -  08 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  08 [PropellerAds CPA Goal Traffic Question](https://afflift.com/f/threads/propellerads-cpa-goal-traffic-question.10899/)
@@ -29,8 +30,7 @@
 -  07 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
 -  07 [The big question about propush](https://afflift.com/f/threads/the-big-question-about-propush.10897/)
 -  07 [FPTraffic - Social Media Marketing Tool](https://afflift.com/f/threads/fptraffic-social-media-marketing-tool.10877/)
--  07 [Let&#39;s make some money with push and COD](https://afflift.com/f/threads/lets-make-some-money-with-push-and-cod.10893/)
--  07 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)<!-- afflift:END -->
+-  07 [Let&#39;s make some money with push and COD](https://afflift.com/f/threads/lets-make-some-money-with-push-and-cod.10893/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
