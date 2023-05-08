@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [PropellerAds CPA Goal Traffic Question](https://afflift.com/f/threads/propellerads-cpa-goal-traffic-question.10899/)
 -  07 [My run to green with Propellerads!](https://afflift.com/f/threads/my-run-to-green-with-propellerads.10440/)
 -  07 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  07 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
@@ -29,8 +30,7 @@
 -  07 [The big question about propush](https://afflift.com/f/threads/the-big-question-about-propush.10897/)
 -  07 [FPTraffic - Social Media Marketing Tool](https://afflift.com/f/threads/fptraffic-social-media-marketing-tool.10877/)
 -  07 [Let&#39;s make some money with push and COD](https://afflift.com/f/threads/lets-make-some-money-with-push-and-cod.10893/)
--  07 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
--  07 [any review about juicyads.com traffic?](https://afflift.com/f/threads/any-review-about-juicyads-com-traffic.10895/)<!-- afflift:END -->
+-  07 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
