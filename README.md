@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [英国否决微软并购案始末，以及其他值得关注的游戏资讯评论](https://sspai.com/prime/story/zouzhe-230508)
 -  08 [派评 | 近期值得关注的 App](https://sspai.com/post/79631)
 -  08 [Apple 零售店的灵魂，别人没学到](https://sspai.com/post/79575)
 -  08 [派早报：一季度手机出货同比下降 14%，堡垒之夜成为奥运电竞项目](https://sspai.com/post/79598)<!-- sspai:END -->
