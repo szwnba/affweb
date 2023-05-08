@@ -35,5 +35,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  08 [Apple 零售店的灵魂，别人没学到](https://sspai.com/post/79575)
--  08 [派早报：一季度手机出货同比下降 14%，堡垒之夜成为奥运电竞项目](https://sspai.com/post/79598)
--  07 [从手机内部设计聊起，探讨 iPhone 14 系列型号的设计之异](https://sspai.com/post/79533)<!-- sspai:END -->
+-  08 [派早报：一季度手机出货同比下降 14%，堡垒之夜成为奥运电竞项目](https://sspai.com/post/79598)<!-- sspai:END -->
