@@ -10,8 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  07 [亏钱的第一次就这样悄无声息的开始了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110266)
--  07 [GPT Plus](https://www.advertcn.com/forum.php?mod=viewthread&tid=110264)<!-- advertcn:END -->
+-  08 [最近在研究代码的时候发现一个网站](https://www.advertcn.com/forum.php?mod=viewthread&tid=110279)
+-  08 [谷歌广告账户开户前准备及流程](https://www.advertcn.com/forum.php?mod=viewthread&tid=110275)
+-  08 [是谁又在QJ谷歌了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110273)
+-  08 [看一千遍不如上手做一遍](https://www.advertcn.com/forum.php?mod=viewthread&tid=110272)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
