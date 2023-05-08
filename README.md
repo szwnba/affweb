@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  06 [有谁专门做paypal解封业务的吗？我的paypal被风控了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110257)<!-- advertcn:END -->
+-  07 [亏钱的第一次就这样悄无声息的开始了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110266)
+-  07 [GPT Plus](https://www.advertcn.com/forum.php?mod=viewthread&tid=110264)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
