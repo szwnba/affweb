@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  06 [如有乐享疑似被百度K了，持续更新整个过程](https://51.ruyo.net/18365.html)<!-- ruyo:END -->
+-  08 [目前OpenAI账号开通获取高额度方法分享](https://51.ruyo.net/18360.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
