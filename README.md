@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [any review about juicyads.com traffic?](https://afflift.com/f/threads/any-review-about-juicyads-com-traffic.10895/)
+-  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  08 [The big question about propush](https://afflift.com/f/threads/the-big-question-about-propush.10897/)
 -  08 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
 -  08 [PropellerAds CPA Goal Traffic Question](https://afflift.com/f/threads/propellerads-cpa-goal-traffic-question.10899/)
@@ -30,9 +32,7 @@
 -  08 [All in one SEO tool for $19&quot;?](https://afflift.com/f/threads/all-in-one-seo-tool-for-19.10836/)
 -  08 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/)
 -  08 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/)
--  08 [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/)
--  08 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
--  08 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)<!-- afflift:END -->
+-  08 [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
