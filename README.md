@@ -19,11 +19,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Networks That Offer API For Orders Instead Of Affiliate Links?](https://afflift.com/f/threads/networks-that-offer-api-for-orders-instead-of-affiliate-links.10898/)
 -  08 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  08 [PropellerAds CPA Goal Traffic Question](https://afflift.com/f/threads/propellerads-cpa-goal-traffic-question.10899/)
 -  07 [My run to green with Propellerads!](https://afflift.com/f/threads/my-run-to-green-with-propellerads.10440/)
 -  07 [$555 Giveaway for our 5th Birthday](https://afflift.com/f/threads/555-giveaway-for-our-5th-birthday.10855/)
--  07 [Networks That Offer API For Orders Instead Of Affiliate Links?](https://afflift.com/f/threads/networks-that-offer-api-for-orders-instead-of-affiliate-links.10898/)
 -  07 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  07 [How to track holds&amp;conversions COD offers with Bemob and TrafficStars for CPA pricing model?](https://afflift.com/f/threads/how-to-track-holds-conversions-cod-offers-with-bemob-and-trafficstars-for-cpa-pricing-model.10891/)
 -  07 [SelfAdvertiser + Golden Goose Pop Campaign [Contest]](https://afflift.com/f/threads/selfadvertiser-golden-goose-pop-campaign-contest.10767/)
