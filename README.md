@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [FPTraffic - Social Media Marketing Tool](https://afflift.com/f/threads/fptraffic-social-media-marketing-tool.10877/)
 -  08 [RichAds Follow Along - Will we get Profitable? ;&rpar;](https://afflift.com/f/threads/richads-follow-along-will-we-get-profitable.10901/)
+-  08 [Networks That Offer API For Orders Instead Of Affiliate Links?](https://afflift.com/f/threads/networks-that-offer-api-for-orders-instead-of-affiliate-links.10898/)
+-  08 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
+-  08 [New offer &lpar;B2B&rpar;: Autonix Trackable QR Codes 30% for 18 months](https://afflift.com/f/threads/new-offer-b2b-autonix-trackable-qr-codes-30-for-18-months.10885/)
+-  08 [SelfAdvertiser Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/selfadvertiser-contest-vote-for-your-favorite-follow-along.10857/)
+-  08 [FPTraffic - Social Media Marketing Tool](https://afflift.com/f/threads/fptraffic-social-media-marketing-tool.10877/)
 -  08 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  08 [The big question about propush](https://afflift.com/f/threads/the-big-question-about-propush.10897/)
 -  08 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  08 [How Much Can You Earn With 100,000 Monetizer Push Subscribers in the US?](https://afflift.com/f/threads/how-much-can-you-earn-with-100-000-monetizer-push-subscribers-in-the-us.10852/)
 -  08 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
--  08 [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/)
--  08 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  08 [any review about juicyads.com traffic?](https://afflift.com/f/threads/any-review-about-juicyads-com-traffic.10895/)
--  08 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
--  08 [Revcontent Account Suspend](https://afflift.com/f/threads/revcontent-account-suspend.10833/)<!-- afflift:END -->
+-  08 [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
