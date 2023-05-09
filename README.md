@@ -18,7 +18,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
+-  09 [Dedicated server VS Cloud hosting](https://afflift.com/f/threads/dedicated-server-vs-cloud-hosting.10902/)
 -  09 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
+-  09 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
 -  09 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
 -  09 [RichAds Follow Along - Will we get Profitable? ;&rpar;](https://afflift.com/f/threads/richads-follow-along-will-we-get-profitable.10901/)
 -  09 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
@@ -26,10 +29,7 @@
 -  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  09 [What&#39;s the best way to promote your affiliate program on this forum?](https://afflift.com/f/threads/whats-the-best-way-to-promote-your-affiliate-program-on-this-forum.10903/)
 -  09 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
--  09 [New offer &lpar;B2B&rpar;: Autonix Trackable QR Codes 30% for 18 months](https://afflift.com/f/threads/new-offer-b2b-autonix-trackable-qr-codes-30-for-18-months.10885/)
--  09 [Beginner-friendly whitelists [GEOs, bids, sources, volumes] for low payout offers 📈💰](https://afflift.com/f/threads/beginner-friendly-whitelists-geos-bids-sources-volumes-for-low-payout-offers-%F0%9F%93%88%F0%9F%92%B0.8907/)
--  09 [The big question about propush](https://afflift.com/f/threads/the-big-question-about-propush.10897/)
--  09 [PropellerAds CPA Goal Traffic Question](https://afflift.com/f/threads/propellerads-cpa-goal-traffic-question.10899/)<!-- afflift:END -->
+-  09 [New offer &lpar;B2B&rpar;: Autonix Trackable QR Codes 30% for 18 months](https://afflift.com/f/threads/new-offer-b2b-autonix-trackable-qr-codes-30-for-18-months.10885/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
