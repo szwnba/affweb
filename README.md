@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [PlayStation Plus 精选集即将下线：买不买会员怎么买？这篇文章或许能帮你](https://sspai.com/post/73490)
 -  09 [线下活动 | 值得买消费嘉年华，快来少数派展位打卡](https://sspai.com/post/79671)
 -  09 [一日一技 | 自动将 macOS 截图导入 iCloud 相册](https://sspai.com/post/79593)
 -  09 [Google I/O 2023 前瞻：四大看点，量大管饱](https://sspai.com/post/79639)
--  09 [派早报：微软在 Windows 设置首页加入更多卡片广告，高通收购 Autotalks 等](https://sspai.com/post/79638)
--  08 [英国否决微软并购案始末，以及其他值得关注的游戏资讯评论](https://sspai.com/prime/story/zouzhe-230508)<!-- sspai:END -->
+-  09 [派早报：微软在 Windows 设置首页加入更多卡片广告，高通收购 Autotalks 等](https://sspai.com/post/79638)<!-- sspai:END -->
