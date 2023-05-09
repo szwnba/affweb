@@ -18,11 +18,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
+-  09 [The big question about propush](https://afflift.com/f/threads/the-big-question-about-propush.10897/)
 -  09 [PropellerAds CPA Goal Traffic Question](https://afflift.com/f/threads/propellerads-cpa-goal-traffic-question.10899/)
 -  09 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  09 [The big question about propush](https://afflift.com/f/threads/the-big-question-about-propush.10897/)
 -  09 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
--  09 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 -  09 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  09 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
 -  09 [RichAds Follow Along - Will we get Profitable? ;&rpar;](https://afflift.com/f/threads/richads-follow-along-will-we-get-profitable.10901/)
