@@ -19,6 +19,7 @@
 ### afflift
 <!-- afflift:START -->
 -  09 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
+-  09 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
 -  09 [RichAds Follow Along - Will we get Profitable? ;&rpar;](https://afflift.com/f/threads/richads-follow-along-will-we-get-profitable.10901/)
 -  09 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
 -  09 [Binom on Cloudflare Worker](https://afflift.com/f/threads/binom-on-cloudflare-worker.10904/)
@@ -28,8 +29,7 @@
 -  09 [New offer &lpar;B2B&rpar;: Autonix Trackable QR Codes 30% for 18 months](https://afflift.com/f/threads/new-offer-b2b-autonix-trackable-qr-codes-30-for-18-months.10885/)
 -  09 [Beginner-friendly whitelists [GEOs, bids, sources, volumes] for low payout offers 📈💰](https://afflift.com/f/threads/beginner-friendly-whitelists-geos-bids-sources-volumes-for-low-payout-offers-%F0%9F%93%88%F0%9F%92%B0.8907/)
 -  09 [The big question about propush](https://afflift.com/f/threads/the-big-question-about-propush.10897/)
--  09 [PropellerAds CPA Goal Traffic Question](https://afflift.com/f/threads/propellerads-cpa-goal-traffic-question.10899/)
--  09 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)<!-- afflift:END -->
+-  09 [PropellerAds CPA Goal Traffic Question](https://afflift.com/f/threads/propellerads-cpa-goal-traffic-question.10899/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
