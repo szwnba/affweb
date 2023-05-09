@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  09 [派早报：微软在 Windows 设置首页加入更多卡片广告，高通收购 Autotalks 等](https://sspai.com/post/79638)
 -  08 [英国否决微软并购案始末，以及其他值得关注的游戏资讯评论](https://sspai.com/prime/story/zouzhe-230508)
--  08 [派评 | 近期值得关注的 App](https://sspai.com/post/79631)
--  08 [Apple 零售店的灵魂，别人没学到](https://sspai.com/post/79575)<!-- sspai:END -->
+-  08 [派评 | 近期值得关注的 App](https://sspai.com/post/79631)<!-- sspai:END -->
