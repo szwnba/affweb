@@ -33,8 +33,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [派早报：Apple 发布 iPad 版 Final Cut Pro 与 Logic Pro 等](https://sspai.com/post/79709)
 -  09 [找一把完美适配 macOS 的第三方键盘，为什么那么难？](https://sspai.com/post/79608)
 -  09 [PlayStation Plus 精选集即将下线：买不买会员怎么买？这篇文章或许能帮你](https://sspai.com/post/73490)
 -  09 [线下活动 | 值得买消费嘉年华，快来少数派展位打卡](https://sspai.com/post/79671)
--  09 [一日一技 | 自动将 macOS 截图导入 iCloud 相册](https://sspai.com/post/79593)
--  09 [Google I/O 2023 前瞻：四大看点，量大管饱](https://sspai.com/post/79639)<!-- sspai:END -->
+-  09 [一日一技 | 自动将 macOS 截图导入 iCloud 相册](https://sspai.com/post/79593)<!-- sspai:END -->
