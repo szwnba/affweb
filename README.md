@@ -18,6 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [What&#39;s the best way to promote your affiliate program on this forum?](https://afflift.com/f/threads/whats-the-best-way-to-promote-your-affiliate-program-on-this-forum.10903/)
+-  09 [Need help to make this grow to $5/day](https://afflift.com/f/threads/need-help-to-make-this-grow-to-5-day.10907/)
 -  09 [RichAds Follow Along - Will we get Profitable? ;&rpar;](https://afflift.com/f/threads/richads-follow-along-will-we-get-profitable.10901/)
 -  09 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
 -  09 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
@@ -27,9 +29,7 @@
 -  09 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 -  09 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
 -  09 [Binom on Cloudflare Worker](https://afflift.com/f/threads/binom-on-cloudflare-worker.10904/)
--  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  09 [What&#39;s the best way to promote your affiliate program on this forum?](https://afflift.com/f/threads/whats-the-best-way-to-promote-your-affiliate-program-on-this-forum.10903/)
--  09 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)<!-- afflift:END -->
+-  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
