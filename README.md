@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
+-  10 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
 -  10 [Need help to make this grow to $5/day](https://afflift.com/f/threads/need-help-to-make-this-grow-to-5-day.10907/)
 -  10 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
 -  10 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
@@ -29,9 +31,7 @@
 -  10 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
 -  10 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
 -  10 [RichAds Follow Along - Will we get Profitable? ;&rpar;](https://afflift.com/f/threads/richads-follow-along-will-we-get-profitable.10901/)
--  10 [Private offers to Africa🤑](https://afflift.com/f/threads/private-offers-to-africa%F0%9F%A4%91.10430/)
--  10 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
--  10 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)<!-- afflift:END -->
+-  10 [Private offers to Africa🤑](https://afflift.com/f/threads/private-offers-to-africa%F0%9F%A4%91.10430/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
