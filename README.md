@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Native + VSLs = Conversions!](https://afflift.com/f/threads/native-vsls-conversions.10913/)
 -  10 [Whitehat Lead Gen - The vertical affiliates aren&#39;t talking about](https://afflift.com/f/threads/whitehat-lead-gen-the-vertical-affiliates-arent-talking-about.6951/)
 -  10 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
 -  10 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
@@ -30,8 +31,7 @@
 -  10 [About the propeller did not send traffic problems, please help me](https://afflift.com/f/threads/about-the-propeller-did-not-send-traffic-problems-please-help-me.10909/)
 -  10 [Earn $2,000 per purchase with GanttPRO affiliate program](https://afflift.com/f/threads/earn-2-000-per-purchase-with-ganttpro-affiliate-program.10342/)
 -  10 [GanttPRO Affiliate Program](https://afflift.com/f/threads/ganttpro-affiliate-program.10910/)
--  10 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
--  10 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)<!-- afflift:END -->
+-  10 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
