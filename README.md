@@ -14,6 +14,7 @@
 
 ### zhihu
 <!-- zhihu:START -->
+-  10 [「走出新手村」十次 CV 论文会议投稿的经验总结](http://zhuanlan.zhihu.com/p/627032371?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 -  10 [大语言模型如何构建强大的复杂推理能力｜分析](http://zhuanlan.zhihu.com/p/626533715?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
 
 ### afflift
