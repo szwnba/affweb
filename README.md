@@ -14,7 +14,7 @@
 
 ### zhihu
 <!-- zhihu:START -->
--  09 [纪念万玛才旦导演  -罗攀](http://zhuanlan.zhihu.com/p/627863650?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
+-  10 [大语言模型如何构建强大的复杂推理能力｜分析](http://zhuanlan.zhihu.com/p/626533715?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
 
 ### afflift
 <!-- afflift:START -->
