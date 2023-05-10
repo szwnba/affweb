@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Whitehat Lead Gen - The vertical affiliates aren&#39;t talking about](https://afflift.com/f/threads/whitehat-lead-gen-the-vertical-affiliates-arent-talking-about.6951/)
+-  10 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
 -  10 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
 -  10 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
 -  10 [Need help to make this grow to $5/day](https://afflift.com/f/threads/need-help-to-make-this-grow-to-5-day.10907/)
@@ -29,9 +31,7 @@
 -  10 [Earn $2,000 per purchase with GanttPRO affiliate program](https://afflift.com/f/threads/earn-2-000-per-purchase-with-ganttpro-affiliate-program.10342/)
 -  10 [GanttPRO Affiliate Program](https://afflift.com/f/threads/ganttpro-affiliate-program.10910/)
 -  10 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
--  10 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)
--  10 [RichAds Follow Along - Will we get Profitable? ;&rpar;](https://afflift.com/f/threads/richads-follow-along-will-we-get-profitable.10901/)
--  10 [Private offers to Africa🤑](https://afflift.com/f/threads/private-offers-to-africa%F0%9F%A4%91.10430/)<!-- afflift:END -->
+-  10 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
