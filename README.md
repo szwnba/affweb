@@ -35,6 +35,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [ChatGPT 大火的今天，机器翻译怎样了？](https://sspai.com/post/79738)
 -  10 [家用咖啡手册 07 | 做好手冲咖啡三要素：烘焙度、研磨度和水](https://sspai.com/post/79654)
--  10 [派早报：Apple 发布 iPad 版 Final Cut Pro 与 Logic Pro 等](https://sspai.com/post/79709)
--  09 [找一把完美适配 macOS 的第三方键盘，为什么那么难？](https://sspai.com/post/79608)<!-- sspai:END -->
+-  10 [派早报：Apple 发布 iPad 版 Final Cut Pro 与 Logic Pro 等](https://sspai.com/post/79709)<!-- sspai:END -->
