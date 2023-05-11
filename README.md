@@ -18,8 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  11 [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)
 -  11 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
+-  11 [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)
 -  11 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
 -  11 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
 -  11 [Adnow - First Native Campaign](https://afflift.com/f/threads/adnow-first-native-campaign.9524/)
