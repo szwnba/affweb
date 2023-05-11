@@ -18,6 +18,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
+-  11 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
+-  11 [Never ending &quot;PropellerAds&quot; URL flags &lpar;Phising? 🎣&rpar;](https://afflift.com/f/threads/never-ending-propellerads-url-flags-phising-%F0%9F%8E%A3.10832/)
+-  11 [PropellerAds CPA Goal Traffic Question](https://afflift.com/f/threads/propellerads-cpa-goal-traffic-question.10899/)
 -  11 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  11 [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)
 -  11 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
@@ -25,11 +29,7 @@
 -  11 [Adnow - First Native Campaign](https://afflift.com/f/threads/adnow-first-native-campaign.9524/)
 -  11 [RE: Need Help to Promote Youtube Video Ads Through Native Ads](https://afflift.com/f/threads/re-need-help-to-promote-youtube-video-ads-through-native-ads.10914/)
 -  11 [About the propeller did not send traffic problems, please help me](https://afflift.com/f/threads/about-the-propeller-did-not-send-traffic-problems-please-help-me.10909/)
--  10 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
--  10 [Need help to make this grow to $5/day](https://afflift.com/f/threads/need-help-to-make-this-grow-to-5-day.10907/)
--  10 [MaxWeb CPA Affiliate Network - #1 VSL Network](https://afflift.com/f/threads/maxweb-cpa-affiliate-network-1-vsl-network.10872/)
--  10 [Native + VSLs = Conversions!](https://afflift.com/f/threads/native-vsls-conversions.10913/)
--  10 [Whitehat Lead Gen - The vertical affiliates aren&#39;t talking about](https://afflift.com/f/threads/whitehat-lead-gen-the-vertical-affiliates-arent-talking-about.6951/)<!-- afflift:END -->
+-  10 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
