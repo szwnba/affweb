@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 -  10 [Need help to make this grow to $5/day](https://afflift.com/f/threads/need-help-to-make-this-grow-to-5-day.10907/)
 -  10 [MaxWeb CPA Affiliate Network - #1 VSL Network](https://afflift.com/f/threads/maxweb-cpa-affiliate-network-1-vsl-network.10872/)
 -  10 [Native + VSLs = Conversions!](https://afflift.com/f/threads/native-vsls-conversions.10913/)
@@ -30,8 +31,7 @@
 -  10 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
 -  10 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
 -  10 [About the propeller did not send traffic problems, please help me](https://afflift.com/f/threads/about-the-propeller-did-not-send-traffic-problems-please-help-me.10909/)
--  10 [Earn $2,000 per purchase with GanttPRO affiliate program](https://afflift.com/f/threads/earn-2-000-per-purchase-with-ganttpro-affiliate-program.10342/)
--  10 [GanttPRO Affiliate Program](https://afflift.com/f/threads/ganttpro-affiliate-program.10910/)<!-- afflift:END -->
+-  10 [Earn $2,000 per purchase with GanttPRO affiliate program](https://afflift.com/f/threads/earn-2-000-per-purchase-with-ganttpro-affiliate-program.10342/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
