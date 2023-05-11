@@ -19,6 +19,7 @@
 ### afflift
 <!-- afflift:START -->
 -  11 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
+-  11 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  11 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
 -  11 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  11 [About the propeller did not send traffic problems, please help me](https://afflift.com/f/threads/about-the-propeller-did-not-send-traffic-problems-please-help-me.10909/)
@@ -28,8 +29,7 @@
 -  11 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  11 [Adsterra at Afiliados Brasil 2023 — are you going?](https://afflift.com/f/threads/adsterra-at-afiliados-brasil-2023-%E2%80%94-are-you-going.10918/)
 -  11 [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)
--  11 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)
--  11 [How to check offer pages with free VPN-s?](https://afflift.com/f/threads/how-to-check-offer-pages-with-free-vpn-s.10917/)<!-- afflift:END -->
+-  11 [How to Target Single Placements in Propeller Ads Push](https://afflift.com/f/threads/how-to-target-single-placements-in-propeller-ads-push.10869/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
