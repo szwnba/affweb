@@ -38,5 +38,4 @@
 -  10 [新知探索家·第二季：一价多得，锁定付费栏目最低价](https://sspai.com/post/79694)
 -  10 [新派煮机｜它的时代先于时代：Palm 简史（六）](https://sspai.com/prime/story/vintage-tech-stories-palm-6)
 -  10 [ChatGPT 大火的今天，机器翻译怎样了？](https://sspai.com/post/79738)
--  10 [家用咖啡手册 07 | 做好手冲咖啡三要素：烘焙度、研磨度和水](https://sspai.com/post/79654)
--  10 [派早报：Apple 发布 iPad 版 Final Cut Pro 与 Logic Pro 等](https://sspai.com/post/79709)<!-- sspai:END -->
+-  10 [家用咖啡手册 07 | 做好手冲咖啡三要素：烘焙度、研磨度和水](https://sspai.com/post/79654)<!-- sspai:END -->
