@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Adnow - First Native Campaign](https://afflift.com/f/threads/adnow-first-native-campaign.9524/)
+-  11 [RE: Need Help to Promote Youtube Video Ads Through Native Ads](https://afflift.com/f/threads/re-need-help-to-promote-youtube-video-ads-through-native-ads.10914/)
 -  11 [About the propeller did not send traffic problems, please help me](https://afflift.com/f/threads/about-the-propeller-did-not-send-traffic-problems-please-help-me.10909/)
 -  10 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 -  10 [Need help to make this grow to $5/day](https://afflift.com/f/threads/need-help-to-make-this-grow-to-5-day.10907/)
@@ -28,9 +30,7 @@
 -  10 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
 -  10 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
 -  10 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
--  10 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
--  10 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
--  10 [Earn $2,000 per purchase with GanttPRO affiliate program](https://afflift.com/f/threads/earn-2-000-per-purchase-with-ganttpro-affiliate-program.10342/)<!-- afflift:END -->
+-  10 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
