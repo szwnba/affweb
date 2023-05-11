@@ -33,8 +33,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [《王国之泪》解锁在即，重回海拉鲁请带上这些东西](https://sspai.com/post/79753)
 -  11 [做负责任的 AI 产品，软硬件这次成了配角：Google I/O 2023 亮点回顾](https://sspai.com/post/79751)
 -  11 [派早报：Google I/O 2023 开幕、真我推出多款新品、尼康 Z 8 发布等](https://sspai.com/post/79749)
 -  10 [新知探索家·第二季：一价多得，锁定付费栏目最低价](https://sspai.com/post/79694)
--  10 [新派煮机｜它的时代先于时代：Palm 简史（六）](https://sspai.com/prime/story/vintage-tech-stories-palm-6)
--  10 [ChatGPT 大火的今天，机器翻译怎样了？](https://sspai.com/post/79738)<!-- sspai:END -->
+-  10 [新派煮机｜它的时代先于时代：Palm 简史（六）](https://sspai.com/prime/story/vintage-tech-stories-palm-6)<!-- sspai:END -->
