@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  11 [Discover the Secret to Scaling Your Campaigns and Boosting Your ROI!](https://afflift.com/f/threads/discover-the-secret-to-scaling-your-campaigns-and-boosting-your-roi.10923/)
 -  11 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  11 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
@@ -28,8 +29,7 @@
 -  11 [MaxWeb CPA Affiliate Network - #1 VSL Network](https://afflift.com/f/threads/maxweb-cpa-affiliate-network-1-vsl-network.10872/)
 -  11 [My run to green with Propellerads!](https://afflift.com/f/threads/my-run-to-green-with-propellerads.10440/)
 -  11 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  11 [Adsterra at Afiliados Brasil 2023 — are you going?](https://afflift.com/f/threads/adsterra-at-afiliados-brasil-2023-%E2%80%94-are-you-going.10918/)
--  11 [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)<!-- afflift:END -->
+-  11 [Adsterra at Afiliados Brasil 2023 — are you going?](https://afflift.com/f/threads/adsterra-at-afiliados-brasil-2023-%E2%80%94-are-you-going.10918/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
