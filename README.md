@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [派早报：Google I/O 2023 开幕、真我推出多款新品、尼康 Z 8 发布等](https://sspai.com/post/79749)
 -  10 [新知探索家·第二季：一价多得，锁定付费栏目最低价](https://sspai.com/post/79694)
 -  10 [新派煮机｜它的时代先于时代：Palm 简史（六）](https://sspai.com/prime/story/vintage-tech-stories-palm-6)
 -  10 [ChatGPT 大火的今天，机器翻译怎样了？](https://sspai.com/post/79738)
