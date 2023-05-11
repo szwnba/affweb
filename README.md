@@ -18,6 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Single-Target Campaigns on Zeropark](https://afflift.com/f/threads/single-target-campaigns-on-zeropark.10720/)
+-  11 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
+-  11 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
 -  11 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
 -  11 [Adnow - First Native Campaign](https://afflift.com/f/threads/adnow-first-native-campaign.9524/)
 -  11 [RE: Need Help to Promote Youtube Video Ads Through Native Ads](https://afflift.com/f/threads/re-need-help-to-promote-youtube-video-ads-through-native-ads.10914/)
@@ -26,10 +29,7 @@
 -  10 [Need help to make this grow to $5/day](https://afflift.com/f/threads/need-help-to-make-this-grow-to-5-day.10907/)
 -  10 [MaxWeb CPA Affiliate Network - #1 VSL Network](https://afflift.com/f/threads/maxweb-cpa-affiliate-network-1-vsl-network.10872/)
 -  10 [Native + VSLs = Conversions!](https://afflift.com/f/threads/native-vsls-conversions.10913/)
--  10 [Whitehat Lead Gen - The vertical affiliates aren&#39;t talking about](https://afflift.com/f/threads/whitehat-lead-gen-the-vertical-affiliates-arent-talking-about.6951/)
--  10 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
--  10 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
--  10 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)<!-- afflift:END -->
+-  10 [Whitehat Lead Gen - The vertical affiliates aren&#39;t talking about](https://afflift.com/f/threads/whitehat-lead-gen-the-vertical-affiliates-arent-talking-about.6951/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
