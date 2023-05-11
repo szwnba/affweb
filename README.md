@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  09 [请问这个代码 怎么添加到网站上的](https://www.advertcn.com/forum.php?mod=viewthread&tid=110291)<!-- advertcn:END -->
+-  10 [有没人还在玩EXOCLICK之类的平台。或者 PUSH之类的](https://www.advertcn.com/forum.php?mod=viewthread&tid=110322)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
