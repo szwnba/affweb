@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
 -  11 [Adnow - First Native Campaign](https://afflift.com/f/threads/adnow-first-native-campaign.9524/)
 -  11 [RE: Need Help to Promote Youtube Video Ads Through Native Ads](https://afflift.com/f/threads/re-need-help-to-promote-youtube-video-ads-through-native-ads.10914/)
 -  11 [About the propeller did not send traffic problems, please help me](https://afflift.com/f/threads/about-the-propeller-did-not-send-traffic-problems-please-help-me.10909/)
@@ -27,7 +28,6 @@
 -  10 [Native + VSLs = Conversions!](https://afflift.com/f/threads/native-vsls-conversions.10913/)
 -  10 [Whitehat Lead Gen - The vertical affiliates aren&#39;t talking about](https://afflift.com/f/threads/whitehat-lead-gen-the-vertical-affiliates-arent-talking-about.6951/)
 -  10 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
--  10 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
 -  10 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
 -  10 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)<!-- afflift:END -->
 
