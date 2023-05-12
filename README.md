@@ -33,6 +33,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [派早报：索尼发布 Xperia 1 V 和 Xperia 10 V 手机、ROG 发布其首款游戏掌机等](https://sspai.com/post/79764)
 -  11 [基于 n8n 的开源自动化：以滴答清单同步 Notion 为例](https://sspai.com/prime/story/automation-n8n)
 -  11 [新玩意 145｜少数派的编辑们最近买了啥？](https://sspai.com/post/79757)
 -  11 [《王国之泪》解锁在即，重回海拉鲁请带上这些东西](https://sspai.com/post/79753)
