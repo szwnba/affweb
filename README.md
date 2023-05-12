@@ -18,8 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [Why do you need RTB Premium Publishers](https://afflift.com/f/threads/why-do-you-need-rtb-premium-publishers.10925/)
+-  12 [Does anyone spy on push ads manually?](https://afflift.com/f/threads/does-anyone-spy-on-push-ads-manually.10890/)
 -  12 [How does push notification achieve this number?](https://afflift.com/f/threads/how-does-push-notification-achieve-this-number.10924/)
+-  12 [Why do you need RTB Premium Publishers](https://afflift.com/f/threads/why-do-you-need-rtb-premium-publishers.10925/)
 -  12 [Discover the Secret to Scaling Your Campaigns and Boosting Your ROI!](https://afflift.com/f/threads/discover-the-secret-to-scaling-your-campaigns-and-boosting-your-roi.10923/)
 -  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  12 [New at Traffic Company: PIN API!](https://afflift.com/f/threads/new-at-traffic-company-pin-api.10362/)
@@ -28,8 +29,7 @@
 -  11 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  11 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
 -  11 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
--  11 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
--  11 [About the propeller did not send traffic problems, please help me](https://afflift.com/f/threads/about-the-propeller-did-not-send-traffic-problems-please-help-me.10909/)<!-- afflift:END -->
+-  11 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
