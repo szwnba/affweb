@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  08 [目前OpenAI账号开通获取高额度方法分享](https://51.ruyo.net/18360.html)<!-- ruyo:END -->
+-  12 [my.id来自印度尼西亚免费域名以及邮箱服务](https://51.ruyo.net/18376.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
