@@ -33,8 +33,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [Raycast 该怎么用？我们帮你准备了一份实用指南](https://sspai.com/post/79769)
 -  12 [【重金悬赏】选完冰箱，我们再从间室收纳聊聊冰箱的「气味管理」](https://sspai.com/post/65742)
 -  12 [播客 | 机智的效率生活](https://sspai.com/post/79756)
 -  12 [派早报：索尼发布 Xperia 1 V 和 Xperia 10 V 手机、ROG 发布其首款游戏掌机等](https://sspai.com/post/79764)
--  11 [基于 n8n 的开源自动化：以滴答清单同步 Notion 为例](https://sspai.com/prime/story/automation-n8n)
--  11 [新玩意 145｜少数派的编辑们最近买了啥？](https://sspai.com/post/79757)<!-- sspai:END -->
+-  11 [基于 n8n 的开源自动化：以滴答清单同步 Notion 为例](https://sspai.com/prime/story/automation-n8n)<!-- sspai:END -->
