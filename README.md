@@ -33,6 +33,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [社交未必是辛苦的：聊聊我眼中的「人脉管理」](https://sspai.com/post/79780)
 -  13 [三种方法，自动生成好记又好用的密码](https://sspai.com/prime/story/password-autogen)
--  12 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79774)
--  12 [Raycast 该怎么用？我们帮你准备了一份实用指南](https://sspai.com/post/79769)<!-- sspai:END -->
+-  12 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79774)<!-- sspai:END -->
