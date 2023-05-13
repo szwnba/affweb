@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Discover the Secret to Scaling Your Campaigns and Boosting Your ROI!](https://afflift.com/f/threads/discover-the-secret-to-scaling-your-campaigns-and-boosting-your-roi.10923/)
 -  13 [Dedicated server VS Cloud hosting](https://afflift.com/f/threads/dedicated-server-vs-cloud-hosting.10902/)
 -  13 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
 -  12 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
@@ -28,8 +29,7 @@
 -  12 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  12 [Webinar with Wewe Media: Geo-targeted iGaming Affiliate Campaigns 🔥](https://afflift.com/f/threads/webinar-with-wewe-media-geo-targeted-igaming-affiliate-campaigns-%F0%9F%94%A5.10926/)
 -  12 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  12 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
--  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  12 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
