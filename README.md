@@ -35,5 +35,4 @@
 <!-- sspai:START -->
 -  13 [三种方法，自动生成好记又好用的密码](https://sspai.com/prime/story/password-autogen)
 -  12 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79774)
--  12 [Raycast 该怎么用？我们帮你准备了一份实用指南](https://sspai.com/post/79769)
--  12 [【重金悬赏】选完冰箱，我们再从间室收纳聊聊冰箱的「气味管理」](https://sspai.com/post/65742)<!-- sspai:END -->
+-  12 [Raycast 该怎么用？我们帮你准备了一份实用指南](https://sspai.com/post/79769)<!-- sspai:END -->
