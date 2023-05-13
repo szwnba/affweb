@@ -18,10 +18,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [Discover the Secret to Scaling Your Campaigns and Boosting Your ROI!](https://afflift.com/f/threads/discover-the-secret-to-scaling-your-campaigns-and-boosting-your-roi.10923/)
+-  13 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
 -  13 [Dedicated server VS Cloud hosting](https://afflift.com/f/threads/dedicated-server-vs-cloud-hosting.10902/)
+-  13 [Discover the Secret to Scaling Your Campaigns and Boosting Your ROI!](https://afflift.com/f/threads/discover-the-secret-to-scaling-your-campaigns-and-boosting-your-roi.10923/)
 -  13 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
--  12 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
 -  12 [How does push notification achieve this number?](https://afflift.com/f/threads/how-does-push-notification-achieve-this-number.10924/)
 -  12 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
 -  12 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
