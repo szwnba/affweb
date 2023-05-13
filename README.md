@@ -36,5 +36,4 @@
 -  12 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/79774)
 -  12 [Raycast 该怎么用？我们帮你准备了一份实用指南](https://sspai.com/post/79769)
 -  12 [【重金悬赏】选完冰箱，我们再从间室收纳聊聊冰箱的「气味管理」](https://sspai.com/post/65742)
--  12 [播客 | 机智的效率生活](https://sspai.com/post/79756)
--  12 [派早报：索尼发布 Xperia 1 V 和 Xperia 10 V 手机、ROG 发布其首款游戏掌机等](https://sspai.com/post/79764)<!-- sspai:END -->
+-  12 [播客 | 机智的效率生活](https://sspai.com/post/79756)<!-- sspai:END -->
