@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  13 [这个招聘信息，是在做跨境电商吧？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110356)
--  12 [要么说小龙虾带人也是有故事](https://www.advertcn.com/forum.php?mod=viewthread&tid=110354)<!-- advertcn:END -->
+-  13 [这个招聘信息，是在做跨境电商吧？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110356)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
