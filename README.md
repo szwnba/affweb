@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
+-  13 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  13 [Scaling VSL offers on PUSH &lpar;Bizopp&rpar;? NEED HELP](https://afflift.com/f/threads/scaling-vsl-offers-on-push-bizopp-need-help.10928/)
 -  13 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
 -  13 [Dedicated server VS Cloud hosting](https://afflift.com/f/threads/dedicated-server-vs-cloud-hosting.10902/)
@@ -28,9 +30,7 @@
 -  12 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
 -  12 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
 -  12 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
--  12 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  12 [Webinar with Wewe Media: Geo-targeted iGaming Affiliate Campaigns 🔥](https://afflift.com/f/threads/webinar-with-wewe-media-geo-targeted-igaming-affiliate-campaigns-%F0%9F%94%A5.10926/)
--  12 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  12 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
