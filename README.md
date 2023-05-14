@@ -28,8 +28,7 @@
 -  13 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  13 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  13 [Dedicated server VS Cloud hosting](https://afflift.com/f/threads/dedicated-server-vs-cloud-hosting.10902/)
--  13 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
--  13 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)<!-- afflift:END -->
+-  13 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
