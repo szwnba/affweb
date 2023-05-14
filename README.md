@@ -33,4 +33,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  13 [社交未必是辛苦的：聊聊我眼中的「人脉管理」](https://sspai.com/post/79780)<!-- sspai:END -->
+-  14 [本月玩什么 | 塞尔达传说：王国之泪、网络奇兵重制](https://sspai.com/post/79803)<!-- sspai:END -->
