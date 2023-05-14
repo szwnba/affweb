@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
 -  14 [Scaling VSL offers on PUSH &lpar;Bizopp&rpar;? NEED HELP](https://afflift.com/f/threads/scaling-vsl-offers-on-push-bizopp-need-help.10928/)
 -  14 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  14 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
