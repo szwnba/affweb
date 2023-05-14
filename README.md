@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  14 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
 -  13 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
 -  13 [How does push notification achieve this number?](https://afflift.com/f/threads/how-does-push-notification-achieve-this-number.10924/)
