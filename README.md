@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Discover the Secret to Scaling Your Campaigns and Boosting Your ROI!](https://afflift.com/f/threads/discover-the-secret-to-scaling-your-campaigns-and-boosting-your-roi.10923/)
 -  14 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
 -  14 [Scaling VSL offers on PUSH &lpar;Bizopp&rpar;? NEED HELP](https://afflift.com/f/threads/scaling-vsl-offers-on-push-bizopp-need-help.10928/)
 -  14 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
@@ -28,8 +29,7 @@
 -  13 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  13 [Dedicated server VS Cloud hosting](https://afflift.com/f/threads/dedicated-server-vs-cloud-hosting.10902/)
 -  13 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
--  13 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
--  13 [Discover the Secret to Scaling Your Campaigns and Boosting Your ROI!](https://afflift.com/f/threads/discover-the-secret-to-scaling-your-campaigns-and-boosting-your-roi.10923/)<!-- afflift:END -->
+-  13 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
