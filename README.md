@@ -18,18 +18,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
+-  15 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
 -  15 [Is There A Way to Limit Zone Spend in Propellerads Pops?](https://afflift.com/f/threads/is-there-a-way-to-limit-zone-spend-in-propellerads-pops.10930/)
+-  15 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
+-  15 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
+-  15 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
+-  15 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
 -  15 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/)
 -  15 [How to set up cost model with CPA campaigns on Galaksion?](https://afflift.com/f/threads/how-to-set-up-cost-model-with-cpa-campaigns-on-galaksion.10933/)
 -  15 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/)
 -  15 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
--  15 [[Case Study] $427 Profit Generated from US Traffic with VPN Offer](https://afflift.com/f/threads/case-study-427-profit-generated-from-us-traffic-with-vpn-offer.10937/)
--  15 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
--  15 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
--  15 [Hold tight: CPV One - the soon to be number one cloud based tracker is on for a fast lap :&rpar;](https://afflift.com/f/threads/hold-tight-cpv-one-the-soon-to-be-number-one-cloud-based-tracker-is-on-for-a-fast-lap.10731/)
--  15 [Get 127% ROI with Auto Adjust Function](https://afflift.com/f/threads/get-127-roi-with-auto-adjust-function.10936/)
--  15 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  15 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)<!-- afflift:END -->
+-  15 [[Case Study] $427 Profit Generated from US Traffic with VPN Offer](https://afflift.com/f/threads/case-study-427-profit-generated-from-us-traffic-with-vpn-offer.10937/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
