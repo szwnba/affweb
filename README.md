@@ -19,12 +19,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
+-  15 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/)
 -  15 [How to set up cost model with CPA campaigns on Galaksion?](https://afflift.com/f/threads/how-to-set-up-cost-model-with-cpa-campaigns-on-galaksion.10933/)
 -  15 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
--  15 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/)
 -  15 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
 -  15 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
--  15 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
 -  15 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  15 [Step 4 - Setup PopAds in BeMob](https://afflift.com/f/threads/step-4-setup-popads-in-bemob.2941/)
 -  14 [Networks That Offer API For Orders Instead Of Affiliate Links?](https://afflift.com/f/threads/networks-that-offer-api-for-orders-instead-of-affiliate-links.10898/)
