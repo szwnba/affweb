@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  12 [my.id来自印度尼西亚免费域名以及邮箱服务](https://51.ruyo.net/18376.html)<!-- ruyo:END -->
+-  15 [免费申请纽埃 RR.nu 免费域名 &lpar;支持21个二级域名&rpar;](https://51.ruyo.net/18379.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
