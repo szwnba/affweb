@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [How to set up cost model with CPA campaigns on Galaksion?](https://afflift.com/f/threads/how-to-set-up-cost-model-with-cpa-campaigns-on-galaksion.10933/)
 -  15 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  15 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/)
 -  15 [Is There A Way to Limit Zone Spend in Propellerads Pops?](https://afflift.com/f/threads/is-there-a-way-to-limit-zone-spend-in-propellerads-pops.10930/)
@@ -28,8 +29,7 @@
 -  15 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  15 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
 -  15 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
--  15 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/)
--  15 [How to set up cost model with CPA campaigns on Galaksion?](https://afflift.com/f/threads/how-to-set-up-cost-model-with-cpa-campaigns-on-galaksion.10933/)<!-- afflift:END -->
+-  15 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
