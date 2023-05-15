@@ -19,6 +19,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
+-  15 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/)
+-  15 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
 -  15 [Hold tight: CPV One - the soon to be number one cloud based tracker is on for a fast lap :&rpar;](https://afflift.com/f/threads/hold-tight-cpv-one-the-soon-to-be-number-one-cloud-based-tracker-is-on-for-a-fast-lap.10731/)
 -  15 [Get 127% ROI with Auto Adjust Function](https://afflift.com/f/threads/get-127-roi-with-auto-adjust-function.10936/)
 -  15 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/)
@@ -27,10 +30,7 @@
 -  15 [Postback issue with Advertizer](https://afflift.com/f/threads/postback-issue-with-advertizer.10935/)
 -  15 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/)
 -  15 [Hello from EZmob.com - Push - Pop - Native - Display](https://afflift.com/f/threads/hello-from-ezmob-com-push-pop-native-display.1018/)
--  15 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
--  15 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
--  15 [How to set up cost model with CPA campaigns on Galaksion?](https://afflift.com/f/threads/how-to-set-up-cost-model-with-cpa-campaigns-on-galaksion.10933/)
--  15 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)<!-- afflift:END -->
+-  15 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
