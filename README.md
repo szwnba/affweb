@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Step 4 - Setup PopAds in BeMob](https://afflift.com/f/threads/step-4-setup-popads-in-bemob.2941/)
 -  14 [Networks That Offer API For Orders Instead Of Affiliate Links?](https://afflift.com/f/threads/networks-that-offer-api-for-orders-instead-of-affiliate-links.10898/)
 -  14 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
 -  14 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
@@ -28,8 +29,7 @@
 -  14 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
 -  14 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  14 [AdCombo tracking issue on Binom](https://afflift.com/f/threads/adcombo-tracking-issue-on-binom.5640/)
--  14 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
--  14 [Discover the Secret to Scaling Your Campaigns and Boosting Your ROI!](https://afflift.com/f/threads/discover-the-secret-to-scaling-your-campaigns-and-boosting-your-roi.10923/)<!-- afflift:END -->
+-  14 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
