@@ -19,17 +19,17 @@
 ### afflift
 <!-- afflift:START -->
 -  15 [PropellerAds conversion tracking for own page](https://afflift.com/f/threads/propellerads-conversion-tracking-for-own-page.10939/)
+-  15 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/)
+-  15 [Webinar with Wewe Media: Geo-targeted iGaming Affiliate Campaigns 🔥](https://afflift.com/f/threads/webinar-with-wewe-media-geo-targeted-igaming-affiliate-campaigns-%F0%9F%94%A5.10926/)
 -  15 [How to set up cost model with CPA campaigns on Galaksion?](https://afflift.com/f/threads/how-to-set-up-cost-model-with-cpa-campaigns-on-galaksion.10933/)
 -  15 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  15 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/)
 -  15 [Is There A Way to Limit Zone Spend in Propellerads Pops?](https://afflift.com/f/threads/is-there-a-way-to-limit-zone-spend-in-propellerads-pops.10930/)
 -  15 [[Case Study] $427 Profit Generated from US Traffic with VPN Offer](https://afflift.com/f/threads/case-study-427-profit-generated-from-us-traffic-with-vpn-offer.10937/)
 -  15 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  15 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
 -  15 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
 -  15 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
--  15 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
--  15 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)<!-- afflift:END -->
+-  15 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
