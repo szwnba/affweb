@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Postback issue with Advertizer](https://afflift.com/f/threads/postback-issue-with-advertizer.10935/)
 -  15 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
 -  15 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/)
 -  15 [How to set up cost model with CPA campaigns on Galaksion?](https://afflift.com/f/threads/how-to-set-up-cost-model-with-cpa-campaigns-on-galaksion.10933/)
@@ -29,8 +30,7 @@
 -  15 [Step 4 - Setup PopAds in BeMob](https://afflift.com/f/threads/step-4-setup-popads-in-bemob.2941/)
 -  14 [Networks That Offer API For Orders Instead Of Affiliate Links?](https://afflift.com/f/threads/networks-that-offer-api-for-orders-instead-of-affiliate-links.10898/)
 -  14 [Boost Volume↑-Trying to Skyrocket🚀profit from XX to XXX with SelfAdvertiser&#39;s Help!](https://afflift.com/f/threads/boost-volume%E2%86%91-trying-to-skyrocket%F0%9F%9A%80profit-from-xx-to-xxx-with-selfadvertisers-help.10652/)
--  14 [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
--  14 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/)<!-- afflift:END -->
+-  14 [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
