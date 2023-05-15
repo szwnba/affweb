@@ -34,7 +34,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [戏份不多、更新不少的 Android 14，以及近期泛 Android 资讯速报](https://sspai.com/prime/story/zouzhe-230515)
+-  15 [派评 | 近期值得关注的 App](https://sspai.com/post/79821)
 -  15 [在不同焦段里跋涉，把情绪拍给别人听：风光摄影指北](https://sspai.com/post/79795)
 -  15 [数据太多不知从何下手？ChatGPT 新功能帮你自动分析](https://sspai.com/post/79800)
--  15 [派早报：推特任命新 CEO，特斯拉召回强制单踏板功能](https://sspai.com/post/79799)
--  14 [本月玩什么 | 塞尔达传说：王国之泪、网络奇兵重制](https://sspai.com/post/79803)<!-- sspai:END -->
+-  15 [派早报：推特任命新 CEO，特斯拉召回强制单踏板功能](https://sspai.com/post/79799)<!-- sspai:END -->
