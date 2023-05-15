@@ -33,4 +33,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [派早报：推特任命新 CEO，特斯拉召回强制单踏板功能](https://sspai.com/post/79799)
 -  14 [本月玩什么 | 塞尔达传说：王国之泪、网络奇兵重制](https://sspai.com/post/79803)<!-- sspai:END -->
