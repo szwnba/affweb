@@ -33,8 +33,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [你忽略的「报到证」终于被取消，这件事究竟有什么影响？](https://sspai.com/post/73399)
 -  16 [派早报：Midjourney 官方中文版开启内测等](https://sspai.com/post/79825)
 -  15 [戏份不多、更新不少的 Android 14，以及近期泛 Android 资讯速报](https://sspai.com/prime/story/zouzhe-230515)
 -  15 [派评 | 近期值得关注的 App](https://sspai.com/post/79821)
--  15 [在不同焦段里跋涉，把情绪拍给别人听：风光摄影指北](https://sspai.com/post/79795)
--  15 [数据太多不知从何下手？ChatGPT 新功能帮你自动分析](https://sspai.com/post/79800)<!-- sspai:END -->
+-  15 [在不同焦段里跋涉，把情绪拍给别人听：风光摄影指北](https://sspai.com/post/79795)<!-- sspai:END -->
