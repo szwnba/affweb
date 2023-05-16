@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
+-  16 [SelfAdvertiser POP - keyword question](https://afflift.com/f/threads/selfadvertiser-pop-keyword-question.10942/)
 -  16 [What&#39;s the best way to promote your affiliate program on this forum?](https://afflift.com/f/threads/whats-the-best-way-to-promote-your-affiliate-program-on-this-forum.10903/)
 -  16 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
 -  16 [L4Affiliates: ERC Affiliate Program $1k upfront plus 10% commission](https://afflift.com/f/threads/l4affiliates-erc-affiliate-program-1k-upfront-plus-10-commission.10946/)
@@ -29,9 +31,7 @@
 -  16 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  16 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  16 [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
--  16 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
--  16 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
--  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  16 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
