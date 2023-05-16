@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
+-  16 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  16 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
+-  16 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
+-  16 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
+-  16 [SelfAdvertiser POP - keyword question](https://afflift.com/f/threads/selfadvertiser-pop-keyword-question.10942/)
+-  16 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/)
+-  16 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  16 [Revcontent Ads can&#39;t be approved](https://afflift.com/f/threads/revcontent-ads-cant-be-approved.10940/)
 -  16 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  16 [SelfAdvertiser POP - keyword question](https://afflift.com/f/threads/selfadvertiser-pop-keyword-question.10942/)
--  16 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
--  16 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
 -  16 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/)
--  16 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/)
--  16 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
--  16 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/)
--  16 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
--  16 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/)
--  16 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)<!-- afflift:END -->
+-  16 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
