@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Revcontent Ads can&#39;t be approved](https://afflift.com/f/threads/revcontent-ads-cant-be-approved.10940/)
+-  16 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  16 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
 -  16 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  16 [mVAS offers for Portugal - $ Potential 8 million Users 🤑 💰](https://afflift.com/f/threads/mvas-offers-for-portugal-potential-8-million-users-%F0%9F%A4%91-%F0%9F%92%B0.10943/)
 -  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  16 [SelfAdvertiser POP - keyword question](https://afflift.com/f/threads/selfadvertiser-pop-keyword-question.10942/)
--  16 [Revcontent Ads can&#39;t be approved](https://afflift.com/f/threads/revcontent-ads-cant-be-approved.10940/)
 -  16 [[Case Study] $427 Profit Generated from US Traffic with VPN Offer](https://afflift.com/f/threads/case-study-427-profit-generated-from-us-traffic-with-vpn-offer.10937/)
 -  16 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
 -  16 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  16 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
--  16 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
--  16 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
--  16 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/)<!-- afflift:END -->
+-  16 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
