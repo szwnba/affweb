@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [心意或许比价格更重要，派商店的 520 推荐商品](https://sspai.com/post/79823)
 -  16 [App+1 | 想在 Windows 上收发 iMessage？微软给你支个招](https://sspai.com/post/79834)
 -  16 [XR 世界导览 #1：免费开源的跨平台游戏引擎 Godot 4.0 发布](https://sspai.com/post/79498)
 -  16 [我们找了 14 位专业用户，给 OPPO 写了一份「成绩单」](https://sspai.com/post/79830)
--  16 [你忽略的「报到证」终于被取消，这件事究竟有什么影响？](https://sspai.com/post/73399)
--  16 [派早报：Midjourney 官方中文版开启内测等](https://sspai.com/post/79825)<!-- sspai:END -->
+-  16 [你忽略的「报到证」终于被取消，这件事究竟有什么影响？](https://sspai.com/post/73399)<!-- sspai:END -->
