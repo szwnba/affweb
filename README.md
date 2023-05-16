@@ -21,6 +21,9 @@
 ### afflift
 <!-- afflift:START -->
 -  16 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
+-  16 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  16 [How To Encrypt Zone ID&#39;s In Skro Tracker?](https://afflift.com/f/threads/how-to-encrypt-zone-ids-in-skro-tracker.10948/)
+-  16 [Boost Your Conversion Rate By Personalizing Your Landing Pages - CPV Lab Tutorial](https://afflift.com/f/threads/boost-your-conversion-rate-by-personalizing-your-landing-pages-cpv-lab-tutorial.10947/)
 -  16 [SelfAdvertiser POP - keyword question](https://afflift.com/f/threads/selfadvertiser-pop-keyword-question.10942/)
 -  16 [What&#39;s the best way to promote your affiliate program on this forum?](https://afflift.com/f/threads/whats-the-best-way-to-promote-your-affiliate-program-on-this-forum.10903/)
 -  16 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
@@ -28,10 +31,7 @@
 -  16 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  16 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
 -  16 [Revcontent Ads can&#39;t be approved](https://afflift.com/f/threads/revcontent-ads-cant-be-approved.10940/)
--  16 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  16 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  16 [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
--  16 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)<!-- afflift:END -->
+-  16 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
