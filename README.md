@@ -21,6 +21,7 @@
 ### afflift
 <!-- afflift:START -->
 -  16 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/)
+-  16 [Revcontent Ads can&#39;t be approved](https://afflift.com/f/threads/revcontent-ads-cant-be-approved.10940/)
 -  16 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  16 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
 -  16 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
@@ -30,8 +31,7 @@
 -  15 [SelfAdvertiser Contest - $5,000 in Prizes - 2 Big Winners!](https://afflift.com/f/threads/selfadvertiser-contest-5-000-in-prizes-2-big-winners.10651/)
 -  15 [Optimization question](https://afflift.com/f/threads/optimization-question.10747/)
 -  15 [PropellerAds conversion tracking for own page](https://afflift.com/f/threads/propellerads-conversion-tracking-for-own-page.10939/)
--  15 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/)
--  15 [Webinar with Wewe Media: Geo-targeted iGaming Affiliate Campaigns 🔥](https://afflift.com/f/threads/webinar-with-wewe-media-geo-targeted-igaming-affiliate-campaigns-%F0%9F%94%A5.10926/)<!-- afflift:END -->
+-  15 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
