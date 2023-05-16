@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
+-  16 [L4Affiliates: ERC Affiliate Program $1k upfront plus 10% commission](https://afflift.com/f/threads/l4affiliates-erc-affiliate-program-1k-upfront-plus-10-commission.10946/)
+-  16 [What&#39;s the best way to promote your affiliate program on this forum?](https://afflift.com/f/threads/whats-the-best-way-to-promote-your-affiliate-program-on-this-forum.10903/)
 -  16 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  16 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
 -  16 [Revcontent Ads can&#39;t be approved](https://afflift.com/f/threads/revcontent-ads-cant-be-approved.10940/)
@@ -28,10 +31,7 @@
 -  16 [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
 -  16 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  16 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
--  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  16 [Do you have case studies? Share them with us and get a bonus!](https://afflift.com/f/threads/do-you-have-case-studies-share-them-with-us-and-get-a-bonus.10944/)
--  16 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  16 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)<!-- afflift:END -->
+-  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
