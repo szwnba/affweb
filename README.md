@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [处理器简史｜PowerPC 06：大厦将倾 力挽狂澜（下）](https://sspai.com/prime/story/sv-anecdotes-13)
 -  17 [一日一技 | 如何用坚果云在 SteamDeck 和 PC 之间同步存档](https://sspai.com/post/79793)
 -  17 [商品越来越多，为什么购物越来越难了？聊聊消费与品牌](https://sspai.com/post/79819)
 -  17 [借助 AI 我为 Raycast 制作了一个可以 OCR 中文的插件](https://sspai.com/post/79788)
--  16 [派早报：Apple 推出多项软件辅助新功能、闲鱼将收取软件服务费等](https://sspai.com/post/79846)
--  16 [我「开源」了自己的脑袋](https://sspai.com/prime/story/brain-opensource)<!-- sspai:END -->
+-  16 [派早报：Apple 推出多项软件辅助新功能、闲鱼将收取软件服务费等](https://sspai.com/post/79846)<!-- sspai:END -->
