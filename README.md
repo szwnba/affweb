@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
+-  17 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)
 -  17 [How Much Can You Make With Pop?](https://afflift.com/f/threads/how-much-can-you-make-with-pop.10960/)
 -  17 [COD on push really a good choice for me?](https://afflift.com/f/threads/cod-on-push-really-a-good-choice-for-me.10741/)
 -  17 [Let&#39;s Flip Pop Traffic &lpar;Goal Of $25 A Day!&rpar;](https://afflift.com/f/threads/lets-flip-pop-traffic-goal-of-25-a-day.10597/)
@@ -29,9 +31,7 @@
 -  17 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)
 -  17 [How To Encrypt Zone ID&#39;s In Skro Tracker?](https://afflift.com/f/threads/how-to-encrypt-zone-ids-in-skro-tracker.10948/)
 -  17 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  17 [Boost Your Conversion Rate By Personalizing Your Landing Pages - CPV Lab Tutorial](https://afflift.com/f/threads/boost-your-conversion-rate-by-personalizing-your-landing-pages-cpv-lab-tutorial.10947/)
--  17 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)
--  17 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)<!-- afflift:END -->
+-  17 [Boost Your Conversion Rate By Personalizing Your Landing Pages - CPV Lab Tutorial](https://afflift.com/f/threads/boost-your-conversion-rate-by-personalizing-your-landing-pages-cpv-lab-tutorial.10947/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
