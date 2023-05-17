@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  17 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
--  17 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)
 -  17 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
+-  17 [How To Encrypt Zone ID&#39;s In Skro Tracker?](https://afflift.com/f/threads/how-to-encrypt-zone-ids-in-skro-tracker.10948/)
+-  17 [New Display Assets For Autonix [B2B, 30% rev share, 90 day cookie]](https://afflift.com/f/threads/new-display-assets-for-autonix-b2b-30-rev-share-90-day-cookie.10959/)
+-  17 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)
+-  17 [Hello everyone, I want to use POP traffic to make game offer in mobile content, but I don&#39;t know how to make a landing page for the game vertical](https://afflift.com/f/threads/hello-everyone-i-want-to-use-pop-traffic-to-make-game-offer-in-mobile-content-but-i-dont-know-how-to-make-a-landing-page-for-the-game-vertical.10954/)
+-  17 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  17 [New Galaksion features to make your work on the Self-Service platform easier and more productive!](https://afflift.com/f/threads/new-galaksion-features-to-make-your-work-on-the-self-service-platform-easier-and-more-productive.10955/)
 -  17 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
 -  17 [39 Must-Know Affiliate Marketing Terms for Success](https://afflift.com/f/threads/39-must-know-affiliate-marketing-terms-for-success.10956/)
 -  17 [Copyright problems with Cloudflare](https://afflift.com/f/threads/copyright-problems-with-cloudflare.10950/)
 -  17 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  17 [I did a video interview with RichAds and answered some questions you might find interesting...](https://afflift.com/f/threads/i-did-a-video-interview-with-richads-and-answered-some-questions-you-might-find-interesting.10727/)
--  17 [PUSHGROUND - Push Ads Traffic that Drives Results.](https://afflift.com/f/threads/pushground-push-ads-traffic-that-drives-results.10571/)
--  17 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
--  17 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)<!-- afflift:END -->
+-  17 [I did a video interview with RichAds and answered some questions you might find interesting...](https://afflift.com/f/threads/i-did-a-video-interview-with-richads-and-answered-some-questions-you-might-find-interesting.10727/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
