@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  15 [免费申请纽埃 RR.nu 免费域名 &lpar;支持21个二级域名&rpar;](https://51.ruyo.net/18379.html)<!-- ruyo:END -->
+-  17 [ChatGPT Plus 开放 Plugins 和 Web Browsing 功能（含所有插件介绍）](https://51.ruyo.net/18385.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
