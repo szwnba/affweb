@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [商品越来越多，为什么购物越来越难了？聊聊消费与品牌](https://sspai.com/post/79819)
 -  17 [借助 AI 我为 Raycast 制作了一个可以 OCR 中文的插件](https://sspai.com/post/79788)
 -  16 [派早报：Apple 推出多项软件辅助新功能、闲鱼将收取软件服务费等](https://sspai.com/post/79846)
 -  16 [我「开源」了自己的脑袋](https://sspai.com/prime/story/brain-opensource)
--  16 [回到奔腾年代，享受一趟二十世纪的科技与人文之旅](https://sspai.com/post/79836)
--  16 [心意或许比价格更重要，派商店的 520 推荐商品](https://sspai.com/post/79823)<!-- sspai:END -->
+-  16 [回到奔腾年代，享受一趟二十世纪的科技与人文之旅](https://sspai.com/post/79836)<!-- sspai:END -->
