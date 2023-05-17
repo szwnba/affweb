@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [39 Must-Know Affiliate Marketing Terms for Success](https://afflift.com/f/threads/39-must-know-affiliate-marketing-terms-for-success.10956/)
+-  17 [New Galaksion features to make your work on the Self-Service platform easier and more productive!](https://afflift.com/f/threads/new-galaksion-features-to-make-your-work-on-the-self-service-platform-easier-and-more-productive.10955/)
 -  17 [I did a video interview with RichAds and answered some questions you might find interesting...](https://afflift.com/f/threads/i-did-a-video-interview-with-richads-and-answered-some-questions-you-might-find-interesting.10727/)
 -  17 [PUSHGROUND - Push Ads Traffic that Drives Results.](https://afflift.com/f/threads/pushground-push-ads-traffic-that-drives-results.10571/)
 -  17 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
@@ -29,9 +31,7 @@
 -  17 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  17 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  17 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)
--  17 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  17 [SelfAdvertiser POP - keyword question](https://afflift.com/f/threads/selfadvertiser-pop-keyword-question.10942/)
--  17 [Copyright problems with Cloudflare](https://afflift.com/f/threads/copyright-problems-with-cloudflare.10950/)<!-- afflift:END -->
+-  17 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
