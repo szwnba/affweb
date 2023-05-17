@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  17 [Anyone interested in MSN traffic?](https://afflift.com/f/threads/anyone-interested-in-msn-traffic.10953/)
 -  17 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)
+-  17 [Copyright problems with Cloudflare](https://afflift.com/f/threads/copyright-problems-with-cloudflare.10950/)
+-  17 [I did a video interview with RichAds and answered some questions you might find interesting...](https://afflift.com/f/threads/i-did-a-video-interview-with-richads-and-answered-some-questions-you-might-find-interesting.10727/)
+-  17 [Anyone interested in MSN traffic?](https://afflift.com/f/threads/anyone-interested-in-msn-traffic.10953/)
 -  17 [How To Encrypt Zone ID&#39;s In Skro Tracker?](https://afflift.com/f/threads/how-to-encrypt-zone-ids-in-skro-tracker.10948/)
 -  17 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
 -  17 [Looking for survey lander for Diet offers](https://afflift.com/f/threads/looking-for-survey-lander-for-diet-offers.10951/)
--  17 [Copyright problems with Cloudflare](https://afflift.com/f/threads/copyright-problems-with-cloudflare.10950/)
 -  17 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  17 [Let&#39;s Flip Pop Traffic &lpar;Goal Of $25 A Day!&rpar;](https://afflift.com/f/threads/lets-flip-pop-traffic-goal-of-25-a-day.10597/)
 -  16 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
 -  16 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  16 [Boost Your Conversion Rate By Personalizing Your Landing Pages - CPV Lab Tutorial](https://afflift.com/f/threads/boost-your-conversion-rate-by-personalizing-your-landing-pages-cpv-lab-tutorial.10947/)
--  16 [SelfAdvertiser POP - keyword question](https://afflift.com/f/threads/selfadvertiser-pop-keyword-question.10942/)<!-- afflift:END -->
+-  16 [Boost Your Conversion Rate By Personalizing Your Landing Pages - CPV Lab Tutorial](https://afflift.com/f/threads/boost-your-conversion-rate-by-personalizing-your-landing-pages-cpv-lab-tutorial.10947/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
