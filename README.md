@@ -20,9 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Looking for survey lander for Diet offers](https://afflift.com/f/threads/looking-for-survey-lander-for-diet-offers.10951/)
+-  17 [How To Encrypt Zone ID&#39;s In Skro Tracker?](https://afflift.com/f/threads/how-to-encrypt-zone-ids-in-skro-tracker.10948/)
 -  17 [Copyright problems with Cloudflare](https://afflift.com/f/threads/copyright-problems-with-cloudflare.10950/)
 -  17 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
--  17 [How To Encrypt Zone ID&#39;s In Skro Tracker?](https://afflift.com/f/threads/how-to-encrypt-zone-ids-in-skro-tracker.10948/)
 -  17 [Let&#39;s Flip Pop Traffic &lpar;Goal Of $25 A Day!&rpar;](https://afflift.com/f/threads/lets-flip-pop-traffic-goal-of-25-a-day.10597/)
 -  16 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
 -  16 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
@@ -30,8 +31,7 @@
 -  16 [SelfAdvertiser POP - keyword question](https://afflift.com/f/threads/selfadvertiser-pop-keyword-question.10942/)
 -  16 [What&#39;s the best way to promote your affiliate program on this forum?](https://afflift.com/f/threads/whats-the-best-way-to-promote-your-affiliate-program-on-this-forum.10903/)
 -  16 [Does a Landing Page Decrease Conversion Amount?](https://afflift.com/f/threads/does-a-landing-page-decrease-conversion-amount.10912/)
--  16 [L4Affiliates: ERC Affiliate Program $1k upfront plus 10% commission](https://afflift.com/f/threads/l4affiliates-erc-affiliate-program-1k-upfront-plus-10-commission.10946/)
--  16 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)<!-- afflift:END -->
+-  16 [L4Affiliates: ERC Affiliate Program $1k upfront plus 10% commission](https://afflift.com/f/threads/l4affiliates-erc-affiliate-program-1k-upfront-plus-10-commission.10946/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
