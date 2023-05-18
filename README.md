@@ -38,5 +38,4 @@
 -  18 [派早报：Apple 阻止大量潜在欺诈交易、罗技与 iFixit 达成合作等](https://sspai.com/post/79879)
 -  17 [千元级无线降噪耳机新选择：Beats Studio Buds + 首发体验](https://sspai.com/post/79845)
 -  17 [处理器简史｜PowerPC 06：大厦将倾 力挽狂澜（下）](https://sspai.com/prime/story/sv-anecdotes-13)
--  17 [一日一技 | 如何用坚果云在 SteamDeck 和 PC 之间同步存档](https://sspai.com/post/79793)
--  17 [商品越来越多，为什么购物越来越难了？聊聊消费与品牌](https://sspai.com/post/79819)<!-- sspai:END -->
+-  17 [一日一技 | 如何用坚果云在 SteamDeck 和 PC 之间同步存档](https://sspai.com/post/79793)<!-- sspai:END -->
