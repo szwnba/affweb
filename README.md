@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Mistakes made by affiliate marketers](https://afflift.com/f/threads/mistakes-made-by-affiliate-marketers.5424/)
+-  18 [1.5 years later - Do the Zeydoo survey offers still work?](https://afflift.com/f/threads/1-5-years-later-do-the-zeydoo-survey-offers-still-work.10961/)
+-  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  18 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)
+-  18 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
+-  18 [How Much Can You Make With Pop?](https://afflift.com/f/threads/how-much-can-you-make-with-pop.10960/)
 -  18 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/)
 -  18 [Hello everyone, I want to use POP traffic to make game offer in mobile content, but I don&#39;t know how to make a landing page for the game vertical](https://afflift.com/f/threads/hello-everyone-i-want-to-use-pop-traffic-to-make-game-offer-in-mobile-content-but-i-dont-know-how-to-make-a-landing-page-for-the-game-vertical.10954/)
 -  18 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  18 [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
--  18 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
 -  18 [39 Must-Know Affiliate Marketing Terms for Success](https://afflift.com/f/threads/39-must-know-affiliate-marketing-terms-for-success.10956/)
--  18 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)
--  18 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
--  18 [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/)
--  18 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  18 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
--  18 [Experiment: Let&#39;s creative a native course with AI](https://afflift.com/f/threads/experiment-lets-creative-a-native-course-with-ai.10958/)<!-- afflift:END -->
+-  18 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
