@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [如何在命令行中安全存取密钥信息：以 OpenAI API 密钥为例](https://sspai.com/prime/story/terminal-credentials-tips)
 -  18 [新玩意 146｜少数派的作者们最近买了啥？](https://sspai.com/post/79885)
 -  18 [从输入到输出：我如何处理每天接收的信息](https://sspai.com/post/79792)
 -  18 [派早报：Apple 阻止大量潜在欺诈交易、罗技与 iFixit 达成合作等](https://sspai.com/post/79879)
--  17 [千元级无线降噪耳机新选择：Beats Studio Buds + 首发体验](https://sspai.com/post/79845)
--  17 [处理器简史｜PowerPC 06：大厦将倾 力挽狂澜（下）](https://sspai.com/prime/story/sv-anecdotes-13)<!-- sspai:END -->
+-  17 [千元级无线降噪耳机新选择：Beats Studio Buds + 首发体验](https://sspai.com/post/79845)<!-- sspai:END -->
