@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [39 Must-Know Affiliate Marketing Terms for Success](https://afflift.com/f/threads/39-must-know-affiliate-marketing-terms-for-success.10956/)
+-  18 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
 -  18 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)
 -  18 [Learning about optimization of advertising](https://afflift.com/f/threads/learning-about-optimization-of-advertising.10927/)
 -  18 [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/)
@@ -29,9 +31,7 @@
 -  18 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  18 [Copyright problems with Cloudflare](https://afflift.com/f/threads/copyright-problems-with-cloudflare.10950/)
 -  18 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
--  17 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)
--  17 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/)
--  17 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)<!-- afflift:END -->
+-  17 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
