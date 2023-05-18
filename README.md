@@ -19,18 +19,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [New ad formats at ClickAdilla&#39;s RTB advertising platform](https://afflift.com/f/threads/new-ad-formats-at-clickadillas-rtb-advertising-platform.10963/)
--  18 [ClickAdilla Pop Traffic](https://afflift.com/f/threads/clickadilla-pop-traffic.9187/)
+-  18 [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
+-  18 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)
 -  18 [New AI section of the forum!](https://afflift.com/f/threads/new-ai-section-of-the-forum.10921/)
 -  18 [Let Einstein translate your landing pages](https://afflift.com/f/threads/let-einstein-translate-your-landing-pages.10962/)
+-  18 [Hello, is there a free pop spy tool?](https://afflift.com/f/threads/hello-is-there-a-free-pop-spy-tool.10964/)
+-  18 [New ad formats at ClickAdilla&#39;s RTB advertising platform](https://afflift.com/f/threads/new-ad-formats-at-clickadillas-rtb-advertising-platform.10963/)
+-  18 [ClickAdilla Pop Traffic](https://afflift.com/f/threads/clickadilla-pop-traffic.9187/)
 -  18 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  18 [1.5 years later - Do the Zeydoo survey offers still work?](https://afflift.com/f/threads/1-5-years-later-do-the-zeydoo-survey-offers-still-work.10961/)
 -  18 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 -  18 [Mistakes made by affiliate marketers](https://afflift.com/f/threads/mistakes-made-by-affiliate-marketers.5424/)
--  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  18 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)
--  18 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
--  18 [How Much Can You Make With Pop?](https://afflift.com/f/threads/how-much-can-you-make-with-pop.10960/)<!-- afflift:END -->
+-  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
