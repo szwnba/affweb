@@ -20,8 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)
 -  17 [Experiment: Let&#39;s creative a native course with AI](https://afflift.com/f/threads/experiment-lets-creative-a-native-course-with-ai.10958/)
--  17 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)
 -  17 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)
 -  17 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/)
 -  17 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
