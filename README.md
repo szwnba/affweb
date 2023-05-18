@@ -19,6 +19,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
+-  18 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
+-  18 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  18 [How Much Can You Make With Pop?](https://afflift.com/f/threads/how-much-can-you-make-with-pop.10960/)
 -  18 [Let Einstein translate your landing pages](https://afflift.com/f/threads/let-einstein-translate-your-landing-pages.10962/)
 -  18 [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/)
 -  18 [1.5 years later - Do the Zeydoo survey offers still work?](https://afflift.com/f/threads/1-5-years-later-do-the-zeydoo-survey-offers-still-work.10961/)
@@ -26,11 +30,7 @@
 -  18 [Experiment: Clickflare+TheOptimizer+Fresh New Revcontent Account](https://afflift.com/f/threads/experiment-clickflare-theoptimizer-fresh-new-revcontent-account.10545/)
 -  18 [New AI section of the forum!](https://afflift.com/f/threads/new-ai-section-of-the-forum.10921/)
 -  18 [Hello, is there a free pop spy tool?](https://afflift.com/f/threads/hello-is-there-a-free-pop-spy-tool.10964/)
--  18 [New ad formats at ClickAdilla&#39;s RTB advertising platform](https://afflift.com/f/threads/new-ad-formats-at-clickadillas-rtb-advertising-platform.10963/)
--  18 [ClickAdilla Pop Traffic](https://afflift.com/f/threads/clickadilla-pop-traffic.9187/)
--  18 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
--  18 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
--  18 [Mistakes made by affiliate marketers](https://afflift.com/f/threads/mistakes-made-by-affiliate-marketers.5424/)<!-- afflift:END -->
+-  18 [New ad formats at ClickAdilla&#39;s RTB advertising platform](https://afflift.com/f/threads/new-ad-formats-at-clickadillas-rtb-advertising-platform.10963/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
