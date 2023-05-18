@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  18 [各位大佬，现在成年人玩偶还能用什么收款](https://www.advertcn.com/forum.php?mod=viewthread&tid=110429)
--  17 [linode买的vps怎么查看已经用了多少硬盘空间和内存啊](https://www.advertcn.com/forum.php?mod=viewthread&tid=110427)<!-- advertcn:END -->
+-  18 [各位大佬，现在成年人玩偶还能用什么收款](https://www.advertcn.com/forum.php?mod=viewthread&tid=110429)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
