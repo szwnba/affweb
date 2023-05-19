@@ -18,7 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [Let Einstein translate your landing pages](https://afflift.com/f/threads/let-einstein-translate-your-landing-pages.10962/)
+-  19 [Let Einstein translate your landing pages](https://afflift.com/f/threads/let-einstein-translate-your-landing-pages.10962/)
 -  18 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
 -  18 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
 -  18 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
