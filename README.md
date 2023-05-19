@@ -18,9 +18,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [1.5 years later - Do the Zeydoo survey offers still work?](https://afflift.com/f/threads/1-5-years-later-do-the-zeydoo-survey-offers-still-work.10961/)
 -  19 [Bing, Facebook ad accounts with spend rebates](https://afflift.com/f/threads/bing-facebook-ad-accounts-with-spend-rebates.10965/)
 -  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  19 [1.5 years later - Do the Zeydoo survey offers still work?](https://afflift.com/f/threads/1-5-years-later-do-the-zeydoo-survey-offers-still-work.10961/)
 -  19 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
 -  19 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  19 [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/)
