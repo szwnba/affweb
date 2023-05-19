@@ -19,8 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  19 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
+-  19 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  19 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
 -  19 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  19 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
