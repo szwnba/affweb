@@ -19,12 +19,12 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [Niche Down or Offer Out?](https://afflift.com/f/threads/niche-down-or-offer-out.10971/)
--  19 [Good CTR for Push](https://afflift.com/f/threads/good-ctr-for-push.10968/)
--  19 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  19 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
--  19 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  19 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
+-  19 [Niche Down or Offer Out?](https://afflift.com/f/threads/niche-down-or-offer-out.10971/)
+-  19 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
+-  19 [Good CTR for Push](https://afflift.com/f/threads/good-ctr-for-push.10968/)
+-  19 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  19 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
 -  19 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  19 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
