@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
 -  19 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  19 [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/)
 -  19 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/)
@@ -28,8 +29,7 @@
 -  18 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  18 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/)
 -  18 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/)
--  18 [Pushtorm.net - push notification service✅ Additional monetization of your traffic🔥](https://afflift.com/f/threads/pushtorm-net-push-notification-service%E2%9C%85-additional-monetization-of-your-traffic%F0%9F%94%A5.10363/)
--  18 [How does push notification achieve this number?](https://afflift.com/f/threads/how-does-push-notification-achieve-this-number.10924/)<!-- afflift:END -->
+-  18 [Pushtorm.net - push notification service✅ Additional monetization of your traffic🔥](https://afflift.com/f/threads/pushtorm-net-push-notification-service%E2%9C%85-additional-monetization-of-your-traffic%F0%9F%94%A5.10363/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
