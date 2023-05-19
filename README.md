@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  17 [ChatGPT Plus 开放 Plugins 和 Web Browsing 功能（含所有插件介绍）](https://51.ruyo.net/18385.html)<!-- ruyo:END -->
+-  19 [参与长亭百川活动免费获得最少2天境外云服务器](https://51.ruyo.net/18392.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
