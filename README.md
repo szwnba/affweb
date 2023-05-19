@@ -35,5 +35,4 @@
 <!-- sspai:START -->
 -  19 [被 Notion 收购的下一代日历 Cron 到底什么来头？](https://sspai.com/post/79831)
 -  19 [残障人士如何用 ChatGPT 自制能玩游戏的屏幕键盘](https://sspai.com/post/79832)
--  19 [派早报：Apple 推送 iOS 16.5 等系统更新，HTC 发布 HTC U23 Pro 手机等](https://sspai.com/post/79899)
--  18 [如何在命令行中安全存取密钥信息：以 OpenAI API 密钥为例](https://sspai.com/prime/story/terminal-credentials-tips)<!-- sspai:END -->
+-  19 [派早报：Apple 推送 iOS 16.5 等系统更新，HTC 发布 HTC U23 Pro 手机等](https://sspai.com/post/79899)<!-- sspai:END -->
