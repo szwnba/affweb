@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  18 [各位大佬，现在成年人玩偶还能用什么收款](https://www.advertcn.com/forum.php?mod=viewthread&tid=110429)<!-- advertcn:END -->
+-  18 [让【ChatGPT】突破道德和法律的限制，扮演色色女友](https://www.advertcn.com/forum.php?mod=viewthread&tid=110439)
+-  18 [有什么性价比比较高的美国移动端IP的网站](https://www.advertcn.com/forum.php?mod=viewthread&tid=110437)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
