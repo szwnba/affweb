@@ -19,18 +19,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
+-  19 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
+-  19 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
+-  19 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+-  19 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  19 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
+-  19 [Hello, is there a free pop spy tool?](https://afflift.com/f/threads/hello-is-there-a-free-pop-spy-tool.10964/)
 -  19 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  19 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
--  19 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  19 [ProfitPixels - Premium In-House Forex/Crypto/Trading CPA Deals | CPA Up To $1000 | Native-Speaking Call-Centers | Weekly Payouts](https://afflift.com/f/threads/profitpixels-premium-in-house-forex-crypto-trading-cpa-deals-cpa-up-to-1000-native-speaking-call-centers-weekly-payouts.5582/)
 -  19 [Unlocking Profit Potential with COD Offers 🚀💰](https://afflift.com/f/threads/unlocking-profit-potential-with-cod-offers-%F0%9F%9A%80%F0%9F%92%B0.10673/)
--  19 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
--  19 [1.5 years later - Do the Zeydoo survey offers still work?](https://afflift.com/f/threads/1-5-years-later-do-the-zeydoo-survey-offers-still-work.10961/)
--  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  19 [Bing, Facebook ad accounts with spend rebates](https://afflift.com/f/threads/bing-facebook-ad-accounts-with-spend-rebates.10965/)
--  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  19 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)<!-- afflift:END -->
+-  19 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
