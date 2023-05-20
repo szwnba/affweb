@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Bing, Facebook ad accounts with spend rebates](https://afflift.com/f/threads/bing-facebook-ad-accounts-with-spend-rebates.10965/)
 -  20 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
 -  20 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
 -  20 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
@@ -29,8 +30,7 @@
 -  20 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
 -  20 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
 -  20 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
--  20 [Good CTR for Push](https://afflift.com/f/threads/good-ctr-for-push.10968/)
--  20 [Dr.cash — 2300+ Nutra offers, 100+ GEO&#39;s, payouts up to twice a day!](https://afflift.com/f/threads/dr-cash-%E2%80%94-2300-nutra-offers-100-geos-payouts-up-to-twice-a-day.753/)<!-- afflift:END -->
+-  20 [Good CTR for Push](https://afflift.com/f/threads/good-ctr-for-push.10968/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
