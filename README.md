@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/)
 -  20 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
 -  20 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)
 -  20 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
@@ -29,8 +30,7 @@
 -  19 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  19 [Niche Down or Offer Out?](https://afflift.com/f/threads/niche-down-or-offer-out.10971/)
 -  19 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
--  19 [Good CTR for Push](https://afflift.com/f/threads/good-ctr-for-push.10968/)
--  19 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)<!-- afflift:END -->
+-  19 [Good CTR for Push](https://afflift.com/f/threads/good-ctr-for-push.10968/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
