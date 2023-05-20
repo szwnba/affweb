@@ -19,9 +19,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)
 -  20 [Pop dating](https://afflift.com/f/threads/pop-dating.10974/)
 -  20 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
--  20 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)
 -  20 [My run to green with Propellerads!](https://afflift.com/f/threads/my-run-to-green-with-propellerads.10440/)
 -  20 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  20 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
