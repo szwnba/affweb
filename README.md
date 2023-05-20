@@ -34,5 +34,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  19 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79911)
--  19 [被 Notion 收购的下一代日历 Cron 到底什么来头？](https://sspai.com/post/79831)<!-- sspai:END -->
+-  20 [甜味剂解密 2：关于代糖的几点迷思](https://sspai.com/post/75350)
+-  19 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/79911)<!-- sspai:END -->
