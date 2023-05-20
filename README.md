@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Dr.cash — 2300+ Nutra offers, 100+ GEO&#39;s, payouts up to twice a day!](https://afflift.com/f/threads/dr-cash-%E2%80%94-2300-nutra-offers-100-geos-payouts-up-to-twice-a-day.753/)
 -  20 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/)
 -  20 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
 -  20 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)
@@ -29,8 +30,7 @@
 -  19 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
 -  19 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  19 [Niche Down or Offer Out?](https://afflift.com/f/threads/niche-down-or-offer-out.10971/)
--  19 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
--  19 [Good CTR for Push](https://afflift.com/f/threads/good-ctr-for-push.10968/)<!-- afflift:END -->
+-  19 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
