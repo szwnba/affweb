@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
 -  21 [Bing, Facebook ad accounts with spend rebates](https://afflift.com/f/threads/bing-facebook-ad-accounts-with-spend-rebates.10965/)
 -  21 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  21 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
@@ -29,8 +30,7 @@
 -  21 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)
 -  21 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
 -  21 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
--  21 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
--  21 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)<!-- afflift:END -->
+-  21 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
