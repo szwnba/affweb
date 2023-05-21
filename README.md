@@ -19,9 +19,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Binom / Adcombo COD Double Postback Issue](https://afflift.com/f/threads/binom-adcombo-cod-double-postback-issue.10979/)
 -  21 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  21 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
--  21 [Binom / Adcombo COD Double Postback Issue](https://afflift.com/f/threads/binom-adcombo-cod-double-postback-issue.10979/)
 -  21 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
 -  21 [Unsual High CTR for some publishers sites](https://afflift.com/f/threads/unsual-high-ctr-for-some-publishers-sites.10978/)
 -  21 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)
