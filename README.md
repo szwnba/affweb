@@ -19,14 +19,14 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
+-  21 [Bing, Facebook ad accounts with spend rebates](https://afflift.com/f/threads/bing-facebook-ad-accounts-with-spend-rebates.10965/)
+-  21 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
 -  21 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
+-  21 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  21 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
 -  21 [Pay per call on Facebook Marketplace](https://afflift.com/f/threads/pay-per-call-on-facebook-marketplace.10975/)
 -  21 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)
 -  21 [Pop dating](https://afflift.com/f/threads/pop-dating.10974/)
--  21 [Bing, Facebook ad accounts with spend rebates](https://afflift.com/f/threads/bing-facebook-ad-accounts-with-spend-rebates.10965/)
--  20 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
 -  20 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
 -  20 [My run to green with Propellerads!](https://afflift.com/f/threads/my-run-to-green-with-propellerads.10440/)
 -  20 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
