@@ -19,6 +19,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Unsual High CTR for some publishers sites](https://afflift.com/f/threads/unsual-high-ctr-for-some-publishers-sites.10978/)
 -  21 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)
 -  21 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
 -  21 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
@@ -29,8 +30,7 @@
 -  21 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  21 [Pay per call on Facebook Marketplace](https://afflift.com/f/threads/pay-per-call-on-facebook-marketplace.10975/)
 -  21 [Pop dating](https://afflift.com/f/threads/pop-dating.10974/)
--  20 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
--  20 [My run to green with Propellerads!](https://afflift.com/f/threads/my-run-to-green-with-propellerads.10440/)<!-- afflift:END -->
+-  20 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
