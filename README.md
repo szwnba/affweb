@@ -34,5 +34,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [作为「专业玩家」，我对闲鱼收费有这些想说](https://sspai.com/post/79918)
 -  21 [如何配一副适合自己的眼镜：这是我的个人经验与实践](https://sspai.com/post/79573)
 -  20 [甜味剂解密 2：关于代糖的几点迷思](https://sspai.com/post/75350)<!-- sspai:END -->
