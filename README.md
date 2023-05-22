@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  22 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  22 [How to add IPs from Golden Goose to Galaksion campaign!](https://afflift.com/f/threads/how-to-add-ips-from-golden-goose-to-galaksion-campaign.10985/)
--  22 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  22 [A.I landing pages](https://afflift.com/f/threads/a-i-landing-pages.10982/)
--  22 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/)
--  22 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
--  22 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
--  22 [Datafeedr: The One-Stop-Shop for Monetizing Your Website](https://afflift.com/f/threads/datafeedr-the-one-stop-shop-for-monetizing-your-website.10853/)
--  22 [How Much Can You Earn as an Affiliate Marketer?](https://afflift.com/f/threads/how-much-can-you-earn-as-an-affiliate-marketer.10984/)
--  22 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
--  22 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
--  22 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)<!-- afflift:END -->
+-  22 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
+-  22 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  22 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
+-  22 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  22 [How to add IPs from Golden Goose to Galaksion campaign!](https://afflift.com/f/threads/how-to-add-ips-from-golden-goose-to-galaksion-campaign.10985/)
+-  22 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  22 [Unsual High CTR for some publishers sites](https://afflift.com/f/threads/unsual-high-ctr-for-some-publishers-sites.10978/)
+-  22 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
+-  22 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
+-  22 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
+-  22 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
