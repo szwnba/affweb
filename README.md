@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
 -  22 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
 -  21 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/)
 -  21 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/)
@@ -31,8 +32,7 @@
 -  21 [Binom / Adcombo COD Double Postback Issue](https://afflift.com/f/threads/binom-adcombo-cod-double-postback-issue.10979/)
 -  21 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  21 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
--  21 [Unsual High CTR for some publishers sites](https://afflift.com/f/threads/unsual-high-ctr-for-some-publishers-sites.10978/)
--  21 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)<!-- afflift:END -->
+-  21 [Unsual High CTR for some publishers sites](https://afflift.com/f/threads/unsual-high-ctr-for-some-publishers-sites.10978/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
