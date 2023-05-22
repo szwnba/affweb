@@ -19,6 +19,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/)
+-  21 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/)
 -  21 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
 -  21 [Bing, Facebook ad accounts with spend rebates](https://afflift.com/f/threads/bing-facebook-ad-accounts-with-spend-rebates.10965/)
 -  21 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
@@ -28,9 +30,7 @@
 -  21 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
 -  21 [Unsual High CTR for some publishers sites](https://afflift.com/f/threads/unsual-high-ctr-for-some-publishers-sites.10978/)
 -  21 [Facebook, Yahoo! Gemini agency ad account which with spend rebates](https://afflift.com/f/threads/facebook-yahoo-gemini-agency-ad-account-which-with-spend-rebates.10972/)
--  21 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
--  21 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
--  21 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)<!-- afflift:END -->
+-  21 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
