@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Datafeedr: The One-Stop-Shop for Monetizing Your Website](https://afflift.com/f/threads/datafeedr-the-one-stop-shop-for-monetizing-your-website.10853/)
+-  22 [Unsual High CTR for some publishers sites](https://afflift.com/f/threads/unsual-high-ctr-for-some-publishers-sites.10978/)
 -  22 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
 -  22 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
 -  22 [A.I landing pages](https://afflift.com/f/threads/a-i-landing-pages.10982/)
 -  22 [How to add IPs from Golden Goose to Galaksion campaign!](https://afflift.com/f/threads/how-to-add-ips-from-golden-goose-to-galaksion-campaign.10985/)
 -  22 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  22 [Unsual High CTR for some publishers sites](https://afflift.com/f/threads/unsual-high-ctr-for-some-publishers-sites.10978/)
 -  22 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
 -  22 [Seeking Advice: Passing Conversion Data &amp; Postback Transfer](https://afflift.com/f/threads/seeking-advice-passing-conversion-data-postback-transfer.10981/)
 -  22 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  22 [PropellerAds conversion tracking for own page](https://afflift.com/f/threads/propellerads-conversion-tracking-for-own-page.10939/)
--  22 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  22 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)<!-- afflift:END -->
+-  22 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
