@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
+-  22 [How to add IPs from Golden Goose to Galaksion campaign!](https://afflift.com/f/threads/how-to-add-ips-from-golden-goose-to-galaksion-campaign.10985/)
+-  22 [Datafeedr: The One-Stop-Shop for Monetizing Your Website](https://afflift.com/f/threads/datafeedr-the-one-stop-shop-for-monetizing-your-website.10853/)
+-  22 [How Much Can You Earn as an Affiliate Marketer?](https://afflift.com/f/threads/how-much-can-you-earn-as-an-affiliate-marketer.10984/)
 -  22 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  22 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
 -  22 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
--  22 [How Much Can You Earn as an Affiliate Marketer?](https://afflift.com/f/threads/how-much-can-you-earn-as-an-affiliate-marketer.10984/)
 -  22 [A.I landing pages](https://afflift.com/f/threads/a-i-landing-pages.10982/)
 -  22 [Seeking Advice: Passing Conversion Data &amp; Postback Transfer](https://afflift.com/f/threads/seeking-advice-passing-conversion-data-postback-transfer.10981/)
 -  22 [Is it difficult to get video content ideas approved by Revcontent?](https://afflift.com/f/threads/is-it-difficult-to-get-video-content-ideas-approved-by-revcontent.10983/)
 -  22 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
--  22 [Pay per call on Facebook Marketplace](https://afflift.com/f/threads/pay-per-call-on-facebook-marketplace.10975/)
--  22 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  22 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  22 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)<!-- afflift:END -->
+-  22 [Pay per call on Facebook Marketplace](https://afflift.com/f/threads/pay-per-call-on-facebook-marketplace.10975/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
