@@ -36,5 +36,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  22 [派早报：阿里云将分拆上市，美光未通过网络安全审查](https://sspai.com/post/79921)
--  21 [作为「专业玩家」，我对闲鱼收费有这些想说](https://sspai.com/post/79918)<!-- sspai:END -->
+-  22 [在困难的春天换份工作，聊聊我的心路历程](https://sspai.com/post/79877)
+-  22 [派早报：阿里云将分拆上市，美光未通过网络安全审查](https://sspai.com/post/79921)<!-- sspai:END -->
