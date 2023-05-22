@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/)
 -  22 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  22 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  22 [VOD / Sweepstakes Advertiser](https://afflift.com/f/threads/vod-sweepstakes-advertiser.10151/)
@@ -31,8 +32,7 @@
 -  21 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/)
 -  21 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/)
 -  21 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
--  21 [Bing, Facebook ad accounts with spend rebates](https://afflift.com/f/threads/bing-facebook-ad-accounts-with-spend-rebates.10965/)
--  21 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)<!-- afflift:END -->
+-  21 [Bing, Facebook ad accounts with spend rebates](https://afflift.com/f/threads/bing-facebook-ad-accounts-with-spend-rebates.10965/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
