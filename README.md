@@ -37,5 +37,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  22 [派早报：阿里云将分拆上市，美光未通过网络安全审查](https://sspai.com/post/79921)
--  21 [作为「专业玩家」，我对闲鱼收费有这些想说](https://sspai.com/post/79918)
--  21 [如何配一副适合自己的眼镜：这是我的个人经验与实践](https://sspai.com/post/79573)<!-- sspai:END -->
+-  21 [作为「专业玩家」，我对闲鱼收费有这些想说](https://sspai.com/post/79918)<!-- sspai:END -->
