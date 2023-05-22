@@ -36,5 +36,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [天气逐渐变热，派商店带你解锁夏日饮品新配方](https://sspai.com/post/79882)
 -  22 [在困难的春天换份工作，聊聊我的心路历程](https://sspai.com/post/79877)
 -  22 [派早报：阿里云将分拆上市，美光未通过网络安全审查](https://sspai.com/post/79921)<!-- sspai:END -->
