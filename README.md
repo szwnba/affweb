@@ -21,9 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
 -  22 [Datafeedr: The One-Stop-Shop for Monetizing Your Website](https://afflift.com/f/threads/datafeedr-the-one-stop-shop-for-monetizing-your-website.10853/)
 -  22 [Unsual High CTR for some publishers sites](https://afflift.com/f/threads/unsual-high-ctr-for-some-publishers-sites.10978/)
--  22 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
 -  22 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
 -  22 [A.I landing pages](https://afflift.com/f/threads/a-i-landing-pages.10982/)
 -  22 [How to add IPs from Golden Goose to Galaksion campaign!](https://afflift.com/f/threads/how-to-add-ips-from-golden-goose-to-galaksion-campaign.10985/)
