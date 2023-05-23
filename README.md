@@ -19,6 +19,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
+-  23 [How to add IPs from Golden Goose to Galaksion campaign!](https://afflift.com/f/threads/how-to-add-ips-from-golden-goose-to-galaksion-campaign.10985/)
+-  23 [Beginner-friendly whitelists [GEOs, bids, sources, volumes] for low payout offers 📈💰](https://afflift.com/f/threads/beginner-friendly-whitelists-geos-bids-sources-volumes-for-low-payout-offers-%F0%9F%93%88%F0%9F%92%B0.8907/)
 -  23 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  23 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  23 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
@@ -27,10 +30,7 @@
 -  23 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
 -  23 [Seriously Bemob?](https://afflift.com/f/threads/seriously-bemob.10989/)
 -  23 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  23 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  23 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  23 [How often do you get converting offers?](https://afflift.com/f/threads/how-often-do-you-get-converting-offers.10988/)
--  23 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)<!-- afflift:END -->
+-  23 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
