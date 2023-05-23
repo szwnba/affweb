@@ -33,7 +33,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [少数派线下活动：来上海，和我们一起看 Apple 发布会](https://sspai.com/post/79946)
+-  23 [大有进步，仍有硬伤：Anytype 大更新解析](https://sspai.com/post/79949)
 -  23 [让你的爱机焕然一新：笔记本电脑表面清洁指南](https://sspai.com/post/79956)
 -  23 [和海量文档直接对话，AI 阅读工具你该怎么选？](https://sspai.com/post/79869)
--  23 [派早报：微信刷掌支付正式发布，百度开启小度青禾学习手机预售等](https://sspai.com/post/79945)
--  22 [Matter 1.1 更新，以及其他值得了解的硬件和智能家居资讯](https://sspai.com/prime/story/zouzhe-230522)<!-- sspai:END -->
+-  23 [派早报：微信刷掌支付正式发布，百度开启小度青禾学习手机预售等](https://sspai.com/post/79945)<!-- sspai:END -->
