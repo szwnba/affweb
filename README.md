@@ -10,10 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  21 [近期google站群不收录，大佬看看什么问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=110481)
--  21 [在线求助，还有人用IM3.9么](https://www.advertcn.com/forum.php?mod=viewthread&tid=110477)
--  21 [wordpress突然打不开提示连接不上数据库怎么回事呢](https://www.advertcn.com/forum.php?mod=viewthread&tid=110475)
--  21 [求最新能用的飞机](https://www.advertcn.com/forum.php?mod=viewthread&tid=110474)<!-- advertcn:END -->
+-  22 [程序不懂的人适不适合做广告联盟](https://www.advertcn.com/forum.php?mod=viewthread&tid=110490)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
