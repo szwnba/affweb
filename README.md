@@ -18,6 +18,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
 -  23 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
 -  23 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  23 [How to add IPs from Golden Goose to Galaksion campaign!](https://afflift.com/f/threads/how-to-add-ips-from-golden-goose-to-galaksion-campaign.10985/)
@@ -28,8 +29,7 @@
 -  22 [A.I landing pages](https://afflift.com/f/threads/a-i-landing-pages.10982/)
 -  22 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  22 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
--  22 [Seeking Advice: Passing Conversion Data &amp; Postback Transfer](https://afflift.com/f/threads/seeking-advice-passing-conversion-data-postback-transfer.10981/)
--  22 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)<!-- afflift:END -->
+-  22 [Seeking Advice: Passing Conversion Data &amp; Postback Transfer](https://afflift.com/f/threads/seeking-advice-passing-conversion-data-postback-transfer.10981/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
