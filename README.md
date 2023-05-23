@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  22 [程序不懂的人适不适合做广告联盟](https://www.advertcn.com/forum.php?mod=viewthread&tid=110490)<!-- advertcn:END -->
+-  23 [今年完成的第一个小的里程碑](https://www.advertcn.com/forum.php?mod=viewthread&tid=110523)
+-  23 [开发上线了一个基于chatgpt的pdf对话网站，不会推广](https://www.advertcn.com/forum.php?mod=viewthread&tid=110511)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
