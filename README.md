@@ -18,6 +18,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  23 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  23 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  23 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)
 -  23 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
@@ -27,9 +29,7 @@
 -  23 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  23 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  23 [How often do you get converting offers?](https://afflift.com/f/threads/how-often-do-you-get-converting-offers.10988/)
--  23 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
--  23 [How to add IPs from Golden Goose to Galaksion campaign!](https://afflift.com/f/threads/how-to-add-ips-from-golden-goose-to-galaksion-campaign.10985/)
--  23 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)<!-- afflift:END -->
+-  23 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
