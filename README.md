@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
+-  23 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
+-  23 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
+-  23 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
+-  23 [Seriously Bemob?](https://afflift.com/f/threads/seriously-bemob.10989/)
 -  23 [Hello from EZmob.com - Push - Pop - Native - Display](https://afflift.com/f/threads/hello-from-ezmob-com-push-pop-native-display.1018/)
 -  23 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  23 [Tacolo.co - new monetization program via push notifications | 90% RevShare](https://afflift.com/f/threads/tacolo-co-new-monetization-program-via-push-notifications-90-revshare.8959/)
 -  23 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  23 [How to add IPs from Golden Goose to Galaksion campaign!](https://afflift.com/f/threads/how-to-add-ips-from-golden-goose-to-galaksion-campaign.10985/)
 -  23 [Beginner-friendly whitelists [GEOs, bids, sources, volumes] for low payout offers 📈💰](https://afflift.com/f/threads/beginner-friendly-whitelists-geos-bids-sources-volumes-for-low-payout-offers-%F0%9F%93%88%F0%9F%92%B0.8907/)
--  23 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  23 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  23 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  23 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)
--  23 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  23 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)<!-- afflift:END -->
+-  23 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
