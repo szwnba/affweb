@@ -33,8 +33,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [让你的爱机焕然一新：笔记本电脑表面清洁指南](https://sspai.com/post/79956)
 -  23 [和海量文档直接对话，AI 阅读工具你该怎么选？](https://sspai.com/post/79869)
 -  23 [派早报：微信刷掌支付正式发布，百度开启小度青禾学习手机预售等](https://sspai.com/post/79945)
 -  22 [Matter 1.1 更新，以及其他值得了解的硬件和智能家居资讯](https://sspai.com/prime/story/zouzhe-230522)
--  22 [派评 | 近期值得关注的 App](https://sspai.com/post/79940)
--  22 [为了让 AI 工作流更顺畅，我做了一个无代码平台：向量网络](https://sspai.com/post/79916)<!-- sspai:END -->
+-  22 [派评 | 近期值得关注的 App](https://sspai.com/post/79940)<!-- sspai:END -->
