@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [派早报：微信刷掌支付正式发布，百度开启小度青禾学习手机预售等](https://sspai.com/post/79945)
 -  22 [Matter 1.1 更新，以及其他值得了解的硬件和智能家居资讯](https://sspai.com/prime/story/zouzhe-230522)
 -  22 [派评 | 近期值得关注的 App](https://sspai.com/post/79940)
 -  22 [为了让 AI 工作流更顺畅，我做了一个无代码平台：向量网络](https://sspai.com/post/79916)
--  22 [天气逐渐变热，派商店带你解锁夏日饮品新配方](https://sspai.com/post/79882)
--  22 [在困难的春天换份工作，聊聊我的心路历程](https://sspai.com/post/79877)<!-- sspai:END -->
+-  22 [天气逐渐变热，派商店带你解锁夏日饮品新配方](https://sspai.com/post/79882)<!-- sspai:END -->
