@@ -16,8 +16,7 @@
 ### zhihu
 <!-- zhihu:START -->
 -  23 [终于等到40系甜点卡 -  影驰RTX 4060 Ti 8GB 金属大师显卡首发评测](http://zhuanlan.zhihu.com/p/631637527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
--  23 [【毅种循环】618显示器推荐&lpar;下集：办公、设计等非游戏显示器&rpar;](http://zhuanlan.zhihu.com/p/631657244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
--  23 [【毅种循环】618显示器推荐&lpar;上集：游戏显示器&rpar;](http://zhuanlan.zhihu.com/p/631419079?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
+-  23 [【毅种循环】618显示器推荐&lpar;下集：办公、设计等非游戏显示器&rpar;](http://zhuanlan.zhihu.com/p/631657244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
 
 ### afflift
 <!-- afflift:START -->
