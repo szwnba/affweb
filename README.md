@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [经历两种相反的消费状态后，我开始重新思考记账这件事](https://sspai.com/post/79969)
 -  24 [想让大模型称心如意，提示语应该怎么写？](https://sspai.com/post/79923)
 -  24 [派早报：Meta 推出自研 AI 运算芯片、戴森发布多款新品等](https://sspai.com/post/79964)
 -  23 [《回到奔腾年代》试播集：硅谷的由来，摩尔定律的故事，偏执狂的胜利](https://sspai.com/post/79836)
--  23 [少数派线下活动：来上海，和我们一起看 Apple 发布会](https://sspai.com/post/79946)
--  23 [大有进步，仍有硬伤：Anytype 大更新解析](https://sspai.com/post/79949)<!-- sspai:END -->
+-  23 [少数派线下活动：来上海，和我们一起看 Apple 发布会](https://sspai.com/post/79946)<!-- sspai:END -->
