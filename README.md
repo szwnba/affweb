@@ -22,6 +22,7 @@
 ### afflift
 <!-- afflift:START -->
 -  24 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
+-  24 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  24 [{Affsub2}  - CPA Network | Dating Smartlink, Nutra, Insurance offers](https://afflift.com/f/threads/affsub2-cpa-network-dating-smartlink-nutra-insurance-offers.9010/)
 -  24 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  24 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/)
@@ -31,8 +32,7 @@
 -  24 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
 -  24 [lunaproxy ⚡ Provide dynamic/static rotation IP, exclusive IP, HTTP/socks5 proxy](https://afflift.com/f/threads/lunaproxy-%E2%9A%A1-provide-dynamic-static-rotation-ip-exclusive-ip-http-socks5-proxy.10993/)
 -  24 [Trust RDP Agency - Facebook highlimited RDP accounts / Any verticals, no pre-moderation](https://afflift.com/f/threads/trust-rdp-agency-facebook-highlimited-rdp-accounts-any-verticals-no-pre-moderation.10992/)
--  24 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  24 [Intercourse Follow Along.](https://afflift.com/f/threads/intercourse-follow-along.10764/)<!-- afflift:END -->
+-  24 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
