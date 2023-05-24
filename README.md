@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
+-  24 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
+-  24 [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
 -  24 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  24 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
 -  24 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
@@ -28,10 +31,7 @@
 -  24 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  24 [We&#39;re Out Of Our Way: Verticals That Can&#39;t Work With Push Traffic](https://afflift.com/f/threads/were-out-of-our-way-verticals-that-cant-work-with-push-traffic.10995/)
 -  24 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/)
--  24 [A.I landing pages](https://afflift.com/f/threads/a-i-landing-pages.10982/)
--  24 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  24 [Trust RDP Agency - Facebook highlimited RDP accounts / Any verticals, no pre-moderation](https://afflift.com/f/threads/trust-rdp-agency-facebook-highlimited-rdp-accounts-any-verticals-no-pre-moderation.10992/)
--  24 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)<!-- afflift:END -->
+-  24 [A.I landing pages](https://afflift.com/f/threads/a-i-landing-pages.10982/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
