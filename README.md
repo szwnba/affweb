@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
--  24 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)
+-  24 [Beginner-friendly whitelists [GEOs, bids, sources, volumes] for low payout offers 📈💰](https://afflift.com/f/threads/beginner-friendly-whitelists-geos-bids-sources-volumes-for-low-payout-offers-%F0%9F%93%88%F0%9F%92%B0.8907/)
+-  24 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  24 [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
--  24 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  24 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
--  24 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
--  24 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
--  24 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
--  24 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  24 [We&#39;re Out Of Our Way: Verticals That Can&#39;t Work With Push Traffic](https://afflift.com/f/threads/were-out-of-our-way-verticals-that-cant-work-with-push-traffic.10995/)
--  24 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/)
--  24 [A.I landing pages](https://afflift.com/f/threads/a-i-landing-pages.10982/)<!-- afflift:END -->
+-  24 [I tested a dating offer from Zeydoo with Clickadilla traffic. How did it go?](https://afflift.com/f/threads/i-tested-a-dating-offer-from-zeydoo-with-clickadilla-traffic-how-did-it-go.10997/)
+-  24 [Essential Tools for Affiliates: Spy, Personalize, and Conquer with MaxWeb](https://afflift.com/f/threads/essential-tools-for-affiliates-spy-personalize-and-conquer-with-maxweb.10998/)
+-  24 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
+-  24 [Is it difficult to get video content ideas approved by Revcontent?](https://afflift.com/f/threads/is-it-difficult-to-get-video-content-ideas-approved-by-revcontent.10983/)
+-  24 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)
+-  24 [You should test Direct Click from PropellerAds](https://afflift.com/f/threads/you-should-test-direct-click-from-propellerads.9514/)
+-  24 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
+-  24 [Help needed with golden goose tracking](https://afflift.com/f/threads/help-needed-with-golden-goose-tracking.10908/)
+-  24 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
