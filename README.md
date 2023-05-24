@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
+-  24 [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
 -  24 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
 -  24 [New Community Leader: dood](https://afflift.com/f/threads/new-community-leader-dood.10163/)
 -  24 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  24 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/)
 -  24 [Beginner-friendly whitelists [GEOs, bids, sources, volumes] for low payout offers 📈💰](https://afflift.com/f/threads/beginner-friendly-whitelists-geos-bids-sources-volumes-for-low-payout-offers-%F0%9F%93%88%F0%9F%92%B0.8907/)
 -  24 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  24 [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
 -  24 [I tested a dating offer from Zeydoo with Clickadilla traffic. How did it go?](https://afflift.com/f/threads/i-tested-a-dating-offer-from-zeydoo-with-clickadilla-traffic-how-did-it-go.10997/)
 -  24 [Essential Tools for Affiliates: Spy, Personalize, and Conquer with MaxWeb](https://afflift.com/f/threads/essential-tools-for-affiliates-spy-personalize-and-conquer-with-maxweb.10998/)
 -  24 [#SelfAdvertiser: Push It, Push It Some More, Alalalalalong...](https://afflift.com/f/threads/selfadvertiser-push-it-push-it-some-more-alalalalalong.10743/)
--  24 [Is it difficult to get video content ideas approved by Revcontent?](https://afflift.com/f/threads/is-it-difficult-to-get-video-content-ideas-approved-by-revcontent.10983/)
--  24 [Propellerads + GG $20+ Profit thus far!](https://afflift.com/f/threads/propellerads-gg-20-profit-thus-far.10969/)<!-- afflift:END -->
+-  24 [Is it difficult to get video content ideas approved by Revcontent?](https://afflift.com/f/threads/is-it-difficult-to-get-video-content-ideas-approved-by-revcontent.10983/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
