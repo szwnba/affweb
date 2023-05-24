@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  24 [Intercourse Follow Along.](https://afflift.com/f/threads/intercourse-follow-along.10764/)
 -  24 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  24 [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
@@ -32,8 +33,7 @@
 -  23 [not able to login bemob-- only for me or](https://afflift.com/f/threads/not-able-to-login-bemob-only-for-me-or.10991/)
 -  23 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  23 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
--  23 [Is it difficult to get video content ideas approved by Revcontent?](https://afflift.com/f/threads/is-it-difficult-to-get-video-content-ideas-approved-by-revcontent.10983/)
--  23 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)<!-- afflift:END -->
+-  23 [Is it difficult to get video content ideas approved by Revcontent?](https://afflift.com/f/threads/is-it-difficult-to-get-video-content-ideas-approved-by-revcontent.10983/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
