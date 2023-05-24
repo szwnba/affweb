@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  24 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
+-  24 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
+-  24 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
+-  24 [theoptimizer.io sign up not possible](https://afflift.com/f/threads/theoptimizer-io-sign-up-not-possible.10911/)
+-  24 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  24 [We&#39;re Out Of Our Way: Verticals That Can&#39;t Work With Push Traffic](https://afflift.com/f/threads/were-out-of-our-way-verticals-that-cant-work-with-push-traffic.10995/)
 -  24 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/)
 -  24 [A.I landing pages](https://afflift.com/f/threads/a-i-landing-pages.10982/)
 -  24 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  24 [Trust RDP Agency - Facebook highlimited RDP accounts / Any verticals, no pre-moderation](https://afflift.com/f/threads/trust-rdp-agency-facebook-highlimited-rdp-accounts-any-verticals-no-pre-moderation.10992/)
--  24 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
--  24 [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
--  24 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
--  24 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  24 [{Affsub2}  - CPA Network | Dating Smartlink, Nutra, Insurance offers](https://afflift.com/f/threads/affsub2-cpa-network-dating-smartlink-nutra-insurance-offers.9010/)
--  24 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  24 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/)<!-- afflift:END -->
+-  24 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
