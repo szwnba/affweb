@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Intercourse Follow Along.](https://afflift.com/f/threads/intercourse-follow-along.10764/)
 -  24 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  24 [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
 -  24 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
@@ -32,8 +33,7 @@
 -  23 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  23 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  23 [Is it difficult to get video content ideas approved by Revcontent?](https://afflift.com/f/threads/is-it-difficult-to-get-video-content-ideas-approved-by-revcontent.10983/)
--  23 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
--  23 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)<!-- afflift:END -->
+-  23 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
