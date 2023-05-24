@@ -39,5 +39,4 @@
 -  24 [「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)
 -  24 [经历两种相反的消费状态后，我开始重新思考记账这件事](https://sspai.com/post/79969)
 -  24 [想让大模型称心如意，提示语应该怎么写？](https://sspai.com/post/79923)
--  24 [派早报：Meta 推出自研 AI 运算芯片、戴森发布多款新品等](https://sspai.com/post/79964)
--  23 [《回到奔腾年代》试播集：硅谷的由来，摩尔定律的故事，偏执狂的胜利](https://sspai.com/post/79836)<!-- sspai:END -->
+-  24 [派早报：Meta 推出自研 AI 运算芯片、戴森发布多款新品等](https://sspai.com/post/79964)<!-- sspai:END -->
