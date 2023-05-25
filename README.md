@@ -26,6 +26,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [General discussion about COD on Push](https://afflift.com/f/threads/general-discussion-about-cod-on-push.10632/)
 -  25 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 -  25 [Wordpress Theme](https://afflift.com/f/threads/wordpress-theme.11003/)
 -  25 [How To Encrypt Zone ID&#39;s In Skro Tracker?](https://afflift.com/f/threads/how-to-encrypt-zone-ids-in-skro-tracker.10948/)
@@ -36,8 +37,7 @@
 -  25 [Sweepstakes - Elevate Your Earnings with Top Profitable Offers! 😎💸](https://afflift.com/f/threads/sweepstakes-elevate-your-earnings-with-top-profitable-offers-%F0%9F%98%8E%F0%9F%92%B8.11008/)
 -  25 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  25 [Facebook instream Ads](https://afflift.com/f/threads/facebook-instream-ads.10705/)
--  25 [New Community Leader: dood](https://afflift.com/f/threads/new-community-leader-dood.10163/)
--  25 [Voluum Question](https://afflift.com/f/threads/voluum-question.11006/)<!-- afflift:END -->
+-  25 [New Community Leader: dood](https://afflift.com/f/threads/new-community-leader-dood.10163/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
