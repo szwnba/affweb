@@ -27,6 +27,8 @@
 ### afflift
 <!-- afflift:START -->
 -  25 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+-  25 [How To Encrypt Zone ID&#39;s In Skro Tracker?](https://afflift.com/f/threads/how-to-encrypt-zone-ids-in-skro-tracker.10948/)
+-  25 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/)
 -  25 [Real-Time Bidding &lpar;RTB&rpar; Auction: A Powerful Tool in Affiliate Marketing](https://afflift.com/f/threads/real-time-bidding-rtb-auction-a-powerful-tool-in-affiliate-marketing.11009/)
 -  25 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  25 [Wordpress Theme](https://afflift.com/f/threads/wordpress-theme.11003/)
@@ -35,9 +37,7 @@
 -  25 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  25 [Facebook instream Ads](https://afflift.com/f/threads/facebook-instream-ads.10705/)
 -  25 [New Community Leader: dood](https://afflift.com/f/threads/new-community-leader-dood.10163/)
--  25 [Voluum Question](https://afflift.com/f/threads/voluum-question.11006/)
--  25 [The clean-up on Karnagio beach together with City Friends Club!](https://afflift.com/f/threads/the-clean-up-on-karnagio-beach-together-with-city-friends-club.11007/)
--  25 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)<!-- afflift:END -->
+-  25 [Voluum Question](https://afflift.com/f/threads/voluum-question.11006/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
