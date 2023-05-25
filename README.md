@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  25 [派早报：Apple 公布 WWDC23 完整日程、马斯克确定特斯拉接班人等](https://sspai.com/post/79988)
 -  24 [「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)
--  24 [经历两种相反的消费状态后，我开始重新思考记账这件事](https://sspai.com/post/79969)
--  24 [想让大模型称心如意，提示语应该怎么写？](https://sspai.com/post/79923)<!-- sspai:END -->
+-  24 [经历两种相反的消费状态后，我开始重新思考记账这件事](https://sspai.com/post/79969)<!-- sspai:END -->
