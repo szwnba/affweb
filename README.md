@@ -41,6 +41,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [让 iPad「更 Pro」的专业音频创作工具：Logic Pro for iPad 上手体验](https://sspai.com/post/79996)
 -  25 [用免费开源的方案，搭建可离线、跨平台的私有播客订阅管理](https://sspai.com/post/79917)
--  25 [派早报：Apple 公布 WWDC23 完整日程、马斯克确定特斯拉接班人等](https://sspai.com/post/79988)
--  24 [「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)<!-- sspai:END -->
+-  25 [派早报：Apple 公布 WWDC23 完整日程、马斯克确定特斯拉接班人等](https://sspai.com/post/79988)<!-- sspai:END -->
