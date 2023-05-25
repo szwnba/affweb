@@ -21,11 +21,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [I tested a dating offer from Zeydoo with Clickadilla traffic. How did it go?](https://afflift.com/f/threads/i-tested-a-dating-offer-from-zeydoo-with-clickadilla-traffic-how-did-it-go.10997/)
 -  25 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
 -  25 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
 -  25 [Block Crawlers From Accessing Your Landing Page](https://afflift.com/f/threads/block-crawlers-from-accessing-your-landing-page.10761/)
 -  25 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/)
--  24 [I tested a dating offer from Zeydoo with Clickadilla traffic. How did it go?](https://afflift.com/f/threads/i-tested-a-dating-offer-from-zeydoo-with-clickadilla-traffic-how-did-it-go.10997/)
 -  24 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
 -  24 [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
 -  24 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
