@@ -10,8 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  23 [今年完成的第一个小的里程碑](https://www.advertcn.com/forum.php?mod=viewthread&tid=110523)
--  23 [开发上线了一个基于chatgpt的pdf对话网站，不会推广](https://www.advertcn.com/forum.php?mod=viewthread&tid=110511)<!-- advertcn:END -->
+-  24 [Google在网站中“检测到网页索引编制问题”](https://www.advertcn.com/forum.php?mod=viewthread&tid=110534)
+-  24 [【长期免费】送FB国内企业户啦！！快来看看](https://www.advertcn.com/forum.php?mod=viewthread&tid=110533)
+-  24 [让百度收录需要主动去百度搜索资源平台提交吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110527)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
