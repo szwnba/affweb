@@ -16,8 +16,13 @@
 
 ### zhihu
 <!-- zhihu:START -->
--  23 [终于等到40系甜点卡 -  影驰RTX 4060 Ti 8GB 金属大师显卡首发评测](http://zhuanlan.zhihu.com/p/631637527?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
--  23 [【毅种循环】618显示器推荐&lpar;下集：办公、设计等非游戏显示器&rpar;](http://zhuanlan.zhihu.com/p/631657244?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
+-  25 [2023 年 5 月 25 凌晨索尼 showcase 发布会，《影之刃零》等作品首曝，有哪些关注点？](http://www.zhihu.com/question/602905025/answer/3043753796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+-  25 [如何在新能源汽车研发过程中，解决电池性能、充电和续航问题，以及提高车辆的功率和效率等方面的挑战？](http://www.zhihu.com/question/598835713/answer/3028242465?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+-  25 [汽车AI技术是如何实现的？AI技术能够带来哪些对汽车行业的改变和影响？](http://www.zhihu.com/question/598871383/answer/3039310719?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+-  25 [三元锂离子动力电池和磷酸铁锂电池哪一种电池更适合电动汽车呢?](http://www.zhihu.com/question/598995070/answer/3026937653?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+-  25 [新能源纯电动汽车电池衰退跟年限有关系吗？是完全看充放电次数吗？还是两者兼具影响？](http://www.zhihu.com/question/510597598/answer/3014891730?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+-  25 [都说底盘一体化强，究竟强在哪里？](http://www.zhihu.com/question/598596583/answer/3010905517?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+-  25 [该如何评价新能源汽车的电池性能和安全性？](http://www.zhihu.com/question/53163627/answer/3008459139?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
 
 ### afflift
 <!-- afflift:START -->
