@@ -41,6 +41,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [XR 世界导览 #2：Unity XR Interaction Toolkit 发布 2.3 版本](https://sspai.com/post/79980)
 -  25 [让 iPad「更 Pro」的专业音频创作工具：Logic Pro for iPad 上手体验](https://sspai.com/post/79996)
 -  25 [用免费开源的方案，搭建可离线、跨平台的私有播客订阅管理](https://sspai.com/post/79917)
 -  25 [派早报：Apple 公布 WWDC23 完整日程、马斯克确定特斯拉接班人等](https://sspai.com/post/79988)<!-- sspai:END -->
