@@ -26,18 +26,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [How Much Can You Earn as an Affiliate Marketer?](https://afflift.com/f/threads/how-much-can-you-earn-as-an-affiliate-marketer.10984/)
+-  25 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
 -  25 [Block Crawlers From Accessing Your Landing Page](https://afflift.com/f/threads/block-crawlers-from-accessing-your-landing-page.10761/)
 -  25 [&quot;connection is not private&quot; issue](https://afflift.com/f/threads/connection-is-not-private-issue.11001/)
 -  25 [General discussion about COD on Push](https://afflift.com/f/threads/general-discussion-about-cod-on-push.10632/)
 -  25 [I tested a dating offer from Zeydoo with Clickadilla traffic. How did it go?](https://afflift.com/f/threads/i-tested-a-dating-offer-from-zeydoo-with-clickadilla-traffic-how-did-it-go.10997/)
 -  25 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
--  25 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
 -  25 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/)
 -  24 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
 -  24 [Sendy questions](https://afflift.com/f/threads/sendy-questions.10567/)
 -  24 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
--  24 [New Community Leader: dood](https://afflift.com/f/threads/new-community-leader-dood.10163/)
--  24 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
+-  24 [New Community Leader: dood](https://afflift.com/f/threads/new-community-leader-dood.10163/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
