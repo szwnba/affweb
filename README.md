@@ -19,8 +19,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  26 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
 -  26 [Hosting Landing Pages with PHP backed](https://afflift.com/f/threads/hosting-landing-pages-with-php-backed.11011/)
+-  26 [Albania with favorable conditions!🤑](https://afflift.com/f/threads/albania-with-favorable-conditions-%F0%9F%A4%91.11014/)
+-  26 [Why is Libya interesting for work?🧐](https://afflift.com/f/threads/why-is-libya-interesting-for-work-%F0%9F%A7%90.11013/)
+-  26 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
 -  26 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  26 [Voluum Question](https://afflift.com/f/threads/voluum-question.11006/)
 -  26 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
@@ -28,9 +30,7 @@
 -  26 [{Affsub2}  - CPA Network | Dating Smartlink, Nutra, Insurance offers](https://afflift.com/f/threads/affsub2-cpa-network-dating-smartlink-nutra-insurance-offers.9010/)
 -  26 [Is it difficult to get video content ideas approved by Revcontent?](https://afflift.com/f/threads/is-it-difficult-to-get-video-content-ideas-approved-by-revcontent.10983/)
 -  26 [General discussion about COD on Push](https://afflift.com/f/threads/general-discussion-about-cod-on-push.10632/)
--  26 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)
--  26 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
--  26 [Wordpress Theme](https://afflift.com/f/threads/wordpress-theme.11003/)<!-- afflift:END -->
+-  26 [PopAds + Watchads](https://afflift.com/f/threads/popads-watchads.10957/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
