@@ -20,8 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  26 [Hosting Landing Pages with PHP backed](https://afflift.com/f/threads/hosting-landing-pages-with-php-backed.11011/)
--  26 [Albania with favorable conditions!🤑](https://afflift.com/f/threads/albania-with-favorable-conditions-%F0%9F%A4%91.11014/)
 -  26 [Why is Libya interesting for work?🧐](https://afflift.com/f/threads/why-is-libya-interesting-for-work-%F0%9F%A7%90.11013/)
 -  26 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
 -  26 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
