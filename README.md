@@ -41,8 +41,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [热点速通 | AI 时代到来：新版 Windows 特性详解](https://sspai.com/post/80004)
 -  26 [心光：为了纯粹、无压力的记录，我用 AI 改造了「标签」](https://sspai.com/post/79927)
 -  26 [派早报：Apple 公布 2023 年设计奖入围作品名单、索尼公布 PS5 串流掌上设备](https://sspai.com/post/80008)
 -  25 [装了啥特别篇：编辑部用什么做图片处理](https://sspai.com/prime/story/zhuanglesha-sp-img-utils)
--  25 [PS Showcase 情报汇总：《漫威蜘蛛侠 2》压轴、Bungie 远古 IP 复活等](https://sspai.com/post/80002)
--  25 [XR 世界导览 #2：Unity XR Interaction Toolkit 发布 2.3 版本](https://sspai.com/post/79980)<!-- sspai:END -->
+-  25 [PS Showcase 情报汇总：《漫威蜘蛛侠 2》压轴、Bungie 远古 IP 复活等](https://sspai.com/post/80002)<!-- sspai:END -->
