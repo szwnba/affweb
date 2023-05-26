@@ -10,9 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  24 [Google在网站中“检测到网页索引编制问题”](https://www.advertcn.com/forum.php?mod=viewthread&tid=110534)
--  24 [【长期免费】送FB国内企业户啦！！快来看看](https://www.advertcn.com/forum.php?mod=viewthread&tid=110533)
--  24 [让百度收录需要主动去百度搜索资源平台提交吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110527)<!-- advertcn:END -->
+-  25 [记录下自己第一个offer，准备开启第二个](https://www.advertcn.com/forum.php?mod=viewthread&tid=110560)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
