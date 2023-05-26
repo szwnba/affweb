@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
 -  26 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  26 [Landing Page Promotes Malware?](https://afflift.com/f/threads/landing-page-promotes-malware.11016/?utm_source=rss&utm_medium=rss)
 -  26 [Hosting Landing Pages with PHP backed](https://afflift.com/f/threads/hosting-landing-pages-with-php-backed.11011/?utm_source=rss&utm_medium=rss)
@@ -30,7 +31,6 @@
 -  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  26 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
 -  26 [How To Profit Better On Push Collection?](https://afflift.com/f/threads/how-to-profit-better-on-push-collection.11015/?utm_source=rss&utm_medium=rss)
--  26 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
 -  26 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
