@@ -15,6 +15,8 @@
 
 ### zhihu
 <!-- zhihu:START -->
+-  27 [2023年618大屏轻薄本怎么选？LG gram全家桶，总有一款适合你](http://zhuanlan.zhihu.com/p/632641888?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
+-  27 [年轻人的第一台SoundBar！索尼轻巧型全景声回音壁HT-S2000深度评测（全网首发）](http://zhuanlan.zhihu.com/p/630990296?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)
 -  26 [如何评价密室逃脱游戏《长安乱》？](http://www.zhihu.com/question/563950552/answer/3045961312?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title)<!-- zhihu:END -->
 
 ### afflift
