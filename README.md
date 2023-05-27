@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  27 [除了模型， GPT 们还在卷什么？](https://sspai.com/post/79985)
 -  26 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80020)
--  26 [随身携带的专业剪辑室用起来怎么样？iPad 版 Final Cut Pro 上手体验](https://sspai.com/post/80013)
--  26 [热点速通 | AI 时代到来：新版 Windows 特性详解](https://sspai.com/post/80004)<!-- sspai:END -->
+-  26 [随身携带的专业剪辑室用起来怎么样？iPad 版 Final Cut Pro 上手体验](https://sspai.com/post/80013)<!-- sspai:END -->
