@@ -38,5 +38,4 @@
 -  26 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80020)
 -  26 [随身携带的专业剪辑室用起来怎么样？iPad 版 Final Cut Pro 上手体验](https://sspai.com/post/80013)
 -  26 [热点速通 | AI 时代到来：新版 Windows 特性详解](https://sspai.com/post/80004)
--  26 [心光：为了纯粹、无压力的记录，我用 AI 改造了「标签」](https://sspai.com/post/79927)
--  26 [派早报：Apple 公布 2023 年设计奖入围作品名单、索尼公布 PS5 串流掌上设备](https://sspai.com/post/80008)<!-- sspai:END -->
+-  26 [心光：为了纯粹、无压力的记录，我用 AI 改造了「标签」](https://sspai.com/post/79927)<!-- sspai:END -->
