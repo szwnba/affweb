@@ -36,5 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  27 [除了模型， GPT 们还在卷什么？](https://sspai.com/post/79985)
--  26 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80020)<!-- sspai:END -->
+-  27 [除了模型， GPT 们还在卷什么？](https://sspai.com/post/79985)<!-- sspai:END -->
