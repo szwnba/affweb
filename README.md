@@ -36,5 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  27 [一日一技 | 无需「XX 管家」，用 Windows 自带工具搞定应用安装与升级](https://sspai.com/post/80027)
--  27 [除了模型， GPT 们还在卷什么？](https://sspai.com/post/79985)<!-- sspai:END -->
+-  27 [一日一技 | 无需「XX 管家」，用 Windows 自带工具搞定应用安装与升级](https://sspai.com/post/80027)<!-- sspai:END -->
