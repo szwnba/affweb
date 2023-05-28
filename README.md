@@ -33,5 +33,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [从出版书籍到网络文学，全方位多角度比较 11 款阅读应用](https://sspai.com/prime/story/zh-reading-apps-compared)
 -  28 [你的第一台 Apple 设备是什么？这是 8 位少数派作者的回答](https://sspai.com/post/80017)
 -  27 [一日一技 | 无需「XX 管家」，用 Windows 自带工具搞定应用安装与升级](https://sspai.com/post/80027)<!-- sspai:END -->
