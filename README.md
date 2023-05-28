@@ -27,8 +27,7 @@
 -  28 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/?utm_source=rss&utm_medium=rss)
 -  28 [Exoclick not passing cost of CPM campaign to tracker &lpar;Binom&rpar;](https://afflift.com/f/threads/exoclick-not-passing-cost-of-cpm-campaign-to-tracker-binom.11017/?utm_source=rss&utm_medium=rss)
 -  28 [Advertizer CPA Campaign vs PropellerAds CPA Goal 2.0 Campaign &lpar;Same Offer&rpar;](https://afflift.com/f/threads/advertizer-cpa-campaign-vs-propellerads-cpa-goal-2-0-campaign-same-offer.5272/?utm_source=rss&utm_medium=rss)
--  28 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/?utm_source=rss&utm_medium=rss)
--  27 [Landing Page Promotes Malware?](https://afflift.com/f/threads/landing-page-promotes-malware.11016/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
