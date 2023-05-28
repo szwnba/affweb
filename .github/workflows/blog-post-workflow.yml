@@ -47,13 +47,5 @@ jobs:
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
           filter_dates: "daysAgo/1/"
-      - name: Pull in zhihu posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://www.zhihu.com/rss"
-          max_post_count: 10
-          comment_tag_name: "zhihu"
-          date_format: "UTC: dd"
-          template: "$newline- $date [$title]($url)"
-          filter_dates: "daysAgo/1/"
-
+      
+  
