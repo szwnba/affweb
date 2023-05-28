@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/?utm_source=rss&utm_medium=rss)
 -  27 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/?utm_source=rss&utm_medium=rss)
 -  27 [Landing Page Promotes Malware?](https://afflift.com/f/threads/landing-page-promotes-malware.11016/?utm_source=rss&utm_medium=rss)
 -  27 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/?utm_source=rss&utm_medium=rss)
