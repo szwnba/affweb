@@ -32,5 +32,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [exping 1.4 更新：创造、组织与分组，你也可以用地图来「讲故事」](https://sspai.com/post/79902)
 -  29 [派早报：iCloud 照片流服务即将关闭，天涯承认遇资金困难](https://sspai.com/post/80044)
 -  28 [从出版书籍到网络文学，全方位多角度比较 11 款阅读应用](https://sspai.com/prime/story/zh-reading-apps-compared)<!-- sspai:END -->
