@@ -21,8 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  29 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
+-  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  29 [AdMaven: A Case Study on the Power of Push Tag](https://afflift.com/f/threads/admaven-a-case-study-on-the-power-of-push-tag.11022/?utm_source=rss&utm_medium=rss)
 -  29 [Hello from VIETNAM SONET AGENCY/☑️FACEBOOK ADVERTISING ACCOUNT FOR RENT - ☑️&lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , SUPPORT](https://afflift.com/f/threads/hello-from-vietnam-sonet-agency-%E2%98%91%EF%B8%8Ffacebook-advertising-account-for-rent-%E2%98%91%EF%B8%8F-accept-bh-wh-gh-gaming-crypto-recruitment-investment-support.11021/?utm_source=rss&utm_medium=rss)
 -  29 [Dynamic Flags on Your Landing Page &lpar;2 Methods&rpar;](https://afflift.com/f/threads/dynamic-flags-on-your-landing-page-2-methods.11020/?utm_source=rss&utm_medium=rss)
