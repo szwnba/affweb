@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  29 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
 -  29 [AdMaven: A Case Study on the Power of Push Tag](https://afflift.com/f/threads/admaven-a-case-study-on-the-power-of-push-tag.11022/?utm_source=rss&utm_medium=rss)
 -  29 [Hello from VIETNAM SONET AGENCY/☑️FACEBOOK ADVERTISING ACCOUNT FOR RENT - ☑️&lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , SUPPORT](https://afflift.com/f/threads/hello-from-vietnam-sonet-agency-%E2%98%91%EF%B8%8Ffacebook-advertising-account-for-rent-%E2%98%91%EF%B8%8F-accept-bh-wh-gh-gaming-crypto-recruitment-investment-support.11021/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  28 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/?utm_source=rss&utm_medium=rss)
 -  28 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/?utm_source=rss&utm_medium=rss)
 -  28 [Exoclick not passing cost of CPM campaign to tracker &lpar;Binom&rpar;](https://afflift.com/f/threads/exoclick-not-passing-cost-of-cpm-campaign-to-tracker-binom.11017/?utm_source=rss&utm_medium=rss)
--  28 [Advertizer CPA Campaign vs PropellerAds CPA Goal 2.0 Campaign &lpar;Same Offer&rpar;](https://afflift.com/f/threads/advertizer-cpa-campaign-vs-propellerads-cpa-goal-2-0-campaign-same-offer.5272/?utm_source=rss&utm_medium=rss)
--  28 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [Advertizer CPA Campaign vs PropellerAds CPA Goal 2.0 Campaign &lpar;Same Offer&rpar;](https://afflift.com/f/threads/advertizer-cpa-campaign-vs-propellerads-cpa-goal-2-0-campaign-same-offer.5272/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
