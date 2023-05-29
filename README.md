@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Dynamic Flags on Your Landing Page &lpar;2 Methods&rpar;](https://afflift.com/f/threads/dynamic-flags-on-your-landing-page-2-methods.11020/?utm_source=rss&utm_medium=rss)
 -  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
+-  29 [AdMaven: A Case Study on the Power of Push Tag](https://afflift.com/f/threads/admaven-a-case-study-on-the-power-of-push-tag.11022/?utm_source=rss&utm_medium=rss)
+-  29 [dr.cash goes to Bangkok!](https://afflift.com/f/threads/dr-cash-goes-to-bangkok.9890/?utm_source=rss&utm_medium=rss)
+-  29 [Traffic inventory for Most popular Push traffic Source 2023](https://afflift.com/f/threads/traffic-inventory-for-most-popular-push-traffic-source-2023.11024/?utm_source=rss&utm_medium=rss)
 -  29 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
 -  29 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
 -  29 [Has anyone succeeded in making a profit in Propeller&#39;s push with low payout &lpar;under $3&rpar;?](https://afflift.com/f/threads/has-anyone-succeeded-in-making-a-profit-in-propellers-push-with-low-payout-under-3.10952/?utm_source=rss&utm_medium=rss)
 -  29 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
--  29 [AdMaven: A Case Study on the Power of Push Tag](https://afflift.com/f/threads/admaven-a-case-study-on-the-power-of-push-tag.11022/?utm_source=rss&utm_medium=rss)
 -  29 [Hello from VIETNAM SONET AGENCY/☑️FACEBOOK ADVERTISING ACCOUNT FOR RENT - ☑️&lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , SUPPORT](https://afflift.com/f/threads/hello-from-vietnam-sonet-agency-%E2%98%91%EF%B8%8Ffacebook-advertising-account-for-rent-%E2%98%91%EF%B8%8F-accept-bh-wh-gh-gaming-crypto-recruitment-investment-support.11021/?utm_source=rss&utm_medium=rss)
--  29 [Dynamic Flags on Your Landing Page &lpar;2 Methods&rpar;](https://afflift.com/f/threads/dynamic-flags-on-your-landing-page-2-methods.11020/?utm_source=rss&utm_medium=rss)
 -  28 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/?utm_source=rss&utm_medium=rss)
--  28 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)
--  28 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/?utm_source=rss&utm_medium=rss)
--  28 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
