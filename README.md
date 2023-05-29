@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  26 [有哪个富强能代理成功adspower](https://www.advertcn.com/forum.php?mod=viewthread&tid=110579)
--  26 [求购一个域名](https://www.advertcn.com/forum.php?mod=viewthread&tid=110578)<!-- advertcn:END -->
+-  29 [这个联盟竟然还在：活了有15年了吧](https://www.advertcn.com/forum.php?mod=viewthread&tid=110615)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
