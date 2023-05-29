@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [家用咖啡手册 08 | 提神醒脑，这是冲煮精品咖啡的四种手法](https://sspai.com/post/79961)
 -  29 [有奖征文 | 从老特斯拉车主的蔚来换车记说起……](https://sspai.com/post/79820)
 -  29 [exping 1.4 更新：创造、组织与分组，你也可以用地图来「讲故事」](https://sspai.com/post/79902)
 -  29 [派早报：iCloud 照片流服务即将关闭，天涯承认遇资金困难](https://sspai.com/post/80044)<!-- sspai:END -->
