@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/?utm_source=rss&utm_medium=rss)
 -  29 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)
 -  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  29 [Dynamic Flags on Your Landing Page &lpar;2 Methods&rpar;](https://afflift.com/f/threads/dynamic-flags-on-your-landing-page-2-methods.11020/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  29 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/?utm_source=rss&utm_medium=rss)
 -  29 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  29 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/?utm_source=rss&utm_medium=rss)
--  29 [Landing Page Promotes Malware?](https://afflift.com/f/threads/landing-page-promotes-malware.11016/?utm_source=rss&utm_medium=rss)
--  29 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  29 [Landing Page Promotes Malware?](https://afflift.com/f/threads/landing-page-promotes-malware.11016/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
