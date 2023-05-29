@@ -33,5 +33,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  29 [派早报：iCloud 照片流服务即将关闭，天涯承认遇资金困难](https://sspai.com/post/80044)
--  28 [从出版书籍到网络文学，全方位多角度比较 11 款阅读应用](https://sspai.com/prime/story/zh-reading-apps-compared)
--  28 [你的第一台 Apple 设备是什么？这是 8 位少数派作者的回答](https://sspai.com/post/80017)<!-- sspai:END -->
+-  28 [从出版书籍到网络文学，全方位多角度比较 11 款阅读应用](https://sspai.com/prime/story/zh-reading-apps-compared)<!-- sspai:END -->
