@@ -20,8 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  29 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)
+-  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
+-  29 [Dynamic Flags on Your Landing Page &lpar;2 Methods&rpar;](https://afflift.com/f/threads/dynamic-flags-on-your-landing-page-2-methods.11020/?utm_source=rss&utm_medium=rss)
+-  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  29 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/?utm_source=rss&utm_medium=rss)
 -  29 [The Hottest Gambling&amp;Betting Affiliate Programs With +30% Payout Increase](https://afflift.com/f/threads/the-hottest-gambling-betting-affiliate-programs-with-30-payout-increase.11026/?utm_source=rss&utm_medium=rss)
 -  29 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  29 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  29 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/?utm_source=rss&utm_medium=rss)
 -  29 [Landing Page Promotes Malware?](https://afflift.com/f/threads/landing-page-promotes-malware.11016/?utm_source=rss&utm_medium=rss)
--  29 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)
--  29 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
--  29 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  29 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
