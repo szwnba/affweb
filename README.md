@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [AdMaven: A Case Study on the Power of Push Tag](https://afflift.com/f/threads/admaven-a-case-study-on-the-power-of-push-tag.11022/?utm_source=rss&utm_medium=rss)
+-  30 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/?utm_source=rss&utm_medium=rss)
+-  30 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
+-  30 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)
+-  30 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)
 -  30 [☑️FACEBOOK ADVERTISING ACCOUNT FOR RENT - ☑️&lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , SUPPORT](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Ffacebook-advertising-account-for-rent-%E2%98%91%EF%B8%8F-accept-bh-wh-gh-gaming-crypto-recruitment-investment-support.11021/?utm_source=rss&utm_medium=rss)
 -  30 [Traffic inventory for Most popular Push traffic Source 2023](https://afflift.com/f/threads/traffic-inventory-for-most-popular-push-traffic-source-2023.11024/?utm_source=rss&utm_medium=rss)
 -  30 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/?utm_source=rss&utm_medium=rss)
 -  29 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  29 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/?utm_source=rss&utm_medium=rss)
 -  29 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)
--  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
--  29 [Dynamic Flags on Your Landing Page &lpar;2 Methods&rpar;](https://afflift.com/f/threads/dynamic-flags-on-your-landing-page-2-methods.11020/?utm_source=rss&utm_medium=rss)
--  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
--  29 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/?utm_source=rss&utm_medium=rss)
--  29 [The Hottest Gambling&amp;Betting Affiliate Programs With +30% Payout Increase](https://afflift.com/f/threads/the-hottest-gambling-betting-affiliate-programs-with-30-payout-increase.11026/?utm_source=rss&utm_medium=rss)
--  29 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
