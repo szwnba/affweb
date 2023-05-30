@@ -22,6 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)
+-  30 [Let&#39;s go to Barcelona for Affiliate World Europe together!](https://afflift.com/f/threads/lets-go-to-barcelona-for-affiliate-world-europe-together.11029/?utm_source=rss&utm_medium=rss)
+-  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  30 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/?utm_source=rss&utm_medium=rss)
 -  30 [propellerads account suspension](https://afflift.com/f/threads/propellerads-account-suspension.10339/?utm_source=rss&utm_medium=rss)
 -  30 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/?utm_source=rss&utm_medium=rss)
@@ -30,10 +33,7 @@
 -  30 [Olavivo Review](https://afflift.com/f/threads/olavivo-review.11028/?utm_source=rss&utm_medium=rss)
 -  30 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
 -  30 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
--  30 [AdMaven: A Case Study on the Power of Push Tag](https://afflift.com/f/threads/admaven-a-case-study-on-the-power-of-push-tag.11022/?utm_source=rss&utm_medium=rss)
--  30 [Traffic inventory for Most popular Push traffic Source 2023](https://afflift.com/f/threads/traffic-inventory-for-most-popular-push-traffic-source-2023.11024/?utm_source=rss&utm_medium=rss)
--  30 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/?utm_source=rss&utm_medium=rss)
--  30 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  30 [AdMaven: A Case Study on the Power of Push Tag](https://afflift.com/f/threads/admaven-a-case-study-on-the-power-of-push-tag.11022/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
