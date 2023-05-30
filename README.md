@@ -22,8 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  30 [In Page Push vs Classic Push](https://afflift.com/f/threads/in-page-push-vs-classic-push.11032/?utm_source=rss&utm_medium=rss)
 -  30 [Nutra Traffic](https://afflift.com/f/threads/nutra-traffic.11030/?utm_source=rss&utm_medium=rss)
+-  30 [In Page Push vs Classic Push](https://afflift.com/f/threads/in-page-push-vs-classic-push.11032/?utm_source=rss&utm_medium=rss)
 -  30 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
 -  30 [propellerads account suspension](https://afflift.com/f/threads/propellerads-account-suspension.10339/?utm_source=rss&utm_medium=rss)
 -  30 [Niche Down or Offer Out?](https://afflift.com/f/threads/niche-down-or-offer-out.10971/?utm_source=rss&utm_medium=rss)
