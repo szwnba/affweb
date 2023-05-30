@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  30 [不知各位大佬们有没兴趣看个小故事小自传？另寻苦力途...](https://www.advertcn.com/forum.php?mod=viewthread&tid=110618)
 -  29 [这个联盟竟然还在：活了有15年了吧](https://www.advertcn.com/forum.php?mod=viewthread&tid=110615)
 -  29 [netnut住宅ip合买](https://www.advertcn.com/forum.php?mod=viewthread&tid=110614)<!-- advertcn:END -->
 
