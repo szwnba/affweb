@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [Final Cut Pro for iPad 体验：未来可期的半成品](https://sspai.com/post/80039)
 -  30 [和 iCloud 照片流说再见之前，你需要了解的 4 个问题](https://sspai.com/post/80074)
 -  30 [WWDC23 线上特别活动：和少数派一起聊本届开发者大会](https://sspai.com/post/80073)
 -  30 [世界水獭日即将到来，少数派邀请你一起为「TA」做点什么](https://sspai.com/post/79971)
--  30 [人人皆可前端：Arc 浏览器更新有感](https://sspai.com/post/80028)
--  30 [派早报：Nvidia 展示生成式人工智能用 GPU，ARM 发布全新内核核心设计等](https://sspai.com/post/80069)<!-- sspai:END -->
+-  30 [人人皆可前端：Arc 浏览器更新有感](https://sspai.com/post/80028)<!-- sspai:END -->
