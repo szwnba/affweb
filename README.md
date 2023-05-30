@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Nutra Traffic](https://afflift.com/f/threads/nutra-traffic.11030/?utm_source=rss&utm_medium=rss)
 -  30 [propellerads account suspension](https://afflift.com/f/threads/propellerads-account-suspension.10339/?utm_source=rss&utm_medium=rss)
 -  30 [Niche Down or Offer Out?](https://afflift.com/f/threads/niche-down-or-offer-out.10971/?utm_source=rss&utm_medium=rss)
 -  30 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)
@@ -32,8 +33,7 @@
 -  30 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
 -  30 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/?utm_source=rss&utm_medium=rss)
 -  30 [Olavivo Review](https://afflift.com/f/threads/olavivo-review.11028/?utm_source=rss&utm_medium=rss)
--  30 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
--  30 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  30 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
