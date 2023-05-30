@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  29 [这个联盟竟然还在：活了有15年了吧](https://www.advertcn.com/forum.php?mod=viewthread&tid=110615)<!-- advertcn:END -->
+-  29 [这个联盟竟然还在：活了有15年了吧](https://www.advertcn.com/forum.php?mod=viewthread&tid=110615)
+-  29 [netnut住宅ip合买](https://www.advertcn.com/forum.php?mod=viewthread&tid=110614)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
