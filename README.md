@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [人人皆可前端：Arc 浏览器更新有感](https://sspai.com/post/80028)
 -  30 [派早报：Nvidia 展示生成式人工智能用 GPU，ARM 发布全新内核核心设计等](https://sspai.com/post/80069)
 -  29 [游戏公司财报扎堆交卷，以及其他值得关注的游戏资讯评论](https://sspai.com/prime/story/zouzhe-230529)
 -  29 [派评 | 近期值得关注的 App](https://sspai.com/post/80065)
--  29 [家用咖啡手册 08 | 提神醒脑，这是冲煮精品咖啡的四种手法](https://sspai.com/post/79961)
--  29 [有奖征文 | 从老特斯拉车主的蔚来换车记说起……](https://sspai.com/post/79820)<!-- sspai:END -->
+-  29 [家用咖啡手册 08 | 提神醒脑，这是冲煮精品咖啡的四种手法](https://sspai.com/post/79961)<!-- sspai:END -->
