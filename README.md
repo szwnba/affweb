@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Is have spent more than $1,000,000 over few years for ads - how can I use the data?](https://afflift.com/f/threads/is-have-spent-more-than-1-000-000-over-few-years-for-ads-how-can-i-use-the-data.10792/?utm_source=rss&utm_medium=rss)
+-  30 [Facebook Advantage+ Campaign Reports](https://afflift.com/f/threads/facebook-advantage-campaign-reports.10197/?utm_source=rss&utm_medium=rss)
+-  30 [FB Employment Ads](https://afflift.com/f/threads/fb-employment-ads.10409/?utm_source=rss&utm_medium=rss)
+-  30 [PUSHGROUND - Push Ads Traffic that Drives Results.](https://afflift.com/f/threads/pushground-push-ads-traffic-that-drives-results.10571/?utm_source=rss&utm_medium=rss)
+-  30 [I am creating a Mastermind - Facebook Ads](https://afflift.com/f/threads/i-am-creating-a-mastermind-facebook-ads.10613/?utm_source=rss&utm_medium=rss)
+-  30 [where can i buy pva facebook accounts](https://afflift.com/f/threads/where-can-i-buy-pva-facebook-accounts.10688/?utm_source=rss&utm_medium=rss)
+-  30 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/?utm_source=rss&utm_medium=rss)
+-  30 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  30 [AdMaven: A Case Study on the Power of Push Tag](https://afflift.com/f/threads/admaven-a-case-study-on-the-power-of-push-tag.11022/?utm_source=rss&utm_medium=rss)
 -  30 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/?utm_source=rss&utm_medium=rss)
 -  30 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
--  30 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)
--  30 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)
--  30 [☑️FACEBOOK ADVERTISING ACCOUNT FOR RENT - ☑️&lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , SUPPORT](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Ffacebook-advertising-account-for-rent-%E2%98%91%EF%B8%8F-accept-bh-wh-gh-gaming-crypto-recruitment-investment-support.11021/?utm_source=rss&utm_medium=rss)
--  30 [Traffic inventory for Most popular Push traffic Source 2023](https://afflift.com/f/threads/traffic-inventory-for-most-popular-push-traffic-source-2023.11024/?utm_source=rss&utm_medium=rss)
--  30 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/?utm_source=rss&utm_medium=rss)
--  29 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
--  29 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/?utm_source=rss&utm_medium=rss)
--  29 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)
--  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  30 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
