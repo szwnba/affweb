@@ -38,8 +38,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [再次交出漂亮答卷：App Store 阶段性成绩单出炉](https://sspai.com/post/80098)
 -  31 [怎样不用 Arc 而用上 Arc 特别篇：山寨一个 Boost 2.0](https://sspai.com/prime/story/alternative-to-arc-boost)
 -  31 [自制应用实践卢曼卡片盒，了解「极境」后我有了一些新看法](https://sspai.com/post/79895)
 -  31 [「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761)
--  31 [开启下一个十年的科技变革？Apple AR 眼镜预测前瞻](https://sspai.com/post/80084)
--  31 [派早报：Aqara 推出新款卡农智能墙壁开关 Z1 等](https://sspai.com/post/80087)<!-- sspai:END -->
+-  31 [开启下一个十年的科技变革？Apple AR 眼镜预测前瞻](https://sspai.com/post/80084)<!-- sspai:END -->
