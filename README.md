@@ -38,8 +38,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治](https://sspai.com/post/74761)
 -  31 [开启下一个十年的科技变革？Apple AR 眼镜预测前瞻](https://sspai.com/post/80084)
 -  31 [派早报：Aqara 推出新款卡农智能墙壁开关 Z1 等](https://sspai.com/post/80087)
 -  30 [天翼时代，电信玩机党最坎坷的旅程](https://sspai.com/prime/story/vintage-tech-stories-cmda-phones)
--  30 [Final Cut Pro for iPad 体验：未来可期的半成品](https://sspai.com/post/80039)
--  30 [Apple 即将关闭「照片流」，告别前需要知道的 4 个问题](https://sspai.com/post/80074)<!-- sspai:END -->
+-  30 [Final Cut Pro for iPad 体验：未来可期的半成品](https://sspai.com/post/80039)<!-- sspai:END -->
