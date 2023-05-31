@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)
+-  31 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
+-  31 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/?utm_source=rss&utm_medium=rss)
 -  31 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  31 [MOBIPIUM&#39;s Dating Brands!](https://afflift.com/f/threads/mobipiums-dating-brands.11046/?utm_source=rss&utm_medium=rss)
 -  31 [How to launch a campaign with fast conversions and get +ROI](https://afflift.com/f/threads/how-to-launch-a-campaign-with-fast-conversions-and-get-roi.11041/?utm_source=rss&utm_medium=rss)
--  31 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)
 -  31 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)
 -  31 [From 200 to 2000 Conversions a Day with eCommerce App](https://afflift.com/f/threads/from-200-to-2000-conversions-a-day-with-ecommerce-app.11045/?utm_source=rss&utm_medium=rss)
 -  31 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/?utm_source=rss&utm_medium=rss)
 -  31 [Demand-Side Platforms and Supply-Side Platforms in Affiliate Marketing](https://afflift.com/f/threads/demand-side-platforms-and-supply-side-platforms-in-affiliate-marketing.11044/?utm_source=rss&utm_medium=rss)
 -  31 [How to grow your affiliate marketing program](https://afflift.com/f/threads/how-to-grow-your-affiliate-marketing-program.7573/?utm_source=rss&utm_medium=rss)
--  31 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/?utm_source=rss&utm_medium=rss)
--  31 [Nutra Traffic](https://afflift.com/f/threads/nutra-traffic.11030/?utm_source=rss&utm_medium=rss)
--  31 [In Page Push vs Classic Push](https://afflift.com/f/threads/in-page-push-vs-classic-push.11032/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  31 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
