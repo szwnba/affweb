@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [EPN.NET | Trust USA virtual cards | Pay for your ads!](https://afflift.com/f/threads/epn-net-trust-usa-virtual-cards-pay-for-your-ads.11039/?utm_source=rss&utm_medium=rss)
+-  31 [How to launch a campaign with fast conversions and get +ROI](https://afflift.com/f/threads/how-to-launch-a-campaign-with-fast-conversions-and-get-roi.11041/?utm_source=rss&utm_medium=rss)
+-  31 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
 -  31 [Newbie trying to learn as much as possible.](https://afflift.com/f/threads/newbie-trying-to-learn-as-much-as-possible.11038/?utm_source=rss&utm_medium=rss)
+-  31 [Looking to buy shopify store with Google merchant center. Please](https://afflift.com/f/threads/looking-to-buy-shopify-store-with-google-merchant-center-please.7712/?utm_source=rss&utm_medium=rss)
+-  31 [Gtin issues in Google Merchant Center](https://afflift.com/f/threads/gtin-issues-in-google-merchant-center.10495/?utm_source=rss&utm_medium=rss)
 -  31 [Can&#39;t Sign In To PropellerAds, Banned?](https://afflift.com/f/threads/cant-sign-in-to-propellerads-banned.11035/?utm_source=rss&utm_medium=rss)
 -  31 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/?utm_source=rss&utm_medium=rss)
 -  31 [{Affsub2}  - CPA Network | Dating Smartlink, Nutra, Insurance offers](https://afflift.com/f/threads/affsub2-cpa-network-dating-smartlink-nutra-insurance-offers.9010/?utm_source=rss&utm_medium=rss)
 -  31 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)
 -  31 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/?utm_source=rss&utm_medium=rss)
--  31 [hello everyone](https://afflift.com/f/threads/hello-everyone.11036/?utm_source=rss&utm_medium=rss)
--  31 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
--  31 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)
--  31 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
--  31 [LGaming.com - a powerful ecosystem and affiliate network of the future available today!](https://afflift.com/f/threads/lgaming-com-a-powerful-ecosystem-and-affiliate-network-of-the-future-available-today.10618/?utm_source=rss&utm_medium=rss)
--  31 [STACKED MARKETER Made $366,000 in 2021](https://afflift.com/f/threads/stacked-marketer-made-366-000-in-2021.8183/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  31 [hello everyone](https://afflift.com/f/threads/hello-everyone.11036/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
