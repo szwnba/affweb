@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [MaxBounty - World leading performance-based CPA network](https://afflift.com/f/threads/maxbounty-world-leading-performance-based-cpa-network.2743/?utm_source=rss&utm_medium=rss)
 -  31 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)
 -  31 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
 -  31 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/?utm_source=rss&utm_medium=rss)
@@ -33,8 +34,7 @@
 -  31 [From 200 to 2000 Conversions a Day with eCommerce App](https://afflift.com/f/threads/from-200-to-2000-conversions-a-day-with-ecommerce-app.11045/?utm_source=rss&utm_medium=rss)
 -  31 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/?utm_source=rss&utm_medium=rss)
 -  31 [Demand-Side Platforms and Supply-Side Platforms in Affiliate Marketing](https://afflift.com/f/threads/demand-side-platforms-and-supply-side-platforms-in-affiliate-marketing.11044/?utm_source=rss&utm_medium=rss)
--  31 [How to grow your affiliate marketing program](https://afflift.com/f/threads/how-to-grow-your-affiliate-marketing-program.7573/?utm_source=rss&utm_medium=rss)
--  31 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  31 [How to grow your affiliate marketing program](https://afflift.com/f/threads/how-to-grow-your-affiliate-marketing-program.7573/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
