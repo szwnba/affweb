@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/?utm_source=rss&utm_medium=rss)
+-  31 [Demand-Side Platforms and Supply-Side Platforms in Affiliate Marketing](https://afflift.com/f/threads/demand-side-platforms-and-supply-side-platforms-in-affiliate-marketing.11044/?utm_source=rss&utm_medium=rss)
 -  31 [How to launch a campaign with fast conversions and get +ROI](https://afflift.com/f/threads/how-to-launch-a-campaign-with-fast-conversions-and-get-roi.11041/?utm_source=rss&utm_medium=rss)
 -  31 [How to grow your affiliate marketing program](https://afflift.com/f/threads/how-to-grow-your-affiliate-marketing-program.7573/?utm_source=rss&utm_medium=rss)
 -  31 [Facebook Ads + Amazon Affiliate](https://afflift.com/f/threads/facebook-ads-amazon-affiliate.10802/?utm_source=rss&utm_medium=rss)
@@ -32,9 +34,7 @@
 -  31 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  31 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/?utm_source=rss&utm_medium=rss)
 -  31 [STACKED MARKETER Made $366,000 in 2021](https://afflift.com/f/threads/stacked-marketer-made-366-000-in-2021.8183/?utm_source=rss&utm_medium=rss)
--  31 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
--  31 [hello everyone](https://afflift.com/f/threads/hello-everyone.11036/?utm_source=rss&utm_medium=rss)
--  31 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  31 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
