@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
+-  31 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/?utm_source=rss&utm_medium=rss)
+-  31 [Can&#39;t Sign In To PropellerAds, Banned?](https://afflift.com/f/threads/cant-sign-in-to-propellerads-banned.11035/?utm_source=rss&utm_medium=rss)
 -  31 [Homeowner Data](https://afflift.com/f/threads/homeowner-data.11034/?utm_source=rss&utm_medium=rss)
 -  31 [Domain Redirects Keyword Research](https://afflift.com/f/threads/domain-redirects-keyword-research.11033/?utm_source=rss&utm_medium=rss)
 -  31 [Nutra Traffic](https://afflift.com/f/threads/nutra-traffic.11030/?utm_source=rss&utm_medium=rss)
 -  31 [In Page Push vs Classic Push](https://afflift.com/f/threads/in-page-push-vs-classic-push.11032/?utm_source=rss&utm_medium=rss)
--  30 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
 -  30 [propellerads account suspension](https://afflift.com/f/threads/propellerads-account-suspension.10339/?utm_source=rss&utm_medium=rss)
 -  30 [Niche Down or Offer Out?](https://afflift.com/f/threads/niche-down-or-offer-out.10971/?utm_source=rss&utm_medium=rss)
 -  30 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)
 -  30 [Let&#39;s go to Barcelona for Affiliate World Europe together!](https://afflift.com/f/threads/lets-go-to-barcelona-for-affiliate-world-europe-together.11029/?utm_source=rss&utm_medium=rss)
--  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
--  30 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/?utm_source=rss&utm_medium=rss)
--  30 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
