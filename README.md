@@ -38,8 +38,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [派早报：Aqara 推出新款卡农智能墙壁开关 Z1 等](https://sspai.com/post/80087)
 -  30 [天翼时代，电信玩机党最坎坷的旅程](https://sspai.com/prime/story/vintage-tech-stories-cmda-phones)
 -  30 [Final Cut Pro for iPad 体验：未来可期的半成品](https://sspai.com/post/80039)
--  30 [和 iCloud 照片流说再见之前，你需要了解的 4 个问题](https://sspai.com/post/80074)
--  30 [WWDC23 线上特别活动：和少数派一起聊本届开发者大会](https://sspai.com/post/80073)
--  30 [世界水獭日即将到来，少数派邀请你一起为「TA」做点什么](https://sspai.com/post/79971)<!-- sspai:END -->
+-  30 [Apple 即将关闭「照片流」，告别前需要知道的 4 个问题](https://sspai.com/post/80074)
+-  30 [WWDC23 线上特别活动：和少数派一起聊本届开发者大会](https://sspai.com/post/80073)<!-- sspai:END -->
