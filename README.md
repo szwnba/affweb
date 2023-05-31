@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  31 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
+-  31 [hello everyone](https://afflift.com/f/threads/hello-everyone.11036/?utm_source=rss&utm_medium=rss)
+-  31 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  31 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)
+-  31 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)
+-  31 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  31 [LGaming.com - a powerful ecosystem and affiliate network of the future available today!](https://afflift.com/f/threads/lgaming-com-a-powerful-ecosystem-and-affiliate-network-of-the-future-available-today.10618/?utm_source=rss&utm_medium=rss)
 -  31 [Can&#39;t Sign In To PropellerAds, Banned?](https://afflift.com/f/threads/cant-sign-in-to-propellerads-banned.11035/?utm_source=rss&utm_medium=rss)
 -  31 [STACKED MARKETER Made $366,000 in 2021](https://afflift.com/f/threads/stacked-marketer-made-366-000-in-2021.8183/?utm_source=rss&utm_medium=rss)
 -  31 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/?utm_source=rss&utm_medium=rss)
 -  31 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/?utm_source=rss&utm_medium=rss)
--  31 [hello everyone](https://afflift.com/f/threads/hello-everyone.11036/?utm_source=rss&utm_medium=rss)
 -  31 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
--  31 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/?utm_source=rss&utm_medium=rss)
--  31 [Homeowner Data](https://afflift.com/f/threads/homeowner-data.11034/?utm_source=rss&utm_medium=rss)
--  31 [Domain Redirects Keyword Research](https://afflift.com/f/threads/domain-redirects-keyword-research.11033/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  31 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
