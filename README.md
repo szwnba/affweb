@@ -10,8 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  01 [招收FB 谷歌 等代投团队](https://www.advertcn.com/forum.php?mod=viewthread&tid=110667)
 -  01 [纯新手meida buy之CJ篇](https://www.advertcn.com/forum.php?mod=viewthread&tid=110662)
 -  01 [手上有70个，干点什么好](https://www.advertcn.com/forum.php?mod=viewthread&tid=110660)
+-  01 [问下群内大佬现在都怎么利用gpt赚钱的](https://www.advertcn.com/forum.php?mod=viewthread&tid=110657)
 -  31 [新人报到-梦开始的地方-返利网](https://www.advertcn.com/forum.php?mod=viewthread&tid=110656)
 -  31 [日本月入百万美金的ChatGPT套壳市场](https://www.advertcn.com/forum.php?mod=viewthread&tid=110655)
 -  31 [我的五月](https://www.advertcn.com/forum.php?mod=viewthread&tid=110653)<!-- advertcn:END -->
