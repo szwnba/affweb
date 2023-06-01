@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Looking to buy shopify store with Google merchant center. Please](https://afflift.com/f/threads/looking-to-buy-shopify-store-with-google-merchant-center-please.7712/?utm_source=rss&utm_medium=rss)
+-  01 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/?utm_source=rss&utm_medium=rss)
 -  01 [EPN.NET | Trust USA virtual cards | Pay for your ads!](https://afflift.com/f/threads/epn-net-trust-usa-virtual-cards-pay-for-your-ads.11039/?utm_source=rss&utm_medium=rss)
 -  31 [MaxBounty - World leading performance-based CPA network](https://afflift.com/f/threads/maxbounty-world-leading-performance-based-cpa-network.2743/?utm_source=rss&utm_medium=rss)
 -  31 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)
@@ -33,9 +35,7 @@
 -  31 [MOBIPIUM&#39;s Dating Brands!](https://afflift.com/f/threads/mobipiums-dating-brands.11046/?utm_source=rss&utm_medium=rss)
 -  31 [How to launch a campaign with fast conversions and get +ROI](https://afflift.com/f/threads/how-to-launch-a-campaign-with-fast-conversions-and-get-roi.11041/?utm_source=rss&utm_medium=rss)
 -  31 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)
--  31 [From 200 to 2000 Conversions a Day with eCommerce App](https://afflift.com/f/threads/from-200-to-2000-conversions-a-day-with-ecommerce-app.11045/?utm_source=rss&utm_medium=rss)
--  31 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/?utm_source=rss&utm_medium=rss)
--  31 [Demand-Side Platforms and Supply-Side Platforms in Affiliate Marketing](https://afflift.com/f/threads/demand-side-platforms-and-supply-side-platforms-in-affiliate-marketing.11044/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  31 [From 200 to 2000 Conversions a Day with eCommerce App](https://afflift.com/f/threads/from-200-to-2000-conversions-a-day-with-ecommerce-app.11045/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
