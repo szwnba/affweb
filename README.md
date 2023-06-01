@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Existing Leadpages-Landing Pages and ProPush?](https://afflift.com/f/threads/existing-leadpages-landing-pages-and-propush.11053/?utm_source=rss&utm_medium=rss)
+-  01 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/?utm_source=rss&utm_medium=rss)
+-  01 [Issue with Smart Link Being Flagged by TrafficStars](https://afflift.com/f/threads/issue-with-smart-link-being-flagged-by-trafficstars.11048/?utm_source=rss&utm_medium=rss)
+-  01 [Affiliate networks with Job/employment offers](https://afflift.com/f/threads/affiliate-networks-with-job-employment-offers.11049/?utm_source=rss&utm_medium=rss)
 -  01 [Question about budgets for traffic](https://afflift.com/f/threads/question-about-budgets-for-traffic.11052/?utm_source=rss&utm_medium=rss)
 -  01 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
--  01 [Affiliate networks with Job/employment offers](https://afflift.com/f/threads/affiliate-networks-with-job-employment-offers.11049/?utm_source=rss&utm_medium=rss)
 -  01 [Which Networks Have Multiple Good Sweeps/Survey And Fast Payment?](https://afflift.com/f/threads/which-networks-have-multiple-good-sweeps-survey-and-fast-payment.11047/?utm_source=rss&utm_medium=rss)
 -  01 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/?utm_source=rss&utm_medium=rss)
 -  01 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  01 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
 -  01 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  01 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
--  01 [Existing Leadpages-Landing Pages and ProPush?](https://afflift.com/f/threads/existing-leadpages-landing-pages-and-propush.11053/?utm_source=rss&utm_medium=rss)
--  01 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/?utm_source=rss&utm_medium=rss)
--  01 [300x250 Banner Ads - from Start to Success](https://afflift.com/f/threads/300x250-banner-ads-from-start-to-success.11051/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  01 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
