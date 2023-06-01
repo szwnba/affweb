@@ -42,5 +42,4 @@
 -  01 [用我踩过的坑，换你少重装几次 Linux 系统](https://sspai.com/post/80003)
 -  01 [派早报：vivo 推出 S17 系列手机、法拉第未来开启新车交付等](https://sspai.com/post/80101)
 -  31 [再次交出漂亮答卷：App Store 阶段性成绩单出炉](https://sspai.com/post/80098)
--  31 [怎样不用 Arc 而用上 Arc 特别篇：山寨一个 Boost 2.0](https://sspai.com/prime/story/alternative-to-arc-boost)
--  31 [自制应用实践卢曼卡片盒，了解「极境」后我有了一些新看法](https://sspai.com/post/79895)<!-- sspai:END -->
+-  31 [怎样不用 Arc 而用上 Arc 特别篇：山寨一个 Boost 2.0](https://sspai.com/prime/story/alternative-to-arc-boost)<!-- sspai:END -->
