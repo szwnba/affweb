@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
 -  01 [Existing Leadpages-Landing Pages and ProPush?](https://afflift.com/f/threads/existing-leadpages-landing-pages-and-propush.11053/?utm_source=rss&utm_medium=rss)
 -  01 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/?utm_source=rss&utm_medium=rss)
 -  01 [Issue with Smart Link Being Flagged by TrafficStars](https://afflift.com/f/threads/issue-with-smart-link-being-flagged-by-trafficstars.11048/?utm_source=rss&utm_medium=rss)
@@ -34,8 +35,7 @@
 -  01 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/?utm_source=rss&utm_medium=rss)
 -  01 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  01 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
--  01 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  01 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  01 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
