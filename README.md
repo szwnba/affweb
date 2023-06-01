@@ -25,18 +25,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
+-  01 [Affiliate networks with Job/employment offers](https://afflift.com/f/threads/affiliate-networks-with-job-employment-offers.11049/?utm_source=rss&utm_medium=rss)
+-  01 [Which Networks Have Multiple Good Sweeps/Survey And Fast Payment?](https://afflift.com/f/threads/which-networks-have-multiple-good-sweeps-survey-and-fast-payment.11047/?utm_source=rss&utm_medium=rss)
+-  01 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
+-  01 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  01 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
+-  01 [Existing Leadpages-Landing Pages and ProPush?](https://afflift.com/f/threads/existing-leadpages-landing-pages-and-propush.11053/?utm_source=rss&utm_medium=rss)
 -  01 [Question about budgets for traffic](https://afflift.com/f/threads/question-about-budgets-for-traffic.11052/?utm_source=rss&utm_medium=rss)
 -  01 [Everad - the only CPA network you need for COD nutra offers!](https://afflift.com/f/threads/everad-the-only-cpa-network-you-need-for-cod-nutra-offers.7700/?utm_source=rss&utm_medium=rss)
 -  01 [300x250 Banner Ads - from Start to Success](https://afflift.com/f/threads/300x250-banner-ads-from-start-to-success.11051/?utm_source=rss&utm_medium=rss)
 -  01 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/?utm_source=rss&utm_medium=rss)
--  01 [Affiliate networks with Job/employment offers](https://afflift.com/f/threads/affiliate-networks-with-job-employment-offers.11049/?utm_source=rss&utm_medium=rss)
--  01 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)
--  01 [Homeowner Data](https://afflift.com/f/threads/homeowner-data.11034/?utm_source=rss&utm_medium=rss)
--  01 [MaxBounty - World leading performance-based CPA network](https://afflift.com/f/threads/maxbounty-world-leading-performance-based-cpa-network.2743/?utm_source=rss&utm_medium=rss)
--  01 [Issue with Smart Link Being Flagged by TrafficStars](https://afflift.com/f/threads/issue-with-smart-link-being-flagged-by-trafficstars.11048/?utm_source=rss&utm_medium=rss)
--  01 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
--  01 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  01 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
