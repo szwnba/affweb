@@ -25,18 +25,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/?utm_source=rss&utm_medium=rss)
+-  01 [Affiliate networks with Job/employment offers](https://afflift.com/f/threads/affiliate-networks-with-job-employment-offers.11049/?utm_source=rss&utm_medium=rss)
+-  01 [PropellerAds and very shady tactics that cost me my account.](https://afflift.com/f/threads/propellerads-and-very-shady-tactics-that-cost-me-my-account.11025/?utm_source=rss&utm_medium=rss)
+-  01 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  01 [Homeowner Data](https://afflift.com/f/threads/homeowner-data.11034/?utm_source=rss&utm_medium=rss)
 -  01 [MaxBounty - World leading performance-based CPA network](https://afflift.com/f/threads/maxbounty-world-leading-performance-based-cpa-network.2743/?utm_source=rss&utm_medium=rss)
 -  01 [Issue with Smart Link Being Flagged by TrafficStars](https://afflift.com/f/threads/issue-with-smart-link-being-flagged-by-trafficstars.11048/?utm_source=rss&utm_medium=rss)
--  01 [Affiliate networks with Job/employment offers](https://afflift.com/f/threads/affiliate-networks-with-job-employment-offers.11049/?utm_source=rss&utm_medium=rss)
 -  01 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
 -  01 [Voluum bad experience - Am I unreasonable to ask for a refund ?](https://afflift.com/f/threads/voluum-bad-experience-am-i-unreasonable-to-ask-for-a-refund.10814/?utm_source=rss&utm_medium=rss)
 -  01 [Which Networks Have Multiple Good Sweeps/Survey And Fast Payment?](https://afflift.com/f/threads/which-networks-have-multiple-good-sweeps-survey-and-fast-payment.11047/?utm_source=rss&utm_medium=rss)
 -  01 [Looking to buy shopify store with Google merchant center. Please](https://afflift.com/f/threads/looking-to-buy-shopify-store-with-google-merchant-center-please.7712/?utm_source=rss&utm_medium=rss)
--  01 [EPN.NET | Trust USA virtual cards | Pay for your ads!](https://afflift.com/f/threads/epn-net-trust-usa-virtual-cards-pay-for-your-ads.11039/?utm_source=rss&utm_medium=rss)
--  31 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)
--  31 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/?utm_source=rss&utm_medium=rss)
--  31 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  01 [EPN.NET | Trust USA virtual cards | Pay for your ads!](https://afflift.com/f/threads/epn-net-trust-usa-virtual-cards-pay-for-your-ads.11039/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
