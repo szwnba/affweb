@@ -10,10 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  31 [卖cb账号 几年收入180万](https://www.advertcn.com/forum.php?mod=viewthread&tid=110634)
--  30 [骗子联盟揭发](https://www.advertcn.com/forum.php?mod=viewthread&tid=110631)
--  30 [payoneer年度收款少于2000美元的要收年费了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110619)
--  30 [不知各位大佬们有没兴趣看个小故事小自传？另寻苦力途...](https://www.advertcn.com/forum.php?mod=viewthread&tid=110618)<!-- advertcn:END -->
+-  31 [日本月入百万美金的ChatGPT套壳市场](https://www.advertcn.com/forum.php?mod=viewthread&tid=110655)
+-  31 [我的五月](https://www.advertcn.com/forum.php?mod=viewthread&tid=110653)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
