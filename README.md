@@ -42,5 +42,4 @@
 -  01 [分体工学键盘入门指南：配列选择、购买渠道与配置方法](https://sspai.com/prime/story/split-ergo-kbd-brief-intro)
 -  01 [新玩意 147｜少数派的编辑们最近买了啥？](https://sspai.com/post/80112)
 -  01 [除了传闻中的 Apple 眼镜，WWDC23 还有这些看点](https://sspai.com/post/80107)
--  01 [用我踩过的坑，换你少重装几次 Linux 系统](https://sspai.com/post/80003)
--  01 [派早报：vivo 推出 S17 系列手机、法拉第未来开启新车交付等](https://sspai.com/post/80101)<!-- sspai:END -->
+-  01 [用我踩过的坑，换你少重装几次 Linux 系统](https://sspai.com/post/80003)<!-- sspai:END -->
