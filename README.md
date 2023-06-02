@@ -10,11 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  01 [招收FB 谷歌 等代投团队](https://www.advertcn.com/forum.php?mod=viewthread&tid=110667)
--  01 [纯新手meida buy之CJ篇](https://www.advertcn.com/forum.php?mod=viewthread&tid=110662)
--  01 [手上有70个，干点什么好](https://www.advertcn.com/forum.php?mod=viewthread&tid=110660)
--  01 [世界最大种子网站之一 RARBG 宣布闭站](https://www.advertcn.com/forum.php?mod=viewthread&tid=110658)
--  01 [问下群内大佬现在都怎么利用gpt赚钱的](https://www.advertcn.com/forum.php?mod=viewthread&tid=110657)<!-- advertcn:END -->
+-  02 [整理了一下目前我个人多年经验，还可以的广告联盟列表](https://www.advertcn.com/forum.php?mod=viewthread&tid=110687)
+-  02 [popads 限制太狠，感觉没流量来了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110684)
+-  01 [大家，怎么我的popads总是充值不了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110676)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
