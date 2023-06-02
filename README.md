@@ -39,6 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  02 [尝试 7 大服务建立数播系统后，我找到了自己的「梦中情播」](https://sspai.com/post/80051)
 -  02 [派早报：Meta 发布新消费级 VR 设备 Quest 3](https://sspai.com/post/80124)
 -  01 [分体工学键盘入门指南：配列选择、购买渠道与配置方法](https://sspai.com/prime/story/split-ergo-kbd-brief-intro)
 -  01 [新玩意 147｜少数派的编辑们最近买了啥？](https://sspai.com/post/80112)
