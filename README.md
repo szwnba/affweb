@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/?utm_source=rss&utm_medium=rss)
+-  02 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/?utm_source=rss&utm_medium=rss)
+-  02 [Looking For a VA Job](https://afflift.com/f/threads/looking-for-a-va-job.11057/?utm_source=rss&utm_medium=rss)
+-  02 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/?utm_source=rss&utm_medium=rss)
+-  02 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/?utm_source=rss&utm_medium=rss)
 -  02 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/?utm_source=rss&utm_medium=rss)
 -  02 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
 -  02 [2 tools I use every single day](https://afflift.com/f/threads/2-tools-i-use-every-single-day.11060/?utm_source=rss&utm_medium=rss)
 -  02 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  02 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/?utm_source=rss&utm_medium=rss)
 -  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
--  02 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  02 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/?utm_source=rss&utm_medium=rss)
--  02 [Zone performance differences PropellerAds vs bemob](https://afflift.com/f/threads/zone-performance-differences-propellerads-vs-bemob.11058/?utm_source=rss&utm_medium=rss)
--  02 [dr.cash digest](https://afflift.com/f/threads/dr-cash-digest.9730/?utm_source=rss&utm_medium=rss)
--  02 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
--  02 [Existing Leadpages-Landing Pages and ProPush?](https://afflift.com/f/threads/existing-leadpages-landing-pages-and-propush.11053/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  02 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
