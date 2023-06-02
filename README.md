@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  02 [Use ChatGPT To Clean Landers?](https://afflift.com/f/threads/use-chatgpt-to-clean-landers.11055/?utm_source=rss&utm_medium=rss)
 -  02 [No redirect affiliate link!](https://afflift.com/f/threads/no-redirect-affiliate-link.11056/?utm_source=rss&utm_medium=rss)
 -  02 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
@@ -34,8 +35,7 @@
 -  02 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  02 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/?utm_source=rss&utm_medium=rss)
 -  01 [Affiliate networks with Job/employment offers](https://afflift.com/f/threads/affiliate-networks-with-job-employment-offers.11049/?utm_source=rss&utm_medium=rss)
--  01 [Question about budgets for traffic](https://afflift.com/f/threads/question-about-budgets-for-traffic.11052/?utm_source=rss&utm_medium=rss)
--  01 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  01 [Question about budgets for traffic](https://afflift.com/f/threads/question-about-budgets-for-traffic.11052/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
