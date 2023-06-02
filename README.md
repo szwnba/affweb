@@ -24,11 +24,11 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
+-  02 [Use ChatGPT To Clean Landers?](https://afflift.com/f/threads/use-chatgpt-to-clean-landers.11055/?utm_source=rss&utm_medium=rss)
 -  02 [No redirect affiliate link!](https://afflift.com/f/threads/no-redirect-affiliate-link.11056/?utm_source=rss&utm_medium=rss)
+-  02 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
 -  02 [Using FB + Email for Affiliate Marketing](https://afflift.com/f/threads/using-fb-email-for-affiliate-marketing.8643/?utm_source=rss&utm_medium=rss)
 -  02 [Existing Leadpages-Landing Pages and ProPush?](https://afflift.com/f/threads/existing-leadpages-landing-pages-and-propush.11053/?utm_source=rss&utm_medium=rss)
--  02 [Use ChatGPT To Clean Landers?](https://afflift.com/f/threads/use-chatgpt-to-clean-landers.11055/?utm_source=rss&utm_medium=rss)
 -  02 [hello everyone](https://afflift.com/f/threads/hello-everyone.11036/?utm_source=rss&utm_medium=rss)
 -  02 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)
 -  02 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
