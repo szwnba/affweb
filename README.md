@@ -22,6 +22,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
+-  02 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/?utm_source=rss&utm_medium=rss)
+-  02 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/?utm_source=rss&utm_medium=rss)
+-  02 [Looking For a VA Job](https://afflift.com/f/threads/looking-for-a-va-job.11057/?utm_source=rss&utm_medium=rss)
 -  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  02 [Use ChatGPT To Clean Landers?](https://afflift.com/f/threads/use-chatgpt-to-clean-landers.11055/?utm_source=rss&utm_medium=rss)
 -  02 [No redirect affiliate link!](https://afflift.com/f/threads/no-redirect-affiliate-link.11056/?utm_source=rss&utm_medium=rss)
@@ -29,11 +33,7 @@
 -  02 [Using FB + Email for Affiliate Marketing](https://afflift.com/f/threads/using-fb-email-for-affiliate-marketing.8643/?utm_source=rss&utm_medium=rss)
 -  02 [Existing Leadpages-Landing Pages and ProPush?](https://afflift.com/f/threads/existing-leadpages-landing-pages-and-propush.11053/?utm_source=rss&utm_medium=rss)
 -  02 [hello everyone](https://afflift.com/f/threads/hello-everyone.11036/?utm_source=rss&utm_medium=rss)
--  02 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)
--  02 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
--  02 [Need support from Golden goose](https://afflift.com/f/threads/need-support-from-golden-goose.10934/?utm_source=rss&utm_medium=rss)
--  01 [Affiliate networks with Job/employment offers](https://afflift.com/f/threads/affiliate-networks-with-job-employment-offers.11049/?utm_source=rss&utm_medium=rss)
--  01 [Question about budgets for traffic](https://afflift.com/f/threads/question-about-budgets-for-traffic.11052/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  02 [What&#39;s More Important... Headlines or Images?](https://afflift.com/f/threads/whats-more-important-headlines-or-images.11037/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
