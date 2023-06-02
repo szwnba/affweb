@@ -22,8 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [Suddenly realizing that there are still many illiterates who cannot read](https://afflift.com/f/threads/suddenly-realizing-that-there-are-still-many-illiterates-who-cannot-read.11061/?utm_source=rss&utm_medium=rss)
 -  02 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/?utm_source=rss&utm_medium=rss)
+-  02 [Suddenly realizing that there are still many illiterates who cannot read](https://afflift.com/f/threads/suddenly-realizing-that-there-are-still-many-illiterates-who-cannot-read.11061/?utm_source=rss&utm_medium=rss)
 -  02 [Existing Leadpages-Landing Pages and ProPush?](https://afflift.com/f/threads/existing-leadpages-landing-pages-and-propush.11053/?utm_source=rss&utm_medium=rss)
 -  02 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)
 -  02 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
