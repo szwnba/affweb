@@ -37,6 +37,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [入围第 34 届金曲奖的作品中，我最推荐的有这些](https://sspai.com/post/80138)
 -  02 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80139)
--  02 [播客 | 所有关于 WWDC23 预测的终点都是锤子科技](https://sspai.com/post/80122)
--  02 [尝试 7 大服务建立数播系统后，我找到了自己的「梦中情播」](https://sspai.com/post/80051)<!-- sspai:END -->
+-  02 [播客 | 所有关于 WWDC23 预测的终点都是锤子科技](https://sspai.com/post/80122)<!-- sspai:END -->
