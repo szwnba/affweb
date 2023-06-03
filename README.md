@@ -38,5 +38,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  03 [重回线下的 WWDC 要来了，我们和几位开发者聊了聊参加体验](https://sspai.com/post/80131)
--  03 [入围第 34 届金曲奖的作品中，我最推荐的有这些](https://sspai.com/post/80138)
--  02 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80139)<!-- sspai:END -->
+-  03 [入围第 34 届金曲奖的作品中，我最推荐的有这些](https://sspai.com/post/80138)<!-- sspai:END -->
