@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [How To Collect Phone Numbers In Purelander?](https://afflift.com/f/threads/how-to-collect-phone-numbers-in-purelander.11063/?utm_source=rss&utm_medium=rss)
 -  03 [Suddenly realizing that there are still many illiterates who cannot read](https://afflift.com/f/threads/suddenly-realizing-that-there-are-still-many-illiterates-who-cannot-read.11061/?utm_source=rss&utm_medium=rss)
 -  03 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)
 -  03 [2 tools I use every single day](https://afflift.com/f/threads/2-tools-i-use-every-single-day.11060/?utm_source=rss&utm_medium=rss)
@@ -32,8 +33,7 @@
 -  02 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
 -  02 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/?utm_source=rss&utm_medium=rss)
 -  02 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/?utm_source=rss&utm_medium=rss)
--  02 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
--  02 [Which Networks Have Multiple Good Sweeps/Survey And Fast Payment?](https://afflift.com/f/threads/which-networks-have-multiple-good-sweeps-survey-and-fast-payment.11047/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  02 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
