@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  03 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
 -  03 [Suddenly realizing that there are still many illiterates who cannot read](https://afflift.com/f/threads/suddenly-realizing-that-there-are-still-many-illiterates-who-cannot-read.11061/?utm_source=rss&utm_medium=rss)
 -  03 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)
@@ -31,8 +32,7 @@
 -  03 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/?utm_source=rss&utm_medium=rss)
 -  03 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  02 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
--  02 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/?utm_source=rss&utm_medium=rss)
--  02 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  02 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
