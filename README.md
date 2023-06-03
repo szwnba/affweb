@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  02 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/80139)
 -  02 [播客 | 所有关于 WWDC23 预测的终点都是锤子科技](https://sspai.com/post/80122)
--  02 [尝试 7 大服务建立数播系统后，我找到了自己的「梦中情播」](https://sspai.com/post/80051)
--  02 [派早报：Meta 发布新消费级 VR 设备 Quest 3](https://sspai.com/post/80124)<!-- sspai:END -->
+-  02 [尝试 7 大服务建立数播系统后，我找到了自己的「梦中情播」](https://sspai.com/post/80051)<!-- sspai:END -->
