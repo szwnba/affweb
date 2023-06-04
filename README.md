@@ -30,5 +30,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  03 [XR 世界导览 #3：当 XR 遇上 GPT](https://sspai.com/post/80136)
--  03 [重回线下的 WWDC 要来了，我们和几位开发者聊了聊参加体验](https://sspai.com/post/80131)<!-- sspai:END -->
+-  03 [XR 世界导览 #3：当 XR 遇上 GPT](https://sspai.com/post/80136)<!-- sspai:END -->
