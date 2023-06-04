@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  03 [介绍一个自己写的chrome插件——Google Search By Local](https://www.advertcn.com/forum.php?mod=viewthread&tid=110707)
--  03 [tiktok视频下载工具有法律风险吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110704)<!-- advertcn:END -->
+-  03 [介绍一个自己写的chrome插件——Google Search By Local](https://www.advertcn.com/forum.php?mod=viewthread&tid=110707)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
