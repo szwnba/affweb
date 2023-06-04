@@ -10,9 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  02 [整理了一下目前我个人多年经验，还可以的广告联盟列表](https://www.advertcn.com/forum.php?mod=viewthread&tid=110687)
--  02 [popads 限制太狠，感觉没流量来了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110684)
--  01 [大家，怎么我的popads总是充值不了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110676)<!-- advertcn:END -->
+-  03 [介绍一个自己写的chrome插件——Google Search By Local](https://www.advertcn.com/forum.php?mod=viewthread&tid=110707)
+-  03 [tiktok视频下载工具有法律风险吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110704)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
