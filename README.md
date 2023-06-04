@@ -30,4 +30,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [又一届 Swift 学生挑战赛，我们和今年的获奖学生们聊了聊](https://sspai.com/post/80154)
 -  03 [XR 世界导览 #3：当 XR 遇上 GPT](https://sspai.com/post/80136)<!-- sspai:END -->
