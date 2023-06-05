@@ -20,9 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/?utm_source=rss&utm_medium=rss)
+-  05 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
 -  05 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/?utm_source=rss&utm_medium=rss)
 -  05 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
--  04 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
 -  04 [Issue with Smart Link Being Flagged by TrafficStars](https://afflift.com/f/threads/issue-with-smart-link-being-flagged-by-trafficstars.11048/?utm_source=rss&utm_medium=rss)
 -  04 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  04 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/?utm_source=rss&utm_medium=rss)
