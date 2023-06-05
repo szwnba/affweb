@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  19 [参与长亭百川活动免费获得最少2天境外云服务器](https://51.ruyo.net/18392.html)<!-- ruyo:END -->
+-  05 [伊朗顶级域名.IR 免费注册1年，仅需邮箱即可！](https://51.ruyo.net/18397.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
