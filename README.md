@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [从一根笔到一个箭头](https://sspai.com/prime/story/from-a-pen-to-a-cursor)
 -  05 [派评 | 近期值得关注的 App](https://sspai.com/post/80170)
 -  05 [今晚 WWDC 怎么看？我们帮你搜集了 6 种观看姿势](https://sspai.com/post/80148)
 -  05 [在发布会开始之前，深入浅出地聊聊苹果与 AR](https://sspai.com/post/80158)
--  05 [好养活的鱼、低成本的新爱好：生态鱼缸入门指南](https://sspai.com/post/80081)
--  05 [派早报：微软将在 Windows 中终止支持 Cortana；OpenAI 透露未来规划后要求删帖](https://sspai.com/post/80151)<!-- sspai:END -->
+-  05 [好养活的鱼、低成本的新爱好：生态鱼缸入门指南](https://sspai.com/post/80081)<!-- sspai:END -->
