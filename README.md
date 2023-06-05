@@ -31,5 +31,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [好养活的鱼、低成本的新爱好：生态鱼缸入门指南](https://sspai.com/post/80081)
 -  05 [派早报：微软将在 Windows 中终止支持 Cortana；OpenAI 透露未来规划后要求删帖](https://sspai.com/post/80151)
 -  04 [又一届 Swift 学生挑战赛，我们和今年的获奖学生们聊了聊](https://sspai.com/post/80154)<!-- sspai:END -->
