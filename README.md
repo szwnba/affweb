@@ -39,6 +39,4 @@
 <!-- sspai:START -->
 -  06 [直播预告 | WWDC23 开幕式回顾：哪些亮点值得展开讲讲？](https://sspai.com/post/80157)
 -  06 [AI 时代的应用开发有何变化？我与三位独立开发者聊了聊](https://sspai.com/post/80125)
--  06 [派早报：Apple 召开 WWDC23 开幕式，推出多款产品等](https://sspai.com/post/80178)
--  05 [一图流 | WWDC 23 开幕式回顾](https://sspai.com/post/80174)
--  05 [新系统、新 Mac，还有 Apple Vision Pro 登场：WWDC23 发布会回顾](https://sspai.com/post/80175)<!-- sspai:END -->
+-  06 [派早报：Apple 召开 WWDC23 开幕式，推出多款产品等](https://sspai.com/post/80178)<!-- sspai:END -->
