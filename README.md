@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
 -  06 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/?utm_source=rss&utm_medium=rss)
 -  06 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/?utm_source=rss&utm_medium=rss)
 -  06 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
@@ -32,8 +33,7 @@
 -  06 [2 tools I use every single day](https://afflift.com/f/threads/2-tools-i-use-every-single-day.11060/?utm_source=rss&utm_medium=rss)
 -  06 [Clickdaly is the best popup traffic Advertising Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-traffic-advertising-network.10668/?utm_source=rss&utm_medium=rss)
 -  06 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
--  06 [OGAds - Weekly Payments - Landing Pages - Hot Offers](https://afflift.com/f/threads/ogads-weekly-payments-landing-pages-hot-offers.3223/?utm_source=rss&utm_medium=rss)
--  05 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  06 [OGAds - Weekly Payments - Landing Pages - Hot Offers](https://afflift.com/f/threads/ogads-weekly-payments-landing-pages-hot-offers.3223/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
