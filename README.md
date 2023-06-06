@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
 -  06 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
 -  06 [OGAds - Weekly Payments - Landing Pages - Hot Offers](https://afflift.com/f/threads/ogads-weekly-payments-landing-pages-hot-offers.3223/?utm_source=rss&utm_medium=rss)
 -  05 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  05 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  05 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  05 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/?utm_source=rss&utm_medium=rss)
--  05 [Suddenly realizing that there are still many illiterates who cannot read](https://afflift.com/f/threads/suddenly-realizing-that-there-are-still-many-illiterates-who-cannot-read.11061/?utm_source=rss&utm_medium=rss)
--  05 [2 tools I use every single day](https://afflift.com/f/threads/2-tools-i-use-every-single-day.11060/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  05 [Suddenly realizing that there are still many illiterates who cannot read](https://afflift.com/f/threads/suddenly-realizing-that-there-are-still-many-illiterates-who-cannot-read.11061/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
