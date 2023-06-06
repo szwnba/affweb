@@ -23,8 +23,9 @@
 ### afflift
 <!-- afflift:START -->
 -  06 [facebook ads tracking?](https://afflift.com/f/threads/facebook-ads-tracking.11071/?utm_source=rss&utm_medium=rss)
--  06 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
+-  06 [WTB Tiktok Agency accounts or Regular Accounts](https://afflift.com/f/threads/wtb-tiktok-agency-accounts-or-regular-accounts.11072/?utm_source=rss&utm_medium=rss)
 -  06 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
+-  06 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  06 [What I plan to use Einstein for...](https://afflift.com/f/threads/what-i-plan-to-use-einstein-for.11070/?utm_source=rss&utm_medium=rss)
 -  06 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  06 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
@@ -32,8 +33,7 @@
 -  06 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/?utm_source=rss&utm_medium=rss)
 -  06 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/?utm_source=rss&utm_medium=rss)
 -  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
--  06 [Expert Talks: Enhancing Webmaster Profitability with Kinsta&#39;s Solutions](https://afflift.com/f/threads/expert-talks-enhancing-webmaster-profitability-with-kinstas-solutions.11069/?utm_source=rss&utm_medium=rss)
--  06 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  06 [Expert Talks: Enhancing Webmaster Profitability with Kinsta&#39;s Solutions](https://afflift.com/f/threads/expert-talks-enhancing-webmaster-profitability-with-kinstas-solutions.11069/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
