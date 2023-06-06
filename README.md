@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [facebook ads tracking?](https://afflift.com/f/threads/facebook-ads-tracking.11071/?utm_source=rss&utm_medium=rss)
 -  06 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  06 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  06 [What I plan to use Einstein for...](https://afflift.com/f/threads/what-i-plan-to-use-einstein-for.11070/?utm_source=rss&utm_medium=rss)
@@ -32,8 +33,7 @@
 -  06 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/?utm_source=rss&utm_medium=rss)
 -  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
 -  06 [Expert Talks: Enhancing Webmaster Profitability with Kinsta&#39;s Solutions](https://afflift.com/f/threads/expert-talks-enhancing-webmaster-profitability-with-kinstas-solutions.11069/?utm_source=rss&utm_medium=rss)
--  06 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
--  06 [Zone performance differences PropellerAds vs bemob](https://afflift.com/f/threads/zone-performance-differences-propellerads-vs-bemob.11058/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  06 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
