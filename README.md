@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  03 [介绍一个自己写的chrome插件——Google Search By Local](https://www.advertcn.com/forum.php?mod=viewthread&tid=110707)<!-- advertcn:END -->
+-  05 [寻诚信的跨境公司合作](https://www.advertcn.com/forum.php?mod=viewthread&tid=110732)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
