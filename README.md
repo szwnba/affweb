@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/?utm_source=rss&utm_medium=rss)
+-  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
+-  06 [Expert Talks: Enhancing Webmaster Profitability with Kinsta&#39;s Solutions](https://afflift.com/f/threads/expert-talks-enhancing-webmaster-profitability-with-kinstas-solutions.11069/?utm_source=rss&utm_medium=rss)
+-  06 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
 -  06 [Zone performance differences PropellerAds vs bemob](https://afflift.com/f/threads/zone-performance-differences-propellerads-vs-bemob.11058/?utm_source=rss&utm_medium=rss)
 -  06 [Landing Page Promotes Malware?](https://afflift.com/f/threads/landing-page-promotes-malware.11016/?utm_source=rss&utm_medium=rss)
 -  06 [Existing Leadpages-Landing Pages and ProPush?](https://afflift.com/f/threads/existing-leadpages-landing-pages-and-propush.11053/?utm_source=rss&utm_medium=rss)
 -  06 [Let&#39;s go to Barcelona for Affiliate World Europe together!](https://afflift.com/f/threads/lets-go-to-barcelona-for-affiliate-world-europe-together.11029/?utm_source=rss&utm_medium=rss)
 -  06 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  06 [Claim Your Name](https://afflift.com/f/threads/claim-your-name.8300/?utm_source=rss&utm_medium=rss)
--  06 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/?utm_source=rss&utm_medium=rss)
 -  06 [Super Monitoring Affiliate Program Review](https://afflift.com/f/threads/super-monitoring-affiliate-program-review.11068/?utm_source=rss&utm_medium=rss)
--  06 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/?utm_source=rss&utm_medium=rss)
--  06 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
--  06 [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/?utm_source=rss&utm_medium=rss)
--  06 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  06 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
