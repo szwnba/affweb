@@ -20,8 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  06 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
+-  06 [Clickdaly is the best popup traffic Advertising Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-traffic-advertising-network.10668/?utm_source=rss&utm_medium=rss)
 -  06 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
+-  06 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
 -  06 [OGAds - Weekly Payments - Landing Pages - Hot Offers](https://afflift.com/f/threads/ogads-weekly-payments-landing-pages-hot-offers.3223/?utm_source=rss&utm_medium=rss)
 -  05 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)
 -  05 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  05 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  05 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  05 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  05 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/?utm_source=rss&utm_medium=rss)
--  05 [Suddenly realizing that there are still many illiterates who cannot read](https://afflift.com/f/threads/suddenly-realizing-that-there-are-still-many-illiterates-who-cannot-read.11061/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  05 [May PropellerAds Promo Codes 2023](https://afflift.com/f/threads/may-propellerads-promo-codes-2023.10871/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
