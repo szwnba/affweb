@@ -22,7 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [⚡️ Free Test⚡️Smartproxy, oxylabs perfect replacement ⭐ Lunaproxy](https://afflift.com/f/threads/%E2%9A%A1%EF%B8%8F-free-test%E2%9A%A1%EF%B8%8Fsmartproxy-oxylabs-perfect-replacement-%E2%AD%90-lunaproxy.11073/?utm_source=rss&utm_medium=rss)
+-  07 [Hello Compadres!](https://afflift.com/f/threads/hello-compadres.11074/?utm_source=rss&utm_medium=rss)
 -  07 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/?utm_source=rss&utm_medium=rss)
 -  07 [facebook ads tracking?](https://afflift.com/f/threads/facebook-ads-tracking.11071/?utm_source=rss&utm_medium=rss)
 -  07 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
