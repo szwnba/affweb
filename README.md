@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [没有 Google，Chrome 将会怎样？](https://sspai.com/post/80189)
 -  07 [派早报：1Password 开始测试通行密钥支持等](https://sspai.com/post/80196)
 -  06 [直播预告 | WWDC23 开幕式回顾：哪些亮点值得展开讲讲？](https://sspai.com/post/80157)
 -  06 [AI 时代的应用开发有何变化？我与三位独立开发者聊了聊](https://sspai.com/post/80125)<!-- sspai:END -->
