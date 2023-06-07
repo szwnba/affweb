@@ -22,6 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)
+-  07 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
+-  07 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/?utm_source=rss&utm_medium=rss)
 -  07 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  07 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  07 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/?utm_source=rss&utm_medium=rss)
@@ -30,10 +33,7 @@
 -  07 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  07 [Hello Compadres!](https://afflift.com/f/threads/hello-compadres.11074/?utm_source=rss&utm_medium=rss)
 -  07 [Fungus is the actual niche of the season!](https://afflift.com/f/threads/fungus-is-the-actual-niche-of-the-season.11080/?utm_source=rss&utm_medium=rss)
--  07 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)
--  07 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/?utm_source=rss&utm_medium=rss)
--  07 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/?utm_source=rss&utm_medium=rss)
--  07 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  07 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
