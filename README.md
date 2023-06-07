@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)
 -  07 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/?utm_source=rss&utm_medium=rss)
 -  07 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/?utm_source=rss&utm_medium=rss)
 -  07 [Rent a Facebook ad account - Powerful advertising account - Accept BH, WH, GH](https://afflift.com/f/threads/rent-a-facebook-ad-account-powerful-advertising-account-accept-bh-wh-gh.11067/?utm_source=rss&utm_medium=rss)
@@ -32,8 +33,7 @@
 -  07 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/?utm_source=rss&utm_medium=rss)
 -  07 [Site monetisation](https://afflift.com/f/threads/site-monetisation.11075/?utm_source=rss&utm_medium=rss)
 -  07 [Super Monitoring Affiliate Program Review](https://afflift.com/f/threads/super-monitoring-affiliate-program-review.11068/?utm_source=rss&utm_medium=rss)
--  07 [Hello Compadres!](https://afflift.com/f/threads/hello-compadres.11074/?utm_source=rss&utm_medium=rss)
--  07 [facebook ads tracking?](https://afflift.com/f/threads/facebook-ads-tracking.11071/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  07 [Hello Compadres!](https://afflift.com/f/threads/hello-compadres.11074/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
