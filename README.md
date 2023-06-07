@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/?utm_source=rss&utm_medium=rss)
+-  07 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
+-  07 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/?utm_source=rss&utm_medium=rss)
+-  07 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
+-  07 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  07 [Hello Compadres!](https://afflift.com/f/threads/hello-compadres.11074/?utm_source=rss&utm_medium=rss)
 -  07 [Fungus is the actual niche of the season!](https://afflift.com/f/threads/fungus-is-the-actual-niche-of-the-season.11080/?utm_source=rss&utm_medium=rss)
--  07 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  07 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)
 -  07 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/?utm_source=rss&utm_medium=rss)
 -  07 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/?utm_source=rss&utm_medium=rss)
 -  07 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)
--  07 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/?utm_source=rss&utm_medium=rss)
--  07 [Site monetisation](https://afflift.com/f/threads/site-monetisation.11075/?utm_source=rss&utm_medium=rss)
--  07 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/?utm_source=rss&utm_medium=rss)
--  07 [AWE Barecelon Tickets](https://afflift.com/f/threads/awe-barecelon-tickets.11078/?utm_source=rss&utm_medium=rss)
--  07 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  07 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
