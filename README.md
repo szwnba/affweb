@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Site monetisation](https://afflift.com/f/threads/site-monetisation.11075/?utm_source=rss&utm_medium=rss)
+-  07 [Super Monitoring Affiliate Program Review](https://afflift.com/f/threads/super-monitoring-affiliate-program-review.11068/?utm_source=rss&utm_medium=rss)
 -  07 [Hello Compadres!](https://afflift.com/f/threads/hello-compadres.11074/?utm_source=rss&utm_medium=rss)
 -  07 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/?utm_source=rss&utm_medium=rss)
 -  07 [facebook ads tracking?](https://afflift.com/f/threads/facebook-ads-tracking.11071/?utm_source=rss&utm_medium=rss)
@@ -31,9 +33,7 @@
 -  06 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  06 [What I plan to use Einstein for...](https://afflift.com/f/threads/what-i-plan-to-use-einstein-for.11070/?utm_source=rss&utm_medium=rss)
 -  06 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
--  06 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
--  06 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  06 [Looking for new domain redirect &lpar;zero-click&rpar; traffic sources](https://afflift.com/f/threads/looking-for-new-domain-redirect-zero-click-traffic-sources.10938/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  06 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
