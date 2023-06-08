@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/?utm_source=rss&utm_medium=rss)
--  08 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
 -  08 [New MaxWebinar with RevContent!](https://afflift.com/f/threads/new-maxwebinar-with-revcontent.11089/?utm_source=rss&utm_medium=rss)
+-  08 [How To Create Effective Landing Pages For Inpage And Push Notifications - Tools And Examples](https://afflift.com/f/threads/how-to-create-effective-landing-pages-for-inpage-and-push-notifications-tools-and-examples.11090/?utm_source=rss&utm_medium=rss)
+-  08 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
+-  08 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)
+-  08 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/?utm_source=rss&utm_medium=rss)
+-  08 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/?utm_source=rss&utm_medium=rss)
 -  08 [What I plan to use Einstein for...](https://afflift.com/f/threads/what-i-plan-to-use-einstein-for.11070/?utm_source=rss&utm_medium=rss)
 -  08 [Netlify vs Cloudflare Pages？Who is faster?](https://afflift.com/f/threads/netlify-vs-cloudflare-pages%EF%BC%9Fwho-is-faster.11083/?utm_source=rss&utm_medium=rss)
 -  08 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  08 [Hello](https://afflift.com/f/threads/hello.4508/?utm_source=rss&utm_medium=rss)
 -  08 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  08 [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/?utm_source=rss&utm_medium=rss)
--  08 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/?utm_source=rss&utm_medium=rss)
--  08 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/?utm_source=rss&utm_medium=rss)
--  08 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  08 [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
