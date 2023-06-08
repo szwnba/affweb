@@ -23,17 +23,17 @@
 ### afflift
 <!-- afflift:START -->
 -  08 [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/?utm_source=rss&utm_medium=rss)
+-  08 [Hello](https://afflift.com/f/threads/hello.4508/?utm_source=rss&utm_medium=rss)
+-  08 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/?utm_source=rss&utm_medium=rss)
+-  08 [Netlify vs Cloudflare Pages？Who is faster?](https://afflift.com/f/threads/netlify-vs-cloudflare-pages%EF%BC%9Fwho-is-faster.11083/?utm_source=rss&utm_medium=rss)
+-  08 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/?utm_source=rss&utm_medium=rss)
+-  08 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/?utm_source=rss&utm_medium=rss)
 -  08 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)
 -  08 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
 -  08 [Do you have case studies? Share them with us and get a bonus!](https://afflift.com/f/threads/do-you-have-case-studies-share-them-with-us-and-get-a-bonus.10944/?utm_source=rss&utm_medium=rss)
 -  08 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)
 -  08 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/?utm_source=rss&utm_medium=rss)
--  08 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/?utm_source=rss&utm_medium=rss)
--  08 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
--  08 [Which Networks Have Multiple Good Sweeps/Survey And Fast Payment?](https://afflift.com/f/threads/which-networks-have-multiple-good-sweeps-survey-and-fast-payment.11047/?utm_source=rss&utm_medium=rss)
--  08 [Facebook Ads Monitoring Tool](https://afflift.com/f/threads/facebook-ads-monitoring-tool.11082/?utm_source=rss&utm_medium=rss)
--  08 [Gtin issues in Google Merchant Center](https://afflift.com/f/threads/gtin-issues-in-google-merchant-center.10495/?utm_source=rss&utm_medium=rss)
--  08 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  08 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
