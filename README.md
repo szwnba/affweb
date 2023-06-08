@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [所有人都能看的 WWDC：平台咨文（PSotU）篇](https://sspai.com/prime/story/wwdc23-selected-sessions-psout)
 -  08 [新玩意 148｜少数派的编辑们最近买了啥？](https://sspai.com/post/80230)
 -  08 [日复一日，尽显非凡：iOS 17 中值得关注的新特性](https://sspai.com/post/80184)
 -  08 [在 Apple Vision Pro 到来之前，先人一步成为苹果独立开发者](https://sspai.com/post/80217)
--  08 [派早报：英特尔推出 Arc Pro A60/A60M 显卡等](https://sspai.com/post/80220)
--  07 [罗技和雷蛇都发了新品，然而都不是鼠标](https://sspai.com/prime/story/zouzhe-230606)<!-- sspai:END -->
+-  08 [派早报：英特尔推出 Arc Pro A60/A60M 显卡等](https://sspai.com/post/80220)<!-- sspai:END -->
