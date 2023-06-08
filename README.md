@@ -22,6 +22,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/?utm_source=rss&utm_medium=rss)
+-  08 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)
+-  08 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
+-  08 [Do you have case studies? Share them with us and get a bonus!](https://afflift.com/f/threads/do-you-have-case-studies-share-them-with-us-and-get-a-bonus.10944/?utm_source=rss&utm_medium=rss)
 -  08 [5 Steps To Setup A Facebook Ads Campaign](https://afflift.com/f/threads/5-steps-to-setup-a-facebook-ads-campaign.11002/?utm_source=rss&utm_medium=rss)
 -  08 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/?utm_source=rss&utm_medium=rss)
 -  08 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/?utm_source=rss&utm_medium=rss)
@@ -29,11 +33,7 @@
 -  08 [Which Networks Have Multiple Good Sweeps/Survey And Fast Payment?](https://afflift.com/f/threads/which-networks-have-multiple-good-sweeps-survey-and-fast-payment.11047/?utm_source=rss&utm_medium=rss)
 -  08 [Facebook Ads Monitoring Tool](https://afflift.com/f/threads/facebook-ads-monitoring-tool.11082/?utm_source=rss&utm_medium=rss)
 -  08 [Gtin issues in Google Merchant Center](https://afflift.com/f/threads/gtin-issues-in-google-merchant-center.10495/?utm_source=rss&utm_medium=rss)
--  08 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
--  08 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/?utm_source=rss&utm_medium=rss)
--  08 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)
--  08 [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/?utm_source=rss&utm_medium=rss)
--  07 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  08 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
