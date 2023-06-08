@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)
 -  08 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
 -  08 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
 -  08 [Case Study &amp; Guide: How to make thousands of $$ from online casino streams on TikTok 🎰](https://afflift.com/f/threads/case-study-guide-how-to-make-thousands-of-from-online-casino-streams-on-tiktok-%F0%9F%8E%B0.11093/?utm_source=rss&utm_medium=rss)
@@ -32,8 +33,7 @@
 -  08 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/?utm_source=rss&utm_medium=rss)
 -  08 [How To Create Effective Landing Pages For Inpage And Push Notifications - Tools And Examples](https://afflift.com/f/threads/how-to-create-effective-landing-pages-for-inpage-and-push-notifications-tools-and-examples.11090/?utm_source=rss&utm_medium=rss)
 -  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
--  08 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
--  08 [New MaxWebinar with RevContent!](https://afflift.com/f/threads/new-maxwebinar-with-revcontent.11089/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  08 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
