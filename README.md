@@ -40,5 +40,4 @@
 -  07 [罗技和雷蛇都发了新品，然而都不是鼠标](https://sspai.com/prime/story/zouzhe-230606)
 -  07 [WWDC23 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/80204)
 -  07 [卖 25000 的 Vision Pro 怎么样，我们找了 3 位 XR 用户聊聊看法](https://sspai.com/post/80194)
--  07 [没有 Google，Chrome 将会怎样？](https://sspai.com/post/80189)
--  07 [派早报：1Password 开始测试通行密钥支持等](https://sspai.com/post/80196)<!-- sspai:END -->
+-  07 [没有 Google，Chrome 将会怎样？](https://sspai.com/post/80189)<!-- sspai:END -->
