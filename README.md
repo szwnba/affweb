@@ -22,9 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/?utm_source=rss&utm_medium=rss)
 -  07 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)
 -  07 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)
--  07 [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/?utm_source=rss&utm_medium=rss)
 -  07 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  07 [facebook ads tracking?](https://afflift.com/f/threads/facebook-ads-tracking.11071/?utm_source=rss&utm_medium=rss)
 -  07 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
