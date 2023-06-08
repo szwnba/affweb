@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/?utm_source=rss&utm_medium=rss)
--  08 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
--  08 [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/?utm_source=rss&utm_medium=rss)
--  08 [Netlify vs Cloudflare Pages？Who is faster?](https://afflift.com/f/threads/netlify-vs-cloudflare-pages%EF%BC%9Fwho-is-faster.11083/?utm_source=rss&utm_medium=rss)
--  08 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/?utm_source=rss&utm_medium=rss)
+-  08 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  08 [Hello](https://afflift.com/f/threads/hello.4508/?utm_source=rss&utm_medium=rss)
+-  08 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
+-  08 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
+-  08 [Netlify vs Cloudflare Pages？Who is faster?](https://afflift.com/f/threads/netlify-vs-cloudflare-pages%EF%BC%9Fwho-is-faster.11083/?utm_source=rss&utm_medium=rss)
+-  08 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/?utm_source=rss&utm_medium=rss)
+-  08 [Approx 50% Click loss on Galaksion?](https://afflift.com/f/threads/approx-50-click-loss-on-galaksion.10726/?utm_source=rss&utm_medium=rss)
+-  08 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/?utm_source=rss&utm_medium=rss)
 -  08 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/?utm_source=rss&utm_medium=rss)
 -  08 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/?utm_source=rss&utm_medium=rss)
 -  08 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/?utm_source=rss&utm_medium=rss)
--  08 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)
--  08 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
--  08 [Do you have case studies? Share them with us and get a bonus!](https://afflift.com/f/threads/do-you-have-case-studies-share-them-with-us-and-get-a-bonus.10944/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  08 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
