@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [在 Apple Vision Pro 到来之前，先人一步成为苹果独立开发者](https://sspai.com/post/80217)
 -  08 [派早报：英特尔推出 Arc Pro A60/A60M 显卡等](https://sspai.com/post/80220)
 -  07 [罗技和雷蛇都发了新品，然而都不是鼠标](https://sspai.com/prime/story/zouzhe-230606)
 -  07 [WWDC23 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/80204)
--  07 [卖 25000 的 Vision Pro 怎么样，我们找了 3 位 XR 用户聊聊看法](https://sspai.com/post/80194)
--  07 [没有 Google，Chrome 将会怎样？](https://sspai.com/post/80189)<!-- sspai:END -->
+-  07 [卖 25000 的 Vision Pro 怎么样，我们找了 3 位 XR 用户聊聊看法](https://sspai.com/post/80194)<!-- sspai:END -->
