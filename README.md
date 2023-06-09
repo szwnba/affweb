@@ -10,9 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  07 [好久没看到收款图了](https://www.advertcn.com/forum.php?mod=viewthread&tid=110750)
--  07 [有人说这行难搞，这里发下去年入行的一些新人的成绩单](https://www.advertcn.com/forum.php?mod=viewthread&tid=110749)
--  07 [一手海外住宅IP 寻变现渠道](https://www.advertcn.com/forum.php?mod=viewthread&tid=110745)<!-- advertcn:END -->
+-  09 [近两年的努力，浅记录一下](https://www.advertcn.com/forum.php?mod=viewthread&tid=110785)
+-  09 [我翻译了STM的今年的 What’s working in affiliate marketing【中文】](https://www.advertcn.com/forum.php?mod=viewthread&tid=110773)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
