@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [在 WWDC 现场，我们听到 Apple Vision Pro 背后的这些事](https://sspai.com/post/80249)
 -  09 [具透 | 自己动手做「吃派的水獭」动态壁纸！Android 14 新变化速览](https://sspai.com/post/80247)
 -  09 [Apple 设计大奖结果公布，这 12 款 app 脱颖而出](https://sspai.com/post/80244)
 -  09 [大众 ID.4：是转型先锋，还是电动浪潮中的「另类」选择？](https://sspai.com/post/80198)
--  09 [派早报：Apple 上架 Mac Pro 2023 款固态硬盘升级套件等](https://sspai.com/post/80236)
--  08 [新作上架，限量秒杀，全场折扣，三重优惠开启付费栏目 618 大促](https://sspai.com/post/80219)<!-- sspai:END -->
+-  09 [派早报：Apple 上架 Mac Pro 2023 款固态硬盘升级套件等](https://sspai.com/post/80236)<!-- sspai:END -->
