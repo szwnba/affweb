@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
+-  09 [EPN.NET | Premium trust US virtual cards | Pay for any ads cabinet!](https://afflift.com/f/threads/epn-net-premium-trust-us-virtual-cards-pay-for-any-ads-cabinet.10608/?utm_source=rss&utm_medium=rss)
+-  09 [EPN.NET | Trust USA virtual cards | Pay for your ads!](https://afflift.com/f/threads/epn-net-trust-usa-virtual-cards-pay-for-your-ads.11039/?utm_source=rss&utm_medium=rss)
+-  09 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
 -  09 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/?utm_source=rss&utm_medium=rss)
 -  09 [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/?utm_source=rss&utm_medium=rss)
--  09 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
 -  09 [The best way to make money with affiliate marketing](https://afflift.com/f/threads/the-best-way-to-make-money-with-affiliate-marketing.10788/?utm_source=rss&utm_medium=rss)
 -  08 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)
 -  08 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
 -  08 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
 -  08 [Case Study &amp; Guide: How to make thousands of $$ from online casino streams on TikTok 🎰](https://afflift.com/f/threads/case-study-guide-how-to-make-thousands-of-from-online-casino-streams-on-tiktok-%F0%9F%8E%B0.11093/?utm_source=rss&utm_medium=rss)
--  08 [Targeted Advertising Made Easy - Promo code from RollerAds](https://afflift.com/f/threads/targeted-advertising-made-easy-promo-code-from-rollerads.11091/?utm_source=rss&utm_medium=rss)
--  08 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
--  08 [Introduction from Newbie to Super Affiliate: Follow My Learning Journey](https://afflift.com/f/threads/introduction-from-newbie-to-super-affiliate-follow-my-learning-journey.10801/?utm_source=rss&utm_medium=rss)
--  08 [How To Create Effective Landing Pages For Inpage And Push Notifications - Tools And Examples](https://afflift.com/f/threads/how-to-create-effective-landing-pages-for-inpage-and-push-notifications-tools-and-examples.11090/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  08 [Targeted Advertising Made Easy - Promo code from RollerAds](https://afflift.com/f/threads/targeted-advertising-made-easy-promo-code-from-rollerads.11091/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
