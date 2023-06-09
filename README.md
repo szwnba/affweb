@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
+-  09 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
 -  09 [Do you know this affiliate network ?](https://afflift.com/f/threads/do-you-know-this-affiliate-network.11095/?utm_source=rss&utm_medium=rss)
 -  09 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/?utm_source=rss&utm_medium=rss)
 -  09 [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/?utm_source=rss&utm_medium=rss)
 -  09 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/?utm_source=rss&utm_medium=rss)
 -  09 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/?utm_source=rss&utm_medium=rss)
--  09 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
 -  09 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/?utm_source=rss&utm_medium=rss)
 -  09 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
 -  09 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
 -  09 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
--  09 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
--  09 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  09 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
