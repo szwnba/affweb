@@ -22,6 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/?utm_source=rss&utm_medium=rss)
+-  09 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/?utm_source=rss&utm_medium=rss)
+-  09 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
 -  09 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/?utm_source=rss&utm_medium=rss)
 -  09 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
 -  09 [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/?utm_source=rss&utm_medium=rss)
@@ -30,10 +33,7 @@
 -  09 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
 -  09 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/?utm_source=rss&utm_medium=rss)
 -  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
--  09 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
--  09 [EPN.NET | Premium trust US virtual cards | Pay for any ads cabinet!](https://afflift.com/f/threads/epn-net-premium-trust-us-virtual-cards-pay-for-any-ads-cabinet.10608/?utm_source=rss&utm_medium=rss)
--  09 [EPN.NET | Trust USA virtual cards | Pay for your ads!](https://afflift.com/f/threads/epn-net-trust-usa-virtual-cards-pay-for-your-ads.11039/?utm_source=rss&utm_medium=rss)
--  09 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  09 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
