@@ -22,9 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/?utm_source=rss&utm_medium=rss)
 -  09 [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/?utm_source=rss&utm_medium=rss)
 -  09 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
--  09 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/?utm_source=rss&utm_medium=rss)
 -  09 [The best way to make money with affiliate marketing](https://afflift.com/f/threads/the-best-way-to-make-money-with-affiliate-marketing.10788/?utm_source=rss&utm_medium=rss)
 -  08 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)
 -  08 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
