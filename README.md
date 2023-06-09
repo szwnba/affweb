@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [派早报：Apple 上架 Mac Pro 2023 款固态硬盘升级套件等](https://sspai.com/post/80236)
 -  08 [新作上架，限量秒杀，全场折扣，三重优惠开启付费栏目 618 大促](https://sspai.com/post/80219)
 -  08 [所有人都能看的 WWDC：平台咨文（PSotU）篇](https://sspai.com/prime/story/wwdc23-selected-sessions-psout)
 -  08 [新玩意 148｜少数派的编辑们最近买了啥？](https://sspai.com/post/80230)
--  08 [日复一日，尽显非凡：iOS 17 中值得关注的新特性](https://sspai.com/post/80184)
--  08 [在 Apple Vision Pro 到来之前，先人一步成为苹果独立开发者](https://sspai.com/post/80217)<!-- sspai:END -->
+-  08 [日复一日，尽显非凡：iOS 17 中值得关注的新特性](https://sspai.com/post/80184)<!-- sspai:END -->
