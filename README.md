@@ -22,17 +22,17 @@
 ### afflift
 <!-- afflift:START -->
 -  10 [Translate Ad-Copy FAST &lpar;Mind Blowing 🤯&rpar;](https://afflift.com/f/threads/translate-ad-copy-fast-mind-blowing-%F0%9F%A4%AF.4598/?utm_source=rss&utm_medium=rss)
+-  10 [affiliate programs to collect push subscribers](https://afflift.com/f/threads/affiliate-programs-to-collect-push-subscribers.11097/?utm_source=rss&utm_medium=rss)
 -  10 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
 -  10 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
--  10 [ClickDaly.com: The Ultimate Ad Network](https://afflift.com/f/threads/clickdaly-com-the-ultimate-ad-network.11098/?utm_source=rss&utm_medium=rss)
--  10 [affiliate programs to collect push subscribers](https://afflift.com/f/threads/affiliate-programs-to-collect-push-subscribers.11097/?utm_source=rss&utm_medium=rss)
 -  10 [Do you have case studies? Share them with us and get a bonus!](https://afflift.com/f/threads/do-you-have-case-studies-share-them-with-us-and-get-a-bonus.10944/?utm_source=rss&utm_medium=rss)
 -  10 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
 -  10 [Targeted Advertising Made Easy - Promo code from RollerAds](https://afflift.com/f/threads/targeted-advertising-made-easy-promo-code-from-rollerads.11091/?utm_source=rss&utm_medium=rss)
 -  10 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/?utm_source=rss&utm_medium=rss)
 -  09 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  09 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
--  09 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  09 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)
+-  09 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
