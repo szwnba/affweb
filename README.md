@@ -30,8 +30,7 @@
 -  10 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/?utm_source=rss&utm_medium=rss)
 -  10 [Translate Ad-Copy FAST &lpar;Mind Blowing 🤯&rpar;](https://afflift.com/f/threads/translate-ad-copy-fast-mind-blowing-%F0%9F%A4%AF.4598/?utm_source=rss&utm_medium=rss)
 -  10 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
--  10 [Do you have case studies? Share them with us and get a bonus!](https://afflift.com/f/threads/do-you-have-case-studies-share-them-with-us-and-get-a-bonus.10944/?utm_source=rss&utm_medium=rss)
--  10 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  10 [Do you have case studies? Share them with us and get a bonus!](https://afflift.com/f/threads/do-you-have-case-studies-share-them-with-us-and-get-a-bonus.10944/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
