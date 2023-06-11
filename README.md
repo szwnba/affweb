@@ -33,4 +33,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [手机丢失自救手册：48 小时内你能做哪些挣扎？](https://sspai.com/post/80207)
 -  10 [具透 | 更具才力，更显真我：iPadOS 17 中值得关注的新特性](https://sspai.com/post/80257)<!-- sspai:END -->
