@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  10 [具透 | 更具才力，更显真我：iPadOS 17 中值得关注的新特性](https://sspai.com/post/80257)
--  10 [Swift 学生挑战赛的中国身影：专访获奖者戴藏龙](https://sspai.com/post/80253)<!-- sspai:END -->
+-  10 [具透 | 更具才力，更显真我：iPadOS 17 中值得关注的新特性](https://sspai.com/post/80257)<!-- sspai:END -->
