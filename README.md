@@ -29,8 +29,7 @@
 -  10 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/?utm_source=rss&utm_medium=rss)
 -  10 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/?utm_source=rss&utm_medium=rss)
 -  10 [Translate Ad-Copy FAST &lpar;Mind Blowing 🤯&rpar;](https://afflift.com/f/threads/translate-ad-copy-fast-mind-blowing-%F0%9F%A4%AF.4598/?utm_source=rss&utm_medium=rss)
--  10 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
--  10 [Do you have case studies? Share them with us and get a bonus!](https://afflift.com/f/threads/do-you-have-case-studies-share-them-with-us-and-get-a-bonus.10944/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  10 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
