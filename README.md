@@ -24,9 +24,7 @@
 -  11 [Landing Page in iFrame - Propush Subscription not working](https://afflift.com/f/threads/landing-page-in-iframe-propush-subscription-not-working.11099/?utm_source=rss&utm_medium=rss)
 -  11 [Search Monetization and Search Arbitrage - Here is what you need to know](https://afflift.com/f/threads/search-monetization-and-search-arbitrage-here-is-what-you-need-to-know.8185/?utm_source=rss&utm_medium=rss)
 -  10 [SnapChat Spy Tool](https://afflift.com/f/threads/snapchat-spy-tool.3607/?utm_source=rss&utm_medium=rss)
--  10 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)
--  10 [affiliate programs to collect push subscribers](https://afflift.com/f/threads/affiliate-programs-to-collect-push-subscribers.11097/?utm_source=rss&utm_medium=rss)
--  10 [Do you know this affiliate network ?](https://afflift.com/f/threads/do-you-know-this-affiliate-network.11095/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  10 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
