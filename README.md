@@ -30,5 +30,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  12 [派早报：扎克伯格称 Vision Pro 无重大突破；Reddit 引发开发者和版主大规模抗议](https://sspai.com/post/80271)
--  11 [手机丢失自救手册：48 小时内你能做哪些挣扎？](https://sspai.com/post/80207)<!-- sspai:END -->
+-  12 [派早报：扎克伯格称 Vision Pro 无重大突破；Reddit 引发开发者和版主大规模抗议](https://sspai.com/post/80271)<!-- sspai:END -->
