@@ -20,8 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [Google&#39;s New CMP Requirement](https://afflift.com/f/threads/googles-new-cmp-requirement.11103/?utm_source=rss&utm_medium=rss)
+-  12 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/?utm_source=rss&utm_medium=rss)
 -  12 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
+-  12 [Google&#39;s New CMP Requirement](https://afflift.com/f/threads/googles-new-cmp-requirement.11103/?utm_source=rss&utm_medium=rss)
 -  12 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/?utm_source=rss&utm_medium=rss)
 -  12 [🔒Secrets From an 8-Figure Lead Generation Super Affiliate](https://afflift.com/f/threads/%F0%9F%94%92secrets-from-an-8-figure-lead-generation-super-affiliate.11101/?utm_source=rss&utm_medium=rss)
 -  12 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  12 [What I plan to use Einstein for...](https://afflift.com/f/threads/what-i-plan-to-use-einstein-for.11070/?utm_source=rss&utm_medium=rss)
 -  11 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  11 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/?utm_source=rss&utm_medium=rss)
--  11 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/?utm_source=rss&utm_medium=rss)
--  11 [propellerads CPA goal+GoldenGoose+Bionm](https://afflift.com/f/threads/propellerads-cpa-goal-goldengoose-bionm.11087/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  11 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
