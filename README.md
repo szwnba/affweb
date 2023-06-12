@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
+-  12 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/?utm_source=rss&utm_medium=rss)
 -  12 [🔒Secrets From an 8-Figure Lead Generation Super Affiliate](https://afflift.com/f/threads/%F0%9F%94%92secrets-from-an-8-figure-lead-generation-super-affiliate.11101/?utm_source=rss&utm_medium=rss)
 -  12 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
 -  12 [conversions Ip list best use + isp lists](https://afflift.com/f/threads/conversions-ip-list-best-use-isp-lists.11100/?utm_source=rss&utm_medium=rss)
