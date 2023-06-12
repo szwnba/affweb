@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  05 [伊朗顶级域名.IR 免费注册1年，仅需邮箱即可！](https://51.ruyo.net/18397.html)<!-- ruyo:END -->
+-  12 [微软Azure申请OpenAI以及部署使用教程](https://51.ruyo.net/18402.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
