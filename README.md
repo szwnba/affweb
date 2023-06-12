@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Google&#39;s New CMP Requirement](https://afflift.com/f/threads/googles-new-cmp-requirement.11103/?utm_source=rss&utm_medium=rss)
 -  12 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  12 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/?utm_source=rss&utm_medium=rss)
 -  12 [🔒Secrets From an 8-Figure Lead Generation Super Affiliate](https://afflift.com/f/threads/%F0%9F%94%92secrets-from-an-8-figure-lead-generation-super-affiliate.11101/?utm_source=rss&utm_medium=rss)
