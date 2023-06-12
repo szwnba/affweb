@@ -31,4 +31,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [真机体验！Vision Pro 的完成度，体现在这些细节中](https://sspai.com/post/80256)
 -  12 [派早报：扎克伯格称 Vision Pro 无重大突破；Reddit 引发开发者和版主大规模抗议](https://sspai.com/post/80271)<!-- sspai:END -->
