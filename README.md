@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  11 [纠结网站是否还要更新](https://www.advertcn.com/forum.php?mod=viewthread&tid=110805)
--  11 [propellerads地区怎么设置，哪位大佬有空解释下。](https://www.advertcn.com/forum.php?mod=viewthread&tid=110802)<!-- advertcn:END -->
+-  11 [纠结网站是否还要更新](https://www.advertcn.com/forum.php?mod=viewthread&tid=110805)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
