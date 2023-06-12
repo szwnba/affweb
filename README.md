@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [What I plan to use Einstein for...](https://afflift.com/f/threads/what-i-plan-to-use-einstein-for.11070/?utm_source=rss&utm_medium=rss)
 -  12 [Landing Page in iFrame - Propush Subscription not working](https://afflift.com/f/threads/landing-page-in-iframe-propush-subscription-not-working.11099/?utm_source=rss&utm_medium=rss)
 -  11 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  11 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/?utm_source=rss&utm_medium=rss)
