@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [bemob not update hits or any data ? anyone confirm](https://afflift.com/f/threads/bemob-not-update-hits-or-any-data-anyone-confirm.11114/?utm_source=rss&utm_medium=rss)
+-  13 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)
 -  13 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/?utm_source=rss&utm_medium=rss)
 -  13 [Question About CPA Goal 2.0 Scaling](https://afflift.com/f/threads/question-about-cpa-goal-2-0-scaling.11113/?utm_source=rss&utm_medium=rss)
 -  13 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  13 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  13 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
 -  13 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
--  13 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
--  13 [dr.cash at Affiliate World in Barcelona😎](https://afflift.com/f/threads/dr-cash-at-affiliate-world-in-barcelona%F0%9F%98%8E.11110/?utm_source=rss&utm_medium=rss)
--  13 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  13 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
