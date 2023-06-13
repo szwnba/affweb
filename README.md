@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [How to Calculate the eCPM in PropellerAds?](https://afflift.com/f/threads/how-to-calculate-the-ecpm-in-propellerads.11108/?utm_source=rss&utm_medium=rss)
+-  13 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
+-  13 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
+-  13 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
+-  13 [dr.cash at Affiliate World in Barcelona😎](https://afflift.com/f/threads/dr-cash-at-affiliate-world-in-barcelona%F0%9F%98%8E.11110/?utm_source=rss&utm_medium=rss)
+-  13 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/?utm_source=rss&utm_medium=rss)
 -  13 [Ecommerce physical products](https://afflift.com/f/threads/ecommerce-physical-products.11104/?utm_source=rss&utm_medium=rss)
+-  13 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)
+-  13 [How to Calculate the eCPM in PropellerAds?](https://afflift.com/f/threads/how-to-calculate-the-ecpm-in-propellerads.11108/?utm_source=rss&utm_medium=rss)
 -  13 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  13 [Let&#39;s go to Barcelona for Affiliate World Europe together!](https://afflift.com/f/threads/lets-go-to-barcelona-for-affiliate-world-europe-together.11029/?utm_source=rss&utm_medium=rss)
--  13 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
 -  13 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/?utm_source=rss&utm_medium=rss)
--  13 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)
--  13 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/?utm_source=rss&utm_medium=rss)
--  13 [Hello from EZmob.com - Push - Pop - Native - Display](https://afflift.com/f/threads/hello-from-ezmob-com-push-pop-native-display.1018/?utm_source=rss&utm_medium=rss)
--  13 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
--  13 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/?utm_source=rss&utm_medium=rss)
--  13 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  13 [Hello from EZmob.com - Push - Pop - Native - Display](https://afflift.com/f/threads/hello-from-ezmob-com-push-pop-native-display.1018/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
