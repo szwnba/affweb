@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [红帽说它变不出来办公软件了，微软变出了一堆新功能预览](https://sspai.com/prime/story/zouzhe-230613)
 -  13 [万字解析｜从灵感到产品，iOS 应用开发完整流程解析（2023版）](https://sspai.com/post/76333)
 -  13 [618 硬件推荐：值得关注的好键盘](https://sspai.com/post/80308)
 -  13 [家的日志 | 关于室内设计师，你也许会感兴趣的那些事](https://sspai.com/post/80228)
--  13 [所写即所得：科研民工的编程语言速通方案](https://sspai.com/post/80255)
--  13 [派早报：美国 FTC 试图阻止微软收购动视暴雪，Realtek 指控 MediaTek 不正当竞争等](https://sspai.com/post/80302)<!-- sspai:END -->
+-  13 [所写即所得：科研民工的编程语言速通方案](https://sspai.com/post/80255)<!-- sspai:END -->
