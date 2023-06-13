@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)
 -  12 [Ecommerce physical products](https://afflift.com/f/threads/ecommerce-physical-products.11104/?utm_source=rss&utm_medium=rss)
 -  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  12 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  12 [Landing Page in iFrame - Propush Subscription not working](https://afflift.com/f/threads/landing-page-in-iframe-propush-subscription-not-working.11099/?utm_source=rss&utm_medium=rss)
 -  12 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  12 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/?utm_source=rss&utm_medium=rss)
--  12 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/?utm_source=rss&utm_medium=rss)
--  12 [What I plan to use Einstein for...](https://afflift.com/f/threads/what-i-plan-to-use-einstein-for.11070/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  12 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
