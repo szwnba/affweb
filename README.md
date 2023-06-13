@@ -21,6 +21,7 @@
 ### afflift
 <!-- afflift:START -->
 -  13 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)
+-  13 [Creative Clicks- World-leading global performance-based marketing agency](https://afflift.com/f/threads/creative-clicks-world-leading-global-performance-based-marketing-agency.10364/?utm_source=rss&utm_medium=rss)
 -  13 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  13 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
 -  13 [🔒Secrets From an 8-Figure Lead Generation Super Affiliate](https://afflift.com/f/threads/%F0%9F%94%92secrets-from-an-8-figure-lead-generation-super-affiliate.11101/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  12 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  12 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  12 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/?utm_source=rss&utm_medium=rss)
--  12 [Landing Page in iFrame - Propush Subscription not working](https://afflift.com/f/threads/landing-page-in-iframe-propush-subscription-not-working.11099/?utm_source=rss&utm_medium=rss)
--  12 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  12 [Landing Page in iFrame - Propush Subscription not working](https://afflift.com/f/threads/landing-page-in-iframe-propush-subscription-not-working.11099/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
