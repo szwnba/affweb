@@ -20,12 +20,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)
+-  13 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  13 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
 -  13 [🔒Secrets From an 8-Figure Lead Generation Super Affiliate](https://afflift.com/f/threads/%F0%9F%94%92secrets-from-an-8-figure-lead-generation-super-affiliate.11101/?utm_source=rss&utm_medium=rss)
--  13 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)
 -  12 [Ecommerce physical products](https://afflift.com/f/threads/ecommerce-physical-products.11104/?utm_source=rss&utm_medium=rss)
 -  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
--  12 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  12 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
 -  12 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  12 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
