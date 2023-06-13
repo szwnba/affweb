@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [万字解析｜从灵感到产品，iOS 应用开发完整流程解析（2023版）](https://sspai.com/post/76333)
 -  13 [618 硬件推荐：值得关注的好键盘](https://sspai.com/post/80308)
 -  13 [家的日志 | 关于室内设计师，你也许会感兴趣的那些事](https://sspai.com/post/80228)
 -  13 [所写即所得：科研民工的编程语言速通方案](https://sspai.com/post/80255)
--  13 [派早报：美国 FTC 试图阻止微软收购动视暴雪，Realtek 指控 MediaTek 不正当竞争等](https://sspai.com/post/80302)
--  12 [我在车芯产线做观察（上）：工厂设计篇](https://sspai.com/prime/story/car-chip-pipeline-observations-1)<!-- sspai:END -->
+-  13 [派早报：美国 FTC 试图阻止微软收购动视暴雪，Realtek 指控 MediaTek 不正当竞争等](https://sspai.com/post/80302)<!-- sspai:END -->
