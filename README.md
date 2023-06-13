@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Clickdaly is the best popup, Vast traffic Ad Network](https://afflift.com/f/threads/clickdaly-is-the-best-popup-vast-traffic-ad-network.11066/?utm_source=rss&utm_medium=rss)
+-  13 [🔒Secrets From an 8-Figure Lead Generation Super Affiliate](https://afflift.com/f/threads/%F0%9F%94%92secrets-from-an-8-figure-lead-generation-super-affiliate.11101/?utm_source=rss&utm_medium=rss)
 -  13 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)
 -  12 [Ecommerce physical products](https://afflift.com/f/threads/ecommerce-physical-products.11104/?utm_source=rss&utm_medium=rss)
 -  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  12 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  12 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/?utm_source=rss&utm_medium=rss)
 -  12 [Landing Page in iFrame - Propush Subscription not working](https://afflift.com/f/threads/landing-page-in-iframe-propush-subscription-not-working.11099/?utm_source=rss&utm_medium=rss)
--  12 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
--  12 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/?utm_source=rss&utm_medium=rss)
--  12 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  12 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
