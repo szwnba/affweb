@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/?utm_source=rss&utm_medium=rss)
+-  14 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  14 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  14 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/?utm_source=rss&utm_medium=rss)
 -  14 [Top Affiliate Programs For A Hot Summer 2023](https://afflift.com/f/threads/top-affiliate-programs-for-a-hot-summer-2023.11118/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  14 [Question About CPA Goal 2.0 Scaling](https://afflift.com/f/threads/question-about-cpa-goal-2-0-scaling.11113/?utm_source=rss&utm_medium=rss)
 -  14 [Hello guys](https://afflift.com/f/threads/hello-guys.11115/?utm_source=rss&utm_medium=rss)
 -  14 [not able to login bemob-- only for me or](https://afflift.com/f/threads/not-able-to-login-bemob-only-for-me-or.10991/?utm_source=rss&utm_medium=rss)
--  14 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)
--  14 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
--  14 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  14 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
