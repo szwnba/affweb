@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  12 [微软Azure申请OpenAI以及部署使用教程](https://51.ruyo.net/18402.html)<!-- ruyo:END -->
+-  14 [甲骨文云&lpar;Oracle Cloud&rpar;升级付费账户，免费云服务器不再被停用了](https://51.ruyo.net/18403.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
