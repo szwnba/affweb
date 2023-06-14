@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
+-  14 [Hello guys](https://afflift.com/f/threads/hello-guys.11115/?utm_source=rss&utm_medium=rss)
+-  14 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/?utm_source=rss&utm_medium=rss)
+-  14 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
 -  14 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
 -  14 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
 -  14 [Don&#39;t gamble on ClickDealer](https://afflift.com/f/threads/dont-gamble-on-clickdealer.11105/?utm_source=rss&utm_medium=rss)
--  14 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
 -  14 [not able to login bemob-- only for me or](https://afflift.com/f/threads/not-able-to-login-bemob-only-for-me-or.10991/?utm_source=rss&utm_medium=rss)
--  14 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/?utm_source=rss&utm_medium=rss)
--  14 [Hello guys](https://afflift.com/f/threads/hello-guys.11115/?utm_source=rss&utm_medium=rss)
 -  13 [bemob not update hits or any data ? anyone confirm](https://afflift.com/f/threads/bemob-not-update-hits-or-any-data-anyone-confirm.11114/?utm_source=rss&utm_medium=rss)
 -  13 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)
 -  13 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/?utm_source=rss&utm_medium=rss)
--  13 [Question About CPA Goal 2.0 Scaling](https://afflift.com/f/threads/question-about-cpa-goal-2-0-scaling.11113/?utm_source=rss&utm_medium=rss)
--  13 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  13 [Question About CPA Goal 2.0 Scaling](https://afflift.com/f/threads/question-about-cpa-goal-2-0-scaling.11113/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
