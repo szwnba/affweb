@@ -20,7 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [Hello guys](https://afflift.com/f/threads/hello-guys.11115/?utm_source=rss&utm_medium=rss)
+-  14 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/?utm_source=rss&utm_medium=rss)
+-  14 [Hello guys](https://afflift.com/f/threads/hello-guys.11115/?utm_source=rss&utm_medium=rss)
 -  13 [bemob not update hits or any data ? anyone confirm](https://afflift.com/f/threads/bemob-not-update-hits-or-any-data-anyone-confirm.11114/?utm_source=rss&utm_medium=rss)
 -  13 [Best Travel Offers for IG and YouTube?](https://afflift.com/f/threads/best-travel-offers-for-ig-and-youtube.11062/?utm_source=rss&utm_medium=rss)
 -  13 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  13 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/?utm_source=rss&utm_medium=rss)
 -  13 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/?utm_source=rss&utm_medium=rss)
 -  13 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  13 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
--  13 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  13 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
