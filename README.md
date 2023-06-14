@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [25 岁，人生第一个工作室的实用主义桌面](https://sspai.com/post/80323)
 -  14 [具透｜全盘改造，热爱爆表：watchOS 10 中值得关注的更新](https://sspai.com/post/80325)
 -  14 [艰苦奋斗，认真买东西也是正经事](https://sspai.com/post/80268)
 -  14 [派早报：ROG 掌机推出国行版、YouTube 大幅下调收益分成门槛等](https://sspai.com/post/80321)
--  13 [红帽说它变不出来办公软件了，微软变出了一堆新功能预览](https://sspai.com/prime/story/zouzhe-230613)
--  13 [万字解析｜从灵感到产品，iOS 应用开发完整流程解析（2023版）](https://sspai.com/post/76333)<!-- sspai:END -->
+-  13 [红帽说它变不出来办公软件了，微软变出了一堆新功能预览](https://sspai.com/prime/story/zouzhe-230613)<!-- sspai:END -->
