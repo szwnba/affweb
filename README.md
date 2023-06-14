@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [比沙箱和虚拟机更好用，来试试微软发明的新「笼子」](https://sspai.com/prime/story/win32-app-isolation-tutorial)
 -  14 [看什么·特别篇 | 人生不止夏季狂欢，毕业季值得一看的 10 部作品](https://sspai.com/post/80318)
 -  14 [25 岁，人生第一个工作室的实用主义桌面](https://sspai.com/post/80323)
 -  14 [具透｜全盘改造，热爱爆表：watchOS 10 中值得关注的更新](https://sspai.com/post/80325)
--  14 [艰苦奋斗，认真买东西也是正经事](https://sspai.com/post/80268)
--  14 [派早报：ROG 掌机推出国行版、YouTube 大幅下调收益分成门槛等](https://sspai.com/post/80321)<!-- sspai:END -->
+-  14 [艰苦奋斗，认真买东西也是正经事](https://sspai.com/post/80268)<!-- sspai:END -->
