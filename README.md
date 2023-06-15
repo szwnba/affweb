@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Meet Adsterra at SiGMA Americas 2023!](https://afflift.com/f/threads/meet-adsterra-at-sigma-americas-2023.11124/?utm_source=rss&utm_medium=rss)
+-  15 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
 -  15 [Forex / CFD Affiliate Marketing](https://afflift.com/f/threads/forex-cfd-affiliate-marketing.11122/?utm_source=rss&utm_medium=rss)
 -  15 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  15 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  15 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
 -  15 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/?utm_source=rss&utm_medium=rss)
 -  15 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
--  15 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
--  15 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
--  15 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  15 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
