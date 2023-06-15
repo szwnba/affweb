@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/?utm_source=rss&utm_medium=rss)
+-  15 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  15 [Forex / CFD Affiliate Marketing](https://afflift.com/f/threads/forex-cfd-affiliate-marketing.11122/?utm_source=rss&utm_medium=rss)
 -  15 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  15 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  14 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
 -  14 [Hello guys](https://afflift.com/f/threads/hello-guys.11115/?utm_source=rss&utm_medium=rss)
 -  14 [not able to login bemob-- only for me or](https://afflift.com/f/threads/not-able-to-login-bemob-only-for-me-or.10991/?utm_source=rss&utm_medium=rss)
--  14 [Question About CPA Goal 2.0 Scaling](https://afflift.com/f/threads/question-about-cpa-goal-2-0-scaling.11113/?utm_source=rss&utm_medium=rss)
--  14 [The Affiliate Marketing Show Podcast](https://afflift.com/f/threads/the-affiliate-marketing-show-podcast.11119/?utm_source=rss&utm_medium=rss)
--  14 [Help with Propeller ads](https://afflift.com/f/threads/help-with-propeller-ads.11117/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  14 [Question About CPA Goal 2.0 Scaling](https://afflift.com/f/threads/question-about-cpa-goal-2-0-scaling.11113/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
