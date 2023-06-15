@@ -20,9 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [PropellerAds Survey Exit - 8 Path Test](https://afflift.com/f/threads/propellerads-survey-exit-8-path-test.11127/?utm_source=rss&utm_medium=rss)
+-  15 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
 -  15 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/?utm_source=rss&utm_medium=rss)
 -  15 [Forex / CFD Affiliate Marketing](https://afflift.com/f/threads/forex-cfd-affiliate-marketing.11122/?utm_source=rss&utm_medium=rss)
--  15 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
 -  15 [How do you make creatives for Tiktok](https://afflift.com/f/threads/how-do-you-make-creatives-for-tiktok.11126/?utm_source=rss&utm_medium=rss)
 -  15 [The Affiliate Marketing Show Podcast](https://afflift.com/f/threads/the-affiliate-marketing-show-podcast.11119/?utm_source=rss&utm_medium=rss)
 -  15 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  15 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  15 [Meet Adsterra at SiGMA Americas 2023!](https://afflift.com/f/threads/meet-adsterra-at-sigma-americas-2023.11124/?utm_source=rss&utm_medium=rss)
 -  15 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
--  15 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  15 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  15 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
