@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [评论有奖 | 从小培养效率思维，给孩子们的「成长之礼」](https://sspai.com/post/80352)
 -  15 [618 将至，更好的 K3 Pro 也有了少数派定制版](https://sspai.com/post/80310)
 -  15 [618 硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
 -  15 [评论有奖 | 看懂《闪电侠》电影：你可以了解的五个小知识](https://sspai.com/post/80358)
--  15 [派早报：OpenAI 推出多项 GPT 新功能及更新、RTX 4060 将提前发布等](https://sspai.com/post/80356)
--  14 [比沙箱和虚拟机更好用，来试试微软发明的新「笼子」](https://sspai.com/prime/story/win32-app-isolation-tutorial)<!-- sspai:END -->
+-  15 [派早报：OpenAI 推出多项 GPT 新功能及更新、RTX 4060 将提前发布等](https://sspai.com/post/80356)<!-- sspai:END -->
