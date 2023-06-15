@@ -21,8 +21,8 @@
 ### afflift
 <!-- afflift:START -->
 -  15 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
--  15 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  15 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
+-  15 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  15 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
 -  15 [PropellerAds Survey Exit - 8 Path Test](https://afflift.com/f/threads/propellerads-survey-exit-8-path-test.11127/?utm_source=rss&utm_medium=rss)
 -  15 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/?utm_source=rss&utm_medium=rss)
