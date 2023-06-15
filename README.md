@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [618 硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
 -  15 [评论有奖 | 看懂《闪电侠》电影：你可以了解的五个小知识](https://sspai.com/post/80358)
 -  15 [派早报：OpenAI 推出多项 GPT 新功能及更新、RTX 4060 将提前发布等](https://sspai.com/post/80356)
 -  14 [比沙箱和虚拟机更好用，来试试微软发明的新「笼子」](https://sspai.com/prime/story/win32-app-isolation-tutorial)
--  14 [看什么·特别篇 | 人生不止夏季狂欢，毕业季值得一看的 10 部作品](https://sspai.com/post/80318)
--  14 [25 岁，人生第一个工作室的实用主义桌面](https://sspai.com/post/80323)<!-- sspai:END -->
+-  14 [看什么·特别篇 | 人生不止夏季狂欢，毕业季值得一看的 10 部作品](https://sspai.com/post/80318)<!-- sspai:END -->
