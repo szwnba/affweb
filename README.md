@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  16 [可以这么理解EMU和EMU培训吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110862)
 -  15 [针对【倪叶明】帖子的回应](https://www.advertcn.com/forum.php?mod=viewthread&tid=110856)
 -  15 [大瓜：我去年与临时工（沐风、龚明）关于media buy项目的...](https://www.advertcn.com/forum.php?mod=viewthread&tid=110855)
 -  15 [致临时工-龚明君](https://www.advertcn.com/forum.php?mod=viewthread&tid=110854)
