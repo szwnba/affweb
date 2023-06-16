@@ -11,8 +11,7 @@
 ### advertcn
 <!-- advertcn:START -->
 -  16 [有人洋洋洒洒写了一大段，然后回复作者可见，奥秘在这里](https://www.advertcn.com/forum.php?mod=viewthread&tid=110865)
--  16 [可以这么理解EMU和EMU培训吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110862)
--  15 [致临时工-龚明君](https://www.advertcn.com/forum.php?mod=viewthread&tid=110854)<!-- advertcn:END -->
+-  16 [可以这么理解EMU和EMU培训吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=110862)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
