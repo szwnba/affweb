@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/?utm_source=rss&utm_medium=rss)
+-  16 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
 -  16 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
 -  16 [Starting ecommerce website  to sell stuff](https://afflift.com/f/threads/starting-ecommerce-website-to-sell-stuff.11130/?utm_source=rss&utm_medium=rss)
 -  16 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)
@@ -33,9 +35,7 @@
 -  16 [Webinar with Wewe Media: Geo-targeted iGaming Affiliate Campaigns 🔥](https://afflift.com/f/threads/webinar-with-wewe-media-geo-targeted-igaming-affiliate-campaigns-%F0%9F%94%A5.10926/?utm_source=rss&utm_medium=rss)
 -  16 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/?utm_source=rss&utm_medium=rss)
 -  16 [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/?utm_source=rss&utm_medium=rss)
--  16 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
--  16 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/?utm_source=rss&utm_medium=rss)
--  16 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  16 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
