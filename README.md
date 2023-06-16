@@ -42,5 +42,4 @@
 -  16 [App+1 | 好内容打包分享：用 POKi 做一个更吸引人的合集](https://sspai.com/post/80327)
 -  16 [派早报：网件推出 Nighthawk M6 5G 移动热点路由器、Unihertz 推出新款小屏手机 Jelly Star](https://sspai.com/post/80375)
 -  15 [新玩意 149｜少数派的编辑们最近买了啥？](https://sspai.com/post/80366)
--  15 [评论有奖 | 从小培养效率思维，给孩子们的「成长之礼」](https://sspai.com/post/80352)
--  15 [618 将至，更好的 K3 Pro 也有了少数派定制版](https://sspai.com/post/80310)<!-- sspai:END -->
+-  15 [评论有奖 | 从小培养效率思维，给孩子们的「成长之礼」](https://sspai.com/post/80352)<!-- sspai:END -->
