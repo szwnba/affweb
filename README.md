@@ -24,6 +24,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [What I plan to use Einstein for...](https://afflift.com/f/threads/what-i-plan-to-use-einstein-for.11070/?utm_source=rss&utm_medium=rss)
+-  16 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/?utm_source=rss&utm_medium=rss)
+-  16 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/?utm_source=rss&utm_medium=rss)
+-  16 [Webinar with Wewe Media: Geo-targeted iGaming Affiliate Campaigns 🔥](https://afflift.com/f/threads/webinar-with-wewe-media-geo-targeted-igaming-affiliate-campaigns-%F0%9F%94%A5.10926/?utm_source=rss&utm_medium=rss)
 -  16 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/?utm_source=rss&utm_medium=rss)
 -  16 [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/?utm_source=rss&utm_medium=rss)
 -  16 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
@@ -31,11 +35,7 @@
 -  16 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
 -  16 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
 -  15 [Issue with Smart Link Being Flagged by TrafficStars](https://afflift.com/f/threads/issue-with-smart-link-being-flagged-by-trafficstars.11048/?utm_source=rss&utm_medium=rss)
--  15 [First FA following the pops beginner guide](https://afflift.com/f/threads/first-fa-following-the-pops-beginner-guide.11121/?utm_source=rss&utm_medium=rss)
--  15 [Clickdealer &amp; Casino _ not a good choice](https://afflift.com/f/threads/clickdealer-casino-_-not-a-good-choice.11031/?utm_source=rss&utm_medium=rss)
--  15 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
--  15 [PropellerAds Survey Exit - 8 Path Test](https://afflift.com/f/threads/propellerads-survey-exit-8-path-test.11127/?utm_source=rss&utm_medium=rss)
--  15 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  15 [First FA following the pops beginner guide](https://afflift.com/f/threads/first-fa-following-the-pops-beginner-guide.11121/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
