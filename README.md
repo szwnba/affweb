@@ -39,8 +39,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [花点时间，走在趋势之前：Blackberry 简史（一）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-1)
 -  16 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/80378)
 -  16 [播客 | 当特斯拉遇见轻改装](https://sspai.com/post/80305)
 -  16 [家的日志 | 让家更懂你：我的智能家居选择方案](https://sspai.com/post/80371)
--  16 [App+1 | 好内容打包分享：用 POKi 做一个更吸引人的合集](https://sspai.com/post/80327)
--  16 [派早报：网件推出 Nighthawk M6 5G 移动热点路由器、Unihertz 推出新款小屏手机 Jelly Star](https://sspai.com/post/80375)<!-- sspai:END -->
+-  16 [App+1 | 好内容打包分享：用 POKi 做一个更吸引人的合集](https://sspai.com/post/80327)<!-- sspai:END -->
