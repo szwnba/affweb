@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [派早报：网件推出 Nighthawk M6 5G 移动热点路由器、Unihertz 推出新款小屏手机 Jelly Star](https://sspai.com/post/80375)
 -  15 [新玩意 149｜少数派的编辑们最近买了啥？](https://sspai.com/post/80366)
 -  15 [评论有奖 | 从小培养效率思维，给孩子们的「成长之礼」](https://sspai.com/post/80352)
 -  15 [618 将至，更好的 K3 Pro 也有了少数派定制版](https://sspai.com/post/80310)
--  15 [618 硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
--  15 [评论有奖 | 看懂《闪电侠》电影：你可以了解的五个小知识](https://sspai.com/post/80358)<!-- sspai:END -->
+-  15 [618 硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)<!-- sspai:END -->
