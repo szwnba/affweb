@@ -21,19 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
+-  16 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
+-  16 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
+-  16 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/?utm_source=rss&utm_medium=rss)
+-  16 [Average CTR LP](https://afflift.com/f/threads/average-ctr-lp.11135/?utm_source=rss&utm_medium=rss)
 -  16 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/?utm_source=rss&utm_medium=rss)
 -  16 [Copyright problems with Cloudflare](https://afflift.com/f/threads/copyright-problems-with-cloudflare.10950/?utm_source=rss&utm_medium=rss)
 -  16 [Suggestions for propellerads](https://afflift.com/f/threads/suggestions-for-propellerads.11134/?utm_source=rss&utm_medium=rss)
--  16 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
 -  16 [Starting ecommerce website  to sell stuff](https://afflift.com/f/threads/starting-ecommerce-website-to-sell-stuff.11130/?utm_source=rss&utm_medium=rss)
 -  16 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/?utm_source=rss&utm_medium=rss)
--  16 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
 -  16 [First FA following the pops beginner guide](https://afflift.com/f/threads/first-fa-following-the-pops-beginner-guide.11121/?utm_source=rss&utm_medium=rss)
--  16 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
--  16 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/?utm_source=rss&utm_medium=rss)
--  16 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/?utm_source=rss&utm_medium=rss)
--  16 [Yesterday, Theoptimizer&#39;s start time rule did not start and shut down as planned. 
-Guys, did you encounter this mistake?](https://afflift.com/f/threads/yesterday-theoptimizers-start-time-rule-did-not-start-and-shut-down-as-planned-guys-did-you-encounter-this-mistake.11133/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  16 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
