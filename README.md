@@ -21,18 +21,19 @@
 
 ### afflift
 <!-- afflift:START -->
--  16 [Starting ecommerce website  to sell stuff](https://afflift.com/f/threads/starting-ecommerce-website-to-sell-stuff.11130/?utm_source=rss&utm_medium=rss)
--  16 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
--  16 [PropellerAds Survey Exit - 8 Path Test](https://afflift.com/f/threads/propellerads-survey-exit-8-path-test.11127/?utm_source=rss&utm_medium=rss)
--  16 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
--  16 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/?utm_source=rss&utm_medium=rss)
 -  16 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/?utm_source=rss&utm_medium=rss)
+-  16 [Yesterday, Theoptimizer&#39;s start time rule did not start and shut down as planned. 
+Guys, did you encounter this mistake?](https://afflift.com/f/threads/yesterday-theoptimizers-start-time-rule-did-not-start-and-shut-down-as-planned-guys-did-you-encounter-this-mistake.11133/?utm_source=rss&utm_medium=rss)
+-  16 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
+-  16 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/?utm_source=rss&utm_medium=rss)
+-  16 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
+-  16 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
+-  16 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/?utm_source=rss&utm_medium=rss)
+-  16 [Starting ecommerce website  to sell stuff](https://afflift.com/f/threads/starting-ecommerce-website-to-sell-stuff.11130/?utm_source=rss&utm_medium=rss)
+-  16 [PropellerAds Survey Exit - 8 Path Test](https://afflift.com/f/threads/propellerads-survey-exit-8-path-test.11127/?utm_source=rss&utm_medium=rss)
+-  16 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/?utm_source=rss&utm_medium=rss)
 -  16 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
--  16 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/?utm_source=rss&utm_medium=rss)
--  16 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/?utm_source=rss&utm_medium=rss)
--  16 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
--  16 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)
--  16 [What I plan to use Einstein for...](https://afflift.com/f/threads/what-i-plan-to-use-einstein-for.11070/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  16 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
