@@ -11,8 +11,7 @@
 ### advertcn
 <!-- advertcn:START -->
 -  17 [想报名参加抢劫银行或者免费从ATM里边取钱](https://www.advertcn.com/forum.php?mod=viewthread&tid=110873)
--  16 [求美国护照，驾照，身份证](https://www.advertcn.com/forum.php?mod=viewthread&tid=110868)
--  16 [有人洋洋洒洒写了一大段，然后回复作者可见，奥秘在这里](https://www.advertcn.com/forum.php?mod=viewthread&tid=110865)<!-- advertcn:END -->
+-  16 [Linode抗版权投诉吗](https://www.advertcn.com/forum.php?mod=viewthread&tid=110872)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
