@@ -38,5 +38,4 @@ Guys, did you encounter this mistake?](https://afflift.com/f/threads/yesterday-t
 ### 少数派
 <!-- sspai:START -->
 -  17 [一日一技 | 两种方法让你也能安全体验 macOS Sonoma](https://sspai.com/post/80306)
--  16 [花点时间，走在趋势之前：Blackberry 简史（一）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-1)
--  16 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/80378)<!-- sspai:END -->
+-  16 [花点时间，走在趋势之前：Blackberry 简史（一）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-1)<!-- sspai:END -->
