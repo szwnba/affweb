@@ -22,6 +22,7 @@
 ### afflift
 <!-- afflift:START -->
 -  17 [Suggestions for propellerads](https://afflift.com/f/threads/suggestions-for-propellerads.11134/?utm_source=rss&utm_medium=rss)
+-  17 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
 -  17 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
 -  17 [How archive or delete Events at Bemob?](https://afflift.com/f/threads/how-archive-or-delete-events-at-bemob.11137/?utm_source=rss&utm_medium=rss)
 -  17 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
@@ -31,9 +32,7 @@
 -  17 [Website getting sued for a claimed ADA violation](https://afflift.com/f/threads/website-getting-sued-for-a-claimed-ada-violation.11136/?utm_source=rss&utm_medium=rss)
 -  17 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
 -  17 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
--  17 [RE: Need Help to Promote Youtube Video Ads Through Native Ads](https://afflift.com/f/threads/re-need-help-to-promote-youtube-video-ads-through-native-ads.10914/?utm_source=rss&utm_medium=rss)
--  17 [Yesterday, Theoptimizer&#39;s start time rule did not start and shut down as planned. 
-Guys, did you encounter this mistake?](https://afflift.com/f/threads/yesterday-theoptimizers-start-time-rule-did-not-start-and-shut-down-as-planned-guys-did-you-encounter-this-mistake.11133/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  17 [RE: Need Help to Promote Youtube Video Ads Through Native Ads](https://afflift.com/f/threads/re-need-help-to-promote-youtube-video-ads-through-native-ads.10914/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
