@@ -22,6 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
+-  17 [First FA following the pops beginner guide](https://afflift.com/f/threads/first-fa-following-the-pops-beginner-guide.11121/?utm_source=rss&utm_medium=rss)
+-  17 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/?utm_source=rss&utm_medium=rss)
 -  17 [Website getting sued for a claimed ADA violation](https://afflift.com/f/threads/website-getting-sued-for-a-claimed-ada-violation.11136/?utm_source=rss&utm_medium=rss)
 -  17 [Average CTR LP](https://afflift.com/f/threads/average-ctr-lp.11135/?utm_source=rss&utm_medium=rss)
 -  17 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
@@ -30,11 +33,8 @@
 -  17 [Yesterday, Theoptimizer&#39;s start time rule did not start and shut down as planned. 
 Guys, did you encounter this mistake?](https://afflift.com/f/threads/yesterday-theoptimizers-start-time-rule-did-not-start-and-shut-down-as-planned-guys-did-you-encounter-this-mistake.11133/?utm_source=rss&utm_medium=rss)
 -  17 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/?utm_source=rss&utm_medium=rss)
--  17 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
 -  16 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
--  16 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
--  16 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/?utm_source=rss&utm_medium=rss)
--  16 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  16 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
