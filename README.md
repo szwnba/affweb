@@ -22,9 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
 -  17 [Website getting sued for a claimed ADA violation](https://afflift.com/f/threads/website-getting-sued-for-a-claimed-ada-violation.11136/?utm_source=rss&utm_medium=rss)
 -  17 [RE: Need Help to Promote Youtube Video Ads Through Native Ads](https://afflift.com/f/threads/re-need-help-to-promote-youtube-video-ads-through-native-ads.10914/?utm_source=rss&utm_medium=rss)
--  16 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
 -  16 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
 -  16 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
 -  16 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/?utm_source=rss&utm_medium=rss)
