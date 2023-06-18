@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Mvas Offer With Ggoose -Mobidea-Voluum &amp; switch-a-roo Lp](https://afflift.com/f/threads/mvas-offer-with-ggoose-mobidea-voluum-switch-a-roo-lp.11141/?utm_source=rss&utm_medium=rss)
+-  18 [Propeller Ads With Pin Submit Offer 💀 &quot;#PA10k&quot;](https://afflift.com/f/threads/propeller-ads-with-pin-submit-offer-%F0%9F%92%80-pa10k.8917/?utm_source=rss&utm_medium=rss)
+-  18 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
 -  18 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/?utm_source=rss&utm_medium=rss)
 -  18 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
 -  18 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
@@ -27,11 +30,8 @@
 -  18 [Anti Virus + Selfadvertiser 🚀 To the Moon 🌕 and beyond](https://afflift.com/f/threads/anti-virus-selfadvertiser-%F0%9F%9A%80-to-the-moon-%F0%9F%8C%95-and-beyond.10682/?utm_source=rss&utm_medium=rss)
 -  18 [Best ad networks for German, Swiss and Austrian traffic](https://afflift.com/f/threads/best-ad-networks-for-german-swiss-and-austrian-traffic.11139/?utm_source=rss&utm_medium=rss)
 -  18 [Forex / CFD Affiliate Marketing](https://afflift.com/f/threads/forex-cfd-affiliate-marketing.11122/?utm_source=rss&utm_medium=rss)
--  18 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
 -  18 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)
--  18 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
--  18 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
--  18 [How archive or delete Events at Bemob?](https://afflift.com/f/threads/how-archive-or-delete-events-at-bemob.11137/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  18 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
