@@ -21,9 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [How archive or delete Events at Bemob?](https://afflift.com/f/threads/how-archive-or-delete-events-at-bemob.11137/?utm_source=rss&utm_medium=rss)
 -  18 [Website getting sued for a claimed ADA violation](https://afflift.com/f/threads/website-getting-sued-for-a-claimed-ada-violation.11136/?utm_source=rss&utm_medium=rss)
 -  18 [Average CTR LP](https://afflift.com/f/threads/average-ctr-lp.11135/?utm_source=rss&utm_medium=rss)
--  17 [How archive or delete Events at Bemob?](https://afflift.com/f/threads/how-archive-or-delete-events-at-bemob.11137/?utm_source=rss&utm_medium=rss)
 -  17 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)
 -  17 [Suggestions for propellerads](https://afflift.com/f/threads/suggestions-for-propellerads.11134/?utm_source=rss&utm_medium=rss)
 -  17 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
