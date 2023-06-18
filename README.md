@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
 -  18 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
 -  18 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/?utm_source=rss&utm_medium=rss)
 -  18 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  18 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)
 -  18 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  18 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
--  18 [How archive or delete Events at Bemob?](https://afflift.com/f/threads/how-archive-or-delete-events-at-bemob.11137/?utm_source=rss&utm_medium=rss)
--  18 [Website getting sued for a claimed ADA violation](https://afflift.com/f/threads/website-getting-sued-for-a-claimed-ada-violation.11136/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  18 [How archive or delete Events at Bemob?](https://afflift.com/f/threads/how-archive-or-delete-events-at-bemob.11137/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
