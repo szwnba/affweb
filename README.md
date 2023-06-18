@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
+-  18 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
 -  18 [How archive or delete Events at Bemob?](https://afflift.com/f/threads/how-archive-or-delete-events-at-bemob.11137/?utm_source=rss&utm_medium=rss)
 -  18 [Website getting sued for a claimed ADA violation](https://afflift.com/f/threads/website-getting-sued-for-a-claimed-ada-violation.11136/?utm_source=rss&utm_medium=rss)
 -  18 [Average CTR LP](https://afflift.com/f/threads/average-ctr-lp.11135/?utm_source=rss&utm_medium=rss)
@@ -30,9 +32,7 @@
 -  17 [Extra AWE Barcelona Ticket](https://afflift.com/f/threads/extra-awe-barcelona-ticket.11138/?utm_source=rss&utm_medium=rss)
 -  17 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
 -  17 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
--  17 [How do you make creatives for Tiktok](https://afflift.com/f/threads/how-do-you-make-creatives-for-tiktok.11126/?utm_source=rss&utm_medium=rss)
--  17 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/?utm_source=rss&utm_medium=rss)
--  17 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  17 [How do you make creatives for Tiktok](https://afflift.com/f/threads/how-do-you-make-creatives-for-tiktok.11126/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
