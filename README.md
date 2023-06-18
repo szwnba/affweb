@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  17 [介绍一个成功的GPT工具站](https://www.advertcn.com/forum.php?mod=viewthread&tid=110876)
--  17 [想报名参加抢劫银行或者免费从ATM里边取钱](https://www.advertcn.com/forum.php?mod=viewthread&tid=110873)<!-- advertcn:END -->
+-  18 [现在Youtube搬运视频还可以赚钱吗](https://www.advertcn.com/forum.php?mod=viewthread&tid=110879)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
