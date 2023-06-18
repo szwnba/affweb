@@ -36,4 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  17 [一日一技 | 两种方法让你也能安全体验 macOS Sonoma](https://sspai.com/post/80306)<!-- sspai:END -->
+-  18 [[限时特惠] 免费 macOS 剪贴板 + AI 新玩法：效率启动器 HapiGo 更新](https://sspai.com/post/80118)<!-- sspai:END -->
