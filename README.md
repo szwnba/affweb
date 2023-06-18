@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Best ad networks for German, Swiss and Austrian traffic](https://afflift.com/f/threads/best-ad-networks-for-german-swiss-and-austrian-traffic.11139/?utm_source=rss&utm_medium=rss)
 -  18 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
 -  18 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
 -  18 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)
@@ -31,8 +32,7 @@
 -  18 [Average CTR LP](https://afflift.com/f/threads/average-ctr-lp.11135/?utm_source=rss&utm_medium=rss)
 -  17 [Suggestions for propellerads](https://afflift.com/f/threads/suggestions-for-propellerads.11134/?utm_source=rss&utm_medium=rss)
 -  17 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
--  17 [Extra AWE Barcelona Ticket](https://afflift.com/f/threads/extra-awe-barcelona-ticket.11138/?utm_source=rss&utm_medium=rss)
--  17 [How do you make creatives for Tiktok](https://afflift.com/f/threads/how-do-you-make-creatives-for-tiktok.11126/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  17 [Extra AWE Barcelona Ticket](https://afflift.com/f/threads/extra-awe-barcelona-ticket.11138/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
