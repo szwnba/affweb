@@ -20,8 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/?utm_source=rss&utm_medium=rss)
 -  19 [Mvas Offer With Ggoose -Mobidea-Voluum &amp; switch-a-roo Lp](https://afflift.com/f/threads/mvas-offer-with-ggoose-mobidea-voluum-switch-a-roo-lp.11141/?utm_source=rss&utm_medium=rss)
+-  19 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/?utm_source=rss&utm_medium=rss)
 -  19 [Site monetisation](https://afflift.com/f/threads/site-monetisation.11075/?utm_source=rss&utm_medium=rss)
 -  19 [Lightening Fast Landing Pages](https://afflift.com/f/threads/lightening-fast-landing-pages.11142/?utm_source=rss&utm_medium=rss)
 -  19 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
