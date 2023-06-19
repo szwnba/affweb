@@ -20,8 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
 -  19 [Mvas Offer With Ggoose -Mobidea-Voluum &amp; switch-a-roo Lp](https://afflift.com/f/threads/mvas-offer-with-ggoose-mobidea-voluum-switch-a-roo-lp.11141/?utm_source=rss&utm_medium=rss)
+-  19 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/?utm_source=rss&utm_medium=rss)
+-  19 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
 -  19 [Purelander is updtae?](https://afflift.com/f/threads/purelander-is-updtae.11150/?utm_source=rss&utm_medium=rss)
 -  19 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
 -  19 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  19 [RTB Adapting to Change: How RTB is Revolutionizing the Affiliate Marketing Landscape](https://afflift.com/f/threads/rtb-adapting-to-change-how-rtb-is-revolutionizing-the-affiliate-marketing-landscape.11148/?utm_source=rss&utm_medium=rss)
 -  19 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  19 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
--  19 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/?utm_source=rss&utm_medium=rss)
--  19 [Testing Mobile App Acquisition Strategies: What Bidding Model to Choose?](https://afflift.com/f/threads/testing-mobile-app-acquisition-strategies-what-bidding-model-to-choose.11146/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  19 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
