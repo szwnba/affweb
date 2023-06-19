@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  14 [甲骨文云&lpar;Oracle Cloud&rpar;升级付费账户，免费云服务器不再被停用了](https://51.ruyo.net/18403.html)<!-- ruyo:END -->
+-  19 [利用Slack试用专业套餐继续免费使用Claude App](https://51.ruyo.net/18407.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
