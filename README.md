@@ -20,8 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
+-  19 [Purelander is updtae?](https://afflift.com/f/threads/purelander-is-updtae.11150/?utm_source=rss&utm_medium=rss)
 -  19 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
+-  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  19 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/?utm_source=rss&utm_medium=rss)
 -  19 [RTB Adapting to Change: How RTB is Revolutionizing the Affiliate Marketing Landscape](https://afflift.com/f/threads/rtb-adapting-to-change-how-rtb-is-revolutionizing-the-affiliate-marketing-landscape.11148/?utm_source=rss&utm_medium=rss)
 -  19 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  19 [Testing Mobile App Acquisition Strategies: What Bidding Model to Choose?](https://afflift.com/f/threads/testing-mobile-app-acquisition-strategies-what-bidding-model-to-choose.11146/?utm_source=rss&utm_medium=rss)
 -  19 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
 -  19 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
--  19 [Website getting sued for a claimed ADA violation](https://afflift.com/f/threads/website-getting-sued-for-a-claimed-ada-violation.11136/?utm_source=rss&utm_medium=rss)
--  19 [+40% of Campaign Profit with Push Subscriptions](https://afflift.com/f/threads/40-of-campaign-profit-with-push-subscriptions.11144/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  19 [Website getting sued for a claimed ADA violation](https://afflift.com/f/threads/website-getting-sued-for-a-claimed-ada-violation.11136/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
