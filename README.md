@@ -36,5 +36,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  19 [今年我准备的父亲节礼物，是从「仅聊天」到开放朋友圈](https://sspai.com/post/80390)
--  19 [派早报：谷歌将关停并出售域名注册业务；酷睿产品名中将取消字母 i](https://sspai.com/post/80409)
--  18 [[限时特惠] 免费 macOS 剪贴板 + AI 新玩法：效率启动器 HapiGo 更新](https://sspai.com/post/80118)<!-- sspai:END -->
+-  19 [派早报：谷歌将关停并出售域名注册业务；酷睿产品名中将取消字母 i](https://sspai.com/post/80409)<!-- sspai:END -->
