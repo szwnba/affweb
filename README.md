@@ -35,5 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [我在车芯产线做观察（下）——人在产线篇](https://sspai.com/prime/story/car-chip-pipeline-observations-2)
+-  19 [派评 | 近期值得关注的 App](https://sspai.com/post/80432)
 -  19 [今年我准备的父亲节礼物，是从「仅聊天」到开放朋友圈](https://sspai.com/post/80390)
 -  19 [派早报：谷歌将关停并出售域名注册业务；酷睿产品名中将取消字母 i](https://sspai.com/post/80409)<!-- sspai:END -->
