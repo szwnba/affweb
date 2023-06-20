@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  18 [现在Youtube搬运视频还可以赚钱吗](https://www.advertcn.com/forum.php?mod=viewthread&tid=110879)<!-- advertcn:END -->
+-  19 [Amazon Associates  美亚联盟 的一个思路](https://www.advertcn.com/forum.php?mod=viewthread&tid=110885)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
