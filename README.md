@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/?utm_source=rss&utm_medium=rss)
 -  20 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
 -  20 [First FA following the pops beginner guide](https://afflift.com/f/threads/first-fa-following-the-pops-beginner-guide.11121/?utm_source=rss&utm_medium=rss)
 -  20 [Pops for finance offers](https://afflift.com/f/threads/pops-for-finance-offers.11155/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  20 [2023 Best ⭐Free⭐ Socks5/Http&lpar;s&rpar; Proxy List ⭐Fresh⭐ every day！！！](https://afflift.com/f/threads/2023-best-%E2%AD%90free%E2%AD%90-socks5-http-s-proxy-list-%E2%AD%90fresh%E2%AD%90-every-day%EF%BC%81%EF%BC%81%EF%BC%81.11153/?utm_source=rss&utm_medium=rss)
 -  20 [Mvas Offer With Ggoose -Mobidea-Voluum &amp; switch-a-roo Lp](https://afflift.com/f/threads/mvas-offer-with-ggoose-mobidea-voluum-switch-a-roo-lp.11141/?utm_source=rss&utm_medium=rss)
 -  20 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/?utm_source=rss&utm_medium=rss)
--  20 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/?utm_source=rss&utm_medium=rss)
--  20 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  20 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
