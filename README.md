@@ -20,12 +20,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/?utm_source=rss&utm_medium=rss)
 -  20 [2023 Best ⭐Free⭐ Socks5/Http&lpar;s&rpar; Proxy List ⭐Fresh⭐ every day！！！](https://afflift.com/f/threads/2023-best-%E2%AD%90free%E2%AD%90-socks5-http-s-proxy-list-%E2%AD%90fresh%E2%AD%90-every-day%EF%BC%81%EF%BC%81%EF%BC%81.11153/?utm_source=rss&utm_medium=rss)
 -  20 [Looking for Arabic Online Marketers - UAE and Kuwait](https://afflift.com/f/threads/looking-for-arabic-online-marketers-uae-and-kuwait.11151/?utm_source=rss&utm_medium=rss)
 -  20 [Help with Propeller ads](https://afflift.com/f/threads/help-with-propeller-ads.11117/?utm_source=rss&utm_medium=rss)
 -  20 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
 -  20 [Mvas Offer With Ggoose -Mobidea-Voluum &amp; switch-a-roo Lp](https://afflift.com/f/threads/mvas-offer-with-ggoose-mobidea-voluum-switch-a-roo-lp.11141/?utm_source=rss&utm_medium=rss)
--  20 [Hello](https://afflift.com/f/threads/hello.11152/?utm_source=rss&utm_medium=rss)
 -  20 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/?utm_source=rss&utm_medium=rss)
 -  20 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/?utm_source=rss&utm_medium=rss)
 -  20 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/?utm_source=rss&utm_medium=rss)
