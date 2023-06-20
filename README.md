@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
+-  20 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)
 -  20 [Purelander is updtae?](https://afflift.com/f/threads/purelander-is-updtae.11150/?utm_source=rss&utm_medium=rss)
 -  19 [Mvas Offer With Ggoose -Mobidea-Voluum &amp; switch-a-roo Lp](https://afflift.com/f/threads/mvas-offer-with-ggoose-mobidea-voluum-switch-a-roo-lp.11141/?utm_source=rss&utm_medium=rss)
 -  19 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  19 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/?utm_source=rss&utm_medium=rss)
 -  19 [RTB Adapting to Change: How RTB is Revolutionizing the Affiliate Marketing Landscape](https://afflift.com/f/threads/rtb-adapting-to-change-how-rtb-is-revolutionizing-the-affiliate-marketing-landscape.11148/?utm_source=rss&utm_medium=rss)
--  19 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
--  19 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
--  19 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  19 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
