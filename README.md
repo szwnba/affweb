@@ -21,6 +21,7 @@
 ### afflift
 <!-- afflift:START -->
 -  20 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
+-  20 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
 -  20 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/?utm_source=rss&utm_medium=rss)
 -  20 [Starting ecommerce website  to sell stuff](https://afflift.com/f/threads/starting-ecommerce-website-to-sell-stuff.11130/?utm_source=rss&utm_medium=rss)
 -  20 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  19 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
 -  19 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
 -  19 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
--  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  19 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
