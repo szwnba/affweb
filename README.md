@@ -20,6 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/?utm_source=rss&utm_medium=rss)
+-  21 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
+-  21 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)
+-  21 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
 -  21 [RE: Need Help to Promote Youtube Video Ads Through Native Ads](https://afflift.com/f/threads/re-need-help-to-promote-youtube-video-ads-through-native-ads.10914/?utm_source=rss&utm_medium=rss)
 -  21 [2023 Best ⭐Free⭐ Socks5/Http&lpar;s&rpar; Proxy List ⭐Fresh⭐ every day！！！](https://afflift.com/f/threads/2023-best-%E2%AD%90free%E2%AD%90-socks5-http-s-proxy-list-%E2%AD%90fresh%E2%AD%90-every-day%EF%BC%81%EF%BC%81%EF%BC%81.11153/?utm_source=rss&utm_medium=rss)
 -  21 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)
@@ -27,11 +31,7 @@
 -  21 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/?utm_source=rss&utm_medium=rss)
 -  21 [☑️FACEBOOK ADVERTISING ACCOUNT FOR RENT - ☑️&lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , SUPPORT](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Ffacebook-advertising-account-for-rent-%E2%98%91%EF%B8%8F-accept-bh-wh-gh-gaming-crypto-recruitment-investment-support.11021/?utm_source=rss&utm_medium=rss)
 -  21 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
--  21 [Starting ecommerce website  to sell stuff](https://afflift.com/f/threads/starting-ecommerce-website-to-sell-stuff.11130/?utm_source=rss&utm_medium=rss)
--  20 [[Case Study] Transforming Sweepstakes Creatives Leads to 135% ROI Increase from -23%](https://afflift.com/f/threads/case-study-transforming-sweepstakes-creatives-leads-to-135-roi-increase-from-23.11154/?utm_source=rss&utm_medium=rss)
--  20 [Looking for Arabic Online Marketers - UAE and Kuwait](https://afflift.com/f/threads/looking-for-arabic-online-marketers-uae-and-kuwait.11151/?utm_source=rss&utm_medium=rss)
--  20 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/?utm_source=rss&utm_medium=rss)
--  20 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  21 [Starting ecommerce website  to sell stuff](https://afflift.com/f/threads/starting-ecommerce-website-to-sell-stuff.11130/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
