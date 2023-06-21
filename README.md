@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/?utm_source=rss&utm_medium=rss)
+-  21 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
+-  21 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
 -  21 [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/?utm_source=rss&utm_medium=rss)
 -  21 [Pops for finance offers](https://afflift.com/f/threads/pops-for-finance-offers.11155/?utm_source=rss&utm_medium=rss)
 -  21 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
@@ -28,10 +31,7 @@
 -  21 [Nutra Offers with Youtube ads ??](https://afflift.com/f/threads/nutra-offers-with-youtube-ads.8416/?utm_source=rss&utm_medium=rss)
 -  21 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
 -  21 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/?utm_source=rss&utm_medium=rss)
--  21 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/?utm_source=rss&utm_medium=rss)
--  21 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/?utm_source=rss&utm_medium=rss)
--  21 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/?utm_source=rss&utm_medium=rss)
--  21 [Huge Drop in Conversion Overnight: PropellerAds&amp;MaxBounty](https://afflift.com/f/threads/huge-drop-in-conversion-overnight-propellerads-maxbounty.11081/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  21 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
