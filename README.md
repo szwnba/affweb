@@ -20,7 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [WhoCPA - direct nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11160/?utm_source=rss&utm_medium=rss)
 -  21 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
+-  21 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
 -  21 [Make Money with GanttPRO - Get 50% Commission on Project Management Software](https://afflift.com/f/threads/make-money-with-ganttpro-get-50-commission-on-project-management-software.11159/?utm_source=rss&utm_medium=rss)
 -  21 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
 -  21 [Tips &amp; Tricks 💡 to Get the Most 🚀 Out of Your 🐥 Golden Goose 🐥 Account](https://afflift.com/f/threads/tips-tricks-%F0%9F%92%A1-to-get-the-most-%F0%9F%9A%80-out-of-your-%F0%9F%90%A5-golden-goose-%F0%9F%90%A5-account.7199/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  21 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/?utm_source=rss&utm_medium=rss)
 -  21 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/?utm_source=rss&utm_medium=rss)
 -  21 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
--  21 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/?utm_source=rss&utm_medium=rss)
--  21 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/?utm_source=rss&utm_medium=rss)
--  21 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  21 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
