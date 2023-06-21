@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  21 [保持精力，保持警惕，独自成行也分外有趣](https://sspai.com/post/80437)
 -  21 [618 活动还在继续：少数派正版软件限时 5 折起](https://sspai.com/post/80415)
--  21 [派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等](https://sspai.com/post/80491)
--  20 [奏折 | 反正无悬念，内外有预告的一波新机](https://sspai.com/prime/story/zouzhe-230620)<!-- sspai:END -->
+-  21 [派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等](https://sspai.com/post/80491)<!-- sspai:END -->
