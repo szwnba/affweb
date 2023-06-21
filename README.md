@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/?utm_source=rss&utm_medium=rss)
 -  21 [PropellerAds Survey Exit - 8 Path Test](https://afflift.com/f/threads/propellerads-survey-exit-8-path-test.11127/?utm_source=rss&utm_medium=rss)
 -  21 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
 -  21 [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  21 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
 -  21 [Tips &amp; Tricks 💡 to Get the Most 🚀 Out of Your 🐥 Golden Goose 🐥 Account](https://afflift.com/f/threads/tips-tricks-%F0%9F%92%A1-to-get-the-most-%F0%9F%9A%80-out-of-your-%F0%9F%90%A5-golden-goose-%F0%9F%90%A5-account.7199/?utm_source=rss&utm_medium=rss)
 -  21 [Nutra Offers with Youtube ads ??](https://afflift.com/f/threads/nutra-offers-with-youtube-ads.8416/?utm_source=rss&utm_medium=rss)
--  21 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
--  21 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  21 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
