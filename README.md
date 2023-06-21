@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  20 [奏折 | 反正无悬念，内外有预告的一波新机](https://sspai.com/prime/story/zouzhe-230620)
 -  20 [下班之后时间宝贵，直接开摆实在浪费：我的精力管理与自我提升探索](https://sspai.com/post/80461)
--  20 [城市漫步指南：去阿那亚的海边「呆」三天](https://sspai.com/post/79411)
--  20 [派早报：微信上线「安静模式」，印象笔记宣布开放印象 AI 限制等](https://sspai.com/post/80454)<!-- sspai:END -->
+-  20 [城市漫步指南：去阿那亚的海边「呆」三天](https://sspai.com/post/79411)<!-- sspai:END -->
