@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [618 活动还在继续：少数派正版软件限时 5 折起](https://sspai.com/post/80415)
 -  21 [派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等](https://sspai.com/post/80491)
 -  20 [奏折 | 反正无悬念，内外有预告的一波新机](https://sspai.com/prime/story/zouzhe-230620)
 -  20 [下班之后时间宝贵，直接开摆实在浪费：我的精力管理与自我提升探索](https://sspai.com/post/80461)<!-- sspai:END -->
