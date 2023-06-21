@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [PropellerAds Survey Exit - 8 Path Test](https://afflift.com/f/threads/propellerads-survey-exit-8-path-test.11127/?utm_source=rss&utm_medium=rss)
 -  21 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
 -  21 [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/?utm_source=rss&utm_medium=rss)
 -  21 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  21 [Tips &amp; Tricks 💡 to Get the Most 🚀 Out of Your 🐥 Golden Goose 🐥 Account](https://afflift.com/f/threads/tips-tricks-%F0%9F%92%A1-to-get-the-most-%F0%9F%9A%80-out-of-your-%F0%9F%90%A5-golden-goose-%F0%9F%90%A5-account.7199/?utm_source=rss&utm_medium=rss)
 -  21 [Nutra Offers with Youtube ads ??](https://afflift.com/f/threads/nutra-offers-with-youtube-ads.8416/?utm_source=rss&utm_medium=rss)
 -  21 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
--  21 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/?utm_source=rss&utm_medium=rss)
--  21 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  21 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
