@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  21 [少数派编辑部都装了啥字体？](https://sspai.com/prime/story/zhuanglesha-sp-typefaces)
 -  21 [Apple 新政策允许个人维修 iPhone，对我们来说都意味着什么？](https://sspai.com/post/70113)
--  21 [保持精力，保持警惕，独自成行也分外有趣](https://sspai.com/post/80437)
--  21 [618 活动还在继续：少数派正版软件限时 5 折起](https://sspai.com/post/80415)<!-- sspai:END -->
+-  21 [保持精力，保持警惕，独自成行也分外有趣](https://sspai.com/post/80437)<!-- sspai:END -->
