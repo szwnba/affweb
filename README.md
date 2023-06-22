@@ -20,10 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Other Aff network options that allow newbies](https://afflift.com/f/threads/other-aff-network-options-that-allow-newbies.11167/?utm_source=rss&utm_medium=rss)
+-  22 [tracker shared accounts](https://afflift.com/f/threads/tracker-shared-accounts.11166/?utm_source=rss&utm_medium=rss)
 -  22 [Question about tracker](https://afflift.com/f/threads/question-about-tracker.11169/?utm_source=rss&utm_medium=rss)
 -  22 [✈️AW Barcelona – Let&#39;s schedule a meeting✈️](https://afflift.com/f/threads/%E2%9C%88%EF%B8%8Faw-barcelona-%E2%80%93-lets-schedule-a-meeting%E2%9C%88%EF%B8%8F.11168/?utm_source=rss&utm_medium=rss)
--  22 [tracker shared accounts](https://afflift.com/f/threads/tracker-shared-accounts.11166/?utm_source=rss&utm_medium=rss)
--  22 [Other Aff network options that allow newbies](https://afflift.com/f/threads/other-aff-network-options-that-allow-newbies.11167/?utm_source=rss&utm_medium=rss)
 -  22 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  22 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
 -  22 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/?utm_source=rss&utm_medium=rss)
