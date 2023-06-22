@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/?utm_source=rss&utm_medium=rss)
 -  22 [Looking to buy shopify store with Google merchant center. Please](https://afflift.com/f/threads/looking-to-buy-shopify-store-with-google-merchant-center-please.7712/?utm_source=rss&utm_medium=rss)
 -  22 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/?utm_source=rss&utm_medium=rss)
 -  22 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  21 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
 -  21 [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/?utm_source=rss&utm_medium=rss)
 -  21 [Pops for finance offers](https://afflift.com/f/threads/pops-for-finance-offers.11155/?utm_source=rss&utm_medium=rss)
--  21 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)
--  21 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  21 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
