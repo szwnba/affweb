@@ -35,4 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  22 [新玩意 150｜少数派的作者们最近买了啥？](https://sspai.com/post/80501)<!-- sspai:END -->
+-  23 [visionOS beta 1 发布了，这是我们的上手体验](https://sspai.com/post/80536)<!-- sspai:END -->
