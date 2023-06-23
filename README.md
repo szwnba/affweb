@@ -35,4 +35,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80540)
 -  23 [visionOS beta 1 发布了，这是我们的上手体验](https://sspai.com/post/80536)<!-- sspai:END -->
