@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/?utm_source=rss&utm_medium=rss)
+-  23 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
 -  23 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  23 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/?utm_source=rss&utm_medium=rss)
 -  23 [website marketplace](https://afflift.com/f/threads/website-marketplace.11173/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  23 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/?utm_source=rss&utm_medium=rss)
 -  23 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
 -  23 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/?utm_source=rss&utm_medium=rss)
--  23 [Private Chile with hot rates!🔝](https://afflift.com/f/threads/private-chile-with-hot-rates-%F0%9F%94%9D.10886/?utm_source=rss&utm_medium=rss)
--  23 [Join us in our amazing journey to one of the biggest LATAM affiliate marketing conferences — Afiliados Brasil 2023!](https://afflift.com/f/threads/join-us-in-our-amazing-journey-to-one-of-the-biggest-latam-affiliate-marketing-conferences-%E2%80%94-afiliados-brasil-2023.11172/?utm_source=rss&utm_medium=rss)
--  23 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  23 [Private Chile with hot rates!🔝](https://afflift.com/f/threads/private-chile-with-hot-rates-%F0%9F%94%9D.10886/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
