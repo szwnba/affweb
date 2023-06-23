@@ -21,6 +21,7 @@
 ### afflift
 <!-- afflift:START -->
 -  23 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
+-  23 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)
 -  23 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/?utm_source=rss&utm_medium=rss)
 -  23 [Question about tracker](https://afflift.com/f/threads/question-about-tracker.11169/?utm_source=rss&utm_medium=rss)
 -  23 [tracker shared accounts](https://afflift.com/f/threads/tracker-shared-accounts.11166/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  22 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
 -  22 [Other Aff network options that allow newbies](https://afflift.com/f/threads/other-aff-network-options-that-allow-newbies.11167/?utm_source=rss&utm_medium=rss)
 -  22 [✈️AW Barcelona – Let&#39;s schedule a meeting✈️](https://afflift.com/f/threads/%E2%9C%88%EF%B8%8Faw-barcelona-%E2%80%93-lets-schedule-a-meeting%E2%9C%88%EF%B8%8F.11168/?utm_source=rss&utm_medium=rss)
--  22 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  22 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  22 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
