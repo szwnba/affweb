@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [How to scale the Cpagoal&#39;s campaigns in Propeller?](https://afflift.com/f/threads/how-to-scale-the-cpagoals-campaigns-in-propeller.11174/?utm_source=rss&utm_medium=rss)
+-  23 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
 -  23 [website marketplace](https://afflift.com/f/threads/website-marketplace.11173/?utm_source=rss&utm_medium=rss)
 -  23 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/?utm_source=rss&utm_medium=rss)
 -  23 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  23 [Best popunder network?](https://afflift.com/f/threads/best-popunder-network.10627/?utm_source=rss&utm_medium=rss)
 -  23 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/?utm_source=rss&utm_medium=rss)
 -  23 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/?utm_source=rss&utm_medium=rss)
--  23 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
--  23 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/?utm_source=rss&utm_medium=rss)
--  23 [Private Chile with hot rates!🔝](https://afflift.com/f/threads/private-chile-with-hot-rates-%F0%9F%94%9D.10886/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  23 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
