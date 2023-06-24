@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  23 [让生产力加倍的 ChatGPT 快捷指令——网站推荐](https://www.advertcn.com/forum.php?mod=viewthread&tid=110928)
--  23 [讨论一下AI生成式文章对SEO的作用](https://www.advertcn.com/forum.php?mod=viewthread&tid=110923)<!-- advertcn:END -->
+-  23 [让生产力加倍的 ChatGPT 快捷指令——网站推荐](https://www.advertcn.com/forum.php?mod=viewthread&tid=110928)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
