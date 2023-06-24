@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Traffic inventory for Most popular Push traffic Source 2023](https://afflift.com/f/threads/traffic-inventory-for-most-popular-push-traffic-source-2023.11024/?utm_source=rss&utm_medium=rss)
 -  24 [Using Facebook Traffic For Zeydoo Offers?](https://afflift.com/f/threads/using-facebook-traffic-for-zeydoo-offers.11176/?utm_source=rss&utm_medium=rss)
 -  24 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
 -  24 [How to scale the Cpagoal&#39;s campaigns in Propeller?](https://afflift.com/f/threads/how-to-scale-the-cpagoals-campaigns-in-propeller.11174/?utm_source=rss&utm_medium=rss)
@@ -27,7 +28,6 @@
 -  24 [Other Aff network options that allow newbies](https://afflift.com/f/threads/other-aff-network-options-that-allow-newbies.11167/?utm_source=rss&utm_medium=rss)
 -  24 [Question about tracker](https://afflift.com/f/threads/question-about-tracker.11169/?utm_source=rss&utm_medium=rss)
 -  24 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
--  24 [Traffic inventory for Most popular Push traffic Source 2023](https://afflift.com/f/threads/traffic-inventory-for-most-popular-push-traffic-source-2023.11024/?utm_source=rss&utm_medium=rss)
 -  24 [tracker shared accounts](https://afflift.com/f/threads/tracker-shared-accounts.11166/?utm_source=rss&utm_medium=rss)
 -  23 [I wanna become an offer owner, what does it take?](https://afflift.com/f/threads/i-wanna-become-an-offer-owner-what-does-it-take.10550/?utm_source=rss&utm_medium=rss)
 -  23 [website marketplace](https://afflift.com/f/threads/website-marketplace.11173/?utm_source=rss&utm_medium=rss)
