@@ -36,5 +36,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  24 [本月玩什么 | 暗黑破坏神 IV、最终幻想 XVI、层层恐惧、街头霸王 6](https://sspai.com/post/80544)
--  24 [手帐放到过期也没用完？这些方法让你的手帐本不再开天窗](https://sspai.com/post/80505)
--  23 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80540)<!-- sspai:END -->
+-  24 [手帐放到过期也没用完？这些方法让你的手帐本不再开天窗](https://sspai.com/post/80505)<!-- sspai:END -->
