@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/?utm_source=rss&utm_medium=rss)
+-  25 [PPV vs Mobipium PNSL &lpar;Rematch&rpar;](https://afflift.com/f/threads/ppv-vs-mobipium-pnsl-rematch.2850/?utm_source=rss&utm_medium=rss)
 -  25 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)
 -  25 [Api to automatically update the status of the offer](https://afflift.com/f/threads/api-to-automatically-update-the-status-of-the-offer.11177/?utm_source=rss&utm_medium=rss)
 -  25 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  25 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/?utm_source=rss&utm_medium=rss)
 -  25 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)
 -  25 [Question about tracker](https://afflift.com/f/threads/question-about-tracker.11169/?utm_source=rss&utm_medium=rss)
--  24 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/?utm_source=rss&utm_medium=rss)
--  24 [Using Facebook Traffic For Zeydoo Offers?](https://afflift.com/f/threads/using-facebook-traffic-for-zeydoo-offers.11176/?utm_source=rss&utm_medium=rss)
--  24 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  24 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
