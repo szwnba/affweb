@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/?utm_source=rss&utm_medium=rss)
 -  24 [Using Facebook Traffic For Zeydoo Offers?](https://afflift.com/f/threads/using-facebook-traffic-for-zeydoo-offers.11176/?utm_source=rss&utm_medium=rss)
 -  24 [How to scale the Cpagoal&#39;s campaigns in Propeller?](https://afflift.com/f/threads/how-to-scale-the-cpagoals-campaigns-in-propeller.11174/?utm_source=rss&utm_medium=rss)
 -  24 [New Ad Format To Reach the Most Engaged Audience Ever](https://afflift.com/f/threads/new-ad-format-to-reach-the-most-engaged-audience-ever.10806/?utm_source=rss&utm_medium=rss)
@@ -27,11 +28,7 @@
 -  24 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
 -  24 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/?utm_source=rss&utm_medium=rss)
 -  24 [Traffic inventory for Most popular Push traffic Source 2023](https://afflift.com/f/threads/traffic-inventory-for-most-popular-push-traffic-source-2023.11024/?utm_source=rss&utm_medium=rss)
--  24 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
--  24 [Other Aff network options that allow newbies](https://afflift.com/f/threads/other-aff-network-options-that-allow-newbies.11167/?utm_source=rss&utm_medium=rss)
--  24 [Question about tracker](https://afflift.com/f/threads/question-about-tracker.11169/?utm_source=rss&utm_medium=rss)
--  24 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
--  24 [tracker shared accounts](https://afflift.com/f/threads/tracker-shared-accounts.11166/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  24 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
