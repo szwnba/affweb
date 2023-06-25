@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  25 [AdSense提示已有开通账号 需要先关闭一个](https://www.advertcn.com/forum.php?mod=viewthread&tid=110938)
--  24 [OCBC 新加坡华侨银行开放国内手机开户](https://www.advertcn.com/forum.php?mod=viewthread&tid=110936)<!-- advertcn:END -->
+-  25 [AdSense提示已有开通账号 需要先关闭一个](https://www.advertcn.com/forum.php?mod=viewthread&tid=110938)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
