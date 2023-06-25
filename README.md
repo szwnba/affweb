@@ -33,5 +33,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [一个人也可以是「大厂」：三年程序员的生活规划心路分享](https://sspai.com/post/80509)
 -  25 [派早报：高通与索尼达成合作、YouTube 推出多项新举措等](https://sspai.com/post/80558)
 -  24 [本月玩什么 | 暗黑破坏神 IV、最终幻想 XVI、层层恐惧、街头霸王 6](https://sspai.com/post/80544)<!-- sspai:END -->
