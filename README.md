@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  23 [让生产力加倍的 ChatGPT 快捷指令——网站推荐](https://www.advertcn.com/forum.php?mod=viewthread&tid=110928)<!-- advertcn:END -->
+-  25 [AdSense提示已有开通账号 需要先关闭一个](https://www.advertcn.com/forum.php?mod=viewthread&tid=110938)
+-  24 [OCBC 新加坡华侨银行开放国内手机开户](https://www.advertcn.com/forum.php?mod=viewthread&tid=110936)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
