@@ -33,5 +33,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  24 [本月玩什么 | 暗黑破坏神 IV、最终幻想 XVI、层层恐惧、街头霸王 6](https://sspai.com/post/80544)
--  24 [手帐放到过期也没用完？这些方法让你的手帐本不再开天窗](https://sspai.com/post/80505)<!-- sspai:END -->
+-  25 [派早报：高通与索尼达成合作、YouTube 推出多项新举措等](https://sspai.com/post/80558)
+-  24 [本月玩什么 | 暗黑破坏神 IV、最终幻想 XVI、层层恐惧、街头霸王 6](https://sspai.com/post/80544)<!-- sspai:END -->
