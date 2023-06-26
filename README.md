@@ -34,6 +34,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [用烧钱折腾一个月的经历教训，聊聊如何入门骑行运动](https://sspai.com/post/80530)
 -  26 [派早报：FTC 诉微软收购暴雪案开庭；马斯克与扎克伯格「约架」](https://sspai.com/post/80582)
 -  25 [App 里的那些精美动效，是如何与 Airbnb 扯上关系的？](https://sspai.com/post/80434)
 -  25 [2023 年，我改装了一台「能拍照」的 GameBoy](https://sspai.com/post/80561)<!-- sspai:END -->
