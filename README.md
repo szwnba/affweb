@@ -32,8 +32,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [众筹 | Notion All in One，一份给知识工作者的 Notion 终极指南](https://sspai.com/post/80589)
 -  26 [掌控湿度、凉爽一夏：送给受不了 105 度的你](https://sspai.com/post/68027)
 -  26 [飞傲 FW3 上手体验：499 元带 Hi-Fi 芯片的真无线，香吗？](https://sspai.com/post/80583)
 -  26 [用烧钱折腾一个月的经历教训，聊聊如何入门骑行运动](https://sspai.com/post/80530)
--  26 [派早报：FTC 诉微软收购暴雪案开庭；马斯克与扎克伯格「约架」](https://sspai.com/post/80582)
--  25 [App 里的那些精美动效，是如何与 Airbnb 扯上关系的？](https://sspai.com/post/80434)<!-- sspai:END -->
+-  26 [派早报：FTC 诉微软收购暴雪案开庭；马斯克与扎克伯格「约架」](https://sspai.com/post/80582)<!-- sspai:END -->
