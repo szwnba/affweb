@@ -21,9 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
 -  26 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/?utm_source=rss&utm_medium=rss)
 -  26 [Hello AffLIFT](https://afflift.com/f/threads/hello-afflift.11180/?utm_source=rss&utm_medium=rss)
--  26 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
 -  26 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
 -  26 [How to scale the Cpagoal&#39;s campaigns in Propeller?](https://afflift.com/f/threads/how-to-scale-the-cpagoals-campaigns-in-propeller.11174/?utm_source=rss&utm_medium=rss)
 -  26 [AW Barcelona - Let&#39;s meet!](https://afflift.com/f/threads/aw-barcelona-lets-meet.11179/?utm_source=rss&utm_medium=rss)
