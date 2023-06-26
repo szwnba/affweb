@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [AW Barcelona - Let&#39;s meet!](https://afflift.com/f/threads/aw-barcelona-lets-meet.11179/?utm_source=rss&utm_medium=rss)
+-  26 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/?utm_source=rss&utm_medium=rss)
+-  26 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
 -  26 [How to scale the Cpagoal&#39;s campaigns in Propeller?](https://afflift.com/f/threads/how-to-scale-the-cpagoals-campaigns-in-propeller.11174/?utm_source=rss&utm_medium=rss)
+-  26 [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/?utm_source=rss&utm_medium=rss)
 -  26 [Monetizing Twitter | $0 to $1000/Month Profit](https://afflift.com/f/threads/monetizing-twitter-0-to-1000-month-profit.10640/?utm_source=rss&utm_medium=rss)
 -  26 [Starting ecommerce website  to sell stuff](https://afflift.com/f/threads/starting-ecommerce-website-to-sell-stuff.11130/?utm_source=rss&utm_medium=rss)
 -  26 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/?utm_source=rss&utm_medium=rss)
--  26 [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/?utm_source=rss&utm_medium=rss)
 -  26 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)
 -  26 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/?utm_source=rss&utm_medium=rss)
 -  26 [PropellerAds Survey Exit - 8 Path Test](https://afflift.com/f/threads/propellerads-survey-exit-8-path-test.11127/?utm_source=rss&utm_medium=rss)
--  26 [Using Facebook Traffic For Zeydoo Offers?](https://afflift.com/f/threads/using-facebook-traffic-for-zeydoo-offers.11176/?utm_source=rss&utm_medium=rss)
--  26 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
--  26 [i-Con / Island Conference 2023](https://afflift.com/f/threads/i-con-island-conference-2023.10405/?utm_source=rss&utm_medium=rss)
--  26 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  26 [Using Facebook Traffic For Zeydoo Offers?](https://afflift.com/f/threads/using-facebook-traffic-for-zeydoo-offers.11176/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
