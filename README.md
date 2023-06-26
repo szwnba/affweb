@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Hello AffLIFT](https://afflift.com/f/threads/hello-afflift.11180/?utm_source=rss&utm_medium=rss)
 -  26 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/?utm_source=rss&utm_medium=rss)
 -  26 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
 -  26 [First Follow Along in a While...](https://afflift.com/f/threads/first-follow-along-in-a-while.11102/?utm_source=rss&utm_medium=rss)
@@ -31,8 +32,7 @@
 -  26 [Monetizing Twitter | $0 to $1000/Month Profit](https://afflift.com/f/threads/monetizing-twitter-0-to-1000-month-profit.10640/?utm_source=rss&utm_medium=rss)
 -  26 [Starting ecommerce website  to sell stuff](https://afflift.com/f/threads/starting-ecommerce-website-to-sell-stuff.11130/?utm_source=rss&utm_medium=rss)
 -  26 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/?utm_source=rss&utm_medium=rss)
--  26 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)
--  26 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  26 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
