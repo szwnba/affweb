@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Highest Commission Affiliate Offer](https://afflift.com/f/threads/highest-commission-affiliate-offer.11185/?utm_source=rss&utm_medium=rss)
+-  27 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/?utm_source=rss&utm_medium=rss)
+-  27 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
+-  27 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
+-  27 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
+-  27 [Best ad networks for German, Swiss and Austrian traffic](https://afflift.com/f/threads/best-ad-networks-for-german-swiss-and-austrian-traffic.11139/?utm_source=rss&utm_medium=rss)
 -  27 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/?utm_source=rss&utm_medium=rss)
 -  27 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
 -  27 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/?utm_source=rss&utm_medium=rss)
 -  27 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/?utm_source=rss&utm_medium=rss)
 -  27 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/?utm_source=rss&utm_medium=rss)
--  27 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)
--  27 [I wanna become an offer owner, what does it take?](https://afflift.com/f/threads/i-wanna-become-an-offer-owner-what-does-it-take.10550/?utm_source=rss&utm_medium=rss)
--  27 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/?utm_source=rss&utm_medium=rss)
--  27 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/?utm_source=rss&utm_medium=rss)
--  27 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/?utm_source=rss&utm_medium=rss)
--  27 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)
--  27 [🔥 Mega post of Anstrex Landing pages 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-mega-post-of-anstrex-landing-pages-%F0%9F%94%A5.6125/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  27 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
