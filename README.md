@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [解读备忘录&amp;语音备忘录：发现简洁之下的强大](https://sspai.com/post/78705)
 -  27 [社区速递 001：社区动态、作者的新玩意及内容摘要](https://sspai.com/post/80643)
 -  27 [在高考志愿填报的当口，我们来聊聊专业与职业选择](https://sspai.com/post/80631)
 -  27 [想要用 AI 和卡片笔记进行对话？你可以试试这个开源小工具 Quivr](https://sspai.com/post/80596)
