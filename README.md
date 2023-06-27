@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
+-  27 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/?utm_source=rss&utm_medium=rss)
+-  27 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
+-  27 [Let&#39;s go to Barcelona for Affiliate World Europe together!](https://afflift.com/f/threads/lets-go-to-barcelona-for-affiliate-world-europe-together.11029/?utm_source=rss&utm_medium=rss)
+-  27 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
+-  27 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/?utm_source=rss&utm_medium=rss)
+-  27 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  27 [Highest Commission Affiliate Offer](https://afflift.com/f/threads/highest-commission-affiliate-offer.11185/?utm_source=rss&utm_medium=rss)
+-  27 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
 -  27 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
 -  27 [Hello AffLIFT](https://afflift.com/f/threads/hello-afflift.11180/?utm_source=rss&utm_medium=rss)
--  27 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/?utm_source=rss&utm_medium=rss)
--  27 [ROI-FOCUSED SOCIAL MEDIA TRAFFIC | GREAT VOLUMES FOR ANY GEO | QUALITY YOUTUBE VIEWS](https://afflift.com/f/threads/roi-focused-social-media-traffic-great-volumes-for-any-geo-quality-youtube-views.11186/?utm_source=rss&utm_medium=rss)
--  27 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
--  27 [The Hottest Gambling&amp;Betting Affiliate Programs With +30% Payout Increase](https://afflift.com/f/threads/the-hottest-gambling-betting-affiliate-programs-with-30-payout-increase.11026/?utm_source=rss&utm_medium=rss)
--  27 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/?utm_source=rss&utm_medium=rss)
--  27 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
--  27 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
--  27 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
--  27 [Best ad networks for German, Swiss and Austrian traffic](https://afflift.com/f/threads/best-ad-networks-for-german-swiss-and-austrian-traffic.11139/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  27 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
