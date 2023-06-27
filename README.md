@@ -24,6 +24,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [AW Barcelona - Let&#39;s meet!](https://afflift.com/f/threads/aw-barcelona-lets-meet.11179/?utm_source=rss&utm_medium=rss)
+-  27 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/?utm_source=rss&utm_medium=rss)
+-  27 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
+-  27 [At my wits end trying to make this profitable](https://afflift.com/f/threads/at-my-wits-end-trying-to-make-this-profitable.11125/?utm_source=rss&utm_medium=rss)
 -  27 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
 -  27 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/?utm_source=rss&utm_medium=rss)
 -  27 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
@@ -31,11 +35,7 @@
 -  27 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
 -  27 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/?utm_source=rss&utm_medium=rss)
 -  27 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
--  27 [Highest Commission Affiliate Offer](https://afflift.com/f/threads/highest-commission-affiliate-offer.11185/?utm_source=rss&utm_medium=rss)
--  27 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/?utm_source=rss&utm_medium=rss)
--  27 [My take on the MVAS offer](https://afflift.com/f/threads/my-take-on-the-mvas-offer.11116/?utm_source=rss&utm_medium=rss)
--  27 [Hello AffLIFT](https://afflift.com/f/threads/hello-afflift.11180/?utm_source=rss&utm_medium=rss)
--  27 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  27 [Highest Commission Affiliate Offer](https://afflift.com/f/threads/highest-commission-affiliate-offer.11185/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
