@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)
 -  27 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)
 -  27 [🔥 Mega post of Anstrex Landing pages 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-mega-post-of-anstrex-landing-pages-%F0%9F%94%A5.6125/?utm_source=rss&utm_medium=rss)
 -  27 [How To Identify Bots In Your Ad Network And Protect Your Campaigns From Fake Clicks And Fraud](https://afflift.com/f/threads/how-to-identify-bots-in-your-ad-network-and-protect-your-campaigns-from-fake-clicks-and-fraud.11183/?utm_source=rss&utm_medium=rss)
@@ -31,8 +32,7 @@
 -  27 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/?utm_source=rss&utm_medium=rss)
 -  27 [Hello AffLIFT](https://afflift.com/f/threads/hello-afflift.11180/?utm_source=rss&utm_medium=rss)
 -  27 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/?utm_source=rss&utm_medium=rss)
--  27 [Highest Paying Affiliate Program.](https://afflift.com/f/threads/highest-paying-affiliate-program.11181/?utm_source=rss&utm_medium=rss)
--  27 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  27 [Highest Paying Affiliate Program.](https://afflift.com/f/threads/highest-paying-affiliate-program.11181/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
