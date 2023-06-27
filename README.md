@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [派早报：哔哩哔哩将更换播放数据呈现方式等](https://sspai.com/post/80623)
 -  26 [6 月失去了 E3，但夏天依然洋溢着游戏](https://sspai.com/prime/story/zouzhe-230626)
 -  26 [派评 | 近期值得关注的 App](https://sspai.com/post/80608)
 -  26 [众筹 | Notion All in One，一份给知识工作者的 Notion 终极指南](https://sspai.com/post/80589)
--  26 [掌控湿度、凉爽一夏：送给受不了 105 度的你](https://sspai.com/post/68027)
--  26 [飞傲 FW3 上手体验：499 元带 Hi-Fi 芯片的真无线，香吗？](https://sspai.com/post/80583)<!-- sspai:END -->
+-  26 [掌控湿度、凉爽一夏：送给受不了 105 度的你](https://sspai.com/post/68027)<!-- sspai:END -->
