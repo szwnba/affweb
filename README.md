@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
+-  27 [The Hottest Gambling&amp;Betting Affiliate Programs With +30% Payout Increase](https://afflift.com/f/threads/the-hottest-gambling-betting-affiliate-programs-with-30-payout-increase.11026/?utm_source=rss&utm_medium=rss)
 -  27 [Highest Commission Affiliate Offer](https://afflift.com/f/threads/highest-commission-affiliate-offer.11185/?utm_source=rss&utm_medium=rss)
 -  27 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/?utm_source=rss&utm_medium=rss)
 -  27 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
@@ -30,9 +32,7 @@
 -  27 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/?utm_source=rss&utm_medium=rss)
 -  27 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
 -  27 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/?utm_source=rss&utm_medium=rss)
--  27 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/?utm_source=rss&utm_medium=rss)
--  27 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/?utm_source=rss&utm_medium=rss)
--  27 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  27 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
