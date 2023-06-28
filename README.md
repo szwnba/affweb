@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
+-  28 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/?utm_source=rss&utm_medium=rss)
+-  28 [PropellerAds - How to Scale a VPN App Offer with Push Notifications: X20 Conversions](https://afflift.com/f/threads/propellerads-how-to-scale-a-vpn-app-offer-with-push-notifications-x20-conversions.11189/?utm_source=rss&utm_medium=rss)
+-  28 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/?utm_source=rss&utm_medium=rss)
 -  28 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
 -  28 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)
 -  28 [AW Barcelona - Let&#39;s meet!](https://afflift.com/f/threads/aw-barcelona-lets-meet.11179/?utm_source=rss&utm_medium=rss)
--  28 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/?utm_source=rss&utm_medium=rss)
 -  28 [Checkout blank pages](https://afflift.com/f/threads/checkout-blank-pages.10811/?utm_source=rss&utm_medium=rss)
 -  28 [Highest Commission Affiliate Offer](https://afflift.com/f/threads/highest-commission-affiliate-offer.11185/?utm_source=rss&utm_medium=rss)
 -  28 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/?utm_source=rss&utm_medium=rss)
 -  28 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/?utm_source=rss&utm_medium=rss)
--  28 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
--  28 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/?utm_source=rss&utm_medium=rss)
--  27 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/?utm_source=rss&utm_medium=rss)
--  27 [Social Ad Scout - issue, any suggestion?](https://afflift.com/f/threads/social-ad-scout-issue-any-suggestion.11187/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
