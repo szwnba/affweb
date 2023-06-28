@@ -39,6 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [Google 做不好的「小组件」，MIUI 做对了什么？](https://sspai.com/prime/story/android-widget-problems)
 -  28 [播客 | 从锤科公关，到香蕉攀岩老板](https://sspai.com/post/80603)
 -  28 [基于 n8n 的开源自动化：以滴答清单同步 Notion 为例](https://sspai.com/prime/story/automation-n8n)
 -  28 [咖啡美酒冷泡茶，这些消暑饮品在家就能动手做](https://sspai.com/post/74196)
