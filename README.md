@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Meet Adsterra at i-Con 2023!😉](https://afflift.com/f/threads/meet-adsterra-at-i-con-2023-%F0%9F%98%89.11194/?utm_source=rss&utm_medium=rss)
+-  28 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
+-  28 [Meet Adsterra at i-Con 2023!](https://afflift.com/f/threads/meet-adsterra-at-i-con-2023.11193/?utm_source=rss&utm_medium=rss)
+-  28 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
+-  28 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/?utm_source=rss&utm_medium=rss)
+-  28 [Wallester cards – a perfect tool for online media buying 🔥](https://afflift.com/f/threads/wallester-cards-%E2%80%93-a-perfect-tool-for-online-media-buying-%F0%9F%94%A5.9532/?utm_source=rss&utm_medium=rss)
+-  28 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
+-  28 [Have you tried High-Quality Push Targeting in ClickAdilla?](https://afflift.com/f/threads/have-you-tried-high-quality-push-targeting-in-clickadilla.11192/?utm_source=rss&utm_medium=rss)
+-  28 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
 -  28 [Highest Commission Affiliate Offer](https://afflift.com/f/threads/highest-commission-affiliate-offer.11185/?utm_source=rss&utm_medium=rss)
 -  28 [AW Barcelona - Let’s meet! 😎 Affiliate World Europe!](https://afflift.com/f/threads/aw-barcelona-let%E2%80%99s-meet-%F0%9F%98%8E-affiliate-world-europe.11190/?utm_source=rss&utm_medium=rss)
--  28 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/?utm_source=rss&utm_medium=rss)
--  28 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/?utm_source=rss&utm_medium=rss)
--  28 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/?utm_source=rss&utm_medium=rss)
--  28 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/?utm_source=rss&utm_medium=rss)
--  28 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
--  28 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/?utm_source=rss&utm_medium=rss)
--  28 [PropellerAds - How to Scale a VPN App Offer with Push Notifications: X20 Conversions](https://afflift.com/f/threads/propellerads-how-to-scale-a-vpn-app-offer-with-push-notifications-x20-conversions.11189/?utm_source=rss&utm_medium=rss)
--  28 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/?utm_source=rss&utm_medium=rss)
--  28 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
--  28 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
