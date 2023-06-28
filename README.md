@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [咖啡美酒冷泡茶，这些消暑饮品在家就能动手做](https://sspai.com/post/74196)
 -  28 [派早报：Android 将更新品牌标识、Meta 推出 VR 游戏订阅服务等](https://sspai.com/post/80659)
 -  27 [你的名字到底有几种写法？——聊聊 Windows 和 macOS 的版本号](https://sspai.com/prime/story/windows-macos-version-number-explained)
 -  27 [解读备忘录&amp;语音备忘录：发现简洁之下的强大](https://sspai.com/post/78705)
--  27 [社区速递 001：社区动态、作者的新玩意及内容摘要](https://sspai.com/post/80643)
--  27 [在高考志愿填报的当口，我们来聊聊专业与职业选择](https://sspai.com/post/80631)<!-- sspai:END -->
+-  27 [社区速递 001：社区动态、作者的新玩意及内容摘要](https://sspai.com/post/80643)<!-- sspai:END -->
