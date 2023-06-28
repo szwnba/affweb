@@ -42,5 +42,4 @@
 -  28 [播客 | 从锤科公关，到香蕉攀岩老板](https://sspai.com/post/80603)
 -  28 [基于 n8n 的开源自动化：以滴答清单同步 Notion 为例](https://sspai.com/prime/story/automation-n8n)
 -  28 [咖啡美酒冷泡茶，这些消暑饮品在家就能动手做](https://sspai.com/post/74196)
--  28 [派早报：Android 将更新品牌标识、Meta 推出 VR 游戏订阅服务等](https://sspai.com/post/80659)
--  27 [你的名字到底有几种写法？——聊聊 Windows 和 macOS 的版本号](https://sspai.com/prime/story/windows-macos-version-number-explained)<!-- sspai:END -->
+-  28 [派早报：Android 将更新品牌标识、Meta 推出 VR 游戏订阅服务等](https://sspai.com/post/80659)<!-- sspai:END -->
