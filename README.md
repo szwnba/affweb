@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  28 [Has anyone tried an interface button as an advertising format?](https://afflift.com/f/threads/has-anyone-tried-an-interface-button-as-an-advertising-format.11196/?utm_source=rss&utm_medium=rss)
+-  28 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/?utm_source=rss&utm_medium=rss)
+-  28 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)
+-  28 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/?utm_source=rss&utm_medium=rss)
+-  28 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
+-  28 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
 -  28 [Nick&#39;s Survey LP with Bootstrap](https://afflift.com/f/threads/nicks-survey-lp-with-bootstrap.7636/?utm_source=rss&utm_medium=rss)
+-  28 [Has anyone tried an interface button as an advertising format?](https://afflift.com/f/threads/has-anyone-tried-an-interface-button-as-an-advertising-format.11196/?utm_source=rss&utm_medium=rss)
+-  28 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/?utm_source=rss&utm_medium=rss)
 -  28 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
 -  28 [Meet with us at Affiliate World Conferences Europe 2023!](https://afflift.com/f/threads/meet-with-us-at-affiliate-world-conferences-europe-2023.11195/?utm_source=rss&utm_medium=rss)
 -  28 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
--  28 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
--  28 [Meet Adsterra at i-Con 2023!](https://afflift.com/f/threads/meet-adsterra-at-i-con-2023.11193/?utm_source=rss&utm_medium=rss)
--  28 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
--  28 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/?utm_source=rss&utm_medium=rss)
--  28 [Wallester cards – a perfect tool for online media buying 🔥](https://afflift.com/f/threads/wallester-cards-%E2%80%93-a-perfect-tool-for-online-media-buying-%F0%9F%94%A5.9532/?utm_source=rss&utm_medium=rss)
--  28 [Have you tried High-Quality Push Targeting in ClickAdilla?](https://afflift.com/f/threads/have-you-tried-high-quality-push-targeting-in-clickadilla.11192/?utm_source=rss&utm_medium=rss)
--  28 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
