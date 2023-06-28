@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  19 [利用Slack试用专业套餐继续免费使用Claude App](https://51.ruyo.net/18407.html)<!-- ruyo:END -->
+-  28 [CacheFly免费CDN 每月5T流量，自定义域名，全球Anycast加速](https://51.ruyo.net/18411.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
