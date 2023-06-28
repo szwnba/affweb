@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  28 [Meet Adsterra at i-Con 2023!😉](https://afflift.com/f/threads/meet-adsterra-at-i-con-2023-%F0%9F%98%89.11194/?utm_source=rss&utm_medium=rss)
+-  28 [Has anyone tried an interface button as an advertising format?](https://afflift.com/f/threads/has-anyone-tried-an-interface-button-as-an-advertising-format.11196/?utm_source=rss&utm_medium=rss)
+-  28 [Nick&#39;s Survey LP with Bootstrap](https://afflift.com/f/threads/nicks-survey-lp-with-bootstrap.7636/?utm_source=rss&utm_medium=rss)
+-  28 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
+-  28 [Meet with us at Affiliate World Conferences Europe 2023!](https://afflift.com/f/threads/meet-with-us-at-affiliate-world-conferences-europe-2023.11195/?utm_source=rss&utm_medium=rss)
+-  28 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
 -  28 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
 -  28 [Meet Adsterra at i-Con 2023!](https://afflift.com/f/threads/meet-adsterra-at-i-con-2023.11193/?utm_source=rss&utm_medium=rss)
 -  28 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
 -  28 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/?utm_source=rss&utm_medium=rss)
 -  28 [Wallester cards – a perfect tool for online media buying 🔥](https://afflift.com/f/threads/wallester-cards-%E2%80%93-a-perfect-tool-for-online-media-buying-%F0%9F%94%A5.9532/?utm_source=rss&utm_medium=rss)
--  28 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
 -  28 [Have you tried High-Quality Push Targeting in ClickAdilla?](https://afflift.com/f/threads/have-you-tried-high-quality-push-targeting-in-clickadilla.11192/?utm_source=rss&utm_medium=rss)
--  28 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
--  28 [Highest Commission Affiliate Offer](https://afflift.com/f/threads/highest-commission-affiliate-offer.11185/?utm_source=rss&utm_medium=rss)
--  28 [AW Barcelona - Let’s meet! 😎 Affiliate World Europe!](https://afflift.com/f/threads/aw-barcelona-let%E2%80%99s-meet-%F0%9F%98%8E-affiliate-world-europe.11190/?utm_source=rss&utm_medium=rss)
--  28 [Smart Survey Zeydoo + Propeller Ads Pop Social Browser](https://afflift.com/f/threads/smart-survey-zeydoo-propeller-ads-pop-social-browser.11000/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
