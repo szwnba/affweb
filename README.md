@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Zeropark changing campaign approval process!](https://afflift.com/f/threads/zeropark-changing-campaign-approval-process.11198/?utm_source=rss&utm_medium=rss)
+-  28 [Eid Mubarak!](https://afflift.com/f/threads/eid-mubarak.11199/?utm_source=rss&utm_medium=rss)
+-  28 [Step by step to host your landing pages in your own vultr server](https://afflift.com/f/threads/step-by-step-to-host-your-landing-pages-in-your-own-vultr-server.4044/?utm_source=rss&utm_medium=rss)
+-  28 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
+-  28 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
 -  28 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/?utm_source=rss&utm_medium=rss)
 -  28 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)
 -  28 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/?utm_source=rss&utm_medium=rss)
--  28 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
--  28 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
 -  28 [Nick&#39;s Survey LP with Bootstrap](https://afflift.com/f/threads/nicks-survey-lp-with-bootstrap.7636/?utm_source=rss&utm_medium=rss)
 -  28 [Has anyone tried an interface button as an advertising format?](https://afflift.com/f/threads/has-anyone-tried-an-interface-button-as-an-advertising-format.11196/?utm_source=rss&utm_medium=rss)
 -  28 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/?utm_source=rss&utm_medium=rss)
--  28 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
--  28 [Meet with us at Affiliate World Conferences Europe 2023!](https://afflift.com/f/threads/meet-with-us-at-affiliate-world-conferences-europe-2023.11195/?utm_source=rss&utm_medium=rss)
--  28 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
--  28 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
