@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
 -  28 [Zeropark changing campaign approval process!](https://afflift.com/f/threads/zeropark-changing-campaign-approval-process.11198/?utm_source=rss&utm_medium=rss)
 -  28 [Eid Mubarak!](https://afflift.com/f/threads/eid-mubarak.11199/?utm_source=rss&utm_medium=rss)
 -  28 [Step by step to host your landing pages in your own vultr server](https://afflift.com/f/threads/step-by-step-to-host-your-landing-pages-in-your-own-vultr-server.4044/?utm_source=rss&utm_medium=rss)
@@ -34,8 +35,7 @@
 -  28 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/?utm_source=rss&utm_medium=rss)
 -  28 [Nick&#39;s Survey LP with Bootstrap](https://afflift.com/f/threads/nicks-survey-lp-with-bootstrap.7636/?utm_source=rss&utm_medium=rss)
 -  28 [Has anyone tried an interface button as an advertising format?](https://afflift.com/f/threads/has-anyone-tried-an-interface-button-as-an-advertising-format.11196/?utm_source=rss&utm_medium=rss)
--  28 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/?utm_source=rss&utm_medium=rss)
--  28 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
