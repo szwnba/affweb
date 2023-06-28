@@ -11,6 +11,7 @@
 ### advertcn
 <!-- advertcn:START -->
 -  28 [清账结贴](https://www.advertcn.com/forum.php?mod=viewthread&tid=110993)
+-  27 [查询AdSense号部署在哪些网站 用的哪个平台](https://www.advertcn.com/forum.php?mod=viewthread&tid=110992)
 -  27 [Reflex Affiliates， 我们来了！！！](https://www.advertcn.com/forum.php?mod=viewthread&tid=110989)
 -  27 [sweepstake的offer有诀窍吗](https://www.advertcn.com/forum.php?mod=viewthread&tid=110986)<!-- advertcn:END -->
 
