@@ -24,6 +24,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
+-  29 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/?utm_source=rss&utm_medium=rss)
+-  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  29 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)
 -  29 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
 -  29 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
@@ -32,10 +35,7 @@
 -  28 [Let&#39;s Talk Nutra in Barcelona!](https://afflift.com/f/threads/lets-talk-nutra-in-barcelona.11201/?utm_source=rss&utm_medium=rss)
 -  28 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
 -  28 [Zeropark changing campaign approval process!](https://afflift.com/f/threads/zeropark-changing-campaign-approval-process.11198/?utm_source=rss&utm_medium=rss)
--  28 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
--  28 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/?utm_source=rss&utm_medium=rss)
--  28 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)
--  28 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
