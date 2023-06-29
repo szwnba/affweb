@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  28 [CacheFly免费CDN 每月5T流量，自定义域名，全球Anycast加速](https://51.ruyo.net/18411.html)<!-- ruyo:END -->
+-  29 [Azure订阅被禁用如何找回服务器数据实操教程](https://51.ruyo.net/18413.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
