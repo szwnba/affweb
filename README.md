@@ -24,11 +24,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Eid Mubarak!](https://afflift.com/f/threads/eid-mubarak.11199/?utm_source=rss&utm_medium=rss)
+-  29 [First FA following the pops beginner guide](https://afflift.com/f/threads/first-fa-following-the-pops-beginner-guide.11121/?utm_source=rss&utm_medium=rss)
 -  28 [Let&#39;s Talk Nutra in Barcelona!](https://afflift.com/f/threads/lets-talk-nutra-in-barcelona.11201/?utm_source=rss&utm_medium=rss)
--  28 [First FA following the pops beginner guide](https://afflift.com/f/threads/first-fa-following-the-pops-beginner-guide.11121/?utm_source=rss&utm_medium=rss)
 -  28 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
 -  28 [Zeropark changing campaign approval process!](https://afflift.com/f/threads/zeropark-changing-campaign-approval-process.11198/?utm_source=rss&utm_medium=rss)
--  28 [Eid Mubarak!](https://afflift.com/f/threads/eid-mubarak.11199/?utm_source=rss&utm_medium=rss)
 -  28 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
 -  28 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
 -  28 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/?utm_source=rss&utm_medium=rss)
