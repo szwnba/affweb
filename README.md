@@ -39,8 +39,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [Kindle 中国区电子书店即将停止运营，你可以这样下载买过的电子书](https://sspai.com/post/56997)
 -  29 [收集、学习、创作：这是我的论文阅读流](https://sspai.com/post/79966)
 -  29 [派早报：ChatGPT 集成必应搜索、菜鸟推出自营快递业务等](https://sspai.com/post/80688)
 -  28 [Google 做不好的「小组件」，MIUI 做对了什么？](https://sspai.com/prime/story/android-widget-problems)
--  28 [播客 | 从锤科公关，到香蕉攀岩老板](https://sspai.com/post/80603)
--  28 [基于 n8n 的开源自动化：以滴答清单同步 Notion 为例](https://sspai.com/prime/story/automation-n8n)<!-- sspai:END -->
+-  28 [播客 | 从锤科公关，到香蕉攀岩老板](https://sspai.com/post/80603)<!-- sspai:END -->
