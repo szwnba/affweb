@@ -11,8 +11,9 @@
 ### advertcn
 <!-- advertcn:START -->
 -  29 [过去2年，一共花费了【80万】刀在停放项目上](https://www.advertcn.com/forum.php?mod=viewthread&tid=111011)
--  28 [出售繁体游戏站点+adsense](https://www.advertcn.com/forum.php?mod=viewthread&tid=111001)
--  28 [有没有跑fp品google  shopping广告的，欢迎测试](https://www.advertcn.com/forum.php?mod=viewthread&tid=110997)<!-- advertcn:END -->
+-  28 [关于油管频道布局向大家征求意见](https://www.advertcn.com/forum.php?mod=viewthread&tid=111010)
+-  28 [香港渣打可以收Clickbank吗？XACH是什么？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111008)
+-  28 [出售繁体游戏站点+adsense](https://www.advertcn.com/forum.php?mod=viewthread&tid=111001)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
