@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
+-  29 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
 -  29 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/?utm_source=rss&utm_medium=rss)
 -  29 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
 -  29 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/?utm_source=rss&utm_medium=rss)
 -  29 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/?utm_source=rss&utm_medium=rss)
 -  29 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
--  29 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
 -  29 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
 -  29 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/?utm_source=rss&utm_medium=rss)
 -  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
 -  29 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)
--  29 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)
--  29 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  29 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
