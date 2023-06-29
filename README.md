@@ -24,6 +24,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/?utm_source=rss&utm_medium=rss)
+-  29 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
+-  29 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
 -  29 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
 -  29 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/?utm_source=rss&utm_medium=rss)
 -  29 [Got my account banned from Monetag with no explanation.](https://afflift.com/f/threads/got-my-account-banned-from-monetag-with-no-explanation.11023/?utm_source=rss&utm_medium=rss)
@@ -32,10 +35,7 @@
 -  29 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
 -  29 [Eid Mubarak!](https://afflift.com/f/threads/eid-mubarak.11199/?utm_source=rss&utm_medium=rss)
 -  29 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
--  28 [Let&#39;s Talk Nutra in Barcelona!](https://afflift.com/f/threads/lets-talk-nutra-in-barcelona.11201/?utm_source=rss&utm_medium=rss)
--  28 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
--  28 [Zeropark changing campaign approval process!](https://afflift.com/f/threads/zeropark-changing-campaign-approval-process.11198/?utm_source=rss&utm_medium=rss)
--  28 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  28 [Let&#39;s Talk Nutra in Barcelona!](https://afflift.com/f/threads/lets-talk-nutra-in-barcelona.11201/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
