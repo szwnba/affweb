@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [英语学习的听说读写，我都用了这些工具来搞定](https://sspai.com/post/80086)
 -  30 [派早报：华硕发布 Zenfone 10 手机、佳明发布 fēnix 7 Pro 系列智能手表](https://sspai.com/post/80720)
 -  29 [新玩意 151｜少数派的编辑们最近买了啥？](https://sspai.com/post/80707)
 -  29 [Kindle 中国区电子书店即将停止运营，你可以这样下载买过的电子书](https://sspai.com/post/56997)<!-- sspai:END -->
