@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  29 [干货教程：如何在ClickDealer用Tiktok流量跑太阳能产品](https://www.advertcn.com/forum.php?mod=viewthread&tid=110962)<!-- advertcn:END -->
+-  30 [记录第一次实操](https://www.advertcn.com/forum.php?mod=viewthread&tid=111024)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
