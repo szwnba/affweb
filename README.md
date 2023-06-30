@@ -38,5 +38,4 @@
 -  30 [祝你愉快——别了家驹三十载](https://sspai.com/post/80656)
 -  30 [上车聊聊 | 2023 年，极氪 001 还值得买吗？](https://sspai.com/post/80116)
 -  30 [英语学习的听说读写，我都用了这些工具来搞定](https://sspai.com/post/80086)
--  30 [派早报：华硕发布 Zenfone 10 手机、佳明发布 fēnix 7 Pro 系列智能手表](https://sspai.com/post/80720)
--  29 [新玩意 151｜少数派的编辑们最近买了啥？](https://sspai.com/post/80707)<!-- sspai:END -->
+-  30 [派早报：华硕发布 Zenfone 10 手机、佳明发布 fēnix 7 Pro 系列智能手表](https://sspai.com/post/80720)<!-- sspai:END -->
