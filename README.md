@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
+-  30 [Heading to Barcelona and Looking for in-house Dating Offers?](https://afflift.com/f/threads/heading-to-barcelona-and-looking-for-in-house-dating-offers.11211/?utm_source=rss&utm_medium=rss)
+-  30 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
 -  30 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/?utm_source=rss&utm_medium=rss)
 -  30 [We are waiting for you in AW Europe 2023 in Barcelona!](https://afflift.com/f/threads/we-are-waiting-for-you-in-aw-europe-2023-in-barcelona.11210/?utm_source=rss&utm_medium=rss)
 -  30 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/?utm_source=rss&utm_medium=rss)
@@ -27,11 +30,8 @@
 -  30 [Help needed with cpamatica tracking](https://afflift.com/f/threads/help-needed-with-cpamatica-tracking.11209/?utm_source=rss&utm_medium=rss)
 -  30 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)
 -  30 [I got many fraud traffic from Push.house](https://afflift.com/f/threads/i-got-many-fraud-traffic-from-push-house.11206/?utm_source=rss&utm_medium=rss)
--  29 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
 -  29 [Use these AI Earning Tricks in RTB Affiliate Marketing](https://afflift.com/f/threads/use-these-ai-earning-tricks-in-rtb-affiliate-marketing.11207/?utm_source=rss&utm_medium=rss)
--  29 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/?utm_source=rss&utm_medium=rss)
--  29 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/?utm_source=rss&utm_medium=rss)
--  29 [Any other affiliate at AWE Barcelona 2023?](https://afflift.com/f/threads/any-other-affiliate-at-awe-barcelona-2023.11205/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  29 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
