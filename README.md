@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  29 [干货教程：如何在ClickDealer用Tiktok流量跑太阳能产品](https://www.advertcn.com/forum.php?mod=viewthread&tid=110962)
--  29 [求助，在使用的追踪域名被标记不让上新广告怎么解决？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111015)<!-- advertcn:END -->
+-  29 [干货教程：如何在ClickDealer用Tiktok流量跑太阳能产品](https://www.advertcn.com/forum.php?mod=viewthread&tid=110962)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
