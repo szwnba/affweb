@@ -27,8 +27,7 @@
 -  01 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
 -  01 [First Taboola Ecommerce CampaignS](https://afflift.com/f/threads/first-taboola-ecommerce-campaigns.10375/?utm_source=rss&utm_medium=rss)
 -  01 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/?utm_source=rss&utm_medium=rss)
--  01 [Happy Birthday to PropellerAds!](https://afflift.com/f/threads/happy-birthday-to-propellerads.11214/?utm_source=rss&utm_medium=rss)
--  30 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  01 [Happy Birthday to PropellerAds!](https://afflift.com/f/threads/happy-birthday-to-propellerads.11214/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
