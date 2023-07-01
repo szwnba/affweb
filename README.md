@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [跳一跳就能够得着：如何跑完你的第一个全程马拉松？](https://sspai.com/post/80117)
 -  30 [家庭居酒屋进货指南](https://sspai.com/prime/story/izakaya-menu-items-diy)
 -  30 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/80737)
 -  30 [祝你愉快——别了家驹三十载](https://sspai.com/post/80656)
--  30 [上车聊聊 | 2023 年，极氪 001 还值得买吗？](https://sspai.com/post/80116)
--  30 [英语学习的听说读写，我都用了这些工具来搞定](https://sspai.com/post/80086)<!-- sspai:END -->
+-  30 [上车聊聊 | 2023 年，极氪 001 还值得买吗？](https://sspai.com/post/80116)<!-- sspai:END -->
