@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Apple removing UTMs and clickIDs on iOS 17](https://afflift.com/f/threads/apple-removing-utms-and-clickids-on-ios-17.11111/?utm_source=rss&utm_medium=rss)
 -  01 [First Taboola Ecommerce CampaignS](https://afflift.com/f/threads/first-taboola-ecommerce-campaigns.10375/?utm_source=rss&utm_medium=rss)
 -  01 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/?utm_source=rss&utm_medium=rss)
 -  01 [Happy Birthday to PropellerAds!](https://afflift.com/f/threads/happy-birthday-to-propellerads.11214/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  30 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/?utm_source=rss&utm_medium=rss)
 -  30 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/?utm_source=rss&utm_medium=rss)
 -  30 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/?utm_source=rss&utm_medium=rss)
--  30 [Feature alert: Switch FB campaigns ON/OFF in RedTrack &lpar;+ discount!&rpar;](https://afflift.com/f/threads/feature-alert-switch-fb-campaigns-on-off-in-redtrack-discount.11212/?utm_source=rss&utm_medium=rss)
--  30 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  30 [Feature alert: Switch FB campaigns ON/OFF in RedTrack &lpar;+ discount!&rpar;](https://afflift.com/f/threads/feature-alert-switch-fb-campaigns-on-off-in-redtrack-discount.11212/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
