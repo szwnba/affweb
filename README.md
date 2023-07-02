@@ -34,5 +34,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  02 [一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？](https://sspai.com/post/80776)
--  01 [这份工作小技能与经验合集，送给刚刚踏入职场的你](https://sspai.com/post/80723)<!-- sspai:END -->
+-  02 [一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？](https://sspai.com/post/80776)<!-- sspai:END -->
