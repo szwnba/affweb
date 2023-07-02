@@ -30,8 +30,7 @@
 -  02 [Join AdMaven at Affiliate World Europe 2023!](https://afflift.com/f/threads/join-admaven-at-affiliate-world-europe-2023.11216/?utm_source=rss&utm_medium=rss)
 -  02 [Questions about, propellerads, push, cpagoal](https://afflift.com/f/threads/questions-about-propellerads-push-cpagoal.11215/?utm_source=rss&utm_medium=rss)
 -  01 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
--  01 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)
--  01 [Top Affiliate network won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-wont-pay-scam.11128/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  01 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
