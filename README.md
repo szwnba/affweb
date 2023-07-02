@@ -34,5 +34,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  01 [这份工作小技能与经验合集，送给刚刚踏入职场的你](https://sspai.com/post/80723)
--  01 [跳一跳就能够得着：如何跑完你的第一个全程马拉松？](https://sspai.com/post/80117)<!-- sspai:END -->
+-  02 [一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？](https://sspai.com/post/80776)
+-  01 [这份工作小技能与经验合集，送给刚刚踏入职场的你](https://sspai.com/post/80723)<!-- sspai:END -->
