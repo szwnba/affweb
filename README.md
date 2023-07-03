@@ -22,12 +22,12 @@
 ### afflift
 <!-- afflift:START -->
 -  03 [Galaksion + Affmy + Push Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-push-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)
--  03 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/?utm_source=rss&utm_medium=rss)
+-  03 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
 -  03 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/?utm_source=rss&utm_medium=rss)
+-  03 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/?utm_source=rss&utm_medium=rss)
 -  03 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/?utm_source=rss&utm_medium=rss)
 -  03 [$0 to $10,000 p/month - Theme Pages &lpar;Tiktok, Insta, Youtube, FB Reels&rpar; - Case Study / Follow Along!](https://afflift.com/f/threads/0-to-10-000-p-month-theme-pages-tiktok-insta-youtube-fb-reels-case-study-follow-along.9903/?utm_source=rss&utm_medium=rss)
 -  03 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/?utm_source=rss&utm_medium=rss)
--  03 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
 -  03 [Questions about, propellerads, push, cpagoal](https://afflift.com/f/threads/questions-about-propellerads-push-cpagoal.11215/?utm_source=rss&utm_medium=rss)
 -  03 [dr.cash digest](https://afflift.com/f/threads/dr-cash-digest.9730/?utm_source=rss&utm_medium=rss)
 -  03 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)
