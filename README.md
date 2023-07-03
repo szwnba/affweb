@@ -35,4 +35,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [在没有工作的时候整理自己：往前看，别回头](https://sspai.com/post/80235)
 -  03 [派早报：推特以反爬为由禁止匿名浏览，多个知名 Reddit 客户端谢幕](https://sspai.com/post/80790)<!-- sspai:END -->
