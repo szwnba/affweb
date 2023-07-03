@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [galaksion+GG=xx$?](https://afflift.com/f/threads/galaksion-gg-xx.11220/?utm_source=rss&utm_medium=rss)
 -  03 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/?utm_source=rss&utm_medium=rss)
 -  03 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/?utm_source=rss&utm_medium=rss)
 -  03 [The slowest but rather interesting SEO follow along](https://afflift.com/f/threads/the-slowest-but-rather-interesting-seo-follow-along.4759/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  03 [PPV vs Mobipium PNSL &lpar;Rematch&rpar;](https://afflift.com/f/threads/ppv-vs-mobipium-pnsl-rematch.2850/?utm_source=rss&utm_medium=rss)
 -  03 [Monetizing Twitter | $0 to $1000/Month Profit](https://afflift.com/f/threads/monetizing-twitter-0-to-1000-month-profit.10640/?utm_source=rss&utm_medium=rss)
 -  03 [Hey Afflift! 😄](https://afflift.com/f/threads/hey-afflift-%F0%9F%98%84.11184/?utm_source=rss&utm_medium=rss)
--  03 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
--  03 [PartnerStack—Top B2B Software + Technology Affiliate Network](https://afflift.com/f/threads/partnerstack%E2%80%94top-b2b-software-technology-affiliate-network.9649/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  03 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
