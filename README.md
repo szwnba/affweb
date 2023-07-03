@@ -33,4 +33,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  02 [一日一技 | 旧版 Android 应用安装包难找，如何自己动手备份？](https://sspai.com/post/80776)<!-- sspai:END -->
+-  03 [派早报：推特以反爬为由禁止匿名浏览，多个知名 Reddit 客户端谢幕](https://sspai.com/post/80790)<!-- sspai:END -->
