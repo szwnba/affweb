@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  02 [返利实操经验，新方向的探索！！！](https://www.advertcn.com/forum.php?mod=viewthread&tid=111044)<!-- advertcn:END -->
+-  03 [新人报道，准备潜心向各位大佬学习～](https://www.advertcn.com/forum.php?mod=viewthread&tid=111058)
+-  03 [请问一下怎么合规地收黑5联盟的款，结汇](https://www.advertcn.com/forum.php?mod=viewthread&tid=111045)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
