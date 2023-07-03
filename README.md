@@ -21,7 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Galaksion + Affmy + Push Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-push-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)
+-  03 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
+-  03 [PPV vs Mobipium PNSL &lpar;Rematch&rpar;](https://afflift.com/f/threads/ppv-vs-mobipium-pnsl-rematch.2850/?utm_source=rss&utm_medium=rss)
+-  03 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)
 -  03 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
 -  03 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/?utm_source=rss&utm_medium=rss)
 -  03 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/?utm_source=rss&utm_medium=rss)
@@ -30,9 +32,7 @@
 -  03 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/?utm_source=rss&utm_medium=rss)
 -  03 [Questions about, propellerads, push, cpagoal](https://afflift.com/f/threads/questions-about-propellerads-push-cpagoal.11215/?utm_source=rss&utm_medium=rss)
 -  03 [dr.cash digest](https://afflift.com/f/threads/dr-cash-digest.9730/?utm_source=rss&utm_medium=rss)
--  03 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)
--  03 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/?utm_source=rss&utm_medium=rss)
--  03 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  03 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
