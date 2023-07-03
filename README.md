@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [订阅与买断、付费与免费，我是如何进行软件消费决策的](https://sspai.com/post/80754)
 -  03 [一日一技 | 一行代码为 Windows 自动更新暂停「续杯」](https://sspai.com/post/80562)
 -  03 [在没有工作的时候整理自己：往前看，别回头](https://sspai.com/post/80235)
 -  03 [派早报：推特以反爬为由禁止匿名浏览，多个知名 Reddit 客户端谢幕](https://sspai.com/post/80790)<!-- sspai:END -->
