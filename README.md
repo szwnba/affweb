@@ -39,5 +39,4 @@
 -  04 [从月光到攒下 6 位数，聊聊我的储蓄、记账与消费](https://sspai.com/post/80330)
 -  04 [派早报：Meta 将推出 Twitter 竞品，Twitter 限制 TweetDeck 开放等](https://sspai.com/post/80821)
 -  03 [派评 | 近期值得关注的 App](https://sspai.com/post/80811)
--  03 [订阅与买断、付费与免费，我是如何进行软件消费决策的](https://sspai.com/post/80754)
--  03 [一日一技 | 一行代码为 Windows 自动更新暂停「续杯」](https://sspai.com/post/80562)<!-- sspai:END -->
+-  03 [订阅与买断、付费与免费，我是如何进行软件消费决策的](https://sspai.com/post/80754)<!-- sspai:END -->
