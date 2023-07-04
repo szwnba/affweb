@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)
+-  04 [Monetize ROM downloads &lpar;gaming&rpar; website](https://afflift.com/f/threads/monetize-rom-downloads-gaming-website.11227/?utm_source=rss&utm_medium=rss)
 -  04 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/?utm_source=rss&utm_medium=rss)
 -  04 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/?utm_source=rss&utm_medium=rss)
 -  04 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
 -  04 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
--  04 [Monetize ROM downloads &lpar;gaming&rpar; website](https://afflift.com/f/threads/monetize-rom-downloads-gaming-website.11227/?utm_source=rss&utm_medium=rss)
 -  04 [Private offers to Africa🤑](https://afflift.com/f/threads/private-offers-to-africa%F0%9F%A4%91.10430/?utm_source=rss&utm_medium=rss)
 -  04 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)
 -  04 [Happy Birthday to PropellerAds!](https://afflift.com/f/threads/happy-birthday-to-propellerads.11214/?utm_source=rss&utm_medium=rss)
 -  04 [Suggest a tracker to detect and stop bot/fraud ad clicks](https://afflift.com/f/threads/suggest-a-tracker-to-detect-and-stop-bot-fraud-ad-clicks.11226/?utm_source=rss&utm_medium=rss)
 -  04 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
--  04 [My 2021 Email Marketing Review/Report](https://afflift.com/f/threads/my-2021-email-marketing-review-report.8096/?utm_source=rss&utm_medium=rss)
--  03 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  04 [My 2021 Email Marketing Review/Report](https://afflift.com/f/threads/my-2021-email-marketing-review-report.8096/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
