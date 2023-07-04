@@ -21,9 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Suggest a tracker to detect and stop bot/fraud ad clicks](https://afflift.com/f/threads/suggest-a-tracker-to-detect-and-stop-bot-fraud-ad-clicks.11226/?utm_source=rss&utm_medium=rss)
 -  04 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)
 -  04 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
--  04 [Suggest a tracker to detect and stop bot/fraud ad clicks](https://afflift.com/f/threads/suggest-a-tracker-to-detect-and-stop-bot-fraud-ad-clicks.11226/?utm_source=rss&utm_medium=rss)
 -  04 [My 2021 Email Marketing Review/Report](https://afflift.com/f/threads/my-2021-email-marketing-review-report.8096/?utm_source=rss&utm_medium=rss)
 -  03 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
 -  03 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)
