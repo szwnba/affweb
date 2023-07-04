@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
 -  03 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)
 -  03 [Pops Guide - PopAds + Mobipium](https://afflift.com/f/threads/pops-guide-popads-mobipium.11178/?utm_source=rss&utm_medium=rss)
 -  03 [PPV vs Mobipium PNSL &lpar;Rematch&rpar;](https://afflift.com/f/threads/ppv-vs-mobipium-pnsl-rematch.2850/?utm_source=rss&utm_medium=rss)
@@ -31,8 +32,7 @@
 -  03 [$0 to $10,000 p/month - Theme Pages &lpar;Tiktok, Insta, Youtube, FB Reels&rpar; - Case Study / Follow Along!](https://afflift.com/f/threads/0-to-10-000-p-month-theme-pages-tiktok-insta-youtube-fb-reels-case-study-follow-along.9903/?utm_source=rss&utm_medium=rss)
 -  03 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/?utm_source=rss&utm_medium=rss)
 -  03 [Questions about, propellerads, push, cpagoal](https://afflift.com/f/threads/questions-about-propellerads-push-cpagoal.11215/?utm_source=rss&utm_medium=rss)
--  03 [dr.cash digest](https://afflift.com/f/threads/dr-cash-digest.9730/?utm_source=rss&utm_medium=rss)
--  03 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  03 [dr.cash digest](https://afflift.com/f/threads/dr-cash-digest.9730/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
