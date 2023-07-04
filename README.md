@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [付费墙的短与长（二）：怎样有效保存已订阅内容](https://sspai.com/prime/story/on-paywalls-02)
 -  04 [社区速递 002：作者的新玩意、一派热议和本周精选](https://sspai.com/post/80832)
 -  04 [万字解析 | 十年磨一剑，Notion 的过去、现在与将来](https://sspai.com/post/80474)
 -  04 [告别分类、拥抱自由，让时间记录回归记录本身](https://sspai.com/post/80812)
--  04 [从月光到攒下 6 位数，聊聊我的储蓄、记账与消费](https://sspai.com/post/80330)
--  04 [派早报：Meta 将推出 Twitter 竞品，Twitter 限制 TweetDeck 开放等](https://sspai.com/post/80821)<!-- sspai:END -->
+-  04 [从月光到攒下 6 位数，聊聊我的储蓄、记账与消费](https://sspai.com/post/80330)<!-- sspai:END -->
