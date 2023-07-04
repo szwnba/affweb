@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)
+-  04 [Monetize ROM downloads &lpar;gaming&rpar; website](https://afflift.com/f/threads/monetize-rom-downloads-gaming-website.11227/?utm_source=rss&utm_medium=rss)
 -  04 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)
 -  04 [Rejected Lander](https://afflift.com/f/threads/rejected-lander.11230/?utm_source=rss&utm_medium=rss)
 -  04 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/?utm_source=rss&utm_medium=rss)
--  04 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)
 -  04 [Ads Network with direct link for publisher](https://afflift.com/f/threads/ads-network-with-direct-link-for-publisher.11218/?utm_source=rss&utm_medium=rss)
 -  04 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
 -  04 [Questions about, propellerads, push, cpagoal](https://afflift.com/f/threads/questions-about-propellerads-push-cpagoal.11215/?utm_source=rss&utm_medium=rss)
 -  04 [New Icons for Tab Direct Link Ad Format](https://afflift.com/f/threads/new-icons-for-tab-direct-link-ad-format.11228/?utm_source=rss&utm_medium=rss)
 -  04 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/?utm_source=rss&utm_medium=rss)
 -  04 [Help Please - Affiliate Marketing](https://afflift.com/f/threads/help-please-affiliate-marketing.10858/?utm_source=rss&utm_medium=rss)
--  04 [galaksion+GG=xx$?](https://afflift.com/f/threads/galaksion-gg-xx.11220/?utm_source=rss&utm_medium=rss)
--  04 [Monetize ROM downloads &lpar;gaming&rpar; website](https://afflift.com/f/threads/monetize-rom-downloads-gaming-website.11227/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  04 [galaksion+GG=xx$?](https://afflift.com/f/threads/galaksion-gg-xx.11220/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
