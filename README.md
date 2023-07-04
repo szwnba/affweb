@@ -22,9 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Rejected Lander](https://afflift.com/f/threads/rejected-lander.11230/?utm_source=rss&utm_medium=rss)
 -  04 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/?utm_source=rss&utm_medium=rss)
 -  04 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)
--  04 [Rejected Lander](https://afflift.com/f/threads/rejected-lander.11230/?utm_source=rss&utm_medium=rss)
 -  04 [Ads Network with direct link for publisher](https://afflift.com/f/threads/ads-network-with-direct-link-for-publisher.11218/?utm_source=rss&utm_medium=rss)
 -  04 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
 -  04 [Questions about, propellerads, push, cpagoal](https://afflift.com/f/threads/questions-about-propellerads-push-cpagoal.11215/?utm_source=rss&utm_medium=rss)
