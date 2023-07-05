@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Professional and Fast socks5/http&lpar;s&rpar; Proxy](https://afflift.com/f/threads/professional-and-fast-socks5-http-s-proxy.11234/?utm_source=rss&utm_medium=rss)
+-  05 [Please raise the Facebook bill payment threshold](https://afflift.com/f/threads/please-raise-the-facebook-bill-payment-threshold.11233/?utm_source=rss&utm_medium=rss)
 -  05 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)
 -  05 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)
 -  05 [Adult traffic 0 click](https://afflift.com/f/threads/adult-traffic-0-click.11232/?utm_source=rss&utm_medium=rss)
@@ -30,9 +32,7 @@
 -  05 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/?utm_source=rss&utm_medium=rss)
 -  04 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
 -  04 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/?utm_source=rss&utm_medium=rss)
--  04 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)
--  04 [Monetize ROM downloads &lpar;gaming&rpar; website](https://afflift.com/f/threads/monetize-rom-downloads-gaming-website.11227/?utm_source=rss&utm_medium=rss)
--  04 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  04 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
