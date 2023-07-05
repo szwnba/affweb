@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  04 [小小发个贴，向高手大佬学习](https://www.advertcn.com/forum.php?mod=viewthread&tid=111067)
--  04 [Tiktok Ads $0 – $10k 30天挑战教程](https://www.advertcn.com/forum.php?mod=viewthread&tid=111066)<!-- advertcn:END -->
+-  05 [谁可以接收美国电汇？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111080)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
