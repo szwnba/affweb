@@ -11,8 +11,7 @@
 ### advertcn
 <!-- advertcn:START -->
 -  04 [小小发个贴，向高手大佬学习](https://www.advertcn.com/forum.php?mod=viewthread&tid=111067)
--  04 [Tiktok Ads $0 – $10k 30天挑战教程](https://www.advertcn.com/forum.php?mod=viewthread&tid=111066)
--  04 [艹！hostloc套皮做chatgpt和Midjourney盈利的，非法经营，刑拘了](https://www.advertcn.com/forum.php?mod=viewthread&tid=111061)<!-- advertcn:END -->
+-  04 [Tiktok Ads $0 – $10k 30天挑战教程](https://www.advertcn.com/forum.php?mod=viewthread&tid=111066)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
