@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/?utm_source=rss&utm_medium=rss)
+-  05 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/?utm_source=rss&utm_medium=rss)
+-  05 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
 -  05 [galaksion+GG=xx$?](https://afflift.com/f/threads/galaksion-gg-xx.11220/?utm_source=rss&utm_medium=rss)
 -  05 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/?utm_source=rss&utm_medium=rss)
 -  05 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)
@@ -29,10 +32,7 @@
 -  05 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/?utm_source=rss&utm_medium=rss)
 -  05 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/?utm_source=rss&utm_medium=rss)
 -  05 [dr.cash at Affiliate World in Barcelona😎](https://afflift.com/f/threads/dr-cash-at-affiliate-world-in-barcelona%F0%9F%98%8E.11110/?utm_source=rss&utm_medium=rss)
--  05 [Ads Network with direct link for publisher](https://afflift.com/f/threads/ads-network-with-direct-link-for-publisher.11218/?utm_source=rss&utm_medium=rss)
--  05 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
--  05 [Monetize ROM downloads &lpar;gaming&rpar; website](https://afflift.com/f/threads/monetize-rom-downloads-gaming-website.11227/?utm_source=rss&utm_medium=rss)
--  05 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  05 [Ads Network with direct link for publisher](https://afflift.com/f/threads/ads-network-with-direct-link-for-publisher.11218/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
