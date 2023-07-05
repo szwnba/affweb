@@ -21,6 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/?utm_source=rss&utm_medium=rss)
+-  05 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/?utm_source=rss&utm_medium=rss)
+-  05 [Happy Birthday to PropellerAds!](https://afflift.com/f/threads/happy-birthday-to-propellerads.11214/?utm_source=rss&utm_medium=rss)
+-  05 [dr.cash at Affiliate World in Barcelona😎](https://afflift.com/f/threads/dr-cash-at-affiliate-world-in-barcelona%F0%9F%98%8E.11110/?utm_source=rss&utm_medium=rss)
 -  05 [Ads Network with direct link for publisher](https://afflift.com/f/threads/ads-network-with-direct-link-for-publisher.11218/?utm_source=rss&utm_medium=rss)
 -  05 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
 -  05 [Monetize ROM downloads &lpar;gaming&rpar; website](https://afflift.com/f/threads/monetize-rom-downloads-gaming-website.11227/?utm_source=rss&utm_medium=rss)
@@ -28,11 +32,7 @@
 -  05 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/?utm_source=rss&utm_medium=rss)
 -  05 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/?utm_source=rss&utm_medium=rss)
 -  05 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)
--  05 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
--  05 [Push &gt; E-Mail Sign UP &gt; Casino Offers](https://afflift.com/f/threads/push-e-mail-sign-up-casino-offers.8155/?utm_source=rss&utm_medium=rss)
--  05 [Professional and Fast socks5/http&lpar;s&rpar; Proxy](https://afflift.com/f/threads/professional-and-fast-socks5-http-s-proxy.11234/?utm_source=rss&utm_medium=rss)
--  05 [Please raise the Facebook bill payment threshold](https://afflift.com/f/threads/please-raise-the-facebook-bill-payment-threshold.11233/?utm_source=rss&utm_medium=rss)
--  05 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  05 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
