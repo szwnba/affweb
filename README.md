@@ -21,6 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/?utm_source=rss&utm_medium=rss)
+-  05 [Ads Network with direct link for publisher](https://afflift.com/f/threads/ads-network-with-direct-link-for-publisher.11218/?utm_source=rss&utm_medium=rss)
+-  05 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/?utm_source=rss&utm_medium=rss)
+-  05 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)
 -  05 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
 -  05 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/?utm_source=rss&utm_medium=rss)
 -  05 [Push &gt; E-Mail Sign UP &gt; Casino Offers](https://afflift.com/f/threads/push-e-mail-sign-up-casino-offers.8155/?utm_source=rss&utm_medium=rss)
@@ -28,11 +32,7 @@
 -  05 [Please raise the Facebook bill payment threshold](https://afflift.com/f/threads/please-raise-the-facebook-bill-payment-threshold.11233/?utm_source=rss&utm_medium=rss)
 -  05 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/?utm_source=rss&utm_medium=rss)
 -  05 [🎉 Mobidea&#39;s 12th Anniversary Challenge 🎉](https://afflift.com/f/threads/%F0%9F%8E%89-mobideas-12th-anniversary-challenge-%F0%9F%8E%89.11043/?utm_source=rss&utm_medium=rss)
--  05 [Adult traffic 0 click](https://afflift.com/f/threads/adult-traffic-0-click.11232/?utm_source=rss&utm_medium=rss)
--  05 [My 2021 Email Marketing Review/Report](https://afflift.com/f/threads/my-2021-email-marketing-review-report.8096/?utm_source=rss&utm_medium=rss)
--  05 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/?utm_source=rss&utm_medium=rss)
--  05 [Host Your Landing Pages for Free &lpar;w/CDN&rpar; in 10 Minutes](https://afflift.com/f/threads/host-your-landing-pages-for-free-w-cdn-in-10-minutes.7673/?utm_source=rss&utm_medium=rss)
--  05 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  05 [Adult traffic 0 click](https://afflift.com/f/threads/adult-traffic-0-click.11232/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
