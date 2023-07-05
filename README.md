@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [趁热买点好游戏：Steam 夏促好价推荐](https://sspai.com/post/80854)
 -  05 [macOS 上的高音质播放器，是不是智商税？](https://sspai.com/post/80703)
 -  05 [阿斯巴甜「致癌」了，但你其实（暂时）没必要担心](https://sspai.com/post/80856)
 -  05 [我们做了一款 app，让你在线学习也能轻松记笔记](https://sspai.com/post/80763)
--  05 [派早报：iQOO 11S 发布、Nothing Phone &lpar;2&rpar; 真机亮相等](https://sspai.com/post/80855)
--  04 [付费墙的短与长（二）：怎样有效保存已订阅内容](https://sspai.com/prime/story/on-paywalls-02)<!-- sspai:END -->
+-  05 [派早报：iQOO 11S 发布、Nothing Phone &lpar;2&rpar; 真机亮相等](https://sspai.com/post/80855)<!-- sspai:END -->
