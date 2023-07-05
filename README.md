@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [我们做了一款 app，让你在线学习也能轻松记笔记](https://sspai.com/post/80763)
 -  05 [派早报：iQOO 11S 发布、Nothing Phone &lpar;2&rpar; 真机亮相等](https://sspai.com/post/80855)
 -  04 [付费墙的短与长（二）：怎样有效保存已订阅内容](https://sspai.com/prime/story/on-paywalls-02)
 -  04 [社区速递 002：作者的新玩意、一派热议和本周精选](https://sspai.com/post/80832)
--  04 [万字解析 | 十年磨一剑，Notion 的过去、现在与将来](https://sspai.com/post/80474)
--  04 [告别分类、拥抱自由，让时间记录回归记录本身](https://sspai.com/post/80812)<!-- sspai:END -->
+-  04 [万字解析 | 十年磨一剑，Notion 的过去、现在与将来](https://sspai.com/post/80474)<!-- sspai:END -->
