@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [评论有奖 | 用 59 分钟，让多重任务管理变简单](https://sspai.com/post/80857)
 -  06 [派早报：红魔发布多款新品、企鹅 FM 即将下线等](https://sspai.com/post/80870)
 -  05 [趁热买点好游戏：Steam 夏促好价推荐](https://sspai.com/post/80854)
 -  05 [macOS 上的高音质播放器，是不是智商税？](https://sspai.com/post/80703)
