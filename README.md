@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [want to buy flexoffers &amp; skimlinks account](https://afflift.com/f/threads/want-to-buy-flexoffers-skimlinks-account.11241/?utm_source=rss&utm_medium=rss)
 -  06 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/?utm_source=rss&utm_medium=rss)
 -  06 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/?utm_source=rss&utm_medium=rss)
 -  06 [Let’s meet in Barcelona — at Affiliate World Europe Conference](https://afflift.com/f/threads/let%E2%80%99s-meet-in-barcelona-%E2%80%94-at-affiliate-world-europe-conference.11240/?utm_source=rss&utm_medium=rss)
@@ -30,8 +31,7 @@
 -  06 [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/?utm_source=rss&utm_medium=rss)
 -  06 [Melbet Partners | RevShare| CPA |Hybrid offers](https://afflift.com/f/threads/melbet-partners-revshare-cpa-hybrid-offers.11237/?utm_source=rss&utm_medium=rss)
 -  06 [PropellerAds + GoldenGoose. Do you use Preland or not?](https://afflift.com/f/threads/propellerads-goldengoose-do-you-use-preland-or-not.11143/?utm_source=rss&utm_medium=rss)
--  06 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/?utm_source=rss&utm_medium=rss)
--  06 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  06 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
