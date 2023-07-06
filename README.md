@@ -38,5 +38,4 @@
 -  06 [一场关于充电器的美学创新：Anker 三合一磁力魔方](https://sspai.com/post/80724)
 -  06 [抗拒生活的赛博化，照顾我身体里的原始人](https://sspai.com/post/80216)
 -  06 [评论有奖 | 用 59 分钟，让多重任务管理变简单](https://sspai.com/post/80857)
--  06 [派早报：红魔发布多款新品、企鹅 FM 即将下线等](https://sspai.com/post/80870)
--  05 [趁热买点好游戏：Steam 夏促好价推荐](https://sspai.com/post/80854)<!-- sspai:END -->
+-  06 [派早报：红魔发布多款新品、企鹅 FM 即将下线等](https://sspai.com/post/80870)<!-- sspai:END -->
