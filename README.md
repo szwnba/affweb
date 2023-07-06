@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [派早报：红魔发布多款新品、企鹅 FM 即将下线等](https://sspai.com/post/80870)
 -  05 [趁热买点好游戏：Steam 夏促好价推荐](https://sspai.com/post/80854)
 -  05 [macOS 上的高音质播放器，是不是智商税？](https://sspai.com/post/80703)
 -  05 [阿斯巴甜「致癌」了，但你其实（暂时）没必要担心](https://sspai.com/post/80856)
