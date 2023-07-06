@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [从 Nexus 7 到 Pixel Tablet：华盖之下的生态顽疾](https://sspai.com/prime/story/vintage-tech-stories-google-tablets)
 -  06 [新玩意 152｜少数派的编辑们最近买了啥？](https://sspai.com/post/80882)
 -  06 [一场关于充电器的美学创新：Anker 三合一磁力魔方](https://sspai.com/post/80724)
 -  06 [抗拒生活的赛博化，照顾我身体里的原始人](https://sspai.com/post/80216)
--  06 [评论有奖 | 用 59 分钟，让多重任务管理变简单](https://sspai.com/post/80857)
--  06 [派早报：红魔发布多款新品、企鹅 FM 即将下线等](https://sspai.com/post/80870)<!-- sspai:END -->
+-  06 [评论有奖 | 用 59 分钟，让多重任务管理变简单](https://sspai.com/post/80857)<!-- sspai:END -->
