@@ -23,7 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Suggest a tracker to detect and stop bot/fraud ad clicks](https://afflift.com/f/threads/suggest-a-tracker-to-detect-and-stop-bot-fraud-ad-clicks.11226/?utm_source=rss&utm_medium=rss)
 -  07 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/?utm_source=rss&utm_medium=rss)
+-  07 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
 -  07 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/?utm_source=rss&utm_medium=rss)
 -  07 [Good CTR for Push](https://afflift.com/f/threads/good-ctr-for-push.10968/?utm_source=rss&utm_medium=rss)
 -  07 [How does push notification achieve this number?](https://afflift.com/f/threads/how-does-push-notification-achieve-this-number.10924/?utm_source=rss&utm_medium=rss)
@@ -32,9 +34,7 @@
 -  07 [Average CTR LP](https://afflift.com/f/threads/average-ctr-lp.11135/?utm_source=rss&utm_medium=rss)
 -  07 [☑️FACEBOOK ADVERTISING ACCOUNT FOR RENT - ☑️&lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , SUPPORT](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Ffacebook-advertising-account-for-rent-%E2%98%91%EF%B8%8F-accept-bh-wh-gh-gaming-crypto-recruitment-investment-support.11021/?utm_source=rss&utm_medium=rss)
 -  07 [want to buy flexoffers &amp; skimlinks account](https://afflift.com/f/threads/want-to-buy-flexoffers-skimlinks-account.11241/?utm_source=rss&utm_medium=rss)
--  07 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
--  07 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/?utm_source=rss&utm_medium=rss)
--  07 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  07 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
