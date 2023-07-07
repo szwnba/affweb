@@ -24,6 +24,7 @@
 ### afflift
 <!-- afflift:START -->
 -  07 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
+-  07 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/?utm_source=rss&utm_medium=rss)
 -  07 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/?utm_source=rss&utm_medium=rss)
 -  06 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)
 -  06 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/?utm_source=rss&utm_medium=rss)
@@ -33,8 +34,7 @@
 -  06 [June PropellerAds Promo Codes](https://afflift.com/f/threads/june-propellerads-promo-codes.11065/?utm_source=rss&utm_medium=rss)
 -  06 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/?utm_source=rss&utm_medium=rss)
 -  06 [want to buy flexoffers &amp; skimlinks account](https://afflift.com/f/threads/want-to-buy-flexoffers-skimlinks-account.11241/?utm_source=rss&utm_medium=rss)
--  06 [How can I withdraw from ePayService?](https://afflift.com/f/threads/how-can-i-withdraw-from-epayservice.11236/?utm_source=rss&utm_medium=rss)
--  06 [PropellerAds + GoldenGoose. Do you use Preland or not?](https://afflift.com/f/threads/propellerads-goldengoose-do-you-use-preland-or-not.11143/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  06 [How can I withdraw from ePayService?](https://afflift.com/f/threads/how-can-i-withdraw-from-epayservice.11236/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
