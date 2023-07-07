@@ -38,8 +38,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [想写就写，灵思无疆：用自动化部署让写作更得心应手](https://sspai.com/post/80741)
 -  07 [派早报：Meta 推出 Twitter 竞品应用 Threads、Sony 推出便携式影院扬声器系统 HT-AX7](https://sspai.com/post/80897)
 -  06 [从 Nexus 7 到 Pixel Tablet：华盖之下的生态顽疾](https://sspai.com/prime/story/vintage-tech-stories-google-tablets)
 -  06 [新玩意 152｜少数派的编辑们最近买了啥？](https://sspai.com/post/80882)
--  06 [一场关于充电器的美学创新：Anker 三合一磁力魔方](https://sspai.com/post/80724)
--  06 [抗拒生活的赛博化，照顾我身体里的原始人](https://sspai.com/post/80216)<!-- sspai:END -->
+-  06 [一场关于充电器的美学创新：Anker 三合一磁力魔方](https://sspai.com/post/80724)<!-- sspai:END -->
