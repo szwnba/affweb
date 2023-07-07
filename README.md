@@ -23,7 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Hey just signed up](https://afflift.com/f/threads/hey-just-signed-up.11246/?utm_source=rss&utm_medium=rss)
 -  07 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/?utm_source=rss&utm_medium=rss)
+-  07 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
 -  07 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/?utm_source=rss&utm_medium=rss)
 -  07 [27% Higher ProPush Profits in Only 1 Month [Case Study]](https://afflift.com/f/threads/27-higher-propush-profits-in-only-1-month-case-study.11245/?utm_source=rss&utm_medium=rss)
 -  07 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/?utm_source=rss&utm_medium=rss)
@@ -32,9 +34,7 @@
 -  07 [Noviclick - Worldwide Pop, Push and Inpage Push Traffic | Official Thread](https://afflift.com/f/threads/noviclick-worldwide-pop-push-and-inpage-push-traffic-official-thread.7213/?utm_source=rss&utm_medium=rss)
 -  07 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
 -  07 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/?utm_source=rss&utm_medium=rss)
--  07 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/?utm_source=rss&utm_medium=rss)
--  07 [Suggest a tracker to detect and stop bot/fraud ad clicks](https://afflift.com/f/threads/suggest-a-tracker-to-detect-and-stop-bot-fraud-ad-clicks.11226/?utm_source=rss&utm_medium=rss)
--  07 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  07 [Chenhosting.com ⚡WEB Hosting⚡Reseller Hosting⚡VPS Server⚡Seo⚡Website Security more..⚡](https://afflift.com/f/threads/chenhosting-com-%E2%9A%A1web-hosting%E2%9A%A1reseller-hosting%E2%9A%A1vps-server%E2%9A%A1seo%E2%9A%A1website-security-more-%E2%9A%A1.10653/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
