@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
+-  07 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
 -  07 [Hey just signed up](https://afflift.com/f/threads/hey-just-signed-up.11246/?utm_source=rss&utm_medium=rss)
 -  07 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
 -  07 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)
@@ -32,9 +34,7 @@
 -  07 [27% Higher ProPush Profits in Only 1 Month [Case Study]](https://afflift.com/f/threads/27-higher-propush-profits-in-only-1-month-case-study.11245/?utm_source=rss&utm_medium=rss)
 -  07 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/?utm_source=rss&utm_medium=rss)
 -  07 [PROXYS.IO - Individual server, mobile and resident IPv4/IPv6 proxies](https://afflift.com/f/threads/proxys-io-individual-server-mobile-and-resident-ipv4-ipv6-proxies.9810/?utm_source=rss&utm_medium=rss)
--  07 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
--  07 [Noviclick - Worldwide Pop, Push and Inpage Push Traffic | Official Thread](https://afflift.com/f/threads/noviclick-worldwide-pop-push-and-inpage-push-traffic-official-thread.7213/?utm_source=rss&utm_medium=rss)
--  07 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  07 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
