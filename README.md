@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [PROXYS.IO - Individual server, mobile and resident IPv4/IPv6 proxies](https://afflift.com/f/threads/proxys-io-individual-server-mobile-and-resident-ipv4-ipv6-proxies.9810/?utm_source=rss&utm_medium=rss)
+-  07 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/?utm_source=rss&utm_medium=rss)
+-  07 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
 -  07 [Noviclick - Worldwide Pop, Push and Inpage Push Traffic | Official Thread](https://afflift.com/f/threads/noviclick-worldwide-pop-push-and-inpage-push-traffic-official-thread.7213/?utm_source=rss&utm_medium=rss)
 -  07 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
 -  07 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/?utm_source=rss&utm_medium=rss)
@@ -31,10 +34,7 @@
 -  07 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/?utm_source=rss&utm_medium=rss)
 -  07 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/?utm_source=rss&utm_medium=rss)
 -  07 [Good CTR for Push](https://afflift.com/f/threads/good-ctr-for-push.10968/?utm_source=rss&utm_medium=rss)
--  07 [How does push notification achieve this number?](https://afflift.com/f/threads/how-does-push-notification-achieve-this-number.10924/?utm_source=rss&utm_medium=rss)
--  07 [Are you going to Affiliate World Europe Conference in Barcelona?](https://afflift.com/f/threads/are-you-going-to-affiliate-world-europe-conference-in-barcelona.11238/?utm_source=rss&utm_medium=rss)
--  07 [I got many fraud traffic from Push.house](https://afflift.com/f/threads/i-got-many-fraud-traffic-from-push-house.11206/?utm_source=rss&utm_medium=rss)
--  07 [Average CTR LP](https://afflift.com/f/threads/average-ctr-lp.11135/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  07 [How does push notification achieve this number?](https://afflift.com/f/threads/how-does-push-notification-achieve-this-number.10924/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
