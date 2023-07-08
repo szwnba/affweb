@@ -10,10 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  06 [从日亏200刀到日赚500刀的新人冒泡](https://www.advertcn.com/forum.php?mod=viewthread&tid=111098)
--  06 [我回来啦 从荷兰到杭州入职了加拿大网盟！](https://www.advertcn.com/forum.php?mod=viewthread&tid=111097)
--  06 [求助关于图片版权的问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=111092)
--  06 [体育直播网站，还可以挂什么联盟广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=111091)<!-- advertcn:END -->
+-  08 [最近一周收入最高的一天，加油。。](https://www.advertcn.com/forum.php?mod=viewthread&tid=111114)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
