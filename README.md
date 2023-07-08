@@ -38,5 +38,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [从泳池到湖泊，我从游泳中学到了什么](https://sspai.com/post/80869)
 -  07 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80914)
 -  07 [[公测邀请] Context ：一款基于「语境学习」的英语学习工具](https://sspai.com/post/80594)<!-- sspai:END -->
