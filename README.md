@@ -40,5 +40,4 @@
 <!-- sspai:START -->
 -  07 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80914)
 -  07 [[公测邀请] Context ：一款基于「语境学习」的英语学习工具](https://sspai.com/post/80594)
--  07 [想写就写，灵思无疆：用自动化部署让写作更得心应手](https://sspai.com/post/80741)
--  07 [派早报：Meta 推出 Twitter 竞品应用 Threads、Sony 推出便携式影院扬声器系统 HT-AX7](https://sspai.com/post/80897)<!-- sspai:END -->
+-  07 [想写就写，灵思无疆：用自动化部署让写作更得心应手](https://sspai.com/post/80741)<!-- sspai:END -->
