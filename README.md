@@ -39,5 +39,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  07 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/80914)
--  07 [[公测邀请] Context ：一款基于「语境学习」的英语学习工具](https://sspai.com/post/80594)
--  07 [想写就写，灵思无疆：用自动化部署让写作更得心应手](https://sspai.com/post/80741)<!-- sspai:END -->
+-  07 [[公测邀请] Context ：一款基于「语境学习」的英语学习工具](https://sspai.com/post/80594)<!-- sspai:END -->
