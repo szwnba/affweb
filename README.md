@@ -20,7 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [🎉🎁  Galaksion Push + mVaS, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-mvas-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/?utm_source=rss&utm_medium=rss)
+-  08 [Optimal structure of PushAds - prelander?](https://afflift.com/f/threads/optimal-structure-of-pushads-prelander.11248/?utm_source=rss&utm_medium=rss)
 -  08 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)
+-  08 [Good traffic sources in GCC countries](https://afflift.com/f/threads/good-traffic-sources-in-gcc-countries.11247/?utm_source=rss&utm_medium=rss)
 -  08 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/?utm_source=rss&utm_medium=rss)
 -  08 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/?utm_source=rss&utm_medium=rss)
 -  08 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/?utm_source=rss&utm_medium=rss)
@@ -28,10 +31,7 @@
 -  07 [Hey just signed up](https://afflift.com/f/threads/hey-just-signed-up.11246/?utm_source=rss&utm_medium=rss)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  07 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
--  07 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)
--  07 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/?utm_source=rss&utm_medium=rss)
--  07 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/?utm_source=rss&utm_medium=rss)
--  07 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  07 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
