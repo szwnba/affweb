@@ -23,9 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
 -  07 [Hey just signed up](https://afflift.com/f/threads/hey-just-signed-up.11246/?utm_source=rss&utm_medium=rss)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
--  07 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
 -  07 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/?utm_source=rss&utm_medium=rss)
 -  07 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)
 -  07 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/?utm_source=rss&utm_medium=rss)
