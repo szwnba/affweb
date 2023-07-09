@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Help，prelander + creatives about  mVas offer](https://afflift.com/f/threads/help%EF%BC%8Cprelander-creatives-about-mvas-offer.11250/?utm_source=rss&utm_medium=rss)
+-  09 [Questions about, propellerads, push, cpagoal](https://afflift.com/f/threads/questions-about-propellerads-push-cpagoal.11215/?utm_source=rss&utm_medium=rss)
 -  09 [Optimal structure of PushAds - prelander?](https://afflift.com/f/threads/optimal-structure-of-pushads-prelander.11248/?utm_source=rss&utm_medium=rss)
 -  08 [WTB Tiktok Agency accounts or Regular Accounts](https://afflift.com/f/threads/wtb-tiktok-agency-accounts-or-regular-accounts.11072/?utm_source=rss&utm_medium=rss)
 -  08 [New Member](https://afflift.com/f/threads/new-member.11249/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  08 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)
 -  08 [Good traffic sources in GCC countries](https://afflift.com/f/threads/good-traffic-sources-in-gcc-countries.11247/?utm_source=rss&utm_medium=rss)
 -  08 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/?utm_source=rss&utm_medium=rss)
--  08 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/?utm_source=rss&utm_medium=rss)
--  08 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/?utm_source=rss&utm_medium=rss)
--  08 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  08 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
