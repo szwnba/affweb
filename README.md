@@ -35,4 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  08 [代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)<!-- sspai:END -->
+-  09 [坚持「反直觉」手写，我找到了数字时代的「良药」](https://sspai.com/post/80887)<!-- sspai:END -->
