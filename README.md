@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  08 [最近一周收入最高的一天，加油。。](https://www.advertcn.com/forum.php?mod=viewthread&tid=111114)<!-- advertcn:END -->
+-  09 [品牌词竞价的正确做法](https://www.advertcn.com/forum.php?mod=viewthread&tid=111125)
+-  08 [过去——那就好好告个别吧。未来——我来了](https://www.advertcn.com/forum.php?mod=viewthread&tid=111123)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
