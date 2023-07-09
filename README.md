@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  08 [代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)
--  08 [从泳池到湖泊，我从游泳中学到了什么](https://sspai.com/post/80869)<!-- sspai:END -->
+-  08 [代码世界的试验田和游乐场：在线开发环境对比与推荐](https://sspai.com/prime/story/online-codespaces-compared)<!-- sspai:END -->
