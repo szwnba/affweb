@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
+-  10 [Help needed with cpamatica tracking](https://afflift.com/f/threads/help-needed-with-cpamatica-tracking.11209/?utm_source=rss&utm_medium=rss)
+-  10 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)
+-  10 [Rejected Lander](https://afflift.com/f/threads/rejected-lander.11230/?utm_source=rss&utm_medium=rss)
+-  10 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
+-  10 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/?utm_source=rss&utm_medium=rss)
+-  10 [I got many fraud traffic from Push.house](https://afflift.com/f/threads/i-got-many-fraud-traffic-from-push-house.11206/?utm_source=rss&utm_medium=rss)
+-  10 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/?utm_source=rss&utm_medium=rss)
 -  10 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/?utm_source=rss&utm_medium=rss)
 -  10 [Optimal structure of PushAds - prelander?](https://afflift.com/f/threads/optimal-structure-of-pushads-prelander.11248/?utm_source=rss&utm_medium=rss)
 -  10 [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/?utm_source=rss&utm_medium=rss)
--  10 [Help，prelander + creatives about  mVas offer](https://afflift.com/f/threads/help%EF%BC%8Cprelander-creatives-about-mvas-offer.11250/?utm_source=rss&utm_medium=rss)
--  10 [New Member](https://afflift.com/f/threads/new-member.11249/?utm_source=rss&utm_medium=rss)
--  10 [🎉🎁  Galaksion Push + mVaS, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-mvas-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/?utm_source=rss&utm_medium=rss)
--  10 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
--  10 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/?utm_source=rss&utm_medium=rss)
--  10 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
--  10 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/?utm_source=rss&utm_medium=rss)
--  10 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
--  10 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  10 [Help，prelander + creatives about  mVas offer](https://afflift.com/f/threads/help%EF%BC%8Cprelander-creatives-about-mvas-offer.11250/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
