@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [上车聊聊 | 混动或许是过渡产品，但它仍是最适合我的选择——领克 01emf](https://sspai.com/post/80902)
 -  10 [老牌剪贴板历史管理工具大更新，聊聊我眼中的 Paste 4.0](https://sspai.com/post/80993)
 -  10 [新手怎么做笔记？这是我的思路和实操指南](https://sspai.com/post/80457)
 -  10 [派早报：知乎宣布下线匿名功能；中汽协删除车企承诺书中不当表述](https://sspai.com/post/80979)<!-- sspai:END -->
