@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  10 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/?utm_source=rss&utm_medium=rss)
--  10 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
--  10 [2 Conversion Points? New Zeydoo offers look interesting...](https://afflift.com/f/threads/2-conversion-points-new-zeydoo-offers-look-interesting.11257/?utm_source=rss&utm_medium=rss)
--  10 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
--  10 [Bemob - meta refresh &amp; double meta](https://afflift.com/f/threads/bemob-meta-refresh-double-meta.9504/?utm_source=rss&utm_medium=rss)
+-  10 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/?utm_source=rss&utm_medium=rss)
+-  10 [Optimal structure of PushAds - prelander?](https://afflift.com/f/threads/optimal-structure-of-pushads-prelander.11248/?utm_source=rss&utm_medium=rss)
+-  10 [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/?utm_source=rss&utm_medium=rss)
+-  10 [Help，prelander + creatives about  mVas offer](https://afflift.com/f/threads/help%EF%BC%8Cprelander-creatives-about-mvas-offer.11250/?utm_source=rss&utm_medium=rss)
+-  10 [New Member](https://afflift.com/f/threads/new-member.11249/?utm_source=rss&utm_medium=rss)
+-  10 [🎉🎁  Galaksion Push + mVaS, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-mvas-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/?utm_source=rss&utm_medium=rss)
 -  10 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/?utm_source=rss&utm_medium=rss)
--  10 [Adsterra at AW Barcelona 2023 — Book a meeting with our expert!](https://afflift.com/f/threads/adsterra-at-aw-barcelona-2023-%E2%80%94-book-a-meeting-with-our-expert.11256/?utm_source=rss&utm_medium=rss)
--  10 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/?utm_source=rss&utm_medium=rss)
--  10 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/?utm_source=rss&utm_medium=rss)
--  10 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/?utm_source=rss&utm_medium=rss)
--  10 [PROXYS.IO - Individual server, mobile and resident IPv4/IPv6 proxies](https://afflift.com/f/threads/proxys-io-individual-server-mobile-and-resident-ipv4-ipv6-proxies.9810/?utm_source=rss&utm_medium=rss)
--  10 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  10 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/?utm_source=rss&utm_medium=rss)
+-  10 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
+-  10 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/?utm_source=rss&utm_medium=rss)
+-  10 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
+-  10 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
