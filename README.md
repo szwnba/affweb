@@ -20,15 +20,15 @@
 
 ### afflift
 <!-- afflift:START -->
--  10 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
 -  10 [Help needed with cpamatica tracking](https://afflift.com/f/threads/help-needed-with-cpamatica-tracking.11209/?utm_source=rss&utm_medium=rss)
+-  10 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/?utm_source=rss&utm_medium=rss)
+-  10 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
+-  10 [Testing Propellerads New Update SubZones.](https://afflift.com/f/threads/testing-propellerads-new-update-subzones.11175/?utm_source=rss&utm_medium=rss)
 -  10 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/?utm_source=rss&utm_medium=rss)
 -  10 [Rejected Lander](https://afflift.com/f/threads/rejected-lander.11230/?utm_source=rss&utm_medium=rss)
--  10 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
 -  10 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/?utm_source=rss&utm_medium=rss)
 -  10 [I got many fraud traffic from Push.house](https://afflift.com/f/threads/i-got-many-fraud-traffic-from-push-house.11206/?utm_source=rss&utm_medium=rss)
 -  10 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/?utm_source=rss&utm_medium=rss)
--  10 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/?utm_source=rss&utm_medium=rss)
 -  10 [Optimal structure of PushAds - prelander?](https://afflift.com/f/threads/optimal-structure-of-pushads-prelander.11248/?utm_source=rss&utm_medium=rss)
 -  10 [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/?utm_source=rss&utm_medium=rss)
 -  10 [Help，prelander + creatives about  mVas offer](https://afflift.com/f/threads/help%EF%BC%8Cprelander-creatives-about-mvas-offer.11250/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
