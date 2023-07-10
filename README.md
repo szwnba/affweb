@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/?utm_source=rss&utm_medium=rss)
+-  10 [PropellerAds Push + Dating + Survey LP](https://afflift.com/f/threads/propellerads-push-dating-survey-lp.4147/?utm_source=rss&utm_medium=rss)
+-  10 [Extra Cash Party started now!](https://afflift.com/f/threads/extra-cash-party-started-now.11252/?utm_source=rss&utm_medium=rss)
+-  10 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/?utm_source=rss&utm_medium=rss)
 -  10 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/?utm_source=rss&utm_medium=rss)
 -  10 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/?utm_source=rss&utm_medium=rss)
 -  10 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/?utm_source=rss&utm_medium=rss)
 -  10 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/?utm_source=rss&utm_medium=rss)
 -  10 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/?utm_source=rss&utm_medium=rss)
--  10 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/?utm_source=rss&utm_medium=rss)
--  10 [PropellerAds Push + Dating + Survey LP](https://afflift.com/f/threads/propellerads-push-dating-survey-lp.4147/?utm_source=rss&utm_medium=rss)
--  10 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/?utm_source=rss&utm_medium=rss)
 -  10 [Optimal structure of PushAds - prelander?](https://afflift.com/f/threads/optimal-structure-of-pushads-prelander.11248/?utm_source=rss&utm_medium=rss)
 -  10 [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/?utm_source=rss&utm_medium=rss)
--  09 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/?utm_source=rss&utm_medium=rss)
--  09 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  09 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
