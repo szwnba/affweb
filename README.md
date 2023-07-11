@@ -38,5 +38,4 @@
 -  11 [派早报：Threads 用户量超一亿，网信办发布关于加强「自媒体」管理的通知等](https://sspai.com/post/81037)
 -  10 [派评 | 近期值得关注的 App](https://sspai.com/post/81006)
 -  10 [上车聊聊 | 混动或许是过渡产品，但它仍是最适合我的选择——领克 01emf](https://sspai.com/post/80902)
--  10 [老牌剪贴板历史管理工具大更新，聊聊我眼中的 Paste 4.0](https://sspai.com/post/80993)
--  10 [新手怎么做笔记？这是我的思路和实操指南](https://sspai.com/post/80457)<!-- sspai:END -->
+-  10 [老牌剪贴板历史管理工具大更新，聊聊我眼中的 Paste 4.0](https://sspai.com/post/80993)<!-- sspai:END -->
