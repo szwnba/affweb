@@ -20,6 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Join Galaksion at Affiliate World Barcelona 🤗](https://afflift.com/f/threads/join-galaksion-at-affiliate-world-barcelona-%F0%9F%A4%97.11261/?utm_source=rss&utm_medium=rss)
+-  11 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/?utm_source=rss&utm_medium=rss)
+-  11 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/?utm_source=rss&utm_medium=rss)
+-  11 [Summer Updates at Adavice DSP](https://afflift.com/f/threads/summer-updates-at-adavice-dsp.11260/?utm_source=rss&utm_medium=rss)
 -  11 [2 Conversion Points? New Zeydoo offers look interesting...](https://afflift.com/f/threads/2-conversion-points-new-zeydoo-offers-look-interesting.11257/?utm_source=rss&utm_medium=rss)
 -  11 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/?utm_source=rss&utm_medium=rss)
 -  11 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/?utm_source=rss&utm_medium=rss)
@@ -27,11 +31,7 @@
 -  11 [galaksion+GG=xx$?](https://afflift.com/f/threads/galaksion-gg-xx.11220/?utm_source=rss&utm_medium=rss)
 -  11 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/?utm_source=rss&utm_medium=rss)
 -  11 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/?utm_source=rss&utm_medium=rss)
--  11 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)
--  11 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/?utm_source=rss&utm_medium=rss)
--  11 [dr.cash at Affiliate World in Barcelona😎](https://afflift.com/f/threads/dr-cash-at-affiliate-world-in-barcelona%F0%9F%98%8E.11110/?utm_source=rss&utm_medium=rss)
--  11 [How does push notification achieve this number?](https://afflift.com/f/threads/how-does-push-notification-achieve-this-number.10924/?utm_source=rss&utm_medium=rss)
--  11 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  11 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
