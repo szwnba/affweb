@@ -20,8 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  11 [Just created my account on propeller ads and got suspended](https://afflift.com/f/threads/just-created-my-account-on-propeller-ads-and-got-suspended.11258/?utm_source=rss&utm_medium=rss)
 -  11 [I got many fraud traffic from Push.house](https://afflift.com/f/threads/i-got-many-fraud-traffic-from-push-house.11206/?utm_source=rss&utm_medium=rss)
+-  11 [Just created my account on propeller ads and got suspended](https://afflift.com/f/threads/just-created-my-account-on-propeller-ads-and-got-suspended.11258/?utm_source=rss&utm_medium=rss)
 -  11 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/?utm_source=rss&utm_medium=rss)
 -  10 [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/?utm_source=rss&utm_medium=rss)
 -  10 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)
