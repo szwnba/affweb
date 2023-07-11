@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  11 [想重新定义「按下键盘」的磁轴，是如何死而复生成为键圈新宠的？](https://sspai.com/post/80940)
 -  11 [Handraw：支持中文手写效果的白板绘图工具](https://sspai.com/post/80459)
--  11 [派早报：Threads 用户量超一亿，网信办发布关于加强「自媒体」管理的通知等](https://sspai.com/post/81037)
--  10 [派评 | 近期值得关注的 App](https://sspai.com/post/81006)<!-- sspai:END -->
+-  11 [派早报：Threads 用户量超一亿，网信办发布关于加强「自媒体」管理的通知等](https://sspai.com/post/81037)<!-- sspai:END -->
