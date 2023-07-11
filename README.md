@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [新作发布 | 成为全域调教高手，让会用 ChatGPT 的人先进入未来](https://sspai.com/post/81052)
 -  11 [社区速递 003：季度作者公布、一派热议以及作者的新玩意](https://sspai.com/post/81041)
 -  11 [想重新定义「按下键盘」的磁轴，是如何死而复生成为键圈新宠的？](https://sspai.com/post/80940)
 -  11 [Handraw：支持中文手写效果的白板绘图工具](https://sspai.com/post/80459)
