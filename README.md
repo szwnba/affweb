@@ -20,12 +20,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)
+-  11 [Interstitial vs push for finance offers](https://afflift.com/f/threads/interstitial-vs-push-for-finance-offers.11265/?utm_source=rss&utm_medium=rss)
+-  11 [Hey y&#39;all](https://afflift.com/f/threads/hey-yall.11264/?utm_source=rss&utm_medium=rss)
 -  11 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
 -  11 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/?utm_source=rss&utm_medium=rss)
--  11 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)
 -  11 [How does push notification achieve this number?](https://afflift.com/f/threads/how-does-push-notification-achieve-this-number.10924/?utm_source=rss&utm_medium=rss)
--  11 [Hey y&#39;all](https://afflift.com/f/threads/hey-yall.11264/?utm_source=rss&utm_medium=rss)
--  11 [Interstitial vs push for finance offers](https://afflift.com/f/threads/interstitial-vs-push-for-finance-offers.11265/?utm_source=rss&utm_medium=rss)
 -  11 [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/?utm_source=rss&utm_medium=rss)
 -  11 [I got many fraud traffic from Push.house](https://afflift.com/f/threads/i-got-many-fraud-traffic-from-push-house.11206/?utm_source=rss&utm_medium=rss)
 -  11 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/?utm_source=rss&utm_medium=rss)
