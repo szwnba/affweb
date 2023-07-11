@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6.8489/?utm_source=rss&utm_medium=rss)
+-  11 [ROIads](https://afflift.com/f/threads/roiads.11259/?utm_source=rss&utm_medium=rss)
 -  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/?utm_source=rss&utm_medium=rss)
 -  11 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
 -  11 [Just created my account on propeller ads and got suspended](https://afflift.com/f/threads/just-created-my-account-on-propeller-ads-and-got-suspended.11258/?utm_source=rss&utm_medium=rss)
@@ -29,9 +31,7 @@
 -  11 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/?utm_source=rss&utm_medium=rss)
 -  11 [I got many fraud traffic from Push.house](https://afflift.com/f/threads/i-got-many-fraud-traffic-from-push-house.11206/?utm_source=rss&utm_medium=rss)
 -  11 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/?utm_source=rss&utm_medium=rss)
--  10 [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/?utm_source=rss&utm_medium=rss)
--  10 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)
--  10 [Good traffic sources in GCC countries](https://afflift.com/f/threads/good-traffic-sources-in-gcc-countries.11247/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  10 [Prelanders in Golden Goose vs Self Hosted Prelanders](https://afflift.com/f/threads/prelanders-in-golden-goose-vs-self-hosted-prelanders.10377/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
