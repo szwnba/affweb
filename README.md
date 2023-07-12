@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/?utm_source=rss&utm_medium=rss)
+-  12 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)
+-  12 [FACEBOOK ADS ACCOUNT FOR RENT - HIGH SPEND LIMIT DAILY 250$, 1500$ and NOLIMIT, ✔️ BLUE STICKER PAGE ✔️ ▶️▶️▶️ Support 24/7, Accept BH,WH,GH ◀️◀️◀️](https://afflift.com/f/threads/facebook-ads-account-for-rent-high-spend-limit-daily-250-1500-and-nolimit-%E2%9C%94%EF%B8%8F-blue-sticker-page-%E2%9C%94%EF%B8%8F-%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F-support-24-7-accept-bh-wh-gh-%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F.11267/?utm_source=rss&utm_medium=rss)
+-  12 [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/?utm_source=rss&utm_medium=rss)
+-  12 [Propeller Ads With Pin Submit Offer 💀 &quot;#PA10k&quot;](https://afflift.com/f/threads/propeller-ads-with-pin-submit-offer-%F0%9F%92%80-pa10k.8917/?utm_source=rss&utm_medium=rss)
 -  12 [Interstitial vs push for finance offers](https://afflift.com/f/threads/interstitial-vs-push-for-finance-offers.11265/?utm_source=rss&utm_medium=rss)
 -  12 [Join Galaksion at Affiliate World Barcelona 🤗](https://afflift.com/f/threads/join-galaksion-at-affiliate-world-barcelona-%F0%9F%A4%97.11261/?utm_source=rss&utm_medium=rss)
 -  12 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/?utm_source=rss&utm_medium=rss)
--  12 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/?utm_source=rss&utm_medium=rss)
 -  12 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/?utm_source=rss&utm_medium=rss)
 -  12 [Interview with an affiliate buying traffic from advertising networks: what approaches to use and how to choose a converting offer](https://afflift.com/f/threads/interview-with-an-affiliate-buying-traffic-from-advertising-networks-what-approaches-to-use-and-how-to-choose-a-converting-offer.11266/?utm_source=rss&utm_medium=rss)
 -  12 [2 Conversion Points? New Zeydoo offers look interesting...](https://afflift.com/f/threads/2-conversion-points-new-zeydoo-offers-look-interesting.11257/?utm_source=rss&utm_medium=rss)
--  12 [Nutra Offers with Youtube ads ??](https://afflift.com/f/threads/nutra-offers-with-youtube-ads.8416/?utm_source=rss&utm_medium=rss)
--  12 [Hey y&#39;all](https://afflift.com/f/threads/hey-yall.11264/?utm_source=rss&utm_medium=rss)
--  12 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/?utm_source=rss&utm_medium=rss)
--  12 [200M+ IPS FREE TEST⚡Residential Proxy Dynamic rotation IP, static exclusive IP](https://afflift.com/f/threads/200m-ips-free-test%E2%9A%A1residential-proxy-dynamic-rotation-ip-static-exclusive-ip.11129/?utm_source=rss&utm_medium=rss)
--  11 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  12 [Nutra Offers with Youtube ads ??](https://afflift.com/f/threads/nutra-offers-with-youtube-ads.8416/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
