@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/)
+-  12 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
+-  12 [Save 20% off Your Google Ads Budget: Strategies to Avoid VAT Tax in Google Ads](https://afflift.com/f/threads/save-20-off-your-google-ads-budget-strategies-to-avoid-vat-tax-in-google-ads.11275/)
 -  12 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  12 [how do i hide my push ads from being shown on spy tools?](https://afflift.com/f/threads/how-do-i-hide-my-push-ads-from-being-shown-on-spy-tools.11273/)
 -  12 [This is annoying...](https://afflift.com/f/threads/this-is-annoying.11271/)
 -  12 [Galaksion&#39;s AI Generated Video](https://afflift.com/f/threads/galaksions-ai-generated-video.11274/)
--  12 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  12 [Help，prelander + creatives about  mVas offer](https://afflift.com/f/threads/help%EF%BC%8Cprelander-creatives-about-mvas-offer.11250/)
 -  12 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
 -  12 [🎁 Free Dolphin{anty}?](https://afflift.com/f/threads/%F0%9F%8E%81-free-dolphin-anty.11272/)
 -  12 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
--  12 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/)
--  12 [Search Monetization and Search Arbitrage - Here is what you need to know](https://afflift.com/f/threads/search-monetization-and-search-arbitrage-here-is-what-you-need-to-know.8185/)
--  12 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)<!-- afflift:END -->
+-  12 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
