@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [how do i hide my push ads from being shown on spy tools?](https://afflift.com/f/threads/how-do-i-hide-my-push-ads-from-being-shown-on-spy-tools.11273/)
 -  12 [This is annoying...](https://afflift.com/f/threads/this-is-annoying.11271/)
+-  12 [Help，prelander + creatives about  mVas offer](https://afflift.com/f/threads/help%EF%BC%8Cprelander-creatives-about-mvas-offer.11250/)
+-  12 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
+-  12 [🎁 Free Dolphin{anty}?](https://afflift.com/f/threads/%F0%9F%8E%81-free-dolphin-anty.11272/)
+-  12 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  12 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
 -  12 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
--  12 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  12 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/)
 -  12 [Search Monetization and Search Arbitrage - Here is what you need to know](https://afflift.com/f/threads/search-monetization-and-search-arbitrage-here-is-what-you-need-to-know.8185/)
 -  12 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
--  12 [How to monetize users who are about to leave your promotional campaign&#39;s landing page?](https://afflift.com/f/threads/how-to-monetize-users-who-are-about-to-leave-your-promotional-campaigns-landing-page.11269/)
--  12 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
--  12 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
--  12 [2 Facebook Posts Made $10,000 in Sales for Prime Day](https://afflift.com/f/threads/2-facebook-posts-made-10-000-in-sales-for-prime-day.9279/)
--  12 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)<!-- afflift:END -->
+-  12 [How to monetize users who are about to leave your promotional campaign&#39;s landing page?](https://afflift.com/f/threads/how-to-monetize-users-who-are-about-to-leave-your-promotional-campaigns-landing-page.11269/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
