@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [Scouter：我开发了一款浏览器插件，帮你在实践中进行语言学习](https://sspai.com/post/80529)
 -  12 [让人爱不释手的笔记工具：Bear 2 重磅更新](https://sspai.com/post/80871)
 -  11 [派早报：Nothing Phone &lpar;2&rpar; 发布、Apple Store 微信小程序上线等](https://sspai.com/post/81058)
 -  11 [新作发布 | 成为全域调教高手，让会用 ChatGPT 的人先进入未来](https://sspai.com/post/81052)
