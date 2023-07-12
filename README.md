@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [家用咖啡手册 09 | 作为咖啡师，我会如何设计家庭咖啡角？](https://sspai.com/post/80948)
 -  12 [Scouter：我开发了一款浏览器插件，帮你在实践中进行语言学习](https://sspai.com/post/80529)
 -  12 [让人爱不释手的笔记工具：Bear 2 重磅更新](https://sspai.com/post/80871)
 -  11 [派早报：Nothing Phone &lpar;2&rpar; 发布、Apple Store 微信小程序上线等](https://sspai.com/post/81058)
--  11 [新作发布 | 成为全域调教高手，让会用 ChatGPT 的人先进入未来](https://sspai.com/post/81052)
--  11 [社区速递 003：季度作者公布、一派热议以及作者的新玩意](https://sspai.com/post/81041)<!-- sspai:END -->
+-  11 [新作发布 | 成为全域调教高手，让会用 ChatGPT 的人先进入未来](https://sspai.com/post/81052)<!-- sspai:END -->
