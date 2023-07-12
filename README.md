@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/?utm_source=rss&utm_medium=rss)
--  12 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/?utm_source=rss&utm_medium=rss)
--  12 [2 Facebook Posts Made $10,000 in Sales for Prime Day](https://afflift.com/f/threads/2-facebook-posts-made-10-000-in-sales-for-prime-day.9279/?utm_source=rss&utm_medium=rss)
--  12 [How to monetize users who are about to leave your promotional campaign&#39;s landing page?](https://afflift.com/f/threads/how-to-monetize-users-who-are-about-to-leave-your-promotional-campaigns-landing-page.11269/?utm_source=rss&utm_medium=rss)
--  12 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/?utm_source=rss&utm_medium=rss)
--  12 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/?utm_source=rss&utm_medium=rss)
--  12 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/?utm_source=rss&utm_medium=rss)
--  12 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/?utm_source=rss&utm_medium=rss)
--  12 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/?utm_source=rss&utm_medium=rss)
--  12 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/?utm_source=rss&utm_medium=rss)
--  12 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/?utm_source=rss&utm_medium=rss)
--  12 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/?utm_source=rss&utm_medium=rss)<!-- afflift:END -->
+-  12 [This is annoying...](https://afflift.com/f/threads/this-is-annoying.11271/)
+-  12 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
+-  12 [How to monetize users who are about to leave your promotional campaign&#39;s landing page?](https://afflift.com/f/threads/how-to-monetize-users-who-are-about-to-leave-your-promotional-campaigns-landing-page.11269/)
+-  12 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
+-  12 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
+-  12 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
+-  12 [2 Facebook Posts Made $10,000 in Sales for Prime Day](https://afflift.com/f/threads/2-facebook-posts-made-10-000-in-sales-for-prime-day.9279/)
+-  12 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  12 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
+-  12 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/)
+-  12 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
+-  12 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
