@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  11 [纯靠自然流量做电商站能赚钱吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111169)
--  11 [完成网站速度优化后，流量提升了30%](https://www.advertcn.com/forum.php?mod=viewthread&tid=111168)<!-- advertcn:END -->
+-  11 [纯靠自然流量做电商站能赚钱吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111169)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
