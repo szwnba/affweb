@@ -11,8 +11,7 @@
 ### advertcn
 <!-- advertcn:START -->
 -  11 [纯靠自然流量做电商站能赚钱吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111169)
--  11 [完成网站速度优化后，流量提升了30%](https://www.advertcn.com/forum.php?mod=viewthread&tid=111168)
--  11 [你们有跑ice offer的吗？只有2k左右，一直拖着没给](https://www.advertcn.com/forum.php?mod=viewthread&tid=111166)<!-- advertcn:END -->
+-  11 [完成网站速度优化后，流量提升了30%](https://www.advertcn.com/forum.php?mod=viewthread&tid=111168)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
