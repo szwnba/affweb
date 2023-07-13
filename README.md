@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Melbet Partners | RevShare | CPA | Hybrid offers](https://afflift.com/f/threads/melbet-partners-revshare-cpa-hybrid-offers.11237/)
+-  13 [Join Affiliate Boutique at iGBLive! 2023 Amsterdam 🇳🇱🌷](https://afflift.com/f/threads/join-affiliate-boutique-at-igblive-2023-amsterdam-%F0%9F%87%B3%F0%9F%87%B1%F0%9F%8C%B7.11278/)
 -  13 [Galaksion&#39;s AI Generated Video](https://afflift.com/f/threads/galaksions-ai-generated-video.11274/)
 -  13 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  13 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
@@ -29,9 +31,7 @@
 -  13 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/)
 -  13 [Help，prelander + creatives about  mVas offer](https://afflift.com/f/threads/help%EF%BC%8Cprelander-creatives-about-mvas-offer.11250/)
 -  12 [Save 20% off Your Google Ads Budget: Strategies to Avoid VAT Tax in Google Ads](https://afflift.com/f/threads/save-20-off-your-google-ads-budget-strategies-to-avoid-vat-tax-in-google-ads.11275/)
--  12 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
--  12 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
--  12 [This is annoying...](https://afflift.com/f/threads/this-is-annoying.11271/)<!-- afflift:END -->
+-  12 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
