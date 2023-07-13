@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [炎炎夏日，派商店为你准备了这些降温解暑之选](https://sspai.com/post/81068)
 -  13 [iOS / iPadOS 17 Public Beta 公测版来了：升降级指南 &amp; 注意事项](https://sspai.com/post/81094)
 -  13 [派早报：Apple 推出返校季促销活动、Anthropic 推出 Claude 2.0 等](https://sspai.com/post/81093)
 -  12 [选对开源软件，从做好「背景调查」开始](https://sspai.com/prime/story/foss-how-to-select)
--  12 [家用咖啡手册 09 | 作为咖啡师，我会如何设计家庭咖啡角？](https://sspai.com/post/80948)
--  12 [Scouter：我开发了一款浏览器插件，帮你在实践中进行语言学习](https://sspai.com/post/80529)<!-- sspai:END -->
+-  12 [家用咖啡手册 09 | 作为咖啡师，我会如何设计家庭咖啡角？](https://sspai.com/post/80948)<!-- sspai:END -->
