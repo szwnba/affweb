@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  11 [纯靠自然流量做电商站能赚钱吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111169)<!-- advertcn:END -->
+-  12 [向前进——从-1到0：Follow开贴](https://www.advertcn.com/forum.php?mod=viewthread&tid=111185)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
