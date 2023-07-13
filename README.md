@@ -20,8 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  13 [Have anyone tried to build his own tracker?](https://afflift.com/f/threads/have-anyone-tried-to-build-his-own-tracker.11280/)
+-  13 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  13 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
 -  13 [Where to buy crypto as a company?](https://afflift.com/f/threads/where-to-buy-crypto-as-a-company.11279/)
 -  13 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
