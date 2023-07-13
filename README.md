@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [新玩意 153｜少数派的编辑们最近买了啥？](https://sspai.com/post/81118)
 -  13 [买 Mac / iPad 都有送：Apple 新学期优惠活动开始了](https://sspai.com/post/81075)
 -  13 [iOS 17 Public Beta 公测版来了，有哪些新功能值得尝鲜？](https://sspai.com/post/81098)
 -  13 [炎炎夏日，派商店为你准备了这些降温解暑之选](https://sspai.com/post/81068)
--  13 [iOS / iPadOS 17 Public Beta 公测版来了：升降级指南 &amp; 注意事项](https://sspai.com/post/81094)
--  13 [派早报：Apple 推出返校季促销活动、Anthropic 推出 Claude 2.0 等](https://sspai.com/post/81093)<!-- sspai:END -->
+-  13 [iOS / iPadOS 17 Public Beta 公测版来了：升降级指南 &amp; 注意事项](https://sspai.com/post/81094)<!-- sspai:END -->
