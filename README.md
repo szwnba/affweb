@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
+-  13 [Google Ads Verification for a Non-Resident?](https://afflift.com/f/threads/google-ads-verification-for-a-non-resident.11284/)
+-  13 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
 -  13 [This is annoying...](https://afflift.com/f/threads/this-is-annoying.11271/)
 -  13 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/)
--  13 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
 -  13 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  13 [What is Your Ratio of Finding Good Offers?](https://afflift.com/f/threads/what-is-your-ratio-of-finding-good-offers.11277/)
 -  13 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/)
 -  13 [Have anyone tried to build his own tracker?](https://afflift.com/f/threads/have-anyone-tried-to-build-his-own-tracker.11280/)
 -  13 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
 -  13 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  13 [AI Generated Voices &lpar;that don’t sound like robots 🤖&rpar;](https://afflift.com/f/threads/ai-generated-voices-that-don%E2%80%99t-sound-like-robots-%F0%9F%A4%96.11282/)
--  13 [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/)
--  13 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)<!-- afflift:END -->
+-  13 [AI Generated Voices &lpar;that don’t sound like robots 🤖&rpar;](https://afflift.com/f/threads/ai-generated-voices-that-don%E2%80%99t-sound-like-robots-%F0%9F%A4%96.11282/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
