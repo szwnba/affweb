@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [🎉🎁  Galaksion Push + mVaS, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-mvas-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/)
+-  13 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
 -  13 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
 -  13 [Google Ads Verification for a Non-Resident?](https://afflift.com/f/threads/google-ads-verification-for-a-non-resident.11284/)
 -  13 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
@@ -29,9 +31,7 @@
 -  13 [What is Your Ratio of Finding Good Offers?](https://afflift.com/f/threads/what-is-your-ratio-of-finding-good-offers.11277/)
 -  13 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/)
 -  13 [Have anyone tried to build his own tracker?](https://afflift.com/f/threads/have-anyone-tried-to-build-his-own-tracker.11280/)
--  13 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
--  13 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  13 [AI Generated Voices &lpar;that don’t sound like robots 🤖&rpar;](https://afflift.com/f/threads/ai-generated-voices-that-don%E2%80%99t-sound-like-robots-%F0%9F%A4%96.11282/)<!-- afflift:END -->
+-  13 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
