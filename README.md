@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Galaksion&#39;s AI Generated Video](https://afflift.com/f/threads/galaksions-ai-generated-video.11274/)
+-  13 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  13 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  13 [What is Your Ratio of Finding Good Offers?](https://afflift.com/f/threads/what-is-your-ratio-of-finding-good-offers.11277/)
 -  13 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/)
 -  13 [Fake Chat Landing Page - Code and Creative Included](https://afflift.com/f/threads/fake-chat-landing-page-code-and-creative-included.3884/)
--  13 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  13 [First FA-pops then we&#39;ll see :&rpar;](https://afflift.com/f/threads/first-fa-pops-then-well-see.11121/)
 -  13 [Help，prelander + creatives about  mVas offer](https://afflift.com/f/threads/help%EF%BC%8Cprelander-creatives-about-mvas-offer.11250/)
 -  12 [Save 20% off Your Google Ads Budget: Strategies to Avoid VAT Tax in Google Ads](https://afflift.com/f/threads/save-20-off-your-google-ads-budget-strategies-to-avoid-vat-tax-in-google-ads.11275/)
 -  12 [Watchads - new Zeydoo offer](https://afflift.com/f/threads/watchads-new-zeydoo-offer.10919/)
 -  12 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
--  12 [This is annoying...](https://afflift.com/f/threads/this-is-annoying.11271/)
--  12 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)<!-- afflift:END -->
+-  12 [This is annoying...](https://afflift.com/f/threads/this-is-annoying.11271/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
