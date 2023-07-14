@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/)
+-  14 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  14 [Where to buy crypto as a company?](https://afflift.com/f/threads/where-to-buy-crypto-as-a-company.11279/)
 -  14 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/)
 -  14 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
@@ -33,9 +35,7 @@
 -  14 [Magic Click Partners - Gambling affiliate network, high payouts](https://afflift.com/f/threads/magic-click-partners-gambling-affiliate-network-high-payouts.10931/)
 -  13 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/)
 -  13 [🎉🎁  Galaksion Push + mVaS, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-mvas-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/)
--  13 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
--  13 [Google Ads Verification for a Non-Resident?](https://afflift.com/f/threads/google-ads-verification-for-a-non-resident.11284/)
--  13 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)<!-- afflift:END -->
+-  13 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
