@@ -39,8 +39,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [OpenAI「打死都不说」的 GPT-4 训练细节被传出，这是我的解读](https://sspai.com/post/81091)
 -  14 [iPadOS 17 公开测试版来了，升级以后可以试试这些新功能](https://sspai.com/post/81139)
 -  14 [除了回忆，2023 年了 iPod 还能带给我们什么？](https://sspai.com/post/81114)
 -  14 [派早报：Adobe 扩大生成式 AI Firefly 的测试规模、GitHub 测试支持通行密钥](https://sspai.com/post/81135)
--  13 [新玩意 153｜少数派的编辑们最近买了啥？](https://sspai.com/post/81118)
--  13 [买 Mac / iPad 都有送：Apple 新学期优惠活动开始了](https://sspai.com/post/81075)<!-- sspai:END -->
+-  13 [新玩意 153｜少数派的编辑们最近买了啥？](https://sspai.com/post/81118)<!-- sspai:END -->
