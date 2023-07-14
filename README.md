@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/)
+-  14 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  14 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
 -  14 [Just created my account on propeller ads and got suspended](https://afflift.com/f/threads/just-created-my-account-on-propeller-ads-and-got-suspended.11258/)
 -  14 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
@@ -33,9 +35,7 @@
 -  14 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
 -  14 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/)
 -  14 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
--  14 [Adnow - First Native Campaign](https://afflift.com/f/threads/adnow-first-native-campaign.9524/)
--  14 [Looking for traffic?](https://afflift.com/f/threads/looking-for-traffic.10866/)
--  14 [Propellerads &lpar;Push&rpar; + GG offer](https://afflift.com/f/threads/propellerads-push-gg-offer.11170/)<!-- afflift:END -->
+-  14 [Adnow - First Native Campaign](https://afflift.com/f/threads/adnow-first-native-campaign.9524/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
