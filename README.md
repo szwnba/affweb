@@ -24,6 +24,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
+-  14 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
+-  14 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/)
+-  14 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  14 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  14 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
 -  14 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
@@ -31,11 +35,7 @@
 -  14 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  14 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  14 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
--  14 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/)
--  14 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  14 [Where to buy crypto as a company?](https://afflift.com/f/threads/where-to-buy-crypto-as-a-company.11279/)
--  14 [♻ The Pivot: Traffic Consumer to Traffic Creator ♻](https://afflift.com/f/threads/%E2%99%BB-the-pivot-traffic-consumer-to-traffic-creator-%E2%99%BB.11140/)
--  14 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)<!-- afflift:END -->
+-  14 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
