@@ -24,14 +24,14 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Propush Tracking Need Help!](https://afflift.com/f/threads/propush-tracking-need-help.11290/)
 -  15 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)
 -  15 [Adsterra, cpa wrong value, any help](https://afflift.com/f/threads/adsterra-cpa-wrong-value-any-help.11288/)
 -  15 [Looking for traffic?](https://afflift.com/f/threads/looking-for-traffic.10866/)
 -  15 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
 -  15 [Have anyone tried to build his own tracker?](https://afflift.com/f/threads/have-anyone-tried-to-build-his-own-tracker.11280/)
 -  14 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
--  14 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  14 [2 Conversion Points? New Zeydoo offers look interesting...](https://afflift.com/f/threads/2-conversion-points-new-zeydoo-offers-look-interesting.11257/)<!-- afflift:END -->
+-  14 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
