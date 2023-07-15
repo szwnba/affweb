@@ -39,6 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [谁来管管 Android 的照片选择器](https://sspai.com/prime/story/android-mediastore-explained)
 -  15 [如约而至的更新，少数派定制 Keychron K3 Pro 体验](https://sspai.com/post/81074)
 -  15 [watchOS 10 推出公测版，这些新功能值得尝鲜](https://sspai.com/post/81166)
 -  15 [找不到好歌尝鲜？来试试金曲 34 中这些值得一听的专辑](https://sspai.com/post/81158)<!-- sspai:END -->
