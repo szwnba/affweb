@@ -30,8 +30,7 @@
 -  15 [Looking for traffic?](https://afflift.com/f/threads/looking-for-traffic.10866/)
 -  15 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
 -  15 [Have anyone tried to build his own tracker?](https://afflift.com/f/threads/have-anyone-tried-to-build-his-own-tracker.11280/)
--  14 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
--  14 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  14 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
