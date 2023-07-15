@@ -31,10 +31,7 @@
 -  15 [Have anyone tried to build his own tracker?](https://afflift.com/f/threads/have-anyone-tried-to-build-his-own-tracker.11280/)
 -  14 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
 -  14 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  14 [2 Conversion Points? New Zeydoo offers look interesting...](https://afflift.com/f/threads/2-conversion-points-new-zeydoo-offers-look-interesting.11257/)
--  14 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/)
--  14 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
--  14 [Just created my account on propeller ads and got suspended](https://afflift.com/f/threads/just-created-my-account-on-propeller-ads-and-got-suspended.11258/)<!-- afflift:END -->
+-  14 [2 Conversion Points? New Zeydoo offers look interesting...](https://afflift.com/f/threads/2-conversion-points-new-zeydoo-offers-look-interesting.11257/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
