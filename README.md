@@ -39,6 +39,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [watchOS 10 推出公测版，这些新功能值得尝鲜](https://sspai.com/post/81166)
 -  15 [找不到好歌尝鲜？来试试金曲 34 中这些值得一听的专辑](https://sspai.com/post/81158)
--  14 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81160)
--  14 [OpenAI「打死都不说」的 GPT-4 训练细节被传出，这是我的解读](https://sspai.com/post/81091)<!-- sspai:END -->
+-  14 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81160)<!-- sspai:END -->
