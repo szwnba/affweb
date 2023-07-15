@@ -24,11 +24,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
 -  15 [Propush Tracking Need Help!](https://afflift.com/f/threads/propush-tracking-need-help.11290/)
 -  15 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)
 -  15 [Adsterra, cpa wrong value, any help](https://afflift.com/f/threads/adsterra-cpa-wrong-value-any-help.11288/)
 -  15 [Looking for traffic?](https://afflift.com/f/threads/looking-for-traffic.10866/)
--  15 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
 -  15 [Have anyone tried to build his own tracker?](https://afflift.com/f/threads/have-anyone-tried-to-build-his-own-tracker.11280/)<!-- afflift:END -->
 
 ### 少数派
