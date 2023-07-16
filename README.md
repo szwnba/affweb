@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Hey y&#39;all](https://afflift.com/f/threads/hey-yall.11264/)
 -  16 [CPA Goal - Slightly Confused](https://afflift.com/f/threads/cpa-goal-slightly-confused.11295/)
 -  16 [Another hello....](https://afflift.com/f/threads/another-hello.11294/)
 -  16 [Affiliate networks with whitehat/e-com offers to promote in Outbrain](https://afflift.com/f/threads/affiliate-networks-with-whitehat-e-com-offers-to-promote-in-outbrain.11293/)
@@ -34,8 +35,7 @@
 -  16 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
 -  16 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
 -  16 [Looking for a referral to get access to Cash Network](https://afflift.com/f/threads/looking-for-a-referral-to-get-access-to-cash-network.11291/)
--  15 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)
--  15 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)<!-- afflift:END -->
+-  15 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
