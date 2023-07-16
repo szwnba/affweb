@@ -33,8 +33,7 @@
 -  16 [Looking for a referral to get access to Cash Network](https://afflift.com/f/threads/looking-for-a-referral-to-get-access-to-cash-network.11291/)
 -  15 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)
 -  15 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
--  15 [Propush Tracking Need Help!](https://afflift.com/f/threads/propush-tracking-need-help.11290/)
--  15 [Looking for traffic?](https://afflift.com/f/threads/looking-for-traffic.10866/)<!-- afflift:END -->
+-  15 [Propush Tracking Need Help!](https://afflift.com/f/threads/propush-tracking-need-help.11290/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
