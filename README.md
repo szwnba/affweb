@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/)
 -  16 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
 -  16 [Adsterra, cpa wrong value, any help](https://afflift.com/f/threads/adsterra-cpa-wrong-value-any-help.11288/)
 -  16 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
