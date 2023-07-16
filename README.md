@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  16 [小米 13 Ultra 影像体验：寻找摄影的快乐](https://sspai.com/post/81076)
 -  15 [谁来管管 Android 的照片选择器](https://sspai.com/prime/story/android-mediastore-explained)
--  15 [如约而至的更新，少数派定制 Keychron K3 Pro 体验](https://sspai.com/post/81074)
--  15 [watchOS 10 推出公测版，这些新功能值得尝鲜](https://sspai.com/post/81166)<!-- sspai:END -->
+-  15 [如约而至的更新，少数派定制 Keychron K3 Pro 体验](https://sspai.com/post/81074)<!-- sspai:END -->
