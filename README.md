@@ -37,5 +37,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [花点时间，走在趋势之前：Blackberry 简史（二）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-2)
 -  16 [macOS Sonoma 推出公开测试版，这些新特性值得一试](https://sspai.com/post/81185)
 -  16 [小米 13 Ultra 影像体验：寻找摄影的快乐](https://sspai.com/post/81076)<!-- sspai:END -->
