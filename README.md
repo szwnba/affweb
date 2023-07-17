@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  17 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)
+-  17 [What is Your Ratio of Finding Good Offers?](https://afflift.com/f/threads/what-is-your-ratio-of-finding-good-offers.11277/)
+-  17 [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
+-  17 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  17 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
+-  17 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)
 -  17 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
 -  17 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)
 -  17 [New Media Buyer? Don&#39;t Worry, We Help!](https://afflift.com/f/threads/new-media-buyer-dont-worry-we-help.5630/)
 -  17 [Hello from TRAFFIC NOMADS 👋 Your New Self-Service Ad Network](https://afflift.com/f/threads/hello-from-traffic-nomads-%F0%9F%91%8B-your-new-self-service-ad-network.5669/)
 -  17 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)
 -  17 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
--  17 [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
--  17 [2 Conversion Points? New Zeydoo offers look interesting...](https://afflift.com/f/threads/2-conversion-points-new-zeydoo-offers-look-interesting.11257/)
--  17 [Affiliate networks with whitehat/e-com offers to promote in Outbrain](https://afflift.com/f/threads/affiliate-networks-with-whitehat-e-com-offers-to-promote-in-outbrain.11293/)
--  17 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)<!-- afflift:END -->
+-  17 [2 Conversion Points? New Zeydoo offers look interesting...](https://afflift.com/f/threads/2-conversion-points-new-zeydoo-offers-look-interesting.11257/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
