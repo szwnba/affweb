@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [尊重字体版权，我整理了一个免费商用字体库](https://sspai.com/post/80926)
 -  17 [派早报：Office 更换默认字体，微软收购动视暴雪可能接近完成](https://sspai.com/post/81205)
 -  16 [花点时间，走在趋势之前：Blackberry 简史（二）](https://sspai.com/prime/story/vintage-tech-stories-blackberry-2)
 -  16 [macOS Sonoma 推出公开测试版，这些新特性值得一试](https://sspai.com/post/81185)<!-- sspai:END -->
