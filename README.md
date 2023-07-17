@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  17 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  17 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
 -  17 [Galaksion&#39;s AI Generated Video](https://afflift.com/f/threads/galaksions-ai-generated-video.11274/)
@@ -33,8 +34,7 @@
 -  17 [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
 -  17 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  17 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
--  17 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)
--  17 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)<!-- afflift:END -->
+-  17 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
