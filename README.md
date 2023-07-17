@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  17 [请问wordpress有affiliate插件吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111236)
 -  17 [卖cb账号 几年收入180万 .](https://www.advertcn.com/forum.php?mod=viewthread&tid=111234)
 -  17 [一个新站，一批ai内容，一个小实验](https://www.advertcn.com/forum.php?mod=viewthread&tid=111229)
 -  16 [dh的主机不给批](https://www.advertcn.com/forum.php?mod=viewthread&tid=111225)<!-- advertcn:END -->
