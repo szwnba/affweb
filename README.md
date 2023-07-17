@@ -38,8 +38,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [品牌创意人、摄影师陈川端都装了啥？](https://sspai.com/prime/story/zhuanglesha-230717)
 -  17 [派评 | 近期值得关注的 App](https://sspai.com/post/81231)
 -  17 [避免凝视——夏日泳池安全指南🧯](https://sspai.com/post/80954)
 -  17 [一次长谈，聊聊关于播客的一切](https://sspai.com/post/81072)
--  17 [尊重字体版权，我整理了一个免费商用字体库](https://sspai.com/post/80926)
--  17 [派早报：Office 更换默认字体，微软收购动视暴雪可能接近完成](https://sspai.com/post/81205)<!-- sspai:END -->
+-  17 [尊重字体版权，我整理了一个免费商用字体库](https://sspai.com/post/80926)<!-- sspai:END -->
