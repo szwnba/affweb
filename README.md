@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
+-  17 [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
+-  17 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  17 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
 -  17 [CPA Goal - Slightly Confused](https://afflift.com/f/threads/cpa-goal-slightly-confused.11295/)
 -  17 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)
@@ -31,8 +34,7 @@
 -  17 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
 -  17 [Arbitrage Offer](https://afflift.com/f/threads/arbitrage-offer.11296/)
 -  17 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  16 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
--  16 [Affiliate networks with whitehat/e-com offers to promote in Outbrain](https://afflift.com/f/threads/affiliate-networks-with-whitehat-e-com-offers-to-promote-in-outbrain.11293/)<!-- afflift:END -->
+-  16 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
