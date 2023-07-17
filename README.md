@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  12 [Claude 2.0 全球公测，AI模型得到增强，支持文档上传识别](https://51.ruyo.net/18428.html)<!-- ruyo:END -->
+-  17 [dynadot免费注册一个 .link域名，有效期一年](https://51.ruyo.net/18432.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
