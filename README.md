@@ -24,15 +24,14 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Hey y&#39;all](https://afflift.com/f/threads/hey-yall.11264/)
+-  17 [CPA Goal - Slightly Confused](https://afflift.com/f/threads/cpa-goal-slightly-confused.11295/)
 -  17 [Arbitrage Offer](https://afflift.com/f/threads/arbitrage-offer.11296/)
 -  16 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
--  16 [Hey y&#39;all](https://afflift.com/f/threads/hey-yall.11264/)
--  16 [CPA Goal - Slightly Confused](https://afflift.com/f/threads/cpa-goal-slightly-confused.11295/)
 -  16 [Another hello....](https://afflift.com/f/threads/another-hello.11294/)
 -  16 [Affiliate networks with whitehat/e-com offers to promote in Outbrain](https://afflift.com/f/threads/affiliate-networks-with-whitehat-e-com-offers-to-promote-in-outbrain.11293/)
 -  16 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/)
--  16 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
--  16 [Adsterra, cpa wrong value, any help](https://afflift.com/f/threads/adsterra-cpa-wrong-value-any-help.11288/)<!-- afflift:END -->
+-  16 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
