@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  17 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
--  17 [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)
--  17 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
+-  17 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)
+-  17 [Introducing Engaged Traffic: Captivate and Convert with Our Latest Ad Format! 🚀💼](https://afflift.com/f/threads/introducing-engaged-traffic-captivate-and-convert-with-our-latest-ad-format-%F0%9F%9A%80%F0%9F%92%BC.11298/)
+-  17 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
+-  17 [{Affsub2}  - CPA Network | Dating Smartlink, Nutra, Insurance offers](https://afflift.com/f/threads/affsub2-cpa-network-dating-smartlink-nutra-insurance-offers.9010/)
 -  17 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
--  17 [CPA Goal - Slightly Confused](https://afflift.com/f/threads/cpa-goal-slightly-confused.11295/)
--  17 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)
--  17 [Another hello....](https://afflift.com/f/threads/another-hello.11294/)
--  17 [Hey y&#39;all](https://afflift.com/f/threads/hey-yall.11264/)
--  17 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
--  17 [Arbitrage Offer](https://afflift.com/f/threads/arbitrage-offer.11296/)
--  17 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  16 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)<!-- afflift:END -->
+-  17 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
+-  17 [Just created my account on propeller ads and got suspended](https://afflift.com/f/threads/just-created-my-account-on-propeller-ads-and-got-suspended.11258/)
+-  17 [Galaksion&#39;s AI Generated Video](https://afflift.com/f/threads/galaksions-ai-generated-video.11274/)
+-  17 [Traffic Company Offers+Zeropark Traffic](https://afflift.com/f/threads/traffic-company-offers-zeropark-traffic.8637/)
+-  17 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
+-  17 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
+-  17 [#MondiadSpring: 💸💰 Pin Submit and 1/2 Click Flows 🚀](https://afflift.com/f/threads/mondiadspring-%F0%9F%92%B8%F0%9F%92%B0-pin-submit-and-1-2-click-flows-%F0%9F%9A%80.10455/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
