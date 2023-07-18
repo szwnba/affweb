@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [万字解析 | 深度剖析 GPT 的原理、现状与前景](https://sspai.com/post/81036)
 -  18 [新设计、新功能，老牌浏览器大更新：Opera One](https://sspai.com/post/80970)
 -  18 [三年级四年级五年级六年级，反正不讲做题](https://sspai.com/post/81086)
 -  18 [派早报：微软推出 Xbox Game Pass Core，微信好友上限证实约 1 万个等](https://sspai.com/post/81243)
--  17 [品牌创意人、摄影师陈川端都装了啥？](https://sspai.com/prime/story/zhuanglesha-230717)
--  17 [派评 | 近期值得关注的 App](https://sspai.com/post/81231)<!-- sspai:END -->
+-  17 [品牌创意人、摄影师陈川端都装了啥？](https://sspai.com/prime/story/zhuanglesha-230717)<!-- sspai:END -->
