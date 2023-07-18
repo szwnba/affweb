@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [三年级四年级五年级六年级，反正不讲做题](https://sspai.com/post/81086)
 -  18 [派早报：微软推出 Xbox Game Pass Core，微信好友上限证实约 1 万个等](https://sspai.com/post/81243)
 -  17 [品牌创意人、摄影师陈川端都装了啥？](https://sspai.com/prime/story/zhuanglesha-230717)
 -  17 [派评 | 近期值得关注的 App](https://sspai.com/post/81231)
--  17 [了解这些注意点，安心从容享受夏日泳池](https://sspai.com/post/80954)
--  17 [一次长谈，聊聊关于播客的一切](https://sspai.com/post/81072)<!-- sspai:END -->
+-  17 [了解这些注意点，安心从容享受夏日泳池](https://sspai.com/post/80954)<!-- sspai:END -->
