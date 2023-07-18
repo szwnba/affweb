@@ -13,8 +13,7 @@
 -  18 [OCBC 新加坡华侨银行使用Tips&lpar;币圈友好&rpar;](https://www.advertcn.com/forum.php?mod=viewthread&tid=111246)
 -  18 [大陆身份证可以开户的香港的那些虚拟银行汇总](https://www.advertcn.com/forum.php?mod=viewthread&tid=111245)
 -  18 [clickbank 中国区有注册成功的吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111244)
--  18 [长期收PAXUM余额.无需手续费。](https://www.advertcn.com/forum.php?mod=viewthread&tid=111242)
--  17 [关于重定向](https://www.advertcn.com/forum.php?mod=viewthread&tid=111238)<!-- advertcn:END -->
+-  18 [长期收PAXUM余额.无需手续费。](https://www.advertcn.com/forum.php?mod=viewthread&tid=111242)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
