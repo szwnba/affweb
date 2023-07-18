@@ -20,9 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
+-  18 [Just created my account on propeller ads and got suspended](https://afflift.com/f/threads/just-created-my-account-on-propeller-ads-and-got-suspended.11258/)
 -  18 [2023 Best ⭐Free⭐ Socks5/Http&lpar;s&rpar; Proxy List ⭐Fresh⭐ every day！！！](https://afflift.com/f/threads/2023-best-%E2%AD%90free%E2%AD%90-socks5-http-s-proxy-list-%E2%AD%90fresh%E2%AD%90-every-day%EF%BC%81%EF%BC%81%EF%BC%81.11153/)
 -  18 [Galaksion&#39;s AI Generated Video](https://afflift.com/f/threads/galaksions-ai-generated-video.11274/)
--  18 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
 -  18 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  18 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/)
 -  18 [Starting up an affiliate program for an already established eCommerce website client](https://afflift.com/f/threads/starting-up-an-affiliate-program-for-an-already-established-ecommerce-website-client.11306/)
@@ -30,8 +31,7 @@
 -  18 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
 -  18 [Adavice BLOG: Traffic Insights &amp; Help Station](https://afflift.com/f/threads/adavice-blog-traffic-insights-help-station.11305/)
 -  18 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
--  18 [AI Generated Voices &lpar;that don’t sound like robots 🤖&rpar;](https://afflift.com/f/threads/ai-generated-voices-that-don%E2%80%99t-sound-like-robots-%F0%9F%A4%96.11282/)
--  18 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)<!-- afflift:END -->
+-  18 [AI Generated Voices &lpar;that don’t sound like robots 🤖&rpar;](https://afflift.com/f/threads/ai-generated-voices-that-don%E2%80%99t-sound-like-robots-%F0%9F%A4%96.11282/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
