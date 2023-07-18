@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  17 [dynadot免费注册一个 .link域名，有效期一年](https://51.ruyo.net/18432.html)<!-- ruyo:END -->
+-  18 [微软New Bing AI 免费无限使用GPT-4超强识图能力！](https://51.ruyo.net/18435.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
