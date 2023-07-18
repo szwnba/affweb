@@ -24,6 +24,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  18 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
+-  18 [New ad format in Mondiad&#39;s ad portfolio - banners!](https://afflift.com/f/threads/new-ad-format-in-mondiads-ad-portfolio-banners.11307/)
+-  18 [Affiliate networks with whitehat/e-com offers to promote in Outbrain](https://afflift.com/f/threads/affiliate-networks-with-whitehat-e-com-offers-to-promote-in-outbrain.11293/)
 -  18 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
 -  18 [Just created my account on propeller ads and got suspended](https://afflift.com/f/threads/just-created-my-account-on-propeller-ads-and-got-suspended.11258/)
 -  18 [2023 Best ⭐Free⭐ Socks5/Http&lpar;s&rpar; Proxy List ⭐Fresh⭐ every day！！！](https://afflift.com/f/threads/2023-best-%E2%AD%90free%E2%AD%90-socks5-http-s-proxy-list-%E2%AD%90fresh%E2%AD%90-every-day%EF%BC%81%EF%BC%81%EF%BC%81.11153/)
@@ -31,11 +35,7 @@
 -  18 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  18 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/)
 -  18 [Starting up an affiliate program for an already established eCommerce website client](https://afflift.com/f/threads/starting-up-an-affiliate-program-for-an-already-established-ecommerce-website-client.11306/)
--  18 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/)
--  18 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
--  18 [Adavice BLOG: Traffic Insights &amp; Help Station](https://afflift.com/f/threads/adavice-blog-traffic-insights-help-station.11305/)
--  18 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
--  18 [AI Generated Voices &lpar;that don’t sound like robots 🤖&rpar;](https://afflift.com/f/threads/ai-generated-voices-that-don%E2%80%99t-sound-like-robots-%F0%9F%A4%96.11282/)<!-- afflift:END -->
+-  18 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
