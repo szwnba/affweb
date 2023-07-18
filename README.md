@@ -20,6 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
+-  18 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/)
+-  18 [Starting up an affiliate program for an already established eCommerce website client](https://afflift.com/f/threads/starting-up-an-affiliate-program-for-an-already-established-ecommerce-website-client.11306/)
+-  18 [Taboola native to search arbitrage and The Optimizer tool questions](https://afflift.com/f/threads/taboola-native-to-search-arbitrage-and-the-optimizer-tool-questions.11147/)
 -  18 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
 -  18 [Adavice BLOG: Traffic Insights &amp; Help Station](https://afflift.com/f/threads/adavice-blog-traffic-insights-help-station.11305/)
 -  18 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
@@ -27,11 +31,7 @@
 -  18 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
 -  17 [Just created my account on propeller ads and got suspended](https://afflift.com/f/threads/just-created-my-account-on-propeller-ads-and-got-suspended.11258/)
 -  17 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  17 [Best Facebook Offers](https://afflift.com/f/threads/best-facebook-offers.11304/)
--  17 [Arbitrage Offer](https://afflift.com/f/threads/arbitrage-offer.11296/)
--  17 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
--  17 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
--  17 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)<!-- afflift:END -->
+-  17 [Best Facebook Offers](https://afflift.com/f/threads/best-facebook-offers.11304/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
