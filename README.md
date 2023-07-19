@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [为了让旅行少一些记账的痛苦，我自己动手做了一款 app：Numpkin](https://sspai.com/post/80961)
 -  19 [家的日志 | 工欲善其事，必先利其器：我的家庭网络组网方案](https://sspai.com/post/81073)
 -  19 [界面简洁，功能丰富：Paperlib 如何帮我做好文献管理](https://sspai.com/post/80998)
 -  19 [派早报：拜亚动力发布颈挂式蓝牙耳机、 罗技收购 Loupedeck 等](https://sspai.com/post/81280)
