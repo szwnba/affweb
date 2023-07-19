@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
+-  19 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
+-  19 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
+-  19 [Melbet Partners | RevShare | CPA | Hybrid offers](https://afflift.com/f/threads/melbet-partners-revshare-cpa-hybrid-offers.11237/)
 -  19 [Maxweb conversion test question](https://afflift.com/f/threads/maxweb-conversion-test-question.11308/)
 -  19 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
--  19 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
 -  18 [WiseRef affiliate link GeoIP routing and click tracking tool](https://afflift.com/f/threads/wiseref-affiliate-link-geoip-routing-and-click-tracking-tool.11311/)
 -  18 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
--  18 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
 -  18 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)
 -  18 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
 -  18 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/)
--  18 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
--  18 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  18 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)<!-- afflift:END -->
+-  18 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
