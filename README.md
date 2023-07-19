@@ -40,5 +40,4 @@
 -  19 [派早报：拜亚动力发布颈挂式蓝牙耳机、 罗技收购 Loupedeck 等](https://sspai.com/post/81280)
 -  18 [社区速递 004：毕业去哪玩、工具分享和作者的新玩意](https://sspai.com/post/81263)
 -  18 [万字解析 | 深度剖析 GPT 的原理、现状与前景](https://sspai.com/post/81036)
--  18 [新设计、新功能，老牌浏览器大更新：Opera One](https://sspai.com/post/80970)
--  18 [三年级四年级五年级六年级，反正不讲做题](https://sspai.com/post/81086)<!-- sspai:END -->
+-  18 [新设计、新功能，老牌浏览器大更新：Opera One](https://sspai.com/post/80970)<!-- sspai:END -->
