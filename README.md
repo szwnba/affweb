@@ -21,9 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [WiseRef affiliate link GeoIP routing and click tracking tool](https://afflift.com/f/threads/wiseref-affiliate-link-geoip-routing-and-click-tracking-tool.11311/)
+-  19 [How Do Agency Accounts Work? &lpar;FB/TT etc.&rpar;](https://afflift.com/f/threads/how-do-agency-accounts-work-fb-tt-etc.11313/)
 -  19 [Extra Cash Party started now!](https://afflift.com/f/threads/extra-cash-party-started-now.11252/)
 -  19 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  19 [WiseRef affiliate link GeoIP routing and click tracking tool](https://afflift.com/f/threads/wiseref-affiliate-link-geoip-routing-and-click-tracking-tool.11311/)
 -  19 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
 -  19 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
 -  19 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
@@ -31,8 +32,7 @@
 -  19 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
 -  19 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
 -  19 [Another hello....](https://afflift.com/f/threads/another-hello.11294/)
--  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  19 [Galaksion&#39;s AI Generated Video](https://afflift.com/f/threads/galaksions-ai-generated-video.11274/)<!-- afflift:END -->
+-  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
