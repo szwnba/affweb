@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  18 [微软New Bing AI 免费无限使用GPT-4超强识图能力！](https://51.ruyo.net/18435.html)<!-- ruyo:END -->
+-  19 [dynv6免费提供DDNS服务以及提供免费二级域名](https://51.ruyo.net/18430.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
