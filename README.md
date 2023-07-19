@@ -10,9 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  18 [OCBC 新加坡华侨银行使用Tips&lpar;币圈友好&rpar;](https://www.advertcn.com/forum.php?mod=viewthread&tid=111246)
--  18 [大陆身份证可以开户的香港的那些虚拟银行汇总](https://www.advertcn.com/forum.php?mod=viewthread&tid=111245)
--  18 [clickbank 中国区有注册成功的吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111244)<!-- advertcn:END -->
+-  18 [安装开心版的wp 插件、主题， 大佬们都有什么网站、软件...](https://www.advertcn.com/forum.php?mod=viewthread&tid=111253)
+-  18 [[Case Study] – Winning Campaign in South Africa ROI 50%](https://www.advertcn.com/forum.php?mod=viewthread&tid=111251)
+-  18 [OCBC 新加坡华侨银行使用Tips&lpar;币圈友好&rpar;](https://www.advertcn.com/forum.php?mod=viewthread&tid=111246)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
