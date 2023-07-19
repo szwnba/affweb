@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)
+-  19 [What is Your Ratio of Finding Good Offers?](https://afflift.com/f/threads/what-is-your-ratio-of-finding-good-offers.11277/)
+-  19 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  19 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
 -  19 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
 -  19 [Wordle?](https://afflift.com/f/threads/wordle.8222/)
@@ -29,10 +32,7 @@
 -  19 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  19 [WiseRef affiliate link GeoIP routing and click tracking tool](https://afflift.com/f/threads/wiseref-affiliate-link-geoip-routing-and-click-tracking-tool.11311/)
 -  19 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
--  19 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
--  19 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
--  19 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  19 [Where And How To Find A Wealthy Audience If You Run Ads Using An Advertising Network](https://afflift.com/f/threads/where-and-how-to-find-a-wealthy-audience-if-you-run-ads-using-an-advertising-network.11315/)<!-- afflift:END -->
+-  19 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
