@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
+-  19 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
+-  19 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
 -  19 [Wordle?](https://afflift.com/f/threads/wordle.8222/)
+-  19 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
+-  19 [Steal Traffic on Stolen LPs &lpar;JavaScript Included&rpar;](https://afflift.com/f/threads/steal-traffic-on-stolen-lps-javascript-included.10819/)
+-  19 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
+-  19 [WiseRef affiliate link GeoIP routing and click tracking tool](https://afflift.com/f/threads/wiseref-affiliate-link-geoip-routing-and-click-tracking-tool.11311/)
+-  19 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
 -  19 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
 -  19 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
 -  19 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  19 [Where And How To Find A Wealthy Audience If You Run Ads Using An Advertising Network](https://afflift.com/f/threads/where-and-how-to-find-a-wealthy-audience-if-you-run-ads-using-an-advertising-network.11315/)
--  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  19 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
--  19 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/)
--  19 [WiseRef affiliate link GeoIP routing and click tracking tool](https://afflift.com/f/threads/wiseref-affiliate-link-geoip-routing-and-click-tracking-tool.11311/)
--  19 [How Do Agency Accounts Work? &lpar;FB/TT etc.&rpar;](https://afflift.com/f/threads/how-do-agency-accounts-work-fb-tt-etc.11313/)
--  19 [Extra Cash Party started now!](https://afflift.com/f/threads/extra-cash-party-started-now.11252/)<!-- afflift:END -->
+-  19 [Where And How To Find A Wealthy Audience If You Run Ads Using An Advertising Network](https://afflift.com/f/threads/where-and-how-to-find-a-wealthy-audience-if-you-run-ads-using-an-advertising-network.11315/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
