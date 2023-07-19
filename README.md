@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
 -  19 [Wordle?](https://afflift.com/f/threads/wordle.8222/)
+-  19 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
+-  19 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  19 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  19 [Where And How To Find A Wealthy Audience If You Run Ads Using An Advertising Network](https://afflift.com/f/threads/where-and-how-to-find-a-wealthy-audience-if-you-run-ads-using-an-advertising-network.11315/)
 -  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  19 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
 -  19 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/)
--  19 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
 -  19 [WiseRef affiliate link GeoIP routing and click tracking tool](https://afflift.com/f/threads/wiseref-affiliate-link-geoip-routing-and-click-tracking-tool.11311/)
 -  19 [How Do Agency Accounts Work? &lpar;FB/TT etc.&rpar;](https://afflift.com/f/threads/how-do-agency-accounts-work-fb-tt-etc.11313/)
--  19 [Extra Cash Party started now!](https://afflift.com/f/threads/extra-cash-party-started-now.11252/)
--  19 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  19 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
--  19 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
--  19 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)<!-- afflift:END -->
+-  19 [Extra Cash Party started now!](https://afflift.com/f/threads/extra-cash-party-started-now.11252/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
