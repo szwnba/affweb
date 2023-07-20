@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [一日一技 | 绕过 iOS 和 iPadOS 的系统 bug 设置农历生日](https://sspai.com/post/81239)
 -  20 [生产力祛魅：一位社科工作者的知识工作流](https://sspai.com/post/80962)
 -  20 [用这篇景点和美食攻略，为记忆中的土耳其生活作结](https://sspai.com/post/81040)
 -  20 [派早报：群晖发布两款 NAS 新品、工信部将重点整治欺骗误导下载等问题](https://sspai.com/post/81312)
