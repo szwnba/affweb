@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [派早报：群晖发布两款 NAS 新品、工信部将重点整治欺骗误导下载等问题](https://sspai.com/post/81312)
 -  19 [更开放的降噪旗舰耳机：Beats Studio Pro 佩戴体验](https://sspai.com/post/81293)
 -  19 [为了让旅行少一些记账的痛苦，我自己动手做了一款 app：Numpkin](https://sspai.com/post/80961)
 -  19 [家的日志 | 工欲善其事，必先利其器：我的家庭网络组网方案](https://sspai.com/post/81073)
