@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Google Ads Verification for a Non-Resident?](https://afflift.com/f/threads/google-ads-verification-for-a-non-resident.11284/)
+-  20 [So, how was Affiliate World Barcelona?](https://afflift.com/f/threads/so-how-was-affiliate-world-barcelona.11322/)
+-  20 [@propelllerad subzone stats don&#39;t match](https://afflift.com/f/threads/propelllerad-subzone-stats-dont-match.11325/)
 -  20 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
 -  20 [How hard to work with Arabic copy?](https://afflift.com/f/threads/how-hard-to-work-with-arabic-copy.7756/)
 -  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
@@ -29,10 +32,7 @@
 -  20 [Wordle?](https://afflift.com/f/threads/wordle.8222/)
 -  20 [Does any know of a Formula 1 sports betting site?](https://afflift.com/f/threads/does-any-know-of-a-formula-1-sports-betting-site.11323/)
 -  20 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
--  20 [Bemob - meta refresh &amp; double meta](https://afflift.com/f/threads/bemob-meta-refresh-double-meta.9504/)
--  20 [So, how was Affiliate World Barcelona?](https://afflift.com/f/threads/so-how-was-affiliate-world-barcelona.11322/)
--  20 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
--  20 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)<!-- afflift:END -->
+-  20 [Bemob - meta refresh &amp; double meta](https://afflift.com/f/threads/bemob-meta-refresh-double-meta.9504/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
