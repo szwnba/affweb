@@ -21,6 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
+-  20 [Why Not Everyone Uses RTB: Debunking common misconceptions](https://afflift.com/f/threads/why-not-everyone-uses-rtb-debunking-common-misconceptions.11321/)
+-  20 [🎁 Free Dolphin{anty}?](https://afflift.com/f/threads/%F0%9F%8E%81-free-dolphin-anty.11272/)
+-  20 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
 -  20 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  20 [Get 100$ bonus to your first payment from Adthorized!](https://afflift.com/f/threads/get-100-bonus-to-your-first-payment-from-adthorized.11320/)
 -  20 [Revolutionize Your Affiliate Earnings with GanttPRO !](https://afflift.com/f/threads/revolutionize-your-affiliate-earnings-with-ganttpro.10556/)
@@ -28,11 +32,7 @@
 -  20 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/)
 -  20 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
 -  20 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)
--  20 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
--  20 [Optimising A Campaign For A Specific Offer](https://afflift.com/f/threads/optimising-a-campaign-for-a-specific-offer.11318/)
--  20 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
--  20 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
--  20 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)<!-- afflift:END -->
+-  20 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
