@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  20 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
+-  20 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
+-  20 [Wordle?](https://afflift.com/f/threads/wordle.8222/)
+-  20 [Does any know of a Formula 1 sports betting site?](https://afflift.com/f/threads/does-any-know-of-a-formula-1-sports-betting-site.11323/)
+-  20 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
+-  20 [Bemob - meta refresh &amp; double meta](https://afflift.com/f/threads/bemob-meta-refresh-double-meta.9504/)
+-  20 [So, how was Affiliate World Barcelona?](https://afflift.com/f/threads/so-how-was-affiliate-world-barcelona.11322/)
+-  20 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  20 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
 -  20 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  20 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
--  20 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
--  20 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  20 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
--  20 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
--  20 [Why Not Everyone Uses RTB: Debunking common misconceptions](https://afflift.com/f/threads/why-not-everyone-uses-rtb-debunking-common-misconceptions.11321/)
--  20 [🎁 Free Dolphin{anty}?](https://afflift.com/f/threads/%F0%9F%8E%81-free-dolphin-anty.11272/)
--  20 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  20 [Get 100$ bonus to your first payment from Adthorized!](https://afflift.com/f/threads/get-100-bonus-to-your-first-payment-from-adthorized.11320/)
--  20 [Revolutionize Your Affiliate Earnings with GanttPRO !](https://afflift.com/f/threads/revolutionize-your-affiliate-earnings-with-ganttpro.10556/)<!-- afflift:END -->
+-  20 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
