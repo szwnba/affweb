@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
+-  20 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  20 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
 -  20 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
 -  20 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  20 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
@@ -29,10 +32,7 @@
 -  20 [🎁 Free Dolphin{anty}?](https://afflift.com/f/threads/%F0%9F%8E%81-free-dolphin-anty.11272/)
 -  20 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  20 [Get 100$ bonus to your first payment from Adthorized!](https://afflift.com/f/threads/get-100-bonus-to-your-first-payment-from-adthorized.11320/)
--  20 [Revolutionize Your Affiliate Earnings with GanttPRO !](https://afflift.com/f/threads/revolutionize-your-affiliate-earnings-with-ganttpro.10556/)
--  20 [Making Galaksion Pops Work](https://afflift.com/f/threads/making-galaksion-pops-work.11319/)
--  20 [ApproachX - Dating Landing Page](https://afflift.com/f/threads/approachx-dating-landing-page.10994/)
--  20 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)<!-- afflift:END -->
+-  20 [Revolutionize Your Affiliate Earnings with GanttPRO !](https://afflift.com/f/threads/revolutionize-your-affiliate-earnings-with-ganttpro.10556/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
