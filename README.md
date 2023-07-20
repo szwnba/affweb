@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [How Do Agency Accounts Work? &lpar;FB/TT etc.&rpar;](https://afflift.com/f/threads/how-do-agency-accounts-work-fb-tt-etc.11313/)
 -  20 [Optimising A Campaign For A Specific Offer](https://afflift.com/f/threads/optimising-a-campaign-for-a-specific-offer.11318/)
 -  20 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  20 [How hard to work with Arabic copy?](https://afflift.com/f/threads/how-hard-to-work-with-arabic-copy.7756/)
@@ -31,8 +32,7 @@
 -  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  20 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
 -  20 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
--  20 [Wordle?](https://afflift.com/f/threads/wordle.8222/)
--  20 [Does any know of a Formula 1 sports betting site?](https://afflift.com/f/threads/does-any-know-of-a-formula-1-sports-betting-site.11323/)<!-- afflift:END -->
+-  20 [Wordle?](https://afflift.com/f/threads/wordle.8222/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
