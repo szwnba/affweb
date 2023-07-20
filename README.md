@@ -21,7 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Making Galaksion Pops Work](https://afflift.com/f/threads/making-galaksion-pops-work.11319/)
 -  20 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
+-  20 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)
 -  20 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
 -  20 [Optimising A Campaign For A Specific Offer](https://afflift.com/f/threads/optimising-a-campaign-for-a-specific-offer.11318/)
 -  20 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
@@ -30,9 +32,7 @@
 -  20 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  20 [Wordle?](https://afflift.com/f/threads/wordle.8222/)
 -  20 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
--  20 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
--  20 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
--  20 [is there a best way or set of rules to use when blocking widget IDs?](https://afflift.com/f/threads/is-there-a-best-way-or-set-of-rules-to-use-when-blocking-widget-ids.11317/)<!-- afflift:END -->
+-  20 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
