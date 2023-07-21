@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [派早报：Unity 发布 PolySpatial 测试版、暴雪旗下游戏将登陆 Steam 等](https://sspai.com/post/81340)
 -  20 [新玩意 154｜少数派的编辑们最近买了啥？](https://sspai.com/post/81329)
 -  20 [一日一技 | 绕过 iOS 和 iPadOS 的系统 bug 设置农历生日](https://sspai.com/post/81239)
 -  20 [生产力祛魅：一位社科工作者的知识工作流](https://sspai.com/post/80962)
