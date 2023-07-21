@@ -36,7 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [寻找一种真实：音乐模拟介质小史](https://sspai.com/post/81162)
 -  21 [如何用 AI 帮你做 PPT？](https://sspai.com/post/81124)
 -  21 [派早报：Unity 发布 PolySpatial 测试版、暴雪旗下游戏将登陆 Steam 等](https://sspai.com/post/81340)
--  20 [新玩意 154｜少数派的编辑们最近买了啥？](https://sspai.com/post/81329)
--  20 [一日一技 | 绕过 iOS 和 iPadOS 的系统 bug 设置农历生日](https://sspai.com/post/81239)<!-- sspai:END -->
+-  20 [新玩意 154｜少数派的编辑们最近买了啥？](https://sspai.com/post/81329)<!-- sspai:END -->
