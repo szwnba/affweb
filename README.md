@@ -21,12 +21,12 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Starting up an affiliate program for an already established eCommerce website client](https://afflift.com/f/threads/starting-up-an-affiliate-program-for-an-already-established-ecommerce-website-client.11306/)
 -  21 [First-time CPA - Learning and trying...](https://afflift.com/f/threads/first-time-cpa-learning-and-trying.11331/)
+-  21 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
+-  21 [Starting up an affiliate program for an already established eCommerce website client](https://afflift.com/f/threads/starting-up-an-affiliate-program-for-an-already-established-ecommerce-website-client.11306/)
 -  21 [TGLV quick start guide](https://afflift.com/f/threads/tglv-quick-start-guide.11312/)
 -  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  21 [Best Facebook Offers](https://afflift.com/f/threads/best-facebook-offers.11304/)
--  21 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  21 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
 -  21 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
 -  21 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
