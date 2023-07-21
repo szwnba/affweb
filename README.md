@@ -21,8 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Legitsms.com | Temporary Phone Number for SMS Verification |  Non-VoIP | US, EU, Africa, Asia |](https://afflift.com/f/threads/legitsms-com-temporary-phone-number-for-sms-verification-non-voip-us-eu-africa-asia.11329/)
 -  21 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)
+-  21 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
+-  21 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
+-  21 [Legitsms.com | Temporary Phone Number for SMS Verification |  Non-VoIP | US, EU, Africa, Asia |](https://afflift.com/f/threads/legitsms-com-temporary-phone-number-for-sms-verification-non-voip-us-eu-africa-asia.11329/)
 -  21 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
 -  21 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
 -  21 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
@@ -30,9 +32,7 @@
 -  21 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  21 [Making Money with Affiliate Marketing using ChatGPT&lpar;With Prompts&rpar; 🚀💲](https://afflift.com/f/threads/making-money-with-affiliate-marketing-using-chatgpt-with-prompts-%F0%9F%9A%80%F0%9F%92%B2.11327/)
 -  21 [@propelllerad subzone stats don&#39;t match](https://afflift.com/f/threads/propelllerad-subzone-stats-dont-match.11325/)
--  21 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
--  21 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
--  21 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)<!-- afflift:END -->
+-  21 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
