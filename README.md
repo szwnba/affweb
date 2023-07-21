@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Making Money with Affiliate Marketing using ChatGPT&lpar;With Prompts&rpar; 🚀💲](https://afflift.com/f/threads/making-money-with-affiliate-marketing-using-chatgpt-with-prompts-%F0%9F%9A%80%F0%9F%92%B2.11327/)
 -  21 [@propelllerad subzone stats don&#39;t match](https://afflift.com/f/threads/propelllerad-subzone-stats-dont-match.11325/)
 -  21 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
 -  21 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
@@ -31,8 +32,7 @@
 -  21 [Why Not Everyone Uses RTB: Debunking common misconceptions](https://afflift.com/f/threads/why-not-everyone-uses-rtb-debunking-common-misconceptions.11321/)
 -  21 [Does any know of a Formula 1 sports betting site?](https://afflift.com/f/threads/does-any-know-of-a-formula-1-sports-betting-site.11323/)
 -  21 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
--  21 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)
--  20 [TGLV quick start guide](https://afflift.com/f/threads/tglv-quick-start-guide.11312/)<!-- afflift:END -->
+-  21 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
