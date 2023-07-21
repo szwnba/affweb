@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  21 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
 -  21 [Making Money with Affiliate Marketing using ChatGPT&lpar;With Prompts&rpar; 🚀💲](https://afflift.com/f/threads/making-money-with-affiliate-marketing-using-chatgpt-with-prompts-%F0%9F%9A%80%F0%9F%92%B2.11327/)
 -  21 [@propelllerad subzone stats don&#39;t match](https://afflift.com/f/threads/propelllerad-subzone-stats-dont-match.11325/)
 -  21 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
--  21 [My &quot;massive&quot; Galaksion Contest Entry 😉](https://afflift.com/f/threads/my-massive-galaksion-contest-entry-%F0%9F%98%89.11287/)
 -  21 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)
 -  21 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
 -  21 [Best Facebook Offers](https://afflift.com/f/threads/best-facebook-offers.11304/)
 -  21 [Affiliate networks with whitehat/e-com offers to promote in Outbrain](https://afflift.com/f/threads/affiliate-networks-with-whitehat-e-com-offers-to-promote-in-outbrain.11293/)
 -  21 [Why Not Everyone Uses RTB: Debunking common misconceptions](https://afflift.com/f/threads/why-not-everyone-uses-rtb-debunking-common-misconceptions.11321/)
 -  21 [Does any know of a Formula 1 sports betting site?](https://afflift.com/f/threads/does-any-know-of-a-formula-1-sports-betting-site.11323/)
--  21 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
--  21 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)<!-- afflift:END -->
+-  21 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
