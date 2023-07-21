@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Best Facebook Offers](https://afflift.com/f/threads/best-facebook-offers.11304/)
+-  21 [Affiliate networks with whitehat/e-com offers to promote in Outbrain](https://afflift.com/f/threads/affiliate-networks-with-whitehat-e-com-offers-to-promote-in-outbrain.11293/)
+-  21 [Why Not Everyone Uses RTB: Debunking common misconceptions](https://afflift.com/f/threads/why-not-everyone-uses-rtb-debunking-common-misconceptions.11321/)
+-  21 [Does any know of a Formula 1 sports betting site?](https://afflift.com/f/threads/does-any-know-of-a-formula-1-sports-betting-site.11323/)
+-  21 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
 -  21 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)
 -  20 [TGLV quick start guide](https://afflift.com/f/threads/tglv-quick-start-guide.11312/)
 -  20 [How Do Agency Accounts Work? &lpar;FB/TT etc.&rpar;](https://afflift.com/f/threads/how-do-agency-accounts-work-fb-tt-etc.11313/)
 -  20 [Optimising A Campaign For A Specific Offer](https://afflift.com/f/threads/optimising-a-campaign-for-a-specific-offer.11318/)
 -  20 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  20 [How hard to work with Arabic copy?](https://afflift.com/f/threads/how-hard-to-work-with-arabic-copy.7756/)
--  20 [Google Ads Verification for a Non-Resident?](https://afflift.com/f/threads/google-ads-verification-for-a-non-resident.11284/)
--  20 [So, how was Affiliate World Barcelona?](https://afflift.com/f/threads/so-how-was-affiliate-world-barcelona.11322/)
--  20 [@propelllerad subzone stats don&#39;t match](https://afflift.com/f/threads/propelllerad-subzone-stats-dont-match.11325/)
--  20 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  20 [What would u do with cpa campaign at -56% ? Drop or...what ?](https://afflift.com/f/threads/what-would-u-do-with-cpa-campaign-at-56-drop-or-what.11310/)<!-- afflift:END -->
+-  20 [Google Ads Verification for a Non-Resident?](https://afflift.com/f/threads/google-ads-verification-for-a-non-resident.11284/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
