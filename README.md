@@ -36,6 +36,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  22 [播客 | 等一朵花开：独立女性创业故事](https://sspai.com/post/81318)
--  21 [Cocoa 文本组合键：macOS 中隐藏的 Emacs 情怀](https://sspai.com/prime/story/cocoa-text-keybindings)
--  21 [本周看什么 | 最近值得一看的一大铲作品](https://sspai.com/post/81361)<!-- sspai:END -->
+-  22 [和《纸鹤》一起，成为 XR 世界的原住民](https://sspai.com/post/81244)
+-  22 [播客 | 等一朵花开：独立女性创业故事](https://sspai.com/post/81318)<!-- sspai:END -->
