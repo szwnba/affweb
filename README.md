@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  21 [Cocoa 文本组合键：macOS 中隐藏的 Emacs 情怀](https://sspai.com/prime/story/cocoa-text-keybindings)
 -  21 [本周看什么 | 最近值得一看的一大铲作品](https://sspai.com/post/81361)
--  21 [寻找一种真实：音乐模拟介质小史](https://sspai.com/post/81162)
--  21 [如何用 AI 帮你做 PPT？](https://sspai.com/post/81124)<!-- sspai:END -->
+-  21 [寻找一种真实：音乐模拟介质小史](https://sspai.com/post/81162)<!-- sspai:END -->
