@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  22 [播客 | 等一朵花开：独立女性创业故事](https://sspai.com/post/81318)
 -  21 [Cocoa 文本组合键：macOS 中隐藏的 Emacs 情怀](https://sspai.com/prime/story/cocoa-text-keybindings)
--  21 [本周看什么 | 最近值得一看的一大铲作品](https://sspai.com/post/81361)
--  21 [寻找一种真实：音乐模拟介质小史](https://sspai.com/post/81162)<!-- sspai:END -->
+-  21 [本周看什么 | 最近值得一看的一大铲作品](https://sspai.com/post/81361)<!-- sspai:END -->
