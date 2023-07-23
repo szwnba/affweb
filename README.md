@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)
+-  23 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)
 -  23 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  23 [Discrepancies: what to do](https://afflift.com/f/threads/discrepancies-what-to-do.11335/)
 -  23 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)
