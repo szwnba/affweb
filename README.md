@@ -30,8 +30,7 @@
 -  22 [Tracking problem with Bemob/propeller ads and zeydoo](https://afflift.com/f/threads/tracking-problem-with-bemob-propeller-ads-and-zeydoo.11333/)
 -  22 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)
 -  22 [First-time CPA - Learning and trying...](https://afflift.com/f/threads/first-time-cpa-learning-and-trying.11331/)
--  22 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
--  22 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)<!-- afflift:END -->
+-  22 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
