@@ -21,7 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  23 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
+-  23 [Interview with a Pro Affiliate: KJ Rocker](https://afflift.com/f/threads/interview-with-a-pro-affiliate-kj-rocker.3752/)
 -  23 [Premium Agency Ad Accounts - Unbannable ad accounts with highest tier of support](https://afflift.com/f/threads/premium-agency-ad-accounts-unbannable-ad-accounts-with-highest-tier-of-support.10530/)
 -  23 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
 -  23 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
@@ -30,9 +32,7 @@
 -  23 [Discrepancies: what to do](https://afflift.com/f/threads/discrepancies-what-to-do.11335/)
 -  23 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
 -  23 [Which Landing pages Builder is best and cheap?](https://afflift.com/f/threads/which-landing-pages-builder-is-best-and-cheap.11336/)
--  23 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
--  23 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
--  23 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)<!-- afflift:END -->
+-  23 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
