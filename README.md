@@ -32,4 +32,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [本月玩什么 | Viewfinder、OXENFREE II、薇妮巴一家、小小贴纸铺、三伏](https://sspai.com/post/81410)
 -  23 [心灵之旅：三年跑步 2000 公里，这是我的感悟与思考](https://sspai.com/post/81288)<!-- sspai:END -->
