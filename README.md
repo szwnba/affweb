@@ -21,16 +21,15 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
 -  23 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
 -  23 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/)
--  22 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
 -  22 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
 -  22 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
 -  22 [SnapChat Spy Tool](https://afflift.com/f/threads/snapchat-spy-tool.3607/)
 -  22 [Tracking problem with Bemob/propeller ads and zeydoo](https://afflift.com/f/threads/tracking-problem-with-bemob-propeller-ads-and-zeydoo.11333/)
 -  22 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)
--  22 [First-time CPA - Learning and trying...](https://afflift.com/f/threads/first-time-cpa-learning-and-trying.11331/)
--  22 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)<!-- afflift:END -->
+-  22 [First-time CPA - Learning and trying...](https://afflift.com/f/threads/first-time-cpa-learning-and-trying.11331/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
