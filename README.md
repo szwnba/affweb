@@ -33,4 +33,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [心灵之旅：三年跑步 2000 公里，这是我的感悟与思考](https://sspai.com/post/81288)
 -  22 [和《纸鹤》一起，成为 XR 世界的原住民](https://sspai.com/post/81244)<!-- sspai:END -->
