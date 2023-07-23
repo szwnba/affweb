@@ -21,11 +21,14 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
+-  23 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
+-  23 [Discrepancies: what to do](https://afflift.com/f/threads/discrepancies-what-to-do.11335/)
+-  23 [First-time CPA - Learning and trying...](https://afflift.com/f/threads/first-time-cpa-learning-and-trying.11331/)
 -  23 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
 -  23 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/)
--  22 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
--  22 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)<!-- afflift:END -->
+-  23 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
+-  23 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
+-  22 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
