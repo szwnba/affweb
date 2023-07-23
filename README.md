@@ -28,8 +28,7 @@
 -  22 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
 -  22 [SnapChat Spy Tool](https://afflift.com/f/threads/snapchat-spy-tool.3607/)
 -  22 [Tracking problem with Bemob/propeller ads and zeydoo](https://afflift.com/f/threads/tracking-problem-with-bemob-propeller-ads-and-zeydoo.11333/)
--  22 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)
--  22 [First-time CPA - Learning and trying...](https://afflift.com/f/threads/first-time-cpa-learning-and-trying.11331/)<!-- afflift:END -->
+-  22 [Galaksion Push With MVAs ,Middle East](https://afflift.com/f/threads/galaksion-push-with-mvas-middle-east.11299/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
