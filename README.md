@@ -21,9 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
+-  24 [TGLV quick start guide](https://afflift.com/f/threads/tglv-quick-start-guide.11312/)
 -  24 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  24 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
--  24 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  24 [Propush KYC verification failed](https://afflift.com/f/threads/propush-kyc-verification-failed.11338/)
 -  24 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  24 [Which Landing pages Builder is best and cheap?](https://afflift.com/f/threads/which-landing-pages-builder-is-best-and-cheap.11336/)
@@ -31,8 +32,7 @@
 -  24 [Does Anyone Know who IFX &lpar;UK&rpar; Ltd is?](https://afflift.com/f/threads/does-anyone-know-who-ifx-uk-ltd-is.11337/)
 -  24 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  24 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  24 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)
--  24 [Discrepancies: what to do](https://afflift.com/f/threads/discrepancies-what-to-do.11335/)<!-- afflift:END -->
+-  24 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
