@@ -36,5 +36,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [派早报：微信支付宝开放绑定境外卡；上海暂停新办网约车运输证](https://sspai.com/post/81422)
 -  23 [本月玩什么 | Viewfinder、OXENFREE II、薇妮巴一家、小小贴纸铺、三伏](https://sspai.com/post/81410)
 -  23 [心灵之旅：三年跑步 2000 公里，这是我的感悟与思考](https://sspai.com/post/81288)<!-- sspai:END -->
