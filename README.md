@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  19 [dynv6免费提供DDNS服务以及提供免费二级域名](https://51.ruyo.net/18430.html)<!-- ruyo:END -->
+-  24 [仅10行代码可长期关闭Windows系统更新，纯绿色代码！](https://51.ruyo.net/18440.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
