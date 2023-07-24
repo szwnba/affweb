@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [突然，我想用这张桌子听歌了](https://sspai.com/post/81419)
 -  24 [高难度开局的求职之路如何步步拆解：我的回顾与复盘](https://sspai.com/post/81429)
 -  24 [看似完美的电纸书是不存在的：聊聊我的 Kindle 与 Kobo 使用心得](https://sspai.com/post/81210)
 -  24 [派早报：微信支付宝开放绑定境外卡；上海暂停新办网约车运输证](https://sspai.com/post/81422)
