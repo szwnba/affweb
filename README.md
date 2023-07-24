@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
+-  24 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
+-  24 [Which Landing pages Builder is best and cheap?](https://afflift.com/f/threads/which-landing-pages-builder-is-best-and-cheap.11336/)
 -  24 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
 -  24 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
--  24 [Which Landing pages Builder is best and cheap?](https://afflift.com/f/threads/which-landing-pages-builder-is-best-and-cheap.11336/)
 -  24 [Does Anyone Know who IFX &lpar;UK&rpar; Ltd is?](https://afflift.com/f/threads/does-anyone-know-who-ifx-uk-ltd-is.11337/)
 -  24 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  24 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  24 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)
 -  24 [Discrepancies: what to do](https://afflift.com/f/threads/discrepancies-what-to-do.11335/)
 -  24 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
--  24 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
--  24 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  24 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)<!-- afflift:END -->
+-  24 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
