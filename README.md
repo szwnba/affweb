@@ -21,8 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
 -  24 [Which Landing pages Builder is best and cheap?](https://afflift.com/f/threads/which-landing-pages-builder-is-best-and-cheap.11336/)
+-  24 [Discrepancies: what to do](https://afflift.com/f/threads/discrepancies-what-to-do.11335/)
+-  24 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
 -  24 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
 -  24 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)
 -  24 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
@@ -31,8 +32,7 @@
 -  23 [Interview with a Pro Affiliate: Brent Dunn](https://afflift.com/f/threads/interview-with-a-pro-affiliate-brent-dunn.1136/)
 -  23 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  23 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
--  23 [Interview with a Pro Affiliate: KJ Rocker](https://afflift.com/f/threads/interview-with-a-pro-affiliate-kj-rocker.3752/)
--  23 [Premium Agency Ad Accounts - Unbannable ad accounts with highest tier of support](https://afflift.com/f/threads/premium-agency-ad-accounts-unbannable-ad-accounts-with-highest-tier-of-support.10530/)<!-- afflift:END -->
+-  23 [Interview with a Pro Affiliate: KJ Rocker](https://afflift.com/f/threads/interview-with-a-pro-affiliate-kj-rocker.3752/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
