@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
 -  24 [Extra Cash Party started now!](https://afflift.com/f/threads/extra-cash-party-started-now.11252/)
 -  24 [Galaksion + Push Campaign $xxx ? [ Contest ]](https://afflift.com/f/threads/galaksion-push-campaign-xxx-contest.11223/)
 -  24 [Affiliate networks with whitehat/e-com offers to promote in Outbrain](https://afflift.com/f/threads/affiliate-networks-with-whitehat-e-com-offers-to-promote-in-outbrain.11293/)
@@ -31,8 +32,7 @@
 -  24 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  24 [Discrepancies: what to do](https://afflift.com/f/threads/discrepancies-what-to-do.11335/)
 -  24 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
--  24 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
--  24 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)<!-- afflift:END -->
+-  24 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
