@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [派早报：Twitter 更改 logo，任天堂将严惩不当使用账号行为等](https://sspai.com/post/81453)
 -  24 [派评 | 近期值得关注的 App](https://sspai.com/post/81442)
 -  24 [突然，我想用这张桌子听歌了](https://sspai.com/post/81419)
 -  24 [高难度开局的求职之路如何步步拆解：我的回顾与复盘](https://sspai.com/post/81429)
