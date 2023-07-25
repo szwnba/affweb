@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Propush KYC verification failed](https://afflift.com/f/threads/propush-kyc-verification-failed.11338/)
 -  25 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  25 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
 -  25 [💰🤑 Galaksion Push Contest + SOI Clickdealer 💰🤑](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%A4%91-galaksion-push-contest-soi-clickdealer-%F0%9F%92%B0%F0%9F%A4%91.11340/)
@@ -30,7 +31,6 @@
 -  24 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  24 [TGLV quick start guide](https://afflift.com/f/threads/tglv-quick-start-guide.11312/)
 -  24 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
--  24 [Propush KYC verification failed](https://afflift.com/f/threads/propush-kyc-verification-failed.11338/)
 -  24 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  24 [Which Landing pages Builder is best and cheap?](https://afflift.com/f/threads/which-landing-pages-builder-is-best-and-cheap.11336/)<!-- afflift:END -->
 
