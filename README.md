@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  25 [被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)
 -  25 [通用状态监控通知脚本，订阅状态通知](https://sspai.com/post/81269)
--  25 [派早报：Twitter 更改 logo，任天堂将严惩不当使用账号行为等](https://sspai.com/post/81453)
--  24 [派评 | 近期值得关注的 App](https://sspai.com/post/81442)<!-- sspai:END -->
+-  25 [派早报：Twitter 更改 logo，任天堂将严惩不当使用账号行为等](https://sspai.com/post/81453)<!-- sspai:END -->
