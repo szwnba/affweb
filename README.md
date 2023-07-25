@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
+-  25 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
+-  25 [Intermediate course Zeydoo/Propeller ads](https://afflift.com/f/threads/intermediate-course-zeydoo-propeller-ads.11345/)
 -  25 [📉 39 Tips and Tricks on How to Fail in Affiliate Marketing](https://afflift.com/f/threads/%F0%9F%93%89-39-tips-and-tricks-on-how-to-fail-in-affiliate-marketing.11341/)
 -  25 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
 -  25 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
--  25 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  25 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
 -  25 [TGLV quick start guide](https://afflift.com/f/threads/tglv-quick-start-guide.11312/)
 -  25 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
--  25 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
 -  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  25 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
--  25 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  25 [Yellana Review](https://afflift.com/f/threads/yellana-review.11344/)<!-- afflift:END -->
+-  25 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
