@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
+-  26 [🎉🎁  Galaksion Push + mVaS, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-mvas-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/)
 -  26 [My Super Late FA to Galaksion Contest](https://afflift.com/f/threads/my-super-late-fa-to-galaksion-contest.11354/)
 -  26 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)
 -  26 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
@@ -31,9 +33,7 @@
 -  26 [SnapChat Spy Tool](https://afflift.com/f/threads/snapchat-spy-tool.3607/)
 -  26 [How to launch advertising campaigns in the Antivirus niche in Tier 1 GEOs](https://afflift.com/f/threads/how-to-launch-advertising-campaigns-in-the-antivirus-niche-in-tier-1-geos.10670/)
 -  26 [Interview with a Pro Affiliate: KJ Rocker](https://afflift.com/f/threads/interview-with-a-pro-affiliate-kj-rocker.3752/)
--  26 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
--  26 [Tracking problem with Bemob/propeller ads and zeydoo](https://afflift.com/f/threads/tracking-problem-with-bemob-propeller-ads-and-zeydoo.11333/)
--  26 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)<!-- afflift:END -->
+-  26 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
