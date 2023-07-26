@@ -10,6 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  26 [一手全新谷歌账号gmail邮箱](https://www.advertcn.com/forum.php?mod=viewthread&tid=111359)
+-  26 [从海妖提美元到wise被拒~~](https://www.advertcn.com/forum.php?mod=viewthread&tid=111355)
 -  26 [入行一年基本上一直在潜水，最终决定发个帖follow along](https://www.advertcn.com/forum.php?mod=viewthread&tid=111354)<!-- advertcn:END -->
 
 ### zhihu
