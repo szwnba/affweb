@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
+-  26 [Galaksion&#39;s AI Generated Video](https://afflift.com/f/threads/galaksions-ai-generated-video.11274/)
+-  26 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
+-  26 [How Much Can You Earn as an Affiliate Marketer?](https://afflift.com/f/threads/how-much-can-you-earn-as-an-affiliate-marketer.10984/)
+-  26 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)
 -  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  26 [ClickAdilla Pop Traffic](https://afflift.com/f/threads/clickadilla-pop-traffic.9187/)
 -  26 [How to run HTML5 Banners affiliate marketing campaigns](https://afflift.com/f/threads/how-to-run-html5-banners-affiliate-marketing-campaigns.11352/)
 -  26 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
--  26 [How Much Can You Earn as an Affiliate Marketer?](https://afflift.com/f/threads/how-much-can-you-earn-as-an-affiliate-marketer.10984/)
 -  26 [Which extensions can be useful for affiliate marketing?](https://afflift.com/f/threads/which-extensions-can-be-useful-for-affiliate-marketing.11351/)
 -  26 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)
--  26 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  26 [Living the Affiliate Dream - Running Dating &amp; Utilities on Pops - Galaksion Contest](https://afflift.com/f/threads/living-the-affiliate-dream-running-dating-utilities-on-pops-galaksion-contest.11243/)
--  26 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  26 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
--  26 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)<!-- afflift:END -->
+-  26 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
