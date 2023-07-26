@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Temporary Numbers for Accounts registration](https://afflift.com/f/threads/temporary-numbers-for-accounts-registration.11348/)
+-  26 [How to start?](https://afflift.com/f/threads/how-to-start.11347/)
 -  26 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)
 -  26 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
 -  26 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
@@ -29,9 +31,7 @@
 -  25 [How Much Can You Earn as an Affiliate Marketer?](https://afflift.com/f/threads/how-much-can-you-earn-as-an-affiliate-marketer.10984/)
 -  25 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
 -  25 [How to launch advertising campaigns in the Antivirus niche in Tier 1 GEOs](https://afflift.com/f/threads/how-to-launch-advertising-campaigns-in-the-antivirus-niche-in-tier-1-geos.10670/)
--  25 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
--  25 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
--  25 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)<!-- afflift:END -->
+-  25 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
