@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  25 [propellerads push到底还能玩不](https://www.advertcn.com/forum.php?mod=viewthread&tid=111337)
--  25 [iOS 中的假弹窗钓鱼](https://www.advertcn.com/forum.php?mod=viewthread&tid=111330)<!-- advertcn:END -->
+-  25 [propellerads push到底还能玩不](https://www.advertcn.com/forum.php?mod=viewthread&tid=111337)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
