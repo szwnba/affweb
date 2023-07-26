@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  26 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
 -  26 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
 -  26 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
@@ -31,8 +32,7 @@
 -  25 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
 -  25 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  25 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
--  25 [Intermediate course Zeydoo/Propeller ads](https://afflift.com/f/threads/intermediate-course-zeydoo-propeller-ads.11345/)
--  25 [📉 39 Tips and Tricks on How to Fail in Affiliate Marketing](https://afflift.com/f/threads/%F0%9F%93%89-39-tips-and-tricks-on-how-to-fail-in-affiliate-marketing.11341/)<!-- afflift:END -->
+-  25 [Intermediate course Zeydoo/Propeller ads](https://afflift.com/f/threads/intermediate-course-zeydoo-propeller-ads.11345/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
