@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  26 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
 -  26 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  26 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
 -  26 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  26 [Making Galaksion Pops Work](https://afflift.com/f/threads/making-galaksion-pops-work.11319/)
--  26 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
 -  26 [Adsterra&#39;s Anniversary Giveaway🎁. Celebrate with us!](https://afflift.com/f/threads/adsterras-anniversary-giveaway%F0%9F%8E%81-celebrate-with-us.11350/)
 -  26 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  26 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  26 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
 -  26 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
--  26 [Potential – Great earning potential &lpar;1k+ daily is possible&rpar; for major traffic sources 😈😉💵](https://afflift.com/f/threads/potential-%E2%80%93-great-earning-potential-1k-daily-is-possible-for-major-traffic-sources-%F0%9F%98%88%F0%9F%98%89%F0%9F%92%B5.11349/)
--  26 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)<!-- afflift:END -->
+-  26 [Potential – Great earning potential &lpar;1k+ daily is possible&rpar; for major traffic sources 😈😉💵](https://afflift.com/f/threads/potential-%E2%80%93-great-earning-potential-1k-daily-is-possible-for-major-traffic-sources-%F0%9F%98%88%F0%9F%98%89%F0%9F%92%B5.11349/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
