@@ -35,7 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [少数派思考 037： 致新一年会员开启](https://sspai.com/post/81457)
 -  26 [派早报：Spotify 上调订阅费用、索尼推出 PS5 Access 无障碍控制器等](https://sspai.com/post/81474)
 -  25 [社区速递 005 | 大家爱听的播客、作者的新玩意以及工具分享](https://sspai.com/post/81445)
--  25 [被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)
--  25 [通用状态监控通知脚本，订阅状态通知](https://sspai.com/post/81269)<!-- sspai:END -->
+-  25 [被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)<!-- sspai:END -->
