@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [掌握命题与表达的自由：我的非功利写作流程](https://sspai.com/post/81277)
 -  26 [少数派思考 037： 致新一年会员开启](https://sspai.com/post/81457)
 -  26 [派早报：Spotify 上调订阅费用、索尼推出 PS5 Access 无障碍控制器等](https://sspai.com/post/81474)
 -  25 [社区速递 005 | 大家爱听的播客、作者的新玩意以及工具分享](https://sspai.com/post/81445)<!-- sspai:END -->
