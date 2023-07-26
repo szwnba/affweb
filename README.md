@@ -20,9 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)
 -  26 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
 -  26 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
--  26 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)
 -  26 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  26 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
 -  26 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
