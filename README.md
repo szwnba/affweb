@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  25 [propellerads push到底还能玩不](https://www.advertcn.com/forum.php?mod=viewthread&tid=111337)<!-- advertcn:END -->
+-  26 [入行一年基本上一直在潜水，最终决定发个帖follow along](https://www.advertcn.com/forum.php?mod=viewthread&tid=111354)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
