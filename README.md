@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [从制作简历到建立人脉，这些准备帮我找到心仪工作](https://sspai.com/post/81523)
 -  27 [一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」](https://sspai.com/post/81363)
 -  27 [派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等](https://sspai.com/post/81514)
 -  26 [来自编辑部的无损备份技巧](https://sspai.com/prime/story/zhuanglesha-230726)
--  26 [从 iPhone 4 说起，聊聊智能手机内部结构堆叠的历史（上）](https://sspai.com/post/80066)
--  26 [派开箱 | 特洛克红白机插座](https://sspai.com/post/81048)<!-- sspai:END -->
+-  26 [从 iPhone 4 说起，聊聊智能手机内部结构堆叠的历史（上）](https://sspai.com/post/80066)<!-- sspai:END -->
