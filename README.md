@@ -22,8 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  27 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/)
 -  27 [Native Search Arbitrage with Sedo?](https://afflift.com/f/threads/native-search-arbitrage-with-sedo.11355/)
+-  27 [Galaksion + Push Campaign = Dating + other offers see whats work](https://afflift.com/f/threads/galaksion-push-campaign-dating-other-offers-see-whats-work.11224/)
 -  27 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  27 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
 -  27 [Potential – Great earning potential &lpar;1k+ daily is possible&rpar; for major traffic sources 😈😉💵](https://afflift.com/f/threads/potential-%E2%80%93-great-earning-potential-1k-daily-is-possible-for-major-traffic-sources-%F0%9F%98%88%F0%9F%98%89%F0%9F%92%B5.11349/)
