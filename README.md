@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等](https://sspai.com/post/81514)
 -  26 [来自编辑部的无损备份技巧](https://sspai.com/prime/story/zhuanglesha-230726)
 -  26 [从 iPhone 4 说起，聊聊智能手机内部结构堆叠的历史（上）](https://sspai.com/post/80066)
 -  26 [派开箱 | 特洛克红白机插座](https://sspai.com/post/81048)
--  26 [掌握命题与表达的自由：我的非功利写作流程](https://sspai.com/post/81277)
--  26 [少数派思考 037：致新一年会员开启](https://sspai.com/post/81457)<!-- sspai:END -->
+-  26 [掌握命题与表达的自由：我的非功利写作流程](https://sspai.com/post/81277)<!-- sspai:END -->
