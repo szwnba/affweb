@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [How can I show a cta button after video play is done?](https://afflift.com/f/threads/how-can-i-show-a-cta-button-after-video-play-is-done.11358/)
 -  27 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  27 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  27 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)
@@ -34,8 +35,7 @@
 -  27 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  27 [Potential – Great earning potential &lpar;1k+ daily is possible&rpar; for major traffic sources 😈😉💵](https://afflift.com/f/threads/potential-%E2%80%93-great-earning-potential-1k-daily-is-possible-for-major-traffic-sources-%F0%9F%98%88%F0%9F%98%89%F0%9F%92%B5.11349/)
 -  27 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  27 [The Affiliate Marketing Show Podcast](https://afflift.com/f/threads/the-affiliate-marketing-show-podcast.11119/)
--  27 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
+-  27 [The Affiliate Marketing Show Podcast](https://afflift.com/f/threads/the-affiliate-marketing-show-podcast.11119/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
