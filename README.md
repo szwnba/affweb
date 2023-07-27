@@ -42,5 +42,4 @@
 -  27 [新玩意 155｜少数派的编辑们最近买了啥？](https://sspai.com/post/81536)
 -  27 [从制作简历到建立人脉，这些准备帮我找到心仪工作](https://sspai.com/post/81523)
 -  27 [一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」](https://sspai.com/post/81363)
--  27 [派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等](https://sspai.com/post/81514)
--  26 [来自编辑部的无损备份技巧](https://sspai.com/prime/story/zhuanglesha-230726)<!-- sspai:END -->
+-  27 [派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等](https://sspai.com/post/81514)<!-- sspai:END -->
