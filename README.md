@@ -10,9 +10,11 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  26 [一手全新谷歌账号gmail邮箱](https://www.advertcn.com/forum.php?mod=viewthread&tid=111359)
--  26 [从海妖提美元到wise被拒~~](https://www.advertcn.com/forum.php?mod=viewthread&tid=111355)
--  26 [入行一年基本上一直在潜水，最终决定发个帖follow along](https://www.advertcn.com/forum.php?mod=viewthread&tid=111354)<!-- advertcn:END -->
+-  27 [软件开发技术人员，寻找大佬一起合作](https://www.advertcn.com/forum.php?mod=viewthread&tid=111373)
+-  27 [发帖记录一下](https://www.advertcn.com/forum.php?mod=viewthread&tid=111367)
+-  27 [fb美国大黑](https://www.advertcn.com/forum.php?mod=viewthread&tid=111365)
+-  27 [Twitter 更名 X.com](https://www.advertcn.com/forum.php?mod=viewthread&tid=111363)
+-  26 [一手全新谷歌账号gmail邮箱](https://www.advertcn.com/forum.php?mod=viewthread&tid=111359)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
