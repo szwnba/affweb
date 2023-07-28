@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81569)
 -  28 [Matrix 圆桌 | 入手 Apple Watch 之后，它给我的生活带来了什么改变？](https://sspai.com/post/81552)
 -  28 [城市收藏夹 | 圣地巡礼，这是我期待已久的东京推理之旅](https://sspai.com/post/81315)
 -  28 [虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验](https://sspai.com/post/81331)
