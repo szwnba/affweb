@@ -10,10 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  27 [mediabuy申请联盟的网站的要求](https://www.advertcn.com/forum.php?mod=viewthread&tid=111380)
--  27 [软件开发技术人员，寻找大佬一起合作](https://www.advertcn.com/forum.php?mod=viewthread&tid=111373)
--  27 [代付FB账单,FB账单代付，FB广告户账单代付，](https://www.advertcn.com/forum.php?mod=viewthread&tid=111371)
--  27 [iMobiTrax3.8 安装跑流量出现的问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=111370)<!-- advertcn:END -->
+-  27 [mediabuy申请联盟的网站的要求](https://www.advertcn.com/forum.php?mod=viewthread&tid=111380)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
