@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [New here but so thankful for this community!](https://afflift.com/f/threads/new-here-but-so-thankful-for-this-community.11360/)
 -  28 [Is spy.house still working ?](https://afflift.com/f/threads/is-spy-house-still-working.11359/)
 -  28 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
 -  28 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
@@ -33,8 +34,7 @@
 -  27 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  27 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)
 -  27 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)
--  27 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
--  27 [My Super Late FA to Galaksion Contest](https://afflift.com/f/threads/my-super-late-fa-to-galaksion-contest.11354/)<!-- afflift:END -->
+-  27 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
