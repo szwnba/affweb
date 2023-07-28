@@ -21,7 +21,9 @@
 ### afflift
 <!-- afflift:START -->
 -  28 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
+-  28 [New Adpump offers!](https://afflift.com/f/threads/new-adpump-offers.11361/)
 -  28 [New here but so thankful for this community!](https://afflift.com/f/threads/new-here-but-so-thankful-for-this-community.11360/)
+-  28 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
 -  28 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)
 -  28 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
 -  28 [Is spy.house still working ?](https://afflift.com/f/threads/is-spy-house-still-working.11359/)
@@ -29,9 +31,7 @@
 -  28 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  28 [How can I show a cta button after video play is done?](https://afflift.com/f/threads/how-can-i-show-a-cta-button-after-video-play-is-done.11358/)
 -  27 [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/)
--  27 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/)
--  27 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
--  27 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)<!-- afflift:END -->
+-  27 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
