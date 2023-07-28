@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [2023 Contest - Facebook + Zeydoo + Monetizer in Latam](https://afflift.com/f/threads/2023-contest-facebook-zeydoo-monetizer-in-latam.10256/)
 -  28 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
 -  28 [EPN.NET | Premium US Virtual Cards to pay for ads | Get free cards](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads-get-free-cards.11362/)
 -  28 [New here but so thankful for this community!](https://afflift.com/f/threads/new-here-but-so-thankful-for-this-community.11360/)
@@ -31,8 +32,7 @@
 -  28 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
 -  28 [Is spy.house still working ?](https://afflift.com/f/threads/is-spy-house-still-working.11359/)
 -  28 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
--  28 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
--  28 [How can I show a cta button after video play is done?](https://afflift.com/f/threads/how-can-i-show-a-cta-button-after-video-play-is-done.11358/)<!-- afflift:END -->
+-  28 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
