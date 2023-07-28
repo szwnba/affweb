@@ -25,6 +25,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Is spy.house still working ?](https://afflift.com/f/threads/is-spy-house-still-working.11359/)
+-  28 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
 -  28 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  28 [How can I show a cta button after video play is done?](https://afflift.com/f/threads/how-can-i-show-a-cta-button-after-video-play-is-done.11358/)
 -  27 [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/)
@@ -34,9 +36,7 @@
 -  27 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)
 -  27 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)
 -  27 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
--  27 [My Super Late FA to Galaksion Contest](https://afflift.com/f/threads/my-super-late-fa-to-galaksion-contest.11354/)
--  27 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  27 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)<!-- afflift:END -->
+-  27 [My Super Late FA to Galaksion Contest](https://afflift.com/f/threads/my-super-late-fa-to-galaksion-contest.11354/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
