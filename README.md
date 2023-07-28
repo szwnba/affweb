@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  28 [鉴于这么多人讨论Mediabuy，我免费送一本Google Cash](https://www.advertcn.com/forum.php?mod=viewthread&tid=111387)
 -  27 [mediabuy申请联盟的网站的要求](https://www.advertcn.com/forum.php?mod=viewthread&tid=111380)<!-- advertcn:END -->
 
 ### zhihu
