@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [城市收藏夹 | 圣地巡礼，这是我期待已久的东京推理之旅](https://sspai.com/post/81315)
 -  28 [虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验](https://sspai.com/post/81331)
 -  28 [派早报：Twitter 正式更名为 X，Google 推迟 Find My Device 网络](https://sspai.com/post/81546)
 -  27 [新玩意 155｜少数派的编辑们最近买了啥？](https://sspai.com/post/81536)<!-- sspai:END -->
