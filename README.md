@@ -38,7 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验](https://sspai.com/post/81331)
 -  28 [派早报：Twitter 正式更名为 X，Google 推迟 Find My Device 网络](https://sspai.com/post/81546)
 -  27 [新玩意 155｜少数派的编辑们最近买了啥？](https://sspai.com/post/81536)
--  27 [从制作简历到建立人脉，这些准备帮我找到心仪工作](https://sspai.com/post/81523)
--  27 [一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」](https://sspai.com/post/81363)<!-- sspai:END -->
+-  27 [从制作简历到建立人脉，这些准备帮我找到心仪工作](https://sspai.com/post/81523)<!-- sspai:END -->
