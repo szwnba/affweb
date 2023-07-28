@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
+-  28 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)
 -  28 [2023 Contest - Facebook + Zeydoo + Monetizer in Latam](https://afflift.com/f/threads/2023-contest-facebook-zeydoo-monetizer-in-latam.10256/)
 -  28 [Galaksion + MobPlus + Push = Contest entry](https://afflift.com/f/threads/galaksion-mobplus-push-contest-entry.11270/)
 -  28 [EPN.NET | Premium US Virtual Cards to pay for ads | Get free cards](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads-get-free-cards.11362/)
@@ -30,9 +32,7 @@
 -  28 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
 -  28 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)
 -  28 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
--  28 [Is spy.house still working ?](https://afflift.com/f/threads/is-spy-house-still-working.11359/)
--  28 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
--  28 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)<!-- afflift:END -->
+-  28 [Is spy.house still working ?](https://afflift.com/f/threads/is-spy-house-still-working.11359/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
