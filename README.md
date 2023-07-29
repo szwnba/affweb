@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
 -  29 [💰🤑 Galaksion Push Contest + SOI Clickdealer 💰🤑](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%A4%91-galaksion-push-contest-soi-clickdealer-%F0%9F%92%B0%F0%9F%A4%91.11340/)
 -  29 [help with propush+aws+purelander](https://afflift.com/f/threads/help-with-propush-aws-purelander.11366/)
 -  29 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)
@@ -32,8 +33,7 @@
 -  28 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
 -  28 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
 -  28 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)
--  28 [New here but so thankful for this community!](https://afflift.com/f/threads/new-here-but-so-thankful-for-this-community.11360/)
--  28 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)<!-- afflift:END -->
+-  28 [New here but so thankful for this community!](https://afflift.com/f/threads/new-here-but-so-thankful-for-this-community.11360/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
