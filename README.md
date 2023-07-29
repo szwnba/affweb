@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  29 [如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试](https://sspai.com/post/81470)
 -  28 [Chromebook 漫游指南 &lpar;2023&rpar;](https://sspai.com/prime/story/chromebook-in-2023)
--  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81569)
--  28 [Matrix 圆桌 | 入手 Apple Watch 之后，它给我的生活带来了什么改变？](https://sspai.com/post/81552)<!-- sspai:END -->
+-  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/81569)<!-- sspai:END -->
