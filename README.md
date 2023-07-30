@@ -37,4 +37,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  29 [如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试](https://sspai.com/post/81470)<!-- sspai:END -->
+-  30 [夏日徒步，这些防晒装备你不妨一试](https://sspai.com/post/81469)<!-- sspai:END -->
