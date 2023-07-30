@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [🎉🎁  Galaksion Push/Pop + mVaS/SOI, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-pop-mvas-soi-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/)
+-  29 [Looking forward to being in the trenches together!](https://afflift.com/f/threads/looking-forward-to-being-in-the-trenches-together.11368/)
 -  29 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  29 [Spy on Others Like professionals, Part 2 &lpar;Anstrex &rpar; Spy on Push](https://afflift.com/f/threads/spy-on-others-like-professionals-part-2-anstrex-spy-on-push.6733/)
 -  29 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
@@ -31,9 +33,7 @@
 -  29 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  29 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)
 -  29 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
--  29 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
--  29 [💰🤑 Galaksion Push Contest + SOI Clickdealer 💰🤑](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%A4%91-galaksion-push-contest-soi-clickdealer-%F0%9F%92%B0%F0%9F%A4%91.11340/)
--  29 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)<!-- afflift:END -->
+-  29 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
