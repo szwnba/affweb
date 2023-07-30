@@ -37,4 +37,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [一个 Mac App 是如何诞生的：Browser Deputy](https://sspai.com/post/81494)
 -  30 [夏日徒步，这些防晒装备你不妨一试](https://sspai.com/post/81469)<!-- sspai:END -->
