@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
 -  30 [Looking forward to being in the trenches together!](https://afflift.com/f/threads/looking-forward-to-being-in-the-trenches-together.11368/)
 -  30 [Finding the right offer !!](https://afflift.com/f/threads/finding-the-right-offer.7273/)
 -  30 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
@@ -32,8 +33,7 @@
 -  30 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
 -  30 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
 -  30 [💰🤑 Galaksion Push Contest + SOI Clickdealer 💰🤑](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%A4%91-galaksion-push-contest-soi-clickdealer-%F0%9F%92%B0%F0%9F%A4%91.11340/)
--  30 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
--  30 [Spy on Others Like professionals, Part 2 &lpar;Anstrex &rpar; Spy on Push](https://afflift.com/f/threads/spy-on-others-like-professionals-part-2-anstrex-spy-on-push.6733/)<!-- afflift:END -->
+-  30 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
