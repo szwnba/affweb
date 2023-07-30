@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)
 -  30 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
 -  30 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
 -  29 [🎉🎁  Galaksion Push/Pop + mVaS/SOI, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-pop-mvas-soi-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/)
@@ -32,8 +33,7 @@
 -  29 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
 -  29 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
 -  29 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
--  29 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)
--  29 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)<!-- afflift:END -->
+-  29 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
