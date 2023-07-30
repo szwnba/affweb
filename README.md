@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
+-  30 [My Super Late FA to Galaksion Contest](https://afflift.com/f/threads/my-super-late-fa-to-galaksion-contest.11354/)
+-  30 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  30 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  30 [Finding the right offer !!](https://afflift.com/f/threads/finding-the-right-offer.7273/)
 -  30 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
--  30 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  30 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
 -  30 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
 -  30 [💰🤑 Galaksion Push Contest + SOI Clickdealer 💰🤑](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%A4%91-galaksion-push-contest-soi-clickdealer-%F0%9F%92%B0%F0%9F%A4%91.11340/)
 -  30 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  30 [Spy on Others Like professionals, Part 2 &lpar;Anstrex &rpar; Spy on Push](https://afflift.com/f/threads/spy-on-others-like-professionals-part-2-anstrex-spy-on-push.6733/)
--  30 [Looking forward to being in the trenches together!](https://afflift.com/f/threads/looking-forward-to-being-in-the-trenches-together.11368/)
--  30 [🎉🎁  Galaksion Push/Pop + mVaS/SOI, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-pop-mvas-soi-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/)
--  30 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)<!-- afflift:END -->
+-  30 [Looking forward to being in the trenches together!](https://afflift.com/f/threads/looking-forward-to-being-in-the-trenches-together.11368/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
