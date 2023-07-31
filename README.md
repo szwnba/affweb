@@ -37,7 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [罗技鼠标 Lua 脚本入门：准备工作篇](https://sspai.com/prime/story/logi-lua-scripting-1)
+-  31 [派评 | 近期值得关注的 App](https://sspai.com/post/81623)
 -  31 [旧笔记本化身 HTPC——打造一台优雅的家庭娱乐主机](https://sspai.com/post/81600)
 -  31 [家用咖啡手册 10 | 制作意式咖啡前需要了解的事儿](https://sspai.com/post/81584)
--  31 [从 iOS 提醒事项开始，入门任务管理](https://sspai.com/post/81392)
--  31 [派早报：微软面临欧洲反垄断调查，推特未能在 App Store 更名为 X](https://sspai.com/post/81605)<!-- sspai:END -->
+-  31 [从 iOS 提醒事项开始，入门任务管理](https://sspai.com/post/81392)<!-- sspai:END -->
