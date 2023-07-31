@@ -22,8 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
 -  30 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
--  30 [Looking forward to being in the trenches together!](https://afflift.com/f/threads/looking-forward-to-being-in-the-trenches-together.11368/)
 -  30 [Finding the right offer !!](https://afflift.com/f/threads/finding-the-right-offer.7273/)
 -  30 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  30 [My Super Late FA to Galaksion Contest](https://afflift.com/f/threads/my-super-late-fa-to-galaksion-contest.11354/)
