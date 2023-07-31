@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [My Super Late FA to Galaksion Contest](https://afflift.com/f/threads/my-super-late-fa-to-galaksion-contest.11354/)
 -  31 [Anyone Using Google Ads??](https://afflift.com/f/threads/anyone-using-google-ads.11376/)
 -  31 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
 -  31 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
@@ -32,8 +33,7 @@
 -  31 [Triple Threat for Monetization &lpar;Push, Popunder, Back Button&rpar;](https://afflift.com/f/threads/triple-threat-for-monetization-push-popunder-back-button.10063/)
 -  31 [How can I show a cta button after video play is done?](https://afflift.com/f/threads/how-can-i-show-a-cta-button-after-video-play-is-done.11358/)
 -  31 [I wanna become an offer owner, what does it take?](https://afflift.com/f/threads/i-wanna-become-an-offer-owner-what-does-it-take.10550/)
--  31 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)
--  31 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)<!-- afflift:END -->
+-  31 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
