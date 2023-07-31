@@ -22,9 +22,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Galaksion+Pop=💰 *Contest entry*](https://afflift.com/f/threads/galaksion-pop-%F0%9F%92%B0-contest-entry.11231/)
 -  31 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
--  31 [🎉🎁  Galaksion Push/Pop + mVaS/SOI, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-pop-mvas-soi-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/)
 -  31 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
+-  31 [🎉🎁  Galaksion Push/Pop + mVaS/SOI, Let the Party begin 💰🏆](https://afflift.com/f/threads/%F0%9F%8E%89%F0%9F%8E%81-galaksion-push-pop-mvas-soi-let-the-party-begin-%F0%9F%92%B0%F0%9F%8F%86.11229/)
 -  31 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
 -  31 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  30 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
@@ -32,8 +33,7 @@
 -  30 [My Super Late FA to Galaksion Contest](https://afflift.com/f/threads/my-super-late-fa-to-galaksion-contest.11354/)
 -  30 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  30 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
--  30 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
--  30 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)<!-- afflift:END -->
+-  30 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
