@@ -37,5 +37,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [从 iOS 提醒事项开始，入门任务管理](https://sspai.com/post/81392)
 -  31 [派早报：微软面临欧洲反垄断调查，推特未能在 App Store 更名为 X](https://sspai.com/post/81605)
 -  30 [一个 Mac App 是如何诞生的：Browser Deputy](https://sspai.com/post/81494)<!-- sspai:END -->
