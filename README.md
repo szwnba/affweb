@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
 -  31 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  31 [Galaksion + Golden Goose Push Campaign [Contest]](https://afflift.com/f/threads/galaksion-golden-goose-push-campaign-contest.11353/)
 -  31 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
@@ -30,7 +31,6 @@
 -  31 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
 -  31 [Sweepstakes: How to start promoting? [Guide, Part 1]](https://afflift.com/f/threads/sweepstakes-how-to-start-promoting-guide-part-1.11375/)
 -  31 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
--  31 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
 -  31 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  31 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  31 [Working with LeadGen offers: services, insurance, solar panels etc.](https://afflift.com/f/threads/working-with-leadgen-offers-services-insurance-solar-panels-etc.11363/)<!-- afflift:END -->
