@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  01 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
 -  01 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
 -  01 [Looking for Partners to run our CC Submit Offers](https://afflift.com/f/threads/looking-for-partners-to-run-our-cc-submit-offers.11377/)
@@ -32,8 +33,7 @@
 -  31 [Anyone Using Google Ads??](https://afflift.com/f/threads/anyone-using-google-ads.11376/)
 -  31 [My Super Late FA to Galaksion Contest](https://afflift.com/f/threads/my-super-late-fa-to-galaksion-contest.11354/)
 -  31 [Dating Group Affiliates - Industry Leading Payouts up to $600 Pay-per-Sale &lpar;PPS&rpar;](https://afflift.com/f/threads/dating-group-affiliates-industry-leading-payouts-up-to-600-pay-per-sale-pps.8870/)
--  31 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
--  31 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)<!-- afflift:END -->
+-  31 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
