@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [两位效率工具玩家眼中的人脉管理](https://sspai.com/post/81532)
 -  01 [从《海妖的呼唤》的爆火，聊聊我们想看怎样的「全女综艺」](https://sspai.com/post/81533)
 -  01 [派早报：Twitter 在 App Store 获批更名为 X，《黑神话：悟空》将举办线下试玩会等](https://sspai.com/post/81632)
 -  31 [罗技鼠标 Lua 脚本入门：准备工作篇](https://sspai.com/prime/story/logi-lua-scripting-1)
--  31 [派评 | 近期值得关注的 App](https://sspai.com/post/81623)
--  31 [旧笔记本化身 HTPC——打造一台优雅的家庭娱乐主机](https://sspai.com/post/81600)<!-- sspai:END -->
+-  31 [派评 | 近期值得关注的 App](https://sspai.com/post/81623)<!-- sspai:END -->
