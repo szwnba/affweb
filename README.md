@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Google Ads Verification for a Non-Resident?](https://afflift.com/f/threads/google-ads-verification-for-a-non-resident.11284/)
+-  01 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  01 [Revcontent Follow Along - First Native Campaign](https://afflift.com/f/threads/revcontent-follow-along-first-native-campaign.10092/)
+-  01 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
+-  01 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  01 [How to Use Crypto to Pay for Google Ads Traffic and Why It Is More Beneficial](https://afflift.com/f/threads/how-to-use-crypto-to-pay-for-google-ads-traffic-and-why-it-is-more-beneficial.11381/)
 -  01 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  01 [Affiliate Marketing And Traffic Arbitrage: Why This Way Of Making Money Is Understood Differently In The West And In The East](https://afflift.com/f/threads/affiliate-marketing-and-traffic-arbitrage-why-this-way-of-making-money-is-understood-differently-in-the-west-and-in-the-east.11380/)
 -  01 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
 -  01 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
 -  01 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  01 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  01 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  01 [Pinterest Guides](https://afflift.com/f/threads/pinterest-guides.11373/)
--  01 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  01 [📉 39 Tips and Tricks on How to Fail in Affiliate Marketing](https://afflift.com/f/threads/%F0%9F%93%89-39-tips-and-tricks-on-how-to-fail-in-affiliate-marketing.11341/)
--  01 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
--  01 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)<!-- afflift:END -->
+-  01 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
