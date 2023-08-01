@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [How to identify the user ISP when sending wifi traffic to mvas offers ?](https://afflift.com/f/threads/how-to-identify-the-user-isp-when-sending-wifi-traffic-to-mvas-offers.11379/)
 -  01 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
 -  01 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
 -  01 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
@@ -32,8 +33,7 @@
 -  01 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
 -  01 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
 -  01 [Looking for Partners to run our CC Submit Offers](https://afflift.com/f/threads/looking-for-partners-to-run-our-cc-submit-offers.11377/)
--  01 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
--  31 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)<!-- afflift:END -->
+-  01 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
