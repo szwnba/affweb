@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  01 [Affiliate Marketing And Traffic Arbitrage: Why This Way Of Making Money Is Understood Differently In The West And In The East](https://afflift.com/f/threads/affiliate-marketing-and-traffic-arbitrage-why-this-way-of-making-money-is-understood-differently-in-the-west-and-in-the-east.11380/)
 -  01 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
 -  01 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
 -  01 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
@@ -31,9 +33,7 @@
 -  01 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  01 [📉 39 Tips and Tricks on How to Fail in Affiliate Marketing](https://afflift.com/f/threads/%F0%9F%93%89-39-tips-and-tricks-on-how-to-fail-in-affiliate-marketing.11341/)
 -  01 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
--  01 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
--  01 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  01 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)<!-- afflift:END -->
+-  01 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
