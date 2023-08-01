@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  01 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  01 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  01 [Pinterest Guides](https://afflift.com/f/threads/pinterest-guides.11373/)
@@ -32,8 +33,7 @@
 -  01 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  01 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
 -  01 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
--  01 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
--  01 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)<!-- afflift:END -->
+-  01 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
