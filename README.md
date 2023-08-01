@@ -22,8 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  01 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
 -  01 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
+-  01 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
 -  01 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  01 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  01 [Galaksion Pops Contest](https://afflift.com/f/threads/galaksion-pops-contest.11346/)
