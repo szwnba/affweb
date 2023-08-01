@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  01 [📉 39 Tips and Tricks on How to Fail in Affiliate Marketing](https://afflift.com/f/threads/%F0%9F%93%89-39-tips-and-tricks-on-how-to-fail-in-affiliate-marketing.11341/)
 -  01 [How to identify the user ISP when sending wifi traffic to mvas offers ?](https://afflift.com/f/threads/how-to-identify-the-user-isp-when-sending-wifi-traffic-to-mvas-offers.11379/)
 -  01 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
 -  01 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
@@ -31,9 +33,7 @@
 -  01 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
 -  01 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  01 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
--  01 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
--  01 [Looking for Partners to run our CC Submit Offers](https://afflift.com/f/threads/looking-for-partners-to-run-our-cc-submit-offers.11377/)
--  01 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)<!-- afflift:END -->
+-  01 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
