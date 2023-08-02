@@ -35,7 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  02 [上车聊聊 | 一台 Model Y 和 3 种生活新体验](https://sspai.com/post/81647)
 -  02 [派早报：Apple 等公司成立 AOUSD 联盟、大上发布 Paperlike Color 显示器等](https://sspai.com/post/81679)
 -  01 [社区速递 006 | 拟物设计的剪辑应用、Arc 之魅力以及散步路线](https://sspai.com/post/81650)
--  01 [Apple 那些经典的「One More Thing」现在怎样了](https://sspai.com/post/81645)
--  01 [两位效率工具玩家眼中的人脉管理](https://sspai.com/post/81532)<!-- sspai:END -->
+-  01 [Apple 那些经典的「One More Thing」现在怎样了](https://sspai.com/post/81645)<!-- sspai:END -->
