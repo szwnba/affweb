@@ -22,8 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  02 [Source of opt in landers for lead magnets](https://afflift.com/f/threads/source-of-opt-in-landers-for-lead-magnets.11385/)
 -  02 [is starting brand new on revcontent really that expensive?](https://afflift.com/f/threads/is-starting-brand-new-on-revcontent-really-that-expensive.11386/)
--  01 [Source of opt in landers for lead magnets](https://afflift.com/f/threads/source-of-opt-in-landers-for-lead-magnets.11385/)
 -  01 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)
 -  01 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
 -  01 [Step 13 - The END, but really the BEGINNING?](https://afflift.com/f/threads/step-13-the-end-but-really-the-beginning.2950/)
@@ -32,8 +33,7 @@
 -  01 [Google Ads Verification for a Non-Resident?](https://afflift.com/f/threads/google-ads-verification-for-a-non-resident.11284/)
 -  01 [Snap Crackle Pops - Contest FA](https://afflift.com/f/threads/snap-crackle-pops-contest-fa.11235/)
 -  01 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
--  01 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
--  01 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/)<!-- afflift:END -->
+-  01 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
