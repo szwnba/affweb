@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [galaksion+GG=xx$?](https://afflift.com/f/threads/galaksion-gg-xx.11220/)
+-  02 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
 -  02 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  02 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  02 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
@@ -29,9 +31,7 @@
 -  02 [Need help with tracking setup?](https://afflift.com/f/threads/need-help-with-tracking-setup.11387/)
 -  02 [Source of opt in landers for lead magnets](https://afflift.com/f/threads/source-of-opt-in-landers-for-lead-magnets.11385/)
 -  02 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
--  02 [Steal Traffic on Stolen LPs &lpar;JavaScript Included&rpar;](https://afflift.com/f/threads/steal-traffic-on-stolen-lps-javascript-included.10819/)
--  02 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  01 [Galaksion Contest: mVas and pops](https://afflift.com/f/threads/galaksion-contest-mvas-and-pops.11292/)<!-- afflift:END -->
+-  02 [Steal Traffic on Stolen LPs &lpar;JavaScript Included&rpar;](https://afflift.com/f/threads/steal-traffic-on-stolen-lps-javascript-included.10819/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
