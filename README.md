@@ -21,6 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
+-  02 [🍿 Pop Ads: New Ad Format in Pushground 🍿](https://afflift.com/f/threads/%F0%9F%8D%BF-pop-ads-new-ad-format-in-pushground-%F0%9F%8D%BF.11393/)
+-  02 [Good traffic sources in GCC countries](https://afflift.com/f/threads/good-traffic-sources-in-gcc-countries.11247/)
+-  02 [Permanent google ban of binom domains](https://afflift.com/f/threads/permanent-google-ban-of-binom-domains.11389/)
 -  02 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
 -  02 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  02 [Adsterra&#39;s Anniversary Giveaway | New Optimization Algorithm | Rocking Follow Along!](https://afflift.com/f/threads/adsterras-anniversary-giveaway-new-optimization-algorithm-rocking-follow-along.11391/)
@@ -28,11 +32,7 @@
 -  02 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
 -  02 [How to launch advertising campaigns in the Antivirus niche in Tier 1 GEOs](https://afflift.com/f/threads/how-to-launch-advertising-campaigns-in-the-antivirus-niche-in-tier-1-geos.10670/)
 -  02 [🅰️ Join our trip through Adsterra&#39;s History: back to 2013!](https://afflift.com/f/threads/%F0%9F%85%B0%EF%B8%8F-join-our-trip-through-adsterras-history-back-to-2013.11390/)
--  02 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  02 [Need help with tracking setup?](https://afflift.com/f/threads/need-help-with-tracking-setup.11387/)
--  02 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
--  02 [Permanent google ban of binom domains](https://afflift.com/f/threads/permanent-google-ban-of-binom-domains.11389/)
--  02 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)<!-- afflift:END -->
+-  02 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
