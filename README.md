@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  01 [google开户问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=111441)<!-- advertcn:END -->
+-  02 [求助 小白自学media buy被卡住了......](https://www.advertcn.com/forum.php?mod=viewthread&tid=111457)
+-  01 [有没有余额户的号商啊](https://www.advertcn.com/forum.php?mod=viewthread&tid=111447)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
