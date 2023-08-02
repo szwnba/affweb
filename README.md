@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
+-  02 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  02 [Adsterra&#39;s Anniversary Giveaway | New Optimization Algorithm | Rocking Follow Along!](https://afflift.com/f/threads/adsterras-anniversary-giveaway-new-optimization-algorithm-rocking-follow-along.11391/)
+-  02 [What new offers are there for Latin America?!🤑](https://afflift.com/f/threads/what-new-offers-are-there-for-latin-america-%F0%9F%A4%91.10258/)
+-  02 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
+-  02 [How to launch advertising campaigns in the Antivirus niche in Tier 1 GEOs](https://afflift.com/f/threads/how-to-launch-advertising-campaigns-in-the-antivirus-niche-in-tier-1-geos.10670/)
+-  02 [🅰️ Join our trip through Adsterra&#39;s History: back to 2013!](https://afflift.com/f/threads/%F0%9F%85%B0%EF%B8%8F-join-our-trip-through-adsterras-history-back-to-2013.11390/)
+-  02 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  02 [Need help with tracking setup?](https://afflift.com/f/threads/need-help-with-tracking-setup.11387/)
 -  02 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  02 [Permanent google ban of binom domains](https://afflift.com/f/threads/permanent-google-ban-of-binom-domains.11389/)
--  02 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)
--  02 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
--  02 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
--  02 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
--  02 [A Gentleman&#39;s Set of Tools That Makes It Much Easier to Advertise Gambling, Crypto, or Nutra Offers Through Google Ads](https://afflift.com/f/threads/a-gentlemans-set-of-tools-that-makes-it-much-easier-to-advertise-gambling-crypto-or-nutra-offers-through-google-ads.11342/)
--  02 [galaksion+GG=xx$?](https://afflift.com/f/threads/galaksion-gg-xx.11220/)
--  02 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  02 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  02 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)<!-- afflift:END -->
+-  02 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
