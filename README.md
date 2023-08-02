@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  02 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  02 [A Gentleman&#39;s Set of Tools That Makes It Much Easier to Advertise Gambling, Crypto, or Nutra Offers Through Google Ads](https://afflift.com/f/threads/a-gentlemans-set-of-tools-that-makes-it-much-easier-to-advertise-gambling-crypto-or-nutra-offers-through-google-ads.11342/)
 -  02 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
@@ -31,8 +32,7 @@
 -  02 [Permanent google ban of binom domains](https://afflift.com/f/threads/permanent-google-ban-of-binom-domains.11389/)
 -  02 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  02 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
--  02 [Good traffic sources in GCC countries](https://afflift.com/f/threads/good-traffic-sources-in-gcc-countries.11247/)
--  02 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)<!-- afflift:END -->
+-  02 [Good traffic sources in GCC countries](https://afflift.com/f/threads/good-traffic-sources-in-gcc-countries.11247/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
