@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  24 [仅10行代码可长期关闭Windows系统更新，纯绿色代码！](https://51.ruyo.net/18440.html)<!-- ruyo:END -->
+-  02 [XSHELL官方最新免费版不仅取消标签页限制，也取消了弹窗，但是却….](https://51.ruyo.net/18445.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
