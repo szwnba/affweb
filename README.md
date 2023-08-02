@@ -10,9 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  28 [请问谷歌验证器的验证码一定要通过Google authenticator APP吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111399)
--  28 [cloudflare 屏蔽指定国家ip,301](https://www.advertcn.com/forum.php?mod=viewthread&tid=111397)
--  28 [鉴于这么多人讨论Mediabuy，我免费送一本Google Cash](https://www.advertcn.com/forum.php?mod=viewthread&tid=111387)<!-- advertcn:END -->
+-  01 [google开户问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=111441)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
