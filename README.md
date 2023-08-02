@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [is starting brand new on revcontent really that expensive?](https://afflift.com/f/threads/is-starting-brand-new-on-revcontent-really-that-expensive.11386/)
+-  02 [🍿 Pop Ads: New Ad Format in Pushground 🍿](https://afflift.com/f/threads/%F0%9F%8D%BF-pop-ads-new-ad-format-in-pushground-%F0%9F%8D%BF.11393/)
 -  02 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  02 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  02 [Permanent google ban of binom domains](https://afflift.com/f/threads/permanent-google-ban-of-binom-domains.11389/)
--  02 [🍿 Pop Ads: New Ad Format in Pushground 🍿](https://afflift.com/f/threads/%F0%9F%8D%BF-pop-ads-new-ad-format-in-pushground-%F0%9F%8D%BF.11393/)
 -  02 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  02 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
 -  02 [Good traffic sources in GCC countries](https://afflift.com/f/threads/good-traffic-sources-in-gcc-countries.11247/)
 -  02 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
 -  02 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  02 [Adsterra&#39;s Anniversary Giveaway | New Optimization Algorithm | Rocking Follow Along!](https://afflift.com/f/threads/adsterras-anniversary-giveaway-new-optimization-algorithm-rocking-follow-along.11391/)
--  02 [What new offers are there for Latin America?!🤑](https://afflift.com/f/threads/what-new-offers-are-there-for-latin-america-%F0%9F%A4%91.10258/)<!-- afflift:END -->
+-  02 [Adsterra&#39;s Anniversary Giveaway | New Optimization Algorithm | Rocking Follow Along!](https://afflift.com/f/threads/adsterras-anniversary-giveaway-new-optimization-algorithm-rocking-follow-along.11391/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
