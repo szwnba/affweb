@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
+-  03 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
+-  03 [TEST Traffic Company + PropellerAds + Binom + Pops + T3 20230803-1](https://afflift.com/f/threads/test-traffic-company-propellerads-binom-pops-t3-20230803-1.11396/)
+-  03 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/)
+-  03 [🍿 Pop Ads: New Ad Format in Pushground 🍿](https://afflift.com/f/threads/%F0%9F%8D%BF-pop-ads-new-ad-format-in-pushground-%F0%9F%8D%BF.11393/)
+-  03 [is starting brand new on revcontent really that expensive?](https://afflift.com/f/threads/is-starting-brand-new-on-revcontent-really-that-expensive.11386/)
+-  03 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
+-  03 [Step 4 - Setup Zeydoo in BeMob](https://afflift.com/f/threads/step-4-setup-zeydoo-in-bemob.7475/)
 -  03 [🔔 In Page Push Traffic Sources](https://afflift.com/f/threads/%F0%9F%94%94-in-page-push-traffic-sources.11395/)
+-  03 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
 -  03 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
 -  03 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
--  03 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
--  03 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
--  02 [Permanent google ban of binom domains](https://afflift.com/f/threads/permanent-google-ban-of-binom-domains.11389/)
--  02 [is starting brand new on revcontent really that expensive?](https://afflift.com/f/threads/is-starting-brand-new-on-revcontent-really-that-expensive.11386/)
--  02 [🍿 Pop Ads: New Ad Format in Pushground 🍿](https://afflift.com/f/threads/%F0%9F%8D%BF-pop-ads-new-ad-format-in-pushground-%F0%9F%8D%BF.11393/)
--  02 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
--  02 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  02 [A Gentleman&#39;s Set of Tools That Makes It Much Easier to Advertise Gambling, Crypto, or Nutra Offers Through Google Ads](https://afflift.com/f/threads/a-gentlemans-set-of-tools-that-makes-it-much-easier-to-advertise-gambling-crypto-or-nutra-offers-through-google-ads.11342/)<!-- afflift:END -->
+-  03 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
