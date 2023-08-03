@@ -36,6 +36,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [每周三小时的游泳时间，我这样准备播客作伴](https://sspai.com/post/81111)
 -  03 [如何「构建第二大脑」，这是我的 Obsidian 实践配方](https://sspai.com/post/80802)
--  03 [派早报：Mac 版 Pocket 将停止服务、Figma 支持 Display P3 色域等](https://sspai.com/post/81715)
--  02 [为了追求画质，真的要买台电影机吗？我的 Bmpcc 6K Pro 单兵作战体验](https://sspai.com/post/81560)<!-- sspai:END -->
+-  03 [派早报：Mac 版 Pocket 将停止服务、Figma 支持 Display P3 色域等](https://sspai.com/post/81715)<!-- sspai:END -->
