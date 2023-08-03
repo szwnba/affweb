@@ -21,9 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
 -  03 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
 -  03 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
--  03 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
 -  03 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
 -  02 [Permanent google ban of binom domains](https://afflift.com/f/threads/permanent-google-ban-of-binom-domains.11389/)
 -  02 [is starting brand new on revcontent really that expensive?](https://afflift.com/f/threads/is-starting-brand-new-on-revcontent-really-that-expensive.11386/)
