@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  03 [TEST Traffic Company + PropellerAds + Binom + Pops + T3 20230803-1](https://afflift.com/f/threads/test-traffic-company-propellerads-binom-pops-t3-20230803-1.11396/)
+-  03 [Traffic company sweepstakes + PropellerAds Pops](https://afflift.com/f/threads/traffic-company-sweepstakes-propellerads-pops.11397/)
+-  03 [Step 6 - Add BeMob Postback to Zeydoo](https://afflift.com/f/threads/step-6-add-bemob-postback-to-zeydoo.7477/)
+-  03 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
+-  03 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  03 [Step 3 - Setup PropellerAds in BeMob](https://afflift.com/f/threads/step-3-setup-propellerads-in-bemob.7474/)
 -  03 [is starting brand new on revcontent really that expensive?](https://afflift.com/f/threads/is-starting-brand-new-on-revcontent-really-that-expensive.11386/)
 -  03 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  03 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/)
 -  03 [🍿 Pop Ads: New Ad Format in Pushground 🍿](https://afflift.com/f/threads/%F0%9F%8D%BF-pop-ads-new-ad-format-in-pushground-%F0%9F%8D%BF.11393/)
 -  03 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
--  03 [Step 4 - Setup Zeydoo in BeMob](https://afflift.com/f/threads/step-4-setup-zeydoo-in-bemob.7475/)
--  03 [🔔 In Page Push Traffic Sources](https://afflift.com/f/threads/%F0%9F%94%94-in-page-push-traffic-sources.11395/)
--  03 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
--  03 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)<!-- afflift:END -->
+-  03 [Step 4 - Setup Zeydoo in BeMob](https://afflift.com/f/threads/step-4-setup-zeydoo-in-bemob.7475/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
