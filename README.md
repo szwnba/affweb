@@ -21,9 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
+-  03 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  03 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  03 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  03 [Hi! 👋 I&#39;m 40, a Dentist, Father of Two Daughters &amp; I Want To Learn Affiliate Marketing.](https://afflift.com/f/threads/hi-%F0%9F%91%8B-im-40-a-dentist-father-of-two-daughters-i-want-to-learn-affiliate-marketing.11367/)
 -  03 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  03 [Get $2,000 to your balance! Join HilltopAds No-Lose Giveaway!](https://afflift.com/f/threads/get-2-000-to-your-balance-join-hilltopads-no-lose-giveaway.11398/)
 -  03 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
@@ -31,8 +32,7 @@
 -  03 [TEST Traffic Company + PropellerAds + Binom + Pops + T3 20230803-1](https://afflift.com/f/threads/test-traffic-company-propellerads-binom-pops-t3-20230803-1.11396/)
 -  03 [Traffic company sweepstakes + PropellerAds Pops](https://afflift.com/f/threads/traffic-company-sweepstakes-propellerads-pops.11397/)
 -  03 [Step 6 - Add BeMob Postback to Zeydoo](https://afflift.com/f/threads/step-6-add-bemob-postback-to-zeydoo.7477/)
--  03 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
--  03 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)<!-- afflift:END -->
+-  03 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
