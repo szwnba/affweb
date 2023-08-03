@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  02 [XSHELL官方最新免费版不仅取消标签页限制，也取消了弹窗，但是却….](https://51.ruyo.net/18445.html)<!-- ruyo:END -->
+-  03 [Google Domains托管域名免费转移到WordPress.com可续费1年！](https://51.ruyo.net/18447.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
