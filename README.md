@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  03 [TEST Traffic Company + PropellerAds + Binom + Pops + T3 20230803-1](https://afflift.com/f/threads/test-traffic-company-propellerads-binom-pops-t3-20230803-1.11396/)
 -  03 [Traffic company sweepstakes + PropellerAds Pops](https://afflift.com/f/threads/traffic-company-sweepstakes-propellerads-pops.11397/)
 -  03 [Step 6 - Add BeMob Postback to Zeydoo](https://afflift.com/f/threads/step-6-add-bemob-postback-to-zeydoo.7477/)
@@ -31,8 +32,7 @@
 -  03 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  03 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/)
 -  03 [🍿 Pop Ads: New Ad Format in Pushground 🍿](https://afflift.com/f/threads/%F0%9F%8D%BF-pop-ads-new-ad-format-in-pushground-%F0%9F%8D%BF.11393/)
--  03 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
--  03 [Step 4 - Setup Zeydoo in BeMob](https://afflift.com/f/threads/step-4-setup-zeydoo-in-bemob.7475/)<!-- afflift:END -->
+-  03 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
