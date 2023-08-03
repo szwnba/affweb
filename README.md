@@ -39,5 +39,4 @@
 -  03 [如何「构建第二大脑」，这是我的 Obsidian 实践配方](https://sspai.com/post/80802)
 -  03 [派早报：Mac 版 Pocket 将停止服务、Figma 支持 Display P3 色域等](https://sspai.com/post/81715)
 -  02 [为了追求画质，真的要买台电影机吗？我的 Bmpcc 6K Pro 单兵作战体验](https://sspai.com/post/81560)
--  02 [App+1 | 从互联网消失的 Flash 游戏和动画，你可以在这里怀旧](https://sspai.com/post/81698)
--  02 [上车聊聊 | 一台 Model Y 和 3 种生活新体验](https://sspai.com/post/81647)<!-- sspai:END -->
+-  02 [App+1 | 从互联网消失的 Flash 游戏和动画，你可以在这里怀旧](https://sspai.com/post/81698)<!-- sspai:END -->
