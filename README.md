@@ -22,6 +22,7 @@
 ### afflift
 <!-- afflift:START -->
 -  04 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
+-  04 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
 -  04 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
 -  04 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  04 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
@@ -31,8 +32,7 @@
 -  04 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
 -  04 [Zeropark Pops + Zeydoo Surveys @Binom](https://afflift.com/f/threads/zeropark-pops-zeydoo-surveys-binom.8677/)
 -  04 [Source of opt in landers for lead magnets](https://afflift.com/f/threads/source-of-opt-in-landers-for-lead-magnets.11385/)
--  04 [New - Highest Paying Sweepstakes Offers in the Industry](https://afflift.com/f/threads/new-highest-paying-sweepstakes-offers-in-the-industry.11409/)
--  04 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)<!-- afflift:END -->
+-  04 [New - Highest Paying Sweepstakes Offers in the Industry](https://afflift.com/f/threads/new-highest-paying-sweepstakes-offers-in-the-industry.11409/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
