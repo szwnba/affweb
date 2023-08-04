@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
+-  04 [Pinterest Guides](https://afflift.com/f/threads/pinterest-guides.11373/)
+-  04 [Step 13 - The END, but really the BEGINNING?](https://afflift.com/f/threads/step-13-the-end-but-really-the-beginning.2950/)
+-  04 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/)
+-  04 [Testing a new angle &lpar;example included&rpar;](https://afflift.com/f/threads/testing-a-new-angle-example-included.11316/)
+-  04 [Zeropark Pops + Zeydoo Surveys @Binom](https://afflift.com/f/threads/zeropark-pops-zeydoo-surveys-binom.8677/)
+-  04 [Source of opt in landers for lead magnets](https://afflift.com/f/threads/source-of-opt-in-landers-for-lead-magnets.11385/)
+-  04 [New - Highest Paying Sweepstakes Offers in the Industry](https://afflift.com/f/threads/new-highest-paying-sweepstakes-offers-in-the-industry.11409/)
+-  04 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  04 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  04 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)
--  04 [Zeropark Pops + Zeydoo Surveys @Binom](https://afflift.com/f/threads/zeropark-pops-zeydoo-surveys-binom.8677/)
--  04 [Which Networks Have Multiple Good Sweeps/Survey And Fast Payment?](https://afflift.com/f/threads/which-networks-have-multiple-good-sweeps-survey-and-fast-payment.11047/)
--  04 [New - Highest Paying Sweepstakes Offers in the Industry](https://afflift.com/f/threads/new-highest-paying-sweepstakes-offers-in-the-industry.11409/)
--  04 [[Case Study] 474% ROI: How Targeting Facebook Browser Boosted a Dating CPA Offer](https://afflift.com/f/threads/case-study-474-roi-how-targeting-facebook-browser-boosted-a-dating-cpa-offer.11406/)
--  04 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  04 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  04 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
--  04 [Need help with tracking setup?](https://afflift.com/f/threads/need-help-with-tracking-setup.11387/)
--  04 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
--  04 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.11404/)<!-- afflift:END -->
+-  04 [Which Networks Have Multiple Good Sweeps/Survey And Fast Payment?](https://afflift.com/f/threads/which-networks-have-multiple-good-sweeps-survey-and-fast-payment.11047/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
