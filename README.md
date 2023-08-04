@@ -37,7 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
--  04 [小风扇常见，但可以的降温的「高速吹风机」你不妨一试](https://sspai.com/post/81440)
+-  04 [小风扇常见，但可以降温的「高速吹风机」你不妨一试](https://sspai.com/post/81440)
 -  04 [派早报：中兴 5G 随身 Wi-Fi F50 正式上架、Meta 发布开源 AI 工具 AudioCraft](https://sspai.com/post/81751)
 -  03 [十五样快手凉拌，助你花式度过炎炎夏日](https://sspai.com/prime/story/15-code-dish-ideas)
 -  03 [新玩意 156｜少数派的编辑们最近买了啥？](https://sspai.com/post/81734)
