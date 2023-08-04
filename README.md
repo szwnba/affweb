@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  04 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
+-  04 [Unknown Guy - Self Introduction](https://afflift.com/f/threads/unknown-guy-self-introduction.10835/)
 -  04 [CPL authentic conversion testing](https://afflift.com/f/threads/cpl-authentic-conversion-testing.11407/)
 -  04 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  04 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
@@ -29,10 +32,7 @@
 -  04 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  04 [LanderLab 2.0 Review](https://afflift.com/f/threads/landerlab-2-0-review.11405/)
 -  04 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
--  04 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)
--  04 [Applying for Affiliate Networks](https://afflift.com/f/threads/applying-for-affiliate-networks.6890/)
--  04 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
--  04 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)<!-- afflift:END -->
+-  04 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
