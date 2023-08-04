@@ -23,6 +23,8 @@
 <!-- afflift:START -->
 -  04 [Step 8 - Create Your BeMob Campaign&lpar;s&rpar;](https://afflift.com/f/threads/step-8-create-your-bemob-campaign-s.7479/)
 -  04 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
+-  04 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
+-  04 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
 -  03 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  03 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  03 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.11404/)
@@ -30,9 +32,7 @@
 -  03 [Traffic company sweepstakes + PropellerAds Pops](https://afflift.com/f/threads/traffic-company-sweepstakes-propellerads-pops.11397/)
 -  03 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
 -  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  03 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)
--  03 [Get $2,000 to your balance! Join HilltopAds No-Lose Giveaway!](https://afflift.com/f/threads/get-2-000-to-your-balance-join-hilltopads-no-lose-giveaway.11398/)
--  03 [😍 New LanderLab &lpar;Free Beta&rpar;](https://afflift.com/f/threads/%F0%9F%98%8D-new-landerlab-free-beta.11402/)<!-- afflift:END -->
+-  03 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
