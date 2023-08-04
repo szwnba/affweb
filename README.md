@@ -39,5 +39,4 @@
 -  03 [十五样快手凉拌，助你花式度过炎炎夏日](https://sspai.com/prime/story/15-code-dish-ideas)
 -  03 [新玩意 156｜少数派的编辑们最近买了啥？](https://sspai.com/post/81734)
 -  03 [每周三小时的游泳时间，我这样准备播客作伴](https://sspai.com/post/81111)
--  03 [如何「构建第二大脑」，这是我的 Obsidian 实践配方](https://sspai.com/post/80802)
--  03 [派早报：Mac 版 Pocket 将停止服务、Figma 支持 Display P3 色域等](https://sspai.com/post/81715)<!-- sspai:END -->
+-  03 [如何「构建第二大脑」，这是我的 Obsidian 实践配方](https://sspai.com/post/80802)<!-- sspai:END -->
