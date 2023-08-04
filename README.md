@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
+-  04 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
+-  04 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
 -  04 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  04 [Pinterest Guides](https://afflift.com/f/threads/pinterest-guides.11373/)
 -  04 [Step 13 - The END, but really the BEGINNING?](https://afflift.com/f/threads/step-13-the-end-but-really-the-beginning.2950/)
@@ -29,10 +32,7 @@
 -  04 [Zeropark Pops + Zeydoo Surveys @Binom](https://afflift.com/f/threads/zeropark-pops-zeydoo-surveys-binom.8677/)
 -  04 [Source of opt in landers for lead magnets](https://afflift.com/f/threads/source-of-opt-in-landers-for-lead-magnets.11385/)
 -  04 [New - Highest Paying Sweepstakes Offers in the Industry](https://afflift.com/f/threads/new-highest-paying-sweepstakes-offers-in-the-industry.11409/)
--  04 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  04 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
--  04 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)
--  04 [Which Networks Have Multiple Good Sweeps/Survey And Fast Payment?](https://afflift.com/f/threads/which-networks-have-multiple-good-sweeps-survey-and-fast-payment.11047/)<!-- afflift:END -->
+-  04 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
