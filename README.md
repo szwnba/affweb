@@ -6,6 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
+-  04 [北京电信校园卡600元2年，流量50G通用+10G本地流量+200分钟以及会员权益](https://51.ruyo.net/18450.html)
 -  03 [Google Domains托管域名免费转移到WordPress.com可续费1年！](https://51.ruyo.net/18447.html)<!-- ruyo:END -->
 
 ### advertcn
