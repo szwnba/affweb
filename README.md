@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  04 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
 -  04 [Get $2,000 to your balance! Join HilltopAds No-Lose Giveaway!](https://afflift.com/f/threads/get-2-000-to-your-balance-join-hilltopads-no-lose-giveaway.11398/)
 -  04 [Step 8 - Create Your BeMob Campaign&lpar;s&rpar;](https://afflift.com/f/threads/step-8-create-your-bemob-campaign-s.7479/)
@@ -31,8 +32,7 @@
 -  03 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  03 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.11404/)
 -  03 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  03 [Traffic company sweepstakes + PropellerAds Pops](https://afflift.com/f/threads/traffic-company-sweepstakes-propellerads-pops.11397/)
--  03 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)<!-- afflift:END -->
+-  03 [Traffic company sweepstakes + PropellerAds Pops](https://afflift.com/f/threads/traffic-company-sweepstakes-propellerads-pops.11397/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
