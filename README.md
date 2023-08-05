@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/)
 -  05 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
+-  05 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
+-  05 [👋 Hello from Affigs: Advertiser in dating vertical with in-house brands](https://afflift.com/f/threads/%F0%9F%91%8B-hello-from-affigs-advertiser-in-dating-vertical-with-in-house-brands.11414/)
+-  05 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/)
 -  05 [Telegram : How to drive traffic](https://afflift.com/f/threads/telegram-how-to-drive-traffic.11413/)
 -  05 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
 -  05 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.11404/)
 -  05 [Need Tracking recommendation](https://afflift.com/f/threads/need-tracking-recommendation.11412/)
--  05 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  05 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  05 [Unknown Guy - Self Introduction](https://afflift.com/f/threads/unknown-guy-self-introduction.10835/)
 -  05 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
--  05 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
--  05 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)<!-- afflift:END -->
+-  05 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
