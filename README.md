@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [The Anatomy of a High Converting Advertorial on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-advertorial-on-native.10707/)
 -  05 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  05 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  05 [👋 Hello from Affigs: Advertiser in dating vertical with in-house brands](https://afflift.com/f/threads/%F0%9F%91%8B-hello-from-affigs-advertiser-in-dating-vertical-with-in-house-brands.11414/)
@@ -31,8 +32,7 @@
 -  05 [Need Tracking recommendation](https://afflift.com/f/threads/need-tracking-recommendation.11412/)
 -  05 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  05 [Unknown Guy - Self Introduction](https://afflift.com/f/threads/unknown-guy-self-introduction.10835/)
--  05 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
--  05 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)<!-- afflift:END -->
+-  05 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
