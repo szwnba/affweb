@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/)
 -  05 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  05 [Telegram : How to drive traffic](https://afflift.com/f/threads/telegram-how-to-drive-traffic.11413/)
 -  05 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
@@ -31,8 +32,7 @@
 -  05 [Unknown Guy - Self Introduction](https://afflift.com/f/threads/unknown-guy-self-introduction.10835/)
 -  05 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
 -  05 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
--  05 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)
--  05 [I want to setup tracking between mgid + adcombo +bemob](https://afflift.com/f/threads/i-want-to-setup-tracking-between-mgid-adcombo-bemob.10628/)<!-- afflift:END -->
+-  05 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
