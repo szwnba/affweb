@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  05 [Need Tracking recommendation](https://afflift.com/f/threads/need-tracking-recommendation.11412/)
 -  05 [Unknown Guy - Self Introduction](https://afflift.com/f/threads/unknown-guy-self-introduction.10835/)
 -  05 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
@@ -31,8 +32,7 @@
 -  05 [I want to setup tracking between mgid + adcombo +bemob](https://afflift.com/f/threads/i-want-to-setup-tracking-between-mgid-adcombo-bemob.10628/)
 -  05 [Need help with tracking setup?](https://afflift.com/f/threads/need-help-with-tracking-setup.11387/)
 -  04 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
--  04 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)
--  04 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)<!-- afflift:END -->
+-  04 [July PropellerAds Promo Codes 2023](https://afflift.com/f/threads/july-propellerads-promo-codes-2023.11242/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
