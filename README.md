@@ -36,5 +36,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [从 0 搭建个人 NAS 备份系统，这是我的解决方案](https://sspai.com/post/81509)
 -  05 [一入直列深似海，旁人不会用此盘：Planck 配列键盘使用心得](https://sspai.com/post/81740)
 -  04 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/81765)<!-- sspai:END -->
