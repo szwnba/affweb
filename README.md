@@ -39,5 +39,4 @@
 -  04 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/81765)
 -  04 [属于平凡人的经验之谈：我的校园招聘工具「组合拳」](https://sspai.com/post/79049)
 -  04 [AI 降临 —— 个人笔记的黄昏？](https://sspai.com/post/81585)
--  04 [小风扇常见，但可以降温的「高速吹风机」你不妨一试](https://sspai.com/post/81440)
--  04 [派早报：中兴 5G 随身 Wi-Fi F50 正式上架、Meta 发布开源 AI 工具 AudioCraft](https://sspai.com/post/81751)<!-- sspai:END -->
+-  04 [小风扇常见，但可以降温的「高速吹风机」你不妨一试](https://sspai.com/post/81440)<!-- sspai:END -->
