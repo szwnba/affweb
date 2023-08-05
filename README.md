@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  05 [一入直列深似海，旁人不会用此盘：Planck 配列键盘使用心得](https://sspai.com/post/81740)
 -  04 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/81765)
--  04 [属于平凡人的经验之谈：我的校园招聘工具「组合拳」](https://sspai.com/post/79049)
--  04 [AI 降临 —— 个人笔记的黄昏？](https://sspai.com/post/81585)<!-- sspai:END -->
+-  04 [属于平凡人的经验之谈：我的校园招聘工具「组合拳」](https://sspai.com/post/79049)<!-- sspai:END -->
