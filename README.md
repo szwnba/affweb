@@ -21,12 +21,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  06 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
 -  06 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  06 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  06 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  06 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
--  06 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  06 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
 -  05 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)<!-- afflift:END -->
 
