@@ -36,4 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  05 [硬件有价数据无价，从零搭建 NAS 数据备份系统](https://sspai.com/post/81509)<!-- sspai:END -->
+-  06 [播客 | 中文打字机：一个世纪的汉字突围史](https://sspai.com/post/81761)<!-- sspai:END -->
