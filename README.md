@@ -29,8 +29,7 @@
 -  06 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
 -  05 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
 -  05 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/)
--  05 [The Anatomy of a High Converting Advertorial on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-advertorial-on-native.10707/)
--  05 [👋 Hello from Affigs: Advertiser in dating vertical with in-house brands](https://afflift.com/f/threads/%F0%9F%91%8B-hello-from-affigs-advertiser-in-dating-vertical-with-in-house-brands.11414/)<!-- afflift:END -->
+-  05 [The Anatomy of a High Converting Advertorial on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-advertorial-on-native.10707/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
