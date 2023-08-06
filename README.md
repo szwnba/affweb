@@ -31,8 +31,7 @@
 -  05 [Looking for Google Ads mediabuyers to scale](https://afflift.com/f/threads/looking-for-google-ads-mediabuyers-to-scale.11197/)
 -  05 [The Anatomy of a High Converting Advertorial on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-advertorial-on-native.10707/)
 -  05 [👋 Hello from Affigs: Advertiser in dating vertical with in-house brands](https://afflift.com/f/threads/%F0%9F%91%8B-hello-from-affigs-advertiser-in-dating-vertical-with-in-house-brands.11414/)
--  05 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/)
--  05 [Telegram : How to drive traffic](https://afflift.com/f/threads/telegram-how-to-drive-traffic.11413/)<!-- afflift:END -->
+-  05 [Belated hello from China](https://afflift.com/f/threads/belated-hello-from-china.11094/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
