@@ -36,5 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  05 [硬件有价数据无价，从零搭建 NAS 数据备份系统](https://sspai.com/post/81509)
--  05 [一入直列深似海，旁人不会用此盘：Planck 配列键盘使用心得](https://sspai.com/post/81740)<!-- sspai:END -->
+-  05 [硬件有价数据无价，从零搭建 NAS 数据备份系统](https://sspai.com/post/81509)<!-- sspai:END -->
