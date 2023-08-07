@@ -21,10 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  07 [Looking forward to learning &amp; working together!](https://afflift.com/f/threads/looking-forward-to-learning-working-together.11368/)
 -  07 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  07 [I wanna become an offer owner, what does it take?](https://afflift.com/f/threads/i-wanna-become-an-offer-owner-what-does-it-take.10550/)
--  07 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  06 [Tacolo.co - new monetization program via push notifications | 90% RevShare](https://afflift.com/f/threads/tacolo-co-new-monetization-program-via-push-notifications-90-revshare.8959/)
 -  06 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
 -  06 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
