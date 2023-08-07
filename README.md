@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
+-  07 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  07 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  07 [🔔 In Page Push Traffic Sources](https://afflift.com/f/threads/%F0%9F%94%94-in-page-push-traffic-sources.11395/)
@@ -30,9 +32,7 @@
 -  07 [👋 Hello from Affigs: Advertiser in dating vertical with in-house brands](https://afflift.com/f/threads/%F0%9F%91%8B-hello-from-affigs-advertiser-in-dating-vertical-with-in-house-brands.11414/)
 -  07 [What to drive traffic to in the Arab regions?](https://afflift.com/f/threads/what-to-drive-traffic-to-in-the-arab-regions.9873/)
 -  07 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
--  07 [any review about juicyads.com traffic?](https://afflift.com/f/threads/any-review-about-juicyads-com-traffic.10895/)
--  07 [Help needed with cpamatica tracking](https://afflift.com/f/threads/help-needed-with-cpamatica-tracking.11209/)
--  07 [Traffic company sweepstakes + PropellerAds Pops](https://afflift.com/f/threads/traffic-company-sweepstakes-propellerads-pops.11397/)<!-- afflift:END -->
+-  07 [any review about juicyads.com traffic?](https://afflift.com/f/threads/any-review-about-juicyads-com-traffic.10895/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
