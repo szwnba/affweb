@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Help needed with cpamatica tracking](https://afflift.com/f/threads/help-needed-with-cpamatica-tracking.11209/)
+-  07 [Traffic company sweepstakes + PropellerAds Pops](https://afflift.com/f/threads/traffic-company-sweepstakes-propellerads-pops.11397/)
 -  07 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
 -  07 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
 -  07 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
@@ -30,9 +32,7 @@
 -  07 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  07 [👋 Hello from Affigs: Advertiser in dating vertical with in-house brands](https://afflift.com/f/threads/%F0%9F%91%8B-hello-from-affigs-advertiser-in-dating-vertical-with-in-house-brands.11414/)
 -  07 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  07 [Trellian is now Trillion &lpar;and they bought Trillion.com&rpar;](https://afflift.com/f/threads/trellian-is-now-trillion-and-they-bought-trillion-com.11419/)
--  07 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
--  07 [Hello from Trellian 🙌](https://afflift.com/f/threads/hello-from-trellian-%F0%9F%99%8C.5919/)<!-- afflift:END -->
+-  07 [Trellian is now Trillion &lpar;and they bought Trillion.com&rpar;](https://afflift.com/f/threads/trellian-is-now-trillion-and-they-bought-trillion-com.11419/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
