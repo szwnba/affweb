@@ -35,4 +35,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [派早报：Vim 作者逝世，二季度全球手机销售额继续下降](https://sspai.com/post/81814)
 -  06 [播客 | 中文打字机：一个世纪的汉字突围史](https://sspai.com/post/81761)<!-- sspai:END -->
