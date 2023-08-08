@@ -38,7 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [为了重拾对生活的「掌控感」，我做了一款 iOS 应用](https://sspai.com/post/81775)
 -  08 [一场特别的深度家庭大扫除，来收拾跨城搬家的累与泪](https://sspai.com/post/81756)
 -  08 [派早报：微软更新 Windows 11 CPU 支持列表，Amazfit Cheetah Pro 上架等](https://sspai.com/post/81862)
--  07 [派评 | 近期值得关注的 App](https://sspai.com/post/81850)
--  07 [从历史中开出来，这是我和 BMW 三系共处的两年](https://sspai.com/post/80462)<!-- sspai:END -->
+-  07 [派评 | 近期值得关注的 App](https://sspai.com/post/81850)<!-- sspai:END -->
