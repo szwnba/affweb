@@ -23,6 +23,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [How to Translate a HTML Page in Seconds](https://afflift.com/f/threads/how-to-translate-a-html-page-in-seconds.11422/)
+-  08 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
+-  08 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
+-  08 [Trellian is now Trillion &lpar;and they bought Trillion.com&rpar;](https://afflift.com/f/threads/trellian-is-now-trillion-and-they-bought-trillion-com.11419/)
 -  08 [The Future of Affiliate Marketing Amidst AI Advancements](https://afflift.com/f/threads/the-future-of-affiliate-marketing-amidst-ai-advancements.11421/)
 -  08 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  08 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
@@ -30,11 +34,7 @@
 -  08 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  08 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)
 -  08 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  08 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
--  07 [Easy Creative Design Method For Landing Pages 2023](https://afflift.com/f/threads/easy-creative-design-method-for-landing-pages-2023.11420/)
--  07 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
--  07 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  07 [✅ SELLING HQ AGED GOOGLE ADS ACCOUNTS WITH SPENDING HISTORY FOR ANY BLACK AND GRAY VERTICALS](https://afflift.com/f/threads/%E2%9C%85-selling-hq-aged-google-ads-accounts-with-spending-history-for-any-black-and-gray-verticals.10883/)<!-- afflift:END -->
+-  07 [Easy Creative Design Method For Landing Pages 2023](https://afflift.com/f/threads/easy-creative-design-method-for-landing-pages-2023.11420/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
