@@ -39,5 +39,4 @@
 -  07 [派评 | 近期值得关注的 App](https://sspai.com/post/81850)
 -  07 [从历史中开出来，这是我和 BMW 三系共处的两年](https://sspai.com/post/80462)
 -  07 [能干掉你「启动盘」的 Windows 漏洞补丁，为什么不得不更新？](https://sspai.com/post/81836)
--  07 [开会糟透了？试试无声会议吧](https://sspai.com/post/81644)
--  07 [派早报：Vim 作者逝世，二季度全球手机销售额继续下降](https://sspai.com/post/81814)<!-- sspai:END -->
+-  07 [开会糟透了？试试无声会议吧](https://sspai.com/post/81644)<!-- sspai:END -->
