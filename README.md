@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
+-  08 [Step 9 - Setup PopAds Postback in BeMob](https://afflift.com/f/threads/step-9-setup-popads-postback-in-bemob.2946/)
 -  08 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
 -  08 [Pay per call on Facebook Marketplace](https://afflift.com/f/threads/pay-per-call-on-facebook-marketplace.10975/)
 -  08 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  08 [Roofing Leads](https://afflift.com/f/threads/roofing-leads.11428/)
 -  08 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  08 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
 -  08 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
 -  08 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  08 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  08 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  08 [How to Translate a HTML Page in Seconds](https://afflift.com/f/threads/how-to-translate-a-html-page-in-seconds.11422/)
--  08 [👀 Looking for experts who want to share great tips for on how to prepare for Black Friday](https://afflift.com/f/threads/%F0%9F%91%80-looking-for-experts-who-want-to-share-great-tips-for-on-how-to-prepare-for-black-friday.11424/)<!-- afflift:END -->
+-  08 [How to Translate a HTML Page in Seconds](https://afflift.com/f/threads/how-to-translate-a-html-page-in-seconds.11422/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
