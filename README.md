@@ -38,7 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [社区速递 007 | 买过的「洋垃圾」、平板上的代码和作者的新玩意](https://sspai.com/post/81857)
 -  08 [为了重拾对生活的「掌控感」，我做了一款 iOS 应用](https://sspai.com/post/81775)
 -  08 [一场特别的深度家庭大扫除，来收拾跨城搬家的累与泪](https://sspai.com/post/81756)
--  08 [派早报：微软更新 Windows 11 CPU 支持列表，Amazfit Cheetah Pro 上架等](https://sspai.com/post/81862)
--  07 [派评 | 近期值得关注的 App](https://sspai.com/post/81850)<!-- sspai:END -->
+-  08 [派早报：微软更新 Windows 11 CPU 支持列表，Amazfit Cheetah Pro 上架等](https://sspai.com/post/81862)<!-- sspai:END -->
