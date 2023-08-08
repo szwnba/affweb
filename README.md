@@ -20,13 +20,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  08 [This is unbelievable! TutAnkhAmun is back. First treasure&quot;Zeydoo+Facebook&quot;, &lpar;landing page,creatives,offers,post,&rpar; included.](https://afflift.com/f/threads/this-is-unbelievable-tutankhamun-is-back-first-treasure-zeydoo-facebook-landing-page-creatives-offers-post-included.11369/)
+-  08 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
 -  08 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  08 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
--  08 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  08 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  08 [How to Translate a HTML Page in Seconds](https://afflift.com/f/threads/how-to-translate-a-html-page-in-seconds.11422/)
--  08 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
 -  08 [Pay per call on Facebook Marketplace](https://afflift.com/f/threads/pay-per-call-on-facebook-marketplace.10975/)
 -  08 [👀 Looking for experts who want to share great tips for on how to prepare for Black Friday](https://afflift.com/f/threads/%F0%9F%91%80-looking-for-experts-who-want-to-share-great-tips-for-on-how-to-prepare-for-black-friday.11424/)
 -  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
