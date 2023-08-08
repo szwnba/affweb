@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
+-  08 [Pay per call on Facebook Marketplace](https://afflift.com/f/threads/pay-per-call-on-facebook-marketplace.10975/)
+-  08 [👀 Looking for experts who want to share great tips for on how to prepare for Black Friday](https://afflift.com/f/threads/%F0%9F%91%80-looking-for-experts-who-want-to-share-great-tips-for-on-how-to-prepare-for-black-friday.11424/)
+-  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  08 [How to Translate a HTML Page in Seconds](https://afflift.com/f/threads/how-to-translate-a-html-page-in-seconds.11422/)
+-  08 [Need Tracking recommendation](https://afflift.com/f/threads/need-tracking-recommendation.11412/)
+-  08 [Trellian is now Trillion &lpar;and they bought Trillion.com&rpar;](https://afflift.com/f/threads/trellian-is-now-trillion-and-they-bought-trillion-com.11419/)
+-  08 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
+-  08 [PropellerAds Push CPA Goal Whitelist](https://afflift.com/f/threads/propellerads-push-cpa-goal-whitelist.10308/)
 -  08 [Partnerships | Exclusive promo codes &amp; special offers](https://afflift.com/f/threads/partnerships-exclusive-promo-codes-special-offers.11427/)
 -  08 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
--  08 [The Future of Affiliate Marketing Amidst AI Advancements](https://afflift.com/f/threads/the-future-of-affiliate-marketing-amidst-ai-advancements.11421/)
--  08 [LGaming.com - a powerful ecosystem and affiliate network of the future available today!](https://afflift.com/f/threads/lgaming-com-a-powerful-ecosystem-and-affiliate-network-of-the-future-available-today.10618/)
--  08 [LGaming Review](https://afflift.com/f/threads/lgaming-review.11426/)
--  08 [👀 Looking for experts who want to share great tips for on how to prepare for Black Friday](https://afflift.com/f/threads/%F0%9F%91%80-looking-for-experts-who-want-to-share-great-tips-for-on-how-to-prepare-for-black-friday.11424/)
--  08 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  08 [How to Translate a HTML Page in Seconds](https://afflift.com/f/threads/how-to-translate-a-html-page-in-seconds.11422/)
--  08 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
--  08 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
--  08 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  08 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  08 [The Future of Affiliate Marketing Amidst AI Advancements](https://afflift.com/f/threads/the-future-of-affiliate-marketing-amidst-ai-advancements.11421/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
