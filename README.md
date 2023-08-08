@@ -10,10 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  07 [说几句有意思的话啊，凡是说别人割韭菜的，一般具备这些](https://www.advertcn.com/forum.php?mod=viewthread&tid=111526)
--  07 [AdSense被停用，请问能购买AdSense的账号来解决吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111524)
--  07 [小白文盲求指点](https://www.advertcn.com/forum.php?mod=viewthread&tid=111522)
--  07 [提醒新人不要被惰惰割韭菜了](https://www.advertcn.com/forum.php?mod=viewthread&tid=111520)<!-- advertcn:END -->
+-  07 [说几句有意思的话啊，凡是说别人割韭菜的，一般具备这些](https://www.advertcn.com/forum.php?mod=viewthread&tid=111526)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
