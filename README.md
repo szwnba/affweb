@@ -10,7 +10,11 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  07 [说几句有意思的话啊，凡是说别人割韭菜的，一般具备这些](https://www.advertcn.com/forum.php?mod=viewthread&tid=111526)<!-- advertcn:END -->
+-  09 [其实你们一群人都被几个人玩得团团转，盗版课就他们放的](https://www.advertcn.com/forum.php?mod=viewthread&tid=111558)
+-  09 [zeydoo samrtlink 跑了个寂寞](https://www.advertcn.com/forum.php?mod=viewthread&tid=111551)
+-  09 [B站上的返利网教学](https://www.advertcn.com/forum.php?mod=viewthread&tid=111545)
+-  09 [semrush有替代品吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111543)
+-  08 [板块太冷清，来吹吹牛逼，你拿下过的最高收入的米](https://www.advertcn.com/forum.php?mod=viewthread&tid=111541)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
