@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  09 [一句话完成繁琐操作：你可以试试的 8 个 Windows 命令行工具](https://sspai.com/post/81787)
 -  09 [书到用时方恨少？写读书笔记时如何做到旁征博引](https://sspai.com/post/81889)
--  09 [派早报：Chrome 安全补丁更新改为每周推送、Sonos 推出 Era 100 音箱等](https://sspai.com/post/81895)
--  08 [社区速递 007 | 买过的「洋垃圾」、平板上的代码和作者的新玩意](https://sspai.com/post/81857)<!-- sspai:END -->
+-  09 [派早报：Chrome 安全补丁更新改为每周推送、Sonos 推出 Era 100 音箱等](https://sspai.com/post/81895)<!-- sspai:END -->
