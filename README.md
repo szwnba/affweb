@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [书到用时方恨少？写读书笔记时如何做到旁征博引](https://sspai.com/post/81889)
 -  09 [派早报：Chrome 安全补丁更新改为每周推送、Sonos 推出 Era 100 音箱等](https://sspai.com/post/81895)
 -  08 [社区速递 007 | 买过的「洋垃圾」、平板上的代码和作者的新玩意](https://sspai.com/post/81857)
 -  08 [为了重拾对生活的「掌控感」，我做了一款 iOS 应用](https://sspai.com/post/81775)<!-- sspai:END -->
