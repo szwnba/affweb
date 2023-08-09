@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [The Future of Affiliate Marketing Amidst AI Advancements](https://afflift.com/f/threads/the-future-of-affiliate-marketing-amidst-ai-advancements.11421/)
 -  09 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  09 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  09 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
@@ -34,8 +35,7 @@
 -  09 [Saving Money on Google Ads Campaigns: How to Minimize Costs and Maximize Profits](https://afflift.com/f/threads/saving-money-on-google-ads-campaigns-how-to-minimize-costs-and-maximize-profits.11432/)
 -  09 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
 -  09 [My 2022 Book List](https://afflift.com/f/threads/my-2022-book-list.10359/)
--  09 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
--  09 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)<!-- afflift:END -->
+-  09 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
