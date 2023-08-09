@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Roofing Leads](https://afflift.com/f/threads/roofing-leads.11428/)
+-  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  09 [One time I created my own pop traffic source &lpar;Chrome extension&rpar;](https://afflift.com/f/threads/one-time-i-created-my-own-pop-traffic-source-chrome-extension.11434/)
 -  09 [The Future of Affiliate Marketing Amidst AI Advancements](https://afflift.com/f/threads/the-future-of-affiliate-marketing-amidst-ai-advancements.11421/)
 -  09 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  09 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  09 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
 -  09 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
--  09 [Roofing Leads](https://afflift.com/f/threads/roofing-leads.11428/)
 -  09 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
 -  09 [Affiliate Marketing Scams From Advertising Networks. How To Identify And Prevent Them?](https://afflift.com/f/threads/affiliate-marketing-scams-from-advertising-networks-how-to-identify-and-prevent-them.11433/)
 -  09 [Saving Money on Google Ads Campaigns: How to Minimize Costs and Maximize Profits](https://afflift.com/f/threads/saving-money-on-google-ads-campaigns-how-to-minimize-costs-and-maximize-profits.11432/)
--  09 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
--  09 [My 2022 Book List](https://afflift.com/f/threads/my-2022-book-list.10359/)
--  09 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)<!-- afflift:END -->
+-  09 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
