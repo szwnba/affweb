@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  04 [北京电信校园卡600元2年，流量50G通用+10G本地流量+200分钟以及会员权益](https://51.ruyo.net/18450.html)<!-- ruyo:END -->
+-  09 [一键激活下载利器IDM，支持官网最新版，代码全部开源](https://51.ruyo.net/18451.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
