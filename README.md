@@ -25,11 +25,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
 -  09 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
 -  09 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
 -  09 [Roofing Leads](https://afflift.com/f/threads/roofing-leads.11428/)
 -  09 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
--  09 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
 -  09 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  09 [One time I created my own pop traffic source &lpar;Chrome extension&rpar;](https://afflift.com/f/threads/one-time-i-created-my-own-pop-traffic-source-chrome-extension.11434/)
