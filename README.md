@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [The Future of Affiliate Marketing Amidst AI Advancements](https://afflift.com/f/threads/the-future-of-affiliate-marketing-amidst-ai-advancements.11421/)
 -  09 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
 -  09 [😍 New LanderLab &lpar;Free Beta&rpar;](https://afflift.com/f/threads/%F0%9F%98%8D-new-landerlab-free-beta.11402/)
 -  08 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
@@ -30,8 +31,7 @@
 -  08 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  08 [Roofing Leads](https://afflift.com/f/threads/roofing-leads.11428/)
 -  08 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  08 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
--  08 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)<!-- afflift:END -->
+-  08 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
