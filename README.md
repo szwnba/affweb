@@ -13,9 +13,7 @@
 -  09 [发个真正MEDIABUY的案例，而且必给钱，当日结算](https://www.advertcn.com/forum.php?mod=viewthread&tid=111564)
 -  09 [APP都要备案了！](https://www.advertcn.com/forum.php?mod=viewthread&tid=111562)
 -  09 [其实你们一群人都被几个人玩得团团转，盗版课就他们放的](https://www.advertcn.com/forum.php?mod=viewthread&tid=111558)
--  09 [zeydoo samrtlink 跑了个寂寞](https://www.advertcn.com/forum.php?mod=viewthread&tid=111551)
--  09 [B站上的返利网教学](https://www.advertcn.com/forum.php?mod=viewthread&tid=111545)
--  09 [semrush有替代品吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111543)<!-- advertcn:END -->
+-  09 [zeydoo samrtlink 跑了个寂寞](https://www.advertcn.com/forum.php?mod=viewthread&tid=111551)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
