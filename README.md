@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  10 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
 -  10 [Why with lower bid the cost of conversion is higher than with higher bid?](https://afflift.com/f/threads/why-with-lower-bid-the-cost-of-conversion-is-higher-than-with-higher-bid.11439/)
 -  10 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
@@ -31,7 +32,6 @@
 -  10 [One time I created my own pop traffic source &lpar;Chrome extension&rpar;](https://afflift.com/f/threads/one-time-i-created-my-own-pop-traffic-source-chrome-extension.11434/)
 -  10 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  10 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  10 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  10 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
 -  10 [Get an email notification when your domain gets flagged](https://afflift.com/f/threads/get-an-email-notification-when-your-domain-gets-flagged.10447/)<!-- afflift:END -->
