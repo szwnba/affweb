@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [从拖延症到启动困难，聊聊克服困难背后的三大方法](https://sspai.com/post/81892)
 -  10 [派早报：Google 发布人工智能代码编辑器、字节跳动推出公共 DNS 服务等](https://sspai.com/post/81915)
 -  09 [免费试读 | 上手 GTD 的第一步，做好任务的收集与分类](https://sspai.com/post/79148)
 -  09 [一句话完成繁琐操作：你可以试试的 8 个 Windows 命令行工具](https://sspai.com/post/81787)<!-- sspai:END -->
