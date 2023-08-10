@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [新玩意 157｜少数派的编辑们最近买了啥？](https://sspai.com/post/81924)
 -  10 [支持 AI、转向订阅，老牌手写笔记应用 Goodnotes 6 大更新](https://sspai.com/post/81920)
 -  10 [从拖延症到启动困难，聊聊克服困难背后的三大方法](https://sspai.com/post/81892)
 -  10 [派早报：Google 发布人工智能代码编辑器、字节跳动推出公共 DNS 服务等](https://sspai.com/post/81915)<!-- sspai:END -->
