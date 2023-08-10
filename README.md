@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  10 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
 -  10 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  10 [Heylink - the tracker that gives you more data, better automation and new revenue opportunities](https://afflift.com/f/threads/heylink-the-tracker-that-gives-you-more-data-better-automation-and-new-revenue-opportunities.11431/)
@@ -33,8 +34,7 @@
 -  10 [The ultimate free lander hosting stack &lpar;+automated tracking&rpar;](https://afflift.com/f/threads/the-ultimate-free-lander-hosting-stack-automated-tracking.6659/)
 -  10 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
 -  10 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
--  09 [Roofing Leads](https://afflift.com/f/threads/roofing-leads.11428/)
--  09 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)<!-- afflift:END -->
+-  09 [Roofing Leads](https://afflift.com/f/threads/roofing-leads.11428/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
