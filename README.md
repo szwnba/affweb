@@ -23,9 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
 -  10 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  10 [Heylink - the tracker that gives you more data, better automation and new revenue opportunities](https://afflift.com/f/threads/heylink-the-tracker-that-gives-you-more-data-better-automation-and-new-revenue-opportunities.11431/)
--  10 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
 -  10 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
 -  10 [Traffic for Dating offers on PushGround](https://afflift.com/f/threads/traffic-for-dating-offers-on-pushground.11423/)
 -  10 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
