@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
+-  10 [My very first steps winning $3k per month from Facebook ads for Sweepstakes!](https://afflift.com/f/threads/my-very-first-steps-winning-3k-per-month-from-facebook-ads-for-sweepstakes.10941/)
 -  10 [Get an email notification when your domain gets flagged](https://afflift.com/f/threads/get-an-email-notification-when-your-domain-gets-flagged.10447/)
 -  10 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
 -  10 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
@@ -32,9 +34,7 @@
 -  10 [Introducing In-House Pops Traffic Inventory](https://afflift.com/f/threads/introducing-in-house-pops-traffic-inventory.11436/)
 -  10 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  10 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
--  10 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  10 [Heylink - the tracker that gives you more data, better automation and new revenue opportunities](https://afflift.com/f/threads/heylink-the-tracker-that-gives-you-more-data-better-automation-and-new-revenue-opportunities.11431/)
--  10 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)<!-- afflift:END -->
+-  10 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
