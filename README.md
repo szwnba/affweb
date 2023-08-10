@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  10 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+-  10 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
+-  10 [Heylink - the tracker that gives you more data, better automation and new revenue opportunities](https://afflift.com/f/threads/heylink-the-tracker-that-gives-you-more-data-better-automation-and-new-revenue-opportunities.11431/)
 -  10 [Galaksion Follow Along Contest - Vote For Your Favorite](https://afflift.com/f/threads/galaksion-follow-along-contest-vote-for-your-favorite.11383/)
+-  10 [How to get conversions with Antivirus](https://afflift.com/f/threads/how-to-get-conversions-with-antivirus.11334/)
+-  10 [Traffic for Dating offers on PushGround](https://afflift.com/f/threads/traffic-for-dating-offers-on-pushground.11423/)
+-  10 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  10 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  10 [The ultimate free lander hosting stack &lpar;+automated tracking&rpar;](https://afflift.com/f/threads/the-ultimate-free-lander-hosting-stack-automated-tracking.6659/)
 -  10 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
 -  10 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
--  09 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  09 [Roofing Leads](https://afflift.com/f/threads/roofing-leads.11428/)
--  09 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
--  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  09 [One time I created my own pop traffic source &lpar;Chrome extension&rpar;](https://afflift.com/f/threads/one-time-i-created-my-own-pop-traffic-source-chrome-extension.11434/)
--  09 [The Future of Affiliate Marketing Amidst AI Advancements](https://afflift.com/f/threads/the-future-of-affiliate-marketing-amidst-ai-advancements.11421/)<!-- afflift:END -->
+-  09 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
