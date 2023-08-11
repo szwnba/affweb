@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
+-  11 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
+-  11 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+-  11 [Sweepstakes: How to start promoting? | Best Geos, Pre-landers [Guide, Part 2]](https://afflift.com/f/threads/sweepstakes-how-to-start-promoting-best-geos-pre-landers-guide-part-2.11446/)
+-  11 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
+-  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  11 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  11 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
 -  11 [Here&#39;s a prompt to turn AI into your performance coach 🤑🚀](https://afflift.com/f/threads/heres-a-prompt-to-turn-ai-into-your-performance-coach-%F0%9F%A4%91%F0%9F%9A%80.11441/)
 -  11 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  11 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  11 [Traffic for Dating offers on PushGround](https://afflift.com/f/threads/traffic-for-dating-offers-on-pushground.11423/)
--  11 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
--  11 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  11 [Insurance for France 🇫🇷](https://afflift.com/f/threads/insurance-for-france-%F0%9F%87%AB%F0%9F%87%B7.11445/)
--  11 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
--  11 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  11 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)<!-- afflift:END -->
+-  11 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
