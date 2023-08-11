@@ -22,9 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [What is your strategy for bidding a successful source?](https://afflift.com/f/threads/what-is-your-strategy-for-bidding-a-successful-source.11442/)
 -  11 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
 -  11 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  11 [What is your strategy for bidding a successful source?](https://afflift.com/f/threads/what-is-your-strategy-for-bidding-a-successful-source.11442/)
 -  11 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
 -  11 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  11 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
