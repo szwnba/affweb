@@ -21,12 +21,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [One time I created my own pop traffic source &lpar;Chrome extension&rpar;](https://afflift.com/f/threads/one-time-i-created-my-own-pop-traffic-source-chrome-extension.11434/)
 -  11 [Here&#39;s a prompt to turn AI into your performance coach 🤑🚀](https://afflift.com/f/threads/heres-a-prompt-to-turn-ai-into-your-performance-coach-%F0%9F%A4%91%F0%9F%9A%80.11441/)
 -  11 [Introducing In-House Pops Traffic Inventory](https://afflift.com/f/threads/introducing-in-house-pops-traffic-inventory.11436/)
 -  10 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
 -  10 [Why with lower bid the cost of conversion is higher than with higher bid?](https://afflift.com/f/threads/why-with-lower-bid-the-cost-of-conversion-is-higher-than-with-higher-bid.11439/)
 -  10 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
--  10 [One time I created my own pop traffic source &lpar;Chrome extension&rpar;](https://afflift.com/f/threads/one-time-i-created-my-own-pop-traffic-source-chrome-extension.11434/)
 -  10 [Where Can I find Antivirus Offers ?](https://afflift.com/f/threads/where-can-i-find-antivirus-offers.11440/)
 -  10 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  10 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
