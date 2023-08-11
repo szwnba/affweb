@@ -39,5 +39,4 @@
 -  11 [围观了 Twitter 和 Threads 的夏日大作战后，我们来聊聊 Logo 设计](https://sspai.com/post/81880)
 -  11 [派早报：大疆发布 DJI Transmission 图传接收器标准套装等](https://sspai.com/post/81937)
 -  10 [多少无可虑，横竖有所得：非开发者可以从代码中读些什么](https://sspai.com/prime/story/read-code-as-non-dev)
--  10 [新玩意 157｜少数派的编辑们最近买了啥？](https://sspai.com/post/81924)
--  10 [支持 AI、转向订阅，老牌手写笔记应用 Goodnotes 6 大更新](https://sspai.com/post/81920)<!-- sspai:END -->
+-  10 [新玩意 157｜少数派的编辑们最近买了啥？](https://sspai.com/post/81924)<!-- sspai:END -->
