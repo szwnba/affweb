@@ -39,5 +39,4 @@
 -  11 [本周看什么 | 最近值得一看的一大股作品](https://sspai.com/post/81952)
 -  11 [城市漫步指南：山城风物夏时游，市井热烈美入收](https://sspai.com/post/81907)
 -  11 [围观了 Twitter 和 Threads 的夏日大作战后，我们来聊聊 Logo 设计](https://sspai.com/post/81880)
--  11 [派早报：大疆发布 DJI Transmission 图传接收器标准套装等](https://sspai.com/post/81937)
--  10 [多少无可虑，横竖有所得：非开发者可以从代码中读些什么](https://sspai.com/prime/story/read-code-as-non-dev)<!-- sspai:END -->
+-  11 [派早报：大疆发布 DJI Transmission 图传接收器标准套装等](https://sspai.com/post/81937)<!-- sspai:END -->
