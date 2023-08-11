@@ -21,10 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  11 [Really expensive clicks &lpar;only in tracker&rpar;](https://afflift.com/f/threads/really-expensive-clicks-only-in-tracker.11443/)
--  11 [What is your strategy for bidding a successful source?](https://afflift.com/f/threads/what-is-your-strategy-for-bidding-a-successful-source.11442/)
--  11 [Why with lower bid the cost of conversion is higher than with higher bid?](https://afflift.com/f/threads/why-with-lower-bid-the-cost-of-conversion-is-higher-than-with-higher-bid.11439/)
 -  11 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
+-  11 [Why with lower bid the cost of conversion is higher than with higher bid?](https://afflift.com/f/threads/why-with-lower-bid-the-cost-of-conversion-is-higher-than-with-higher-bid.11439/)
+-  11 [Really expensive views &lpar;only in tracker&rpar;](https://afflift.com/f/threads/really-expensive-views-only-in-tracker.11443/)
+-  11 [What is your strategy for bidding a successful source?](https://afflift.com/f/threads/what-is-your-strategy-for-bidding-a-successful-source.11442/)
 -  11 [One time I created my own pop traffic source &lpar;Chrome extension&rpar;](https://afflift.com/f/threads/one-time-i-created-my-own-pop-traffic-source-chrome-extension.11434/)
 -  11 [Here&#39;s a prompt to turn AI into your performance coach 🤑🚀](https://afflift.com/f/threads/heres-a-prompt-to-turn-ai-into-your-performance-coach-%F0%9F%A4%91%F0%9F%9A%80.11441/)
 -  11 [Introducing In-House Pops Traffic Inventory](https://afflift.com/f/threads/introducing-in-house-pops-traffic-inventory.11436/)
