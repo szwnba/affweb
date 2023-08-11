@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
 -  11 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
 -  11 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  11 [One time I created my own pop traffic source &lpar;Chrome extension&rpar;](https://afflift.com/f/threads/one-time-i-created-my-own-pop-traffic-source-chrome-extension.11434/)
@@ -31,8 +32,7 @@
 -  11 [What is your strategy for bidding a successful source?](https://afflift.com/f/threads/what-is-your-strategy-for-bidding-a-successful-source.11442/)
 -  11 [Here&#39;s a prompt to turn AI into your performance coach 🤑🚀](https://afflift.com/f/threads/heres-a-prompt-to-turn-ai-into-your-performance-coach-%F0%9F%A4%91%F0%9F%9A%80.11441/)
 -  11 [Introducing In-House Pops Traffic Inventory](https://afflift.com/f/threads/introducing-in-house-pops-traffic-inventory.11436/)
--  10 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
--  10 [Where Can I find Antivirus Offers ?](https://afflift.com/f/threads/where-can-i-find-antivirus-offers.11440/)<!-- afflift:END -->
+-  10 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
