@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Here&#39;s a prompt to turn AI into your performance coach 🤑🚀](https://afflift.com/f/threads/heres-a-prompt-to-turn-ai-into-your-performance-coach-%F0%9F%A4%91%F0%9F%9A%80.11441/)
+-  11 [Introducing In-House Pops Traffic Inventory](https://afflift.com/f/threads/introducing-in-house-pops-traffic-inventory.11436/)
 -  10 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
 -  10 [Why with lower bid the cost of conversion is higher than with higher bid?](https://afflift.com/f/threads/why-with-lower-bid-the-cost-of-conversion-is-higher-than-with-higher-bid.11439/)
 -  10 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/)
@@ -31,10 +33,8 @@
 -  10 [Where Can I find Antivirus Offers ?](https://afflift.com/f/threads/where-can-i-find-antivirus-offers.11440/)
 -  10 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  10 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  10 [Introducing In-House Pops Traffic Inventory](https://afflift.com/f/threads/introducing-in-house-pops-traffic-inventory.11436/)
 -  10 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  10 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)<!-- afflift:END -->
+-  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
