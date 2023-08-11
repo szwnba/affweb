@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  11 [建议屏蔽某些培训班导流，天天哇众取宠，诱导。](https://www.advertcn.com/forum.php?mod=viewthread&tid=111590)
 -  10 [FB跑电商受众怎么选择](https://www.advertcn.com/forum.php?mod=viewthread&tid=111579)
 -  10 [放落地页的VPS有什么要求吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111578)<!-- advertcn:END -->
 
