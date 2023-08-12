@@ -37,5 +37,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  11 [本周看什么 | 最近值得一看的一大股作品](https://sspai.com/post/81952)
--  11 [城市漫步指南：山城风物夏时游，市井热烈美入收](https://sspai.com/post/81907)<!-- sspai:END -->
+-  11 [本周看什么 | 最近值得一看的一大股作品](https://sspai.com/post/81952)<!-- sspai:END -->
