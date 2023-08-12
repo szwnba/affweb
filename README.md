@@ -29,8 +29,7 @@
 -  12 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  12 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  11 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
--  11 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
--  11 [What is your strategy for bidding a successful source?](https://afflift.com/f/threads/what-is-your-strategy-for-bidding-a-successful-source.11442/)<!-- afflift:END -->
+-  11 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
