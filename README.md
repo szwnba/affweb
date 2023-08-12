@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
+-  12 [Why PopAds campaign budget doesn&#39;t match BeMob revenue for campaign?](https://afflift.com/f/threads/why-popads-campaign-budget-doesnt-match-bemob-revenue-for-campaign.11447/)
 -  12 [Where Can I find Antivirus Offers ?](https://afflift.com/f/threads/where-can-i-find-antivirus-offers.11440/)
 -  12 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  12 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
