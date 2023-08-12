@@ -38,5 +38,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  11 [本周看什么 | 最近值得一看的一大股作品](https://sspai.com/post/81952)
--  11 [城市漫步指南：山城风物夏时游，市井热烈美入收](https://sspai.com/post/81907)
--  11 [围观了 Twitter 和 Threads 的夏日大作战后，我们来聊聊 Logo 设计](https://sspai.com/post/81880)<!-- sspai:END -->
+-  11 [城市漫步指南：山城风物夏时游，市井热烈美入收](https://sspai.com/post/81907)<!-- sspai:END -->
