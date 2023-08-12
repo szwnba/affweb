@@ -22,12 +22,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  12 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
 -  11 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
 -  11 [Galaksion Contest - $4,000 in Prizes!](https://afflift.com/f/threads/galaksion-contest-4-000-in-prizes.11219/)
 -  11 [What is your strategy for bidding a successful source?](https://afflift.com/f/threads/what-is-your-strategy-for-bidding-a-successful-source.11442/)
 -  11 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
--  11 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  11 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  11 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  11 [Sweepstakes: How to start promoting? | Best Geos, Pre-landers [Guide, Part 2]](https://afflift.com/f/threads/sweepstakes-how-to-start-promoting-best-geos-pre-landers-guide-part-2.11446/)
