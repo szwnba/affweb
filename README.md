@@ -28,8 +28,7 @@
 -  12 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  12 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
 -  12 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  12 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  12 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)<!-- afflift:END -->
+-  12 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
