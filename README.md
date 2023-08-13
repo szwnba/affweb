@@ -22,13 +22,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)
 -  12 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
 -  12 [Why PopAds campaign budget doesn&#39;t match BeMob revenue for campaign?](https://afflift.com/f/threads/why-popads-campaign-budget-doesnt-match-bemob-revenue-for-campaign.11447/)
 -  12 [Where Can I find Antivirus Offers ?](https://afflift.com/f/threads/where-can-i-find-antivirus-offers.11440/)
--  12 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  12 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
--  12 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  12 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)<!-- afflift:END -->
+-  12 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
