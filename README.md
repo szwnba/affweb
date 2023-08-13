@@ -22,18 +22,17 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
 -  13 [EZMob Follow Allong ⋆](https://afflift.com/f/threads/ezmob-follow-allong-%E2%8B%86.11449/)
 -  13 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
 -  13 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  13 [Steal Traffic on Stolen LPs &lpar;JavaScript Included&rpar;](https://afflift.com/f/threads/steal-traffic-on-stolen-lps-javascript-included.10819/)
--  13 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
 -  13 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  13 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
 -  13 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)
 -  12 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
--  12 [Why PopAds campaign budget doesn&#39;t match BeMob revenue for campaign?](https://afflift.com/f/threads/why-popads-campaign-budget-doesnt-match-bemob-revenue-for-campaign.11447/)
--  12 [Where Can I find Antivirus Offers ?](https://afflift.com/f/threads/where-can-i-find-antivirus-offers.11440/)
--  12 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
+-  12 [Why BeMob campaign cost exceeds budget spent on PopAds?](https://afflift.com/f/threads/why-bemob-campaign-cost-exceeds-budget-spent-on-popads.11447/)
+-  12 [Where Can I find Antivirus Offers ?](https://afflift.com/f/threads/where-can-i-find-antivirus-offers.11440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
