@@ -32,4 +32,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [两位效率工具玩家眼中的人脉管理与知识管理](https://sspai.com/post/81930)
 -  12 [试读福利 | Notion 自动化从 Button 开始，用 10 个案例带你从入门到进阶](https://sspai.com/post/81971)<!-- sspai:END -->
