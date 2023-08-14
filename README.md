@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
+-  14 [Heylink - the tracker that gives you more data, better automation and new revenue opportunities](https://afflift.com/f/threads/heylink-the-tracker-that-gives-you-more-data-better-automation-and-new-revenue-opportunities.11431/)
 -  14 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
 -  14 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
 -  14 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
@@ -32,9 +34,7 @@
 -  14 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
 -  14 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
 -  14 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  14 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)
--  14 [First Impression of Vimmy](https://afflift.com/f/threads/first-impression-of-vimmy.10338/)
--  14 [Step 12 - Optimized Results](https://afflift.com/f/threads/step-12-optimized-results.2949/)<!-- afflift:END -->
+-  14 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
