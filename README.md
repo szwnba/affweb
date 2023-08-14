@@ -23,8 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  14 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
 -  14 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
+-  14 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
+-  14 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
 -  14 [Host your landers FREE with Vercel](https://afflift.com/f/threads/host-your-landers-free-with-vercel.11452/)
 -  14 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  14 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
@@ -33,8 +34,7 @@
 -  14 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
 -  14 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
 -  14 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  14 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  14 [Private offers to Africa🤑](https://afflift.com/f/threads/private-offers-to-africa%F0%9F%A4%91.10430/)<!-- afflift:END -->
+-  14 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
