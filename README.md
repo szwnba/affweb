@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
+-  14 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  14 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  14 [Private offers to Africa🤑](https://afflift.com/f/threads/private-offers-to-africa%F0%9F%A4%91.10430/)
 -  14 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
@@ -32,9 +34,7 @@
 -  14 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)
 -  14 [First Impression of Vimmy](https://afflift.com/f/threads/first-impression-of-vimmy.10338/)
 -  14 [Step 12 - Optimized Results](https://afflift.com/f/threads/step-12-optimized-results.2949/)
--  14 [Using Drilldown Reports in Your Tracker](https://afflift.com/f/threads/using-drilldown-reports-in-your-tracker.10462/)
--  14 [Long Life Cycle Vertical/Offers Suitable for POP Traffic?](https://afflift.com/f/threads/long-life-cycle-vertical-offers-suitable-for-pop-traffic.11450/)
--  14 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)<!-- afflift:END -->
+-  14 [Using Drilldown Reports in Your Tracker](https://afflift.com/f/threads/using-drilldown-reports-in-your-tracker.10462/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
