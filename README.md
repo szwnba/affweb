@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
+-  14 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
 -  14 [How to Translate a HTML Page in Seconds](https://afflift.com/f/threads/how-to-translate-a-html-page-in-seconds.11422/)
 -  13 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
 -  13 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
@@ -32,9 +34,7 @@
 -  13 [First Impression of Vimmy](https://afflift.com/f/threads/first-impression-of-vimmy.10338/)
 -  13 [Hello from EZmob.com - Push - Pop - Native - Display](https://afflift.com/f/threads/hello-from-ezmob-com-push-pop-native-display.1018/)
 -  13 [EZMob Follow Allong ⋆](https://afflift.com/f/threads/ezmob-follow-allong-%E2%8B%86.11449/)
--  13 [Long Life Cycle Vertical/Offers Suitable for POP Traffic?](https://afflift.com/f/threads/long-life-cycle-vertical-offers-suitable-for-pop-traffic.11450/)
--  13 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
--  13 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  13 [Long Life Cycle Vertical/Offers Suitable for POP Traffic?](https://afflift.com/f/threads/long-life-cycle-vertical-offers-suitable-for-pop-traffic.11450/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
