@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
 -  13 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
 -  13 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
 -  13 [Why BeMob campaign cost exceeds budget spent on PopAds?](https://afflift.com/f/threads/why-bemob-campaign-cost-exceeds-budget-spent-on-popads.11447/)
@@ -32,8 +33,7 @@
 -  13 [Long Life Cycle Vertical/Offers Suitable for POP Traffic?](https://afflift.com/f/threads/long-life-cycle-vertical-offers-suitable-for-pop-traffic.11450/)
 -  13 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
 -  13 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  13 [Steal Traffic on Stolen LPs &lpar;JavaScript Included&rpar;](https://afflift.com/f/threads/steal-traffic-on-stolen-lps-javascript-included.10819/)
--  13 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)<!-- afflift:END -->
+-  13 [Steal Traffic on Stolen LPs &lpar;JavaScript Included&rpar;](https://afflift.com/f/threads/steal-traffic-on-stolen-lps-javascript-included.10819/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
