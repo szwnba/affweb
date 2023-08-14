@@ -39,5 +39,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  14 [六边形游泳数据统计员，Garmin Fenix 智能手表深度使用分享](https://sspai.com/post/81215)
--  14 [派早报：Zoom 承诺不用通信内容训练 AI，Android 版 Firefox 将支持扩展](https://sspai.com/post/81988)
--  13 [4 个隐藏「小开关」，让你的 Chrome 浏览器更好用](https://sspai.com/post/81982)<!-- sspai:END -->
+-  14 [派早报：Zoom 承诺不用通信内容训练 AI，Android 版 Firefox 将支持扩展](https://sspai.com/post/81988)<!-- sspai:END -->
