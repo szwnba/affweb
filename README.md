@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  14 [Step 12 - Optimized Results](https://afflift.com/f/threads/step-12-optimized-results.2949/)
--  14 [EZMob Follow Allong ⋆](https://afflift.com/f/threads/ezmob-follow-allong-%E2%8B%86.11449/)
--  14 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
--  14 [Where Can I find Antivirus Offers ?](https://afflift.com/f/threads/where-can-i-find-antivirus-offers.11440/)
+-  14 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
 -  14 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
--  14 [Why such difference in CTR between EvaDav and Push.House?](https://afflift.com/f/threads/why-such-difference-in-ctr-between-evadav-and-push-house.10434/)
--  14 [How to Translate a HTML Page in Seconds](https://afflift.com/f/threads/how-to-translate-a-html-page-in-seconds.11422/)
--  14 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
--  14 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  14 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
--  13 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
--  13 [Why BeMob campaign cost exceeds budget spent on PopAds?](https://afflift.com/f/threads/why-bemob-campaign-cost-exceeds-budget-spent-on-popads.11447/)<!-- afflift:END -->
+-  14 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  14 [Twitter &lpar;X?&rpar; Blue increasing impressions](https://afflift.com/f/threads/twitter-x-blue-increasing-impressions.11356/)
+-  14 [First Impression of Vimmy](https://afflift.com/f/threads/first-impression-of-vimmy.10338/)
+-  14 [Step 12 - Optimized Results](https://afflift.com/f/threads/step-12-optimized-results.2949/)
+-  14 [Using Drilldown Reports in Your Tracker](https://afflift.com/f/threads/using-drilldown-reports-in-your-tracker.10462/)
+-  14 [Long Life Cycle Vertical/Offers Suitable for POP Traffic?](https://afflift.com/f/threads/long-life-cycle-vertical-offers-suitable-for-pop-traffic.11450/)
+-  14 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+-  14 [Magic Boost Review](https://afflift.com/f/threads/magic-boost-review.11451/)
+-  14 [LGaming Review](https://afflift.com/f/threads/lgaming-review.11426/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
