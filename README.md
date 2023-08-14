@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
+-  14 [Private offers to Africa🤑](https://afflift.com/f/threads/private-offers-to-africa%F0%9F%A4%91.10430/)
 -  14 [Is tracking accuracy the same for all trackers?](https://afflift.com/f/threads/is-tracking-accuracy-the-same-for-all-trackers.10578/)
 -  14 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
 -  14 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
@@ -32,9 +34,7 @@
 -  14 [Step 12 - Optimized Results](https://afflift.com/f/threads/step-12-optimized-results.2949/)
 -  14 [Using Drilldown Reports in Your Tracker](https://afflift.com/f/threads/using-drilldown-reports-in-your-tracker.10462/)
 -  14 [Long Life Cycle Vertical/Offers Suitable for POP Traffic?](https://afflift.com/f/threads/long-life-cycle-vertical-offers-suitable-for-pop-traffic.11450/)
--  14 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
--  14 [Magic Boost Review](https://afflift.com/f/threads/magic-boost-review.11451/)
--  14 [LGaming Review](https://afflift.com/f/threads/lgaming-review.11426/)<!-- afflift:END -->
+-  14 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
