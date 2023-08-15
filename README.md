@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
 -  15 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  15 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
 -  15 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
@@ -33,8 +34,7 @@
 -  14 [Host your landers FREE with Vercel](https://afflift.com/f/threads/host-your-landers-free-with-vercel.11452/)
 -  14 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  14 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
--  14 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
--  14 [Heylink - the tracker that gives you more data, better automation and new revenue opportunities](https://afflift.com/f/threads/heylink-the-tracker-that-gives-you-more-data-better-automation-and-new-revenue-opportunities.11431/)<!-- afflift:END -->
+-  14 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
