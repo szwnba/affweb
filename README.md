@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [关于番茄工作法的思考，和替代解决方案](https://sspai.com/post/81294)
 -  15 [派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等](https://sspai.com/post/82034)
 -  14 [派评 | 近期值得关注的 App](https://sspai.com/post/82015)
 -  14 [本月玩什么 | 博德之门 3、宇宙之轮姐妹会、机战佣兵 VI、流浪之神](https://sspai.com/post/81993)<!-- sspai:END -->
