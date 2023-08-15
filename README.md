@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [社区速递 008 | 夏日好物、基于 Obisidian 的生活记录以及新玩意](https://sspai.com/post/82042)
 -  15 [遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾](https://sspai.com/post/82017)
 -  15 [播客 | 对话笪屹超人：如何成为不一样的科技博主](https://sspai.com/post/82018)
 -  15 [关于番茄工作法的思考，和替代解决方案](https://sspai.com/post/81294)
