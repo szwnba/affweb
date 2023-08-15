@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
 -  15 [Sweepstakes | News, Best Offers, Insights](https://afflift.com/f/threads/sweepstakes-news-best-offers-insights.11459/)
 -  15 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
 -  15 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
@@ -33,8 +34,7 @@
 -  15 [The slowest but rather interesting SEO follow along](https://afflift.com/f/threads/the-slowest-but-rather-interesting-seo-follow-along.4759/)
 -  15 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
 -  15 [Let&#39;s celebrate Adsterra&#39;s 10th Anniversary together!](https://afflift.com/f/threads/lets-celebrate-adsterras-10th-anniversary-together.11458/)
--  15 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  15 [Any tips for content engagement and better conversions in email marketing?](https://afflift.com/f/threads/any-tips-for-content-engagement-and-better-conversions-in-email-marketing.11457/)<!-- afflift:END -->
+-  15 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
