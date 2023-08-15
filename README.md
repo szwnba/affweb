@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
+-  15 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  15 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
 -  15 [Sweepstakes | News, Best Offers, Insights](https://afflift.com/f/threads/sweepstakes-news-best-offers-insights.11459/)
 -  15 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
@@ -32,9 +34,7 @@
 -  15 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  15 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  15 [The slowest but rather interesting SEO follow along](https://afflift.com/f/threads/the-slowest-but-rather-interesting-seo-follow-along.4759/)
--  15 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
--  15 [Let&#39;s celebrate Adsterra&#39;s 10th Anniversary together!](https://afflift.com/f/threads/lets-celebrate-adsterras-10th-anniversary-together.11458/)
--  15 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)<!-- afflift:END -->
+-  15 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
