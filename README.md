@@ -40,5 +40,4 @@
 <!-- sspai:START -->
 -  15 [派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等](https://sspai.com/post/82034)
 -  14 [派评 | 近期值得关注的 App](https://sspai.com/post/82015)
--  14 [本月玩什么 | 博德之门 3、宇宙之轮姐妹会、机战佣兵 VI、流浪之神](https://sspai.com/post/81993)
--  14 [六边形游泳数据统计员，Garmin Fenix 智能手表深度使用分享](https://sspai.com/post/81215)<!-- sspai:END -->
+-  14 [本月玩什么 | 博德之门 3、宇宙之轮姐妹会、机战佣兵 VI、流浪之神](https://sspai.com/post/81993)<!-- sspai:END -->
