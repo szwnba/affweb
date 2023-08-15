@@ -38,7 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾](https://sspai.com/post/82017)
 -  15 [播客 | 对话笪屹超人：如何成为不一样的科技博主](https://sspai.com/post/82018)
 -  15 [关于番茄工作法的思考，和替代解决方案](https://sspai.com/post/81294)
--  15 [派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等](https://sspai.com/post/82034)
--  14 [派评 | 近期值得关注的 App](https://sspai.com/post/82015)<!-- sspai:END -->
+-  15 [派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等](https://sspai.com/post/82034)<!-- sspai:END -->
