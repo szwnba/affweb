@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
+-  15 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
+-  15 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
+-  15 [FPTraffic - Social Media Marketing Tool](https://afflift.com/f/threads/fptraffic-social-media-marketing-tool.10877/)
 -  15 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
 -  15 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  15 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
 -  15 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  15 [The slowest but rather interesting SEO follow along](https://afflift.com/f/threads/the-slowest-but-rather-interesting-seo-follow-along.4759/)
--  15 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
 -  14 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
 -  14 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
--  14 [Host your landers FREE with Vercel](https://afflift.com/f/threads/host-your-landers-free-with-vercel.11452/)
--  14 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  14 [Step 13 - Success / Failure Stories](https://afflift.com/f/threads/step-13-success-failure-stories.7484/)
--  14 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)<!-- afflift:END -->
+-  14 [Host your landers FREE with Vercel](https://afflift.com/f/threads/host-your-landers-free-with-vercel.11452/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
