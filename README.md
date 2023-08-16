@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
+-  16 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
+-  16 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  16 [FREE TEST⚡200M+IPS HTTP/SOCKS5 Residential Proxy⚡Join Lunaproxy and receive up to 10% cash prize🎁](https://afflift.com/f/threads/free-test%E2%9A%A1200m-ips-http-socks5-residential-proxy%E2%9A%A1join-lunaproxy-and-receive-up-to-10-cash-prize%F0%9F%8E%81.11064/)
+-  16 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
 -  16 [[Webinar] From &#39;some affiliate profit&#39; to well-oiled affiliate revenue engine](https://afflift.com/f/threads/webinar-from-some-affiliate-profit-to-well-oiled-affiliate-revenue-engine.11460/)
 -  16 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
 -  16 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
--  16 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
 -  16 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
 -  15 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  15 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
 -  15 [Sweepstakes | News, Best Offers, Insights](https://afflift.com/f/threads/sweepstakes-news-best-offers-insights.11459/)
--  15 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
--  15 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
--  15 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  15 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)<!-- afflift:END -->
+-  15 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
