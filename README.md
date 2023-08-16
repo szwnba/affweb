@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
+-  16 [Any tips for content engagement and better conversions in email marketing?](https://afflift.com/f/threads/any-tips-for-content-engagement-and-better-conversions-in-email-marketing.11457/)
+-  16 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
 -  16 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/)
 -  16 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
 -  16 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
@@ -31,10 +34,7 @@
 -  16 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  16 [FREE TEST⚡200M+IPS HTTP/SOCKS5 Residential Proxy⚡Join Lunaproxy and receive up to 10% cash prize🎁](https://afflift.com/f/threads/free-test%E2%9A%A1200m-ips-http-socks5-residential-proxy%E2%9A%A1join-lunaproxy-and-receive-up-to-10-cash-prize%F0%9F%8E%81.11064/)
 -  16 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
--  16 [[Webinar] From &#39;some affiliate profit&#39; to well-oiled affiliate revenue engine](https://afflift.com/f/threads/webinar-from-some-affiliate-profit-to-well-oiled-affiliate-revenue-engine.11460/)
--  16 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
--  16 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
--  16 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)<!-- afflift:END -->
+-  16 [[Webinar] From &#39;some affiliate profit&#39; to well-oiled affiliate revenue engine](https://afflift.com/f/threads/webinar-from-some-affiliate-profit-to-well-oiled-affiliate-revenue-engine.11460/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
