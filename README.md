@@ -38,7 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [极简三步，我的个人知识管理工作流](https://sspai.com/post/81926)
 -  16 [日本浮生录 01：首次自驾，听佐渡岛与大地艺术节的交响](https://sspai.com/post/81940)
 -  16 [App+1 | 给照片加上「徕卡风格」水印，这个 app 比快捷指令更方便](https://sspai.com/post/81413)
--  16 [派早报：微信公众号支持图片修改、微软将推送新版 Office 应用默认主题等](https://sspai.com/post/82066)
--  15 [社区速递 008 | 夏日好物、基于 Obsidian 的生活记录以及新玩意](https://sspai.com/post/82042)<!-- sspai:END -->
+-  16 [派早报：微信公众号支持图片修改、微软将推送新版 Office 应用默认主题等](https://sspai.com/post/82066)<!-- sspai:END -->
