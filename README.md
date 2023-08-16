@@ -41,5 +41,4 @@
 -  16 [App+1 | 给照片加上「徕卡风格」水印，这个 app 比快捷指令更方便](https://sspai.com/post/81413)
 -  16 [派早报：微信公众号支持图片修改、微软将推送新版 Office 应用默认主题等](https://sspai.com/post/82066)
 -  15 [社区速递 008 | 夏日好物、基于 Obsidian 的生活记录以及新玩意](https://sspai.com/post/82042)
--  15 [遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾](https://sspai.com/post/82017)
--  15 [播客 | 对话笪屹超人：如何成为不一样的科技博主](https://sspai.com/post/82018)<!-- sspai:END -->
+-  15 [遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾](https://sspai.com/post/82017)<!-- sspai:END -->
