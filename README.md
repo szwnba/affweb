@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [The Affiliate Marketing Show Podcast](https://afflift.com/f/threads/the-affiliate-marketing-show-podcast.11119/)
+-  16 [Ringba: Unearthing the Power of Pay-Per-Call Marketing Through Precision &amp; Innovation](https://afflift.com/f/threads/ringba-unearthing-the-power-of-pay-per-call-marketing-through-precision-innovation.11462/)
+-  16 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
+-  16 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
+-  16 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
+-  16 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
+-  16 [Is It Possible To Make Money In Affiliate Marketing By Repeating The Case Studies Shared By YouTubers?](https://afflift.com/f/threads/is-it-possible-to-make-money-in-affiliate-marketing-by-repeating-the-case-studies-shared-by-youtubers.11461/)
+-  16 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
 -  16 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
 -  16 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  16 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  16 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
--  16 [Any tips for content engagement and better conversions in email marketing?](https://afflift.com/f/threads/any-tips-for-content-engagement-and-better-conversions-in-email-marketing.11457/)
--  16 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
--  16 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/)
--  16 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
--  16 [Taboola Reps?](https://afflift.com/f/threads/taboola-reps.11326/)
--  16 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
--  16 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  16 [FREE TEST⚡200M+IPS HTTP/SOCKS5 Residential Proxy⚡Join Lunaproxy and receive up to 10% cash prize🎁](https://afflift.com/f/threads/free-test%E2%9A%A1200m-ips-http-socks5-residential-proxy%E2%9A%A1join-lunaproxy-and-receive-up-to-10-cash-prize%F0%9F%8E%81.11064/)<!-- afflift:END -->
+-  16 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
