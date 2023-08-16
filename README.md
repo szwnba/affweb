@@ -23,8 +23,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  16 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
+-  16 [Pops &amp; Monetizer](https://afflift.com/f/threads/pops-monetizer.11464/)
+-  16 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
 -  16 [Why BeMob campaign cost exceeds budget spent on PopAds?](https://afflift.com/f/threads/why-bemob-campaign-cost-exceeds-budget-spent-on-popads.11447/)
+-  16 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
 -  16 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  16 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  16 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
@@ -32,9 +34,7 @@
 -  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  16 [Can you help me find all the ad networks with a CPA model?](https://afflift.com/f/threads/can-you-help-me-find-all-the-ad-networks-with-a-cpa-model.11448/)
 -  16 [Harnessing Adsterra&#39;s Traffic for Success with Zeydoo&#39;s Utility Offer Scanero](https://afflift.com/f/threads/harnessing-adsterras-traffic-for-success-with-zeydoos-utility-offer-scanero.11463/)
--  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  16 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
--  16 [The Affiliate Marketing Show Podcast](https://afflift.com/f/threads/the-affiliate-marketing-show-podcast.11119/)<!-- afflift:END -->
+-  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
