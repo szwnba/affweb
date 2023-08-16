@@ -23,9 +23,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
+-  16 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
 -  16 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
 -  16 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
--  16 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
 -  15 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  15 [Tacolo.co for push monetization?](https://afflift.com/f/threads/tacolo-co-for-push-monetization.9394/)
 -  15 [Sweepstakes | News, Best Offers, Insights](https://afflift.com/f/threads/sweepstakes-news-best-offers-insights.11459/)
@@ -33,8 +34,7 @@
 -  15 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  15 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  15 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  15 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
--  15 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  15 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
