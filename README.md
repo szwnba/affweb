@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
 -  17 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  17 [Detailed EZmob Security Follow Along 2023](https://afflift.com/f/threads/detailed-ezmob-security-follow-along-2023.11466/)
 -  17 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
@@ -33,8 +34,7 @@
 -  17 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  17 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
 -  17 [MOBIPIUM&#39;s TOP Offers by Continent](https://afflift.com/f/threads/mobipiums-top-offers-by-continent.11470/)
--  17 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
--  17 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  17 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
