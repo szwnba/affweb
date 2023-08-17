@@ -40,5 +40,4 @@
 <!-- sspai:START -->
 -  17 [App+1 | 用游戏互动守护你的颈椎：NeckGo](https://sspai.com/post/82035)
 -  17 [要创意，也要规范：Function Call 如何让 GPT 更懂你？](https://sspai.com/post/81986)
--  17 [派早报：一加发布 Ace 2 Pro 手机、Setapp 将推出 iOS 应用商店等](https://sspai.com/post/82109)
--  16 [极简三步，我的个人知识管理工作流](https://sspai.com/post/81926)<!-- sspai:END -->
+-  17 [派早报：一加发布 Ace 2 Pro 手机、Setapp 将推出 iOS 应用商店等](https://sspai.com/post/82109)<!-- sspai:END -->
