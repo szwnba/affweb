@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
+-  17 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
 -  17 [Detailed EZmob Security Follow Along 2023](https://afflift.com/f/threads/detailed-ezmob-security-follow-along-2023.11466/)
 -  17 [What are your tricks to avoid fees during balance replenishment in ad networks?](https://afflift.com/f/threads/what-are-your-tricks-to-avoid-fees-during-balance-replenishment-in-ad-networks.11465/)
 -  17 [Why BeMob campaign cost exceeds budget spent on PopAds?](https://afflift.com/f/threads/why-bemob-campaign-cost-exceeds-budget-spent-on-popads.11447/)
@@ -31,10 +33,8 @@
 -  16 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
 -  16 [What is your strategy for bidding a successful source?](https://afflift.com/f/threads/what-is-your-strategy-for-bidding-a-successful-source.11442/)
 -  16 [Pops &amp; Monetizer](https://afflift.com/f/threads/pops-monetizer.11464/)
--  16 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
 -  16 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
--  16 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  16 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)<!-- afflift:END -->
+-  16 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
