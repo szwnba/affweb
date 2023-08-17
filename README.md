@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Best Value Tracker 2023?](https://afflift.com/f/threads/best-value-tracker-2023.11469/)
+-  17 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
 -  17 [Intermediate Survey Guide | Follow Along | Aug 2023](https://afflift.com/f/threads/intermediate-survey-guide-follow-along-aug-2023.11467/)
 -  17 [Detailed EZmob Security Follow Along 2023](https://afflift.com/f/threads/detailed-ezmob-security-follow-along-2023.11466/)
 -  17 [What are your tricks to avoid fees during balance replenishment in ad networks?](https://afflift.com/f/threads/what-are-your-tricks-to-avoid-fees-during-balance-replenishment-in-ad-networks.11465/)
@@ -32,9 +34,7 @@
 -  17 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
 -  17 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  17 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
--  17 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)
--  17 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
--  17 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/)<!-- afflift:END -->
+-  17 [sup affLift! 👋](https://afflift.com/f/threads/sup-afflift-%F0%9F%91%8B.11411/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
