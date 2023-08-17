@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [派早报：一加发布 Ace 2 Pro 手机、Setapp 将推出 iOS 应用商店等](https://sspai.com/post/82109)
 -  16 [极简三步，我的个人知识管理工作流](https://sspai.com/post/81926)
 -  16 [日本浮生录 01：首次自驾，听佐渡岛与大地艺术节的交响](https://sspai.com/post/81940)
 -  16 [App+1 | 给照片加上「徕卡风格」水印，这个 app 比快捷指令更方便](https://sspai.com/post/81413)<!-- sspai:END -->
