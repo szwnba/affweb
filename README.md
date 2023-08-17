@@ -38,6 +38,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [新玩意 158｜少数派的编辑们最近买了啥？](https://sspai.com/post/82125)
+-  17 [有些实用，有些华丽，这是派商店为你准备的七夕新品](https://sspai.com/post/82091)
 -  17 [App+1 | 用游戏互动守护你的颈椎：NeckGo](https://sspai.com/post/82035)
 -  17 [要创意，也要规范：Function Call 如何让 GPT 更懂你？](https://sspai.com/post/81986)
 -  17 [派早报：一加发布 Ace 2 Pro 手机、Setapp 将推出 iOS 应用商店等](https://sspai.com/post/82109)<!-- sspai:END -->
