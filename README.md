@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Extra Cash Party started now!](https://afflift.com/f/threads/extra-cash-party-started-now.11252/)
 -  18 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  18 [PIRATES OF THE CARIBBEAN FOR GERMANY 🇩🇪](https://afflift.com/f/threads/pirates-of-the-caribbean-for-germany-%F0%9F%87%A9%F0%9F%87%AA.11477/)
 -  18 [I want to setup tracking between zeydoo + propellerads -propush + clickflare across landing pages[Anstrex]](https://afflift.com/f/threads/i-want-to-setup-tracking-between-zeydoo-propellerads-propush-clickflare-across-landing-pages-anstrex.11476/)
@@ -32,8 +33,7 @@
 -  18 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  18 [Ad Fatigue on Desktop - Revcontent - Question](https://afflift.com/f/threads/ad-fatigue-on-desktop-revcontent-question.11378/)
 -  17 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
--  17 [Detailed EZmob Security Follow Along 2023](https://afflift.com/f/threads/detailed-ezmob-security-follow-along-2023.11466/)
--  17 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  17 [Detailed EZmob Security Follow Along 2023](https://afflift.com/f/threads/detailed-ezmob-security-follow-along-2023.11466/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
