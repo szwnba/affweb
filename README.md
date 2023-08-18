@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [Hey AffLIFT.. :&rpar;](https://afflift.com/f/threads/hey-afflift.11480/)
 -  18 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  18 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
+-  18 [Bitcoin Profit Signals | High-Ticket Crypto Affiliate Program | 45% RevShare | $1,000+ Per Sale | $200 to Invite Webmasters](https://afflift.com/f/threads/bitcoin-profit-signals-high-ticket-crypto-affiliate-program-45-revshare-1-000-per-sale-200-to-invite-webmasters.11481/)
+-  18 [STACKED MARKETER Made $366,000 in 2021](https://afflift.com/f/threads/stacked-marketer-made-366-000-in-2021.8183/)
+-  18 [Hey AffLIFT.. :&rpar;](https://afflift.com/f/threads/hey-afflift.11480/)
 -  18 [Intermediate Survey Guide | Follow Along | Aug 2023](https://afflift.com/f/threads/intermediate-survey-guide-follow-along-aug-2023.11467/)
 -  18 [I want to setup tracking between zeydoo + propellerads -propush + clickflare across landing pages[Anstrex]](https://afflift.com/f/threads/i-want-to-setup-tracking-between-zeydoo-propellerads-propush-clickflare-across-landing-pages-anstrex.11476/)
 -  18 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
 -  18 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  18 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  18 [Before launching traffic: tips from Zeydoo](https://afflift.com/f/threads/before-launching-traffic-tips-from-zeydoo.11478/)
--  18 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
--  18 [Extra Cash Party started now!](https://afflift.com/f/threads/extra-cash-party-started-now.11252/)
--  18 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  18 [PIRATES OF THE CARIBBEAN FOR GERMANY 🇩🇪](https://afflift.com/f/threads/pirates-of-the-caribbean-for-germany-%F0%9F%87%A9%F0%9F%87%AA.11477/)<!-- afflift:END -->
+-  18 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
