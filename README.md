@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [派早报：Apple 庆祝在中国发展 30 周年、罗德推出无线麦克风套组](https://sspai.com/post/82141)
 -  17 [少数派产品经理 SamWanng 都装了啥？](https://sspai.com/prime/story/zhuanglesha-230817)
 -  17 [新玩意 158｜少数派的编辑们最近买了啥？](https://sspai.com/post/82125)
 -  17 [有些实用，有些华丽，这是派商店为你准备的七夕新品](https://sspai.com/post/82091)
--  17 [App+1 | 用游戏互动守护你的颈椎：NeckGo](https://sspai.com/post/82035)
--  17 [要创意，也要规范：Function Call 如何让 GPT 更懂你？](https://sspai.com/post/81986)<!-- sspai:END -->
+-  17 [App+1 | 用游戏互动守护你的颈椎：NeckGo](https://sspai.com/post/82035)<!-- sspai:END -->
