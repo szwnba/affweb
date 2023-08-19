@@ -37,4 +37,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [冰岛记忆：梦乡和梦魇咫尺之间](https://sspai.com/prime/story/iceland-tour-guide-1)
 -  19 [在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人](https://sspai.com/post/82163)<!-- sspai:END -->
