@@ -23,6 +23,7 @@
 ### afflift
 <!-- afflift:START -->
 -  19 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  19 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  19 [Pops &amp; Monetizer](https://afflift.com/f/threads/pops-monetizer.11464/)
 -  19 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  19 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
@@ -32,8 +33,7 @@
 -  18 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
 -  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  18 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
--  18 [Bitcoin Profit Signals | High-Ticket Crypto Affiliate Program | 45% RevShare | $1,000+ Per Sale | $200 to Invite Webmasters](https://afflift.com/f/threads/bitcoin-profit-signals-high-ticket-crypto-affiliate-program-45-revshare-1-000-per-sale-200-to-invite-webmasters.11481/)
--  18 [STACKED MARKETER Made $366,000 in 2021](https://afflift.com/f/threads/stacked-marketer-made-366-000-in-2021.8183/)<!-- afflift:END -->
+-  18 [Bitcoin Profit Signals | High-Ticket Crypto Affiliate Program | 45% RevShare | $1,000+ Per Sale | $200 to Invite Webmasters](https://afflift.com/f/threads/bitcoin-profit-signals-high-ticket-crypto-affiliate-program-45-revshare-1-000-per-sale-200-to-invite-webmasters.11481/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
