@@ -10,9 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  19 [【ChatGPT】我写了一个全自动采集、验证ChatGPT Web的网站](https://www.advertcn.com/forum.php?mod=viewthread&tid=111698)
 -  19 [好久不见](https://www.advertcn.com/forum.php?mod=viewthread&tid=111706)
--  19 [笔记](https://www.advertcn.com/forum.php?mod=viewthread&tid=111704)
--  18 [哪里能买到谷歌广告户](https://www.advertcn.com/forum.php?mod=viewthread&tid=111696)<!-- advertcn:END -->
+-  19 [笔记](https://www.advertcn.com/forum.php?mod=viewthread&tid=111704)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
