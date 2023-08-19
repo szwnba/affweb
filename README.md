@@ -10,9 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  17 [华美银行里的美元怎样转到自己的国内银行](https://www.advertcn.com/forum.php?mod=viewthread&tid=111668)
--  17 [大家都讨论国外的Mediabuy，国内没有Mediabuy的吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111667)
--  17 [华美银行里的美元怎样转到自己的国内银行](https://www.advertcn.com/forum.php?mod=viewthread&tid=111666)<!-- advertcn:END -->
+-  18 [哪里能买到谷歌广告户](https://www.advertcn.com/forum.php?mod=viewthread&tid=111696)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
