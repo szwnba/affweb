@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  19 [在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人](https://sspai.com/post/82163)
--  18 [本周看什么 | 最近值得一看的一大壶作品](https://sspai.com/post/82149)<!-- sspai:END -->
+-  19 [在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人](https://sspai.com/post/82163)<!-- sspai:END -->
