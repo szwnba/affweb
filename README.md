@@ -20,9 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  19 [Pops &amp; Monetizer](https://afflift.com/f/threads/pops-monetizer.11464/)
 -  19 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
--  19 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  19 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  18 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  18 [Google ads tracking with maxconv and voluum.](https://afflift.com/f/threads/google-ads-tracking-with-maxconv-and-voluum.11483/)
