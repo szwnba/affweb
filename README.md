@@ -10,6 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  19 [好久不见](https://www.advertcn.com/forum.php?mod=viewthread&tid=111706)
+-  19 [笔记](https://www.advertcn.com/forum.php?mod=viewthread&tid=111704)
 -  18 [哪里能买到谷歌广告户](https://www.advertcn.com/forum.php?mod=viewthread&tid=111696)<!-- advertcn:END -->
 
 ### zhihu
