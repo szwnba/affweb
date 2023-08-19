@@ -38,5 +38,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  18 [本周看什么 | 最近值得一看的一大壶作品](https://sspai.com/post/82149)
--  18 [有人的地方就有江湖，聊聊我眼中的「价值」与「人脉」](https://sspai.com/post/82099)
--  18 [保持情绪健康，我选择每天用十分钟自我疗愈](https://sspai.com/post/82085)<!-- sspai:END -->
+-  18 [有人的地方就有江湖，聊聊我眼中的「价值」与「人脉」](https://sspai.com/post/82099)<!-- sspai:END -->
