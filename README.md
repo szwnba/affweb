@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Monetizer Has Higher Payout?](https://afflift.com/f/threads/monetizer-has-higher-payout.11488/)
 -  20 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  20 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
 -  20 [Pops &amp; Monetizer](https://afflift.com/f/threads/pops-monetizer.11464/)
@@ -33,8 +34,7 @@
 -  20 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
 -  20 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  19 [Google ads tracking with maxconv and voluum.](https://afflift.com/f/threads/google-ads-tracking-with-maxconv-and-voluum.11483/)
--  19 [Red Tracker vs Voluum?](https://afflift.com/f/threads/red-tracker-vs-voluum.11339/)
--  19 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)<!-- afflift:END -->
+-  19 [Red Tracker vs Voluum?](https://afflift.com/f/threads/red-tracker-vs-voluum.11339/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
