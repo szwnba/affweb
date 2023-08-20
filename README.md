@@ -24,17 +24,17 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
+-  20 [Revcontent Desktop RON + Clickbank VSL](https://afflift.com/f/threads/revcontent-desktop-ron-clickbank-vsl.11486/)
 -  19 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
 -  19 [Google ads tracking with maxconv and voluum.](https://afflift.com/f/threads/google-ads-tracking-with-maxconv-and-voluum.11483/)
 -  19 [Red Tracker vs Voluum?](https://afflift.com/f/threads/red-tracker-vs-voluum.11339/)
--  19 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  19 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  19 [Voluum Discount available?](https://afflift.com/f/threads/voluum-discount-available.11485/)
 -  19 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  19 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
 -  19 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
--  19 [Pops &amp; Monetizer](https://afflift.com/f/threads/pops-monetizer.11464/)
--  19 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)<!-- afflift:END -->
+-  19 [Pops &amp; Monetizer](https://afflift.com/f/threads/pops-monetizer.11464/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
