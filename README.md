@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  20 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  20 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
 -  20 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
@@ -32,7 +33,6 @@
 -  19 [Red Tracker vs Voluum?](https://afflift.com/f/threads/red-tracker-vs-voluum.11339/)
 -  19 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  19 [Voluum Discount available?](https://afflift.com/f/threads/voluum-discount-available.11485/)
--  19 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  19 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)<!-- afflift:END -->
 
 ### 少数派
