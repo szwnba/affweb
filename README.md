@@ -38,4 +38,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [去往「夜之城」的更深处：《赛博朋克 2077》衍生作品介绍](https://sspai.com/post/82216)
+-  20 [被浏览器厂商公开反对，想让你少看验证码的 WEI API 哪里出了问题？](https://sspai.com/post/81970)
 -  19 [冰岛记忆：梦乡和梦魇咫尺之间](https://sspai.com/prime/story/iceland-tour-guide-1)<!-- sspai:END -->
