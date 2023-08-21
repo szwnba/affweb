@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  21 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  21 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
 -  21 [What are your tricks to avoid fees during balance replenishment in ad networks?](https://afflift.com/f/threads/what-are-your-tricks-to-avoid-fees-during-balance-replenishment-in-ad-networks.11465/)
@@ -30,8 +31,7 @@
 -  21 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  20 [PLR in Spanish](https://afflift.com/f/threads/plr-in-spanish.11490/)
 -  20 [Revcontent Desktop RON + Clickbank VSL](https://afflift.com/f/threads/revcontent-desktop-ron-clickbank-vsl.11486/)
--  20 [Howdy 🤠](https://afflift.com/f/threads/howdy-%F0%9F%A4%A0.11489/)
--  20 [Monetizer Has Higher Payout?](https://afflift.com/f/threads/monetizer-has-higher-payout.11488/)<!-- afflift:END -->
+-  20 [Howdy 🤠](https://afflift.com/f/threads/howdy-%F0%9F%A4%A0.11489/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
