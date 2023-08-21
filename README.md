@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Best CPA for Movies streaming](https://afflift.com/f/threads/best-cpa-for-movies-streaming.11491/)
 -  20 [PLR in Spanish](https://afflift.com/f/threads/plr-in-spanish.11490/)
 -  20 [Revcontent Desktop RON + Clickbank VSL](https://afflift.com/f/threads/revcontent-desktop-ron-clickbank-vsl.11486/)
 -  20 [Voluum Discount available?](https://afflift.com/f/threads/voluum-discount-available.11485/)
@@ -33,8 +34,7 @@
 -  20 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  20 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
 -  20 [Pops &amp; Monetizer](https://afflift.com/f/threads/pops-monetizer.11464/)
--  20 [How to automatically translate your LP in users browser language without effort](https://afflift.com/f/threads/how-to-automatically-translate-your-lp-in-users-browser-language-without-effort.11487/)
--  20 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)<!-- afflift:END -->
+-  20 [How to automatically translate your LP in users browser language without effort](https://afflift.com/f/threads/how-to-automatically-translate-your-lp-in-users-browser-language-without-effort.11487/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
