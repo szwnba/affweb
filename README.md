@@ -23,10 +23,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Voluum Discount available?](https://afflift.com/f/threads/voluum-discount-available.11485/)
 -  20 [Best CPA for Movies streaming](https://afflift.com/f/threads/best-cpa-for-movies-streaming.11491/)
 -  20 [PLR in Spanish](https://afflift.com/f/threads/plr-in-spanish.11490/)
 -  20 [Revcontent Desktop RON + Clickbank VSL](https://afflift.com/f/threads/revcontent-desktop-ron-clickbank-vsl.11486/)
--  20 [Voluum Discount available?](https://afflift.com/f/threads/voluum-discount-available.11485/)
 -  20 [Howdy 🤠](https://afflift.com/f/threads/howdy-%F0%9F%A4%A0.11489/)
 -  20 [EZMob Follow Allong ⋆](https://afflift.com/f/threads/ezmob-follow-allong-%E2%8B%86.11449/)
 -  20 [Monetizer Has Higher Payout?](https://afflift.com/f/threads/monetizer-has-higher-payout.11488/)
