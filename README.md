@@ -20,7 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/)
+-  21 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
+-  21 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+-  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  21 [How to automatically translate your LP in users browser language without effort](https://afflift.com/f/threads/how-to-automatically-translate-your-lp-in-users-browser-language-without-effort.11487/)
 -  21 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
 -  21 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
@@ -29,9 +31,7 @@
 -  21 [Best CPA for Movies streaming](https://afflift.com/f/threads/best-cpa-for-movies-streaming.11491/)
 -  21 [Howdy 🤠](https://afflift.com/f/threads/howdy-%F0%9F%A4%A0.11489/)
 -  21 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
--  21 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
--  21 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
--  21 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)<!-- afflift:END -->
+-  21 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
