@@ -35,5 +35,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [Matrix Talk | 不吝想法和创意：聊聊我们收到的七夕礼物](https://sspai.com/post/82234)
 -  21 [日本浮生录 02：漫步北九州，感受自然和人文之美](https://sspai.com/post/82037)
 -  21 [派早报：《黑神话：悟空》举办线下试玩，稚晖君团队首款机器人亮相](https://sspai.com/post/82240)<!-- sspai:END -->
