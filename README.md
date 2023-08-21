@@ -20,9 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
+-  21 [Best CPA for Movies streaming](https://afflift.com/f/threads/best-cpa-for-movies-streaming.11491/)
 -  21 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  21 [Voluum Discount available?](https://afflift.com/f/threads/voluum-discount-available.11485/)
--  20 [Best CPA for Movies streaming](https://afflift.com/f/threads/best-cpa-for-movies-streaming.11491/)
 -  20 [PLR in Spanish](https://afflift.com/f/threads/plr-in-spanish.11490/)
 -  20 [Revcontent Desktop RON + Clickbank VSL](https://afflift.com/f/threads/revcontent-desktop-ron-clickbank-vsl.11486/)
 -  20 [Howdy 🤠](https://afflift.com/f/threads/howdy-%F0%9F%A4%A0.11489/)
@@ -30,8 +31,7 @@
 -  20 [Monetizer Has Higher Payout?](https://afflift.com/f/threads/monetizer-has-higher-payout.11488/)
 -  20 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  20 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  20 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)
--  20 [Pops &amp; Monetizer](https://afflift.com/f/threads/pops-monetizer.11464/)<!-- afflift:END -->
+-  20 [RevContent RON + MaxWeb VSL + TheOptimizer](https://afflift.com/f/threads/revcontent-ron-maxweb-vsl-theoptimizer.11415/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
