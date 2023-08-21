@@ -20,6 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
+-  21 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
+-  21 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  21 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
 -  21 [Howdy 🤠](https://afflift.com/f/threads/howdy-%F0%9F%A4%A0.11489/)
 -  21 [Detailed EZmob Security Follow Along 2023](https://afflift.com/f/threads/detailed-ezmob-security-follow-along-2023.11466/)
 -  21 [Meet us at TES Prague | September, 18-21](https://afflift.com/f/threads/meet-us-at-tes-prague-september-18-21.11493/)
@@ -27,11 +31,7 @@
 -  21 [What are your tricks to avoid fees during balance replenishment in ad networks?](https://afflift.com/f/threads/what-are-your-tricks-to-avoid-fees-during-balance-replenishment-in-ad-networks.11465/)
 -  21 [Best CPA for Movies streaming](https://afflift.com/f/threads/best-cpa-for-movies-streaming.11491/)
 -  21 [Intermediate Survey Guide | Follow Along | Aug 2023](https://afflift.com/f/threads/intermediate-survey-guide-follow-along-aug-2023.11467/)
--  21 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  21 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
--  21 [Hello afflift!](https://afflift.com/f/threads/hello-afflift.11455/)
--  21 [Voluum Discount available?](https://afflift.com/f/threads/voluum-discount-available.11485/)
--  21 [EZMob Follow Allong ⋆](https://afflift.com/f/threads/ezmob-follow-allong-%E2%8B%86.11449/)<!-- afflift:END -->
+-  21 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
