@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  15 [Claude Pro 高级版开放试用申请入口，免费体验高级版](https://51.ruyo.net/18456.html)<!-- ruyo:END -->
+-  21 [自己动手”破解”思维导图软件Xmind，支持官网最新版](https://51.ruyo.net/18460.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
