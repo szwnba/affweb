@@ -10,10 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  19 [【ChatGPT】我写了一个全自动采集、验证ChatGPT Web的网站](https://www.advertcn.com/forum.php?mod=viewthread&tid=111698)
--  19 [wise的激活20刀怎么搞定](https://www.advertcn.com/forum.php?mod=viewthread&tid=111708)
--  19 [有没有接码平台推荐呢](https://www.advertcn.com/forum.php?mod=viewthread&tid=111707)
--  19 [好久不见](https://www.advertcn.com/forum.php?mod=viewthread&tid=111706)<!-- advertcn:END -->
+-  20 [【VPS】搭建一个在线的谷歌浏览器](https://www.advertcn.com/forum.php?mod=viewthread&tid=111714)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
