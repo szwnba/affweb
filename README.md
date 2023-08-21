@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [How to automatically translate your LP in users browser language without effort](https://afflift.com/f/threads/how-to-automatically-translate-your-lp-in-users-browser-language-without-effort.11487/)
 -  21 [Some thing I noticed the other day about CPVlab - Google Certified](https://afflift.com/f/threads/some-thing-i-noticed-the-other-day-about-cpvlab-google-certified.11495/)
 -  21 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
 -  21 [Google ads tracking with maxconv and voluum.](https://afflift.com/f/threads/google-ads-tracking-with-maxconv-and-voluum.11483/)
@@ -28,7 +29,6 @@
 -  21 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  21 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  21 [How to automatically translate your LP in users browser language without effort](https://afflift.com/f/threads/how-to-automatically-translate-your-lp-in-users-browser-language-without-effort.11487/)
 -  21 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  21 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  21 [Best CPA for Movies streaming](https://afflift.com/f/threads/best-cpa-for-movies-streaming.11491/)<!-- afflift:END -->
