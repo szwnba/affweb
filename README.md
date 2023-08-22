@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
+-  22 [Some thing I noticed the other day about CPVlab - Google Certified](https://afflift.com/f/threads/some-thing-i-noticed-the-other-day-about-cpvlab-google-certified.11495/)
+-  22 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
+-  22 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  21 [How to automatically translate your LP in users browser language without effort](https://afflift.com/f/threads/how-to-automatically-translate-your-lp-in-users-browser-language-without-effort.11487/)
 -  21 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
 -  21 [Hold tight: CPV One - the soon to be number one cloud based tracker is on for a fast lap :&rpar;](https://afflift.com/f/threads/hold-tight-cpv-one-the-soon-to-be-number-one-cloud-based-tracker-is-on-for-a-fast-lap.10731/)
--  21 [Some thing I noticed the other day about CPVlab - Google Certified](https://afflift.com/f/threads/some-thing-i-noticed-the-other-day-about-cpvlab-google-certified.11495/)
 -  21 [Success / Failure Stories](https://afflift.com/f/threads/success-failure-stories.6938/)
 -  21 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
 -  21 [Google ads tracking with maxconv and voluum.](https://afflift.com/f/threads/google-ads-tracking-with-maxconv-and-voluum.11483/)
--  21 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  21 [PLR in Spanish](https://afflift.com/f/threads/plr-in-spanish.11490/)
--  21 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
--  21 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  21 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
