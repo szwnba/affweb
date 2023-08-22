@@ -41,6 +41,4 @@
 <!-- sspai:START -->
 -  22 [播客 | 对话蒋方舟：写作，一种生活方式](https://sspai.com/post/82276)
 -  22 [生产力祛魅：理清适合自己的工作流，社科工作者是这么做的](https://sspai.com/post/82092)
--  22 [派早报：国区 Skype for Business 停运，QQ 客户端存在漏洞等](https://sspai.com/post/82272)
--  21 [[评论送码] Context 众筹：搭建你的个人英语「语境库」](https://sspai.com/post/82252)
--  21 [派评 | 近期值得关注的 App](https://sspai.com/post/82255)<!-- sspai:END -->
+-  22 [派早报：国区 Skype for Business 停运，QQ 客户端存在漏洞等](https://sspai.com/post/82272)<!-- sspai:END -->
