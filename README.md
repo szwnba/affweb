@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Meet us at the TES Affiliate Conference 2023 in Prague!](https://afflift.com/f/threads/meet-us-at-the-tes-affiliate-conference-2023-in-prague.11497/)
 -  22 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
 -  22 [EvaDav - native advertising network | CPM | CPA | Push notifications](https://afflift.com/f/threads/evadav-native-advertising-network-cpm-cpa-push-notifications.1501/)
 -  22 [What are your tricks to avoid fees during balance replenishment in ad networks?](https://afflift.com/f/threads/what-are-your-tricks-to-avoid-fees-during-balance-replenishment-in-ad-networks.11465/)
@@ -34,8 +35,7 @@
 -  22 [Success / Failure Stories](https://afflift.com/f/threads/success-failure-stories.6938/)
 -  22 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
 -  22 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  22 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
--  22 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)<!-- afflift:END -->
+-  22 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
