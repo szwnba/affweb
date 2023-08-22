@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
+-  22 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  22 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  22 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
+-  22 [ROI-FOCUSED SOCIAL MEDIA TRAFFIC | GREAT VOLUMES FOR ANY GEO | QUALITY YOUTUBE VIEWS](https://afflift.com/f/threads/roi-focused-social-media-traffic-great-volumes-for-any-geo-quality-youtube-views.11186/)
+-  22 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)
+-  22 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  22 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  22 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)
 -  22 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  22 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
--  22 [Are you visiting TES in Prague? &lpar;2023&rpar; Let&#39;s collaborate!](https://afflift.com/f/threads/are-you-visiting-tes-in-prague-2023-lets-collaborate.11499/)
--  22 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  22 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
--  22 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  22 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
--  22 [Detailed EZmob Security Follow Along 2023](https://afflift.com/f/threads/detailed-ezmob-security-follow-along-2023.11466/)
--  22 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
--  22 [Meet us at the TES Affiliate Conference 2023 in Prague!](https://afflift.com/f/threads/meet-us-at-the-tes-affiliate-conference-2023-in-prague.11497/)<!-- afflift:END -->
+-  22 [Are you visiting TES in Prague? &lpar;2023&rpar; Let&#39;s collaborate!](https://afflift.com/f/threads/are-you-visiting-tes-in-prague-2023-lets-collaborate.11499/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
