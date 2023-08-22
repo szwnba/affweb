@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  22 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  22 [ZeroPark Follow Along - Optimize My Way to Success?](https://afflift.com/f/threads/zeropark-follow-along-optimize-my-way-to-success.11496/)
+-  22 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
+-  22 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  22 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)
+-  22 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  22 [Top 3 Approaches to Gambling Ad Creatives That Convert Well in Push Notifications Targeting Brazil](https://afflift.com/f/threads/top-3-approaches-to-gambling-ad-creatives-that-convert-well-in-push-notifications-targeting-brazil.11502/)
 -  22 [SelfAdvertiser , Voluum , PIN Submit 💰💰](https://afflift.com/f/threads/selfadvertiser-voluum-pin-submit-%F0%9F%92%B0%F0%9F%92%B0.10690/)
 -  22 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  22 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  22 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
 -  22 [ROI-FOCUSED SOCIAL MEDIA TRAFFIC | GREAT VOLUMES FOR ANY GEO | QUALITY YOUTUBE VIEWS](https://afflift.com/f/threads/roi-focused-social-media-traffic-great-volumes-for-any-geo-quality-youtube-views.11186/)
--  22 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)
--  22 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  22 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  22 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  22 [Tracker recommendation](https://afflift.com/f/threads/tracker-recommendation.11343/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
