@@ -20,9 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
+-  22 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
 -  22 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  22 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
--  22 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
 -  22 [Some thing I noticed the other day about CPVlab - Google Certified](https://afflift.com/f/threads/some-thing-i-noticed-the-other-day-about-cpvlab-google-certified.11495/)
 -  22 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  22 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
@@ -30,8 +31,7 @@
 -  21 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
 -  21 [Hold tight: CPV One - the soon to be number one cloud based tracker is on for a fast lap :&rpar;](https://afflift.com/f/threads/hold-tight-cpv-one-the-soon-to-be-number-one-cloud-based-tracker-is-on-for-a-fast-lap.10731/)
 -  21 [Success / Failure Stories](https://afflift.com/f/threads/success-failure-stories.6938/)
--  21 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
--  21 [Google ads tracking with maxconv and voluum.](https://afflift.com/f/threads/google-ads-tracking-with-maxconv-and-voluum.11483/)<!-- afflift:END -->
+-  21 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
