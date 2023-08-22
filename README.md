@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [派早报：国区 Skype for Business 停运，QQ 客户端存在漏洞等](https://sspai.com/post/82272)
 -  21 [[评论送码] Context 众筹：搭建你的个人英语「语境库」](https://sspai.com/post/82252)
 -  21 [派评 | 近期值得关注的 App](https://sspai.com/post/82255)
 -  21 [国产热门 3A 大作举行线下试玩：《黑神话：悟空》玩起来怎么样？](https://sspai.com/post/82244)
--  21 [Matrix Talk | 不吝想法和创意：聊聊我们收到的七夕礼物](https://sspai.com/post/82234)
--  21 [日本浮生录 02：漫步北九州，感受自然和人文之美](https://sspai.com/post/82037)<!-- sspai:END -->
+-  21 [Matrix Talk | 不吝想法和创意：聊聊我们收到的七夕礼物](https://sspai.com/post/82234)<!-- sspai:END -->
