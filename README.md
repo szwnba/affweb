@@ -11,10 +11,7 @@
 ### advertcn
 <!-- advertcn:START -->
 -  21 [没想到那么多人私信我](https://www.advertcn.com/forum.php?mod=viewthread&tid=111737)
--  21 [求问：那些培训里，截图软件截图后的图片置顶显示在桌.....](https://www.advertcn.com/forum.php?mod=viewthread&tid=111735)
--  21 [广告联盟lead视频教程谁有？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111730)
--  21 [刚知道米是什么意思的新人报道](https://www.advertcn.com/forum.php?mod=viewthread&tid=111728)
--  21 [关于肉身香港开户的一些问题，请教下各位大佬](https://www.advertcn.com/forum.php?mod=viewthread&tid=111727)<!-- advertcn:END -->
+-  21 [求问：那些培训里，截图软件截图后的图片置顶显示在桌.....](https://www.advertcn.com/forum.php?mod=viewthread&tid=111735)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
