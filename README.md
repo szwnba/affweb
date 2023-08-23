@@ -21,8 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
+-  23 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
+-  23 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  23 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  23 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
 -  23 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  23 [Intermediate Survey Guide | Follow Along | Aug 2023](https://afflift.com/f/threads/intermediate-survey-guide-follow-along-aug-2023.11467/)
 -  23 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
@@ -30,9 +32,7 @@
 -  23 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  23 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
 -  23 [Tracking ZoneIDs Across Multiple Campaigns](https://afflift.com/f/threads/tracking-zoneids-across-multiple-campaigns.9447/)
--  23 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/)
--  23 [Meet Mondiad at TES Prague 2023!](https://afflift.com/f/threads/meet-mondiad-at-tes-prague-2023.11504/)
--  23 [Meet Adsterra&#39;s Experts at SiGMA Balkans 2023!🔥](https://afflift.com/f/threads/meet-adsterras-experts-at-sigma-balkans-2023-%F0%9F%94%A5.11503/)<!-- afflift:END -->
+-  23 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
