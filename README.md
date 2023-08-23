@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  23 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  23 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)
 -  23 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
@@ -31,8 +32,7 @@
 -  22 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  22 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/)
 -  22 [Zeyoo Survey + Galaksion CPA = PROFIT ???](https://afflift.com/f/threads/zeyoo-survey-galaksion-cpa-profit.10574/)
--  22 [Revcontent Desktop RON + Clickbank VSL](https://afflift.com/f/threads/revcontent-desktop-ron-clickbank-vsl.11486/)
--  22 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)<!-- afflift:END -->
+-  22 [Revcontent Desktop RON + Clickbank VSL](https://afflift.com/f/threads/revcontent-desktop-ron-clickbank-vsl.11486/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
