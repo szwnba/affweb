@@ -21,6 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
+-  23 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  23 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
+-  23 [Intermediate Survey Guide | Follow Along | Aug 2023](https://afflift.com/f/threads/intermediate-survey-guide-follow-along-aug-2023.11467/)
 -  23 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
 -  23 [ClickDealer Showcase - The Best Offers for Your Email Campaigns](https://afflift.com/f/threads/clickdealer-showcase-the-best-offers-for-your-email-campaigns.11505/)
 -  23 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
@@ -28,11 +32,7 @@
 -  23 [Tracking ZoneIDs Across Multiple Campaigns](https://afflift.com/f/threads/tracking-zoneids-across-multiple-campaigns.9447/)
 -  23 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/)
 -  23 [Meet Mondiad at TES Prague 2023!](https://afflift.com/f/threads/meet-mondiad-at-tes-prague-2023.11504/)
--  23 [Meet Adsterra&#39;s Experts at SiGMA Balkans 2023!🔥](https://afflift.com/f/threads/meet-adsterras-experts-at-sigma-balkans-2023-%F0%9F%94%A5.11503/)
--  23 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  23 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  23 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  23 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)<!-- afflift:END -->
+-  23 [Meet Adsterra&#39;s Experts at SiGMA Balkans 2023!🔥](https://afflift.com/f/threads/meet-adsterras-experts-at-sigma-balkans-2023-%F0%9F%94%A5.11503/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
