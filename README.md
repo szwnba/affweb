@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
 -  23 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
 -  23 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  23 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
@@ -31,8 +32,7 @@
 -  23 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  23 [Intermediate Survey Guide | Follow Along | Aug 2023](https://afflift.com/f/threads/intermediate-survey-guide-follow-along-aug-2023.11467/)
 -  23 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
--  23 [ClickDealer Showcase - The Best Offers for Your Email Campaigns](https://afflift.com/f/threads/clickdealer-showcase-the-best-offers-for-your-email-campaigns.11505/)
--  23 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)<!-- afflift:END -->
+-  23 [ClickDealer Showcase - The Best Offers for Your Email Campaigns](https://afflift.com/f/threads/clickdealer-showcase-the-best-offers-for-your-email-campaigns.11505/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
