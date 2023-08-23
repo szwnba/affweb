@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
+-  23 [ClickDealer Showcase - The Best Offers for Your Email Campaigns](https://afflift.com/f/threads/clickdealer-showcase-the-best-offers-for-your-email-campaigns.11505/)
 -  23 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  23 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
 -  23 [Tracking ZoneIDs Across Multiple Campaigns](https://afflift.com/f/threads/tracking-zoneids-across-multiple-campaigns.9447/)
@@ -30,9 +32,7 @@
 -  23 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  23 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  23 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  23 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)
--  23 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
--  23 [ZeroPark Follow Along - Optimize My Way to Success?](https://afflift.com/f/threads/zeropark-follow-along-optimize-my-way-to-success.11496/)<!-- afflift:END -->
+-  23 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
