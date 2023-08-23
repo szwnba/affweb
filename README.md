@@ -22,6 +22,7 @@
 ### afflift
 <!-- afflift:START -->
 -  23 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
+-  23 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)
 -  23 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  23 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  23 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
@@ -31,8 +32,7 @@
 -  23 [ClickDealer Showcase - The Best Offers for Your Email Campaigns](https://afflift.com/f/threads/clickdealer-showcase-the-best-offers-for-your-email-campaigns.11505/)
 -  23 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  23 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
--  23 [Tracking ZoneIDs Across Multiple Campaigns](https://afflift.com/f/threads/tracking-zoneids-across-multiple-campaigns.9447/)
--  23 [Mondiad - Global Ad Network specialized in Push and Native ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-and-native-ads-%F0%9F%8E%81-bonus-inside.8789/)<!-- afflift:END -->
+-  23 [Tracking ZoneIDs Across Multiple Campaigns](https://afflift.com/f/threads/tracking-zoneids-across-multiple-campaigns.9447/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
