@@ -10,8 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  23 [悬赏令](https://www.advertcn.com/forum.php?mod=viewthread&tid=111764)
--  23 [看到个国外导购站,做的挺好。 他的内容就类似国内的什么...](https://www.advertcn.com/forum.php?mod=viewthread&tid=111757)<!-- advertcn:END -->
+-  23 [关于猫贝贝的补充资料](https://www.advertcn.com/forum.php?mod=viewthread&tid=111773)
+-  23 [某mediabuy教程居然是错的](https://www.advertcn.com/forum.php?mod=viewthread&tid=111768)
+-  23 [各位大佬请教一下，没有香港卡怎么从香港券商出金的？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111765)
+-  23 [悬赏令](https://www.advertcn.com/forum.php?mod=viewthread&tid=111764)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
