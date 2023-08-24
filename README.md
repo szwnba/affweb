@@ -24,6 +24,7 @@
 ### afflift
 <!-- afflift:START -->
 -  24 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
+-  24 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  24 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
 -  24 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  24 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
@@ -33,8 +34,7 @@
 -  24 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
 -  24 [Step 11 - Relaunch Campaign](https://afflift.com/f/threads/step-11-relaunch-campaign.7482/)
 -  24 [Intermediate Survey Guide | Follow Along | Aug 2023](https://afflift.com/f/threads/intermediate-survey-guide-follow-along-aug-2023.11467/)
--  24 [Affigs: Direct advertiser in dating with 50+ in-house programs | Upto $20/PPL | Join now and get $100 bonus.](https://afflift.com/f/threads/affigs-direct-advertiser-in-dating-with-50-in-house-programs-upto-20-ppl-join-now-and-get-100-bonus.11506/)
--  24 [What are your tricks to avoid fees during balance replenishment in ad networks?](https://afflift.com/f/threads/what-are-your-tricks-to-avoid-fees-during-balance-replenishment-in-ad-networks.11465/)<!-- afflift:END -->
+-  24 [Affigs: Direct advertiser in dating with 50+ in-house programs | Upto $20/PPL | Join now and get $100 bonus.](https://afflift.com/f/threads/affigs-direct-advertiser-in-dating-with-50-in-house-programs-upto-20-ppl-join-now-and-get-100-bonus.11506/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
