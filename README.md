@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
+-  24 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
 -  24 [Step 11 - Relaunch Campaign](https://afflift.com/f/threads/step-11-relaunch-campaign.7482/)
 -  24 [Intermediate Survey Guide | Follow Along | Aug 2023](https://afflift.com/f/threads/intermediate-survey-guide-follow-along-aug-2023.11467/)
 -  24 [Affigs: Direct advertiser in dating with 50+ in-house programs | Upto $20/PPL | Join now and get $100 bonus.](https://afflift.com/f/threads/affigs-direct-advertiser-in-dating-with-50-in-house-programs-upto-20-ppl-join-now-and-get-100-bonus.11506/)
@@ -32,9 +34,7 @@
 -  24 [FACEBOOK ADS ACCOUNT FOR RENT - HIGH SPEND LIMIT DAILY 250$, 1500$ and NOLIMIT, ✔️ BLUE STICKER PAGE ✔️ ▶️▶️▶️ Support 24/7, Accept BH,WH,GH ◀️◀️◀️](https://afflift.com/f/threads/facebook-ads-account-for-rent-high-spend-limit-daily-250-1500-and-nolimit-%E2%9C%94%EF%B8%8F-blue-sticker-page-%E2%9C%94%EF%B8%8F-%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F-support-24-7-accept-bh-wh-gh-%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F.11267/)
 -  24 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  24 [FREE TEST⚡200M+IPS HTTP/SOCKS5 Residential Proxy⚡Join Lunaproxy and receive up to 10% cash prize🎁](https://afflift.com/f/threads/free-test%E2%9A%A1200m-ips-http-socks5-residential-proxy%E2%9A%A1join-lunaproxy-and-receive-up-to-10-cash-prize%F0%9F%8E%81.11064/)
--  23 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
--  23 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
--  23 [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)<!-- afflift:END -->
+-  23 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
