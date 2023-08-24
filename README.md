@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [一日一技 | 一键把 Zotero 摘录以特定格式粘贴到 Obsidian](https://sspai.com/post/82279)
 -  24 [用词句堆出来的用户体验：谈 app 文案的细节斟酌](https://sspai.com/post/82145)
 -  24 [普通人选车如何避坑？这是我的选配心得](https://sspai.com/post/82249)
 -  24 [派早报：骁龙推出 G 系列处理器、GPT-3.5 Turbo 支持微调等](https://sspai.com/post/82370)
