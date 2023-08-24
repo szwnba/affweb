@@ -10,10 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  23 [关于猫贝贝的补充资料](https://www.advertcn.com/forum.php?mod=viewthread&tid=111773)
--  23 [某mediabuy教程居然是错的](https://www.advertcn.com/forum.php?mod=viewthread&tid=111768)
--  23 [各位大佬请教一下，没有香港卡怎么从香港券商出金的？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111765)
--  23 [悬赏令](https://www.advertcn.com/forum.php?mod=viewthread&tid=111764)<!-- advertcn:END -->
+-  24 [要300刀开户费的华美银行值得冲吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111786)
+-  24 [有办法直接跳到AMAZON吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111782)
+-  24 [求一份adwords行业高价关键词](https://www.advertcn.com/forum.php?mod=viewthread&tid=111777)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
