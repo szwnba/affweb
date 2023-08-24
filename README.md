@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [FACEBOOK ADS ACCOUNT FOR RENT - HIGH SPEND LIMIT DAILY 250$, 1500$ and NOLIMIT, ✔️ BLUE STICKER PAGE ✔️ ▶️▶️▶️ Support 24/7, Accept BH,WH,GH ◀️◀️◀️](https://afflift.com/f/threads/facebook-ads-account-for-rent-high-spend-limit-daily-250-1500-and-nolimit-%E2%9C%94%EF%B8%8F-blue-sticker-page-%E2%9C%94%EF%B8%8F-%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F-support-24-7-accept-bh-wh-gh-%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F.11267/)
 -  24 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  24 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  24 [FREE TEST⚡200M+IPS HTTP/SOCKS5 Residential Proxy⚡Join Lunaproxy and receive up to 10% cash prize🎁](https://afflift.com/f/threads/free-test%E2%9A%A1200m-ips-http-socks5-residential-proxy%E2%9A%A1join-lunaproxy-and-receive-up-to-10-cash-prize%F0%9F%8E%81.11064/)
@@ -33,8 +34,7 @@
 -  23 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
 -  23 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  23 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
--  23 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)
--  23 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)<!-- afflift:END -->
+-  23 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
