@@ -40,5 +40,4 @@
 <!-- sspai:START -->
 -  24 [普通人选车如何避坑？这是我的选配心得](https://sspai.com/post/82249)
 -  24 [派早报：骁龙推出 G 系列处理器、GPT-3.5 Turbo 支持微调等](https://sspai.com/post/82370)
--  23 [近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总](https://sspai.com/post/82360)
--  23 [vivo X90s 体验：一次胶片与质感色彩的预演](https://sspai.com/post/82336)<!-- sspai:END -->
+-  23 [近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总](https://sspai.com/post/82360)<!-- sspai:END -->
