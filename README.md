@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Step 11 - Relaunch Campaign](https://afflift.com/f/threads/step-11-relaunch-campaign.7482/)
+-  24 [Intermediate Survey Guide | Follow Along | Aug 2023](https://afflift.com/f/threads/intermediate-survey-guide-follow-along-aug-2023.11467/)
 -  24 [Affigs: Direct advertiser in dating with 50+ in-house programs | Upto $20/PPL | Join now and get $100 bonus.](https://afflift.com/f/threads/affigs-direct-advertiser-in-dating-with-50-in-house-programs-upto-20-ppl-join-now-and-get-100-bonus.11506/)
 -  24 [What are your tricks to avoid fees during balance replenishment in ad networks?](https://afflift.com/f/threads/what-are-your-tricks-to-avoid-fees-during-balance-replenishment-in-ad-networks.11465/)
 -  24 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
@@ -32,9 +34,7 @@
 -  24 [FREE TEST⚡200M+IPS HTTP/SOCKS5 Residential Proxy⚡Join Lunaproxy and receive up to 10% cash prize🎁](https://afflift.com/f/threads/free-test%E2%9A%A1200m-ips-http-socks5-residential-proxy%E2%9A%A1join-lunaproxy-and-receive-up-to-10-cash-prize%F0%9F%8E%81.11064/)
 -  23 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  23 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
--  23 [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
--  23 [What&#39;s your longest server uptime?](https://afflift.com/f/threads/whats-your-longest-server-uptime.11482/)
--  23 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  23 [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
