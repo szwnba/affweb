@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  23 [近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总](https://sspai.com/post/82360)
 -  23 [vivo X90s 体验：一次胶片与质感色彩的预演](https://sspai.com/post/82336)
--  23 [屏幕使用时间超标？也许本文可以帮你](https://sspai.com/post/82138)
--  23 [派早报：Beats Studio Buds + 推出新配色、英伟达发布 DLSS 3.5 等](https://sspai.com/post/82324)<!-- sspai:END -->
+-  23 [屏幕使用时间超标？也许本文可以帮你](https://sspai.com/post/82138)<!-- sspai:END -->
