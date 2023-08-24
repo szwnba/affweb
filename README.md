@@ -23,9 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  24 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  24 [FACEBOOK ADS ACCOUNT FOR RENT - HIGH SPEND LIMIT DAILY 250$, 1500$ and NOLIMIT, ✔️ BLUE STICKER PAGE ✔️ ▶️▶️▶️ Support 24/7, Accept BH,WH,GH ◀️◀️◀️](https://afflift.com/f/threads/facebook-ads-account-for-rent-high-spend-limit-daily-250-1500-and-nolimit-%E2%9C%94%EF%B8%8F-blue-sticker-page-%E2%9C%94%EF%B8%8F-%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F-support-24-7-accept-bh-wh-gh-%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F.11267/)
--  24 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  24 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  24 [FREE TEST⚡200M+IPS HTTP/SOCKS5 Residential Proxy⚡Join Lunaproxy and receive up to 10% cash prize🎁](https://afflift.com/f/threads/free-test%E2%9A%A1200m-ips-http-socks5-residential-proxy%E2%9A%A1join-lunaproxy-and-receive-up-to-10-cash-prize%F0%9F%8E%81.11064/)
 -  23 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
