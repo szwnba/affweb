@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Going Direct With Advertiser&#39;s](https://afflift.com/f/threads/going-direct-with-advertisers.11453/)
 -  24 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  24 [Testing a Higher Payout Pop Campaign on Propeller.](https://afflift.com/f/threads/testing-a-higher-payout-pop-campaign-on-propeller.11509/)
 -  24 [ProPush In-App Redirection &lpar;New feature&rpar;](https://afflift.com/f/threads/propush-in-app-redirection-new-feature.11508/)
@@ -32,8 +33,7 @@
 -  24 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  24 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  24 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
--  24 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  24 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)<!-- afflift:END -->
+-  24 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
