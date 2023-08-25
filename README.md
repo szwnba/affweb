@@ -10,9 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  24 [要300刀开户费的华美银行值得冲吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111786)
--  24 [有办法直接跳到AMAZON吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111782)
--  24 [求一份adwords行业高价关键词](https://www.advertcn.com/forum.php?mod=viewthread&tid=111777)<!-- advertcn:END -->
+-  25 [探讨网站如何快速被google收录](https://www.advertcn.com/forum.php?mod=viewthread&tid=111798)
+-  25 [知名云存储服务商 Backblaze 调整存储和流量费用策略](https://www.advertcn.com/forum.php?mod=viewthread&tid=111797)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
