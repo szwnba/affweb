@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [FPTraffic - Social Media Marketing Tool](https://afflift.com/f/threads/fptraffic-social-media-marketing-tool.10877/)
 -  25 [Testing a Higher Payout Pop Campaign on Propeller.](https://afflift.com/f/threads/testing-a-higher-payout-pop-campaign-on-propeller.11509/)
 -  25 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  25 [Global postback PHP script &lpar;with 🔥 500 000 free tracker events&rpar;](https://afflift.com/f/threads/global-postback-php-script-with-%F0%9F%94%A5-500-000-free-tracker-events.11512/)
@@ -31,8 +32,7 @@
 -  25 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
 -  25 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  25 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
--  25 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  25 [🔔 In Page Push Traffic Sources](https://afflift.com/f/threads/%F0%9F%94%94-in-page-push-traffic-sources.11395/)<!-- afflift:END -->
+-  25 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
