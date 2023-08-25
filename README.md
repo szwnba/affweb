@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [入华 30 周年之际，我们参观了 Apple 智惠教育中心](https://sspai.com/post/82407)
 -  25 [为表格打开新天地：Excel Python 整合上手体验](https://sspai.com/post/82426)
 -  25 [接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？](https://sspai.com/post/82268)
 -  25 [派早报：Apple 支持加州维修权法案、Epic 宣布独占首发游戏计划](https://sspai.com/post/82416)<!-- sspai:END -->
