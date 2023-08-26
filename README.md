@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  26 [Google Search Console站点地图问题请教](https://www.advertcn.com/forum.php?mod=viewthread&tid=111819)
 -  25 [新联盟招聘有经验人士加盟](https://www.advertcn.com/forum.php?mod=viewthread&tid=111817)<!-- advertcn:END -->
 
 ### zhihu
