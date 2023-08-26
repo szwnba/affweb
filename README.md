@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [程序员应该知道的常识，我认为有这 5 个](https://sspai.com/post/82286)
 -  25 [网页直接标注：工具比较与使用技巧](https://sspai.com/prime/story/web-annotators-compared)
 -  25 [本周看什么 | 最近值得一看的一大坛作品](https://sspai.com/post/82430)
 -  25 [入华 30 周年之际，我们参观了 Apple 智惠教育中心](https://sspai.com/post/82407)
--  25 [为表格打开新天地：Excel Python 整合上手体验](https://sspai.com/post/82426)
--  25 [接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？](https://sspai.com/post/82268)<!-- sspai:END -->
+-  25 [为表格打开新天地：Excel Python 整合上手体验](https://sspai.com/post/82426)<!-- sspai:END -->
