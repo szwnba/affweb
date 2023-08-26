@@ -27,10 +27,7 @@
 -  26 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  25 [FPTraffic - Social Media Marketing Tool](https://afflift.com/f/threads/fptraffic-social-media-marketing-tool.10877/)
 -  25 [Testing a Higher Payout Pop Campaign on Propeller.](https://afflift.com/f/threads/testing-a-higher-payout-pop-campaign-on-propeller.11509/)
--  25 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  25 [Global postback PHP script &lpar;with 🔥 500 000 free tracker events&rpar;](https://afflift.com/f/threads/global-postback-php-script-with-%F0%9F%94%A5-500-000-free-tracker-events.11512/)
--  25 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
--  25 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)<!-- afflift:END -->
+-  25 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
