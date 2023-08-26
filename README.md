@@ -35,5 +35,4 @@
 <!-- sspai:START -->
 -  26 [内容的未来，是广告还是用户付费？](https://sspai.com/post/82309)
 -  26 [播客 | 对话老麦：请回答什么是少数派的下一个十年](https://sspai.com/post/82453)
--  26 [程序员应该知道的常识，我认为有这 5 个](https://sspai.com/post/82286)
--  25 [网页直接标注：工具比较与使用技巧](https://sspai.com/prime/story/web-annotators-compared)<!-- sspai:END -->
+-  26 [程序员应该知道的常识，我认为有这 5 个](https://sspai.com/post/82286)<!-- sspai:END -->
