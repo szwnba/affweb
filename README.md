@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  26 [Testing a Higher Payout Pop Campaign on Propeller.](https://afflift.com/f/threads/testing-a-higher-payout-pop-campaign-on-propeller.11509/)
 -  26 [A tracking problem....I can&#39;t figure this out](https://afflift.com/f/threads/a-tracking-problem-i-cant-figure-this-out.11513/)
 -  26 [Global postback PHP script &lpar;with 🔥 500 000 free tracker events&rpar;](https://afflift.com/f/threads/global-postback-php-script-with-%F0%9F%94%A5-500-000-free-tracker-events.11512/)
