@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  25 [探讨网站如何快速被google收录](https://www.advertcn.com/forum.php?mod=viewthread&tid=111798)
--  25 [知名云存储服务商 Backblaze 调整存储和流量费用策略](https://www.advertcn.com/forum.php?mod=viewthread&tid=111797)<!-- advertcn:END -->
+-  25 [新联盟招聘有经验人士加盟](https://www.advertcn.com/forum.php?mod=viewthread&tid=111817)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
