@@ -34,5 +34,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [这 8 件别人眼中的「电子垃圾」，是我手中的宝贝](https://sspai.com/post/82436)
 -  26 [内容的未来，是广告还是用户付费？](https://sspai.com/post/82309)
 -  26 [播客 | 对话老麦：请回答什么是少数派的下一个十年](https://sspai.com/post/82453)<!-- sspai:END -->
