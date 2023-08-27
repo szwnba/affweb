@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  27 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
 -  27 [How to improve the loading speed of mobile web pages?](https://afflift.com/f/threads/how-to-improve-the-loading-speed-of-mobile-web-pages.11515/)
 -  27 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
