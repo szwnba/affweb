@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [How to improve the loading speed of mobile web pages?](https://afflift.com/f/threads/how-to-improve-the-loading-speed-of-mobile-web-pages.11515/)
 -  27 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  27 [Need Help In Choosing a Domain Name](https://afflift.com/f/threads/need-help-in-choosing-a-domain-name.11514/)
 -  26 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
