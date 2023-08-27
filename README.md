@@ -27,8 +27,7 @@
 -  26 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  26 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  26 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  26 [Testing a Higher Payout Pop Campaign on Propeller.](https://afflift.com/f/threads/testing-a-higher-payout-pop-campaign-on-propeller.11509/)
--  26 [A tracking problem....I can&#39;t figure this out](https://afflift.com/f/threads/a-tracking-problem-i-cant-figure-this-out.11513/)<!-- afflift:END -->
+-  26 [Testing a Higher Payout Pop Campaign on Propeller.](https://afflift.com/f/threads/testing-a-higher-payout-pop-campaign-on-propeller.11509/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
