@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  26 [Google Search Console站点地图问题请教](https://www.advertcn.com/forum.php?mod=viewthread&tid=111819)
--  25 [新联盟招聘有经验人士加盟](https://www.advertcn.com/forum.php?mod=viewthread&tid=111817)<!-- advertcn:END -->
+-  26 [小白问题：卖流量的流量主为什么不自己挂广告？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111827)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
