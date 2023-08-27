@@ -21,17 +21,16 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Need Help In Choosing a Domain Name](https://afflift.com/f/threads/need-help-in-choosing-a-domain-name.11514/)
 -  27 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  26 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  26 [Need Help In Choosing a Domain Name](https://afflift.com/f/threads/need-help-in-choosing-a-domain-name.11514/)
 -  26 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  26 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  26 [Testing a Higher Payout Pop Campaign on Propeller.](https://afflift.com/f/threads/testing-a-higher-payout-pop-campaign-on-propeller.11509/)
 -  26 [A tracking problem....I can&#39;t figure this out](https://afflift.com/f/threads/a-tracking-problem-i-cant-figure-this-out.11513/)
 -  26 [Global postback PHP script &lpar;with 🔥 500 000 free tracker events&rpar;](https://afflift.com/f/threads/global-postback-php-script-with-%F0%9F%94%A5-500-000-free-tracker-events.11512/)
 -  26 [🔥 Galaksion Pops with Zeydoo 🖥️ Desktop Survey offer ⚡](https://afflift.com/f/threads/%F0%9F%94%A5-galaksion-pops-with-zeydoo-%F0%9F%96%A5%EF%B8%8F-desktop-survey-offer-%E2%9A%A1.11285/)
--  26 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
--  26 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)<!-- afflift:END -->
+-  26 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
