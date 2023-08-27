@@ -27,8 +27,7 @@
 -  27 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  27 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  27 [Need Help In Choosing a Domain Name](https://afflift.com/f/threads/need-help-in-choosing-a-domain-name.11514/)
--  26 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  26 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)<!-- afflift:END -->
+-  26 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
