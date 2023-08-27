@@ -33,4 +33,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [科隆游戏展札记：最中国的悟空，最纯粹的快乐](https://sspai.com/post/82466)
 -  27 [这 8 件别人眼中的「电子垃圾」，是我手中的宝贝](https://sspai.com/post/82436)<!-- sspai:END -->
