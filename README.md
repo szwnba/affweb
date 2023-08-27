@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  26 [小白问题：卖流量的流量主为什么不自己挂广告？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111827)<!-- advertcn:END -->
+-  27 [玩露营玩到极致，拍视频也能赚很多钱，如果是美女就......](https://www.advertcn.com/forum.php?mod=viewthread&tid=111834)
+-  27 [Clickbank 注册的问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=111832)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
