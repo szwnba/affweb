@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  28 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
 -  28 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  28 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
 -  28 [Test the speed of my Tracker](https://afflift.com/f/threads/test-the-speed-of-my-tracker.11518/)
@@ -33,9 +35,7 @@
 -  28 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  28 [Need Help In Choosing a Domain Name](https://afflift.com/f/threads/need-help-in-choosing-a-domain-name.11514/)
 -  28 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  28 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  28 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
--  28 [Creating whitelists on ClickAdilla and TrafficStars](https://afflift.com/f/threads/creating-whitelists-on-clickadilla-and-trafficstars.9586/)<!-- afflift:END -->
+-  28 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
