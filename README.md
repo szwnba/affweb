@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  28 [Affigs: Direct advertiser in dating with 50+ in-house programs | Upto $20/PPL | Join now and get $100 bonus.](https://afflift.com/f/threads/affigs-direct-advertiser-in-dating-with-50-in-house-programs-upto-20-ppl-join-now-and-get-100-bonus.11506/)
 -  28 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
 -  28 [How to improve the loading speed of mobile web pages?](https://afflift.com/f/threads/how-to-improve-the-loading-speed-of-mobile-web-pages.11515/)
@@ -33,8 +34,7 @@
 -  28 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  28 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  27 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
--  27 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  27 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)<!-- afflift:END -->
+-  27 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
