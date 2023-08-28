@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
+-  28 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
+-  28 [Test the speed of my Tracker](https://afflift.com/f/threads/test-the-speed-of-my-tracker.11518/)
+-  28 [Beware of frequency caps on your traffic network &lpar;here&#39;s why&rpar;](https://afflift.com/f/threads/beware-of-frequency-caps-on-your-traffic-network-heres-why.2972/)
 -  28 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  28 [Affigs: Direct advertiser in dating with 50+ in-house programs | Upto $20/PPL | Join now and get $100 bonus.](https://afflift.com/f/threads/affigs-direct-advertiser-in-dating-with-50-in-house-programs-upto-20-ppl-join-now-and-get-100-bonus.11506/)
 -  28 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  28 [Need Help In Choosing a Domain Name](https://afflift.com/f/threads/need-help-in-choosing-a-domain-name.11514/)
 -  28 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  28 [Test the speed of my Tracker](https://afflift.com/f/threads/test-the-speed-of-my-tracker.11518/)
--  28 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  28 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  28 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
--  28 [Beware of frequency caps on your traffic network &lpar;here&#39;s why&rpar;](https://afflift.com/f/threads/beware-of-frequency-caps-on-your-traffic-network-heres-why.2972/)
--  28 [Creating whitelists on ClickAdilla and TrafficStars](https://afflift.com/f/threads/creating-whitelists-on-clickadilla-and-trafficstars.9586/)
--  28 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  28 [Creating whitelists on ClickAdilla and TrafficStars](https://afflift.com/f/threads/creating-whitelists-on-clickadilla-and-trafficstars.9586/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
