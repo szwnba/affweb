@@ -38,7 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [派评 | 近期值得关注的 App](https://sspai.com/post/82494)
 -  28 [上车聊聊 | 始于颜值，终于省心：蔚来 ET5 Touring 用车体验](https://sspai.com/post/82468)
 -  28 [融合「修饰键」思路，让快捷指令更容易管理](https://sspai.com/post/82166)
--  28 [派早报：数字服务法在欧生效，信安标委发布 AI 内容标识指南](https://sspai.com/post/82469)
--  27 [科隆游戏展札记：最中国的悟空，最纯粹的快乐](https://sspai.com/post/82466)<!-- sspai:END -->
+-  28 [派早报：数字服务法在欧生效，信安标委发布 AI 内容标识指南](https://sspai.com/post/82469)<!-- sspai:END -->
