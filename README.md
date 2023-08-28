@@ -34,5 +34,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [融合「修饰键」思路，让快捷指令更容易管理](https://sspai.com/post/82166)
 -  28 [派早报：数字服务法在欧生效，信安标委发布 AI 内容标识指南](https://sspai.com/post/82469)
 -  27 [科隆游戏展札记：最中国的悟空，最纯粹的快乐](https://sspai.com/post/82466)<!-- sspai:END -->
