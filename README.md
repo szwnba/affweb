@@ -39,6 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [如何用 Zotero 统辖文献管理和学术笔记](https://sspai.com/prime/story/integrated-academic-reading-writing-in-zotero)
 -  28 [派评 | 近期值得关注的 App](https://sspai.com/post/82494)
 -  28 [上车聊聊 | 始于颜值，终于省心：蔚来 ET5 Touring 用车体验](https://sspai.com/post/82468)
 -  28 [融合「修饰键」思路，让快捷指令更容易管理](https://sspai.com/post/82166)
