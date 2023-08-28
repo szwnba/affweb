@@ -24,10 +24,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  28 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)
 -  28 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
 -  28 [Pops + Smart Survey to $xx/day](https://afflift.com/f/threads/pops-smart-survey-to-xx-day.11519/)
--  28 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  28 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  28 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  28 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
