@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  28 [Test the speed of my Tracker](https://afflift.com/f/threads/test-the-speed-of-my-tracker.11518/)
 -  28 [Beware of frequency caps on your traffic network &lpar;here&#39;s why&rpar;](https://afflift.com/f/threads/beware-of-frequency-caps-on-your-traffic-network-heres-why.2972/)
 -  28 [Creating whitelists on ClickAdilla and TrafficStars](https://afflift.com/f/threads/creating-whitelists-on-clickadilla-and-trafficstars.9586/)
@@ -34,8 +35,7 @@
 -  28 [Why aren&#39;t BeMob and PopAds metrics aligned?](https://afflift.com/f/threads/why-arent-bemob-and-popads-metrics-aligned.11435/)
 -  28 [How to improve the loading speed of mobile web pages?](https://afflift.com/f/threads/how-to-improve-the-loading-speed-of-mobile-web-pages.11515/)
 -  28 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
--  28 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
--  28 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  28 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
