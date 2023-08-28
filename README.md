@@ -24,6 +24,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Creating whitelists on ClickAdilla and TrafficStars](https://afflift.com/f/threads/creating-whitelists-on-clickadilla-and-trafficstars.9586/)
+-  28 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  28 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  28 [Beware of frequency caps on your traffic network &lpar;here&#39;s why&rpar;](https://afflift.com/f/threads/beware-of-frequency-caps-on-your-traffic-network-heres-why.2972/)
 -  28 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  28 [Affigs: Direct advertiser in dating with 50+ in-house programs | Upto $20/PPL | Join now and get $100 bonus.](https://afflift.com/f/threads/affigs-direct-advertiser-in-dating-with-50-in-house-programs-upto-20-ppl-join-now-and-get-100-bonus.11506/)
@@ -32,10 +35,7 @@
 -  28 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  28 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
 -  28 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
--  28 [Some thing I noticed the other day about CPVlab - Google Certified](https://afflift.com/f/threads/some-thing-i-noticed-the-other-day-about-cpvlab-google-certified.11495/)
--  28 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
--  28 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  27 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)<!-- afflift:END -->
+-  28 [Some thing I noticed the other day about CPVlab - Google Certified](https://afflift.com/f/threads/some-thing-i-noticed-the-other-day-about-cpvlab-google-certified.11495/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
