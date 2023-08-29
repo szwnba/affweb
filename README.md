@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  29 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  29 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
 -  28 [Test the speed of my Tracker](https://afflift.com/f/threads/test-the-speed-of-my-tracker.11518/)
@@ -34,8 +35,7 @@
 -  28 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  28 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  28 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
--  28 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
--  28 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)<!-- afflift:END -->
+-  28 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
