@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
+-  29 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
 -  29 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
 -  29 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
 -  29 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
@@ -33,9 +35,7 @@
 -  28 [Test the speed of my Tracker](https://afflift.com/f/threads/test-the-speed-of-my-tracker.11518/)
 -  28 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
 -  28 [My Few Months Efforts Into Zeydoo](https://afflift.com/f/threads/my-few-months-efforts-into-zeydoo.11500/)
--  28 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
--  28 [Pops + Smart Survey to $xx/day](https://afflift.com/f/threads/pops-smart-survey-to-xx-day.11519/)
--  28 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)<!-- afflift:END -->
+-  28 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
