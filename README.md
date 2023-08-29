@@ -24,6 +24,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
+-  29 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
+-  29 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  29 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  29 [How to improve the loading speed of mobile web pages?](https://afflift.com/f/threads/how-to-improve-the-loading-speed-of-mobile-web-pages.11515/)
 -  29 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
@@ -32,10 +35,7 @@
 -  29 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  29 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
 -  29 [SOLAR PANELS FOR FRANCE🇫🇷](https://afflift.com/f/threads/solar-panels-for-france%F0%9F%87%AB%F0%9F%87%B7.11520/)
--  29 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
--  29 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
--  29 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
--  29 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)<!-- afflift:END -->
+-  29 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
