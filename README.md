@@ -39,8 +39,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [社区速递 010 | 向大模型提问、软盘的历史以及「冷门」词汇](https://sspai.com/post/82510)
 -  29 [结合语境学英语，这是他们的实践体验](https://sspai.com/post/82490)
 -  29 [Figma 内置的 AI 白板工具：Jambot 小组件上手体验](https://sspai.com/post/82441)
 -  29 [派早报：realme 发布真我 GT5 手机，美团外卖与多家配送服务商达成合作等](https://sspai.com/post/82505)
--  28 [如何用 Zotero 统辖文献管理和学术笔记](https://sspai.com/prime/story/integrated-academic-reading-writing-in-zotero)
--  28 [派评 | 近期值得关注的 App](https://sspai.com/post/82494)<!-- sspai:END -->
+-  28 [如何用 Zotero 统辖文献管理和学术笔记](https://sspai.com/prime/story/integrated-academic-reading-writing-in-zotero)<!-- sspai:END -->
