@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
 -  29 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
+-  29 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
+-  29 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
+-  29 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  29 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+-  29 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  29 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  29 [Automatic ProPush revenue reporting in tracker?](https://afflift.com/f/threads/automatic-propush-revenue-reporting-in-tracker.10905/)
 -  29 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  29 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  29 [How to improve the loading speed of mobile web pages?](https://afflift.com/f/threads/how-to-improve-the-loading-speed-of-mobile-web-pages.11515/)
--  29 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
--  29 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  29 [Track &amp; automate ads with one tool?](https://afflift.com/f/threads/track-automate-ads-with-one-tool.11521/)
--  29 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  29 [PropellerAds huge traffic volume drop](https://afflift.com/f/threads/propellerads-huge-traffic-volume-drop.11516/)
--  29 [SOLAR PANELS FOR FRANCE🇫🇷](https://afflift.com/f/threads/solar-panels-for-france%F0%9F%87%AB%F0%9F%87%B7.11520/)
--  29 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)<!-- afflift:END -->
+-  29 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
