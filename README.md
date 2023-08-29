@@ -39,6 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [Figma 内置的 AI 白板工具：Jambot 小组件上手体验](https://sspai.com/post/82441)
 -  29 [派早报：realme 发布真我 GT5 手机，美团外卖与多家配送服务商达成合作等](https://sspai.com/post/82505)
 -  28 [如何用 Zotero 统辖文献管理和学术笔记](https://sspai.com/prime/story/integrated-academic-reading-writing-in-zotero)
 -  28 [派评 | 近期值得关注的 App](https://sspai.com/post/82494)
