@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Hello from Wisconsin](https://afflift.com/f/threads/hello-from-wisconsin.11529/)
+-  30 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  30 [Introduction](https://afflift.com/f/threads/introduction.11523/)
 -  30 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  30 [Let&#39;s Connect at Webmaster Access 2023!](https://afflift.com/f/threads/lets-connect-at-webmaster-access-2023.11528/)
@@ -33,9 +35,7 @@
 -  30 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  30 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  30 [Push Notifications Today Vs. 30 Years Ago: How This Traffic Format Was Buried But It Came Back Better](https://afflift.com/f/threads/push-notifications-today-vs-30-years-ago-how-this-traffic-format-was-buried-but-it-came-back-better.11525/)
--  30 [Poland with the best conditions](https://afflift.com/f/threads/poland-with-the-best-conditions.10648/)
--  30 [BigSpy, Social SpyTool With Extensive Database.](https://afflift.com/f/threads/bigspy-social-spytool-with-extensive-database.11524/)
--  30 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)<!-- afflift:END -->
+-  30 [Poland with the best conditions](https://afflift.com/f/threads/poland-with-the-best-conditions.10648/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
