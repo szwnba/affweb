@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Social Ad Scout - issue, any suggestion?](https://afflift.com/f/threads/social-ad-scout-issue-any-suggestion.11187/)
 -  30 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  30 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
 -  30 [Best CPA for Movies streaming](https://afflift.com/f/threads/best-cpa-for-movies-streaming.11491/)
@@ -34,8 +35,7 @@
 -  30 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  29 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  29 [Checkout blank page - Sweepstake Vertical](https://afflift.com/f/threads/checkout-blank-page-sweepstake-vertical.10458/)
--  29 [CPL authentic conversion testing](https://afflift.com/f/threads/cpl-authentic-conversion-testing.11407/)
--  29 [Pops + Smart Survey to $xx/day](https://afflift.com/f/threads/pops-smart-survey-to-xx-day.11519/)<!-- afflift:END -->
+-  29 [CPL authentic conversion testing](https://afflift.com/f/threads/cpl-authentic-conversion-testing.11407/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
