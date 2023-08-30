@@ -39,8 +39,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [每个人都需要的「第三方授权登录」查询与解绑指南](https://sspai.com/post/82550)
 -  30 [用三次踩坑经历告诉你，电动牙刷头的「陷阱」并非危言耸听](https://sspai.com/post/81578)
 -  30 [派早报：Apple 发布会将于 9 月 13 日举行、Edge 浏览器将精简功能等](https://sspai.com/post/82543)
 -  29 [开学季三重优惠买栏目：985 快闪礼包，优惠翻倍，还有栏目史低价](https://sspai.com/post/82520)
--  29 [社区速递 010 | 向大模型提问、软盘的历史以及「冷门」词汇](https://sspai.com/post/82510)
--  29 [结合语境学英语，这是他们的实践体验](https://sspai.com/post/82490)<!-- sspai:END -->
+-  29 [社区速递 010 | 向大模型提问、软盘的历史以及「冷门」词汇](https://sspai.com/post/82510)<!-- sspai:END -->
