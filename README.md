@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
+-  30 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  30 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  30 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  30 [Push Notifications Today Vs. 30 Years Ago: How This Traffic Format Was Buried But It Came Back Better](https://afflift.com/f/threads/push-notifications-today-vs-30-years-ago-how-this-traffic-format-was-buried-but-it-came-back-better.11525/)
 -  30 [Poland with the best conditions](https://afflift.com/f/threads/poland-with-the-best-conditions.10648/)
 -  30 [BigSpy, Social SpyTool With Extensive Database.](https://afflift.com/f/threads/bigspy-social-spytool-with-extensive-database.11524/)
 -  30 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  30 [Introduction](https://afflift.com/f/threads/introduction.11523/)
 -  30 [Social Ad Scout - issue, any suggestion?](https://afflift.com/f/threads/social-ad-scout-issue-any-suggestion.11187/)
 -  30 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  30 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
--  30 [Best CPA for Movies streaming](https://afflift.com/f/threads/best-cpa-for-movies-streaming.11491/)
--  30 [ZeroPark Follow Along - Optimize My Way to Success?](https://afflift.com/f/threads/zeropark-follow-along-optimize-my-way-to-success.11496/)
--  30 [SOLAR PANELS FOR FRANCE🇫🇷](https://afflift.com/f/threads/solar-panels-for-france%F0%9F%87%AB%F0%9F%87%B7.11520/)
--  30 [FACEBOOK ADS ACCOUNT FOR RENT - HIGH SPEND LIMIT DAILY 250$, 1500$ and NOLIMIT, ✔️ BLUE STICKER PAGE ✔️ ▶️▶️▶️ Support 24/7, Accept BH,WH,GH ◀️◀️◀️](https://afflift.com/f/threads/facebook-ads-account-for-rent-high-spend-limit-daily-250-1500-and-nolimit-%E2%9C%94%EF%B8%8F-blue-sticker-page-%E2%9C%94%EF%B8%8F-%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F-support-24-7-accept-bh-wh-gh-%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F.11267/)<!-- afflift:END -->
+-  30 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
