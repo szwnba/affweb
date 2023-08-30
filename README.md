@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Join AdsEmpire at TES Prague 2023!](https://afflift.com/f/threads/join-adsempire-at-tes-prague-2023.11526/)
+-  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  30 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  30 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  30 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
@@ -33,9 +35,7 @@
 -  30 [BigSpy, Social SpyTool With Extensive Database.](https://afflift.com/f/threads/bigspy-social-spytool-with-extensive-database.11524/)
 -  30 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  30 [Introduction](https://afflift.com/f/threads/introduction.11523/)
--  30 [Social Ad Scout - issue, any suggestion?](https://afflift.com/f/threads/social-ad-scout-issue-any-suggestion.11187/)
--  30 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  30 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)<!-- afflift:END -->
+-  30 [Social Ad Scout - issue, any suggestion?](https://afflift.com/f/threads/social-ad-scout-issue-any-suggestion.11187/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
