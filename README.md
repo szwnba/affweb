@@ -39,8 +39,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [派早报：Apple 发布会将于 9 月 13 日举行、Edge 浏览器将精简功能等](https://sspai.com/post/82543)
 -  29 [开学季三重优惠买栏目：985 快闪礼包，优惠翻倍，还有栏目史低价](https://sspai.com/post/82520)
 -  29 [社区速递 010 | 向大模型提问、软盘的历史以及「冷门」词汇](https://sspai.com/post/82510)
 -  29 [结合语境学英语，这是他们的实践体验](https://sspai.com/post/82490)
--  29 [Figma 内置的 AI 白板工具：Jambot 小组件上手体验](https://sspai.com/post/82441)
--  29 [派早报：realme 发布真我 GT5 手机，美团外卖与多家配送服务商达成合作等](https://sspai.com/post/82505)<!-- sspai:END -->
+-  29 [Figma 内置的 AI 白板工具：Jambot 小组件上手体验](https://sspai.com/post/82441)<!-- sspai:END -->
