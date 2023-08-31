@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  31 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  30 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  30 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
@@ -34,8 +35,7 @@
 -  30 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  30 [Let&#39;s Connect at Webmaster Access 2023!](https://afflift.com/f/threads/lets-connect-at-webmaster-access-2023.11528/)
 -  30 [The Influence of Google Reviews for Casino Brands: Leveraging Customer Feedback for Success](https://afflift.com/f/threads/the-influence-of-google-reviews-for-casino-brands-leveraging-customer-feedback-for-success.11527/)
--  30 [Join AdsEmpire at TES Prague 2023!](https://afflift.com/f/threads/join-adsempire-at-tes-prague-2023.11526/)
--  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  30 [Join AdsEmpire at TES Prague 2023!](https://afflift.com/f/threads/join-adsempire-at-tes-prague-2023.11526/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
