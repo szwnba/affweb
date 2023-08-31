@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [ice offers is scammer](https://afflift.com/f/threads/ice-offers-is-scammer.11535/)
 -  31 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
 -  31 [BigSpy, Social SpyTool With Extensive Database.](https://afflift.com/f/threads/bigspy-social-spytool-with-extensive-database.11524/)
 -  31 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
@@ -34,8 +35,7 @@
 -  31 [Hello from Wisconsin](https://afflift.com/f/threads/hello-from-wisconsin.11529/)
 -  31 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
 -  31 [Wanted!! converting High Ticket Offers](https://afflift.com/f/threads/wanted-converting-high-ticket-offers.11534/)
--  31 [Monetizer Has Higher Payout?](https://afflift.com/f/threads/monetizer-has-higher-payout.11488/)
--  31 [🚨 Landerlab Just Dropped a Huge Update and You&#39;re Gonna Love It!](https://afflift.com/f/threads/%F0%9F%9A%A8-landerlab-just-dropped-a-huge-update-and-youre-gonna-love-it.11530/)<!-- afflift:END -->
+-  31 [Monetizer Has Higher Payout?](https://afflift.com/f/threads/monetizer-has-higher-payout.11488/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
