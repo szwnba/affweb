@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Hello from Wisconsin](https://afflift.com/f/threads/hello-from-wisconsin.11529/)
 -  31 [Telega.io — ultimate telegram advertising platform](https://afflift.com/f/threads/telega-io-%E2%80%94-ultimate-telegram-advertising-platform.11531/)
 -  31 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  31 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
@@ -31,7 +32,6 @@
 -  31 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  30 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  30 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
--  30 [Hello from Wisconsin](https://afflift.com/f/threads/hello-from-wisconsin.11529/)
 -  30 [Introduction](https://afflift.com/f/threads/introduction.11523/)
 -  30 [🚨 Landerlab Just Dropped a Huge Update and You&#39;re Gonna Love It!](https://afflift.com/f/threads/%F0%9F%9A%A8-landerlab-just-dropped-a-huge-update-and-youre-gonna-love-it.11530/)
 -  30 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
