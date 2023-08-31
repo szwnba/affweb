@@ -39,6 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [派早报：SDC23 大会时间确认、PS Plus 上调订阅价等](https://sspai.com/post/82574)
 -  30 [利用位置记忆技巧提高生活和工作效率，这是我的心得](https://sspai.com/post/81586)
 -  30 [每个人都需要的「第三方授权登录」查询与解绑指南](https://sspai.com/post/82550)
 -  30 [用三次踩坑经历告诉你，电动牙刷头的「陷阱」并非危言耸听](https://sspai.com/post/81578)<!-- sspai:END -->
