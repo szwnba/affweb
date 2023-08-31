@@ -39,6 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [新玩意 159｜少数派的编辑们最近买了啥？](https://sspai.com/post/82575)
 -  31 [一次省心的装修体验：我选择了宜家全屋设计服务](https://sspai.com/post/82584)
 -  31 [导出多年微信聊天记录，我用可视化分析了出自己的口头禅](https://sspai.com/post/82577)
 -  31 [派早报：SDC23 大会时间确认、PS Plus 上调订阅价等](https://sspai.com/post/82574)<!-- sspai:END -->
