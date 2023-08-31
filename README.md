@@ -39,6 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [一次省心的装修体验：我选择了宜家全屋设计服务](https://sspai.com/post/82584)
 -  31 [导出多年微信聊天记录，我用可视化分析了出自己的口头禅](https://sspai.com/post/82577)
 -  31 [派早报：SDC23 大会时间确认、PS Plus 上调订阅价等](https://sspai.com/post/82574)
 -  30 [利用位置记忆技巧提高生活和工作效率，这是我的心得](https://sspai.com/post/81586)<!-- sspai:END -->
