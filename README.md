@@ -24,6 +24,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
+-  31 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  31 [Monetizer Has Higher Payout?](https://afflift.com/f/threads/monetizer-has-higher-payout.11488/)
 -  31 [Join AdsEmpire at TES Prague 2023!](https://afflift.com/f/threads/join-adsempire-at-tes-prague-2023.11526/)
 -  31 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/)
 -  31 [Telega.io — ultimate telegram advertising platform](https://afflift.com/f/threads/telega-io-%E2%80%94-ultimate-telegram-advertising-platform.11531/)
@@ -32,10 +35,7 @@
 -  31 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  31 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  31 [🚨 Landerlab Just Dropped a Huge Update and You&#39;re Gonna Love It!](https://afflift.com/f/threads/%F0%9F%9A%A8-landerlab-just-dropped-a-huge-update-and-youre-gonna-love-it.11530/)
--  31 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
--  31 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
--  31 [Track &amp; automate ads with one tool?](https://afflift.com/f/threads/track-automate-ads-with-one-tool.11521/)
--  31 [Looking For Help Setting Up URLs in Monetizer and Binom](https://afflift.com/f/threads/looking-for-help-setting-up-urls-in-monetizer-and-binom.4294/)<!-- afflift:END -->
+-  31 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
