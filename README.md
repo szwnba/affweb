@@ -41,5 +41,4 @@
 <!-- sspai:START -->
 -  30 [利用位置记忆技巧提高生活和工作效率，这是我的心得](https://sspai.com/post/81586)
 -  30 [每个人都需要的「第三方授权登录」查询与解绑指南](https://sspai.com/post/82550)
--  30 [用三次踩坑经历告诉你，电动牙刷头的「陷阱」并非危言耸听](https://sspai.com/post/81578)
--  30 [派早报：Apple 发布会将于 9 月 13 日举行、Edge 浏览器将精简功能等](https://sspai.com/post/82543)<!-- sspai:END -->
+-  30 [用三次踩坑经历告诉你，电动牙刷头的「陷阱」并非危言耸听](https://sspai.com/post/81578)<!-- sspai:END -->
