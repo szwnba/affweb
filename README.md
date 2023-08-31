@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Wanted!! converting High Ticket Offers](https://afflift.com/f/threads/wanted-converting-high-ticket-offers.11534/)
 -  31 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
 -  31 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  31 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
@@ -34,8 +35,7 @@
 -  31 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
 -  31 [BigSpy, Social SpyTool With Extensive Database.](https://afflift.com/f/threads/bigspy-social-spytool-with-extensive-database.11524/)
 -  31 [Looking For Help Setting Up URLs in Monetizer and Binom](https://afflift.com/f/threads/looking-for-help-setting-up-urls-in-monetizer-and-binom.4294/)
--  31 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  31 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  31 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
