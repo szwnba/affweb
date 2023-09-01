@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  01 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
 -  01 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
+-  01 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
+-  01 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
+-  01 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
+-  01 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
+-  01 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
 -  01 [Introduction](https://afflift.com/f/threads/introduction.11523/)
 -  01 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
 -  01 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
 -  01 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  01 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
--  01 [RISE OF CULTURES FOR GERMANY 🇩🇪](https://afflift.com/f/threads/rise-of-cultures-for-germany-%F0%9F%87%A9%F0%9F%87%AA.11538/)
--  01 [Wanted!! converting High Ticket Offers](https://afflift.com/f/threads/wanted-converting-high-ticket-offers.11534/)
--  01 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
--  01 [PayPal footprint](https://afflift.com/f/threads/paypal-footprint.11536/)
--  01 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)<!-- afflift:END -->
+-  01 [RISE OF CULTURES FOR GERMANY 🇩🇪](https://afflift.com/f/threads/rise-of-cultures-for-germany-%F0%9F%87%A9%F0%9F%87%AA.11538/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
