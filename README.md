@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  01 [KeyAffiliates - Affiliate network in gambling industry](https://afflift.com/f/threads/keyaffiliates-affiliate-network-in-gambling-industry.5468/)
+-  01 [ice offers is scammer](https://afflift.com/f/threads/ice-offers-is-scammer.11535/)
 -  01 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
 -  01 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
--  01 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  31 [PayPal footprint](https://afflift.com/f/threads/paypal-footprint.11536/)
 -  31 [Wanted!! converting High Ticket Offers](https://afflift.com/f/threads/wanted-converting-high-ticket-offers.11534/)
 -  31 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
 -  31 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
 -  31 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
 -  31 [Hello from Wisconsin](https://afflift.com/f/threads/hello-from-wisconsin.11529/)
--  31 [ice offers is scammer](https://afflift.com/f/threads/ice-offers-is-scammer.11535/)
--  31 [BigSpy, Social SpyTool With Extensive Database.](https://afflift.com/f/threads/bigspy-social-spytool-with-extensive-database.11524/)
--  31 [Looking For Help Setting Up URLs in Monetizer and Binom](https://afflift.com/f/threads/looking-for-help-setting-up-urls-in-monetizer-and-binom.4294/)<!-- afflift:END -->
+-  31 [BigSpy, Social SpyTool With Extensive Database.](https://afflift.com/f/threads/bigspy-social-spytool-with-extensive-database.11524/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
