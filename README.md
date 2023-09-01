@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [RISE OF CULTURES FOR GERMANY 🇩🇪](https://afflift.com/f/threads/rise-of-cultures-for-germany-%F0%9F%87%A9%F0%9F%87%AA.11538/)
+-  01 [Wanted!! converting High Ticket Offers](https://afflift.com/f/threads/wanted-converting-high-ticket-offers.11534/)
+-  01 [Dao.AD - top platform for push&amp;inpage and pop traffic](https://afflift.com/f/threads/dao-ad-top-platform-for-push-inpage-and-pop-traffic.5708/)
+-  01 [PayPal footprint](https://afflift.com/f/threads/paypal-footprint.11536/)
+-  01 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
+-  01 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
 -  01 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  01 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
 -  01 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  01 [ice offers is scammer](https://afflift.com/f/threads/ice-offers-is-scammer.11535/)
--  01 [PayPal footprint](https://afflift.com/f/threads/paypal-footprint.11536/)
 -  01 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
--  01 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
--  01 [KeyAffiliates - Affiliate network in gambling industry](https://afflift.com/f/threads/keyaffiliates-affiliate-network-in-gambling-industry.5468/)
--  01 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
--  31 [Wanted!! converting High Ticket Offers](https://afflift.com/f/threads/wanted-converting-high-ticket-offers.11534/)
--  31 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
--  31 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)<!-- afflift:END -->
+-  01 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
