@@ -21,8 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  01 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  01 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
+-  01 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  01 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  31 [PayPal footprint](https://afflift.com/f/threads/paypal-footprint.11536/)
 -  31 [Wanted!! converting High Ticket Offers](https://afflift.com/f/threads/wanted-converting-high-ticket-offers.11534/)
