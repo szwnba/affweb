@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [闲置音箱组环绕声系统，低成本大幅提升观影体验](https://sspai.com/post/82342)
 -  01 [周末前的「摸鱼」时刻，你也许需要这些轻松小游戏](https://sspai.com/post/82609)
 -  01 [派开箱 | 笔记本也有光明的未来：明基 LaptopBar 笔记本随行灯](https://sspai.com/post/82334)
 -  01 [派早报：Fairphone 5 手机正式发布、首批国产大模型获批面向用户开放](https://sspai.com/post/82608)
