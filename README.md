@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Affiliate Marketing Academy by dr.cash!](https://afflift.com/f/threads/affiliate-marketing-academy-by-dr-cash.9784/)
+-  01 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  01 [ice offers is scammer](https://afflift.com/f/threads/ice-offers-is-scammer.11535/)
 -  01 [PayPal footprint](https://afflift.com/f/threads/paypal-footprint.11536/)
 -  01 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
@@ -30,9 +32,7 @@
 -  31 [Wanted!! converting High Ticket Offers](https://afflift.com/f/threads/wanted-converting-high-ticket-offers.11534/)
 -  31 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
 -  31 [August PropellerAds Promo Codes 2023](https://afflift.com/f/threads/august-propellerads-promo-codes-2023.11410/)
--  31 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
--  31 [Hello from Wisconsin](https://afflift.com/f/threads/hello-from-wisconsin.11529/)
--  31 [BigSpy, Social SpyTool With Extensive Database.](https://afflift.com/f/threads/bigspy-social-spytool-with-extensive-database.11524/)<!-- afflift:END -->
+-  31 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
