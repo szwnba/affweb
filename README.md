@@ -36,6 +36,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  02 [家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？](https://sspai.com/post/82327)
--  01 [Essential，一场探寻人机关系「本质」的无果之旅](https://sspai.com/prime/story/essential-phone)
--  01 [本周看什么 | 最近值得一看的一大瓶作品](https://sspai.com/post/82618)<!-- sspai:END -->
+-  02 [从产品经理的角度，聊聊 Context 的开发心得和规划](https://sspai.com/post/82629)
+-  02 [家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？](https://sspai.com/post/82327)<!-- sspai:END -->
