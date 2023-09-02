@@ -21,8 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
 -  02 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
+-  02 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
 -  02 [Auto-Optimization Rules for Push Traffic](https://afflift.com/f/threads/auto-optimization-rules-for-push-traffic.11540/)
 -  02 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  02 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
