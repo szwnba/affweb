@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
 -  02 [Auto-Optimization Rules for Push Traffic](https://afflift.com/f/threads/auto-optimization-rules-for-push-traffic.11540/)
 -  02 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
 -  02 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
@@ -31,7 +32,6 @@
 -  01 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
 -  01 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  01 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  01 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
 -  01 [Introduction](https://afflift.com/f/threads/introduction.11523/)<!-- afflift:END -->
 
 ### 少数派
