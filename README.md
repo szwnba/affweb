@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  01 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  01 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
 -  01 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
@@ -31,8 +32,7 @@
 -  01 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
 -  01 [Introduction](https://afflift.com/f/threads/introduction.11523/)
 -  01 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
--  01 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
--  01 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  01 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
