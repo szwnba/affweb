@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Complete guide: how to choose the best ad networks for advertisers](https://afflift.com/f/threads/complete-guide-how-to-choose-the-best-ad-networks-for-advertisers.11541/)
+-  02 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
 -  02 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  02 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
 -  02 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
@@ -30,9 +32,7 @@
 -  01 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  01 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
 -  01 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
--  01 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
--  01 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  01 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)<!-- afflift:END -->
+-  01 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
