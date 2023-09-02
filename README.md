@@ -39,5 +39,4 @@
 -  02 [家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？](https://sspai.com/post/82327)
 -  01 [Essential，一场探寻人机关系「本质」的无果之旅](https://sspai.com/prime/story/essential-phone)
 -  01 [本周看什么 | 最近值得一看的一大瓶作品](https://sspai.com/post/82618)
--  01 [闲置音箱组环绕声系统，低成本大幅提升观影体验](https://sspai.com/post/82342)
--  01 [周末前的「摸鱼」时刻，你也许需要这些轻松小游戏](https://sspai.com/post/82609)<!-- sspai:END -->
+-  01 [闲置音箱组环绕声系统，低成本大幅提升观影体验](https://sspai.com/post/82342)<!-- sspai:END -->
