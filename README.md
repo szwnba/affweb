@@ -26,8 +26,7 @@
 -  02 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
 -  02 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  02 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
--  02 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  02 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)<!-- afflift:END -->
+-  02 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
