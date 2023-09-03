@@ -20,14 +20,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
 -  03 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  03 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
 -  02 [Auto-Optimization Rules for Push Traffic](https://afflift.com/f/threads/auto-optimization-rules-for-push-traffic.11540/)
 -  02 [Complete guide: how to choose the best ad networks for advertisers](https://afflift.com/f/threads/complete-guide-how-to-choose-the-best-ad-networks-for-advertisers.11541/)
--  02 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
 -  02 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
--  02 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)
--  02 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
+-  02 [ADheart , Facebook Spy Tool Mega Guide](https://afflift.com/f/threads/adheart-facebook-spy-tool-mega-guide.11532/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
