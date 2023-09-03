@@ -30,5 +30,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  02 [从产品经理的角度，聊聊 Context 的开发心得和规划](https://sspai.com/post/82629)
--  02 [家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？](https://sspai.com/post/82327)<!-- sspai:END -->
+-  02 [从产品经理的角度，聊聊 Context 的开发心得和规划](https://sspai.com/post/82629)<!-- sspai:END -->
