@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  31 [dedipath破产了。。。尼玛。](https://www.advertcn.com/forum.php?mod=viewthread&tid=111904)
--  31 [做个调查：生财有术上那么多变现的方法为何你独爱media bu...](https://www.advertcn.com/forum.php?mod=viewthread&tid=111890)<!-- advertcn:END -->
+-  02 [一个悖论](https://www.advertcn.com/forum.php?mod=viewthread&tid=111926)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
