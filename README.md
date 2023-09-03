@@ -32,4 +32,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [什么是色彩？——评 Boox Tab10 C](https://sspai.com/post/82653)
 -  03 [播客 | 对话魏小河：当读书成为一种职业](https://sspai.com/post/82611)<!-- sspai:END -->
