@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
 -  03 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
 -  02 [Auto-Optimization Rules for Push Traffic](https://afflift.com/f/threads/auto-optimization-rules-for-push-traffic.11540/)
 -  02 [Complete guide: how to choose the best ad networks for advertisers](https://afflift.com/f/threads/complete-guide-how-to-choose-the-best-ad-networks-for-advertisers.11541/)
