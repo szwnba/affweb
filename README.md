@@ -20,7 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
+-  03 [This is crazy...](https://afflift.com/f/threads/this-is-crazy.11539/)
 -  02 [Auto-Optimization Rules for Push Traffic](https://afflift.com/f/threads/auto-optimization-rules-for-push-traffic.11540/)
 -  02 [Complete guide: how to choose the best ad networks for advertisers](https://afflift.com/f/threads/complete-guide-how-to-choose-the-best-ad-networks-for-advertisers.11541/)
 -  02 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
