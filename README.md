@@ -30,4 +30,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [播客 | 对话魏小河：当读书成为一种职业](https://sspai.com/post/82611)
 -  02 [从产品经理的角度，聊聊 Context 的开发心得和规划](https://sspai.com/post/82629)<!-- sspai:END -->
