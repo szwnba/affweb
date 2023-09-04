@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
+-  04 [Telega.io — ultimate telegram advertising platform](https://afflift.com/f/threads/telega-io-%E2%80%94-ultimate-telegram-advertising-platform.11531/)
 -  04 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
 -  04 [Auto-Optimization Rules for Push Traffic](https://afflift.com/f/threads/auto-optimization-rules-for-push-traffic.11540/)
 -  03 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
