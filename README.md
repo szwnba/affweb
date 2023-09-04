@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [PayPal footprint](https://afflift.com/f/threads/paypal-footprint.11536/)
+-  04 [Private offers to Africa🤑](https://afflift.com/f/threads/private-offers-to-africa%F0%9F%A4%91.10430/)
+-  04 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
+-  04 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  04 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  04 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
 -  04 [EZMob Follow Allong ⋆](https://afflift.com/f/threads/ezmob-follow-allong-%E2%8B%86.11449/)
+-  04 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
+-  04 [PayPal footprint](https://afflift.com/f/threads/paypal-footprint.11536/)
 -  04 [ZeroPark Follow Along - Optimize My Way to Success?](https://afflift.com/f/threads/zeropark-follow-along-optimize-my-way-to-success.11496/)
 -  04 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
--  04 [Marketcall: Pay Per Call and LeadGen Affiliate Network](https://afflift.com/f/threads/marketcall-pay-per-call-and-leadgen-affiliate-network.5645/)
 -  04 [Telega.io — ultimate telegram advertising platform](https://afflift.com/f/threads/telega-io-%E2%80%94-ultimate-telegram-advertising-platform.11531/)
--  04 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
--  04 [Auto-Optimization Rules for Push Traffic](https://afflift.com/f/threads/auto-optimization-rules-for-push-traffic.11540/)
--  03 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
--  03 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)
--  03 [something is coming...](https://afflift.com/f/threads/something-is-coming.11533/)
--  03 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)<!-- afflift:END -->
+-  04 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
