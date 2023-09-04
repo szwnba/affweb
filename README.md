@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [城市漫步指南：闯进大西北的金色世界](https://sspai.com/post/82536)
 -  04 [一日一技 | 群晖+Walkman，如何让游泳时听的歌总有新鲜感？](https://sspai.com/post/82260)
 -  04 [派早报：第二批深度合成服务算法备案公布，苹果拒绝重启 CSAM 检测上报](https://sspai.com/post/82658)
 -  03 [什么是色彩？——评 Boox Tab10 C](https://sspai.com/post/82653)<!-- sspai:END -->
