@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  21 [自己动手”破解”思维导图软件Xmind，支持官网最新版](https://51.ruyo.net/18460.html)<!-- ruyo:END -->
+-  04 [Linode测评：日本大阪服务器 1CPU/1G内存/1Gbps带宽](https://51.ruyo.net/18466.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
