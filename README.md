@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  04 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  04 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
+-  04 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
+-  04 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
 -  04 [September PropellerAds Promo Codes 2023](https://afflift.com/f/threads/september-propellerads-promo-codes-2023.11545/)
+-  04 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
 -  04 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  04 [Running sweep  offers of Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-sweep-offers-of-clickdealer-on-propeller-pa23.11556/)
 -  04 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
 -  04 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)
--  04 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
--  04 [Make Money With CPA Model #PA23](https://afflift.com/f/threads/make-money-with-cpa-model-pa23.11554/)
--  04 [MOB POPs on Propellerads #PA23](https://afflift.com/f/threads/mob-pops-on-propellerads-pa23.11553/)
--  04 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
--  04 [[#PA23]First FA of Researching POP traffic with My private tracker](https://afflift.com/f/threads/pa23-first-fa-of-researching-pop-traffic-with-my-private-tracker.11552/)
--  04 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)<!-- afflift:END -->
+-  04 [Make Money With CPA Model #PA23](https://afflift.com/f/threads/make-money-with-cpa-model-pa23.11554/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
