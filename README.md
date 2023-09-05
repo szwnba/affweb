@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [GG + PA + POP #PA23](https://afflift.com/f/threads/gg-pa-pop-pa23.11584/)
--  05 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
--  05 [September PropellerAds Promo Codes 2023](https://afflift.com/f/threads/september-propellerads-promo-codes-2023.11545/)
--  05 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  05 [Self advertiser shutting down](https://afflift.com/f/threads/self-advertiser-shutting-down.11583/)
--  05 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  05 [EZMob Follow Allong ⋆](https://afflift.com/f/threads/ezmob-follow-allong-%E2%8B%86.11449/)
+-  05 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
+-  05 [September PropellerAds Promo Codes 2023](https://afflift.com/f/threads/september-propellerads-promo-codes-2023.11545/)
+-  05 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  05 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
+-  05 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
+-  05 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)
 -  05 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  05 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  05 [Prosper202](https://afflift.com/f/threads/prosper202.7749/)
--  05 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  05 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)<!-- afflift:END -->
+-  05 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
+-  05 [GG + PA + POP #PA23](https://afflift.com/f/threads/gg-pa-pop-pa23.11584/)
+-  05 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  05 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
