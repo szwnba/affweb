@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [派早报：X 将使用用户公开贴文训练 AI 模型等](https://sspai.com/post/82690)
 -  04 [派评 | 近期值得关注的 App](https://sspai.com/post/82673)
 -  04 [城市漫步指南：闯进大西北的金色世界](https://sspai.com/post/82536)
 -  04 [一日一技 | 群晖+Walkman，如何让游泳时听的歌总有新鲜感？](https://sspai.com/post/82260)<!-- sspai:END -->
