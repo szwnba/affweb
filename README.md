@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
--  05 [September PropellerAds Promo Codes 2023](https://afflift.com/f/threads/september-propellerads-promo-codes-2023.11545/)
--  05 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
--  05 [Step 2 - Create PopAds Account](https://afflift.com/f/threads/step-2-create-popads-account.2939/)
--  05 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
--  05 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)
--  05 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
--  05 [Self advertiser shutting down](https://afflift.com/f/threads/self-advertiser-shutting-down.11583/)
--  05 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
--  05 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  05 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  05 [GG + PA + POP #PA23](https://afflift.com/f/threads/gg-pa-pop-pa23.11584/)<!-- afflift:END -->
+-  05 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
+-  05 [Suggestions for Security - Vultr with Cyber Panel](https://afflift.com/f/threads/suggestions-for-security-vultr-with-cyber-panel.11562/)
+-  05 [My First Follow Along 2023 Lets begin #PA23](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23.11563/)
+-  05 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)
+-  05 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)
+-  05 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
+-  05 [#PA old is gold &quot;Adsense Arbitrage&quot; 💪](https://afflift.com/f/threads/pa-old-is-gold-adsense-arbitrage-%F0%9F%92%AA.11571/)
+-  05 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
+-  05 [My first FA with Yellana and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-yellana-and-pa-pa23.11577/)
+-  05 [DESK POP on Propellerads #PA23](https://afflift.com/f/threads/desk-pop-on-propellerads-pa23.11579/)
+-  05 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
+-  05 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
