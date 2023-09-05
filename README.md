@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  05 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  05 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
 -  05 [#PA old is gold &quot;Adsense Arbitrage&quot; 💪](https://afflift.com/f/threads/pa-old-is-gold-adsense-arbitrage-%F0%9F%92%AA.11571/)
@@ -33,8 +34,7 @@
 -  05 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)
 -  05 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
 -  05 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
--  05 [My first FA with Yellana and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-yellana-and-pa-pa23.11577/)
--  05 [DESK POP on Propellerads #PA23](https://afflift.com/f/threads/desk-pop-on-propellerads-pa23.11579/)<!-- afflift:END -->
+-  05 [My first FA with Yellana and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-yellana-and-pa-pa23.11577/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
