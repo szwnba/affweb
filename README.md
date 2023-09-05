@@ -38,7 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏](https://sspai.com/post/82701)
 -  05 [你或许总不满意，但它不全是秘密：聊聊 Twitter 开源的时间线算法](https://sspai.com/post/82586)
 -  05 [数字时代的自我旁观：对痛苦的重新审视](https://sspai.com/post/82553)
--  05 [派早报：X 将使用用户公开贴文训练 AI 模型等](https://sspai.com/post/82690)
--  04 [派评 | 近期值得关注的 App](https://sspai.com/post/82673)<!-- sspai:END -->
+-  05 [派早报：X 将使用用户公开贴文训练 AI 模型等](https://sspai.com/post/82690)<!-- sspai:END -->
