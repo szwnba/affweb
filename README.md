@@ -24,17 +24,17 @@
 ### afflift
 <!-- afflift:START -->
 -  05 [September PropellerAds Promo Codes 2023](https://afflift.com/f/threads/september-propellerads-promo-codes-2023.11545/)
+-  05 [My first FA with Yellana and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-yellana-and-pa-pa23.11577/)
+-  05 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
+-  05 [EZMob Follow Allong ⋆](https://afflift.com/f/threads/ezmob-follow-allong-%E2%8B%86.11449/)
 -  05 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
 -  05 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  05 [Dating offers on PropellerAds - My First Follow Along #PA23](https://afflift.com/f/threads/dating-offers-on-propellerads-my-first-follow-along-pa23.11575/)
--  05 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
 -  05 [#PA old is gold &quot;Adsense Arbitrage&quot; 💪](https://afflift.com/f/threads/pa-old-is-gold-adsense-arbitrage-%F0%9F%92%AA.11571/)
 -  05 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  05 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
 -  05 [PropellerAds #PA23](https://afflift.com/f/threads/propellerads-pa23.11570/)
--  05 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
--  04 [Step 10 - Campaign Optimization](https://afflift.com/f/threads/step-10-campaign-optimization.7481/)
--  04 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-follow-along-contest.11569/)<!-- afflift:END -->
+-  05 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
