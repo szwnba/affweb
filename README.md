@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
--  05 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  05 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
+-  05 [September PropellerAds Promo Codes 2023](https://afflift.com/f/threads/september-propellerads-promo-codes-2023.11545/)
+-  05 [GG + PA + POP #PA23](https://afflift.com/f/threads/gg-pa-pop-pa23.11584/)
 -  05 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)
--  05 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
--  05 [PropellerAds #PA23](https://afflift.com/f/threads/propellerads-pa23.11570/)
--  05 [PropellerAds x Propush contest #PA23](https://afflift.com/f/threads/propellerads-x-propush-contest-pa23.11568/)
+-  05 [Dating offers on PropellerAds - My First Follow Along #PA23](https://afflift.com/f/threads/dating-offers-on-propellerads-my-first-follow-along-pa23.11575/)
+-  05 [Earn $2,000 per purchase with GanttPRO affiliate program](https://afflift.com/f/threads/earn-2-000-per-purchase-with-ganttpro-affiliate-program.10342/)
+-  05 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
+-  05 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  05 [Self advertiser shutting down](https://afflift.com/f/threads/self-advertiser-shutting-down.11583/)
--  05 [[#PA23]First FA of Researching POP traffic with My private tracker](https://afflift.com/f/threads/pa23-first-fa-of-researching-pop-traffic-with-my-private-tracker.11552/)
--  05 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
--  05 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)
--  05 [DMCA Issue with Hosting and Cloudflare](https://afflift.com/f/threads/dmca-issue-with-hosting-and-cloudflare.11582/)<!-- afflift:END -->
+-  05 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
+-  05 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  05 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
+-  05 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
