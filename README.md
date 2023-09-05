@@ -23,9 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)
--  05 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  05 [Google Ads Search Campaign For VSL](https://afflift.com/f/threads/google-ads-search-campaign-for-vsl.11517/)
+-  05 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
+-  05 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)
 -  05 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
 -  05 [Self advertiser shutting down](https://afflift.com/f/threads/self-advertiser-shutting-down.11583/)
 -  05 [Link Directory Contest with $1000 in Prizes &lpar;August 2023&rpar;](https://afflift.com/f/threads/link-directory-contest-with-1000-in-prizes-august-2023.11479/)
