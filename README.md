@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [如何能免重新登录与配置之苦：浅谈 Android 自动备份机制](https://sspai.com/prime/story/android-data-backup-issues-tips)
 -  05 [社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏](https://sspai.com/post/82701)
 -  05 [你或许总不满意，但它不全是秘密：聊聊 Twitter 开源的时间线算法](https://sspai.com/post/82586)
 -  05 [数字时代的自我旁观：对痛苦的重新审视](https://sspai.com/post/82553)
