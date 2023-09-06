@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
+-  06 [Why A Newbie Affiliate Lost All His Ad Budget On Push Notifications: Analysis Of A Negative ROI Case Study](https://afflift.com/f/threads/why-a-newbie-affiliate-lost-all-his-ad-budget-on-push-notifications-analysis-of-a-negative-roi-case-study.11593/)
+-  06 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
+-  06 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
+-  06 [My First Follow Along 2023 Lets begin #PA23](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23.11563/)
 -  06 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
 -  06 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  06 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  06 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  06 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  06 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
--  06 [Watch me set up gambling campaigns on Google UAC](https://afflift.com/f/threads/watch-me-set-up-gambling-campaigns-on-google-uac.11595/)
--  06 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
--  06 [Why A Newbie Affiliate Lost All His Ad Budget On Push Notifications: Analysis Of A Negative ROI Case Study](https://afflift.com/f/threads/why-a-newbie-affiliate-lost-all-his-ad-budget-on-push-notifications-analysis-of-a-negative-roi-case-study.11593/)
--  06 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/)
--  06 [WhoCPA Review](https://afflift.com/f/threads/whocpa-review.11592/)
--  06 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)<!-- afflift:END -->
+-  06 [Watch me set up gambling campaigns on Google UAC](https://afflift.com/f/threads/watch-me-set-up-gambling-campaigns-on-google-uac.11595/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
