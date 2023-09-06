@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  06 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  06 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  06 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
@@ -31,8 +32,7 @@
 -  06 [Why A Newbie Affiliate Lost All His Ad Budget On Push Notifications: Analysis Of A Negative ROI Case Study](https://afflift.com/f/threads/why-a-newbie-affiliate-lost-all-his-ad-budget-on-push-notifications-analysis-of-a-negative-roi-case-study.11593/)
 -  06 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  06 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
--  06 [My First Follow Along 2023 Lets begin #PA23](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23.11563/)
--  06 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)<!-- afflift:END -->
+-  06 [My First Follow Along 2023 Lets begin #PA23](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23.11563/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
