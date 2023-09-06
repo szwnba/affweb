@@ -21,6 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [HOT GEOs: Run ad campaigns and get up to $2,000](https://afflift.com/f/threads/hot-geos-run-ad-campaigns-and-get-up-to-2-000.11589/)
+-  06 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
+-  06 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
+-  06 [Prosper202](https://afflift.com/f/threads/prosper202.7749/)
 -  06 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  06 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
 -  06 [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/)
@@ -28,11 +32,7 @@
 -  06 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
 -  06 [Suggestions for Security - Vultr with Cyber Panel](https://afflift.com/f/threads/suggestions-for-security-vultr-with-cyber-panel.11562/)
 -  06 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  06 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
--  06 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  06 [#PA old is gold &quot;Adsense Arbitrage&quot; 💪](https://afflift.com/f/threads/pa-old-is-gold-adsense-arbitrage-%F0%9F%92%AA.11571/)
--  06 [Dating offers on PropellerAds - My First Follow Along #PA23](https://afflift.com/f/threads/dating-offers-on-propellerads-my-first-follow-along-pa23.11575/)
--  06 [What is normal for an affiliate marketer&#39;s campaigns?](https://afflift.com/f/threads/what-is-normal-for-an-affiliate-marketers-campaigns.11588/)<!-- afflift:END -->
+-  06 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
