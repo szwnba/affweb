@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
+-  06 [Google Ads Automated Rules: An Effective Solution to Get Rid of Routine Tasks for Media Buyers](https://afflift.com/f/threads/google-ads-automated-rules-an-effective-solution-to-get-rid-of-routine-tasks-for-media-buyers.11590/)
+-  06 [dr.cash digest](https://afflift.com/f/threads/dr-cash-digest.9730/)
+-  06 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
+-  06 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
 -  06 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)
 -  06 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  06 [Prosper202](https://afflift.com/f/threads/prosper202.7749/)
 -  06 [What is normal for an affiliate marketer&#39;s campaigns?](https://afflift.com/f/threads/what-is-normal-for-an-affiliate-marketers-campaigns.11588/)
 -  06 [HOT GEOs: Run ad campaigns and get up to $2,000](https://afflift.com/f/threads/hot-geos-run-ad-campaigns-and-get-up-to-2-000.11589/)
 -  06 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
--  06 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  06 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
--  06 [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/)
--  06 [How to use Google Sheets to check Monetizer offer status and start/stop traffic on PropellerAds](https://afflift.com/f/threads/how-to-use-google-sheets-to-check-monetizer-offer-status-and-start-stop-traffic-on-propellerads.10496/)
--  06 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
--  06 [Suggestions for Security - Vultr with Cyber Panel](https://afflift.com/f/threads/suggestions-for-security-vultr-with-cyber-panel.11562/)<!-- afflift:END -->
+-  06 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
