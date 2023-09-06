@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  06 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  06 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
 -  06 [How to use Google Sheets to check Monetizer offer status and start/stop traffic on PropellerAds](https://afflift.com/f/threads/how-to-use-google-sheets-to-check-monetizer-offer-status-and-start-stop-traffic-on-propellerads.10496/)
@@ -31,8 +32,7 @@
 -  05 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  05 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
 -  05 [Suggestions for Security - Vultr with Cyber Panel](https://afflift.com/f/threads/suggestions-for-security-vultr-with-cyber-panel.11562/)
--  05 [My First Follow Along 2023 Lets begin #PA23](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23.11563/)
--  05 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)<!-- afflift:END -->
+-  05 [My First Follow Along 2023 Lets begin #PA23](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23.11563/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
