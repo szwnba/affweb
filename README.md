@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)
+-  06 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
 -  06 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  06 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  06 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
@@ -30,9 +32,7 @@
 -  06 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
 -  06 [Back To Basics #PA23 Follow-Along](https://afflift.com/f/threads/back-to-basics-pa23-follow-along.11597/)
 -  06 [Why A Newbie Affiliate Lost All His Ad Budget On Push Notifications: Analysis Of A Negative ROI Case Study](https://afflift.com/f/threads/why-a-newbie-affiliate-lost-all-his-ad-budget-on-push-notifications-analysis-of-a-negative-roi-case-study.11593/)
--  06 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
--  06 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
--  06 [My First Follow Along 2023 Lets begin #PA23](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23.11563/)<!-- afflift:END -->
+-  06 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
