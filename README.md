@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  05 [大量批发FB个户全品类三不限拒付初始账户](https://www.advertcn.com/forum.php?mod=viewthread&tid=111977)
 -  05 [现在的AFF都要偷钱跑广告才能赚钱吗  手机号码13386019439](https://www.advertcn.com/forum.php?mod=viewthread&tid=111973)<!-- advertcn:END -->
 
 ### zhihu
