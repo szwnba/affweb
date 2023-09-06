@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  06 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
+-  06 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  06 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
+-  06 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
+-  06 [Watch me set up gambling campaigns on Google UAC](https://afflift.com/f/threads/watch-me-set-up-gambling-campaigns-on-google-uac.11595/)
+-  06 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  06 [Why A Newbie Affiliate Lost All His Ad Budget On Push Notifications: Analysis Of A Negative ROI Case Study](https://afflift.com/f/threads/why-a-newbie-affiliate-lost-all-his-ad-budget-on-push-notifications-analysis-of-a-negative-roi-case-study.11593/)
 -  06 [WhoCPA - Direct Nutra advertiser](https://afflift.com/f/threads/whocpa-direct-nutra-advertiser.11162/)
 -  06 [WhoCPA Review](https://afflift.com/f/threads/whocpa-review.11592/)
 -  06 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
 -  06 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
 -  06 [Google Ads Automated Rules: An Effective Solution to Get Rid of Routine Tasks for Media Buyers](https://afflift.com/f/threads/google-ads-automated-rules-an-effective-solution-to-get-rid-of-routine-tasks-for-media-buyers.11590/)
--  06 [dr.cash digest](https://afflift.com/f/threads/dr-cash-digest.9730/)
--  06 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
--  06 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
--  06 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)<!-- afflift:END -->
+-  06 [dr.cash digest](https://afflift.com/f/threads/dr-cash-digest.9730/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
