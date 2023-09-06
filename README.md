@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [干掉码字困难症：如何用 Ulysses 实现卡片写作？](https://sspai.com/post/82606)
 -  06 [从零开始搭建 Home Lab，这是我的体会与心得](https://sspai.com/post/82670)
 -  06 [派早报：Android 启用新版品牌标识、微信支付将上线消费分期功能等](https://sspai.com/post/82722)
 -  05 [如何能免重新登录与配置之苦：浅谈 Android 自动备份机制](https://sspai.com/prime/story/android-data-backup-issues-tips)
--  05 [社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏](https://sspai.com/post/82701)
--  05 [你或许总不满意，但它不全是秘密：聊聊 Twitter 开源的时间线算法](https://sspai.com/post/82586)<!-- sspai:END -->
+-  05 [社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏](https://sspai.com/post/82701)<!-- sspai:END -->
