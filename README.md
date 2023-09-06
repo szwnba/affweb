@@ -10,10 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  04 [做一个月收入2k rmb的WP电商站](https://www.advertcn.com/forum.php?mod=viewthread&tid=111949)
--  04 [出联盟账号，支持预定，欢迎量大的老板](https://www.advertcn.com/forum.php?mod=viewthread&tid=111946)
--  04 [“内心纠结，深夜难眠”，再看这条新闻，是不是更纠结？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111941)
--  04 [CB注册秒拒，ClickBank回信无法解决，有大佬能指点吗](https://www.advertcn.com/forum.php?mod=viewthread&tid=111937)<!-- advertcn:END -->
+-  05 [现在的AFF都要偷钱跑广告才能赚钱吗  手机号码13386019439](https://www.advertcn.com/forum.php?mod=viewthread&tid=111973)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
