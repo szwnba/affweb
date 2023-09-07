@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [Improper cost tracking &lpar;BeMob and PropellerAds&rpar;](https://afflift.com/f/threads/improper-cost-tracking-bemob-and-propellerads.11598/)
 -  07 [LIFT Your mVAS Campaigns with Increased Rates at Golden Goose! 🚀](https://afflift.com/f/threads/lift-your-mvas-campaigns-with-increased-rates-at-golden-goose-%F0%9F%9A%80.11604/)
+-  07 [#PA23 Back to School](https://afflift.com/f/threads/pa23-back-to-school.11549/)
+-  07 [Help me to make money online, please!](https://afflift.com/f/threads/help-me-to-make-money-online-please.11603/)
+-  07 [Improper cost tracking &lpar;BeMob and PropellerAds&rpar;](https://afflift.com/f/threads/improper-cost-tracking-bemob-and-propellerads.11598/)
 -  07 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  07 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
--  07 [Help me to make money online, please!](https://afflift.com/f/threads/help-me-to-make-money-online-please.11603/)
 -  07 [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
 -  07 [Self advertiser shutting down](https://afflift.com/f/threads/self-advertiser-shutting-down.11583/)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  07 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)
 -  07 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)
--  07 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
--  07 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)<!-- afflift:END -->
+-  07 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
