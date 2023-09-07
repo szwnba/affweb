@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等](https://sspai.com/post/82755)
 -  06 [谈不了性价比，或许谈得上省心：我的智能家居全屋定制体验](https://sspai.com/post/82726)
 -  06 [开学季 | 派商店优惠上新：开学新篇章，好物常相伴](https://sspai.com/post/82707)
 -  06 [干掉码字困难症：如何用 Ulysses 实现卡片写作？](https://sspai.com/post/82606)
--  06 [从零开始搭建 Home Lab，这是我的体会与心得](https://sspai.com/post/82670)
--  06 [派早报：Android 启用新版品牌标识、微信支付将上线消费分期功能等](https://sspai.com/post/82722)<!-- sspai:END -->
+-  06 [从零开始搭建 Home Lab，这是我的体会与心得](https://sspai.com/post/82670)<!-- sspai:END -->
