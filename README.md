@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Help me to make money online, please!](https://afflift.com/f/threads/help-me-to-make-money-online-please.11603/)
+-  07 [Serious.Partners - International CPA Network. Fast service and high payouts since 2011!](https://afflift.com/f/threads/serious-partners-international-cpa-network-fast-service-and-high-payouts-since-2011.10141/)
+-  07 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  07 [Self advertiser shutting down](https://afflift.com/f/threads/self-advertiser-shutting-down.11583/)
 -  07 [LIFT Your mVAS Campaigns with Increased Rates at Golden Goose! 🚀](https://afflift.com/f/threads/lift-your-mvas-campaigns-with-increased-rates-at-golden-goose-%F0%9F%9A%80.11604/)
 -  07 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
@@ -31,10 +34,7 @@
 -  07 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)
 -  07 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
 -  07 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
--  07 [GG + PA + POP #PA23](https://afflift.com/f/threads/gg-pa-pop-pa23.11584/)
--  07 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)
--  07 [September PropellerAds Promo Codes 2023](https://afflift.com/f/threads/september-propellerads-promo-codes-2023.11545/)
--  07 [Help me to make money online, please!](https://afflift.com/f/threads/help-me-to-make-money-online-please.11603/)<!-- afflift:END -->
+-  07 [GG + PA + POP #PA23](https://afflift.com/f/threads/gg-pa-pop-pa23.11584/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
