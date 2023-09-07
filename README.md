@@ -10,8 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  07 [谷歌官方认可的trackers列表](https://www.advertcn.com/forum.php?mod=viewthread&tid=112000)
 -  07 [FB买号遇到骗子，大家引以为鉴](https://www.advertcn.com/forum.php?mod=viewthread&tid=111997)
--  07 [怎么查询某个offer是哪个联盟平台的？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111996)<!-- advertcn:END -->
+-  07 [怎么查询某个offer是哪个联盟平台的？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111996)
+-  07 [Paxum开始支持USD 的 ACH 提取了](https://www.advertcn.com/forum.php?mod=viewthread&tid=111989)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
