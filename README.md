@@ -10,8 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  05 [大量批发FB个户全品类三不限拒付初始账户](https://www.advertcn.com/forum.php?mod=viewthread&tid=111977)
--  05 [现在的AFF都要偷钱跑广告才能赚钱吗  手机号码13386019439](https://www.advertcn.com/forum.php?mod=viewthread&tid=111973)<!-- advertcn:END -->
+-  07 [FB买号遇到骗子，大家引以为鉴](https://www.advertcn.com/forum.php?mod=viewthread&tid=111997)
+-  07 [怎么查询某个offer是哪个联盟平台的？](https://www.advertcn.com/forum.php?mod=viewthread&tid=111996)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
