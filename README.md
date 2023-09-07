@@ -39,5 +39,4 @@
 -  07 [你的笔记数据安全吗？聊聊我的笔记工具选择思路](https://sspai.com/post/82657)
 -  07 [派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等](https://sspai.com/post/82755)
 -  06 [谈不了性价比，或许谈得上省心：我的智能家居全屋定制体验](https://sspai.com/post/82726)
--  06 [开学季 | 派商店优惠上新：开学新篇章，好物常相伴](https://sspai.com/post/82707)
--  06 [干掉码字困难症：如何用 Ulysses 实现卡片写作？](https://sspai.com/post/82606)<!-- sspai:END -->
+-  06 [开学季 | 派商店优惠上新：开学新篇章，好物常相伴](https://sspai.com/post/82707)<!-- sspai:END -->
