@@ -36,7 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [开学季 | 少数派正版软件促销 5 折起，还有限时特惠 Bundle](https://sspai.com/post/82773)
 -  07 [人人可编程，人人能创造：第八届移动应用创新赛圆满落幕](https://sspai.com/post/82738)
 -  07 [你的笔记数据安全吗？聊聊我的笔记工具选择思路](https://sspai.com/post/82657)
--  07 [派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等](https://sspai.com/post/82755)
--  06 [谈不了性价比，或许谈得上省心：我的智能家居全屋定制体验](https://sspai.com/post/82726)<!-- sspai:END -->
+-  07 [派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等](https://sspai.com/post/82755)<!-- sspai:END -->
