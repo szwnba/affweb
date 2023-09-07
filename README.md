@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  04 [Linode测评：日本大阪服务器 1CPU/1G内存/1Gbps带宽](https://51.ruyo.net/18466.html)<!-- ruyo:END -->
+-  07 [Anthropic上线 Claude Pro，5倍使用量”仅”20美元每月](https://51.ruyo.net/18472.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
