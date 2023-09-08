@@ -23,11 +23,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Back To Basics #PA23 Follow-Along](https://afflift.com/f/threads/back-to-basics-pa23-follow-along.11597/)
+-  08 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  08 [LIFT Your mVAS Campaigns with Increased Rates at Golden Goose! 🚀](https://afflift.com/f/threads/lift-your-mvas-campaigns-with-increased-rates-at-golden-goose-%F0%9F%9A%80.11604/)
 -  08 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  08 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)
--  08 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
--  08 [Back To Basics #PA23 Follow-Along](https://afflift.com/f/threads/back-to-basics-pa23-follow-along.11597/)
 -  08 [Approach X: domains https crash](https://afflift.com/f/threads/approach-x-domains-https-crash.11607/)
 -  08 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)
 -  08 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
