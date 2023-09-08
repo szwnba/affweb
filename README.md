@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [My First Follow Along 2023 Lets begin #PA23 💎 Affiliates Experts 💎](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23-%F0%9F%92%8E-affiliates-experts-%F0%9F%92%8E.11563/)
--  08 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
+-  08 [Back To Basics #PA23 Follow-Along](https://afflift.com/f/threads/back-to-basics-pa23-follow-along.11597/)
 -  08 [Approach X: domains https crash](https://afflift.com/f/threads/approach-x-domains-https-crash.11607/)
--  08 [Running sweep  offers of Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-sweep-offers-of-clickdealer-on-propeller-pa23.11556/)
 -  08 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)
+-  08 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
+-  08 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
+-  08 [My First Follow Along 2023 Lets begin #PA23 💎 Affiliates Experts 💎](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23-%F0%9F%92%8E-affiliates-experts-%F0%9F%92%8E.11563/)
+-  08 [Running sweep  offers of Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-sweep-offers-of-clickdealer-on-propeller-pa23.11556/)
 -  08 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  08 [Make Money With CPA Model #PA23](https://afflift.com/f/threads/make-money-with-cpa-model-pa23.11554/)
 -  08 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
 -  08 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)
--  08 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  08 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  08 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)<!-- afflift:END -->
+-  08 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
