@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [本周看什么 | 最近值得一看的一大盆作品](https://sspai.com/post/82797)
 -  08 [7 句话与 4 个工具，帮时间管理菜鸟突破放弃循环](https://sspai.com/post/82724)
 -  08 [让写作变成一种生活方式，这是我的方法与心得](https://sspai.com/post/82654)
 -  08 [派早报：欧盟委员会公布《数字市场法案》「看门人」企业名单](https://sspai.com/post/82782)<!-- sspai:END -->
