@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [LIFT Your mVAS Campaigns with Increased Rates at Golden Goose! 🚀](https://afflift.com/f/threads/lift-your-mvas-campaigns-with-increased-rates-at-golden-goose-%F0%9F%9A%80.11604/)
 -  08 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  08 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)
 -  08 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
@@ -33,8 +34,7 @@
 -  08 [My First Follow Along 2023 Lets begin #PA23 💎 Affiliates Experts 💎](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23-%F0%9F%92%8E-affiliates-experts-%F0%9F%92%8E.11563/)
 -  08 [Running sweep  offers of Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-sweep-offers-of-clickdealer-on-propeller-pa23.11556/)
 -  08 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  08 [Make Money With CPA Model #PA23](https://afflift.com/f/threads/make-money-with-cpa-model-pa23.11554/)
--  08 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)<!-- afflift:END -->
+-  08 [Make Money With CPA Model #PA23](https://afflift.com/f/threads/make-money-with-cpa-model-pa23.11554/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
