@@ -41,5 +41,4 @@
 -  08 [让写作变成一种生活方式，这是我的方法与心得](https://sspai.com/post/82654)
 -  08 [派早报：欧盟委员会公布《数字市场法案》「看门人」企业名单](https://sspai.com/post/82782)
 -  07 [我在数字时代做了一个电子日历，让油画和照片可以被装进去](https://sspai.com/post/82704)
--  07 [开学季 | 少数派正版软件促销 5 折起，还有限时特惠 Bundle](https://sspai.com/post/82773)
--  07 [人人可编程，人人能创造：第八届移动应用创新赛圆满落幕](https://sspai.com/post/82738)<!-- sspai:END -->
+-  07 [开学季 | 少数派正版软件促销 5 折起，还有限时特惠 Bundle](https://sspai.com/post/82773)<!-- sspai:END -->
