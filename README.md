@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  08 [本周看什么 | 最近值得一看的一大盆作品](https://sspai.com/post/82797)
--  08 [7 句话与 4 个工具，帮时间管理菜鸟突破放弃循环](https://sspai.com/post/82724)<!-- sspai:END -->
+-  08 [本周看什么 | 最近值得一看的一大盆作品](https://sspai.com/post/82797)<!-- sspai:END -->
