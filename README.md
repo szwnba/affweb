@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
+-  09 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
 -  09 [Help me to make money online, please!](https://afflift.com/f/threads/help-me-to-make-money-online-please.11603/)
 -  09 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
 -  09 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
@@ -28,10 +30,8 @@
 -  09 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
 -  09 [Back To Basics #PA23 Follow-Along](https://afflift.com/f/threads/back-to-basics-pa23-follow-along.11597/)
 -  09 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  09 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  09 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
--  09 [Hello, New to the forum and new to affiliate marketing](https://afflift.com/f/threads/hello-new-to-the-forum-and-new-to-affiliate-marketing.11613/)
--  09 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)<!-- afflift:END -->
+-  09 [Hello, New to the forum and new to affiliate marketing](https://afflift.com/f/threads/hello-new-to-the-forum-and-new-to-affiliate-marketing.11613/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
