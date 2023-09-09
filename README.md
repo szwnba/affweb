@@ -20,8 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  09 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
+-  09 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  09 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  09 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
 -  09 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)
 -  09 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  09 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
@@ -30,8 +31,7 @@
 -  08 [Back To Basics #PA23 Follow-Along](https://afflift.com/f/threads/back-to-basics-pa23-follow-along.11597/)
 -  08 [LIFT Your mVAS Campaigns with Increased Rates at Golden Goose! 🚀](https://afflift.com/f/threads/lift-your-mvas-campaigns-with-increased-rates-at-golden-goose-%F0%9F%9A%80.11604/)
 -  08 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)
--  08 [Approach X: domains https crash](https://afflift.com/f/threads/approach-x-domains-https-crash.11607/)
--  08 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)<!-- afflift:END -->
+-  08 [Approach X: domains https crash](https://afflift.com/f/threads/approach-x-domains-https-crash.11607/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
