@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
 -  09 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
 -  09 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  09 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
@@ -30,8 +31,7 @@
 -  09 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
 -  09 [Hello, New to the forum and new to affiliate marketing](https://afflift.com/f/threads/hello-new-to-the-forum-and-new-to-affiliate-marketing.11613/)
 -  09 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)
--  09 [Pop/PPV networks with keyword &lpar;domain&rpar; targeting](https://afflift.com/f/threads/pop-ppv-networks-with-keyword-domain-targeting.2394/)
--  09 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)<!-- afflift:END -->
+-  09 [Pop/PPV networks with keyword &lpar;domain&rpar; targeting](https://afflift.com/f/threads/pop-ppv-networks-with-keyword-domain-targeting.2394/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
