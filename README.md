@@ -35,4 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  08 [本周看什么 | 最近值得一看的一大盆作品](https://sspai.com/post/82797)<!-- sspai:END -->
+-  09 [在《乐队的夏天》爆改甜歌，麻园诗人需要取得谁的授权？](https://sspai.com/post/82749)<!-- sspai:END -->
