@@ -10,7 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  08 [听说有大佬做cpa日入1k，尊嘟假嘟,这个收入肿么样](https://www.advertcn.com/forum.php?mod=viewthread&tid=112008)<!-- advertcn:END -->
+-  10 [求好的英文统计推荐？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112032)
+-  09 [追踪程序和流量平台只显示展现？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112031)
+-  09 [怎么才可以做这个卖激活码的独立站？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112029)
+-  09 [啥都没干就被cj k号了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112028)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
