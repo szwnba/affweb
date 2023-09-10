@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Pop/PPV networks with keyword &lpar;domain&rpar; targeting](https://afflift.com/f/threads/pop-ppv-networks-with-keyword-domain-targeting.2394/)
 -  10 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
 -  10 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)
 -  10 [Help me to make money online, please!](https://afflift.com/f/threads/help-me-to-make-money-online-please.11603/)
@@ -33,8 +34,7 @@
 -  10 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
 -  09 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  09 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
--  09 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
--  09 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)<!-- afflift:END -->
+-  09 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
