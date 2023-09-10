@@ -35,4 +35,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [Lightning 或将步入历史舞台，下周的 Apple 发布会还有哪些看点？](https://sspai.com/post/82821)
 -  09 [在《乐队的夏天》爆改甜歌，麻园诗人需要取得谁的授权？](https://sspai.com/post/82749)<!-- sspai:END -->
