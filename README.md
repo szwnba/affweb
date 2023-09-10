@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  10 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
+-  10 [DESK POP on Propellerads #PA23](https://afflift.com/f/threads/desk-pop-on-propellerads-pa23.11579/)
+-  10 [Dating offers on PropellerAds - My First Follow Along #PA23](https://afflift.com/f/threads/dating-offers-on-propellerads-my-first-follow-along-pa23.11575/)
+-  10 [PropellerAds #PA23](https://afflift.com/f/threads/propellerads-pa23.11570/)
 -  10 [Help me to make money online, please!](https://afflift.com/f/threads/help-me-to-make-money-online-please.11603/)
+-  10 [MOB POPs on Propellerads #PA23](https://afflift.com/f/threads/mob-pops-on-propellerads-pa23.11553/)
+-  10 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  10 [Selling fully anonymous private proxies - very fast activation - 24/7 support](https://afflift.com/f/threads/selling-fully-anonymous-private-proxies-very-fast-activation-24-7-support.11474/)
 -  10 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/)
 -  10 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  10 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  10 [Pop/PPV networks with keyword &lpar;domain&rpar; targeting](https://afflift.com/f/threads/pop-ppv-networks-with-keyword-domain-targeting.2394/)
--  10 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
--  10 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)
--  10 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
--  10 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
--  10 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)<!-- afflift:END -->
+-  10 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
