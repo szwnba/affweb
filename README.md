@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
+-  11 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
 -  11 [Hello, New to the forum and new to affiliate marketing](https://afflift.com/f/threads/hello-new-to-the-forum-and-new-to-affiliate-marketing.11613/)
 -  11 [Back To Basics #PA23 Follow-Along](https://afflift.com/f/threads/back-to-basics-pa23-follow-along.11597/)
 -  11 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
@@ -29,9 +31,7 @@
 -  11 [Home Services Leads](https://afflift.com/f/threads/home-services-leads.11616/)
 -  11 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  11 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
--  11 [Approach X: domains https crash](https://afflift.com/f/threads/approach-x-domains-https-crash.11607/)
--  11 [Dating offers on PropellerAds - My First Follow Along #PA23](https://afflift.com/f/threads/dating-offers-on-propellerads-my-first-follow-along-pa23.11575/)
--  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  11 [Approach X: domains https crash](https://afflift.com/f/threads/approach-x-domains-https-crash.11607/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
