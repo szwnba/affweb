@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  11 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  11 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
+-  11 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
+-  11 [Approach X: domains https crash](https://afflift.com/f/threads/approach-x-domains-https-crash.11607/)
+-  11 [Dating offers on PropellerAds - My First Follow Along #PA23](https://afflift.com/f/threads/dating-offers-on-propellerads-my-first-follow-along-pa23.11575/)
+-  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  11 [Monetizer smart link Postback setting failed?](https://afflift.com/f/threads/monetizer-smart-link-postback-setting-failed.11615/)
+-  11 [Hello, New to the forum and new to affiliate marketing](https://afflift.com/f/threads/hello-new-to-the-forum-and-new-to-affiliate-marketing.11613/)
+-  11 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  11 [KeyAffiliates - Affiliate network in gambling industry](https://afflift.com/f/threads/keyaffiliates-affiliate-network-in-gambling-industry.5468/)
 -  11 [#PA23 Back to School](https://afflift.com/f/threads/pa23-back-to-school.11549/)
--  11 [Hello, New to the forum and new to affiliate marketing](https://afflift.com/f/threads/hello-new-to-the-forum-and-new-to-affiliate-marketing.11613/)
 -  11 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)
--  11 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
--  11 [Hello, new to the forum](https://afflift.com/f/threads/hello-new-to-the-forum.11596/)
--  11 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
--  11 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/)
--  11 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
--  11 [Monetizer smart link Postback setting failed?](https://afflift.com/f/threads/monetizer-smart-link-postback-setting-failed.11615/)<!-- afflift:END -->
+-  11 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
