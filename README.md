@@ -38,4 +38,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [派早报：Procreate 将推出动画版，PowerPoint 主要开发者逝世](https://sspai.com/post/82829)
 -  10 [Lightning 或将成为历史，下周的 Apple 发布会还有哪些看点？](https://sspai.com/post/82821)<!-- sspai:END -->
