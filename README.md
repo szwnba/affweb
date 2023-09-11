@@ -10,10 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  10 [求好的英文统计推荐？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112032)
--  09 [追踪程序和流量平台只显示展现？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112031)
--  09 [怎么才可以做这个卖激活码的独立站？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112029)
--  09 [啥都没干就被cj k号了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112028)<!-- advertcn:END -->
+-  11 [有没有能跑韩国的广告渠道？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112046)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
