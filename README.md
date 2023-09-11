@@ -38,4 +38,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  10 [Lightning 或将步入历史舞台，下周的 Apple 发布会还有哪些看点？](https://sspai.com/post/82821)<!-- sspai:END -->
+-  10 [Lightning 或将成为历史，下周的 Apple 发布会还有哪些看点？](https://sspai.com/post/82821)<!-- sspai:END -->
