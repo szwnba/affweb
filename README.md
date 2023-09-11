@@ -24,6 +24,7 @@
 ### afflift
 <!-- afflift:START -->
 -  11 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
+-  11 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)
 -  11 [#PA23 Back to School](https://afflift.com/f/threads/pa23-back-to-school.11549/)
 -  11 [Home Services Leads](https://afflift.com/f/threads/home-services-leads.11616/)
 -  11 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
@@ -33,8 +34,7 @@
 -  11 [Dating offers on PropellerAds - My First Follow Along #PA23](https://afflift.com/f/threads/dating-offers-on-propellerads-my-first-follow-along-pa23.11575/)
 -  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  11 [Monetizer smart link Postback setting failed?](https://afflift.com/f/threads/monetizer-smart-link-postback-setting-failed.11615/)
--  11 [Hello, New to the forum and new to affiliate marketing](https://afflift.com/f/threads/hello-new-to-the-forum-and-new-to-affiliate-marketing.11613/)
--  11 [KeyAffiliates - Affiliate network in gambling industry](https://afflift.com/f/threads/keyaffiliates-affiliate-network-in-gambling-industry.5468/)<!-- afflift:END -->
+-  11 [Hello, New to the forum and new to affiliate marketing](https://afflift.com/f/threads/hello-new-to-the-forum-and-new-to-affiliate-marketing.11613/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
