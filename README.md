@@ -38,5 +38,4 @@
 -  12 [家庭服务器除了存储还能做什么？聊聊我的部署思路](https://sspai.com/post/82512)
 -  12 [派早报：红米 Note 13 将首发天玑 7200 Ultra，高通与 Apple 续约等](https://sspai.com/post/82862)
 -  11 [会员畅读 | 完全上手顶级 Mac 自动化工具，用 Keyboard Maestro 拯救效率](https://sspai.com/post/82854)
--  11 [派评 | 近期值得关注的 App](https://sspai.com/post/82853)
--  11 [播客 | 劲爆、缺德大集合：漫谈 Apple 新品发布会](https://sspai.com/post/82842)<!-- sspai:END -->
+-  11 [派评 | 近期值得关注的 App](https://sspai.com/post/82853)<!-- sspai:END -->
