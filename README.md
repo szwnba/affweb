@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [My First Follow Along 2023 Lets begin #PA23 💎 Affiliates Experts 💎](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23-%F0%9F%92%8E-affiliates-experts-%F0%9F%92%8E.11563/)
 -  11 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
 -  11 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
 -  11 [Hello, New to the forum and new to affiliate marketing](https://afflift.com/f/threads/hello-new-to-the-forum-and-new-to-affiliate-marketing.11613/)
@@ -30,8 +31,7 @@
 -  11 [#PA23 Back to School](https://afflift.com/f/threads/pa23-back-to-school.11549/)
 -  11 [Home Services Leads](https://afflift.com/f/threads/home-services-leads.11616/)
 -  11 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  11 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)
--  11 [Approach X: domains https crash](https://afflift.com/f/threads/approach-x-domains-https-crash.11607/)<!-- afflift:END -->
+-  11 [help! How should I optimize?](https://afflift.com/f/threads/help-how-should-i-optimize.11484/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
