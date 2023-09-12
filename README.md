@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
 -  12 [A contest of articles from Binom.](https://afflift.com/f/threads/a-contest-of-articles-from-binom.11620/)
+-  12 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
+-  12 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  12 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
 -  12 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  12 [PropellerAds #PA23](https://afflift.com/f/threads/propellerads-pa23.11570/)
 -  12 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
 -  12 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  12 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  12 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  12 [😍 New LanderLab &lpar;Free Beta&rpar;](https://afflift.com/f/threads/%F0%9F%98%8D-new-landerlab-free-beta.11402/)
 -  12 [Which Landing pages Builder is best and cheap?](https://afflift.com/f/threads/which-landing-pages-builder-is-best-and-cheap.11336/)
--  12 [Double Meta Refresh Causing Virustotal Flags](https://afflift.com/f/threads/double-meta-refresh-causing-virustotal-flags.11617/)
--  12 [How to use SearchWrench? a simple guide.](https://afflift.com/f/threads/how-to-use-searchwrench-a-simple-guide.552/)<!-- afflift:END -->
+-  12 [Double Meta Refresh Causing Virustotal Flags](https://afflift.com/f/threads/double-meta-refresh-causing-virustotal-flags.11617/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
