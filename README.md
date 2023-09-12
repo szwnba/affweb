@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [限时满赠 | 苹果发布会要来了，iOS 蓝皮书还会远吗](https://sspai.com/post/82880)
 -  12 [社区速递 012 | 便宜好用的工具、付费的播客栏目以及新玩意](https://sspai.com/post/82869)
 -  12 [开学季 | iPad 手写笔记 app 横评，找出最适合自己的那款](https://sspai.com/post/82865)
 -  12 [家庭服务器除了存储还能做什么？聊聊我的部署思路](https://sspai.com/post/82512)
--  12 [派早报：红米 Note 13 将首发天玑 7200 Ultra，高通与 Apple 续约等](https://sspai.com/post/82862)
--  11 [会员畅读 | 完全上手顶级 Mac 自动化工具，用 Keyboard Maestro 拯救效率](https://sspai.com/post/82854)<!-- sspai:END -->
+-  12 [派早报：红米 Note 13 将首发天玑 7200 Ultra，高通与 Apple 续约等](https://sspai.com/post/82862)<!-- sspai:END -->
