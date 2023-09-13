@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  13 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
 -  13 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  13 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)
 -  13 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
@@ -29,9 +31,7 @@
 -  13 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
 -  13 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
 -  13 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
--  13 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  13 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
--  13 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)<!-- afflift:END -->
+-  13 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
