@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [派早报：Apple 推出 iPhone 15 系列手机等多款新品、华为发布新款问界 M7 等](https://sspai.com/post/82899)
 -  12 [一图流 | 一张图带你看完 iPhone 15 发布会](https://sspai.com/post/82898)
 -  12 [最轻 Pro 级 iPhone 亮相：Apple 发布会看点回顾](https://sspai.com/post/82897)
 -  12 [限时满赠 | 苹果发布会要来了，iOS 蓝皮书还会远吗](https://sspai.com/post/82880)
--  12 [社区速递 012 | 便宜好用的工具、付费的播客栏目以及新玩意](https://sspai.com/post/82869)
--  12 [开学季 | iPad 手写笔记 app 横评，找出最适合自己的那款](https://sspai.com/post/82865)<!-- sspai:END -->
+-  12 [社区速递 012 | 便宜好用的工具、付费的播客栏目以及新玩意](https://sspai.com/post/82869)<!-- sspai:END -->
