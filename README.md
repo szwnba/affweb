@@ -38,5 +38,4 @@
 -  13 [飞书，见证 B 端陷阱](https://sspai.com/post/82238)
 -  12 [派早报：Apple 推出 iPhone 15 系列手机等多款新品、华为发布新款问界 M7 等](https://sspai.com/post/82899)
 -  12 [一图流 | 一张图带你看完 iPhone 15 发布会](https://sspai.com/post/82898)
--  12 [最轻 Pro 级 iPhone 亮相：Apple 发布会看点回顾](https://sspai.com/post/82897)
--  12 [限时满赠 | 苹果发布会要来了，iOS 蓝皮书还会远吗](https://sspai.com/post/82880)<!-- sspai:END -->
+-  12 [最轻 Pro 级 iPhone 亮相：Apple 发布会看点回顾](https://sspai.com/post/82897)<!-- sspai:END -->
