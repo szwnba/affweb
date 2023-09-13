@@ -20,6 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
+-  13 [Promoting Dating Offers in Germany With Push Notifications: How to Increase CTR Without Wasting Money](https://afflift.com/f/threads/promoting-dating-offers-in-germany-with-push-notifications-how-to-increase-ctr-without-wasting-money.11623/)
+-  13 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
+-  13 [Private offers to Africa🤑](https://afflift.com/f/threads/private-offers-to-africa%F0%9F%A4%91.10430/)
 -  13 [My first FA with Yellana and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-yellana-and-pa-pa23.11577/)
 -  13 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)
 -  13 [MOB POPs on Propellerads #PA23](https://afflift.com/f/threads/mob-pops-on-propellerads-pa23.11553/)
@@ -27,11 +31,7 @@
 -  13 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)
 -  13 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  13 [Double Meta Refresh Causing Virustotal Flags](https://afflift.com/f/threads/double-meta-refresh-causing-virustotal-flags.11617/)
--  13 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
--  13 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  13 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
--  13 [Testing some new things... #PA23](https://afflift.com/f/threads/testing-some-new-things-pa23.11578/)
--  13 [🤝SBC Summit Barcelona! Meet the KeyAffiliates team✈️](https://afflift.com/f/threads/%F0%9F%A4%9Dsbc-summit-barcelona-meet-the-keyaffiliates-team%E2%9C%88%EF%B8%8F.11622/)<!-- afflift:END -->
+-  13 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
