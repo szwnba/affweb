@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [新玩意 160｜少数派的编辑们最近买了啥？](https://sspai.com/post/82951)
 -  14 [下单新 iPhone 前，先来看看外媒真机上手体验](https://sspai.com/post/82939)
 -  14 [专注也需要一个空间：给自己布置一个简易书房角落](https://sspai.com/post/82326)
 -  14 [派早报：Unity 引擎调整收费模式、华为和小米达成交叉专利许可等](https://sspai.com/post/82930)<!-- sspai:END -->
