@@ -25,6 +25,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [highest volume push networks 2023](https://afflift.com/f/threads/highest-volume-push-networks-2023.11632/)
+-  14 [https://ads-approved.com/](https://afflift.com/f/threads/https-ads-approved-com.11631/)
 -  14 [Back To Basics #PA23 Follow-Along](https://afflift.com/f/threads/back-to-basics-pa23-follow-along.11597/)
 -  14 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  14 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
@@ -34,9 +36,7 @@
 -  14 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
 -  14 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  14 [ANNOUNCING NEW WEBINAR: Casino vs Betting Round Table🔥](https://afflift.com/f/threads/announcing-new-webinar-casino-vs-betting-round-table%F0%9F%94%A5.11630/)
--  14 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
--  14 [TOP 6 Bulletproof Cloakers for Working with Google Ads + Alternative Solutions For Dealing with Grayhat Verticals](https://afflift.com/f/threads/top-6-bulletproof-cloakers-for-working-with-google-ads-alternative-solutions-for-dealing-with-grayhat-verticals.11629/)
--  14 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)<!-- afflift:END -->
+-  14 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
