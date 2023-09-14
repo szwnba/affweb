@@ -10,10 +10,12 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  13 [FB,TK全系账号出售](https://www.advertcn.com/forum.php?mod=viewthread&tid=112088)
--  13 [自动化SEO与实例教学-2023](https://www.advertcn.com/forum.php?mod=viewthread&tid=112086)
--  13 [谷歌最近几个月在PPC这块疯狂杀熟，大家怎么看？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112079)
--  13 [比特币交易手续费问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=112077)<!-- advertcn:END -->
+-  14 [“超级索引”机器人因涉黑灰产广告而被查处](https://www.advertcn.com/forum.php?mod=viewthread&tid=112106)
+-  14 [新人回归 外贸半成品（电子成品）如何利用FB 和LK 找客户](https://www.advertcn.com/forum.php?mod=viewthread&tid=112105)
+-  14 [Bodis也调整8月份的收入了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112099)
+-  14 [不知道为何，从8月开始，AdSense收入就这么低了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112095)
+-  14 [如何获得大量 欧美发达国家的人的邮件地址？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112094)
+-  13 [CJ账号被封了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112092)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
