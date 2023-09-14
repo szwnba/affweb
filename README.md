@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
+-  14 [Any VPS recommandation in Africa ?](https://afflift.com/f/threads/any-vps-recommandation-in-africa.11624/)
+-  14 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  13 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
 -  13 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)
 -  13 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
@@ -31,10 +34,7 @@
 -  13 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
 -  13 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  13 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
--  13 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
--  13 [Affigs: Direct advertiser in dating with 50+ in-house programs | Upto $20/PPL | Join now and get $500 bonus.](https://afflift.com/f/threads/affigs-direct-advertiser-in-dating-with-50-in-house-programs-upto-20-ppl-join-now-and-get-500-bonus.11506/)
--  13 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
--  13 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)<!-- afflift:END -->
+-  13 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
