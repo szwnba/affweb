@@ -25,6 +25,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
+-  14 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  14 [Affiliate marketing in the SaaS segment](https://afflift.com/f/threads/affiliate-marketing-in-the-saas-segment.11628/)
 -  14 [Get Ready For Singles Day 2023 With Our Affiliate Marketing Guide](https://afflift.com/f/threads/get-ready-for-singles-day-2023-with-our-affiliate-marketing-guide.11627/)
 -  14 [Running CPA offers of 🎯Zyedoo on Propeller #PA23.](https://afflift.com/f/threads/running-cpa-offers-of-%F0%9F%8E%AFzyedoo-on-propeller-pa23.11547/)
@@ -34,9 +36,7 @@
 -  14 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
 -  14 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
 -  14 [Would you like to hear my story about earning during the FIFA World Cup?](https://afflift.com/f/threads/would-you-like-to-hear-my-story-about-earning-during-the-fifa-world-cup.11626/)
--  14 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)
--  14 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
--  14 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
+-  14 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
