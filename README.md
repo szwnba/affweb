@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [专注也需要一个空间：给自己布置一个简易书房角落](https://sspai.com/post/82326)
 -  14 [派早报：Unity 引擎调整收费模式、华为和小米达成交叉专利许可等](https://sspai.com/post/82930)
 -  13 [将 VS Code 打造成跨平台 Markdown「草稿本」](https://sspai.com/prime/story/vscode-as-scratchpad)
 -  13 [你记忆中的磁带从何而来，大放异彩之后它又去了哪里？](https://sspai.com/post/82626)
