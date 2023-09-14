@@ -40,5 +40,4 @@
 <!-- sspai:START -->
 -  13 [将 VS Code 打造成跨平台 Markdown「草稿本」](https://sspai.com/prime/story/vscode-as-scratchpad)
 -  13 [你记忆中的磁带从何而来，大放异彩之后它又去了哪里？](https://sspai.com/post/82626)
--  13 [飞书，见证 B 端陷阱](https://sspai.com/post/82238)
--  12 [派早报：Apple 推出 iPhone 15 系列手机等多款新品、华为发布新款问界 M7 等](https://sspai.com/post/82899)<!-- sspai:END -->
+-  13 [飞书，见证 B 端陷阱](https://sspai.com/post/82238)<!-- sspai:END -->
