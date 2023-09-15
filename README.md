@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  15 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  15 [Is it vital to add a landscape to your creatives when running push ads?](https://afflift.com/f/threads/is-it-vital-to-add-a-landscape-to-your-creatives-when-running-push-ads.11634/)
 -  15 [Hi everyone, looking forward to creating something great.](https://afflift.com/f/threads/hi-everyone-looking-forward-to-creating-something-great.11635/)
@@ -30,8 +31,7 @@
 -  15 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  15 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
 -  15 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
--  15 [https://ads-approved.com/](https://afflift.com/f/threads/https-ads-approved-com.11631/)
--  15 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)<!-- afflift:END -->
+-  15 [https://ads-approved.com/](https://afflift.com/f/threads/https-ads-approved-com.11631/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
