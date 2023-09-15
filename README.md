@@ -37,7 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [Matrix Talk | 你的新手机和它们更搭：少数派的作者们爱用哪些手机配件？](https://sspai.com/post/82916)
 -  15 [从 30 Pin 到 USB Type-C，细数 iPhone 接口的变化](https://sspai.com/post/82913)
 -  15 [使用 Obsidian 两年以后，聊聊我的同步和整理心得](https://sspai.com/post/82501)
--  15 [派早报：网信办依法查处 QQ 危害未成年人身心健康违法案件等](https://sspai.com/post/82957)
--  14 [新玩意 160｜少数派的编辑们最近买了啥？](https://sspai.com/post/82951)<!-- sspai:END -->
+-  15 [派早报：网信办依法查处 QQ 危害未成年人身心健康违法案件等](https://sspai.com/post/82957)<!-- sspai:END -->
