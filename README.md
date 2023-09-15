@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  15 [How to check the offers before running it with your campaigns](https://afflift.com/f/threads/how-to-check-the-offers-before-running-it-with-your-campaigns.8132/)
 -  15 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
 -  15 [PropellerAds Question: Can I choose ISP for Wifi traffic?](https://afflift.com/f/threads/propellerads-question-can-i-choose-isp-for-wifi-traffic.11633/)
@@ -32,8 +33,7 @@
 -  14 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  14 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)
 -  14 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
--  14 [highest volume push networks 2023](https://afflift.com/f/threads/highest-volume-push-networks-2023.11632/)
--  14 [https://ads-approved.com/](https://afflift.com/f/threads/https-ads-approved-com.11631/)<!-- afflift:END -->
+-  14 [highest volume push networks 2023](https://afflift.com/f/threads/highest-volume-push-networks-2023.11632/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
