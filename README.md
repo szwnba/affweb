@@ -10,9 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  15 [购物大站typo停放收入](https://www.advertcn.com/forum.php?mod=viewthread&tid=112113)
--  14 [“超级索引”机器人因涉黑灰产广告而被查处](https://www.advertcn.com/forum.php?mod=viewthread&tid=112106)
--  14 [新人回归 外贸半成品（电子成品）如何利用FB 和LK 找客户](https://www.advertcn.com/forum.php?mod=viewthread&tid=112105)<!-- advertcn:END -->
+-  15 [购物大站typo停放收入](https://www.advertcn.com/forum.php?mod=viewthread&tid=112113)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
