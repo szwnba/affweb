@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  15 [使用 Obsidian 两年以后，聊聊我的同步和整理心得](https://sspai.com/post/82501)
 -  15 [派早报：网信办依法查处 QQ 危害未成年人身心健康违法案件等](https://sspai.com/post/82957)
--  14 [新玩意 160｜少数派的编辑们最近买了啥？](https://sspai.com/post/82951)
--  14 [下单新 iPhone 前，先来看看外媒真机上手体验](https://sspai.com/post/82939)<!-- sspai:END -->
+-  14 [新玩意 160｜少数派的编辑们最近买了啥？](https://sspai.com/post/82951)<!-- sspai:END -->
