@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  15 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  15 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
 -  15 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
@@ -32,8 +33,7 @@
 -  15 [highest volume push networks 2023](https://afflift.com/f/threads/highest-volume-push-networks-2023.11632/)
 -  15 [Is it vital to add a landscape to your creatives when running push ads?](https://afflift.com/f/threads/is-it-vital-to-add-a-landscape-to-your-creatives-when-running-push-ads.11634/)
 -  15 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  15 [Hi everyone, looking forward to creating something great.](https://afflift.com/f/threads/hi-everyone-looking-forward-to-creating-something-great.11635/)
--  15 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)<!-- afflift:END -->
+-  15 [Hi everyone, looking forward to creating something great.](https://afflift.com/f/threads/hi-everyone-looking-forward-to-creating-something-great.11635/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
