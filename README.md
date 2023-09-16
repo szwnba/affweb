@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  15 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/82969)
--  15 [Matrix Talk | 你的新手机和它们更搭：少数派的作者们爱用哪些手机配件？](https://sspai.com/post/82916)<!-- sspai:END -->
+-  15 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/82969)<!-- sspai:END -->
