@@ -35,4 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  15 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/82969)<!-- sspai:END -->
+-  16 [Eagle 的隐藏用法：批量导入并管理 Zotero 的标注图片](https://sspai.com/post/82791)<!-- sspai:END -->
