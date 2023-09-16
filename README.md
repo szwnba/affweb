@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Selling fully anonymous private proxies - very fast activation - 24/7 support](https://afflift.com/f/threads/selling-fully-anonymous-private-proxies-very-fast-activation-24-7-support.11474/)
 -  16 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)
 -  16 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  16 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
@@ -30,8 +31,7 @@
 -  15 [Hello everyone](https://afflift.com/f/threads/hello-everyone.11625/)
 -  15 [Hi everyone, looking forward to creating something great.](https://afflift.com/f/threads/hi-everyone-looking-forward-to-creating-something-great.11635/)
 -  15 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  15 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)
--  15 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)<!-- afflift:END -->
+-  15 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
