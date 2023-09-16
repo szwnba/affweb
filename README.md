@@ -21,8 +21,8 @@
 ### afflift
 <!-- afflift:START -->
 -  16 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
--  16 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  16 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
+-  16 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  16 [Suggestions for Security - Vultr with Cyber Panel](https://afflift.com/f/threads/suggestions-for-security-vultr-with-cyber-panel.11562/)
 -  16 [Campaign Setup for Testing/Optimization - Best Practices](https://afflift.com/f/threads/campaign-setup-for-testing-optimization-best-practices.11640/)
 -  15 [Is it vital to add a landscape to your creatives when running push ads?](https://afflift.com/f/threads/is-it-vital-to-add-a-landscape-to-your-creatives-when-running-push-ads.11634/)
