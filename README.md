@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)
 -  16 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
 -  16 [Selling fully anonymous private proxies - very fast activation - 24/7 support](https://afflift.com/f/threads/selling-fully-anonymous-private-proxies-very-fast-activation-24-7-support.11474/)
 -  16 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)
@@ -30,8 +31,7 @@
 -  16 [Campaign Setup for Testing/Optimization - Best Practices](https://afflift.com/f/threads/campaign-setup-for-testing-optimization-best-practices.11640/)
 -  15 [Is it vital to add a landscape to your creatives when running push ads?](https://afflift.com/f/threads/is-it-vital-to-add-a-landscape-to-your-creatives-when-running-push-ads.11634/)
 -  15 [Hello everyone](https://afflift.com/f/threads/hello-everyone.11625/)
--  15 [Hi everyone, looking forward to creating something great.](https://afflift.com/f/threads/hi-everyone-looking-forward-to-creating-something-great.11635/)
--  15 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)<!-- afflift:END -->
+-  15 [Hi everyone, looking forward to creating something great.](https://afflift.com/f/threads/hi-everyone-looking-forward-to-creating-something-great.11635/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
