@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  15 [购物大站typo停放收入](https://www.advertcn.com/forum.php?mod=viewthread&tid=112113)<!-- advertcn:END -->
+-  16 [将任意协议节点转换为socks节点，无需搭建socks代理](https://www.advertcn.com/forum.php?mod=viewthread&tid=112139)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
