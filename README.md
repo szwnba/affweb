@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)
 -  16 [Campaign Setup for Testing/Optimization - Best Practices](https://afflift.com/f/threads/campaign-setup-for-testing-optimization-best-practices.11640/)
 -  16 [#PA old is gold &quot;Adsense Arbitrage&quot; 💪](https://afflift.com/f/threads/pa-old-is-gold-adsense-arbitrage-%F0%9F%92%AA.11571/)
 -  16 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
@@ -31,8 +32,7 @@
 -  16 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  16 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)
 -  16 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
--  16 [Selling fully anonymous private proxies - very fast activation - 24/7 support](https://afflift.com/f/threads/selling-fully-anonymous-private-proxies-very-fast-activation-24-7-support.11474/)
--  16 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)<!-- afflift:END -->
+-  16 [Selling fully anonymous private proxies - very fast activation - 24/7 support](https://afflift.com/f/threads/selling-fully-anonymous-private-proxies-very-fast-activation-24-7-support.11474/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
