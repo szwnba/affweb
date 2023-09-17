@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  16 [将任意协议节点转换为socks节点，无需搭建socks代理](https://www.advertcn.com/forum.php?mod=viewthread&tid=112139)<!-- advertcn:END -->
+-  16 [请问大家parkingcrew如何收款？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112143)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
