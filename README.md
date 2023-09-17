@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
 -  17 [Campaign Setup for Testing/Optimization - Best Practices](https://afflift.com/f/threads/campaign-setup-for-testing-optimization-best-practices.11640/)
 -  17 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  17 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
@@ -30,7 +31,6 @@
 -  17 [Need Some Suggestions about Start](https://afflift.com/f/threads/need-some-suggestions-about-start.11641/)
 -  17 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
 -  17 [How to check the offers before running it with your campaigns](https://afflift.com/f/threads/how-to-check-the-offers-before-running-it-with-your-campaigns.8132/)
--  17 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
 -  16 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)<!-- afflift:END -->
 
 ### 少数派
