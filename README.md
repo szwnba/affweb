@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  17 [开学季 | 值得关注的官翻渠道汇总 &lpar;2023&rpar;](https://sspai.com/post/82996)
--  16 [处理器简史｜PowerPC 08：否极泰来 以弱胜强（下）](https://sspai.com/prime/story/ppc-history-08)<!-- sspai:END -->
+-  17 [开学季 | 值得关注的官翻渠道汇总 &lpar;2023&rpar;](https://sspai.com/post/82996)<!-- sspai:END -->
