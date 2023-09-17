@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [How to check the offers before running it with your campaigns](https://afflift.com/f/threads/how-to-check-the-offers-before-running-it-with-your-campaigns.8132/)
 -  17 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
 -  17 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
 -  17 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
@@ -30,8 +31,7 @@
 -  16 [Need Some Suggestions about Start](https://afflift.com/f/threads/need-some-suggestions-about-start.11641/)
 -  16 [MOB POPs on Propellerads #PA23](https://afflift.com/f/threads/mob-pops-on-propellerads-pa23.11553/)
 -  16 [Lightening Fast Landing Pages](https://afflift.com/f/threads/lightening-fast-landing-pages.11142/)
--  16 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
--  16 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)<!-- afflift:END -->
+-  16 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
