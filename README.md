@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
+-  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  18 [Hi everyone](https://afflift.com/f/threads/hi-everyone.11647/)
 -  18 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
 -  18 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
@@ -30,9 +32,7 @@
 -  18 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  18 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  18 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
--  18 [Need Some Suggestions about Start](https://afflift.com/f/threads/need-some-suggestions-about-start.11641/)
--  18 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  18 [Which network have this tracking link](https://afflift.com/f/threads/which-network-have-this-tracking-link.11644/)<!-- afflift:END -->
+-  18 [Need Some Suggestions about Start](https://afflift.com/f/threads/need-some-suggestions-about-start.11641/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
