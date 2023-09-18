@@ -35,5 +35,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [iPhone 15 发布会上没有告诉你的那些事](https://sspai.com/post/82987)
 -  18 [Obsidian + Excalidraw：我的个人知识管理可视化方法论](https://sspai.com/post/82130)
 -  18 [派早报：苹果更新 iPhone 12 软件以符合法国射频规定，最高检阐释人人影视案](https://sspai.com/post/83006)<!-- sspai:END -->
