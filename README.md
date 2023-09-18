@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
 -  18 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  18 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
 -  17 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
@@ -30,8 +31,7 @@
 -  17 [Campaign Setup for Testing/Optimization - Best Practices](https://afflift.com/f/threads/campaign-setup-for-testing-optimization-best-practices.11640/)
 -  17 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  17 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
--  17 [Lightening Fast Landing Pages](https://afflift.com/f/threads/lightening-fast-landing-pages.11142/)
--  17 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)<!-- afflift:END -->
+-  17 [Lightening Fast Landing Pages](https://afflift.com/f/threads/lightening-fast-landing-pages.11142/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
