@@ -20,6 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)
+-  18 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  18 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+-  18 [KeyAffiliates - Affiliate network in gambling industry](https://afflift.com/f/threads/keyaffiliates-affiliate-network-in-gambling-industry.5468/)
 -  18 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
 -  18 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
 -  18 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
@@ -27,11 +31,7 @@
 -  18 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
 -  18 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  18 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
--  18 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
--  17 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
--  17 [When to Cut a Zone That Has Conversions &lpar;Using Statistical Analysis&rpar;](https://afflift.com/f/threads/when-to-cut-a-zone-that-has-conversions-using-statistical-analysis.10611/)
--  17 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)
--  17 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)<!-- afflift:END -->
+-  18 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
