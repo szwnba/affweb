@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  18 [派早报：苹果更新 iPhone 12 软件以符合法国射频规定，最高检阐释人人影视案](https://sspai.com/post/83006)
--  17 [开学季 | 值得关注的官翻渠道汇总 &lpar;2023&rpar;](https://sspai.com/post/82996)<!-- sspai:END -->
+-  18 [派早报：苹果更新 iPhone 12 软件以符合法国射频规定，最高检阐释人人影视案](https://sspai.com/post/83006)<!-- sspai:END -->
