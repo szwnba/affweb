@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
--  19 [MOB POPs on Propellerads #PA23](https://afflift.com/f/threads/mob-pops-on-propellerads-pa23.11553/)
--  19 [PropellerAds x Propush contest #PA23](https://afflift.com/f/threads/propellerads-x-propush-contest-pa23.11568/)
--  19 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
--  19 [DESK POP on Propellerads #PA23](https://afflift.com/f/threads/desk-pop-on-propellerads-pa23.11579/)
--  19 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  19 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
--  19 [#PA23 Back to School](https://afflift.com/f/threads/pa23-back-to-school.11549/)
--  19 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
--  19 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)
--  19 [GG + PA + POP #PA23](https://afflift.com/f/threads/gg-pa-pop-pa23.11584/)
--  19 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)<!-- afflift:END -->
+-  19 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  19 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
+-  19 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  19 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
+-  19 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
+-  19 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
+-  19 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
+-  19 [My first FA with Yellana and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-yellana-and-pa-pa23.11577/)
+-  19 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
+-  19 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
+-  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  19 [Make Money With CPA Model #PA23](https://afflift.com/f/threads/make-money-with-cpa-model-pa23.11554/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
