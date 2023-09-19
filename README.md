@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
+-  19 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  19 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
 -  19 [How to make a correct Landing Page?](https://afflift.com/f/threads/how-to-make-a-correct-landing-page.11649/)
 -  19 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  19 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  19 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
 -  19 [The BIG Idea: Gaming the System](https://afflift.com/f/threads/the-big-idea-gaming-the-system.10268/)
--  19 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
 -  19 [Big difference in pop stats between GA and tracking software](https://afflift.com/f/threads/big-difference-in-pop-stats-between-ga-and-tracking-software.11648/)
 -  19 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)
 -  19 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
--  19 [Running CPA offers of 🎯Zyedoo on Propeller #PA23.](https://afflift.com/f/threads/running-cpa-offers-of-%F0%9F%8E%AFzyedoo-on-propeller-pa23.11547/)
--  18 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)<!-- afflift:END -->
+-  19 [Running CPA offers of 🎯Zyedoo on Propeller #PA23.](https://afflift.com/f/threads/running-cpa-offers-of-%F0%9F%8E%AFzyedoo-on-propeller-pa23.11547/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
