@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  19 [来账单号](https://www.advertcn.com/forum.php?mod=viewthread&tid=112170)
--  18 [这样的网站有救吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112163)<!-- advertcn:END -->
+-  19 [来账单号](https://www.advertcn.com/forum.php?mod=viewthread&tid=112170)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
