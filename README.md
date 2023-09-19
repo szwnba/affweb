@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
--  19 [Tacolo.co - new monetization program via push notifications | 90% RevShare](https://afflift.com/f/threads/tacolo-co-new-monetization-program-via-push-notifications-90-revshare.8959/)
--  19 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
--  19 [✅ SELLING HQ AGED GOOGLE ADS ACCOUNTS WITH SPENDING HISTORY FOR ANY BLACK AND GRAY VERTICALS](https://afflift.com/f/threads/%E2%9C%85-selling-hq-aged-google-ads-accounts-with-spending-history-for-any-black-and-gray-verticals.10883/)
--  19 [✅High quality aged GOOGLE ADS accounts with spending history [FULL SERVICE VCC/VPS/Cloaking]](https://afflift.com/f/threads/%E2%9C%85high-quality-aged-google-ads-accounts-with-spending-history-full-service-vcc-vps-cloaking.11652/)
--  19 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  19 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
--  19 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
--  19 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  19 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)
+-  19 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
+-  19 [MOB POPs on Propellerads #PA23](https://afflift.com/f/threads/mob-pops-on-propellerads-pa23.11553/)
+-  19 [PropellerAds x Propush contest #PA23](https://afflift.com/f/threads/propellerads-x-propush-contest-pa23.11568/)
+-  19 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
+-  19 [DESK POP on Propellerads #PA23](https://afflift.com/f/threads/desk-pop-on-propellerads-pa23.11579/)
+-  19 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  19 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
+-  19 [#PA23 Back to School](https://afflift.com/f/threads/pa23-back-to-school.11549/)
 -  19 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
--  19 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)<!-- afflift:END -->
+-  19 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)
+-  19 [GG + PA + POP #PA23](https://afflift.com/f/threads/gg-pa-pop-pa23.11584/)
+-  19 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
