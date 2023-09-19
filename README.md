@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [iOS 17 正式版来了，升级后先试试这些新功能](https://sspai.com/post/83015)
 -  19 [派开箱 | 当轻巧与耐用兼得，Bellroy 又设计了怎样的好包](https://sspai.com/post/82906)
 -  19 [派早报：iPhone 15 机型维修费用公布、iOS 17 等系统正式版发布等](https://sspai.com/post/83044)
 -  18 [派评 | 近期值得关注的 App](https://sspai.com/post/83027)
