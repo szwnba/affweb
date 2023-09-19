@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  19 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
+-  19 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  19 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  19 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
+-  19 [Gear-Up: get the 7% of your profit increase for increasing traffic volume](https://afflift.com/f/threads/gear-up-get-the-7-of-your-profit-increase-for-increasing-traffic-volume.11645/)
+-  19 [Double Meta Refresh Causing Virustotal Flags](https://afflift.com/f/threads/double-meta-refresh-causing-virustotal-flags.11617/)
+-  19 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  19 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
 -  19 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
 -  19 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
 -  19 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
 -  19 [My first FA with Yellana and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-yellana-and-pa-pa23.11577/)
--  19 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
--  19 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
--  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  19 [Make Money With CPA Model #PA23](https://afflift.com/f/threads/make-money-with-cpa-model-pa23.11554/)<!-- afflift:END -->
+-  19 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
