@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)
 -  19 [How to make a correct Landing Page?](https://afflift.com/f/threads/how-to-make-a-correct-landing-page.11649/)
 -  19 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
 -  19 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
@@ -31,8 +32,7 @@
 -  19 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  19 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  19 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
--  19 [The BIG Idea: Gaming the System](https://afflift.com/f/threads/the-big-idea-gaming-the-system.10268/)
--  19 [Big difference in pop stats between GA and tracking software](https://afflift.com/f/threads/big-difference-in-pop-stats-between-ga-and-tracking-software.11648/)<!-- afflift:END -->
+-  19 [The BIG Idea: Gaming the System](https://afflift.com/f/threads/the-big-idea-gaming-the-system.10268/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
