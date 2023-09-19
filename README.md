@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  19 [Tacolo.co - new monetization program via push notifications | 90% RevShare](https://afflift.com/f/threads/tacolo-co-new-monetization-program-via-push-notifications-90-revshare.8959/)
+-  19 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  19 [✅ SELLING HQ AGED GOOGLE ADS ACCOUNTS WITH SPENDING HISTORY FOR ANY BLACK AND GRAY VERTICALS](https://afflift.com/f/threads/%E2%9C%85-selling-hq-aged-google-ads-accounts-with-spending-history-for-any-black-and-gray-verticals.10883/)
 -  19 [✅High quality aged GOOGLE ADS accounts with spending history [FULL SERVICE VCC/VPS/Cloaking]](https://afflift.com/f/threads/%E2%9C%85high-quality-aged-google-ads-accounts-with-spending-history-full-service-vcc-vps-cloaking.11652/)
 -  19 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
@@ -29,10 +32,7 @@
 -  19 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  19 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)
 -  19 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
--  19 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
--  19 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
--  19 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
--  19 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)<!-- afflift:END -->
+-  19 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
