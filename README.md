@@ -21,8 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [Running CPA offers of 🎯Zyedoo on Propeller #PA23.](https://afflift.com/f/threads/running-cpa-offers-of-%F0%9F%8E%AFzyedoo-on-propeller-pa23.11547/)
+-  19 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
 -  19 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
+-  19 [Running CPA offers of 🎯Zyedoo on Propeller #PA23.](https://afflift.com/f/threads/running-cpa-offers-of-%F0%9F%8E%AFzyedoo-on-propeller-pa23.11547/)
 -  18 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  18 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
 -  18 [Big difference in pop stats between GA and tracking software](https://afflift.com/f/threads/big-difference-in-pop-stats-between-ga-and-tracking-software.11648/)
@@ -31,8 +32,7 @@
 -  18 [Hi everyone](https://afflift.com/f/threads/hi-everyone.11647/)
 -  18 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
 -  18 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  18 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)
--  18 [Making $1000/month with X](https://afflift.com/f/threads/making-1000-month-with-x.11494/)<!-- afflift:END -->
+-  18 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
