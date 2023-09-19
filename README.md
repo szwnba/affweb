@@ -20,8 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)
+-  19 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+-  19 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
 -  19 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  19 [PropellerAds Contest #PA23 - Dating](https://afflift.com/f/threads/propellerads-contest-pa23-dating.11602/)
 -  19 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
 -  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  19 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
@@ -29,9 +31,7 @@
 -  19 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  19 [Gear-Up: get the 7% of your profit increase for increasing traffic volume](https://afflift.com/f/threads/gear-up-get-the-7-of-your-profit-increase-for-increasing-traffic-volume.11645/)
 -  19 [Double Meta Refresh Causing Virustotal Flags](https://afflift.com/f/threads/double-meta-refresh-causing-virustotal-flags.11617/)
--  19 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  19 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
--  19 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)<!-- afflift:END -->
+-  19 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
