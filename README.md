@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
+-  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  20 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  20 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+-  20 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  20 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  20 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
 -  20 [Hello everyone](https://afflift.com/f/threads/hello-everyone.11654/)
 -  20 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
 -  20 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  20 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
--  20 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  20 [Dark Mode coming to affLIFT](https://afflift.com/f/threads/dark-mode-coming-to-afflift.11659/)
--  20 [Hello Everyone](https://afflift.com/f/threads/hello-everyone.11656/)
--  20 [Melbet Partners | RevShare | CPA | Hybrid offers](https://afflift.com/f/threads/melbet-partners-revshare-cpa-hybrid-offers.11237/)
--  20 [MelBet Partners Review](https://afflift.com/f/threads/melbet-partners-review.11658/)
--  20 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
--  20 [September PropellerAds Promo Codes 2023](https://afflift.com/f/threads/september-propellerads-promo-codes-2023.11545/)
--  20 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)<!-- afflift:END -->
+-  20 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
