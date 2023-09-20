@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [双轨歌词、动态封面：我是如何用 mpv 听歌的](https://sspai.com/post/82744)
 -  20 [出行锦囊 | 如何买到一张价格合理的机票](https://sspai.com/post/83081)
 -  20 [更有本事， 更显你本色：iPadOS 17 中值得关注的新特性](https://sspai.com/post/83079)
 -  20 [派早报：2024 款小鹏 G9 上市、Panos Panay 从微软离职等](https://sspai.com/post/83076)
