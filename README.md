@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  07 [Anthropic上线 Claude Pro，5倍使用量”仅”20美元每月](https://51.ruyo.net/18472.html)<!-- ruyo:END -->
+-  20 [hahaSIM香港电话卡0月租可接码，每年仅18元保号](https://51.ruyo.net/18478.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
