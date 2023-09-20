@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
+-  20 [Lospollos Mainstream Sweepstakes on Propellerads Pop #PA23](https://afflift.com/f/threads/lospollos-mainstream-sweepstakes-on-propellerads-pop-pa23.11564/)
+-  20 [Hello everyone](https://afflift.com/f/threads/hello-everyone.11654/)
 -  20 [Big difference in pop stats between GA and tracking software](https://afflift.com/f/threads/big-difference-in-pop-stats-between-ga-and-tracking-software.11648/)
 -  20 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  20 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
@@ -28,11 +31,8 @@
 -  20 [My First Follow Along 2023 Lets begin #PA23 💎 Affiliates Experts 💎](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23-%F0%9F%92%8E-affiliates-experts-%F0%9F%92%8E.11563/)
 -  20 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  20 [The BIG Idea: Gaming the System](https://afflift.com/f/threads/the-big-idea-gaming-the-system.10268/)
--  20 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
 -  20 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
--  20 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
--  20 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  20 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)<!-- afflift:END -->
+-  20 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
