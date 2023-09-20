@@ -39,5 +39,4 @@
 -  20 [出行锦囊 | 如何买到一张价格合理的机票](https://sspai.com/post/83081)
 -  20 [更有本事， 更显你本色：iPadOS 17 中值得关注的新特性](https://sspai.com/post/83079)
 -  20 [派早报：2024 款小鹏 G9 上市、Panos Panay 从微软离职等](https://sspai.com/post/83076)
--  19 [手感更轻、性能更重：iPhone 15 Pro 快速上手体验](https://sspai.com/post/83066)
--  19 [一步步做个最适合自己的键盘固件：QMK 固件制作全解](https://sspai.com/prime/story/qmk-firmware-tutorial)<!-- sspai:END -->
+-  19 [手感更轻、性能更重：iPhone 15 Pro 快速上手体验](https://sspai.com/post/83066)<!-- sspai:END -->
