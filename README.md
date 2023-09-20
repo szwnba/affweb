@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [派早报：2024 款小鹏 G9 上市、Panos Panay 从微软离职等](https://sspai.com/post/83076)
 -  19 [手感更轻、性能更重：iPhone 15 Pro 快速上手体验](https://sspai.com/post/83066)
 -  19 [一步步做个最适合自己的键盘固件：QMK 固件制作全解](https://sspai.com/prime/story/qmk-firmware-tutorial)
 -  19 [社区速递013 | 浏览器书签的 99 条用法和漫画迷的数据库](https://sspai.com/post/83052)
--  19 [App+1 | 白板的信息关联、整理与查找，GUGA 是如何搞定的？](https://sspai.com/post/82826)
--  19 [iOS 17 正式版来了，升级后先试试这些新功能](https://sspai.com/post/83015)<!-- sspai:END -->
+-  19 [App+1 | 白板的信息关联、整理与查找，GUGA 是如何搞定的？](https://sspai.com/post/82826)<!-- sspai:END -->
