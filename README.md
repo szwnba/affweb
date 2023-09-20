@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  19 [请教国内个人工具站怎么收款？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112176)
 -  19 [来账单号](https://www.advertcn.com/forum.php?mod=viewthread&tid=112170)<!-- advertcn:END -->
 
 ### zhihu
