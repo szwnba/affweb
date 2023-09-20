@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  20 [新的工具站已上线10几天，只有一个页面有访问，如何破局？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112187)
--  19 [请教国内个人工具站怎么收款？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112176)<!-- advertcn:END -->
+-  20 [新的工具站已上线10几天，只有一个页面有访问，如何破局？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112187)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
