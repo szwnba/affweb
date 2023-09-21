@@ -21,11 +21,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  21 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
 -  21 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
 -  21 [Hello everyone](https://afflift.com/f/threads/hello-everyone.11654/)
 -  21 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
--  21 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  21 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
 -  21 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  21 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
