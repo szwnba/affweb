@@ -35,7 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare](https://sspai.com/post/82739)
 -  21 [派早报：尼康推出 Z f 复古相机、荣耀发布 V Purse 钱包手机等](https://sspai.com/post/83101)
 -  20 [双轨歌词、动态封面：我是如何用 mpv 听歌的](https://sspai.com/post/82744)
--  20 [出行锦囊 | 如何买到一张价格合理的机票](https://sspai.com/post/83081)
--  20 [更有本事， 更显你本色：iPadOS 17 中值得关注的新特性](https://sspai.com/post/83079)<!-- sspai:END -->
+-  20 [出行锦囊 | 如何买到一张价格合理的机票](https://sspai.com/post/83081)<!-- sspai:END -->
