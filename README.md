@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  21 [这两天的Google helpful content算法更新，你们受影响没？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112201)
 -  20 [近期便宜的COM限购信息](https://www.advertcn.com/forum.php?mod=viewthread&tid=112193)<!-- advertcn:END -->
 
 ### zhihu
