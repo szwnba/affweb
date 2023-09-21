@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  20 [新的工具站已上线10几天，只有一个页面有访问，如何破局？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112187)<!-- advertcn:END -->
+-  20 [近期便宜的COM限购信息](https://www.advertcn.com/forum.php?mod=viewthread&tid=112193)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
