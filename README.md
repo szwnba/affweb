@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [好想大声说「AI」它：Adobe Firefly 使用体验与指南](https://sspai.com/post/83138)
 -  22 [派早报：微软发布多款新品等](https://sspai.com/post/83137)
 -  21 [奥本海默没看够？这 8 部人物传记电影让你更了解他们](https://sspai.com/post/83098)
 -  21 [可能是近几年 Apple Store 的最大胜利：iPhone 15 系列选购指南](https://sspai.com/post/83113)<!-- sspai:END -->
