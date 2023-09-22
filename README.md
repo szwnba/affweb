@@ -22,8 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  22 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11663/)
 -  22 [Question about redirect offers in](https://afflift.com/f/threads/question-about-redirect-offers-in.11664/)
+-  22 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11663/)
 -  22 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  22 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  21 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
