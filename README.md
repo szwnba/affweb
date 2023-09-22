@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
+-  22 [Tracking Campaign Push Revenue on Monetizer &lpar;yes, it&#39;s possible!&rpar;](https://afflift.com/f/threads/tracking-campaign-push-revenue-on-monetizer-yes-its-possible.3438/)
+-  22 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  22 [My First Follow Along 2023 Lets begin #PA23 💎 Affiliates Experts 💎](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23-%F0%9F%92%8E-affiliates-experts-%F0%9F%92%8E.11563/)
+-  22 [Basic Affiliate Marketing Abbreviations and Acronyms to Know](https://afflift.com/f/threads/basic-affiliate-marketing-abbreviations-and-acronyms-to-know.11670/)
+-  22 [Step 7 - Add our BeMob Postback to MOBIPIUM](https://afflift.com/f/threads/step-7-add-our-bemob-postback-to-mobipium.2944/)
+-  22 [Question about redirect offers in](https://afflift.com/f/threads/question-about-redirect-offers-in.11664/)
+-  22 [Propeller Ads issue, need help!](https://afflift.com/f/threads/propeller-ads-issue-need-help.11667/)
 -  22 [Hello everyone!](https://afflift.com/f/threads/hello-everyone.11665/)
 -  22 [PropellerAds x Propush contest #PA23](https://afflift.com/f/threads/propellerads-x-propush-contest-pa23.11568/)
 -  22 [Step 13 - The END, but really the BEGINNING?](https://afflift.com/f/threads/step-13-the-end-but-really-the-beginning.2950/)
--  22 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
--  22 [Question about redirect offers in](https://afflift.com/f/threads/question-about-redirect-offers-in.11664/)
--  22 [Propeller Ads issue, need help!](https://afflift.com/f/threads/propeller-ads-issue-need-help.11667/)
--  22 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
--  22 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11663/)
--  22 [How to clear amunfezanttor.com url from my ripped landing](https://afflift.com/f/threads/how-to-clear-amunfezanttor-com-url-from-my-ripped-landing.11668/)
--  22 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  22 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)<!-- afflift:END -->
+-  22 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
