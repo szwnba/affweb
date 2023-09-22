@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  22 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  22 [PropellerAds with Carrier Billing Offer #PA23](https://afflift.com/f/threads/propellerads-with-carrier-billing-offer-pa23.11672/)
 -  22 [how to set up a offer I own](https://afflift.com/f/threads/how-to-set-up-a-offer-i-own.11671/)
@@ -30,8 +31,7 @@
 -  22 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  22 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
 -  22 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)
--  22 [MOB POPs on Propellerads #PA23](https://afflift.com/f/threads/mob-pops-on-propellerads-pa23.11553/)
--  22 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)<!-- afflift:END -->
+-  22 [MOB POPs on Propellerads #PA23](https://afflift.com/f/threads/mob-pops-on-propellerads-pa23.11553/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
