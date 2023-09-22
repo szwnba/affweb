@@ -10,10 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  22 [听说最近有好多做特货的被抓？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112219)
--  22 [google ads 广告客户认证](https://www.advertcn.com/forum.php?mod=viewthread&tid=112217)
--  22 [网站还能坚挺多久](https://www.advertcn.com/forum.php?mod=viewthread&tid=112216)
--  22 [Mediabuyer寻找电商网盟offer](https://www.advertcn.com/forum.php?mod=viewthread&tid=112215)<!-- advertcn:END -->
+-  22 [网站还能坚挺多久](https://www.advertcn.com/forum.php?mod=viewthread&tid=112216)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
