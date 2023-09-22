@@ -24,6 +24,8 @@
 ### afflift
 <!-- afflift:START -->
 -  22 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  22 [Hello everyone!](https://afflift.com/f/threads/hello-everyone.11665/)
+-  22 [How to clear amunfezanttor.com url from my ripped landing](https://afflift.com/f/threads/how-to-clear-amunfezanttor-com-url-from-my-ripped-landing.11668/)
 -  22 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  22 [Propeller Ads issue, need help!](https://afflift.com/f/threads/propeller-ads-issue-need-help.11667/)
 -  22 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
@@ -32,9 +34,7 @@
 -  22 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  22 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  22 [Hello everyone](https://afflift.com/f/threads/hello-everyone.11654/)
--  22 [Hello everyone!](https://afflift.com/f/threads/hello-everyone.11665/)
--  22 [Question about redirect offers in](https://afflift.com/f/threads/question-about-redirect-offers-in.11664/)
--  22 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)<!-- afflift:END -->
+-  22 [Question about redirect offers in](https://afflift.com/f/threads/question-about-redirect-offers-in.11664/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
