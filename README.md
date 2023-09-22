@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  21 [奥本海默没看够？这 8 部人物传记电影让你更了解他们](https://sspai.com/post/83098)
 -  21 [可能是近几年 Apple Store 的最大胜利：iPhone 15 系列选购指南](https://sspai.com/post/83113)
--  21 [图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare](https://sspai.com/post/82739)
--  21 [派早报：尼康推出 Z f 复古相机、荣耀发布 V Purse 钱包手机等](https://sspai.com/post/83101)<!-- sspai:END -->
+-  21 [图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare](https://sspai.com/post/82739)<!-- sspai:END -->
