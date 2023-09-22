@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  22 [Popping to GG+Monetizer mVAS using Binom #PA23](https://afflift.com/f/threads/popping-to-gg-monetizer-mvas-using-binom-pa23.11614/)
 -  22 [Hello everyone](https://afflift.com/f/threads/hello-everyone.11654/)
 -  22 [Hello everyone!](https://afflift.com/f/threads/hello-everyone.11665/)
@@ -32,8 +33,7 @@
 -  22 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11663/)
 -  22 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  22 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  21 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
--  21 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)<!-- afflift:END -->
+-  21 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
