@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  20 [hahaSIM香港电话卡0月租可接码，每年仅18元保号](https://51.ruyo.net/18478.html)<!-- ruyo:END -->
+-  22 [dynadot又可免费注册 .GAY域名，有效期一年](https://51.ruyo.net/18483.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
