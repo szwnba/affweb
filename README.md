@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
+-  23 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+-  23 [First FA of Researching POP traffic with My private tracker #PA23](https://afflift.com/f/threads/first-fa-of-researching-pop-traffic-with-my-private-tracker-pa23.11552/)
 -  23 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  23 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
--  22 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  22 [PropellerAds with Carrier Billing Offer #PA23](https://afflift.com/f/threads/propellerads-with-carrier-billing-offer-pa23.11672/)
 -  22 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  22 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  22 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
 -  22 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
 -  22 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)
--  22 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  22 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  22 [how to set up a offer I own](https://afflift.com/f/threads/how-to-set-up-a-offer-i-own.11671/)<!-- afflift:END -->
+-  22 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
