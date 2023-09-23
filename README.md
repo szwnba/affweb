@@ -41,5 +41,4 @@
 <!-- sspai:START -->
 -  22 [本周看什么 | 最近值得一看的一大匣作品](https://sspai.com/post/83155)
 -  22 [全盘改造，「表」现大不同：watchOS 10 值得关注的新特性](https://sspai.com/post/83143)
--  22 [好想大声说「AI」它：Adobe Firefly 使用体验与指南](https://sspai.com/post/83138)
--  22 [派早报：微软发布多款新品等](https://sspai.com/post/83137)<!-- sspai:END -->
+-  22 [好想大声说「AI」它：Adobe Firefly 使用体验与指南](https://sspai.com/post/83138)<!-- sspai:END -->
