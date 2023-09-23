@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [My first FA with Yellana and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-yellana-and-pa-pa23.11577/)
 -  23 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  23 [Unlock Earning Potential with Anonymous-Proxies.net Affiliate Program](https://afflift.com/f/threads/unlock-earning-potential-with-anonymous-proxies-net-affiliate-program.11473/)
 -  23 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
@@ -32,8 +33,7 @@
 -  22 [PropellerAds with Carrier Billing Offer #PA23](https://afflift.com/f/threads/propellerads-with-carrier-billing-offer-pa23.11672/)
 -  22 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  22 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
--  22 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
--  22 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)<!-- afflift:END -->
+-  22 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
