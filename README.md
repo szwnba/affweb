@@ -37,5 +37,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  22 [本周看什么 | 最近值得一看的一大匣作品](https://sspai.com/post/83155)
--  22 [全盘改造，「表」现大不同：watchOS 10 值得关注的新特性](https://sspai.com/post/83143)<!-- sspai:END -->
+-  22 [本周看什么 | 最近值得一看的一大匣作品](https://sspai.com/post/83155)<!-- sspai:END -->
