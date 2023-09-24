@@ -36,4 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  23 [开学季 | 挑个趁手的工具，尽早学会文献管理](https://sspai.com/post/82931)<!-- sspai:END -->
+-  24 [增加保修次数和年度订阅，这个 Apple 产品保险服务更划算了：AppleCare+ 详解](https://sspai.com/post/62824)<!-- sspai:END -->
