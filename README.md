@@ -21,7 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [how to set up a offer I own](https://afflift.com/f/threads/how-to-set-up-a-offer-i-own.11671/)
+-  24 [how to set up a offer I own](https://afflift.com/f/threads/how-to-set-up-a-offer-i-own.11671/)
 -  23 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  23 [best cloakers?](https://afflift.com/f/threads/best-cloakers.11675/)
 -  23 [best search engine marketing spy tool?](https://afflift.com/f/threads/best-search-engine-marketing-spy-tool.11674/)
