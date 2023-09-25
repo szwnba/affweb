@@ -32,5 +32,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [派早报：Unity 修订争议收费政策，全球智能手机品牌减少三分之二](https://sspai.com/post/83189)
 -  24 [点一下能解决的事就别长按：Android 应用快捷方式面面观](https://sspai.com/prime/story/android-intents-affordances)
 -  24 [增加保修次数和年度订阅，这个 Apple 产品保险服务更划算了：AppleCare+ 详解](https://sspai.com/post/62824)<!-- sspai:END -->
