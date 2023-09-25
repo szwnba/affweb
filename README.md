@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试](https://sspai.com/post/83105)
 -  25 [出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店](https://sspai.com/post/83199)
 -  25 [派早报：Unity 修订争议收费政策，全球智能手机品牌减少三分之二](https://sspai.com/post/83189)
 -  24 [点一下能解决的事就别长按：Android 应用快捷方式面面观](https://sspai.com/prime/story/android-intents-affordances)<!-- sspai:END -->
