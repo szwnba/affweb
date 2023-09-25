@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  25 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
--  25 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  25 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
--  25 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
--  25 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
--  25 [Hi everyone, sharing here a SEO &amp; affiliate opportunity with you](https://afflift.com/f/threads/hi-everyone-sharing-here-a-seo-affiliate-opportunity-with-you.11677/)
--  25 [Question about redirect offers in](https://afflift.com/f/threads/question-about-redirect-offers-in.11664/)
--  25 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  25 [best search engine marketing spy tool?](https://afflift.com/f/threads/best-search-engine-marketing-spy-tool.11674/)
+-  25 [best cloakers?](https://afflift.com/f/threads/best-cloakers.11675/)
+-  25 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
+-  25 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
+-  25 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
+-  25 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/)
+-  25 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  25 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
+-  25 [Question about redirect offers in](https://afflift.com/f/threads/question-about-redirect-offers-in.11664/)
 -  25 [Hello everyone!](https://afflift.com/f/threads/hello-everyone.11665/)
--  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  25 [$67,000 for the 2022 FIFA World Cup through ASO](https://afflift.com/f/threads/67-000-for-the-2022-fifa-world-cup-through-aso.11676/)<!-- afflift:END -->
+-  25 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
+-  25 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
