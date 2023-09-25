@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [30k sms daily](https://afflift.com/f/threads/30k-sms-daily.11679/)
 -  25 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  25 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
 -  25 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
@@ -31,8 +32,7 @@
 -  25 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  25 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  25 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
--  25 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
--  25 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)<!-- afflift:END -->
+-  25 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
