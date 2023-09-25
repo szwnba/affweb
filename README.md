@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [#PA23 SurveyJunkie Offer on Propellerads New ADS format Survey Exit](https://afflift.com/f/threads/pa23-surveyjunkie-offer-on-propellerads-new-ads-format-survey-exit.11651/)
 -  25 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  25 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  25 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
