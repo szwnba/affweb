@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  26 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  26 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  25 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
@@ -31,7 +32,6 @@
 -  25 [Please suggest some pops platforms to work with.](https://afflift.com/f/threads/please-suggest-some-pops-platforms-to-work-with.10064/)
 -  25 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
 -  25 [PopAds rejected campaign](https://afflift.com/f/threads/popads-rejected-campaign.4736/)
--  25 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  25 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)<!-- afflift:END -->
 
 ### 少数派
