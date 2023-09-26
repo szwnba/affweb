@@ -10,8 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  25 [中国程序员在国内被罚款105.8万，为海外软件公司工作](https://www.advertcn.com/forum.php?mod=viewthread&tid=112254)
--  24 [空间续费太贵怎么办？求推荐](https://www.advertcn.com/forum.php?mod=viewthread&tid=112250)<!-- advertcn:END -->
+-  25 [掘金者联盟很垃圾  千万不要付费  www.studymediabuy.com](https://www.advertcn.com/forum.php?mod=viewthread&tid=112257)
+-  25 [中国程序员在国内被罚款105.8万，为海外软件公司工作](https://www.advertcn.com/forum.php?mod=viewthread&tid=112254)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
