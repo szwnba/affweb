@@ -24,6 +24,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [First FA with ClickDealer X PA #PA23](https://afflift.com/f/threads/first-fa-with-clickdealer-x-pa-pa23.11680/)
+-  26 [Google: Links No Longer A Top Three Ranking Signal](https://afflift.com/f/threads/google-links-no-longer-a-top-three-ranking-signal.11681/)
+-  26 [Sharing My Secret Sauce: Diving Deep into Fully Managed Ad Networks ?](https://afflift.com/f/threads/sharing-my-secret-sauce-diving-deep-into-fully-managed-ad-networks.11682/)
 -  26 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  26 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  26 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
@@ -32,10 +35,7 @@
 -  26 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
 -  26 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
 -  26 [$67,000 for the 2022 FIFA World Cup through ASO](https://afflift.com/f/threads/67-000-for-the-2022-fifa-world-cup-through-aso.11676/)
--  26 [✅ SELLING HQ AGED GOOGLE ADS ACCOUNTS WITH SPENDING HISTORY FOR ANY BLACK AND GRAY VERTICALS](https://afflift.com/f/threads/%E2%9C%85-selling-hq-aged-google-ads-accounts-with-spending-history-for-any-black-and-gray-verticals.10883/)
--  26 [✅High quality aged GOOGLE ADS accounts with spending history [FULL SERVICE VCC/VPS/Cloaking]](https://afflift.com/f/threads/%E2%9C%85high-quality-aged-google-ads-accounts-with-spending-history-full-service-vcc-vps-cloaking.11652/)
--  26 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
--  26 [Google: Links No Longer A Top Three Ranking Signal](https://afflift.com/f/threads/google-links-no-longer-a-top-three-ranking-signal.11681/)<!-- afflift:END -->
+-  26 [✅ SELLING HQ AGED GOOGLE ADS ACCOUNTS WITH SPENDING HISTORY FOR ANY BLACK AND GRAY VERTICALS](https://afflift.com/f/threads/%E2%9C%85-selling-hq-aged-google-ads-accounts-with-spending-history-for-any-black-and-gray-verticals.10883/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
