@@ -24,8 +24,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  26 [Best pop traffic beside propellerads for SEA?](https://afflift.com/f/threads/best-pop-traffic-beside-propellerads-for-sea.11673/)
+-  26 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
+-  26 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
 -  26 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  26 [Best pop traffic beside propellerads for SEA?](https://afflift.com/f/threads/best-pop-traffic-beside-propellerads-for-sea.11673/)
 -  26 [Step 2 - Create PopAds Account](https://afflift.com/f/threads/step-2-create-popads-account.2939/)
 -  26 [PropellerAds + Golden Goose Pop Campaign [Contest] #PA23](https://afflift.com/f/threads/propellerads-golden-goose-pop-campaign-contest-pa23.11683/)
 -  26 [Propel Media / Oddbytes Alternative](https://afflift.com/f/threads/propel-media-oddbytes-alternative.11684/)
@@ -33,9 +35,7 @@
 -  26 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  26 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  26 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
--  26 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  26 [Google: Links No Longer A Top Three Ranking Signal](https://afflift.com/f/threads/google-links-no-longer-a-top-three-ranking-signal.11681/)
--  26 [Sharing My Secret Sauce: Diving Deep into Fully Managed Ad Networks ?](https://afflift.com/f/threads/sharing-my-secret-sauce-diving-deep-into-fully-managed-ad-networks.11682/)<!-- afflift:END -->
+-  26 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
