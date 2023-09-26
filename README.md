@@ -10,11 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  26 [军哥LNMP替代品](https://www.advertcn.com/forum.php?mod=viewthread&tid=112285)
 -  26 [腾讯云正在举办轻量云秒杀活动](https://www.advertcn.com/forum.php?mod=viewthread&tid=112280)
--  25 [[已售出]绿云sjc9999吃灰了 700 包push 有需要的私信我哈.](https://www.advertcn.com/forum.php?mod=viewthread&tid=112273)
--  25 [为什么大多数人的Facebook 付费广告都在亏钱？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112272)
--  25 [外贸网站挂google翻译代码还有意义吗?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112270)
--  25 [搜索引擎怎样分辩 ai 生成的内容?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112269)<!-- advertcn:END -->
+-  26 [新手](https://www.advertcn.com/forum.php?mod=viewthread&tid=112279)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
