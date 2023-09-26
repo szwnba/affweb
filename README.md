@@ -39,7 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [社区速递 014 |  交互式小组件、预制菜和派友的维修经历](https://sspai.com/post/83232)
 -  26 [本月玩什么 | 往日之影、星空、巴别塔圣歌、「锈湖」新作……](https://sspai.com/post/83225)
 -  26 [豆瓣、Notion 和 Last.fm，哪个更适合用来记录你听过的歌？](https://sspai.com/post/83174)
--  26 [派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等](https://sspai.com/post/83219)
--  25 [派评 | 近期值得关注的 App](https://sspai.com/post/83210)<!-- sspai:END -->
+-  26 [派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等](https://sspai.com/post/83219)<!-- sspai:END -->
