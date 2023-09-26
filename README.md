@@ -10,9 +10,11 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  26 [腾讯云正在举办轻量云秒杀活动](https://www.advertcn.com/forum.php?mod=viewthread&tid=112280)
+-  25 [[已售出]绿云sjc9999吃灰了 700 包push 有需要的私信我哈.](https://www.advertcn.com/forum.php?mod=viewthread&tid=112273)
+-  25 [为什么大多数人的Facebook 付费广告都在亏钱？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112272)
 -  25 [外贸网站挂google翻译代码还有意义吗?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112270)
--  25 [搜索引擎怎样分辩 ai 生成的内容?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112269)
--  25 [掘金者联盟很垃圾  千万不要付费  www.studymediabuy.com](https://www.advertcn.com/forum.php?mod=viewthread&tid=112257)<!-- advertcn:END -->
+-  25 [搜索引擎怎样分辩 ai 生成的内容?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112269)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
