@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等](https://sspai.com/post/83219)
 -  25 [派评 | 近期值得关注的 App](https://sspai.com/post/83210)
 -  25 [浅谈飞傲 M11S 与 BTR7](https://sspai.com/post/82472)
 -  25 [窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试](https://sspai.com/post/83105)
