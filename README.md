@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  26 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  26 [Sharing My Secret Sauce: Diving Deep into Fully Managed Ad Networks ?](https://afflift.com/f/threads/sharing-my-secret-sauce-diving-deep-into-fully-managed-ad-networks.11682/)
 -  26 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  26 [Please suggest some pops platforms to work with.](https://afflift.com/f/threads/please-suggest-some-pops-platforms-to-work-with.10064/)
+-  26 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  26 [Google: Links No Longer A Top Three Ranking Signal](https://afflift.com/f/threads/google-links-no-longer-a-top-three-ranking-signal.11681/)
+-  26 [Sharing My Secret Sauce: Diving Deep into Fully Managed Ad Networks ?](https://afflift.com/f/threads/sharing-my-secret-sauce-diving-deep-into-fully-managed-ad-networks.11682/)
+-  26 [My First Follow Along 2023 Lets begin #PA23 💎 Affiliates Experts 💎](https://afflift.com/f/threads/my-first-follow-along-2023-lets-begin-pa23-%F0%9F%92%8E-affiliates-experts-%F0%9F%92%8E.11563/)
+-  26 [#PA old is gold &quot;Adsense Arbitrage&quot; 💪](https://afflift.com/f/threads/pa-old-is-gold-adsense-arbitrage-%F0%9F%92%AA.11571/)
+-  26 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
+-  26 [Please suggest some pops platforms to work with.](https://afflift.com/f/threads/please-suggest-some-pops-platforms-to-work-with.10064/)
 -  26 [First FA with ClickDealer X PA #PA23](https://afflift.com/f/threads/first-fa-with-clickdealer-x-pa-pa23.11680/)
 -  26 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  26 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  26 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
--  26 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  26 [#PA23 This is interesting 😮 Time to shine ☀️ Propellerads + Propush Follow Along Contest](https://afflift.com/f/threads/pa23-this-is-interesting-%F0%9F%98%AE-time-to-shine-%E2%98%80%EF%B8%8F-propellerads-propush-follow-along-contest.11569/)
--  26 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)<!-- afflift:END -->
+-  26 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
