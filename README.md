@@ -24,13 +24,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [30k sms daily](https://afflift.com/f/threads/30k-sms-daily.11679/)
 -  26 [Please suggest some pops platforms to work with.](https://afflift.com/f/threads/please-suggest-some-pops-platforms-to-work-with.10064/)
 -  26 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
 -  26 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  26 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  26 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  25 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
--  25 [30k sms daily](https://afflift.com/f/threads/30k-sms-daily.11679/)
 -  25 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  25 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
 -  25 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
