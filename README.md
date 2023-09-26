@@ -10,8 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  25 [掘金者联盟很垃圾  千万不要付费  www.studymediabuy.com](https://www.advertcn.com/forum.php?mod=viewthread&tid=112257)
--  25 [中国程序员在国内被罚款105.8万，为海外软件公司工作](https://www.advertcn.com/forum.php?mod=viewthread&tid=112254)<!-- advertcn:END -->
+-  25 [外贸网站挂google翻译代码还有意义吗?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112270)
+-  25 [搜索引擎怎样分辩 ai 生成的内容?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112269)
+-  25 [掘金者联盟很垃圾  千万不要付费  www.studymediabuy.com](https://www.advertcn.com/forum.php?mod=viewthread&tid=112257)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
