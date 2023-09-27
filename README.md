@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [First FA with ClickDealer X PA #PA23](https://afflift.com/f/threads/first-fa-with-clickdealer-x-pa-pa23.11680/)
 -  27 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  26 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  26 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
@@ -31,8 +32,7 @@
 -  26 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  26 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
 -  26 [Best pop traffic beside propellerads for SEA?](https://afflift.com/f/threads/best-pop-traffic-beside-propellerads-for-sea.11673/)
--  26 [Step 2 - Create PopAds Account](https://afflift.com/f/threads/step-2-create-popads-account.2939/)
--  26 [PropellerAds + Golden Goose Pop Campaign [Contest] #PA23](https://afflift.com/f/threads/propellerads-golden-goose-pop-campaign-contest-pa23.11683/)<!-- afflift:END -->
+-  26 [Step 2 - Create PopAds Account](https://afflift.com/f/threads/step-2-create-popads-account.2939/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
