@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [What might be the reason why an outstanding zone suddenly stops converting?](https://afflift.com/f/threads/what-might-be-the-reason-why-an-outstanding-zone-suddenly-stops-converting.11685/)
 -  27 [First FA with ClickDealer X PA #PA23](https://afflift.com/f/threads/first-fa-with-clickdealer-x-pa-pa23.11680/)
 -  27 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  26 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
@@ -31,8 +32,7 @@
 -  26 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  26 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  26 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
--  26 [Best pop traffic beside propellerads for SEA?](https://afflift.com/f/threads/best-pop-traffic-beside-propellerads-for-sea.11673/)
--  26 [Step 2 - Create PopAds Account](https://afflift.com/f/threads/step-2-create-popads-account.2939/)<!-- afflift:END -->
+-  26 [Best pop traffic beside propellerads for SEA?](https://afflift.com/f/threads/best-pop-traffic-beside-propellerads-for-sea.11673/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
