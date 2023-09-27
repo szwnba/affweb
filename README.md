@@ -22,6 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Step 2 - Create PopAds Account](https://afflift.com/f/threads/step-2-create-popads-account.2939/)
+-  27 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
+-  27 [Best pop traffic beside propellerads for SEA?](https://afflift.com/f/threads/best-pop-traffic-beside-propellerads-for-sea.11673/)
 -  27 [Fun video from Adsterra at SiGMA Balkans 2023: Sum up Cyprus in a single word](https://afflift.com/f/threads/fun-video-from-adsterra-at-sigma-balkans-2023-sum-up-cyprus-in-a-single-word.11690/)
 -  27 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  27 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
@@ -30,10 +33,7 @@
 -  27 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  27 [Forward or backward?🥺It&#39;s time to Restart❗#PA23](https://afflift.com/f/threads/forward-or-backward-%F0%9F%A5%BAits-time-to-restart%E2%9D%97-pa23.11550/)
 -  27 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  27 [MaxBounty - World leading performance-based CPA network](https://afflift.com/f/threads/maxbounty-world-leading-performance-based-cpa-network.2743/)
--  27 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
--  27 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  27 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)<!-- afflift:END -->
+-  27 [MaxBounty - World leading performance-based CPA network](https://afflift.com/f/threads/maxbounty-world-leading-performance-based-cpa-network.2743/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
