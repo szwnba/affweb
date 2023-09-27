@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  27 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
+-  27 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  27 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
+-  27 [Zeydoo SurveyOffer + PropellerAds Traffic #PA23](https://afflift.com/f/threads/zeydoo-surveyoffer-propellerads-traffic-pa23.11694/)
+-  27 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
+-  27 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  27 [My first campaign &lpar;Propellerads + Zeydoo Finance Surveys&rpar;](https://afflift.com/f/threads/my-first-campaign-propellerads-zeydoo-finance-surveys.11660/)
 -  27 [GTM flagging Voluum conversion tags as malware](https://afflift.com/f/threads/gtm-flagging-voluum-conversion-tags-as-malware.11693/)
 -  27 [WhatsDate Lander from PureLander](https://afflift.com/f/threads/whatsdate-lander-from-purelander.7558/)
 -  27 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  27 [Case Study: Is It Possible To Get Conversions In The Gambling Vertical Using Push Traffic In 2023?](https://afflift.com/f/threads/case-study-is-it-possible-to-get-conversions-in-the-gambling-vertical-using-push-traffic-in-2023.11692/)
 -  27 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
--  27 [What might be the reason why an outstanding zone suddenly stops converting?](https://afflift.com/f/threads/what-might-be-the-reason-why-an-outstanding-zone-suddenly-stops-converting.11685/)
--  27 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
--  27 [Propel Media / Oddbytes Alternative](https://afflift.com/f/threads/propel-media-oddbytes-alternative.11684/)
--  27 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)<!-- afflift:END -->
+-  27 [What might be the reason why an outstanding zone suddenly stops converting?](https://afflift.com/f/threads/what-might-be-the-reason-why-an-outstanding-zone-suddenly-stops-converting.11685/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
