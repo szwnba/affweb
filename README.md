@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  22 [dynadot又可免费注册 .GAY域名，有效期一年](https://51.ruyo.net/18483.html)<!-- ruyo:END -->
+-  27 [适合国内使用双重认证应用：Microsoft Authenticator](https://51.ruyo.net/18474.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
