@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [WhatsDate Lander from PureLander](https://afflift.com/f/threads/whatsdate-lander-from-purelander.7558/)
 -  27 [GTM flagging Voluum conversion tags as malware](https://afflift.com/f/threads/gtm-flagging-voluum-conversion-tags-as-malware.11693/)
 -  27 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  27 [Case Study: Is It Possible To Get Conversions In The Gambling Vertical Using Push Traffic In 2023?](https://afflift.com/f/threads/case-study-is-it-possible-to-get-conversions-in-the-gambling-vertical-using-push-traffic-in-2023.11692/)
@@ -32,8 +33,7 @@
 -  27 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
 -  27 [Step 2 - Create PopAds Account](https://afflift.com/f/threads/step-2-create-popads-account.2939/)
 -  27 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  27 [Best pop traffic beside propellerads for SEA?](https://afflift.com/f/threads/best-pop-traffic-beside-propellerads-for-sea.11673/)
--  27 [Fun video from Adsterra at SiGMA Balkans 2023: Sum up Cyprus in a single word](https://afflift.com/f/threads/fun-video-from-adsterra-at-sigma-balkans-2023-sum-up-cyprus-in-a-single-word.11690/)<!-- afflift:END -->
+-  27 [Best pop traffic beside propellerads for SEA?](https://afflift.com/f/threads/best-pop-traffic-beside-propellerads-for-sea.11673/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
