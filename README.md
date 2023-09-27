@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  27 [求助，有没有比较好用的邮件群发软件](https://www.advertcn.com/forum.php?mod=viewthread&tid=112297)
 -  27 [去越南享受按摩，躺着爽的同时也躺着赚美金……](https://www.advertcn.com/forum.php?mod=viewthread&tid=112296)
 -  27 [美亚增加了接近5%佣金活动，为期3个月](https://www.advertcn.com/forum.php?mod=viewthread&tid=112294)<!-- advertcn:END -->
 
