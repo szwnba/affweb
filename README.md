@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  27 [派早报：Nothing 子品牌 CMF 发布多款新品、Apple 推出全球开发者资源等](https://sspai.com/post/83243)
 -  26 [社区速递 014 |  交互式小组件、预制菜和派友的维修经历](https://sspai.com/post/83232)
--  26 [本月玩什么 | 往日之影、星空、巴别塔圣歌、「锈湖」新作……](https://sspai.com/post/83225)
--  26 [豆瓣、Notion 和 Last.fm，哪个更适合用来记录你听过的歌？](https://sspai.com/post/83174)<!-- sspai:END -->
+-  26 [本月玩什么 | 往日之影、星空、巴别塔圣歌、「锈湖」新作……](https://sspai.com/post/83225)<!-- sspai:END -->
