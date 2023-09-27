@@ -11,8 +11,7 @@
 ### advertcn
 <!-- advertcn:START -->
 -  26 [军哥LNMP替代品](https://www.advertcn.com/forum.php?mod=viewthread&tid=112285)
--  26 [腾讯云正在举办轻量云秒杀活动](https://www.advertcn.com/forum.php?mod=viewthread&tid=112280)
--  26 [新手](https://www.advertcn.com/forum.php?mod=viewthread&tid=112279)<!-- advertcn:END -->
+-  26 [腾讯云正在举办轻量云秒杀活动](https://www.advertcn.com/forum.php?mod=viewthread&tid=112280)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
