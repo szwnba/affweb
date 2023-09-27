@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [GTM flagging Voluum conversion tags as malware](https://afflift.com/f/threads/gtm-flagging-voluum-conversion-tags-as-malware.11693/)
+-  27 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
+-  27 [Case Study: Is It Possible To Get Conversions In The Gambling Vertical Using Push Traffic In 2023?](https://afflift.com/f/threads/case-study-is-it-possible-to-get-conversions-in-the-gambling-vertical-using-push-traffic-in-2023.11692/)
+-  27 [Let&#39;s Test Financial Offers On PropellerAds #PA23](https://afflift.com/f/threads/lets-test-financial-offers-on-propellerads-pa23.11558/)
+-  27 [What might be the reason why an outstanding zone suddenly stops converting?](https://afflift.com/f/threads/what-might-be-the-reason-why-an-outstanding-zone-suddenly-stops-converting.11685/)
 -  27 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  27 [Propel Media / Oddbytes Alternative](https://afflift.com/f/threads/propel-media-oddbytes-alternative.11684/)
 -  27 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
--  27 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  27 [Step 2 - Create PopAds Account](https://afflift.com/f/threads/step-2-create-popads-account.2939/)
 -  27 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  27 [Best pop traffic beside propellerads for SEA?](https://afflift.com/f/threads/best-pop-traffic-beside-propellerads-for-sea.11673/)
--  27 [Fun video from Adsterra at SiGMA Balkans 2023: Sum up Cyprus in a single word](https://afflift.com/f/threads/fun-video-from-adsterra-at-sigma-balkans-2023-sum-up-cyprus-in-a-single-word.11690/)
--  27 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  27 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
--  27 [Propeller Survey Exit Traffic - Huge Click Loss](https://afflift.com/f/threads/propeller-survey-exit-traffic-huge-click-loss.11689/)
--  27 [What might be the reason why an outstanding zone suddenly stops converting?](https://afflift.com/f/threads/what-might-be-the-reason-why-an-outstanding-zone-suddenly-stops-converting.11685/)<!-- afflift:END -->
+-  27 [Fun video from Adsterra at SiGMA Balkans 2023: Sum up Cyprus in a single word](https://afflift.com/f/threads/fun-video-from-adsterra-at-sigma-balkans-2023-sum-up-cyprus-in-a-single-word.11690/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
