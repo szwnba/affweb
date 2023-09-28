@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起](https://sspai.com/post/83198)
 -  28 [派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)
 -  27 [出去玩 | 现在就去征服大自然吧：自驾南姐洛徒步小记](https://sspai.com/post/82818)
 -  27 [被实力吸引， 被乐趣圈粉：macOS Sonoma 中值得关注的新特性](https://sspai.com/post/83228)<!-- sspai:END -->
