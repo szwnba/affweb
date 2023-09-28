@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
+-  28 [Propel Media / Oddbytes Alternative](https://afflift.com/f/threads/propel-media-oddbytes-alternative.11684/)
+-  28 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
+-  28 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+-  28 [Google: Links No Longer A Top Three Ranking Signal](https://afflift.com/f/threads/google-links-no-longer-a-top-three-ranking-signal.11681/)
+-  28 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
 -  28 [30k sms daily](https://afflift.com/f/threads/30k-sms-daily.11679/)
 -  28 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
 -  28 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  28 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  28 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  28 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
--  28 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  28 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  28 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
--  28 [Run Traffic company IVR on propellerAds Push #PA23.](https://afflift.com/f/threads/run-traffic-company-ivr-on-propellerads-push-pa23.11572/)
--  28 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
--  28 [My first FA with Yellana and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-yellana-and-pa-pa23.11577/)<!-- afflift:END -->
+-  28 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
