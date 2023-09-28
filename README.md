@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  28 [在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)
 -  28 [我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起](https://sspai.com/post/83198)
--  28 [派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)
--  27 [出去玩 | 现在就去征服大自然吧：自驾南姐洛徒步小记](https://sspai.com/post/82818)<!-- sspai:END -->
+-  28 [派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)<!-- sspai:END -->
