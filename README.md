@@ -37,7 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [双重节日，双重优惠，栏目和软件秒杀 9.9 元起](https://sspai.com/post/83295)
+-  28 [「媒体老师」的大开箱：数码科技厂商中秋礼盒里都有啥？](https://sspai.com/post/83298)
 -  28 [新玩意 161｜少数派的编辑们最近买了啥？](https://sspai.com/post/83297)
 -  28 [在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)
--  28 [我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起](https://sspai.com/post/83198)
--  28 [派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)<!-- sspai:END -->
+-  28 [我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起](https://sspai.com/post/83198)<!-- sspai:END -->
