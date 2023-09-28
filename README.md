@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  27 [适合国内使用双重认证应用：Microsoft Authenticator](https://51.ruyo.net/18474.html)<!-- ruyo:END -->
+-  28 [美国实体电话卡1美元可使11个月，不实名，可Wifi通话](https://51.ruyo.net/18487.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
