@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  28 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  28 [Regarding click loss, I need your help.](https://afflift.com/f/threads/regarding-click-loss-i-need-your-help.11696/)
 -  28 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
@@ -32,7 +33,6 @@
 -  27 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  27 [Zeydoo SurveyOffer + PropellerAds Traffic #PA23](https://afflift.com/f/threads/zeydoo-surveyoffer-propellerads-traffic-pa23.11694/)
 -  27 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
--  27 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  27 [My first campaign &lpar;Propellerads + Zeydoo Finance Surveys&rpar;](https://afflift.com/f/threads/my-first-campaign-propellerads-zeydoo-finance-surveys.11660/)<!-- afflift:END -->
 
 ### 少数派
