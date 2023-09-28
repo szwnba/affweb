@@ -37,7 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等](https://sspai.com/post/83277)
 -  27 [出去玩 | 现在就去征服大自然吧：自驾南姐洛徒步小记](https://sspai.com/post/82818)
 -  27 [被实力吸引， 被乐趣圈粉：macOS Sonoma 中值得关注的新特性](https://sspai.com/post/83228)
--  27 [除了出国，我们学习 GRE 还有什么用？](https://sspai.com/post/83125)
--  27 [派早报：Nothing 子品牌 CMF 发布多款新品、Apple 推出全球开发者资源等](https://sspai.com/post/83243)<!-- sspai:END -->
+-  27 [除了出国，我们学习 GRE 还有什么用？](https://sspai.com/post/83125)<!-- sspai:END -->
