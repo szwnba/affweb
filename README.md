@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
+-  29 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
 -  29 [Zeydoo offers clarified](https://afflift.com/f/threads/zeydoo-offers-clarified.11710/)
 -  29 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
 -  29 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
@@ -29,9 +31,7 @@
 -  29 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  29 [Help with Zeropark/Monetizer Postback URL Token Setup](https://afflift.com/f/threads/help-with-zeropark-monetizer-postback-url-token-setup.11702/)
 -  29 [Zeydoo SurveyOffer + PropellerAds Traffic #PA23](https://afflift.com/f/threads/zeydoo-surveyoffer-propellerads-traffic-pa23.11694/)
--  29 [Bathroom Remodeling Offer DIRECT](https://afflift.com/f/threads/bathroom-remodeling-offer-direct.11707/)
--  29 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  29 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)<!-- afflift:END -->
+-  29 [Bathroom Remodeling Offer DIRECT](https://afflift.com/f/threads/bathroom-remodeling-offer-direct.11707/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
