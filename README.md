@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)
--  29 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  29 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  29 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
--  29 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
--  29 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  29 [My First FA PropellerAds + Mobplus mVAS FA #PA23](https://afflift.com/f/threads/my-first-fa-propellerads-mobplus-mvas-fa-pa23.11695/)
+-  29 [Can anybody give me some advise on running vmas offer ?](https://afflift.com/f/threads/can-anybody-give-me-some-advise-on-running-vmas-offer.11701/)
 -  29 [Help with Zeropark/Monetizer Postback URL Token Setup](https://afflift.com/f/threads/help-with-zeropark-monetizer-postback-url-token-setup.11702/)
+-  29 [PropellerAds with Carrier Billing Offer #PA23](https://afflift.com/f/threads/propellerads-with-carrier-billing-offer-pa23.11672/)
+-  29 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
+-  29 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
+-  29 [New at Traffic Company: PIN API!](https://afflift.com/f/threads/new-at-traffic-company-pin-api.10362/)
 -  29 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  29 [Want a FREE pass from Adsterra to India&#39;s top Affiliate Marketing event?](https://afflift.com/f/threads/want-a-free-pass-from-adsterra-to-indias-top-affiliate-marketing-event.11705/)
--  29 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  29 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
--  29 [&lpar;Webinar&rpar; Using AI in affiliate SEO: How do you make that work?](https://afflift.com/f/threads/webinar-using-ai-in-affiliate-seo-how-do-you-make-that-work.11697/)<!-- afflift:END -->
+-  29 [How I Keep My Offers Organized](https://afflift.com/f/threads/how-i-keep-my-offers-organized.11643/)
+-  29 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
+-  29 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)
+-  29 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
