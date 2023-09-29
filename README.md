@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)
 -  28 [AI generated content](https://afflift.com/f/threads/ai-generated-content.11698/)
 -  28 [My First FA PropellerAds + Mobplus mVAS FA #PA23](https://afflift.com/f/threads/my-first-fa-propellerads-mobplus-mvas-fa-pa23.11695/)
 -  28 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
@@ -33,8 +34,7 @@
 -  28 [PropellerAds with Carrier Billing Offer #PA23](https://afflift.com/f/threads/propellerads-with-carrier-billing-offer-pa23.11672/)
 -  28 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  28 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)
--  28 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
--  28 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  28 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
