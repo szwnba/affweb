@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Help with Zeropark/Monetizer Postback URL Token Setup](https://afflift.com/f/threads/help-with-zeropark-monetizer-postback-url-token-setup.11702/)
 -  29 [Propeller Survey Exit Traffic - Huge Click Loss](https://afflift.com/f/threads/propeller-survey-exit-traffic-huge-click-loss.11689/)
 -  29 [My First FA PropellerAds + Mobplus mVAS FA #PA23](https://afflift.com/f/threads/my-first-fa-propellerads-mobplus-mvas-fa-pa23.11695/)
 -  29 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
@@ -34,8 +35,7 @@
 -  29 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  29 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
 -  29 [Can anybody give me some advise on running vmas offer ?](https://afflift.com/f/threads/can-anybody-give-me-some-advise-on-running-vmas-offer.11701/)
--  29 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)
--  28 [AI generated content](https://afflift.com/f/threads/ai-generated-content.11698/)<!-- afflift:END -->
+-  29 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
