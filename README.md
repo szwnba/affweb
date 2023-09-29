@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+-  29 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
+-  29 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  29 [Help with Zeropark/Monetizer Postback URL Token Setup](https://afflift.com/f/threads/help-with-zeropark-monetizer-postback-url-token-setup.11702/)
+-  29 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
+-  29 [Want a FREE pass from Adsterra to India&#39;s top Affiliate Marketing event?](https://afflift.com/f/threads/want-a-free-pass-from-adsterra-to-indias-top-affiliate-marketing-event.11705/)
+-  29 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  29 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  29 [&lpar;Webinar&rpar; Using AI in affiliate SEO: How do you make that work?](https://afflift.com/f/threads/webinar-using-ai-in-affiliate-seo-how-do-you-make-that-work.11697/)
 -  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  29 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  29 [Zeydoo SurveyOffer + PropellerAds Traffic #PA23](https://afflift.com/f/threads/zeydoo-surveyoffer-propellerads-traffic-pa23.11694/)
--  29 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  29 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
--  29 [This is🔥: 28% Payout Raise| Limited time!](https://afflift.com/f/threads/this-is%F0%9F%94%A5-28-payout-raise-limited-time.11704/)
--  29 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  29 [PropellerAds + Golden Goose Pop Campaign [Contest] #PA23](https://afflift.com/f/threads/propellerads-golden-goose-pop-campaign-contest-pa23.11683/)
--  29 [New deal for Rewardis: giving away a ticket to AW in Bangkok!](https://afflift.com/f/threads/new-deal-for-rewardis-giving-away-a-ticket-to-aw-in-bangkok.11703/)
--  29 [Help with Zeropark/Monetizer Postback URL Token Setup](https://afflift.com/f/threads/help-with-zeropark-monetizer-postback-url-token-setup.11702/)<!-- afflift:END -->
+-  29 [Zeydoo SurveyOffer + PropellerAds Traffic #PA23](https://afflift.com/f/threads/zeydoo-surveyoffer-propellerads-traffic-pa23.11694/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
