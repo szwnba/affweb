@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [#PA23 SOI/DOI on propeller inpage](https://afflift.com/f/threads/pa23-soi-doi-on-propeller-inpage.11551/)
+-  29 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
+-  29 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  29 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 -  29 [#PA23 New adventure with PropellerAds](https://afflift.com/f/threads/pa23-new-adventure-with-propellerads.11573/)
 -  29 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
@@ -28,10 +31,7 @@
 -  29 [Want a FREE pass from Adsterra to India&#39;s top Affiliate Marketing event?](https://afflift.com/f/threads/want-a-free-pass-from-adsterra-to-indias-top-affiliate-marketing-event.11705/)
 -  29 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  29 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
--  29 [&lpar;Webinar&rpar; Using AI in affiliate SEO: How do you make that work?](https://afflift.com/f/threads/webinar-using-ai-in-affiliate-seo-how-do-you-make-that-work.11697/)
--  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  29 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  29 [Zeydoo SurveyOffer + PropellerAds Traffic #PA23](https://afflift.com/f/threads/zeydoo-surveyoffer-propellerads-traffic-pa23.11694/)<!-- afflift:END -->
+-  29 [&lpar;Webinar&rpar; Using AI in affiliate SEO: How do you make that work?](https://afflift.com/f/threads/webinar-using-ai-in-affiliate-seo-how-do-you-make-that-work.11697/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
