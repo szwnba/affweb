@@ -42,5 +42,4 @@
 -  29 [留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析](https://sspai.com/post/83300)
 -  28 [双重节日，双重优惠，栏目和软件秒杀 9.9 元起](https://sspai.com/post/83295)
 -  28 [「媒体老师」的大开箱：数码科技厂商中秋礼盒里都有啥？](https://sspai.com/post/83298)
--  28 [新玩意 161｜少数派的编辑们最近买了啥？](https://sspai.com/post/83297)
--  28 [在 iOS 找回你需要的「节假日闹钟」](https://sspai.com/prime/story/shortcuts-holiday-alarm)<!-- sspai:END -->
+-  28 [新玩意 161｜少数派的编辑们最近买了啥？](https://sspai.com/post/83297)<!-- sspai:END -->
