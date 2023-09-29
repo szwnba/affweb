@@ -10,11 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  28 [新人报道](https://www.advertcn.com/forum.php?mod=viewthread&tid=112317)
--  28 [关于斗篷系统的问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=112314)
--  28 [推特Twitter发帖上不了热门连最新也看不到怎么办？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112309)
--  28 [daily cap](https://www.advertcn.com/forum.php?mod=viewthread&tid=112308)
--  28 [出个性域名 congliang.com/从良 guiqiu.com/跪求 等](https://www.advertcn.com/forum.php?mod=viewthread&tid=112306)<!-- advertcn:END -->
+-  28 [新人报道](https://www.advertcn.com/forum.php?mod=viewthread&tid=112317)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
