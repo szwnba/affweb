@@ -39,6 +39,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  29 [留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析](https://sspai.com/post/83300)
--  28 [双重节日，双重优惠，栏目和软件秒杀 9.9 元起](https://sspai.com/post/83295)
--  28 [「媒体老师」的大开箱：数码科技厂商中秋礼盒里都有啥？](https://sspai.com/post/83298)<!-- sspai:END -->
+-  29 [留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析](https://sspai.com/post/83300)<!-- sspai:END -->
