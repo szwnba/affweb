@@ -20,8 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  30 [Bathroom Remodeling Offer DIRECT](https://afflift.com/f/threads/bathroom-remodeling-offer-direct.11707/)
 -  30 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
+-  30 [PropellerAds + Golden Goose Pop Campaign [Contest] #PA23](https://afflift.com/f/threads/propellerads-golden-goose-pop-campaign-contest-pa23.11683/)
+-  30 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
+-  30 [Bathroom Remodeling Offer DIRECT](https://afflift.com/f/threads/bathroom-remodeling-offer-direct.11707/)
 -  30 [Propeller SurveyExit + Zeydoo Offer #PA23](https://afflift.com/f/threads/propeller-surveyexit-zeydoo-offer-pa23.11709/)
 -  30 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  30 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
@@ -29,9 +31,7 @@
 -  30 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  30 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  30 [Safe Domain Registrars That Won&#39;t Suspend Without Proper Evidence?](https://afflift.com/f/threads/safe-domain-registrars-that-wont-suspend-without-proper-evidence.11711/)
--  30 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  30 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  29 [Zeydoo offers clarified](https://afflift.com/f/threads/zeydoo-offers-clarified.11710/)<!-- afflift:END -->
+-  30 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
