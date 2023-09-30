@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  30 [It&#39;s Okay To Cry——评《往日之影》及《赛博朋克 2077》](https://sspai.com/post/83309)
--  29 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83307)<!-- sspai:END -->
+-  30 [It&#39;s Okay To Cry——评《往日之影》及《赛博朋克 2077》](https://sspai.com/post/83309)<!-- sspai:END -->
