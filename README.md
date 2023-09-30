@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  29 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83307)
--  29 [留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析](https://sspai.com/post/83300)<!-- sspai:END -->
+-  29 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83307)<!-- sspai:END -->
