@@ -21,6 +21,7 @@
 ### afflift
 <!-- afflift:START -->
 -  30 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
+-  30 [New guy in town](https://afflift.com/f/threads/new-guy-in-town.11708/)
 -  30 [How to bypass Cloaking?](https://afflift.com/f/threads/how-to-bypass-cloaking.11714/)
 -  30 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  30 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
@@ -30,8 +31,7 @@
 -  30 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  30 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  30 [Propeller SurveyExit + Zeydoo Offer #PA23](https://afflift.com/f/threads/propeller-surveyexit-zeydoo-offer-pa23.11709/)
--  30 [Safe Domain Registrars That Won&#39;t Suspend Without Proper Evidence?](https://afflift.com/f/threads/safe-domain-registrars-that-wont-suspend-without-proper-evidence.11711/)
--  30 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)<!-- afflift:END -->
+-  30 [Safe Domain Registrars That Won&#39;t Suspend Without Proper Evidence?](https://afflift.com/f/threads/safe-domain-registrars-that-wont-suspend-without-proper-evidence.11711/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
