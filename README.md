@@ -20,9 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
+-  30 [Safe Domain Registrars That Won&#39;t Suspend Without Proper Evidence?](https://afflift.com/f/threads/safe-domain-registrars-that-wont-suspend-without-proper-evidence.11711/)
 -  30 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  30 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  30 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  30 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  30 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  30 [Bathroom Remodeling Offer DIRECT](https://afflift.com/f/threads/bathroom-remodeling-offer-direct.11707/)
@@ -30,8 +31,7 @@
 -  29 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
 -  29 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
 -  29 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  29 [Propeller SurveyExit + Zeydoo Offer #PA23](https://afflift.com/f/threads/propeller-surveyexit-zeydoo-offer-pa23.11709/)
--  29 [New guy in town](https://afflift.com/f/threads/new-guy-in-town.11708/)<!-- afflift:END -->
+-  29 [Propeller SurveyExit + Zeydoo Offer #PA23](https://afflift.com/f/threads/propeller-surveyexit-zeydoo-offer-pa23.11709/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
