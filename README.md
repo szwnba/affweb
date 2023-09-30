@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  29 [中秋快乐](https://www.advertcn.com/forum.php?mod=viewthread&tid=112320)<!-- advertcn:END -->
+-  30 [太多误人子弟的贴子了，真正的核心就几句话的事情](https://www.advertcn.com/forum.php?mod=viewthread&tid=112326)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
