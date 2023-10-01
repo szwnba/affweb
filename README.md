@@ -20,8 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  01 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
 -  01 [Does blocking Zone have a big impact on the CPA Goal algorithm?](https://afflift.com/f/threads/does-blocking-zone-have-a-big-impact-on-the-cpa-goal-algorithm.11715/)
+-  01 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
+-  01 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
 -  01 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)
 -  01 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  01 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
@@ -30,8 +31,7 @@
 -  30 [Zeydoo x Propellerads #PA23](https://afflift.com/f/threads/zeydoo-x-propellerads-pa23.11561/)
 -  30 [#PA23 Sweepstake offers on PropellerAds](https://afflift.com/f/threads/pa23-sweepstake-offers-on-propellerads.11555/)
 -  30 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
--  30 [New guy in town](https://afflift.com/f/threads/new-guy-in-town.11708/)
--  30 [How to bypass Cloaking?](https://afflift.com/f/threads/how-to-bypass-cloaking.11714/)<!-- afflift:END -->
+-  30 [New guy in town](https://afflift.com/f/threads/new-guy-in-town.11708/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
