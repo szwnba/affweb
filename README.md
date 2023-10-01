@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [PropellerAds + Golden Goose Pop Campaign [Contest] #PA23](https://afflift.com/f/threads/propellerads-golden-goose-pop-campaign-contest-pa23.11683/)
 -  01 [Propeller SurveyExit + Zeydoo Offer #PA23](https://afflift.com/f/threads/propeller-surveyexit-zeydoo-offer-pa23.11709/)
 -  01 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  01 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
@@ -30,8 +31,7 @@
 -  01 [Does blocking Zone have a big impact on the CPA Goal algorithm?](https://afflift.com/f/threads/does-blocking-zone-have-a-big-impact-on-the-cpa-goal-algorithm.11715/)
 -  01 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  01 [New Detailed Propeller Ads Follow-a-long 2023 #PA23](https://afflift.com/f/threads/new-detailed-propeller-ads-follow-a-long-2023-pa23.11612/)
--  01 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)
--  01 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)<!-- afflift:END -->
+-  01 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
