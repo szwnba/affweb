@@ -21,9 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
+-  02 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  02 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
 -  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  02 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
 -  02 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  02 [Zeydoo SurveyOffer + PropellerAds Traffic #PA23](https://afflift.com/f/threads/zeydoo-surveyoffer-propellerads-traffic-pa23.11694/)
 -  02 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)
@@ -31,8 +32,7 @@
 -  02 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  02 [Anyone experiencing delays for conversions appearing in Prop Dashb/Cpa onclick since last night?](https://afflift.com/f/threads/anyone-experiencing-delays-for-conversions-appearing-in-prop-dashb-cpa-onclick-since-last-night.11723/)
 -  02 [Golden Goose Smartlink](https://afflift.com/f/threads/golden-goose-smartlink.11722/)
--  02 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  02 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)<!-- afflift:END -->
+-  02 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
