@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  01 [苍蝇腿也是肉](https://www.advertcn.com/forum.php?mod=viewthread&tid=112331)
--  01 [太多误人子弟的贴子了，真正的核心就几句话的事情](https://www.advertcn.com/forum.php?mod=viewthread&tid=112329)<!-- advertcn:END -->
+-  01 [苍蝇腿也是肉](https://www.advertcn.com/forum.php?mod=viewthread&tid=112331)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
