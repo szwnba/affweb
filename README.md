@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Zeydoo SurveyOffer + PropellerAds Traffic #PA23](https://afflift.com/f/threads/zeydoo-surveyoffer-propellerads-traffic-pa23.11694/)
+-  02 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
+-  02 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)
+-  02 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  02 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  02 [Anyone experiencing delays for conversions appearing in Prop Dashb/Cpa onclick since last night?](https://afflift.com/f/threads/anyone-experiencing-delays-for-conversions-appearing-in-prop-dashb-cpa-onclick-since-last-night.11723/)
 -  02 [Golden Goose Smartlink](https://afflift.com/f/threads/golden-goose-smartlink.11722/)
--  02 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)
 -  02 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  02 [Biggest Contest of The Year!!! Let&#39;s Go #PA23](https://afflift.com/f/threads/biggest-contest-of-the-year-lets-go-pa23.11574/)
 -  02 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  02 [Regarding click loss, I need your help.](https://afflift.com/f/threads/regarding-click-loss-i-need-your-help.11696/)
--  02 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)
--  02 [Zeydoo SurveyOffer + PropellerAds Traffic #PA23](https://afflift.com/f/threads/zeydoo-surveyoffer-propellerads-traffic-pa23.11694/)
--  02 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
--  02 [Teaching PA platform to newbies while making a profit! 💰 #PA23](https://afflift.com/f/threads/teaching-pa-platform-to-newbies-while-making-a-profit-%F0%9F%92%B0-pa23.11585/)<!-- afflift:END -->
+-  02 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
