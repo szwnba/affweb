@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  02 [这都是什么高科技](https://www.advertcn.com/forum.php?mod=viewthread&tid=112340)
 -  01 [拉美地区跑贷款，哪个联盟比较合适](https://www.advertcn.com/forum.php?mod=viewthread&tid=112332)<!-- advertcn:END -->
 
 ### zhihu
