@@ -36,4 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  30 [It&#39;s Okay To Cry——评《往日之影》及《赛博朋克 2077》](https://sspai.com/post/83309)<!-- sspai:END -->
+-  02 [一日一技 | 巧用 Word 邮件合并，半自动生成活动照片记录文档](https://sspai.com/post/83276)<!-- sspai:END -->
