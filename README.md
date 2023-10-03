@@ -37,5 +37,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [如何在信息过载时代开启「独立思考」的人生](https://sspai.com/post/82646)
 -  03 [家用咖啡手册（终篇）| 都是咖啡，但你真了解自己喝的那一杯吗？](https://sspai.com/post/83184)
 -  02 [面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)<!-- sspai:END -->
