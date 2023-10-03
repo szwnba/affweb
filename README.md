@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [anyone promoting health VSLs using facebook ads? looking to mastermind?](https://afflift.com/f/threads/anyone-promoting-health-vsls-using-facebook-ads-looking-to-mastermind.11726/)
 -  03 [Clarification of &#39;Adding Custom Domains&#39;](https://afflift.com/f/threads/clarification-of-adding-custom-domains.11725/)
 -  02 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  02 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
@@ -32,8 +33,7 @@
 -  02 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  02 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11663/)
 -  02 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
--  02 [Help with Zeropark/Monetizer Postback URL Token Setup](https://afflift.com/f/threads/help-with-zeropark-monetizer-postback-url-token-setup.11702/)
--  02 [Safe Domain Registrars That Won&#39;t Suspend Without Proper Evidence?](https://afflift.com/f/threads/safe-domain-registrars-that-wont-suspend-without-proper-evidence.11711/)<!-- afflift:END -->
+-  02 [Help with Zeropark/Monetizer Postback URL Token Setup](https://afflift.com/f/threads/help-with-zeropark-monetizer-postback-url-token-setup.11702/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
