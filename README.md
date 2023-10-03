@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [用「快捷短语」提高搜索效率：工具设置与自建服务](https://sspai.com/prime/story/keyword-search-tools-and-selfhosting)
 -  03 [出行锦囊 | 出去玩带什么：和你分享我的包](https://sspai.com/post/83351)
 -  03 [如何在信息过载时代开启「独立思考」的人生](https://sspai.com/post/82646)
 -  03 [家用咖啡手册（终篇）| 都是咖啡，但你真了解自己喝的那一杯吗？](https://sspai.com/post/83184)<!-- sspai:END -->
