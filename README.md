@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Propeller Survey Exit Traffic - Huge Click Loss](https://afflift.com/f/threads/propeller-survey-exit-traffic-huge-click-loss.11689/)
+-  03 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
+-  03 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
+-  03 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+-  03 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
+-  03 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
 -  03 [Regarding click loss, I need your help.](https://afflift.com/f/threads/regarding-click-loss-i-need-your-help.11696/)
 -  03 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  03 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  03 [Question on SES](https://afflift.com/f/threads/question-on-ses.11728/)
 -  03 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
--  03 [How to Set Custom Bids in Bulk for a List of Zone IDs on PropellerAds](https://afflift.com/f/threads/how-to-set-custom-bids-in-bulk-for-a-list-of-zone-ids-on-propellerads.11727/)
--  03 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)
--  03 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
--  03 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
--  03 [anyone promoting health VSLs using facebook ads? looking to mastermind?](https://afflift.com/f/threads/anyone-promoting-health-vsls-using-facebook-ads-looking-to-mastermind.11726/)
--  03 [Clarification of &#39;Adding Custom Domains&#39;](https://afflift.com/f/threads/clarification-of-adding-custom-domains.11725/)
--  02 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)<!-- afflift:END -->
+-  03 [How to Set Custom Bids in Bulk for a List of Zone IDs on PropellerAds](https://afflift.com/f/threads/how-to-set-custom-bids-in-bulk-for-a-list-of-zone-ids-on-propellerads.11727/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
