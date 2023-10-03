@@ -37,5 +37,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [家用咖啡手册（终篇）| 都是咖啡，但你真了解自己喝的那一杯吗？](https://sspai.com/post/83184)
 -  02 [面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)
 -  02 [一日一技 | 巧用 Word 邮件合并，半自动生成活动照片记录文档](https://sspai.com/post/83276)<!-- sspai:END -->
