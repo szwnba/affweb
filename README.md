@@ -11,7 +11,8 @@
 ### advertcn
 <!-- advertcn:START -->
 -  02 [这都是什么高科技](https://www.advertcn.com/forum.php?mod=viewthread&tid=112340)
--  01 [拉美地区跑贷款，哪个联盟比较合适](https://www.advertcn.com/forum.php?mod=viewthread&tid=112332)<!-- advertcn:END -->
+-  02 [求购：稳定的谷歌拒付卡虚拟卡（每天800张）](https://www.advertcn.com/forum.php?mod=viewthread&tid=112339)
+-  02 [求这种模板](https://www.advertcn.com/forum.php?mod=viewthread&tid=112338)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
