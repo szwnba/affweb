@@ -22,8 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Clarification of &#39;Adding Custom Domains&#39;](https://afflift.com/f/threads/clarification-of-adding-custom-domains.11725/)
+-  02 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  02 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
--  02 [Clarification of &#39;Adding Custom Domains&#39;](https://afflift.com/f/threads/clarification-of-adding-custom-domains.11725/)
 -  02 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
 -  02 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  02 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
@@ -32,8 +33,7 @@
 -  02 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11663/)
 -  02 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
 -  02 [Help with Zeropark/Monetizer Postback URL Token Setup](https://afflift.com/f/threads/help-with-zeropark-monetizer-postback-url-token-setup.11702/)
--  02 [Safe Domain Registrars That Won&#39;t Suspend Without Proper Evidence?](https://afflift.com/f/threads/safe-domain-registrars-that-wont-suspend-without-proper-evidence.11711/)
--  02 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)<!-- afflift:END -->
+-  02 [Safe Domain Registrars That Won&#39;t Suspend Without Proper Evidence?](https://afflift.com/f/threads/safe-domain-registrars-that-wont-suspend-without-proper-evidence.11711/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
