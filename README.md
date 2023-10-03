@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Meet Adsterra at India Affiliate Summit 2023 and book a meeting with our experts!](https://afflift.com/f/threads/meet-adsterra-at-india-affiliate-summit-2023-and-book-a-meeting-with-our-experts.11730/)
 -  03 [AI Ads is gonna be a mess Next Year!](https://afflift.com/f/threads/ai-ads-is-gonna-be-a-mess-next-year.11729/)
 -  03 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  03 [Question on SES](https://afflift.com/f/threads/question-on-ses.11728/)
@@ -31,8 +32,7 @@
 -  03 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  03 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  03 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
--  03 [Regarding click loss, I need your help.](https://afflift.com/f/threads/regarding-click-loss-i-need-your-help.11696/)
--  03 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)<!-- afflift:END -->
+-  03 [Regarding click loss, I need your help.](https://afflift.com/f/threads/regarding-click-loss-i-need-your-help.11696/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
