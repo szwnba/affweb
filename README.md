@@ -21,8 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Rewind.ai](https://afflift.com/f/threads/rewind-ai.11731/)
 -  03 [AI Ads is gonna be a mess Next Year!](https://afflift.com/f/threads/ai-ads-is-gonna-be-a-mess-next-year.11729/)
+-  03 [Rewind.ai](https://afflift.com/f/threads/rewind-ai.11731/)
 -  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  03 [best search engine marketing spy tool?](https://afflift.com/f/threads/best-search-engine-marketing-spy-tool.11674/)
 -  03 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
