@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [AI Ads is gonna be a mess Next Year!](https://afflift.com/f/threads/ai-ads-is-gonna-be-a-mess-next-year.11729/)
+-  03 [Rewind.ai](https://afflift.com/f/threads/rewind-ai.11731/)
+-  03 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  03 [best search engine marketing spy tool?](https://afflift.com/f/threads/best-search-engine-marketing-spy-tool.11674/)
+-  03 [Safe Domain Registrars That Won&#39;t Suspend Without Proper Evidence?](https://afflift.com/f/threads/safe-domain-registrars-that-wont-suspend-without-proper-evidence.11711/)
+-  03 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  03 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  03 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
--  03 [Rewind.ai](https://afflift.com/f/threads/rewind-ai.11731/)
--  03 [AI Ads is gonna be a mess Next Year!](https://afflift.com/f/threads/ai-ads-is-gonna-be-a-mess-next-year.11729/)
 -  03 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  03 [PropellerAds #PA23 Follow Along](https://afflift.com/f/threads/propellerads-pa23-follow-along.11565/)
 -  03 [Meet Adsterra at India Affiliate Summit 2023 and book a meeting with our experts!](https://afflift.com/f/threads/meet-adsterra-at-india-affiliate-summit-2023-and-book-a-meeting-with-our-experts.11730/)
--  03 [Question on SES](https://afflift.com/f/threads/question-on-ses.11728/)
--  03 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  03 [Propeller Survey Exit Traffic - Huge Click Loss](https://afflift.com/f/threads/propeller-survey-exit-traffic-huge-click-loss.11689/)
--  03 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
--  03 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)<!-- afflift:END -->
+-  03 [Question on SES](https://afflift.com/f/threads/question-on-ses.11728/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
