@@ -22,12 +22,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  03 [anyone promoting health VSLs using facebook ads? looking to mastermind?](https://afflift.com/f/threads/anyone-promoting-health-vsls-using-facebook-ads-looking-to-mastermind.11726/)
 -  03 [Clarification of &#39;Adding Custom Domains&#39;](https://afflift.com/f/threads/clarification-of-adding-custom-domains.11725/)
 -  02 [PropellerAds to the Riches 🤑](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91.11567/)
 -  02 [Biggest and Most Epic Contest #PA23](https://afflift.com/f/threads/biggest-and-most-epic-contest-pa23.11557/)
 -  02 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
--  02 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  02 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
 -  02 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  02 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
