@@ -20,6 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [In Page Push vs Classic Push](https://afflift.com/f/threads/in-page-push-vs-classic-push.11032/)
+-  04 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
+-  04 [Running the Casino offer at HilltopAds: ROI 182,73%](https://afflift.com/f/threads/running-the-casino-offer-at-hilltopads-roi-182-73.11735/)
+-  04 [highest volume push networks 2023](https://afflift.com/f/threads/highest-volume-push-networks-2023.11632/)
 -  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  04 [How to make a custom HTML email template that works](https://afflift.com/f/threads/how-to-make-a-custom-html-email-template-that-works.11734/)
 -  04 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
@@ -27,11 +31,7 @@
 -  04 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  04 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  04 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
--  04 [Newbie here &lpar;First update on Pops Guide - Beginners Guide course&rpar;](https://afflift.com/f/threads/newbie-here-first-update-on-pops-guide-beginners-guide-course.11733/)
--  04 [AI Ads is gonna be a mess Next Year!](https://afflift.com/f/threads/ai-ads-is-gonna-be-a-mess-next-year.11729/)
--  04 [Revcontent Desktop RON + Clickbank VSL](https://afflift.com/f/threads/revcontent-desktop-ron-clickbank-vsl.11486/)
--  04 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  04 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)<!-- afflift:END -->
+-  04 [Newbie here &lpar;First update on Pops Guide - Beginners Guide course&rpar;](https://afflift.com/f/threads/newbie-here-first-update-on-pops-guide-beginners-guide-course.11733/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
