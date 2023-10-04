@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  03 [卖号的买号的都注意了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112343)
--  02 [这都是什么高科技](https://www.advertcn.com/forum.php?mod=viewthread&tid=112340)<!-- advertcn:END -->
+-  03 [卖号的买号的都注意了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112343)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
