@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Can anybody give me some advise on running vmas offer ?](https://afflift.com/f/threads/can-anybody-give-me-some-advise-on-running-vmas-offer.11701/)
+-  04 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
+-  04 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
 -  04 [Thinking About Promoting Dating Offers in 2023? Gain Insights and Expertise from Cpamatica&#39;s...](https://afflift.com/f/threads/thinking-about-promoting-dating-offers-in-2023-gain-insights-and-expertise-from-cpamaticas.11706/)
 -  04 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
 -  04 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  04 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  04 [Rewind.ai](https://afflift.com/f/threads/rewind-ai.11731/)
 -  04 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  04 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
 -  04 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  04 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
--  04 [Choosing the right affiliate marketing vertical to promote with Inpage push, Pop-ups, Native ads, and Teasers](https://afflift.com/f/threads/choosing-the-right-affiliate-marketing-vertical-to-promote-with-inpage-push-pop-ups-native-ads-and-teasers.11742/)
--  04 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  04 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)<!-- afflift:END -->
+-  04 [Choosing the right affiliate marketing vertical to promote with Inpage push, Pop-ups, Native ads, and Teasers](https://afflift.com/f/threads/choosing-the-right-affiliate-marketing-vertical-to-promote-with-inpage-push-pop-ups-native-ads-and-teasers.11742/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
