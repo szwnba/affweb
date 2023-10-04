@@ -36,5 +36,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  04 [开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
--  04 [PARA中「项目」的魔力：用输出对抗信息焦虑](https://sspai.com/post/83271)
--  03 [用「快捷短语」提高搜索效率：工具设置与自建服务](https://sspai.com/prime/story/keyword-search-tools-and-selfhosting)<!-- sspai:END -->
+-  04 [PARA中「项目」的魔力：用输出对抗信息焦虑](https://sspai.com/post/83271)<!-- sspai:END -->
