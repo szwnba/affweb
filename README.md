@@ -20,8 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [Newbie here &lpar;First update on Pops Guide - Beginners Guide course&rpar;](https://afflift.com/f/threads/newbie-here-first-update-on-pops-guide-beginners-guide-course.11733/)
 -  04 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
+-  04 [Newbie here &lpar;First update on Pops Guide - Beginners Guide course&rpar;](https://afflift.com/f/threads/newbie-here-first-update-on-pops-guide-beginners-guide-course.11733/)
 -  04 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  04 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  03 [Can anybody give me some advise on running vmas offer ?](https://afflift.com/f/threads/can-anybody-give-me-some-advise-on-running-vmas-offer.11701/)
