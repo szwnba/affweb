@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  04 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  04 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
+-  04 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
+-  04 [Hello Hello!!](https://afflift.com/f/threads/hello-hello.11739/)
+-  04 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  04 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  04 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
 -  04 [Interstitial vs push for finance offers](https://afflift.com/f/threads/interstitial-vs-push-for-finance-offers.11265/)
 -  04 [In Page Push vs Classic Push](https://afflift.com/f/threads/in-page-push-vs-classic-push.11032/)
 -  04 [Running the Casino offer at HilltopAds: ROI 182,73%](https://afflift.com/f/threads/running-the-casino-offer-at-hilltopads-roi-182-73.11735/)
 -  04 [highest volume push networks 2023](https://afflift.com/f/threads/highest-volume-push-networks-2023.11632/)
--  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  04 [How to make a custom HTML email template that works](https://afflift.com/f/threads/how-to-make-a-custom-html-email-template-that-works.11734/)
--  04 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  04 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)<!-- afflift:END -->
+-  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
