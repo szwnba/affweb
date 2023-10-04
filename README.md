@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
 -  04 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  04 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
 -  04 [Newbie here &lpar;First update on Pops Guide - Beginners Guide course&rpar;](https://afflift.com/f/threads/newbie-here-first-update-on-pops-guide-beginners-guide-course.11733/)
@@ -30,8 +31,7 @@
 -  03 [Can anybody give me some advise on running vmas offer ?](https://afflift.com/f/threads/can-anybody-give-me-some-advise-on-running-vmas-offer.11701/)
 -  03 [A major issue with Facebook website click ads.](https://afflift.com/f/threads/a-major-issue-with-facebook-website-click-ads.11732/)
 -  03 [Rewind.ai](https://afflift.com/f/threads/rewind-ai.11731/)
--  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  03 [best search engine marketing spy tool?](https://afflift.com/f/threads/best-search-engine-marketing-spy-tool.11674/)<!-- afflift:END -->
+-  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
