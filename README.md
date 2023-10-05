@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
+-  05 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
+-  05 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  04 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  04 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  04 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
@@ -27,11 +30,8 @@
 -  04 [Hello Everyone](https://afflift.com/f/threads/hello-everyone.11656/)
 -  04 [Google PPC vs Mediabuying](https://afflift.com/f/threads/google-ppc-vs-mediabuying.11744/)
 -  04 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  04 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
--  04 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  04 [Hello Hello!!](https://afflift.com/f/threads/hello-hello.11739/)
--  04 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
--  04 [What challenges do you encounter on Facebook? &lpar;right now&rpar;](https://afflift.com/f/threads/what-challenges-do-you-encounter-on-facebook-right-now.11740/)<!-- afflift:END -->
+-  04 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
