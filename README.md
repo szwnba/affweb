@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  04 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  04 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
 -  04 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
@@ -30,8 +31,7 @@
 -  04 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  04 [Hello Hello!!](https://afflift.com/f/threads/hello-hello.11739/)
 -  04 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
--  04 [What challenges do you encounter on Facebook? &lpar;right now&rpar;](https://afflift.com/f/threads/what-challenges-do-you-encounter-on-facebook-right-now.11740/)
--  04 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)<!-- afflift:END -->
+-  04 [What challenges do you encounter on Facebook? &lpar;right now&rpar;](https://afflift.com/f/threads/what-challenges-do-you-encounter-on-facebook-right-now.11740/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
