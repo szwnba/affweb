@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  03 [卖号的买号的都注意了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112343)<!-- advertcn:END -->
+-  04 [印度回来的电汇，手续费每笔高达50-60刀，怎么解决？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112360)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
