@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)
+-  05 [Hello Everyone from Affstream :&rpar;](https://afflift.com/f/threads/hello-everyone-from-affstream.11748/)
 -  05 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  05 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  05 [Thinking About Promoting Dating Offers in 2023? Gain Insights and Expertise from Cpamatica&#39;s...](https://afflift.com/f/threads/thinking-about-promoting-dating-offers-in-2023-gain-insights-and-expertise-from-cpamaticas.11706/)
@@ -29,9 +31,7 @@
 -  05 [best search engine marketing spy tool?](https://afflift.com/f/threads/best-search-engine-marketing-spy-tool.11674/)
 -  05 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)
 -  05 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  05 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  05 [What challenges do you encounter on Facebook? &lpar;right now&rpar;](https://afflift.com/f/threads/what-challenges-do-you-encounter-on-facebook-right-now.11740/)
--  05 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)<!-- afflift:END -->
+-  05 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
