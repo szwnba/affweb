@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
+-  05 [What challenges do you encounter on Facebook? &lpar;right now&rpar;](https://afflift.com/f/threads/what-challenges-do-you-encounter-on-facebook-right-now.11740/)
 -  05 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  05 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
 -  05 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
@@ -29,9 +31,7 @@
 -  05 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  04 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  04 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  04 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
--  04 [Hello Everyone](https://afflift.com/f/threads/hello-everyone.11656/)
--  04 [Google PPC vs Mediabuying](https://afflift.com/f/threads/google-ppc-vs-mediabuying.11744/)<!-- afflift:END -->
+-  04 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
