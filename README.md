@@ -20,9 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
+-  05 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  05 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  05 [Propush on a CDN?](https://afflift.com/f/threads/propush-on-a-cdn.11713/)
--  05 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  05 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  04 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  04 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
@@ -30,8 +31,7 @@
 -  04 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
 -  04 [Hello Everyone](https://afflift.com/f/threads/hello-everyone.11656/)
 -  04 [Google PPC vs Mediabuying](https://afflift.com/f/threads/google-ppc-vs-mediabuying.11744/)
--  04 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  04 [Hello Hello!!](https://afflift.com/f/threads/hello-hello.11739/)<!-- afflift:END -->
+-  04 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
