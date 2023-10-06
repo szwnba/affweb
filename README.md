@@ -21,8 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  06 [Zeydoo - Different Languages for Offer](https://afflift.com/f/threads/zeydoo-different-languages-for-offer.11753/)
+-  06 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  06 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
+-  06 [Zeydoo - Different Languages for Offer](https://afflift.com/f/threads/zeydoo-different-languages-for-offer.11753/)
 -  06 [How to use CPVLAB Pro with OddBytes &lpar;Previously Propel Media&rpar;](https://afflift.com/f/threads/how-to-use-cpvlab-pro-with-oddbytes-previously-propel-media.11754/)
 -  05 [Tracking Conversions and Sources from ProPush](https://afflift.com/f/threads/tracking-conversions-and-sources-from-propush.7464/)
 -  05 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
@@ -31,8 +32,7 @@
 -  05 [Hello Everyone from Affstream :&rpar;](https://afflift.com/f/threads/hello-everyone-from-affstream.11748/)
 -  05 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 -  05 [Happy B-Day RollerAds 🎁 Participate in Raffle!](https://afflift.com/f/threads/happy-b-day-rollerads-%F0%9F%8E%81-participate-in-raffle.11718/)
--  05 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)
--  05 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)<!-- afflift:END -->
+-  05 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
