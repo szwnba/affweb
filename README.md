@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
+-  06 [Verify Emails BEFORE They&#39;re Added To Your List](https://afflift.com/f/threads/verify-emails-before-theyre-added-to-your-list.8468/)
 -  06 [anyone promoting health VSLs using facebook ads? looking to mastermind?](https://afflift.com/f/threads/anyone-promoting-health-vsls-using-facebook-ads-looking-to-mastermind.11726/)
 -  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  06 [Clarification of &#39;Adding Custom Domains&#39;](https://afflift.com/f/threads/clarification-of-adding-custom-domains.11725/)
@@ -28,10 +30,8 @@
 -  06 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  06 [Should we include mainstream sources in Peak Awards again?](https://afflift.com/f/threads/should-we-include-mainstream-sources-in-peak-awards-again.11756/)
 -  06 [Zeydoo - Different Languages for Offer](https://afflift.com/f/threads/zeydoo-different-languages-for-offer.11753/)
--  06 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  06 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
--  06 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
--  06 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)<!-- afflift:END -->
+-  06 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
