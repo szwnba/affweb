@@ -35,4 +35,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [为了打字更爽，我学了一个追求极致性能的小众输入法](https://sspai.com/post/83376)
 -  06 [生活的平衡](https://sspai.com/post/82961)<!-- sspai:END -->
