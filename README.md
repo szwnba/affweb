@@ -36,4 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  04 [内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览](https://sspai.com/post/83366)<!-- sspai:END -->
+-  06 [生活的平衡](https://sspai.com/post/82961)<!-- sspai:END -->
