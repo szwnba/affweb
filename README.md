@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)
+-  06 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  06 [PROXYS.IO - Individual server, mobile and resident IPv4/IPv6 proxies](https://afflift.com/f/threads/proxys-io-individual-server-mobile-and-resident-ipv4-ipv6-proxies.9810/)
 -  06 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  06 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
@@ -29,9 +31,7 @@
 -  06 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)
 -  06 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  06 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  06 [Zeydoo - Different Languages for Offer](https://afflift.com/f/threads/zeydoo-different-languages-for-offer.11753/)
--  06 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
--  06 [Howdy 🤠](https://afflift.com/f/threads/howdy-%F0%9F%A4%A0.11489/)<!-- afflift:END -->
+-  06 [Zeydoo - Different Languages for Offer](https://afflift.com/f/threads/zeydoo-different-languages-for-offer.11753/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
