@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  05 [我的第一个油管频道过审了，下一步咋整？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112369)
--  05 [求一份临时工的课程](https://www.advertcn.com/forum.php?mod=viewthread&tid=112365)<!-- advertcn:END -->
+-  05 [我的第一个油管频道过审了，下一步咋整？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112369)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
