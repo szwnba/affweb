@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Should we include mainstream sources in Peak Awards again?](https://afflift.com/f/threads/should-we-include-mainstream-sources-in-peak-awards-again.11756/)
 -  06 [Zeydoo - Different Languages for Offer](https://afflift.com/f/threads/zeydoo-different-languages-for-offer.11753/)
 -  06 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  06 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
@@ -30,7 +31,6 @@
 -  06 [Clarification of &#39;Adding Custom Domains&#39;](https://afflift.com/f/threads/clarification-of-adding-custom-domains.11725/)
 -  06 [Question on SES](https://afflift.com/f/threads/question-on-ses.11728/)
 -  06 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  06 [Should we include mainstream sources in Peak Awards again?](https://afflift.com/f/threads/should-we-include-mainstream-sources-in-peak-awards-again.11756/)
 -  06 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)<!-- afflift:END -->
 
 ### 少数派
