@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  06 [Zeydoo - Different Languages for Offer](https://afflift.com/f/threads/zeydoo-different-languages-for-offer.11753/)
--  06 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
--  06 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  06 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
--  06 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
--  06 [Pops + Zeydoo to my first profitable campaign](https://afflift.com/f/threads/pops-zeydoo-to-my-first-profitable-campaign.11418/)
+-  06 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)
+-  06 [What challenges do you encounter on Facebook? &lpar;right now&rpar;](https://afflift.com/f/threads/what-challenges-do-you-encounter-on-facebook-right-now.11740/)
+-  06 [Newbie here &lpar;First update on Pops Guide - Beginners Guide course&rpar;](https://afflift.com/f/threads/newbie-here-first-update-on-pops-guide-beginners-guide-course.11733/)
+-  06 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
+-  06 [Should we include mainstream sources in Peak Awards again?](https://afflift.com/f/threads/should-we-include-mainstream-sources-in-peak-awards-again.11756/)
 -  06 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
--  06 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
--  06 [Rewind.ai](https://afflift.com/f/threads/rewind-ai.11731/)
+-  06 [Heylink - the tracker that gives you more data, better automation and new revenue opportunities](https://afflift.com/f/threads/heylink-the-tracker-that-gives-you-more-data-better-automation-and-new-revenue-opportunities.11431/)
+-  06 [Heylink Review](https://afflift.com/f/threads/heylink-review.11757/)
+-  06 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  06 [Zeydoo - Different Languages for Offer](https://afflift.com/f/threads/zeydoo-different-languages-for-offer.11753/)
 -  06 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)
--  06 [Hello Everyone from Affstream :&rpar;](https://afflift.com/f/threads/hello-everyone-from-affstream.11748/)
--  06 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)<!-- afflift:END -->
+-  06 [2 Facebook Posts Made $10,000 in Sales for Prime Day](https://afflift.com/f/threads/2-facebook-posts-made-10-000-in-sales-for-prime-day.9279/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
