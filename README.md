@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)
 -  07 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  06 [Step 6 - Add BeMob Postback to Zeydoo](https://afflift.com/f/threads/step-6-add-bemob-postback-to-zeydoo.7477/)
 -  06 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
@@ -30,8 +31,7 @@
 -  06 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
 -  06 [RichAds: Premium push, pops, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pops-in-page-calendar-direct-click-native-traffic.991/)
 -  06 [Verify Emails BEFORE They&#39;re Added To Your List](https://afflift.com/f/threads/verify-emails-before-theyre-added-to-your-list.8468/)
--  06 [anyone promoting health VSLs using facebook ads? looking to mastermind?](https://afflift.com/f/threads/anyone-promoting-health-vsls-using-facebook-ads-looking-to-mastermind.11726/)
--  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
+-  06 [anyone promoting health VSLs using facebook ads? looking to mastermind?](https://afflift.com/f/threads/anyone-promoting-health-vsls-using-facebook-ads-looking-to-mastermind.11726/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
