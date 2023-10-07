@@ -38,5 +38,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件](https://sspai.com/post/83373)
 -  07 [Python 在办公自动化中的简单应用](https://sspai.com/post/83196)
 -  07 [派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等](https://sspai.com/post/83389)<!-- sspai:END -->
