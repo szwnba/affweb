@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  07 [Quad 101 公共DNS](https://www.advertcn.com/forum.php?mod=viewthread&tid=112384)
 -  07 [朋友介绍认识了个搞国内联盟的，他说他每个月佣金有8位数](https://www.advertcn.com/forum.php?mod=viewthread&tid=112383)
 -  07 [注册的域名不见了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112379)
 -  06 [depay/dupay大额吞U事件~](https://www.advertcn.com/forum.php?mod=viewthread&tid=112378)
