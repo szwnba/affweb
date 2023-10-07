@@ -24,8 +24,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  07 [🔥 Mobidea&#39;s Dating Challenge](https://afflift.com/f/threads/%F0%9F%94%A5-mobideas-dating-challenge.10325/)
 -  07 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
+-  07 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  07 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  07 [Happy B-Day RollerAds 🎁 Participate in Raffle!](https://afflift.com/f/threads/happy-b-day-rollerads-%F0%9F%8E%81-participate-in-raffle.11718/)
 -  07 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
@@ -34,8 +35,7 @@
 -  06 [Step 6 - Add BeMob Postback to Zeydoo](https://afflift.com/f/threads/step-6-add-bemob-postback-to-zeydoo.7477/)
 -  06 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  06 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  06 [Should we include mainstream sources in Peak Awards again?](https://afflift.com/f/threads/should-we-include-mainstream-sources-in-peak-awards-again.11756/)
--  06 [Zeydoo - Different Languages for Offer](https://afflift.com/f/threads/zeydoo-different-languages-for-offer.11753/)<!-- afflift:END -->
+-  06 [Should we include mainstream sources in Peak Awards again?](https://afflift.com/f/threads/should-we-include-mainstream-sources-in-peak-awards-again.11756/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
