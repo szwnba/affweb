@@ -22,9 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
--  07 [BeMob Click URLs not working](https://afflift.com/f/threads/bemob-click-urls-not-working.11759/)
 -  07 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
+-  07 [BeMob Click URLs not working](https://afflift.com/f/threads/bemob-click-urls-not-working.11759/)
+-  07 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  07 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  07 [Revcontent RON + Nutra COD Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-cod-follow-along.10896/)
 -  07 [Step 3 - Setup PropellerAds in BeMob](https://afflift.com/f/threads/step-3-setup-propellerads-in-bemob.7474/)
