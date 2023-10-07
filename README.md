@@ -38,6 +38,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [本周看什么 | 最近值得一看的一大捧作品](https://sspai.com/post/83395)
 -  07 [不躺不卷，用热爱疗愈副业焦虑](https://sspai.com/post/83017)
 -  07 [让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件](https://sspai.com/post/83373)
 -  07 [Python 在办公自动化中的简单应用](https://sspai.com/post/83196)
