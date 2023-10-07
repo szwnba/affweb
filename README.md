@@ -36,5 +36,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [Python 在办公自动化中的简单应用](https://sspai.com/post/83196)
 -  07 [派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等](https://sspai.com/post/83389)
 -  06 [为了打字更爽，我学了一个追求极致性能的小众输入法](https://sspai.com/post/83376)<!-- sspai:END -->
