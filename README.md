@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  05 [我的第一个油管频道过审了，下一步咋整？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112369)<!-- advertcn:END -->
+-  07 [注册的域名不见了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112379)
+-  06 [depay/dupay大额吞U事件~](https://www.advertcn.com/forum.php?mod=viewthread&tid=112378)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
