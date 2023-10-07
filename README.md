@@ -11,7 +11,8 @@
 ### advertcn
 <!-- advertcn:START -->
 -  07 [注册的域名不见了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112379)
--  06 [depay/dupay大额吞U事件~](https://www.advertcn.com/forum.php?mod=viewthread&tid=112378)<!-- advertcn:END -->
+-  06 [depay/dupay大额吞U事件~](https://www.advertcn.com/forum.php?mod=viewthread&tid=112378)
+-  06 [求推荐个分享工具](https://www.advertcn.com/forum.php?mod=viewthread&tid=112377)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
