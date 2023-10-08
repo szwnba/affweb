@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [BeMob Click URLs not working](https://afflift.com/f/threads/bemob-click-urls-not-working.11759/)
 -  08 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)
 -  08 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  08 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
@@ -32,8 +33,7 @@
 -  07 [#PA23 Back to School](https://afflift.com/f/threads/pa23-back-to-school.11549/)
 -  07 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)
 -  07 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  07 [Help with PPV/POP network](https://afflift.com/f/threads/help-with-ppv-pop-network.11758/)
--  07 [A major issue with Facebook website click ads.](https://afflift.com/f/threads/a-major-issue-with-facebook-website-click-ads.11732/)<!-- afflift:END -->
+-  07 [Help with PPV/POP network](https://afflift.com/f/threads/help-with-ppv-pop-network.11758/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
