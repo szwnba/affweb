@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  08 [派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？](https://sspai.com/post/83348)
 -  08 [停止望山兴叹，从室内岩馆开始攀岩之路](https://sspai.com/post/82795)
--  08 [派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等](https://sspai.com/post/83403)
--  07 [本周看什么 | 最近值得一看的一大捧作品](https://sspai.com/post/83395)<!-- sspai:END -->
+-  08 [派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等](https://sspai.com/post/83403)<!-- sspai:END -->
