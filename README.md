@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  28 [美国实体电话卡1美元可使11个月，不实名，可Wifi通话](https://51.ruyo.net/18487.html)<!-- ruyo:END -->
+-  08 [WordPress携手Jetpack免费提供图片CDN加速，永久缓存！](https://51.ruyo.net/18486.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
