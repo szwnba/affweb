@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了](https://sspai.com/post/83418)
 -  08 [派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？](https://sspai.com/post/83348)
 -  08 [停止望山兴叹，从室内岩馆开始攀岩之路](https://sspai.com/post/82795)
 -  08 [派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等](https://sspai.com/post/83403)<!-- sspai:END -->
