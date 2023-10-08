@@ -10,9 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  08 [大佬们，还有推cpa的吗](https://www.advertcn.com/forum.php?mod=viewthread&tid=112403)
 -  08 [美国虚拟卡免费开卡！](https://www.advertcn.com/forum.php?mod=viewthread&tid=112401)
--  07 [现在google收录一个新站要多久](https://www.advertcn.com/forum.php?mod=viewthread&tid=112393)
--  07 [Oneinstack  CDN  被偷毒](https://www.advertcn.com/forum.php?mod=viewthread&tid=112388)<!-- advertcn:END -->
+-  08 [关于gg adsense过审问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=112400)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
