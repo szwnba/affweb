@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)
 -  08 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  08 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  08 [BeMob Click URLs not working](https://afflift.com/f/threads/bemob-click-urls-not-working.11759/)
@@ -32,8 +33,7 @@
 -  08 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  08 [DV360](https://afflift.com/f/threads/dv360.11761/)
 -  08 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  07 [#PA23 Back to School](https://afflift.com/f/threads/pa23-back-to-school.11549/)
--  07 [PropellerAds Contest #PA23](https://afflift.com/f/threads/propellerads-contest-pa23.11548/)<!-- afflift:END -->
+-  07 [#PA23 Back to School](https://afflift.com/f/threads/pa23-back-to-school.11549/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
