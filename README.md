@@ -39,5 +39,4 @@
 -  08 [停止望山兴叹，从室内岩馆开始攀岩之路](https://sspai.com/post/82795)
 -  08 [派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等](https://sspai.com/post/83403)
 -  07 [本周看什么 | 最近值得一看的一大捧作品](https://sspai.com/post/83395)
--  07 [不躺不卷，用热爱疗愈副业焦虑](https://sspai.com/post/83017)
--  07 [让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件](https://sspai.com/post/83373)<!-- sspai:END -->
+-  07 [不躺不卷，用热爱疗愈副业焦虑](https://sspai.com/post/83017)<!-- sspai:END -->
