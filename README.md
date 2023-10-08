@@ -10,9 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  07 [现在google收录一个新站要多久](https://www.advertcn.com/forum.php?mod=viewthread&tid=112393)
+-  07 [bingads 好几年老号被限制展示，让联系人工恢复](https://www.advertcn.com/forum.php?mod=viewthread&tid=112387)
 -  07 [Quad 101 公共DNS](https://www.advertcn.com/forum.php?mod=viewthread&tid=112384)
--  07 [朋友介绍认识了个搞国内联盟的，他说他每个月佣金有8位数](https://www.advertcn.com/forum.php?mod=viewthread&tid=112383)
--  07 [注册的域名不见了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112379)<!-- advertcn:END -->
+-  07 [朋友介绍认识了个搞国内联盟的，他说他每个月佣金有8位数](https://www.advertcn.com/forum.php?mod=viewthread&tid=112383)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
