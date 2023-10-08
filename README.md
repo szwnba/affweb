@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [DV360](https://afflift.com/f/threads/dv360.11761/)
 -  08 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  07 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  07 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
@@ -33,8 +34,7 @@
 -  07 [Help with PPV/POP network](https://afflift.com/f/threads/help-with-ppv-pop-network.11758/)
 -  07 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  07 [A major issue with Facebook website click ads.](https://afflift.com/f/threads/a-major-issue-with-facebook-website-click-ads.11732/)
--  07 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
--  07 [BeMob Click URLs not working](https://afflift.com/f/threads/bemob-click-urls-not-working.11759/)<!-- afflift:END -->
+-  07 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
