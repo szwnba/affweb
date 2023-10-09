@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  09 [Happy B-Day RollerAds 🎁 Participate in Raffle!](https://afflift.com/f/threads/happy-b-day-rollerads-%F0%9F%8E%81-participate-in-raffle.11718/)
--  09 [What&#39;s the Most Successful PPV Campaign You&#39;ve Ever Run?](https://afflift.com/f/threads/whats-the-most-successful-ppv-campaign-youve-ever-run.5506/)
 -  09 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  09 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
+-  09 [Happy B-Day RollerAds 🎁 Participate in Raffle!](https://afflift.com/f/threads/happy-b-day-rollerads-%F0%9F%8E%81-participate-in-raffle.11718/)
+-  09 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
+-  09 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
+-  09 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  09 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  09 [do solo ads still work?](https://afflift.com/f/threads/do-solo-ads-still-work.11762/)
--  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  09 [Question for the push Gurus](https://afflift.com/f/threads/question-for-the-push-gurus.11765/)
--  09 [Traffic Company Best Offers](https://afflift.com/f/threads/traffic-company-best-offers.11766/)
--  09 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
--  09 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
--  09 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)<!-- afflift:END -->
+-  09 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)
+-  09 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)
+-  09 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
+-  09 [What&#39;s the Most Successful PPV Campaign You&#39;ve Ever Run?](https://afflift.com/f/threads/whats-the-most-successful-ppv-campaign-youve-ever-run.5506/)
+-  09 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  09 [do solo ads still work?](https://afflift.com/f/threads/do-solo-ads-still-work.11762/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
