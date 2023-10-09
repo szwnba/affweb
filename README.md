@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  08 [一个运行了3年的Campaign的总结和思考](https://www.advertcn.com/forum.php?mod=viewthread&tid=112405)<!-- advertcn:END -->
+-  09 [介绍一个自己做的App,对谷歌广告投放、SEO和需求挖掘很有用](https://www.advertcn.com/forum.php?mod=viewthread&tid=112416)
+-  09 [登录Wise 收到的验证短信是乱码怎么办？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112411)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
