@@ -35,7 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [派评 | 近期值得关注的 App](https://sspai.com/post/83450)
 -  09 [万字详拆芯片：人类算力被锁死了吗？](https://sspai.com/post/83398)
 -  09 [这些浏览器词典插件，让在线阅读更方便](https://sspai.com/post/83385)
--  09 [派早报](https://sspai.com/post/83429)
--  08 [具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了](https://sspai.com/post/83418)<!-- sspai:END -->
+-  09 [派早报](https://sspai.com/post/83429)<!-- sspai:END -->
