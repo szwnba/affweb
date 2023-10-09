@@ -35,7 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [万字详拆芯片：人类算力被锁死了吗？](https://sspai.com/post/83398)
 -  09 [这些浏览器词典插件，让在线阅读更方便](https://sspai.com/post/83385)
 -  09 [派早报](https://sspai.com/post/83429)
--  08 [具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了](https://sspai.com/post/83418)
--  08 [派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？](https://sspai.com/post/83348)<!-- sspai:END -->
+-  08 [具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了](https://sspai.com/post/83418)<!-- sspai:END -->
