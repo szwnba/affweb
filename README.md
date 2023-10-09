@@ -10,9 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  08 [大佬们，还有推cpa的吗](https://www.advertcn.com/forum.php?mod=viewthread&tid=112403)
--  08 [美国虚拟卡免费开卡！](https://www.advertcn.com/forum.php?mod=viewthread&tid=112401)
--  08 [关于gg adsense过审问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=112400)<!-- advertcn:END -->
+-  08 [一个运行了3年的Campaign的总结和思考](https://www.advertcn.com/forum.php?mod=viewthread&tid=112405)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
