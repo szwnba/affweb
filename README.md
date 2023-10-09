@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  09 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  09 [Happy B-Day RollerAds 🎁 Participate in Raffle!](https://afflift.com/f/threads/happy-b-day-rollerads-%F0%9F%8E%81-participate-in-raffle.11718/)
 -  08 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)
@@ -32,8 +33,7 @@
 -  08 [If Clickloss is bad, WTF is this?](https://afflift.com/f/threads/if-clickloss-is-bad-wtf-is-this.11719/)
 -  08 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  08 [BeMob Click URLs not working](https://afflift.com/f/threads/bemob-click-urls-not-working.11759/)
--  08 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)
--  08 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)<!-- afflift:END -->
+-  08 [Survey Exit Traffic + Mobile App Installs #PA23](https://afflift.com/f/threads/survey-exit-traffic-mobile-app-installs-pa23.11712/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
