@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)
+-  10 [Hello from Belgium](https://afflift.com/f/threads/hello-from-belgium.11769/)
 -  10 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
 -  10 [🔥 Mobidea&#39;s Dating Challenge](https://afflift.com/f/threads/%F0%9F%94%A5-mobideas-dating-challenge.10325/)
 -  10 [Traffic Company Best Offers](https://afflift.com/f/threads/traffic-company-best-offers.11766/)
@@ -29,9 +31,7 @@
 -  10 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
 -  10 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  09 [Watch me make $100 Million Dollars](https://afflift.com/f/threads/watch-me-make-100-million-dollars.10915/)
--  09 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)
--  09 [Happy B-Day RollerAds 🎁 Participate in Raffle!](https://afflift.com/f/threads/happy-b-day-rollerads-%F0%9F%8E%81-participate-in-raffle.11718/)
--  09 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)<!-- afflift:END -->
+-  09 [help with monetizer+purelander &lpar; push link collection&rpar;](https://afflift.com/f/threads/help-with-monetizer-purelander-push-link-collection.11542/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
