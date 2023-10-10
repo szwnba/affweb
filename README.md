@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Hello from Belgium](https://afflift.com/f/threads/hello-from-belgium.11769/)
+-  10 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
+-  10 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)
 -  10 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
+-  10 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  10 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  10 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
 -  10 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  10 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  10 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  10 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  10 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
--  10 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  10 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
--  10 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
--  10 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  10 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  10 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
