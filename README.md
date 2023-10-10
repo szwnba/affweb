@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  10 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
+-  10 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  10 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)
 -  10 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  10 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
+-  10 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
+-  10 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
 -  10 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  10 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  10 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  10 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
 -  10 [Traffic Company Best Offers](https://afflift.com/f/threads/traffic-company-best-offers.11766/)
--  10 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
--  10 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  10 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)
--  10 [Hello from Belgium](https://afflift.com/f/threads/hello-from-belgium.11769/)
--  10 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)<!-- afflift:END -->
+-  10 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
