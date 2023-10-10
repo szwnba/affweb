@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [四个 All-in-One 工具，帮我优化工作与生活流程](https://sspai.com/post/83315)
 -  10 [派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等](https://sspai.com/post/83458)
 -  09 [派评 | 近期值得关注的 App](https://sspai.com/post/83450)
 -  09 [万字详拆芯片：人类算力被锁死了吗？](https://sspai.com/post/83398)<!-- sspai:END -->
