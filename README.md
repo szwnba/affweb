@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
+-  10 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
+-  10 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
+-  10 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  10 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
+-  10 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
+-  10 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
+-  10 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  10 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
 -  10 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
 -  10 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  10 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  10 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)
--  10 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  10 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  10 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
--  10 [TORO Advertising | Your next Affiliate Network that will maximize your revenues](https://afflift.com/f/threads/toro-advertising-your-next-affiliate-network-that-will-maximize-your-revenues.7746/)
--  10 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  10 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)<!-- afflift:END -->
+-  10 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
