@@ -20,12 +20,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  11 [Which one should I choose? Dating or Adult](https://afflift.com/f/threads/which-one-should-i-choose-dating-or-adult.11776/)
 -  11 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  11 [Which niches are suitable for creating email lists](https://afflift.com/f/threads/which-niches-are-suitable-for-creating-email-lists.11777/)
 -  11 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  11 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
--  11 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  11 [Tracker Domain Flagged](https://afflift.com/f/threads/tracker-domain-flagged.10287/)
 -  11 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  11 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
