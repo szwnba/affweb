@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  11 [关于谷歌认证追踪域名，以及MaxConv主认证域名停用](https://www.advertcn.com/forum.php?mod=viewthread&tid=112447)
--  10 [有办法注册Hetzner吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112444)<!-- advertcn:END -->
+-  11 [关于谷歌认证追踪域名，以及MaxConv主认证域名停用](https://www.advertcn.com/forum.php?mod=viewthread&tid=112447)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
