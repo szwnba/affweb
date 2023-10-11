@@ -35,7 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [派早报：PS5 新机型公布、Google 在与 Sonos 的专利纠纷中胜诉等](https://sspai.com/post/83484)
 -  10 [社区速递 015 | 自驾游、智能推窗器和博客搭建](https://sspai.com/post/83475)
 -  10 [Matrix Talk | 作为 iOS 用户，我为什么换到 / 新增 Android 设备？](https://sspai.com/post/83445)
--  10 [四个 All-in-One 工具，帮我优化工作与生活流程](https://sspai.com/post/83315)
--  10 [派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等](https://sspai.com/post/83458)<!-- sspai:END -->
+-  10 [四个 All-in-One 工具，帮我优化工作与生活流程](https://sspai.com/post/83315)<!-- sspai:END -->
