@@ -41,6 +41,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [少数派健身类选题人气作者「举铁的马里奥」都装了啥？](https://sspai.com/prime/story/zhuanglesha-231011)
+-  11 [具透 | 喜欢 Android 14 的 14 个理由（少数派版本）](https://sspai.com/post/83501)
 -  11 [返璞归真，又迎一春：小评《刺客信条：幻景》](https://sspai.com/post/83488)
 -  11 [用开源项目，你也能训练自己的 AI 语音模型](https://sspai.com/post/83487)
 -  11 [派早报：PS5 新机型公布、Google 在与 Sonos 的专利纠纷中胜诉等](https://sspai.com/post/83484)<!-- sspai:END -->
