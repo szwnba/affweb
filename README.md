@@ -10,13 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  10 [有办法注册Hetzner吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112444)
--  10 [关于带www网址和不带www网址之间的相互跳转](https://www.advertcn.com/forum.php?mod=viewthread&tid=112443)
--  10 [发帖督促自己，不到最后一刻不放弃](https://www.advertcn.com/forum.php?mod=viewthread&tid=112442)
--  10 [最近jms的佣金好多都是pending状态](https://www.advertcn.com/forum.php?mod=viewthread&tid=112438)
--  10 [大家注意小心 dynadot.com 不要在他家买域名了  操蛋](https://www.advertcn.com/forum.php?mod=viewthread&tid=112434)
--  10 [网站在使用Cloudflare的SSL之后，wordpress后台出了问题……](https://www.advertcn.com/forum.php?mod=viewthread&tid=112432)
--  10 [想问下广告投手提成是怎么算的](https://www.advertcn.com/forum.php?mod=viewthread&tid=112431)<!-- advertcn:END -->
+-  11 [关于谷歌认证追踪域名，以及MaxConv主认证域名停用](https://www.advertcn.com/forum.php?mod=viewthread&tid=112447)
+-  10 [有办法注册Hetzner吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112444)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
