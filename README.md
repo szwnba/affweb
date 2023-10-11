@@ -28,6 +28,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  11 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  11 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
 -  10 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)
@@ -38,8 +39,7 @@
 -  10 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  10 [🔥 Mobidea&#39;s Dating Challenge](https://afflift.com/f/threads/%F0%9F%94%A5-mobideas-dating-challenge.10325/)
 -  10 [Monetization with Adoperator&#39;s Revamped Smartlinks &amp; Smart Tags 🚀](https://afflift.com/f/threads/monetization-with-adoperators-revamped-smartlinks-smart-tags-%F0%9F%9A%80.11772/)
--  10 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
--  10 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)<!-- afflift:END -->
+-  10 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
