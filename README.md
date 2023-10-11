@@ -45,5 +45,4 @@
 <!-- sspai:START -->
 -  11 [用开源项目，你也能训练自己的 AI 语音模型](https://sspai.com/post/83487)
 -  11 [派早报：PS5 新机型公布、Google 在与 Sonos 的专利纠纷中胜诉等](https://sspai.com/post/83484)
--  10 [社区速递 015 | 自驾游、智能推窗器和博客搭建](https://sspai.com/post/83475)
--  10 [Matrix Talk | 作为 iOS 用户，我为什么换到 / 新增 Android 设备？](https://sspai.com/post/83445)<!-- sspai:END -->
+-  10 [社区速递 015 | 自驾游、智能推窗器和博客搭建](https://sspai.com/post/83475)<!-- sspai:END -->
