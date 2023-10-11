@@ -16,6 +16,8 @@
 -  10 [最近jms的佣金好多都是pending状态](https://www.advertcn.com/forum.php?mod=viewthread&tid=112438)
 -  10 [大家注意小心 dynadot.com 不要在他家买域名了  操蛋](https://www.advertcn.com/forum.php?mod=viewthread&tid=112434)
 -  10 [网站在使用Cloudflare的SSL之后，wordpress后台出了问题……](https://www.advertcn.com/forum.php?mod=viewthread&tid=112432)
+-  10 [想问下广告投手提成是怎么算的](https://www.advertcn.com/forum.php?mod=viewthread&tid=112431)
+-  10 [俺有几个疑问 请大佬解惑](https://www.advertcn.com/forum.php?mod=viewthread&tid=112430)
 -  10 [ALK mobi这个联盟给钱的吗？ 论坛里有兄弟做吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112428)<!-- advertcn:END -->
 
 ### zhihu
