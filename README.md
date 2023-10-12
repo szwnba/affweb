@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  08 [WordPress携手Jetpack免费提供图片CDN加速，永久缓存！](https://51.ruyo.net/18486.html)<!-- ruyo:END -->
+-  12 [Dynamix免费提供DDNS服务以及二级域名](https://51.ruyo.net/18495.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
