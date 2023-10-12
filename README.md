@@ -25,18 +25,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [$6385 profit on Facebook APPs and XGames offer for 1 month🔥](https://afflift.com/f/threads/6385-profit-on-facebook-apps-and-xgames-offer-for-1-month%F0%9F%94%A5.11783/)
+-  12 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
+-  12 [PROXYS.IO - Individual server, mobile and resident IPv4/IPv6 proxies](https://afflift.com/f/threads/proxys-io-individual-server-mobile-and-resident-ipv4-ipv6-proxies.9810/)
+-  12 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)
+-  12 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  12 [Anstrex New Tiktok Spytool Walk-Through](https://afflift.com/f/threads/anstrex-new-tiktok-spytool-walk-through.11775/)
 -  12 [Which niches are suitable for creating email lists](https://afflift.com/f/threads/which-niches-are-suitable-for-creating-email-lists.11777/)
 -  12 [He uses this trick for casino ads](https://afflift.com/f/threads/he-uses-this-trick-for-casino-ads.11782/)
--  12 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  12 [Question for the push Gurus](https://afflift.com/f/threads/question-for-the-push-gurus.11765/)
 -  12 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)
 -  12 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
--  12 [Are Advertising Networks Suitable for Targeting Tier-3 Countries?](https://afflift.com/f/threads/are-advertising-networks-suitable-for-targeting-tier-3-countries.11781/)
--  12 [TRUST APPS - Rent of iOS organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-organic-applications-for-fb-in-app-uac.11780/)
--  12 [Anstrex New Tiktok Spytool Walk-Through](https://afflift.com/f/threads/anstrex-new-tiktok-spytool-walk-through.11775/)
--  12 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
--  12 [How to buy the most traffic volumn of a specific zone ?](https://afflift.com/f/threads/how-to-buy-the-most-traffic-volumn-of-a-specific-zone.11778/)
--  12 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)<!-- afflift:END -->
+-  12 [Are Advertising Networks Suitable for Targeting Tier-3 Countries?](https://afflift.com/f/threads/are-advertising-networks-suitable-for-targeting-tier-3-countries.11781/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
