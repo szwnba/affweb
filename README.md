@@ -26,10 +26,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Which niches are suitable for creating email lists](https://afflift.com/f/threads/which-niches-are-suitable-for-creating-email-lists.11777/)
 -  12 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  12 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)
 -  12 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
--  12 [Which niches are suitable for creating email lists](https://afflift.com/f/threads/which-niches-are-suitable-for-creating-email-lists.11777/)
 -  12 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)
 -  12 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  12 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
