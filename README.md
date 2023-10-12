@@ -44,5 +44,4 @@
 -  12 [呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch](https://sspai.com/prime/story/apple-watch-a11y)
 -  12 [派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等](https://sspai.com/post/83511)
 -  11 [少数派健身类选题人气作者「举铁的马里奥」都装了啥？](https://sspai.com/prime/story/zhuanglesha-231011)
--  11 [具透 | 喜欢 Android 14 的 14 个理由（少数派版本）](https://sspai.com/post/83501)
--  11 [返璞归真，又迎一春：小评《刺客信条：幻景》](https://sspai.com/post/83488)<!-- sspai:END -->
+-  11 [具透 | 喜欢 Android 14 的 14 个理由（少数派版本）](https://sspai.com/post/83501)<!-- sspai:END -->
