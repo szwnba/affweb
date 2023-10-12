@@ -25,6 +25,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
+-  12 [He uses this trick for casino ads](https://afflift.com/f/threads/he-uses-this-trick-for-casino-ads.11782/)
+-  12 [Which niches are suitable for creating email lists](https://afflift.com/f/threads/which-niches-are-suitable-for-creating-email-lists.11777/)
+-  12 [Question for the push Gurus](https://afflift.com/f/threads/question-for-the-push-gurus.11765/)
 -  12 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)
 -  12 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
 -  12 [Are Advertising Networks Suitable for Targeting Tier-3 Countries?](https://afflift.com/f/threads/are-advertising-networks-suitable-for-targeting-tier-3-countries.11781/)
@@ -32,11 +36,7 @@
 -  12 [Anstrex New Tiktok Spytool Walk-Through](https://afflift.com/f/threads/anstrex-new-tiktok-spytool-walk-through.11775/)
 -  12 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  12 [How to buy the most traffic volumn of a specific zone ?](https://afflift.com/f/threads/how-to-buy-the-most-traffic-volumn-of-a-specific-zone.11778/)
--  12 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
--  12 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  12 [Trust RDP Agency - Facebook highlimited RDP accounts / Any verticals, no pre-moderation](https://afflift.com/f/threads/trust-rdp-agency-facebook-highlimited-rdp-accounts-any-verticals-no-pre-moderation.10992/)
--  12 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)
--  12 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)<!-- afflift:END -->
+-  12 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
