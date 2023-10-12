@@ -25,6 +25,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Trust RDP Agency - Facebook highlimited RDP accounts / Any verticals, no pre-moderation](https://afflift.com/f/threads/trust-rdp-agency-facebook-highlimited-rdp-accounts-any-verticals-no-pre-moderation.10992/)
+-  12 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)
 -  12 [How to buy the most traffic volumn of a specific zone ?](https://afflift.com/f/threads/how-to-buy-the-most-traffic-volumn-of-a-specific-zone.11778/)
 -  12 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  12 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
@@ -34,9 +36,7 @@
 -  12 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  12 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)
 -  12 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  12 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  11 [Which one should I choose? Dating or Adult](https://afflift.com/f/threads/which-one-should-i-choose-dating-or-adult.11776/)
--  11 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)<!-- afflift:END -->
+-  12 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
