@@ -25,9 +25,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  12 [He uses this trick for casino ads](https://afflift.com/f/threads/he-uses-this-trick-for-casino-ads.11782/)
 -  12 [Which niches are suitable for creating email lists](https://afflift.com/f/threads/which-niches-are-suitable-for-creating-email-lists.11777/)
+-  12 [He uses this trick for casino ads](https://afflift.com/f/threads/he-uses-this-trick-for-casino-ads.11782/)
+-  12 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  12 [Question for the push Gurus](https://afflift.com/f/threads/question-for-the-push-gurus.11765/)
 -  12 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)
 -  12 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
