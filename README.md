@@ -10,6 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  12 [像这样的站还有继续更新的必要吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112466)
+-  11 [太多误人子弟的贴子了，真正的核心就几句话的事情（填）](https://www.advertcn.com/forum.php?mod=viewthread&tid=112461)
+-  11 [论坛骗子曝光，小心上当！](https://www.advertcn.com/forum.php?mod=viewthread&tid=112459)
 -  11 [关于谷歌认证追踪域名，以及MaxConv主认证域名停用](https://www.advertcn.com/forum.php?mod=viewthread&tid=112447)<!-- advertcn:END -->
 
 ### zhihu
