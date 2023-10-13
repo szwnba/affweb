@@ -22,12 +22,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  13 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  13 [Question for the push Gurus](https://afflift.com/f/threads/question-for-the-push-gurus.11765/)
 -  13 [Best funnel tool for affiliate?](https://afflift.com/f/threads/best-funnel-tool-for-affiliate.11787/)
 -  13 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  13 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
--  13 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  13 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  13 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  13 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
