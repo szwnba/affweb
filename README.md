@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  13 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  13 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  13 [Best funnel tool for affiliate?](https://afflift.com/f/threads/best-funnel-tool-for-affiliate.11787/)
@@ -32,8 +33,7 @@
 -  12 [Spy Hero - New Spy Tool for Facebook / Youtube / Native / Ecom](https://afflift.com/f/threads/spy-hero-new-spy-tool-for-facebook-youtube-native-ecom.10351/)
 -  12 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)
 -  12 [Question for the push Gurus](https://afflift.com/f/threads/question-for-the-push-gurus.11765/)
--  12 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
--  12 [Affiliate Nerds wanted for podcast guest](https://afflift.com/f/threads/affiliate-nerds-wanted-for-podcast-guest.11786/)<!-- afflift:END -->
+-  12 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
