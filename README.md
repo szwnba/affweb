@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  12 [科普 | 高帧率、好画质的「光追」是如何实现的？](https://sspai.com/post/83522)
 -  12 [大内密谈 | 口述深圳二十年少数派激荡浮沉录](https://sspai.com/post/83516)
--  12 [呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch](https://sspai.com/prime/story/apple-watch-a11y)
--  12 [派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等](https://sspai.com/post/83511)<!-- sspai:END -->
+-  12 [呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch](https://sspai.com/prime/story/apple-watch-a11y)<!-- sspai:END -->
