@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [派早报：文石推出两款电子书新品、荣耀发布 Magic Vs2 折叠屏手机等](https://sspai.com/post/83533)
 -  12 [科普 | 高帧率、好画质的「光追」是如何实现的？](https://sspai.com/post/83522)
 -  12 [大内密谈 | 口述深圳二十年少数派激荡浮沉录](https://sspai.com/post/83516)
 -  12 [呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch](https://sspai.com/prime/story/apple-watch-a11y)<!-- sspai:END -->
