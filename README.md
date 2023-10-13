@@ -6,6 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
+-  13 [语雀公益计划，教育邮箱认证得1年会员，支持续期](https://51.ruyo.net/18497.html)
 -  12 [Dynamix免费提供DDNS服务以及二级域名](https://51.ruyo.net/18495.html)<!-- ruyo:END -->
 
 ### advertcn
