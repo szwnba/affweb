@@ -23,9 +23,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
+-  13 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  13 [ZeroPark Follow Along - Optimize My Way to Success?](https://afflift.com/f/threads/zeropark-follow-along-optimize-my-way-to-success.11496/)
 -  13 [Step 9 - Setup PopAds Postback in BeMob](https://afflift.com/f/threads/step-9-setup-popads-postback-in-bemob.2946/)
--  13 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  13 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  13 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  13 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
@@ -33,8 +34,7 @@
 -  13 [Monetization with Adoperator&#39;s Revamped Smartlinks &amp; Smart Tags 🚀](https://afflift.com/f/threads/monetization-with-adoperators-revamped-smartlinks-smart-tags-%F0%9F%9A%80.11772/)
 -  13 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  13 [The Best Affiliate Programs For Halloween 2023](https://afflift.com/f/threads/the-best-affiliate-programs-for-halloween-2023.11791/)
--  13 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  13 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)<!-- afflift:END -->
+-  13 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
