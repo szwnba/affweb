@@ -22,10 +22,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  13 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  13 [Best funnel tool for affiliate?](https://afflift.com/f/threads/best-funnel-tool-for-affiliate.11787/)
 -  13 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  13 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  13 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  13 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  12 [$6385 profit on Facebook APPs and XGames offer for 1 month🔥](https://afflift.com/f/threads/6385-profit-on-facebook-apps-and-xgames-offer-for-1-month%F0%9F%94%A5.11783/)
