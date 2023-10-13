@@ -10,13 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  12 [Lospollos不能跑了，是吧？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112475)
--  12 [免得有人充高手，说几句跨境电商的核心点，包括打消疑虑](https://www.advertcn.com/forum.php?mod=viewthread&tid=112474)
--  12 [那如何保证我们的facebook账号绝对能够成功呢？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112472)
--  12 [像这样的站还有继续更新的必要吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112466)
--  12 [惰总的素材出海，确实没人能模仿，全中国独一份](https://www.advertcn.com/forum.php?mod=viewthread&tid=112465)
--  11 [国内收到的美元支票可以到香港兑现吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112463)
--  11 [今天cloudflare.com突然打不开了呢？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112462)<!-- advertcn:END -->
+-  12 [那如何保证我们的facebook账号绝对能够成功呢？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112472)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
