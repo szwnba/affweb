@@ -36,5 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  14 [远离喧嚣的自在，新西兰旅程片段](https://sspai.com/post/83411)
--  13 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83550)<!-- sspai:END -->
+-  14 [远离喧嚣的自在，新西兰旅程片段](https://sspai.com/post/83411)<!-- sspai:END -->
