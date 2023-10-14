@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
+-  14 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  14 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  14 [Beginner&#39;s Question About Scaling On Propeller Ads](https://afflift.com/f/threads/beginners-question-about-scaling-on-propeller-ads.11763/)
 -  14 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
@@ -32,9 +34,7 @@
 -  13 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 -  13 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)
 -  13 [ZeroPark Follow Along - Optimize My Way to Success?](https://afflift.com/f/threads/zeropark-follow-along-optimize-my-way-to-success.11496/)
--  13 [Step 9 - Setup PopAds Postback in BeMob](https://afflift.com/f/threads/step-9-setup-popads-postback-in-bemob.2946/)
--  13 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  13 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)<!-- afflift:END -->
+-  13 [Step 9 - Setup PopAds Postback in BeMob](https://afflift.com/f/threads/step-9-setup-popads-postback-in-bemob.2946/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
