@@ -23,10 +23,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  14 [Beginner&#39;s Question About Scaling On Propeller Ads](https://afflift.com/f/threads/beginners-question-about-scaling-on-propeller-ads.11763/)
 -  14 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
 -  13 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
--  13 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  13 [What are your goals for 2023?](https://afflift.com/f/threads/what-are-your-goals-for-2023.10077/)
 -  13 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)
 -  13 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
