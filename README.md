@@ -21,11 +21,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
 -  14 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  14 [WhatsDate Lander from PureLander](https://afflift.com/f/threads/whatsdate-lander-from-purelander.7558/)
 -  14 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  14 [Is this the right type of postback for Mobipium from Bemob?](https://afflift.com/f/threads/is-this-the-right-type-of-postback-for-mobipium-from-bemob.11792/)
--  14 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
 -  14 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  14 [Beginner&#39;s Question About Scaling On Propeller Ads](https://afflift.com/f/threads/beginners-question-about-scaling-on-propeller-ads.11763/)
 -  14 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
