@@ -36,4 +36,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [告别电影荒：日本电影观看全指南](https://sspai.com/post/83412)
 -  14 [远离喧嚣的自在，新西兰旅程片段](https://sspai.com/post/83411)<!-- sspai:END -->
