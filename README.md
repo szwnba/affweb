@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [WhatsDate Lander from PureLander](https://afflift.com/f/threads/whatsdate-lander-from-purelander.7558/)
 -  14 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
 -  14 [Is this the right type of postback for Mobipium from Bemob?](https://afflift.com/f/threads/is-this-the-right-type-of-postback-for-mobipium-from-bemob.11792/)
 -  14 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
@@ -31,8 +32,7 @@
 -  13 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  13 [What are your goals for 2023?](https://afflift.com/f/threads/what-are-your-goals-for-2023.10077/)
 -  13 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)
--  13 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
--  13 [Biggest Follow Along Contest Ever with PropellerAds #PA23](https://afflift.com/f/threads/biggest-follow-along-contest-ever-with-propellerads-pa23.11543/)<!-- afflift:END -->
+-  13 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
