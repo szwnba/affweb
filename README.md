@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
+-  14 [Beginner&#39;s Question About Scaling On Propeller Ads](https://afflift.com/f/threads/beginners-question-about-scaling-on-propeller-ads.11763/)
+-  14 [What are your goals for 2023?](https://afflift.com/f/threads/what-are-your-goals-for-2023.10077/)
+-  14 [Is this the right type of postback for Mobipium from Bemob?](https://afflift.com/f/threads/is-this-the-right-type-of-postback-for-mobipium-from-bemob.11792/)
+-  14 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)
 -  14 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
 -  14 [WhatsDate Lander from PureLander](https://afflift.com/f/threads/whatsdate-lander-from-purelander.7558/)
 -  14 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
--  14 [Is this the right type of postback for Mobipium from Bemob?](https://afflift.com/f/threads/is-this-the-right-type-of-postback-for-mobipium-from-bemob.11792/)
 -  14 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
--  14 [What are your goals for 2023?](https://afflift.com/f/threads/what-are-your-goals-for-2023.10077/)
 -  14 [Step 9 - Setup PopAds Postback in BeMob](https://afflift.com/f/threads/step-9-setup-popads-postback-in-bemob.2946/)
 -  14 [FACEBOOK ADVERTISING ACCOUNT FOR RENT - &lpar; ACCEPT BH,WH,GH &lpar;GAMING, CRYPTO, RECRUITMENT, INVESTMENT,...&rpar; , REFUND REMAIN BALANCE ANY TIME](https://afflift.com/f/threads/facebook-advertising-account-for-rent-accept-bh-wh-gh-gaming-crypto-recruitment-investment-refund-remain-balance-any-time.11161/)
--  14 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
--  14 [Beginner&#39;s Question About Scaling On Propeller Ads](https://afflift.com/f/threads/beginners-question-about-scaling-on-propeller-ads.11763/)
--  14 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
--  13 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)<!-- afflift:END -->
+-  14 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
