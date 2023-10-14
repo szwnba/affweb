@@ -39,5 +39,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  13 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83550)
--  13 [3 年、4 个库目录、100 万字：也谈我的 Obsidian 笔记工作流](https://sspai.com/post/83042)
--  13 [派早报：文石推出两款电子书新品、荣耀发布 Magic Vs2 折叠屏手机等](https://sspai.com/post/83533)<!-- sspai:END -->
+-  13 [3 年、4 个库目录、100 万字：也谈我的 Obsidian 笔记工作流](https://sspai.com/post/83042)<!-- sspai:END -->
