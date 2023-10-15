@@ -20,8 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  15 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)
 -  15 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
+-  15 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)
 -  15 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
 -  14 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  14 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
