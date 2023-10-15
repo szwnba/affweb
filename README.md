@@ -35,5 +35,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  15 [我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp](https://sspai.com/post/83182)
--  14 [告别电影荒：日本电影观看全指南](https://sspai.com/post/83412)<!-- sspai:END -->
+-  15 [我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp](https://sspai.com/post/83182)<!-- sspai:END -->
