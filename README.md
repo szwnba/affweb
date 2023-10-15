@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  14 [论坛因为我，大多数人现在连高手都分不清了，哈哈](https://www.advertcn.com/forum.php?mod=viewthread&tid=112501)
--  14 [做了一个mediabuyer学习的目录](https://www.advertcn.com/forum.php?mod=viewthread&tid=112500)<!-- advertcn:END -->
+-  14 [论坛因为我，大多数人现在连高手都分不清了，哈哈](https://www.advertcn.com/forum.php?mod=viewthread&tid=112501)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
