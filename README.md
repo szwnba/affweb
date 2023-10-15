@@ -28,10 +28,7 @@
 -  14 [Question for the push Gurus](https://afflift.com/f/threads/question-for-the-push-gurus.11765/)
 -  14 [Affiliate World Asia Ticket On Sale!! 70% Off](https://afflift.com/f/threads/affiliate-world-asia-ticket-on-sale-70-off.10000/)
 -  14 [Is this the right type of postback for Mobipium from Bemob?](https://afflift.com/f/threads/is-this-the-right-type-of-postback-for-mobipium-from-bemob.11792/)
--  14 [Beginner&#39;s Question About Scaling On Propeller Ads](https://afflift.com/f/threads/beginners-question-about-scaling-on-propeller-ads.11763/)
--  14 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
--  14 [What are your goals for 2023?](https://afflift.com/f/threads/what-are-your-goals-for-2023.10077/)
--  14 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)<!-- afflift:END -->
+-  14 [Beginner&#39;s Question About Scaling On Propeller Ads](https://afflift.com/f/threads/beginners-question-about-scaling-on-propeller-ads.11763/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
