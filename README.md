@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  13 [语雀公益计划，教育邮箱认证得1年会员，支持续期](https://51.ruyo.net/18497.html)<!-- ruyo:END -->
+-  15 [Godaddy注册续费.lol仅1.3元每年，可注册10年，能接入CF](https://51.ruyo.net/18502.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
