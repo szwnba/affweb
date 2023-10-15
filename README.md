@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 -  15 [Golden Goose Landers Links](https://afflift.com/f/threads/golden-goose-landers-links.11743/)
 -  14 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  14 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
@@ -31,8 +32,7 @@
 -  14 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  14 [What are your goals for 2023?](https://afflift.com/f/threads/what-are-your-goals-for-2023.10077/)
 -  14 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)
--  14 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
--  14 [WhatsDate Lander from PureLander](https://afflift.com/f/threads/whatsdate-lander-from-purelander.7558/)<!-- afflift:END -->
+-  14 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
