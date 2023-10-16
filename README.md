@@ -6,6 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
+-  16 [WordPress域名注册商更换土耳其区结算，域名交易更优惠！](https://51.ruyo.net/18499.html)
 -  15 [Godaddy注册续费.lol仅1.3元每年，可注册10年，能接入CF](https://51.ruyo.net/18502.html)<!-- ruyo:END -->
 
 ### advertcn
