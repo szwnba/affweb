@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  14 [论坛因为我，大多数人现在连高手都分不清了，哈哈](https://www.advertcn.com/forum.php?mod=viewthread&tid=112501)<!-- advertcn:END -->
+-  15 [听说又有人类高质量大佬来坛子里钓鱼了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112506)
+-  15 [安装过程中选择MySQL数据库，后续却要安装MariaDB数据库](https://www.advertcn.com/forum.php?mod=viewthread&tid=112505)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
