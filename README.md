@@ -11,8 +11,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  15 [听说又有人类高质量大佬来坛子里钓鱼了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112506)
--  15 [安装过程中选择MySQL数据库，后续却要安装MariaDB数据库](https://www.advertcn.com/forum.php?mod=viewthread&tid=112505)<!-- advertcn:END -->
+-  15 [怎么回事？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112503)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
