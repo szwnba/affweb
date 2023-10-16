@@ -30,5 +30,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  16 [于忙碌中重拾学习能力：我的知识金字塔是如何搭建的](https://sspai.com/post/83231)
--  16 [派早报：微软完成收购动视暴雪交易，AMD 驱动更新导致 CS2 玩家被封号](https://sspai.com/post/83587)
--  15 [我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp](https://sspai.com/post/83182)<!-- sspai:END -->
+-  16 [派早报：微软完成收购动视暴雪交易，AMD 驱动更新导致 CS2 玩家被封号](https://sspai.com/post/83587)<!-- sspai:END -->
