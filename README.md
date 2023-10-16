@@ -26,6 +26,8 @@
 ### afflift
 <!-- afflift:START -->
 -  16 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)
+-  16 [Which niches are suitable for creating email lists](https://afflift.com/f/threads/which-niches-are-suitable-for-creating-email-lists.11777/)
+-  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  16 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
 -  16 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
 -  16 [Connecting your landing pages to Sendy](https://afflift.com/f/threads/connecting-your-landing-pages-to-sendy.7089/)
@@ -34,9 +36,7 @@
 -  16 [How to buy the most traffic volumn of a specific zone ?](https://afflift.com/f/threads/how-to-buy-the-most-traffic-volumn-of-a-specific-zone.11778/)
 -  16 [Monetization with Adoperator&#39;s Revamped Smartlinks &amp; Smart Tags 🚀](https://afflift.com/f/threads/monetization-with-adoperators-revamped-smartlinks-smart-tags-%F0%9F%9A%80.11772/)
 -  16 [Questions about the traffic network balance](https://afflift.com/f/threads/questions-about-the-traffic-network-balance.11795/)
--  16 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)
--  16 [New server for Binom V2. Suggestions](https://afflift.com/f/threads/new-server-for-binom-v2-suggestions.11764/)
--  16 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)<!-- afflift:END -->
+-  16 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
