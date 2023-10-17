@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  17 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  17 [Adsterra x City Friends Club — Agios Georgios Coast Clean Up 2023!](https://afflift.com/f/threads/adsterra-x-city-friends-club-%E2%80%94-agios-georgios-coast-clean-up-2023.11801/)
 -  17 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
 -  17 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
@@ -30,9 +32,7 @@
 -  17 [TRUST APPS - Rent of iOS/Android organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-android-organic-applications-for-fb-in-app-uac.11780/)
 -  17 [What types of offers are suitable for Pop ads?](https://afflift.com/f/threads/what-types-of-offers-are-suitable-for-pop-ads.11797/)
 -  17 [Affiliate World Asia Ticket On Sale!! 70% Off](https://afflift.com/f/threads/affiliate-world-asia-ticket-on-sale-70-off.10000/)
--  17 [Please help me!](https://afflift.com/f/threads/please-help-me.11799/)
--  17 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  17 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)<!-- afflift:END -->
+-  17 [Please help me!](https://afflift.com/f/threads/please-help-me.11799/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
