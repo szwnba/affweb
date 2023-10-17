@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  17 [Please help me!](https://afflift.com/f/threads/please-help-me.11799/)
 -  17 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  17 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  17 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
@@ -30,9 +32,7 @@
 -  17 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)
 -  17 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  17 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
--  17 [Adsterra x City Friends Club — Agios Georgios Coast Clean Up 2023!](https://afflift.com/f/threads/adsterra-x-city-friends-club-%E2%80%94-agios-georgios-coast-clean-up-2023.11801/)
--  17 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  17 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  17 [Adsterra x City Friends Club — Agios Georgios Coast Clean Up 2023!](https://afflift.com/f/threads/adsterra-x-city-friends-club-%E2%80%94-agios-georgios-coast-clean-up-2023.11801/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
