@@ -20,6 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Adsterra x City Friends Club — Agios Georgios Coast Clean Up 2023!](https://afflift.com/f/threads/adsterra-x-city-friends-club-%E2%80%94-agios-georgios-coast-clean-up-2023.11801/)
+-  17 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+-  17 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  17 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  17 [Sell fb dating traffic](https://afflift.com/f/threads/sell-fb-dating-traffic.11800/)
 -  17 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  17 [TRUST APPS - Rent of iOS/Android organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-android-organic-applications-for-fb-in-app-uac.11780/)
@@ -27,11 +31,7 @@
 -  17 [Affiliate World Asia Ticket On Sale!! 70% Off](https://afflift.com/f/threads/affiliate-world-asia-ticket-on-sale-70-off.10000/)
 -  17 [Please help me!](https://afflift.com/f/threads/please-help-me.11799/)
 -  17 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  17 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
--  17 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)
--  17 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)
--  17 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
--  17 [Looking For Housing/Rental and Dating Pay Per Call offer](https://afflift.com/f/threads/looking-for-housing-rental-and-dating-pay-per-call-offer.11798/)<!-- afflift:END -->
+-  17 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
