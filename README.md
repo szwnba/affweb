@@ -40,5 +40,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [干掉手机多巴胺：我怎样用独立计时器重新掌控心流？](https://sspai.com/post/83531)
 -  17 [派早报：腾讯待办将停运，淘宝回应微信扫码支付等](https://sspai.com/post/83640)
 -  16 [派评 | 近期值得关注的 App](https://sspai.com/post/83631)<!-- sspai:END -->
