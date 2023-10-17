@@ -25,18 +25,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
+-  17 [Please help me!](https://afflift.com/f/threads/please-help-me.11799/)
 -  17 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)
 -  17 [Looking For Housing/Rental and Dating Pay Per Call offer](https://afflift.com/f/threads/looking-for-housing-rental-and-dating-pay-per-call-offer.11798/)
 -  16 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  16 [Which niches are suitable for creating email lists](https://afflift.com/f/threads/which-niches-are-suitable-for-creating-email-lists.11777/)
 -  16 [What types of offers are suitable for Pop ads?](https://afflift.com/f/threads/what-types-of-offers-are-suitable-for-pop-ads.11797/)
 -  16 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
--  16 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
 -  16 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)
 -  16 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
 -  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  16 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)
--  16 [Connecting your landing pages to Sendy](https://afflift.com/f/threads/connecting-your-landing-pages-to-sendy.7089/)<!-- afflift:END -->
+-  16 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
