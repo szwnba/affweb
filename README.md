@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [The Grand Guide to Getting Started on affLIFT](https://afflift.com/f/threads/the-grand-guide-to-getting-started-on-afflift.8141/)
 -  17 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  17 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)
 -  17 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)
@@ -30,8 +31,7 @@
 -  17 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  17 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
 -  17 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  17 [How to Bypass Google Ads’ Gambling Restrictions Using Keyword Selection](https://afflift.com/f/threads/how-to-bypass-google-ads%E2%80%99-gambling-restrictions-using-keyword-selection.11802/)
--  17 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)<!-- afflift:END -->
+-  17 [How to Bypass Google Ads’ Gambling Restrictions Using Keyword Selection](https://afflift.com/f/threads/how-to-bypass-google-ads%E2%80%99-gambling-restrictions-using-keyword-selection.11802/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
