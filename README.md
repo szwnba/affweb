@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)
 -  17 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
 -  17 [Please help me!](https://afflift.com/f/threads/please-help-me.11799/)
 -  17 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)
@@ -31,8 +32,7 @@
 -  16 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  16 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)
 -  16 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
--  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  16 [MGID RON + Nutra from Scratch](https://afflift.com/f/threads/mgid-ron-nutra-from-scratch.10949/)<!-- afflift:END -->
+-  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
