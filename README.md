@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  16 [新人找个师傅，帮我梳理一下就可以，可以请喝咖啡](https://www.advertcn.com/forum.php?mod=viewthread&tid=112535)
--  16 [6.34亿流量洼地，美区短剧最全内容攻略](https://www.advertcn.com/forum.php?mod=viewthread&tid=112526)<!-- advertcn:END -->
+-  16 [新人找个师傅，帮我梳理一下就可以，可以请喝咖啡](https://www.advertcn.com/forum.php?mod=viewthread&tid=112535)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
