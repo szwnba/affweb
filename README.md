@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  17 [汇丰新加坡卡收联盟款会涉及到新加坡的税务问题吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112553)
 -  16 [新人找个师傅，帮我梳理一下就可以，可以请喝咖啡](https://www.advertcn.com/forum.php?mod=viewthread&tid=112535)<!-- advertcn:END -->
 
 ### zhihu
