@@ -40,5 +40,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [派早报：腾讯待办将停运，淘宝回应微信扫码支付等](https://sspai.com/post/83640)
 -  16 [派评 | 近期值得关注的 App](https://sspai.com/post/83631)
 -  16 [于忙碌中重拾学习能力：我的知识金字塔是如何搭建的](https://sspai.com/post/83231)<!-- sspai:END -->
