@@ -41,5 +41,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  16 [派评 | 近期值得关注的 App](https://sspai.com/post/83631)
--  16 [于忙碌中重拾学习能力：我的知识金字塔是如何搭建的](https://sspai.com/post/83231)
--  16 [派早报：微软完成收购动视暴雪交易，AMD 驱动更新导致 CS2 玩家被封号](https://sspai.com/post/83587)<!-- sspai:END -->
+-  16 [于忙碌中重拾学习能力：我的知识金字塔是如何搭建的](https://sspai.com/post/83231)<!-- sspai:END -->
