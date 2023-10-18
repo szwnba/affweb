@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Propush Tag + Cloudflare Pages](https://afflift.com/f/threads/propush-tag-cloudflare-pages.11808/)
 -  18 [why stats dont match &lpar; unique vs duplicated visits&rpar;- pop traffic here](https://afflift.com/f/threads/why-stats-dont-match-unique-vs-duplicated-visits-pop-traffic-here.11807/)
 -  18 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)
 -  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
@@ -31,8 +32,7 @@
 -  18 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
 -  18 [$67,000 for the 2022 FIFA World Cup through ASO](https://afflift.com/f/threads/67-000-for-the-2022-fifa-world-cup-through-aso.11676/)
 -  18 [He uses this trick for casino ads](https://afflift.com/f/threads/he-uses-this-trick-for-casino-ads.11782/)
--  18 [Running the Non-mainstream offer at HilltopAds: ROI 173,025%](https://afflift.com/f/threads/running-the-non-mainstream-offer-at-hilltopads-roi-173-025.11804/)
--  18 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)<!-- afflift:END -->
+-  18 [Running the Non-mainstream offer at HilltopAds: ROI 173,025%](https://afflift.com/f/threads/running-the-non-mainstream-offer-at-hilltopads-roi-173-025.11804/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
