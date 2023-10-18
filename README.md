@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  17 [payoneer收联盟营销要求提交发票](https://www.advertcn.com/forum.php?mod=viewthread&tid=112554)
 -  17 [汇丰新加坡卡收联盟款会涉及到新加坡的税务问题吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112553)<!-- advertcn:END -->
 
 ### zhihu
