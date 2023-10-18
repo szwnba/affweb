@@ -21,13 +21,13 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [How to Select a CPA Affiliate Offer with Potential](https://afflift.com/f/threads/how-to-select-a-cpa-affiliate-offer-with-potential.3036/)
 -  18 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
+-  18 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  18 [How to Select a CPA Affiliate Offer with Potential](https://afflift.com/f/threads/how-to-select-a-cpa-affiliate-offer-with-potential.3036/)
 -  17 [The Grand Guide to Getting Started on affLIFT](https://afflift.com/f/threads/the-grand-guide-to-getting-started-on-afflift.8141/)
 -  17 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  17 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)
 -  17 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)
--  17 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  17 [Please help me!](https://afflift.com/f/threads/please-help-me.11799/)
 -  17 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  17 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
