@@ -21,8 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [He uses this trick for casino ads](https://afflift.com/f/threads/he-uses-this-trick-for-casino-ads.11782/)
 -  18 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  18 [He uses this trick for casino ads](https://afflift.com/f/threads/he-uses-this-trick-for-casino-ads.11782/)
 -  18 [Running the Non-mainstream offer at HilltopAds: ROI 173,025%](https://afflift.com/f/threads/running-the-non-mainstream-offer-at-hilltopads-roi-173-025.11804/)
 -  18 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  18 [When to Cut a Zone That Has Conversions &lpar;Using Statistical Analysis&rpar;](https://afflift.com/f/threads/when-to-cut-a-zone-that-has-conversions-using-statistical-analysis.10611/)
