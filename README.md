@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  18 [既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验](https://sspai.com/post/83375)
 -  18 [跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3](https://sspai.com/post/83657)
--  17 [派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等](https://sspai.com/post/83663)
--  17 [在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐](https://sspai.com/prime/story/free-markdown-editor-2023)<!-- sspai:END -->
+-  17 [派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等](https://sspai.com/post/83663)<!-- sspai:END -->
