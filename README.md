@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [He uses this trick for casino ads](https://afflift.com/f/threads/he-uses-this-trick-for-casino-ads.11782/)
 -  18 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  18 [Running the Non-mainstream offer at HilltopAds: ROI 173,025%](https://afflift.com/f/threads/running-the-non-mainstream-offer-at-hilltopads-roi-173-025.11804/)
 -  18 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
@@ -31,8 +32,7 @@
 -  17 [The Grand Guide to Getting Started on affLIFT](https://afflift.com/f/threads/the-grand-guide-to-getting-started-on-afflift.8141/)
 -  17 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  17 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)
--  17 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)
--  17 [Please help me!](https://afflift.com/f/threads/please-help-me.11799/)<!-- afflift:END -->
+-  17 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
