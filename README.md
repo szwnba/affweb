@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等](https://sspai.com/post/83663)
 -  17 [在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐](https://sspai.com/prime/story/free-markdown-editor-2023)
 -  17 [社区速递 016 | 命令行听歌、高效收听播客的方式以及作者们的新玩意](https://sspai.com/post/83650)
 -  17 [手感最好的 Pro 级 iPhone：聊聊我的 iPhone 15 Pro 上手体验](https://sspai.com/post/83552)
--  17 [Adobe 的老树开新花：生成式 AI 功能全面体验](https://sspai.com/post/83561)
--  17 [干掉手机多巴胺：我怎样用独立计时器重新掌控心流？](https://sspai.com/post/83531)<!-- sspai:END -->
+-  17 [Adobe 的老树开新花：生成式 AI 功能全面体验](https://sspai.com/post/83561)<!-- sspai:END -->
