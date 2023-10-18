@@ -22,17 +22,17 @@
 ### afflift
 <!-- afflift:START -->
 -  18 [Gorilla.Cash affiliate program closure](https://afflift.com/f/threads/gorilla-cash-affiliate-program-closure.11810/)
+-  18 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
+-  18 [Propush Tag + Cloudflare Pages](https://afflift.com/f/threads/propush-tag-cloudflare-pages.11808/)
 -  18 [Sell fb dating traffic](https://afflift.com/f/threads/sell-fb-dating-traffic.11800/)
 -  18 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  18 [why stats dont match &lpar; unique vs duplicated visits&rpar;- pop traffic here](https://afflift.com/f/threads/why-stats-dont-match-unique-vs-duplicated-visits-pop-traffic-here.11807/)
--  18 [Propush Tag + Cloudflare Pages](https://afflift.com/f/threads/propush-tag-cloudflare-pages.11808/)
 -  18 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)
 -  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  18 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
 -  18 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
 -  18 [How to Bypass Google Ads’ Gambling Restrictions Using Keyword Selection](https://afflift.com/f/threads/how-to-bypass-google-ads%E2%80%99-gambling-restrictions-using-keyword-selection.11802/)
--  18 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  18 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)<!-- afflift:END -->
+-  18 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
