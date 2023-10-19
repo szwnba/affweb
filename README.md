@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  18 [现在过获利的油管账号什么价格了？带adsense](https://www.advertcn.com/forum.php?mod=viewthread&tid=112575)<!-- advertcn:END -->
+-  19 [谷歌USD户，返点40。](https://www.advertcn.com/forum.php?mod=viewthread&tid=112592)
+-  19 [招聘贴-北京Meta、Google、TT、Kwai一代寻“千里马”](https://www.advertcn.com/forum.php?mod=viewthread&tid=112584)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
