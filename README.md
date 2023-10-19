@@ -10,8 +10,6 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  19 [招聘贴-北京Meta、Google、TT、Kwai一代寻“千里马”](https://www.advertcn.com/forum.php?mod=viewthread&tid=112584)
--  18 [新人报道，给各位大佬拜个码头。联盟申请不成功求助](https://www.advertcn.com/forum.php?mod=viewthread&tid=112581)
 -  18 [现在过获利的油管账号什么价格了？带adsense](https://www.advertcn.com/forum.php?mod=viewthread&tid=112575)<!-- advertcn:END -->
 
 ### zhihu
