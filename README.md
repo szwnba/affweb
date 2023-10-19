@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  19 [why stats dont match &lpar; unique vs duplicated visits&rpar;- pop traffic here](https://afflift.com/f/threads/why-stats-dont-match-unique-vs-duplicated-visits-pop-traffic-here.11807/)
 -  19 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
 -  18 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
@@ -31,8 +32,7 @@
 -  18 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  18 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)
 -  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  18 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
--  18 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)<!-- afflift:END -->
+-  18 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
