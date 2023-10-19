@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Does anybody know any ai tool to duplicate or scrape a landing page without needing to clean it. Or maybe a tool to help clean a scraped landing page](https://afflift.com/f/threads/does-anybody-know-any-ai-tool-to-duplicate-or-scrape-a-landing-page-without-needing-to-clean-it-or-maybe-a-tool-to-help-clean-a-scraped-landing-page.11811/)
 -  19 [What types of offers are suitable for Pop ads?](https://afflift.com/f/threads/what-types-of-offers-are-suitable-for-pop-ads.11797/)
 -  19 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  19 [why stats dont match &lpar; unique vs duplicated visits&rpar;- pop traffic here](https://afflift.com/f/threads/why-stats-dont-match-unique-vs-duplicated-visits-pop-traffic-here.11807/)
@@ -32,8 +33,7 @@
 -  18 [Propush Tag + Cloudflare Pages](https://afflift.com/f/threads/propush-tag-cloudflare-pages.11808/)
 -  18 [Sell fb dating traffic](https://afflift.com/f/threads/sell-fb-dating-traffic.11800/)
 -  18 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
--  18 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)
--  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  18 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
