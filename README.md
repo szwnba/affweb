@@ -38,5 +38,4 @@
 -  19 [共创精品 | 颜值与性能兼顾，少数派·旅行者便携剃须套装](https://sspai.com/post/83686)
 -  19 [精准转写：利用 Whisper 处理音视频转文字不完全指南](https://sspai.com/post/83644)
 -  19 [App+1 | 给你的 Windows 系统打上 mod：Windhawk](https://sspai.com/post/83569)
--  19 [派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等](https://sspai.com/post/83687)
--  18 [失望三年后恰好相见：闲话 iPhone 15 Pro](https://sspai.com/post/83577)<!-- sspai:END -->
+-  19 [派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等](https://sspai.com/post/83687)<!-- sspai:END -->
