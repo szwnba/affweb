@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  19 [派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等](https://sspai.com/post/83687)
 -  18 [失望三年后恰好相见：闲话 iPhone 15 Pro](https://sspai.com/post/83577)
--  18 [既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验](https://sspai.com/post/83375)
--  18 [跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3](https://sspai.com/post/83657)<!-- sspai:END -->
+-  18 [既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验](https://sspai.com/post/83375)<!-- sspai:END -->
