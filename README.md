@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  19 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  19 [Monetizer + Cloudflare ...don&#39;t be dumb like me!](https://afflift.com/f/threads/monetizer-cloudflare-dont-be-dumb-like-me.2779/)
 -  19 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
@@ -31,8 +32,7 @@
 -  19 [Mobipium offer status &quot;Blocked&quot;](https://afflift.com/f/threads/mobipium-offer-status-blocked.11817/)
 -  19 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  19 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
--  19 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  19 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)<!-- afflift:END -->
+-  19 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
