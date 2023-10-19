@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  16 [WordPress域名注册商更换土耳其区结算，域名交易更优惠！](https://51.ruyo.net/18499.html)<!-- ruyo:END -->
+-  19 [澳门电信大湾区预付卡, 0月租可接码流量不过期, 每年20元保号](https://51.ruyo.net/18504.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
