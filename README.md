@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  19 [Push Notifications and Crypto: Affiliates&#39; Secret Shortcut to Winning Campaigns in 2023](https://afflift.com/f/threads/push-notifications-and-crypto-affiliates-secret-shortcut-to-winning-campaigns-in-2023.11815/)
 -  19 [SIDEKICK BROWSER WORKSPACE 🔥😍 INCREASE PRODUCTIVITY](https://afflift.com/f/threads/sidekick-browser-workspace-%F0%9F%94%A5%F0%9F%98%8D-increase-productivity.9613/)
 -  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 -  19 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
@@ -29,9 +31,7 @@
 -  19 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
 -  19 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
 -  19 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
--  19 [RichAds: Premium push, popunders, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-popunders-in-page-calendar-direct-click-native-traffic.991/)
--  19 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
--  19 [How to Bypass Google Ads’ Gambling Restrictions Using Keyword Selection](https://afflift.com/f/threads/how-to-bypass-google-ads%E2%80%99-gambling-restrictions-using-keyword-selection.11802/)<!-- afflift:END -->
+-  19 [RichAds: Premium push, popunders, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-popunders-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
