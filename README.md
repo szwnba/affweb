@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
+-  19 [How to Bypass Google Ads’ Gambling Restrictions Using Keyword Selection](https://afflift.com/f/threads/how-to-bypass-google-ads%E2%80%99-gambling-restrictions-using-keyword-selection.11802/)
 -  19 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)
 -  19 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
@@ -29,9 +31,7 @@
 -  19 [Create a PHP Script to Optimize PropellerAds](https://afflift.com/f/threads/create-a-php-script-to-optimize-propellerads.8770/)
 -  19 [RichAds: Premium push, popunders, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-popunders-in-page-calendar-direct-click-native-traffic.991/)
 -  19 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
--  19 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  19 [Does anybody know any ai tool to duplicate or scrape a landing page without needing to clean it. Or maybe a tool to help clean a scraped landing page](https://afflift.com/f/threads/does-anybody-know-any-ai-tool-to-duplicate-or-scrape-a-landing-page-without-needing-to-clean-it-or-maybe-a-tool-to-help-clean-a-scraped-landing-page.11811/)
--  19 [What types of offers are suitable for Pop ads?](https://afflift.com/f/threads/what-types-of-offers-are-suitable-for-pop-ads.11797/)<!-- afflift:END -->
+-  19 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
