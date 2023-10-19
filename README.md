@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  19 [澳门电信大湾区预付卡, 0月租可接码流量不过期, 每年20元保号](https://51.ruyo.net/18504.html)<!-- ruyo:END -->
+-  19 [澳门电信大湾区预付卡, 0月租可接码流量不过期, 保号20元/年](https://51.ruyo.net/18504.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
