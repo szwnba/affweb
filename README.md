@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)
+-  19 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
+-  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+-  19 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)
+-  19 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
+-  19 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
+-  19 [Create a PHP Script to Optimize PropellerAds](https://afflift.com/f/threads/create-a-php-script-to-optimize-propellerads.8770/)
+-  19 [RichAds: Premium push, popunders, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-popunders-in-page-calendar-direct-click-native-traffic.991/)
+-  19 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  19 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  19 [Does anybody know any ai tool to duplicate or scrape a landing page without needing to clean it. Or maybe a tool to help clean a scraped landing page](https://afflift.com/f/threads/does-anybody-know-any-ai-tool-to-duplicate-or-scrape-a-landing-page-without-needing-to-clean-it-or-maybe-a-tool-to-help-clean-a-scraped-landing-page.11811/)
--  19 [What types of offers are suitable for Pop ads?](https://afflift.com/f/threads/what-types-of-offers-are-suitable-for-pop-ads.11797/)
--  19 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
--  19 [why stats dont match &lpar; unique vs duplicated visits&rpar;- pop traffic here](https://afflift.com/f/threads/why-stats-dont-match-unique-vs-duplicated-visits-pop-traffic-here.11807/)
--  19 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  18 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
--  18 [Gorilla.Cash affiliate program closure](https://afflift.com/f/threads/gorilla-cash-affiliate-program-closure.11810/)
--  18 [Anyone running SS Nutra on MGID? &lpar;Potential Mastermind Creation?&rpar;](https://afflift.com/f/threads/anyone-running-ss-nutra-on-mgid-potential-mastermind-creation.11639/)
--  18 [Propush Tag + Cloudflare Pages](https://afflift.com/f/threads/propush-tag-cloudflare-pages.11808/)
--  18 [Sell fb dating traffic](https://afflift.com/f/threads/sell-fb-dating-traffic.11800/)
--  18 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)<!-- afflift:END -->
+-  19 [What types of offers are suitable for Pop ads?](https://afflift.com/f/threads/what-types-of-offers-are-suitable-for-pop-ads.11797/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
