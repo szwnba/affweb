@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  19 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  19 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
+-  19 [Adcash campaign never gets activated](https://afflift.com/f/threads/adcash-campaign-never-gets-activated.11816/)
+-  19 [Best funnel tool for affiliate?](https://afflift.com/f/threads/best-funnel-tool-for-affiliate.11787/)
+-  19 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
 -  19 [Push Notifications and Crypto: Affiliates&#39; Secret Shortcut to Winning Campaigns in 2023](https://afflift.com/f/threads/push-notifications-and-crypto-affiliates-secret-shortcut-to-winning-campaigns-in-2023.11815/)
 -  19 [SIDEKICK BROWSER WORKSPACE 🔥😍 INCREASE PRODUCTIVITY](https://afflift.com/f/threads/sidekick-browser-workspace-%F0%9F%94%A5%F0%9F%98%8D-increase-productivity.9613/)
 -  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  19 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  19 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  19 [GTM Postback tracking](https://afflift.com/f/threads/gtm-postback-tracking.11779/)
--  19 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
--  19 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
--  19 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
--  19 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
--  19 [RichAds: Premium push, popunders, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-popunders-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  19 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
