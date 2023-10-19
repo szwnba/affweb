@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  18 [失望三年后恰好相见：闲话 iPhone 15 Pro](https://sspai.com/post/83577)
 -  18 [既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验](https://sspai.com/post/83375)
--  18 [跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3](https://sspai.com/post/83657)
--  17 [派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等](https://sspai.com/post/83663)<!-- sspai:END -->
+-  18 [跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3](https://sspai.com/post/83657)<!-- sspai:END -->
