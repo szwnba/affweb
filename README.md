@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  20 [How to make a custom HTML email template that works](https://afflift.com/f/threads/how-to-make-a-custom-html-email-template-that-works.11734/)
 -  20 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
--  20 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  20 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+-  20 [How to make a custom HTML email template that works](https://afflift.com/f/threads/how-to-make-a-custom-html-email-template-that-works.11734/)
+-  20 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)
+-  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  20 [General strategies for &quot;cutting&quot; optimization](https://afflift.com/f/threads/general-strategies-for-cutting-optimization.2732/)
+-  20 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  20 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
--  20 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  20 [TRUST APPS - Rent of iOS/Android organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-android-organic-applications-for-fb-in-app-uac.11780/)
--  20 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  20 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  20 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
--  20 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  20 [Propush Tag + Cloudflare Pages](https://afflift.com/f/threads/propush-tag-cloudflare-pages.11808/)
--  20 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)<!-- afflift:END -->
+-  20 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
+-  20 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  20 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  20 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
