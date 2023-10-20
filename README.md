@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [General strategies for &quot;cutting&quot; optimization](https://afflift.com/f/threads/general-strategies-for-cutting-optimization.2732/)
 -  19 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  19 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  19 [Does anybody know any ai tool to duplicate or scrape a landing page without needing to clean it. Or maybe a tool to help clean a scraped landing page](https://afflift.com/f/threads/does-anybody-know-any-ai-tool-to-duplicate-or-scrape-a-landing-page-without-needing-to-clean-it-or-maybe-a-tool-to-help-clean-a-scraped-landing-page.11811/)
@@ -31,8 +32,7 @@
 -  19 [Monetizer + Cloudflare ...don&#39;t be dumb like me!](https://afflift.com/f/threads/monetizer-cloudflare-dont-be-dumb-like-me.2779/)
 -  19 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
 -  19 [Which niches are suitable for creating email lists](https://afflift.com/f/threads/which-niches-are-suitable-for-creating-email-lists.11777/)
--  19 [$1000/month with organic Social Media Traffic](https://afflift.com/f/threads/1000-month-with-organic-social-media-traffic.11818/)
--  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  19 [$1000/month with organic Social Media Traffic](https://afflift.com/f/threads/1000-month-with-organic-social-media-traffic.11818/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
