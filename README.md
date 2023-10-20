@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  20 [面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)
 -  20 [派早报：OPPO 发布 Find N3 折叠屏手机，魅族发布魅族 20 Classic 手机等](https://sspai.com/post/83708)
--  19 [新玩意 162｜少数派的编辑们最近买了啥？](https://sspai.com/post/83702)
--  19 [共创精品 | 颜值与性能兼顾，少数派·旅行者便携剃须套装](https://sspai.com/post/83686)<!-- sspai:END -->
+-  19 [新玩意 162｜少数派的编辑们最近买了啥？](https://sspai.com/post/83702)<!-- sspai:END -->
