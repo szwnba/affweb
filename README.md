@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [派早报：OPPO 发布 Find N3 折叠屏手机，魅族发布魅族 20 Classic 手机等](https://sspai.com/post/83708)
 -  19 [新玩意 162｜少数派的编辑们最近买了啥？](https://sspai.com/post/83702)
 -  19 [共创精品 | 颜值与性能兼顾，少数派·旅行者便携剃须套装](https://sspai.com/post/83686)
 -  19 [精准转写：利用 Whisper 处理音视频转文字不完全指南](https://sspai.com/post/83644)
