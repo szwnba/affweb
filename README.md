@@ -22,8 +22,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  20 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  20 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
+-  20 [TRUST APPS - Rent of iOS/Android organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-android-organic-applications-for-fb-in-app-uac.11780/)
 -  20 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  20 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  20 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  20 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  20 [Propush Tag + Cloudflare Pages](https://afflift.com/f/threads/propush-tag-cloudflare-pages.11808/)
@@ -31,9 +33,7 @@
 -  20 [Adcash campaign never gets activated](https://afflift.com/f/threads/adcash-campaign-never-gets-activated.11816/)
 -  20 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
 -  20 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
--  20 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
--  20 [BeMob campaigns always include the same problematic Zone ID](https://afflift.com/f/threads/bemob-campaigns-always-include-the-same-problematic-zone-id.11819/)
--  20 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)<!-- afflift:END -->
+-  20 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
