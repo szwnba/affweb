@@ -23,11 +23,11 @@
 ### afflift
 <!-- afflift:START -->
 -  20 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
+-  20 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
+-  20 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)
+-  20 [ChatGPT + Exoclick Push API + Python Automation = 💰💰💰&lpar;with code&rpar;](https://afflift.com/f/threads/chatgpt-exoclick-push-api-python-automation-%F0%9F%92%B0%F0%9F%92%B0%F0%9F%92%B0-with-code.11825/)
 -  20 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  20 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  20 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)
--  20 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
--  20 [ChatGPT + Exoclick Push API + Python Automation = 💰💰💰&lpar;with code&rpar;](https://afflift.com/f/threads/chatgpt-exoclick-push-api-python-automation-%F0%9F%92%B0%F0%9F%92%B0%F0%9F%92%B0-with-code.11825/)
 -  20 [Blacklisting vs Whitelisting](https://afflift.com/f/threads/blacklisting-vs-whitelisting.10251/)
 -  20 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  20 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
