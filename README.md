@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
 -  20 [BeMob campaigns always include the same problematic Zone ID](https://afflift.com/f/threads/bemob-campaigns-always-include-the-same-problematic-zone-id.11819/)
 -  20 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  20 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
@@ -31,8 +32,7 @@
 -  19 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  19 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  19 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  19 [Monetizer + Cloudflare ...don&#39;t be dumb like me!](https://afflift.com/f/threads/monetizer-cloudflare-dont-be-dumb-like-me.2779/)
--  19 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)<!-- afflift:END -->
+-  19 [Monetizer + Cloudflare ...don&#39;t be dumb like me!](https://afflift.com/f/threads/monetizer-cloudflare-dont-be-dumb-like-me.2779/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
