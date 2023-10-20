@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  19 [谷歌USD户，返点40。](https://www.advertcn.com/forum.php?mod=viewthread&tid=112592)
--  19 [招聘贴-北京Meta、Google、TT、Kwai一代寻“千里马”](https://www.advertcn.com/forum.php?mod=viewthread&tid=112584)<!-- advertcn:END -->
+-  19 [已过GG认证的Track工具除了maxconv还有其它的推荐不](https://www.advertcn.com/forum.php?mod=viewthread&tid=112597)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
