@@ -39,5 +39,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  20 [本周看什么 | 最近值得一看的一大束作品](https://sspai.com/post/83726)
--  20 [篝火评测 | 次世代体验再进化：《漫威蜘蛛侠 2》游玩感受 &amp; 主创访谈](https://sspai.com/post/83720)
--  20 [面对危害性的网络谣言，我们就是父母最好的武器](https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos)<!-- sspai:END -->
+-  20 [篝火评测 | 次世代体验再进化：《漫威蜘蛛侠 2》游玩感受 &amp; 主创访谈](https://sspai.com/post/83720)<!-- sspai:END -->
