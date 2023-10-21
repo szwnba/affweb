@@ -38,5 +38,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  20 [本周看什么 | 最近值得一看的一大束作品](https://sspai.com/post/83726)
--  20 [篝火评测 | 次世代体验再进化：《漫威蜘蛛侠 2》游玩感受 &amp; 主创访谈](https://sspai.com/post/83720)<!-- sspai:END -->
+-  21 [一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook](https://sspai.com/post/83728)
+-  20 [本周看什么 | 最近值得一看的一大束作品](https://sspai.com/post/83726)<!-- sspai:END -->
