@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
+-  21 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)
+-  21 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
+-  21 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
 -  21 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
 -  21 [ChatGPT + Exoclick Push API + Python Automation = 💰💰💰&lpar;with code&rpar;](https://afflift.com/f/threads/chatgpt-exoclick-push-api-python-automation-%F0%9F%92%B0%F0%9F%92%B0%F0%9F%92%B0-with-code.11825/)
 -  21 [Bidding a low CPM can kill you](https://afflift.com/f/threads/bidding-a-low-cpm-can-kill-you.7284/)
 -  21 [Blacklisting vs Whitelisting](https://afflift.com/f/threads/blacklisting-vs-whitelisting.10251/)
 -  21 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 -  21 [BestRealDoll-Join the most innovative affiliate network.](https://afflift.com/f/threads/bestrealdoll-join-the-most-innovative-affiliate-network.11826/)
--  20 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  20 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
--  20 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  20 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
--  20 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)
--  20 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)<!-- afflift:END -->
+-  20 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
