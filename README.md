@@ -10,10 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  21 [吐槽下Grabs ads的AM](https://www.advertcn.com/forum.php?mod=viewthread&tid=112620)
+-  21 [分享一下youtube的潜规则](https://www.advertcn.com/forum.php?mod=viewthread&tid=112618)
 -  20 [分享78个流量平台！！！](https://www.advertcn.com/forum.php?mod=viewthread&tid=112615)
--  20 [这几天的谷歌广告询盘怎么如此差劲？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112603)
--  20 [希望没有打扰到你的时间，真诚、诚心，谢谢](https://www.advertcn.com/forum.php?mod=viewthread&tid=112601)
--  20 [今天又是美好的一天！nice](https://www.advertcn.com/forum.php?mod=viewthread&tid=112600)<!-- advertcn:END -->
+-  20 [大佬们，使用bemob需不需要绑定自定义的域名呀？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112609)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
