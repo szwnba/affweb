@@ -23,9 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  21 [Bidding a low CPM can kill you](https://afflift.com/f/threads/bidding-a-low-cpm-can-kill-you.7284/)
 -  21 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)
--  21 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  21 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  21 [Lets Get A Campaign Green On Bing](https://afflift.com/f/threads/lets-get-a-campaign-green-on-bing.9391/)
 -  21 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
