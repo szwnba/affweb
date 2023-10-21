@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Hello from India](https://afflift.com/f/threads/hello-from-india.11827/)
 -  21 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  21 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  21 [Bidding a low CPM can kill you](https://afflift.com/f/threads/bidding-a-low-cpm-can-kill-you.7284/)
@@ -33,8 +34,7 @@
 -  21 [ChatGPT + Exoclick Push API + Python Automation = 💰💰💰&lpar;with code&rpar;](https://afflift.com/f/threads/chatgpt-exoclick-push-api-python-automation-%F0%9F%92%B0%F0%9F%92%B0%F0%9F%92%B0-with-code.11825/)
 -  21 [Blacklisting vs Whitelisting](https://afflift.com/f/threads/blacklisting-vs-whitelisting.10251/)
 -  21 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
--  21 [BestRealDoll-Join the most innovative affiliate network.](https://afflift.com/f/threads/bestrealdoll-join-the-most-innovative-affiliate-network.11826/)
--  20 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)<!-- afflift:END -->
+-  21 [BestRealDoll-Join the most innovative affiliate network.](https://afflift.com/f/threads/bestrealdoll-join-the-most-innovative-affiliate-network.11826/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
