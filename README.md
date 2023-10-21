@@ -23,13 +23,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [BeMob campaigns always include the same problematic Zone ID](https://afflift.com/f/threads/bemob-campaigns-always-include-the-same-problematic-zone-id.11819/)
+-  21 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  21 [General strategies for &quot;cutting&quot; optimization](https://afflift.com/f/threads/general-strategies-for-cutting-optimization.2732/)
 -  21 [$1000/month with organic Social Media Traffic](https://afflift.com/f/threads/1000-month-with-organic-social-media-traffic.11818/)
 -  21 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  21 [Waving a warm hello from Holland!](https://afflift.com/f/threads/waving-a-warm-hello-from-holland.11829/)
--  21 [BeMob campaigns always include the same problematic Zone ID](https://afflift.com/f/threads/bemob-campaigns-always-include-the-same-problematic-zone-id.11819/)
 -  21 [Hello from India](https://afflift.com/f/threads/hello-from-india.11827/)
--  21 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  21 [ChatGPT + Exoclick Push API + Python Automation = 💰💰💰&lpar;with code&rpar;](https://afflift.com/f/threads/chatgpt-exoclick-push-api-python-automation-%F0%9F%92%B0%F0%9F%92%B0%F0%9F%92%B0-with-code.11825/)
 -  21 [Let&#39;s make some profit with PA #PA23](https://afflift.com/f/threads/lets-make-some-profit-with-pa-pa23.11600/)
 -  21 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
