@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
+-  21 [Waving a warm hello from Holland!](https://afflift.com/f/threads/waving-a-warm-hello-from-holland.11829/)
 -  21 [NoisyBoy&#39;s Bing Ads/Microsoft Ads Affiliate FA - Let&#39;s Get this Jumpin&#39;!](https://afflift.com/f/threads/noisyboys-bing-ads-microsoft-ads-affiliate-fa-lets-get-this-jumpin.11830/)
 -  21 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
 -  21 [BeMob campaigns always include the same problematic Zone ID](https://afflift.com/f/threads/bemob-campaigns-always-include-the-same-problematic-zone-id.11819/)
@@ -30,11 +32,9 @@
 -  21 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  21 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  21 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
--  21 [Waving a warm hello from Holland!](https://afflift.com/f/threads/waving-a-warm-hello-from-holland.11829/)
 -  21 [General strategies for &quot;cutting&quot; optimization](https://afflift.com/f/threads/general-strategies-for-cutting-optimization.2732/)
 -  21 [$1000/month with organic Social Media Traffic](https://afflift.com/f/threads/1000-month-with-organic-social-media-traffic.11818/)
--  21 [Hello from India](https://afflift.com/f/threads/hello-from-india.11827/)
--  21 [ChatGPT + Exoclick Push API + Python Automation = 💰💰💰&lpar;with code&rpar;](https://afflift.com/f/threads/chatgpt-exoclick-push-api-python-automation-%F0%9F%92%B0%F0%9F%92%B0%F0%9F%92%B0-with-code.11825/)<!-- afflift:END -->
+-  21 [Hello from India](https://afflift.com/f/threads/hello-from-india.11827/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
