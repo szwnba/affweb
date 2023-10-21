@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Bidding a low CPM can kill you](https://afflift.com/f/threads/bidding-a-low-cpm-can-kill-you.7284/)
 -  21 [Blacklisting vs Whitelisting](https://afflift.com/f/threads/blacklisting-vs-whitelisting.10251/)
 -  21 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 -  21 [BestRealDoll-Join the most innovative affiliate network.](https://afflift.com/f/threads/bestrealdoll-join-the-most-innovative-affiliate-network.11826/)
@@ -33,8 +34,7 @@
 -  20 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
 -  20 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)
 -  20 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  20 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  20 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)<!-- afflift:END -->
+-  20 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
