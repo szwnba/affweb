@@ -22,6 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
+-  22 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
+-  22 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  22 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  22 [Waving a warm hello from Holland!](https://afflift.com/f/threads/waving-a-warm-hello-from-holland.11829/)
 -  22 [NoisyBoy&#39;s Bing Ads/Microsoft Ads Affiliate FA - Let&#39;s Get this Jumpin&#39;!](https://afflift.com/f/threads/noisyboys-bing-ads-microsoft-ads-affiliate-fa-lets-get-this-jumpin.11830/)
@@ -30,10 +33,7 @@
 -  22 [Hello Affiliate World](https://afflift.com/f/threads/hello-affiliate-world.11833/)
 -  22 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  22 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
--  22 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
--  22 [PropellerAds Follow Along Contest - Vote For Your Favorites #PA23](https://afflift.com/f/threads/propellerads-follow-along-contest-vote-for-your-favorites-pa23.11724/)
--  22 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
--  22 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)<!-- afflift:END -->
+-  22 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
