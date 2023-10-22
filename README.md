@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
+-  22 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  22 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  22 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
 -  22 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
@@ -31,9 +33,7 @@
 -  22 [Waving a warm hello from Holland!](https://afflift.com/f/threads/waving-a-warm-hello-from-holland.11829/)
 -  22 [NoisyBoy&#39;s Bing Ads/Microsoft Ads Affiliate FA - Let&#39;s Get this Jumpin&#39;!](https://afflift.com/f/threads/noisyboys-bing-ads-microsoft-ads-affiliate-fa-lets-get-this-jumpin.11830/)
 -  22 [Somebody help!!The modified lp is inconsistent with the original landing page](https://afflift.com/f/threads/somebody-help-the-modified-lp-is-inconsistent-with-the-original-landing-page.11832/)
--  22 [Hello Affiliate World](https://afflift.com/f/threads/hello-affiliate-world.11833/)
--  22 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  22 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)<!-- afflift:END -->
+-  22 [Hello Affiliate World](https://afflift.com/f/threads/hello-affiliate-world.11833/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
