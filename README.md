@@ -12,8 +12,7 @@
 <!-- advertcn:START -->
 -  22 [下载软件查看MD5，如果软件有毒的话，电脑会不会中毒](https://www.advertcn.com/forum.php?mod=viewthread&tid=112627)
 -  21 [Grabs什么垃圾联盟？胡乱K号，也不给钱](https://www.advertcn.com/forum.php?mod=viewthread&tid=112625)
--  21 [全球一天发送6万条短信营销服务，每个月只需100刀。](https://www.advertcn.com/forum.php?mod=viewthread&tid=112623)
--  21 [吐槽下Grabs ads的AM](https://www.advertcn.com/forum.php?mod=viewthread&tid=112620)<!-- advertcn:END -->
+-  21 [全球一天发送6万条短信营销服务，每个月只需100刀。](https://www.advertcn.com/forum.php?mod=viewthread&tid=112623)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
