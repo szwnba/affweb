@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)
+-  22 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  22 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
 -  22 [ChatGPT + Exoclick Push API + Python Automation = 💰💰💰&lpar;with code&rpar;](https://afflift.com/f/threads/chatgpt-exoclick-push-api-python-automation-%F0%9F%92%B0%F0%9F%92%B0%F0%9F%92%B0-with-code.11825/)
 -  22 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
@@ -31,9 +33,7 @@
 -  22 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  22 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)
 -  22 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
--  22 [Waving a warm hello from Holland!](https://afflift.com/f/threads/waving-a-warm-hello-from-holland.11829/)
--  22 [NoisyBoy&#39;s Bing Ads/Microsoft Ads Affiliate FA - Let&#39;s Get this Jumpin&#39;!](https://afflift.com/f/threads/noisyboys-bing-ads-microsoft-ads-affiliate-fa-lets-get-this-jumpin.11830/)
--  22 [Somebody help!!The modified lp is inconsistent with the original landing page](https://afflift.com/f/threads/somebody-help-the-modified-lp-is-inconsistent-with-the-original-landing-page.11832/)<!-- afflift:END -->
+-  22 [Waving a warm hello from Holland!](https://afflift.com/f/threads/waving-a-warm-hello-from-holland.11829/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
