@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [📰Bob&#39;s Weekly Observations🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-weekly-observations%F0%9F%94%8E.11842/)
+-  23 [Spy on Others Like professionals, Part 1 &lpar;Adplexity Mobile&rpar; Spy on PPV](https://afflift.com/f/threads/spy-on-others-like-professionals-part-1-adplexity-mobile-spy-on-ppv.6109/)
+-  23 [Claim Your Name](https://afflift.com/f/threads/claim-your-name.8300/)
 -  23 [Hey AffLift!](https://afflift.com/f/threads/hey-afflift.11834/)
+-  23 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
+-  23 [General strategies for &quot;cutting&quot; optimization](https://afflift.com/f/threads/general-strategies-for-cutting-optimization.2732/)
+-  23 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)
+-  23 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
+-  23 [📰Bob&#39;s Weekly Observations🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-weekly-observations%F0%9F%94%8E.11842/)
 -  23 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  23 [Waving a warm hello from Holland!](https://afflift.com/f/threads/waving-a-warm-hello-from-holland.11829/)
 -  23 [Hello Affiliate World](https://afflift.com/f/threads/hello-affiliate-world.11833/)
--  23 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
--  23 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
--  23 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  23 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
--  23 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
--  23 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  23 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)<!-- afflift:END -->
+-  23 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
