@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)
+-  23 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
+-  23 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
+-  23 [Claim Your Name](https://afflift.com/f/threads/claim-your-name.8300/)
 -  23 [Spy on Others Like professionals, Part 1 &lpar;Adplexity Mobile&rpar; Spy on PPV](https://afflift.com/f/threads/spy-on-others-like-professionals-part-1-adplexity-mobile-spy-on-ppv.6109/)
 -  23 [Maxbounty old account terminated](https://afflift.com/f/threads/maxbounty-old-account-terminated.11841/)
--  23 [Claim Your Name](https://afflift.com/f/threads/claim-your-name.8300/)
 -  23 [Gain complete control over BING - Goal: MAKING PROFIT](https://afflift.com/f/threads/gain-complete-control-over-bing-goal-making-profit.10586/)
 -  23 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
--  23 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
 -  23 [Hey AffLift!](https://afflift.com/f/threads/hey-afflift.11834/)
 -  23 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
 -  23 [General strategies for &quot;cutting&quot; optimization](https://afflift.com/f/threads/general-strategies-for-cutting-optimization.2732/)
--  23 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)
--  23 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  23 [📰Bob&#39;s Weekly Observations🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-weekly-observations%F0%9F%94%8E.11842/)<!-- afflift:END -->
+-  23 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
