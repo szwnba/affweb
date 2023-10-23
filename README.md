@@ -39,6 +39,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [派评 | 近期值得关注的 App](https://sspai.com/post/83806)
 -  23 [别被「卷王」牵着走：给键盘减预算时，你究竟减掉了什么](https://sspai.com/post/83797)
 -  23 [App+1 | Countdown Buddy：可能是最好看的倒数日 App](https://sspai.com/post/83729)
 -  23 [派早报：Excel 允许关闭日期自动转换，12315 公示平台上线](https://sspai.com/post/83764)<!-- sspai:END -->
