@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  19 [澳门电信大湾区预付卡, 0月租可接码流量不过期, 保号20元/年](https://51.ruyo.net/18504.html)<!-- ruyo:END -->
+-  23 [烽火CPE+广电流量卡实现家庭上网方案，替换有线宽带！](https://51.ruyo.net/18455.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
