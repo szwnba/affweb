@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
 -  23 [Meet KeyAffiliates in Miami 😎](https://afflift.com/f/threads/meet-keyaffiliates-in-miami-%F0%9F%98%8E.11837/)
 -  23 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  23 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
@@ -34,8 +35,7 @@
 -  23 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  22 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
 -  22 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
--  22 [Hey AffLift!](https://afflift.com/f/threads/hey-afflift.11834/)
--  22 [AnyBill - virtual cards for affiliates, media buyers, advertising agencies etc.](https://afflift.com/f/threads/anybill-virtual-cards-for-affiliates-media-buyers-advertising-agencies-etc.11204/)<!-- afflift:END -->
+-  22 [Hey AffLift!](https://afflift.com/f/threads/hey-afflift.11834/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
