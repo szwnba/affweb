@@ -24,17 +24,17 @@
 ### afflift
 <!-- afflift:START -->
 -  23 [📰Bob&#39;s Weekly Observations🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-weekly-observations%F0%9F%94%8E.11842/)
--  23 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  23 [Hey AffLift!](https://afflift.com/f/threads/hey-afflift.11834/)
--  23 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
+-  23 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
+-  23 [Waving a warm hello from Holland!](https://afflift.com/f/threads/waving-a-warm-hello-from-holland.11829/)
+-  23 [Hello Affiliate World](https://afflift.com/f/threads/hello-affiliate-world.11833/)
+-  23 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
+-  23 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
 -  23 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  23 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
+-  23 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
 -  23 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  23 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
--  23 [Maxbounty old account terminated](https://afflift.com/f/threads/maxbounty-old-account-terminated.11841/)
--  23 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  23 [Looking for Native Ads Affiliates on CPA &lpar;high commission&rpar;](https://afflift.com/f/threads/looking-for-native-ads-affiliates-on-cpa-high-commission.11836/)
--  23 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  23 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)<!-- afflift:END -->
+-  23 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
