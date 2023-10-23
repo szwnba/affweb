@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
+-  23 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
 -  23 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)
 -  23 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
 -  23 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
@@ -31,9 +33,7 @@
 -  23 [Gain complete control over BING - Goal: MAKING PROFIT](https://afflift.com/f/threads/gain-complete-control-over-bing-goal-making-profit.10586/)
 -  23 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
 -  23 [Hey AffLift!](https://afflift.com/f/threads/hey-afflift.11834/)
--  23 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
--  23 [General strategies for &quot;cutting&quot; optimization](https://afflift.com/f/threads/general-strategies-for-cutting-optimization.2732/)
--  23 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
+-  23 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
