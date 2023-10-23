@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  23 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
 -  23 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  23 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
@@ -30,8 +31,7 @@
 -  23 [Spy on Others Like professionals, Part 1 &lpar;Adplexity Mobile&rpar; Spy on PPV](https://afflift.com/f/threads/spy-on-others-like-professionals-part-1-adplexity-mobile-spy-on-ppv.6109/)
 -  23 [Maxbounty old account terminated](https://afflift.com/f/threads/maxbounty-old-account-terminated.11841/)
 -  23 [Gain complete control over BING - Goal: MAKING PROFIT](https://afflift.com/f/threads/gain-complete-control-over-bing-goal-making-profit.10586/)
--  23 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
--  23 [Hey AffLift!](https://afflift.com/f/threads/hey-afflift.11834/)<!-- afflift:END -->
+-  23 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
