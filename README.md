@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Smmgoal.com ⭐instagram | youtube|twitter | tiktok| facebook|twich|soundcloudltraffic⭐](https://afflift.com/f/threads/smmgoal-com-%E2%AD%90instagram-youtube-twitter-tiktok-facebook-twich-soundcloudltraffic%E2%AD%90.6393/)
+-  23 [Spy on Others Like professionals, Part 1 &lpar;Adplexity Mobile&rpar; Spy on PPV](https://afflift.com/f/threads/spy-on-others-like-professionals-part-1-adplexity-mobile-spy-on-ppv.6109/)
 -  23 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
 -  23 [Meet KeyAffiliates in Miami 😎](https://afflift.com/f/threads/meet-keyaffiliates-in-miami-%F0%9F%98%8E.11837/)
 -  23 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
@@ -33,9 +35,7 @@
 -  23 [Looking for Native Ads Affiliates on CPA &lpar;high commission&rpar;](https://afflift.com/f/threads/looking-for-native-ads-affiliates-on-cpa-high-commission.11836/)
 -  23 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  23 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
--  22 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
--  22 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
--  22 [Hey AffLift!](https://afflift.com/f/threads/hey-afflift.11834/)<!-- afflift:END -->
+-  22 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
