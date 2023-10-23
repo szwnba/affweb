@@ -39,5 +39,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  23 [App +1 | Countdown Buddy：可能是最好看的倒数日 App](https://sspai.com/post/83729)
+-  23 [App+1 | Countdown Buddy：可能是最好看的倒数日 App](https://sspai.com/post/83729)
 -  23 [派早报：Excel 允许关闭日期自动转换，12315 公示平台上线](https://sspai.com/post/83764)<!-- sspai:END -->
