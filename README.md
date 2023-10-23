@@ -12,8 +12,7 @@
 <!-- advertcn:START -->
 -  22 [similarweb是不是用不了了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112636)
 -  22 [用wordpress建站，设置permalinks链接为post name后，出现404](https://www.advertcn.com/forum.php?mod=viewthread&tid=112631)
--  22 [有偿寻访老师](https://www.advertcn.com/forum.php?mod=viewthread&tid=112630)
--  22 [下载软件查看MD5，如果软件有毒的话，电脑会不会中毒](https://www.advertcn.com/forum.php?mod=viewthread&tid=112627)<!-- advertcn:END -->
+-  22 [有偿寻访老师](https://www.advertcn.com/forum.php?mod=viewthread&tid=112630)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
