@@ -37,4 +37,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  21 [一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook](https://sspai.com/post/83728)<!-- sspai:END -->
+-  23 [派早报：Excel 允许关闭日期自动转换，12315 公示平台上线](https://sspai.com/post/83764)<!-- sspai:END -->
