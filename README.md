@@ -24,6 +24,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  23 [Maxbounty old account terminated](https://afflift.com/f/threads/maxbounty-old-account-terminated.11841/)
+-  23 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  23 [What you&#39;ll need for working with ASO sources](https://afflift.com/f/threads/what-youll-need-for-working-with-aso-sources.11840/)
 -  23 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  23 [Gain complete control over BING - Goal: MAKING PROFIT](https://afflift.com/f/threads/gain-complete-control-over-bing-goal-making-profit.10586/)
@@ -32,10 +35,7 @@
 -  23 [Spy on Others Like professionals, Part 1 &lpar;Adplexity Mobile&rpar; Spy on PPV](https://afflift.com/f/threads/spy-on-others-like-professionals-part-1-adplexity-mobile-spy-on-ppv.6109/)
 -  23 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
 -  23 [Meet KeyAffiliates in Miami 😎](https://afflift.com/f/threads/meet-keyaffiliates-in-miami-%F0%9F%98%8E.11837/)
--  23 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  23 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
--  23 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
--  23 [Running SOI offers of 🎯Clickdealer on Propeller #PA23.](https://afflift.com/f/threads/running-soi-offers-of-%F0%9F%8E%AFclickdealer-on-propeller-pa23.11546/)<!-- afflift:END -->
+-  23 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
