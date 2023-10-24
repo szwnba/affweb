@@ -10,7 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  23 [AI内容检测工具](https://www.advertcn.com/forum.php?mod=viewthread&tid=112644)<!-- advertcn:END -->
+-  23 [公司买的etsy全套运营培训资料免费领。](https://www.advertcn.com/forum.php?mod=viewthread&tid=112647)
+-  23 [AI内容检测工具](https://www.advertcn.com/forum.php?mod=viewthread&tid=112644)
+-  23 [来一个能跑韩国gp能打kakao个人号的](https://www.advertcn.com/forum.php?mod=viewthread&tid=112637)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
