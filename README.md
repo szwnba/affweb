@@ -22,9 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [Looking for a WordPress plugin which allows dynamic content.](https://afflift.com/f/threads/looking-for-a-wordpress-plugin-which-allows-dynamic-content.11852/)
--  24 [🤑watch me make money with AI tools on shopify?](https://afflift.com/f/threads/%F0%9F%A4%91watch-me-make-money-with-ai-tools-on-shopify.11851/)
 -  24 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)
+-  24 [🤑watch me make money with AI tools on shopify?](https://afflift.com/f/threads/%F0%9F%A4%91watch-me-make-money-with-ai-tools-on-shopify.11851/)
+-  24 [Looking for a WordPress plugin which allows dynamic content.](https://afflift.com/f/threads/looking-for-a-wordpress-plugin-which-allows-dynamic-content.11852/)
 -  24 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
 -  24 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  24 [Which one should I choose? Dating or Adult](https://afflift.com/f/threads/which-one-should-i-choose-dating-or-adult.11776/)
