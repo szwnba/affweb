@@ -37,7 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [依然属于大众的 iPhone：iPhone 15 Plus 使用体验](https://sspai.com/post/83786)
 -  24 [不接地气的 Android 版「实时活动」，要好用还得看三方：Smartspacer](https://sspai.com/post/83754)
 -  24 [派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等](https://sspai.com/post/83813)
--  23 [派评 | 近期值得关注的 App](https://sspai.com/post/83806)
--  23 [别被「卷王」牵着走：给键盘减预算时，你究竟减掉了什么](https://sspai.com/post/83797)<!-- sspai:END -->
+-  23 [派评 | 近期值得关注的 App](https://sspai.com/post/83806)<!-- sspai:END -->
