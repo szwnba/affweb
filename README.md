@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)
+-  24 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
+-  24 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
+-  24 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
+-  24 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
 -  24 [🤑watch me make money with AI tools on shopify?](https://afflift.com/f/threads/%F0%9F%A4%91watch-me-make-money-with-ai-tools-on-shopify.11851/)
 -  24 [Looking for a WordPress plugin which allows dynamic content.](https://afflift.com/f/threads/looking-for-a-wordpress-plugin-which-allows-dynamic-content.11852/)
--  24 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
+-  24 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)
 -  24 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  24 [Which one should I choose? Dating or Adult](https://afflift.com/f/threads/which-one-should-i-choose-dating-or-adult.11776/)
 -  24 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
 -  24 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  24 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
--  24 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)
--  24 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  24 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
+-  24 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
