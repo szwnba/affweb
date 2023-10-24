@@ -22,8 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
 -  24 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
+-  24 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
+-  24 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
 -  24 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  24 [Hello Affiliate World](https://afflift.com/f/threads/hello-affiliate-world.11833/)
 -  24 [Looking for Native Ads Affiliates on CPA &lpar;high commission&rpar;](https://afflift.com/f/threads/looking-for-native-ads-affiliates-on-cpa-high-commission.11836/)
@@ -32,8 +33,7 @@
 -  23 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  23 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
 -  23 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
--  23 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)
--  23 [List of PA subzones](https://afflift.com/f/threads/list-of-pa-subzones.11824/)<!-- afflift:END -->
+-  23 [Questions about smart optimization tool](https://afflift.com/f/threads/questions-about-smart-optimization-tool.11650/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
