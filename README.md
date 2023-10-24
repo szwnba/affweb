@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [从阅读到输出，我是如何用数字工具完成这一切的](https://sspai.com/post/83467)
 -  24 [依然属于大众的 iPhone：iPhone 15 Plus 使用体验](https://sspai.com/post/83786)
 -  24 [不接地气的 Android 版「实时活动」，要好用还得看三方：Smartspacer](https://sspai.com/post/83754)
 -  24 [派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等](https://sspai.com/post/83813)
