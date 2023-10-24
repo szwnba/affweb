@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [Looking for: traffic on chartboost, vungle, fyber etc + keto gummies offer tier1](https://afflift.com/f/threads/looking-for-traffic-on-chartboost-vungle-fyber-etc-keto-gummies-offer-tier1.11847/)
--  24 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
+-  24 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
+-  24 [RichAds: Premium push, popunders, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-popunders-in-page-calendar-direct-click-native-traffic.991/)
+-  24 [Iraq campaign on Adsterra follow allong](https://afflift.com/f/threads/iraq-campaign-on-adsterra-follow-allong.11848/)
+-  24 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  24 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
+-  24 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
+-  24 [Looking for: traffic on chartboost, vungle, fyber etc + keto gummies offer tier1](https://afflift.com/f/threads/looking-for-traffic-on-chartboost-vungle-fyber-etc-keto-gummies-offer-tier1.11847/)
 -  24 [Early Black Friday sale for e-com &amp; DTC! 💣](https://afflift.com/f/threads/early-black-friday-sale-for-e-com-dtc-%F0%9F%92%A3.11846/)
 -  24 [hello guys. howz it goin?](https://afflift.com/f/threads/hello-guys-howz-it-goin.11844/)
 -  24 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
 -  24 [Hello Affiliate World](https://afflift.com/f/threads/hello-affiliate-world.11833/)
--  24 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
--  24 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
--  24 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  24 [Looking for Native Ads Affiliates on CPA &lpar;high commission&rpar;](https://afflift.com/f/threads/looking-for-native-ads-affiliates-on-cpa-high-commission.11836/)
--  23 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)<!-- afflift:END -->
+-  24 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
