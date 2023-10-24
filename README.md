@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
 -  24 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  24 [Which one should I choose? Dating or Adult](https://afflift.com/f/threads/which-one-should-i-choose-dating-or-adult.11776/)
 -  24 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
@@ -32,8 +33,7 @@
 -  24 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  24 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
 -  24 [The laziest way to increase your profits. Check the How-To Guide!](https://afflift.com/f/threads/the-laziest-way-to-increase-your-profits-check-the-how-to-guide.11850/)
--  24 [What types of offers are suitable for Pop ads?](https://afflift.com/f/threads/what-types-of-offers-are-suitable-for-pop-ads.11797/)
--  24 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)<!-- afflift:END -->
+-  24 [What types of offers are suitable for Pop ads?](https://afflift.com/f/threads/what-types-of-offers-are-suitable-for-pop-ads.11797/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
