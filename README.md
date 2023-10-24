@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Looking for Native Ads Affiliates on CPA &lpar;high commission&rpar;](https://afflift.com/f/threads/looking-for-native-ads-affiliates-on-cpa-high-commission.11836/)
 -  24 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
 -  24 [hello guys. howz it goin?](https://afflift.com/f/threads/hello-guys-howz-it-goin.11844/)
 -  23 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
@@ -32,8 +33,7 @@
 -  23 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
 -  23 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  23 [Claim Your Name](https://afflift.com/f/threads/claim-your-name.8300/)
--  23 [Spy on Others Like professionals, Part 1 &lpar;Adplexity Mobile&rpar; Spy on PPV](https://afflift.com/f/threads/spy-on-others-like-professionals-part-1-adplexity-mobile-spy-on-ppv.6109/)
--  23 [Maxbounty old account terminated](https://afflift.com/f/threads/maxbounty-old-account-terminated.11841/)<!-- afflift:END -->
+-  23 [Spy on Others Like professionals, Part 1 &lpar;Adplexity Mobile&rpar; Spy on PPV](https://afflift.com/f/threads/spy-on-others-like-professionals-part-1-adplexity-mobile-spy-on-ppv.6109/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
