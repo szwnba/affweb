@@ -22,6 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Propellerads traffic drop ?](https://afflift.com/f/threads/propellerads-traffic-drop.11860/)
+-  25 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
+-  25 [hello guys. howz it goin?](https://afflift.com/f/threads/hello-guys-howz-it-goin.11844/)
 -  25 [🤑watch me make money with AI tools on shopify?](https://afflift.com/f/threads/%F0%9F%A4%91watch-me-make-money-with-ai-tools-on-shopify.11851/)
 -  25 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
 -  25 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
@@ -30,10 +33,7 @@
 -  25 [I have some questions about PA manual optimization](https://afflift.com/f/threads/i-have-some-questions-about-pa-manual-optimization.11856/)
 -  25 [Hello Affiliate World](https://afflift.com/f/threads/hello-affiliate-world.11833/)
 -  25 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  25 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
--  25 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
--  24 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
--  24 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)<!-- afflift:END -->
+-  25 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
