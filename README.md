@@ -10,9 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  23 [公司买的etsy全套运营培训资料免费领。](https://www.advertcn.com/forum.php?mod=viewthread&tid=112647)
--  23 [AI内容检测工具](https://www.advertcn.com/forum.php?mod=viewthread&tid=112644)
--  23 [来一个能跑韩国gp能打kakao个人号的](https://www.advertcn.com/forum.php?mod=viewthread&tid=112637)<!-- advertcn:END -->
+-  24 [看我在Google UAC上设置Casino广告活动](https://www.advertcn.com/forum.php?mod=viewthread&tid=112671)
+-  24 [就是跑offer的时候，tracker有什么用呢？一直没搞明白](https://www.advertcn.com/forum.php?mod=viewthread&tid=112664)
+-  24 [寻找千里马](https://www.advertcn.com/forum.php?mod=viewthread&tid=112663)
+-  24 [视频广告都是怎么做的啊，里面有老外那种](https://www.advertcn.com/forum.php?mod=viewthread&tid=112662)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
