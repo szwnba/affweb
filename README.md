@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  23 [烽火CPE+广电流量卡实现家庭上网方案，替换有线宽带！](https://51.ruyo.net/18455.html)<!-- ruyo:END -->
+-  25 [北京移动免费领取云电脑4核8G内存80G磁盘，有效期1年](https://51.ruyo.net/18513.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
