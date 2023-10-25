@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
+-  25 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
 -  25 [I have some questions about PA manual optimization](https://afflift.com/f/threads/i-have-some-questions-about-pa-manual-optimization.11856/)
 -  25 [🤑watch me make money with AI tools on shopify?](https://afflift.com/f/threads/%F0%9F%A4%91watch-me-make-money-with-ai-tools-on-shopify.11851/)
 -  25 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
@@ -32,9 +34,7 @@
 -  24 [hello guys. howz it goin?](https://afflift.com/f/threads/hello-guys-howz-it-goin.11844/)
 -  24 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
 -  24 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
--  24 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
--  24 [Looking for a WordPress plugin which allows dynamic content.](https://afflift.com/f/threads/looking-for-a-wordpress-plugin-which-allows-dynamic-content.11852/)
--  24 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)<!-- afflift:END -->
+-  24 [Looking for a WordPress plugin which allows dynamic content.](https://afflift.com/f/threads/looking-for-a-wordpress-plugin-which-allows-dynamic-content.11852/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
