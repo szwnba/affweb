@@ -25,18 +25,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Which one should I choose? Dating or Adult](https://afflift.com/f/threads/which-one-should-i-choose-dating-or-adult.11776/)
+-  25 [Research about Affiliate and Verticals.](https://afflift.com/f/threads/research-about-affiliate-and-verticals.11868/)
+-  25 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
 -  25 [hoax.tech - intelligent cloaking service with JS-fingerprinting](https://afflift.com/f/threads/hoax-tech-intelligent-cloaking-service-with-js-fingerprinting.11867/)
 -  25 [Hello from a bitter blogger!](https://afflift.com/f/threads/hello-from-a-bitter-blogger.11861/)
 -  25 [WHAT IS FREQUENCY CAPPING AND WHY IT IS IMPORTANT?](https://afflift.com/f/threads/what-is-frequency-capping-and-why-it-is-important.11866/)
 -  25 [CASE STUDY: 146% ROI ON UTILITIES AND PUSH ADS](https://afflift.com/f/threads/case-study-146-roi-on-utilities-and-push-ads.11865/)
--  25 [Which one should I choose? Dating or Adult](https://afflift.com/f/threads/which-one-should-i-choose-dating-or-adult.11776/)
 -  25 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  25 [Looking for: traffic on chartboost, vungle, fyber etc + keto gummies offer tier1](https://afflift.com/f/threads/looking-for-traffic-on-chartboost-vungle-fyber-etc-keto-gummies-offer-tier1.11847/)
 -  25 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  25 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)
--  25 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
--  25 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)<!-- afflift:END -->
+-  25 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
