@@ -25,18 +25,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [BeMob Tracker](https://afflift.com/f/threads/bemob-tracker.908/)
+-  25 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
+-  25 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
+-  25 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)
+-  25 [Hello from a bitter blogger!](https://afflift.com/f/threads/hello-from-a-bitter-blogger.11861/)
+-  25 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  25 [What types of offers are suitable for Pop ads?](https://afflift.com/f/threads/what-types-of-offers-are-suitable-for-pop-ads.11797/)
 -  25 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)
 -  25 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
--  25 [Hello from a bitter blogger!](https://afflift.com/f/threads/hello-from-a-bitter-blogger.11861/)
 -  25 [Propellerads traffic drop ?](https://afflift.com/f/threads/propellerads-traffic-drop.11860/)
 -  25 [Interview with a Grand Guru: @Noisyboy &quot;Glad I Didn&#39;t Give Up&quot;](https://afflift.com/f/threads/interview-with-a-grand-guru-noisyboy-glad-i-didnt-give-up.11820/)
--  25 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
--  25 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
--  25 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  25 [Iraq campaign on Adsterra follow allong](https://afflift.com/f/threads/iraq-campaign-on-adsterra-follow-allong.11848/)
--  25 [Propellerads + mVAS - A Journey to Media Buying Success PA#PA23](https://afflift.com/f/threads/propellerads-mvas-a-journey-to-media-buying-success-pa-pa23.11608/)
--  25 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
+-  25 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
