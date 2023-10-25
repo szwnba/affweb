@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [I have some questions about PA manual optimization](https://afflift.com/f/threads/i-have-some-questions-about-pa-manual-optimization.11856/)
 -  25 [🤑watch me make money with AI tools on shopify?](https://afflift.com/f/threads/%F0%9F%A4%91watch-me-make-money-with-ai-tools-on-shopify.11851/)
 -  25 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  24 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
@@ -33,8 +34,7 @@
 -  24 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  24 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
 -  24 [Looking for a WordPress plugin which allows dynamic content.](https://afflift.com/f/threads/looking-for-a-wordpress-plugin-which-allows-dynamic-content.11852/)
--  24 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)
--  24 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)<!-- afflift:END -->
+-  24 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
