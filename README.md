@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
 -  25 [I have some questions about PA manual optimization](https://afflift.com/f/threads/i-have-some-questions-about-pa-manual-optimization.11856/)
 -  25 [Hello Affiliate World](https://afflift.com/f/threads/hello-affiliate-world.11833/)
 -  25 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
@@ -33,8 +34,7 @@
 -  24 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  24 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
 -  24 [hello guys. howz it goin?](https://afflift.com/f/threads/hello-guys-howz-it-goin.11844/)
--  24 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
--  24 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)<!-- afflift:END -->
+-  24 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
