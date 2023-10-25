@@ -39,5 +39,4 @@
 -  25 [规划库存、减少浪费：以 Grocy 为数据库的物品管理方案](https://sspai.com/post/83836)
 -  25 [派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等](https://sspai.com/post/83854)
 -  24 [社区速递 017 | 性价比SSD、宠物用品分享以及作者的新玩意](https://sspai.com/post/83832)
--  24 [从阅读到输出，我是如何用数字工具完成这一切的](https://sspai.com/post/83467)
--  24 [依然属于大众的 iPhone：iPhone 15 Plus 使用体验](https://sspai.com/post/83786)<!-- sspai:END -->
+-  24 [从阅读到输出，我是如何用数字工具完成这一切的](https://sspai.com/post/83467)<!-- sspai:END -->
