@@ -10,10 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  24 [看我在Google UAC上设置Casino广告活动](https://www.advertcn.com/forum.php?mod=viewthread&tid=112671)
--  24 [就是跑offer的时候，tracker有什么用呢？一直没搞明白](https://www.advertcn.com/forum.php?mod=viewthread&tid=112664)
--  24 [寻找千里马](https://www.advertcn.com/forum.php?mod=viewthread&tid=112663)
--  24 [视频广告都是怎么做的啊，里面有老外那种](https://www.advertcn.com/forum.php?mod=viewthread&tid=112662)<!-- advertcn:END -->
+-  24 [联盟网络](https://www.advertcn.com/forum.php?mod=viewthread&tid=112674)
+-  24 [看我在Google UAC上设置Casino广告活动](https://www.advertcn.com/forum.php?mod=viewthread&tid=112671)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
