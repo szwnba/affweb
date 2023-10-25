@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  25 [Matrix Talk | 在「瞎逛爱好者」最喜欢的季节，我想和你聊聊秋日 EDC](https://sspai.com/post/83800)
 -  25 [规划库存、减少浪费：以 Grocy 为数据库的物品管理方案](https://sspai.com/post/83836)
--  25 [派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等](https://sspai.com/post/83854)
--  24 [社区速递 017 | 性价比SSD、宠物用品分享以及作者的新玩意](https://sspai.com/post/83832)<!-- sspai:END -->
+-  25 [派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等](https://sspai.com/post/83854)<!-- sspai:END -->
