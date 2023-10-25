@@ -25,6 +25,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Best way to optimize campaign by IPs](https://afflift.com/f/threads/best-way-to-optimize-campaign-by-ips.11869/)
+-  25 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  25 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  25 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
 -  25 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  25 [Research about Affiliate and Verticals.](https://afflift.com/f/threads/research-about-affiliate-and-verticals.11868/)
@@ -33,10 +36,7 @@
 -  25 [hoax.tech - intelligent cloaking service with JS-fingerprinting](https://afflift.com/f/threads/hoax-tech-intelligent-cloaking-service-with-js-fingerprinting.11867/)
 -  25 [Hello from a bitter blogger!](https://afflift.com/f/threads/hello-from-a-bitter-blogger.11861/)
 -  25 [WHAT IS FREQUENCY CAPPING AND WHY IT IS IMPORTANT?](https://afflift.com/f/threads/what-is-frequency-capping-and-why-it-is-important.11866/)
--  25 [CASE STUDY: 146% ROI ON UTILITIES AND PUSH ADS](https://afflift.com/f/threads/case-study-146-roi-on-utilities-and-push-ads.11865/)
--  25 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  25 [Looking for: traffic on chartboost, vungle, fyber etc + keto gummies offer tier1](https://afflift.com/f/threads/looking-for-traffic-on-chartboost-vungle-fyber-etc-keto-gummies-offer-tier1.11847/)<!-- afflift:END -->
+-  25 [CASE STUDY: 146% ROI ON UTILITIES AND PUSH ADS](https://afflift.com/f/threads/case-study-146-roi-on-utilities-and-push-ads.11865/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
