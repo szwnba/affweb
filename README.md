@@ -25,6 +25,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [hoax.tech - intelligent cloaking service with JS-fingerprinting](https://afflift.com/f/threads/hoax-tech-intelligent-cloaking-service-with-js-fingerprinting.11867/)
 -  25 [Hello from a bitter blogger!](https://afflift.com/f/threads/hello-from-a-bitter-blogger.11861/)
 -  25 [WHAT IS FREQUENCY CAPPING AND WHY IT IS IMPORTANT?](https://afflift.com/f/threads/what-is-frequency-capping-and-why-it-is-important.11866/)
 -  25 [CASE STUDY: 146% ROI ON UTILITIES AND PUSH ADS](https://afflift.com/f/threads/case-study-146-roi-on-utilities-and-push-ads.11865/)
@@ -35,8 +36,7 @@
 -  25 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  25 [Monetizer Smartlink Algorithm Update](https://afflift.com/f/threads/monetizer-smartlink-algorithm-update.11853/)
 -  25 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
--  25 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)
--  25 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)<!-- afflift:END -->
+-  25 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+Skro&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-skro.11774/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
