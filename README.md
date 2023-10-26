@@ -10,7 +10,6 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  26 [请问下，香港公司开哪个银行的户方便呢？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112708)
 -  26 [LeadsMarket营销白皮书 - 手把手教你如何跑PDL](https://www.advertcn.com/forum.php?mod=viewthread&tid=112704)<!-- advertcn:END -->
 
 ### zhihu
