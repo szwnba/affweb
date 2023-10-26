@@ -41,6 +41,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [派早报：高通发布骁龙 X Elite 处理器、Steam 调整低价区定价策略等](https://sspai.com/post/83874)
 -  25 [Bellroy 首席设计师 James Jeffrey 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231025)
 -  25 [集成百家所长的 matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01)
 -  25 [Matrix Talk | 在「瞎逛爱好者」最喜欢的季节，来聊聊我们的秋日 EDC](https://sspai.com/post/83800)
