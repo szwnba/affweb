@@ -26,6 +26,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  26 [Trick to find webpages that use your script](https://afflift.com/f/threads/trick-to-find-webpages-that-use-your-script.11871/)
 -  26 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
 -  26 [Hello !](https://afflift.com/f/threads/hello.11873/)
@@ -36,8 +37,7 @@
 -  26 [Research about Affiliate and Verticals.](https://afflift.com/f/threads/research-about-affiliate-and-verticals.11868/)
 -  25 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  25 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
--  25 [Encrypting tokens in Binom v2?](https://afflift.com/f/threads/encrypting-tokens-in-binom-v2.11870/)
--  25 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)<!-- afflift:END -->
+-  25 [Encrypting tokens in Binom v2?](https://afflift.com/f/threads/encrypting-tokens-in-binom-v2.11870/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
