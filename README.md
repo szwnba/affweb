@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Encrypting tokens in Binom v2?](https://afflift.com/f/threads/encrypting-tokens-in-binom-v2.11870/)
 -  26 [ONE MORE ROUND TABLE WEBINAR IS COMING: Building anticipations for 2024 💥](https://afflift.com/f/threads/one-more-round-table-webinar-is-coming-building-anticipations-for-2024-%F0%9F%92%A5.11794/)
 -  26 [Trick to find webpages that use your script](https://afflift.com/f/threads/trick-to-find-webpages-that-use-your-script.11871/)
 -  26 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
@@ -32,8 +33,7 @@
 -  26 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
 -  26 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
 -  26 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  26 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  26 [Iraq campaign on Adsterra follow allong](https://afflift.com/f/threads/iraq-campaign-on-adsterra-follow-allong.11848/)<!-- afflift:END -->
+-  26 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
