@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
+-  26 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
+-  26 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  26 [My beginnings, let&#39;s start!](https://afflift.com/f/threads/my-beginnings-lets-start.11877/)
 -  26 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  26 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
@@ -31,10 +34,7 @@
 -  26 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  26 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
 -  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  26 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
--  26 [Trick to find webpages that use your script](https://afflift.com/f/threads/trick-to-find-webpages-that-use-your-script.11871/)
--  26 [TOP 10 AFFILIATE MARKETING CAMPAIGNS OPTIMIZATION TIPS](https://afflift.com/f/threads/top-10-affiliate-marketing-campaigns-optimization-tips.11876/)
--  26 [Propellerads traffic drop ?](https://afflift.com/f/threads/propellerads-traffic-drop.11860/)<!-- afflift:END -->
+-  26 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
