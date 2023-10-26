@@ -37,7 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [用命令行工具助力移动端自动化：以视频和图片下载为例](https://sspai.com/prime/story/cli-utils-in-mobile-automations)
+-  26 [双十一硬件推荐：值得关注的好键盘](https://sspai.com/post/80308)
 -  26 [更好用的 Apple Music 和隔空投送，iOS 17.1 中值得关注的新特性](https://sspai.com/post/83879)
 -  26 [先享体验计划正式启动，少数派和骁龙骁友会一起邀你来当先享体验官](https://sspai.com/post/83860)
--  26 [关注「内在美」社交产品达到目标了吗？聊聊我的「犬岛」体验](https://sspai.com/post/83758)
--  26 [派早报：高通发布骁龙 X Elite 处理器、Steam 调整低价区定价策略等](https://sspai.com/post/83874)<!-- sspai:END -->
+-  26 [关注「内在美」社交产品达到目标了吗？聊聊我的「犬岛」体验](https://sspai.com/post/83758)<!-- sspai:END -->
