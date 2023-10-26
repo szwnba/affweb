@@ -12,9 +12,7 @@
 <!-- advertcn:START -->
 -  26 [LeadsMarket营销白皮书 - 手把手教你如何跑PDL](https://www.advertcn.com/forum.php?mod=viewthread&tid=112704)
 -  25 [分享一个简单使用Google认证tracker域名的方法](https://www.advertcn.com/forum.php?mod=viewthread&tid=112698)
--  25 [著名的野鸡行倒闭了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112696)
--  25 [现在收Google的Pin码不用等到满100美金了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112695)
--  25 [刚入门fb的收入](https://www.advertcn.com/forum.php?mod=viewthread&tid=112694)<!-- advertcn:END -->
+-  25 [著名的野鸡行倒闭了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112696)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
