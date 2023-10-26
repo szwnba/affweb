@@ -26,6 +26,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
+-  26 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
+-  26 [Research about Affiliate and Verticals.](https://afflift.com/f/threads/research-about-affiliate-and-verticals.11868/)
 -  26 [Trick to find webpages that use your script](https://afflift.com/f/threads/trick-to-find-webpages-that-use-your-script.11871/)
 -  25 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
 -  25 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
@@ -34,10 +37,7 @@
 -  25 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
 -  25 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  25 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
--  25 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
--  25 [Best way to optimize campaign by IPs](https://afflift.com/f/threads/best-way-to-optimize-campaign-by-ips.11869/)
--  25 [Hello from a bitter blogger!](https://afflift.com/f/threads/hello-from-a-bitter-blogger.11861/)
--  25 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)<!-- afflift:END -->
+-  25 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
