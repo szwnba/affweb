@@ -22,7 +22,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [ONE MORE ROUND TABLE WEBINAR IS COMING: Building anticipations for 2024 💥](https://afflift.com/f/threads/one-more-round-table-webinar-is-coming-building-anticipations-for-2024-%F0%9F%92%A5.11794/)
 -  26 [Trick to find webpages that use your script](https://afflift.com/f/threads/trick-to-find-webpages-that-use-your-script.11871/)
+-  26 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
+-  26 [Best way to optimize campaign by IPs](https://afflift.com/f/threads/best-way-to-optimize-campaign-by-ips.11869/)
 -  26 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
 -  26 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  26 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
@@ -30,10 +33,7 @@
 -  26 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
 -  26 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  26 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  26 [Iraq campaign on Adsterra follow allong](https://afflift.com/f/threads/iraq-campaign-on-adsterra-follow-allong.11848/)
--  26 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  26 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
--  26 [Hello !](https://afflift.com/f/threads/hello.11873/)<!-- afflift:END -->
+-  26 [Iraq campaign on Adsterra follow allong](https://afflift.com/f/threads/iraq-campaign-on-adsterra-follow-allong.11848/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
