@@ -41,8 +41,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [更好用的 Apple Music 和隔空投送，iOS 17.1 中值得关注的新特性](https://sspai.com/post/83879)
 -  26 [先享体验计划正式启动，少数派和骁龙骁友会一起邀你来当先享体验官](https://sspai.com/post/83860)
 -  26 [关注「内在美」社交产品达到目标了吗？聊聊我的「犬岛」体验](https://sspai.com/post/83758)
 -  26 [派早报：高通发布骁龙 X Elite 处理器、Steam 调整低价区定价策略等](https://sspai.com/post/83874)
--  25 [Bellroy 首席设计师 James Jeffrey 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231025)
--  25 [集成百家所长的 matter，也是智能家居的未来（系列文章之一）](https://sspai.com/prime/story/matter-explained-01)<!-- sspai:END -->
+-  25 [Bellroy 首席设计师 James Jeffrey 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231025)<!-- sspai:END -->
