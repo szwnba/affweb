@@ -20,10 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  26 [My beginnings, let&#39;s start!](https://afflift.com/f/threads/my-beginnings-lets-start.11877/)
 -  26 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  26 [Hello !](https://afflift.com/f/threads/hello.11873/)
--  26 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  26 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  26 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  26 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
