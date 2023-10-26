@@ -26,6 +26,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  26 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
 -  26 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
 -  26 [Research about Affiliate and Verticals.](https://afflift.com/f/threads/research-about-affiliate-and-verticals.11868/)
@@ -36,8 +37,7 @@
 -  25 [Encrypting tokens in Binom v2?](https://afflift.com/f/threads/encrypting-tokens-in-binom-v2.11870/)
 -  25 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
 -  25 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
--  25 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
--  25 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)<!-- afflift:END -->
+-  25 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
