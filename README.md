@@ -11,8 +11,7 @@
 ### advertcn
 <!-- advertcn:START -->
 -  27 [这两篇是不是把90%以上的手段都说的明白了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112714)
--  27 [在facebook上搞个黑五广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=112712)
--  26 [请教怎么增加youtube播放时长](https://www.advertcn.com/forum.php?mod=viewthread&tid=112710)<!-- advertcn:END -->
+-  27 [在facebook上搞个黑五广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=112712)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
