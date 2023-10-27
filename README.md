@@ -23,6 +23,8 @@
 ### afflift
 <!-- afflift:START -->
 -  27 [Having issues testing monetizer offers](https://afflift.com/f/threads/having-issues-testing-monetizer-offers.11881/)
+-  27 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  27 [$1000/month with organic Social Media Traffic](https://afflift.com/f/threads/1000-month-with-organic-social-media-traffic.11818/)
 -  27 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
 -  27 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  27 [Keen as a bean!](https://afflift.com/f/threads/keen-as-a-bean.11878/)
@@ -31,9 +33,7 @@
 -  27 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
 -  27 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
 -  27 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  27 [My beginnings, let&#39;s start!](https://afflift.com/f/threads/my-beginnings-lets-start.11877/)
--  27 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
--  26 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)<!-- afflift:END -->
+-  27 [My beginnings, let&#39;s start!](https://afflift.com/f/threads/my-beginnings-lets-start.11877/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
