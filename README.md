@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83906)
 -  27 [双十一硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)
 -  27 [自嘲「万金油但平平无奇」的有趣知识管理工具：Fibery 体验](https://sspai.com/post/83859)
 -  27 [派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案](https://sspai.com/post/83893)<!-- sspai:END -->
