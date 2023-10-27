@@ -23,8 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  27 [Keen as a bean!](https://afflift.com/f/threads/keen-as-a-bean.11878/)
 -  27 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
+-  27 [Keen as a bean!](https://afflift.com/f/threads/keen-as-a-bean.11878/)
 -  26 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
 -  26 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  26 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
