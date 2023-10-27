@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
 -  26 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
 -  26 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  26 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
@@ -33,8 +34,7 @@
 -  26 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  26 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  26 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
--  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  26 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)<!-- afflift:END -->
+-  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
