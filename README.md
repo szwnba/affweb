@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  27 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
+-  27 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
+-  27 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
 -  27 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
+-  27 [CONVERSION-MAGNET CHECK-LIST FOR AFFILIATE MARKETERS](https://afflift.com/f/threads/conversion-magnet-check-list-for-affiliate-marketers.11882/)
+-  27 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  27 [Keen as a bean!](https://afflift.com/f/threads/keen-as-a-bean.11878/)
+-  27 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
+-  27 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  27 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
 -  27 [My beginnings, let&#39;s start!](https://afflift.com/f/threads/my-beginnings-lets-start.11877/)
 -  27 [$1000/month with organic Social Media Traffic](https://afflift.com/f/threads/1000-month-with-organic-social-media-traffic.11818/)
--  27 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
--  27 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
--  27 [Hello !](https://afflift.com/f/threads/hello.11873/)
--  27 [ChatGPT + Exoclick Push API + Python Automation = 💰💰💰&lpar;with code&rpar;](https://afflift.com/f/threads/chatgpt-exoclick-push-api-python-automation-%F0%9F%92%B0%F0%9F%92%B0%F0%9F%92%B0-with-code.11825/)
--  27 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
--  27 [Having issues testing monetizer offers](https://afflift.com/f/threads/having-issues-testing-monetizer-offers.11881/)
--  27 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  27 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)<!-- afflift:END -->
+-  27 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
