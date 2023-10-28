@@ -21,7 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  28 [The propellerads website is not open today](https://afflift.com/f/threads/the-propellerads-website-is-not-open-today.11885/)
+-  28 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  27 [Crypto &quot;make money&quot; type offer JV : up to 1100 CPA](https://afflift.com/f/threads/crypto-make-money-type-offer-jv-up-to-1100-cpa.11884/)
 -  27 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
 -  27 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
