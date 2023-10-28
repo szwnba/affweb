@@ -24,8 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  28 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
 -  28 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
+-  28 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
 -  28 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  28 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/)
 -  28 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
