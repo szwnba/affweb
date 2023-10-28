@@ -37,5 +37,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  28 [识图：在茫茫手机相册中精准定位想要照片](https://sspai.com/post/83441)
--  27 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83906)
--  27 [双十一硬件推荐：值得关注的鼠标](https://sspai.com/post/80329)<!-- sspai:END -->
+-  27 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/83906)<!-- sspai:END -->
