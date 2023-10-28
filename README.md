@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Problem about Zeydoo postback url.](https://afflift.com/f/threads/problem-about-zeydoo-postback-url.11886/)
+-  28 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
+-  28 [CONVERSION-MAGNET CHECK-LIST FOR AFFILIATE MARKETERS](https://afflift.com/f/threads/conversion-magnet-check-list-for-affiliate-marketers.11882/)
 -  28 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  27 [Crypto &quot;make money&quot; type offer JV : up to 1100 CPA](https://afflift.com/f/threads/crypto-make-money-type-offer-jv-up-to-1100-cpa.11884/)
 -  27 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
@@ -29,10 +32,7 @@
 -  27 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  27 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  27 [RichAds: Premium push, popunders, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-popunders-in-page-calendar-direct-click-native-traffic.991/)
--  27 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
--  27 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  27 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  27 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)<!-- afflift:END -->
+-  27 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
