@@ -10,8 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  27 [这两篇是不是把90%以上的手段都说的明白了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112714)
--  27 [在facebook上搞个黑五广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=112712)<!-- advertcn:END -->
+-  28 [rakuten返现，日入万刀！](https://www.advertcn.com/forum.php?mod=viewthread&tid=112729)
+-  28 [停放的惊喜](https://www.advertcn.com/forum.php?mod=viewthread&tid=112727)
+-  28 [这两个baidu的typo如何？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112726)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
