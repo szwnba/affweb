@@ -10,7 +10,9 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  28 [跑网盟如何设置fb像素回，困扰很久了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112730)
 -  28 [rakuten返现，日入万刀！](https://www.advertcn.com/forum.php?mod=viewthread&tid=112729)
+-  28 [神操作，rakuten返现，日入万刀！](https://www.advertcn.com/forum.php?mod=viewthread&tid=112728)
 -  28 [停放的惊喜](https://www.advertcn.com/forum.php?mod=viewthread&tid=112727)
 -  28 [这两个baidu的typo如何？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112726)<!-- advertcn:END -->
 
