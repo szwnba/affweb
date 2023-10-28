@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [The propellerads website is not open today](https://afflift.com/f/threads/the-propellerads-website-is-not-open-today.11885/)
 -  27 [Crypto &quot;make money&quot; type offer JV : up to 1100 CPA](https://afflift.com/f/threads/crypto-make-money-type-offer-jv-up-to-1100-cpa.11884/)
 -  27 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
 -  27 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
@@ -31,8 +32,7 @@
 -  27 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  27 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
 -  27 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  27 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  27 [Having issues testing monetizer offers](https://afflift.com/f/threads/having-issues-testing-monetizer-offers.11881/)<!-- afflift:END -->
+-  27 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
