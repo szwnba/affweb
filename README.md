@@ -10,8 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  28 [半年12万，我是如何通过个人博客变现的](https://www.advertcn.com/forum.php?mod=viewthread&tid=112732)
--  28 [midjourney啥时间不让免费用了？刚发现](https://www.advertcn.com/forum.php?mod=viewthread&tid=112731)<!-- advertcn:END -->
+-  29 [免费送 RedotPay KYC账号 限开实体卡](https://www.advertcn.com/forum.php?mod=viewthread&tid=112738)
+-  29 [寻找一个wordpress目录插件](https://www.advertcn.com/forum.php?mod=viewthread&tid=112736)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
