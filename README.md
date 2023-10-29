@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
 -  29 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)
 -  29 [Iraq campaign on Adsterra follow allong](https://afflift.com/f/threads/iraq-campaign-on-adsterra-follow-allong.11848/)
 -  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
@@ -31,8 +32,7 @@
 -  29 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
 -  28 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  28 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  28 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  28 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)<!-- afflift:END -->
+-  28 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
