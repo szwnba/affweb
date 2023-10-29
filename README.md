@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Hello!](https://afflift.com/f/threads/hello.11891/)
 -  29 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  29 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  29 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
@@ -31,8 +32,7 @@
 -  29 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  29 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  29 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)
--  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
--  29 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)<!-- afflift:END -->
+-  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
