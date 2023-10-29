@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Negative Campaign Budget on PopAds](https://afflift.com/f/threads/negative-campaign-budget-on-popads.11890/)
+-  29 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/)
+-  29 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  29 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  29 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  29 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  29 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)
--  29 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  29 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
 -  29 [Iraq campaign on Adsterra follow allong](https://afflift.com/f/threads/iraq-campaign-on-adsterra-follow-allong.11848/)
 -  29 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
--  29 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
--  29 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/)
--  29 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
+-  29 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
