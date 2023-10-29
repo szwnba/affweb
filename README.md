@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  29 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  29 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/)
 -  29 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
@@ -34,8 +35,7 @@
 -  28 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  28 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  28 [Problem about Zeydoo postback url.](https://afflift.com/f/threads/problem-about-zeydoo-postback-url.11886/)
--  28 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
--  28 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
+-  28 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
