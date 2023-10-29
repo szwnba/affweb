@@ -39,4 +39,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  28 [识图：在茫茫手机相册中精准定位想要照片](https://sspai.com/post/83441)<!-- sspai:END -->
+-  29 [如何用 Make 自动化将即刻动态同步到 Notion](https://sspai.com/post/83490)<!-- sspai:END -->
