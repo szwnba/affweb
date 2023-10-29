@@ -21,9 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Iraq campaign on Adsterra follow allong](https://afflift.com/f/threads/iraq-campaign-on-adsterra-follow-allong.11848/)
+-  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  29 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)
 -  29 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)
--  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  29 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  29 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/)
 -  29 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
@@ -31,8 +32,7 @@
 -  28 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  28 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  28 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  28 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  28 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)<!-- afflift:END -->
+-  28 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
