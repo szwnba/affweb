@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
+-  30 [Hello !](https://afflift.com/f/threads/hello.11873/)
 -  30 [My beginnings, let&#39;s start!](https://afflift.com/f/threads/my-beginnings-lets-start.11877/)
 -  30 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  30 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
@@ -29,9 +31,7 @@
 -  30 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
 -  30 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  29 [Hello!](https://afflift.com/f/threads/hello.11891/)
--  29 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  29 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  29 [Negative Campaign Budget on PopAds](https://afflift.com/f/threads/negative-campaign-budget-on-popads.11890/)<!-- afflift:END -->
+-  29 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
