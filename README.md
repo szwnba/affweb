@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
+-  30 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
 -  30 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  30 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
+-  30 [Hello !](https://afflift.com/f/threads/hello.11873/)
 -  30 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  30 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  30 [protecting landing page](https://afflift.com/f/threads/protecting-landing-page.11838/)
--  30 [Hello !](https://afflift.com/f/threads/hello.11873/)
 -  30 [My beginnings, let&#39;s start!](https://afflift.com/f/threads/my-beginnings-lets-start.11877/)
 -  30 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
--  30 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  30 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
--  30 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
--  30 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
--  29 [Hello!](https://afflift.com/f/threads/hello.11891/)<!-- afflift:END -->
+-  30 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
