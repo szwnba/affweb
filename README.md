@@ -10,7 +10,6 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  29 [免费送 RedotPay KYC账号 限开实体卡](https://www.advertcn.com/forum.php?mod=viewthread&tid=112738)
 -  29 [寻找一个wordpress目录插件](https://www.advertcn.com/forum.php?mod=viewthread&tid=112736)<!-- advertcn:END -->
 
 ### zhihu
