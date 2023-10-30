@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Full Time Affiliate Marketer From Malaysia](https://afflift.com/f/threads/full-time-affiliate-marketer-from-malaysia.11738/)
 -  30 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  30 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
 -  30 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
@@ -30,8 +31,7 @@
 -  29 [Negative Campaign Budget on PopAds](https://afflift.com/f/threads/negative-campaign-budget-on-popads.11890/)
 -  29 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/)
 -  29 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
--  29 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  29 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)<!-- afflift:END -->
+-  29 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
