@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  30 [Look what I found...](https://afflift.com/f/threads/look-what-i-found.11895/)
+-  30 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  30 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  30 [😐 Concerns about Data Privacy with Voluum - Seeking Opinions](https://afflift.com/f/threads/%F0%9F%98%90-concerns-about-data-privacy-with-voluum-seeking-opinions.11897/)
 -  30 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  30 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
--  30 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  30 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  30 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)
 -  30 [Zeydoo lowered the rate of US geo. How can one promote?](https://afflift.com/f/threads/zeydoo-lowered-the-rate-of-us-geo-how-can-one-promote.11894/)
 -  30 [CASE STUDY: 146% ROI ON UTILITIES AND PUSH ADS](https://afflift.com/f/threads/case-study-146-roi-on-utilities-and-push-ads.11865/)
--  30 [Hello!](https://afflift.com/f/threads/hello.11891/)
--  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  30 [Hello!](https://afflift.com/f/threads/hello.11891/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
