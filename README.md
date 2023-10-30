@@ -10,8 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  29 [招谷歌个户投放高手](https://www.advertcn.com/forum.php?mod=viewthread&tid=112740)
--  29 [寻找一个wordpress目录插件](https://www.advertcn.com/forum.php?mod=viewthread&tid=112736)<!-- advertcn:END -->
+-  30 [屏蔽同⾏查看你Shopify店铺的热销产品](https://www.advertcn.com/forum.php?mod=viewthread&tid=112742)
+-  29 [招谷歌个户投放高手](https://www.advertcn.com/forum.php?mod=viewthread&tid=112740)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
