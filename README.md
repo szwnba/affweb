@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
+-  30 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
+-  30 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
+-  30 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  29 [Hello!](https://afflift.com/f/threads/hello.11891/)
 -  29 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  29 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  29 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
 -  29 [Negative Campaign Budget on PopAds](https://afflift.com/f/threads/negative-campaign-budget-on-popads.11890/)
--  29 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
--  29 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  29 [greetings from China](https://afflift.com/f/threads/greetings-from-china.11085/)
 -  29 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  29 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  29 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)
--  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)<!-- afflift:END -->
+-  29 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
