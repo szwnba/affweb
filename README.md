@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  25 [北京移动免费领取云电脑4核8G内存80G磁盘，有效期1年](https://51.ruyo.net/18513.html)<!-- ruyo:END -->
+-  30 [远程控制软件RustDesk自建服务器全平台部署及使用教程](https://51.ruyo.net/18517.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
