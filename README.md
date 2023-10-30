@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  30 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  30 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
+-  30 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
+-  30 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
+-  30 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  30 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  30 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
 -  30 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  30 [Problem about Zeydoo postback url.](https://afflift.com/f/threads/problem-about-zeydoo-postback-url.11886/)
 -  30 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  30 [Which one should I choose? Dating or Adult](https://afflift.com/f/threads/which-one-should-i-choose-dating-or-adult.11776/)
 -  30 [CONVERSION-MAGNET CHECK-LIST FOR AFFILIATE MARKETERS](https://afflift.com/f/threads/conversion-magnet-check-list-for-affiliate-marketers.11882/)
--  30 [Hello!](https://afflift.com/f/threads/hello.11891/)
--  30 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
--  30 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
--  30 [Hello !](https://afflift.com/f/threads/hello.11873/)<!-- afflift:END -->
+-  30 [Hello!](https://afflift.com/f/threads/hello.11891/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
