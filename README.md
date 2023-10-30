@@ -36,5 +36,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  30 [Keyboard Maestro 11 更新，这些功能值得关注](https://sspai.com/post/83932)
--  30 [派早报：X 新增两档订阅方案，多部门负责人解读未成年人网络保护条例](https://sspai.com/post/83931)
--  29 [如何用 Make 自动化将即刻动态同步到 Notion](https://sspai.com/post/83490)<!-- sspai:END -->
+-  30 [派早报：X 新增两档订阅方案，多部门负责人解读未成年人网络保护条例](https://sspai.com/post/83931)<!-- sspai:END -->
