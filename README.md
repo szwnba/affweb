@@ -36,5 +36,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [直播 | 不讲干货只聊天，今晚来看少数派的双十一「科技故事会」](https://sspai.com/post/83934)
 -  30 [Keyboard Maestro 11 更新，这些功能值得关注](https://sspai.com/post/83932)
 -  30 [派早报：X 新增两档订阅方案，多部门负责人解读未成年人网络保护条例](https://sspai.com/post/83931)<!-- sspai:END -->
