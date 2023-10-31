@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  30 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
 -  30 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  30 [Look what I found...](https://afflift.com/f/threads/look-what-i-found.11895/)
@@ -30,8 +31,7 @@
 -  30 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
 -  30 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  30 [Facebook Page Monetization: Subscriptions](https://afflift.com/f/threads/facebook-page-monetization-subscriptions.11611/)
--  30 [Zeydoo lowered the rate of US geo. How can one promote?](https://afflift.com/f/threads/zeydoo-lowered-the-rate-of-us-geo-how-can-one-promote.11894/)
--  30 [CASE STUDY: 146% ROI ON UTILITIES AND PUSH ADS](https://afflift.com/f/threads/case-study-146-roi-on-utilities-and-push-ads.11865/)<!-- afflift:END -->
+-  30 [Zeydoo lowered the rate of US geo. How can one promote?](https://afflift.com/f/threads/zeydoo-lowered-the-rate-of-us-geo-how-can-one-promote.11894/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
