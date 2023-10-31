@@ -20,10 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  31 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  31 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  30 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
--  30 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  30 [Look what I found...](https://afflift.com/f/threads/look-what-i-found.11895/)
 -  30 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  30 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
