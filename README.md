@@ -10,9 +10,11 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  31 [OFFER 禁止流量，这些是啥意思](https://www.advertcn.com/forum.php?mod=viewthread&tid=112762)
 -  31 [双十一可以买点什么玩玩](https://www.advertcn.com/forum.php?mod=viewthread&tid=112760)
+-  31 [看到个案件 FB盗刷给判10年](https://www.advertcn.com/forum.php?mod=viewthread&tid=112759)
 -  31 [现在fb的us区 做独立站，广告一个点击要几刀左右了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112757)
--  30 [招聘帖-LeadsMarket招AM啦！](https://www.advertcn.com/forum.php?mod=viewthread&tid=112746)<!-- advertcn:END -->
+-  31 [Taboola FB 黑5 offer开户](https://www.advertcn.com/forum.php?mod=viewthread&tid=112754)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
