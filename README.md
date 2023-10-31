@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  30 [屏蔽同⾏查看你Shopify店铺的热销产品](https://www.advertcn.com/forum.php?mod=viewthread&tid=112742)
--  29 [招谷歌个户投放高手](https://www.advertcn.com/forum.php?mod=viewthread&tid=112740)<!-- advertcn:END -->
+-  30 [屏蔽同⾏查看你Shopify店铺的热销产品](https://www.advertcn.com/forum.php?mod=viewthread&tid=112742)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
