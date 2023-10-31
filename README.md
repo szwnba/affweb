@@ -38,5 +38,4 @@
 -  31 [一图流 | Apple 十月新品发布会回顾](https://sspai.com/post/83978)
 -  31 [Apple 发布会回顾：M3 系列芯片亮相，Mac 推出新配色](https://sspai.com/post/83976)
 -  31 [派早报：Apple 举办 Mac 新品特别活动，Windows 11 发布补丁等](https://sspai.com/post/83975)
--  30 [派评 | 近期值得关注的 App](https://sspai.com/post/83965)
--  30 [Keyboard Maestro 11 更新，这些功能值得关注](https://sspai.com/post/83932)<!-- sspai:END -->
+-  30 [派评 | 近期值得关注的 App](https://sspai.com/post/83965)<!-- sspai:END -->
