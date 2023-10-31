@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  31 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
--  31 [Campaign Audience Reach: New Targeting Option for Onclick CPM](https://afflift.com/f/threads/campaign-audience-reach-new-targeting-option-for-onclick-cpm.11903/)
--  31 [Match-Made in Affiliate Heaven: Singles Day Specials!](https://afflift.com/f/threads/match-made-in-affiliate-heaven-singles-day-specials.11902/)
--  31 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
+-  31 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  31 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  31 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
--  31 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  31 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
+-  31 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
+-  31 [Facebook&#39;s New Ad-Free Subscription in Europe: Worth the Price or Not?](https://afflift.com/f/threads/facebooks-new-ad-free-subscription-in-europe-worth-the-price-or-not.11904/)
 -  31 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
--  31 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  31 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  31 [HELLO 👋, I AM JARAMIE OUT OF SACRAMENTO CALIFORNIA I AM A  PROFESSIONAL AFFILIATE MARKETER PROFESSIONAL SALES ASSOCIATE.](https://afflift.com/f/threads/hello-%F0%9F%91%8B-i-am-jaramie-out-of-sacramento-california-i-am-a-professional-affiliate-marketer-professional-sales-associate.11900/)<!-- afflift:END -->
+-  31 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
+-  31 [Campaign Audience Reach: New Targeting Option for Onclick CPM](https://afflift.com/f/threads/campaign-audience-reach-new-targeting-option-for-onclick-cpm.11903/)
+-  31 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)
+-  31 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
+-  31 [Match-Made in Affiliate Heaven: Singles Day Specials!](https://afflift.com/f/threads/match-made-in-affiliate-heaven-singles-day-specials.11902/)
+-  31 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
+-  31 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
