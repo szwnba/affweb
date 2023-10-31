@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  31 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  31 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
 -  31 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
@@ -32,8 +33,7 @@
 -  31 [HELLO 👋, I AM JARAMIE OUT OF SACRAMENTO CALIFORNIA I AM A  PROFESSIONAL AFFILIATE MARKETER PROFESSIONAL SALES ASSOCIATE.](https://afflift.com/f/threads/hello-%F0%9F%91%8B-i-am-jaramie-out-of-sacramento-california-i-am-a-professional-affiliate-marketer-professional-sales-associate.11900/)
 -  31 [Zeydoo lowered the rate of US geo. How can one promote?](https://afflift.com/f/threads/zeydoo-lowered-the-rate-of-us-geo-how-can-one-promote.11894/)
 -  31 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  31 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)
--  31 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)<!-- afflift:END -->
+-  31 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
