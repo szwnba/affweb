@@ -35,5 +35,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [派早报：Apple 举办 Mac 新品特别活动，Windows 11 发布补丁等](https://sspai.com/post/83975)
 -  30 [派评 | 近期值得关注的 App](https://sspai.com/post/83965)
 -  30 [Keyboard Maestro 11 更新，这些功能值得关注](https://sspai.com/post/83932)<!-- sspai:END -->
