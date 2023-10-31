@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  30 [屏蔽同⾏查看你Shopify店铺的热销产品](https://www.advertcn.com/forum.php?mod=viewthread&tid=112742)<!-- advertcn:END -->
+-  30 [招聘帖-LeadsMarket招AM啦！](https://www.advertcn.com/forum.php?mod=viewthread&tid=112746)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
