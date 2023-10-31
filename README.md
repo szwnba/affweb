@@ -36,5 +36,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  30 [派评 | 近期值得关注的 App](https://sspai.com/post/83965)
--  30 [Keyboard Maestro 11 更新，这些功能值得关注](https://sspai.com/post/83932)
--  30 [派早报：X 新增两档订阅方案，多部门负责人解读未成年人网络保护条例](https://sspai.com/post/83931)<!-- sspai:END -->
+-  30 [Keyboard Maestro 11 更新，这些功能值得关注](https://sspai.com/post/83932)<!-- sspai:END -->
