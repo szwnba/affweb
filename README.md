@@ -37,8 +37,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [双十一 | 给你的钱包「加点魔法」，来看看派商店的双十一大促](https://sspai.com/post/83933)
 -  31 [社区速递 018 | 秋日 EDC、自己做 App 和作者们的新玩意](https://sspai.com/post/83994)
 -  31 [家的日志 | 如何构建智能家居系统，这些是我的经验和思考](https://sspai.com/post/83936)
 -  31 [一图流 | Apple 十月新品发布会回顾](https://sspai.com/post/83978)
--  31 [Apple 发布会回顾：M3 系列芯片亮相，Mac 推出新配色](https://sspai.com/post/83976)
--  31 [派早报：Apple 举办 Mac 新品特别活动，Windows 11 发布补丁等](https://sspai.com/post/83975)<!-- sspai:END -->
+-  31 [Apple 发布会回顾：M3 系列芯片亮相，Mac 推出新配色](https://sspai.com/post/83976)<!-- sspai:END -->
