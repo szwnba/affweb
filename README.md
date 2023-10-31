@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Mastering Monetizer Smartlinks &lpar;WW &amp; Targeted Links&rpar;](https://afflift.com/f/threads/mastering-monetizer-smartlinks-ww-targeted-links.6786/)
 -  31 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
 -  31 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
 -  31 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
@@ -34,8 +35,7 @@
 -  31 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  31 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  31 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
--  31 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  31 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)<!-- afflift:END -->
+-  31 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
