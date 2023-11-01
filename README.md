@@ -39,8 +39,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [派早报：微软推送 Windows 11 23H2 更新、多平台宣布推进「自媒体」账号实名等](https://sspai.com/post/84019)
 -  31 [共创 | 飞傲 HiFi 音乐机械键盘：音乐体验该升级了！](https://sspai.com/post/84005)
 -  31 [双十一 | 给你的钱包「加点魔法」，来看看派商店的双十一大促](https://sspai.com/post/83933)
 -  31 [社区速递 018 | 秋日 EDC、自己做 App 和作者们的新玩意](https://sspai.com/post/83994)
--  31 [家的日志 | 如何构建智能家居系统，这些是我的经验和思考](https://sspai.com/post/83936)
--  31 [一图流 | Apple 十月新品发布会回顾](https://sspai.com/post/83978)<!-- sspai:END -->
+-  31 [家的日志 | 如何构建智能家居系统，这些是我的经验和思考](https://sspai.com/post/83936)<!-- sspai:END -->
