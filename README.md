@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  30 [远程控制软件RustDesk自建服务器全平台部署及使用教程](https://51.ruyo.net/18517.html)<!-- ruyo:END -->
+-  01 [阿里云优惠活动汇总以及购买指南技巧&lpar;长期更新&rpar;](https://51.ruyo.net/18526.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
