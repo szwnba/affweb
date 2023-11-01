@@ -42,8 +42,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [本月玩什么 | 心灵杀手 2、漫威蜘蛛侠 2、Saltsea Chronicles……](https://sspai.com/post/84018)
 -  01 [众测 | 先享体验计划第一期产品揭晓，立即报名体验小米 14 Pro](https://sspai.com/post/84014)
 -  01 [为了记录过去，我做了个 Windows 版的 Rewind：捕风记录仪](https://sspai.com/post/83590)
 -  01 [派早报：微软推送 Windows 11 23H2 更新、多平台宣布推进「自媒体」账号实名等](https://sspai.com/post/84019)
--  31 [共创 | 飞傲 HiFi 音乐机械键盘：音乐体验该升级了！](https://sspai.com/post/84005)
--  31 [双十一 | 给你的钱包「加点魔法」，来看看派商店的双十一大促](https://sspai.com/post/83933)<!-- sspai:END -->
+-  31 [共创 | 飞傲 HiFi 音乐机械键盘：音乐体验该升级了！](https://sspai.com/post/84005)<!-- sspai:END -->
