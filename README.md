@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  01 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
--  01 [Have You Ever Been on a Jury?](https://afflift.com/f/threads/have-you-ever-been-on-a-jury.11917/)
--  01 [Bemob Showing Zero Data](https://afflift.com/f/threads/bemob-showing-zero-data.11912/)
--  01 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
--  01 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
--  01 [MASTERING ADVERTISING CAMPAIGNS: A COMPREHENSIVE GUIDE TO ONCLICKA&#39;S SELF-SERVE AD PLATFORM](https://afflift.com/f/threads/mastering-advertising-campaigns-a-comprehensive-guide-to-onclickas-self-serve-ad-platform.11918/)
--  01 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  01 [Hello Afflift](https://afflift.com/f/threads/hello-afflift.11913/)
--  01 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/)
 -  01 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
+-  01 [Propeller Ads With Pin Submit Offer 💀 &quot;#PA10k&quot;](https://afflift.com/f/threads/propeller-ads-with-pin-submit-offer-%F0%9F%92%80-pa10k.8917/)
 -  01 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  01 [Ads Transparency Center: How Useful Is Google Ads’ Internal Spy Tool For Affiliate Marketers?](https://afflift.com/f/threads/ads-transparency-center-how-useful-is-google-ads%E2%80%99-internal-spy-tool-for-affiliate-marketers.11916/)<!-- afflift:END -->
+-  01 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
+-  01 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
+-  01 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
+-  01 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
+-  01 [Hello Afflift](https://afflift.com/f/threads/hello-afflift.11913/)
+-  01 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  01 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  01 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
+-  01 [Have You Ever Been on a Jury?](https://afflift.com/f/threads/have-you-ever-been-on-a-jury.11917/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
