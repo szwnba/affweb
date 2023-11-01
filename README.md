@@ -24,18 +24,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Campaign Audience Reach: New Targeting Option for Onclick CPM](https://afflift.com/f/threads/campaign-audience-reach-new-targeting-option-for-onclick-cpm.11903/)
+-  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
+-  01 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
+-  01 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
 -  01 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
 -  01 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  01 [Bemob Showing Zero Data](https://afflift.com/f/threads/bemob-showing-zero-data.11912/)
 -  01 [Hello Afflift](https://afflift.com/f/threads/hello-afflift.11913/)
 -  01 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
--  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  01 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
 -  31 [Mastering Monetizer Smartlinks &lpar;WW &amp; Targeted Links&rpar;](https://afflift.com/f/threads/mastering-monetizer-smartlinks-ww-targeted-links.6786/)
 -  31 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
--  31 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  31 [Spy on Desktop Pops &quot;AdplexityDesktop Vs Anstrex Pops&quot;](https://afflift.com/f/threads/spy-on-desktop-pops-adplexitydesktop-vs-anstrex-pops.11911/)
--  31 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)<!-- afflift:END -->
+-  31 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
