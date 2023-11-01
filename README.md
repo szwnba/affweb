@@ -13,8 +13,7 @@
 -  01 [油管发视频赚钱了，月入万刀，想学的进](https://www.advertcn.com/forum.php?mod=viewthread&tid=112772)
 -  01 [关于点损的问题求助](https://www.advertcn.com/forum.php?mod=viewthread&tid=112769)
 -  01 [百度seo黄了吗?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112768)
--  01 [别再相信facebook广告的各处跨境培训忽悠了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112766)
--  31 [专业 KETO/CBD CPA 联盟 - Jumbleberry](https://www.advertcn.com/forum.php?mod=viewthread&tid=112765)<!-- advertcn:END -->
+-  01 [别再相信facebook广告的各处跨境培训忽悠了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112766)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
