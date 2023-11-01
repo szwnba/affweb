@@ -24,6 +24,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Binom v2 Install and Initial Setup](https://afflift.com/f/threads/binom-v2-install-and-initial-setup.11914/)
+-  01 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)
 -  01 [Campaign Audience Reach: New Targeting Option for Onclick CPM](https://afflift.com/f/threads/campaign-audience-reach-new-targeting-option-for-onclick-cpm.11903/)
 -  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  01 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
@@ -33,9 +35,7 @@
 -  01 [Bemob Showing Zero Data](https://afflift.com/f/threads/bemob-showing-zero-data.11912/)
 -  01 [Hello Afflift](https://afflift.com/f/threads/hello-afflift.11913/)
 -  01 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
--  31 [Mastering Monetizer Smartlinks &lpar;WW &amp; Targeted Links&rpar;](https://afflift.com/f/threads/mastering-monetizer-smartlinks-ww-targeted-links.6786/)
--  31 [Propeller Ads Question](https://afflift.com/f/threads/propeller-ads-question.11854/)
--  31 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
+-  31 [Mastering Monetizer Smartlinks &lpar;WW &amp; Targeted Links&rpar;](https://afflift.com/f/threads/mastering-monetizer-smartlinks-ww-targeted-links.6786/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
