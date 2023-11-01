@@ -39,8 +39,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [为了记录过去，我做了个 Windows 版的 Rewind：捕风记录仪](https://sspai.com/post/83590)
 -  01 [派早报：微软推送 Windows 11 23H2 更新、多平台宣布推进「自媒体」账号实名等](https://sspai.com/post/84019)
 -  31 [共创 | 飞傲 HiFi 音乐机械键盘：音乐体验该升级了！](https://sspai.com/post/84005)
 -  31 [双十一 | 给你的钱包「加点魔法」，来看看派商店的双十一大促](https://sspai.com/post/83933)
--  31 [社区速递 018 | 秋日 EDC、自己做 App 和作者们的新玩意](https://sspai.com/post/83994)
--  31 [家的日志 | 如何构建智能家居系统，这些是我的经验和思考](https://sspai.com/post/83936)<!-- sspai:END -->
+-  31 [社区速递 018 | 秋日 EDC、自己做 App 和作者们的新玩意](https://sspai.com/post/83994)<!-- sspai:END -->
