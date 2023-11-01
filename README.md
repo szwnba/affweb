@@ -24,6 +24,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/)
 -  01 [Have You Ever Been on a Jury?](https://afflift.com/f/threads/have-you-ever-been-on-a-jury.11917/)
 -  01 [Hello Afflift](https://afflift.com/f/threads/hello-afflift.11913/)
 -  01 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
@@ -34,8 +35,7 @@
 -  01 [How to Choose the Right Hosting for Monetization with Push Notifications](https://afflift.com/f/threads/how-to-choose-the-right-hosting-for-monetization-with-push-notifications.11915/)
 -  01 [Mastering Monetizer Smartlinks &lpar;WW &amp; Targeted Links&rpar;](https://afflift.com/f/threads/mastering-monetizer-smartlinks-ww-targeted-links.6786/)
 -  01 [Binom v2 Install and Initial Setup](https://afflift.com/f/threads/binom-v2-install-and-initial-setup.11914/)
--  01 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)
--  01 [Campaign Audience Reach: New Targeting Option for Onclick CPM](https://afflift.com/f/threads/campaign-audience-reach-new-targeting-option-for-onclick-cpm.11903/)<!-- afflift:END -->
+-  01 [How to choose Push Audiences?](https://afflift.com/f/threads/how-to-choose-push-audiences.11888/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
