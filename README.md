@@ -10,10 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  01 [油管发视频赚钱了，月入万刀，想学的进](https://www.advertcn.com/forum.php?mod=viewthread&tid=112772)
--  01 [关于点损的问题求助](https://www.advertcn.com/forum.php?mod=viewthread&tid=112769)
--  01 [百度seo黄了吗?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112768)
--  01 [别再相信facebook广告的各处跨境培训忽悠了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112766)<!-- advertcn:END -->
+-  01 [问个小白问题,如果能用谷歌搜jms关键词,他还需要jms干嘛](https://www.advertcn.com/forum.php?mod=viewthread&tid=112786)
+-  01 [油管发视频赚钱了，月入万刀，想学的进](https://www.advertcn.com/forum.php?mod=viewthread&tid=112772)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
