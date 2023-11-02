@@ -21,7 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  01 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
+-  02 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  01 [Mastering Monetizer Smartlinks &lpar;WW &amp; Targeted Links&rpar;](https://afflift.com/f/threads/mastering-monetizer-smartlinks-ww-targeted-links.6786/)
 -  01 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
 -  01 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
