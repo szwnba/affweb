@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  02 [派早报：vivo 召开 2023 年开发者大会、PubScholar 公益学术平台上线等](https://sspai.com/post/84068)
 -  01 [付费栏目的省钱饱和攻击：新作上架，全场满赠，买一送一，90 天保价](https://sspai.com/post/84028)
 -  01 [陌生而有趣的训练伙伴——壶铃和药球使用指南](https://sspai.com/prime/story/kettelbells-medicine-balls-training-guide)
 -  01 [日本浮生录 03：纵横北海道，1100 公里的道东寻秋之旅](https://sspai.com/post/83972)
--  01 [本月玩什么 | 心灵杀手 2、漫威蜘蛛侠 2、Saltsea Chronicles……](https://sspai.com/post/84018)
--  01 [众测 | 先享体验计划第一期产品揭晓，立即报名体验小米 14 Pro](https://sspai.com/post/84014)<!-- sspai:END -->
+-  01 [本月玩什么 | 心灵杀手 2、漫威蜘蛛侠 2、Saltsea Chronicles……](https://sspai.com/post/84018)<!-- sspai:END -->
