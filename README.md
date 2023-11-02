@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [The original push notification](https://afflift.com/f/threads/the-original-push-notification.11922/)
 -  02 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
+-  02 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  02 [Adport, best CPC/CPM network!](https://afflift.com/f/threads/adport-best-cpc-cpm-network.11907/)
 -  02 [RichAds: Premium push, popunders, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-popunders-in-page-calendar-direct-click-native-traffic.991/)
 -  02 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
--  02 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  02 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
 -  02 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  02 [How To Turn Off Devices On Google?](https://afflift.com/f/threads/how-to-turn-off-devices-on-google.11920/)
 -  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  02 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  02 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
--  02 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)<!-- afflift:END -->
+-  02 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
