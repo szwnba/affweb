@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
 -  02 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  02 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
 -  02 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
@@ -31,8 +32,7 @@
 -  02 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
 -  02 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  02 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
--  02 [Have You Ever Been on a Jury?](https://afflift.com/f/threads/have-you-ever-been-on-a-jury.11917/)
--  02 [Golden Goose follow along](https://afflift.com/f/threads/golden-goose-follow-along.11821/)<!-- afflift:END -->
+-  02 [Have You Ever Been on a Jury?](https://afflift.com/f/threads/have-you-ever-been-on-a-jury.11917/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
