@@ -39,5 +39,4 @@
 -  02 [视频栏目 | 张哲学·科技博主的盈利课：体面地用爱好赚出第一桶金](https://sspai.com/post/84083)
 -  02 [新玩意 163｜少数派的编辑们最近买了啥？](https://sspai.com/post/84088)
 -  02 [App+1 | 给你不受语言限制、无需繁琐操作的冲浪体验：沉浸式翻译](https://sspai.com/post/83943)
--  02 [车到用时不恨少：日本共享汽车服务观察](https://sspai.com/post/83639)
--  02 [派早报：vivo 召开 2023 年开发者大会、PubScholar 公益学术平台上线等](https://sspai.com/post/84068)<!-- sspai:END -->
+-  02 [车到用时不恨少：日本共享汽车服务观察](https://sspai.com/post/83639)<!-- sspai:END -->
