@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
+-  03 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
+-  03 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
+-  03 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  03 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/)
 -  03 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
 -  03 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  03 [Suggestion needed how to work with higher cpm zones](https://afflift.com/f/threads/suggestion-needed-how-to-work-with-higher-cpm-zones.11931/)
 -  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  03 [Help me stop getting email spammed to death 💀 🙏](https://afflift.com/f/threads/help-me-stop-getting-email-spammed-to-death-%F0%9F%92%80-%F0%9F%99%8F.11932/)
 -  03 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
--  03 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
--  03 [Step 8 - Create Your BeMob Campaign&lpar;s&rpar;](https://afflift.com/f/threads/step-8-create-your-bemob-campaign-s.7479/)
--  03 [I have collected 32,000 push subscribers. How can I monetize this audience?](https://afflift.com/f/threads/i-have-collected-32-000-push-subscribers-how-can-i-monetize-this-audience.11928/)
--  03 [Hello World! Looking for affiliates](https://afflift.com/f/threads/hello-world-looking-for-affiliates.11934/)
--  03 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
--  03 [Noona HQ Affiliate Program: Earn 25% recurring commission](https://afflift.com/f/threads/noona-hq-affiliate-program-earn-25-recurring-commission.11933/)<!-- afflift:END -->
+-  03 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
