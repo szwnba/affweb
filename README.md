@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [你的下一台 Android 机，记得挑字幕没那么亮的](https://sspai.com/prime/story/android-hdr-display-issue-explained)
 -  03 [App+1 | Timestripe：打破日程表樊篱，多视角规划目标](https://sspai.com/post/83944)
 -  03 [一日一技 | 如何只用软件实现显示器的输入源切换](https://sspai.com/post/83908)
 -  03 [派早报：Microsoft 面向企业客户推出 365 Copilot](https://sspai.com/post/84098)
--  03 [初来温州问声好，Apple Store 新店抢先看](https://sspai.com/post/84084)
--  02 [视频栏目 | 张哲学·科技博主的盈利课：体面地用爱好赚出第一桶金](https://sspai.com/post/84083)<!-- sspai:END -->
+-  03 [初来温州问声好，Apple Store 新店抢先看](https://sspai.com/post/84084)<!-- sspai:END -->
