@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [NEWBIE need help](https://afflift.com/f/threads/newbie-need-help.11930/)
--  03 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
--  03 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)
--  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
--  03 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
--  03 [Trick to find webpages that use your script](https://afflift.com/f/threads/trick-to-find-webpages-that-use-your-script.11871/)
--  03 [Adport, best CPC/CPM network!](https://afflift.com/f/threads/adport-best-cpc-cpm-network.11907/)
--  03 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  03 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  03 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
 -  03 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  03 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
--  03 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)<!-- afflift:END -->
+-  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
+-  03 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  03 [NEWBIE need help](https://afflift.com/f/threads/newbie-need-help.11930/)
+-  03 [Suggestion needed how to work with higher cpm zones](https://afflift.com/f/threads/suggestion-needed-how-to-work-with-higher-cpm-zones.11931/)
+-  03 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
+-  03 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
+-  03 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
+-  03 [Search Arbitrage](https://afflift.com/f/threads/search-arbitrage.11289/)
+-  03 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
+-  03 [Trick to find webpages that use your script](https://afflift.com/f/threads/trick-to-find-webpages-that-use-your-script.11871/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
