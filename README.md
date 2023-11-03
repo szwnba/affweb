@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
+-  03 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
+-  03 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  03 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
+-  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
+-  03 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
+-  03 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  03 [I have collected 32,000 push subscribers. How can I monetize this audience?](https://afflift.com/f/threads/i-have-collected-32-000-push-subscribers-how-can-i-monetize-this-audience.11928/)
 -  03 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
 -  03 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  03 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
--  03 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
--  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
--  03 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
--  03 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
--  03 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)
--  03 [How Much Can You Make With Pop?](https://afflift.com/f/threads/how-much-can-you-make-with-pop.10960/)
--  03 [Wordpress Theme](https://afflift.com/f/threads/wordpress-theme.11003/)
--  03 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)<!-- afflift:END -->
+-  03 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
