@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [affiliate marketing IS NOT dead 💪](https://afflift.com/f/threads/affiliate-marketing-is-not-dead-%F0%9F%92%AA.6567/)
--  03 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/)
--  03 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
--  03 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  03 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
--  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
--  03 [Motivation as an affiliate](https://afflift.com/f/threads/motivation-as-an-affiliate.11835/)
--  03 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  03 [Have You Ever Been on a Jury?](https://afflift.com/f/threads/have-you-ever-been-on-a-jury.11917/)
--  03 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
--  03 [Bemob Showing Zero Data](https://afflift.com/f/threads/bemob-showing-zero-data.11912/)
--  03 [Is Anyone Struggling With Affiliate Marketing? I Have Good News!](https://afflift.com/f/threads/is-anyone-struggling-with-affiliate-marketing-i-have-good-news.11925/)<!-- afflift:END -->
+-  03 [Long Life Cycle Vertical/Offers Suitable for POP Traffic?](https://afflift.com/f/threads/long-life-cycle-vertical-offers-suitable-for-pop-traffic.11450/)
+-  03 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
+-  03 [What are your tricks to avoid fees during balance replenishment in ad networks?](https://afflift.com/f/threads/what-are-your-tricks-to-avoid-fees-during-balance-replenishment-in-ad-networks.11465/)
+-  03 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
+-  03 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
+-  03 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
+-  03 [Help me to make money online, please!](https://afflift.com/f/threads/help-me-to-make-money-online-please.11603/)
+-  03 [Suggestions for Security - Vultr with Cyber Panel](https://afflift.com/f/threads/suggestions-for-security-vultr-with-cyber-panel.11562/)
+-  03 [Need Some Suggestions about Start](https://afflift.com/f/threads/need-some-suggestions-about-start.11641/)
+-  03 [Questions about the traffic network balance](https://afflift.com/f/threads/questions-about-the-traffic-network-balance.11795/)
+-  03 [Affiliate World Asia Ticket On Sale!! 70% Off](https://afflift.com/f/threads/affiliate-world-asia-ticket-on-sale-70-off.10000/)
+-  03 [Adsterra x City Friends Club — Agios Georgios Coast Clean Up 2023!](https://afflift.com/f/threads/adsterra-x-city-friends-club-%E2%80%94-agios-georgios-coast-clean-up-2023.11801/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
