@@ -10,8 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  01 [问个小白问题,如果能用谷歌搜jms关键词,他还需要jms干嘛](https://www.advertcn.com/forum.php?mod=viewthread&tid=112786)
--  01 [油管发视频赚钱了，月入万刀，想学的进](https://www.advertcn.com/forum.php?mod=viewthread&tid=112772)<!-- advertcn:END -->
+-  02 [小弟的独立站GMV大增，怎么解决收款?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112792)
+-  02 [关于如何日入万刀的FAQ](https://www.advertcn.com/forum.php?mod=viewthread&tid=112790)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
