@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
+-  03 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  03 [Suggestion needed how to work with higher cpm zones](https://afflift.com/f/threads/suggestion-needed-how-to-work-with-higher-cpm-zones.11931/)
 -  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  03 [Help me stop getting email spammed to death 💀 🙏](https://afflift.com/f/threads/help-me-stop-getting-email-spammed-to-death-%F0%9F%92%80-%F0%9F%99%8F.11932/)
@@ -30,9 +32,7 @@
 -  03 [I have collected 32,000 push subscribers. How can I monetize this audience?](https://afflift.com/f/threads/i-have-collected-32-000-push-subscribers-how-can-i-monetize-this-audience.11928/)
 -  03 [Hello World! Looking for affiliates](https://afflift.com/f/threads/hello-world-looking-for-affiliates.11934/)
 -  03 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
--  03 [Noona HQ Affiliate Program: Earn 25% recurring commission](https://afflift.com/f/threads/noona-hq-affiliate-program-earn-25-recurring-commission.11933/)
--  03 [NEWBIE need help](https://afflift.com/f/threads/newbie-need-help.11930/)
--  03 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)<!-- afflift:END -->
+-  03 [Noona HQ Affiliate Program: Earn 25% recurring commission](https://afflift.com/f/threads/noona-hq-affiliate-program-earn-25-recurring-commission.11933/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
