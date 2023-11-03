@@ -36,8 +36,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [一日一技 | 如何只用软件实现显示器的输入源切换](https://sspai.com/post/83908)
 -  03 [派早报：Microsoft 面向企业客户推出 365 Copilot](https://sspai.com/post/84098)
 -  03 [初来温州问声好，Apple Store 新店抢先看](https://sspai.com/post/84084)
 -  02 [视频栏目 | 张哲学·科技博主的盈利课：体面地用爱好赚出第一桶金](https://sspai.com/post/84083)
--  02 [新玩意 163｜少数派的编辑们最近买了啥？](https://sspai.com/post/84088)
--  02 [App+1 | 给你不受语言限制、无需繁琐操作的冲浪体验：沉浸式翻译](https://sspai.com/post/83943)<!-- sspai:END -->
+-  02 [新玩意 163｜少数派的编辑们最近买了啥？](https://sspai.com/post/84088)<!-- sspai:END -->
