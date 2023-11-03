@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Long Life Cycle Vertical/Offers Suitable for POP Traffic?](https://afflift.com/f/threads/long-life-cycle-vertical-offers-suitable-for-pop-traffic.11450/)
--  03 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
--  03 [What are your tricks to avoid fees during balance replenishment in ad networks?](https://afflift.com/f/threads/what-are-your-tricks-to-avoid-fees-during-balance-replenishment-in-ad-networks.11465/)
--  03 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
+-  03 [I have collected 32,000 push subscribers. How can I monetize this audience?](https://afflift.com/f/threads/i-have-collected-32-000-push-subscribers-how-can-i-monetize-this-audience.11928/)
+-  03 [I need some guidance on optimizing](https://afflift.com/f/threads/i-need-some-guidance-on-optimizing.11788/)
+-  03 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  03 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
--  03 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
--  03 [Help me to make money online, please!](https://afflift.com/f/threads/help-me-to-make-money-online-please.11603/)
--  03 [Suggestions for Security - Vultr with Cyber Panel](https://afflift.com/f/threads/suggestions-for-security-vultr-with-cyber-panel.11562/)
--  03 [Need Some Suggestions about Start](https://afflift.com/f/threads/need-some-suggestions-about-start.11641/)
--  03 [Questions about the traffic network balance](https://afflift.com/f/threads/questions-about-the-traffic-network-balance.11795/)
--  03 [Affiliate World Asia Ticket On Sale!! 70% Off](https://afflift.com/f/threads/affiliate-world-asia-ticket-on-sale-70-off.10000/)
--  03 [Adsterra x City Friends Club — Agios Georgios Coast Clean Up 2023!](https://afflift.com/f/threads/adsterra-x-city-friends-club-%E2%80%94-agios-georgios-coast-clean-up-2023.11801/)<!-- afflift:END -->
+-  03 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
+-  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
+-  03 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
+-  03 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)
+-  03 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)
+-  03 [How Much Can You Make With Pop?](https://afflift.com/f/threads/how-much-can-you-make-with-pop.10960/)
+-  03 [Wordpress Theme](https://afflift.com/f/threads/wordpress-theme.11003/)
+-  03 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
