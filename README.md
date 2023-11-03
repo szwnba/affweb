@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
+-  03 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
 -  03 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
 -  03 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)
 -  03 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
@@ -30,9 +32,7 @@
 -  03 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  03 [Suggestion needed how to work with higher cpm zones](https://afflift.com/f/threads/suggestion-needed-how-to-work-with-higher-cpm-zones.11931/)
 -  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
--  03 [Help me stop getting email spammed to death 💀 🙏](https://afflift.com/f/threads/help-me-stop-getting-email-spammed-to-death-%F0%9F%92%80-%F0%9F%99%8F.11932/)
--  03 [Telegram Chat?](https://afflift.com/f/threads/telegram-chat.11283/)
--  03 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)<!-- afflift:END -->
+-  03 [Help me stop getting email spammed to death 💀 🙏](https://afflift.com/f/threads/help-me-stop-getting-email-spammed-to-death-%F0%9F%92%80-%F0%9F%99%8F.11932/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
