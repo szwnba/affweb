@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Have You Ever Been on a Jury?](https://afflift.com/f/threads/have-you-ever-been-on-a-jury.11917/)
+-  03 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  03 [Bemob Showing Zero Data](https://afflift.com/f/threads/bemob-showing-zero-data.11912/)
 -  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  03 [Is Anyone Struggling With Affiliate Marketing? I Have Good News!](https://afflift.com/f/threads/is-anyone-struggling-with-affiliate-marketing-i-have-good-news.11925/)
@@ -30,9 +32,7 @@
 -  02 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
 -  02 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
 -  02 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
--  02 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
--  02 [best search engine marketing spy tool?](https://afflift.com/f/threads/best-search-engine-marketing-spy-tool.11674/)
--  02 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)<!-- afflift:END -->
+-  02 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
