@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [NEWBIE need help](https://afflift.com/f/threads/newbie-need-help.11930/)
+-  03 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
+-  03 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
+-  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
+-  03 [Adport, best CPC/CPM network!](https://afflift.com/f/threads/adport-best-cpc-cpm-network.11907/)
+-  03 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
+-  03 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  03 [I have collected 32,000 push subscribers. How can I monetize this audience?](https://afflift.com/f/threads/i-have-collected-32-000-push-subscribers-how-can-i-monetize-this-audience.11928/)
 -  03 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
 -  03 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  03 [zeropark...anyone any luck? Can anyone share a success story in 2023?](https://afflift.com/f/threads/zeropark-anyone-any-luck-can-anyone-share-a-success-story-in-2023.11784/)
--  03 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  03 [SIDEKICK BROWSER WORKSPACE 🔥😍 INCREASE PRODUCTIVITY](https://afflift.com/f/threads/sidekick-browser-workspace-%F0%9F%94%A5%F0%9F%98%8D-increase-productivity.9613/)
--  03 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  03 [Slam Dunk Your NBA Advertising! 🏀🔥](https://afflift.com/f/threads/slam-dunk-your-nba-advertising-%F0%9F%8F%80%F0%9F%94%A5.11923/)
--  03 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
--  03 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
--  03 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
--  03 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)<!-- afflift:END -->
+-  03 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
