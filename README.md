@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [The original push notification](https://afflift.com/f/threads/the-original-push-notification.11922/)
+-  04 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  04 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
 -  04 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  04 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
@@ -30,9 +32,7 @@
 -  03 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  03 [Exploring Dating 💘🚀 | Unlocking Profit Potential! 💰🌏](https://afflift.com/f/threads/exploring-dating-%F0%9F%92%98%F0%9F%9A%80-unlocking-profit-potential-%F0%9F%92%B0%F0%9F%8C%8F.11752/)
 -  03 [NEWBIE need help](https://afflift.com/f/threads/newbie-need-help.11930/)
--  03 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
--  03 [What are you listening to now?](https://afflift.com/f/threads/what-are-you-listening-to-now.11843/)
--  03 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)<!-- afflift:END -->
+-  03 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
