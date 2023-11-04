@@ -10,8 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  02 [小弟的独立站GMV大增，怎么解决收款?](https://www.advertcn.com/forum.php?mod=viewthread&tid=112792)
--  02 [关于如何日入万刀的FAQ](https://www.advertcn.com/forum.php?mod=viewthread&tid=112790)<!-- advertcn:END -->
+-  04 [卖侵权产品有啥好的收款方式吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112808)
+-  04 [买外链被骗了，有啥招吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112807)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
