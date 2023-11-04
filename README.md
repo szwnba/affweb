@@ -39,5 +39,4 @@
 -  03 [本周看什么 | 最近值得一看的一大簇作品](https://sspai.com/post/84116)
 -  03 [你的下一台 Android 机，记得挑字幕没那么亮的](https://sspai.com/prime/story/android-hdr-display-issue-explained)
 -  03 [App+1 | Timestripe：打破日程表樊篱，多视角规划目标](https://sspai.com/post/83944)
--  03 [一日一技 | 如何只用软件实现显示器的输入源切换](https://sspai.com/post/83908)
--  03 [派早报：Microsoft 面向企业客户推出 365 Copilot](https://sspai.com/post/84098)<!-- sspai:END -->
+-  03 [一日一技 | 如何只用软件实现显示器的输入源切换](https://sspai.com/post/83908)<!-- sspai:END -->
