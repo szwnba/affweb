@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [I didn&#39;t set the tracking properly please help](https://afflift.com/f/threads/i-didnt-set-the-tracking-properly-please-help.11936/)
+-  04 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 -  04 [Help me stop getting email spammed to death 💀 🙏](https://afflift.com/f/threads/help-me-stop-getting-email-spammed-to-death-%F0%9F%92%80-%F0%9F%99%8F.11932/)
 -  04 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
 -  04 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
@@ -30,9 +32,7 @@
 -  04 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  04 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
 -  04 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
--  04 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
--  04 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
--  03 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)<!-- afflift:END -->
+-  04 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
