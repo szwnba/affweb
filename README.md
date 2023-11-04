@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
+-  04 [I didn&#39;t set the tracking properly please help](https://afflift.com/f/threads/i-didnt-set-the-tracking-properly-please-help.11936/)
 -  04 [Help me stop getting email spammed to death 💀 🙏](https://afflift.com/f/threads/help-me-stop-getting-email-spammed-to-death-%F0%9F%92%80-%F0%9F%99%8F.11932/)
 -  04 [Google Ads Banner Retargeting Campaign - $1 for 1 Week](https://afflift.com/f/threads/google-ads-banner-retargeting-campaign-1-for-1-week.9691/)
 -  04 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
--  04 [I didn&#39;t set the tracking properly please help](https://afflift.com/f/threads/i-didnt-set-the-tracking-properly-please-help.11936/)
 -  04 [I have collected 32,000 push subscribers. How can I monetize this audience?](https://afflift.com/f/threads/i-have-collected-32-000-push-subscribers-how-can-i-monetize-this-audience.11928/)
 -  04 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
 -  04 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 -  04 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
 -  04 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  04 [The original push notification](https://afflift.com/f/threads/the-original-push-notification.11922/)
--  04 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  04 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)<!-- afflift:END -->
+-  04 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
