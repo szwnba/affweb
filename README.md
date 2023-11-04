@@ -36,7 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [App+1 |  搭建本地版 Latex 编辑器，为你的毕业论文排版「减减负」](https://sspai.com/post/83982)
 -  04 [不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单](https://sspai.com/post/83991)
 -  03 [本周看什么 | 最近值得一看的一大簇作品](https://sspai.com/post/84116)
--  03 [你的下一台 Android 机，记得挑字幕没那么亮的](https://sspai.com/prime/story/android-hdr-display-issue-explained)
--  03 [App+1 | Timestripe：打破日程表樊篱，多视角规划目标](https://sspai.com/post/83944)<!-- sspai:END -->
+-  03 [你的下一台 Android 机，记得挑字幕没那么亮的](https://sspai.com/prime/story/android-hdr-display-issue-explained)<!-- sspai:END -->
