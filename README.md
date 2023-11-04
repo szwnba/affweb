@@ -21,9 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
 -  04 [The original push notification](https://afflift.com/f/threads/the-original-push-notification.11922/)
 -  04 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  04 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
 -  04 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  04 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
 -  04 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
