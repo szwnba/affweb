@@ -23,8 +23,8 @@
 ### afflift
 <!-- afflift:START -->
 -  05 [API leads](https://afflift.com/f/threads/api-leads.11943/)
--  05 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  05 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
+-  05 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  05 [What does Whitelabel offers mean in affiliate marketing?](https://afflift.com/f/threads/what-does-whitelabel-offers-mean-in-affiliate-marketing.11942/)
 -  05 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  05 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
