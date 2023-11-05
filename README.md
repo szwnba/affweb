@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
+-  04 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
+-  04 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  04 [Hi from a Forex affiliate](https://afflift.com/f/threads/hi-from-a-forex-affiliate.11941/)
--  04 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  04 [GDPR vs. what we do?](https://afflift.com/f/threads/gdpr-vs-what-we-do.11938/)
 -  04 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  04 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 -  04 [Hello Afflift](https://afflift.com/f/threads/hello-afflift.11913/)
--  04 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
 -  04 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
 -  04 [Google Ads Disapproved](https://afflift.com/f/threads/google-ads-disapproved.11937/)
 -  04 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  04 [I didn&#39;t set the tracking properly please help](https://afflift.com/f/threads/i-didnt-set-the-tracking-properly-please-help.11936/)
--  04 [Help me stop getting email spammed to death 💀 🙏](https://afflift.com/f/threads/help-me-stop-getting-email-spammed-to-death-%F0%9F%92%80-%F0%9F%99%8F.11932/)<!-- afflift:END -->
+-  04 [I didn&#39;t set the tracking properly please help](https://afflift.com/f/threads/i-didnt-set-the-tracking-properly-please-help.11936/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
