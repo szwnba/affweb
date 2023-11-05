@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  05 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  05 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
 -  05 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
@@ -32,8 +33,7 @@
 -  05 [Hi from a Forex affiliate](https://afflift.com/f/threads/hi-from-a-forex-affiliate.11941/)
 -  04 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
 -  04 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  04 [Hello Afflift](https://afflift.com/f/threads/hello-afflift.11913/)
--  04 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)<!-- afflift:END -->
+-  04 [Hello Afflift](https://afflift.com/f/threads/hello-afflift.11913/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
