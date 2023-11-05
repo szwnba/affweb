@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
+-  05 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
 -  05 [API leads](https://afflift.com/f/threads/api-leads.11943/)
 -  05 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
 -  05 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
@@ -31,9 +33,7 @@
 -  05 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  05 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  05 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
--  05 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
--  05 [GDPR vs. what we do?](https://afflift.com/f/threads/gdpr-vs-what-we-do.11938/)
--  05 [Hi from a Forex affiliate](https://afflift.com/f/threads/hi-from-a-forex-affiliate.11941/)<!-- afflift:END -->
+-  05 [GDPR vs. what we do?](https://afflift.com/f/threads/gdpr-vs-what-we-do.11938/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
