@@ -37,4 +37,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  04 [App+1 |  搭建本地版 Latex 编辑器，为你的毕业论文排版「减减负」](https://sspai.com/post/83982)<!-- sspai:END -->
+-  05 [一把试探无解之锁的「钥匙」：评 Kagi 搜索](https://sspai.com/post/84160)<!-- sspai:END -->
