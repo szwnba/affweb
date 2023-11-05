@@ -22,9 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  05 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
 -  05 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
--  05 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  05 [GDPR vs. what we do?](https://afflift.com/f/threads/gdpr-vs-what-we-do.11938/)
 -  05 [Hi from a Forex affiliate](https://afflift.com/f/threads/hi-from-a-forex-affiliate.11941/)
 -  04 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
