@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  05 [有美元的建议快抛了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112823)
--  05 [请教大家，工具站没人点广告，应该怎么破局？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112819)<!-- advertcn:END -->
+-  06 [欧洲经济区&lpar;EEA&rpar;、英国和加州流量的AdSense是不是毁灭性打击](https://www.advertcn.com/forum.php?mod=viewthread&tid=112834)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
