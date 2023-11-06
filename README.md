@@ -10,9 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  04 [登不进google play 商店，准备买只备用机再试，求推荐牌子.....](https://www.advertcn.com/forum.php?mod=viewthread&tid=112810)
--  04 [请问：VULTR里便宜的5刀的主机都不卖了吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112809)
--  04 [卖侵权产品有啥好的收款方式吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112808)<!-- advertcn:END -->
+-  05 [有美元的建议快抛了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112823)
+-  05 [请教大家，工具站没人点广告，应该怎么破局？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112819)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
