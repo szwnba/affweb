@@ -22,14 +22,14 @@
 ### afflift
 <!-- afflift:START -->
 -  06 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  06 [Popcash-request for sharing experience](https://afflift.com/f/threads/popcash-request-for-sharing-experience.11951/)
+-  06 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
+-  06 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  06 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
+-  06 [Popcash-request for sharing experience](https://afflift.com/f/threads/popcash-request-for-sharing-experience.11951/)
 -  06 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
 -  06 [My Journey 2 : Adsterra as a CPA Network #ADSTERRAx2](https://afflift.com/f/threads/my-journey-2-adsterra-as-a-cpa-network-adsterrax2.11959/)
 -  06 [My Journey 1 :Adsterra Network #ADSTERRAx2](https://afflift.com/f/threads/my-journey-1-adsterra-network-adsterrax2.11958/)
--  06 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
 -  06 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
--  06 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  06 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.11944/)
 -  06 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
 -  06 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)<!-- afflift:END -->
