@@ -36,5 +36,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [一日一技 | Mac 版 Word 下图片乱码的临时处理方法](https://sspai.com/post/84017)
 -  06 [派早报：年底前全国开机看直播、收费包压减 50%，xAI 公布聊天工具 Grok](https://sspai.com/post/84163)
 -  05 [一把试探无解之锁的「钥匙」：评 Kagi 搜索](https://sspai.com/post/84160)<!-- sspai:END -->
