@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
+-  06 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  06 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  06 [Step 8 - Creating Your PopAds Campaign](https://afflift.com/f/threads/step-8-creating-your-popads-campaign.2945/)
 -  06 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
@@ -30,9 +32,7 @@
 -  06 [My Journey 2 : Adsterra as a CPA Network #ADSTERRAx2](https://afflift.com/f/threads/my-journey-2-adsterra-as-a-cpa-network-adsterrax2.11959/)
 -  06 [My Journey 1 :Adsterra Network #ADSTERRAx2](https://afflift.com/f/threads/my-journey-1-adsterra-network-adsterrax2.11958/)
 -  06 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
--  06 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.11944/)
--  06 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
--  06 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)<!-- afflift:END -->
+-  06 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.11944/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
