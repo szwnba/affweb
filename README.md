@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/84194)
 -  06 [既要吃好也要健康，你可以从几件小事开始改变饮食习惯](https://sspai.com/post/84033)
 -  06 [一日一技 | Mac 版 Word 下图片乱码的临时处理方法](https://sspai.com/post/84017)
 -  06 [派早报：年底前全国开机看直播、收费包压减 50%，xAI 公布聊天工具 Grok](https://sspai.com/post/84163)
