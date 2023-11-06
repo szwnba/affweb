@@ -21,9 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
+-  06 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
 -  06 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  06 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
--  06 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
 -  05 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
 -  05 [API leads](https://afflift.com/f/threads/api-leads.11943/)
 -  05 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
@@ -31,8 +32,7 @@
 -  05 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  05 [What does Whitelabel offers mean in affiliate marketing?](https://afflift.com/f/threads/what-does-whitelabel-offers-mean-in-affiliate-marketing.11942/)
 -  05 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  05 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  05 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)<!-- afflift:END -->
+-  05 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
