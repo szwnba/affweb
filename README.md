@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Whitehat vs. Greyhat vs. Blackhat Affiliate Marketing](https://afflift.com/f/threads/whitehat-vs-greyhat-vs-blackhat-affiliate-marketing.11945/)
 -  06 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
 -  06 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  06 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
@@ -31,8 +32,7 @@
 -  06 [API leads](https://afflift.com/f/threads/api-leads.11943/)
 -  06 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  06 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
--  06 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
--  06 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)<!-- afflift:END -->
+-  06 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
