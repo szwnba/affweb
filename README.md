@@ -21,9 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.11944/)
 -  06 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  06 [We are Gasmobi - Affiliate network &amp; Advertiser!](https://afflift.com/f/threads/we-are-gasmobi-affiliate-network-advertiser.4621/)
--  06 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.11944/)
 -  06 [API leads](https://afflift.com/f/threads/api-leads.11943/)
 -  06 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  06 [&lpar;Re&rpar;start my affiliate adventure](https://afflift.com/f/threads/re-start-my-affiliate-adventure.11887/)
