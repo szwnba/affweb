@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [GPT-4 Turbo、功能融合：OpenAI 首个开发者大会回顾](https://sspai.com/post/84234)
 -  07 [Alfred Workflow 进阶指南：以少数派标签搜索为例](https://sspai.com/prime/story/advanced-alfred-workflow-sspai-tag-search)
 -  07 [社区速递 019 | 波导手机、Top5 应用以及作者们的新玩意](https://sspai.com/post/84230)
 -  07 [城市漫步指南：夏末秋初，在慕尼黑漫步](https://sspai.com/post/84119)
--  07 [外观出色，性能不俗：2023 款 iMac 上手体验](https://sspai.com/post/84220)
--  07 [派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等](https://sspai.com/post/84224)<!-- sspai:END -->
+-  07 [外观出色，性能不俗：2023 款 iMac 上手体验](https://sspai.com/post/84220)<!-- sspai:END -->
