@@ -21,14 +21,14 @@
 ### afflift
 <!-- afflift:START -->
 -  07 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  07 [Is HAKA still around?](https://afflift.com/f/threads/is-haka-still-around.11965/)
+-  07 [How to Sort Traffic by Sources: What It Is and Why You Need It. Step-by-step guide.](https://afflift.com/f/threads/how-to-sort-traffic-by-sources-what-it-is-and-why-you-need-it-step-by-step-guide.11966/)
 -  07 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  07 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
 -  07 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  07 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  07 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
--  07 [How to Sort Traffic by Sources: What It Is and Why You Need It. Step-by-step guide.](https://afflift.com/f/threads/how-to-sort-traffic-by-sources-what-it-is-and-why-you-need-it-step-by-step-guide.11966/)
 -  07 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
--  07 [Is HAKA still around?](https://afflift.com/f/threads/is-haka-still-around.11965/)
 -  07 [Hello World! Looking for affiliates](https://afflift.com/f/threads/hello-world-looking-for-affiliates.11934/)
 -  07 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
