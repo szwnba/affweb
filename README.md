@@ -38,5 +38,4 @@
 -  07 [外观出色，性能不俗：2023 款 iMac 上手体验](https://sspai.com/post/84220)
 -  07 [派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等](https://sspai.com/post/84224)
 -  06 [一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验](https://sspai.com/post/84212)
--  06 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/84194)
--  06 [既要吃好也要健康，你可以从几件小事开始改变饮食习惯](https://sspai.com/post/84033)<!-- sspai:END -->
+-  06 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/84194)<!-- sspai:END -->
