@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
+-  07 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
+-  07 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  07 [Struggling with something in affiliate marketing? Give us more info and we might write a guide about it!](https://afflift.com/f/threads/struggling-with-something-in-affiliate-marketing-give-us-more-info-and-we-might-write-a-guide-about-it.10464/)
 -  07 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
+-  07 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  07 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
 -  07 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
 -  07 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  07 [[Webinar]: Publisher-brand data transparency](https://afflift.com/f/threads/webinar-publisher-brand-data-transparency.11963/)
 -  07 [A pretty weird click with skro](https://afflift.com/f/threads/a-pretty-weird-click-with-skro.11960/)
--  07 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  07 [I have collected 32,000 push subscribers. How can I monetize this audience?](https://afflift.com/f/threads/i-have-collected-32-000-push-subscribers-how-can-i-monetize-this-audience.11928/)
--  07 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
--  07 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  07 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
--  07 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)<!-- afflift:END -->
+-  07 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
