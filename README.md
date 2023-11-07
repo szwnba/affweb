@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
--  07 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
--  07 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
--  07 [#ADSTERRAx2   Zeydoo Offer Testing in Adsterra Traffic](https://afflift.com/f/threads/adsterrax2-zeydoo-offer-testing-in-adsterra-traffic.11964/)
--  07 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  07 [Please provide some suggestions](https://afflift.com/f/threads/please-provide-some-suggestions.11961/)
--  07 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  07 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
+-  07 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
+-  07 [Is HAKA still around?](https://afflift.com/f/threads/is-haka-still-around.11965/)
+-  07 [Hello World! Looking for affiliates](https://afflift.com/f/threads/hello-world-looking-for-affiliates.11934/)
+-  07 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  07 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
+-  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  07 [Microsoft launches Adsense competitor with no traffic requirements.](https://afflift.com/f/threads/microsoft-launches-adsense-competitor-with-no-traffic-requirements.11879/)
 -  07 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
--  07 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
--  07 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)<!-- afflift:END -->
+-  07 [#ADSTERRAx2   Zeydoo Offer Testing in Adsterra Traffic](https://afflift.com/f/threads/adsterrax2-zeydoo-offer-testing-in-adsterra-traffic.11964/)
+-  07 [👷‍♂️ Building a Longer-Term Whitehat Lead Generation Machine](https://afflift.com/f/threads/%F0%9F%91%B7%E2%80%8D%E2%99%82%EF%B8%8F-building-a-longer-term-whitehat-lead-generation-machine.7031/)
+-  07 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
+-  07 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
