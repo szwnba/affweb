@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
+-  07 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
 -  07 [A pretty weird click with skro](https://afflift.com/f/threads/a-pretty-weird-click-with-skro.11960/)
 -  07 [Please provide some suggestions](https://afflift.com/f/threads/please-provide-some-suggestions.11961/)
 -  06 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
@@ -29,9 +31,7 @@
 -  06 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  06 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
 -  06 [Popcash-request for sharing experience](https://afflift.com/f/threads/popcash-request-for-sharing-experience.11951/)
--  06 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
--  06 [My Journey 2 : Adsterra as a CPA Network #ADSTERRAx2](https://afflift.com/f/threads/my-journey-2-adsterra-as-a-cpa-network-adsterrax2.11959/)
--  06 [My Journey 1 :Adsterra Network #ADSTERRAx2](https://afflift.com/f/threads/my-journey-1-adsterra-network-adsterrax2.11958/)<!-- afflift:END -->
+-  06 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
