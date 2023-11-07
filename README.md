@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [A pretty weird click with skro](https://afflift.com/f/threads/a-pretty-weird-click-with-skro.11960/)
+-  07 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  07 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
+-  07 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
+-  07 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
+-  07 [[Webinar]: Publisher-brand data transparency](https://afflift.com/f/threads/webinar-publisher-brand-data-transparency.11963/)
+-  07 [A pretty weird click with skro](https://afflift.com/f/threads/a-pretty-weird-click-with-skro.11960/)
 -  07 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  07 [I have collected 32,000 push subscribers. How can I monetize this audience?](https://afflift.com/f/threads/i-have-collected-32-000-push-subscribers-how-can-i-monetize-this-audience.11928/)
 -  07 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  07 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  07 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
--  07 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
--  07 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  07 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
--  07 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  07 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)<!-- afflift:END -->
+-  07 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
