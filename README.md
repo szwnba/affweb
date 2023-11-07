@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  01 [阿里云优惠活动汇总以及购买指南技巧&lpar;长期更新&rpar;](https://51.ruyo.net/18526.html)<!-- ruyo:END -->
+-  07 [YDNS免费提供二级域名解析，支持自定义域名托管](https://51.ruyo.net/18529.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
