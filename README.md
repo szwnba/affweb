@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [BeMob visit data being duplicated](https://afflift.com/f/threads/bemob-visit-data-being-duplicated.11968/)
+-  07 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
+-  07 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  07 [#ADSTERRAx2   Zeydoo Offer Testing in Adsterra Traffic](https://afflift.com/f/threads/adsterrax2-zeydoo-offer-testing-in-adsterra-traffic.11964/)
 -  07 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  07 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
@@ -28,10 +31,7 @@
 -  07 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
 -  07 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  07 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  07 [Please provide some suggestions](https://afflift.com/f/threads/please-provide-some-suggestions.11961/)
--  07 [API leads](https://afflift.com/f/threads/api-leads.11943/)
--  07 [Preparing Peak Awards 2023](https://afflift.com/f/threads/preparing-peak-awards-2023.11967/)
--  07 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)<!-- afflift:END -->
+-  07 [Please provide some suggestions](https://afflift.com/f/threads/please-provide-some-suggestions.11961/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
