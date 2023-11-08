@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [BeMob visit data being duplicated](https://afflift.com/f/threads/bemob-visit-data-being-duplicated.11968/)
+-  08 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
 -  08 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
 -  08 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
 -  08 [Preparing Peak Awards 2023](https://afflift.com/f/threads/preparing-peak-awards-2023.11967/)
@@ -31,9 +33,7 @@
 -  08 [Part 2 : Earning Easy Money: My Journey with a Crazy Converting Offer! #ADSTERRAx2](https://afflift.com/f/threads/part-2-earning-easy-money-my-journey-with-a-crazy-converting-offer-adsterrax2.11972/)
 -  08 [Me after publishing my first Affiliate Marketing Campaign](https://afflift.com/f/threads/me-after-publishing-my-first-affiliate-marketing-campaign.11971/)
 -  08 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
--  08 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
--  08 [Let&#39;s make $100 profit per day or DIE #ADSTERRAx2](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die-adsterrax2.11969/)
--  08 [Promoting Offers Against Blackhat Competition](https://afflift.com/f/threads/promoting-offers-against-blackhat-competition.11970/)<!-- afflift:END -->
+-  08 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
