@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  06 [欧洲经济区&lpar;EEA&rpar;、英国和加州流量的AdSense是不是毁灭性打击](https://www.advertcn.com/forum.php?mod=viewthread&tid=112834)<!-- advertcn:END -->
+-  08 [想学一下如何搞抖音，好像现在没有类似论坛了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112848)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
