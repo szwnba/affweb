@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  08 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  08 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  08 [Is HAKA still around?](https://afflift.com/f/threads/is-haka-still-around.11965/)
 -  08 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  08 [💥 Black Friday 2023 with RedTrack is on: 30% OFF on tracking &amp; automation!](https://afflift.com/f/threads/%F0%9F%92%A5-black-friday-2023-with-redtrack-is-on-30-off-on-tracking-automation.11974/)
 -  08 [[Case Study] Running the CASINO OFFER at HILLTOPADS with ROI: 182,73%](https://afflift.com/f/threads/case-study-running-the-casino-offer-at-hilltopads-with-roi-182-73.11973/)
 -  08 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  08 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  08 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  08 [BeMob visit data being duplicated](https://afflift.com/f/threads/bemob-visit-data-being-duplicated.11968/)
 -  08 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
--  08 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
--  08 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)<!-- afflift:END -->
+-  08 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
