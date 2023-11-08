@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)
+-  08 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
+-  08 [Hello world](https://afflift.com/f/threads/hello-world.11981/)
 -  08 [Are TheOptimizer and Brax trackers?](https://afflift.com/f/threads/are-theoptimizer-and-brax-trackers.11978/)
--  08 [why are affiliate mentors so hard to find and or so expensive these days?](https://afflift.com/f/threads/why-are-affiliate-mentors-so-hard-to-find-and-or-so-expensive-these-days.10631/)
--  08 [🎉 100,000 Posts and 75,000 Members!](https://afflift.com/f/threads/%F0%9F%8E%89-100-000-posts-and-75-000-members.9627/)
--  08 [Excited to be here!](https://afflift.com/f/threads/excited-to-be-here.11977/)
--  08 [ZoogVPN Affiliate Program | Up to 80% from each sale | Full support | Custom creatives](https://afflift.com/f/threads/zoogvpn-affiliate-program-up-to-80-from-each-sale-full-support-custom-creatives.11976/)
--  08 [Hello from Spain!](https://afflift.com/f/threads/hello-from-spain.11975/)
--  08 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
--  08 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
--  08 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
--  08 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
--  08 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)<!-- afflift:END -->
+-  08 [Half of Australia left without internet or phone as Optus crashes](https://afflift.com/f/threads/half-of-australia-left-without-internet-or-phone-as-optus-crashes.11980/)
+-  08 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  08 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
+-  08 [Preparing Peak Awards 2023](https://afflift.com/f/threads/preparing-peak-awards-2023.11967/)
+-  08 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)
+-  08 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
+-  08 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
+-  08 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  08 [why are affiliate mentors so hard to find and or so expensive these days?](https://afflift.com/f/threads/why-are-affiliate-mentors-so-hard-to-find-and-or-so-expensive-these-days.10631/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
