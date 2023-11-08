@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)
 -  08 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  08 [Let&#39;s make $100 profit per day or DIE #ADSTERRAx2](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die-adsterrax2.11969/)
 -  08 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
@@ -32,8 +33,7 @@
 -  08 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  08 [Promoting Offers Against Blackhat Competition](https://afflift.com/f/threads/promoting-offers-against-blackhat-competition.11970/)
 -  08 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
--  08 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
--  08 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)<!-- afflift:END -->
+-  08 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
