@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  08 [还有人用AI生成内容的吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112849)
 -  08 [想学一下如何搞抖音，好像现在没有类似论坛了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112848)<!-- advertcn:END -->
 
 ### zhihu
