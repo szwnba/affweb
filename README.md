@@ -40,4 +40,4 @@
 -  08 [派早报：iQOO 12 系列发布、国行任天堂 Switch 延保计划将停售等](https://sspai.com/post/84243)
 -  07 [GPT-4 Turbo、功能融合：OpenAI 首个开发者大会回顾](https://sspai.com/post/84234)
 -  07 [Alfred Workflow 进阶指南：以少数派标签搜索为例](https://sspai.com/prime/story/advanced-alfred-workflow-sspai-tag-search)
--  07 [社区速递 019 | 波导手机、Top5 应用以及作者们的新玩意](https://sspai.com/post/84230)<!-- sspai:END -->
+-  07 [社区速递 019 | 德甲比赛、Top5 应用以及作者们的新玩意](https://sspai.com/post/84230)<!-- sspai:END -->
