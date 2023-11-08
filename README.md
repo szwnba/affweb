@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  08 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)
+-  08 [Are TheOptimizer and Brax trackers?](https://afflift.com/f/threads/are-theoptimizer-and-brax-trackers.11978/)
+-  08 [#ADSTERRAx2   Zeydoo Offer Testing in Adsterra Traffic](https://afflift.com/f/threads/adsterrax2-zeydoo-offer-testing-in-adsterra-traffic.11964/)
+-  08 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
+-  08 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
+-  08 [Let&#39;s make $100 profit per day or DIE #ADSTERRAx2](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die-adsterrax2.11969/)
+-  08 [Promoting Offers Against Blackhat Competition](https://afflift.com/f/threads/promoting-offers-against-blackhat-competition.11970/)
+-  08 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  08 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
 -  08 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  08 [Excited to be here!](https://afflift.com/f/threads/excited-to-be-here.11977/)
--  08 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  08 [Hello world](https://afflift.com/f/threads/hello-world.11981/)
--  08 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
--  08 [Are TheOptimizer and Brax trackers?](https://afflift.com/f/threads/are-theoptimizer-and-brax-trackers.11978/)
--  08 [Half of Australia left without internet or phone as Optus crashes](https://afflift.com/f/threads/half-of-australia-left-without-internet-or-phone-as-optus-crashes.11980/)
--  08 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
--  08 [Preparing Peak Awards 2023](https://afflift.com/f/threads/preparing-peak-awards-2023.11967/)<!-- afflift:END -->
+-  08 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
