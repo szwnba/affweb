@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
+-  09 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
+-  09 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
 -  09 [BeMob visit data being duplicated](https://afflift.com/f/threads/bemob-visit-data-being-duplicated.11968/)
 -  09 [Hello from Landerlab.io](https://afflift.com/f/threads/hello-from-landerlab-io.11993/)
 -  09 [The Affiliate Marketing Game Changer Has Arrived!](https://afflift.com/f/threads/the-affiliate-marketing-game-changer-has-arrived.11991/)
@@ -28,10 +31,7 @@
 -  09 [Excited to be here!](https://afflift.com/f/threads/excited-to-be-here.11977/)
 -  09 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  09 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
--  09 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
--  09 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
--  09 [Preparing Peak Awards 2023](https://afflift.com/f/threads/preparing-peak-awards-2023.11967/)
--  09 [How are you handling bot/proxy traffic?](https://afflift.com/f/threads/how-are-you-handling-bot-proxy-traffic.11992/)<!-- afflift:END -->
+-  09 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
