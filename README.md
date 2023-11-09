@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Let&#39;s make $100 profit per day or DIE #ADSTERRAx2](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die-adsterrax2.11969/)
+-  08 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
+-  08 [Promoting Offers Against Blackhat Competition](https://afflift.com/f/threads/promoting-offers-against-blackhat-competition.11970/)
+-  08 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  08 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
 -  08 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
 -  08 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)
 -  08 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  08 [Let&#39;s make $100 profit per day or DIE #ADSTERRAx2](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die-adsterrax2.11969/)
 -  08 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
 -  08 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)
 -  08 [Are TheOptimizer and Brax trackers?](https://afflift.com/f/threads/are-theoptimizer-and-brax-trackers.11978/)
--  08 [#ADSTERRAx2   Zeydoo Offer Testing in Adsterra Traffic](https://afflift.com/f/threads/adsterrax2-zeydoo-offer-testing-in-adsterra-traffic.11964/)
--  08 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  08 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
--  08 [Promoting Offers Against Blackhat Competition](https://afflift.com/f/threads/promoting-offers-against-blackhat-competition.11970/)<!-- afflift:END -->
+-  08 [#ADSTERRAx2   Zeydoo Offer Testing in Adsterra Traffic](https://afflift.com/f/threads/adsterrax2-zeydoo-offer-testing-in-adsterra-traffic.11964/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
