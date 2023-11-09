@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  08 [聊聊最近Google的几次更新](https://www.advertcn.com/forum.php?mod=viewthread&tid=112856)
--  08 [中国大陆Top 100 YouTube网红排行榜](https://www.advertcn.com/forum.php?mod=viewthread&tid=112850)<!-- advertcn:END -->
+-  08 [聊聊最近Google的几次更新](https://www.advertcn.com/forum.php?mod=viewthread&tid=112856)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
