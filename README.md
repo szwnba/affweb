@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [摄影话题人气作者、港漂 Hermanchannn 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231109)
 -  09 [新玩意 164｜少数派的编辑们最近买了啥？](https://sspai.com/post/84306)
 -  09 [拯救 macOS 冷门 app：如何用提醒事项更好地提醒自己？](https://sspai.com/post/78676)
 -  09 [日月山川拍够了，你还可以去文昌追一次火箭发射](https://sspai.com/post/84216)
--  09 [利用快捷指令，Linux 也能轻松「接力」iOS 剪贴文本](https://sspai.com/post/84133)
--  09 [派早报：OPPO 召开影像战略沟通会、R 星将公布下一代 GTA 等](https://sspai.com/post/84287)<!-- sspai:END -->
+-  09 [利用快捷指令，Linux 也能轻松「接力」iOS 剪贴文本](https://sspai.com/post/84133)<!-- sspai:END -->
