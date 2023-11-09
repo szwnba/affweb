@@ -22,6 +22,8 @@
 ### afflift
 <!-- afflift:START -->
 -  09 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
+-  09 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)
+-  09 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  09 [Promoting Offers Against Blackhat Competition](https://afflift.com/f/threads/promoting-offers-against-blackhat-competition.11970/)
 -  09 [Let&#39;s make $100 profit per day or DIE #ADSTERRAx2](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die-adsterrax2.11969/)
 -  09 [Excited to be here!](https://afflift.com/f/threads/excited-to-be-here.11977/)
@@ -30,9 +32,7 @@
 -  09 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  09 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  08 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
--  08 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
--  08 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
--  08 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)<!-- afflift:END -->
+-  08 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
