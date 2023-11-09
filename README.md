@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  09 [利用快捷指令，Linux 也能轻松「接力」iOS 剪贴文本](https://sspai.com/post/84133)
 -  09 [派早报：OPPO 召开影像战略沟通会、R 星将公布下一代 GTA 等](https://sspai.com/post/84287)
--  08 [安阳漫步指南 | 楼台晚映青山郭，罗绮晴娇绿水洲](https://sspai.com/post/84241)
--  08 [用 iPhone 15 Pro 玩 3A 大作：《生化危机 村庄》详尽游玩体验](https://sspai.com/post/84223)<!-- sspai:END -->
+-  08 [安阳漫步指南 | 楼台晚映青山郭，罗绮晴娇绿水洲](https://sspai.com/post/84241)<!-- sspai:END -->
