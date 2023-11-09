@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  09 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
--  09 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
--  09 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  09 [My First Follow-Along:Adsterra Network #ADSTERRAx2](https://afflift.com/f/threads/my-first-follow-along-adsterra-network-adsterrax2.11989/)
--  09 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
--  09 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  09 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
+-  09 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  09 [Preparing Peak Awards 2023](https://afflift.com/f/threads/preparing-peak-awards-2023.11967/)
+-  09 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
+-  09 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
+-  09 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
+-  09 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
+-  09 [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
+-  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  09 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
--  09 [Hello from Spain!](https://afflift.com/f/threads/hello-from-spain.11975/)
--  09 [Adcash Monthly Stats - 160.9 Billion Ad Requests 🔥](https://afflift.com/f/threads/adcash-monthly-stats-160-9-billion-ad-requests-%F0%9F%94%A5.11988/)
--  09 [Excited to be here!](https://afflift.com/f/threads/excited-to-be-here.11977/)
--  09 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)<!-- afflift:END -->
+-  09 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
+-  09 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
