@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [🚀EZmob&#39;s Exclusive 11.11 Sale Is Here!!](https://afflift.com/f/threads/%F0%9F%9A%80ezmobs-exclusive-11-11-sale-is-here.12000/)
+-  10 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
+-  10 [Spy on Desktop Pops &quot;AdplexityDesktop Vs Anstrex Pops&quot;](https://afflift.com/f/threads/spy-on-desktop-pops-adplexitydesktop-vs-anstrex-pops.11911/)
+-  10 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
+-  10 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  10 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
+-  10 [Ultimate Affiliate Marketing Guide for Black Friday/ Cyber Monday 2023](https://afflift.com/f/threads/ultimate-affiliate-marketing-guide-for-black-friday-cyber-monday-2023.11999/)
 -  10 [Let&#39;s make $100 profit per day or DIE #ADSTERRAx2](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die-adsterrax2.11969/)
 -  10 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
 -  10 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  10 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
--  10 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
--  10 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
--  10 [How are you handling bot/proxy traffic?](https://afflift.com/f/threads/how-are-you-handling-bot-proxy-traffic.11992/)
--  10 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
--  10 [Singles&#39; Day Advertising with Adcash!](https://afflift.com/f/threads/singles-day-advertising-with-adcash.11997/)
--  10 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  10 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
--  10 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/)<!-- afflift:END -->
+-  10 [How are you handling bot/proxy traffic?](https://afflift.com/f/threads/how-are-you-handling-bot-proxy-traffic.11992/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
