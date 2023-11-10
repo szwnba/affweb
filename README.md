@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  08 [聊聊最近Google的几次更新](https://www.advertcn.com/forum.php?mod=viewthread&tid=112856)<!-- advertcn:END -->
+-  09 [案例分享-如何用Google创收百万](https://www.advertcn.com/forum.php?mod=viewthread&tid=112867)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
