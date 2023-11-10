@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [全场满赠、买一送一，正版软件「双十一」开始了](https://sspai.com/post/84322)
 -  10 [相机领域的「大师之剑」，聊聊我眼中的富士 X100V 体验](https://sspai.com/post/84219)
 -  10 [一日一技 | 将 Obsidian 页面按自定义模板导出为 Word 文档](https://sspai.com/post/84232)
 -  10 [派早报：Valve 发布 OLED 款 Steam Deck 游戏主机](https://sspai.com/post/84312)
--  09 [摄影话题人气作者、港漂 Hermanchannn 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231109)
--  09 [新玩意 164｜少数派的编辑们最近买了啥？](https://sspai.com/post/84306)<!-- sspai:END -->
+-  09 [摄影话题人气作者、港漂 Hermanchannn 都装了啥？](https://sspai.com/prime/story/zhuanglesha-231109)<!-- sspai:END -->
