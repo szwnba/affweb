@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [How are you handling bot/proxy traffic?](https://afflift.com/f/threads/how-are-you-handling-bot-proxy-traffic.11992/)
 -  10 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  10 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  10 [Let&#39;s make $100 profit per day or DIE #ADSTERRAx2](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die-adsterrax2.11969/)
@@ -30,8 +31,7 @@
 -  09 [The Affiliate Marketing Game Changer Has Arrived!](https://afflift.com/f/threads/the-affiliate-marketing-game-changer-has-arrived.11991/)
 -  09 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)
 -  09 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
--  09 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
--  09 [BeMob visit data being duplicated](https://afflift.com/f/threads/bemob-visit-data-being-duplicated.11968/)<!-- afflift:END -->
+-  09 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
