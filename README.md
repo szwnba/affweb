@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
+-  10 [Nifty Stats - Affiliate &amp; Ad Stats Tracking Software](https://afflift.com/f/threads/nifty-stats-affiliate-ad-stats-tracking-software.7778/)
+-  10 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
 -  10 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
 -  10 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
 -  10 [How are you handling bot/proxy traffic?](https://afflift.com/f/threads/how-are-you-handling-bot-proxy-traffic.11992/)
@@ -27,11 +30,8 @@
 -  10 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  10 [Let&#39;s make $100 profit per day or DIE #ADSTERRAx2](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die-adsterrax2.11969/)
 -  10 [Spy on Desktop Pops &quot;AdplexityDesktop Vs Anstrex Pops&quot;](https://afflift.com/f/threads/spy-on-desktop-pops-adplexitydesktop-vs-anstrex-pops.11911/)
--  09 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
 -  09 [Whitehat vs. Greyhat vs. Blackhat Affiliate Marketing](https://afflift.com/f/threads/whitehat-vs-greyhat-vs-blackhat-affiliate-marketing.11945/)
--  09 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
--  09 [The Affiliate Marketing Game Changer Has Arrived!](https://afflift.com/f/threads/the-affiliate-marketing-game-changer-has-arrived.11991/)
--  09 [RevContent Follow Along Campaign](https://afflift.com/f/threads/revcontent-follow-along-campaign.11760/)<!-- afflift:END -->
+-  09 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
