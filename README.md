@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  07 [YDNS免费提供二级域名解析，支持自定义域名托管](https://51.ruyo.net/18529.html)<!-- ruyo:END -->
+-  10 [阿里云2核2G3M带宽云服务器测评，99元每年可续费到2027年](https://51.ruyo.net/18532.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
