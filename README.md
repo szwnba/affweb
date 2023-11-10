@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)
+-  10 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
+-  10 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  10 [New Affiliate Opportunity!](https://afflift.com/f/threads/new-affiliate-opportunity.12002/)
+-  10 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
+-  10 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
 -  10 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  10 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  10 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
 -  10 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  10 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)
 -  10 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  10 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
--  10 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
--  10 [Spy on Desktop Pops &quot;AdplexityDesktop Vs Anstrex Pops&quot;](https://afflift.com/f/threads/spy-on-desktop-pops-adplexitydesktop-vs-anstrex-pops.11911/)
--  10 [My First Follow-Along:Adsterra Network #ADSTERRAx2](https://afflift.com/f/threads/my-first-follow-along-adsterra-network-adsterrax2.11989/)
--  10 [The Affiliate Marketing Game Changer Has Arrived!](https://afflift.com/f/threads/the-affiliate-marketing-game-changer-has-arrived.11991/)
--  10 [🚀EZmob&#39;s Exclusive 11.11 Sale Is Here!!](https://afflift.com/f/threads/%F0%9F%9A%80ezmobs-exclusive-11-11-sale-is-here.12000/)<!-- afflift:END -->
+-  10 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
