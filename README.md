@@ -21,8 +21,8 @@
 ### afflift
 <!-- afflift:START -->
 -  09 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
--  09 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  09 [Whitehat vs. Greyhat vs. Blackhat Affiliate Marketing](https://afflift.com/f/threads/whitehat-vs-greyhat-vs-blackhat-affiliate-marketing.11945/)
+-  09 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
 -  09 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  09 [Spy on Desktop Pops &quot;AdplexityDesktop Vs Anstrex Pops&quot;](https://afflift.com/f/threads/spy-on-desktop-pops-adplexitydesktop-vs-anstrex-pops.11911/)
 -  09 [The Affiliate Marketing Game Changer Has Arrived!](https://afflift.com/f/threads/the-affiliate-marketing-game-changer-has-arrived.11991/)
