@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Survey Pops Intermediate Guide - Zero to Hero &lpar;MKII&rpar;](https://afflift.com/f/threads/survey-pops-intermediate-guide-zero-to-hero-mkii.7554/)
 -  10 [How do you run Facebook ads?](https://afflift.com/f/threads/how-do-you-run-facebook-ads.12003/)
 -  10 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
 -  10 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
@@ -30,8 +31,7 @@
 -  10 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)
 -  10 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  10 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  10 [How are you handling bot/proxy traffic?](https://afflift.com/f/threads/how-are-you-handling-bot-proxy-traffic.11992/)
--  10 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)<!-- afflift:END -->
+-  10 [How are you handling bot/proxy traffic?](https://afflift.com/f/threads/how-are-you-handling-bot-proxy-traffic.11992/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
