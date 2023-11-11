@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [🤑watch me make money with AI tools on shopify?](https://afflift.com/f/threads/%F0%9F%A4%91watch-me-make-money-with-ai-tools-on-shopify.11851/)
 -  11 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
 -  11 [How do you run Facebook ads?](https://afflift.com/f/threads/how-do-you-run-facebook-ads.12003/)
 -  10 [Survey Pops Intermediate Guide - Zero to Hero &lpar;MKII&rpar;](https://afflift.com/f/threads/survey-pops-intermediate-guide-zero-to-hero-mkii.7554/)
@@ -30,8 +31,7 @@
 -  10 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  10 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  10 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)
--  10 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
--  10 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)<!-- afflift:END -->
+-  10 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
