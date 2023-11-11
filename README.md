@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  09 [案例分享-如何用Google创收百万](https://www.advertcn.com/forum.php?mod=viewthread&tid=112867)<!-- advertcn:END -->
+-  10 [还在到处找人团adbeat? 从现在起，不需要了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112881)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
