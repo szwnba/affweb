@@ -36,5 +36,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  10 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/84326)
--  10 [全场满赠、买一送一，正版软件「双十一」开始了](https://sspai.com/post/84322)
--  10 [相机领域的「大师之剑」，聊聊我眼中的富士 X100V 体验](https://sspai.com/post/84219)<!-- sspai:END -->
+-  10 [全场满赠、买一送一，正版软件「双十一」开始了](https://sspai.com/post/84322)<!-- sspai:END -->
