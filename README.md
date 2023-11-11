@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  11 [A Tracking Experiment &lpar;&amp; Journey&rpar; To Find The &quot;Best&quot; Tracker - DEADZ](https://afflift.com/f/threads/a-tracking-experiment-journey-to-find-the-best-tracker-deadz.1698/)
 -  11 [🤑watch me make money with AI tools on shopify?](https://afflift.com/f/threads/%F0%9F%A4%91watch-me-make-money-with-ai-tools-on-shopify.11851/)
 -  11 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
@@ -30,8 +31,7 @@
 -  10 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
 -  10 [New Affiliate Opportunity!](https://afflift.com/f/threads/new-affiliate-opportunity.12002/)
 -  10 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  10 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
--  10 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)<!-- afflift:END -->
+-  10 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
