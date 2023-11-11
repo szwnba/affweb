@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
 -  11 [Which push/pop ad spy tool is good overall?](https://afflift.com/f/threads/which-push-pop-ad-spy-tool-is-good-overall.12007/)
 -  11 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
 -  11 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
@@ -30,8 +31,7 @@
 -  11 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
 -  11 [Cases for collecting push subscriptions](https://afflift.com/f/threads/cases-for-collecting-push-subscriptions.12004/)
 -  11 [How do you run Facebook ads?](https://afflift.com/f/threads/how-do-you-run-facebook-ads.12003/)
--  11 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
--  11 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)<!-- afflift:END -->
+-  11 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
