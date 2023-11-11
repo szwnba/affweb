@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
 -  11 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
 -  11 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  11 [🤑watch me make money with AI tools on shopify?](https://afflift.com/f/threads/%F0%9F%A4%91watch-me-make-money-with-ai-tools-on-shopify.11851/)
@@ -30,8 +31,7 @@
 -  10 [Survey Pops Intermediate Guide - Zero to Hero &lpar;MKII&rpar;](https://afflift.com/f/threads/survey-pops-intermediate-guide-zero-to-hero-mkii.7554/)
 -  10 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
 -  10 [Toolbar Traffic](https://afflift.com/f/threads/toolbar-traffic.11416/)
--  10 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
--  10 [New Affiliate Opportunity!](https://afflift.com/f/threads/new-affiliate-opportunity.12002/)<!-- afflift:END -->
+-  10 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
