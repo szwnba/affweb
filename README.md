@@ -35,5 +35,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  10 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/84326)
--  10 [全场满赠、买一送一，正版软件「双十一」开始了](https://sspai.com/post/84322)<!-- sspai:END -->
+-  11 [临时起意收获惊喜满满：我的新西兰 10 天自驾之旅](https://sspai.com/post/84239)
+-  10 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/84326)<!-- sspai:END -->
