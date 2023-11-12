@@ -20,11 +20,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
 -  12 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  12 [A Tracking Experiment &lpar;&amp; Journey&rpar; To Find The &quot;Best&quot; Tracker - DEADZ](https://afflift.com/f/threads/a-tracking-experiment-journey-to-find-the-best-tracker-deadz.1698/)
 -  12 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
 -  12 [How do you run Facebook ads?](https://afflift.com/f/threads/how-do-you-run-facebook-ads.12003/)
--  12 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
 -  11 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)
 -  11 [Which push/pop ad spy tool is good overall?](https://afflift.com/f/threads/which-push-pop-ad-spy-tool-is-good-overall.12007/)
 -  11 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
