@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  11 [有点怀念以前的网络营销圈环境](https://www.advertcn.com/forum.php?mod=viewthread&tid=112892)<!-- advertcn:END -->
+-  11 [有点怀念以前的网络营销圈环境](https://www.advertcn.com/forum.php?mod=viewthread&tid=112892)
+-  11 [收各种应用FB资源](https://www.advertcn.com/forum.php?mod=viewthread&tid=112890)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
