@@ -20,8 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
 -  12 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
+-  12 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
+-  12 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
+-  12 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  12 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
 -  12 [Exploring Google&#39;s Recent Changes: A Few Questions for the Community](https://afflift.com/f/threads/exploring-googles-recent-changes-a-few-questions-for-the-community.12010/)
 -  12 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
@@ -29,9 +31,7 @@
 -  12 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  12 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
 -  12 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  12 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
--  12 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  12 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/)<!-- afflift:END -->
+-  12 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
