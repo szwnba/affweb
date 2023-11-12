@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [The Affiliate Marketing Game Changer Has Arrived!](https://afflift.com/f/threads/the-affiliate-marketing-game-changer-has-arrived.11991/)
 -  12 [How do you run Facebook ads?](https://afflift.com/f/threads/how-do-you-run-facebook-ads.12003/)
 -  12 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  12 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
@@ -31,8 +32,7 @@
 -  12 [A Tracking Experiment &lpar;&amp; Journey&rpar; To Find The &quot;Best&quot; Tracker - DEADZ](https://afflift.com/f/threads/a-tracking-experiment-journey-to-find-the-best-tracker-deadz.1698/)
 -  12 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
 -  11 [Which push/pop ad spy tool is good overall?](https://afflift.com/f/threads/which-push-pop-ad-spy-tool-is-good-overall.12007/)
--  11 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
--  11 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)<!-- afflift:END -->
+-  11 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
