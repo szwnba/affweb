@@ -21,6 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
+-  12 [A Tracking Experiment &lpar;&amp; Journey&rpar; To Find The &quot;Best&quot; Tracker - DEADZ](https://afflift.com/f/threads/a-tracking-experiment-journey-to-find-the-best-tracker-deadz.1698/)
+-  12 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
+-  12 [How do you run Facebook ads?](https://afflift.com/f/threads/how-do-you-run-facebook-ads.12003/)
 -  12 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
 -  11 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)
 -  11 [Which push/pop ad spy tool is good overall?](https://afflift.com/f/threads/which-push-pop-ad-spy-tool-is-good-overall.12007/)
@@ -28,11 +32,7 @@
 -  11 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
 -  11 [Cases for collecting push subscriptions](https://afflift.com/f/threads/cases-for-collecting-push-subscriptions.12004/)
 -  11 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
--  11 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
--  11 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
--  11 [Is spy.house still working ?](https://afflift.com/f/threads/is-spy-house-still-working.11359/)
--  11 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
--  11 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)<!-- afflift:END -->
+-  11 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
