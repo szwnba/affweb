@@ -22,6 +22,7 @@
 ### afflift
 <!-- afflift:START -->
 -  12 [How I Killed Payment Fees Forever…and How You Can, Too!](https://afflift.com/f/threads/how-i-killed-payment-fees-forever%E2%80%A6and-how-you-can-too.10749/)
+-  12 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)
 -  12 [How do you run Facebook ads?](https://afflift.com/f/threads/how-do-you-run-facebook-ads.12003/)
 -  12 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
 -  12 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
@@ -31,8 +32,7 @@
 -  12 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
 -  12 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  12 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  12 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
--  12 [A Tracking Experiment &lpar;&amp; Journey&rpar; To Find The &quot;Best&quot; Tracker - DEADZ](https://afflift.com/f/threads/a-tracking-experiment-journey-to-find-the-best-tracker-deadz.1698/)<!-- afflift:END -->
+-  12 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
