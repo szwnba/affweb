@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
 -  11 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)
 -  11 [Which push/pop ad spy tool is good overall?](https://afflift.com/f/threads/which-push-pop-ad-spy-tool-is-good-overall.12007/)
 -  11 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
@@ -31,8 +32,7 @@
 -  11 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
 -  11 [Is spy.house still working ?](https://afflift.com/f/threads/is-spy-house-still-working.11359/)
 -  11 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
--  11 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
--  11 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)<!-- afflift:END -->
+-  11 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
