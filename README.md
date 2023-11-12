@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  11 [有点怀念以前的网络营销圈环境](https://www.advertcn.com/forum.php?mod=viewthread&tid=112892)
 -  11 [self hosted tracker大家用的最多的是哪家？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112887)<!-- advertcn:END -->
 
 ### zhihu
