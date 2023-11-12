@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
+-  12 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
 -  12 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  12 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/)
 -  12 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
@@ -29,9 +31,7 @@
 -  12 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
 -  12 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  12 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
--  12 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)
--  12 [The Affiliate Marketing Game Changer Has Arrived!](https://afflift.com/f/threads/the-affiliate-marketing-game-changer-has-arrived.11991/)
--  12 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)<!-- afflift:END -->
+-  12 [How do you manage clickloss in push campaigns?](https://afflift.com/f/threads/how-do-you-manage-clickloss-in-push-campaigns.11982/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
