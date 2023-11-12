@@ -36,4 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  11 [临时起意收获惊喜满满：我的新西兰 10 天自驾之旅](https://sspai.com/post/84239)<!-- sspai:END -->
+-  12 [价格好、更省心：Apple 官方「以旧换新」更划算了](https://sspai.com/post/84348)<!-- sspai:END -->
