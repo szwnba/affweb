@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [Skyrocket Your Affiliate Revenue with Lasso](https://afflift.com/f/threads/skyrocket-your-affiliate-revenue-with-lasso.12017/)
--  13 [Exploring Google&#39;s Recent Changes: A Few Questions for the Community](https://afflift.com/f/threads/exploring-googles-recent-changes-a-few-questions-for-the-community.12010/)
--  13 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  13 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  13 [any advice from facebook ads expert ?](https://afflift.com/f/threads/any-advice-from-facebook-ads-expert.12016/)
+-  13 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
+-  13 [Review My New Site and Strategy &lpar;HistoricBios.com&rpar;](https://afflift.com/f/threads/review-my-new-site-and-strategy-historicbios-com.9378/)
+-  13 [🌚 Let me cook some $9500 #ADSTERRAx2 Source Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-source-contest.12018/)
 -  13 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
--  13 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
--  13 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
--  13 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  13 [Hello everyone! Looking for affiliates](https://afflift.com/f/threads/hello-everyone-looking-for-affiliates.12013/)
--  13 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
+-  13 [Push + Sweeps 🚀](https://afflift.com/f/threads/push-sweeps-%F0%9F%9A%80.11919/)
 -  13 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  13 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)<!-- afflift:END -->
+-  13 [Cases for collecting push subscriptions](https://afflift.com/f/threads/cases-for-collecting-push-subscriptions.12004/)
+-  13 [🌚 Let me cook some $9500 #ADSTERRAx2 Network Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-network-contest.12019/)
+-  13 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
+-  13 [Hello everyone! Looking for affiliates](https://afflift.com/f/threads/hello-everyone-looking-for-affiliates.12013/)
+-  13 [Skyrocket Your Affiliate Revenue with Lasso](https://afflift.com/f/threads/skyrocket-your-affiliate-revenue-with-lasso.12017/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
