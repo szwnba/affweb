@@ -35,4 +35,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [派早报](https://sspai.com/post/84368)
 -  12 [价格好、更省心：Apple 官方「以旧换新」更划算了](https://sspai.com/post/84348)<!-- sspai:END -->
