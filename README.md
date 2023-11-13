@@ -35,5 +35,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [城市漫步指南：寻找记忆中的什切青](https://sspai.com/post/70676)
 -  13 [GPTs builder 上手体验：我花 5 分钟时间做了一个 GPT 机器人](https://sspai.com/post/84325)
 -  13 [派早报](https://sspai.com/post/84368)<!-- sspai:END -->
