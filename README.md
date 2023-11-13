@@ -36,5 +36,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  13 [GPTs builder 上手体验：我花 5 分钟时间做了一个 GPT 机器人](https://sspai.com/post/84325)
--  13 [派早报](https://sspai.com/post/84368)
--  12 [价格好、更省心：Apple 官方「以旧换新」更划算了](https://sspai.com/post/84348)<!-- sspai:END -->
+-  13 [派早报](https://sspai.com/post/84368)<!-- sspai:END -->
