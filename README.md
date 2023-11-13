@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [any advice from facebook ads expert ?](https://afflift.com/f/threads/any-advice-from-facebook-ads-expert.12016/)
--  13 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  13 [I am creating a Mastermind - Facebook Ads](https://afflift.com/f/threads/i-am-creating-a-mastermind-facebook-ads.10613/)
--  13 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
--  13 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)
--  13 [AffStream Review](https://afflift.com/f/threads/affstream-review.12015/)
+-  13 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
 -  13 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  13 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
--  13 [New Affiliate Opportunity!](https://afflift.com/f/threads/new-affiliate-opportunity.12002/)
+-  13 [Exploring Google&#39;s Recent Changes: A Few Questions for the Community](https://afflift.com/f/threads/exploring-googles-recent-changes-a-few-questions-for-the-community.12010/)
+-  13 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
 -  13 [Hello everyone! Looking for affiliates](https://afflift.com/f/threads/hello-everyone-looking-for-affiliates.12013/)
--  13 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
--  13 [Zeropark Pops + ApproachX = PROFIT?!?!?!?](https://afflift.com/f/threads/zeropark-pops-approachx-profit.10973/)<!-- afflift:END -->
+-  13 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
+-  13 [The Affiliate Marketing Game Changer Has Arrived!](https://afflift.com/f/threads/the-affiliate-marketing-game-changer-has-arrived.11991/)
+-  13 [Building an email list for the travel niche](https://afflift.com/f/threads/building-an-email-list-for-the-travel-niche.12011/)
+-  13 [any advice from facebook ads expert ?](https://afflift.com/f/threads/any-advice-from-facebook-ads-expert.12016/)
+-  13 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
+-  13 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  13 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
