@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
--  13 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  13 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
--  13 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
+-  13 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  13 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
+-  13 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
 -  13 [Let&#39;s make $100 profit per day or DIE](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die.11969/)
+-  13 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
+-  13 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
+-  13 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  13 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
 -  13 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
 -  12 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
 -  12 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
--  12 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  12 [Your Favorite Payment Method?](https://afflift.com/f/threads/your-favorite-payment-method.11987/)<!-- afflift:END -->
+-  12 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
