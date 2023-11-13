@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  12 [谁有做FB公共主页的经验，进来聊聊啊……](https://www.advertcn.com/forum.php?mod=viewthread&tid=112896)<!-- advertcn:END -->
+-  13 [小白求助，bemob统计的visit和联盟后台统计差别很大](https://www.advertcn.com/forum.php?mod=viewthread&tid=112900)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
