@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Minified Lander Performs Worse?](https://afflift.com/f/threads/minified-lander-performs-worse.12026/)
+-  14 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
 -  14 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  14 [Getting a Pay Bump](https://afflift.com/f/threads/getting-a-pay-bump.5403/)
 -  14 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
@@ -30,9 +32,7 @@
 -  14 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  14 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  14 [Congrats to 100.000 🎉🎉🎉](https://afflift.com/f/threads/congrats-to-100-000-%F0%9F%8E%89%F0%9F%8E%89%F0%9F%8E%89.12023/)
--  14 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  14 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  14 [Your Offer Payout Doesn’t Mean S#!&amp;](https://afflift.com/f/threads/your-offer-payout-doesn%E2%80%99t-mean-s.9322/)<!-- afflift:END -->
+-  14 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
