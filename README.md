@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  14 [Getting a Pay Bump](https://afflift.com/f/threads/getting-a-pay-bump.5403/)
+-  14 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  14 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
 -  14 [Shaving calculator!](https://afflift.com/f/threads/shaving-calculator.12025/)
+-  14 [How to Optimize Video File Size for Free in 5 Seconds](https://afflift.com/f/threads/how-to-optimize-video-file-size-for-free-in-5-seconds.12021/)
+-  14 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
+-  14 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  14 [Congrats to 100.000 🎉🎉🎉](https://afflift.com/f/threads/congrats-to-100-000-%F0%9F%8E%89%F0%9F%8E%89%F0%9F%8E%89.12023/)
 -  14 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  14 [Getting a Pay Bump](https://afflift.com/f/threads/getting-a-pay-bump.5403/)
 -  14 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  14 [Your Offer Payout Doesn’t Mean S#!&amp;](https://afflift.com/f/threads/your-offer-payout-doesn%E2%80%99t-mean-s.9322/)
--  14 [Exploring Google&#39;s Recent Changes: A Few Questions for the Community](https://afflift.com/f/threads/exploring-googles-recent-changes-a-few-questions-for-the-community.12010/)
--  14 [Hello Affiliates, Looking For Team Work](https://afflift.com/f/threads/hello-affiliates-looking-for-team-work.12020/)
--  14 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
--  14 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
--  14 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  14 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  14 [Your Offer Payout Doesn’t Mean S#!&amp;](https://afflift.com/f/threads/your-offer-payout-doesn%E2%80%99t-mean-s.9322/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
