@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  14 [Building an email list for the travel niche](https://afflift.com/f/threads/building-an-email-list-for-the-travel-niche.12011/)
 -  14 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
 -  13 [🌚 Let me cook some $9500 #ADSTERRAx2 Network Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-network-contest.12019/)
@@ -31,8 +32,7 @@
 -  13 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  13 [Struggling with something in affiliate marketing? Give us more info and we might write a guide about it!](https://afflift.com/f/threads/struggling-with-something-in-affiliate-marketing-give-us-more-info-and-we-might-write-a-guide-about-it.10464/)
 -  13 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  13 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  13 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)<!-- afflift:END -->
+-  13 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
