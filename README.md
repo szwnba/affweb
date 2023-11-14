@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  14 [一款低预算 Steam 独立游戏，如何做好发行](https://sspai.com/post/81359)
 -  14 [探索生活的设备并不需要完美：iPhone 的四年使用思考](https://sspai.com/post/84362)
--  14 [派早报：vivo X100 系列发布、长江存储在美起诉美光科技等](https://sspai.com/post/84399)
--  13 [派评 | 近期值得关注的 App](https://sspai.com/post/84389)<!-- sspai:END -->
+-  14 [派早报：vivo X100 系列发布、长江存储在美起诉美光科技等](https://sspai.com/post/84399)<!-- sspai:END -->
