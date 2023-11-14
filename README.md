@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  13 [寻CPI直客offer](https://www.advertcn.com/forum.php?mod=viewthread&tid=112904)
--  13 [小白求助，bemob统计的visit和联盟后台统计差别很大](https://www.advertcn.com/forum.php?mod=viewthread&tid=112900)<!-- advertcn:END -->
+-  13 [兑换paypal](https://www.advertcn.com/forum.php?mod=viewthread&tid=112911)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
