@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [How to Optimize Video File Size for Free in 5 Seconds](https://afflift.com/f/threads/how-to-optimize-video-file-size-for-free-in-5-seconds.12021/)
+-  14 [Congrats to 100.000 🎉🎉🎉](https://afflift.com/f/threads/congrats-to-100-000-%F0%9F%8E%89%F0%9F%8E%89%F0%9F%8E%89.12023/)
+-  14 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  14 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  14 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
 -  14 [Building an email list for the travel niche](https://afflift.com/f/threads/building-an-email-list-for-the-travel-niche.12011/)
--  14 [Congrats to 100.000 🎉🎉🎉](https://afflift.com/f/threads/congrats-to-100-000-%F0%9F%8E%89%F0%9F%8E%89%F0%9F%8E%89.12023/)
 -  14 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  14 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
 -  14 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  14 [OnlyTraffic - monetize your adult traffic with us, and earn big](https://afflift.com/f/threads/onlytraffic-monetize-your-adult-traffic-with-us-and-earn-big.12022/)
 -  14 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  14 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  14 [How to Optimize Video File Size for Free in 5 Seconds](https://afflift.com/f/threads/how-to-optimize-video-file-size-for-free-in-5-seconds.12021/)
--  14 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
--  14 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)<!-- afflift:END -->
+-  14 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
