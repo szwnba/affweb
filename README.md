@@ -21,11 +21,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Building an email list for the travel niche](https://afflift.com/f/threads/building-an-email-list-for-the-travel-niche.12011/)
 -  14 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
 -  13 [🌚 Let me cook some $9500 #ADSTERRAx2 Network Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-network-contest.12019/)
 -  13 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  13 [🌚 Let me cook some $9500 #ADSTERRAx2 Source Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-source-contest.12018/)
--  13 [Building an email list for the travel niche](https://afflift.com/f/threads/building-an-email-list-for-the-travel-niche.12011/)
 -  13 [any advice from facebook ads expert ?](https://afflift.com/f/threads/any-advice-from-facebook-ads-expert.12016/)
 -  13 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  13 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
