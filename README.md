@@ -21,6 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+-  14 [Building an email list for the travel niche](https://afflift.com/f/threads/building-an-email-list-for-the-travel-niche.12011/)
+-  14 [Exclusive Insider Secrets: The BizzOffers Affiliate Program Unveiled!](https://afflift.com/f/threads/exclusive-insider-secrets-the-bizzoffers-affiliate-program-unveiled.11156/)
+-  14 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
 -  14 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  14 [OnlyTraffic - monetize your adult traffic with us, and earn big](https://afflift.com/f/threads/onlytraffic-monetize-your-adult-traffic-with-us-and-earn-big.12022/)
 -  14 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
@@ -28,11 +32,7 @@
 -  14 [How to Optimize Video File Size for Free in 5 Seconds](https://afflift.com/f/threads/how-to-optimize-video-file-size-for-free-in-5-seconds.12021/)
 -  14 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  14 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  14 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  14 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
--  14 [Hello Affiliates, Looking For Team Work](https://afflift.com/f/threads/hello-affiliates-looking-for-team-work.12020/)
--  14 [RevContent RON Mobile CB VSL: Can I Save This Campaign?](https://afflift.com/f/threads/revcontent-ron-mobile-cb-vsl-can-i-save-this-campaign.11587/)
--  14 [🌚 Let me cook some $9500 #ADSTERRAx2 Source Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-source-contest.12018/)<!-- afflift:END -->
+-  14 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
