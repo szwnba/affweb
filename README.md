@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Cases for collecting push subscriptions](https://afflift.com/f/threads/cases-for-collecting-push-subscriptions.12004/)
+-  14 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
+-  14 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
+-  14 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
+-  14 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
+-  14 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  14 [🤯 How a Tired Mind Cost Me $100+ in a Day 😮](https://afflift.com/f/threads/%F0%9F%A4%AF-how-a-tired-mind-cost-me-100-in-a-day-%F0%9F%98%AE.12027/)
 -  14 [Shaving calculator!](https://afflift.com/f/threads/shaving-calculator.12025/)
 -  14 [Skyrocket Your Affiliate Revenue with Lasso](https://afflift.com/f/threads/skyrocket-your-affiliate-revenue-with-lasso.12017/)
 -  14 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  14 [Minified Lander Performs Worse?](https://afflift.com/f/threads/minified-lander-performs-worse.12026/)
--  14 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
--  14 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  14 [Getting a Pay Bump](https://afflift.com/f/threads/getting-a-pay-bump.5403/)
--  14 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  14 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
--  14 [How to Optimize Video File Size for Free in 5 Seconds](https://afflift.com/f/threads/how-to-optimize-video-file-size-for-free-in-5-seconds.12021/)
--  14 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)<!-- afflift:END -->
+-  14 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
