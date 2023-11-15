@@ -20,12 +20,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  14 [Skyrocket Your Affiliate Revenue with Lasso](https://afflift.com/f/threads/skyrocket-your-affiliate-revenue-with-lasso.12017/)
 -  14 [Minified Lander Performs Worse?](https://afflift.com/f/threads/minified-lander-performs-worse.12026/)
 -  14 [Outdated Tracker Database](https://afflift.com/f/threads/outdated-tracker-database.12028/)
 -  14 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
 -  14 [Cases for collecting push subscriptions](https://afflift.com/f/threads/cases-for-collecting-push-subscriptions.12004/)
--  14 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  14 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  14 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  14 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
