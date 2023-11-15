@@ -35,8 +35,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [从 HomePod「交响」到按需省电：我的自动化构建思路分享](https://sspai.com/post/84349)
 -  15 [派早报：2023 App Store Awards 入围者揭晓、闪迪固态硬盘故障系设计和制造缺陷等](https://sspai.com/post/84419)
 -  14 [处理器简史｜PowerPC 09：烽火连天 颓势初显（上）](https://sspai.com/prime/story/ppc-history-09)
 -  14 [社区速递 020 | 十年编程路、千元洗衣机以及作者们的新玩意](https://sspai.com/post/84408)
--  14 [一款低预算 Steam 独立游戏，如何做好发行](https://sspai.com/post/81359)
--  14 [探索生活的设备并不需要完美：iPhone 的四年使用思考](https://sspai.com/post/84362)<!-- sspai:END -->
+-  14 [一款低预算 Steam 独立游戏，如何做好发行](https://sspai.com/post/81359)<!-- sspai:END -->
