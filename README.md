@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  15 [What&#39;s the cheapest US Facebook outbound CPCs you are getting?](https://afflift.com/f/threads/whats-the-cheapest-us-facebook-outbound-cpcs-you-are-getting.12029/)
--  15 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
+-  15 [Minified Lander Performs Worse?](https://afflift.com/f/threads/minified-lander-performs-worse.12026/)
 -  15 [Outdated Tracker Database](https://afflift.com/f/threads/outdated-tracker-database.12028/)
+-  15 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  15 [The Affiliate Marketing Game Changer Has Arrived!](https://afflift.com/f/threads/the-affiliate-marketing-game-changer-has-arrived.11991/)
 -  15 [Shaving calculator!](https://afflift.com/f/threads/shaving-calculator.12025/)
 -  15 [Congrats to 100.000 🎉🎉🎉](https://afflift.com/f/threads/congrats-to-100-000-%F0%9F%8E%89%F0%9F%8E%89%F0%9F%8E%89.12023/)
 -  15 [Hello from Diamond City](https://afflift.com/f/threads/hello-from-diamond-city.11998/)
 -  15 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
 -  15 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
--  15 [Minified Lander Performs Worse?](https://afflift.com/f/threads/minified-lander-performs-worse.12026/)
--  15 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  15 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)<!-- afflift:END -->
+-  15 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
