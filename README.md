@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
+-  15 [AWA Bangkok&#39;23](https://afflift.com/f/threads/awa-bangkok23.12037/)
 -  15 [Decoding mVas Deception: Future Strategies?! 🤔💡](https://afflift.com/f/threads/decoding-mvas-deception-future-strategies-%F0%9F%A4%94%F0%9F%92%A1.12035/)
 -  15 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  15 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
@@ -29,9 +31,7 @@
 -  15 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)
 -  15 [Outdated Tracker Database](https://afflift.com/f/threads/outdated-tracker-database.12028/)
 -  15 [🌟 Unlock Massive Savings This Black Friday with EZmob! 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-unlock-massive-savings-this-black-friday-with-ezmob-%F0%9F%8C%9F.12033/)
--  15 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
--  15 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  15 [Cases for collecting push subscriptions](https://afflift.com/f/threads/cases-for-collecting-push-subscriptions.12004/)<!-- afflift:END -->
+-  15 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
