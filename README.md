@@ -20,9 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Decoding mVas Deception: Future Strategies?! 🤔💡](https://afflift.com/f/threads/decoding-mvas-deception-future-strategies-%F0%9F%A4%94%F0%9F%92%A1.12035/)
 -  15 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  15 [AWA Bangkok&#39;23](https://afflift.com/f/threads/awa-bangkok23.12037/)
--  15 [Decoding mVas Deception: Future Strategies?! 🤔💡](https://afflift.com/f/threads/decoding-mvas-deception-future-strategies-%F0%9F%A4%94%F0%9F%92%A1.12035/)
 -  15 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  15 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
 -  15 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
