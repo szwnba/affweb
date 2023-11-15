@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
+-  15 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  15 [Congrats to 100.000 🎉🎉🎉](https://afflift.com/f/threads/congrats-to-100-000-%F0%9F%8E%89%F0%9F%8E%89%F0%9F%8E%89.12023/)
+-  15 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
+-  15 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
+-  15 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  15 [What&#39;s the cheapest US Facebook outbound CPCs you are getting?](https://afflift.com/f/threads/whats-the-cheapest-us-facebook-outbound-cpcs-you-are-getting.12029/)
 -  15 [Outdated Tracker Database](https://afflift.com/f/threads/outdated-tracker-database.12028/)
 -  15 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  15 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
 -  15 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  15 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  15 [Congrats to 100.000 🎉🎉🎉](https://afflift.com/f/threads/congrats-to-100-000-%F0%9F%8E%89%F0%9F%8E%89%F0%9F%8E%89.12023/)
--  15 [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
--  15 [Ultimate Affiliate Marketing Guide for Black Friday/ Cyber Monday 2023](https://afflift.com/f/threads/ultimate-affiliate-marketing-guide-for-black-friday-cyber-monday-2023.11999/)
--  15 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  15 [Minified Lander Performs Worse?](https://afflift.com/f/threads/minified-lander-performs-worse.12026/)
--  15 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
+-  15 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
