@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
+-  15 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)
 -  15 [Outdated Tracker Database](https://afflift.com/f/threads/outdated-tracker-database.12028/)
 -  15 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  15 [🌟 Unlock Massive Savings This Black Friday with EZmob! 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-unlock-massive-savings-this-black-friday-with-ezmob-%F0%9F%8C%9F.12033/)
@@ -29,9 +31,7 @@
 -  15 [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
 -  15 [What&#39;s the cheapest US Facebook outbound CPCs you are getting?](https://afflift.com/f/threads/whats-the-cheapest-us-facebook-outbound-cpcs-you-are-getting.12029/)
 -  15 [FACEBOOK ADS ACCOUNT FOR RENT - HIGH SPEND LIMIT DAILY 250$, 1500$ and NOLIMIT, ✔️ BLUE STICKER PAGE ✔️ ▶️▶️▶️ Support 24/7, Accept BH,WH,GH ◀️◀️◀️](https://afflift.com/f/threads/facebook-ads-account-for-rent-high-spend-limit-daily-250-1500-and-nolimit-%E2%9C%94%EF%B8%8F-blue-sticker-page-%E2%9C%94%EF%B8%8F-%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F%E2%96%B6%EF%B8%8F-support-24-7-accept-bh-wh-gh-%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F%E2%97%80%EF%B8%8F.11267/)
--  15 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  15 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  15 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  15 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
