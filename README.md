@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  10 [阿里云2核2G3M带宽云服务器测评,99元/年可续费到2027年](https://51.ruyo.net/18532.html)<!-- ruyo:END -->
+-  15 [NVIDIA 4090 GPU服务器部署ChatGLM3-6B教程](https://51.ruyo.net/18538.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
