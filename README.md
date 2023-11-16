@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
 -  16 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  15 [&quot;Best Of&quot; affLIFT - MEGA Thread](https://afflift.com/f/threads/best-of-afflift-mega-thread.5811/)
 -  15 [What&#39;s the cheapest US Facebook outbound CPCs you are getting?](https://afflift.com/f/threads/whats-the-cheapest-us-facebook-outbound-cpcs-you-are-getting.12029/)
@@ -30,8 +31,7 @@
 -  15 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  15 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  15 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
--  15 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)
--  15 [Outdated Tracker Database](https://afflift.com/f/threads/outdated-tracker-database.12028/)<!-- afflift:END -->
+-  15 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
