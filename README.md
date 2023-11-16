@@ -10,7 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  15 [clickbank昨晚抽风的厉害，有同感的吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112926)<!-- advertcn:END -->
+-  16 [发红包求国外广告联盟cps emu教程](https://www.advertcn.com/forum.php?mod=viewthread&tid=112953)
+-  16 [落地页工具推荐](https://www.advertcn.com/forum.php?mod=viewthread&tid=112952)
+-  16 [BHW这个论坛靠谱吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112947)
+-  16 [FB帖子速推，新手尝试……](https://www.advertcn.com/forum.php?mod=viewthread&tid=112942)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
