@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
 -  16 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
 -  16 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  16 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
@@ -33,8 +34,7 @@
 -  16 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  16 [Up to 750$ Cashback to Your Balance from AdOperator](https://afflift.com/f/threads/up-to-750-cashback-to-your-balance-from-adoperator.12042/)
 -  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  16 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
--  16 [AWA Bangkok&#39;23](https://afflift.com/f/threads/awa-bangkok23.12037/)<!-- afflift:END -->
+-  16 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
