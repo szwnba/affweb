@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  16 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/)
+-  16 [Decoding mVas Deception: Future Strategies?! 🤔💡](https://afflift.com/f/threads/decoding-mvas-deception-future-strategies-%F0%9F%A4%94%F0%9F%92%A1.12035/)
 -  16 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  16 [This Goes Out To My Fellow Aussies](https://afflift.com/f/threads/this-goes-out-to-my-fellow-aussies.12040/)
 -  16 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
@@ -28,10 +31,7 @@
 -  16 [Anyone running google display ads here?](https://afflift.com/f/threads/anyone-running-google-display-ads-here.12038/)
 -  16 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
 -  16 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)
--  16 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
--  16 [AWA Bangkok&#39;23](https://afflift.com/f/threads/awa-bangkok23.12037/)
--  16 [Decoding mVas Deception: Future Strategies?! 🤔💡](https://afflift.com/f/threads/decoding-mvas-deception-future-strategies-%F0%9F%A4%94%F0%9F%92%A1.12035/)
--  16 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)<!-- afflift:END -->
+-  16 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
