@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [新玩意 165｜少数派的编辑们最近买了啥？](https://sspai.com/post/84457)
 -  16 [对话王计兵：生活给了我们多少积雪，就给了我们多少个春天](https://sspai.com/post/84435)
 -  16 [自由输入法 RIME 简明配置指南（2023 版）](https://sspai.com/post/84373)
 -  16 [派早报：小米汽车公示、CDPR 将推出《猎魔人 3》mod 编辑器等](https://sspai.com/post/84444)<!-- sspai:END -->
