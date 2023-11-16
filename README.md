@@ -38,5 +38,4 @@
 -  15 [从百元到千元磁盘的「消费升级」，聊聊我组装「固态 U 盘」的八年](https://sspai.com/post/82986)
 -  15 [城市漫步指南：宁波，用桂花香开启一整个秋天](https://sspai.com/post/83923)
 -  15 [现场活动 | 一起听歌吧！周六来少数派线下店享受 HiFi 音乐](https://sspai.com/post/84421)
--  15 [从 HomePod「交响」到按需省电：我的自动化构建思路分享](https://sspai.com/post/84349)
--  15 [派早报：2023 App Store Awards 入围者揭晓、闪迪固态硬盘故障系设计和制造缺陷等](https://sspai.com/post/84419)<!-- sspai:END -->
+-  15 [从 HomePod「交响」到按需省电：我的自动化构建思路分享](https://sspai.com/post/84349)<!-- sspai:END -->
