@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
+-  16 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
+-  16 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
 -  16 [This Goes Out To My Fellow Aussies](https://afflift.com/f/threads/this-goes-out-to-my-fellow-aussies.12040/)
 -  16 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  16 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
@@ -31,10 +34,7 @@
 -  16 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  16 [AWA Bangkok&#39;23](https://afflift.com/f/threads/awa-bangkok23.12037/)
 -  16 [Sweepstakes Offer + ProPush Tag: An Easy Way to Get Extra 30% to Your Profit [Case Study]](https://afflift.com/f/threads/sweepstakes-offer-propush-tag-an-easy-way-to-get-extra-30-to-your-profit-case-study.12041/)
--  16 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
--  16 [What&#39;s the cheapest US Facebook outbound CPCs you are getting?](https://afflift.com/f/threads/whats-the-cheapest-us-facebook-outbound-cpcs-you-are-getting.12029/)
--  16 [Anyone running google display ads here?](https://afflift.com/f/threads/anyone-running-google-display-ads-here.12038/)
--  16 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)<!-- afflift:END -->
+-  16 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
