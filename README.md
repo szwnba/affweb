@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  16 [自由输入法 RIME 简明配置指南（2023 版）](https://sspai.com/post/84373)
 -  16 [派早报：小米汽车公示、CDPR 将推出《猎魔人 3》mod 编辑器等](https://sspai.com/post/84444)
--  15 [从百元到千元磁盘的「消费升级」，聊聊我组装「固态 U 盘」的八年](https://sspai.com/post/82986)
--  15 [城市漫步指南：宁波，用桂花香开启一整个秋天](https://sspai.com/post/83923)<!-- sspai:END -->
+-  15 [从百元到千元磁盘的「消费升级」，聊聊我组装「固态 U 盘」的八年](https://sspai.com/post/82986)<!-- sspai:END -->
