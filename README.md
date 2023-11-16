@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  16 [API leads](https://afflift.com/f/threads/api-leads.11943/)
+-  16 [Anyone running google display ads here?](https://afflift.com/f/threads/anyone-running-google-display-ads-here.12038/)
 -  16 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)
+-  16 [Decoding mVas Deception: Future Strategies?! 🤔💡](https://afflift.com/f/threads/decoding-mvas-deception-future-strategies-%F0%9F%A4%94%F0%9F%92%A1.12035/)
+-  16 [API leads](https://afflift.com/f/threads/api-leads.11943/)
 -  16 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
 -  16 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  15 [&quot;Best Of&quot; affLIFT - MEGA Thread](https://afflift.com/f/threads/best-of-afflift-mega-thread.5811/)
 -  15 [What&#39;s the cheapest US Facebook outbound CPCs you are getting?](https://afflift.com/f/threads/whats-the-cheapest-us-facebook-outbound-cpcs-you-are-getting.12029/)
--  15 [Decoding mVas Deception: Future Strategies?! 🤔💡](https://afflift.com/f/threads/decoding-mvas-deception-future-strategies-%F0%9F%A4%94%F0%9F%92%A1.12035/)
 -  15 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
 -  15 [AWA Bangkok&#39;23](https://afflift.com/f/threads/awa-bangkok23.12037/)
 -  15 [🎯First time running Facebook Ads with a Tracker!😲](https://afflift.com/f/threads/%F0%9F%8E%AFfirst-time-running-facebook-ads-with-a-tracker-%F0%9F%98%B2.12006/)
--  15 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  15 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)<!-- afflift:END -->
+-  15 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
