@@ -25,12 +25,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
 -  17 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  17 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  17 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  17 [Anyone running google display ads here?](https://afflift.com/f/threads/anyone-running-google-display-ads-here.12038/)
 -  17 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
--  17 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
 -  17 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
 -  17 [Sweepstakes Offer + ProPush Tag: An Easy Way to Get Extra 30% to Your Profit [Case Study]](https://afflift.com/f/threads/sweepstakes-offer-propush-tag-an-easy-way-to-get-extra-30-to-your-profit-case-study.12041/)
 -  17 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)
