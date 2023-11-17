@@ -25,6 +25,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
+-  17 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  17 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  17 [Anyone running google display ads here?](https://afflift.com/f/threads/anyone-running-google-display-ads-here.12038/)
 -  17 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
@@ -34,9 +36,7 @@
 -  17 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)
 -  17 [What&#39;s the cheapest US Facebook outbound CPCs you are getting?](https://afflift.com/f/threads/whats-the-cheapest-us-facebook-outbound-cpcs-you-are-getting.12029/)
 -  17 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
--  16 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  16 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
--  16 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)<!-- afflift:END -->
+-  16 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
