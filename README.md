@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)
+-  17 [What&#39;s the cheapest US Facebook outbound CPCs you are getting?](https://afflift.com/f/threads/whats-the-cheapest-us-facebook-outbound-cpcs-you-are-getting.12029/)
 -  17 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  16 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  16 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
@@ -32,9 +34,7 @@
 -  16 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
 -  16 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
 -  16 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
--  16 [This Goes Out To My Fellow Aussies](https://afflift.com/f/threads/this-goes-out-to-my-fellow-aussies.12040/)
--  16 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  16 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)<!-- afflift:END -->
+-  16 [This Goes Out To My Fellow Aussies](https://afflift.com/f/threads/this-goes-out-to-my-fellow-aussies.12040/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
