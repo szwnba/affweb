@@ -41,5 +41,4 @@
 -  17 [本周看什么 | 最近值得一看的一大本作品](https://sspai.com/post/84477)
 -  17 [从 StressWatch 聊起：我们该如何看待 HRV 和压力监测硬件？](https://sspai.com/post/84456)
 -  17 [在 Mac 与 iPad 上远程使用 Windows 系统，这是我的折腾笔记](https://sspai.com/post/84443)
--  17 [派早报：Apple 将在明年支持 RCS 协议、微软消息五则等](https://sspai.com/post/84467)
--  16 [大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」](https://sspai.com/prime/story/gen-ai-ipr-commitments)<!-- sspai:END -->
+-  17 [派早报：Apple 将在明年支持 RCS 协议、微软消息五则等](https://sspai.com/post/84467)<!-- sspai:END -->
