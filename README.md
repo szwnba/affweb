@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  16 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  16 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
 -  16 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
 -  16 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
 -  16 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
@@ -31,10 +34,7 @@
 -  16 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
 -  16 [This Goes Out To My Fellow Aussies](https://afflift.com/f/threads/this-goes-out-to-my-fellow-aussies.12040/)
 -  16 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  16 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
--  16 [Up to 750$ Cashback to Your Balance from AdOperator](https://afflift.com/f/threads/up-to-750-cashback-to-your-balance-from-adoperator.12042/)
--  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  16 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)<!-- afflift:END -->
+-  16 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
