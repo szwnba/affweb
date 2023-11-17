@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  17 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  17 [how to buy USA whatsapp number for whatsapp business account](https://afflift.com/f/threads/how-to-buy-usa-whatsapp-number-for-whatsapp-business-account.10825/)
 -  17 [Slotland Affiliates | RevShare/CPA/Hybrid | In-House Brands](https://afflift.com/f/threads/slotland-affiliates-revshare-cpa-hybrid-in-house-brands.11859/)
 -  17 [Slotland Affiliates Review](https://afflift.com/f/threads/slotland-affiliates-review.12047/)
 -  17 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
@@ -31,10 +34,7 @@
 -  17 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  17 [Sweepstakes Offer + ProPush Tag: An Easy Way to Get Extra 30% to Your Profit [Case Study]](https://afflift.com/f/threads/sweepstakes-offer-propush-tag-an-easy-way-to-get-extra-30-to-your-profit-case-study.12041/)
 -  17 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
--  17 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  17 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  17 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  17 [The Ultimate Guide to Clickloss](https://afflift.com/f/threads/the-ultimate-guide-to-clickloss.3747/)<!-- afflift:END -->
+-  17 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
