@@ -40,8 +40,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [从 StressWatch 聊起：我们该如何看待 HRV 和压力监测硬件？](https://sspai.com/post/84456)
 -  17 [在 Mac 与 iPad 上远程使用 Windows 系统，这是我的折腾笔记](https://sspai.com/post/84443)
 -  17 [派早报：Apple 将在明年支持 RCS 协议、微软消息五则等](https://sspai.com/post/84467)
 -  16 [大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」](https://sspai.com/prime/story/gen-ai-ipr-commitments)
--  16 [新玩意 165｜少数派的编辑们最近买了啥？](https://sspai.com/post/84457)
--  16 [对话王计兵：生活给了我们多少积雪，就给了我们多少个春天](https://sspai.com/post/84435)<!-- sspai:END -->
+-  16 [新玩意 165｜少数派的编辑们最近买了啥？](https://sspai.com/post/84457)<!-- sspai:END -->
