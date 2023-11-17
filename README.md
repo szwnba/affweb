@@ -40,6 +40,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [派早报：Apple 将在明年支持 RCS 协议、微软消息五则等](https://sspai.com/post/84467)
 -  16 [大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」](https://sspai.com/prime/story/gen-ai-ipr-commitments)
 -  16 [新玩意 165｜少数派的编辑们最近买了啥？](https://sspai.com/post/84457)
 -  16 [对话王计兵：生活给了我们多少积雪，就给了我们多少个春天](https://sspai.com/post/84435)
