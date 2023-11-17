@@ -23,18 +23,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
 -  17 [Minified Lander Performs Worse?](https://afflift.com/f/threads/minified-lander-performs-worse.12026/)
 -  17 [Follow Along - Make $20 a Day](https://afflift.com/f/threads/follow-along-make-20-a-day.10149/)
+-  17 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
+-  17 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
+-  17 [Identify best SmartCPC price](https://afflift.com/f/threads/identify-best-smartcpc-price.12048/)
 -  17 [how to buy USA whatsapp number for whatsapp business account](https://afflift.com/f/threads/how-to-buy-usa-whatsapp-number-for-whatsapp-business-account.10825/)
 -  17 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
 -  17 [Sweepstakes Offer + ProPush Tag: An Easy Way to Get Extra 30% to Your Profit [Case Study]](https://afflift.com/f/threads/sweepstakes-offer-propush-tag-an-easy-way-to-get-extra-30-to-your-profit-case-study.12041/)
 -  17 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  17 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  17 [Slotland Affiliates | RevShare/CPA/Hybrid | In-House Brands](https://afflift.com/f/threads/slotland-affiliates-revshare-cpa-hybrid-in-house-brands.11859/)
--  17 [Slotland Affiliates Review](https://afflift.com/f/threads/slotland-affiliates-review.12047/)
--  17 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
--  17 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  17 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)<!-- afflift:END -->
+-  17 [Slotland Affiliates | RevShare/CPA/Hybrid | In-House Brands](https://afflift.com/f/threads/slotland-affiliates-revshare-cpa-hybrid-in-house-brands.11859/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
