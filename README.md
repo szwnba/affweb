@@ -37,5 +37,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  18 [来势汹汹的支原体肺炎究竟是什么？我们又该如何应对？](https://sspai.com/post/84473)
--  17 [本周看什么 | 最近值得一看的一大本作品](https://sspai.com/post/84477)<!-- sspai:END -->
+-  18 [来势汹汹的支原体肺炎究竟是什么？我们又该如何应对？](https://sspai.com/post/84473)<!-- sspai:END -->
