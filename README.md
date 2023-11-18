@@ -12,9 +12,7 @@
 <!-- advertcn:START -->
 -  17 [这是网站是用哪个建站系统？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112966)
 -  17 [【922proxy】估计要跑路了，客服也很吊，大家慎用](https://www.advertcn.com/forum.php?mod=viewthread&tid=112965)
--  17 [向论坛的高手请教-如何起量？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112961)
--  17 [外贸13年终于打算SOHO了](https://www.advertcn.com/forum.php?mod=viewthread&tid=112960)
--  17 [有个纠结的问题，圣诞节到了，送同个公司三个人礼物](https://www.advertcn.com/forum.php?mod=viewthread&tid=112959)<!-- advertcn:END -->
+-  17 [向论坛的高手请教-如何起量？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112961)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
