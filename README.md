@@ -23,9 +23,9 @@
 ### afflift
 <!-- afflift:START -->
 -  18 [Domain Suspension Query: Seeking Expert Advice on Potential Legal Concerns](https://afflift.com/f/threads/domain-suspension-query-seeking-expert-advice-on-potential-legal-concerns.12050/)
+-  18 [Identify best SmartCPC price](https://afflift.com/f/threads/identify-best-smartcpc-price.12048/)
 -  18 [Help me stop getting email spammed to death 💀 🙏](https://afflift.com/f/threads/help-me-stop-getting-email-spammed-to-death-%F0%9F%92%80-%F0%9F%99%8F.11932/)
 -  18 [Good and honest offer for influencers](https://afflift.com/f/threads/good-and-honest-offer-for-influencers.12049/)
--  17 [Identify best SmartCPC price](https://afflift.com/f/threads/identify-best-smartcpc-price.12048/)
 -  17 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
 -  17 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
 -  17 [Congrats to 100.000 🎉🎉🎉](https://afflift.com/f/threads/congrats-to-100-000-%F0%9F%8E%89%F0%9F%8E%89%F0%9F%8E%89.12023/)
