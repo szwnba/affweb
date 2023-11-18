@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
 -  18 [Suggest to me the Best networks to try &lpar;Beginner &rpar;](https://afflift.com/f/threads/suggest-to-me-the-best-networks-to-try-beginner.12056/)
 -  18 [Good and honest offer for influencers](https://afflift.com/f/threads/good-and-honest-offer-for-influencers.12049/)
 -  18 [#ADSTERRAx2 new traffic source with working traffic?](https://afflift.com/f/threads/adsterrax2-new-traffic-source-with-working-traffic.12055/)
@@ -32,8 +33,7 @@
 -  18 [Website sign-in issue with Sidekick browser?](https://afflift.com/f/threads/website-sign-in-issue-with-sidekick-browser.12051/)
 -  18 [Identify best SmartCPC price](https://afflift.com/f/threads/identify-best-smartcpc-price.12048/)
 -  18 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  18 [Changemyip.com  - Static &amp; Rotating Proxies - SOCKS5 / HTTP / ShadowSOCKSS / Wireguard VPN](https://afflift.com/f/threads/changemyip-com-static-rotating-proxies-socks5-http-shadowsockss-wireguard-vpn.12052/)
--  18 [Anonymous-proxies.net - Fully Anonymous Proxies - SOCKS5 / HTTP /ShadowSOCKSS / Wireguard VPN](https://afflift.com/f/threads/anonymous-proxies-net-fully-anonymous-proxies-socks5-http-shadowsockss-wireguard-vpn.11474/)<!-- afflift:END -->
+-  18 [Changemyip.com  - Static &amp; Rotating Proxies - SOCKS5 / HTTP / ShadowSOCKSS / Wireguard VPN](https://afflift.com/f/threads/changemyip-com-static-rotating-proxies-socks5-http-shadowsockss-wireguard-vpn.12052/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
