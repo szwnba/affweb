@@ -10,9 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  17 [https://ipcloak.icu 斗篷升级啦 ,支持 PHP 上传部署,同域双库](https://www.advertcn.com/forum.php?mod=viewthread&tid=112967)
--  17 [这是网站是用哪个建站系统？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112966)
--  17 [【922proxy】估计要跑路了，客服也很吊，大家慎用](https://www.advertcn.com/forum.php?mod=viewthread&tid=112965)<!-- advertcn:END -->
+-  19 [请问下，阿根廷的钱要怎么拿回来](https://www.advertcn.com/forum.php?mod=viewthread&tid=112977)
+-  19 [来个们，Google AdSense怎么收款](https://www.advertcn.com/forum.php?mod=viewthread&tid=112976)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
