@@ -37,4 +37,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  18 [来势汹汹的支原体肺炎究竟是什么？我们又该如何应对？](https://sspai.com/post/84473)<!-- sspai:END -->
+-  19 [App+1 | Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」](https://sspai.com/post/84498)<!-- sspai:END -->
