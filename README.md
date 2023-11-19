@@ -22,10 +22,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [The Grand Guide to Getting Started on affLIFT](https://afflift.com/f/threads/the-grand-guide-to-getting-started-on-afflift.8141/)
 -  18 [I need help with Purelander and Propush](https://afflift.com/f/threads/i-need-help-with-purelander-and-propush.12053/)
 -  18 [Identify best SmartCPC price](https://afflift.com/f/threads/identify-best-smartcpc-price.12048/)
 -  18 [Website sign-in issue with Sidekick browser?](https://afflift.com/f/threads/website-sign-in-issue-with-sidekick-browser.12051/)
--  18 [The Grand Guide to Getting Started on affLIFT](https://afflift.com/f/threads/the-grand-guide-to-getting-started-on-afflift.8141/)
 -  18 [#ADSTERRAx2 new traffic source with working traffic?](https://afflift.com/f/threads/adsterrax2-new-traffic-source-with-working-traffic.12055/)
 -  18 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  18 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
