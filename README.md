@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [#ADSTERRAx2 new traffic source with working traffic?](https://afflift.com/f/threads/adsterrax2-new-traffic-source-with-working-traffic.12055/)
 -  19 [How to Quickly Create Lander Variations &lpar;Dynamic LP&rpar;](https://afflift.com/f/threads/how-to-quickly-create-lander-variations-dynamic-lp.9770/)
 -  19 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  19 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
@@ -31,7 +32,6 @@
 -  19 [Website sign-in issue with Sidekick browser?](https://afflift.com/f/threads/website-sign-in-issue-with-sidekick-browser.12051/)
 -  19 [Suggest to me the Best networks to try &lpar;Beginner &rpar;](https://afflift.com/f/threads/suggest-to-me-the-best-networks-to-try-beginner.12056/)
 -  19 [Shaving calculator!](https://afflift.com/f/threads/shaving-calculator.12025/)
--  19 [#ADSTERRAx2 new traffic source with working traffic?](https://afflift.com/f/threads/adsterrax2-new-traffic-source-with-working-traffic.12055/)
 -  18 [Identify best SmartCPC price](https://afflift.com/f/threads/identify-best-smartcpc-price.12048/)<!-- afflift:END -->
 
 ### 少数派
