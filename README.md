@@ -36,4 +36,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [派早报：Sam Altman 被解职，正协商重返](https://sspai.com/post/84504)
 -  19 [Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」](https://sspai.com/post/84498)<!-- sspai:END -->
