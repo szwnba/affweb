@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  19 [对于没有什么起色的网站，大家会放弃这个域名还是？](https://www.advertcn.com/forum.php?mod=viewthread&tid=112981)
 -  19 [请问下，阿根廷的钱要怎么拿回来](https://www.advertcn.com/forum.php?mod=viewthread&tid=112977)
 -  19 [来个们，Google AdSense怎么收款](https://www.advertcn.com/forum.php?mod=viewthread&tid=112976)<!-- advertcn:END -->
 
