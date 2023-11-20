@@ -23,6 +23,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
+-  20 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  20 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  20 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)
 -  19 [Landing Pages 101](https://afflift.com/f/threads/landing-pages-101.8005/)
@@ -32,9 +34,7 @@
 -  19 [How to Quickly Create Lander Variations &lpar;Dynamic LP&rpar;](https://afflift.com/f/threads/how-to-quickly-create-lander-variations-dynamic-lp.9770/)
 -  19 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  19 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
--  19 [I need help with Purelander and Propush](https://afflift.com/f/threads/i-need-help-with-purelander-and-propush.12053/)
--  19 [Let&#39;s test Adsterra CPA network, small comeback after few months](https://afflift.com/f/threads/lets-test-adsterra-cpa-network-small-comeback-after-few-months.12058/)
--  19 [Website sign-in issue with Sidekick browser?](https://afflift.com/f/threads/website-sign-in-issue-with-sidekick-browser.12051/)<!-- afflift:END -->
+-  19 [I need help with Purelander and Propush](https://afflift.com/f/threads/i-need-help-with-purelander-and-propush.12053/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
