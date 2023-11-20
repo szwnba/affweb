@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Redeeming Revshare for Membership](https://afflift.com/f/threads/redeeming-revshare-for-membership.12062/)
+-  20 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
+-  20 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
 -  20 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
 -  20 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)
 -  20 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
@@ -28,10 +31,7 @@
 -  20 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
 -  20 [Let&#39;s test Adsterra CPA network, small comeback after few months](https://afflift.com/f/threads/lets-test-adsterra-cpa-network-small-comeback-after-few-months.12058/)
 -  20 [AdSense is updating its revenue share-structure and moving to per-impression payments for publishers](https://afflift.com/f/threads/adsense-is-updating-its-revenue-share-structure-and-moving-to-per-impression-payments-for-publishers.12060/)
--  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  20 [Suggest to me the Best networks to try &lpar;Beginner &rpar;](https://afflift.com/f/threads/suggest-to-me-the-best-networks-to-try-beginner.12056/)
--  20 [#PA old is gold &quot;Adsense Arbitrage&quot; 💪](https://afflift.com/f/threads/pa-old-is-gold-adsense-arbitrage-%F0%9F%92%AA.11571/)
--  20 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)<!-- afflift:END -->
+-  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
