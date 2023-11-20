@@ -20,8 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  20 [AdSense is updating its revenue share-structure and moving to per-impression payments for publishers](https://afflift.com/f/threads/adsense-is-updating-its-revenue-share-structure-and-moving-to-per-impression-payments-for-publishers.12060/)
 -  20 [Let&#39;s test Adsterra CPA network, small comeback after few months](https://afflift.com/f/threads/lets-test-adsterra-cpa-network-small-comeback-after-few-months.12058/)
+-  20 [AdSense is updating its revenue share-structure and moving to per-impression payments for publishers](https://afflift.com/f/threads/adsense-is-updating-its-revenue-share-structure-and-moving-to-per-impression-payments-for-publishers.12060/)
 -  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  20 [Suggest to me the Best networks to try &lpar;Beginner &rpar;](https://afflift.com/f/threads/suggest-to-me-the-best-networks-to-try-beginner.12056/)
 -  20 [#PA old is gold &quot;Adsense Arbitrage&quot; 💪](https://afflift.com/f/threads/pa-old-is-gold-adsense-arbitrage-%F0%9F%92%AA.11571/)
