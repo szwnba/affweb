@@ -38,6 +38,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [iPhone 加入游戏，但 USB-C 的乱纪元还没有完结](https://sspai.com/post/84508)
 -  20 [哪些 GPTs 应用让我眼前一亮？你又该如何找到它们？](https://sspai.com/post/84471)
--  20 [派早报：Sam Altman 被解职，正协商重返](https://sspai.com/post/84504)
--  19 [Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」](https://sspai.com/post/84498)<!-- sspai:END -->
+-  20 [派早报：Sam Altman 被解职，正协商重返](https://sspai.com/post/84504)<!-- sspai:END -->
