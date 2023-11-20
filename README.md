@@ -21,6 +21,9 @@
 ### afflift
 <!-- afflift:START -->
 -  20 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
+-  20 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  20 [How do you scale up when your propellerAds cpa goal campaigns are green ?](https://afflift.com/f/threads/how-do-you-scale-up-when-your-propellerads-cpa-goal-campaigns-are-green.12008/)
+-  20 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  20 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
 -  20 [#ADSTERRAx2 Scaling Lumos VPN Offer](https://afflift.com/f/threads/adsterrax2-scaling-lumos-vpn-offer.12054/)
 -  20 [#PA old is gold &quot;Adsense Arbitrage&quot; 💪](https://afflift.com/f/threads/pa-old-is-gold-adsense-arbitrage-%F0%9F%92%AA.11571/)
@@ -28,10 +31,7 @@
 -  20 [Is there anyone doing content arbitrage using adsense/adx and push/fb ads?](https://afflift.com/f/threads/is-there-anyone-doing-content-arbitrage-using-adsense-adx-and-push-fb-ads.11927/)
 -  20 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  20 [AdSense is updating its revenue share-structure and moving to per-impression payments for publishers](https://afflift.com/f/threads/adsense-is-updating-its-revenue-share-structure-and-moving-to-per-impression-payments-for-publishers.12060/)
--  20 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
--  20 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  20 [I need help with Purelander and Propush](https://afflift.com/f/threads/i-need-help-with-purelander-and-propush.12053/)
--  20 [Sweepstakes Offer + ProPush Tag: An Easy Way to Get Extra 30% to Your Profit [Case Study]](https://afflift.com/f/threads/sweepstakes-offer-propush-tag-an-easy-way-to-get-extra-30-to-your-profit-case-study.12041/)<!-- afflift:END -->
+-  20 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
