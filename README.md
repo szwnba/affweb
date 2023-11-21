@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [💰 How much revenue do traffic sources generate?](https://afflift.com/f/threads/%F0%9F%92%B0-how-much-revenue-do-traffic-sources-generate.12068/)
+-  21 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
+-  21 [#ADSTERRAx2 Scaling Lumos VPN Offer](https://afflift.com/f/threads/adsterrax2-scaling-lumos-vpn-offer.12054/)
+-  21 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
+-  21 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
 -  21 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  21 [Finally Become Life time member](https://afflift.com/f/threads/finally-become-life-time-member.12073/)
 -  21 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
 -  21 [Pay Per Call](https://afflift.com/f/threads/pay-per-call.175/)
 -  21 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
 -  21 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
--  21 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  21 [PropellerAds to the Riches 🤑 - $300 Profit/Day Achieved! ✅](https://afflift.com/f/threads/propellerads-to-the-riches-%F0%9F%A4%91-300-profit-day-achieved-%E2%9C%85.11567/)
--  21 [💰 How much revenue do traffic sources generate?](https://afflift.com/f/threads/%F0%9F%92%B0-how-much-revenue-do-traffic-sources-generate.12068/)
--  21 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
--  21 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
--  21 [SOCKS5/HTTP&lpar;S&rpar;⚡2023 Residential Proxy List⚡922S5Proxy](https://afflift.com/f/threads/socks5-http-s-%E2%9A%A12023-residential-proxy-list%E2%9A%A1922s5proxy.12065/)<!-- afflift:END -->
+-  21 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
