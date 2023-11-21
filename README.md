@@ -10,9 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  21 [TMD谷歌为什么不给我流量](https://www.advertcn.com/forum.php?mod=viewthread&tid=112992)
--  20 [大量出售 youtube获利号 油管收益号 V&lpar;WS223309）](https://www.advertcn.com/forum.php?mod=viewthread&tid=112991)
--  20 [请教，IM安装后与Wordpress无法兼容](https://www.advertcn.com/forum.php?mod=viewthread&tid=112986)<!-- advertcn:END -->
+-  20 [大量出售 youtube获利号 油管收益号 V&lpar;WS223309）](https://www.advertcn.com/forum.php?mod=viewthread&tid=112991)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
