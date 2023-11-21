@@ -22,10 +22,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [#ADSTERRAx2 Scaling Lumos VPN Offer](https://afflift.com/f/threads/adsterrax2-scaling-lumos-vpn-offer.12054/)
 -  21 [Online marketing newbie here: let&#39;s chat ideas and connect](https://afflift.com/f/threads/online-marketing-newbie-here-lets-chat-ideas-and-connect.12076/)
 -  21 [💰 How much revenue do traffic sources generate?](https://afflift.com/f/threads/%F0%9F%92%B0-how-much-revenue-do-traffic-sources-generate.12068/)
 -  21 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  21 [#ADSTERRAx2 Scaling Lumos VPN Offer](https://afflift.com/f/threads/adsterrax2-scaling-lumos-vpn-offer.12054/)
 -  21 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
 -  21 [Clickadila Push notification Arbitrage](https://afflift.com/f/threads/clickadila-push-notification-arbitrage.11771/)
 -  21 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
