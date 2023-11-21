@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典](https://sspai.com/post/84538)
 -  21 [排排坐，吃果果：趣谈 Apple Store 各色座椅](https://sspai.com/post/84523)
 -  21 [城市漫步指南：在将秋未秋时，到访一次京都](https://sspai.com/post/84446)
 -  21 [派早报：Sam Altman 复职谈判破裂，三大运营商公布 10 月数据等](https://sspai.com/post/84517)<!-- sspai:END -->
