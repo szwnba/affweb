@@ -22,8 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Anyone have success with popcash?!](https://afflift.com/f/threads/anyone-have-success-with-popcash.12064/)
+-  21 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
 -  21 [Exoclick cannot record Binom&#39;s conversion?](https://afflift.com/f/threads/exoclick-cannot-record-binoms-conversion.12063/)
+-  21 [Anyone have success with popcash?!](https://afflift.com/f/threads/anyone-have-success-with-popcash.12064/)
 -  21 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  21 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  21 [Is HAKA still around?](https://afflift.com/f/threads/is-haka-still-around.11965/)
@@ -32,8 +33,7 @@
 -  21 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
 -  21 [Redeeming Revshare for Membership](https://afflift.com/f/threads/redeeming-revshare-for-membership.12062/)
 -  21 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  21 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
--  21 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)<!-- afflift:END -->
+-  21 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
