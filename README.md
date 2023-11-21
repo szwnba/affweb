@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  21 [派早报：Sam Altman 复职谈判破裂，三大运营商公布 10 月数据等](https://sspai.com/post/84517)
 -  20 [派评 | 近期值得关注的 App](https://sspai.com/post/84516)
--  20 [iPhone 加入游戏，但 USB-C 的乱纪元还没有完结](https://sspai.com/post/84508)
--  20 [哪些 GPTs 应用让我眼前一亮？你又该如何找到它们？](https://sspai.com/post/84471)<!-- sspai:END -->
+-  20 [iPhone 加入游戏，但 USB-C 的乱纪元还没有完结](https://sspai.com/post/84508)<!-- sspai:END -->
