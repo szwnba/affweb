@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  15 [NVIDIA 4090 GPU服务器部署ChatGLM3-6B教程](https://51.ruyo.net/18538.html)<!-- ruyo:END -->
+-  21 [2023年黑色星期五和网络星期一主机类活动收集](https://51.ruyo.net/18544.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
