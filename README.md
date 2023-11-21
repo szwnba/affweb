@@ -22,6 +22,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
+-  21 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
 -  21 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  21 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
 -  21 [Redeeming Revshare for Membership](https://afflift.com/f/threads/redeeming-revshare-for-membership.12062/)
@@ -31,9 +33,7 @@
 -  21 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  20 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  20 [CPV Lab Pro - Track, Test and Optimize All of Your Marketing](https://afflift.com/f/threads/cpv-lab-pro-track-test-and-optimize-all-of-your-marketing.3912/)
--  20 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)
--  20 [AI News, Tools &amp; Trends](https://afflift.com/f/threads/ai-news-tools-trends.11939/)
--  20 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)<!-- afflift:END -->
+-  20 [Understanding CPA Goal, SmartCPM, and CPM for Popunder on PropellerAds](https://afflift.com/f/threads/understanding-cpa-goal-smartcpm-and-cpm-for-popunder-on-propellerads.11845/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
