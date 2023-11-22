@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [September PropellerAds Promo Codes](https://afflift.com/f/threads/september-propellerads-promo-codes.9531/)
 -  22 [Zeropark-Refund](https://afflift.com/f/threads/zeropark-refund.12087/)
 -  22 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  22 [Anyone running google display ads here?](https://afflift.com/f/threads/anyone-running-google-display-ads-here.12038/)
@@ -31,8 +32,7 @@
 -  22 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
 -  22 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  22 [🚨 BFCM Exclusive: Next-Level Automation for a Fraction of Price](https://afflift.com/f/threads/%F0%9F%9A%A8-bfcm-exclusive-next-level-automation-for-a-fraction-of-price.12086/)
--  22 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
--  22 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)<!-- afflift:END -->
+-  22 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
