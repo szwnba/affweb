@@ -10,9 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  21 [英语好的帮忙看下](https://www.advertcn.com/forum.php?mod=viewthread&tid=113002)
--  21 [shareasale收款问题](https://www.advertcn.com/forum.php?mod=viewthread&tid=112993)
--  21 [TMD谷歌为什么不给我流量](https://www.advertcn.com/forum.php?mod=viewthread&tid=112992)<!-- advertcn:END -->
+-  22 [Adsense国内银行收款手续费多少？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113018)
+-  21 [AdSense最近这段时间的展示次数很低，这可咋整？！](https://www.advertcn.com/forum.php?mod=viewthread&tid=113012)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
