@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等](https://sspai.com/post/84551)
 -  21 [社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典](https://sspai.com/post/84538)
 -  21 [排排坐，吃果果：趣谈 Apple Store 各色座椅](https://sspai.com/post/84523)
 -  21 [城市漫步指南：在将秋未秋时，到访一次京都](https://sspai.com/post/84446)<!-- sspai:END -->
