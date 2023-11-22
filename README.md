@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  22 [独立小团队如何在开发时省钱省事？这是我们选择的技术架构](https://sspai.com/post/83468)
 -  22 [派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等](https://sspai.com/post/84551)
--  21 [社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典](https://sspai.com/post/84538)
--  21 [排排坐，吃果果：趣谈 Apple Store 各色座椅](https://sspai.com/post/84523)<!-- sspai:END -->
+-  21 [社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典](https://sspai.com/post/84538)<!-- sspai:END -->
