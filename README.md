@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥](https://sspai.com/prime/story/zhuanglesha-231122)
 -  22 [满怀希望、认真生活：我对人生与价值的看法](https://sspai.com/post/83743)
 -  22 [独立小团队如何在开发时省钱省事？这是我们选择的技术架构](https://sspai.com/post/83468)
 -  22 [派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等](https://sspai.com/post/84551)<!-- sspai:END -->
