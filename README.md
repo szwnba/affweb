@@ -23,6 +23,7 @@
 <!-- afflift:START -->
 -  22 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  22 [Zeropark-Refund](https://afflift.com/f/threads/zeropark-refund.12087/)
+-  22 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
 -  22 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  22 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  22 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
@@ -31,8 +32,7 @@
 -  22 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
 -  22 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  22 [Struggling with something in affiliate marketing? Give us more info and we might write a guide about it!](https://afflift.com/f/threads/struggling-with-something-in-affiliate-marketing-give-us-more-info-and-we-might-write-a-guide-about-it.10464/)
--  22 [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)
--  22 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)<!-- afflift:END -->
+-  22 [Black Friday 2022 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2022-affiliate-marketing-deals.9962/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
