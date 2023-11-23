@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [Mac 迁移指南：换新机后的任务清单](https://sspai.com/post/64301)
 -  23 [从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态](https://sspai.com/post/84552)
 -  23 [派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)
 -  22 [少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥](https://sspai.com/prime/story/zhuanglesha-231122)<!-- sspai:END -->
