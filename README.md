@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
+-  23 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
+-  23 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  23 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  23 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
 -  23 [&quot;EDU-MONEY&quot; is the most profitable affiliate program in the niche of custom writing](https://afflift.com/f/threads/edu-money-is-the-most-profitable-affiliate-program-in-the-niche-of-custom-writing.2129/)
 -  23 [Error 400](https://afflift.com/f/threads/error-400.12089/)
 -  23 [#ADSTERRAx2 new traffic source with working traffic?](https://afflift.com/f/threads/adsterrax2-new-traffic-source-with-working-traffic.12055/)
 -  23 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  23 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  23 [CONTENT AND ADVERTISING MEDIA](https://afflift.com/f/threads/content-and-advertising-media.11793/)
--  23 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  23 [Can you log in to your monetizer and advertizer accounts?](https://afflift.com/f/threads/can-you-log-in-to-your-monetizer-and-advertizer-accounts.12090/)
--  23 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
--  23 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)<!-- afflift:END -->
+-  23 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
