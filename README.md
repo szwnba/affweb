@@ -37,5 +37,4 @@
 <!-- sspai:START -->
 -  23 [从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态](https://sspai.com/post/84552)
 -  23 [派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)
--  22 [少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥](https://sspai.com/prime/story/zhuanglesha-231122)
--  22 [满怀希望、认真生活：我对人生与价值的看法](https://sspai.com/post/83743)<!-- sspai:END -->
+-  22 [少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥](https://sspai.com/prime/story/zhuanglesha-231122)<!-- sspai:END -->
