@@ -10,7 +10,6 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  23 [新加坡联盟Supervim Marketing 寻找大量优质流量](https://www.advertcn.com/forum.php?mod=viewthread&tid=113045)
 -  23 [长期团购电商spy工具](https://www.advertcn.com/forum.php?mod=viewthread&tid=113040)
 -  23 [想买一个好一点的主机，哪里有呢](https://www.advertcn.com/forum.php?mod=viewthread&tid=113036)<!-- advertcn:END -->
 
