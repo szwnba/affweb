@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Error 400](https://afflift.com/f/threads/error-400.12089/)
+-  23 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  23 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
 -  23 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
 -  23 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
@@ -29,9 +31,7 @@
 -  22 [September PropellerAds Promo Codes](https://afflift.com/f/threads/september-propellerads-promo-codes.9531/)
 -  22 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  22 [Zeropark-Refund](https://afflift.com/f/threads/zeropark-refund.12087/)
--  22 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  22 [Anyone running google display ads here?](https://afflift.com/f/threads/anyone-running-google-display-ads-here.12038/)
--  22 [🔥 Black Friday Alert: Grab ClickFlare for Just $1](https://afflift.com/f/threads/%F0%9F%94%A5-black-friday-alert-grab-clickflare-for-just-1.12088/)<!-- afflift:END -->
+-  22 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
