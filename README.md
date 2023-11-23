@@ -21,8 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  23 [Error 400](https://afflift.com/f/threads/error-400.12089/)
+-  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  23 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  23 [Can you log in to your monetizer and advertizer accounts?](https://afflift.com/f/threads/can-you-log-in-to-your-monetizer-and-advertizer-accounts.12090/)
 -  23 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
