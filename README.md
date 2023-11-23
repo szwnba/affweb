@@ -21,9 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [🌚 Let me cook some $9500 #ADSTERRAx2 Network Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-network-contest.12019/)
--  23 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
 -  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
+-  23 [🌚 Let me cook some $9500 #ADSTERRAx2 Network Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-network-contest.12019/)
+-  23 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
+-  23 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
 -  23 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  23 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)
 -  23 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
@@ -32,8 +33,7 @@
 -  23 [Hi friends
 IF anybody make me to earn $10 a day ,it is a great achievement to me in my life, after spending $50000 in digital marketing and cpa market](https://afflift.com/f/threads/hi-friends-if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-to-me-in-my-life-after-spending-50000-in-digital-marketing-and-cpa-market.12096/)
 -  23 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
--  23 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  23 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  23 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
