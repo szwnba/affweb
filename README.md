@@ -21,9 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)
 -  23 [Hi friends
 IF anybody make me to earn $10 a day ,it is a great achievement to me in my life, after spending $50000 in digital marketing and cpa market](https://afflift.com/f/threads/hi-friends-if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-to-me-in-my-life-after-spending-50000-in-digital-marketing-and-cpa-market.12096/)
+-  23 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)
 -  23 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  23 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  23 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
