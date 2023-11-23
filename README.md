@@ -21,8 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Can you log in to your monetizer and advertizer accounts?](https://afflift.com/f/threads/can-you-log-in-to-your-monetizer-and-advertizer-accounts.12090/)
+-  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  23 [Error 400](https://afflift.com/f/threads/error-400.12089/)
+-  23 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
+-  23 [Can you log in to your monetizer and advertizer accounts?](https://afflift.com/f/threads/can-you-log-in-to-your-monetizer-and-advertizer-accounts.12090/)
 -  23 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  23 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
 -  23 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
@@ -30,9 +32,7 @@
 -  22 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  22 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
 -  22 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
--  22 [September PropellerAds Promo Codes](https://afflift.com/f/threads/september-propellerads-promo-codes.9531/)
--  22 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  22 [Zeropark-Refund](https://afflift.com/f/threads/zeropark-refund.12087/)<!-- afflift:END -->
+-  22 [September PropellerAds Promo Codes](https://afflift.com/f/threads/september-propellerads-promo-codes.9531/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
