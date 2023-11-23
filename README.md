@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
 -  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
+-  23 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
+-  23 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  23 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
+-  23 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+-  23 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
+-  23 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
+-  23 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
 -  23 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  23 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
 -  23 [🔥Black Friday Deals from Gasmobi🔥](https://afflift.com/f/threads/%F0%9F%94%A5black-friday-deals-from-gasmobi%F0%9F%94%A5.12093/)
--  23 [Top Traffic Sources That Accept 𝗕𝗶𝘁𝗰𝗼𝗶𝗻 ₿](https://afflift.com/f/threads/top-traffic-sources-that-accept-%F0%9D%97%95%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB-%E2%82%BF.6146/)
--  23 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
--  23 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
--  23 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  23 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
--  23 [&quot;EDU-MONEY&quot; is the most profitable affiliate program in the niche of custom writing](https://afflift.com/f/threads/edu-money-is-the-most-profitable-affiliate-program-in-the-niche-of-custom-writing.2129/)
--  23 [Error 400](https://afflift.com/f/threads/error-400.12089/)<!-- afflift:END -->
+-  23 [Top Traffic Sources That Accept 𝗕𝗶𝘁𝗰𝗼𝗶𝗻 ₿](https://afflift.com/f/threads/top-traffic-sources-that-accept-%F0%9D%97%95%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB-%E2%82%BF.6146/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
