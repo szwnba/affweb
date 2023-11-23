@@ -21,11 +21,11 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  23 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
+-  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
+-  23 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  23 [best mainstream push ad network for India?](https://afflift.com/f/threads/best-mainstream-push-ad-network-for-india.10906/)
 -  23 [🔥Black Friday Deals from Gasmobi🔥](https://afflift.com/f/threads/%F0%9F%94%A5black-friday-deals-from-gasmobi%F0%9F%94%A5.12093/)
--  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  23 [Top Traffic Sources That Accept 𝗕𝗶𝘁𝗰𝗼𝗶𝗻 ₿](https://afflift.com/f/threads/top-traffic-sources-that-accept-%F0%9D%97%95%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB-%E2%82%BF.6146/)
 -  23 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
 -  23 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
