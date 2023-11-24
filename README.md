@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Error 400](https://afflift.com/f/threads/error-400.12089/)
 -  24 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  24 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
@@ -30,9 +31,7 @@
 -  23 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  23 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)
 -  23 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
--  23 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
--  23 [Hi friends
-IF anybody make me to earn $10 a day ,it is a great achievement to me in my life, after spending $50000 in digital marketing and cpa market](https://afflift.com/f/threads/hi-friends-if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-to-me-in-my-life-after-spending-50000-in-digital-marketing-and-cpa-market.12096/)<!-- afflift:END -->
+-  23 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
