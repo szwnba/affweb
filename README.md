@@ -23,6 +23,7 @@
 ### afflift
 <!-- afflift:START -->
 -  24 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
+-  24 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  24 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  24 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  24 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
@@ -32,8 +33,7 @@
 -  24 [Happy Thanksgiving 😊](https://afflift.com/f/threads/happy-thanksgiving-%F0%9F%98%8A.12097/)
 -  24 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  24 [Adsterra+CpaMatica+Other Dating Offers #ADSTERRAx2](https://afflift.com/f/threads/adsterra-cpamatica-other-dating-offers-adsterrax2.12107/)
--  24 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  24 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)<!-- afflift:END -->
+-  24 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
