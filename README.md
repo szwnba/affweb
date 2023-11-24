@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
+-  24 [PrivateCPA - Private Ad Network - Sweeps, Dating, Nutra, Downloads &amp; More](https://afflift.com/f/threads/privatecpa-private-ad-network-sweeps-dating-nutra-downloads-more.4271/)
+-  24 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  24 [Struggling with something in affiliate marketing? Give us more info and we might write a guide about it!](https://afflift.com/f/threads/struggling-with-something-in-affiliate-marketing-give-us-more-info-and-we-might-write-a-guide-about-it.10464/)
 -  24 [Hi friends
 IF anybody make me to earn $10 a day ,it is a great achievement to me in my life, after spending $50000 in digital marketing and cpa market](https://afflift.com/f/threads/hi-friends-if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-to-me-in-my-life-after-spending-50000-in-digital-marketing-and-cpa-market.12096/)
@@ -29,10 +32,7 @@ IF anybody make me to earn $10 a day ,it is a great achievement to me in my life
 -  24 [🌚 Let me cook some $9500 #ADSTERRAx2 Source Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-source-contest.12018/)
 -  24 [Is any body is really earning $100 a day including luke ,nick,varun,akhama,jimmy etc etc](https://afflift.com/f/threads/is-any-body-is-really-earning-100-a-day-including-luke-nick-varun-akhama-jimmy-etc-etc.8760/)
 -  24 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
--  24 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
--  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  23 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
--  23 [🌚 Let me cook some $9500 #ADSTERRAx2 Network Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-network-contest.12019/)<!-- afflift:END -->
+-  24 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
