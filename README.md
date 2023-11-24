@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  24 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  23 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  23 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
@@ -31,8 +32,7 @@
 -  23 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
 -  23 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  23 [Hi friends
-IF anybody make me to earn $10 a day ,it is a great achievement to me in my life, after spending $50000 in digital marketing and cpa market](https://afflift.com/f/threads/hi-friends-if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-to-me-in-my-life-after-spending-50000-in-digital-marketing-and-cpa-market.12096/)
--  23 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)<!-- afflift:END -->
+IF anybody make me to earn $10 a day ,it is a great achievement to me in my life, after spending $50000 in digital marketing and cpa market](https://afflift.com/f/threads/hi-friends-if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-to-me-in-my-life-after-spending-50000-in-digital-marketing-and-cpa-market.12096/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
