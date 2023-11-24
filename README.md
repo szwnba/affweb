@@ -38,5 +38,4 @@ IF anybody make me to earn $10 a day ,it is a great achievement to me in my life
 <!-- sspai:START -->
 -  23 [咖啡地图 | 中国咖啡的小透明：海南](https://sspai.com/post/84361)
 -  23 [Mac 迁移指南：换新机后的任务清单](https://sspai.com/post/64301)
--  23 [从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态](https://sspai.com/post/84552)
--  23 [派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)<!-- sspai:END -->
+-  23 [从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态](https://sspai.com/post/84552)<!-- sspai:END -->
