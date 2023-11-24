@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  21 [2023年黑色星期五和网络星期一主机类活动收集](https://51.ruyo.net/18544.html)<!-- ruyo:END -->
+-  24 [京东云2核4G内存5M带宽轻量云主机测评](https://51.ruyo.net/18543.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
