@@ -35,6 +35,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [两场比赛，我在日本看到了更「纯粹」的足球](https://sspai.com/post/84503)
 -  24 [派早报：CHERRY 宣布推出全新 KC 200 MX 键盘](https://sspai.com/post/84599)
 -  23 [咖啡地图 | 中国咖啡的小透明：海南](https://sspai.com/post/84361)
 -  23 [Mac 迁移指南：换新机后的任务清单](https://sspai.com/post/64301)<!-- sspai:END -->
