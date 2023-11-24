@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [Happy Thanksgiving 😊](https://afflift.com/f/threads/happy-thanksgiving-%F0%9F%98%8A.12097/)
+-  24 [The basic question that needs deep explanation](https://afflift.com/f/threads/the-basic-question-that-needs-deep-explanation.12103/)
+-  24 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
+-  24 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
+-  24 [BLACK FRIDAY IN GOLDEN GOOSE!](https://afflift.com/f/threads/black-friday-in-golden-goose.12102/)
+-  24 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  24 [hoax.tech - intelligent cloaking service with JS-fingerprinting](https://afflift.com/f/threads/hoax-tech-intelligent-cloaking-service-with-js-fingerprinting.11867/)
+-  24 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
+-  24 [PropellerAds Black Friday Promo Codes](https://afflift.com/f/threads/propellerads-black-friday-promo-codes.12101/)
+-  24 [New Interstitial Ads by Adsterra: Grab All Target Views and Clicks](https://afflift.com/f/threads/new-interstitial-ads-by-adsterra-grab-all-target-views-and-clicks.12098/)
+-  24 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
 -  24 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  24 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
--  24 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
--  24 [Top Traffic Sources That Accept 𝗕𝗶𝘁𝗰𝗼𝗶𝗻 ₿](https://afflift.com/f/threads/top-traffic-sources-that-accept-%F0%9D%97%95%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB-%E2%82%BF.6146/)
--  24 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
--  24 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  24 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
--  24 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  24 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  24 [Spy on Others Like professionals, Part 1 &lpar;Adplexity Mobile&rpar; Spy on PPV](https://afflift.com/f/threads/spy-on-others-like-professionals-part-1-adplexity-mobile-spy-on-ppv.6109/)
--  24 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)<!-- afflift:END -->
+-  24 [Top 5 Affiliate Marketing Trends of 2024](https://afflift.com/f/threads/top-5-affiliate-marketing-trends-of-2024.12100/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
