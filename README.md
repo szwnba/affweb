@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [PropellerAds Black Friday Promo Codes](https://afflift.com/f/threads/propellerads-black-friday-promo-codes.12101/)
 -  24 [Hello From Mumbai](https://afflift.com/f/threads/hello-from-mumbai.12106/)
--  24 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
 -  24 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
--  24 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
--  24 [The basic question that needs deep explanation](https://afflift.com/f/threads/the-basic-question-that-needs-deep-explanation.12103/)
+-  24 [Adsterra+CpaMatica+Other Dating Offers #ADSTERRAx2](https://afflift.com/f/threads/adsterra-cpamatica-other-dating-offers-adsterrax2.12107/)
 -  24 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  24 [newrtbbid.com - what traffic source &lpar;push&rpar; ?](https://afflift.com/f/threads/newrtbbid-com-what-traffic-source-push.12104/)
--  24 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
--  24 [BLACK FRIDAY IN GOLDEN GOOSE!](https://afflift.com/f/threads/black-friday-in-golden-goose.12102/)
--  24 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  24 [hoax.tech - intelligent cloaking service with JS-fingerprinting](https://afflift.com/f/threads/hoax-tech-intelligent-cloaking-service-with-js-fingerprinting.11867/)<!-- afflift:END -->
+-  24 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)
+-  24 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+-  24 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
+-  24 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  24 [PropellerAds Black Friday Promo Codes](https://afflift.com/f/threads/propellerads-black-friday-promo-codes.12101/)
+-  24 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
+-  24 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
+-  24 [The basic question that needs deep explanation](https://afflift.com/f/threads/the-basic-question-that-needs-deep-explanation.12103/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
