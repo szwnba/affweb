@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Happy Thanksgiving 😊](https://afflift.com/f/threads/happy-thanksgiving-%F0%9F%98%8A.12097/)
+-  24 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
+-  24 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  24 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
 -  24 [Top Traffic Sources That Accept 𝗕𝗶𝘁𝗰𝗼𝗶𝗻 ₿](https://afflift.com/f/threads/top-traffic-sources-that-accept-%F0%9D%97%95%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB-%E2%82%BF.6146/)
--  24 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  24 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
 -  24 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  24 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
 -  24 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  24 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  24 [Spy on Others Like professionals, Part 1 &lpar;Adplexity Mobile&rpar; Spy on PPV](https://afflift.com/f/threads/spy-on-others-like-professionals-part-1-adplexity-mobile-spy-on-ppv.6109/)
--  24 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  24 [Why are there many decent mVAS offers in the Middle East countries, yet the traffic price there is relatively low?](https://afflift.com/f/threads/why-are-there-many-decent-mvas-offers-in-the-middle-east-countries-yet-the-traffic-price-there-is-relatively-low.12099/)
--  24 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)<!-- afflift:END -->
+-  24 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
