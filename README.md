@@ -10,6 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
+-  24 [linode 注册被拒](https://www.advertcn.com/forum.php?mod=viewthread&tid=113063)
 -  24 [2000RMB代友收BODIS老账户](https://www.advertcn.com/forum.php?mod=viewthread&tid=113060)
 -  24 [一个派安盈帐户可以绑定这么多Shareasale帐户收款吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113057)<!-- advertcn:END -->
 
