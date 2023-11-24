@@ -20,6 +20,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)
+-  24 [Happy Thanksgiving 😊](https://afflift.com/f/threads/happy-thanksgiving-%F0%9F%98%8A.12097/)
+-  24 [🌚 Let me cook some $9500 #ADSTERRAx2 Source Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-source-contest.12018/)
+-  24 [Is any body is really earning $100 a day including luke ,nick,varun,akhama,jimmy etc etc](https://afflift.com/f/threads/is-any-body-is-really-earning-100-a-day-including-luke-nick-varun-akhama-jimmy-etc-etc.8760/)
 -  24 [Error 400](https://afflift.com/f/threads/error-400.12089/)
 -  24 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  24 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
@@ -27,11 +31,7 @@
 -  23 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  23 [🌚 Let me cook some $9500 #ADSTERRAx2 Network Contest](https://afflift.com/f/threads/%F0%9F%8C%9A-let-me-cook-some-9500-adsterrax2-network-contest.12019/)
 -  23 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
--  23 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
--  23 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  23 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)
--  23 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
--  23 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)<!-- afflift:END -->
+-  23 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
