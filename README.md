@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  23 [长期团购电商spy工具](https://www.advertcn.com/forum.php?mod=viewthread&tid=113040)<!-- advertcn:END -->
+-  24 [2000RMB代友收BODIS老账户](https://www.advertcn.com/forum.php?mod=viewthread&tid=113060)
+-  24 [一个派安盈帐户可以绑定这么多Shareasale帐户收款吗？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113057)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
