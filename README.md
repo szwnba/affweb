@@ -22,11 +22,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  25 [Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/binom-is-unable-to-receive-conversions-from-cpamatica.12111/)
 -  25 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  25 [How Imonetizeit postbacks with Trafficstars](https://afflift.com/f/threads/how-imonetizeit-postbacks-with-trafficstars.12109/)
 -  25 [PropellerAds Black Friday Promo Codes](https://afflift.com/f/threads/propellerads-black-friday-promo-codes.12101/)
--  25 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  25 [Why is TheOptimizer Broken?](https://afflift.com/f/threads/why-is-theoptimizer-broken.12110/)
 -  25 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  25 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
