@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  25 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  25 [What should be keep in mind to run cpa offers as beginner?](https://afflift.com/f/threads/what-should-be-keep-in-mind-to-run-cpa-offers-as-beginner.12112/)
 -  25 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
@@ -32,8 +33,7 @@
 -  25 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  25 [Hello From Mumbai](https://afflift.com/f/threads/hello-from-mumbai.12106/)
 -  25 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
--  25 [Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/binom-is-unable-to-receive-conversions-from-cpamatica.12111/)
--  25 [How Imonetizeit postbacks with Trafficstars](https://afflift.com/f/threads/how-imonetizeit-postbacks-with-trafficstars.12109/)<!-- afflift:END -->
+-  25 [Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/binom-is-unable-to-receive-conversions-from-cpamatica.12111/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
