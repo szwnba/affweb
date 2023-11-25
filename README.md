@@ -37,5 +37,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  25 [一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队](https://sspai.com/post/84616)
--  24 [本周看什么 | 最近值得一看的一大套作品](https://sspai.com/post/84612)<!-- sspai:END -->
+-  25 [一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队](https://sspai.com/post/84616)<!-- sspai:END -->
