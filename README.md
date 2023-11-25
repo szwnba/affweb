@@ -11,8 +11,8 @@
 ### advertcn
 <!-- advertcn:START -->
 -  25 [【网站推荐】GMAIL临时邮箱](https://www.advertcn.com/forum.php?mod=viewthread&tid=113072)
--  24 [wp怎么模仿竞品的站点建站](https://www.advertcn.com/forum.php?mod=viewthread&tid=113065)
--  24 [linode 注册被拒](https://www.advertcn.com/forum.php?mod=viewthread&tid=113063)<!-- advertcn:END -->
+-  25 [其实每个知识点都可以赚钱，认知就是信息差变现](https://www.advertcn.com/forum.php?mod=viewthread&tid=113071)
+-  24 [wp怎么模仿竞品的站点建站](https://www.advertcn.com/forum.php?mod=viewthread&tid=113065)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
