@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/binom-is-unable-to-receive-conversions-from-cpamatica.12111/)
 -  25 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  25 [How Imonetizeit postbacks with Trafficstars](https://afflift.com/f/threads/how-imonetizeit-postbacks-with-trafficstars.12109/)
 -  25 [PropellerAds Black Friday Promo Codes](https://afflift.com/f/threads/propellerads-black-friday-promo-codes.12101/)
@@ -32,8 +33,7 @@
 -  25 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  25 [Hello From Mumbai](https://afflift.com/f/threads/hello-from-mumbai.12106/)
 -  25 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
--  25 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  24 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)<!-- afflift:END -->
+-  25 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
