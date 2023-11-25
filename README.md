@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
+-  25 [What should be keep in mind to run cpa offers as beginner?](https://afflift.com/f/threads/what-should-be-keep-in-mind-to-run-cpa-offers-as-beginner.12112/)
+-  25 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
+-  25 [The basic question that needs deep explanation](https://afflift.com/f/threads/the-basic-question-that-needs-deep-explanation.12103/)
+-  25 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
+-  25 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
+-  25 [Let&#39;s test Adsterra CPA network, small comeback after few months](https://afflift.com/f/threads/lets-test-adsterra-cpa-network-small-comeback-after-few-months.12058/)
 -  25 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  25 [Hello From Mumbai](https://afflift.com/f/threads/hello-from-mumbai.12106/)
--  25 [The basic question that needs deep explanation](https://afflift.com/f/threads/the-basic-question-that-needs-deep-explanation.12103/)
--  25 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
--  25 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  25 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  25 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
 -  25 [Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/binom-is-unable-to-receive-conversions-from-cpamatica.12111/)
--  25 [How Imonetizeit postbacks with Trafficstars](https://afflift.com/f/threads/how-imonetizeit-postbacks-with-trafficstars.12109/)
--  25 [PropellerAds Black Friday Promo Codes](https://afflift.com/f/threads/propellerads-black-friday-promo-codes.12101/)
--  25 [Why is TheOptimizer Broken?](https://afflift.com/f/threads/why-is-theoptimizer-broken.12110/)
--  25 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)<!-- afflift:END -->
+-  25 [How Imonetizeit postbacks with Trafficstars](https://afflift.com/f/threads/how-imonetizeit-postbacks-with-trafficstars.12109/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
