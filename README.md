@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  24 [本周看什么 | 最近值得一看的一大套作品](https://sspai.com/post/84612)
 -  24 [「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/84611)
--  24 [两场比赛，我在日本看到了更「纯粹」的足球](https://sspai.com/post/84503)
--  24 [派早报：CHERRY 宣布推出全新 KC 200 MX 键盘](https://sspai.com/post/84599)<!-- sspai:END -->
+-  24 [两场比赛，我在日本看到了更「纯粹」的足球](https://sspai.com/post/84503)<!-- sspai:END -->
