@@ -20,8 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  26 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
 -  26 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+-  26 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
 -  26 [Walk through Anstrex Native Spy Tool.](https://afflift.com/f/threads/walk-through-anstrex-native-spy-tool.9819/)
 -  26 [Spy on Native Ads &quot;Adplexity Native Vs Anstrex Native&quot; 2023 Edition](https://afflift.com/f/threads/spy-on-native-ads-adplexity-native-vs-anstrex-native-2023-edition.12116/)
 -  26 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
