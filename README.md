@@ -23,9 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  26 [Part 2 : Earning Easy Money: My Journey with a Crazy Converting Offer! #ADSTERRAx2](https://afflift.com/f/threads/part-2-earning-easy-money-my-journey-with-a-crazy-converting-offer-adsterrax2.11972/)
 -  26 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  26 [Why is TheOptimizer Broken?](https://afflift.com/f/threads/why-is-theoptimizer-broken.12110/)
+-  26 [Part 2 : Earning Easy Money: My Journey with a Crazy Converting Offer! #ADSTERRAx2](https://afflift.com/f/threads/part-2-earning-easy-money-my-journey-with-a-crazy-converting-offer-adsterrax2.11972/)
 -  26 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  26 [AdSense is updating its revenue share-structure and moving to per-impression payments for publishers](https://afflift.com/f/threads/adsense-is-updating-its-revenue-share-structure-and-moving-to-per-impression-payments-for-publishers.12060/)
 -  26 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
