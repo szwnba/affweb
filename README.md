@@ -38,5 +38,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  25 [Apple Log 个人创作者拍摄指南](https://sspai.com/prime/story/log-color-encoding-for-individual-creators)
--  25 [一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队](https://sspai.com/post/84616)<!-- sspai:END -->
+-  25 [Apple Log 个人创作者拍摄指南](https://sspai.com/prime/story/log-color-encoding-for-individual-creators)<!-- sspai:END -->
