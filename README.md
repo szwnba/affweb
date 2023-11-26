@@ -22,6 +22,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  25 [Why is TheOptimizer Broken?](https://afflift.com/f/threads/why-is-theoptimizer-broken.12110/)
 -  25 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  25 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
@@ -29,7 +30,6 @@
 -  25 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  25 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  25 [What should be keep in mind to run cpa offers as beginner?](https://afflift.com/f/threads/what-should-be-keep-in-mind-to-run-cpa-offers-as-beginner.12112/)
--  25 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  25 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  25 [The basic question that needs deep explanation](https://afflift.com/f/threads/the-basic-question-that-needs-deep-explanation.12103/)
 -  25 [Beginner profitable from campaign 1 day 1 ?](https://afflift.com/f/threads/beginner-profitable-from-campaign-1-day-1.11957/)
