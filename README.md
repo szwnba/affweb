@@ -23,6 +23,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [AdSense is updating its revenue share-structure and moving to per-impression payments for publishers](https://afflift.com/f/threads/adsense-is-updating-its-revenue-share-structure-and-moving-to-per-impression-payments-for-publishers.12060/)
 -  26 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
 -  26 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
 -  26 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
@@ -33,8 +34,7 @@
 -  25 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  25 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  25 [What should be keep in mind to run cpa offers as beginner?](https://afflift.com/f/threads/what-should-be-keep-in-mind-to-run-cpa-offers-as-beginner.12112/)
--  25 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  25 [The basic question that needs deep explanation](https://afflift.com/f/threads/the-basic-question-that-needs-deep-explanation.12103/)<!-- afflift:END -->
+-  25 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
