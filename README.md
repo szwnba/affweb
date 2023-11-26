@@ -38,5 +38,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  26 [发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)
--  25 [Apple Log 个人创作者拍摄指南](https://sspai.com/prime/story/log-color-encoding-for-individual-creators)<!-- sspai:END -->
+-  26 [发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)<!-- sspai:END -->
