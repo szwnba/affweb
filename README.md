@@ -35,5 +35,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家](https://sspai.com/post/82813)
 -  27 [与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)
 -  27 [派早报：淘宝将双 12 改名「年终好价节」](https://sspai.com/post/84648)<!-- sspai:END -->
