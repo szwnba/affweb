@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  24 [京东云2核4G内存5M带宽轻量云主机测评](https://51.ruyo.net/18543.html)<!-- ruyo:END -->
+-  27 [NameSilo托管域名快速转移到腾讯云，仅需15分钟！](https://51.ruyo.net/18548.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
