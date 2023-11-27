@@ -10,7 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  26 [搞了一台双端机，但是不会玩，有没有大佬知道这种怎么玩](https://www.advertcn.com/forum.php?mod=viewthread&tid=113081)<!-- advertcn:END -->
+-  26 [来自STM的2023年最新的文档](https://www.advertcn.com/forum.php?mod=viewthread&tid=113086)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
