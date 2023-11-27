@@ -23,6 +23,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Where is @zeropark ?](https://afflift.com/f/threads/where-is-zeropark.12125/)
+-  27 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
+-  27 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  27 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  27 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  27 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
@@ -31,10 +34,7 @@
 -  27 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  27 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  27 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
--  27 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
--  27 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  27 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
--  27 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)<!-- afflift:END -->
+-  27 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
