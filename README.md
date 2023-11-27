@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [#PA23 Dating &amp; CPL on PA](https://afflift.com/f/threads/pa23-dating-cpl-on-pa.11581/)
+-  27 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
+-  27 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  27 [Propush.me](https://afflift.com/f/threads/propush-me.12119/)
+-  27 [FACEBOOK ADS ACCOUNTS UNLIMITED  FOR RENT - Facebook Services, Support 24/7, CHEAPEST RENTAL FEES](https://afflift.com/f/threads/facebook-ads-accounts-unlimited-for-rent-facebook-services-support-24-7-cheapest-rental-fees.12124/)
+-  27 [#ADSTERRAx2 new traffic source with working traffic?](https://afflift.com/f/threads/adsterrax2-new-traffic-source-with-working-traffic.12055/)
 -  27 [Hello please help](https://afflift.com/f/threads/hello-please-help.12122/)
 -  27 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  27 [My Rule of One - My Journey to Green](https://afflift.com/f/threads/my-rule-of-one-my-journey-to-green.8869/)
 -  27 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  27 [Using FB + Email for Affiliate Marketing](https://afflift.com/f/threads/using-fb-email-for-affiliate-marketing.8643/)
--  27 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  27 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  27 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
--  27 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  27 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)<!-- afflift:END -->
+-  27 [Using FB + Email for Affiliate Marketing](https://afflift.com/f/threads/using-fb-email-for-affiliate-marketing.8643/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
