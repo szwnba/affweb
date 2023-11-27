@@ -10,7 +10,10 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  26 [来自STM的2023年最新的文档](https://www.advertcn.com/forum.php?mod=viewthread&tid=113086)<!-- advertcn:END -->
+-  27 [警惕盗payoneer账户的骗子](https://www.advertcn.com/forum.php?mod=viewthread&tid=113097)
+-  27 [DMIT黑五促销](https://www.advertcn.com/forum.php?mod=viewthread&tid=113094)
+-  27 [雅虎开户放宽，各种产品可跑](https://www.advertcn.com/forum.php?mod=viewthread&tid=113088)
+-  27 [博客赚钱案例：我撤掉了帮我赚了12,911.40美元的Google AdSense](https://www.advertcn.com/forum.php?mod=viewthread&tid=113087)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
