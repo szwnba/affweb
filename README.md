@@ -35,5 +35,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)
 -  27 [派早报：淘宝将双 12 改名「年终好价节」](https://sspai.com/post/84648)
 -  26 [发展了十几年，为什么智能手表的血压检测还像个摆设？](https://sspai.com/post/84622)<!-- sspai:END -->
