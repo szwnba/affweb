@@ -20,6 +20,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  27 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
 -  27 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  27 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
@@ -30,8 +31,7 @@
 -  26 [Walk through Anstrex Native Spy Tool.](https://afflift.com/f/threads/walk-through-anstrex-native-spy-tool.9819/)
 -  26 [Spy on Native Ads &quot;Adplexity Native Vs Anstrex Native&quot; 2023 Edition](https://afflift.com/f/threads/spy-on-native-ads-adplexity-native-vs-anstrex-native-2023-edition.12116/)
 -  26 [Hello from Colombia](https://afflift.com/f/threads/hello-from-colombia.12114/)
--  26 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
--  26 [Why is TheOptimizer Broken?](https://afflift.com/f/threads/why-is-theoptimizer-broken.12110/)<!-- afflift:END -->
+-  26 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
