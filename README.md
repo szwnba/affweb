@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
+-  28 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)
+-  28 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
+-  28 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
+-  28 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  28 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  28 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  28 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
 -  28 [See you at AWA Bangkok? We&#39;ll be at booth B23, what about you?](https://afflift.com/f/threads/see-you-at-awa-bangkok-well-be-at-booth-b23-what-about-you.12130/)
 -  28 [Hello please help](https://afflift.com/f/threads/hello-please-help.12122/)
--  28 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  28 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)
 -  28 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
--  28 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
--  28 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
--  28 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
--  28 [Hello from Spain!](https://afflift.com/f/threads/hello-from-spain.11975/)
--  28 [Hello from Rajasthan, india](https://afflift.com/f/threads/hello-from-rajasthan-india.12108/)<!-- afflift:END -->
+-  28 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
