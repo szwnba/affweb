@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  28 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
 -  28 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)
+-  28 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
+-  28 [I would like to ask if push traffic can still make money now in 2023 and how long can it last? This tutorial is from 2021, is it still available? Than](https://afflift.com/f/threads/i-would-like-to-ask-if-push-traffic-can-still-make-money-now-in-2023-and-how-long-can-it-last-this-tutorial-is-from-2021-is-it-still-available-than.12132/)
+-  28 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  28 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
+-  28 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
+-  28 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
+-  28 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
+-  28 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  28 [PropellerAds New Subzone feature enhances campaign optimization](https://afflift.com/f/threads/propellerads-new-subzone-feature-enhances-campaign-optimization.11221/)
 -  28 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  28 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  28 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
--  28 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
--  28 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  28 [See you at AWA Bangkok? We&#39;ll be at booth B23, what about you?](https://afflift.com/f/threads/see-you-at-awa-bangkok-well-be-at-booth-b23-what-about-you.12130/)
--  28 [Hello please help](https://afflift.com/f/threads/hello-please-help.12122/)
--  28 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
--  28 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)<!-- afflift:END -->
+-  28 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
