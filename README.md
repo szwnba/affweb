@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  28 [译文 | iPhone 15 Pro Max 影像再升级，专业做「相机」的 Halide 怎么看？](https://sspai.com/post/84632)
 -  28 [关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
--  28 [派早报：国家广播电视总局发布三项广播电视和网络视听行业标准等](https://sspai.com/post/84677)
--  27 [派评 | 近期值得关注的 App](https://sspai.com/post/84665)<!-- sspai:END -->
+-  28 [派早报：国家广播电视总局发布三项广播电视和网络视听行业标准等](https://sspai.com/post/84677)<!-- sspai:END -->
