@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
+-  28 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  28 [Hi Afflift!](https://afflift.com/f/threads/hi-afflift.12133/)
 -  28 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  28 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
@@ -28,11 +30,9 @@
 -  28 [I would like to ask if push traffic can still make money now in 2023 and how long can it last? This tutorial is from 2021, is it still available? Than](https://afflift.com/f/threads/i-would-like-to-ask-if-push-traffic-can-still-make-money-now-in-2023-and-how-long-can-it-last-this-tutorial-is-from-2021-is-it-still-available-than.12132/)
 -  28 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  28 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
--  28 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  28 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
 -  28 [Hello please help](https://afflift.com/f/threads/hello-please-help.12122/)
--  28 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
--  28 [Error 400](https://afflift.com/f/threads/error-400.12089/)<!-- afflift:END -->
+-  28 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
