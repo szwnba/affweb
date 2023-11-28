@@ -11,8 +11,7 @@
 ### advertcn
 <!-- advertcn:START -->
 -  27 [警惕盗payoneer账户的骗子](https://www.advertcn.com/forum.php?mod=viewthread&tid=113097)
--  27 [DMIT黑五促销](https://www.advertcn.com/forum.php?mod=viewthread&tid=113094)
--  27 [雅虎开户放宽，各种产品可跑](https://www.advertcn.com/forum.php?mod=viewthread&tid=113088)<!-- advertcn:END -->
+-  27 [DMIT黑五促销](https://www.advertcn.com/forum.php?mod=viewthread&tid=113094)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
