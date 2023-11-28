@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  28 [Hi Afflift!](https://afflift.com/f/threads/hi-afflift.12133/)
--  28 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
--  28 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  28 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
+-  28 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
 -  28 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  28 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
--  28 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
--  28 [I would like to ask if push traffic can still make money now in 2023 and how long can it last? This tutorial is from 2021, is it still available? Than](https://afflift.com/f/threads/i-would-like-to-ask-if-push-traffic-can-still-make-money-now-in-2023-and-how-long-can-it-last-this-tutorial-is-from-2021-is-it-still-available-than.12132/)
 -  28 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
--  28 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
 -  28 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
--  28 [Hello please help](https://afflift.com/f/threads/hello-please-help.12122/)<!-- afflift:END -->
+-  28 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)
+-  28 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
+-  28 [newrtbbid.com - what traffic source &lpar;push&rpar; ?](https://afflift.com/f/threads/newrtbbid-com-what-traffic-source-push.12104/)
+-  28 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
+-  28 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
+-  28 [Hi Afflift!](https://afflift.com/f/threads/hi-afflift.12133/)
+-  28 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
