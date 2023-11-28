@@ -39,5 +39,4 @@
 <!-- sspai:START -->
 -  28 [派早报：国家广播电视总局发布三项广播电视和网络视听行业标准等](https://sspai.com/post/84677)
 -  27 [派评 | 近期值得关注的 App](https://sspai.com/post/84665)
--  27 [家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家](https://sspai.com/post/82813)
--  27 [与知识库对话、用嘴找笔记：Notion AI 对话模式体验](https://sspai.com/post/84597)<!-- sspai:END -->
+-  27 [家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家](https://sspai.com/post/82813)<!-- sspai:END -->
