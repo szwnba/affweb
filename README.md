@@ -37,6 +37,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
 -  28 [派早报：国家广播电视总局发布三项广播电视和网络视听行业标准等](https://sspai.com/post/84677)
 -  27 [派评 | 近期值得关注的 App](https://sspai.com/post/84665)
 -  27 [家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家](https://sspai.com/post/82813)<!-- sspai:END -->
