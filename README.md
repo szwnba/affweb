@@ -22,17 +22,17 @@
 ### afflift
 <!-- afflift:START -->
 -  28 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
--  28 [Propush.me](https://afflift.com/f/threads/propush-me.12119/)
--  28 [Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/binom-is-unable-to-receive-conversions-from-cpamatica.12111/)
--  28 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  28 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  28 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  28 [PROXYS.IO - Individual server, mobile and resident IPv4/IPv6 proxies](https://afflift.com/f/threads/proxys-io-individual-server-mobile-and-resident-ipv4-ipv6-proxies.9810/)
--  28 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
+-  28 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
+-  28 [Hello from Spain!](https://afflift.com/f/threads/hello-from-spain.11975/)
+-  28 [Hello from Rajasthan, india](https://afflift.com/f/threads/hello-from-rajasthan-india.12108/)
+-  28 [Hello From Mumbai](https://afflift.com/f/threads/hello-from-mumbai.12106/)
+-  28 [Hello from Colombia](https://afflift.com/f/threads/hello-from-colombia.12114/)
 -  28 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)
--  28 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
--  28 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
--  28 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  28 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
+-  28 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
+-  28 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
+-  28 [Propush.me](https://afflift.com/f/threads/propush-me.12119/)
+-  28 [Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/binom-is-unable-to-receive-conversions-from-cpamatica.12111/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
