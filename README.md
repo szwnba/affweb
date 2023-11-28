@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  28 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
+-  28 [See you at AWA Bangkok? We&#39;ll be at booth B23, what about you?](https://afflift.com/f/threads/see-you-at-awa-bangkok-well-be-at-booth-b23-what-about-you.12130/)
+-  28 [Hello please help](https://afflift.com/f/threads/hello-please-help.12122/)
+-  28 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  28 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)
+-  28 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
+-  28 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
 -  28 [Account Suspended From Propeller Traffic to Trafee Smartlink](https://afflift.com/f/threads/account-suspended-from-propeller-traffic-to-trafee-smartlink.12094/)
 -  28 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
 -  28 [Hello from Spain!](https://afflift.com/f/threads/hello-from-spain.11975/)
--  28 [Hello from Rajasthan, india](https://afflift.com/f/threads/hello-from-rajasthan-india.12108/)
--  28 [Hello From Mumbai](https://afflift.com/f/threads/hello-from-mumbai.12106/)
--  28 [Hello from Colombia](https://afflift.com/f/threads/hello-from-colombia.12114/)
--  28 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)
--  28 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
--  28 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
--  28 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
--  28 [Propush.me](https://afflift.com/f/threads/propush-me.12119/)
--  28 [Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/binom-is-unable-to-receive-conversions-from-cpamatica.12111/)<!-- afflift:END -->
+-  28 [Hello from Rajasthan, india](https://afflift.com/f/threads/hello-from-rajasthan-india.12108/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
