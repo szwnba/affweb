@@ -10,8 +10,7 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  27 [警惕盗payoneer账户的骗子](https://www.advertcn.com/forum.php?mod=viewthread&tid=113097)
--  27 [英文站的SEO还需要大量建设外链吗，途径有哪些？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113096)<!-- advertcn:END -->
+-  28 [日韩欧美gp，渠道Google&amp;fb](https://www.advertcn.com/forum.php?mod=viewthread&tid=113103)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
