@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [#ADSTERRAx2 new traffic source with working traffic?](https://afflift.com/f/threads/adsterrax2-new-traffic-source-with-working-traffic.12055/)
--  29 [#ADSTERRAx2 Adsterra Contest running Offers as a Adsterra Affiliate](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-offers-as-a-adsterra-affiliate.12136/)
--  29 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
--  29 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  29 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  29 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
--  29 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  29 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  29 [Exoclick Ad Won&#39;t Run](https://afflift.com/f/threads/exoclick-ad-wont-run.12140/)
--  29 [#ADSTERRAx2 Let&#39;s test a new traffic source](https://afflift.com/f/threads/adsterrax2-lets-test-a-new-traffic-source.12120/)
--  29 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
--  29 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)<!-- afflift:END -->
+-  29 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
+-  29 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
+-  29 [#ADSTERRAx2 Scaling Lumos VPN Offer](https://afflift.com/f/threads/adsterrax2-scaling-lumos-vpn-offer.12054/)
+-  29 [Identify best SmartCPC price](https://afflift.com/f/threads/identify-best-smartcpc-price.12048/)
+-  29 [Follow Along Contest: Testing Adsterra as a Traffic Source #ADSTERRAx2](https://afflift.com/f/threads/follow-along-contest-testing-adsterra-as-a-traffic-source-adsterrax2.12142/)
+-  29 [Pay Per Call on Fb Ads](https://afflift.com/f/threads/pay-per-call-on-fb-ads.12077/)
+-  29 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
+-  29 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  29 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
+-  29 [Anyone have success with popcash?!](https://afflift.com/f/threads/anyone-have-success-with-popcash.12064/)
+-  29 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
+-  29 [PropellerAds Black Friday Promo Codes](https://afflift.com/f/threads/propellerads-black-friday-promo-codes.12101/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
