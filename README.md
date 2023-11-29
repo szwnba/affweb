@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [#ADSTERRAx2 Adsterra Contest running Offers as a Adsterra Affiliate](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-offers-as-a-adsterra-affiliate.12136/)
+-  29 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
+-  29 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
+-  29 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
+-  29 [#ADSTERRAx2 Let&#39;s test a new traffic source](https://afflift.com/f/threads/adsterrax2-lets-test-a-new-traffic-source.12120/)
 -  29 [TRUST APPS - Rent of iOS/Android organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-android-organic-applications-for-fb-in-app-uac.11780/)
 -  29 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
 -  29 [I would like to ask if push traffic can still make money now in 2023 and how long can it last? This tutorial is from 2021, is it still available? Than](https://afflift.com/f/threads/i-would-like-to-ask-if-push-traffic-can-still-make-money-now-in-2023-and-how-long-can-it-last-this-tutorial-is-from-2021-is-it-still-available-than.12132/)
 -  29 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  29 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
 -  29 [Exoclick Ad Won&#39;t Run](https://afflift.com/f/threads/exoclick-ad-wont-run.12140/)
--  29 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
--  29 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  29 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  29 [How to Promote Affiliate Links: Best Practices](https://afflift.com/f/threads/how-to-promote-affiliate-links-best-practices.12139/)
--  29 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  29 [Slotland Affiliates | RevShare/CPA/Hybrid | In-House Brands](https://afflift.com/f/threads/slotland-affiliates-revshare-cpa-hybrid-in-house-brands.11859/)<!-- afflift:END -->
+-  29 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
