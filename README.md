@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [Slotland Affiliates | RevShare/CPA/Hybrid | In-House Brands](https://afflift.com/f/threads/slotland-affiliates-revshare-cpa-hybrid-in-house-brands.11859/)
+-  29 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
+-  29 [Exoclick Ad Won&#39;t Run](https://afflift.com/f/threads/exoclick-ad-wont-run.12140/)
+-  29 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
+-  29 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  29 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  29 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
+-  29 [Slotland Affiliates | RevShare/CPA/Hybrid | In-House Brands](https://afflift.com/f/threads/slotland-affiliates-revshare-cpa-hybrid-in-house-brands.11859/)
 -  29 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  29 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  29 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
 -  29 [#ADSTERRAx2 new traffic source with working traffic?](https://afflift.com/f/threads/adsterrax2-new-traffic-source-with-working-traffic.12055/)
--  29 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
--  29 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
--  29 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  29 [Proxy-IPv4.com - Private 4G/LTE, IPv4 and IPv6 proxies | From $0.36 per IP | 20+ locations ✅](https://afflift.com/f/threads/proxy-ipv4-com-private-4g-lte-ipv4-and-ipv6-proxies-from-0-36-per-ip-20-locations-%E2%9C%85.10228/)
--  29 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  29 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)<!-- afflift:END -->
+-  29 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
