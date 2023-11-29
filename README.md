@@ -20,6 +20,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [#ADSTERRAx2 Adsterra Contest running Offers as a Adsterra Affiliate](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-offers-as-a-adsterra-affiliate.12136/)
+-  29 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
+-  29 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  29 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  29 [#ADSTERRAx2 Adsterra Contest running Traffic as a Adsterra Advertiser](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-traffic-as-a-adsterra-advertiser.12135/)
 -  29 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
@@ -28,10 +31,7 @@
 -  28 [November PropellerAds Promo Codes 2023](https://afflift.com/f/threads/november-propellerads-promo-codes-2023.11924/)
 -  28 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
 -  28 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)
--  28 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
--  28 [newrtbbid.com - what traffic source &lpar;push&rpar; ?](https://afflift.com/f/threads/newrtbbid-com-what-traffic-source-push.12104/)
--  28 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
--  28 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
+-  28 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
