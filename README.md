@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
+-  29 [Proxy-IPv4.com - Private 4G/LTE, IPv4 and IPv6 proxies | From $0.36 per IP | 20+ locations ✅](https://afflift.com/f/threads/proxy-ipv4-com-private-4g-lte-ipv4-and-ipv6-proxies-from-0-36-per-ip-20-locations-%E2%9C%85.10228/)
+-  29 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  29 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
 -  29 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
 -  29 [ADD CARDS WITHOUT HOLD DIE FACEBOOK](https://afflift.com/f/threads/add-cards-without-hold-die-facebook.12138/)
@@ -29,10 +32,7 @@
 -  29 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  29 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
 -  29 [newrtbbid.com - what traffic source &lpar;push&rpar; ?](https://afflift.com/f/threads/newrtbbid-com-what-traffic-source-push.12104/)
--  29 [922S5-Provide Native Exclusive IPs | Socks5 Proxy List](https://afflift.com/f/threads/922s5-provide-native-exclusive-ips-socks5-proxy-list.12117/)
--  29 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
--  29 [#ADSTERRAx2 Adsterra Contest running Offers as a Adsterra Affiliate](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-offers-as-a-adsterra-affiliate.12136/)
--  29 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)<!-- afflift:END -->
+-  29 [922S5-Provide Native Exclusive IPs | Socks5 Proxy List](https://afflift.com/f/threads/922s5-provide-native-exclusive-ips-socks5-proxy-list.12117/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
