@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
+-  29 [#ADSTERRAx2 Adsterra Contest running Traffic as a Adsterra Advertiser](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-traffic-as-a-adsterra-advertiser.12135/)
 -  29 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
 -  28 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
 -  28 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
@@ -30,9 +32,7 @@
 -  28 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
 -  28 [newrtbbid.com - what traffic source &lpar;push&rpar; ?](https://afflift.com/f/threads/newrtbbid-com-what-traffic-source-push.12104/)
 -  28 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
--  28 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
--  28 [Hi Afflift!](https://afflift.com/f/threads/hi-afflift.12133/)
--  28 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)<!-- afflift:END -->
+-  28 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
