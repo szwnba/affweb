@@ -21,8 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [#ADSTERRAx2 Adsterra Contest running Offers as a Adsterra Affiliate](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-offers-as-a-adsterra-affiliate.12136/)
 -  29 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
+-  29 [#ADSTERRAx2 Adsterra Contest running Offers as a Adsterra Affiliate](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-offers-as-a-adsterra-affiliate.12136/)
 -  29 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  29 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  29 [#ADSTERRAx2 Adsterra Contest running Traffic as a Adsterra Advertiser](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-traffic-as-a-adsterra-advertiser.12135/)
