@@ -38,5 +38,4 @@
 <!-- sspai:START -->
 -  29 [日本浮生录 04：驶向日本最北，探寻北海道隐秘之境](https://sspai.com/post/84060)
 -  29 [派早报：华为发布智界 S7 等多款新品、Apple 公布 2023 年热门播客等](https://sspai.com/post/84706)
--  28 [社区速递 022｜播客十年、旗舰苹果店以及实用的新玩意](https://sspai.com/post/84689)
--  28 [iPhone 15 Pro Max 影像再升级，专业做「相机」的 Halide 怎么看？](https://sspai.com/post/84632)<!-- sspai:END -->
+-  28 [社区速递 022｜播客十年、旗舰苹果店以及实用的新玩意](https://sspai.com/post/84689)<!-- sspai:END -->
