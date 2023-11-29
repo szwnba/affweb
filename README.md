@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
 -  29 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
--  29 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
+-  29 [Reminder: Login your inactive Gmail before December 1](https://afflift.com/f/threads/reminder-login-your-inactive-gmail-before-december-1.12145/)
 -  29 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
+-  29 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
+-  29 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
 -  29 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  29 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  29 [Follow Along Contest: Testing Adsterra as a Traffic Source #ADSTERRAx2](https://afflift.com/f/threads/follow-along-contest-testing-adsterra-as-a-traffic-source-adsterrax2.12142/)
 -  29 [Let&#39;s test Adsterra CPA network, small comeback after few months](https://afflift.com/f/threads/lets-test-adsterra-cpa-network-small-comeback-after-few-months.12058/)
 -  29 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
--  29 [PropellerAds + Adsterra CPA Network - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/propellerads-adsterra-cpa-network-pop-campaign-contest-adsterrax2.12144/)
--  29 [Exoclick cannot record Binom&#39;s conversion?](https://afflift.com/f/threads/exoclick-cannot-record-binoms-conversion.12063/)
--  29 [Adsterra Traffic Source + iMonetizeit - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/adsterra-traffic-source-imonetizeit-pop-campaign-contest-adsterrax2.12143/)
--  29 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)<!-- afflift:END -->
+-  29 [PropellerAds + Adsterra CPA Network - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/propellerads-adsterra-cpa-network-pop-campaign-contest-adsterrax2.12144/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
