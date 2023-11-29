@@ -10,7 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  28 [日韩欧美gp，渠道Google&amp;fb](https://www.advertcn.com/forum.php?mod=viewthread&tid=113103)<!-- advertcn:END -->
+-  28 [日韩欧美gp，渠道Google&amp;fb](https://www.advertcn.com/forum.php?mod=viewthread&tid=113103)
+-  28 [Paypal个人号能收直接转账的款吗](https://www.advertcn.com/forum.php?mod=viewthread&tid=113102)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
