@@ -21,18 +21,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
--  29 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
--  29 [#ADSTERRAx2 Scaling Lumos VPN Offer](https://afflift.com/f/threads/adsterrax2-scaling-lumos-vpn-offer.12054/)
--  29 [Identify best SmartCPC price](https://afflift.com/f/threads/identify-best-smartcpc-price.12048/)
 -  29 [Follow Along Contest: Testing Adsterra as a Traffic Source #ADSTERRAx2](https://afflift.com/f/threads/follow-along-contest-testing-adsterra-as-a-traffic-source-adsterrax2.12142/)
--  29 [Pay Per Call on Fb Ads](https://afflift.com/f/threads/pay-per-call-on-fb-ads.12077/)
--  29 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
--  29 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  29 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
--  29 [Anyone have success with popcash?!](https://afflift.com/f/threads/anyone-have-success-with-popcash.12064/)
--  29 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
--  29 [PropellerAds Black Friday Promo Codes](https://afflift.com/f/threads/propellerads-black-friday-promo-codes.12101/)<!-- afflift:END -->
+-  29 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
+-  29 [Let&#39;s test Adsterra CPA network, small comeback after few months](https://afflift.com/f/threads/lets-test-adsterra-cpa-network-small-comeback-after-few-months.12058/)
+-  29 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
+-  29 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
+-  29 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  29 [PropellerAds + Adsterra CPA Network - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/propellerads-adsterra-cpa-network-pop-campaign-contest-adsterrax2.12144/)
+-  29 [Exoclick cannot record Binom&#39;s conversion?](https://afflift.com/f/threads/exoclick-cannot-record-binoms-conversion.12063/)
+-  29 [Adsterra Traffic Source + iMonetizeit - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/adsterra-traffic-source-imonetizeit-pop-campaign-contest-adsterrax2.12143/)
+-  29 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
+-  29 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
+-  29 [#ADSTERRAx2 Scaling Lumos VPN Offer](https://afflift.com/f/threads/adsterrax2-scaling-lumos-vpn-offer.12054/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
