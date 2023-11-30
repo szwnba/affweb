@@ -36,6 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [App Store Awards 2023 年度应用大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/84738)
 -  30 [派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
 -  29 [在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)
 -  29 [具透 | One UI 6.0 正式版更新，除了 Android 14 还有哪些新功能？](https://sspai.com/post/84715)
