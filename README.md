@@ -36,7 +36,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [新玩意 166｜少数派的编辑们最近买了啥？](https://sspai.com/post/84740)
 -  30 [本月玩什么 | 塔洛斯的法则 2、This Bed We Made、Thirsty Suitors、超级舞动 瓦力欧制造](https://sspai.com/post/84726)
 -  30 [App Store Awards 2023 年度应用大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/84738)
--  30 [派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
--  29 [在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)<!-- sspai:END -->
+-  30 [派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)<!-- sspai:END -->
