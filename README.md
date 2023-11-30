@@ -39,5 +39,4 @@
 -  30 [派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
 -  29 [在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)
 -  29 [具透 | One UI 6.0 正式版更新，除了 Android 14 还有哪些新功能？](https://sspai.com/post/84715)
--  29 [从创造需求到满足需求：漫谈我的 iPad 十年体验](https://sspai.com/post/84581)
--  29 [日本浮生录 04：驶向日本最北，探寻北海道隐秘之境](https://sspai.com/post/84060)<!-- sspai:END -->
+-  29 [从创造需求到满足需求：漫谈我的 iPad 十年体验](https://sspai.com/post/84581)<!-- sspai:END -->
