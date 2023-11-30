@@ -22,18 +22,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  30 [How to create Postback between Propeller and GG](https://afflift.com/f/threads/how-to-create-postback-between-propeller-and-gg.12156/)
 -  30 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
+-  30 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
+-  30 [How to create Postback between Propeller and GG](https://afflift.com/f/threads/how-to-create-postback-between-propeller-and-gg.12156/)
 -  30 [Hi, coming back to affLift](https://afflift.com/f/threads/hi-coming-back-to-afflift.12159/)
 -  30 [Reddit Ads?](https://afflift.com/f/threads/reddit-ads.12157/)
 -  30 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  30 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  30 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  30 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  30 [Step 5 - Setup MOBIPIUM in BeMob](https://afflift.com/f/threads/step-5-setup-mobipium-in-bemob.2942/)
--  30 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
--  30 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
--  30 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)<!-- afflift:END -->
+-  30 [Step 5 - Setup MOBIPIUM in BeMob](https://afflift.com/f/threads/step-5-setup-mobipium-in-bemob.2942/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
