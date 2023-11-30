@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
+-  30 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  30 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
 -  30 [AdPlexity Push Vs Anstrex Push](https://afflift.com/f/threads/adplexity-push-vs-anstrex-push.6970/)
 -  30 [Spy on Push Ads with Adpelxity Push](https://afflift.com/f/threads/spy-on-push-ads-with-adpelxity-push.12147/)
@@ -30,9 +32,7 @@
 -  29 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
 -  29 [Reminder: Login your inactive Gmail before December 1](https://afflift.com/f/threads/reminder-login-your-inactive-gmail-before-december-1.12145/)
 -  29 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
--  29 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
--  29 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
--  29 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)<!-- afflift:END -->
+-  29 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
