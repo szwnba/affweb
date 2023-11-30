@@ -21,8 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  30 [#ADSTERRAx2 Adsterra Contest running Traffic as a Adsterra Advertiser](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-traffic-as-a-adsterra-advertiser.12135/)
+-  30 [Let&#39;s Test Survey Offers On Adsterra #ADSTERRAx2](https://afflift.com/f/threads/lets-test-survey-offers-on-adsterra-adsterrax2.12151/)
 -  30 [Kingpush Better Late Then Never #ADSTERRAx2 FA](https://afflift.com/f/threads/kingpush-better-late-then-never-adsterrax2-fa.12150/)
+-  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
+-  30 [#ADSTERRAx2 Adsterra Contest running Traffic as a Adsterra Advertiser](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-traffic-as-a-adsterra-advertiser.12135/)
 -  30 [Hello from Rajasthan, india](https://afflift.com/f/threads/hello-from-rajasthan-india.12108/)
 -  30 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
 -  30 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)
@@ -30,9 +32,7 @@
 -  30 [FACEBOOK ADS ACCOUNTS UNLIMITED FOR RENT - Facebook Services, Support 24/7, CHEAPEST RENTAL FEES](https://afflift.com/f/threads/facebook-ads-accounts-unlimited-for-rent-facebook-services-support-24-7-cheapest-rental-fees.12149/)
 -  30 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  30 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
--  30 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
--  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  30 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)<!-- afflift:END -->
+-  30 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
