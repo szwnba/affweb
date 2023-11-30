@@ -21,12 +21,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
 -  30 [AdPlexity Push Vs Anstrex Push](https://afflift.com/f/threads/adplexity-push-vs-anstrex-push.6970/)
 -  30 [Spy on Push Ads with Adpelxity Push](https://afflift.com/f/threads/spy-on-push-ads-with-adpelxity-push.12147/)
 -  30 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  29 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  29 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
--  29 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
 -  29 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
 -  29 [Reminder: Login your inactive Gmail before December 1](https://afflift.com/f/threads/reminder-login-your-inactive-gmail-before-december-1.12145/)
 -  29 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
