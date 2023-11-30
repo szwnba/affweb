@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [AdPlexity Push Vs Anstrex Push](https://afflift.com/f/threads/adplexity-push-vs-anstrex-push.6970/)
+-  30 [Spy on Push Ads with Adpelxity Push](https://afflift.com/f/threads/spy-on-push-ads-with-adpelxity-push.12147/)
 -  30 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  29 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  29 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
@@ -30,9 +32,7 @@
 -  29 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
 -  29 [Binom 2.0 Beta](https://afflift.com/f/threads/binom-2-0-beta.11332/)
 -  29 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
--  29 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
--  29 [Follow Along Contest: Testing Adsterra as a Traffic Source #ADSTERRAx2](https://afflift.com/f/threads/follow-along-contest-testing-adsterra-as-a-traffic-source-adsterrax2.12142/)
--  29 [Let&#39;s test Adsterra CPA network, small comeback after few months](https://afflift.com/f/threads/lets-test-adsterra-cpa-network-small-comeback-after-few-months.12058/)<!-- afflift:END -->
+-  29 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
