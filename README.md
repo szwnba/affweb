@@ -22,17 +22,17 @@
 ### afflift
 <!-- afflift:START -->
 -  30 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
+-  30 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
+-  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  30 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
 -  30 [Asking for help again---Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/asking-for-help-again-binom-is-unable-to-receive-conversions-from-cpamatica.12148/)
 -  30 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  30 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)
 -  30 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)
--  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  30 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  30 [goodbye push and afflift](https://afflift.com/f/threads/goodbye-push-and-afflift.12134/)
 -  30 [AdPlexity Push Vs Anstrex Push](https://afflift.com/f/threads/adplexity-push-vs-anstrex-push.6970/)
--  30 [Spy on Push Ads with Adpelxity Push](https://afflift.com/f/threads/spy-on-push-ads-with-adpelxity-push.12147/)
--  30 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)<!-- afflift:END -->
+-  30 [Spy on Push Ads with Adpelxity Push](https://afflift.com/f/threads/spy-on-push-ads-with-adpelxity-push.12147/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
