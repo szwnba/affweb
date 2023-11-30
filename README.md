@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Reddit Ads?](https://afflift.com/f/threads/reddit-ads.12157/)
+-  30 [How to create Postback between Propeller and GG](https://afflift.com/f/threads/how-to-create-postback-between-propeller-and-gg.12156/)
 -  30 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  30 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  30 [Step 5 - Setup MOBIPIUM in BeMob](https://afflift.com/f/threads/step-5-setup-mobipium-in-bemob.2942/)
@@ -30,9 +32,7 @@
 -  30 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/)
 -  30 [Crystallizing the Future: Adsterra&#39;s Live Expert Talk on 2024 Predictions and Affiliate Marketing Trends!](https://afflift.com/f/threads/crystallizing-the-future-adsterras-live-expert-talk-on-2024-predictions-and-affiliate-marketing-trends.12154/)
 -  30 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
--  30 [#ADSTERRAx2 Dating offers on social bar](https://afflift.com/f/threads/adsterrax2-dating-offers-on-social-bar.12152/)
--  30 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  30 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)<!-- afflift:END -->
+-  30 [#ADSTERRAx2 Dating offers on social bar](https://afflift.com/f/threads/adsterrax2-dating-offers-on-social-bar.12152/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
