@@ -21,7 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
+-  30 [Step 5 - Setup MOBIPIUM in BeMob](https://afflift.com/f/threads/step-5-setup-mobipium-in-bemob.2942/)
 -  30 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
+-  30 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
 -  30 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
 -  30 [To whom should i believe!!](https://afflift.com/f/threads/to-whom-should-i-believe.11106/)
 -  30 [Crystallizing the Future: Adsterra&#39;s Live Expert Talk on 2024 Predictions and Affiliate Marketing Trends!](https://afflift.com/f/threads/crystallizing-the-future-adsterras-live-expert-talk-on-2024-predictions-and-affiliate-marketing-trends.12154/)
@@ -29,10 +32,7 @@
 -  30 [#ADSTERRAx2 Dating offers on social bar](https://afflift.com/f/threads/adsterrax2-dating-offers-on-social-bar.12152/)
 -  30 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  30 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
--  30 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
--  30 [Let&#39;s Test Survey Offers On Adsterra #ADSTERRAx2](https://afflift.com/f/threads/lets-test-survey-offers-on-adsterra-adsterrax2.12151/)
--  30 [Kingpush Better Late Then Never #ADSTERRAx2 FA](https://afflift.com/f/threads/kingpush-better-late-then-never-adsterrax2-fa.12150/)
--  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)<!-- afflift:END -->
+-  30 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
