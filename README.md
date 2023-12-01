@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  30 [本网站接入公安&lpar;网安&rpar;备案过程记录分享](https://51.ruyo.net/18549.html)<!-- ruyo:END -->
+-  01 [22年11月~23年11月ChatGPT上线一周年！载入史册的大事件回顾！](https://51.ruyo.net/18557.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
