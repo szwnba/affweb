@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  01 [How to create Postback between Propeller and GG](https://afflift.com/f/threads/how-to-create-postback-between-propeller-and-gg.12156/)
--  01 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
--  01 [Hello word ..I am Zack .](https://afflift.com/f/threads/hello-word-i-am-zack.12164/)
--  01 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  01 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
--  01 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
+-  01 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
+-  01 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
+-  01 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
+-  01 [Asking for help again---Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/asking-for-help-again-binom-is-unable-to-receive-conversions-from-cpamatica.12148/)
+-  01 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)
+-  01 [#ADSTERRAx2 Adsterra Contest running Traffic as a Adsterra Advertiser](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-traffic-as-a-adsterra-advertiser.12135/)
 -  01 [Request for help from experts about iOS vpn install](https://afflift.com/f/threads/request-for-help-from-experts-about-ios-vpn-install.12169/)
--  01 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)
--  01 [Step 9 - Setup PopAds Postback in BeMob](https://afflift.com/f/threads/step-9-setup-popads-postback-in-bemob.2946/)
--  01 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  01 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  01 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)<!-- afflift:END -->
+-  01 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
+-  01 [Finally Become Life time member](https://afflift.com/f/threads/finally-become-life-time-member.12073/)
+-  01 [Hello AffLift](https://afflift.com/f/threads/hello-afflift.12161/)
+-  01 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
+-  01 [How to create Postback between Propeller and GG](https://afflift.com/f/threads/how-to-create-postback-between-propeller-and-gg.12156/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
