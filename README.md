@@ -6,7 +6,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  01 [22年11月~23年11月ChatGPT上线一周年！载入史册的大事件回顾！](https://51.ruyo.net/18557.html)<!-- ruyo:END -->
+-  01 [22年11月~23年11月ChatGPT一周年！载入史册大事件回顾](https://51.ruyo.net/18557.html)<!-- ruyo:END -->
 
 ### advertcn
 <!-- advertcn:START -->
