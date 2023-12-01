@@ -22,6 +22,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [💰🎁Adsterra CPA #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-cpa-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12163/)
+-  01 [💰🎁Adsterra Traffic #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-traffic-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12162/)
+-  01 [#ADSTERRAx2 Adsterra Network Offers Running...](https://afflift.com/f/threads/adsterrax2-adsterra-network-offers-running.12160/)
 -  01 [Hello AffLift](https://afflift.com/f/threads/hello-afflift.12161/)
 -  01 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
 -  01 [How to create Postback between Propeller and GG](https://afflift.com/f/threads/how-to-create-postback-between-propeller-and-gg.12156/)
@@ -30,10 +33,7 @@
 -  30 [newrtbbid.com - what traffic source &lpar;push&rpar; ?](https://afflift.com/f/threads/newrtbbid-com-what-traffic-source-push.12104/)
 -  30 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  30 [Adsterra Traffic Source + iMonetizeit - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/adsterra-traffic-source-imonetizeit-pop-campaign-contest-adsterrax2.12143/)
--  30 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  30 [#ADSTERRAx2 Adsterra Network Offers Running...](https://afflift.com/f/threads/adsterrax2-adsterra-network-offers-running.12160/)
--  30 [Follow Along Contest: Testing Adsterra as a Traffic Source #ADSTERRAx2](https://afflift.com/f/threads/follow-along-contest-testing-adsterra-as-a-traffic-source-adsterrax2.12142/)
--  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)<!-- afflift:END -->
+-  30 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
