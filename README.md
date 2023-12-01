@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [#ADSTERRAx2 Dating offers on social bar](https://afflift.com/f/threads/adsterrax2-dating-offers-on-social-bar.12152/)
+-  01 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
 -  01 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  01 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  01 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
@@ -29,9 +31,7 @@
 -  01 [Kingpush Better Late Then Never #ADSTERRAx2 FA](https://afflift.com/f/threads/kingpush-better-late-then-never-adsterrax2-fa.12150/)
 -  01 [How to Run a Landing Page Campaign without Using a Tracker &lpar;noisyboy ft. dood&rpar;](https://afflift.com/f/threads/how-to-run-a-landing-page-campaign-without-using-a-tracker-noisyboy-ft-dood.11737/)
 -  01 [Hello word ..I am Zack .](https://afflift.com/f/threads/hello-word-i-am-zack.12164/)
--  01 [How Do You Find Offers to Test?](https://afflift.com/f/threads/how-do-you-find-offers-to-test.10678/)
--  01 [Finally Become Life time member](https://afflift.com/f/threads/finally-become-life-time-member.12073/)
--  01 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)<!-- afflift:END -->
+-  01 [How Do You Find Offers to Test?](https://afflift.com/f/threads/how-do-you-find-offers-to-test.10678/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
