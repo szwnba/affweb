@@ -20,18 +20,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Hello word ..I am Zack .](https://afflift.com/f/threads/hello-word-i-am-zack.12164/)
+-  01 [How Do You Find Offers to Test?](https://afflift.com/f/threads/how-do-you-find-offers-to-test.10678/)
 -  01 [Finally Become Life time member](https://afflift.com/f/threads/finally-become-life-time-member.12073/)
 -  01 [IF anybody make me to earn $10 a day ,it is a great achievement in my  life, after spending $50000](https://afflift.com/f/threads/if-anybody-make-me-to-earn-10-a-day-it-is-a-great-achievement-in-my-life-after-spending-50000.12095/)
 -  01 [I would like to ask if push traffic can still make money now in 2023 and how long can it last? This tutorial is from 2021, is it still available? Than](https://afflift.com/f/threads/i-would-like-to-ask-if-push-traffic-can-still-make-money-now-in-2023-and-how-long-can-it-last-this-tutorial-is-from-2021-is-it-still-available-than.12132/)
 -  01 [Reminder: Login your inactive Gmail before December 1](https://afflift.com/f/threads/reminder-login-your-inactive-gmail-before-december-1.12145/)
--  01 [How Do You Find Offers to Test?](https://afflift.com/f/threads/how-do-you-find-offers-to-test.10678/)
 -  01 [Adsterra Traffic Source + iMonetizeit - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/adsterra-traffic-source-imonetizeit-pop-campaign-contest-adsterrax2.12143/)
 -  01 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
 -  01 [💰🎁Adsterra CPA #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-cpa-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12163/)
 -  01 [💰🎁Adsterra Traffic #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-traffic-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12162/)
 -  01 [#ADSTERRAx2 Adsterra Network Offers Running...](https://afflift.com/f/threads/adsterrax2-adsterra-network-offers-running.12160/)
--  01 [Hello AffLift](https://afflift.com/f/threads/hello-afflift.12161/)
--  01 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)<!-- afflift:END -->
+-  01 [Hello AffLift](https://afflift.com/f/threads/hello-afflift.12161/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
