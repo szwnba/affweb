@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [#ADSTERRAx2 Adsterra Network Offers Running...](https://afflift.com/f/threads/adsterrax2-adsterra-network-offers-running.12160/)
+-  01 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
 -  01 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  01 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  01 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
@@ -29,9 +31,7 @@
 -  01 [Request for help from experts about iOS vpn install](https://afflift.com/f/threads/request-for-help-from-experts-about-ios-vpn-install.12169/)
 -  01 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
 -  01 [Finally Become Life time member](https://afflift.com/f/threads/finally-become-life-time-member.12073/)
--  01 [Hello AffLift](https://afflift.com/f/threads/hello-afflift.12161/)
--  01 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  01 [How to create Postback between Propeller and GG](https://afflift.com/f/threads/how-to-create-postback-between-propeller-and-gg.12156/)<!-- afflift:END -->
+-  01 [Hello AffLift](https://afflift.com/f/threads/hello-afflift.12161/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
