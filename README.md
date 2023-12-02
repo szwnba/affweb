@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
+-  02 [Push collection with 1 conversion per user on Revshare?](https://afflift.com/f/threads/push-collection-with-1-conversion-per-user-on-revshare.12177/)
 -  02 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  02 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  02 [AW Asia: Who&#39;s going? And who has extra passes?](https://afflift.com/f/threads/aw-asia-whos-going-and-who-has-extra-passes.9889/)
@@ -30,9 +32,7 @@
 -  02 [How to know the tracker of the Competitor&#39;s website?](https://afflift.com/f/threads/how-to-know-the-tracker-of-the-competitors-website.12174/)
 -  02 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)
 -  02 [Timezone issues when using two or more advertising network](https://afflift.com/f/threads/timezone-issues-when-using-two-or-more-advertising-network.12175/)
--  02 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
--  02 [Pass to Affiliate World Bangkok For sale](https://afflift.com/f/threads/pass-to-affiliate-world-bangkok-for-sale.12172/)
--  02 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)<!-- afflift:END -->
+-  02 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
