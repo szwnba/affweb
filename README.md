@@ -21,6 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
+-  02 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
+-  02 [AW Asia: Who&#39;s going? And who has extra passes?](https://afflift.com/f/threads/aw-asia-whos-going-and-who-has-extra-passes.9889/)
+-  02 [Is &quot;Facebook on Android&quot; a browser or an APP ?](https://afflift.com/f/threads/is-facebook-on-android-a-browser-or-an-app.12176/)
 -  02 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
 -  02 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
 -  02 [How to know the tracker of the Competitor&#39;s website?](https://afflift.com/f/threads/how-to-know-the-tracker-of-the-competitors-website.12174/)
@@ -28,11 +32,7 @@
 -  02 [Timezone issues when using two or more advertising network](https://afflift.com/f/threads/timezone-issues-when-using-two-or-more-advertising-network.12175/)
 -  02 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
 -  02 [Pass to Affiliate World Bangkok For sale](https://afflift.com/f/threads/pass-to-affiliate-world-bangkok-for-sale.12172/)
--  02 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
--  02 [Why are there many decent mVAS offers in the Middle East countries, yet the traffic price there is relatively low?](https://afflift.com/f/threads/why-are-there-many-decent-mvas-offers-in-the-middle-east-countries-yet-the-traffic-price-there-is-relatively-low.12099/)
--  02 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  02 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
--  02 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)<!-- afflift:END -->
+-  02 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
