@@ -36,5 +36,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  01 [本周看什么 | 最近值得一看的一大册作品](https://sspai.com/post/84770)
--  01 [打工人的第一台 HiFi 设备，竟然是一把机械键盘？](https://sspai.com/post/84763)
--  01 [让折叠屏手机内屏交互更高效好用，OPPO Find N3 是如何呈现的？](https://sspai.com/post/84733)<!-- sspai:END -->
+-  01 [打工人的第一台 HiFi 设备，竟然是一把机械键盘？](https://sspai.com/post/84763)<!-- sspai:END -->
