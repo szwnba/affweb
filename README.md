@@ -21,6 +21,7 @@
 ### afflift
 <!-- afflift:START -->
 -  02 [Why are there many decent mVAS offers in the Middle East countries, yet the traffic price there is relatively low?](https://afflift.com/f/threads/why-are-there-many-decent-mvas-offers-in-the-middle-east-countries-yet-the-traffic-price-there-is-relatively-low.12099/)
+-  02 [Maxconv huge click loss](https://afflift.com/f/threads/maxconv-huge-click-loss.12171/)
 -  02 [Adsterra Traffic Source + iMonetizeit - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/adsterra-traffic-source-imonetizeit-pop-campaign-contest-adsterrax2.12143/)
 -  01 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  01 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
@@ -30,8 +31,7 @@
 -  01 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  01 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
 -  01 [Asking for help again---Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/asking-for-help-again-binom-is-unable-to-receive-conversions-from-cpamatica.12148/)
--  01 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)
--  01 [#ADSTERRAx2 Adsterra Contest running Traffic as a Adsterra Advertiser](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-traffic-as-a-adsterra-advertiser.12135/)<!-- afflift:END -->
+-  01 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
