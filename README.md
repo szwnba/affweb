@@ -21,8 +21,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
 -  02 [Timezone issues when using two or more advertising network](https://afflift.com/f/threads/timezone-issues-when-using-two-or-more-advertising-network.12175/)
+-  02 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
+-  02 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
+-  02 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
 -  02 [Kingpush Better Late Then Never #ADSTERRAx2 FA](https://afflift.com/f/threads/kingpush-better-late-then-never-adsterrax2-fa.12150/)
 -  02 [How to duplicate ad sets in Facebook ads?](https://afflift.com/f/threads/how-to-duplicate-ad-sets-in-facebook-ads.12178/)
 -  02 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
@@ -30,9 +32,7 @@
 -  02 [Is &quot;Facebook on Android&quot; a browser or an APP ?](https://afflift.com/f/threads/is-facebook-on-android-a-browser-or-an-app.12176/)
 -  02 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
 -  02 [Push collection with 1 conversion per user on Revshare?](https://afflift.com/f/threads/push-collection-with-1-conversion-per-user-on-revshare.12177/)
--  02 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
--  02 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  02 [AW Asia: Who&#39;s going? And who has extra passes?](https://afflift.com/f/threads/aw-asia-whos-going-and-who-has-extra-passes.9889/)<!-- afflift:END -->
+-  02 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
