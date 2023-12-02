@@ -35,5 +35,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  01 [本周看什么 | 最近值得一看的一大册作品](https://sspai.com/post/84770)
--  01 [打工人的第一台 HiFi 设备，竟然是一把机械键盘？](https://sspai.com/post/84763)<!-- sspai:END -->
+-  02 [入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)
+-  01 [本周看什么 | 最近值得一看的一大册作品](https://sspai.com/post/84770)<!-- sspai:END -->
