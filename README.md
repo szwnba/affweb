@@ -21,6 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
+-  02 [#ADSTERRAx2 Let&#39;s test a new traffic source](https://afflift.com/f/threads/adsterrax2-lets-test-a-new-traffic-source.12120/)
+-  02 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  02 [2-Month Break ➡️ Reboot: Leveling Up for Success! 💼💰 #PA23](https://afflift.com/f/threads/2-month-break-%E2%9E%A1%EF%B8%8F-reboot-leveling-up-for-success-%F0%9F%92%BC%F0%9F%92%B0-pa23.11560/)
 -  02 [How to duplicate ad sets in Facebook ads?](https://afflift.com/f/threads/how-to-duplicate-ad-sets-in-facebook-ads.12178/)
 -  02 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
@@ -29,10 +32,7 @@
 -  02 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
 -  02 [Kingpush Better Late Then Never #ADSTERRAx2 FA](https://afflift.com/f/threads/kingpush-better-late-then-never-adsterrax2-fa.12150/)
 -  02 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
--  02 [Request for help from experts about iOS vpn install](https://afflift.com/f/threads/request-for-help-from-experts-about-ios-vpn-install.12169/)
--  02 [Is &quot;Facebook on Android&quot; a browser or an APP ?](https://afflift.com/f/threads/is-facebook-on-android-a-browser-or-an-app.12176/)
--  02 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  02 [Push collection with 1 conversion per user on Revshare?](https://afflift.com/f/threads/push-collection-with-1-conversion-per-user-on-revshare.12177/)<!-- afflift:END -->
+-  02 [Request for help from experts about iOS vpn install](https://afflift.com/f/threads/request-for-help-from-experts-about-ios-vpn-install.12169/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
