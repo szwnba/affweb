@@ -20,6 +20,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [How to create Postback between Propeller and GG](https://afflift.com/f/threads/how-to-create-postback-between-propeller-and-gg.12156/)
+-  02 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  02 [Why are there many decent mVAS offers in the Middle East countries, yet the traffic price there is relatively low?](https://afflift.com/f/threads/why-are-there-many-decent-mvas-offers-in-the-middle-east-countries-yet-the-traffic-price-there-is-relatively-low.12099/)
 -  02 [Maxconv huge click loss](https://afflift.com/f/threads/maxconv-huge-click-loss.12171/)
 -  02 [Adsterra Traffic Source + iMonetizeit - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/adsterra-traffic-source-imonetizeit-pop-campaign-contest-adsterrax2.12143/)
@@ -29,9 +31,7 @@
 -  01 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
 -  01 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  01 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
--  01 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
--  01 [Asking for help again---Binom is unable to receive conversions from Cpamatica.](https://afflift.com/f/threads/asking-for-help-again-binom-is-unable-to-receive-conversions-from-cpamatica.12148/)
--  01 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)<!-- afflift:END -->
+-  01 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
