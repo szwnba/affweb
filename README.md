@@ -45,6 +45,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
+-  03 [#ADSTERRAx2 Let&#39;s test a new traffic source](https://afflift.com/f/threads/adsterrax2-lets-test-a-new-traffic-source.12120/)
 -  03 [PropellerAds + Adsterra CPA Network - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/propellerads-adsterra-cpa-network-pop-campaign-contest-adsterrax2.12144/)
 -  03 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  03 [Revolution Force is not Paid,Everyone should take care of this...](https://afflift.com/f/threads/revolution-force-is-not-paid-everyone-should-take-care-of-this.12184/)
@@ -54,9 +56,7 @@
 -  03 [Pay Per Call on Fb Ads](https://afflift.com/f/threads/pay-per-call-on-fb-ads.12077/)
 -  03 [Struggling to Succeed with Pay Per Call &amp; FB Ads](https://afflift.com/f/threads/struggling-to-succeed-with-pay-per-call-fb-ads.12180/)
 -  03 [Spy on Push Ads with Adpelxity Push](https://afflift.com/f/threads/spy-on-push-ads-with-adpelxity-push.12147/)
--  03 [Using the new GPTs](https://afflift.com/f/threads/using-the-new-gpts.12181/)
--  03 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
--  03 [#ADSTERRAx2 Dating offers on social bar](https://afflift.com/f/threads/adsterrax2-dating-offers-on-social-bar.12152/)<!-- afflift:END -->
+-  03 [Using the new GPTs](https://afflift.com/f/threads/using-the-new-gpts.12181/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
