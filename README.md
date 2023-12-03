@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  03 [便便回顾 - 我做了一个有趣的项目来跟踪您的便便:&rpar;](https://www.reddit.com/r/SideProject/comments/18a1ber/the_poo_review_i_made_a_fun_project_to_track_your/)
+-  03 [对 1 人网络开发公司网站的反馈意见](https://www.reddit.com/r/SideProject/comments/189yuyc/feedback_on_1man_web_dev_agency_website/)
 -  03 [MicroSaaS Idea Hub 简介：个人创业者和独立创客的金矿](https://www.reddit.com/r/SideProject/comments/18a01w3/introducing_microsaas_idea_hub_a_goldmine_for/)
 -  03 [WhatsApp Jpeg 图像修复](https://www.reddit.com/r/SideProject/comments/189z7e4/whatsapp_jpeg_image_repair/)
 -  03 [我的副业本周启动](https://www.reddit.com/r/SideProject/comments/189xmo6/my_side_project_launched_this_week/)
@@ -23,9 +25,7 @@
 -  03 [如果您没有初创公司的想法，但又想成为联合创始人。这就是如何在 DeveloperScope 上加入初创公司成为联合创始人。](https://old.reddit.com/r/SideProject/comments/189pckg/if_you_dont_have_startup_idea_and_want_to_be_a/)
 -  03 [获取您喜爱的播客的简明音频摘要。](https://old.reddit.com/r/SideProject/comments/189o8sz/get_concise_audio_summaries_of_your_favorite/)
 -  03 [我制作了一个 Scribd 下载器！](https://www.reddit.com/r/SideProject/comments/189mh3o/i_have_build_a_scribd_downloader/)
--  03 [B1ast 3631$](https://www.reddit.com/r/SideProject/comments/189kxrh/b1ast_3631/)
--  03 [我制作了一个一体化的艺术参考应用程序，以简化收集艺术参考资料和参考登板的工作流程](https://www.reddit.com/r/SideProject/comments/189kpm6/i_made_an_allinone_art_reference_app_to/)
--  03 [我做了一个代号和 Wordle 混合体](https://codewords.app/)<!-- sideproject:END -->
+-  03 [B1ast 3631$](https://www.reddit.com/r/SideProject/comments/189kxrh/b1ast_3631/)<!-- sideproject:END -->
 
 
 ### 无忧分享
