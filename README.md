@@ -4,6 +4,11 @@
 -  生财有术精华帖子、航海帖子浏览
 -  Affiliate 每日训练
 
+### side project
+<!-- sideproject:START -->
+-  01 [22年11月~23年11月ChatGPT一周年！载入史册大事件回顾](https://51.ruyo.net/18557.html)<!-- sideproject:END -->
+
+
 ### 无忧分享
 <!-- ruyo:START -->
 -  01 [22年11月~23年11月ChatGPT一周年！载入史册大事件回顾](https://51.ruyo.net/18557.html)<!-- ruyo:END -->
