@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  03 [我放弃了 DevOps，创建了 Dokémon - 用于管理虚拟机上 Docker 容器的图形用户界面](https://www.reddit.com/r/SideProject/comments/189xcv3/i_quit_devops_and_made_dok%C3%A9mon_a_gui_for_managing/)
+-  03 [我制作了一个工具，只需点击一下，即可制作出像 Alex Hormozi、MrBeast、Ali Abdaal 等人一样的卷轴。&lpar;fastcutai.co&rpar;](https://www.reddit.com/r/SideProject/comments/189rbj4/i_made_a_tool_to_create_reels_like_alex_hormozi/)
 -  03 [人工智能是时下的热门话题。您喜欢阅读有关人工智能初创公司的信息吗？](https://www.reddit.com/r/SideProject/comments/189vmgx/ai_is_a_hot_topic_nowadays_do_you_like_reading/)
 -  03 [Luminar - 开放源代码反馈收集和更新共享工具](https://www.reddit.com/r/SideProject/comments/189vhy4/luminar_open_source_feedback_collection_and/)
 -  03 [希望](https://www.reddit.com/r/SideProject/comments/189rpti/hope/)
@@ -23,9 +25,7 @@
 -  03 [我做了一个代号和 Wordle 混合体](https://codewords.app/)
 -  03 [最近推出了 MVP](https://www.reddit.com/r/SideProject/comments/189ib8l/launched_an_mvp_recently/)
 -  03 [您是如何平衡副业和主业目标的？](https://www.reddit.com/r/SideProject/comments/189gllj/how_do_you_balance_your_side_projects_with_your/)
--  03 [我正在开发 CashFox、Shutterstock for AI 和 Mobile Images。我正在寻找 BETA 测试人员。](https://www.reddit.com/r/SideProject/comments/189ggp7/im_building_cashfox_shutterstock_for_ai_and/)
--  02 [我制作了一款人工智能 YouTube 视频摘要器](https://old.reddit.com/r/SideProject/comments/189btgl/i_made_an_ai_youtube_video_summarizer/)
--  02 [我创建了软驱咖啡馆！一个详细介绍 3.5 英寸软驱幕后工作原理的网站。](https://old.reddit.com/r/SideProject/comments/189b6t2/i_made_the_floppy_cafe_a_website_explaining_in/)<!-- sideproject:END -->
+-  03 [我正在开发 CashFox、Shutterstock for AI 和 Mobile Images。我正在寻找 BETA 测试人员。](https://www.reddit.com/r/SideProject/comments/189ggp7/im_building_cashfox_shutterstock_for_ai_and/)<!-- sideproject:END -->
 
 
 ### 无忧分享
