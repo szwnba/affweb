@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  03 [寻找项目](https://www.reddit.com/r/SideProject/comments/18a2pmo/looking_for_a_project/)
+-  03 [就我关于成功企业如何利用品牌促进增长的通讯寻求反馈意见](https://www.reddit.com/r/SideProject/comments/18a2e5w/looking_for_feedback_on_my_newsletter_on_how/)
+-  03 [我们创建了一款营养人工智能应用程序！](https://www.reddit.com/r/SideProject/comments/189u5ka/we_created_a_nutrition_ai_app/)
 -  03 [便便回顾 - 我做了一个有趣的项目来跟踪您的便便:&rpar;](https://www.reddit.com/r/SideProject/comments/18a1ber/the_poo_review_i_made_a_fun_project_to_track_your/)
 -  03 [对 1 人网络开发公司网站的反馈意见](https://www.reddit.com/r/SideProject/comments/189yuyc/feedback_on_1man_web_dev_agency_website/)
 -  03 [MicroSaaS Idea Hub 简介：个人创业者和独立创客的金矿](https://www.reddit.com/r/SideProject/comments/18a01w3/introducing_microsaas_idea_hub_a_goldmine_for/)
@@ -22,10 +25,7 @@
 -  03 [我们建立了一个网站，供您免费下载由您最喜爱的创作者制作的高品质手机壁纸。](https://www.reddit.com/r/SideProject/comments/189s4hp/we_made_a_website_to_download_highquality_curated/)
 -  03 [产品搜索 ✨](https://www.reddit.com/r/SideProject/comments/189oyg7/live_on_product_hunt/)
 -  03 [[一周前] 推出了一个为开发人员与公司技术栈牵线搭桥的平台，并获得了两位付费客户](https://old.reddit.com/r/SideProject/comments/189qamv/one_week_ago_launched_a_platform_for_matching/)
--  03 [如果您没有初创公司的想法，但又想成为联合创始人。这就是如何在 DeveloperScope 上加入初创公司成为联合创始人。](https://old.reddit.com/r/SideProject/comments/189pckg/if_you_dont_have_startup_idea_and_want_to_be_a/)
--  03 [获取您喜爱的播客的简明音频摘要。](https://old.reddit.com/r/SideProject/comments/189o8sz/get_concise_audio_summaries_of_your_favorite/)
--  03 [我制作了一个 Scribd 下载器！](https://www.reddit.com/r/SideProject/comments/189mh3o/i_have_build_a_scribd_downloader/)
--  03 [B1ast 3631$](https://www.reddit.com/r/SideProject/comments/189kxrh/b1ast_3631/)<!-- sideproject:END -->
+-  03 [如果您没有初创公司的想法，但又想成为联合创始人。这就是如何在 DeveloperScope 上加入初创公司成为联合创始人。](https://old.reddit.com/r/SideProject/comments/189pckg/if_you_dont_have_startup_idea_and_want_to_be_a/)<!-- sideproject:END -->
 
 
 ### 无忧分享
