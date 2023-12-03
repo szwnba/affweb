@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  03 [人工智能是时下的热门话题。您喜欢阅读有关人工智能初创公司的信息吗？](https://www.reddit.com/r/SideProject/comments/189vmgx/ai_is_a_hot_topic_nowadays_do_you_like_reading/)
+-  03 [Luminar - 开放源代码反馈收集和更新共享工具](https://www.reddit.com/r/SideProject/comments/189vhy4/luminar_open_source_feedback_collection_and/)
 -  03 [希望](https://www.reddit.com/r/SideProject/comments/189rpti/hope/)
 -  03 [我制作了一个电影和电视剧长度计算器网站！](https://github.com/mehmetkahya0/TV-Series-Length-Calculator)
 -  03 [CLI 工具，可将任何文件和文本转化为图像](https://old.reddit.com/r/golang/comments/1892qcy/a_cli_tool_that_turns_any_file_and_text_into_an/)
@@ -23,9 +25,7 @@
 -  03 [您是如何平衡副业和主业目标的？](https://www.reddit.com/r/SideProject/comments/189gllj/how_do_you_balance_your_side_projects_with_your/)
 -  03 [我正在开发 CashFox、Shutterstock for AI 和 Mobile Images。我正在寻找 BETA 测试人员。](https://www.reddit.com/r/SideProject/comments/189ggp7/im_building_cashfox_shutterstock_for_ai_and/)
 -  02 [我制作了一款人工智能 YouTube 视频摘要器](https://old.reddit.com/r/SideProject/comments/189btgl/i_made_an_ai_youtube_video_summarizer/)
--  02 [我创建了软驱咖啡馆！一个详细介绍 3.5 英寸软驱幕后工作原理的网站。](https://old.reddit.com/r/SideProject/comments/189b6t2/i_made_the_floppy_cafe_a_website_explaining_in/)
--  02 [从纸张爱好者到应用程序制作者：我的副业 Papper 在 Product Hunt 上！](https://www.reddit.com/r/SideProject/comments/189armo/from_paper_lover_to_app_maker_my_side_project/)
--  02 [ShopMigo：购物助手和评论聚合器](https://www.reddit.com/r/SideProject/comments/189a6xh/shopmigo_shopping_assistant_and_review_aggregator/)<!-- sideproject:END -->
+-  02 [我创建了软驱咖啡馆！一个详细介绍 3.5 英寸软驱幕后工作原理的网站。](https://old.reddit.com/r/SideProject/comments/189b6t2/i_made_the_floppy_cafe_a_website_explaining_in/)<!-- sideproject:END -->
 
 
 ### 无忧分享
