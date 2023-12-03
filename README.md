@@ -36,4 +36,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  02 [入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)<!-- sspai:END -->
+-  03 [为了更包容和便利的未来——国际残疾人日专题](https://sspai.com/post/70270)<!-- sspai:END -->
