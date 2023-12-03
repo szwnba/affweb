@@ -10,8 +10,8 @@
 
 ### advertcn
 <!-- advertcn:START -->
--  02 [本人有海量fb号，求变现，求合作](https://www.advertcn.com/forum.php?mod=viewthread&tid=113166)
--  02 [有没有外贸抗投诉的服务器](https://www.advertcn.com/forum.php?mod=viewthread&tid=113161)<!-- advertcn:END -->
+-  03 [这是不是被植入病毒了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113169)
+-  02 [shareasale 追踪链接上不了谷歌广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=113167)<!-- advertcn:END -->
 
 ### zhihu
 <!-- zhihu:START -->
