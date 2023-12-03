@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  03 [MicroSaaS Idea Hub 简介：个人创业者和独立创客的金矿](https://www.reddit.com/r/SideProject/comments/18a01w3/introducing_microsaas_idea_hub_a_goldmine_for/)
+-  03 [WhatsApp Jpeg 图像修复](https://www.reddit.com/r/SideProject/comments/189z7e4/whatsapp_jpeg_image_repair/)
 -  03 [我的副业本周启动](https://www.reddit.com/r/SideProject/comments/189xmo6/my_side_project_launched_this_week/)
 -  03 [我放弃了 DevOps，创建了 Dokémon - 用于管理虚拟机上 Docker 容器的图形用户界面](https://www.reddit.com/r/SideProject/comments/189xcv3/i_quit_devops_and_made_dok%C3%A9mon_a_gui_for_managing/)
 -  03 [我制作了一个工具，只需点击一下，即可制作出像 Alex Hormozi、MrBeast、Ali Abdaal 等人一样的卷轴。&lpar;fastcutai.co&rpar;](https://www.reddit.com/r/SideProject/comments/189rbj4/i_made_a_tool_to_create_reels_like_alex_hormozi/)
@@ -23,9 +25,7 @@
 -  03 [我制作了一个 Scribd 下载器！](https://www.reddit.com/r/SideProject/comments/189mh3o/i_have_build_a_scribd_downloader/)
 -  03 [B1ast 3631$](https://www.reddit.com/r/SideProject/comments/189kxrh/b1ast_3631/)
 -  03 [我制作了一个一体化的艺术参考应用程序，以简化收集艺术参考资料和参考登板的工作流程](https://www.reddit.com/r/SideProject/comments/189kpm6/i_made_an_allinone_art_reference_app_to/)
--  03 [我做了一个代号和 Wordle 混合体](https://codewords.app/)
--  03 [最近推出了 MVP](https://www.reddit.com/r/SideProject/comments/189ib8l/launched_an_mvp_recently/)
--  03 [您是如何平衡副业和主业目标的？](https://www.reddit.com/r/SideProject/comments/189gllj/how_do_you_balance_your_side_projects_with_your/)<!-- sideproject:END -->
+-  03 [我做了一个代号和 Wordle 混合体](https://codewords.app/)<!-- sideproject:END -->
 
 
 ### 无忧分享
