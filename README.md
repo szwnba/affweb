@@ -6,7 +6,26 @@
 
 ### side project
 <!-- sideproject:START -->
--  01 [22年11月~23年11月ChatGPT一周年！载入史册大事件回顾](https://51.ruyo.net/18557.html)<!-- sideproject:END -->
+-  03 [CLI 工具，可将任何文件和文本转化为图像](https://old.reddit.com/r/golang/comments/1892qcy/a_cli_tool_that_turns_any_file_and_text_into_an/)
+-  03 [我从一款人工智能语言学习应用程序中赚了 388 美元](https://www.reddit.com/r/SideProject/comments/189shc3/i_made_388_from_an_ai_language_learning_app/)
+-  03 [我们建立了一个网站，供您免费下载由您最喜爱的创作者制作的高品质手机壁纸。](https://www.reddit.com/r/SideProject/comments/189s4hp/we_made_a_website_to_download_highquality_curated/)
+-  03 [产品搜索 ✨](https://www.reddit.com/r/SideProject/comments/189oyg7/live_on_product_hunt/)
+-  03 [[一周前] 推出了一个为开发人员与公司技术栈牵线搭桥的平台，并获得了两位付费客户](https://old.reddit.com/r/SideProject/comments/189qamv/one_week_ago_launched_a_platform_for_matching/)
+-  03 [如果您没有初创公司的想法，但又想成为联合创始人。这就是如何在 DeveloperScope 上加入初创公司成为联合创始人。](https://old.reddit.com/r/SideProject/comments/189pckg/if_you_dont_have_startup_idea_and_want_to_be_a/)
+-  03 [获取您喜爱的播客的简明音频摘要。](https://old.reddit.com/r/SideProject/comments/189o8sz/get_concise_audio_summaries_of_your_favorite/)
+-  03 [我制作了一个 Scribd 下载器！](https://www.reddit.com/r/SideProject/comments/189mh3o/i_have_build_a_scribd_downloader/)
+-  03 [B1ast 3631$](https://www.reddit.com/r/SideProject/comments/189kxrh/b1ast_3631/)
+-  03 [我制作了一个一体化的艺术参考应用程序，以简化收集艺术参考资料和参考登板的工作流程](https://www.reddit.com/r/SideProject/comments/189kpm6/i_made_an_allinone_art_reference_app_to/)
+-  03 [我做了一个代号和 Wordle 混合体](https://codewords.app/)
+-  03 [最近推出了 MVP](https://www.reddit.com/r/SideProject/comments/189ib8l/launched_an_mvp_recently/)
+-  03 [您是如何平衡副业和主业目标的？](https://www.reddit.com/r/SideProject/comments/189gllj/how_do_you_balance_your_side_projects_with_your/)
+-  03 [我正在开发 CashFox、Shutterstock for AI 和 Mobile Images。我正在寻找 BETA 测试人员。](https://www.reddit.com/r/SideProject/comments/189ggp7/im_building_cashfox_shutterstock_for_ai_and/)
+-  02 [我制作了一款人工智能 YouTube 视频摘要器](https://old.reddit.com/r/SideProject/comments/189btgl/i_made_an_ai_youtube_video_summarizer/)
+-  02 [我创建了软驱咖啡馆！一个详细介绍 3.5 英寸软驱幕后工作原理的网站。](https://old.reddit.com/r/SideProject/comments/189b6t2/i_made_the_floppy_cafe_a_website_explaining_in/)
+-  02 [从纸张爱好者到应用程序制作者：我的副业 Papper 在 Product Hunt 上！](https://www.reddit.com/r/SideProject/comments/189armo/from_paper_lover_to_app_maker_my_side_project/)
+-  02 [ShopMigo：购物助手和评论聚合器](https://www.reddit.com/r/SideProject/comments/189a6xh/shopmigo_shopping_assistant_and_review_aggregator/)
+-  02 [我是医科学生，我和我的朋友（开发人员）一起制作了这个移动应用程序。从开始到现在已经快两年了，终于（大部分）完成了！🥳如果这里有医学院的学生，请给我们一个反馈 ❣️ 您可以在 medbrane.com 上找到这个应用程序。](https://old.reddit.com/r/SideProject/comments/1899s6j/im_medical_student_and_me_and_my_friend_who_is_a/)
+-  02 [说到设计，你会想到什么？](https://www.reddit.com/r/SideProject/comments/1899hgn/when_you_think_of_design_what_pops_into_your_head/)<!-- sideproject:END -->
 
 
 ### 无忧分享
