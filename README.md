@@ -21,6 +21,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Adsterra Traffic Source + iMonetizeit - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/adsterra-traffic-source-imonetizeit-pop-campaign-contest-adsterrax2.12143/)
+-  03 [#ADSTERRAx2 Path 1 - ADSTERRA Affiliate Network&#39;s offer is irresistible.](https://afflift.com/f/threads/adsterrax2-path-1-adsterra-affiliate-networks-offer-is-irresistible.11985/)
 -  03 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  03 [Push collection with 1 conversion per user on Revshare?](https://afflift.com/f/threads/push-collection-with-1-conversion-per-user-on-revshare.12177/)
 -  03 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)
@@ -30,9 +32,7 @@
 -  03 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
 -  03 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
 -  03 [Adscore.com](https://afflift.com/f/threads/adscore-com.12182/)
--  03 [#ADSTERRAx2 Adsterra Network Offers Running...](https://afflift.com/f/threads/adsterrax2-adsterra-network-offers-running.12160/)
--  03 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
--  03 [Struggling to Succeed with Pay Per Call &amp; FB Ads](https://afflift.com/f/threads/struggling-to-succeed-with-pay-per-call-fb-ads.12180/)<!-- afflift:END -->
+-  03 [#ADSTERRAx2 Adsterra Network Offers Running...](https://afflift.com/f/threads/adsterrax2-adsterra-network-offers-running.12160/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
