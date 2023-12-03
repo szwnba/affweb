@@ -21,9 +21,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Struggling to Succeed with Pay Per Call &amp; FB Ads](https://afflift.com/f/threads/struggling-to-succeed-with-pay-per-call-fb-ads.12180/)
 -  03 [Negative Campaign Budget on PopAds](https://afflift.com/f/threads/negative-campaign-budget-on-popads.11890/)
 -  03 [Using the new GPTs](https://afflift.com/f/threads/using-the-new-gpts.12181/)
--  03 [Struggling to Succeed with Pay Per Call &amp; FB Ads](https://afflift.com/f/threads/struggling-to-succeed-with-pay-per-call-fb-ads.12180/)
 -  03 [Pay Per Call on Fb Ads](https://afflift.com/f/threads/pay-per-call-on-fb-ads.12077/)
 -  03 [Anyone have success with popcash?!](https://afflift.com/f/threads/anyone-have-success-with-popcash.12064/)
 -  03 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
