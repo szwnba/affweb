@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  03 [我做了一个 Chrome 扩展，可以在预订前轻松比较 Airbnb 房源。我的用户越来越多，但不知道如何盈利。](https://www.reddit.com/r/SideProject/comments/18a3pau/i_made_a_chrome_extension_to_easily_compare/)
 -  03 [寻找项目](https://www.reddit.com/r/SideProject/comments/18a2pmo/looking_for_a_project/)
 -  03 [就我关于成功企业如何利用品牌促进增长的通讯寻求反馈意见](https://www.reddit.com/r/SideProject/comments/18a2e5w/looking_for_feedback_on_my_newsletter_on_how/)
 -  03 [我们创建了一款营养人工智能应用程序！](https://www.reddit.com/r/SideProject/comments/189u5ka/we_created_a_nutrition_ai_app/)
@@ -24,8 +25,7 @@
 -  03 [我从一款人工智能语言学习应用程序中赚了 388 美元](https://www.reddit.com/r/SideProject/comments/189shc3/i_made_388_from_an_ai_language_learning_app/)
 -  03 [我们建立了一个网站，供您免费下载由您最喜爱的创作者制作的高品质手机壁纸。](https://www.reddit.com/r/SideProject/comments/189s4hp/we_made_a_website_to_download_highquality_curated/)
 -  03 [产品搜索 ✨](https://www.reddit.com/r/SideProject/comments/189oyg7/live_on_product_hunt/)
--  03 [[一周前] 推出了一个为开发人员与公司技术栈牵线搭桥的平台，并获得了两位付费客户](https://old.reddit.com/r/SideProject/comments/189qamv/one_week_ago_launched_a_platform_for_matching/)
--  03 [如果您没有初创公司的想法，但又想成为联合创始人。这就是如何在 DeveloperScope 上加入初创公司成为联合创始人。](https://old.reddit.com/r/SideProject/comments/189pckg/if_you_dont_have_startup_idea_and_want_to_be_a/)<!-- sideproject:END -->
+-  03 [[一周前] 推出了一个为开发人员与公司技术栈牵线搭桥的平台，并获得了两位付费客户](https://old.reddit.com/r/SideProject/comments/189qamv/one_week_ago_launched_a_platform_for_matching/)<!-- sideproject:END -->
 
 
 ### 无忧分享
