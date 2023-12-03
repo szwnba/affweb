@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
 -  03 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
 -  03 [Adscore.com](https://afflift.com/f/threads/adscore-com.12182/)
 -  03 [#ADSTERRAx2 Adsterra Network Offers Running...](https://afflift.com/f/threads/adsterrax2-adsterra-network-offers-running.12160/)
@@ -31,8 +32,7 @@
 -  03 [Using the new GPTs](https://afflift.com/f/threads/using-the-new-gpts.12181/)
 -  03 [Pay Per Call on Fb Ads](https://afflift.com/f/threads/pay-per-call-on-fb-ads.12077/)
 -  03 [Anyone have success with popcash?!](https://afflift.com/f/threads/anyone-have-success-with-popcash.12064/)
--  03 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
--  03 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)<!-- afflift:END -->
+-  03 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
