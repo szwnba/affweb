@@ -21,6 +21,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)
 -  02 [#ADSTERRAx2 Dating offers on social bar](https://afflift.com/f/threads/adsterrax2-dating-offers-on-social-bar.12152/)
 -  02 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
 -  02 [Profiting from Niche Mobile Apps #ADSTERRAx2](https://afflift.com/f/threads/profiting-from-niche-mobile-apps-adsterrax2.12045/)
@@ -31,8 +32,7 @@
 -  02 [#ADSTERRAx2 Adsterra Network Offers Running...](https://afflift.com/f/threads/adsterrax2-adsterra-network-offers-running.12160/)
 -  02 [💰🎁Adsterra CPA #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-cpa-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12163/)
 -  02 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  02 [#ADSTERRAx2 Testing Adsterra Network Offers](https://afflift.com/f/threads/adsterrax2-testing-adsterra-network-offers.12179/)
--  02 [Follow Along Contest: Testing Adsterra as a Traffic Source #ADSTERRAx2](https://afflift.com/f/threads/follow-along-contest-testing-adsterra-as-a-traffic-source-adsterrax2.12142/)<!-- afflift:END -->
+-  02 [#ADSTERRAx2 Testing Adsterra Network Offers](https://afflift.com/f/threads/adsterrax2-testing-adsterra-network-offers.12179/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
