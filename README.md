@@ -44,8 +44,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  03 [这是不是被植入病毒了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113169)
--  02 [shareasale 追踪链接上不了谷歌广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=113167)<!-- advertcn3:END -->
+-  04 [昨天去上二楼，按摩的小妹竟然是FB投手！！！](https://www.advertcn.com/thread-113179-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
