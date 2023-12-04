@@ -54,18 +54,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [Revolution Force is not Paid,Everyone should take care of this...](https://afflift.com/f/threads/revolution-force-is-not-paid-everyone-should-take-care-of-this.12184/)
--  04 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)
--  04 [A Beginner Following The Beginners Guide](https://afflift.com/f/threads/a-beginner-following-the-beginners-guide.12188/)
--  04 [Farhad from Bangladesh.](https://afflift.com/f/threads/farhad-from-bangladesh.12186/)
+-  04 [Is &quot;Facebook on Android&quot; a browser or an APP ?](https://afflift.com/f/threads/is-facebook-on-android-a-browser-or-an-app.12176/)
+-  04 [Maxconv huge click loss](https://afflift.com/f/threads/maxconv-huge-click-loss.12171/)
+-  04 [Using the new GPTs](https://afflift.com/f/threads/using-the-new-gpts.12181/)
+-  04 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)
+-  04 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
+-  04 [How to duplicate ad sets in Facebook ads?](https://afflift.com/f/threads/how-to-duplicate-ad-sets-in-facebook-ads.12178/)
+-  04 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)
+-  04 [Timezone issues when using two or more advertising network](https://afflift.com/f/threads/timezone-issues-when-using-two-or-more-advertising-network.12175/)
 -  04 [PropellerAds + Adsterra CPA Network - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/propellerads-adsterra-cpa-network-pop-campaign-contest-adsterrax2.12144/)
--  04 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  04 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  04 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)
--  04 [Adsterra CPA #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-cpa-adsterrax2-vote-for-your-favorite-follow-along.12190/)
--  04 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  04 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
--  04 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)<!-- afflift:END -->
+-  04 [Push collection with 1 conversion per user on Revshare?](https://afflift.com/f/threads/push-collection-with-1-conversion-per-user-on-revshare.12177/)
+-  04 [Revolution Force is not Paid,Everyone should take care of this...](https://afflift.com/f/threads/revolution-force-is-not-paid-everyone-should-take-care-of-this.12184/)
+-  04 [October PropellerAds Promo Codes 2023](https://afflift.com/f/threads/october-propellerads-promo-codes-2023.11767/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
