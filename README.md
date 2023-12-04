@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [我找到了史上最难以置信的 &quot;黑色星期五 &quot;优惠！](https://www.reddit.com/r/SideProject/comments/18ahwbk/i_found_the_best_unbelievable_black_friday_deal/)
+-  04 [我正在建设用于教学的 TikTok。或者类似的东西:-&rpar;](https://www.reddit.com/r/SideProject/comments/18ahvq5/i_am_building_tiktok_for_teaching_and_learning_or/)
+-  04 [当您不知道该编写什么代码时该怎么办？我们的答案是](https://old.reddit.com/r/SideProject/comments/18ahfv3/what_do_you_do_when_you_dont_know_what_to_code/)
 -  04 [我为我的团队创建了云托管代码片段/笔记管理器，个人也可以使用。](https://www.reddit.com/r/SideProject/comments/18aflri/i_built_cloud_hosted_code_snippetnotes_manager/)
 -  04 [烘烤我的着陆页](https://old.reddit.com/r/SaaS/comments/189yhb1/roast_my_landing_page/)
 -  04 [我的 eBay 购物助手网站终于赚钱了](https://www.howmuchperunit.com/)
@@ -22,10 +25,7 @@
 -  03 [对 1 人网络开发公司网站的反馈意见](https://www.reddit.com/r/SideProject/comments/189yuyc/feedback_on_1man_web_dev_agency_website/)
 -  03 [MicroSaaS Idea Hub 简介：个人创业者和独立创客的金矿](https://www.reddit.com/r/SideProject/comments/18a01w3/introducing_microsaas_idea_hub_a_goldmine_for/)
 -  03 [WhatsApp Jpeg 图像修复](https://www.reddit.com/r/SideProject/comments/189z7e4/whatsapp_jpeg_image_repair/)
--  03 [我的副业本周启动](https://www.reddit.com/r/SideProject/comments/189xmo6/my_side_project_launched_this_week/)
--  03 [我放弃了 DevOps，创建了 Dokémon - 用于管理虚拟机上 Docker 容器的图形用户界面](https://www.reddit.com/r/SideProject/comments/189xcv3/i_quit_devops_and_made_dok%C3%A9mon_a_gui_for_managing/)
--  03 [我制作了一个工具，只需点击一下，即可制作出像 Alex Hormozi、MrBeast、Ali Abdaal 等人一样的卷轴。&lpar;fastcutai.co&rpar;](https://www.reddit.com/r/SideProject/comments/189rbj4/i_made_a_tool_to_create_reels_like_alex_hormozi/)
--  03 [人工智能是时下的热门话题。您喜欢阅读有关人工智能初创公司的信息吗？](https://www.reddit.com/r/SideProject/comments/189vmgx/ai_is_a_hot_topic_nowadays_do_you_like_reading/)<!-- sideproject:END -->
+-  03 [我的副业本周启动](https://www.reddit.com/r/SideProject/comments/189xmo6/my_side_project_launched_this_week/)<!-- sideproject:END -->
 
 
 ### 无忧分享
