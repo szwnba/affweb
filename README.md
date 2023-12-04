@@ -34,8 +34,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  03 [这是不是被植入病毒了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113169)
--  02 [shareasale 追踪链接上不了谷歌广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=113167)<!-- advertcn1:END -->
+-  04 [新人报道](https://www.advertcn.com/thread-113180-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
