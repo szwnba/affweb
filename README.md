@@ -54,6 +54,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [💰🎁Adsterra CPA #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-cpa-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12163/)
+-  04 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  04 [#ADSTERRAx2 Adsterra Contest running Traffic as a Adsterra Advertiser](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-traffic-as-a-adsterra-advertiser.12135/)
 -  04 [Adscore.com](https://afflift.com/f/threads/adscore-com.12182/)
 -  04 [Clickbank affiliate with Google ads [Easy Methods]](https://afflift.com/f/threads/clickbank-affiliate-with-google-ads-easy-methods.12185/)
 -  04 [Farhad from Bangladesh.](https://afflift.com/f/threads/farhad-from-bangladesh.12186/)
@@ -62,10 +65,7 @@
 -  04 [TRUST APPS - Rent of iOS/Android organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-android-organic-applications-for-fb-in-app-uac.11780/)
 -  04 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  04 [I made $30,000 off a domain!](https://afflift.com/f/threads/i-made-30-000-off-a-domain.6490/)
--  04 [💰🎁Adsterra Traffic #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-traffic-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12162/)
--  04 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
--  04 [Hello from Colombia](https://afflift.com/f/threads/hello-from-colombia.12114/)
--  04 [💰🎁Adsterra CPA #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-cpa-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12163/)<!-- afflift:END -->
+-  04 [💰🎁Adsterra Traffic #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-traffic-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12162/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
