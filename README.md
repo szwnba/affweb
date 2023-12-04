@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [我和其他 30 亿人都患有数码眼疲劳症。我制作了一个免费的开源工具来解决这个问题！[更多评论］](https://old.reddit.com/r/SideProject/comments/18asjp6/i_and_3_billion_others_suffer_from_digital_eye/)
 -  04 [刚刚推出的 &quot;隐藏器&quot;--隐藏 YouTube 上的干扰和无关搜索结果](https://old.reddit.com/r/SideProject/comments/18aqyi9/just_launched_hider_hide_distractions_on_youtube/)
 -  04 [征求对我们用于提高搜索引擎优化的人工智能内容工具的反馈意见 - Latent Workers](https://www.reddit.com/r/SideProject/comments/18angsr/seeking_feedback_on_our_ai_content_tool_for_seo/)
 -  04 [从终端快速生成项目的开源许可⚡](https://www.reddit.com/r/SideProject/comments/18ao7tl/generate_open_source_license_for_your_projects/)
@@ -24,8 +25,7 @@
 -  04 [Picview（macOS 上的图像查看器）：Reddit 的 macapps 社区上的首次发布过程和数据共享](https://www.reddit.com/r/SideProject/comments/18ai0ul/picview_a_image_viewer_on_macos_first_post/)
 -  04 [我找到了史上最难以置信的 &quot;黑色星期五 &quot;优惠！](https://www.reddit.com/r/SideProject/comments/18ahwbk/i_found_the_best_unbelievable_black_friday_deal/)
 -  04 [我正在建设用于教学的 TikTok。或者类似的东西:-&rpar;](https://www.reddit.com/r/SideProject/comments/18ahvq5/i_am_building_tiktok_for_teaching_and_learning_or/)
--  04 [当您不知道该编写什么代码时该怎么办？我们的答案是](https://old.reddit.com/r/SideProject/comments/18ahfv3/what_do_you_do_when_you_dont_know_what_to_code/)
--  04 [我为我的团队创建了云托管代码片段/笔记管理器，个人也可以使用。](https://www.reddit.com/r/SideProject/comments/18aflri/i_built_cloud_hosted_code_snippetnotes_manager/)<!-- sideproject:END -->
+-  04 [当您不知道该编写什么代码时该怎么办？我们的答案是](https://old.reddit.com/r/SideProject/comments/18ahfv3/what_do_you_do_when_you_dont_know_what_to_code/)<!-- sideproject:END -->
 
 
 ### 无忧分享
