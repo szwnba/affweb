@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [CartBuddy GPT 简介：适用于亚马逊所有商品的人工智能购物助手（需要 chatGPT+）](https://old.reddit.com/r/SideProject/comments/18akc8c/introducing_cartbuddy_gpt_the_aipowered_shopping/)
 -  04 [我制作了我的第一个应用程序 NeuroNotes - 一个类似于 Goodnotes 的免费笔记应用程序](https://www.reddit.com/r/SideProject/comments/18aijvq/i_made_my_first_app_neuronotes_a_free_note_taking/)
 -  04 [Picview（macOS 上的图像查看器）：Reddit 的 macapps 社区上的首次发布过程和数据共享](https://www.reddit.com/r/SideProject/comments/18ai0ul/picview_a_image_viewer_on_macos_first_post/)
 -  04 [我找到了史上最难以置信的 &quot;黑色星期五 &quot;优惠！](https://www.reddit.com/r/SideProject/comments/18ahwbk/i_found_the_best_unbelievable_black_friday_deal/)
@@ -24,8 +25,7 @@
 -  03 [就我关于成功企业如何利用品牌促进增长的通讯寻求反馈意见](https://www.reddit.com/r/SideProject/comments/18a2e5w/looking_for_feedback_on_my_newsletter_on_how/)
 -  03 [我们创建了一款营养人工智能应用程序！](https://www.reddit.com/r/SideProject/comments/189u5ka/we_created_a_nutrition_ai_app/)
 -  03 [便便回顾 - 我做了一个有趣的项目来跟踪您的便便:&rpar;](https://www.reddit.com/r/SideProject/comments/18a1ber/the_poo_review_i_made_a_fun_project_to_track_your/)
--  03 [对 1 人网络开发公司网站的反馈意见](https://www.reddit.com/r/SideProject/comments/189yuyc/feedback_on_1man_web_dev_agency_website/)
--  03 [MicroSaaS Idea Hub 简介：个人创业者和独立创客的金矿](https://www.reddit.com/r/SideProject/comments/18a01w3/introducing_microsaas_idea_hub_a_goldmine_for/)<!-- sideproject:END -->
+-  03 [对 1 人网络开发公司网站的反馈意见](https://www.reddit.com/r/SideProject/comments/189yuyc/feedback_on_1man_web_dev_agency_website/)<!-- sideproject:END -->
 
 
 ### 无忧分享
