@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [我的远程工作平台让我的口袋里多了 100 英镑！](https://www.reddit.com/r/SideProject/comments/18au5e2/my_remote_work_platform_just_put_100_in_my_pocket/)
+-  04 [最终金库 - 带通知的在线死亡开关](https://www.reddit.com/r/SideProject/comments/18atzgk/final_vault_online_deadman_switch_with/)
+-  04 [越野车改装/建造](https://old.reddit.com/r/SideProject/comments/18alm1c/atv_conversionbuild/)
 -  04 [我和其他 30 亿人都患有数码眼疲劳症。我制作了一个免费的开源工具来解决这个问题！[更多评论］](https://old.reddit.com/r/SideProject/comments/18asjp6/i_and_3_billion_others_suffer_from_digital_eye/)
 -  04 [刚刚推出的 &quot;隐藏器&quot;--隐藏 YouTube 上的干扰和无关搜索结果](https://old.reddit.com/r/SideProject/comments/18aqyi9/just_launched_hider_hide_distractions_on_youtube/)
 -  04 [征求对我们用于提高搜索引擎优化的人工智能内容工具的反馈意见 - Latent Workers](https://www.reddit.com/r/SideProject/comments/18angsr/seeking_feedback_on_our_ai_content_tool_for_seo/)
@@ -22,10 +25,7 @@
 -  04 [为什么人工智能有能力杀死所有出版商？](https://www.storifyme.com/blog/why-ai-is-in-a-position-to-kill-all-publishers)
 -  04 [CartBuddy GPT 简介：适用于亚马逊所有商品的人工智能购物助手（需要 chatGPT+）](https://old.reddit.com/r/SideProject/comments/18akc8c/introducing_cartbuddy_gpt_the_aipowered_shopping/)
 -  04 [我制作了我的第一个应用程序 NeuroNotes - 一个类似于 Goodnotes 的免费笔记应用程序](https://www.reddit.com/r/SideProject/comments/18aijvq/i_made_my_first_app_neuronotes_a_free_note_taking/)
--  04 [Picview（macOS 上的图像查看器）：Reddit 的 macapps 社区上的首次发布过程和数据共享](https://www.reddit.com/r/SideProject/comments/18ai0ul/picview_a_image_viewer_on_macos_first_post/)
--  04 [我找到了史上最难以置信的 &quot;黑色星期五 &quot;优惠！](https://www.reddit.com/r/SideProject/comments/18ahwbk/i_found_the_best_unbelievable_black_friday_deal/)
--  04 [我正在建设用于教学的 TikTok。或者类似的东西:-&rpar;](https://www.reddit.com/r/SideProject/comments/18ahvq5/i_am_building_tiktok_for_teaching_and_learning_or/)
--  04 [当您不知道该编写什么代码时该怎么办？我们的答案是](https://old.reddit.com/r/SideProject/comments/18ahfv3/what_do_you_do_when_you_dont_know_what_to_code/)<!-- sideproject:END -->
+-  04 [Picview（macOS 上的图像查看器）：Reddit 的 macapps 社区上的首次发布过程和数据共享](https://www.reddit.com/r/SideProject/comments/18ai0ul/picview_a_image_viewer_on_macos_first_post/)<!-- sideproject:END -->
 
 
 ### 无忧分享
