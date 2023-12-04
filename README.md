@@ -60,6 +60,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [派评 | 近期值得关注的 App](https://sspai.com/post/84841)
 -  04 [写给 TESTV 铁丝的一封信：我们为什么要办铁丝俱乐部？](https://sspai.com/post/84823)
 -  04 [全屋智能？来自建筑设计狗的不完全指北](https://sspai.com/post/84820)
 -  04 [规划一次有针对性的健康检查：我的体检项目定制思路](https://sspai.com/post/84739)
