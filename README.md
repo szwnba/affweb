@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [我的 eBay 购物助手网站终于赚钱了](https://www.howmuchperunit.com/)
 -  04 [从 100 多个网站中探索登陆页面、定价、登录、博客、功能、替代方案等更多页面。在第一条评论中提供链接。](https://old.reddit.com/r/SideProject/comments/18aeown/explore_landing_pages_pricing_login_blog_features/)
 -  04 [短片生成器介绍--从概念到病毒视频，只需几分钟！](https://www.reddit.com/r/SideProject/comments/18abdwg/introducing_shorts_generator_from_concept_to/)
 -  04 [鼓励 SaaS 爱好者](https://www.reddit.com/r/SideProject/comments/18aarrz/encouragement_for_saas_enthusiasts/)
@@ -24,8 +25,7 @@
 -  03 [我制作了一个工具，只需点击一下，即可制作出像 Alex Hormozi、MrBeast、Ali Abdaal 等人一样的卷轴。&lpar;fastcutai.co&rpar;](https://www.reddit.com/r/SideProject/comments/189rbj4/i_made_a_tool_to_create_reels_like_alex_hormozi/)
 -  03 [人工智能是时下的热门话题。您喜欢阅读有关人工智能初创公司的信息吗？](https://www.reddit.com/r/SideProject/comments/189vmgx/ai_is_a_hot_topic_nowadays_do_you_like_reading/)
 -  03 [Luminar - 开放源代码反馈收集和更新共享工具](https://www.reddit.com/r/SideProject/comments/189vhy4/luminar_open_source_feedback_collection_and/)
--  03 [希望](https://www.reddit.com/r/SideProject/comments/189rpti/hope/)
--  03 [我制作了一个电影和电视剧长度计算器网站！](https://github.com/mehmetkahya0/TV-Series-Length-Calculator)<!-- sideproject:END -->
+-  03 [希望](https://www.reddit.com/r/SideProject/comments/189rpti/hope/)<!-- sideproject:END -->
 
 
 ### 无忧分享
