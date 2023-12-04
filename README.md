@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [我们制作了一款 iOS 应用程序 Outside，它利用人工智能为您提供个性化的想法，帮助您随时随地发现更多，减少计划。](https://old.reddit.com/r/SideProject/comments/18alx7x/weve_made_outside_an_ios_app_that_uses_ai_to_give/)
+-  04 [我创建了一个人工智能助手，可以与您的 PDF 聊天，源代码已开放！](https://old.reddit.com/r/SideProject/comments/18alo8m/i_built_an_ai_assistant_to_chat_with_your_pdf_and/)
+-  04 [电子邮件通讯辅助项目](https://www.reddit.com/r/SideProject/comments/18aliwk/email_newsletter_side_projects/)
+-  04 [为什么人工智能有能力杀死所有出版商？](https://www.storifyme.com/blog/why-ai-is-in-a-position-to-kill-all-publishers)
 -  04 [CartBuddy GPT 简介：适用于亚马逊所有商品的人工智能购物助手（需要 chatGPT+）](https://old.reddit.com/r/SideProject/comments/18akc8c/introducing_cartbuddy_gpt_the_aipowered_shopping/)
 -  04 [我制作了我的第一个应用程序 NeuroNotes - 一个类似于 Goodnotes 的免费笔记应用程序](https://www.reddit.com/r/SideProject/comments/18aijvq/i_made_my_first_app_neuronotes_a_free_note_taking/)
 -  04 [Picview（macOS 上的图像查看器）：Reddit 的 macapps 社区上的首次发布过程和数据共享](https://www.reddit.com/r/SideProject/comments/18ai0ul/picview_a_image_viewer_on_macos_first_post/)
@@ -21,11 +25,7 @@
 -  04 [我想与大家分享一些对我来说很有启发的见解：](https://www.reddit.com/r/SideProject/comments/18a51g6/wanted_to_share_some_insights_that_have_really/)
 -  04 [如何面对 &quot;自己还不够好 &quot;的感觉？](https://www.reddit.com/r/SideProject/comments/18a659q/how_to_deal_with_the_feeling_that_you_are_not/)
 -  03 [我做了一个 Chrome 扩展，可以在预订前轻松比较 Airbnb 房源。我的用户越来越多，但不知道如何盈利。](https://www.reddit.com/r/SideProject/comments/18a3pau/i_made_a_chrome_extension_to_easily_compare/)
--  03 [寻找项目](https://www.reddit.com/r/SideProject/comments/18a2pmo/looking_for_a_project/)
--  03 [就我关于成功企业如何利用品牌促进增长的通讯寻求反馈意见](https://www.reddit.com/r/SideProject/comments/18a2e5w/looking_for_feedback_on_my_newsletter_on_how/)
--  03 [我们创建了一款营养人工智能应用程序！](https://www.reddit.com/r/SideProject/comments/189u5ka/we_created_a_nutrition_ai_app/)
--  03 [便便回顾 - 我做了一个有趣的项目来跟踪您的便便:&rpar;](https://www.reddit.com/r/SideProject/comments/18a1ber/the_poo_review_i_made_a_fun_project_to_track_your/)
--  03 [对 1 人网络开发公司网站的反馈意见](https://www.reddit.com/r/SideProject/comments/189yuyc/feedback_on_1man_web_dev_agency_website/)<!-- sideproject:END -->
+-  03 [寻找项目](https://www.reddit.com/r/SideProject/comments/18a2pmo/looking_for_a_project/)<!-- sideproject:END -->
 
 
 ### 无忧分享
