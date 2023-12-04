@@ -47,7 +47,7 @@ jobs:
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
           filter_dates: "daysAgo/1/"
-       - name: Pull in advertcn3 posts
+      - name: Pull in advertcn3 posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.advertcn.com/forum.php?mod=rss&fid=2"
