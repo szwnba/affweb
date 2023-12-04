@@ -29,12 +29,30 @@ jobs:
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
           filter_dates: "daysAgo/1/"
-      - name: Pull in advertcn posts
+      - name: Pull in advertcn1 posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.advertcn.com/forum.php?mod=guide&view=hot&rss=1"
+          feed_list: "https://www.advertcn.com/forum.php?mod=rss&fid=57"
           max_post_count: 10
-          comment_tag_name: "advertcn"
+          comment_tag_name: "advertcn1"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
+          filter_dates: "daysAgo/1/"
+      - name: Pull in advertcn2 posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.advertcn.com/forum.php?mod=rss&fid=53"
+          max_post_count: 10
+          comment_tag_name: "advertcn2"
+          date_format: "UTC: dd"
+          template: "$newline- $date [$title]($url)"
+          filter_dates: "daysAgo/1/"
+       - name: Pull in advertcn3 posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.advertcn.com/forum.php?mod=rss&fid=2"
+          max_post_count: 10
+          comment_tag_name: "advertcn3"
           date_format: "UTC: dd"
           template: "$newline- $date [$title]($url)"
           filter_dates: "daysAgo/1/"

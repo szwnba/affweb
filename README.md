@@ -32,10 +32,21 @@
 <!-- ruyo:START -->
 -  01 [22年11月~23年11月ChatGPT一周年！载入史册大事件回顾](https://51.ruyo.net/18557.html)<!-- ruyo:END -->
 
-### advertcn
-<!-- advertcn:START -->
+### 进阶学堂: Newbie Questions
+<!-- advertcn1:START -->
 -  03 [这是不是被植入病毒了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113169)
--  02 [shareasale 追踪链接上不了谷歌广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=113167)<!-- advertcn:END -->
+-  02 [shareasale 追踪链接上不了谷歌广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=113167)<!-- advertcn1:END -->
+
+### 步步为赢: Follow Along
+<!-- advertcn2:START -->
+-  03 [这是不是被植入病毒了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113169)
+-  02 [shareasale 追踪链接上不了谷歌广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=113167)<!-- advertcn2:END -->
+
+### 综合讨论区: General Discussion
+<!-- advertcn3:START -->
+-  03 [这是不是被植入病毒了？](https://www.advertcn.com/forum.php?mod=viewthread&tid=113169)
+-  02 [shareasale 追踪链接上不了谷歌广告](https://www.advertcn.com/forum.php?mod=viewthread&tid=113167)<!-- advertcn3:END -->
+
 
 ### zhihu
 <!-- zhihu:START -->
