@@ -60,5 +60,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [规划一次有针对性的健康检查：我的体检项目定制思路](https://sspai.com/post/84739)
 -  04 [派早报：工信部称 2G/3G 退网是必然选择](https://sspai.com/post/84815)
 -  03 [为了更包容和便利的未来——国际残疾人日专题](https://sspai.com/post/70270)<!-- sspai:END -->
