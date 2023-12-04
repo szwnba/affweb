@@ -45,18 +45,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
+-  04 [I made $30,000 off a domain!](https://afflift.com/f/threads/i-made-30-000-off-a-domain.6490/)
+-  04 [💰🎁Adsterra Traffic #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-traffic-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12162/)
+-  04 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
+-  04 [Hello from Colombia](https://afflift.com/f/threads/hello-from-colombia.12114/)
+-  04 [💰🎁Adsterra CPA #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-cpa-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12163/)
+-  04 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
+-  04 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  04 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
 -  04 [A Beginner Following The Beginners Guide](https://afflift.com/f/threads/a-beginner-following-the-beginners-guide.12188/)
--  04 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  04 [Black Friday 2023 - Affiliate Marketing Deals](https://afflift.com/f/threads/black-friday-2023-affiliate-marketing-deals.12085/)
--  04 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  04 [#ADSTERRAx2 Adsterra Contest running Traffic as a Adsterra Advertiser](https://afflift.com/f/threads/adsterrax2-adsterra-contest-running-traffic-as-a-adsterra-advertiser.12135/)
--  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  04 [Farhad from Bangladesh.](https://afflift.com/f/threads/farhad-from-bangladesh.12186/)
--  04 [Clickbank affiliate with Google ads [Easy Methods]](https://afflift.com/f/threads/clickbank-affiliate-with-google-ads-easy-methods.12185/)
--  04 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  04 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  04 [TUT out of BM when I am the only Admin](https://afflift.com/f/threads/tut-out-of-bm-when-i-am-the-only-admin.12118/)<!-- afflift:END -->
+-  04 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
+-  04 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
