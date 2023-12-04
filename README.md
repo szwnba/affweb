@@ -45,6 +45,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
+-  04 [💰🎁Adsterra CPA #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-cpa-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12163/)
+-  04 [💰🎁Adsterra Traffic #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-traffic-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12162/)
 -  04 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  04 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
 -  04 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)
@@ -53,10 +56,7 @@
 -  03 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  03 [Push collection with 1 conversion per user on Revshare?](https://afflift.com/f/threads/push-collection-with-1-conversion-per-user-on-revshare.12177/)
 -  03 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  03 [Hello from Colombia](https://afflift.com/f/threads/hello-from-colombia.12114/)
--  03 [#ADSTERRAx2 Let&#39;s test a new traffic source](https://afflift.com/f/threads/adsterrax2-lets-test-a-new-traffic-source.12120/)
--  03 [PropellerAds + Adsterra CPA Network - Pop Campaign [Contest] #ADSTERRAx2](https://afflift.com/f/threads/propellerads-adsterra-cpa-network-pop-campaign-contest-adsterrax2.12144/)
--  03 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  03 [Hello from Colombia](https://afflift.com/f/threads/hello-from-colombia.12114/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
