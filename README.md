@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [从终端快速生成项目的开源许可⚡](https://www.reddit.com/r/SideProject/comments/18ao7tl/generate_open_source_license_for_your_projects/)
+-  04 [[META] 应该有一个 /r/SideProjectAI/NN/etc 吗？](https://www.reddit.com/r/SideProject/comments/18apvis/meta_should_there_be_a_rsideprojectainnetc/)
+-  04 [我创建了一个工具，可以在 Excel 和 Google Sheets 中自动对支出进行分类](https://www.reddit.com/r/SideProject/comments/18aozwt/i_built_a_tool_to_automatically_categorize/)
 -  04 [我创建了一个工具，用于识别高意向页面上的确切网站访客](https://www.reddit.com/r/SideProject/comments/18ao0hr/i_built_a_tool_for_identifying_exact_website/)
 -  04 [字母方框解题器](https://old.reddit.com/r/SideProject/comments/18aniwn/letter_boxed_solver/)
 -  04 [我创建了一个网站，供人们在不显示作者的情况下发布创意，以促进创造力的发展](https://www.reddit.com/r/SideProject/comments/18amv1i/i_made_a_website_for_people_to_post_ideas_without/)
@@ -22,10 +25,7 @@
 -  04 [当您不知道该编写什么代码时该怎么办？我们的答案是](https://old.reddit.com/r/SideProject/comments/18ahfv3/what_do_you_do_when_you_dont_know_what_to_code/)
 -  04 [我为我的团队创建了云托管代码片段/笔记管理器，个人也可以使用。](https://www.reddit.com/r/SideProject/comments/18aflri/i_built_cloud_hosted_code_snippetnotes_manager/)
 -  04 [烘烤我的着陆页](https://old.reddit.com/r/SaaS/comments/189yhb1/roast_my_landing_page/)
--  04 [我的 eBay 购物助手网站终于赚钱了](https://www.howmuchperunit.com/)
--  04 [从 100 多个网站中探索登陆页面、定价、登录、博客、功能、替代方案等更多页面。在第一条评论中提供链接。](https://old.reddit.com/r/SideProject/comments/18aeown/explore_landing_pages_pricing_login_blog_features/)
--  04 [短片生成器介绍--从概念到病毒视频，只需几分钟！](https://www.reddit.com/r/SideProject/comments/18abdwg/introducing_shorts_generator_from_concept_to/)
--  04 [鼓励 SaaS 爱好者](https://www.reddit.com/r/SideProject/comments/18aarrz/encouragement_for_saas_enthusiasts/)<!-- sideproject:END -->
+-  04 [我的 eBay 购物助手网站终于赚钱了](https://www.howmuchperunit.com/)<!-- sideproject:END -->
 
 
 ### 无忧分享
