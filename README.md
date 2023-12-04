@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [我们创建了有史以来最经济实惠的低代码自动化平台](https://www.reddit.com/r/SideProject/comments/18aur1j/we_created_the_most_affordable_lowcode_automation/)
+-  04 [没有激情问题](https://www.reddit.com/r/SideProject/comments/18aukli/no_passion_problem/)
 -  04 [我的远程工作平台让我的口袋里多了 100 英镑！](https://www.reddit.com/r/SideProject/comments/18au5e2/my_remote_work_platform_just_put_100_in_my_pocket/)
 -  04 [最终金库 - 带通知的在线死亡开关](https://www.reddit.com/r/SideProject/comments/18atzgk/final_vault_online_deadman_switch_with/)
 -  04 [越野车改装/建造](https://old.reddit.com/r/SideProject/comments/18alm1c/atv_conversionbuild/)
@@ -23,9 +25,7 @@
 -  04 [我创建了一个人工智能助手，可以与您的 PDF 聊天，源代码已开放！](https://old.reddit.com/r/SideProject/comments/18alo8m/i_built_an_ai_assistant_to_chat_with_your_pdf_and/)
 -  04 [电子邮件通讯辅助项目](https://www.reddit.com/r/SideProject/comments/18aliwk/email_newsletter_side_projects/)
 -  04 [为什么人工智能有能力杀死所有出版商？](https://www.storifyme.com/blog/why-ai-is-in-a-position-to-kill-all-publishers)
--  04 [CartBuddy GPT 简介：适用于亚马逊所有商品的人工智能购物助手（需要 chatGPT+）](https://old.reddit.com/r/SideProject/comments/18akc8c/introducing_cartbuddy_gpt_the_aipowered_shopping/)
--  04 [我制作了我的第一个应用程序 NeuroNotes - 一个类似于 Goodnotes 的免费笔记应用程序](https://www.reddit.com/r/SideProject/comments/18aijvq/i_made_my_first_app_neuronotes_a_free_note_taking/)
--  04 [Picview（macOS 上的图像查看器）：Reddit 的 macapps 社区上的首次发布过程和数据共享](https://www.reddit.com/r/SideProject/comments/18ai0ul/picview_a_image_viewer_on_macos_first_post/)<!-- sideproject:END -->
+-  04 [CartBuddy GPT 简介：适用于亚马逊所有商品的人工智能购物助手（需要 chatGPT+）](https://old.reddit.com/r/SideProject/comments/18akc8c/introducing_cartbuddy_gpt_the_aipowered_shopping/)<!-- sideproject:END -->
 
 
 ### 无忧分享
