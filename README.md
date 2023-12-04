@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [我创建了一个工具，用于识别高意向页面上的确切网站访客](https://www.reddit.com/r/SideProject/comments/18ao0hr/i_built_a_tool_for_identifying_exact_website/)
+-  04 [字母方框解题器](https://old.reddit.com/r/SideProject/comments/18aniwn/letter_boxed_solver/)
 -  04 [我创建了一个网站，供人们在不显示作者的情况下发布创意，以促进创造力的发展](https://www.reddit.com/r/SideProject/comments/18amv1i/i_made_a_website_for_people_to_post_ideas_without/)
 -  04 [我和一些朋友举办了我们的第一次黑客马拉松，并创建了一个根据玩家笔记自动编写桌面 RPG 总结的工具](https://www.reddit.com/r/SideProject/comments/18amrla/some_friends_and_i_had_our_first_hackathon_and/)
 -  04 [我们制作了一款 iOS 应用程序 Outside，它利用人工智能为您提供个性化的想法，帮助您随时随地发现更多，减少计划。](https://old.reddit.com/r/SideProject/comments/18alx7x/weve_made_outside_an_ios_app_that_uses_ai_to_give/)
@@ -23,9 +25,7 @@
 -  04 [我的 eBay 购物助手网站终于赚钱了](https://www.howmuchperunit.com/)
 -  04 [从 100 多个网站中探索登陆页面、定价、登录、博客、功能、替代方案等更多页面。在第一条评论中提供链接。](https://old.reddit.com/r/SideProject/comments/18aeown/explore_landing_pages_pricing_login_blog_features/)
 -  04 [短片生成器介绍--从概念到病毒视频，只需几分钟！](https://www.reddit.com/r/SideProject/comments/18abdwg/introducing_shorts_generator_from_concept_to/)
--  04 [鼓励 SaaS 爱好者](https://www.reddit.com/r/SideProject/comments/18aarrz/encouragement_for_saas_enthusiasts/)
--  04 [我想与大家分享一些对我来说很有启发的见解：](https://www.reddit.com/r/SideProject/comments/18a51g6/wanted_to_share_some_insights_that_have_really/)
--  04 [如何面对 &quot;自己还不够好 &quot;的感觉？](https://www.reddit.com/r/SideProject/comments/18a659q/how_to_deal_with_the_feeling_that_you_are_not/)<!-- sideproject:END -->
+-  04 [鼓励 SaaS 爱好者](https://www.reddit.com/r/SideProject/comments/18aarrz/encouragement_for_saas_enthusiasts/)<!-- sideproject:END -->
 
 
 ### 无忧分享
