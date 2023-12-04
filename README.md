@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  04 [我创建了一个网站，供人们在不显示作者的情况下发布创意，以促进创造力的发展](https://www.reddit.com/r/SideProject/comments/18amv1i/i_made_a_website_for_people_to_post_ideas_without/)
+-  04 [我和一些朋友举办了我们的第一次黑客马拉松，并创建了一个根据玩家笔记自动编写桌面 RPG 总结的工具](https://www.reddit.com/r/SideProject/comments/18amrla/some_friends_and_i_had_our_first_hackathon_and/)
 -  04 [我们制作了一款 iOS 应用程序 Outside，它利用人工智能为您提供个性化的想法，帮助您随时随地发现更多，减少计划。](https://old.reddit.com/r/SideProject/comments/18alx7x/weve_made_outside_an_ios_app_that_uses_ai_to_give/)
 -  04 [我创建了一个人工智能助手，可以与您的 PDF 聊天，源代码已开放！](https://old.reddit.com/r/SideProject/comments/18alo8m/i_built_an_ai_assistant_to_chat_with_your_pdf_and/)
 -  04 [电子邮件通讯辅助项目](https://www.reddit.com/r/SideProject/comments/18aliwk/email_newsletter_side_projects/)
@@ -23,9 +25,7 @@
 -  04 [短片生成器介绍--从概念到病毒视频，只需几分钟！](https://www.reddit.com/r/SideProject/comments/18abdwg/introducing_shorts_generator_from_concept_to/)
 -  04 [鼓励 SaaS 爱好者](https://www.reddit.com/r/SideProject/comments/18aarrz/encouragement_for_saas_enthusiasts/)
 -  04 [我想与大家分享一些对我来说很有启发的见解：](https://www.reddit.com/r/SideProject/comments/18a51g6/wanted_to_share_some_insights_that_have_really/)
--  04 [如何面对 &quot;自己还不够好 &quot;的感觉？](https://www.reddit.com/r/SideProject/comments/18a659q/how_to_deal_with_the_feeling_that_you_are_not/)
--  03 [我做了一个 Chrome 扩展，可以在预订前轻松比较 Airbnb 房源。我的用户越来越多，但不知道如何盈利。](https://www.reddit.com/r/SideProject/comments/18a3pau/i_made_a_chrome_extension_to_easily_compare/)
--  03 [寻找项目](https://www.reddit.com/r/SideProject/comments/18a2pmo/looking_for_a_project/)<!-- sideproject:END -->
+-  04 [如何面对 &quot;自己还不够好 &quot;的感觉？](https://www.reddit.com/r/SideProject/comments/18a659q/how_to_deal_with_the_feeling_that_you_are_not/)<!-- sideproject:END -->
 
 
 ### 无忧分享
