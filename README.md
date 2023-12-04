@@ -45,6 +45,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  04 [Pass to Affiliate World Bangkok For sale](https://afflift.com/f/threads/pass-to-affiliate-world-bangkok-for-sale.12172/)
 -  04 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
 -  04 [💰🎁Adsterra CPA #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-cpa-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12163/)
@@ -55,8 +56,7 @@
 -  04 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)
 -  03 [Struggling to Succeed with Pay Per Call &amp; FB Ads](https://afflift.com/f/threads/struggling-to-succeed-with-pay-per-call-fb-ads.12180/)
 -  03 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  03 [Push collection with 1 conversion per user on Revshare?](https://afflift.com/f/threads/push-collection-with-1-conversion-per-user-on-revshare.12177/)
--  03 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)<!-- afflift:END -->
+-  03 [Push collection with 1 conversion per user on Revshare?](https://afflift.com/f/threads/push-collection-with-1-conversion-per-user-on-revshare.12177/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
