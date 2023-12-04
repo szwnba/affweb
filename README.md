@@ -45,6 +45,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [#ADSTERRAx2 Back to Adsterra at BlackFriday WITH Trafee,Crakrevenue...](https://afflift.com/f/threads/adsterrax2-back-to-adsterra-at-blackfriday-with-trafee-crakrevenue.12115/)
+-  04 [#ADSTERRAx2 Adsterra Network Offers Running...](https://afflift.com/f/threads/adsterrax2-adsterra-network-offers-running.12160/)
+-  04 [#ADSTERRAx2 Testing Adsterra Network Offers](https://afflift.com/f/threads/adsterrax2-testing-adsterra-network-offers.12179/)
+-  04 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  04 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  04 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
 -  04 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
@@ -52,11 +56,7 @@
 -  04 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  04 [Pass to Affiliate World Bangkok For sale](https://afflift.com/f/threads/pass-to-affiliate-world-bangkok-for-sale.12172/)
 -  04 [💰🎁Adsterra CPA #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-cpa-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12163/)
--  04 [💰🎁Adsterra Traffic #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-traffic-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12162/)
--  04 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  04 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
--  04 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)
--  04 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)<!-- afflift:END -->
+-  04 [💰🎁Adsterra Traffic #ADSTERRAx2🎁💰](https://afflift.com/f/threads/%F0%9F%92%B0%F0%9F%8E%81adsterra-traffic-adsterrax2%F0%9F%8E%81%F0%9F%92%B0.12162/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
