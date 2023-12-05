@@ -48,8 +48,7 @@
 -  05 [跑产品留资的LP页面怎么设计比较好](https://www.advertcn.com/thread-113192-1-1.html)
 -  05 [Meta重要政策提醒！！禁止违法使用公众人物的图片及具有...](https://www.advertcn.com/thread-113190-1-1.html)
 -  05 [有没有可以自己选择美国哪个州的代理？](https://www.advertcn.com/thread-113187-1-1.html)
--  05 [Youtube Vs blog](https://www.advertcn.com/thread-113186-1-1.html)
--  04 [昨天去上二楼，按摩的小妹竟然是FB投手！！！](https://www.advertcn.com/thread-113179-1-1.html)<!-- advertcn3:END -->
+-  05 [Youtube Vs blog](https://www.advertcn.com/thread-113186-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
