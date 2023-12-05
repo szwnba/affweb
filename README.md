@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [DataAnalyst.com - 我创办了一个利基招聘网站，提供手工策划的数据分析师职位。以下是第 11 个月后的情况总结](https://www.reddit.com/r/SideProject/comments/18bgam8/dataanalystcom_i_launched_a_niche_job_board_with/)
+-  05 [本周末，我破解了一些 ChatGPT 小工具，让您可以快速清理文本、检查语法或执行语言翻译等操作。](https://old.reddit.com/r/SideProject/comments/18bfxgj/hacked_on_some_chatgpt_widgets_this_weekend_to/)
 -  05 [我制作了一个图像生成平台 - Arthemy](https://www.reddit.com/r/SideProject/comments/18bcq95/ive_made_an_image_generation_platform_arthemy/)
 -  05 [🌟 将您的 YouTube 视频即时转化为 SEO 文章 - 免费！](https://www.reddit.com/r/SideProject/comments/18bc130/transform_your_youtube_videos_into_seo_articles/)
 -  05 [自动化 7 年回顾](https://jerrynsh.com/a-look-back-on-7-years-of-automating-stuff/)
@@ -23,9 +25,7 @@
 -  05 [我制作了一个 GPT 来寻找其他 GPT（从 1500 多个经过审核的 GPT 列表中）。](https://findmeagpt.com/)
 -  04 [你目前的副业对你有什么启发？](https://www.reddit.com/r/SideProject/comments/18avykv/whats_your_current_side_project_teaching_you/)
 -  04 [我对 WordPress 的 &quot;黑魔法 &quot;感到失望，于是我设计了一个无头 CMS。](https://old.reddit.com/r/SideProject/comments/18avqln/frustrated_with_wordpresss_black_magic_i_crafted/)
--  04 [我们创建了有史以来最经济实惠的低代码自动化平台](https://www.reddit.com/r/SideProject/comments/18aur1j/we_created_the_most_affordable_lowcode_automation/)
--  04 [没有激情问题](https://www.reddit.com/r/SideProject/comments/18aukli/no_passion_problem/)
--  04 [我的远程工作平台让我的口袋里多了 100 英镑！](https://www.reddit.com/r/SideProject/comments/18au5e2/my_remote_work_platform_just_put_100_in_my_pocket/)<!-- sideproject:END -->
+-  04 [我们创建了有史以来最经济实惠的低代码自动化平台](https://www.reddit.com/r/SideProject/comments/18aur1j/we_created_the_most_affordable_lowcode_automation/)<!-- sideproject:END -->
 
 
 ### 无忧分享
