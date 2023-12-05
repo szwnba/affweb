@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [征求对我的免费开发工具网站的反馈意见](https://www.reddit.com/r/SideProject/comments/18bm499/seeking_feedback_on_my_free_developer_tools/)
+-  05 [ArchFormation：可视化云基础设施构建工具](https://www.reddit.com/r/SideProject/comments/18bl9l3/archformation_visual_cloud_infrastructure/)
+-  05 [CharmCheck - GPT-Vision 上的约会资料审核员/助理](https://old.reddit.com/r/SideProject/comments/18bkwv0/charmcheck_dating_profile_reviewerassistant_on/)
+-  05 [寻求对想法的反馈！](https://www.reddit.com/r/SideProject/comments/18bhdob/seeking_feedback_on_an_idea/)
 -  05 [B2C 初创企业是否值得投资](https://www.reddit.com/r/SideProject/comments/18biu35/are_b2c_startups_worth_it/)
 -  05 [探索 XGenTools.io：人工智能工具和应用程序动态目录](https://www.reddit.com/r/SideProject/comments/18bkmiw/discover_xgentoolsio_a_dynamic_directory_for_ai/)
 -  05 [我和朋友计划拍摄一组发布会照片，你觉得怎么样？](https://old.reddit.com/r/SideProject/comments/18bk3tm/planned_a_launch_photoshoot_with_my_friend_what/)
@@ -21,11 +25,7 @@
 -  05 [Spellar AI：如何不发布产品](https://www.reddit.com/r/SideProject/comments/18b7bqf/spellar_ai_how_not_to_launch_your_product/)
 -  05 [征求反馈：如何改进我们人工智能产品的登陆页面？](https://www.reddit.com/r/SideProject/comments/18ba2he/feedback_wanted_how_can_we_improve_our_ai/)
 -  05 [根据照片生成物业清单](https://www.reddit.com/r/SideProject/comments/18b9jqd/generate_property_listing_from_photos/)
--  05 [我们将于今天推出，希望得到反馈！](https://www.reddit.com/r/SideProject/comments/18b8xle/we_are_launching_today_and_would_love_some/)
--  05 [如何向用户发布新功能？](https://www.reddit.com/r/SideProject/comments/18b77gm/how_do_you_announce_new_features_to_your_users/)
--  05 [简单易用的简历生成器，伴随您的职业生涯终生](https://www.reddit.com/r/SideProject/comments/18b5upg/a_dead_simple_resume_builder_that_accompanies/)
--  05 [寻找可合作的辅助项目（新项目）](https://www.reddit.com/r/SideProject/comments/18b1igh/looking_for_a_side_project_to_work_with_new/)
--  05 [几个月前我被解雇了，于是决定尝试独立黑客，为 YouTube 引入智能摘要。](https://www.reddit.com/r/SideProject/comments/18b34o3/i_got_layed_off_a_few_months_ago_and_decided_to/)<!-- sideproject:END -->
+-  05 [我们将于今天推出，希望得到反馈！](https://www.reddit.com/r/SideProject/comments/18b8xle/we_are_launching_today_and_would_love_some/)<!-- sideproject:END -->
 
 
 ### 无忧分享
