@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [我们为您的 WordPress 网站构建了隐私友好型分析工具！](https://www.reddit.com/r/SideProject/comments/18asqwp/we_built_a_privacyfriendly_analytics_for_your/)
 -  05 [为初创企业寻找创意的新方法](https://www.reddit.com/r/SideProject/comments/18axfdk/a_new_way_to_find_ideas_for_startups/)
 -  05 [我制作了一个 GPT 来寻找其他 GPT（从 1500 多个经过审核的 GPT 列表中）。](https://findmeagpt.com/)
 -  04 [你目前的副业对你有什么启发？](https://www.reddit.com/r/SideProject/comments/18avykv/whats_your_current_side_project_teaching_you/)
@@ -24,8 +25,7 @@
 -  04 [我创建了一个工具，用于识别高意向页面上的确切网站访客](https://www.reddit.com/r/SideProject/comments/18ao0hr/i_built_a_tool_for_identifying_exact_website/)
 -  04 [字母方框解题器](https://old.reddit.com/r/SideProject/comments/18aniwn/letter_boxed_solver/)
 -  04 [我创建了一个网站，供人们在不显示作者的情况下发布创意，以促进创造力的发展](https://www.reddit.com/r/SideProject/comments/18amv1i/i_made_a_website_for_people_to_post_ideas_without/)
--  04 [我和一些朋友举办了我们的第一次黑客马拉松，并创建了一个根据玩家笔记自动编写桌面 RPG 总结的工具](https://www.reddit.com/r/SideProject/comments/18amrla/some_friends_and_i_had_our_first_hackathon_and/)
--  04 [我们制作了一款 iOS 应用程序 Outside，它利用人工智能为您提供个性化的想法，帮助您随时随地发现更多，减少计划。](https://old.reddit.com/r/SideProject/comments/18alx7x/weve_made_outside_an_ios_app_that_uses_ai_to_give/)<!-- sideproject:END -->
+-  04 [我和一些朋友举办了我们的第一次黑客马拉松，并创建了一个根据玩家笔记自动编写桌面 RPG 总结的工具](https://www.reddit.com/r/SideProject/comments/18amrla/some_friends_and_i_had_our_first_hackathon_and/)<!-- sideproject:END -->
 
 
 ### 无忧分享
