@@ -59,18 +59,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [We are Gasmobi - Affiliate network &amp; Advertiser!](https://afflift.com/f/threads/we-are-gasmobi-affiliate-network-advertiser.4621/)
--  05 [Adsterra CPA #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-cpa-adsterrax2-vote-for-your-favorite-follow-along.12190/)
+-  05 [$0 to $1k/Month with Twitter/X](https://afflift.com/f/threads/0-to-1k-month-with-twitter-x.10640/)
 -  05 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)
+-  05 [Adsterra CPA #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-cpa-adsterrax2-vote-for-your-favorite-follow-along.12190/)
+-  05 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)
+-  05 [Predict If Your Ad Headline Will Have a Good CTR BEFORE Launching Your Campaign](https://afflift.com/f/threads/predict-if-your-ad-headline-will-have-a-good-ctr-before-launching-your-campaign.12193/)
+-  05 [We are Gasmobi - Affiliate network &amp; Advertiser!](https://afflift.com/f/threads/we-are-gasmobi-affiliate-network-advertiser.4621/)
 -  05 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
 -  05 [922S5-Best ISP Proxy Service Provider? | Socks5/Http&lpar;s&rpar; Proxy List](https://afflift.com/f/threads/922s5-best-isp-proxy-service-provider-socks5-http-s-proxy-list.12117/)
 -  05 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
 -  05 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  05 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
--  05 [Who are the top 5 DSP that sells pop traffic?](https://afflift.com/f/threads/who-are-the-top-5-dsp-that-sells-pop-traffic.12191/)
--  05 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
--  05 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
--  05 [Is &quot;Facebook on Android&quot; a browser or an APP ?](https://afflift.com/f/threads/is-facebook-on-android-a-browser-or-an-app.12176/)<!-- afflift:END -->
+-  05 [Who are the top 5 DSP that sells pop traffic?](https://afflift.com/f/threads/who-are-the-top-5-dsp-that-sells-pop-traffic.12191/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
