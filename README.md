@@ -60,18 +60,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  05 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
+-  05 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
+-  05 [$0 to $1k/Month with Twitter/X](https://afflift.com/f/threads/0-to-1k-month-with-twitter-x.10640/)
+-  05 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
+-  05 [#ADSTERRAx2 Testing Adsterra Network Offers](https://afflift.com/f/threads/adsterrax2-testing-adsterra-network-offers.12179/)
 -  05 [Predict If Your Ad Headline Will Have a Good CTR BEFORE Launching Your Campaign](https://afflift.com/f/threads/predict-if-your-ad-headline-will-have-a-good-ctr-before-launching-your-campaign.12193/)
+-  05 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
+-  05 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  05 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
 -  05 [#ADSTERRAx2 Testing Dating offer with Adsterra Social Bar Smart CPM](https://afflift.com/f/threads/adsterrax2-testing-dating-offer-with-adsterra-social-bar-smart-cpm.12092/)
 -  05 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  05 [Adsterra CPA #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-cpa-adsterrax2-vote-for-your-favorite-follow-along.12190/)
--  05 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)
--  05 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
--  05 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
--  05 [How to know the tracker of the Competitor&#39;s website?](https://afflift.com/f/threads/how-to-know-the-tracker-of-the-competitors-website.12174/)
--  05 [#ADSTERRAx2 Let&#39;s test a new traffic source](https://afflift.com/f/threads/adsterrax2-lets-test-a-new-traffic-source.12120/)<!-- afflift:END -->
+-  05 [Adsterra CPA #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-cpa-adsterrax2-vote-for-your-favorite-follow-along.12190/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
