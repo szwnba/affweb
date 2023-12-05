@@ -56,6 +56,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
+-  05 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  05 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
 -  05 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
 -  05 [Who are the top 5 DSP that sells pop traffic?](https://afflift.com/f/threads/who-are-the-top-5-dsp-that-sells-pop-traffic.12191/)
@@ -65,9 +67,7 @@
 -  05 [Maxconv huge click loss](https://afflift.com/f/threads/maxconv-huge-click-loss.12171/)
 -  04 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
 -  04 [Using the new GPTs](https://afflift.com/f/threads/using-the-new-gpts.12181/)
--  04 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)
--  04 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
--  04 [How to duplicate ad sets in Facebook ads?](https://afflift.com/f/threads/how-to-duplicate-ad-sets-in-facebook-ads.12178/)<!-- afflift:END -->
+-  04 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
