@@ -70,8 +70,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [派早报：深圳消费者权益保护条例公布，平衡球将登陆 Steam 等](https://sspai.com/post/84851)
 -  04 [派评 | 近期值得关注的 App](https://sspai.com/post/84841)
 -  04 [写给 TESTV 铁丝的一封信：我们为什么要办铁丝俱乐部？](https://sspai.com/post/84823)
 -  04 [全屋智能？来自建筑设计狗的不完全指北](https://sspai.com/post/84820)
--  04 [规划一次有针对性的健康检查：我的体检项目定制思路](https://sspai.com/post/84739)
--  04 [派早报：工信部称 2G/3G 退网是必然选择](https://sspai.com/post/84815)<!-- sspai:END -->
+-  04 [规划一次有针对性的健康检查：我的体检项目定制思路](https://sspai.com/post/84739)<!-- sspai:END -->
