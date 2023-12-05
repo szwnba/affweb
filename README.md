@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [为初创企业寻找创意的新方法](https://www.reddit.com/r/SideProject/comments/18axfdk/a_new_way_to_find_ideas_for_startups/)
+-  05 [我制作了一个 GPT 来寻找其他 GPT（从 1500 多个经过审核的 GPT 列表中）。](https://findmeagpt.com/)
+-  04 [你目前的副业对你有什么启发？](https://www.reddit.com/r/SideProject/comments/18avykv/whats_your_current_side_project_teaching_you/)
+-  04 [我对 WordPress 的 &quot;黑魔法 &quot;感到失望，于是我设计了一个无头 CMS。](https://old.reddit.com/r/SideProject/comments/18avqln/frustrated_with_wordpresss_black_magic_i_crafted/)
 -  04 [我们创建了有史以来最经济实惠的低代码自动化平台](https://www.reddit.com/r/SideProject/comments/18aur1j/we_created_the_most_affordable_lowcode_automation/)
 -  04 [没有激情问题](https://www.reddit.com/r/SideProject/comments/18aukli/no_passion_problem/)
 -  04 [我的远程工作平台让我的口袋里多了 100 英镑！](https://www.reddit.com/r/SideProject/comments/18au5e2/my_remote_work_platform_just_put_100_in_my_pocket/)
@@ -21,11 +25,7 @@
 -  04 [字母方框解题器](https://old.reddit.com/r/SideProject/comments/18aniwn/letter_boxed_solver/)
 -  04 [我创建了一个网站，供人们在不显示作者的情况下发布创意，以促进创造力的发展](https://www.reddit.com/r/SideProject/comments/18amv1i/i_made_a_website_for_people_to_post_ideas_without/)
 -  04 [我和一些朋友举办了我们的第一次黑客马拉松，并创建了一个根据玩家笔记自动编写桌面 RPG 总结的工具](https://www.reddit.com/r/SideProject/comments/18amrla/some_friends_and_i_had_our_first_hackathon_and/)
--  04 [我们制作了一款 iOS 应用程序 Outside，它利用人工智能为您提供个性化的想法，帮助您随时随地发现更多，减少计划。](https://old.reddit.com/r/SideProject/comments/18alx7x/weve_made_outside_an_ios_app_that_uses_ai_to_give/)
--  04 [我创建了一个人工智能助手，可以与您的 PDF 聊天，源代码已开放！](https://old.reddit.com/r/SideProject/comments/18alo8m/i_built_an_ai_assistant_to_chat_with_your_pdf_and/)
--  04 [电子邮件通讯辅助项目](https://www.reddit.com/r/SideProject/comments/18aliwk/email_newsletter_side_projects/)
--  04 [为什么人工智能有能力杀死所有出版商？](https://www.storifyme.com/blog/why-ai-is-in-a-position-to-kill-all-publishers)
--  04 [CartBuddy GPT 简介：适用于亚马逊所有商品的人工智能购物助手（需要 chatGPT+）](https://old.reddit.com/r/SideProject/comments/18akc8c/introducing_cartbuddy_gpt_the_aipowered_shopping/)<!-- sideproject:END -->
+-  04 [我们制作了一款 iOS 应用程序 Outside，它利用人工智能为您提供个性化的想法，帮助您随时随地发现更多，减少计划。](https://old.reddit.com/r/SideProject/comments/18alx7x/weve_made_outside_an_ios_app_that_uses_ai_to_give/)<!-- sideproject:END -->
 
 
 ### 无忧分享
