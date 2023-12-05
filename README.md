@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [我创建了一个工具，用于将想法快速整理成结构化笔记！](https://www.reddit.com/r/SideProject/comments/18bcerd/i_build_a_tool_to_quickly_organize_ideas_into/)
+-  05 [我制作了一个 Figma 插件，可以识别设计问题并立即修复！](https://www.reddit.com/r/SideProject/comments/18bhyfm/i_made_a_figma_plugin_that_identifies_design/)
+-  05 [解锁所有流媒体服务目录](http://streamwithvpn.com/)
+-  05 [今天在 Product Hunt 上发布运动追踪健身应用程序 - 需要您的支持 :&rpar;](https://www.reddit.com/r/SideProject/comments/18bezkt/launched_a_motion_tracking_fitness_app_in_product/)
 -  05 [DataAnalyst.com - 我创办了一个利基招聘网站，提供手工策划的数据分析师职位。以下是第 11 个月后的情况总结](https://www.reddit.com/r/SideProject/comments/18bgam8/dataanalystcom_i_launched_a_niche_job_board_with/)
 -  05 [本周末，我破解了一些 ChatGPT 小工具，让您可以快速清理文本、检查语法或执行语言翻译等操作。](https://old.reddit.com/r/SideProject/comments/18bfxgj/hacked_on_some_chatgpt_widgets_this_weekend_to/)
 -  05 [我制作了一个图像生成平台 - Arthemy](https://www.reddit.com/r/SideProject/comments/18bcq95/ive_made_an_image_generation_platform_arthemy/)
@@ -21,11 +25,7 @@
 -  05 [几个月前我被解雇了，于是决定尝试独立黑客，为 YouTube 引入智能摘要。](https://www.reddit.com/r/SideProject/comments/18b34o3/i_got_layed_off_a_few_months_ago_and_decided_to/)
 -  05 [有没有想过，为什么我们这么快就按下了 &quot;购买 &quot;键？](https://www.reddit.com/r/SideProject/comments/18av4hq/ever_stopped_to_wonder_why_were_so_quick_to_hit/)
 -  05 [我们为您的 WordPress 网站构建了隐私友好型分析工具！](https://www.reddit.com/r/SideProject/comments/18asqwp/we_built_a_privacyfriendly_analytics_for_your/)
--  05 [为初创企业寻找创意的新方法](https://www.reddit.com/r/SideProject/comments/18axfdk/a_new_way_to_find_ideas_for_startups/)
--  05 [我制作了一个 GPT 来寻找其他 GPT（从 1500 多个经过审核的 GPT 列表中）。](https://findmeagpt.com/)
--  04 [你目前的副业对你有什么启发？](https://www.reddit.com/r/SideProject/comments/18avykv/whats_your_current_side_project_teaching_you/)
--  04 [我对 WordPress 的 &quot;黑魔法 &quot;感到失望，于是我设计了一个无头 CMS。](https://old.reddit.com/r/SideProject/comments/18avqln/frustrated_with_wordpresss_black_magic_i_crafted/)
--  04 [我们创建了有史以来最经济实惠的低代码自动化平台](https://www.reddit.com/r/SideProject/comments/18aur1j/we_created_the_most_affordable_lowcode_automation/)<!-- sideproject:END -->
+-  05 [为初创企业寻找创意的新方法](https://www.reddit.com/r/SideProject/comments/18axfdk/a_new_way_to_find_ideas_for_startups/)<!-- sideproject:END -->
 
 
 ### 无忧分享
