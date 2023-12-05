@@ -56,6 +56,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
 -  05 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
 -  05 [Who are the top 5 DSP that sells pop traffic?](https://afflift.com/f/threads/who-are-the-top-5-dsp-that-sells-pop-traffic.12191/)
 -  05 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
@@ -66,8 +67,7 @@
 -  04 [Using the new GPTs](https://afflift.com/f/threads/using-the-new-gpts.12181/)
 -  04 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)
 -  04 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
--  04 [How to duplicate ad sets in Facebook ads?](https://afflift.com/f/threads/how-to-duplicate-ad-sets-in-facebook-ads.12178/)
--  04 [Have you tested the Zeydoo smartlink?](https://afflift.com/f/threads/have-you-tested-the-zeydoo-smartlink.11990/)<!-- afflift:END -->
+-  04 [How to duplicate ad sets in Facebook ads?](https://afflift.com/f/threads/how-to-duplicate-ad-sets-in-facebook-ads.12178/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
