@@ -34,6 +34,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  05 [浏览器指纹有哪些？ 如何修改浏览器指纹？](https://www.advertcn.com/thread-113183-1-1.html)
 -  04 [新人报道](https://www.advertcn.com/thread-113180-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
