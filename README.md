@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [简单易用的简历生成器，伴随您的职业生涯终生](https://www.reddit.com/r/SideProject/comments/18b5upg/a_dead_simple_resume_builder_that_accompanies/)
 -  05 [寻找可合作的辅助项目（新项目）](https://www.reddit.com/r/SideProject/comments/18b1igh/looking_for_a_side_project_to_work_with_new/)
 -  05 [几个月前我被解雇了，于是决定尝试独立黑客，为 YouTube 引入智能摘要。](https://www.reddit.com/r/SideProject/comments/18b34o3/i_got_layed_off_a_few_months_ago_and_decided_to/)
 -  05 [有没有想过，为什么我们这么快就按下了 &quot;购买 &quot;键？](https://www.reddit.com/r/SideProject/comments/18av4hq/ever_stopped_to_wonder_why_were_so_quick_to_hit/)
@@ -24,8 +25,7 @@
 -  04 [征求对我们用于提高搜索引擎优化的人工智能内容工具的反馈意见 - Latent Workers](https://www.reddit.com/r/SideProject/comments/18angsr/seeking_feedback_on_our_ai_content_tool_for_seo/)
 -  04 [从终端快速生成项目的开源许可⚡](https://www.reddit.com/r/SideProject/comments/18ao7tl/generate_open_source_license_for_your_projects/)
 -  04 [[META] 应该有一个 /r/SideProjectAI/NN/etc 吗？](https://www.reddit.com/r/SideProject/comments/18apvis/meta_should_there_be_a_rsideprojectainnetc/)
--  04 [我创建了一个工具，可以在 Excel 和 Google Sheets 中自动对支出进行分类](https://www.reddit.com/r/SideProject/comments/18aozwt/i_built_a_tool_to_automatically_categorize/)
--  04 [我创建了一个工具，用于识别高意向页面上的确切网站访客](https://www.reddit.com/r/SideProject/comments/18ao0hr/i_built_a_tool_for_identifying_exact_website/)<!-- sideproject:END -->
+-  04 [我创建了一个工具，可以在 Excel 和 Google Sheets 中自动对支出进行分类](https://www.reddit.com/r/SideProject/comments/18aozwt/i_built_a_tool_to_automatically_categorize/)<!-- sideproject:END -->
 
 
 ### 无忧分享
