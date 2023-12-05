@@ -60,9 +60,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  05 [#ADSTERRAx2 Let&#39;s test a new traffic source](https://afflift.com/f/threads/adsterrax2-lets-test-a-new-traffic-source.12120/)
 -  05 [Timezone issues when using two or more advertising network](https://afflift.com/f/threads/timezone-issues-when-using-two-or-more-advertising-network.12175/)
--  05 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  05 [Maxconv huge click loss](https://afflift.com/f/threads/maxconv-huge-click-loss.12171/)
 -  05 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
 -  05 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
