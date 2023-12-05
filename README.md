@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [我制作了一个图像生成平台 - Arthemy](https://www.reddit.com/r/SideProject/comments/18bcq95/ive_made_an_image_generation_platform_arthemy/)
+-  05 [🌟 将您的 YouTube 视频即时转化为 SEO 文章 - 免费！](https://www.reddit.com/r/SideProject/comments/18bc130/transform_your_youtube_videos_into_seo_articles/)
 -  05 [自动化 7 年回顾](https://jerrynsh.com/a-look-back-on-7-years-of-automating-stuff/)
 -  05 [Spellar AI：如何不发布产品](https://www.reddit.com/r/SideProject/comments/18b7bqf/spellar_ai_how_not_to_launch_your_product/)
 -  05 [征求反馈：如何改进我们人工智能产品的登陆页面？](https://www.reddit.com/r/SideProject/comments/18ba2he/feedback_wanted_how_can_we_improve_our_ai/)
@@ -23,9 +25,7 @@
 -  04 [我对 WordPress 的 &quot;黑魔法 &quot;感到失望，于是我设计了一个无头 CMS。](https://old.reddit.com/r/SideProject/comments/18avqln/frustrated_with_wordpresss_black_magic_i_crafted/)
 -  04 [我们创建了有史以来最经济实惠的低代码自动化平台](https://www.reddit.com/r/SideProject/comments/18aur1j/we_created_the_most_affordable_lowcode_automation/)
 -  04 [没有激情问题](https://www.reddit.com/r/SideProject/comments/18aukli/no_passion_problem/)
--  04 [我的远程工作平台让我的口袋里多了 100 英镑！](https://www.reddit.com/r/SideProject/comments/18au5e2/my_remote_work_platform_just_put_100_in_my_pocket/)
--  04 [最终金库 - 带通知的在线死亡开关](https://www.reddit.com/r/SideProject/comments/18atzgk/final_vault_online_deadman_switch_with/)
--  04 [越野车改装/建造](https://old.reddit.com/r/SideProject/comments/18alm1c/atv_conversionbuild/)<!-- sideproject:END -->
+-  04 [我的远程工作平台让我的口袋里多了 100 英镑！](https://www.reddit.com/r/SideProject/comments/18au5e2/my_remote_work_platform_just_put_100_in_my_pocket/)<!-- sideproject:END -->
 
 
 ### 无忧分享
