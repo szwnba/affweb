@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [B2C 初创企业是否值得投资](https://www.reddit.com/r/SideProject/comments/18biu35/are_b2c_startups_worth_it/)
+-  05 [探索 XGenTools.io：人工智能工具和应用程序动态目录](https://www.reddit.com/r/SideProject/comments/18bkmiw/discover_xgentoolsio_a_dynamic_directory_for_ai/)
+-  05 [我和朋友计划拍摄一组发布会照片，你觉得怎么样？](https://old.reddit.com/r/SideProject/comments/18bk3tm/planned_a_launch_photoshoot_with_my_friend_what/)
 -  05 [我创建了一个工具，用于将想法快速整理成结构化笔记！](https://www.reddit.com/r/SideProject/comments/18bcerd/i_build_a_tool_to_quickly_organize_ideas_into/)
 -  05 [我制作了一个 Figma 插件，可以识别设计问题并立即修复！](https://www.reddit.com/r/SideProject/comments/18bhyfm/i_made_a_figma_plugin_that_identifies_design/)
 -  05 [解锁所有流媒体服务目录](http://streamwithvpn.com/)
@@ -22,10 +25,7 @@
 -  05 [如何向用户发布新功能？](https://www.reddit.com/r/SideProject/comments/18b77gm/how_do_you_announce_new_features_to_your_users/)
 -  05 [简单易用的简历生成器，伴随您的职业生涯终生](https://www.reddit.com/r/SideProject/comments/18b5upg/a_dead_simple_resume_builder_that_accompanies/)
 -  05 [寻找可合作的辅助项目（新项目）](https://www.reddit.com/r/SideProject/comments/18b1igh/looking_for_a_side_project_to_work_with_new/)
--  05 [几个月前我被解雇了，于是决定尝试独立黑客，为 YouTube 引入智能摘要。](https://www.reddit.com/r/SideProject/comments/18b34o3/i_got_layed_off_a_few_months_ago_and_decided_to/)
--  05 [有没有想过，为什么我们这么快就按下了 &quot;购买 &quot;键？](https://www.reddit.com/r/SideProject/comments/18av4hq/ever_stopped_to_wonder_why_were_so_quick_to_hit/)
--  05 [我们为您的 WordPress 网站构建了隐私友好型分析工具！](https://www.reddit.com/r/SideProject/comments/18asqwp/we_built_a_privacyfriendly_analytics_for_your/)
--  05 [为初创企业寻找创意的新方法](https://www.reddit.com/r/SideProject/comments/18axfdk/a_new_way_to_find_ideas_for_startups/)<!-- sideproject:END -->
+-  05 [几个月前我被解雇了，于是决定尝试独立黑客，为 YouTube 引入智能摘要。](https://www.reddit.com/r/SideProject/comments/18b34o3/i_got_layed_off_a_few_months_ago_and_decided_to/)<!-- sideproject:END -->
 
 
 ### 无忧分享
