@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [关于构建 LectureKit 的一些更新（团队、视频库、API Auth），请观看视频:&rpar;](https://old.reddit.com/r/SideProject/comments/18bngjk/some_updates_on_the_building_of_lecturekit_teams/)
 -  05 [征求对我的免费开发工具网站的反馈意见](https://www.reddit.com/r/SideProject/comments/18bm499/seeking_feedback_on_my_free_developer_tools/)
 -  05 [ArchFormation：可视化云基础设施构建工具](https://www.reddit.com/r/SideProject/comments/18bl9l3/archformation_visual_cloud_infrastructure/)
 -  05 [CharmCheck - GPT-Vision 上的约会资料审核员/助理](https://old.reddit.com/r/SideProject/comments/18bkwv0/charmcheck_dating_profile_reviewerassistant_on/)
@@ -24,8 +25,7 @@
 -  05 [自动化 7 年回顾](https://jerrynsh.com/a-look-back-on-7-years-of-automating-stuff/)
 -  05 [Spellar AI：如何不发布产品](https://www.reddit.com/r/SideProject/comments/18b7bqf/spellar_ai_how_not_to_launch_your_product/)
 -  05 [征求反馈：如何改进我们人工智能产品的登陆页面？](https://www.reddit.com/r/SideProject/comments/18ba2he/feedback_wanted_how_can_we_improve_our_ai/)
--  05 [根据照片生成物业清单](https://www.reddit.com/r/SideProject/comments/18b9jqd/generate_property_listing_from_photos/)
--  05 [我们将于今天推出，希望得到反馈！](https://www.reddit.com/r/SideProject/comments/18b8xle/we_are_launching_today_and_would_love_some/)<!-- sideproject:END -->
+-  05 [根据照片生成物业清单](https://www.reddit.com/r/SideProject/comments/18b9jqd/generate_property_listing_from_photos/)<!-- sideproject:END -->
 
 
 ### 无忧分享
