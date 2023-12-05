@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [根据照片生成物业清单](https://www.reddit.com/r/SideProject/comments/18b9jqd/generate_property_listing_from_photos/)
+-  05 [我们将于今天推出，希望得到反馈！](https://www.reddit.com/r/SideProject/comments/18b8xle/we_are_launching_today_and_would_love_some/)
 -  05 [如何向用户发布新功能？](https://www.reddit.com/r/SideProject/comments/18b77gm/how_do_you_announce_new_features_to_your_users/)
 -  05 [简单易用的简历生成器，伴随您的职业生涯终生](https://www.reddit.com/r/SideProject/comments/18b5upg/a_dead_simple_resume_builder_that_accompanies/)
 -  05 [寻找可合作的辅助项目（新项目）](https://www.reddit.com/r/SideProject/comments/18b1igh/looking_for_a_side_project_to_work_with_new/)
@@ -23,9 +25,7 @@
 -  04 [越野车改装/建造](https://old.reddit.com/r/SideProject/comments/18alm1c/atv_conversionbuild/)
 -  04 [我和其他 30 亿人都患有数码眼疲劳症。我制作了一个免费的开源工具来解决这个问题！[更多评论］](https://old.reddit.com/r/SideProject/comments/18asjp6/i_and_3_billion_others_suffer_from_digital_eye/)
 -  04 [刚刚推出的 &quot;隐藏器&quot;--隐藏 YouTube 上的干扰和无关搜索结果](https://old.reddit.com/r/SideProject/comments/18aqyi9/just_launched_hider_hide_distractions_on_youtube/)
--  04 [征求对我们用于提高搜索引擎优化的人工智能内容工具的反馈意见 - Latent Workers](https://www.reddit.com/r/SideProject/comments/18angsr/seeking_feedback_on_our_ai_content_tool_for_seo/)
--  04 [从终端快速生成项目的开源许可⚡](https://www.reddit.com/r/SideProject/comments/18ao7tl/generate_open_source_license_for_your_projects/)
--  04 [[META] 应该有一个 /r/SideProjectAI/NN/etc 吗？](https://www.reddit.com/r/SideProject/comments/18apvis/meta_should_there_be_a_rsideprojectainnetc/)<!-- sideproject:END -->
+-  04 [征求对我们用于提高搜索引擎优化的人工智能内容工具的反馈意见 - Latent Workers](https://www.reddit.com/r/SideProject/comments/18angsr/seeking_feedback_on_our_ai_content_tool_for_seo/)<!-- sideproject:END -->
 
 
 ### 无忧分享
