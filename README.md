@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  05 [Spellar AI：如何不发布产品](https://www.reddit.com/r/SideProject/comments/18b7bqf/spellar_ai_how_not_to_launch_your_product/)
+-  05 [征求反馈：如何改进我们人工智能产品的登陆页面？](https://www.reddit.com/r/SideProject/comments/18ba2he/feedback_wanted_how_can_we_improve_our_ai/)
 -  05 [根据照片生成物业清单](https://www.reddit.com/r/SideProject/comments/18b9jqd/generate_property_listing_from_photos/)
 -  05 [我们将于今天推出，希望得到反馈！](https://www.reddit.com/r/SideProject/comments/18b8xle/we_are_launching_today_and_would_love_some/)
 -  05 [如何向用户发布新功能？](https://www.reddit.com/r/SideProject/comments/18b77gm/how_do_you_announce_new_features_to_your_users/)
@@ -23,9 +25,7 @@
 -  04 [我的远程工作平台让我的口袋里多了 100 英镑！](https://www.reddit.com/r/SideProject/comments/18au5e2/my_remote_work_platform_just_put_100_in_my_pocket/)
 -  04 [最终金库 - 带通知的在线死亡开关](https://www.reddit.com/r/SideProject/comments/18atzgk/final_vault_online_deadman_switch_with/)
 -  04 [越野车改装/建造](https://old.reddit.com/r/SideProject/comments/18alm1c/atv_conversionbuild/)
--  04 [我和其他 30 亿人都患有数码眼疲劳症。我制作了一个免费的开源工具来解决这个问题！[更多评论］](https://old.reddit.com/r/SideProject/comments/18asjp6/i_and_3_billion_others_suffer_from_digital_eye/)
--  04 [刚刚推出的 &quot;隐藏器&quot;--隐藏 YouTube 上的干扰和无关搜索结果](https://old.reddit.com/r/SideProject/comments/18aqyi9/just_launched_hider_hide_distractions_on_youtube/)
--  04 [征求对我们用于提高搜索引擎优化的人工智能内容工具的反馈意见 - Latent Workers](https://www.reddit.com/r/SideProject/comments/18angsr/seeking_feedback_on_our_ai_content_tool_for_seo/)<!-- sideproject:END -->
+-  04 [我和其他 30 亿人都患有数码眼疲劳症。我制作了一个免费的开源工具来解决这个问题！[更多评论］](https://old.reddit.com/r/SideProject/comments/18asjp6/i_and_3_billion_others_suffer_from_digital_eye/)<!-- sideproject:END -->
 
 
 ### 无忧分享
