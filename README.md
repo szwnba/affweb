@@ -60,6 +60,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [#ADSTERRAx2 Let&#39;s test a new traffic source](https://afflift.com/f/threads/adsterrax2-lets-test-a-new-traffic-source.12120/)
 -  05 [Timezone issues when using two or more advertising network](https://afflift.com/f/threads/timezone-issues-when-using-two-or-more-advertising-network.12175/)
 -  05 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  05 [Maxconv huge click loss](https://afflift.com/f/threads/maxconv-huge-click-loss.12171/)
@@ -70,8 +71,7 @@
 -  05 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
 -  05 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 -  05 [Email marketing campaign for affLIFT &lpar;AMs&rpar;](https://afflift.com/f/threads/email-marketing-campaign-for-afflift-ams.10945/)
--  05 [$0 to $1k/Month with Twitter/X](https://afflift.com/f/threads/0-to-1k-month-with-twitter-x.10640/)
--  05 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)<!-- afflift:END -->
+-  05 [$0 to $1k/Month with Twitter/X](https://afflift.com/f/threads/0-to-1k-month-with-twitter-x.10640/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
