@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [我在 SvelteKit 中克隆了 Starlight.money 网站。代码是开源的！](https://starlight.buildlandingpage.frontavo.com/)
 -  06 [albms.net - 专注于音乐评论的微型博客平台](https://albms.net/)
 -  06 [我正在 24 小时编码挑战中制作一个人工智能贺卡制作工具](https://www.reddit.com/r/SideProject/comments/18c1p24/i_am_making_a_ai_greeting_cards_maker_tool_in_24/)
 -  06 [免费一个月的反馈:&rpar;](https://www.reddit.com/r/SideProject/comments/18c0i88/feedback_for_a_free_month/)
@@ -24,8 +25,7 @@
 -  05 [CharmCheck - GPT-Vision 上的约会资料审核员/助理](https://old.reddit.com/r/SideProject/comments/18bkwv0/charmcheck_dating_profile_reviewerassistant_on/)
 -  05 [寻求对想法的反馈！](https://www.reddit.com/r/SideProject/comments/18bhdob/seeking_feedback_on_an_idea/)
 -  05 [B2C 初创企业是否值得投资](https://www.reddit.com/r/SideProject/comments/18biu35/are_b2c_startups_worth_it/)
--  05 [探索 XGenTools.io：人工智能工具和应用程序动态目录](https://www.reddit.com/r/SideProject/comments/18bkmiw/discover_xgentoolsio_a_dynamic_directory_for_ai/)
--  05 [我和朋友计划拍摄一组发布会照片，你觉得怎么样？](https://old.reddit.com/r/SideProject/comments/18bk3tm/planned_a_launch_photoshoot_with_my_friend_what/)<!-- sideproject:END -->
+-  05 [探索 XGenTools.io：人工智能工具和应用程序动态目录](https://www.reddit.com/r/SideProject/comments/18bkmiw/discover_xgentoolsio_a_dynamic_directory_for_ai/)<!-- sideproject:END -->
 
 
 ### 无忧分享
