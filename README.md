@@ -75,5 +75,4 @@
 <!-- sspai:START -->
 -  06 [派早报：一加 12 正式发布、黑鲨推出能量饮品等](https://sspai.com/post/84873)
 -  05 [社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款](https://sspai.com/post/84866)
--  05 [爱咖啡，也爱苹果：听「三顿半」讲述风味故事](https://sspai.com/post/84828)
--  05 [巧用开源软件，零成本实现跨平台短信同步功能](https://sspai.com/post/84621)<!-- sspai:END -->
+-  05 [爱咖啡，也爱苹果：听「三顿半」讲述风味故事](https://sspai.com/post/84828)<!-- sspai:END -->
