@@ -42,10 +42,10 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  06 [看看哪个妹子漂亮，我都可以介绍](https://www.advertcn.com/thread-113202-1-1.html)
 -  05 [Affiliate World Asia](https://www.advertcn.com/thread-113198-1-1.html)
 -  05 [以针会友，这个河马绝对喜欢](https://www.advertcn.com/thread-113194-1-1.html)
--  05 [跑产品留资的LP页面怎么设计比较好](https://www.advertcn.com/thread-113192-1-1.html)
--  05 [Meta重要政策提醒！！禁止违法使用公众人物的图片及具有...](https://www.advertcn.com/thread-113190-1-1.html)<!-- advertcn3:END -->
+-  05 [跑产品留资的LP页面怎么设计比较好](https://www.advertcn.com/thread-113192-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
