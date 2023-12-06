@@ -44,7 +44,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  05 [Partners 1xBet: 40%+ 转化率的顶级Casino联盟计划](https://www.advertcn.com/thread-113195-1-1.html)
+-  05 [Affiliate World Asia](https://www.advertcn.com/thread-113198-1-1.html)
 -  05 [以针会友，这个河马绝对喜欢](https://www.advertcn.com/thread-113194-1-1.html)
 -  05 [跑产品留资的LP页面怎么设计比较好](https://www.advertcn.com/thread-113192-1-1.html)
 -  05 [Meta重要政策提醒！！禁止违法使用公众人物的图片及具有...](https://www.advertcn.com/thread-113190-1-1.html)
