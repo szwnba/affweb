@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [我为您的下一个项目设计了一系列 Carrd Hero 模板。](https://www.reddit.com/r/SideProject/comments/18cc666/ive_designed_a_series_of_carrd_hero_templates_for/)
+-  06 [我应该为我的工具发送冷邮件吗？](https://old.reddit.com/r/SaaS/comments/187o73e/should_i_run_cold_emails_for_my_tool/)
 -  06 [🧠 WiseWriter.co：从顶级 SERP 和 YouTube 生成批量 SEO 优化文章！](https://www.reddit.com/r/SideProject/comments/18c971j/wisewriterco_generate_bulk_seooptimized_articles/)
 -  06 [刚刚发布了我的第一个项目，一个多人游戏](https://cryptik.me/)
 -  06 [我成为备忘录](https://www.reddit.com/r/SideProject/comments/18c727q/i_am_become_meme/)
@@ -23,9 +25,7 @@
 -  06 [里瓦每周新创企业 + 新创企业数据库](https://www.reddit.com/r/SideProject/comments/18bthvl/riva_weekly_new_startups_startup_database/)
 -  06 [我失业了，但我没有去找工作，而是用 MDX 创建了一个用于博客的一体化模板，并附带了高级模板](https://www.reddit.com/r/SideProject/comments/18bj0kt/im_out_of_work_instead_of_finding_a_job_i_created/)
 -  05 [我正在为 tailwindcss 创建一个可视化编辑器](https://uibun.dev/)
--  05 [我制作了一款杂货和食谱比价应用程序（更新）](https://www.reddit.com/r/SideProject/comments/18bndv9/i_built_a_grocery_recipe_price_comparison_app/)
--  05 [关于构建 LectureKit 的一些更新（团队、视频库、API Auth），请观看视频:&rpar;](https://old.reddit.com/r/SideProject/comments/18bngjk/some_updates_on_the_building_of_lecturekit_teams/)
--  05 [征求对我的免费开发工具网站的反馈意见](https://www.reddit.com/r/SideProject/comments/18bm499/seeking_feedback_on_my_free_developer_tools/)<!-- sideproject:END -->
+-  05 [我制作了一款杂货和食谱比价应用程序（更新）](https://www.reddit.com/r/SideProject/comments/18bndv9/i_built_a_grocery_recipe_price_comparison_app/)<!-- sideproject:END -->
 
 
 ### 无忧分享
