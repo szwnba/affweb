@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [说到设计，你会想到什么？](https://www.reddit.com/r/SideProject/comments/18ccuc1/when_you_think_of_design_what_pops_into_your_head/)
+-  06 [有时，在关注非本地市场时，关键词研究是一件令人着迷的事情。](https://old.reddit.com/r/SideProject/comments/18c4ejv/sometime_keyword_research_is_a_fascinating_thing/)
+-  06 [非技术独立黑客的 7 种产品](https://www.reddit.com/r/SideProject/comments/18c3vy8/7_products_of_nontechnical_indie_hackers/)
 -  06 [我为您的下一个项目设计了一系列 Carrd Hero 模板。](https://www.reddit.com/r/SideProject/comments/18cc666/ive_designed_a_series_of_carrd_hero_templates_for/)
 -  06 [我应该为我的工具发送冷邮件吗？](https://old.reddit.com/r/SaaS/comments/187o73e/should_i_run_cold_emails_for_my_tool/)
 -  06 [🧠 WiseWriter.co：从顶级 SERP 和 YouTube 生成批量 SEO 优化文章！](https://www.reddit.com/r/SideProject/comments/18c971j/wisewriterco_generate_bulk_seooptimized_articles/)
@@ -22,10 +25,7 @@
 -  06 [刚刚发布了我的应用程序，请下载获取灵感 🙏](https://www.reddit.com/r/SideProject/comments/18bxaxt/just_published_my_app_please_download_for/)
 -  06 [我制作了一个 &quot;2023 年 TikTok 包装&quot;。只需用户名，100% 免费](https://tokchart.com/wrapped)
 -  06 [前端已完成，现在等待后端开发...](https://old.reddit.com/r/SideProject/comments/18bu9zs/frontend_done_now_waiting_on_backend_dev/)
--  06 [里瓦每周新创企业 + 新创企业数据库](https://www.reddit.com/r/SideProject/comments/18bthvl/riva_weekly_new_startups_startup_database/)
--  06 [我失业了，但我没有去找工作，而是用 MDX 创建了一个用于博客的一体化模板，并附带了高级模板](https://www.reddit.com/r/SideProject/comments/18bj0kt/im_out_of_work_instead_of_finding_a_job_i_created/)
--  05 [我正在为 tailwindcss 创建一个可视化编辑器](https://uibun.dev/)
--  05 [我制作了一款杂货和食谱比价应用程序（更新）](https://www.reddit.com/r/SideProject/comments/18bndv9/i_built_a_grocery_recipe_price_comparison_app/)<!-- sideproject:END -->
+-  06 [里瓦每周新创企业 + 新创企业数据库](https://www.reddit.com/r/SideProject/comments/18bthvl/riva_weekly_new_startups_startup_database/)<!-- sideproject:END -->
 
 
 ### 无忧分享
