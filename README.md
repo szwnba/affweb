@@ -34,8 +34,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  05 [做fb的老板来交流](https://www.advertcn.com/thread-113197-1-1.html)
--  05 [模拟多台物理设备，有效防止账号关联](https://www.advertcn.com/thread-113189-1-1.html)<!-- advertcn1:END -->
+-  05 [做fb的老板来交流](https://www.advertcn.com/thread-113197-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
