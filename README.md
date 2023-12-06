@@ -57,18 +57,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Who&#39;s going to iGB London in February?](https://afflift.com/f/threads/whos-going-to-igb-london-in-february.12203/)
 -  06 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
+-  06 [Is solo affiliate marketing still relevant in 2023?](https://afflift.com/f/threads/is-solo-affiliate-marketing-still-relevant-in-2023.12202/)
+-  06 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
+-  06 [Kingpush Better Late Then Never #ADSTERRAx2 FA](https://afflift.com/f/threads/kingpush-better-late-then-never-adsterrax2-fa.12150/)
+-  06 [TUT out of BM when I am the only Admin](https://afflift.com/f/threads/tut-out-of-bm-when-i-am-the-only-admin.12118/)
 -  06 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
 -  06 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  06 [What should be keep in mind to run cpa offers as beginner?](https://afflift.com/f/threads/what-should-be-keep-in-mind-to-run-cpa-offers-as-beginner.12112/)
 -  06 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  06 [Is solo affiliate marketing still relevant in 2023?](https://afflift.com/f/threads/is-solo-affiliate-marketing-still-relevant-in-2023.12202/)
 -  06 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  06 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
--  06 [Hello from Spain!](https://afflift.com/f/threads/hello-from-spain.11975/)
--  06 [Hi Afflift!](https://afflift.com/f/threads/hi-afflift.12133/)
--  06 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
--  06 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)<!-- afflift:END -->
+-  06 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
