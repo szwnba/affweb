@@ -57,18 +57,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  06 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  06 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
--  06 [Revolution Force is not Paid,Everyone should take care of this...](https://afflift.com/f/threads/revolution-force-is-not-paid-everyone-should-take-care-of-this.12184/)
 -  06 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
--  06 [When to Cut a Zone That Has Conversions &lpar;Using Statistical Analysis&rpar;](https://afflift.com/f/threads/when-to-cut-a-zone-that-has-conversions-using-statistical-analysis.10611/)
--  06 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
--  06 [Maxconv huge click loss](https://afflift.com/f/threads/maxconv-huge-click-loss.12171/)
--  05 [Predict If Your Ad Headline Will Have a Good CTR BEFORE Launching Your Campaign](https://afflift.com/f/threads/predict-if-your-ad-headline-will-have-a-good-ctr-before-launching-your-campaign.12193/)
--  05 [Timezone issues when using two or more advertising network](https://afflift.com/f/threads/timezone-issues-when-using-two-or-more-advertising-network.12175/)
--  05 [#ADSTERRAx2 Let&#39;s test a new traffic source](https://afflift.com/f/threads/adsterrax2-lets-test-a-new-traffic-source.12120/)
--  05 [Dating in Spain with push traffic](https://afflift.com/f/threads/dating-in-spain-with-push-traffic.12057/)
--  05 [Successful Gambling in Brazil: How to Effectively Enter the Promising Market](https://afflift.com/f/threads/successful-gambling-in-brazil-how-to-effectively-enter-the-promising-market.12199/)<!-- afflift:END -->
+-  06 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
+-  06 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
+-  06 [What should be keep in mind to run cpa offers as beginner?](https://afflift.com/f/threads/what-should-be-keep-in-mind-to-run-cpa-offers-as-beginner.12112/)
+-  06 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  06 [Is solo affiliate marketing still relevant in 2023?](https://afflift.com/f/threads/is-solo-affiliate-marketing-still-relevant-in-2023.12202/)
+-  06 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
+-  06 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
+-  06 [Hello from Spain!](https://afflift.com/f/threads/hello-from-spain.11975/)
+-  06 [Hi Afflift!](https://afflift.com/f/threads/hi-afflift.12133/)
+-  06 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
+-  06 [Hey From The UK](https://afflift.com/f/threads/hey-from-the-uk.12127/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
