@@ -42,10 +42,11 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  06 [谷歌ads新账户怎么能在联盟推offer，都出现未验证，有偿求助](https://www.advertcn.com/thread-113206-1-1.html)
+-  06 [Partners 1xBet – Top Affiliate Program with 40%+ Conversion Rate](https://www.advertcn.com/thread-113205-1-1.html)
 -  06 [看看哪个妹子漂亮，我都可以介绍](https://www.advertcn.com/thread-113202-1-1.html)
 -  05 [Affiliate World Asia](https://www.advertcn.com/thread-113198-1-1.html)
--  05 [以针会友，这个河马绝对喜欢](https://www.advertcn.com/thread-113194-1-1.html)
--  05 [跑产品留资的LP页面怎么设计比较好](https://www.advertcn.com/thread-113192-1-1.html)<!-- advertcn3:END -->
+-  05 [以针会友，这个河马绝对喜欢](https://www.advertcn.com/thread-113194-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
