@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [免费一个月的反馈:&rpar;](https://www.reddit.com/r/SideProject/comments/18c0i88/feedback_for_a_free_month/)
+-  06 [希望您对我创建的网站生成器提出反馈意见](https://www.reddit.com/r/SideProject/comments/18c08lh/would_love_your_feedback_on_the_website_builder/)
 -  06 [10000 欧元起步](https://www.reddit.com/r/SideProject/comments/18bzeuw/10000_euros_to_start/)
 -  06 [刚刚发布了我的应用程序，请下载获取灵感 🙏](https://www.reddit.com/r/SideProject/comments/18bxaxt/just_published_my_app_please_download_for/)
 -  06 [我制作了一个 &quot;2023 年 TikTok 包装&quot;。只需用户名，100% 免费](https://tokchart.com/wrapped)
@@ -23,9 +25,7 @@
 -  05 [探索 XGenTools.io：人工智能工具和应用程序动态目录](https://www.reddit.com/r/SideProject/comments/18bkmiw/discover_xgentoolsio_a_dynamic_directory_for_ai/)
 -  05 [我和朋友计划拍摄一组发布会照片，你觉得怎么样？](https://old.reddit.com/r/SideProject/comments/18bk3tm/planned_a_launch_photoshoot_with_my_friend_what/)
 -  05 [我创建了一个工具，用于将想法快速整理成结构化笔记！](https://www.reddit.com/r/SideProject/comments/18bcerd/i_build_a_tool_to_quickly_organize_ideas_into/)
--  05 [我制作了一个 Figma 插件，可以识别设计问题并立即修复！](https://www.reddit.com/r/SideProject/comments/18bhyfm/i_made_a_figma_plugin_that_identifies_design/)
--  05 [解锁所有流媒体服务目录](http://streamwithvpn.com/)
--  05 [今天在 Product Hunt 上发布运动追踪健身应用程序 - 需要您的支持 :&rpar;](https://www.reddit.com/r/SideProject/comments/18bezkt/launched_a_motion_tracking_fitness_app_in_product/)<!-- sideproject:END -->
+-  05 [我制作了一个 Figma 插件，可以识别设计问题并立即修复！](https://www.reddit.com/r/SideProject/comments/18bhyfm/i_made_a_figma_plugin_that_identifies_design/)<!-- sideproject:END -->
 
 
 ### 无忧分享
