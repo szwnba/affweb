@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [10000 欧元起步](https://www.reddit.com/r/SideProject/comments/18bzeuw/10000_euros_to_start/)
+-  06 [刚刚发布了我的应用程序，请下载获取灵感 🙏](https://www.reddit.com/r/SideProject/comments/18bxaxt/just_published_my_app_please_download_for/)
 -  06 [我制作了一个 &quot;2023 年 TikTok 包装&quot;。只需用户名，100% 免费](https://tokchart.com/wrapped)
 -  06 [前端已完成，现在等待后端开发...](https://old.reddit.com/r/SideProject/comments/18bu9zs/frontend_done_now_waiting_on_backend_dev/)
 -  06 [里瓦每周新创企业 + 新创企业数据库](https://www.reddit.com/r/SideProject/comments/18bthvl/riva_weekly_new_startups_startup_database/)
@@ -23,9 +25,7 @@
 -  05 [我创建了一个工具，用于将想法快速整理成结构化笔记！](https://www.reddit.com/r/SideProject/comments/18bcerd/i_build_a_tool_to_quickly_organize_ideas_into/)
 -  05 [我制作了一个 Figma 插件，可以识别设计问题并立即修复！](https://www.reddit.com/r/SideProject/comments/18bhyfm/i_made_a_figma_plugin_that_identifies_design/)
 -  05 [解锁所有流媒体服务目录](http://streamwithvpn.com/)
--  05 [今天在 Product Hunt 上发布运动追踪健身应用程序 - 需要您的支持 :&rpar;](https://www.reddit.com/r/SideProject/comments/18bezkt/launched_a_motion_tracking_fitness_app_in_product/)
--  05 [DataAnalyst.com - 我创办了一个利基招聘网站，提供手工策划的数据分析师职位。以下是第 11 个月后的情况总结](https://www.reddit.com/r/SideProject/comments/18bgam8/dataanalystcom_i_launched_a_niche_job_board_with/)
--  05 [本周末，我破解了一些 ChatGPT 小工具，让您可以快速清理文本、检查语法或执行语言翻译等操作。](https://old.reddit.com/r/SideProject/comments/18bfxgj/hacked_on_some_chatgpt_widgets_this_weekend_to/)<!-- sideproject:END -->
+-  05 [今天在 Product Hunt 上发布运动追踪健身应用程序 - 需要您的支持 :&rpar;](https://www.reddit.com/r/SideProject/comments/18bezkt/launched_a_motion_tracking_fitness_app_in_product/)<!-- sideproject:END -->
 
 
 ### 无忧分享
