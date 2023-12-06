@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [为孩子们提供与圣诞老人进行电话互动的服务](https://www.reddit.com/r/SideProject/comments/18cf0f8/made_a_service_for_kids_to_have_an_interactive/)
+-  06 [有时觉得自己不合群，你呢？](https://old.reddit.com/r/SideProject/comments/18cehai/feeling_like_a_misfit_sometimes_you/)
 -  06 [说到设计，你会想到什么？](https://www.reddit.com/r/SideProject/comments/18ccuc1/when_you_think_of_design_what_pops_into_your_head/)
 -  06 [有时，在关注非本地市场时，关键词研究是一件令人着迷的事情。](https://old.reddit.com/r/SideProject/comments/18c4ejv/sometime_keyword_research_is_a_fascinating_thing/)
 -  06 [非技术独立黑客的 7 种产品](https://www.reddit.com/r/SideProject/comments/18c3vy8/7_products_of_nontechnical_indie_hackers/)
@@ -23,9 +25,7 @@
 -  06 [希望您对我创建的网站生成器提出反馈意见](https://www.reddit.com/r/SideProject/comments/18c08lh/would_love_your_feedback_on_the_website_builder/)
 -  06 [10000 欧元起步](https://www.reddit.com/r/SideProject/comments/18bzeuw/10000_euros_to_start/)
 -  06 [刚刚发布了我的应用程序，请下载获取灵感 🙏](https://www.reddit.com/r/SideProject/comments/18bxaxt/just_published_my_app_please_download_for/)
--  06 [我制作了一个 &quot;2023 年 TikTok 包装&quot;。只需用户名，100% 免费](https://tokchart.com/wrapped)
--  06 [前端已完成，现在等待后端开发...](https://old.reddit.com/r/SideProject/comments/18bu9zs/frontend_done_now_waiting_on_backend_dev/)
--  06 [里瓦每周新创企业 + 新创企业数据库](https://www.reddit.com/r/SideProject/comments/18bthvl/riva_weekly_new_startups_startup_database/)<!-- sideproject:END -->
+-  06 [我制作了一个 &quot;2023 年 TikTok 包装&quot;。只需用户名，100% 免费](https://tokchart.com/wrapped)<!-- sideproject:END -->
 
 
 ### 无忧分享
