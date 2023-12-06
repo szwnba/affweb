@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [我失业了，但我没有去找工作，而是用 MDX 创建了一个用于博客的一体化模板，并附带了高级模板](https://www.reddit.com/r/SideProject/comments/18bj0kt/im_out_of_work_instead_of_finding_a_job_i_created/)
+-  05 [我正在为 tailwindcss 创建一个可视化编辑器](https://uibun.dev/)
+-  05 [我制作了一款杂货和食谱比价应用程序（更新）](https://www.reddit.com/r/SideProject/comments/18bndv9/i_built_a_grocery_recipe_price_comparison_app/)
 -  05 [关于构建 LectureKit 的一些更新（团队、视频库、API Auth），请观看视频:&rpar;](https://old.reddit.com/r/SideProject/comments/18bngjk/some_updates_on_the_building_of_lecturekit_teams/)
 -  05 [征求对我的免费开发工具网站的反馈意见](https://www.reddit.com/r/SideProject/comments/18bm499/seeking_feedback_on_my_free_developer_tools/)
 -  05 [ArchFormation：可视化云基础设施构建工具](https://www.reddit.com/r/SideProject/comments/18bl9l3/archformation_visual_cloud_infrastructure/)
@@ -22,10 +25,7 @@
 -  05 [本周末，我破解了一些 ChatGPT 小工具，让您可以快速清理文本、检查语法或执行语言翻译等操作。](https://old.reddit.com/r/SideProject/comments/18bfxgj/hacked_on_some_chatgpt_widgets_this_weekend_to/)
 -  05 [我制作了一个图像生成平台 - Arthemy](https://www.reddit.com/r/SideProject/comments/18bcq95/ive_made_an_image_generation_platform_arthemy/)
 -  05 [🌟 将您的 YouTube 视频即时转化为 SEO 文章 - 免费！](https://www.reddit.com/r/SideProject/comments/18bc130/transform_your_youtube_videos_into_seo_articles/)
--  05 [自动化 7 年回顾](https://jerrynsh.com/a-look-back-on-7-years-of-automating-stuff/)
--  05 [Spellar AI：如何不发布产品](https://www.reddit.com/r/SideProject/comments/18b7bqf/spellar_ai_how_not_to_launch_your_product/)
--  05 [征求反馈：如何改进我们人工智能产品的登陆页面？](https://www.reddit.com/r/SideProject/comments/18ba2he/feedback_wanted_how_can_we_improve_our_ai/)
--  05 [根据照片生成物业清单](https://www.reddit.com/r/SideProject/comments/18b9jqd/generate_property_listing_from_photos/)<!-- sideproject:END -->
+-  05 [自动化 7 年回顾](https://jerrynsh.com/a-look-back-on-7-years-of-automating-stuff/)<!-- sideproject:END -->
 
 
 ### 无忧分享
