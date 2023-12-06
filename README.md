@@ -74,5 +74,4 @@
 <!-- sspai:START -->
 -  06 [播客 | 聊聊 Apple 产品、生态和线下店设计](https://sspai.com/post/84837)
 -  06 [适合的才是最好的，我的 EDC 好物分享](https://sspai.com/post/84762)
--  06 [派早报：一加 12 正式发布、黑鲨推出能量饮品等](https://sspai.com/post/84873)
--  05 [社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款](https://sspai.com/post/84866)<!-- sspai:END -->
+-  06 [派早报：一加 12 正式发布、黑鲨推出能量饮品等](https://sspai.com/post/84873)<!-- sspai:END -->
