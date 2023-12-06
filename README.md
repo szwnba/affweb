@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [🧠 WiseWriter.co：从顶级 SERP 和 YouTube 生成批量 SEO 优化文章！](https://www.reddit.com/r/SideProject/comments/18c971j/wisewriterco_generate_bulk_seooptimized_articles/)
+-  06 [刚刚发布了我的第一个项目，一个多人游戏](https://cryptik.me/)
 -  06 [我成为备忘录](https://www.reddit.com/r/SideProject/comments/18c727q/i_am_become_meme/)
 -  06 [Zapier 和 Airtable 生了个孩子，取名 Boost space。](https://www.reddit.com/r/SideProject/comments/18c0byr/zapier_and_airtable_had_a_baby_and_named_it_boost/)
 -  06 [Google Analytics 糟糕透顶，因此我开发了一款工具，让您可以直接与您的分析工具聊天并获得洞察力](https://www.reddit.com/r/SideProject/comments/18c6byf/google_analytics_sucks_so_i_built_a_tool_that/)
@@ -23,9 +25,7 @@
 -  05 [我正在为 tailwindcss 创建一个可视化编辑器](https://uibun.dev/)
 -  05 [我制作了一款杂货和食谱比价应用程序（更新）](https://www.reddit.com/r/SideProject/comments/18bndv9/i_built_a_grocery_recipe_price_comparison_app/)
 -  05 [关于构建 LectureKit 的一些更新（团队、视频库、API Auth），请观看视频:&rpar;](https://old.reddit.com/r/SideProject/comments/18bngjk/some_updates_on_the_building_of_lecturekit_teams/)
--  05 [征求对我的免费开发工具网站的反馈意见](https://www.reddit.com/r/SideProject/comments/18bm499/seeking_feedback_on_my_free_developer_tools/)
--  05 [ArchFormation：可视化云基础设施构建工具](https://www.reddit.com/r/SideProject/comments/18bl9l3/archformation_visual_cloud_infrastructure/)
--  05 [CharmCheck - GPT-Vision 上的约会资料审核员/助理](https://old.reddit.com/r/SideProject/comments/18bkwv0/charmcheck_dating_profile_reviewerassistant_on/)<!-- sideproject:END -->
+-  05 [征求对我的免费开发工具网站的反馈意见](https://www.reddit.com/r/SideProject/comments/18bm499/seeking_feedback_on_my_free_developer_tools/)<!-- sideproject:END -->
 
 
 ### 无忧分享
