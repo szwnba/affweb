@@ -56,6 +56,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  06 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+-  06 [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)
+-  06 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  06 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  06 [Who&#39;s going to iGB London in February?](https://afflift.com/f/threads/whos-going-to-igb-london-in-february.12203/)
 -  06 [Is solo affiliate marketing still relevant in 2023?](https://afflift.com/f/threads/is-solo-affiliate-marketing-still-relevant-in-2023.12202/)
@@ -63,11 +67,7 @@
 -  06 [Kingpush Better Late Then Never #ADSTERRAx2 FA](https://afflift.com/f/threads/kingpush-better-late-then-never-adsterrax2-fa.12150/)
 -  06 [TUT out of BM when I am the only Admin](https://afflift.com/f/threads/tut-out-of-bm-when-i-am-the-only-admin.12118/)
 -  06 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
--  06 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  06 [What should be keep in mind to run cpa offers as beginner?](https://afflift.com/f/threads/what-should-be-keep-in-mind-to-run-cpa-offers-as-beginner.12112/)
--  06 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  06 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
--  06 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)<!-- afflift:END -->
+-  06 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
