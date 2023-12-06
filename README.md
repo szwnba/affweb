@@ -56,8 +56,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  06 [When to Cut a Zone That Has Conversions &lpar;Using Statistical Analysis&rpar;](https://afflift.com/f/threads/when-to-cut-a-zone-that-has-conversions-using-statistical-analysis.10611/)
 -  06 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
+-  06 [When to Cut a Zone That Has Conversions &lpar;Using Statistical Analysis&rpar;](https://afflift.com/f/threads/when-to-cut-a-zone-that-has-conversions-using-statistical-analysis.10611/)
 -  06 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
 -  06 [Maxconv huge click loss](https://afflift.com/f/threads/maxconv-huge-click-loss.12171/)
 -  05 [Predict If Your Ad Headline Will Have a Good CTR BEFORE Launching Your Campaign](https://afflift.com/f/threads/predict-if-your-ad-headline-will-have-a-good-ctr-before-launching-your-campaign.12193/)
