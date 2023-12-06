@@ -55,6 +55,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  06 [Hi Afflift!](https://afflift.com/f/threads/hi-afflift.12133/)
 -  06 [Hello from India](https://afflift.com/f/threads/hello-from-india.12207/)
 -  06 [FB Dayparting for Pay per Call Offers](https://afflift.com/f/threads/fb-dayparting-for-pay-per-call-offers.12208/)
@@ -65,8 +66,7 @@
 -  06 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
 -  06 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  06 [Step 13 - The END, but really the BEGINNING?](https://afflift.com/f/threads/step-13-the-end-but-really-the-beginning.2950/)
--  06 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)
--  06 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)<!-- afflift:END -->
+-  06 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
