@@ -56,18 +56,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  06 [#ADSTERRAx2 Last bite of that cherry for 2023](https://afflift.com/f/threads/adsterrax2-last-bite-of-that-cherry-for-2023.11956/)
--  06 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  06 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  06 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
 -  06 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
+-  06 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
+-  06 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)
+-  06 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  06 [Who&#39;s going to iGB London in February?](https://afflift.com/f/threads/whos-going-to-igb-london-in-february.12203/)
--  06 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
--  06 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  06 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
--  06 [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)
--  06 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  06 [Is solo affiliate marketing still relevant in 2023?](https://afflift.com/f/threads/is-solo-affiliate-marketing-still-relevant-in-2023.12202/)<!-- afflift:END -->
+-  06 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  06 [any positive or negative experience to share with Epom used as a dsp?](https://afflift.com/f/threads/any-positive-or-negative-experience-to-share-with-epom-used-as-a-dsp.12205/)
+-  06 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
+-  06 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
+-  06 [Is solo affiliate marketing still relevant in 2023?](https://afflift.com/f/threads/is-solo-affiliate-marketing-still-relevant-in-2023.12202/)
+-  06 [TRUST APPS - Rent of iOS/Android organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-android-organic-applications-for-fb-in-app-uac.11780/)
+-  06 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
