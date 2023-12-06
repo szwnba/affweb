@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [albms.net - 专注于音乐评论的微型博客平台](https://albms.net/)
 -  06 [我正在 24 小时编码挑战中制作一个人工智能贺卡制作工具](https://www.reddit.com/r/SideProject/comments/18c1p24/i_am_making_a_ai_greeting_cards_maker_tool_in_24/)
 -  06 [免费一个月的反馈:&rpar;](https://www.reddit.com/r/SideProject/comments/18c0i88/feedback_for_a_free_month/)
 -  06 [希望您对我创建的网站生成器提出反馈意见](https://www.reddit.com/r/SideProject/comments/18c08lh/would_love_your_feedback_on_the_website_builder/)
@@ -24,8 +25,7 @@
 -  05 [寻求对想法的反馈！](https://www.reddit.com/r/SideProject/comments/18bhdob/seeking_feedback_on_an_idea/)
 -  05 [B2C 初创企业是否值得投资](https://www.reddit.com/r/SideProject/comments/18biu35/are_b2c_startups_worth_it/)
 -  05 [探索 XGenTools.io：人工智能工具和应用程序动态目录](https://www.reddit.com/r/SideProject/comments/18bkmiw/discover_xgentoolsio_a_dynamic_directory_for_ai/)
--  05 [我和朋友计划拍摄一组发布会照片，你觉得怎么样？](https://old.reddit.com/r/SideProject/comments/18bk3tm/planned_a_launch_photoshoot_with_my_friend_what/)
--  05 [我创建了一个工具，用于将想法快速整理成结构化笔记！](https://www.reddit.com/r/SideProject/comments/18bcerd/i_build_a_tool_to_quickly_organize_ideas_into/)<!-- sideproject:END -->
+-  05 [我和朋友计划拍摄一组发布会照片，你觉得怎么样？](https://old.reddit.com/r/SideProject/comments/18bk3tm/planned_a_launch_photoshoot_with_my_friend_what/)<!-- sideproject:END -->
 
 
 ### 无忧分享
