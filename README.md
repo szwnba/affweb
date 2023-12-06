@@ -57,17 +57,17 @@
 ### afflift
 <!-- afflift:START -->
 -  06 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
+-  06 [Step 13 - The END, but really the BEGINNING?](https://afflift.com/f/threads/step-13-the-end-but-really-the-beginning.2950/)
+-  06 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
+-  06 [Affstream || Gambling and betting offers for emerging markets](https://afflift.com/f/threads/affstream-gambling-and-betting-offers-for-emerging-markets.11749/)
+-  06 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)
+-  06 [Step 12 - Optimized Results](https://afflift.com/f/threads/step-12-optimized-results.2949/)
 -  06 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  06 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  06 [Who&#39;s going to iGB London in February?](https://afflift.com/f/threads/whos-going-to-igb-london-in-february.12203/)
 -  06 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  06 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)
 -  06 [any positive or negative experience to share with Epom used as a dsp?](https://afflift.com/f/threads/any-positive-or-negative-experience-to-share-with-epom-used-as-a-dsp.12205/)
--  06 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  06 [who is going to bangkok 2023?](https://afflift.com/f/threads/who-is-going-to-bangkok-2023.11889/)
--  06 [Is solo affiliate marketing still relevant in 2023?](https://afflift.com/f/threads/is-solo-affiliate-marketing-still-relevant-in-2023.12202/)
--  06 [TRUST APPS - Rent of iOS/Android organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-android-organic-applications-for-fb-in-app-uac.11780/)
--  06 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)<!-- afflift:END -->
+-  06 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
