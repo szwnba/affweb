@@ -73,5 +73,4 @@
 <!-- sspai:START -->
 -  07 [派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等](https://sspai.com/post/84900)
 -  06 [以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)
--  06 [播客 | 聊聊 Apple 产品、生态和线下店设计](https://sspai.com/post/84837)
--  06 [适合的才是最好的，我的 EDC 好物分享](https://sspai.com/post/84762)<!-- sspai:END -->
+-  06 [播客 | 聊聊 Apple 产品、生态和线下店设计](https://sspai.com/post/84837)<!-- sspai:END -->
