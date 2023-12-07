@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  07 [OpenAPI DevTools：可为任何应用程序或网站生成 API 规格的 Chrome 浏览器扩展](https://github.com/AndrewWalsh/openapi-devtools)
 -  07 [ScrollSequence 是否适用于所有类型的网站，还是只适用于某些利基市场？](https://scrollsequence.com/)
 -  07 [刚刚推出我的第一个人工智能项目：MakeMeEpic.app](https://www.reddit.com/r/SideProject/comments/18cr2qi/just_launched_my_first_ai_project_makemeepicapp/)
 -  07 [🚀 VoicePro 简介：为朋友和家人提供插入式音频对话，同步呼叫与异步语音消息的混合体 🚀](https://www.reddit.com/r/SideProject/comments/18cpzpo/introducing_voicepro_dropin_audio_conversations/)
@@ -24,8 +25,7 @@
 -  06 [说到设计，你会想到什么？](https://www.reddit.com/r/SideProject/comments/18ccuc1/when_you_think_of_design_what_pops_into_your_head/)
 -  06 [有时，在关注非本地市场时，关键词研究是一件令人着迷的事情。](https://old.reddit.com/r/SideProject/comments/18c4ejv/sometime_keyword_research_is_a_fascinating_thing/)
 -  06 [非技术独立黑客的 7 种产品](https://www.reddit.com/r/SideProject/comments/18c3vy8/7_products_of_nontechnical_indie_hackers/)
--  06 [我为您的下一个项目设计了一系列 Carrd Hero 模板。](https://www.reddit.com/r/SideProject/comments/18cc666/ive_designed_a_series_of_carrd_hero_templates_for/)
--  06 [我应该为我的工具发送冷邮件吗？](https://old.reddit.com/r/SaaS/comments/187o73e/should_i_run_cold_emails_for_my_tool/)<!-- sideproject:END -->
+-  06 [我为您的下一个项目设计了一系列 Carrd Hero 模板。](https://www.reddit.com/r/SideProject/comments/18cc666/ive_designed_a_series_of_carrd_hero_templates_for/)<!-- sideproject:END -->
 
 
 ### 无忧分享
