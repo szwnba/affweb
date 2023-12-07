@@ -58,18 +58,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [200 clicks, no conversions - push newbie!](https://afflift.com/f/threads/200-clicks-no-conversions-push-newbie.12216/)
+-  07 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
+-  07 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
+-  07 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
+-  07 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
+-  07 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
+-  07 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  07 [What is the most simple yet effective prelander you have ever seen ?](https://afflift.com/f/threads/what-is-the-most-simple-yet-effective-prelander-you-have-ever-seen.12210/)
 -  07 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
 -  07 [“Africa has LATAM problems multiplied by three”: an interview with Ivan, the owner of the PLASH team](https://afflift.com/f/threads/%E2%80%9Cafrica-has-latam-problems-multiplied-by-three%E2%80%9D-an-interview-with-ivan-the-owner-of-the-plash-team.12215/)
 -  07 [📣Online Casino Is Looking For Traffic](https://afflift.com/f/threads/%F0%9F%93%A3online-casino-is-looking-for-traffic.12212/)
--  07 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
--  07 [11 Billion Ad Impressions // Tap Into High-Quality Traffic! 💸](https://afflift.com/f/threads/11-billion-ad-impressions-tap-into-high-quality-traffic-%F0%9F%92%B8.12214/)
--  07 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  07 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
--  07 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
--  07 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
--  07 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
--  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  07 [11 Billion Ad Impressions // Tap Into High-Quality Traffic! 💸](https://afflift.com/f/threads/11-billion-ad-impressions-tap-into-high-quality-traffic-%F0%9F%92%B8.12214/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
