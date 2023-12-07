@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  07 [使用 ChatGPT 进行项目的好主意？](https://old.reddit.com/r/ChatGPTCoding/comments/18cmq8t/good_ideas_for_projects_with_chatgpt/)
+-  07 [非技术专业的人工智能包装](https://www.reddit.com/r/SideProject/comments/18cmzxp/ai_wrappers_for_non_technical_majors/)
 -  07 [我创建了一个工具，帮助音乐家通过 Spotify 资料创建网站](https://old.reddit.com/r/SideProject/comments/18cln4g/i_built_a_tool_to_help_musicians_create_a_website/)
 -  07 [我创建了一个免费的 LinkTree 替代工具，它可以检测点击来自哪里，从而立即切换到您的社交媒体个人资料的风格。](https://www.reddit.com/r/SideProject/comments/18cljw6/i_built_a_free_linktree_alternative_that_detects/)
 -  07 [今天是我编程的第 27 天。我做了一个工具来查找我的旧截图](https://www.reddit.com/r/SideProject/comments/18cjmgb/today_is_my_27th_day_of_programming_i_made_a_tool/)
@@ -23,9 +25,7 @@
 -  06 [刚刚发布了我的第一个项目，一个多人游戏](https://cryptik.me/)
 -  06 [我成为备忘录](https://www.reddit.com/r/SideProject/comments/18c727q/i_am_become_meme/)
 -  06 [Zapier 和 Airtable 生了个孩子，取名 Boost space。](https://www.reddit.com/r/SideProject/comments/18c0byr/zapier_and_airtable_had_a_baby_and_named_it_boost/)
--  06 [Google Analytics 糟糕透顶，因此我开发了一款工具，让您可以直接与您的分析工具聊天并获得洞察力](https://www.reddit.com/r/SideProject/comments/18c6byf/google_analytics_sucks_so_i_built_a_tool_that/)
--  06 [我在 SvelteKit 中克隆了 Starlight.money 网站。代码是开源的！](https://starlight.buildlandingpage.frontavo.com/)
--  06 [albms.net - 专注于音乐评论的微型博客平台](https://albms.net/)<!-- sideproject:END -->
+-  06 [Google Analytics 糟糕透顶，因此我开发了一款工具，让您可以直接与您的分析工具聊天并获得洞察力](https://www.reddit.com/r/SideProject/comments/18c6byf/google_analytics_sucks_so_i_built_a_tool_that/)<!-- sideproject:END -->
 
 
 ### 无忧分享
