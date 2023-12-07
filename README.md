@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  07 [建立了一个工具，可与您的分析师聊天并直接获取见解](https://twitter.com/AdriaanvRossum/status/1732389553950867808)
 -  07 [副业项目的终极回报：用户反馈验证你的努力](https://www.reddit.com/r/SideProject/comments/18cvwn9/the_ultimate_reward_of_side_projects_user/)
 -  07 [我在社交媒体上模仿游戏玩家，使用了幽默、游戏陈词滥调以及更多原创内容](https://www.reddit.com/r/SideProject/comments/18cv0br/i_made_a_social_media_parody_for_gamers_using/)
 -  07 [寻求有关 shopify 应用程序的帮助](https://www.reddit.com/r/SideProject/comments/18cupna/looking_for_help_on_shopify_app/)
@@ -24,8 +25,7 @@
 -  07 [使用 ChatGPT 进行项目的好主意？](https://old.reddit.com/r/ChatGPTCoding/comments/18cmq8t/good_ideas_for_projects_with_chatgpt/)
 -  07 [非技术专业的人工智能包装](https://www.reddit.com/r/SideProject/comments/18cmzxp/ai_wrappers_for_non_technical_majors/)
 -  07 [我创建了一个工具，帮助音乐家通过 Spotify 资料创建网站](https://old.reddit.com/r/SideProject/comments/18cln4g/i_built_a_tool_to_help_musicians_create_a_website/)
--  07 [我创建了一个免费的 LinkTree 替代工具，它可以检测点击来自哪里，从而立即切换到您的社交媒体个人资料的风格。](https://www.reddit.com/r/SideProject/comments/18cljw6/i_built_a_free_linktree_alternative_that_detects/)
--  07 [今天是我编程的第 27 天。我做了一个工具来查找我的旧截图](https://www.reddit.com/r/SideProject/comments/18cjmgb/today_is_my_27th_day_of_programming_i_made_a_tool/)<!-- sideproject:END -->
+-  07 [我创建了一个免费的 LinkTree 替代工具，它可以检测点击来自哪里，从而立即切换到您的社交媒体个人资料的风格。](https://www.reddit.com/r/SideProject/comments/18cljw6/i_built_a_free_linktree_alternative_that_detects/)<!-- sideproject:END -->
 
 
 ### 无忧分享
