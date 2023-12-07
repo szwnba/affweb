@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  07 [🚀 征求对 LoyalPulse 的反馈意见 - 简化客户成功流程](https://www.reddit.com/r/SideProject/comments/18ct3xs/seeking_feedback_on_loyalpulse_simplifying/)
+-  07 [与 FitBot 一起探索健身应用程序的新方法 - 您的想法？](https://old.reddit.com/r/SideProject/comments/18ct12r/exploring_a_new_approach_to_fitness_apps_with/)
 -  07 [OpenAPI DevTools：可为任何应用程序或网站生成 API 规格的 Chrome 浏览器扩展](https://github.com/AndrewWalsh/openapi-devtools)
 -  07 [ScrollSequence 是否适用于所有类型的网站，还是只适用于某些利基市场？](https://scrollsequence.com/)
 -  07 [刚刚推出我的第一个人工智能项目：MakeMeEpic.app](https://www.reddit.com/r/SideProject/comments/18cr2qi/just_launched_my_first_ai_project_makemeepicapp/)
@@ -23,9 +25,7 @@
 -  06 [为孩子们提供与圣诞老人进行电话互动的服务](https://www.reddit.com/r/SideProject/comments/18cf0f8/made_a_service_for_kids_to_have_an_interactive/)
 -  06 [有时觉得自己不合群，你呢？](https://old.reddit.com/r/SideProject/comments/18cehai/feeling_like_a_misfit_sometimes_you/)
 -  06 [说到设计，你会想到什么？](https://www.reddit.com/r/SideProject/comments/18ccuc1/when_you_think_of_design_what_pops_into_your_head/)
--  06 [有时，在关注非本地市场时，关键词研究是一件令人着迷的事情。](https://old.reddit.com/r/SideProject/comments/18c4ejv/sometime_keyword_research_is_a_fascinating_thing/)
--  06 [非技术独立黑客的 7 种产品](https://www.reddit.com/r/SideProject/comments/18c3vy8/7_products_of_nontechnical_indie_hackers/)
--  06 [我为您的下一个项目设计了一系列 Carrd Hero 模板。](https://www.reddit.com/r/SideProject/comments/18cc666/ive_designed_a_series_of_carrd_hero_templates_for/)<!-- sideproject:END -->
+-  06 [有时，在关注非本地市场时，关键词研究是一件令人着迷的事情。](https://old.reddit.com/r/SideProject/comments/18c4ejv/sometime_keyword_research_is_a_fascinating_thing/)<!-- sideproject:END -->
 
 
 ### 无忧分享
