@@ -30,7 +30,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  01 [22年11月~23年11月ChatGPT一周年！载入史册大事件回顾](https://51.ruyo.net/18557.html)<!-- ruyo:END -->
+-  07 [惊！白嫖OpenAI官方GPT-3.5 Turbo模型API, 仅需1个邮箱](https://51.ruyo.net/18560.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
