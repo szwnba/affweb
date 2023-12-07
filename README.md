@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  07 [我在社交媒体上模仿游戏玩家，使用了幽默、游戏陈词滥调以及更多原创内容](https://www.reddit.com/r/SideProject/comments/18cv0br/i_made_a_social_media_parody_for_gamers_using/)
+-  07 [寻求有关 shopify 应用程序的帮助](https://www.reddit.com/r/SideProject/comments/18cupna/looking_for_help_on_shopify_app/)
 -  07 [大学假期挑战](https://www.reddit.com/r/SideProject/comments/18cu4ol/uni_break_challenge/)
 -  07 [我刚刚推出了一个按需定制的旅游目的地语音指南](https://www.reddit.com/r/SideProject/comments/18ctsgg/i_just_launched_an_ondemand_audio_guide_for/)
 -  07 [经过许多副项目之后，终于决定推出一个项目！](https://www.producthunt.com/posts/qassist)
@@ -23,9 +25,7 @@
 -  07 [我创建了一个工具，帮助音乐家通过 Spotify 资料创建网站](https://old.reddit.com/r/SideProject/comments/18cln4g/i_built_a_tool_to_help_musicians_create_a_website/)
 -  07 [我创建了一个免费的 LinkTree 替代工具，它可以检测点击来自哪里，从而立即切换到您的社交媒体个人资料的风格。](https://www.reddit.com/r/SideProject/comments/18cljw6/i_built_a_free_linktree_alternative_that_detects/)
 -  07 [今天是我编程的第 27 天。我做了一个工具来查找我的旧截图](https://www.reddit.com/r/SideProject/comments/18cjmgb/today_is_my_27th_day_of_programming_i_made_a_tool/)
--  07 [在无法联系用户的情况下为功能提出想法](https://www.reddit.com/r/SideProject/comments/18cinvu/ideas_for_features_when_you_cant_reach_out_to/)
--  06 [保持动力可能很难，但这是关键。](https://www.reddit.com/r/SideProject/comments/18cghdf/staying_motivated_can_be_tough_but_its_key/)
--  06 [刚刚推出的 NeckGo，我旨在改善颈部健康的独特副业](https://www.reddit.com/r/SideProject/comments/18bxs8o/just_launched_neckgo_my_unique_side_project_aimed/)<!-- sideproject:END -->
+-  07 [在无法联系用户的情况下为功能提出想法](https://www.reddit.com/r/SideProject/comments/18cinvu/ideas_for_features_when_you_cant_reach_out_to/)<!-- sideproject:END -->
 
 
 ### 无忧分享
