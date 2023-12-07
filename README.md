@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  07 [我为人们提供了一个查找真实产品评论的途径。快来看看吧。](https://www.reddit.com/r/SideProject/comments/18d5x1y/i_made_a_way_for_people_to_find_honest_product/)
+-  07 [帮助我们确定去中心化 P2P 聊天应用程序功能的优先级](https://www.reddit.com/r/SideProject/comments/18d1r9m/help_us_prioritize_features_for_our_decentralized/)
+-  07 [帮助我们确定去中心化 P2P 聊天应用程序功能的优先级](https://www.reddit.com/r/SideProject/comments/18d1r81/help_us_prioritize_features_for_our_decentralized/)
+-  07 [线球 - 小型安卓连线游戏](https://www.reddit.com/r/SideProject/comments/18d1efv/lineball_small_android_connect_the_dots_game/)
 -  07 [这里有人尝试过 TikTok 营销吗？](https://www.reddit.com/r/SideProject/comments/18cy8qn/did_anyone_here_try_tiktok_marketing/)
 -  07 [建立了一个工具，可与您的分析师聊天并直接获取见解](https://twitter.com/AdriaanvRossum/status/1732389553950867808)
 -  07 [副业项目的终极回报：用户反馈验证你的努力](https://www.reddit.com/r/SideProject/comments/18cvwn9/the_ultimate_reward_of_side_projects_user/)
@@ -21,11 +25,7 @@
 -  07 [ScrollSequence 是否适用于所有类型的网站，还是只适用于某些利基市场？](https://scrollsequence.com/)
 -  07 [刚刚推出我的第一个人工智能项目：MakeMeEpic.app](https://www.reddit.com/r/SideProject/comments/18cr2qi/just_launched_my_first_ai_project_makemeepicapp/)
 -  07 [🚀 VoicePro 简介：为朋友和家人提供插入式音频对话，同步呼叫与异步语音消息的混合体 🚀](https://www.reddit.com/r/SideProject/comments/18cpzpo/introducing_voicepro_dropin_audio_conversations/)
--  07 [MarketingHero 是一家帮助 DTC 和电子商务品牌成长的成长型营销机构！](https://www.reddit.com/r/SideProject/comments/18cmfqo/marketinghero_a_growth_marketing_agency_which/)
--  07 [建立一个免费的扩展，迫使你用眼休息。](https://old.reddit.com/r/SideProject/comments/18cobkb/built_a_free_extension_that_forces_you_to_take/)
--  07 [使用 ChatGPT 进行项目的好主意？](https://old.reddit.com/r/ChatGPTCoding/comments/18cmq8t/good_ideas_for_projects_with_chatgpt/)
--  07 [非技术专业的人工智能包装](https://www.reddit.com/r/SideProject/comments/18cmzxp/ai_wrappers_for_non_technical_majors/)
--  07 [我创建了一个工具，帮助音乐家通过 Spotify 资料创建网站](https://old.reddit.com/r/SideProject/comments/18cln4g/i_built_a_tool_to_help_musicians_create_a_website/)<!-- sideproject:END -->
+-  07 [MarketingHero 是一家帮助 DTC 和电子商务品牌成长的成长型营销机构！](https://www.reddit.com/r/SideProject/comments/18cmfqo/marketinghero_a_growth_marketing_agency_which/)<!-- sideproject:END -->
 
 
 ### 无忧分享
