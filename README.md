@@ -71,6 +71,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [几分靠打拼、几分是注定？借统计学探寻收入的秘密](https://sspai.com/post/84836)
 -  07 [不买可以先收藏 12：中央空调选购指南](https://sspai.com/post/84782)
 -  07 [Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)
 -  07 [派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等](https://sspai.com/post/84900)<!-- sspai:END -->
