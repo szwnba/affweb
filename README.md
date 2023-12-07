@@ -56,18 +56,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
+-  07 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
+-  07 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
 -  07 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  07 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  06 [FB Dayparting for Pay per Call Offers](https://afflift.com/f/threads/fb-dayparting-for-pay-per-call-offers.12208/)
--  06 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
 -  06 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  06 [Hi Afflift!](https://afflift.com/f/threads/hi-afflift.12133/)
 -  06 [Hello from India](https://afflift.com/f/threads/hello-from-india.12207/)
 -  06 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)
 -  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  06 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
--  06 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
--  06 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)<!-- afflift:END -->
+-  06 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
