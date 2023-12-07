@@ -56,6 +56,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
+-  07 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  07 [TUT out of BM when I am the only Admin](https://afflift.com/f/threads/tut-out-of-bm-when-i-am-the-only-admin.12118/)
 -  07 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
 -  07 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)
@@ -65,9 +67,7 @@
 -  07 [#ADSTERRAx2 Testing Adsterra Network Offers](https://afflift.com/f/threads/adsterrax2-testing-adsterra-network-offers.12179/)
 -  07 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
 -  07 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
--  07 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
--  07 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  06 [FB Dayparting for Pay per Call Offers](https://afflift.com/f/threads/fb-dayparting-for-pay-per-call-offers.12208/)<!-- afflift:END -->
+-  07 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
