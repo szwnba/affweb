@@ -42,6 +42,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  07 [Brand Bid如何解决规避](https://www.advertcn.com/thread-113212-1-1.html)
 -  07 [Name.com网站新模板](https://www.advertcn.com/thread-113209-1-1.html)
 -  06 [谷歌ads新账户怎么能在联盟推offer，都出现未验证，有偿求助](https://www.advertcn.com/thread-113206-1-1.html)
 -  06 [Partners 1xBet – Top Affiliate Program with 40%+ Conversion Rate](https://www.advertcn.com/thread-113205-1-1.html)
