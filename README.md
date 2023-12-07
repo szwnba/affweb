@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  07 [建立一个免费的扩展，迫使你用眼休息。](https://old.reddit.com/r/SideProject/comments/18cobkb/built_a_free_extension_that_forces_you_to_take/)
 -  07 [使用 ChatGPT 进行项目的好主意？](https://old.reddit.com/r/ChatGPTCoding/comments/18cmq8t/good_ideas_for_projects_with_chatgpt/)
 -  07 [非技术专业的人工智能包装](https://www.reddit.com/r/SideProject/comments/18cmzxp/ai_wrappers_for_non_technical_majors/)
 -  07 [我创建了一个工具，帮助音乐家通过 Spotify 资料创建网站](https://old.reddit.com/r/SideProject/comments/18cln4g/i_built_a_tool_to_help_musicians_create_a_website/)
@@ -24,8 +25,7 @@
 -  06 [🧠 WiseWriter.co：从顶级 SERP 和 YouTube 生成批量 SEO 优化文章！](https://www.reddit.com/r/SideProject/comments/18c971j/wisewriterco_generate_bulk_seooptimized_articles/)
 -  06 [刚刚发布了我的第一个项目，一个多人游戏](https://cryptik.me/)
 -  06 [我成为备忘录](https://www.reddit.com/r/SideProject/comments/18c727q/i_am_become_meme/)
--  06 [Zapier 和 Airtable 生了个孩子，取名 Boost space。](https://www.reddit.com/r/SideProject/comments/18c0byr/zapier_and_airtable_had_a_baby_and_named_it_boost/)
--  06 [Google Analytics 糟糕透顶，因此我开发了一款工具，让您可以直接与您的分析工具聊天并获得洞察力](https://www.reddit.com/r/SideProject/comments/18c6byf/google_analytics_sucks_so_i_built_a_tool_that/)<!-- sideproject:END -->
+-  06 [Zapier 和 Airtable 生了个孩子，取名 Boost space。](https://www.reddit.com/r/SideProject/comments/18c0byr/zapier_and_airtable_had_a_baby_and_named_it_boost/)<!-- sideproject:END -->
 
 
 ### 无忧分享
