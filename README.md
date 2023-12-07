@@ -71,6 +71,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)
 -  07 [派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等](https://sspai.com/post/84900)
 -  06 [以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)
 -  06 [播客 | 聊聊 Apple 产品、生态和线下店设计](https://sspai.com/post/84837)<!-- sspai:END -->
