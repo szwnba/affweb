@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  07 [大学假期挑战](https://www.reddit.com/r/SideProject/comments/18cu4ol/uni_break_challenge/)
+-  07 [我刚刚推出了一个按需定制的旅游目的地语音指南](https://www.reddit.com/r/SideProject/comments/18ctsgg/i_just_launched_an_ondemand_audio_guide_for/)
+-  07 [经过许多副项目之后，终于决定推出一个项目！](https://www.producthunt.com/posts/qassist)
+-  07 [建立一个计算 Youtube 播放列表长度的网站](https://www.reddit.com/r/SideProject/comments/18cth9f/built_a_website_to_calculate_youtube_playlist/)
 -  07 [🚀 征求对 LoyalPulse 的反馈意见 - 简化客户成功流程](https://www.reddit.com/r/SideProject/comments/18ct3xs/seeking_feedback_on_loyalpulse_simplifying/)
 -  07 [与 FitBot 一起探索健身应用程序的新方法 - 您的想法？](https://old.reddit.com/r/SideProject/comments/18ct12r/exploring_a_new_approach_to_fitness_apps_with/)
 -  07 [OpenAPI DevTools：可为任何应用程序或网站生成 API 规格的 Chrome 浏览器扩展](https://github.com/AndrewWalsh/openapi-devtools)
@@ -21,11 +25,7 @@
 -  07 [今天是我编程的第 27 天。我做了一个工具来查找我的旧截图](https://www.reddit.com/r/SideProject/comments/18cjmgb/today_is_my_27th_day_of_programming_i_made_a_tool/)
 -  07 [在无法联系用户的情况下为功能提出想法](https://www.reddit.com/r/SideProject/comments/18cinvu/ideas_for_features_when_you_cant_reach_out_to/)
 -  06 [保持动力可能很难，但这是关键。](https://www.reddit.com/r/SideProject/comments/18cghdf/staying_motivated_can_be_tough_but_its_key/)
--  06 [刚刚推出的 NeckGo，我旨在改善颈部健康的独特副业](https://www.reddit.com/r/SideProject/comments/18bxs8o/just_launched_neckgo_my_unique_side_project_aimed/)
--  06 [为孩子们提供与圣诞老人进行电话互动的服务](https://www.reddit.com/r/SideProject/comments/18cf0f8/made_a_service_for_kids_to_have_an_interactive/)
--  06 [有时觉得自己不合群，你呢？](https://old.reddit.com/r/SideProject/comments/18cehai/feeling_like_a_misfit_sometimes_you/)
--  06 [说到设计，你会想到什么？](https://www.reddit.com/r/SideProject/comments/18ccuc1/when_you_think_of_design_what_pops_into_your_head/)
--  06 [有时，在关注非本地市场时，关键词研究是一件令人着迷的事情。](https://old.reddit.com/r/SideProject/comments/18c4ejv/sometime_keyword_research_is_a_fascinating_thing/)<!-- sideproject:END -->
+-  06 [刚刚推出的 NeckGo，我旨在改善颈部健康的独特副业](https://www.reddit.com/r/SideProject/comments/18bxs8o/just_launched_neckgo_my_unique_side_project_aimed/)<!-- sideproject:END -->
 
 
 ### 无忧分享
