@@ -71,6 +71,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [不买可以先收藏 12：中央空调选购指南](https://sspai.com/post/84782)
 -  07 [Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)
--  07 [派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等](https://sspai.com/post/84900)
--  06 [以 GRE 为例：如何背多背好英语单词](https://sspai.com/post/84835)<!-- sspai:END -->
+-  07 [派早报：Google 推出 AI 模型 Gemini、Beeper 推出 Android 版 iMessage 等](https://sspai.com/post/84900)<!-- sspai:END -->
