@@ -58,8 +58,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
+-  07 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
+-  07 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  07 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
+-  07 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  07 [📣Online Casino Is Looking For Traffic](https://afflift.com/f/threads/%F0%9F%93%A3online-casino-is-looking-for-traffic.12212/)
 -  07 [Christmas Affiliate Guide &lpar;+ The Best Offers&rpar;](https://afflift.com/f/threads/christmas-affiliate-guide-the-best-offers.12211/)
@@ -67,9 +69,7 @@
 -  07 [What is the most simple yet effective prelander you have ever seen ?](https://afflift.com/f/threads/what-is-the-most-simple-yet-effective-prelander-you-have-ever-seen.12210/)
 -  07 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
 -  07 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  07 [TUT out of BM when I am the only Admin](https://afflift.com/f/threads/tut-out-of-bm-when-i-am-the-only-admin.12118/)
--  07 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
--  07 [How to find whitelist zone for push traffic campaigns](https://afflift.com/f/threads/how-to-find-whitelist-zone-for-push-traffic-campaigns.12173/)<!-- afflift:END -->
+-  07 [TUT out of BM when I am the only Admin](https://afflift.com/f/threads/tut-out-of-bm-when-i-am-the-only-admin.12118/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
