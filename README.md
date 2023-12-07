@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  06 [保持动力可能很难，但这是关键。](https://www.reddit.com/r/SideProject/comments/18cghdf/staying_motivated_can_be_tough_but_its_key/)
+-  06 [刚刚推出的 NeckGo，我旨在改善颈部健康的独特副业](https://www.reddit.com/r/SideProject/comments/18bxs8o/just_launched_neckgo_my_unique_side_project_aimed/)
 -  06 [为孩子们提供与圣诞老人进行电话互动的服务](https://www.reddit.com/r/SideProject/comments/18cf0f8/made_a_service_for_kids_to_have_an_interactive/)
 -  06 [有时觉得自己不合群，你呢？](https://old.reddit.com/r/SideProject/comments/18cehai/feeling_like_a_misfit_sometimes_you/)
 -  06 [说到设计，你会想到什么？](https://www.reddit.com/r/SideProject/comments/18ccuc1/when_you_think_of_design_what_pops_into_your_head/)
@@ -23,9 +25,7 @@
 -  06 [我正在 24 小时编码挑战中制作一个人工智能贺卡制作工具](https://www.reddit.com/r/SideProject/comments/18c1p24/i_am_making_a_ai_greeting_cards_maker_tool_in_24/)
 -  06 [免费一个月的反馈:&rpar;](https://www.reddit.com/r/SideProject/comments/18c0i88/feedback_for_a_free_month/)
 -  06 [希望您对我创建的网站生成器提出反馈意见](https://www.reddit.com/r/SideProject/comments/18c08lh/would_love_your_feedback_on_the_website_builder/)
--  06 [10000 欧元起步](https://www.reddit.com/r/SideProject/comments/18bzeuw/10000_euros_to_start/)
--  06 [刚刚发布了我的应用程序，请下载获取灵感 🙏](https://www.reddit.com/r/SideProject/comments/18bxaxt/just_published_my_app_please_download_for/)
--  06 [我制作了一个 &quot;2023 年 TikTok 包装&quot;。只需用户名，100% 免费](https://tokchart.com/wrapped)<!-- sideproject:END -->
+-  06 [10000 欧元起步](https://www.reddit.com/r/SideProject/comments/18bzeuw/10000_euros_to_start/)<!-- sideproject:END -->
 
 
 ### 无忧分享
