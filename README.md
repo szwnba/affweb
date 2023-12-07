@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  07 [今天是我编程的第 27 天。我做了一个工具来查找我的旧截图](https://www.reddit.com/r/SideProject/comments/18cjmgb/today_is_my_27th_day_of_programming_i_made_a_tool/)
 -  07 [在无法联系用户的情况下为功能提出想法](https://www.reddit.com/r/SideProject/comments/18cinvu/ideas_for_features_when_you_cant_reach_out_to/)
 -  06 [保持动力可能很难，但这是关键。](https://www.reddit.com/r/SideProject/comments/18cghdf/staying_motivated_can_be_tough_but_its_key/)
 -  06 [刚刚推出的 NeckGo，我旨在改善颈部健康的独特副业](https://www.reddit.com/r/SideProject/comments/18bxs8o/just_launched_neckgo_my_unique_side_project_aimed/)
@@ -24,8 +25,7 @@
 -  06 [我在 SvelteKit 中克隆了 Starlight.money 网站。代码是开源的！](https://starlight.buildlandingpage.frontavo.com/)
 -  06 [albms.net - 专注于音乐评论的微型博客平台](https://albms.net/)
 -  06 [我正在 24 小时编码挑战中制作一个人工智能贺卡制作工具](https://www.reddit.com/r/SideProject/comments/18c1p24/i_am_making_a_ai_greeting_cards_maker_tool_in_24/)
--  06 [免费一个月的反馈:&rpar;](https://www.reddit.com/r/SideProject/comments/18c0i88/feedback_for_a_free_month/)
--  06 [希望您对我创建的网站生成器提出反馈意见](https://www.reddit.com/r/SideProject/comments/18c08lh/would_love_your_feedback_on_the_website_builder/)<!-- sideproject:END -->
+-  06 [免费一个月的反馈:&rpar;](https://www.reddit.com/r/SideProject/comments/18c0i88/feedback_for_a_free_month/)<!-- sideproject:END -->
 
 
 ### 无忧分享
