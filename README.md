@@ -56,6 +56,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [#ADSTERRAx2 Testing Adsterra Network Offers](https://afflift.com/f/threads/adsterrax2-testing-adsterra-network-offers.12179/)
 -  07 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
 -  07 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  07 [affLIFT $500 Black Friday + Cyber Monday Giveaway](https://afflift.com/f/threads/afflift-500-black-friday-cyber-monday-giveaway.12105/)
@@ -66,8 +67,7 @@
 -  06 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  06 [Hi Afflift!](https://afflift.com/f/threads/hi-afflift.12133/)
 -  06 [Hello from India](https://afflift.com/f/threads/hello-from-india.12207/)
--  06 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)
--  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
+-  06 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
