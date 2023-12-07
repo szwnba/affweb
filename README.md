@@ -34,6 +34,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  07 [新人报道](https://www.advertcn.com/thread-113220-1-1.html)
 -  07 [怎样同时操作多个Rumble账号防止关联?](https://www.advertcn.com/thread-113216-1-1.html)
 -  07 [新人报道](https://www.advertcn.com/thread-113210-1-1.html)<!-- advertcn1:END -->
 
