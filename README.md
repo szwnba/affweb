@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [Microvm 门户网站](https://www.reddit.com/r/SideProject/comments/18dqbng/the_portainer_of_microvm/)
 -  08 [我为开发人员创建了一个招聘网站，但我需要您的建议！](https://www.reddit.com/r/SideProject/comments/18doi4b/i_created_a_job_board_for_developers_but_i_need/)
 -  08 [写作城 🌟 语言日志](https://www.reddit.com/r/SideProject/comments/18dnux8/write_town_language_journal/)
 -  08 [我制作了一个快速创建旋转木马的应用程序](https://supercarousels.com/)
@@ -24,8 +25,7 @@
 -  08 [你喜欢色彩吗？](https://www.reddit.com/r/SideProject/comments/18diazp/do_you_love_colors/)
 -  08 [想深入了解竞争对手并扩大影响力？](https://old.reddit.com/r/SideProject/comments/18de5rx/want_to_gain_insights_on_competitor_and_gain_reach/)
 -  08 [分享您的网站，我就为您制作一个可分享的人工智能聊天机器人](https://www.reddit.com/r/SideProject/comments/18dbsle/share_your_website_and_ill_make_you_a_shareable/)
--  08 [我注意到，有些品牌会在你的脑海中留下深刻印象，而有些品牌则会逐渐消失。](https://www.reddit.com/r/SideProject/comments/18dag2k/ive_noticed_that_some_brands_just_click_in_your/)
--  08 [我制作了一个支持动态岛屿的秒表应用程序](https://www.reddit.com/r/SideProject/comments/18d9xbh/i_made_a_stopwatch_app_supports_dynamic_island/)<!-- sideproject:END -->
+-  08 [我注意到，有些品牌会在你的脑海中留下深刻印象，而有些品牌则会逐渐消失。](https://www.reddit.com/r/SideProject/comments/18dag2k/ive_noticed_that_some_brands_just_click_in_your/)<!-- sideproject:END -->
 
 
 ### 无忧分享
