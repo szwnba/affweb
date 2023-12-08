@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [我注意到，有些品牌会在你的脑海中留下深刻印象，而有些品牌则会逐渐消失。](https://www.reddit.com/r/SideProject/comments/18dag2k/ive_noticed_that_some_brands_just_click_in_your/)
+-  08 [我制作了一个支持动态岛屿的秒表应用程序](https://www.reddit.com/r/SideProject/comments/18d9xbh/i_made_a_stopwatch_app_supports_dynamic_island/)
 -  08 [我制作了一个免费的 Pitchfork 博客即服务。今天就开始创建自己的音乐博客吧！这是我的简介。](https://albms.net/@felix)
 -  07 [显示 Reddit：Biblos.app - 向量搜索《圣经》和教父评注](https://www.reddit.com/r/SideProject/comments/18d1c84/show_reddit_biblosapp_vector_search_the_bible/)
 -  07 [我做了一个社交媒体平台，用来分享被低估的视频游戏。](https://www.reddit.com/r/SideProject/comments/18d7kmu/i_made_a_social_media_platform_for_sharing/)
@@ -23,9 +25,7 @@
 -  07 [经过许多副项目之后，终于决定推出一个项目！](https://www.producthunt.com/posts/qassist)
 -  07 [建立一个计算 Youtube 播放列表长度的网站](https://www.reddit.com/r/SideProject/comments/18cth9f/built_a_website_to_calculate_youtube_playlist/)
 -  07 [🚀 征求对 LoyalPulse 的反馈意见 - 简化客户成功流程](https://www.reddit.com/r/SideProject/comments/18ct3xs/seeking_feedback_on_loyalpulse_simplifying/)
--  07 [与 FitBot 一起探索健身应用程序的新方法 - 您的想法？](https://old.reddit.com/r/SideProject/comments/18ct12r/exploring_a_new_approach_to_fitness_apps_with/)
--  07 [OpenAPI DevTools：可为任何应用程序或网站生成 API 规格的 Chrome 浏览器扩展](https://github.com/AndrewWalsh/openapi-devtools)
--  07 [ScrollSequence 是否适用于所有类型的网站，还是只适用于某些利基市场？](https://scrollsequence.com/)<!-- sideproject:END -->
+-  07 [与 FitBot 一起探索健身应用程序的新方法 - 您的想法？](https://old.reddit.com/r/SideProject/comments/18ct12r/exploring_a_new_approach_to_fitness_apps_with/)<!-- sideproject:END -->
 
 
 ### 无忧分享
