@@ -45,11 +45,11 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  08 [12个亲测有用的SEO chatGPT命令](https://www.advertcn.com/thread-113226-1-1.html)
 -  08 [你们的Paxum App都能正常使用吗？](https://www.advertcn.com/thread-113222-1-1.html)
 -  07 [搜素流量的源头在google](https://www.advertcn.com/thread-113218-1-1.html)
 -  07 [一样的东西，这边的人跟另外一个社群的人，自己看看差距](https://www.advertcn.com/thread-113217-1-1.html)
--  07 [Brand Bid如何解决规避](https://www.advertcn.com/thread-113212-1-1.html)
--  07 [Name.com网站新模板](https://www.advertcn.com/thread-113209-1-1.html)<!-- advertcn3:END -->
+-  07 [Brand Bid如何解决规避](https://www.advertcn.com/thread-113212-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
