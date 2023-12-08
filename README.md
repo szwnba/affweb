@@ -41,7 +41,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  05 [跑BB，有靠谱斗篷推荐吗?](https://www.advertcn.com/thread-113193-1-1.html)<!-- advertcn2:END -->
+-  08 [做tiktok的8天感悟](https://www.advertcn.com/thread-113232-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
