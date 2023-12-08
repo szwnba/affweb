@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [五次失败后，我终于创办了自己的初创公司：寻求持续成功的指导](https://www.reddit.com/r/SideProject/comments/18dl48z/after_5_failed_attempts_i_finally_launched_my/)
+-  08 [今天在 Product Hunt 上测试发布 Birdie！🚀](https://www.reddit.com/r/SideProject/comments/18dl01p/beta_launching_birdie_on_product_hunt_today/)
 -  08 [使用 Google 搜索词确定要构建的应用程序](https://www.reddit.com/r/SideProject/comments/18dkdlm/identify_apps_to_build_using_google_search_terms/)
 -  08 [我的副业是这个任务管理器](https://www.reddit.com/gallery/18djsdx)
 -  08 [我制作了自己的编程语言，宝莱坞风格。快来看看吧！更多信息请见评论！](https://old.reddit.com/r/SideProject/comments/18djrao/made_my_own_programming_language_bollywood_style/)
@@ -23,9 +25,7 @@
 -  07 [帮助我们确定去中心化 P2P 聊天应用程序功能的优先级](https://www.reddit.com/r/SideProject/comments/18d1r9m/help_us_prioritize_features_for_our_decentralized/)
 -  07 [帮助我们确定去中心化 P2P 聊天应用程序功能的优先级](https://www.reddit.com/r/SideProject/comments/18d1r81/help_us_prioritize_features_for_our_decentralized/)
 -  07 [线球 - 小型安卓连线游戏](https://www.reddit.com/r/SideProject/comments/18d1efv/lineball_small_android_connect_the_dots_game/)
--  07 [这里有人尝试过 TikTok 营销吗？](https://www.reddit.com/r/SideProject/comments/18cy8qn/did_anyone_here_try_tiktok_marketing/)
--  07 [建立了一个工具，可与您的分析师聊天并直接获取见解](https://twitter.com/AdriaanvRossum/status/1732389553950867808)
--  07 [副业项目的终极回报：用户反馈验证你的努力](https://www.reddit.com/r/SideProject/comments/18cvwn9/the_ultimate_reward_of_side_projects_user/)<!-- sideproject:END -->
+-  07 [这里有人尝试过 TikTok 营销吗？](https://www.reddit.com/r/SideProject/comments/18cy8qn/did_anyone_here_try_tiktok_marketing/)<!-- sideproject:END -->
 
 
 ### 无忧分享
