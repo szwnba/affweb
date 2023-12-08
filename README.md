@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [分享您的网站，我就为您制作一个可分享的人工智能聊天机器人](https://www.reddit.com/r/SideProject/comments/18dbsle/share_your_website_and_ill_make_you_a_shareable/)
 -  08 [我注意到，有些品牌会在你的脑海中留下深刻印象，而有些品牌则会逐渐消失。](https://www.reddit.com/r/SideProject/comments/18dag2k/ive_noticed_that_some_brands_just_click_in_your/)
 -  08 [我制作了一个支持动态岛屿的秒表应用程序](https://www.reddit.com/r/SideProject/comments/18d9xbh/i_made_a_stopwatch_app_supports_dynamic_island/)
 -  08 [我制作了一个免费的 Pitchfork 博客即服务。今天就开始创建自己的音乐博客吧！这是我的简介。](https://albms.net/@felix)
@@ -24,8 +25,7 @@
 -  07 [我刚刚推出了一个按需定制的旅游目的地语音指南](https://www.reddit.com/r/SideProject/comments/18ctsgg/i_just_launched_an_ondemand_audio_guide_for/)
 -  07 [经过许多副项目之后，终于决定推出一个项目！](https://www.producthunt.com/posts/qassist)
 -  07 [建立一个计算 Youtube 播放列表长度的网站](https://www.reddit.com/r/SideProject/comments/18cth9f/built_a_website_to_calculate_youtube_playlist/)
--  07 [🚀 征求对 LoyalPulse 的反馈意见 - 简化客户成功流程](https://www.reddit.com/r/SideProject/comments/18ct3xs/seeking_feedback_on_loyalpulse_simplifying/)
--  07 [与 FitBot 一起探索健身应用程序的新方法 - 您的想法？](https://old.reddit.com/r/SideProject/comments/18ct12r/exploring_a_new_approach_to_fitness_apps_with/)<!-- sideproject:END -->
+-  07 [🚀 征求对 LoyalPulse 的反馈意见 - 简化客户成功流程](https://www.reddit.com/r/SideProject/comments/18ct3xs/seeking_feedback_on_loyalpulse_simplifying/)<!-- sideproject:END -->
 
 
 ### 无忧分享
