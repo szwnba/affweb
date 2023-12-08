@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [🍅 Pomotastic - 大更新](https://www.reddit.com/r/SideProject/comments/18dlwrp/pomotastic_big_update/)
+-  08 [联网问题](https://www.reddit.com/r/SideProject/comments/18dlok1/networking_issues/)
 -  08 [五次失败后，我终于创办了自己的初创公司：寻求持续成功的指导](https://www.reddit.com/r/SideProject/comments/18dl48z/after_5_failed_attempts_i_finally_launched_my/)
 -  08 [今天在 Product Hunt 上测试发布 Birdie！🚀](https://www.reddit.com/r/SideProject/comments/18dl01p/beta_launching_birdie_on_product_hunt_today/)
 -  08 [使用 Google 搜索词确定要构建的应用程序](https://www.reddit.com/r/SideProject/comments/18dkdlm/identify_apps_to_build_using_google_search_terms/)
@@ -23,9 +25,7 @@
 -  07 [我做了一个社交媒体平台，用来分享被低估的视频游戏。](https://www.reddit.com/r/SideProject/comments/18d7kmu/i_made_a_social_media_platform_for_sharing/)
 -  07 [我为人们提供了一个查找真实产品评论的途径。快来看看吧。](https://www.reddit.com/r/SideProject/comments/18d5x1y/i_made_a_way_for_people_to_find_honest_product/)
 -  07 [帮助我们确定去中心化 P2P 聊天应用程序功能的优先级](https://www.reddit.com/r/SideProject/comments/18d1r9m/help_us_prioritize_features_for_our_decentralized/)
--  07 [帮助我们确定去中心化 P2P 聊天应用程序功能的优先级](https://www.reddit.com/r/SideProject/comments/18d1r81/help_us_prioritize_features_for_our_decentralized/)
--  07 [线球 - 小型安卓连线游戏](https://www.reddit.com/r/SideProject/comments/18d1efv/lineball_small_android_connect_the_dots_game/)
--  07 [这里有人尝试过 TikTok 营销吗？](https://www.reddit.com/r/SideProject/comments/18cy8qn/did_anyone_here_try_tiktok_marketing/)<!-- sideproject:END -->
+-  07 [帮助我们确定去中心化 P2P 聊天应用程序功能的优先级](https://www.reddit.com/r/SideProject/comments/18d1r81/help_us_prioritize_features_for_our_decentralized/)<!-- sideproject:END -->
 
 
 ### 无忧分享
