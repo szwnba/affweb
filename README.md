@@ -36,7 +36,8 @@
 <!-- advertcn1:START -->
 -  08 [新人报道](https://www.advertcn.com/thread-113229-1-1.html)
 -  08 [如何修改计算机名称和MAC地址提高防关联效果？](https://www.advertcn.com/thread-113227-1-1.html)
--  08 [新人报到](https://www.advertcn.com/thread-113224-1-1.html)<!-- advertcn1:END -->
+-  08 [新人报到](https://www.advertcn.com/thread-113224-1-1.html)
+-  07 [新人报道](https://www.advertcn.com/thread-113220-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
