@@ -48,8 +48,7 @@
 -  08 [AI 比较火 感觉 可以开个 AI板块](https://www.advertcn.com/thread-113237-1-1.html)
 -  08 [强强合作 | Yahoo流量已100%接入Taboola！](https://www.advertcn.com/thread-113234-1-1.html)
 -  08 [12个亲测有用的SEO chatGPT命令](https://www.advertcn.com/thread-113226-1-1.html)
--  08 [你们的Paxum App都能正常使用吗？](https://www.advertcn.com/thread-113222-1-1.html)
--  07 [搜素流量的源头在google](https://www.advertcn.com/thread-113218-1-1.html)<!-- advertcn3:END -->
+-  08 [你们的Paxum App都能正常使用吗？](https://www.advertcn.com/thread-113222-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
