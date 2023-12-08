@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [我为开发人员创建了一个招聘网站，但我需要您的建议！](https://www.reddit.com/r/SideProject/comments/18doi4b/i_created_a_job_board_for_developers_but_i_need/)
+-  08 [写作城 🌟 语言日志](https://www.reddit.com/r/SideProject/comments/18dnux8/write_town_language_journal/)
+-  08 [我制作了一个快速创建旋转木马的应用程序](https://supercarousels.com/)
+-  08 [3 周内从 SaaS 模板的 0 美元到 800 美元以上](https://www.reddit.com/r/SideProject/comments/18dnoza/0_to_800_in_3_weeks_from_a_saas_boilerplate/)
 -  08 [如何帮助您获得反馈并验证您的想法？](https://www.reddit.com/r/SideProject/comments/18dmseb/how_can_i_help_you_get_feedback_and_validate_your/)
 -  08 [正在开发这个聊天机器人](https://www.reddit.com/r/SideProject/comments/18dmo57/working_on_this_chatbot/)
 -  08 [🍅 Pomotastic - 大更新](https://www.reddit.com/r/SideProject/comments/18dlwrp/pomotastic_big_update/)
@@ -21,11 +25,7 @@
 -  08 [想深入了解竞争对手并扩大影响力？](https://old.reddit.com/r/SideProject/comments/18de5rx/want_to_gain_insights_on_competitor_and_gain_reach/)
 -  08 [分享您的网站，我就为您制作一个可分享的人工智能聊天机器人](https://www.reddit.com/r/SideProject/comments/18dbsle/share_your_website_and_ill_make_you_a_shareable/)
 -  08 [我注意到，有些品牌会在你的脑海中留下深刻印象，而有些品牌则会逐渐消失。](https://www.reddit.com/r/SideProject/comments/18dag2k/ive_noticed_that_some_brands_just_click_in_your/)
--  08 [我制作了一个支持动态岛屿的秒表应用程序](https://www.reddit.com/r/SideProject/comments/18d9xbh/i_made_a_stopwatch_app_supports_dynamic_island/)
--  08 [我制作了一个免费的 Pitchfork 博客即服务。今天就开始创建自己的音乐博客吧！这是我的简介。](https://albms.net/@felix)
--  07 [显示 Reddit：Biblos.app - 向量搜索《圣经》和教父评注](https://www.reddit.com/r/SideProject/comments/18d1c84/show_reddit_biblosapp_vector_search_the_bible/)
--  07 [我做了一个社交媒体平台，用来分享被低估的视频游戏。](https://www.reddit.com/r/SideProject/comments/18d7kmu/i_made_a_social_media_platform_for_sharing/)
--  07 [我为人们提供了一个查找真实产品评论的途径。快来看看吧。](https://www.reddit.com/r/SideProject/comments/18d5x1y/i_made_a_way_for_people_to_find_honest_product/)<!-- sideproject:END -->
+-  08 [我制作了一个支持动态岛屿的秒表应用程序](https://www.reddit.com/r/SideProject/comments/18d9xbh/i_made_a_stopwatch_app_supports_dynamic_island/)<!-- sideproject:END -->
 
 
 ### 无忧分享
