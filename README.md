@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [你喜欢色彩吗？](https://www.reddit.com/r/SideProject/comments/18diazp/do_you_love_colors/)
 -  08 [想深入了解竞争对手并扩大影响力？](https://old.reddit.com/r/SideProject/comments/18de5rx/want_to_gain_insights_on_competitor_and_gain_reach/)
 -  08 [分享您的网站，我就为您制作一个可分享的人工智能聊天机器人](https://www.reddit.com/r/SideProject/comments/18dbsle/share_your_website_and_ill_make_you_a_shareable/)
 -  08 [我注意到，有些品牌会在你的脑海中留下深刻印象，而有些品牌则会逐渐消失。](https://www.reddit.com/r/SideProject/comments/18dag2k/ive_noticed_that_some_brands_just_click_in_your/)
@@ -24,8 +25,7 @@
 -  07 [寻求有关 shopify 应用程序的帮助](https://www.reddit.com/r/SideProject/comments/18cupna/looking_for_help_on_shopify_app/)
 -  07 [大学假期挑战](https://www.reddit.com/r/SideProject/comments/18cu4ol/uni_break_challenge/)
 -  07 [我刚刚推出了一个按需定制的旅游目的地语音指南](https://www.reddit.com/r/SideProject/comments/18ctsgg/i_just_launched_an_ondemand_audio_guide_for/)
--  07 [经过许多副项目之后，终于决定推出一个项目！](https://www.producthunt.com/posts/qassist)
--  07 [建立一个计算 Youtube 播放列表长度的网站](https://www.reddit.com/r/SideProject/comments/18cth9f/built_a_website_to_calculate_youtube_playlist/)<!-- sideproject:END -->
+-  07 [经过许多副项目之后，终于决定推出一个项目！](https://www.producthunt.com/posts/qassist)<!-- sideproject:END -->
 
 
 ### 无忧分享
