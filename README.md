@@ -30,7 +30,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  07 [惊！白嫖OpenAI官方GPT-3.5 Turbo模型API, 仅需1个邮箱](https://51.ruyo.net/18560.html)<!-- ruyo:END -->
+-  08 [VS Code免费提供内网穿透端口转发服务，支持HTTP&lpar;S&rpar;协议](https://51.ruyo.net/18562.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
