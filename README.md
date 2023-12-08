@@ -75,7 +75,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [三年后，我用「轻薄」重新认识 PS5](https://sspai.com/post/84916)
 -  08 [派早报：realme 发布真我 GT5 Pro 手机等](https://sspai.com/post/84918)
 -  07 [几分靠打拼、几分是注定？借统计学探寻收入的秘密](https://sspai.com/post/84836)
--  07 [不买可以先收藏 12：中央空调选购指南](https://sspai.com/post/84782)
--  07 [Things 没有 Windows 客户端怎么办？这是我的跨生态解决方案](https://sspai.com/post/84834)<!-- sspai:END -->
+-  07 [不买可以先收藏 12：中央空调选购指南](https://sspai.com/post/84782)<!-- sspai:END -->
