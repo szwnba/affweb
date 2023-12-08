@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [如何帮助您获得反馈并验证您的想法？](https://www.reddit.com/r/SideProject/comments/18dmseb/how_can_i_help_you_get_feedback_and_validate_your/)
+-  08 [正在开发这个聊天机器人](https://www.reddit.com/r/SideProject/comments/18dmo57/working_on_this_chatbot/)
 -  08 [🍅 Pomotastic - 大更新](https://www.reddit.com/r/SideProject/comments/18dlwrp/pomotastic_big_update/)
 -  08 [联网问题](https://www.reddit.com/r/SideProject/comments/18dlok1/networking_issues/)
 -  08 [五次失败后，我终于创办了自己的初创公司：寻求持续成功的指导](https://www.reddit.com/r/SideProject/comments/18dl48z/after_5_failed_attempts_i_finally_launched_my/)
@@ -23,9 +25,7 @@
 -  08 [我制作了一个免费的 Pitchfork 博客即服务。今天就开始创建自己的音乐博客吧！这是我的简介。](https://albms.net/@felix)
 -  07 [显示 Reddit：Biblos.app - 向量搜索《圣经》和教父评注](https://www.reddit.com/r/SideProject/comments/18d1c84/show_reddit_biblosapp_vector_search_the_bible/)
 -  07 [我做了一个社交媒体平台，用来分享被低估的视频游戏。](https://www.reddit.com/r/SideProject/comments/18d7kmu/i_made_a_social_media_platform_for_sharing/)
--  07 [我为人们提供了一个查找真实产品评论的途径。快来看看吧。](https://www.reddit.com/r/SideProject/comments/18d5x1y/i_made_a_way_for_people_to_find_honest_product/)
--  07 [帮助我们确定去中心化 P2P 聊天应用程序功能的优先级](https://www.reddit.com/r/SideProject/comments/18d1r9m/help_us_prioritize_features_for_our_decentralized/)
--  07 [帮助我们确定去中心化 P2P 聊天应用程序功能的优先级](https://www.reddit.com/r/SideProject/comments/18d1r81/help_us_prioritize_features_for_our_decentralized/)<!-- sideproject:END -->
+-  07 [我为人们提供了一个查找真实产品评论的途径。快来看看吧。](https://www.reddit.com/r/SideProject/comments/18d5x1y/i_made_a_way_for_people_to_find_honest_product/)<!-- sideproject:END -->
 
 
 ### 无忧分享
