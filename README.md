@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [相爱容易，相守难。我们开发了一款应用程序，帮助情侣们保持爱情。](https://www.reddit.com/r/SideProject/comments/18dt27a/it_is_easy_to_fall_in_love_staying_in_love_is_the/)
+-  08 [开发新的、更好的 omegle 替代品](https://www.reddit.com/r/SideProject/comments/18dsyag/working_on_a_new_and_better_omegle_alternative/)
 -  08 [Microvm 门户网站](https://www.reddit.com/r/SideProject/comments/18dqbng/the_portainer_of_microvm/)
 -  08 [我为开发人员创建了一个招聘网站，但我需要您的建议！](https://www.reddit.com/r/SideProject/comments/18doi4b/i_created_a_job_board_for_developers_but_i_need/)
 -  08 [写作城 🌟 语言日志](https://www.reddit.com/r/SideProject/comments/18dnux8/write_town_language_journal/)
@@ -23,9 +25,7 @@
 -  08 [HunchAssess已在产品猎头网站上线](https://www.reddit.com/r/SideProject/comments/18djgst/hunchassess_is_live_on_product_hunt/)
 -  08 [种子书](https://www.reddit.com/r/SideProject/comments/18cynga/seedbook/)
 -  08 [你喜欢色彩吗？](https://www.reddit.com/r/SideProject/comments/18diazp/do_you_love_colors/)
--  08 [想深入了解竞争对手并扩大影响力？](https://old.reddit.com/r/SideProject/comments/18de5rx/want_to_gain_insights_on_competitor_and_gain_reach/)
--  08 [分享您的网站，我就为您制作一个可分享的人工智能聊天机器人](https://www.reddit.com/r/SideProject/comments/18dbsle/share_your_website_and_ill_make_you_a_shareable/)
--  08 [我注意到，有些品牌会在你的脑海中留下深刻印象，而有些品牌则会逐渐消失。](https://www.reddit.com/r/SideProject/comments/18dag2k/ive_noticed_that_some_brands_just_click_in_your/)<!-- sideproject:END -->
+-  08 [想深入了解竞争对手并扩大影响力？](https://old.reddit.com/r/SideProject/comments/18de5rx/want_to_gain_insights_on_competitor_and_gain_reach/)<!-- sideproject:END -->
 
 
 ### 无忧分享
