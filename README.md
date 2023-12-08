@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [在这个阅读模板中，我总结了每个阶段积累的创业者的成功经验](https://old.reddit.com/r/SideProject/comments/18dx1i8/ive_summarized_the_successful_experiences_of/)
 -  08 [建立一个简单的、即插即用的气体记录仪。在发射前](https://www.reddit.com/r/SideProject/comments/18dvyib/building_a_simple_pointandshoot_gas_log_in/)
 -  08 [这里有一件至关重要的事情：照顾好自己。](https://www.reddit.com/r/SideProject/comments/18dvnj3/heres_something_crucial_taking_care_of_yourself/)
 -  08 [我在思考平衡的问题。我们如何在项目和生活中的其他事情之间取得平衡？](https://www.reddit.com/r/SideProject/comments/18dv1oh/im_thinking_about_balance_how_do_we_juggle_our/)
@@ -24,8 +25,7 @@
 -  08 [今天在 Product Hunt 上测试发布 Birdie！🚀](https://www.reddit.com/r/SideProject/comments/18dl01p/beta_launching_birdie_on_product_hunt_today/)
 -  08 [使用 Google 搜索词确定要构建的应用程序](https://www.reddit.com/r/SideProject/comments/18dkdlm/identify_apps_to_build_using_google_search_terms/)
 -  08 [我的副业是这个任务管理器](https://www.reddit.com/gallery/18djsdx)
--  08 [我制作了自己的编程语言，宝莱坞风格。快来看看吧！更多信息请见评论！](https://old.reddit.com/r/SideProject/comments/18djrao/made_my_own_programming_language_bollywood_style/)
--  08 [HunchAssess已在产品猎头网站上线](https://www.reddit.com/r/SideProject/comments/18djgst/hunchassess_is_live_on_product_hunt/)<!-- sideproject:END -->
+-  08 [我制作了自己的编程语言，宝莱坞风格。快来看看吧！更多信息请见评论！](https://old.reddit.com/r/SideProject/comments/18djrao/made_my_own_programming_language_bollywood_style/)<!-- sideproject:END -->
 
 
 ### 无忧分享
