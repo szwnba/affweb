@@ -75,6 +75,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [给还在下一根和最后一根之间挣扎的人：一位烟民的戒烟自述](https://sspai.com/post/84764)
 -  08 [三年后，我用「轻薄」重新认识 PS5](https://sspai.com/post/84916)
 -  08 [派早报：realme 发布真我 GT5 Pro 手机等](https://sspai.com/post/84918)
 -  07 [几分靠打拼、几分是注定？借统计学探寻收入的秘密](https://sspai.com/post/84836)
