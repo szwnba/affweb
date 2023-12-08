@@ -59,18 +59,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
+-  08 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  08 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
+-  08 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  08 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  08 [Proxy-IPv4.com - Private 4G/LTE, IPv4 and IPv6 proxies | From $0.36 per IP | 20+ locations ✅](https://afflift.com/f/threads/proxy-ipv4-com-private-4g-lte-ipv4-and-ipv6-proxies-from-0-36-per-ip-20-locations-%E2%9C%85.10228/)
 -  08 [Predict If Your Ad Headline Will Have a Good CTR BEFORE Launching Your Campaign](https://afflift.com/f/threads/predict-if-your-ad-headline-will-have-a-good-ctr-before-launching-your-campaign.12193/)
 -  08 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  08 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)
 -  08 [Building my asset. Go!](https://afflift.com/f/threads/building-my-asset-go.11736/)
--  08 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  08 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
--  08 [TUT RESISTANCE PAGE HIGH RETURN RATE](https://afflift.com/f/threads/tut-resistance-page-high-return-rate.12218/)
--  08 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
--  08 [Imagine with Meta AI &lpar;Facebook AI Image Generation&rpar;](https://afflift.com/f/threads/imagine-with-meta-ai-facebook-ai-image-generation.12217/)
--  08 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
--  08 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)<!-- afflift:END -->
+-  08 [TUT RESISTANCE PAGE HIGH RETURN RATE](https://afflift.com/f/threads/tut-resistance-page-high-return-rate.12218/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
