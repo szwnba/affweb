@@ -59,6 +59,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  08 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
 -  08 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
 -  08 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
@@ -69,8 +70,7 @@
 -  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  08 [#ADSTERRAx2 Path 2 - ADSTERRA traffic source is reliable and affordable.](https://afflift.com/f/threads/adsterrax2-path-2-adsterra-traffic-source-is-reliable-and-affordable.11986/)
 -  08 [What is the most simple yet effective prelander you have ever seen ?](https://afflift.com/f/threads/what-is-the-most-simple-yet-effective-prelander-you-have-ever-seen.12210/)
--  08 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)
--  08 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)<!-- afflift:END -->
+-  08 [Renew Adsterra earlier love❤,#ADSTERRAx2](https://afflift.com/f/threads/renew-adsterra-earlier-love%E2%9D%A4-adsterrax2.11950/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
