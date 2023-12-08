@@ -59,12 +59,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  07 [What should be keep in mind to run cpa offers as beginner?](https://afflift.com/f/threads/what-should-be-keep-in-mind-to-run-cpa-offers-as-beginner.12112/)
 -  07 [Imagine with Meta AI &lpar;Facebook AI Image Generation&rpar;](https://afflift.com/f/threads/imagine-with-meta-ai-facebook-ai-image-generation.12217/)
 -  07 [“Africa has LATAM problems multiplied by three”: an interview with Ivan, the owner of the PLASH team](https://afflift.com/f/threads/%E2%80%9Cafrica-has-latam-problems-multiplied-by-three%E2%80%9D-an-interview-with-ivan-the-owner-of-the-plash-team.12215/)
 -  07 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
 -  07 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
--  07 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  07 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
 -  07 [Hello from Germany](https://afflift.com/f/threads/hello-from-germany.12091/)
 -  07 [Hello word ..I am Zack .](https://afflift.com/f/threads/hello-word-i-am-zack.12164/)
