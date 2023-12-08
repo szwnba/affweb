@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [HunchAssess已在产品猎头网站上线](https://www.reddit.com/r/SideProject/comments/18djgst/hunchassess_is_live_on_product_hunt/)
+-  08 [种子书](https://www.reddit.com/r/SideProject/comments/18cynga/seedbook/)
 -  08 [你喜欢色彩吗？](https://www.reddit.com/r/SideProject/comments/18diazp/do_you_love_colors/)
 -  08 [想深入了解竞争对手并扩大影响力？](https://old.reddit.com/r/SideProject/comments/18de5rx/want_to_gain_insights_on_competitor_and_gain_reach/)
 -  08 [分享您的网站，我就为您制作一个可分享的人工智能聊天机器人](https://www.reddit.com/r/SideProject/comments/18dbsle/share_your_website_and_ill_make_you_a_shareable/)
@@ -23,9 +25,7 @@
 -  07 [副业项目的终极回报：用户反馈验证你的努力](https://www.reddit.com/r/SideProject/comments/18cvwn9/the_ultimate_reward_of_side_projects_user/)
 -  07 [我在社交媒体上模仿游戏玩家，使用了幽默、游戏陈词滥调以及更多原创内容](https://www.reddit.com/r/SideProject/comments/18cv0br/i_made_a_social_media_parody_for_gamers_using/)
 -  07 [寻求有关 shopify 应用程序的帮助](https://www.reddit.com/r/SideProject/comments/18cupna/looking_for_help_on_shopify_app/)
--  07 [大学假期挑战](https://www.reddit.com/r/SideProject/comments/18cu4ol/uni_break_challenge/)
--  07 [我刚刚推出了一个按需定制的旅游目的地语音指南](https://www.reddit.com/r/SideProject/comments/18ctsgg/i_just_launched_an_ondemand_audio_guide_for/)
--  07 [经过许多副项目之后，终于决定推出一个项目！](https://www.producthunt.com/posts/qassist)<!-- sideproject:END -->
+-  07 [大学假期挑战](https://www.reddit.com/r/SideProject/comments/18cu4ol/uni_break_challenge/)<!-- sideproject:END -->
 
 
 ### 无忧分享
