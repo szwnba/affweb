@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [使用 Google 搜索词确定要构建的应用程序](https://www.reddit.com/r/SideProject/comments/18dkdlm/identify_apps_to_build_using_google_search_terms/)
+-  08 [我的副业是这个任务管理器](https://www.reddit.com/gallery/18djsdx)
+-  08 [我制作了自己的编程语言，宝莱坞风格。快来看看吧！更多信息请见评论！](https://old.reddit.com/r/SideProject/comments/18djrao/made_my_own_programming_language_bollywood_style/)
 -  08 [HunchAssess已在产品猎头网站上线](https://www.reddit.com/r/SideProject/comments/18djgst/hunchassess_is_live_on_product_hunt/)
 -  08 [种子书](https://www.reddit.com/r/SideProject/comments/18cynga/seedbook/)
 -  08 [你喜欢色彩吗？](https://www.reddit.com/r/SideProject/comments/18diazp/do_you_love_colors/)
@@ -22,10 +25,7 @@
 -  07 [线球 - 小型安卓连线游戏](https://www.reddit.com/r/SideProject/comments/18d1efv/lineball_small_android_connect_the_dots_game/)
 -  07 [这里有人尝试过 TikTok 营销吗？](https://www.reddit.com/r/SideProject/comments/18cy8qn/did_anyone_here_try_tiktok_marketing/)
 -  07 [建立了一个工具，可与您的分析师聊天并直接获取见解](https://twitter.com/AdriaanvRossum/status/1732389553950867808)
--  07 [副业项目的终极回报：用户反馈验证你的努力](https://www.reddit.com/r/SideProject/comments/18cvwn9/the_ultimate_reward_of_side_projects_user/)
--  07 [我在社交媒体上模仿游戏玩家，使用了幽默、游戏陈词滥调以及更多原创内容](https://www.reddit.com/r/SideProject/comments/18cv0br/i_made_a_social_media_parody_for_gamers_using/)
--  07 [寻求有关 shopify 应用程序的帮助](https://www.reddit.com/r/SideProject/comments/18cupna/looking_for_help_on_shopify_app/)
--  07 [大学假期挑战](https://www.reddit.com/r/SideProject/comments/18cu4ol/uni_break_challenge/)<!-- sideproject:END -->
+-  07 [副业项目的终极回报：用户反馈验证你的努力](https://www.reddit.com/r/SideProject/comments/18cvwn9/the_ultimate_reward_of_side_projects_user/)<!-- sideproject:END -->
 
 
 ### 无忧分享
