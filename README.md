@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  08 [建立一个简单的、即插即用的气体记录仪。在发射前](https://www.reddit.com/r/SideProject/comments/18dvyib/building_a_simple_pointandshoot_gas_log_in/)
+-  08 [这里有一件至关重要的事情：照顾好自己。](https://www.reddit.com/r/SideProject/comments/18dvnj3/heres_something_crucial_taking_care_of_yourself/)
 -  08 [我在思考平衡的问题。我们如何在项目和生活中的其他事情之间取得平衡？](https://www.reddit.com/r/SideProject/comments/18dv1oh/im_thinking_about_balance_how_do_we_juggle_our/)
 -  08 [相爱容易，相守难。我们开发了一款应用程序，帮助情侣们保持爱情。](https://www.reddit.com/r/SideProject/comments/18dt27a/it_is_easy_to_fall_in_love_staying_in_love_is_the/)
 -  08 [开发新的、更好的 omegle 替代品](https://www.reddit.com/r/SideProject/comments/18dsyag/working_on_a_new_and_better_omegle_alternative/)
@@ -23,9 +25,7 @@
 -  08 [使用 Google 搜索词确定要构建的应用程序](https://www.reddit.com/r/SideProject/comments/18dkdlm/identify_apps_to_build_using_google_search_terms/)
 -  08 [我的副业是这个任务管理器](https://www.reddit.com/gallery/18djsdx)
 -  08 [我制作了自己的编程语言，宝莱坞风格。快来看看吧！更多信息请见评论！](https://old.reddit.com/r/SideProject/comments/18djrao/made_my_own_programming_language_bollywood_style/)
--  08 [HunchAssess已在产品猎头网站上线](https://www.reddit.com/r/SideProject/comments/18djgst/hunchassess_is_live_on_product_hunt/)
--  08 [种子书](https://www.reddit.com/r/SideProject/comments/18cynga/seedbook/)
--  08 [你喜欢色彩吗？](https://www.reddit.com/r/SideProject/comments/18diazp/do_you_love_colors/)<!-- sideproject:END -->
+-  08 [HunchAssess已在产品猎头网站上线](https://www.reddit.com/r/SideProject/comments/18djgst/hunchassess_is_live_on_product_hunt/)<!-- sideproject:END -->
 
 
 ### 无忧分享
