@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  09 [检测歌曲和观看同步音乐视频的应用程序](https://www.reddit.com/r/SideProject/comments/18eijsw/app_to_detect_songs_and_watch_synchronized_music/)
 -  09 [didsomeoneclone.me--检测和减少网站克隆的工具--的最新进展](https://www.reddit.com/r/SideProject/comments/18eguuj/update_on_didsomeonecloneme_a_tool_to_detect_and/)
 -  09 [如何终身自动赚取佣金](https://olspsystem.com/join/448853)
 -  09 [诺瓦克-德约科维奇终极等级表](https://youtu.be/eTFZDUKjQnU?si=NCnLbwyfoeDcOdmx)
@@ -24,8 +25,7 @@
 -  09 [咖啡和产品反馈。](https://www.instagram.com/p/C0fd9uSpLSJ/?igshid=MzRlODBiNWFlZA%3D%3D)
 -  09 [大通趋势：帮你找到每天的热门内容。](https://www.reddit.com/r/SideProject/comments/18e359l/chase_trends_help_you_find_the_trending_content/)
 -  09 [YouTube 文本音乐播放列表生成器](https://playlists.at/youtube/generate/)
--  08 [在这个阅读模板中，我总结了每个阶段积累的创业者的成功经验](https://old.reddit.com/r/SideProject/comments/18dx1i8/ive_summarized_the_successful_experiences_of/)
--  08 [建立一个简单的、即插即用的气体记录仪。在发射前](https://www.reddit.com/r/SideProject/comments/18dvyib/building_a_simple_pointandshoot_gas_log_in/)<!-- sideproject:END -->
+-  08 [在这个阅读模板中，我总结了每个阶段积累的创业者的成功经验](https://old.reddit.com/r/SideProject/comments/18dx1i8/ive_summarized_the_successful_experiences_of/)<!-- sideproject:END -->
 
 
 ### 无忧分享
