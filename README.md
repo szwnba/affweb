@@ -44,9 +44,9 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  09 [请问停放平台都有哪些](https://www.advertcn.com/thread-113244-1-1.html)
 -  08 [AI 比较火 感觉 可以开个 AI板块](https://www.advertcn.com/thread-113237-1-1.html)
--  08 [强强合作 | Yahoo流量已100%接入Taboola！](https://www.advertcn.com/thread-113234-1-1.html)
--  08 [12个亲测有用的SEO chatGPT命令](https://www.advertcn.com/thread-113226-1-1.html)<!-- advertcn3:END -->
+-  08 [强强合作 | Yahoo流量已100%接入Taboola！](https://www.advertcn.com/thread-113234-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
