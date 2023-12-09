@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  09 [这是一款基于循环的网络音乐制作工具，可让您使用连接的 MIDI 设备塑造声音并进行即兴演奏。它也是开源的，链接在视频描述中。](https://www.youtube.com/watch?v=ONkM159dy3M)
+-  09 [烤我的副业副本](https://www.reddit.com/r/SideProject/comments/18edy19/roast_my_side_project_copy/)
+-  09 [独自创业的科技公司创始人应该从第一天起就投入市场营销。](https://www.reddit.com/r/SideProject/comments/18ed8nl/tech_founders_going_alone_should_jump_into/)
 -  09 [今天推出了我的演示版 Catfishes](https://www.reddit.com/r/SideProject/comments/18ebgtm/launched_my_demo_catfishes_today/)
 -  09 [GlobalThreat, Inc. - 由人工智能驱动的实时全球威胁评估](https://globalthreat.info/)
 -  09 [我的应用程序变成了色情应用程序](https://www.reddit.com/r/SideProject/comments/18e9tgy/my_app_turned_into_a_porn_app/)
@@ -22,10 +25,7 @@
 -  08 [我在思考平衡的问题。我们如何在项目和生活中的其他事情之间取得平衡？](https://www.reddit.com/r/SideProject/comments/18dv1oh/im_thinking_about_balance_how_do_we_juggle_our/)
 -  08 [相爱容易，相守难。我们开发了一款应用程序，帮助情侣们保持爱情。](https://www.reddit.com/r/SideProject/comments/18dt27a/it_is_easy_to_fall_in_love_staying_in_love_is_the/)
 -  08 [开发新的、更好的 omegle 替代品](https://www.reddit.com/r/SideProject/comments/18dsyag/working_on_a_new_and_better_omegle_alternative/)
--  08 [Microvm 门户网站](https://www.reddit.com/r/SideProject/comments/18dqbng/the_portainer_of_microvm/)
--  08 [我为开发人员创建了一个招聘网站，但我需要您的建议！](https://www.reddit.com/r/SideProject/comments/18doi4b/i_created_a_job_board_for_developers_but_i_need/)
--  08 [写作城 🌟 语言日志](https://www.reddit.com/r/SideProject/comments/18dnux8/write_town_language_journal/)
--  08 [我制作了一个快速创建旋转木马的应用程序](https://supercarousels.com/)<!-- sideproject:END -->
+-  08 [Microvm 门户网站](https://www.reddit.com/r/SideProject/comments/18dqbng/the_portainer_of_microvm/)<!-- sideproject:END -->
 
 
 ### 无忧分享
