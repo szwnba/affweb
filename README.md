@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  09 [如何终身自动赚取佣金](https://olspsystem.com/join/448853)
+-  09 [诺瓦克-德约科维奇终极等级表](https://youtu.be/eTFZDUKjQnU?si=NCnLbwyfoeDcOdmx)
+-  09 [建造工艺块](https://old.reddit.com/r/tailwindcss/comments/18dkgso/launching_craftedblock/)
+-  09 [要诚实。](https://www.reddit.com/r/SideProject/comments/18eekex/be_honest/)
 -  09 [这是一款基于循环的网络音乐制作工具，可让您使用连接的 MIDI 设备塑造声音并进行即兴演奏。它也是开源的，链接在视频描述中。](https://www.youtube.com/watch?v=ONkM159dy3M)
 -  09 [烤我的副业副本](https://www.reddit.com/r/SideProject/comments/18edy19/roast_my_side_project_copy/)
 -  09 [独自创业的科技公司创始人应该从第一天起就投入市场营销。](https://www.reddit.com/r/SideProject/comments/18ed8nl/tech_founders_going_alone_should_jump_into/)
@@ -21,11 +25,7 @@
 -  09 [YouTube 文本音乐播放列表生成器](https://playlists.at/youtube/generate/)
 -  08 [在这个阅读模板中，我总结了每个阶段积累的创业者的成功经验](https://old.reddit.com/r/SideProject/comments/18dx1i8/ive_summarized_the_successful_experiences_of/)
 -  08 [建立一个简单的、即插即用的气体记录仪。在发射前](https://www.reddit.com/r/SideProject/comments/18dvyib/building_a_simple_pointandshoot_gas_log_in/)
--  08 [这里有一件至关重要的事情：照顾好自己。](https://www.reddit.com/r/SideProject/comments/18dvnj3/heres_something_crucial_taking_care_of_yourself/)
--  08 [我在思考平衡的问题。我们如何在项目和生活中的其他事情之间取得平衡？](https://www.reddit.com/r/SideProject/comments/18dv1oh/im_thinking_about_balance_how_do_we_juggle_our/)
--  08 [相爱容易，相守难。我们开发了一款应用程序，帮助情侣们保持爱情。](https://www.reddit.com/r/SideProject/comments/18dt27a/it_is_easy_to_fall_in_love_staying_in_love_is_the/)
--  08 [开发新的、更好的 omegle 替代品](https://www.reddit.com/r/SideProject/comments/18dsyag/working_on_a_new_and_better_omegle_alternative/)
--  08 [Microvm 门户网站](https://www.reddit.com/r/SideProject/comments/18dqbng/the_portainer_of_microvm/)<!-- sideproject:END -->
+-  08 [这里有一件至关重要的事情：照顾好自己。](https://www.reddit.com/r/SideProject/comments/18dvnj3/heres_something_crucial_taking_care_of_yourself/)<!-- sideproject:END -->
 
 
 ### 无忧分享
