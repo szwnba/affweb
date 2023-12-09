@@ -75,5 +75,4 @@
 -  08 [2023 年末，再谈 Safari 竞争力现状](https://sspai.com/prime/story/safari-competitiveness-late-2023)
 -  08 [本周看什么 | 最近值得一看的一大窝作品](https://sspai.com/post/84930)
 -  08 [播客 | 对话白描开发者 Tolecen：一个千万级独立 App 的诞生](https://sspai.com/post/84838)
--  08 [给还在下一根和最后一根之间挣扎的人：一位烟民的戒烟自述](https://sspai.com/post/84764)
--  08 [三年后，我用「轻薄」重新认识 PS5](https://sspai.com/post/84916)<!-- sspai:END -->
+-  08 [给还在下一根和最后一根之间挣扎的人：一位烟民的戒烟自述](https://sspai.com/post/84764)<!-- sspai:END -->
