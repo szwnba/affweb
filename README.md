@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  09 [厌倦了盯着空白屏幕？- 向 PromptWizard 问好](https://www.reddit.com/r/SideProject/comments/18empvt/tired_of_staring_at_a_blank_screen_say_hi_to/)
+-  09 [我的域名失效了，不得不转到 .net，但我的副项目 NFLArrest.net 又上线了](http://nflarrest.net/)
+-  09 [定价页面刚刚上线运行......嗯，在本地主机上 🙃 您觉得如何？](https://old.reddit.com/r/SideProject/comments/18em8fe/just_got_the_pricing_page_up_and_running_well_in/)
+-  09 [我建造了我的新副业](https://old.reddit.com/r/SideProject/comments/18elyx1/i_built_my_new_side_project/)
 -  09 [Kanri v0.6 版本 - 自定义卡片颜色和丰富的文本卡片描述](https://www.kanriapp.com/v06-launch)
 -  09 [检测歌曲和观看同步音乐视频的应用程序](https://www.reddit.com/r/SideProject/comments/18eijsw/app_to_detect_songs_and_watch_synchronized_music/)
 -  09 [didsomeoneclone.me--检测和减少网站克隆的工具--的最新进展](https://www.reddit.com/r/SideProject/comments/18eguuj/update_on_didsomeonecloneme_a_tool_to_detect_and/)
@@ -21,11 +25,7 @@
 -  09 [我的应用程序变成了色情应用程序](https://www.reddit.com/r/SideProject/comments/18e9tgy/my_app_turned_into_a_porn_app/)
 -  09 [从 Uber 到 Osenorth：我创建以客户为中心的创意公司的历程，现在为创业者和独立黑客提供增强网络的能力](https://www.reddit.com/r/SideProject/comments/18e8kpx/from_uber_to_osenorth_my_journey_to_a/)
 -  09 [MIWA：回合制动作冒险游戏](https://www.reddit.com/r/SideProject/comments/18e4dso/miwa_turnbased_actionadventure_game/)
--  09 [加入 &quot;模板潮流&quot;，为 Chrome 扩展程序添加我的模板](https://www.reddit.com/r/SideProject/comments/18e5sx9/joining_the_boilerplate_trend_and_adding_mine_for/)
--  09 [我的副业收入](https://old.reddit.com/r/SideProject/comments/18e5q78/my_side_project_revenue/)
--  09 [咖啡和产品反馈。](https://www.instagram.com/p/C0fd9uSpLSJ/?igshid=MzRlODBiNWFlZA%3D%3D)
--  09 [大通趋势：帮你找到每天的热门内容。](https://www.reddit.com/r/SideProject/comments/18e359l/chase_trends_help_you_find_the_trending_content/)
--  09 [YouTube 文本音乐播放列表生成器](https://playlists.at/youtube/generate/)<!-- sideproject:END -->
+-  09 [加入 &quot;模板潮流&quot;，为 Chrome 扩展程序添加我的模板](https://www.reddit.com/r/SideProject/comments/18e5sx9/joining_the_boilerplate_trend_and_adding_mine_for/)<!-- sideproject:END -->
 
 
 ### 无忧分享
