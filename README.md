@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  09 [今天推出了我的演示版 Catfishes](https://www.reddit.com/r/SideProject/comments/18ebgtm/launched_my_demo_catfishes_today/)
 -  09 [GlobalThreat, Inc. - 由人工智能驱动的实时全球威胁评估](https://globalthreat.info/)
 -  09 [我的应用程序变成了色情应用程序](https://www.reddit.com/r/SideProject/comments/18e9tgy/my_app_turned_into_a_porn_app/)
 -  09 [从 Uber 到 Osenorth：我创建以客户为中心的创意公司的历程，现在为创业者和独立黑客提供增强网络的能力](https://www.reddit.com/r/SideProject/comments/18e8kpx/from_uber_to_osenorth_my_journey_to_a/)
@@ -24,8 +25,7 @@
 -  08 [Microvm 门户网站](https://www.reddit.com/r/SideProject/comments/18dqbng/the_portainer_of_microvm/)
 -  08 [我为开发人员创建了一个招聘网站，但我需要您的建议！](https://www.reddit.com/r/SideProject/comments/18doi4b/i_created_a_job_board_for_developers_but_i_need/)
 -  08 [写作城 🌟 语言日志](https://www.reddit.com/r/SideProject/comments/18dnux8/write_town_language_journal/)
--  08 [我制作了一个快速创建旋转木马的应用程序](https://supercarousels.com/)
--  08 [3 周内从 SaaS 模板的 0 美元到 800 美元以上](https://www.reddit.com/r/SideProject/comments/18dnoza/0_to_800_in_3_weeks_from_a_saas_boilerplate/)<!-- sideproject:END -->
+-  08 [我制作了一个快速创建旋转木马的应用程序](https://supercarousels.com/)<!-- sideproject:END -->
 
 
 ### 无忧分享
