@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  09 [咖啡和产品反馈。](https://www.instagram.com/p/C0fd9uSpLSJ/?igshid=MzRlODBiNWFlZA%3D%3D)
 -  09 [大通趋势：帮你找到每天的热门内容。](https://www.reddit.com/r/SideProject/comments/18e359l/chase_trends_help_you_find_the_trending_content/)
 -  09 [YouTube 文本音乐播放列表生成器](https://playlists.at/youtube/generate/)
 -  08 [在这个阅读模板中，我总结了每个阶段积累的创业者的成功经验](https://old.reddit.com/r/SideProject/comments/18dx1i8/ive_summarized_the_successful_experiences_of/)
@@ -24,8 +25,7 @@
 -  08 [🍅 Pomotastic - 大更新](https://www.reddit.com/r/SideProject/comments/18dlwrp/pomotastic_big_update/)
 -  08 [联网问题](https://www.reddit.com/r/SideProject/comments/18dlok1/networking_issues/)
 -  08 [五次失败后，我终于创办了自己的初创公司：寻求持续成功的指导](https://www.reddit.com/r/SideProject/comments/18dl48z/after_5_failed_attempts_i_finally_launched_my/)
--  08 [今天在 Product Hunt 上测试发布 Birdie！🚀](https://www.reddit.com/r/SideProject/comments/18dl01p/beta_launching_birdie_on_product_hunt_today/)
--  08 [使用 Google 搜索词确定要构建的应用程序](https://www.reddit.com/r/SideProject/comments/18dkdlm/identify_apps_to_build_using_google_search_terms/)<!-- sideproject:END -->
+-  08 [今天在 Product Hunt 上测试发布 Birdie！🚀](https://www.reddit.com/r/SideProject/comments/18dl01p/beta_launching_birdie_on_product_hunt_today/)<!-- sideproject:END -->
 
 
 ### 无忧分享
