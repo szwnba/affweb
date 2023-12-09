@@ -57,8 +57,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  09 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
+-  09 [How do you structure your flow on POP/Push?](https://afflift.com/f/threads/how-do-you-structure-your-flow-on-pop-push.12226/)
 -  09 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  09 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
 -  09 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  09 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)
 -  09 [Voluum PHP LP Protect issue](https://afflift.com/f/threads/voluum-php-lp-protect-issue.12223/)
@@ -67,7 +68,6 @@
 -  09 [Anyone ever seen a ROAS like this on FB?](https://afflift.com/f/threads/anyone-ever-seen-a-roas-like-this-on-fb.12224/)
 -  09 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  09 [LanderLab 2.0 Review](https://afflift.com/f/threads/landerlab-2-0-review.11405/)
--  09 [How do you structure your flow on POP/Push?](https://afflift.com/f/threads/how-do-you-structure-your-flow-on-pop-push.12226/)
 -  09 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)<!-- afflift:END -->
 
 ### 少数派
