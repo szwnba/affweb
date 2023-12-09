@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  09 [为生活在国外的孤独者推出了我的社交媒体网站！](https://www.reddit.com/r/SideProject/comments/18enrv2/launched_my_social_media_website_for_lonely/)
+-  09 [我 15 岁时就为开发人员和团队开发了一个工具 🚀](https://www.reddit.com/r/SideProject/comments/18en5oo/i_built_a_tool_for_devs_teams_at_15yo/)
 -  09 [厌倦了盯着空白屏幕？- 向 PromptWizard 问好](https://www.reddit.com/r/SideProject/comments/18empvt/tired_of_staring_at_a_blank_screen_say_hi_to/)
 -  09 [我的域名失效了，不得不转到 .net，但我的副项目 NFLArrest.net 又上线了](http://nflarrest.net/)
 -  09 [定价页面刚刚上线运行......嗯，在本地主机上 🙃 您觉得如何？](https://old.reddit.com/r/SideProject/comments/18em8fe/just_got_the_pricing_page_up_and_running_well_in/)
@@ -23,9 +25,7 @@
 -  09 [今天推出了我的演示版 Catfishes](https://www.reddit.com/r/SideProject/comments/18ebgtm/launched_my_demo_catfishes_today/)
 -  09 [GlobalThreat, Inc. - 由人工智能驱动的实时全球威胁评估](https://globalthreat.info/)
 -  09 [我的应用程序变成了色情应用程序](https://www.reddit.com/r/SideProject/comments/18e9tgy/my_app_turned_into_a_porn_app/)
--  09 [从 Uber 到 Osenorth：我创建以客户为中心的创意公司的历程，现在为创业者和独立黑客提供增强网络的能力](https://www.reddit.com/r/SideProject/comments/18e8kpx/from_uber_to_osenorth_my_journey_to_a/)
--  09 [MIWA：回合制动作冒险游戏](https://www.reddit.com/r/SideProject/comments/18e4dso/miwa_turnbased_actionadventure_game/)
--  09 [加入 &quot;模板潮流&quot;，为 Chrome 扩展程序添加我的模板](https://www.reddit.com/r/SideProject/comments/18e5sx9/joining_the_boilerplate_trend_and_adding_mine_for/)<!-- sideproject:END -->
+-  09 [从 Uber 到 Osenorth：我创建以客户为中心的创意公司的历程，现在为创业者和独立黑客提供增强网络的能力](https://www.reddit.com/r/SideProject/comments/18e8kpx/from_uber_to_osenorth_my_journey_to_a/)<!-- sideproject:END -->
 
 
 ### 无忧分享
