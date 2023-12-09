@@ -74,5 +74,4 @@
 -  09 [App+1 | AeroSpace：消除窗口重叠，世界属于平铺](https://sspai.com/post/84935)
 -  09 [技术是条不息的河流，而 ChatGPT 将会如何影响编程？](https://sspai.com/post/84803)
 -  08 [2023 年末，再谈 Safari 竞争力现状](https://sspai.com/prime/story/safari-competitiveness-late-2023)
--  08 [本周看什么 | 最近值得一看的一大窝作品](https://sspai.com/post/84930)
--  08 [播客 | 对话白描开发者 Tolecen：一个千万级独立 App 的诞生](https://sspai.com/post/84838)<!-- sspai:END -->
+-  08 [本周看什么 | 最近值得一看的一大窝作品](https://sspai.com/post/84930)<!-- sspai:END -->
