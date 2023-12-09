@@ -73,5 +73,4 @@
 <!-- sspai:START -->
 -  09 [少数派的年终好价节：除了优惠满赠还有周边新品](https://sspai.com/post/84926)
 -  09 [App+1 | AeroSpace：消除窗口重叠，世界属于平铺](https://sspai.com/post/84935)
--  09 [技术是条不息的河流，而 ChatGPT 将会如何影响编程？](https://sspai.com/post/84803)
--  08 [2023 年末，再谈 Safari 竞争力现状](https://sspai.com/prime/story/safari-competitiveness-late-2023)<!-- sspai:END -->
+-  09 [技术是条不息的河流，而 ChatGPT 将会如何影响编程？](https://sspai.com/post/84803)<!-- sspai:END -->
