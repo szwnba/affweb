@@ -59,8 +59,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  08 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
+-  08 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  08 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
 -  08 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
 -  08 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
