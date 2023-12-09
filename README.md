@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  09 [从 Uber 到 Osenorth：我创建以客户为中心的创意公司的历程，现在为创业者和独立黑客提供增强网络的能力](https://www.reddit.com/r/SideProject/comments/18e8kpx/from_uber_to_osenorth_my_journey_to_a/)
 -  09 [MIWA：回合制动作冒险游戏](https://www.reddit.com/r/SideProject/comments/18e4dso/miwa_turnbased_actionadventure_game/)
 -  09 [加入 &quot;模板潮流&quot;，为 Chrome 扩展程序添加我的模板](https://www.reddit.com/r/SideProject/comments/18e5sx9/joining_the_boilerplate_trend_and_adding_mine_for/)
 -  09 [我的副业收入](https://old.reddit.com/r/SideProject/comments/18e5q78/my_side_project_revenue/)
@@ -24,8 +25,7 @@
 -  08 [我制作了一个快速创建旋转木马的应用程序](https://supercarousels.com/)
 -  08 [3 周内从 SaaS 模板的 0 美元到 800 美元以上](https://www.reddit.com/r/SideProject/comments/18dnoza/0_to_800_in_3_weeks_from_a_saas_boilerplate/)
 -  08 [如何帮助您获得反馈并验证您的想法？](https://www.reddit.com/r/SideProject/comments/18dmseb/how_can_i_help_you_get_feedback_and_validate_your/)
--  08 [正在开发这个聊天机器人](https://www.reddit.com/r/SideProject/comments/18dmo57/working_on_this_chatbot/)
--  08 [🍅 Pomotastic - 大更新](https://www.reddit.com/r/SideProject/comments/18dlwrp/pomotastic_big_update/)<!-- sideproject:END -->
+-  08 [正在开发这个聊天机器人](https://www.reddit.com/r/SideProject/comments/18dmo57/working_on_this_chatbot/)<!-- sideproject:END -->
 
 
 ### 无忧分享
