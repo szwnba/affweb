@@ -34,6 +34,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  09 [新人报道](https://www.advertcn.com/thread-113248-1-1.html)
 -  08 [8万项目，倪某某最新韭菜项目免费公开!!!](https://www.advertcn.com/thread-113241-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
