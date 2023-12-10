@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [写下你最喜欢的副业？](https://www.reddit.com/r/SideProject/comments/18ewqpj/write_your_favourite_side_project/)
 -  10 [使用 WEBRTC 连接同一 VPC 内的不同服务器是否仍需要 TURN？](https://www.reddit.com/r/SideProject/comments/18evwa3/do_i_still_need_turn_to_connect_different_servers/)
 -  10 [最新的副业项目刚刚启动，这是一款基于人工智能的图像/视频标题生成器！](https://www.reddit.com/r/SideProject/comments/18eqrr2/just_launched_by_latest_side_project_an_ai_based/)
 -  10 [保持势头：](https://www.reddit.com/r/SideProject/comments/18epqb5/keeping_the_momentum_going/)
@@ -24,8 +25,7 @@
 -  09 [诺瓦克-德约科维奇终极等级表](https://youtu.be/eTFZDUKjQnU?si=NCnLbwyfoeDcOdmx)
 -  09 [建造工艺块](https://old.reddit.com/r/tailwindcss/comments/18dkgso/launching_craftedblock/)
 -  09 [要诚实。](https://www.reddit.com/r/SideProject/comments/18eekex/be_honest/)
--  09 [这是一款基于循环的网络音乐制作工具，可让您使用连接的 MIDI 设备塑造声音并进行即兴演奏。它也是开源的，链接在视频描述中。](https://www.youtube.com/watch?v=ONkM159dy3M)
--  09 [烤我的副业副本](https://www.reddit.com/r/SideProject/comments/18edy19/roast_my_side_project_copy/)<!-- sideproject:END -->
+-  09 [这是一款基于循环的网络音乐制作工具，可让您使用连接的 MIDI 设备塑造声音并进行即兴演奏。它也是开源的，链接在视频描述中。](https://www.youtube.com/watch?v=ONkM159dy3M)<!-- sideproject:END -->
 
 
 ### 无忧分享
