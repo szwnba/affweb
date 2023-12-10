@@ -57,12 +57,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
+-  10 [How do you structure your flow on POP/Push?](https://afflift.com/f/threads/how-do-you-structure-your-flow-on-pop-push.12226/)
 -  10 [Anyone ever seen a ROAS like this on FB?](https://afflift.com/f/threads/anyone-ever-seen-a-roas-like-this-on-fb.12224/)
 -  10 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  10 [Voluum PHP LP Protect issue](https://afflift.com/f/threads/voluum-php-lp-protect-issue.12223/)
--  09 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
 -  09 [Difference between Source id and Click id](https://afflift.com/f/threads/difference-between-source-id-and-click-id.12229/)
--  09 [How do you structure your flow on POP/Push?](https://afflift.com/f/threads/how-do-you-structure-your-flow-on-pop-push.12226/)
 -  09 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  09 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
 -  09 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
