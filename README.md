@@ -56,6 +56,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
 -  10 [Is there anyone who is making a constant profit from the Zeydoo + Adsterra CPA network?](https://afflift.com/f/threads/is-there-anyone-who-is-making-a-constant-profit-from-the-zeydoo-adsterra-cpa-network.12230/)
 -  10 [What type of offers are easier to run as beginners?](https://afflift.com/f/threads/what-type-of-offers-are-easier-to-run-as-beginners.12232/)
 -  10 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
@@ -66,8 +67,7 @@
 -  10 [Revolution Force is not Paid,Everyone should take care of this...](https://afflift.com/f/threads/revolution-force-is-not-paid-everyone-should-take-care-of-this.12184/)
 -  10 [Voluum PHP LP Protect issue](https://afflift.com/f/threads/voluum-php-lp-protect-issue.12223/)
 -  10 [📣Online Casino Is Looking For Traffic](https://afflift.com/f/threads/%F0%9F%93%A3online-casino-is-looking-for-traffic.12212/)
--  10 [Affiliate World Conferences Bundle &lpar;$999 for all 3 conferences in 2024&rpar;](https://afflift.com/f/threads/affiliate-world-conferences-bundle-999-for-all-3-conferences-in-2024.12221/)
--  10 [Difference between Source id and Click id](https://afflift.com/f/threads/difference-between-source-id-and-click-id.12229/)<!-- afflift:END -->
+-  10 [Affiliate World Conferences Bundle &lpar;$999 for all 3 conferences in 2024&rpar;](https://afflift.com/f/threads/affiliate-world-conferences-bundle-999-for-all-3-conferences-in-2024.12221/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
