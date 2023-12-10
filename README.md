@@ -72,5 +72,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  09 [少数派的年终好价节：除了优惠满赠还有周边新品](https://sspai.com/post/84926)
--  09 [App+1 | AeroSpace：消除窗口重叠，世界属于平铺](https://sspai.com/post/84935)<!-- sspai:END -->
+-  09 [少数派的年终好价节：除了优惠满赠还有周边新品](https://sspai.com/post/84926)<!-- sspai:END -->
