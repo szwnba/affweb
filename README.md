@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [推出我的第一个网络应用--MyYogaFlow（在线瑜伽教练）](https://www.reddit.com/r/SideProject/comments/18f5ta8/launched_my_first_web_app_myyogaflow_online_yoga/)
+-  10 [为 Twitter Analytics 创建 Spotify Wrapped Showcase](https://www.reddit.com/r/SideProject/comments/18f7bf4/created_a_spotify_wrapped_showcase_for_twitter/)
 -  10 [我创建了一个数字旅行日记。](https://www.reddit.com/r/SideProject/comments/18f3g9r/i_have_created_a_digital_travel_diary/)
 -  10 [关于 Typosquatting Domains 的小型企业](https://www.reddit.com/r/SideProject/comments/18f3d1w/small_business_on_typosquatting_domains/)
 -  10 [我们开发了一款运动健身追踪应用程序，让您的锻炼不再作弊](https://www.reddit.com/r/SideProject/comments/18f2wdg/we_build_a_motion_fitness_tracking_app_so_you/)
@@ -23,9 +25,7 @@
 -  10 [您是否想过，为什么有些品牌会永远备受瞩目，而另一些品牌却逐渐默默无闻？](https://www.reddit.com/r/SideProject/comments/18exbvh/ever_wondered_how_some_brands_stay_in_the/)
 -  10 [使用（Twilio、AssemblyAI、OpenAI、Whisper）的麦当劳电话助理](https://www.reddit.com/r/SideProject/comments/18ex2y7/mcdonalds_phone_assistant_with_twilio_assemblyai/)
 -  10 [写下你最喜欢的副业？](https://www.reddit.com/r/SideProject/comments/18ewqpj/write_your_favourite_side_project/)
--  10 [使用 WEBRTC 连接同一 VPC 内的不同服务器是否仍需要 TURN？](https://www.reddit.com/r/SideProject/comments/18evwa3/do_i_still_need_turn_to_connect_different_servers/)
--  10 [最新的副业项目刚刚启动，这是一款基于人工智能的图像/视频标题生成器！](https://www.reddit.com/r/SideProject/comments/18eqrr2/just_launched_by_latest_side_project_an_ai_based/)
--  10 [保持势头：](https://www.reddit.com/r/SideProject/comments/18epqb5/keeping_the_momentum_going/)<!-- sideproject:END -->
+-  10 [使用 WEBRTC 连接同一 VPC 内的不同服务器是否仍需要 TURN？](https://www.reddit.com/r/SideProject/comments/18evwa3/do_i_still_need_turn_to_connect_different_servers/)<!-- sideproject:END -->
 
 
 ### 无忧分享
