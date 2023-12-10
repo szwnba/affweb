@@ -56,6 +56,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [📣Online Casino Is Looking For Traffic](https://afflift.com/f/threads/%F0%9F%93%A3online-casino-is-looking-for-traffic.12212/)
+-  10 [Affiliate World Conferences Bundle &lpar;$999 for all 3 conferences in 2024&rpar;](https://afflift.com/f/threads/affiliate-world-conferences-bundle-999-for-all-3-conferences-in-2024.12221/)
 -  10 [Difference between Source id and Click id](https://afflift.com/f/threads/difference-between-source-id-and-click-id.12229/)
 -  10 [Is there anyone who is making a constant profit from the Zeydoo + Adsterra CPA network?](https://afflift.com/f/threads/is-there-anyone-who-is-making-a-constant-profit-from-the-zeydoo-adsterra-cpa-network.12230/)
 -  10 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
