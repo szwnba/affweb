@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [保持势头：](https://www.reddit.com/r/SideProject/comments/18epqb5/keeping_the_momentum_going/)
+-  09 [您使用哪种电子邮件服务开展营销活动？](https://www.reddit.com/r/SideProject/comments/18ep7n4/what_email_service_do_you_use_for_your_campaigns/)
+-  09 [更快、更高效地交付软件项目](https://www.reddit.com/r/SideProject/comments/18eopxy/deliver_software_projects_faster_and_more/)
 -  09 [为生活在国外的孤独者推出了我的社交媒体网站！](https://www.reddit.com/r/SideProject/comments/18enrv2/launched_my_social_media_website_for_lonely/)
 -  09 [我 15 岁时就为开发人员和团队开发了一个工具 🚀](https://www.reddit.com/r/SideProject/comments/18en5oo/i_built_a_tool_for_devs_teams_at_15yo/)
 -  09 [厌倦了盯着空白屏幕？- 向 PromptWizard 问好](https://www.reddit.com/r/SideProject/comments/18empvt/tired_of_staring_at_a_blank_screen_say_hi_to/)
@@ -22,10 +25,7 @@
 -  09 [这是一款基于循环的网络音乐制作工具，可让您使用连接的 MIDI 设备塑造声音并进行即兴演奏。它也是开源的，链接在视频描述中。](https://www.youtube.com/watch?v=ONkM159dy3M)
 -  09 [烤我的副业副本](https://www.reddit.com/r/SideProject/comments/18edy19/roast_my_side_project_copy/)
 -  09 [独自创业的科技公司创始人应该从第一天起就投入市场营销。](https://www.reddit.com/r/SideProject/comments/18ed8nl/tech_founders_going_alone_should_jump_into/)
--  09 [今天推出了我的演示版 Catfishes](https://www.reddit.com/r/SideProject/comments/18ebgtm/launched_my_demo_catfishes_today/)
--  09 [GlobalThreat, Inc. - 由人工智能驱动的实时全球威胁评估](https://globalthreat.info/)
--  09 [我的应用程序变成了色情应用程序](https://www.reddit.com/r/SideProject/comments/18e9tgy/my_app_turned_into_a_porn_app/)
--  09 [从 Uber 到 Osenorth：我创建以客户为中心的创意公司的历程，现在为创业者和独立黑客提供增强网络的能力](https://www.reddit.com/r/SideProject/comments/18e8kpx/from_uber_to_osenorth_my_journey_to_a/)<!-- sideproject:END -->
+-  09 [今天推出了我的演示版 Catfishes](https://www.reddit.com/r/SideProject/comments/18ebgtm/launched_my_demo_catfishes_today/)<!-- sideproject:END -->
 
 
 ### 无忧分享
