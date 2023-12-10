@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [我的新副业一周内意外赚了 4.8 万美元 🤯](https://www.reddit.com/r/SideProject/comments/18f9b3y/i_accidentally_made_48000_with_my_new_side/)
+-  10 [我从零开始制作了一个教育变压器](https://www.reddit.com/r/SideProject/comments/18f92lx/i_made_an_educational_transformer_from_scratch/)
+-  10 [我的小副业项目突破了 1200 万美元](https://old.reddit.com/r/SideProject/comments/18f833j/my_small_side_project_crossed_1200mmr/)
 -  10 [推出我的第一个网络应用--MyYogaFlow（在线瑜伽教练）](https://www.reddit.com/r/SideProject/comments/18f5ta8/launched_my_first_web_app_myyogaflow_online_yoga/)
 -  10 [为 Twitter Analytics 创建 Spotify Wrapped Showcase](https://www.reddit.com/r/SideProject/comments/18f7bf4/created_a_spotify_wrapped_showcase_for_twitter/)
 -  10 [我创建了一个数字旅行日记。](https://www.reddit.com/r/SideProject/comments/18f3g9r/i_have_created_a_digital_travel_diary/)
@@ -22,10 +25,7 @@
 -  10 [我正在打造 Patreon 杀手，刚刚推出了 MVP](https://www.reddit.com/r/SideProject/comments/18ezdxy/i_am_building_a_patreon_killer_and_i_just/)
 -  10 [预售赚了 500 美元，验证了我的 SaaS 创意](https://old.reddit.com/r/SideProject/comments/18eycx6/made_500_in_presale_to_validate_my_saas_idea/)
 -  10 [寻求建议：如何发现 B2B 软件解决方案的业务痛点](https://www.reddit.com/r/SideProject/comments/18eyb6c/seeking_advice_how_to_discover_business_pain/)
--  10 [您是否想过，为什么有些品牌会永远备受瞩目，而另一些品牌却逐渐默默无闻？](https://www.reddit.com/r/SideProject/comments/18exbvh/ever_wondered_how_some_brands_stay_in_the/)
--  10 [使用（Twilio、AssemblyAI、OpenAI、Whisper）的麦当劳电话助理](https://www.reddit.com/r/SideProject/comments/18ex2y7/mcdonalds_phone_assistant_with_twilio_assemblyai/)
--  10 [写下你最喜欢的副业？](https://www.reddit.com/r/SideProject/comments/18ewqpj/write_your_favourite_side_project/)
--  10 [使用 WEBRTC 连接同一 VPC 内的不同服务器是否仍需要 TURN？](https://www.reddit.com/r/SideProject/comments/18evwa3/do_i_still_need_turn_to_connect_different_servers/)<!-- sideproject:END -->
+-  10 [您是否想过，为什么有些品牌会永远备受瞩目，而另一些品牌却逐渐默默无闻？](https://www.reddit.com/r/SideProject/comments/18exbvh/ever_wondered_how_some_brands_stay_in_the/)<!-- sideproject:END -->
 
 
 ### 无忧分享
