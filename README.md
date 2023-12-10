@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [我创建了一个数字旅行日记。](https://www.reddit.com/r/SideProject/comments/18f3g9r/i_have_created_a_digital_travel_diary/)
+-  10 [关于 Typosquatting Domains 的小型企业](https://www.reddit.com/r/SideProject/comments/18f3d1w/small_business_on_typosquatting_domains/)
+-  10 [我们开发了一款运动健身追踪应用程序，让您的锻炼不再作弊](https://www.reddit.com/r/SideProject/comments/18f2wdg/we_build_a_motion_fitness_tracking_app_so_you/)
 -  10 [收取滞纳金的日程安排](https://www.reddit.com/r/SideProject/comments/18f19z0/scheduling_with_a_late_fee/)
 -  10 [NameBrain - 利用可用域名的人工智能生成公司名称](https://www.reddit.com/r/SideProject/comments/18f0zku/namebrain_ai_generated_company_names_with/)
 -  10 [为 B2B SaaS 风险投资寻求合作者](https://www.reddit.com/r/SideProject/comments/18f03hj/seeking_a_collaborator_for_b2b_saas_venture/)
@@ -22,10 +25,7 @@
 -  10 [写下你最喜欢的副业？](https://www.reddit.com/r/SideProject/comments/18ewqpj/write_your_favourite_side_project/)
 -  10 [使用 WEBRTC 连接同一 VPC 内的不同服务器是否仍需要 TURN？](https://www.reddit.com/r/SideProject/comments/18evwa3/do_i_still_need_turn_to_connect_different_servers/)
 -  10 [最新的副业项目刚刚启动，这是一款基于人工智能的图像/视频标题生成器！](https://www.reddit.com/r/SideProject/comments/18eqrr2/just_launched_by_latest_side_project_an_ai_based/)
--  10 [保持势头：](https://www.reddit.com/r/SideProject/comments/18epqb5/keeping_the_momentum_going/)
--  09 [您使用哪种电子邮件服务开展营销活动？](https://www.reddit.com/r/SideProject/comments/18ep7n4/what_email_service_do_you_use_for_your_campaigns/)
--  09 [更快、更高效地交付软件项目](https://www.reddit.com/r/SideProject/comments/18eopxy/deliver_software_projects_faster_and_more/)
--  09 [为生活在国外的孤独者推出了我的社交媒体网站！](https://www.reddit.com/r/SideProject/comments/18enrv2/launched_my_social_media_website_for_lonely/)<!-- sideproject:END -->
+-  10 [保持势头：](https://www.reddit.com/r/SideProject/comments/18epqb5/keeping_the_momentum_going/)<!-- sideproject:END -->
 
 
 ### 无忧分享
