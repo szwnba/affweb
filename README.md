@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [推出个人理财通讯《The Crunch》[更新 #1]](https://www.reddit.com/r/SideProject/comments/18fcvo7/launching_the_crunch_a_personal_finance/)
+-  10 [我创建了一个 macOS 应用程序，它可以让你通过快捷方式在所有应用程序中使用 ChatGPT](https://www.reddit.com/r/SideProject/comments/18fcsct/i_built_a_macos_app_that_lets_you_use_chatgpt/)
+-  10 [我制作了一个免费的 Lofi 电台应用程序，全天候播放 Lofi 节拍🎧📚。](https://www.reddit.com/r/SideProject/comments/18fcrdu/i_made_a_free_lofi_radio_app_that_streams_247/)
 -  10 [为圣诞礼物而烦恼？我创建了一个免费的 AI 工具来寻找完美的礼物创意！](https://www.reddit.com/r/SideProject/comments/18fbrit/struggling_with_christmas_gifts_i_created_a_free/)
 -  10 [从副业项目到初创企业：我的尝试，让旅程更轻松](https://www.reddit.com/r/SideProject/comments/18fbnok/from_side_projects_to_startups_my_attempt_to_ease/)
 -  10 [我的独行侠之旅：游牧 6 个月，打造 6 个项目的 6 条经验](https://www.reddit.com/r/SideProject/comments/18f952t/my_solopreneur_journey_6_lessons_from_building_6/)
@@ -22,10 +25,7 @@
 -  10 [为 B2B SaaS 风险投资寻求合作者](https://www.reddit.com/r/SideProject/comments/18f03hj/seeking_a_collaborator_for_b2b_saas_venture/)
 -  10 [从 0 美元到 4000 美元/月的 &quot;过度 &quot;商业模式](https://www.reddit.com/r/SideProject/comments/18ezymx/from_0_to_4000m_with_an_overdone_business_model/)
 -  10 [我和我的团队是如何在 2023 年开发出 15+ 个应用程序，却没有进行过一次销售的？](https://www.reddit.com/r/SideProject/comments/18ezxrw/how_me_and_my_team_made_15_apps_and_not_made_a/)
--  10 [需要每种鸟类的图像 - AI 或图片库照片](https://www.reddit.com/r/SideProject/comments/18ezuiq/need_images_of_every_bird_ai_or_stock_photos/)
--  10 [10 天内推出人工智能生成的圣诞老人视频信息](https://old.reddit.com/r/SideProject/comments/18ezue3/launched_santa_ai_generated_video_messages_in_10/)
--  10 [我将花费数小时的手动流程自动化了](https://www.reddit.com/r/SideProject/comments/18ezsq7/i_automated_a_manual_process_i_spent_hours_on/)
--  10 [我正在打造 Patreon 杀手，刚刚推出了 MVP](https://www.reddit.com/r/SideProject/comments/18ezdxy/i_am_building_a_patreon_killer_and_i_just/)<!-- sideproject:END -->
+-  10 [需要每种鸟类的图像 - AI 或图片库照片](https://www.reddit.com/r/SideProject/comments/18ezuiq/need_images_of_every_bird_ai_or_stock_photos/)<!-- sideproject:END -->
 
 
 ### 无忧分享
