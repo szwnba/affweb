@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [收取滞纳金的日程安排](https://www.reddit.com/r/SideProject/comments/18f19z0/scheduling_with_a_late_fee/)
 -  10 [NameBrain - 利用可用域名的人工智能生成公司名称](https://www.reddit.com/r/SideProject/comments/18f0zku/namebrain_ai_generated_company_names_with/)
 -  10 [为 B2B SaaS 风险投资寻求合作者](https://www.reddit.com/r/SideProject/comments/18f03hj/seeking_a_collaborator_for_b2b_saas_venture/)
 -  10 [从 0 美元到 4000 美元/月的 &quot;过度 &quot;商业模式](https://www.reddit.com/r/SideProject/comments/18ezymx/from_0_to_4000m_with_an_overdone_business_model/)
@@ -24,8 +25,7 @@
 -  10 [保持势头：](https://www.reddit.com/r/SideProject/comments/18epqb5/keeping_the_momentum_going/)
 -  09 [您使用哪种电子邮件服务开展营销活动？](https://www.reddit.com/r/SideProject/comments/18ep7n4/what_email_service_do_you_use_for_your_campaigns/)
 -  09 [更快、更高效地交付软件项目](https://www.reddit.com/r/SideProject/comments/18eopxy/deliver_software_projects_faster_and_more/)
--  09 [为生活在国外的孤独者推出了我的社交媒体网站！](https://www.reddit.com/r/SideProject/comments/18enrv2/launched_my_social_media_website_for_lonely/)
--  09 [我 15 岁时就为开发人员和团队开发了一个工具 🚀](https://www.reddit.com/r/SideProject/comments/18en5oo/i_built_a_tool_for_devs_teams_at_15yo/)<!-- sideproject:END -->
+-  09 [为生活在国外的孤独者推出了我的社交媒体网站！](https://www.reddit.com/r/SideProject/comments/18enrv2/launched_my_social_media_website_for_lonely/)<!-- sideproject:END -->
 
 
 ### 无忧分享
