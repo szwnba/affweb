@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [我的独行侠之旅：游牧 6 个月，打造 6 个项目的 6 条经验](https://www.reddit.com/r/SideProject/comments/18f952t/my_solopreneur_journey_6_lessons_from_building_6/)
 -  10 [我的新副业一周内意外赚了 4.8 万美元 🤯](https://www.reddit.com/r/SideProject/comments/18f9b3y/i_accidentally_made_48000_with_my_new_side/)
 -  10 [我从零开始制作了一个教育变压器](https://www.reddit.com/r/SideProject/comments/18f92lx/i_made_an_educational_transformer_from_scratch/)
 -  10 [我的小副业项目突破了 1200 万美元](https://old.reddit.com/r/SideProject/comments/18f833j/my_small_side_project_crossed_1200mmr/)
@@ -24,8 +25,7 @@
 -  10 [我将花费数小时的手动流程自动化了](https://www.reddit.com/r/SideProject/comments/18ezsq7/i_automated_a_manual_process_i_spent_hours_on/)
 -  10 [我正在打造 Patreon 杀手，刚刚推出了 MVP](https://www.reddit.com/r/SideProject/comments/18ezdxy/i_am_building_a_patreon_killer_and_i_just/)
 -  10 [预售赚了 500 美元，验证了我的 SaaS 创意](https://old.reddit.com/r/SideProject/comments/18eycx6/made_500_in_presale_to_validate_my_saas_idea/)
--  10 [寻求建议：如何发现 B2B 软件解决方案的业务痛点](https://www.reddit.com/r/SideProject/comments/18eyb6c/seeking_advice_how_to_discover_business_pain/)
--  10 [您是否想过，为什么有些品牌会永远备受瞩目，而另一些品牌却逐渐默默无闻？](https://www.reddit.com/r/SideProject/comments/18exbvh/ever_wondered_how_some_brands_stay_in_the/)<!-- sideproject:END -->
+-  10 [寻求建议：如何发现 B2B 软件解决方案的业务痛点](https://www.reddit.com/r/SideProject/comments/18eyb6c/seeking_advice_how_to_discover_business_pain/)<!-- sideproject:END -->
 
 
 ### 无忧分享
