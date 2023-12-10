@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [预售赚了 500 美元，验证了我的 SaaS 创意](https://old.reddit.com/r/SideProject/comments/18eycx6/made_500_in_presale_to_validate_my_saas_idea/)
+-  10 [寻求建议：如何发现 B2B 软件解决方案的业务痛点](https://www.reddit.com/r/SideProject/comments/18eyb6c/seeking_advice_how_to_discover_business_pain/)
 -  10 [您是否想过，为什么有些品牌会永远备受瞩目，而另一些品牌却逐渐默默无闻？](https://www.reddit.com/r/SideProject/comments/18exbvh/ever_wondered_how_some_brands_stay_in_the/)
 -  10 [使用（Twilio、AssemblyAI、OpenAI、Whisper）的麦当劳电话助理](https://www.reddit.com/r/SideProject/comments/18ex2y7/mcdonalds_phone_assistant_with_twilio_assemblyai/)
 -  10 [写下你最喜欢的副业？](https://www.reddit.com/r/SideProject/comments/18ewqpj/write_your_favourite_side_project/)
@@ -23,9 +25,7 @@
 -  09 [Kanri v0.6 版本 - 自定义卡片颜色和丰富的文本卡片描述](https://www.kanriapp.com/v06-launch)
 -  09 [检测歌曲和观看同步音乐视频的应用程序](https://www.reddit.com/r/SideProject/comments/18eijsw/app_to_detect_songs_and_watch_synchronized_music/)
 -  09 [didsomeoneclone.me--检测和减少网站克隆的工具--的最新进展](https://www.reddit.com/r/SideProject/comments/18eguuj/update_on_didsomeonecloneme_a_tool_to_detect_and/)
--  09 [如何终身自动赚取佣金](https://olspsystem.com/join/448853)
--  09 [诺瓦克-德约科维奇终极等级表](https://youtu.be/eTFZDUKjQnU?si=NCnLbwyfoeDcOdmx)
--  09 [建造工艺块](https://old.reddit.com/r/tailwindcss/comments/18dkgso/launching_craftedblock/)<!-- sideproject:END -->
+-  09 [如何终身自动赚取佣金](https://olspsystem.com/join/448853)<!-- sideproject:END -->
 
 
 ### 无忧分享
