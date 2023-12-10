@@ -34,8 +34,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  09 [新人报道](https://www.advertcn.com/thread-113251-1-1.html)
--  09 [新人报道](https://www.advertcn.com/thread-113249-1-1.html)<!-- advertcn1:END -->
+-  09 [新人报道](https://www.advertcn.com/thread-113251-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
