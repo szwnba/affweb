@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [幼儿时间》iOS 应用程序，提供无屏幕、基于游戏的活动](https://www.reddit.com/r/SideProject/comments/18fdswi/toddler_time_ios_app_for_screen_free_play_based/)
+-  10 [我正在开发一个通货膨胀调整收入的工具。希望您能提供反馈意见。](https://www.reddit.com/r/SideProject/comments/18fdftf/im_working_on_an_inflationadjusting_income_tool_i/)
 -  10 [推出个人理财通讯《The Crunch》[更新 #1]](https://www.reddit.com/r/SideProject/comments/18fcvo7/launching_the_crunch_a_personal_finance/)
 -  10 [我创建了一个 macOS 应用程序，它可以让你通过快捷方式在所有应用程序中使用 ChatGPT](https://www.reddit.com/r/SideProject/comments/18fcsct/i_built_a_macos_app_that_lets_you_use_chatgpt/)
 -  10 [我制作了一个免费的 Lofi 电台应用程序，全天候播放 Lofi 节拍🎧📚。](https://www.reddit.com/r/SideProject/comments/18fcrdu/i_made_a_free_lofi_radio_app_that_streams_247/)
@@ -23,9 +25,7 @@
 -  10 [收取滞纳金的日程安排](https://www.reddit.com/r/SideProject/comments/18f19z0/scheduling_with_a_late_fee/)
 -  10 [NameBrain - 利用可用域名的人工智能生成公司名称](https://www.reddit.com/r/SideProject/comments/18f0zku/namebrain_ai_generated_company_names_with/)
 -  10 [为 B2B SaaS 风险投资寻求合作者](https://www.reddit.com/r/SideProject/comments/18f03hj/seeking_a_collaborator_for_b2b_saas_venture/)
--  10 [从 0 美元到 4000 美元/月的 &quot;过度 &quot;商业模式](https://www.reddit.com/r/SideProject/comments/18ezymx/from_0_to_4000m_with_an_overdone_business_model/)
--  10 [我和我的团队是如何在 2023 年开发出 15+ 个应用程序，却没有进行过一次销售的？](https://www.reddit.com/r/SideProject/comments/18ezxrw/how_me_and_my_team_made_15_apps_and_not_made_a/)
--  10 [需要每种鸟类的图像 - AI 或图片库照片](https://www.reddit.com/r/SideProject/comments/18ezuiq/need_images_of_every_bird_ai_or_stock_photos/)<!-- sideproject:END -->
+-  10 [从 0 美元到 4000 美元/月的 &quot;过度 &quot;商业模式](https://www.reddit.com/r/SideProject/comments/18ezymx/from_0_to_4000m_with_an_overdone_business_model/)<!-- sideproject:END -->
 
 
 ### 无忧分享
