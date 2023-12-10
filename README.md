@@ -42,6 +42,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  10 [有偿需求帮助，帮忙建下facebooke广告像素](https://www.advertcn.com/thread-113259-1-1.html)
 -  10 [FB广告版位怎么选](https://www.advertcn.com/thread-113255-1-1.html)
 -  10 [独立站首页与home page重复的问题](https://www.advertcn.com/thread-113254-1-1.html)
 -  09 [TK之路的一些经验分享](https://www.advertcn.com/thread-113252-1-1.html)<!-- advertcn3:END -->
