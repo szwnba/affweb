@@ -65,8 +65,7 @@
 -  09 [#ADSTERRAx2 Testing Adsterra as a CPA Network](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-cpa-network.11954/)
 -  09 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  09 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)
--  09 [Hello from Rajasthan, india](https://afflift.com/f/threads/hello-from-rajasthan-india.12108/)
--  09 [Facebook ads report to google sheet ?](https://afflift.com/f/threads/facebook-ads-report-to-google-sheet.12227/)<!-- afflift:END -->
+-  09 [Hello from Rajasthan, india](https://afflift.com/f/threads/hello-from-rajasthan-india.12108/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
