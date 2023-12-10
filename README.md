@@ -6,6 +6,12 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [为 B2B SaaS 风险投资寻求合作者](https://www.reddit.com/r/SideProject/comments/18f03hj/seeking_a_collaborator_for_b2b_saas_venture/)
+-  10 [从 0 美元到 4000 美元/月的 &quot;过度 &quot;商业模式](https://www.reddit.com/r/SideProject/comments/18ezymx/from_0_to_4000m_with_an_overdone_business_model/)
+-  10 [我和我的团队是如何在 2023 年开发出 15+ 个应用程序，却没有进行过一次销售的？](https://www.reddit.com/r/SideProject/comments/18ezxrw/how_me_and_my_team_made_15_apps_and_not_made_a/)
+-  10 [需要每种鸟类的图像 - AI 或图片库照片](https://www.reddit.com/r/SideProject/comments/18ezuiq/need_images_of_every_bird_ai_or_stock_photos/)
+-  10 [10 天内推出人工智能生成的圣诞老人视频信息](https://old.reddit.com/r/SideProject/comments/18ezue3/launched_santa_ai_generated_video_messages_in_10/)
+-  10 [我将花费数小时的手动流程自动化了](https://www.reddit.com/r/SideProject/comments/18ezsq7/i_automated_a_manual_process_i_spent_hours_on/)
 -  10 [我正在打造 Patreon 杀手，刚刚推出了 MVP](https://www.reddit.com/r/SideProject/comments/18ezdxy/i_am_building_a_patreon_killer_and_i_just/)
 -  10 [预售赚了 500 美元，验证了我的 SaaS 创意](https://old.reddit.com/r/SideProject/comments/18eycx6/made_500_in_presale_to_validate_my_saas_idea/)
 -  10 [寻求建议：如何发现 B2B 软件解决方案的业务痛点](https://www.reddit.com/r/SideProject/comments/18eyb6c/seeking_advice_how_to_discover_business_pain/)
@@ -19,13 +25,7 @@
 -  09 [更快、更高效地交付软件项目](https://www.reddit.com/r/SideProject/comments/18eopxy/deliver_software_projects_faster_and_more/)
 -  09 [为生活在国外的孤独者推出了我的社交媒体网站！](https://www.reddit.com/r/SideProject/comments/18enrv2/launched_my_social_media_website_for_lonely/)
 -  09 [我 15 岁时就为开发人员和团队开发了一个工具 🚀](https://www.reddit.com/r/SideProject/comments/18en5oo/i_built_a_tool_for_devs_teams_at_15yo/)
--  09 [厌倦了盯着空白屏幕？- 向 PromptWizard 问好](https://www.reddit.com/r/SideProject/comments/18empvt/tired_of_staring_at_a_blank_screen_say_hi_to/)
--  09 [我的域名失效了，不得不转到 .net，但我的副项目 NFLArrest.net 又上线了](http://nflarrest.net/)
--  09 [定价页面刚刚上线运行......嗯，在本地主机上 🙃 您觉得如何？](https://old.reddit.com/r/SideProject/comments/18em8fe/just_got_the_pricing_page_up_and_running_well_in/)
--  09 [我建造了我的新副业](https://old.reddit.com/r/SideProject/comments/18elyx1/i_built_my_new_side_project/)
--  09 [Kanri v0.6 版本 - 自定义卡片颜色和丰富的文本卡片描述](https://www.kanriapp.com/v06-launch)
--  09 [检测歌曲和观看同步音乐视频的应用程序](https://www.reddit.com/r/SideProject/comments/18eijsw/app_to_detect_songs_and_watch_synchronized_music/)
--  09 [didsomeoneclone.me--检测和减少网站克隆的工具--的最新进展](https://www.reddit.com/r/SideProject/comments/18eguuj/update_on_didsomeonecloneme_a_tool_to_detect_and/)<!-- sideproject:END -->
+-  09 [厌倦了盯着空白屏幕？- 向 PromptWizard 问好](https://www.reddit.com/r/SideProject/comments/18empvt/tired_of_staring_at_a_blank_screen_say_hi_to/)<!-- sideproject:END -->
 
 
 ### 无忧分享
