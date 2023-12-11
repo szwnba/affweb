@@ -58,18 +58,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Hello from Rajasthan, india](https://afflift.com/f/threads/hello-from-rajasthan-india.12108/)
+-  11 [Propeller Survey Exit suddenly not available for account?](https://afflift.com/f/threads/propeller-survey-exit-suddenly-not-available-for-account.12236/)
+-  11 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  11 [Effective Native Advertising for E-Commerce](https://afflift.com/f/threads/effective-native-advertising-for-e-commerce.12237/)
+-  11 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
+-  11 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
+-  11 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
+-  11 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
+-  11 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  11 [February PropellerAds Promo Codes](https://afflift.com/f/threads/february-propellerads-promo-codes.10344/)
 -  11 [Voluum PHP LP Protect issue](https://afflift.com/f/threads/voluum-php-lp-protect-issue.12223/)
--  11 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
--  11 [🔥 TUT FIXES TO KEEP A $75 ACCOUNT🔥](https://afflift.com/f/threads/%F0%9F%94%A5-tut-fixes-to-keep-a-75-account%F0%9F%94%A5.12235/)
--  11 [Money to get started with affiliate marketing](https://afflift.com/f/threads/money-to-get-started-with-affiliate-marketing.12234/)
--  11 [Confused beginner](https://afflift.com/f/threads/confused-beginner.12233/)
--  11 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  11 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
--  11 [I made $30,000 off a domain!](https://afflift.com/f/threads/i-made-30-000-off-a-domain.6490/)
--  11 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
--  11 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)
--  11 [What type of offers are easier to run as beginners?](https://afflift.com/f/threads/what-type-of-offers-are-easier-to-run-as-beginners.12232/)<!-- afflift:END -->
+-  11 [🔥 TUT FIXES TO KEEP A $75 ACCOUNT🔥](https://afflift.com/f/threads/%F0%9F%94%A5-tut-fixes-to-keep-a-75-account%F0%9F%94%A5.12235/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
