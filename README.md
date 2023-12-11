@@ -57,18 +57,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  11 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)
+-  11 [Confused beginner](https://afflift.com/f/threads/confused-beginner.12233/)
 -  11 [Money to get started with affiliate marketing](https://afflift.com/f/threads/money-to-get-started-with-affiliate-marketing.12234/)
+-  11 [I made $30,000 off a domain!](https://afflift.com/f/threads/i-made-30-000-off-a-domain.6490/)
+-  11 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
+-  11 [#ADSTERRAx2: Testing Adsterra&#39;s Smart CPM with CPA Goal 🚀](https://afflift.com/f/threads/adsterrax2-testing-adsterras-smart-cpm-with-cpa-goal-%F0%9F%9A%80.12059/)
 -  11 [What type of offers are easier to run as beginners?](https://afflift.com/f/threads/what-type-of-offers-are-easier-to-run-as-beginners.12232/)
 -  11 [Voluum PHP LP Protect issue](https://afflift.com/f/threads/voluum-php-lp-protect-issue.12223/)
 -  10 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
 -  10 [Is there anyone who is making a constant profit from the Zeydoo + Adsterra CPA network?](https://afflift.com/f/threads/is-there-anyone-who-is-making-a-constant-profit-from-the-zeydoo-adsterra-cpa-network.12230/)
 -  10 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)
 -  10 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  10 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
--  10 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  10 [Confused beginner](https://afflift.com/f/threads/confused-beginner.12233/)
--  10 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)<!-- afflift:END -->
+-  10 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
