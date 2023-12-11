@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [您如何看待为副业经营者提供的直接整合工厂的商业/电子商务工具？](https://www.reddit.com/r/SideProject/comments/18ftzll/what_are_your_thoughts_on_a_merchecom_tool_for/)
+-  11 [嵌入式或自托管偏好页面，您会选择在产品通知系统中实施哪种方式？](https://old.reddit.com/r/selfhosted/comments/18fts6k/embedded_or_selfhosted_preference_page_what_would/)
 -  11 [您对带有虚拟人工智能角色的《Date Me Docs》有什么看法？](https://www.reddit.com/r/SideProject/comments/18fn3mk/what_are_your_thoughts_in_date_me_docs_with/)
 -  11 [建立人工智能后](https://old.reddit.com/r/SideProject/comments/18fry41/after_building_my_ai/)
 -  11 [我很高兴能推出一款 Youtube 摘要应用程序，但我发现竞争太激烈了......](https://www.reddit.com/r/SideProject/comments/18fraer/i_was_happy_to_launch_a_youtube_summarizer_app/)
@@ -23,9 +25,7 @@
 -  10 [我最近开始开发一款移动应用程序，它能帮助人们避免阅读冗长的自助书籍，并帮助你不忘记所学知识。有人想要吗？目前还不是很好](https://www.reddit.com/r/SideProject/comments/18ffecj/i_recently_started_work_on_a_mobile_app_that/)
 -  10 [幼儿时间》iOS 应用程序，提供无屏幕、基于游戏的活动](https://www.reddit.com/r/SideProject/comments/18fdswi/toddler_time_ios_app_for_screen_free_play_based/)
 -  10 [我正在开发一个通货膨胀调整收入的工具。希望您能提供反馈意见。](https://www.reddit.com/r/SideProject/comments/18fdftf/im_working_on_an_inflationadjusting_income_tool_i/)
--  10 [推出个人理财通讯《The Crunch》[更新 #1]](https://www.reddit.com/r/SideProject/comments/18fcvo7/launching_the_crunch_a_personal_finance/)
--  10 [我创建了一个 macOS 应用程序，它可以让你通过快捷方式在所有应用程序中使用 ChatGPT](https://www.reddit.com/r/SideProject/comments/18fcsct/i_built_a_macos_app_that_lets_you_use_chatgpt/)
--  10 [我制作了一个免费的 Lofi 电台应用程序，全天候播放 Lofi 节拍🎧📚。](https://www.reddit.com/r/SideProject/comments/18fcrdu/i_made_a_free_lofi_radio_app_that_streams_247/)<!-- sideproject:END -->
+-  10 [推出个人理财通讯《The Crunch》[更新 #1]](https://www.reddit.com/r/SideProject/comments/18fcvo7/launching_the_crunch_a_personal_finance/)<!-- sideproject:END -->
 
 
 ### 无忧分享
