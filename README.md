@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [我正在与一家人工智能初创公司合作开展一个名为 Click2.ai 的项目！](https://www.reddit.com/r/SideProject/comments/18flweg/im_working_alongside_a_ai_startup_company_on_this/)
+-  11 [在这段旅程中，社区的力量是无穷的：](https://www.reddit.com/r/SideProject/comments/18fes3i/the_power_of_community_in_this_journey_is_immense/)
 -  11 [我做了一个帮助你哭泣的网站](https://www.reddit.com/r/SideProject/comments/18fk4gr/i_made_a_website_that_helps_you_cry/)
 -  11 [给我的狗狗评分](https://www.reddit.com/r/SideProject/comments/18fjynz/rate_my_dog/)
 -  11 [我的副业项目失败后在 Product Hunt 上被评为金融科技第一名](https://www.reddit.com/r/SideProject/comments/18fityf/my_side_project_ranked_1_fintech_on_product_hunt/)
@@ -23,9 +25,7 @@
 -  10 [我的新副业一周内意外赚了 4.8 万美元 🤯](https://www.reddit.com/r/SideProject/comments/18f9b3y/i_accidentally_made_48000_with_my_new_side/)
 -  10 [我从零开始制作了一个教育变压器](https://www.reddit.com/r/SideProject/comments/18f92lx/i_made_an_educational_transformer_from_scratch/)
 -  10 [我的小副业项目突破了 1200 万美元](https://old.reddit.com/r/SideProject/comments/18f833j/my_small_side_project_crossed_1200mmr/)
--  10 [推出我的第一个网络应用--MyYogaFlow（在线瑜伽教练）](https://www.reddit.com/r/SideProject/comments/18f5ta8/launched_my_first_web_app_myyogaflow_online_yoga/)
--  10 [为 Twitter Analytics 创建 Spotify Wrapped Showcase](https://www.reddit.com/r/SideProject/comments/18f7bf4/created_a_spotify_wrapped_showcase_for_twitter/)
--  10 [我创建了一个数字旅行日记。](https://www.reddit.com/r/SideProject/comments/18f3g9r/i_have_created_a_digital_travel_diary/)<!-- sideproject:END -->
+-  10 [推出我的第一个网络应用--MyYogaFlow（在线瑜伽教练）](https://www.reddit.com/r/SideProject/comments/18f5ta8/launched_my_first_web_app_myyogaflow_online_yoga/)<!-- sideproject:END -->
 
 
 ### 无忧分享
