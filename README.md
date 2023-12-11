@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [4 天内从 0 到 +600 个免费新用户。我们是这样做的](https://old.reddit.com/r/SideProject/comments/18g0aqx/from_0_to_600_free_new_users_in_4_days_heres_how/)
 -  11 [创建用户群](https://www.reddit.com/r/SideProject/comments/18fy7yv/creating_a_userbase/)
 -  11 [我们开发了一个开源、白标 SaaS 项目，帮助您开始对话式人工智能副业。](https://www.reddit.com/r/SideProject/comments/18g01qf/we_made_an_opensource_whitelabel_saas_project_to/)
 -  11 [我创建了一个工具，帮助您减少 CHRUN，提高 MRR](https://www.reddit.com/r/SideProject/comments/18fzt1s/i_built_a_tool_to_help_you_to_reduce_your_chrun/)
@@ -24,8 +25,7 @@
 -  11 [我做了一个应用程序，当你离开去点咖啡时，如果有人试图偷走你的 Mac，它会给你打电话 📞 ☕️](https://www.reddit.com/r/SideProject/comments/18focck/i_made_an_app_that_gives_you_a_call_if_someone/)
 -  11 [我做了一个网站，可以将 URL 和文本转换成可分享的视频短片](https://www.reddit.com/r/SideProject/comments/18fonep/i_made_a_website_that_turns_urls_and_text_into/)
 -  11 [我正在与一家人工智能初创公司合作开展一个名为 Click2.ai 的项目！](https://www.reddit.com/r/SideProject/comments/18flweg/im_working_alongside_a_ai_startup_company_on_this/)
--  11 [在这段旅程中，社区的力量是无穷的：](https://www.reddit.com/r/SideProject/comments/18fes3i/the_power_of_community_in_this_journey_is_immense/)
--  11 [我做了一个帮助你哭泣的网站](https://www.reddit.com/r/SideProject/comments/18fk4gr/i_made_a_website_that_helps_you_cry/)<!-- sideproject:END -->
+-  11 [在这段旅程中，社区的力量是无穷的：](https://www.reddit.com/r/SideProject/comments/18fes3i/the_power_of_community_in_this_journey_is_immense/)<!-- sideproject:END -->
 
 
 ### 无忧分享
