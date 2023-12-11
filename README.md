@@ -56,6 +56,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [What type of offers are easier to run as beginners?](https://afflift.com/f/threads/what-type-of-offers-are-easier-to-run-as-beginners.12232/)
 -  11 [Voluum PHP LP Protect issue](https://afflift.com/f/threads/voluum-php-lp-protect-issue.12223/)
 -  11 [Money to get started with affiliate marketing](https://afflift.com/f/threads/money-to-get-started-with-affiliate-marketing.12234/)
 -  10 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
@@ -66,7 +67,6 @@
 -  10 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  10 [Confused beginner](https://afflift.com/f/threads/confused-beginner.12233/)
 -  10 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
--  10 [What type of offers are easier to run as beginners?](https://afflift.com/f/threads/what-type-of-offers-are-easier-to-run-as-beginners.12232/)
 -  10 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
 
 ### 少数派
