@@ -57,6 +57,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
 -  11 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
 -  11 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  11 [How to run Bing Ads: insights from practitioners](https://afflift.com/f/threads/how-to-run-bing-ads-insights-from-practitioners.12242/)
@@ -67,8 +68,7 @@
 -  11 [Propeller Survey Exit suddenly not available for account?](https://afflift.com/f/threads/propeller-survey-exit-suddenly-not-available-for-account.12236/)
 -  11 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
 -  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  11 [What type of offers are easier to run as beginners?](https://afflift.com/f/threads/what-type-of-offers-are-easier-to-run-as-beginners.12232/)
--  11 [Testing Landing Pages with light and dark theme?](https://afflift.com/f/threads/testing-landing-pages-with-light-and-dark-theme.12243/)<!-- afflift:END -->
+-  11 [What type of offers are easier to run as beginners?](https://afflift.com/f/threads/what-type-of-offers-are-easier-to-run-as-beginners.12232/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
