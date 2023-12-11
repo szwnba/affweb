@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  10 [第一款应用程序现已在 Product Hunt 上发布！| fastbatch.io 🚀](https://old.reddit.com/r/SaaS/comments/18ffud3/very_first_app_is_now_live_on_product_hunt/)
+-  10 [需要对我在多伦多的 10k MRR 发表一些见解](https://www.reddit.com/r/SideProject/comments/18ffhp5/need_some_insight_on_my_10k_mrr_in_toronto/)
+-  10 [我最近开始开发一款移动应用程序，它能帮助人们避免阅读冗长的自助书籍，并帮助你不忘记所学知识。有人想要吗？目前还不是很好](https://www.reddit.com/r/SideProject/comments/18ffecj/i_recently_started_work_on_a_mobile_app_that/)
 -  10 [幼儿时间》iOS 应用程序，提供无屏幕、基于游戏的活动](https://www.reddit.com/r/SideProject/comments/18fdswi/toddler_time_ios_app_for_screen_free_play_based/)
 -  10 [我正在开发一个通货膨胀调整收入的工具。希望您能提供反馈意见。](https://www.reddit.com/r/SideProject/comments/18fdftf/im_working_on_an_inflationadjusting_income_tool_i/)
 -  10 [推出个人理财通讯《The Crunch》[更新 #1]](https://www.reddit.com/r/SideProject/comments/18fcvo7/launching_the_crunch_a_personal_finance/)
@@ -22,10 +25,7 @@
 -  10 [我创建了一个数字旅行日记。](https://www.reddit.com/r/SideProject/comments/18f3g9r/i_have_created_a_digital_travel_diary/)
 -  10 [关于 Typosquatting Domains 的小型企业](https://www.reddit.com/r/SideProject/comments/18f3d1w/small_business_on_typosquatting_domains/)
 -  10 [我们开发了一款运动健身追踪应用程序，让您的锻炼不再作弊](https://www.reddit.com/r/SideProject/comments/18f2wdg/we_build_a_motion_fitness_tracking_app_so_you/)
--  10 [收取滞纳金的日程安排](https://www.reddit.com/r/SideProject/comments/18f19z0/scheduling_with_a_late_fee/)
--  10 [NameBrain - 利用可用域名的人工智能生成公司名称](https://www.reddit.com/r/SideProject/comments/18f0zku/namebrain_ai_generated_company_names_with/)
--  10 [为 B2B SaaS 风险投资寻求合作者](https://www.reddit.com/r/SideProject/comments/18f03hj/seeking_a_collaborator_for_b2b_saas_venture/)
--  10 [从 0 美元到 4000 美元/月的 &quot;过度 &quot;商业模式](https://www.reddit.com/r/SideProject/comments/18ezymx/from_0_to_4000m_with_an_overdone_business_model/)<!-- sideproject:END -->
+-  10 [收取滞纳金的日程安排](https://www.reddit.com/r/SideProject/comments/18f19z0/scheduling_with_a_late_fee/)<!-- sideproject:END -->
 
 
 ### 无忧分享
