@@ -73,5 +73,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [何为 Bento 式布局，怎么生产力工具网站都在用？](https://sspai.com/post/84628)
 -  11 [告别折腾，获得稳定生产力：我的效率工具观](https://sspai.com/post/84938)
 -  11 [派早报：苹果封杀 iMessage 兼容应用 Beeper Mini](https://sspai.com/post/84962)<!-- sspai:END -->
