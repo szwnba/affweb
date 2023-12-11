@@ -58,9 +58,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Confused beginner](https://afflift.com/f/threads/confused-beginner.12233/)
 -  11 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  11 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
--  11 [Confused beginner](https://afflift.com/f/threads/confused-beginner.12233/)
 -  11 [Money to get started with affiliate marketing](https://afflift.com/f/threads/money-to-get-started-with-affiliate-marketing.12234/)
 -  11 [I made $30,000 off a domain!](https://afflift.com/f/threads/i-made-30-000-off-a-domain.6490/)
 -  11 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
