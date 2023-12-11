@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [在 Product Hunt 上发布，但没有注册......我做错了什么？](https://www.reddit.com/r/SideProject/comments/18g2dbs/launching_on_product_hunt_but_no_sign_ups_what_am/)
+-  11 [App Store 中针对 Z 世代的新社交日历应用程序 🚀 🚀](https://www.reddit.com/r/SideProject/comments/18g1o4g/new_social_calendar_app_targeting_gen_z_in_the/)
 -  11 [4 天内从 0 到 +600 个免费新用户。我们是这样做的](https://old.reddit.com/r/SideProject/comments/18g0aqx/from_0_to_600_free_new_users_in_4_days_heres_how/)
 -  11 [创建用户群](https://www.reddit.com/r/SideProject/comments/18fy7yv/creating_a_userbase/)
 -  11 [我们开发了一个开源、白标 SaaS 项目，帮助您开始对话式人工智能副业。](https://www.reddit.com/r/SideProject/comments/18g01qf/we_made_an_opensource_whitelabel_saas_project_to/)
@@ -23,9 +25,7 @@
 -  11 [我创建了一个网站，捕捉每天最热门的趋势，帮助您打造下一个产品](https://www.reddit.com/r/SideProject/comments/18fqdn9/i_have_created_a_website_that_captures_the/)
 -  11 [BIP :：推出我的演示环境（人人都能使用的简易看板）](https://demo.dailytoo.com/)
 -  11 [我做了一个应用程序，当你离开去点咖啡时，如果有人试图偷走你的 Mac，它会给你打电话 📞 ☕️](https://www.reddit.com/r/SideProject/comments/18focck/i_made_an_app_that_gives_you_a_call_if_someone/)
--  11 [我做了一个网站，可以将 URL 和文本转换成可分享的视频短片](https://www.reddit.com/r/SideProject/comments/18fonep/i_made_a_website_that_turns_urls_and_text_into/)
--  11 [我正在与一家人工智能初创公司合作开展一个名为 Click2.ai 的项目！](https://www.reddit.com/r/SideProject/comments/18flweg/im_working_alongside_a_ai_startup_company_on_this/)
--  11 [在这段旅程中，社区的力量是无穷的：](https://www.reddit.com/r/SideProject/comments/18fes3i/the_power_of_community_in_this_journey_is_immense/)<!-- sideproject:END -->
+-  11 [我做了一个网站，可以将 URL 和文本转换成可分享的视频短片](https://www.reddit.com/r/SideProject/comments/18fonep/i_made_a_website_that_turns_urls_and_text_into/)<!-- sideproject:END -->
 
 
 ### 无忧分享
