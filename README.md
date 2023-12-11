@@ -48,8 +48,7 @@
 -  11 [【网站推荐】资源搜索神器 fxxx保姆级教程](https://www.advertcn.com/thread-113265-1-1.html)
 -  11 [tk拉新 4000日元一个，你们看像不像八万项目](https://www.advertcn.com/thread-113264-1-1.html)
 -  11 [Clickbank不定期抽风还是流量源不定期抽风？](https://www.advertcn.com/thread-113263-1-1.html)
--  10 [直面webshell](https://www.advertcn.com/thread-113260-1-1.html)
--  10 [有偿需求帮助，帮忙建下facebooke广告像素](https://www.advertcn.com/thread-113259-1-1.html)<!-- advertcn3:END -->
+-  10 [直面webshell](https://www.advertcn.com/thread-113260-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
