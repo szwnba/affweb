@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [您对带有虚拟人工智能角色的《Date Me Docs》有什么看法？](https://www.reddit.com/r/SideProject/comments/18fn3mk/what_are_your_thoughts_in_date_me_docs_with/)
 -  11 [建立人工智能后](https://old.reddit.com/r/SideProject/comments/18fry41/after_building_my_ai/)
 -  11 [我很高兴能推出一款 Youtube 摘要应用程序，但我发现竞争太激烈了......](https://www.reddit.com/r/SideProject/comments/18fraer/i_was_happy_to_launch_a_youtube_summarizer_app/)
 -  11 [我创建了一个网站，捕捉每天最热门的趋势，帮助您打造下一个产品](https://www.reddit.com/r/SideProject/comments/18fqdn9/i_have_created_a_website_that_captures_the/)
@@ -24,8 +25,7 @@
 -  10 [我正在开发一个通货膨胀调整收入的工具。希望您能提供反馈意见。](https://www.reddit.com/r/SideProject/comments/18fdftf/im_working_on_an_inflationadjusting_income_tool_i/)
 -  10 [推出个人理财通讯《The Crunch》[更新 #1]](https://www.reddit.com/r/SideProject/comments/18fcvo7/launching_the_crunch_a_personal_finance/)
 -  10 [我创建了一个 macOS 应用程序，它可以让你通过快捷方式在所有应用程序中使用 ChatGPT](https://www.reddit.com/r/SideProject/comments/18fcsct/i_built_a_macos_app_that_lets_you_use_chatgpt/)
--  10 [我制作了一个免费的 Lofi 电台应用程序，全天候播放 Lofi 节拍🎧📚。](https://www.reddit.com/r/SideProject/comments/18fcrdu/i_made_a_free_lofi_radio_app_that_streams_247/)
--  10 [为圣诞礼物而烦恼？我创建了一个免费的 AI 工具来寻找完美的礼物创意！](https://www.reddit.com/r/SideProject/comments/18fbrit/struggling_with_christmas_gifts_i_created_a_free/)<!-- sideproject:END -->
+-  10 [我制作了一个免费的 Lofi 电台应用程序，全天候播放 Lofi 节拍🎧📚。](https://www.reddit.com/r/SideProject/comments/18fcrdu/i_made_a_free_lofi_radio_app_that_streams_247/)<!-- sideproject:END -->
 
 
 ### 无忧分享
