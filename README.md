@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [你打算在 2024 年全职从事你的副业吗？怎么做？](https://www.reddit.com/r/SideProject/comments/18fwdo0/do_you_plan_on_taking_your_side_project_full_time/)
+-  11 [我的副业终于成功了！在 8 年中失败了 5 个项目之后](https://www.reddit.com/r/SideProject/comments/18fw8i4/finally_having_success_with_my_side_project_after/)
+-  11 [我制作了一个 GPT-4 聊天机器人，它能为您创建一个漂亮的网站](https://www.reddit.com/r/SideProject/comments/18fw3a0/i_made_a_gpt4_chatbot_that_creates_a_beautiful/)
 -  11 [有人推荐 Facebook 营销工具吗？](https://www.reddit.com/r/SideProject/comments/18fuqkr/tool_recommendation_for_facebook_marketing_anyone/)
 -  11 [奥德赛无需一行代码即可在本地连接和运行人工智能模型](https://www.reddit.com/r/SideProject/comments/18ftjiv/odyssey_connect_and_run_ai_models_locally_without/)
 -  11 [您如何看待为副业经营者提供的直接整合工厂的商业/电子商务工具？](https://www.reddit.com/r/SideProject/comments/18ftzll/what_are_your_thoughts_on_a_merchecom_tool_for/)
@@ -22,10 +25,7 @@
 -  11 [我做了一个帮助你哭泣的网站](https://www.reddit.com/r/SideProject/comments/18fk4gr/i_made_a_website_that_helps_you_cry/)
 -  11 [给我的狗狗评分](https://www.reddit.com/r/SideProject/comments/18fjynz/rate_my_dog/)
 -  11 [我的副业项目失败后在 Product Hunt 上被评为金融科技第一名](https://www.reddit.com/r/SideProject/comments/18fityf/my_side_project_ranked_1_fintech_on_product_hunt/)
--  10 [第一款应用程序现已在 Product Hunt 上发布！| fastbatch.io 🚀](https://old.reddit.com/r/SaaS/comments/18ffud3/very_first_app_is_now_live_on_product_hunt/)
--  10 [需要对我在多伦多的 10k MRR 发表一些见解](https://www.reddit.com/r/SideProject/comments/18ffhp5/need_some_insight_on_my_10k_mrr_in_toronto/)
--  10 [我最近开始开发一款移动应用程序，它能帮助人们避免阅读冗长的自助书籍，并帮助你不忘记所学知识。有人想要吗？目前还不是很好](https://www.reddit.com/r/SideProject/comments/18ffecj/i_recently_started_work_on_a_mobile_app_that/)
--  10 [幼儿时间》iOS 应用程序，提供无屏幕、基于游戏的活动](https://www.reddit.com/r/SideProject/comments/18fdswi/toddler_time_ios_app_for_screen_free_play_based/)<!-- sideproject:END -->
+-  10 [第一款应用程序现已在 Product Hunt 上发布！| fastbatch.io 🚀](https://old.reddit.com/r/SaaS/comments/18ffud3/very_first_app_is_now_live_on_product_hunt/)<!-- sideproject:END -->
 
 
 ### 无忧分享
