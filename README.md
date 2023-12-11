@@ -59,18 +59,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  11 [Early Glimpse, Big Impact: 2024 Trends To Supercharge Your XMas Campaigns!](https://afflift.com/f/threads/early-glimpse-big-impact-2024-trends-to-supercharge-your-xmas-campaigns.12240/)
--  11 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  11 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
--  11 [Adsterra CPA #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-cpa-adsterrax2-vote-for-your-favorite-follow-along.12190/)
--  11 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)
--  11 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
--  11 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
--  11 [Get the laziest profit](https://afflift.com/f/threads/get-the-laziest-profit.12238/)
--  11 [Hello word ..I am Zack .](https://afflift.com/f/threads/hello-word-i-am-zack.12164/)
+-  11 [Testing Landing Pages with light and dark theme?](https://afflift.com/f/threads/testing-landing-pages-with-light-and-dark-theme.12243/)
+-  11 [LanderLab 2.0 Review](https://afflift.com/f/threads/landerlab-2-0-review.11405/)
+-  11 [Perform[cb]- #1 CPA Network For 7 Years In A Row](https://afflift.com/f/threads/perform-cb-1-cpa-network-for-7-years-in-a-row.10824/)
+-  11 [What to do when Zeydoo offer domain expires?](https://afflift.com/f/threads/what-to-do-when-zeydoo-offer-domain-expires.12241/)
+-  11 [Propeller Survey Exit suddenly not available for account?](https://afflift.com/f/threads/propeller-survey-exit-suddenly-not-available-for-account.12236/)
+-  11 [Sending Source ID back to affiliate network](https://afflift.com/f/threads/sending-source-id-back-to-affiliate-network.12225/)
+-  11 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
 -  11 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
--  11 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
--  11 [Hello from Rajasthan, india](https://afflift.com/f/threads/hello-from-rajasthan-india.12108/)<!-- afflift:END -->
+-  11 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
+-  11 [How to run Bing Ads: insights from practitioners](https://afflift.com/f/threads/how-to-run-bing-ads-insights-from-practitioners.12242/)
+-  11 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)
+-  11 [Early Glimpse, Big Impact: 2024 Trends To Supercharge Your XMas Campaigns!](https://afflift.com/f/threads/early-glimpse-big-impact-2024-trends-to-supercharge-your-xmas-campaigns.12240/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
