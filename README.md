@@ -73,6 +73,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [处理器简史｜PowerPC 10：烽火连天 颓势初显（下）](https://sspai.com/prime/story/ppc-history-10)
 -  11 [派评 | 近期值得关注的 App](https://sspai.com/post/84981)
 -  11 [何为 Bento 式布局，怎么生产力工具网站都在用？](https://sspai.com/post/84628)
 -  11 [告别折腾，获得稳定生产力：我的效率工具观](https://sspai.com/post/84938)
