@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [我的副业项目失败后在 Product Hunt 上被评为金融科技第一名](https://www.reddit.com/r/SideProject/comments/18fityf/my_side_project_ranked_1_fintech_on_product_hunt/)
 -  10 [第一款应用程序现已在 Product Hunt 上发布！| fastbatch.io 🚀](https://old.reddit.com/r/SaaS/comments/18ffud3/very_first_app_is_now_live_on_product_hunt/)
 -  10 [需要对我在多伦多的 10k MRR 发表一些见解](https://www.reddit.com/r/SideProject/comments/18ffhp5/need_some_insight_on_my_10k_mrr_in_toronto/)
 -  10 [我最近开始开发一款移动应用程序，它能帮助人们避免阅读冗长的自助书籍，并帮助你不忘记所学知识。有人想要吗？目前还不是很好](https://www.reddit.com/r/SideProject/comments/18ffecj/i_recently_started_work_on_a_mobile_app_that/)
@@ -24,8 +25,7 @@
 -  10 [为 Twitter Analytics 创建 Spotify Wrapped Showcase](https://www.reddit.com/r/SideProject/comments/18f7bf4/created_a_spotify_wrapped_showcase_for_twitter/)
 -  10 [我创建了一个数字旅行日记。](https://www.reddit.com/r/SideProject/comments/18f3g9r/i_have_created_a_digital_travel_diary/)
 -  10 [关于 Typosquatting Domains 的小型企业](https://www.reddit.com/r/SideProject/comments/18f3d1w/small_business_on_typosquatting_domains/)
--  10 [我们开发了一款运动健身追踪应用程序，让您的锻炼不再作弊](https://www.reddit.com/r/SideProject/comments/18f2wdg/we_build_a_motion_fitness_tracking_app_so_you/)
--  10 [收取滞纳金的日程安排](https://www.reddit.com/r/SideProject/comments/18f19z0/scheduling_with_a_late_fee/)<!-- sideproject:END -->
+-  10 [我们开发了一款运动健身追踪应用程序，让您的锻炼不再作弊](https://www.reddit.com/r/SideProject/comments/18f2wdg/we_build_a_motion_fitness_tracking_app_so_you/)<!-- sideproject:END -->
 
 
 ### 无忧分享
