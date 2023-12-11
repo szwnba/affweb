@@ -71,4 +71,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  09 [少数派的年终好价节：除了优惠满赠还有周边新品](https://sspai.com/post/84926)<!-- sspai:END -->
+-  11 [派早报：苹果封杀 iMessage 兼容应用 Beeper Mini](https://sspai.com/post/84962)<!-- sspai:END -->
