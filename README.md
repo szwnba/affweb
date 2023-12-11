@@ -6,6 +6,10 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [建立人工智能后](https://old.reddit.com/r/SideProject/comments/18fry41/after_building_my_ai/)
+-  11 [我很高兴能推出一款 Youtube 摘要应用程序，但我发现竞争太激烈了......](https://www.reddit.com/r/SideProject/comments/18fraer/i_was_happy_to_launch_a_youtube_summarizer_app/)
+-  11 [我创建了一个网站，捕捉每天最热门的趋势，帮助您打造下一个产品](https://www.reddit.com/r/SideProject/comments/18fqdn9/i_have_created_a_website_that_captures_the/)
+-  11 [BIP :：推出我的演示环境（人人都能使用的简易看板）](https://demo.dailytoo.com/)
 -  11 [我做了一个应用程序，当你离开去点咖啡时，如果有人试图偷走你的 Mac，它会给你打电话 📞 ☕️](https://www.reddit.com/r/SideProject/comments/18focck/i_made_an_app_that_gives_you_a_call_if_someone/)
 -  11 [我做了一个网站，可以将 URL 和文本转换成可分享的视频短片](https://www.reddit.com/r/SideProject/comments/18fonep/i_made_a_website_that_turns_urls_and_text_into/)
 -  11 [我正在与一家人工智能初创公司合作开展一个名为 Click2.ai 的项目！](https://www.reddit.com/r/SideProject/comments/18flweg/im_working_alongside_a_ai_startup_company_on_this/)
@@ -21,11 +25,7 @@
 -  10 [推出个人理财通讯《The Crunch》[更新 #1]](https://www.reddit.com/r/SideProject/comments/18fcvo7/launching_the_crunch_a_personal_finance/)
 -  10 [我创建了一个 macOS 应用程序，它可以让你通过快捷方式在所有应用程序中使用 ChatGPT](https://www.reddit.com/r/SideProject/comments/18fcsct/i_built_a_macos_app_that_lets_you_use_chatgpt/)
 -  10 [我制作了一个免费的 Lofi 电台应用程序，全天候播放 Lofi 节拍🎧📚。](https://www.reddit.com/r/SideProject/comments/18fcrdu/i_made_a_free_lofi_radio_app_that_streams_247/)
--  10 [为圣诞礼物而烦恼？我创建了一个免费的 AI 工具来寻找完美的礼物创意！](https://www.reddit.com/r/SideProject/comments/18fbrit/struggling_with_christmas_gifts_i_created_a_free/)
--  10 [从副业项目到初创企业：我的尝试，让旅程更轻松](https://www.reddit.com/r/SideProject/comments/18fbnok/from_side_projects_to_startups_my_attempt_to_ease/)
--  10 [我的独行侠之旅：游牧 6 个月，打造 6 个项目的 6 条经验](https://www.reddit.com/r/SideProject/comments/18f952t/my_solopreneur_journey_6_lessons_from_building_6/)
--  10 [我的新副业一周内意外赚了 4.8 万美元 🤯](https://www.reddit.com/r/SideProject/comments/18f9b3y/i_accidentally_made_48000_with_my_new_side/)
--  10 [我从零开始制作了一个教育变压器](https://www.reddit.com/r/SideProject/comments/18f92lx/i_made_an_educational_transformer_from_scratch/)<!-- sideproject:END -->
+-  10 [为圣诞礼物而烦恼？我创建了一个免费的 AI 工具来寻找完美的礼物创意！](https://www.reddit.com/r/SideProject/comments/18fbrit/struggling_with_christmas_gifts_i_created_a_free/)<!-- sideproject:END -->
 
 
 ### 无忧分享
