@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [人工智能生成摇篮曲，为您和孩子朗读](https://www.reddit.com/r/SideProject/comments/18g5lds/ai_generated_lullabies_that_are_read_aloud_to_you/)
 -  11 [失去动力](https://www.reddit.com/r/SideProject/comments/18g3gxz/lost_motivation/)
 -  11 [我制作了一个应用程序，它可以充当实时旅行指南（又一个旅行指南？）](https://www.reddit.com/r/SideProject/comments/18ftaj6/i_made_an_app_that_acts_as_a_travel_guide_in_real/)
 -  11 [在 Product Hunt 上发布，但没有注册......我做错了什么？](https://www.reddit.com/r/SideProject/comments/18g2dbs/launching_on_product_hunt_but_no_sign_ups_what_am/)
@@ -24,8 +25,7 @@
 -  11 [您对带有虚拟人工智能角色的《Date Me Docs》有什么看法？](https://www.reddit.com/r/SideProject/comments/18fn3mk/what_are_your_thoughts_in_date_me_docs_with/)
 -  11 [建立人工智能后](https://old.reddit.com/r/SideProject/comments/18fry41/after_building_my_ai/)
 -  11 [我很高兴能推出一款 Youtube 摘要应用程序，但我发现竞争太激烈了......](https://www.reddit.com/r/SideProject/comments/18fraer/i_was_happy_to_launch_a_youtube_summarizer_app/)
--  11 [我创建了一个网站，捕捉每天最热门的趋势，帮助您打造下一个产品](https://www.reddit.com/r/SideProject/comments/18fqdn9/i_have_created_a_website_that_captures_the/)
--  11 [BIP :：推出我的演示环境（人人都能使用的简易看板）](https://demo.dailytoo.com/)<!-- sideproject:END -->
+-  11 [我创建了一个网站，捕捉每天最热门的趋势，帮助您打造下一个产品](https://www.reddit.com/r/SideProject/comments/18fqdn9/i_have_created_a_website_that_captures_the/)<!-- sideproject:END -->
 
 
 ### 无忧分享
