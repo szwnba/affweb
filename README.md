@@ -58,6 +58,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  11 [From Zero to Hero in Dating: Adsterra Traffic&#39;s Game-Changing Formula! #ADSTERRAx2](https://afflift.com/f/threads/from-zero-to-hero-in-dating-adsterra-traffics-game-changing-formula-adsterrax2.11962/)
 -  11 [Confused beginner](https://afflift.com/f/threads/confused-beginner.12233/)
 -  11 [Money to get started with affiliate marketing](https://afflift.com/f/threads/money-to-get-started-with-affiliate-marketing.12234/)
 -  11 [I made $30,000 off a domain!](https://afflift.com/f/threads/i-made-30-000-off-a-domain.6490/)
@@ -67,9 +69,7 @@
 -  11 [Voluum PHP LP Protect issue](https://afflift.com/f/threads/voluum-php-lp-protect-issue.12223/)
 -  10 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
 -  10 [Is there anyone who is making a constant profit from the Zeydoo + Adsterra CPA network?](https://afflift.com/f/threads/is-there-anyone-who-is-making-a-constant-profit-from-the-zeydoo-adsterra-cpa-network.12230/)
--  10 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)
--  10 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  10 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)<!-- afflift:END -->
+-  10 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
