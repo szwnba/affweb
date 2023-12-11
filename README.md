@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  11 [有人推荐 Facebook 营销工具吗？](https://www.reddit.com/r/SideProject/comments/18fuqkr/tool_recommendation_for_facebook_marketing_anyone/)
+-  11 [奥德赛无需一行代码即可在本地连接和运行人工智能模型](https://www.reddit.com/r/SideProject/comments/18ftjiv/odyssey_connect_and_run_ai_models_locally_without/)
 -  11 [您如何看待为副业经营者提供的直接整合工厂的商业/电子商务工具？](https://www.reddit.com/r/SideProject/comments/18ftzll/what_are_your_thoughts_on_a_merchecom_tool_for/)
 -  11 [嵌入式或自托管偏好页面，您会选择在产品通知系统中实施哪种方式？](https://old.reddit.com/r/selfhosted/comments/18fts6k/embedded_or_selfhosted_preference_page_what_would/)
 -  11 [您对带有虚拟人工智能角色的《Date Me Docs》有什么看法？](https://www.reddit.com/r/SideProject/comments/18fn3mk/what_are_your_thoughts_in_date_me_docs_with/)
@@ -23,9 +25,7 @@
 -  10 [第一款应用程序现已在 Product Hunt 上发布！| fastbatch.io 🚀](https://old.reddit.com/r/SaaS/comments/18ffud3/very_first_app_is_now_live_on_product_hunt/)
 -  10 [需要对我在多伦多的 10k MRR 发表一些见解](https://www.reddit.com/r/SideProject/comments/18ffhp5/need_some_insight_on_my_10k_mrr_in_toronto/)
 -  10 [我最近开始开发一款移动应用程序，它能帮助人们避免阅读冗长的自助书籍，并帮助你不忘记所学知识。有人想要吗？目前还不是很好](https://www.reddit.com/r/SideProject/comments/18ffecj/i_recently_started_work_on_a_mobile_app_that/)
--  10 [幼儿时间》iOS 应用程序，提供无屏幕、基于游戏的活动](https://www.reddit.com/r/SideProject/comments/18fdswi/toddler_time_ios_app_for_screen_free_play_based/)
--  10 [我正在开发一个通货膨胀调整收入的工具。希望您能提供反馈意见。](https://www.reddit.com/r/SideProject/comments/18fdftf/im_working_on_an_inflationadjusting_income_tool_i/)
--  10 [推出个人理财通讯《The Crunch》[更新 #1]](https://www.reddit.com/r/SideProject/comments/18fcvo7/launching_the_crunch_a_personal_finance/)<!-- sideproject:END -->
+-  10 [幼儿时间》iOS 应用程序，提供无屏幕、基于游戏的活动](https://www.reddit.com/r/SideProject/comments/18fdswi/toddler_time_ios_app_for_screen_free_play_based/)<!-- sideproject:END -->
 
 
 ### 无忧分享
