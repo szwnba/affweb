@@ -55,6 +55,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  12 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  12 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
 -  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
@@ -65,8 +66,7 @@
 -  11 [How to run Bing Ads: insights from practitioners](https://afflift.com/f/threads/how-to-run-bing-ads-insights-from-practitioners.12242/)
 -  11 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
 -  11 [revshare really works?](https://afflift.com/f/threads/revshare-really-works.12245/)
--  11 [Propeller Survey Exit suddenly not available for account?](https://afflift.com/f/threads/propeller-survey-exit-suddenly-not-available-for-account.12236/)
--  11 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)<!-- afflift:END -->
+-  11 [Propeller Survey Exit suddenly not available for account?](https://afflift.com/f/threads/propeller-survey-exit-suddenly-not-available-for-account.12236/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
