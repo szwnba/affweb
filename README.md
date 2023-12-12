@@ -54,18 +54,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  12 [Neep LP &amp; advise](https://afflift.com/f/threads/neep-lp-advise.12247/)
 -  12 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  12 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
+-  12 [How to integrate this Affiliate Network with Bemob?](https://afflift.com/f/threads/how-to-integrate-this-affiliate-network-with-bemob.12249/)
+-  12 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  12 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  12 [Telegram’s Dating Game: The Winning Affiliate Marketing Strategy](https://afflift.com/f/threads/telegram%E2%80%99s-dating-game-the-winning-affiliate-marketing-strategy.12244/)
+-  12 [Neep LP &amp; advise](https://afflift.com/f/threads/neep-lp-advise.12247/)
+-  12 [Casino And Gambling Niche - Google And FB Questions + Some Tips](https://afflift.com/f/threads/casino-and-gambling-niche-google-and-fb-questions-some-tips.12250/)
 -  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  12 [[$50/hour consultation] Redtrack &amp; Everflow Tracking Integration](https://afflift.com/f/threads/50-hour-consultation-redtrack-everflow-tracking-integration.12248/)
 -  12 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  12 [Adsterra CPA #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-cpa-adsterrax2-vote-for-your-favorite-follow-along.12190/)
--  12 [Adsterra Traffic #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-traffic-adsterrax2-vote-for-your-favorite-follow-along.12189/)
--  12 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  12 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)
--  12 [Confused beginner](https://afflift.com/f/threads/confused-beginner.12233/)
--  12 [Any help?](https://afflift.com/f/threads/any-help.12231/)<!-- afflift:END -->
+-  12 [Adsterra CPA #ADSTERRAx2 - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/adsterra-cpa-adsterrax2-vote-for-your-favorite-follow-along.12190/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
