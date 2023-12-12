@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  12 [改变项目管理的工具：认识 Chrono！](https://www.reddit.com/r/SideProject/comments/18gfjtm/a_tool_to_transform_your_side_project_management/)
+-  12 [Nostr 追随者工具](https://follows.lol/)
 -  12 [考虑搬家的人，你们觉得这个主意怎么样？](https://www.reddit.com/r/SideProject/comments/18gc2dq/anyone_considering_moving_what_do_you_think_about/)
 -  12 [扑克大乱斗基于 ELO 的免费通信扑克](https://www.reddit.com/r/SideProject/comments/18g8g38/poker_brawl_free_elobased_correspondence_poker/)
 -  12 [[优惠] 锻炼计划，让你正确锻炼！](https://www.reddit.com/r/SideProject/comments/18g7l0x/offer_workout_plan_to_get_you_right/)
@@ -23,9 +25,7 @@
 -  11 [我们开发了一个开源、白标 SaaS 项目，帮助您开始对话式人工智能副业。](https://www.reddit.com/r/SideProject/comments/18g01qf/we_made_an_opensource_whitelabel_saas_project_to/)
 -  11 [我创建了一个工具，帮助您减少 CHRUN，提高 MRR](https://www.reddit.com/r/SideProject/comments/18fzt1s/i_built_a_tool_to_help_you_to_reduce_your_chrun/)
 -  11 [你打算在 2024 年全职从事你的副业吗？怎么做？](https://www.reddit.com/r/SideProject/comments/18fwdo0/do_you_plan_on_taking_your_side_project_full_time/)
--  11 [我的副业终于成功了！在 8 年中失败了 5 个项目之后](https://www.reddit.com/r/SideProject/comments/18fw8i4/finally_having_success_with_my_side_project_after/)
--  11 [我制作了一个 GPT-4 聊天机器人，它能为您创建一个漂亮的网站](https://www.reddit.com/r/SideProject/comments/18fw3a0/i_made_a_gpt4_chatbot_that_creates_a_beautiful/)
--  11 [有人推荐 Facebook 营销工具吗？](https://www.reddit.com/r/SideProject/comments/18fuqkr/tool_recommendation_for_facebook_marketing_anyone/)<!-- sideproject:END -->
+-  11 [我的副业终于成功了！在 8 年中失败了 5 个项目之后](https://www.reddit.com/r/SideProject/comments/18fw8i4/finally_having_success_with_my_side_project_after/)<!-- sideproject:END -->
 
 
 ### 无忧分享
