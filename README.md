@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  12 [Genji - 在 Chrome 浏览器上自动执行任何任务](https://old.reddit.com/r/SideProject/comments/18gnc5i/genji_automate_any_task_on_chrome/)
 -  12 [寻找联合创始人](https://www.reddit.com/r/SideProject/comments/18gm9a9/looking_for_a_cofounder/)
 -  12 [我做了一个应用程序，一夜之间造出了独角兽](https://www.reddit.com/r/SideProject/comments/18gle83/i_made_an_app_to_build_a_unicorn_overnight/)
 -  12 [我建立了我们从未意识到的初创企业名录](https://old.reddit.com/r/SideProject/comments/18gkeut/i_built_the_startup_directory_we_never_knew_we/)
@@ -24,8 +25,7 @@
 -  12 [我的小求职板现在有 500 美元的 MRR](https://www.reddit.com/r/SideProject/comments/18g7d9a/my_little_job_board_now_has_500_mrr/)
 -  12 [Spliit v2 - Splitwise 的开源替代软件](https://www.reddit.com/r/SideProject/comments/18g1yoa/spliit_v2_open_source_alternative_to_splitwise/)
 -  11 [利基设计订阅服务](https://www.reddit.com/r/SideProject/comments/18g4yuu/niche_design_subscription_services/)
--  11 [我由 DigitalOcean 正式赞助！](https://old.reddit.com/r/SideProject/comments/18g6vcx/i_am_officially_sponsored_by_digitalocean/)
--  11 [人工智能生成摇篮曲，为您和孩子朗读](https://www.reddit.com/r/SideProject/comments/18g5lds/ai_generated_lullabies_that_are_read_aloud_to_you/)<!-- sideproject:END -->
+-  11 [我由 DigitalOcean 正式赞助！](https://old.reddit.com/r/SideProject/comments/18g6vcx/i_am_officially_sponsored_by_digitalocean/)<!-- sideproject:END -->
 
 
 ### 无忧分享
