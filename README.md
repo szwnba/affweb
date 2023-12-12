@@ -43,8 +43,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  12 [被当牛马戏弄后的个人感想](https://www.advertcn.com/thread-113278-1-1.html)
--  11 [跟叶明达成协议的八万老哥 你被耍了  ！已经去夜总会了](https://www.advertcn.com/thread-113272-1-1.html)
--  11 [谷歌联盟收费是用国内银行卡直接收款还是派安盈收款的？](https://www.advertcn.com/thread-113268-1-1.html)<!-- advertcn3:END -->
+-  11 [跟叶明达成协议的八万老哥 你被耍了  ！已经去夜总会了](https://www.advertcn.com/thread-113272-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
