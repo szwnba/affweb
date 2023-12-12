@@ -56,13 +56,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  11 [Testing Landing Pages with light and dark theme?](https://afflift.com/f/threads/testing-landing-pages-with-light-and-dark-theme.12243/)
 -  11 [What to do when Zeydoo offer domain expires?](https://afflift.com/f/threads/what-to-do-when-zeydoo-offer-domain-expires.12241/)
 -  11 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
 -  11 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
 -  11 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  11 [How to run Bing Ads: insights from practitioners](https://afflift.com/f/threads/how-to-run-bing-ads-insights-from-practitioners.12242/)
--  11 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  11 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
 -  11 [revshare really works?](https://afflift.com/f/threads/revshare-really-works.12245/)
 -  11 [Propeller Survey Exit suddenly not available for account?](https://afflift.com/f/threads/propeller-survey-exit-suddenly-not-available-for-account.12236/)
