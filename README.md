@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  12 [4 天的副业给我带来了 1000 美元/年的收入！一个集成了人工智能的安卓应用程序🚀，我能卖多少钱？有什么想法吗？](https://old.reddit.com/r/SideProject/comments/18gi3tf/4_days_side_project_brings_me_1000year_an_android/)
 -  12 [写了一个 memey chrome 扩展程序](https://www.reddit.com/r/SideProject/comments/18gih7y/wrote_a_memey_chrome_extension/)
 -  12 [烘烤您的产品导向型增长战略](https://www.reddit.com/r/SideProject/comments/18ghtjj/roast_your_productled_growth_strategy/)
 -  12 [我有 160 万用户，但却全部丢失：在公共场合建立系统是最佳策略吗？](https://www.reddit.com/r/SideProject/comments/18ghsrg/i_got_16k_users_and_lost_them_all_is_building_in/)
@@ -24,8 +25,7 @@
 -  11 [失去动力](https://www.reddit.com/r/SideProject/comments/18g3gxz/lost_motivation/)
 -  11 [我制作了一个应用程序，它可以充当实时旅行指南（又一个旅行指南？）](https://www.reddit.com/r/SideProject/comments/18ftaj6/i_made_an_app_that_acts_as_a_travel_guide_in_real/)
 -  11 [在 Product Hunt 上发布，但没有注册......我做错了什么？](https://www.reddit.com/r/SideProject/comments/18g2dbs/launching_on_product_hunt_but_no_sign_ups_what_am/)
--  11 [App Store 中针对 Z 世代的新社交日历应用程序 🚀 🚀](https://www.reddit.com/r/SideProject/comments/18g1o4g/new_social_calendar_app_targeting_gen_z_in_the/)
--  11 [4 天内从 0 到 +600 个免费新用户。我们是这样做的](https://old.reddit.com/r/SideProject/comments/18g0aqx/from_0_to_600_free_new_users_in_4_days_heres_how/)<!-- sideproject:END -->
+-  11 [App Store 中针对 Z 世代的新社交日历应用程序 🚀 🚀](https://www.reddit.com/r/SideProject/comments/18g1o4g/new_social_calendar_app_targeting_gen_z_in_the/)<!-- sideproject:END -->
 
 
 ### 无忧分享
