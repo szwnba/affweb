@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  12 [写了一个 memey chrome 扩展程序](https://www.reddit.com/r/SideProject/comments/18gih7y/wrote_a_memey_chrome_extension/)
+-  12 [烘烤您的产品导向型增长战略](https://www.reddit.com/r/SideProject/comments/18ghtjj/roast_your_productled_growth_strategy/)
+-  12 [我有 160 万用户，但却全部丢失：在公共场合建立系统是最佳策略吗？](https://www.reddit.com/r/SideProject/comments/18ghsrg/i_got_16k_users_and_lost_them_all_is_building_in/)
 -  12 [烤我的另类社交媒体](https://www.reddit.com/r/SideProject/comments/18gcooa/roast_my_alternative_social_media/)
 -  12 [从 NoCode 到 LowCode 再到我的第一个作品集](https://www.reddit.com/r/SideProject/comments/18ggt20/from_nocode_to_lowcode_to_my_first_portfolio/)
 -  12 [改变项目管理的工具：认识 Chrono！](https://www.reddit.com/r/SideProject/comments/18gfjtm/a_tool_to_transform_your_side_project_management/)
@@ -22,10 +25,7 @@
 -  11 [我制作了一个应用程序，它可以充当实时旅行指南（又一个旅行指南？）](https://www.reddit.com/r/SideProject/comments/18ftaj6/i_made_an_app_that_acts_as_a_travel_guide_in_real/)
 -  11 [在 Product Hunt 上发布，但没有注册......我做错了什么？](https://www.reddit.com/r/SideProject/comments/18g2dbs/launching_on_product_hunt_but_no_sign_ups_what_am/)
 -  11 [App Store 中针对 Z 世代的新社交日历应用程序 🚀 🚀](https://www.reddit.com/r/SideProject/comments/18g1o4g/new_social_calendar_app_targeting_gen_z_in_the/)
--  11 [4 天内从 0 到 +600 个免费新用户。我们是这样做的](https://old.reddit.com/r/SideProject/comments/18g0aqx/from_0_to_600_free_new_users_in_4_days_heres_how/)
--  11 [创建用户群](https://www.reddit.com/r/SideProject/comments/18fy7yv/creating_a_userbase/)
--  11 [我们开发了一个开源、白标 SaaS 项目，帮助您开始对话式人工智能副业。](https://www.reddit.com/r/SideProject/comments/18g01qf/we_made_an_opensource_whitelabel_saas_project_to/)
--  11 [我创建了一个工具，帮助您减少 CHRUN，提高 MRR](https://www.reddit.com/r/SideProject/comments/18fzt1s/i_built_a_tool_to_help_you_to_reduce_your_chrun/)<!-- sideproject:END -->
+-  11 [4 天内从 0 到 +600 个免费新用户。我们是这样做的](https://old.reddit.com/r/SideProject/comments/18g0aqx/from_0_to_600_free_new_users_in_4_days_heres_how/)<!-- sideproject:END -->
 
 
 ### 无忧分享
