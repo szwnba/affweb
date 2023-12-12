@@ -72,6 +72,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [有奖征文 | 为负面情绪找个出口，「放轻松」这件事其实很重要](https://sspai.com/post/84979)
 -  12 [派早报：外卖 App 个人信息收集情况测试报告出炉等](https://sspai.com/post/84995)
 -  11 [处理器简史｜PowerPC 10：烽火连天 颓势初显（下）](https://sspai.com/prime/story/ppc-history-10)
 -  11 [派评 | 近期值得关注的 App](https://sspai.com/post/84981)
