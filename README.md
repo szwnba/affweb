@@ -55,18 +55,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [Neep LP &amp; advise](https://afflift.com/f/threads/neep-lp-advise.12247/)
+-  12 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
+-  12 [How Do You Spend Your Affiliate Marketing Earnings? Share in Our Survey!](https://afflift.com/f/threads/how-do-you-spend-your-affiliate-marketing-earnings-share-in-our-survey.12252/)
+-  12 [Casino And Gambling Niche - Google And FB Questions + Some Tips](https://afflift.com/f/threads/casino-and-gambling-niche-google-and-fb-questions-some-tips.12250/)
 -  12 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
+-  12 [Neep LP &amp; advise](https://afflift.com/f/threads/neep-lp-advise.12247/)
 -  12 [How to integrate this Affiliate Offer with Bemob?](https://afflift.com/f/threads/how-to-integrate-this-affiliate-offer-with-bemob.12249/)
 -  12 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  12 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)
 -  12 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
 -  12 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
 -  12 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
--  12 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
--  12 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
--  12 [Telegram’s Dating Game: The Winning Affiliate Marketing Strategy](https://afflift.com/f/threads/telegram%E2%80%99s-dating-game-the-winning-affiliate-marketing-strategy.12244/)
--  12 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)<!-- afflift:END -->
+-  12 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
