@@ -6,6 +6,8 @@
 
 ### side project
 <!-- sideproject:START -->
+-  12 [人工智能营销人员的真实生活 | 全球发布 | LinkedIn](https://www.linkedin.com/events/thereallivesofaimarketers-world7139962345484701696/theater/)
+-  12 [我创建了一个简单的工具来管理你的设计系统！](https://www.reddit.com/r/SideProject/comments/18godf0/i_built_a_simple_tool_to_manage_your_design/)
 -  12 [Genji - 在 Chrome 浏览器上自动执行任何任务](https://old.reddit.com/r/SideProject/comments/18gnc5i/genji_automate_any_task_on_chrome/)
 -  12 [寻找联合创始人](https://www.reddit.com/r/SideProject/comments/18gm9a9/looking_for_a_cofounder/)
 -  12 [我做了一个应用程序，一夜之间造出了独角兽](https://www.reddit.com/r/SideProject/comments/18gle83/i_made_an_app_to_build_a_unicorn_overnight/)
@@ -23,9 +25,7 @@
 -  12 [扑克大乱斗基于 ELO 的免费通信扑克](https://www.reddit.com/r/SideProject/comments/18g8g38/poker_brawl_free_elobased_correspondence_poker/)
 -  12 [[优惠] 锻炼计划，让你正确锻炼！](https://www.reddit.com/r/SideProject/comments/18g7l0x/offer_workout_plan_to_get_you_right/)
 -  12 [我的小求职板现在有 500 美元的 MRR](https://www.reddit.com/r/SideProject/comments/18g7d9a/my_little_job_board_now_has_500_mrr/)
--  12 [Spliit v2 - Splitwise 的开源替代软件](https://www.reddit.com/r/SideProject/comments/18g1yoa/spliit_v2_open_source_alternative_to_splitwise/)
--  11 [利基设计订阅服务](https://www.reddit.com/r/SideProject/comments/18g4yuu/niche_design_subscription_services/)
--  11 [我由 DigitalOcean 正式赞助！](https://old.reddit.com/r/SideProject/comments/18g6vcx/i_am_officially_sponsored_by_digitalocean/)<!-- sideproject:END -->
+-  12 [Spliit v2 - Splitwise 的开源替代软件](https://www.reddit.com/r/SideProject/comments/18g1yoa/spliit_v2_open_source_alternative_to_splitwise/)<!-- sideproject:END -->
 
 
 ### 无忧分享
