@@ -70,8 +70,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [社区速递 024 | NotebookLM、AI 整活以及绍兴之旅](https://sspai.com/post/85007)
 -  12 [TESTV 与少数派，理想主义团队的创业怎么就这么难？](https://sspai.com/post/84563)
 -  12 [讨论 TGA 和年度游戏时，我们还可以聊些什么？](https://sspai.com/post/84976)
 -  12 [有奖征文 | 为负面情绪找个出口，「放轻松」这件事其实很重要](https://sspai.com/post/84979)
--  12 [派早报：外卖 App 个人信息收集情况测试报告出炉等](https://sspai.com/post/84995)
--  11 [处理器简史｜PowerPC 10：烽火连天 颓势初显（下）](https://sspai.com/prime/story/ppc-history-10)<!-- sspai:END -->
+-  12 [派早报：外卖 App 个人信息收集情况测试报告出炉等](https://sspai.com/post/84995)<!-- sspai:END -->
