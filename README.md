@@ -6,6 +6,9 @@
 
 ### side project
 <!-- sideproject:START -->
+-  12 [用 python 和 Pygame 编写的 T Rex 跑酷游戏。源代码在说明中](https://www.youtube.com/watch?v=pZySIXSelCA)
+-  12 [控制台流媒体服务器 - DNS+RTMP 服务器，无需采集卡即可将控制台流媒体发送至个人电脑](https://github.com/Aioros/console-streaming-server)
+-  12 [我开发了一款人工智能语音导览应用程序，但几乎没有用户](https://www.reddit.com/r/SideProject/comments/18gpp0e/ive_built_an_ai_audio_tour_app_but_have_almost_no/)
 -  12 [人工智能营销人员的真实生活 | 全球发布 | LinkedIn](https://www.linkedin.com/events/thereallivesofaimarketers-world7139962345484701696/theater/)
 -  12 [我创建了一个简单的工具来管理你的设计系统！](https://www.reddit.com/r/SideProject/comments/18godf0/i_built_a_simple_tool_to_manage_your_design/)
 -  12 [Genji - 在 Chrome 浏览器上自动执行任何任务](https://old.reddit.com/r/SideProject/comments/18gnc5i/genji_automate_any_task_on_chrome/)
@@ -22,10 +25,7 @@
 -  12 [改变项目管理的工具：认识 Chrono！](https://www.reddit.com/r/SideProject/comments/18gfjtm/a_tool_to_transform_your_side_project_management/)
 -  12 [Nostr 追随者工具](https://follows.lol/)
 -  12 [考虑搬家的人，你们觉得这个主意怎么样？](https://www.reddit.com/r/SideProject/comments/18gc2dq/anyone_considering_moving_what_do_you_think_about/)
--  12 [扑克大乱斗基于 ELO 的免费通信扑克](https://www.reddit.com/r/SideProject/comments/18g8g38/poker_brawl_free_elobased_correspondence_poker/)
--  12 [[优惠] 锻炼计划，让你正确锻炼！](https://www.reddit.com/r/SideProject/comments/18g7l0x/offer_workout_plan_to_get_you_right/)
--  12 [我的小求职板现在有 500 美元的 MRR](https://www.reddit.com/r/SideProject/comments/18g7d9a/my_little_job_board_now_has_500_mrr/)
--  12 [Spliit v2 - Splitwise 的开源替代软件](https://www.reddit.com/r/SideProject/comments/18g1yoa/spliit_v2_open_source_alternative_to_splitwise/)<!-- sideproject:END -->
+-  12 [扑克大乱斗基于 ELO 的免费通信扑克](https://www.reddit.com/r/SideProject/comments/18g8g38/poker_brawl_free_elobased_correspondence_poker/)<!-- sideproject:END -->
 
 
 ### 无忧分享
