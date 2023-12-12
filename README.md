@@ -54,18 +54,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
+-  12 [Telegram’s Dating Game: The Winning Affiliate Marketing Strategy](https://afflift.com/f/threads/telegram%E2%80%99s-dating-game-the-winning-affiliate-marketing-strategy.12244/)
 -  12 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
 -  12 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  12 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  12 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
 -  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  11 [Testing Landing Pages with light and dark theme?](https://afflift.com/f/threads/testing-landing-pages-with-light-and-dark-theme.12243/)
 -  11 [What to do when Zeydoo offer domain expires?](https://afflift.com/f/threads/what-to-do-when-zeydoo-offer-domain-expires.12241/)
 -  11 [Niche Website Promoting Evergreen Websites](https://afflift.com/f/threads/niche-website-promoting-evergreen-websites.11872/)
 -  11 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
 -  11 [How to run Bing Ads: insights from practitioners](https://afflift.com/f/threads/how-to-run-bing-ads-insights-from-practitioners.12242/)
--  11 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
--  11 [revshare really works?](https://afflift.com/f/threads/revshare-really-works.12245/)<!-- afflift:END -->
+-  11 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
