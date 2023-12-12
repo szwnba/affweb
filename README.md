@@ -55,6 +55,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
+-  12 [revshare really works?](https://afflift.com/f/threads/revshare-really-works.12245/)
+-  12 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
+-  12 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
 -  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  12 [🔥 TUT FIXES TO KEEP A $75 ACCOUNT🔥](https://afflift.com/f/threads/%F0%9F%94%A5-tut-fixes-to-keep-a-75-account%F0%9F%94%A5.12235/)
 -  12 [How do you structure your flow on POP/Push?](https://afflift.com/f/threads/how-do-you-structure-your-flow-on-pop-push.12226/)
@@ -62,11 +66,7 @@
 -  12 [Testing Landing Pages with light and dark theme?](https://afflift.com/f/threads/testing-landing-pages-with-light-and-dark-theme.12243/)
 -  12 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
 -  12 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
--  12 [Telegram’s Dating Game: The Winning Affiliate Marketing Strategy](https://afflift.com/f/threads/telegram%E2%80%99s-dating-game-the-winning-affiliate-marketing-strategy.12244/)
--  12 [Bemob showing inflated prices](https://afflift.com/f/threads/bemob-showing-inflated-prices.12192/)
--  12 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  12 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  11 [What to do when Zeydoo offer domain expires?](https://afflift.com/f/threads/what-to-do-when-zeydoo-offer-domain-expires.12241/)<!-- afflift:END -->
+-  12 [Telegram’s Dating Game: The Winning Affiliate Marketing Strategy](https://afflift.com/f/threads/telegram%E2%80%99s-dating-game-the-winning-affiliate-marketing-strategy.12244/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
