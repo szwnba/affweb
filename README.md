@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  12 [扑克大乱斗基于 ELO 的免费通信扑克](https://www.reddit.com/r/SideProject/comments/18g8g38/poker_brawl_free_elobased_correspondence_poker/)
 -  12 [[优惠] 锻炼计划，让你正确锻炼！](https://www.reddit.com/r/SideProject/comments/18g7l0x/offer_workout_plan_to_get_you_right/)
 -  12 [我的小求职板现在有 500 美元的 MRR](https://www.reddit.com/r/SideProject/comments/18g7d9a/my_little_job_board_now_has_500_mrr/)
 -  12 [Spliit v2 - Splitwise 的开源替代软件](https://www.reddit.com/r/SideProject/comments/18g1yoa/spliit_v2_open_source_alternative_to_splitwise/)
@@ -24,8 +25,7 @@
 -  11 [我的副业终于成功了！在 8 年中失败了 5 个项目之后](https://www.reddit.com/r/SideProject/comments/18fw8i4/finally_having_success_with_my_side_project_after/)
 -  11 [我制作了一个 GPT-4 聊天机器人，它能为您创建一个漂亮的网站](https://www.reddit.com/r/SideProject/comments/18fw3a0/i_made_a_gpt4_chatbot_that_creates_a_beautiful/)
 -  11 [有人推荐 Facebook 营销工具吗？](https://www.reddit.com/r/SideProject/comments/18fuqkr/tool_recommendation_for_facebook_marketing_anyone/)
--  11 [奥德赛无需一行代码即可在本地连接和运行人工智能模型](https://www.reddit.com/r/SideProject/comments/18ftjiv/odyssey_connect_and_run_ai_models_locally_without/)
--  11 [您如何看待为副业经营者提供的直接整合工厂的商业/电子商务工具？](https://www.reddit.com/r/SideProject/comments/18ftzll/what_are_your_thoughts_on_a_merchecom_tool_for/)<!-- sideproject:END -->
+-  11 [奥德赛无需一行代码即可在本地连接和运行人工智能模型](https://www.reddit.com/r/SideProject/comments/18ftjiv/odyssey_connect_and_run_ai_models_locally_without/)<!-- sideproject:END -->
 
 
 ### 无忧分享
