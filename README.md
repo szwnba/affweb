@@ -55,18 +55,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)
+-  12 [Confused beginner](https://afflift.com/f/threads/confused-beginner.12233/)
+-  12 [Neep LP &amp; advise](https://afflift.com/f/threads/neep-lp-advise.12247/)
+-  12 [Any help?](https://afflift.com/f/threads/any-help.12231/)
 -  12 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
+-  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  12 [revshare really works?](https://afflift.com/f/threads/revshare-really-works.12245/)
 -  12 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  12 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
--  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  12 [🔥 TUT FIXES TO KEEP A $75 ACCOUNT🔥](https://afflift.com/f/threads/%F0%9F%94%A5-tut-fixes-to-keep-a-75-account%F0%9F%94%A5.12235/)
 -  12 [How do you structure your flow on POP/Push?](https://afflift.com/f/threads/how-do-you-structure-your-flow-on-pop-push.12226/)
--  12 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  12 [Testing Landing Pages with light and dark theme?](https://afflift.com/f/threads/testing-landing-pages-with-light-and-dark-theme.12243/)
--  12 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
--  12 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
--  12 [Telegram’s Dating Game: The Winning Affiliate Marketing Strategy](https://afflift.com/f/threads/telegram%E2%80%99s-dating-game-the-winning-affiliate-marketing-strategy.12244/)<!-- afflift:END -->
+-  12 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
