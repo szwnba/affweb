@@ -6,6 +6,11 @@
 
 ### side project
 <!-- sideproject:START -->
+-  12 [[优惠] 锻炼计划，让你正确锻炼！](https://www.reddit.com/r/SideProject/comments/18g7l0x/offer_workout_plan_to_get_you_right/)
+-  12 [我的小求职板现在有 500 美元的 MRR](https://www.reddit.com/r/SideProject/comments/18g7d9a/my_little_job_board_now_has_500_mrr/)
+-  12 [Spliit v2 - Splitwise 的开源替代软件](https://www.reddit.com/r/SideProject/comments/18g1yoa/spliit_v2_open_source_alternative_to_splitwise/)
+-  11 [利基设计订阅服务](https://www.reddit.com/r/SideProject/comments/18g4yuu/niche_design_subscription_services/)
+-  11 [我由 DigitalOcean 正式赞助！](https://old.reddit.com/r/SideProject/comments/18g6vcx/i_am_officially_sponsored_by_digitalocean/)
 -  11 [人工智能生成摇篮曲，为您和孩子朗读](https://www.reddit.com/r/SideProject/comments/18g5lds/ai_generated_lullabies_that_are_read_aloud_to_you/)
 -  11 [失去动力](https://www.reddit.com/r/SideProject/comments/18g3gxz/lost_motivation/)
 -  11 [我制作了一个应用程序，它可以充当实时旅行指南（又一个旅行指南？）](https://www.reddit.com/r/SideProject/comments/18ftaj6/i_made_an_app_that_acts_as_a_travel_guide_in_real/)
@@ -20,12 +25,7 @@
 -  11 [我制作了一个 GPT-4 聊天机器人，它能为您创建一个漂亮的网站](https://www.reddit.com/r/SideProject/comments/18fw3a0/i_made_a_gpt4_chatbot_that_creates_a_beautiful/)
 -  11 [有人推荐 Facebook 营销工具吗？](https://www.reddit.com/r/SideProject/comments/18fuqkr/tool_recommendation_for_facebook_marketing_anyone/)
 -  11 [奥德赛无需一行代码即可在本地连接和运行人工智能模型](https://www.reddit.com/r/SideProject/comments/18ftjiv/odyssey_connect_and_run_ai_models_locally_without/)
--  11 [您如何看待为副业经营者提供的直接整合工厂的商业/电子商务工具？](https://www.reddit.com/r/SideProject/comments/18ftzll/what_are_your_thoughts_on_a_merchecom_tool_for/)
--  11 [嵌入式或自托管偏好页面，您会选择在产品通知系统中实施哪种方式？](https://old.reddit.com/r/selfhosted/comments/18fts6k/embedded_or_selfhosted_preference_page_what_would/)
--  11 [您对带有虚拟人工智能角色的《Date Me Docs》有什么看法？](https://www.reddit.com/r/SideProject/comments/18fn3mk/what_are_your_thoughts_in_date_me_docs_with/)
--  11 [建立人工智能后](https://old.reddit.com/r/SideProject/comments/18fry41/after_building_my_ai/)
--  11 [我很高兴能推出一款 Youtube 摘要应用程序，但我发现竞争太激烈了......](https://www.reddit.com/r/SideProject/comments/18fraer/i_was_happy_to_launch_a_youtube_summarizer_app/)
--  11 [我创建了一个网站，捕捉每天最热门的趋势，帮助您打造下一个产品](https://www.reddit.com/r/SideProject/comments/18fqdn9/i_have_created_a_website_that_captures_the/)<!-- sideproject:END -->
+-  11 [您如何看待为副业经营者提供的直接整合工厂的商业/电子商务工具？](https://www.reddit.com/r/SideProject/comments/18ftzll/what_are_your_thoughts_on_a_merchecom_tool_for/)<!-- sideproject:END -->
 
 
 ### 无忧分享
