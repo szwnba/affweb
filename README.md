@@ -6,6 +6,7 @@
 
 ### side project
 <!-- sideproject:START -->
+-  12 [从 NoCode 到 LowCode 再到我的第一个作品集](https://www.reddit.com/r/SideProject/comments/18ggt20/from_nocode_to_lowcode_to_my_first_portfolio/)
 -  12 [改变项目管理的工具：认识 Chrono！](https://www.reddit.com/r/SideProject/comments/18gfjtm/a_tool_to_transform_your_side_project_management/)
 -  12 [Nostr 追随者工具](https://follows.lol/)
 -  12 [考虑搬家的人，你们觉得这个主意怎么样？](https://www.reddit.com/r/SideProject/comments/18gc2dq/anyone_considering_moving_what_do_you_think_about/)
@@ -24,8 +25,7 @@
 -  11 [创建用户群](https://www.reddit.com/r/SideProject/comments/18fy7yv/creating_a_userbase/)
 -  11 [我们开发了一个开源、白标 SaaS 项目，帮助您开始对话式人工智能副业。](https://www.reddit.com/r/SideProject/comments/18g01qf/we_made_an_opensource_whitelabel_saas_project_to/)
 -  11 [我创建了一个工具，帮助您减少 CHRUN，提高 MRR](https://www.reddit.com/r/SideProject/comments/18fzt1s/i_built_a_tool_to_help_you_to_reduce_your_chrun/)
--  11 [你打算在 2024 年全职从事你的副业吗？怎么做？](https://www.reddit.com/r/SideProject/comments/18fwdo0/do_you_plan_on_taking_your_side_project_full_time/)
--  11 [我的副业终于成功了！在 8 年中失败了 5 个项目之后](https://www.reddit.com/r/SideProject/comments/18fw8i4/finally_having_success_with_my_side_project_after/)<!-- sideproject:END -->
+-  11 [你打算在 2024 年全职从事你的副业吗？怎么做？](https://www.reddit.com/r/SideProject/comments/18fwdo0/do_you_plan_on_taking_your_side_project_full_time/)<!-- sideproject:END -->
 
 
 ### 无忧分享
