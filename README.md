@@ -47,17 +47,17 @@
 ### afflift
 <!-- afflift:START -->
 -  13 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
+-  13 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
+-  13 [Discrepancy between BeMob and PropellerAds Numbers](https://afflift.com/f/threads/discrepancy-between-bemob-and-propellerads-numbers.12253/)
 -  13 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  13 [Improper cost tracking &lpar;BeMob and PropellerAds&rpar;](https://afflift.com/f/threads/improper-cost-tracking-bemob-and-propellerads.11598/)
 -  13 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  13 [Do Magic Buttons bring magic conversions? Let&#39;s](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions-lets.12261/)
 -  13 [Running the eCommerce offer at HilltopAds: ROI 157,87%](https://afflift.com/f/threads/running-the-ecommerce-offer-at-hilltopads-roi-157-87.12262/)
 -  13 [Which Push network &lpar;as publisher&rpar; for Adult traffic](https://afflift.com/f/threads/which-push-network-as-publisher-for-adult-traffic.12254/)
--  13 [Discrepancy between BeMob and PropellerAds Numbers](https://afflift.com/f/threads/discrepancy-between-bemob-and-propellerads-numbers.12253/)
 -  13 [Looking to switch from Aweber to Sendy/SES](https://afflift.com/f/threads/looking-to-switch-from-aweber-to-sendy-ses.12260/)
 -  13 [How Do You Spend Your Affiliate Marketing Earnings? Share in Our Survey!](https://afflift.com/f/threads/how-do-you-spend-your-affiliate-marketing-earnings-share-in-our-survey.12252/)
--  13 [Casino And Gambling Niche - Google And FB Questions + Some Tips](https://afflift.com/f/threads/casino-and-gambling-niche-google-and-fb-questions-some-tips.12250/)
--  13 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)<!-- afflift:END -->
+-  13 [Casino And Gambling Niche - Google And FB Questions + Some Tips](https://afflift.com/f/threads/casino-and-gambling-niche-google-and-fb-questions-some-tips.12250/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
