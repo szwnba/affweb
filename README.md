@@ -50,8 +50,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [🌟 Introducing our sensational offer – a special promo code from PeerClick! 💥](https://afflift.com/f/threads/%F0%9F%8C%9F-introducing-our-sensational-offer-%E2%80%93-a-special-promo-code-from-peerclick-%F0%9F%92%A5.12257/)
+-  13 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  13 [Complete Guide to Advertizer CPA Campaigns &lpar;AKA How to Get Traffic from Monetizer&rpar;](https://afflift.com/f/threads/complete-guide-to-advertizer-cpa-campaigns-aka-how-to-get-traffic-from-monetizer.5266/)
+-  13 [🌟 Introducing our sensational offer – a special promo code from PeerClick! 💥](https://afflift.com/f/threads/%F0%9F%8C%9F-introducing-our-sensational-offer-%E2%80%93-a-special-promo-code-from-peerclick-%F0%9F%92%A5.12257/)
 -  13 [Discrepancy between BeMob and PropellerAds Numbers](https://afflift.com/f/threads/discrepancy-between-bemob-and-propellerads-numbers.12253/)
 -  13 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  13 [How to integrate this Affiliate Offer with Bemob?](https://afflift.com/f/threads/how-to-integrate-this-affiliate-offer-with-bemob.12249/)
@@ -60,8 +61,7 @@
 -  13 [Try  “Magic Button” ，Is it really magic?](https://afflift.com/f/threads/try-%E2%80%9Cmagic-button%E2%80%9D-%EF%BC%8Cis-it-really-magic.12256/)
 -  13 [Improper cost tracking &lpar;BeMob and PropellerAds&rpar;](https://afflift.com/f/threads/improper-cost-tracking-bemob-and-propellerads.11598/)
 -  12 [adcash CPA &lpar;not cpm&rpar; model experiences?](https://afflift.com/f/threads/adcash-cpa-not-cpm-model-experiences.12255/)
--  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
--  12 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
+-  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
