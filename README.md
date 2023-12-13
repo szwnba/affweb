@@ -24,8 +24,7 @@
 -  12 [从 NoCode 到 LowCode 再到我的第一个作品集](https://www.reddit.com/r/SideProject/comments/18ggt20/from_nocode_to_lowcode_to_my_first_portfolio/)
 -  12 [改变项目管理的工具：认识 Chrono！](https://www.reddit.com/r/SideProject/comments/18gfjtm/a_tool_to_transform_your_side_project_management/)
 -  12 [Nostr 追随者工具](https://follows.lol/)
--  12 [考虑搬家的人，你们觉得这个主意怎么样？](https://www.reddit.com/r/SideProject/comments/18gc2dq/anyone_considering_moving_what_do_you_think_about/)
--  12 [扑克大乱斗基于 ELO 的免费通信扑克](https://www.reddit.com/r/SideProject/comments/18g8g38/poker_brawl_free_elobased_correspondence_poker/)<!-- sideproject:END -->
+-  12 [考虑搬家的人，你们觉得这个主意怎么样？](https://www.reddit.com/r/SideProject/comments/18gc2dq/anyone_considering_moving_what_do_you_think_about/)<!-- sideproject:END -->
 
 
 ### 无忧分享
