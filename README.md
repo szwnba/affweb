@@ -29,8 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  13 [新手给自己立个flag](https://www.advertcn.com/thread-113293-1-1.html)
--  12 [出几个SAS联盟号，需要的加Q](https://www.advertcn.com/thread-113284-1-1.html)<!-- advertcn3:END -->
+-  13 [新手给自己立个flag](https://www.advertcn.com/thread-113293-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
