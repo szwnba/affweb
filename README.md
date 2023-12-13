@@ -15,8 +15,7 @@
 -  12 [寻找联合创始人](https://www.reddit.com/r/SideProject/comments/18gm9a9/looking_for_a_cofounder/)
 -  12 [我做了一个应用程序，一夜之间造出了独角兽](https://www.reddit.com/r/SideProject/comments/18gle83/i_made_an_app_to_build_a_unicorn_overnight/)
 -  12 [我建立了我们从未意识到的初创企业名录](https://old.reddit.com/r/SideProject/comments/18gkeut/i_built_the_startup_directory_we_never_knew_we/)
--  12 [我创建了 Yoodocs--人工智能驱动的文档服务](https://www.reddit.com/r/SideProject/comments/18g2fof/i_made_yoodocs_aipowered_documentation_service/)
--  12 [4 天的副业给我带来了 1000 美元/年的收入！一个集成了人工智能的安卓应用程序🚀，我能卖多少钱？有什么想法吗？](https://old.reddit.com/r/SideProject/comments/18gi3tf/4_days_side_project_brings_me_1000year_an_android/)<!-- sideproject:END -->
+-  12 [我创建了 Yoodocs--人工智能驱动的文档服务](https://www.reddit.com/r/SideProject/comments/18g2fof/i_made_yoodocs_aipowered_documentation_service/)<!-- sideproject:END -->
 
 
 ### 无忧分享
