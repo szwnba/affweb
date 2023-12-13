@@ -16,10 +16,7 @@
 -  12 [我做了一个应用程序，一夜之间造出了独角兽](https://www.reddit.com/r/SideProject/comments/18gle83/i_made_an_app_to_build_a_unicorn_overnight/)
 -  12 [我建立了我们从未意识到的初创企业名录](https://old.reddit.com/r/SideProject/comments/18gkeut/i_built_the_startup_directory_we_never_knew_we/)
 -  12 [我创建了 Yoodocs--人工智能驱动的文档服务](https://www.reddit.com/r/SideProject/comments/18g2fof/i_made_yoodocs_aipowered_documentation_service/)
--  12 [4 天的副业给我带来了 1000 美元/年的收入！一个集成了人工智能的安卓应用程序🚀，我能卖多少钱？有什么想法吗？](https://old.reddit.com/r/SideProject/comments/18gi3tf/4_days_side_project_brings_me_1000year_an_android/)
--  12 [写了一个 memey chrome 扩展程序](https://www.reddit.com/r/SideProject/comments/18gih7y/wrote_a_memey_chrome_extension/)
--  12 [烘烤您的产品导向型增长战略](https://www.reddit.com/r/SideProject/comments/18ghtjj/roast_your_productled_growth_strategy/)
--  12 [我有 160 万用户，但却全部丢失：在公共场合建立系统是最佳策略吗？](https://www.reddit.com/r/SideProject/comments/18ghsrg/i_got_16k_users_and_lost_them_all_is_building_in/)<!-- sideproject:END -->
+-  12 [4 天的副业给我带来了 1000 美元/年的收入！一个集成了人工智能的安卓应用程序🚀，我能卖多少钱？有什么想法吗？](https://old.reddit.com/r/SideProject/comments/18gi3tf/4_days_side_project_brings_me_1000year_an_android/)<!-- sideproject:END -->
 
 
 ### 无忧分享
