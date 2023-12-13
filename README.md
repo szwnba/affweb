@@ -39,8 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  13 [Looking to switch from Aweber to Sendy/SES](https://afflift.com/f/threads/looking-to-switch-from-aweber-to-sendy-ses.12260/)
+-  13 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  13 [How to skip ChatGPT Plus waitlist](https://afflift.com/f/threads/how-to-skip-chatgpt-plus-waitlist.12268/)
 -  13 [adcash CPA &lpar;not cpm&rpar; model experiences?](https://afflift.com/f/threads/adcash-cpa-not-cpm-model-experiences.12255/)
 -  13 [Complete Guide to Advertizer CPA Campaigns &lpar;AKA How to Get Traffic from Monetizer&rpar;](https://afflift.com/f/threads/complete-guide-to-advertizer-cpa-campaigns-aka-how-to-get-traffic-from-monetizer.5266/)
