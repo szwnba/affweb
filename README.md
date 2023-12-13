@@ -8,9 +8,7 @@
 <!-- sideproject:START -->
 -  12 [用 python 和 Pygame 编写的 T Rex 跑酷游戏。源代码在说明中](https://www.youtube.com/watch?v=pZySIXSelCA)
 -  12 [控制台流媒体服务器 - DNS+RTMP 服务器，无需采集卡即可将控制台流媒体发送至个人电脑](https://github.com/Aioros/console-streaming-server)
--  12 [我开发了一款人工智能语音导览应用程序，但几乎没有用户](https://www.reddit.com/r/SideProject/comments/18gpp0e/ive_built_an_ai_audio_tour_app_but_have_almost_no/)
--  12 [人工智能营销人员的真实生活 | 全球发布 | LinkedIn](https://www.linkedin.com/events/thereallivesofaimarketers-world7139962345484701696/theater/)
--  12 [我创建了一个简单的工具来管理你的设计系统！](https://www.reddit.com/r/SideProject/comments/18godf0/i_built_a_simple_tool_to_manage_your_design/)<!-- sideproject:END -->
+-  12 [我开发了一款人工智能语音导览应用程序，但几乎没有用户](https://www.reddit.com/r/SideProject/comments/18gpp0e/ive_built_an_ai_audio_tour_app_but_have_almost_no/)<!-- sideproject:END -->
 
 
 ### 无忧分享
