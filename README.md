@@ -40,6 +40,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
+-  13 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  13 [REKLAM STORE - no pop traffic](https://afflift.com/f/threads/reklam-store-no-pop-traffic.12263/)
 -  13 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
 -  13 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
 -  13 [Discrepancy between BeMob and PropellerAds Numbers](https://afflift.com/f/threads/discrepancy-between-bemob-and-propellerads-numbers.12253/)
@@ -48,10 +51,7 @@
 -  13 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
 -  13 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  13 [Improper cost tracking &lpar;BeMob and PropellerAds&rpar;](https://afflift.com/f/threads/improper-cost-tracking-bemob-and-propellerads.11598/)
--  13 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  13 [Do Magic Buttons bring magic conversions? Let&#39;s](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions-lets.12261/)
--  13 [Running the eCommerce offer at HilltopAds: ROI 157,87%](https://afflift.com/f/threads/running-the-ecommerce-offer-at-hilltopads-roi-157-87.12262/)
--  13 [Which Push network &lpar;as publisher&rpar; for Adult traffic](https://afflift.com/f/threads/which-push-network-as-publisher-for-adult-traffic.12254/)<!-- afflift:END -->
+-  13 [Do Magic Buttons bring magic conversions? Let&#39;s](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions-lets.12261/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
