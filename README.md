@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
+-  13 [Looking to switch from Aweber to Sendy/SES](https://afflift.com/f/threads/looking-to-switch-from-aweber-to-sendy-ses.12260/)
 -  13 [How to skip ChatGPT Plus waitlist](https://afflift.com/f/threads/how-to-skip-chatgpt-plus-waitlist.12268/)
 -  13 [adcash CPA &lpar;not cpm&rpar; model experiences?](https://afflift.com/f/threads/adcash-cpa-not-cpm-model-experiences.12255/)
 -  13 [Complete Guide to Advertizer CPA Campaigns &lpar;AKA How to Get Traffic from Monetizer&rpar;](https://afflift.com/f/threads/complete-guide-to-advertizer-cpa-campaigns-aka-how-to-get-traffic-from-monetizer.5266/)
@@ -47,10 +49,8 @@
 -  13 [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)
 -  13 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
 -  13 [Which Push network &lpar;as publisher&rpar; for Adult traffic](https://afflift.com/f/threads/which-push-network-as-publisher-for-adult-traffic.12254/)
--  13 [Looking to switch from Aweber to Sendy/SES](https://afflift.com/f/threads/looking-to-switch-from-aweber-to-sendy-ses.12260/)
 -  13 [Question about the contact info on landing pages](https://afflift.com/f/threads/question-about-the-contact-info-on-landing-pages.12266/)
--  13 [Envato Elements Affiliate Program Review](https://afflift.com/f/threads/envato-elements-affiliate-program-review.12267/)
--  13 [Earn $120 CPA on Envato Elements Affiliate Program – Paid Traffic Welcome + Custom Deals](https://afflift.com/f/threads/earn-120-cpa-on-envato-elements-affiliate-program-%E2%80%93-paid-traffic-welcome-custom-deals.11770/)<!-- afflift:END -->
+-  13 [Envato Elements Affiliate Program Review](https://afflift.com/f/threads/envato-elements-affiliate-program-review.12267/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
