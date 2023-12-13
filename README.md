@@ -33,6 +33,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  13 [TikTok卖家攻略！如何保证账号安全和多账号防关联？](https://www.advertcn.com/thread-113287-1-1.html)
 -  12 [新人学习贴](https://www.advertcn.com/thread-113283-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
