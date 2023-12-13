@@ -43,8 +43,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  12 [出几个SAS联盟号，需要的加Q](https://www.advertcn.com/thread-113284-1-1.html)
--  12 [广告主注意啦~请尽快停止使用广告管理工具中的旧广告目...](https://www.advertcn.com/thread-113279-1-1.html)
--  12 [被当牛马戏弄后的个人感想](https://www.advertcn.com/thread-113278-1-1.html)<!-- advertcn3:END -->
+-  12 [广告主注意啦~请尽快停止使用广告管理工具中的旧广告目...](https://www.advertcn.com/thread-113279-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
