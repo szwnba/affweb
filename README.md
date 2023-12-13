@@ -12,10 +12,7 @@
 -  12 [人工智能营销人员的真实生活 | 全球发布 | LinkedIn](https://www.linkedin.com/events/thereallivesofaimarketers-world7139962345484701696/theater/)
 -  12 [我创建了一个简单的工具来管理你的设计系统！](https://www.reddit.com/r/SideProject/comments/18godf0/i_built_a_simple_tool_to_manage_your_design/)
 -  12 [Genji - 在 Chrome 浏览器上自动执行任何任务](https://old.reddit.com/r/SideProject/comments/18gnc5i/genji_automate_any_task_on_chrome/)
--  12 [寻找联合创始人](https://www.reddit.com/r/SideProject/comments/18gm9a9/looking_for_a_cofounder/)
--  12 [我做了一个应用程序，一夜之间造出了独角兽](https://www.reddit.com/r/SideProject/comments/18gle83/i_made_an_app_to_build_a_unicorn_overnight/)
--  12 [我建立了我们从未意识到的初创企业名录](https://old.reddit.com/r/SideProject/comments/18gkeut/i_built_the_startup_directory_we_never_knew_we/)
--  12 [我创建了 Yoodocs--人工智能驱动的文档服务](https://www.reddit.com/r/SideProject/comments/18g2fof/i_made_yoodocs_aipowered_documentation_service/)<!-- sideproject:END -->
+-  12 [寻找联合创始人](https://www.reddit.com/r/SideProject/comments/18gm9a9/looking_for_a_cofounder/)<!-- sideproject:END -->
 
 
 ### 无忧分享
