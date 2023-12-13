@@ -53,18 +53,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Complete Guide to Advertizer CPA Campaigns &lpar;AKA How to Get Traffic from Monetizer&rpar;](https://afflift.com/f/threads/complete-guide-to-advertizer-cpa-campaigns-aka-how-to-get-traffic-from-monetizer.5266/)
+-  13 [Try  “Magic Button” ，Is it really magic?](https://afflift.com/f/threads/try-%E2%80%9Cmagic-button%E2%80%9D-%EF%BC%8Cis-it-really-magic.12256/)
+-  13 [Discrepancy between BeMob and PropellerAds Numbers](https://afflift.com/f/threads/discrepancy-between-bemob-and-propellerads-numbers.12253/)
 -  13 [Which Push network &lpar;as publisher&rpar; for Adult traffic](https://afflift.com/f/threads/which-push-network-as-publisher-for-adult-traffic.12254/)
 -  13 [Improper cost tracking &lpar;BeMob and PropellerAds&rpar;](https://afflift.com/f/threads/improper-cost-tracking-bemob-and-propellerads.11598/)
 -  13 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  13 [Discrepancy between BeMob and PropellerAds Numbers](https://afflift.com/f/threads/discrepancy-between-bemob-and-propellerads-numbers.12253/)
--  13 [Try  “Magic Button” ，Is it really magic?](https://afflift.com/f/threads/try-%E2%80%9Cmagic-button%E2%80%9D-%EF%BC%8Cis-it-really-magic.12256/)
 -  12 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  12 [adcash CPA &lpar;not cpm&rpar; model experiences?](https://afflift.com/f/threads/adcash-cpa-not-cpm-model-experiences.12255/)
 -  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  12 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  12 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
--  12 [Double Meta Refresh Causing Virustotal Flags](https://afflift.com/f/threads/double-meta-refresh-causing-virustotal-flags.11617/)
--  12 [MaxWeb CPA Affiliate Network - #1 VSL Network](https://afflift.com/f/threads/maxweb-cpa-affiliate-network-1-vsl-network.10872/)<!-- afflift:END -->
+-  12 [Double Meta Refresh Causing Virustotal Flags](https://afflift.com/f/threads/double-meta-refresh-causing-virustotal-flags.11617/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
