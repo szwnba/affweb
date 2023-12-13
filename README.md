@@ -54,9 +54,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Discrepancy between BeMob and PropellerAds Numbers](https://afflift.com/f/threads/discrepancy-between-bemob-and-propellerads-numbers.12253/)
 -  13 [Try  “Magic Button” ，Is it really magic?](https://afflift.com/f/threads/try-%E2%80%9Cmagic-button%E2%80%9D-%EF%BC%8Cis-it-really-magic.12256/)
 -  12 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  12 [Discrepancy between BeMob and PropellerAds Numbers](https://afflift.com/f/threads/discrepancy-between-bemob-and-propellerads-numbers.12253/)
 -  12 [adcash CPA &lpar;not cpm&rpar; model experiences?](https://afflift.com/f/threads/adcash-cpa-not-cpm-model-experiences.12255/)
 -  12 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  12 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
