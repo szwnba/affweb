@@ -43,9 +43,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
--  13 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
 -  13 [Discrepancy between BeMob and PropellerAds Numbers](https://afflift.com/f/threads/discrepancy-between-bemob-and-propellerads-numbers.12253/)
+-  13 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
+-  13 [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)
+-  13 [VirusTotal Flag Removal - Contact Info](https://afflift.com/f/threads/virustotal-flag-removal-contact-info.11437/)
 -  13 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  13 [Improper cost tracking &lpar;BeMob and PropellerAds&rpar;](https://afflift.com/f/threads/improper-cost-tracking-bemob-and-propellerads.11598/)
 -  13 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
@@ -53,8 +54,7 @@
 -  13 [Running the eCommerce offer at HilltopAds: ROI 157,87%](https://afflift.com/f/threads/running-the-ecommerce-offer-at-hilltopads-roi-157-87.12262/)
 -  13 [Which Push network &lpar;as publisher&rpar; for Adult traffic](https://afflift.com/f/threads/which-push-network-as-publisher-for-adult-traffic.12254/)
 -  13 [Looking to switch from Aweber to Sendy/SES](https://afflift.com/f/threads/looking-to-switch-from-aweber-to-sendy-ses.12260/)
--  13 [How Do You Spend Your Affiliate Marketing Earnings? Share in Our Survey!](https://afflift.com/f/threads/how-do-you-spend-your-affiliate-marketing-earnings-share-in-our-survey.12252/)
--  13 [Casino And Gambling Niche - Google And FB Questions + Some Tips](https://afflift.com/f/threads/casino-and-gambling-niche-google-and-fb-questions-some-tips.12250/)<!-- afflift:END -->
+-  13 [How Do You Spend Your Affiliate Marketing Earnings? Share in Our Survey!](https://afflift.com/f/threads/how-do-you-spend-your-affiliate-marketing-earnings-share-in-our-survey.12252/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
