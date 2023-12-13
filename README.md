@@ -69,6 +69,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [品尝「大鸽饭」之余，我顺带研究了复古设计和岭南文化](https://sspai.com/post/84928)
 -  12 [派早报：E3 将永久停办、Google 败诉 Epic Games 等](https://sspai.com/post/85034)
 -  12 [社区速递 024 | NotebookLM、AI 整活以及绍兴之旅](https://sspai.com/post/85007)
 -  12 [TESTV 与少数派，理想主义团队的创业怎么就这么难？](https://sspai.com/post/84563)
