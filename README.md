@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  13 [谷歌发现广告 - Youtube版位避坑提示](https://www.advertcn.com/thread-113295-1-1.html)
 -  13 [新手给自己立个flag](https://www.advertcn.com/thread-113293-1-1.html)<!-- advertcn3:END -->
 
 
