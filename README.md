@@ -20,10 +20,7 @@
 -  12 [写了一个 memey chrome 扩展程序](https://www.reddit.com/r/SideProject/comments/18gih7y/wrote_a_memey_chrome_extension/)
 -  12 [烘烤您的产品导向型增长战略](https://www.reddit.com/r/SideProject/comments/18ghtjj/roast_your_productled_growth_strategy/)
 -  12 [我有 160 万用户，但却全部丢失：在公共场合建立系统是最佳策略吗？](https://www.reddit.com/r/SideProject/comments/18ghsrg/i_got_16k_users_and_lost_them_all_is_building_in/)
--  12 [烤我的另类社交媒体](https://www.reddit.com/r/SideProject/comments/18gcooa/roast_my_alternative_social_media/)
--  12 [从 NoCode 到 LowCode 再到我的第一个作品集](https://www.reddit.com/r/SideProject/comments/18ggt20/from_nocode_to_lowcode_to_my_first_portfolio/)
--  12 [改变项目管理的工具：认识 Chrono！](https://www.reddit.com/r/SideProject/comments/18gfjtm/a_tool_to_transform_your_side_project_management/)
--  12 [Nostr 追随者工具](https://follows.lol/)<!-- sideproject:END -->
+-  12 [烤我的另类社交媒体](https://www.reddit.com/r/SideProject/comments/18gcooa/roast_my_alternative_social_media/)<!-- sideproject:END -->
 
 
 ### 无忧分享
