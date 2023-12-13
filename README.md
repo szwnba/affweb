@@ -73,5 +73,4 @@
 -  12 [派早报：E3 将永久停办、Google 败诉 Epic Games 等](https://sspai.com/post/85034)
 -  12 [社区速递 024 | NotebookLM、AI 整活以及绍兴之旅](https://sspai.com/post/85007)
 -  12 [TESTV 与少数派，理想主义团队的创业怎么就这么难？](https://sspai.com/post/84563)
--  12 [讨论 TGA 和年度游戏时，我们还可以聊些什么？](https://sspai.com/post/84976)
--  12 [有奖征文 | 为负面情绪找个出口，「放轻松」这件事其实很重要](https://sspai.com/post/84979)<!-- sspai:END -->
+-  12 [讨论 TGA 和年度游戏时，我们还可以聊些什么？](https://sspai.com/post/84976)<!-- sspai:END -->
