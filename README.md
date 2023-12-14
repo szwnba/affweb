@@ -41,19 +41,19 @@
 
 ### afflift
 <!-- afflift:START -->
--  14 [Zeydoo not giving me an Affiliate Manager until I have results?](https://afflift.com/f/threads/zeydoo-not-giving-me-an-affiliate-manager-until-i-have-results.12272/)
+-  14 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  14 [Magic Button LP - PropellerAds + GG 
 🚀](https://afflift.com/f/threads/magic-button-lp-propellerads-gg-%F0%9F%9A%80.12269/)
+-  14 [🔥 TUT FIXES TO KEEP A $75 ACCOUNT🔥](https://afflift.com/f/threads/%F0%9F%94%A5-tut-fixes-to-keep-a-75-account%F0%9F%94%A5.12235/)
+-  14 [Complete Guide to Advertizer CPA Campaigns &lpar;AKA How to Get Traffic from Monetizer&rpar;](https://afflift.com/f/threads/complete-guide-to-advertizer-cpa-campaigns-aka-how-to-get-traffic-from-monetizer.5266/)
+-  14 [Zeydoo not giving me an Affiliate Manager until I have results?](https://afflift.com/f/threads/zeydoo-not-giving-me-an-affiliate-manager-until-i-have-results.12272/)
 -  14 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  14 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)
 -  14 [Sending Source ID back to affiliate network](https://afflift.com/f/threads/sending-source-id-back-to-affiliate-network.12225/)
 -  14 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)
 -  14 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  14 [Looking to switch from Aweber to Sendy/SES](https://afflift.com/f/threads/looking-to-switch-from-aweber-to-sendy-ses.12260/)
--  14 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  14 [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)
--  14 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
--  13 [How to skip ChatGPT Plus waitlist](https://afflift.com/f/threads/how-to-skip-chatgpt-plus-waitlist.12268/)<!-- afflift:END -->
+-  14 [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
