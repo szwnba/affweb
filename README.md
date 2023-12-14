@@ -17,7 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  13 [我来报道啦Day 1-喵喵miu  英专生转行](https://www.advertcn.com/thread-113291-1-1.html)<!-- advertcn1:END -->
+-  14 [玩联盟offer的来组群](https://www.advertcn.com/thread-113306-1-1.html)
+-  14 [新人报道，新人报道](https://www.advertcn.com/thread-113305-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
