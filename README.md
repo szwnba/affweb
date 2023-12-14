@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)
 -  14 [Looking to switch from Aweber to Sendy/SES](https://afflift.com/f/threads/looking-to-switch-from-aweber-to-sendy-ses.12260/)
 -  14 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  13 [Magic Button LP - PropellerAds + GG 
@@ -51,8 +52,7 @@
 -  13 [How to integrate this Affiliate Offer with Bemob?](https://afflift.com/f/threads/how-to-integrate-this-affiliate-offer-with-bemob.12249/)
 -  13 [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)
 -  13 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
--  13 [Which Push network &lpar;as publisher&rpar; for Adult traffic](https://afflift.com/f/threads/which-push-network-as-publisher-for-adult-traffic.12254/)
--  13 [Question about the contact info on landing pages](https://afflift.com/f/threads/question-about-the-contact-info-on-landing-pages.12266/)<!-- afflift:END -->
+-  13 [Which Push network &lpar;as publisher&rpar; for Adult traffic](https://afflift.com/f/threads/which-push-network-as-publisher-for-adult-traffic.12254/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
