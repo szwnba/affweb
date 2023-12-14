@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  14 [amazon联盟有没有办法做转换跟踪啊](https://www.advertcn.com/thread-113298-1-1.html)
 -  13 [流量太少了，想在自己网站上套iframe框架，装aff link](https://www.advertcn.com/thread-113296-1-1.html)
 -  13 [谷歌发现广告 - Youtube版位避坑提示](https://www.advertcn.com/thread-113295-1-1.html)
 -  13 [新手给自己立个flag](https://www.advertcn.com/thread-113293-1-1.html)<!-- advertcn3:END -->
