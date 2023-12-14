@@ -17,7 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  13 [我来报道啦Day 1-喵喵miu  英专生转行](https://www.advertcn.com/thread-113291-1-1.html)<!-- advertcn1:END -->
+-  13 [我来报道啦Day 1-喵喵miu  英专生转行](https://www.advertcn.com/thread-113291-1-1.html)
+-  13 [如何应对网站的Canvas等高级指纹和MAC地址检测,防止关联？](https://www.advertcn.com/thread-113288-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
