@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)
 -  14 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  14 [How to Get Google to Unflag Your Domain](https://afflift.com/f/threads/how-to-get-google-to-unflag-your-domain.9960/)
 -  14 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)
@@ -51,8 +52,7 @@
 -  13 [adcash CPA &lpar;not cpm&rpar; model experiences?](https://afflift.com/f/threads/adcash-cpa-not-cpm-model-experiences.12255/)
 -  13 [Complete Guide to Advertizer CPA Campaigns &lpar;AKA How to Get Traffic from Monetizer&rpar;](https://afflift.com/f/threads/complete-guide-to-advertizer-cpa-campaigns-aka-how-to-get-traffic-from-monetizer.5266/)
 -  13 [🚀💥 FREE 10 Million Clicks + $250 to Your Account from PeerClick! Claim Now! 💥🚀](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%92%A5-free-10-million-clicks-250-to-your-account-from-peerclick-claim-now-%F0%9F%92%A5%F0%9F%9A%80.12257/)
--  13 [How to integrate this Affiliate Offer with Bemob?](https://afflift.com/f/threads/how-to-integrate-this-affiliate-offer-with-bemob.12249/)
--  13 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)<!-- afflift:END -->
+-  13 [How to integrate this Affiliate Offer with Bemob?](https://afflift.com/f/threads/how-to-integrate-this-affiliate-offer-with-bemob.12249/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
