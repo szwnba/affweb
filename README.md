@@ -57,5 +57,4 @@
 <!-- sspai:START -->
 -  14 [二十年后拆掉重建，这是我们「没有风格」的新家](https://sspai.com/post/85035)
 -  14 [派早报：Google Bard 提升 YouTube 解析能力、OmniFocus 4 发布等](https://sspai.com/post/85058)
--  13 [牙刷牙线冲牙器，怎么用才是正确的口腔保健？](https://sspai.com/post/85039)
--  13 [手记 app 上线、操作按钮新功能…… iOS 17.2 值得关注的新特性](https://sspai.com/post/85032)<!-- sspai:END -->
+-  13 [牙刷牙线冲牙器，怎么用才是正确的口腔保健？](https://sspai.com/post/85039)<!-- sspai:END -->
