@@ -41,19 +41,19 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Zeydoo not giving me an Affiliate Manager until I have results?](https://afflift.com/f/threads/zeydoo-not-giving-me-an-affiliate-manager-until-i-have-results.12272/)
+-  14 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
+-  14 [Test out the best generic LP for mVAS offers](https://afflift.com/f/threads/test-out-the-best-generic-lp-for-mvas-offers.12276/)
+-  14 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)
 -  14 [Magic Button LP - PropellerAds + GG 
 🚀](https://afflift.com/f/threads/magic-button-lp-propellerads-gg-%F0%9F%9A%80.12269/)
--  14 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  14 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
 -  14 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
--  14 [Zeydoo not giving me an Affiliate Manager until I have results?](https://afflift.com/f/threads/zeydoo-not-giving-me-an-affiliate-manager-until-i-have-results.12272/)
 -  14 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  14 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  14 [🏆 Meet The Winners of ADSTERRAx2 Follow Along Contest!](https://afflift.com/f/threads/%F0%9F%8F%86-meet-the-winners-of-adsterrax2-follow-along-contest.12273/)
 -  14 [Push collection with 1 conversion per user on Revshare?](https://afflift.com/f/threads/push-collection-with-1-conversion-per-user-on-revshare.12177/)
--  14 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  14 [Revenue share push traffic sources?](https://afflift.com/f/threads/revenue-share-push-traffic-sources.2932/)
--  14 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)<!-- afflift:END -->
+-  14 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
