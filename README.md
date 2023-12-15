@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Get ready to go with Adsterra Network🚩#ADSTERRAx2](https://afflift.com/f/threads/get-ready-to-go-with-adsterra-network%F0%9F%9A%A9-adsterrax2.11949/)
+-  15 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
 -  15 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
 -  15 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  15 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  15 [Get the laziest profit](https://afflift.com/f/threads/get-the-laziest-profit.12238/)
 -  15 [PropellerAds + &quot;Magic Button&quot; LP [Test]](https://afflift.com/f/threads/propellerads-magic-button-lp-test.12282/)
 -  15 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
--  15 [Error adding prepaid card](https://afflift.com/f/threads/error-adding-prepaid-card.12283/)
 -  15 [1st Follow Along - Servando&#39;s $10/day Guide](https://afflift.com/f/threads/1st-follow-along-servandos-10-day-guide.7438/)
 -  15 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  15 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
--  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  15 [STM is DEAD 😵](https://afflift.com/f/threads/stm-is-dead-%F0%9F%98%B5.12277/)<!-- afflift:END -->
+-  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
