@@ -27,8 +27,7 @@
 <!-- advertcn3:START -->
 -  14 [关于收款问题](https://www.advertcn.com/thread-113308-1-1.html)
 -  14 [新人求问，300-400多点击没转化正常吗，测了好多都是这样](https://www.advertcn.com/thread-113302-1-1.html)
--  14 [amazon联盟有没有办法做转换跟踪啊](https://www.advertcn.com/thread-113298-1-1.html)
--  13 [流量太少了，想在自己网站上套iframe框架，装aff link](https://www.advertcn.com/thread-113296-1-1.html)<!-- advertcn3:END -->
+-  14 [amazon联盟有没有办法做转换跟踪啊](https://www.advertcn.com/thread-113298-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
