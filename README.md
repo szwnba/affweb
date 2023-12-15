@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [PropellerAds + &quot;Magic Button&quot; LP [Test]](https://afflift.com/f/threads/propellerads-magic-button-lp-test.12282/)
+-  15 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
 -  15 [Error adding prepaid card](https://afflift.com/f/threads/error-adding-prepaid-card.12283/)
 -  15 [1st Follow Along - Servando&#39;s $10/day Guide](https://afflift.com/f/threads/1st-follow-along-servandos-10-day-guide.7438/)
 -  15 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
@@ -49,9 +51,7 @@
 -  15 [STM is DEAD 😵](https://afflift.com/f/threads/stm-is-dead-%F0%9F%98%B5.12277/)
 -  15 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  15 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)
--  14 [PropellerAds + &quot;Magic Button&quot; LP [Test]](https://afflift.com/f/threads/propellerads-magic-button-lp-test.12282/)
--  14 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
--  14 [Tracking Conversions and Sources from ProPush](https://afflift.com/f/threads/tracking-conversions-and-sources-from-propush.7464/)<!-- afflift:END -->
+-  14 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
