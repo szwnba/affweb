@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  15 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)
 -  14 [PropellerAds + &quot;Magic Button&quot; LP [Test]](https://afflift.com/f/threads/propellerads-magic-button-lp-test.12282/)
 -  14 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
@@ -49,9 +50,7 @@
 -  14 [STM is DEAD 😵](https://afflift.com/f/threads/stm-is-dead-%F0%9F%98%B5.12277/)
 -  14 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  14 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
--  14 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
--  14 [Magic Button LP - PropellerAds + GG 
-🚀](https://afflift.com/f/threads/magic-button-lp-propellerads-gg-%F0%9F%9A%80.12269/)<!-- afflift:END -->
+-  14 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
