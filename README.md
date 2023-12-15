@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [本周看什么 | 最近值得一看的一大列作品](https://sspai.com/post/85106)
 -  15 [一站式看完各平台文献推送，我是这样折腾的](https://sspai.com/post/84478)
 -  15 [小米 14 Pro 上手体验](https://sspai.com/post/84510)
 -  15 [派早报：宝马集团在上海获 L3 级自动驾驶路测牌照等](https://sspai.com/post/85089)
