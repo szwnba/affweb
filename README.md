@@ -42,8 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  15 [STM is DEAD 😵](https://afflift.com/f/threads/stm-is-dead-%F0%9F%98%B5.12277/)
 -  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  15 [STM is DEAD 😵](https://afflift.com/f/threads/stm-is-dead-%F0%9F%98%B5.12277/)
 -  15 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  15 [Leveraging My Niche Site: Easy SEO Traffic From Book Publishing](https://afflift.com/f/threads/leveraging-my-niche-site-easy-seo-traffic-from-book-publishing.12285/)
 -  15 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
