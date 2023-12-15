@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Get the laziest profit](https://afflift.com/f/threads/get-the-laziest-profit.12238/)
 -  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  15 [STM is DEAD 😵](https://afflift.com/f/threads/stm-is-dead-%F0%9F%98%B5.12277/)
 -  15 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
@@ -51,8 +52,7 @@
 -  14 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
 -  14 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  14 [Zeydoo not giving me an Affiliate Manager until I have results?](https://afflift.com/f/threads/zeydoo-not-giving-me-an-affiliate-manager-until-i-have-results.12272/)
--  14 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  14 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)<!-- afflift:END -->
+-  14 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
