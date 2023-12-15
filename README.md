@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  15 [亚马逊如何安全地进行多账号运营店铺？](https://www.advertcn.com/thread-113312-1-1.html)
--  14 [玩联盟offer的来组群](https://www.advertcn.com/thread-113306-1-1.html)<!-- advertcn1:END -->
+-  15 [亚马逊如何安全地进行多账号运营店铺？](https://www.advertcn.com/thread-113312-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
