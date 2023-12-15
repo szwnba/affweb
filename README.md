@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  15 [新人报道，有需要加速器的可以留言哈](https://www.advertcn.com/thread-113322-1-1.html)
 -  15 [亚马逊如何安全地进行多账号运营店铺？](https://www.advertcn.com/thread-113312-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
