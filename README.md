@@ -53,6 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [派早报：宝马集团在上海获 L3 级自动驾驶路测牌照等](https://sspai.com/post/85089)
 -  14 [专做 Watch 表盘的小红书博主 BLACK666 都装了啥](https://sspai.com/prime/story/zhuanglesha-231214)
 -  14 [新玩意 167｜少数派的编辑们最近买了啥？](https://sspai.com/post/85074)
 -  14 [App+1 | 易编辑、好管理：你的下一份简历可以试试 Typst](https://sspai.com/post/85051)
