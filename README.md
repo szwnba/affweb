@@ -41,6 +41,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Error adding prepaid card](https://afflift.com/f/threads/error-adding-prepaid-card.12283/)
+-  15 [1st Follow Along - Servando&#39;s $10/day Guide](https://afflift.com/f/threads/1st-follow-along-servandos-10-day-guide.7438/)
+-  15 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  15 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
 -  15 [Get the laziest profit](https://afflift.com/f/threads/get-the-laziest-profit.12238/)
 -  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  15 [STM is DEAD 😵](https://afflift.com/f/threads/stm-is-dead-%F0%9F%98%B5.12277/)
@@ -48,11 +52,7 @@
 -  15 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)
 -  14 [PropellerAds + &quot;Magic Button&quot; LP [Test]](https://afflift.com/f/threads/propellerads-magic-button-lp-test.12282/)
 -  14 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
--  14 [Tracking Conversions and Sources from ProPush](https://afflift.com/f/threads/tracking-conversions-and-sources-from-propush.7464/)
--  14 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
--  14 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
--  14 [Zeydoo not giving me an Affiliate Manager until I have results?](https://afflift.com/f/threads/zeydoo-not-giving-me-an-affiliate-manager-until-i-have-results.12272/)
--  14 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)<!-- afflift:END -->
+-  14 [Tracking Conversions and Sources from ProPush](https://afflift.com/f/threads/tracking-conversions-and-sources-from-propush.7464/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
