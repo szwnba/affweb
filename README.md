@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Magic Button LP - PropellerAds + GG 
+🚀](https://afflift.com/f/threads/magic-button-lp-propellerads-gg-%F0%9F%9A%80.12269/)
 -  16 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
 -  16 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  16 [Anybody got any feedback or experiences with ChameleonAds.eu?](https://afflift.com/f/threads/anybody-got-any-feedback-or-experiences-with-chameleonads-eu.12274/)
@@ -47,8 +49,7 @@
 -  16 [Leveraging My Niche Site: Easy SEO Traffic From Book Publishing](https://afflift.com/f/threads/leveraging-my-niche-site-easy-seo-traffic-from-book-publishing.12285/)
 -  15 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
 -  15 [STM is DEAD 😵](https://afflift.com/f/threads/stm-is-dead-%F0%9F%98%B5.12277/)
--  15 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)
--  15 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)<!-- afflift:END -->
+-  15 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
