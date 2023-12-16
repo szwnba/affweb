@@ -38,11 +38,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  16 [Leveraging My Niche Site: Easy SEO Traffic From Book Publishing](https://afflift.com/f/threads/leveraging-my-niche-site-easy-seo-traffic-from-book-publishing.12285/)
 -  15 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
 -  15 [STM is DEAD 😵](https://afflift.com/f/threads/stm-is-dead-%F0%9F%98%B5.12277/)
 -  15 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)
--  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  15 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  15 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
 -  15 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
