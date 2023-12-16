@@ -53,5 +53,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  16 [来自骁龙 8 Gen 3 的强心剂：小米 14 Pro 综合体验](https://sspai.com/post/84805)
--  15 [本周看什么 | 最近值得一看的一大列作品](https://sspai.com/post/85106)<!-- sspai:END -->
+-  16 [来自骁龙 8 Gen 3 的强心剂：小米 14 Pro 综合体验](https://sspai.com/post/84805)<!-- sspai:END -->
