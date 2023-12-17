@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [2024 Goals](https://afflift.com/f/threads/2024-goals.12288/)
+-  17 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
 -  17 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  17 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  17 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
@@ -45,9 +47,7 @@
 -  17 [Sending Source ID back to affiliate network](https://afflift.com/f/threads/sending-source-id-back-to-affiliate-network.12225/)
 -  17 [Data Never Sleeps 11.0](https://afflift.com/f/threads/data-never-sleeps-11-0.12287/)
 -  17 [eCommerce network recommendation](https://afflift.com/f/threads/ecommerce-network-recommendation.12286/)
--  16 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)
--  16 [Secret Hack - Made money with no work!](https://afflift.com/f/threads/secret-hack-made-money-with-no-work.11926/)
--  16 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)<!-- afflift:END -->
+-  16 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
