@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  16 [来自骁龙 8 Gen 3 的强心剂：小米 14 Pro 综合体验](https://sspai.com/post/84805)<!-- sspai:END -->
+-  17 [放轻松 | 解码压力的源头，你该如何与它和谐相处？](https://sspai.com/post/85094)<!-- sspai:END -->
