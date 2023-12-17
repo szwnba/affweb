@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  17 [eCommerce network recommendation](https://afflift.com/f/threads/ecommerce-network-recommendation.12286/)
 -  16 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  16 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)
@@ -47,8 +48,7 @@
 -  16 [Affiliate Marketing Awards 2023 - Peak Awards by affLIFT!](https://afflift.com/f/threads/affiliate-marketing-awards-2023-peak-awards-by-afflift.12031/)
 -  16 [Anybody got any feedback or experiences with ChameleonAds.eu?](https://afflift.com/f/threads/anybody-got-any-feedback-or-experiences-with-chameleonads-eu.12274/)
 -  16 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  16 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
--  16 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)<!-- afflift:END -->
+-  16 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
