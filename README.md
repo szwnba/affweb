@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  16 [培训的市场还是很大啊](https://www.advertcn.com/thread-113335-1-1.html)
--  16 [助力中国跨境电商出海。免费试用。秒开网页。出海必备](https://www.advertcn.com/thread-113331-1-1.html)<!-- advertcn3:END -->
+-  16 [培训的市场还是很大啊](https://www.advertcn.com/thread-113335-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
