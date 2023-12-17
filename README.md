@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  17 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  17 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
 -  17 [Leveraging My Niche Site: Easy SEO Traffic From Book Publishing](https://afflift.com/f/threads/leveraging-my-niche-site-easy-seo-traffic-from-book-publishing.12285/)
+-  17 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
+-  17 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
+-  17 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
+-  17 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  17 [eCommerce network recommendation](https://afflift.com/f/threads/ecommerce-network-recommendation.12286/)
 -  17 [2024 Goals](https://afflift.com/f/threads/2024-goals.12288/)
--  17 [My journal style Follow Along on Afflift - forever active!](https://afflift.com/f/threads/my-journal-style-follow-along-on-afflift-forever-active.11857/)
 -  17 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
 -  17 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  17 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
--  17 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  17 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  17 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
--  17 [Sending Source ID back to affiliate network](https://afflift.com/f/threads/sending-source-id-back-to-affiliate-network.12225/)<!-- afflift:END -->
+-  17 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
