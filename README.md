@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Restart propellerads,Can I reach green this time?](https://afflift.com/f/threads/restart-propellerads-can-i-reach-green-this-time.12295/)
+-  18 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  18 [Facebook ads report to google sheet ?](https://afflift.com/f/threads/facebook-ads-report-to-google-sheet.12227/)
+-  18 [How to Create Successful Push-Ads Campaign](https://afflift.com/f/threads/how-to-create-successful-push-ads-campaign.12292/)
+-  18 [How do you run Facebook ads?](https://afflift.com/f/threads/how-do-you-run-facebook-ads.12003/)
+-  18 [New Year’s Marketing Ideas](https://afflift.com/f/threads/new-year%E2%80%99s-marketing-ideas.12296/)
 -  18 [AWeber + FunnelFlux + Looker &lpar;Google Data Studio&rpar;: A Better Way to See Data](https://afflift.com/f/threads/aweber-funnelflux-looker-google-data-studio-a-better-way-to-see-data.12290/)
 -  18 [#ADSTERRAx2 Dating offers on social bar](https://afflift.com/f/threads/adsterrax2-dating-offers-on-social-bar.12152/)
 -  18 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
 -  18 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
 -  18 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  18 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  18 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  18 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
--  18 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  18 [Lead Gen is dying, Facebook Leads is dying - Thoughts?](https://afflift.com/f/threads/lead-gen-is-dying-facebook-leads-is-dying-thoughts.12293/)
--  18 [How to Create Successful Push-Ads Campaign](https://afflift.com/f/threads/how-to-create-successful-push-ads-campaign.12292/)
--  18 [TUT THRESHOLD](https://afflift.com/f/threads/tut-threshold.12291/)<!-- afflift:END -->
+-  18 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
