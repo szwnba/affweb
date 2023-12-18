@@ -36,6 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
+-  18 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
+-  18 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  18 [AWeber + FunnelFlux + Looker &lpar;Google Data Studio&rpar;: A Better Way to See Data](https://afflift.com/f/threads/aweber-funnelflux-looker-google-data-studio-a-better-way-to-see-data.12290/)
 -  18 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
 -  18 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
@@ -44,10 +47,7 @@
 -  18 [NoisyBoy&#39;s Bing Ads/Microsoft Ads Affiliate FA - Let&#39;s Get this Jumpin&#39;!](https://afflift.com/f/threads/noisyboys-bing-ads-microsoft-ads-affiliate-fa-lets-get-this-jumpin.11830/)
 -  18 [Test out the best generic LP for mVAS offers](https://afflift.com/f/threads/test-out-the-best-generic-lp-for-mvas-offers.12276/)
 -  18 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  18 [eCommerce network recommendation](https://afflift.com/f/threads/ecommerce-network-recommendation.12286/)
--  18 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  18 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
--  17 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)<!-- afflift:END -->
+-  18 [eCommerce network recommendation](https://afflift.com/f/threads/ecommerce-network-recommendation.12286/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
