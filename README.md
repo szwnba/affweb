@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [TUT THRESHOLD](https://afflift.com/f/threads/tut-threshold.12291/)
+-  18 [What to do when Zeydoo offer domain expires?](https://afflift.com/f/threads/what-to-do-when-zeydoo-offer-domain-expires.12241/)
+-  18 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
+-  18 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  18 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  18 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
 -  18 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  18 [AWeber + FunnelFlux + Looker &lpar;Google Data Studio&rpar;: A Better Way to See Data](https://afflift.com/f/threads/aweber-funnelflux-looker-google-data-studio-a-better-way-to-see-data.12290/)
 -  18 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  18 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
--  18 [What to do when Zeydoo offer domain expires?](https://afflift.com/f/threads/what-to-do-when-zeydoo-offer-domain-expires.12241/)
 -  18 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  18 [NoisyBoy&#39;s Bing Ads/Microsoft Ads Affiliate FA - Let&#39;s Get this Jumpin&#39;!](https://afflift.com/f/threads/noisyboys-bing-ads-microsoft-ads-affiliate-fa-lets-get-this-jumpin.11830/)
--  18 [Test out the best generic LP for mVAS offers](https://afflift.com/f/threads/test-out-the-best-generic-lp-for-mvas-offers.12276/)
--  18 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  18 [eCommerce network recommendation](https://afflift.com/f/threads/ecommerce-network-recommendation.12286/)<!-- afflift:END -->
+-  18 [Test out the best generic LP for mVAS offers](https://afflift.com/f/threads/test-out-the-best-generic-lp-for-mvas-offers.12276/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
