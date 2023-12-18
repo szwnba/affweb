@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [AWeber + FunnelFlux + Looker &lpar;Google Data Studio&rpar;: A Better Way to See Data](https://afflift.com/f/threads/aweber-funnelflux-looker-google-data-studio-a-better-way-to-see-data.12290/)
+-  18 [#ADSTERRAx2 Dating offers on social bar](https://afflift.com/f/threads/adsterrax2-dating-offers-on-social-bar.12152/)
+-  18 [Adsterra+CpaMatica Dating Smartlink](https://afflift.com/f/threads/adsterra-cpamatica-dating-smartlink.12044/)
+-  18 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
+-  18 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
+-  18 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
+-  18 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  18 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
 -  18 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  18 [Lead Gen is dying, Facebook Leads is dying - Thoughts?](https://afflift.com/f/threads/lead-gen-is-dying-facebook-leads-is-dying-thoughts.12293/)
 -  18 [How to Create Successful Push-Ads Campaign](https://afflift.com/f/threads/how-to-create-successful-push-ads-campaign.12292/)
--  18 [TUT THRESHOLD](https://afflift.com/f/threads/tut-threshold.12291/)
--  18 [What to do when Zeydoo offer domain expires?](https://afflift.com/f/threads/what-to-do-when-zeydoo-offer-domain-expires.12241/)
--  18 [AdPlexity for $1 one &lpar;first&rpar; month 💣](https://afflift.com/f/threads/adplexity-for-1-one-first-month-%F0%9F%92%A3.12079/)
--  18 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  18 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
--  18 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
--  18 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
--  18 [AWeber + FunnelFlux + Looker &lpar;Google Data Studio&rpar;: A Better Way to See Data](https://afflift.com/f/threads/aweber-funnelflux-looker-google-data-studio-a-better-way-to-see-data.12290/)
--  18 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)<!-- afflift:END -->
+-  18 [TUT THRESHOLD](https://afflift.com/f/threads/tut-threshold.12291/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
