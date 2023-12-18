@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  18 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  18 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
 -  18 [PeerFly has Shut Down](https://afflift.com/f/threads/peerfly-has-shut-down.2339/)
@@ -51,8 +52,7 @@
 -  18 [Sending Source ID back to affiliate network](https://afflift.com/f/threads/sending-source-id-back-to-affiliate-network.12225/)
 -  18 [Magic Button LP - PropellerAds + GG 
 🚀](https://afflift.com/f/threads/magic-button-lp-propellerads-gg-%F0%9F%9A%80.12269/)
--  18 [Anybody got any feedback or experiences with ChameleonAds.eu?](https://afflift.com/f/threads/anybody-got-any-feedback-or-experiences-with-chameleonads-eu.12274/)
--  18 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)<!-- afflift:END -->
+-  18 [Anybody got any feedback or experiences with ChameleonAds.eu?](https://afflift.com/f/threads/anybody-got-any-feedback-or-experiences-with-chameleonads-eu.12274/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
