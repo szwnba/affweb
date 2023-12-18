@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  15 [亚马逊如何安全地进行多账号运营店铺？](https://www.advertcn.com/thread-113312-1-1.html)<!-- advertcn1:END -->
+-  18 [老菜新做](https://www.advertcn.com/thread-113347-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
