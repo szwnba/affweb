@@ -51,5 +51,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [探寻 Apple 的都市传说：Store 也有「Pro 版」？](https://sspai.com/post/84561)
 -  18 [抛开品牌情绪，小米 14 Pro 的体验究竟如何？](https://sspai.com/post/85064)
 -  18 [派早报：字节跳动回应被 OpenAI 停用账户](https://sspai.com/post/85139)<!-- sspai:END -->
