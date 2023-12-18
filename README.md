@@ -40,18 +40,19 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [req: search engine for traffic volume](https://afflift.com/f/threads/req-search-engine-for-traffic-volume.9564/)
+-  18 [Gainster.Pro: Elevate Your Revenue Game! Dive into High-Payout Offers and Experience Innovative Offerwall](https://afflift.com/f/threads/gainster-pro-elevate-your-revenue-game-dive-into-high-payout-offers-and-experience-innovative-offerwall.12302/)
+-  18 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)
 -  18 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
+-  18 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
+-  18 [Sending Source ID back to affiliate network](https://afflift.com/f/threads/sending-source-id-back-to-affiliate-network.12225/)
+-  18 [Magic Button LP - PropellerAds + GG 
+🚀](https://afflift.com/f/threads/magic-button-lp-propellerads-gg-%F0%9F%9A%80.12269/)
+-  18 [Data Never Sleeps 11.0](https://afflift.com/f/threads/data-never-sleeps-11-0.12287/)
+-  18 [Anybody got any feedback or experiences with ChameleonAds.eu?](https://afflift.com/f/threads/anybody-got-any-feedback-or-experiences-with-chameleonads-eu.12274/)
+-  18 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
+-  18 [req: search engine for traffic volume](https://afflift.com/f/threads/req-search-engine-for-traffic-volume.9564/)
 -  18 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  18 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  18 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
--  18 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  18 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
--  18 [Lead Gen is dying, Facebook Leads is dying - Thoughts?](https://afflift.com/f/threads/lead-gen-is-dying-facebook-leads-is-dying-thoughts.12293/)
--  18 [2024 Goals](https://afflift.com/f/threads/2024-goals.12288/)
--  18 [TerraLeads – direct nutra advertiser and a CPA network, operating in the market for 8 years and offering end-to-end business](https://afflift.com/f/threads/terraleads-%E2%80%93-direct-nutra-advertiser-and-a-cpa-network-operating-in-the-market-for-8-years-and-offering-end-to-end-business.12299/)
--  18 [Test out the best generic LP for mVAS offers](https://afflift.com/f/threads/test-out-the-best-generic-lp-for-mvas-offers.12276/)
--  18 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)<!-- afflift:END -->
+-  18 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
