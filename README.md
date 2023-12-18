@@ -40,19 +40,19 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
+-  18 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
+-  18 [PeerFly has Shut Down](https://afflift.com/f/threads/peerfly-has-shut-down.2339/)
+-  18 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
+-  18 [Data Never Sleeps 11.0](https://afflift.com/f/threads/data-never-sleeps-11-0.12287/)
 -  18 [Gainster.Pro: Elevate Your Revenue Game! Dive into High-Payout Offers and Experience Innovative Offerwall](https://afflift.com/f/threads/gainster-pro-elevate-your-revenue-game-dive-into-high-payout-offers-and-experience-innovative-offerwall.12302/)
 -  18 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)
--  18 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  18 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
 -  18 [Sending Source ID back to affiliate network](https://afflift.com/f/threads/sending-source-id-back-to-affiliate-network.12225/)
 -  18 [Magic Button LP - PropellerAds + GG 
 🚀](https://afflift.com/f/threads/magic-button-lp-propellerads-gg-%F0%9F%9A%80.12269/)
--  18 [Data Never Sleeps 11.0](https://afflift.com/f/threads/data-never-sleeps-11-0.12287/)
 -  18 [Anybody got any feedback or experiences with ChameleonAds.eu?](https://afflift.com/f/threads/anybody-got-any-feedback-or-experiences-with-chameleonads-eu.12274/)
--  18 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
--  18 [req: search engine for traffic volume](https://afflift.com/f/threads/req-search-engine-for-traffic-volume.9564/)
--  18 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  18 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)<!-- afflift:END -->
+-  18 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
