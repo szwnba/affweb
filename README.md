@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
 -  18 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  18 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
--  18 [PeerFly has Shut Down](https://afflift.com/f/threads/peerfly-has-shut-down.2339/)
--  18 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
--  18 [Lead Gen is dying, Facebook Leads is dying - Thoughts?](https://afflift.com/f/threads/lead-gen-is-dying-facebook-leads-is-dying-thoughts.12293/)
--  18 [How to Create Successful Push-Ads Campaign](https://afflift.com/f/threads/how-to-create-successful-push-ads-campaign.12292/)
 -  18 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
--  18 [eCommerce network recommendation](https://afflift.com/f/threads/ecommerce-network-recommendation.12286/)
--  18 [🚀💥 FREE 10 Million Clicks + $250 to Your Account from PeerClick! Claim Now! 💥🚀](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%92%A5-free-10-million-clicks-250-to-your-account-from-peerclick-claim-now-%F0%9F%92%A5%F0%9F%9A%80.12257/)
--  18 [New Year’s Marketing Ideas](https://afflift.com/f/threads/new-year%E2%80%99s-marketing-ideas.12296/)
--  18 [Restart propellerads,Can I reach green this time?](https://afflift.com/f/threads/restart-propellerads-can-i-reach-green-this-time.12295/)<!-- afflift:END -->
+-  18 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
+-  18 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
+-  18 [Lead Gen is dying, Facebook Leads is dying - Thoughts?](https://afflift.com/f/threads/lead-gen-is-dying-facebook-leads-is-dying-thoughts.12293/)
+-  18 [2024 Goals](https://afflift.com/f/threads/2024-goals.12288/)
+-  18 [TerraLeads – direct nutra advertiser and a CPA network, operating in the market for 8 years and offering end-to-end business](https://afflift.com/f/threads/terraleads-%E2%80%93-direct-nutra-advertiser-and-a-cpa-network-operating-in-the-market-for-8-years-and-offering-end-to-end-business.12299/)
+-  18 [Test out the best generic LP for mVAS offers](https://afflift.com/f/threads/test-out-the-best-generic-lp-for-mvas-offers.12276/)
+-  18 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
+-  18 [Leveraging My Niche Site: Easy SEO Traffic From Book Publishing](https://afflift.com/f/threads/leveraging-my-niche-site-easy-seo-traffic-from-book-publishing.12285/)
+-  18 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
+-  18 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
