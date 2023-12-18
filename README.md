@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
+-  18 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
+-  18 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
+-  18 [PeerFly has Shut Down](https://afflift.com/f/threads/peerfly-has-shut-down.2339/)
+-  18 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
 -  18 [Lead Gen is dying, Facebook Leads is dying - Thoughts?](https://afflift.com/f/threads/lead-gen-is-dying-facebook-leads-is-dying-thoughts.12293/)
 -  18 [How to Create Successful Push-Ads Campaign](https://afflift.com/f/threads/how-to-create-successful-push-ads-campaign.12292/)
 -  18 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
 -  18 [eCommerce network recommendation](https://afflift.com/f/threads/ecommerce-network-recommendation.12286/)
 -  18 [🚀💥 FREE 10 Million Clicks + $250 to Your Account from PeerClick! Claim Now! 💥🚀](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%92%A5-free-10-million-clicks-250-to-your-account-from-peerclick-claim-now-%F0%9F%92%A5%F0%9F%9A%80.12257/)
 -  18 [New Year’s Marketing Ideas](https://afflift.com/f/threads/new-year%E2%80%99s-marketing-ideas.12296/)
--  18 [Restart propellerads,Can I reach green this time?](https://afflift.com/f/threads/restart-propellerads-can-i-reach-green-this-time.12295/)
--  18 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  18 [Facebook ads report to google sheet ?](https://afflift.com/f/threads/facebook-ads-report-to-google-sheet.12227/)
--  18 [How do you run Facebook ads?](https://afflift.com/f/threads/how-do-you-run-facebook-ads.12003/)
--  18 [AWeber + FunnelFlux + Looker &lpar;Google Data Studio&rpar;: A Better Way to See Data](https://afflift.com/f/threads/aweber-funnelflux-looker-google-data-studio-a-better-way-to-see-data.12290/)
--  18 [#ADSTERRAx2 Dating offers on social bar](https://afflift.com/f/threads/adsterrax2-dating-offers-on-social-bar.12152/)<!-- afflift:END -->
+-  18 [Restart propellerads,Can I reach green this time?](https://afflift.com/f/threads/restart-propellerads-can-i-reach-green-this-time.12295/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
