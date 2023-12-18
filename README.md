@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Test out the best generic LP for mVAS offers](https://afflift.com/f/threads/test-out-the-best-generic-lp-for-mvas-offers.12276/)
+-  18 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  18 [eCommerce network recommendation](https://afflift.com/f/threads/ecommerce-network-recommendation.12286/)
 -  18 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  18 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
 -  17 [ProfitPay - a direct Nutra advertiser in Europe](https://afflift.com/f/threads/profitpay-a-direct-nutra-advertiser-in-europe.12201/)
--  17 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  17 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  17 [Journey to $50+/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  17 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
 -  17 [AWeber + FunnelFlux + Looker &lpar;Google Data Studio&rpar;: A Better Way to See Data](https://afflift.com/f/threads/aweber-funnelflux-looker-google-data-studio-a-better-way-to-see-data.12290/)
 -  17 [2024 Goals](https://afflift.com/f/threads/2024-goals.12288/)
--  17 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  17 [Leveraging My Niche Site: Easy SEO Traffic From Book Publishing](https://afflift.com/f/threads/leveraging-my-niche-site-easy-seo-traffic-from-book-publishing.12285/)<!-- afflift:END -->
+-  17 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
