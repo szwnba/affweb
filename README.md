@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  19 [新人来报到！！！](https://www.advertcn.com/thread-113360-1-1.html)
 -  19 [新人认个脸熟](https://www.advertcn.com/thread-113357-1-1.html)
 -  19 [Greetings from WeFun Agency](https://www.advertcn.com/thread-113356-1-1.html)
 -  19 [新人报道](https://www.advertcn.com/thread-113355-1-1.html)
