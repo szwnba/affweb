@@ -46,6 +46,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
+-  19 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  19 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
+-  19 [Test out the best generic LP for mVAS offers](https://afflift.com/f/threads/test-out-the-best-generic-lp-for-mvas-offers.12276/)
 -  19 [Anyone running google display ads here?](https://afflift.com/f/threads/anyone-running-google-display-ads-here.12038/)
 -  19 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  19 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
@@ -53,11 +57,7 @@
 -  19 [📈 Tracking performance per zone using Google Analytics](https://afflift.com/f/threads/%F0%9F%93%88-tracking-performance-per-zone-using-google-analytics.12307/)
 -  19 [Effortless Affiliate Website Hack](https://afflift.com/f/threads/effortless-affiliate-website-hack.12309/)
 -  19 [I need help with Purelander and Propush](https://afflift.com/f/threads/i-need-help-with-purelander-and-propush.12053/)
--  19 [New Year’s Marketing Ideas](https://afflift.com/f/threads/new-year%E2%80%99s-marketing-ideas.12296/)
--  19 [Why do I need to use 922 Proxy? Is it really worth trying?](https://afflift.com/f/threads/why-do-i-need-to-use-922-proxy-is-it-really-worth-trying.12308/)
--  19 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  19 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  19 [🎉 Exclusive for AffLift Members: End Your Year with EZmob Traffic + Bonus! 🚀](https://afflift.com/f/threads/%F0%9F%8E%89-exclusive-for-afflift-members-end-your-year-with-ezmob-traffic-bonus-%F0%9F%9A%80.12306/)<!-- afflift:END -->
+-  19 [New Year’s Marketing Ideas](https://afflift.com/f/threads/new-year%E2%80%99s-marketing-ideas.12296/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
