@@ -59,8 +59,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [Android 玩机社区正在走向消亡](https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community)
 -  19 [社区速递 025 | 刘海工具、百元耳机以及千奇百怪的放松姿势](https://sspai.com/post/85179)
 -  19 [经典再现 | 从寻呼时代穿越到 2023，我们「重制」了曾影响世界的 BB 机](https://sspai.com/post/85047)
 -  19 [我的第三台电车，为什么选择蔚来 ES6？](https://sspai.com/post/85055)
--  19 [一日一技 | Windows 连接特定 WiFi 自动静音](https://sspai.com/post/84576)
--  19 [派早报：Adobe 放弃收购 Figma、微软 Copilot 被指错误率过高等](https://sspai.com/post/85166)<!-- sspai:END -->
+-  19 [一日一技 | Windows 连接特定 WiFi 自动静音](https://sspai.com/post/84576)<!-- sspai:END -->
