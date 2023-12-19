@@ -59,5 +59,4 @@
 <!-- sspai:START -->
 -  19 [派早报：Adobe 放弃收购 Figma、微软 Copilot 被指错误率过高等](https://sspai.com/post/85166)
 -  18 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/85158)
--  18 [探寻 Apple 的都市传说：Store 也有「Pro 版」？](https://sspai.com/post/84561)
--  18 [抛开品牌情绪，小米 14 Pro 的体验究竟如何？](https://sspai.com/post/85064)<!-- sspai:END -->
+-  18 [探寻 Apple 的都市传说：Store 也有「Pro 版」？](https://sspai.com/post/84561)<!-- sspai:END -->
