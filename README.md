@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
 -  19 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  19 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  19 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
@@ -52,8 +53,7 @@
 -  18 [PeerFly has Shut Down](https://afflift.com/f/threads/peerfly-has-shut-down.2339/)
 -  18 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  18 [Data Never Sleeps 11.0](https://afflift.com/f/threads/data-never-sleeps-11-0.12287/)
--  18 [Gainster.Pro: Elevate Your Revenue Game! Dive into High-Payout Offers and Experience Innovative Offerwall](https://afflift.com/f/threads/gainster-pro-elevate-your-revenue-game-dive-into-high-payout-offers-and-experience-innovative-offerwall.12302/)
--  18 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)<!-- afflift:END -->
+-  18 [Gainster.Pro: Elevate Your Revenue Game! Dive into High-Payout Offers and Experience Innovative Offerwall](https://afflift.com/f/threads/gainster-pro-elevate-your-revenue-game-dive-into-high-payout-offers-and-experience-innovative-offerwall.12302/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
