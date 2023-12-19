@@ -33,6 +33,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  19 [广告主不允许Brand Bid的原因是什么](https://www.advertcn.com/thread-113363-1-1.html)
 -  19 [海外住宅IP求助](https://www.advertcn.com/thread-113354-1-1.html)
 -  18 [TJ跟踪代码安装求助，红包求助](https://www.advertcn.com/thread-113352-1-1.html)
 -  18 [想入门media buy .购买惰总的google cash 课程值得吗](https://www.advertcn.com/thread-113350-1-1.html)
