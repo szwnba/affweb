@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  20 [TIKTOK的折扣户有用吗？](https://www.advertcn.com/thread-113387-1-1.html)
 -  20 [新人报道](https://www.advertcn.com/thread-113382-1-1.html)
 -  20 [新人报道](https://www.advertcn.com/thread-113379-1-1.html)<!-- advertcn1:END -->
 
