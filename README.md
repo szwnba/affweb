@@ -57,5 +57,4 @@
 -  20 [敲响圣诞「叮叮当」，让这 8 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)
 -  20 [放轻松 | 用放松，重夺生活的掌控感](https://sspai.com/post/85159)
 -  20 [一日一技 | 妙用终端清理 macOS 启动台顽固图标](https://sspai.com/post/85136)
--  19 [派早报：努比亚 Z60 Ultra 发布、Google 公布针对 反垄断诉讼的和解措施等](https://sspai.com/post/85200)
--  19 [Android 玩机社区正在走向消亡](https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community)<!-- sspai:END -->
+-  19 [派早报：努比亚 Z60 Ultra 发布、Google 公布针对 反垄断诉讼的和解措施等](https://sspai.com/post/85200)<!-- sspai:END -->
