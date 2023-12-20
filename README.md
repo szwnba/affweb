@@ -56,8 +56,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [一日一技 | 妙用终端清理 macOS 启动台顽固图标](https://sspai.com/post/85136)
 -  19 [派早报：努比亚 Z60 Ultra 发布、Google 公布针对 反垄断诉讼的和解措施等](https://sspai.com/post/85200)
 -  19 [Android 玩机社区正在走向消亡](https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community)
 -  19 [社区速递 025 | 刘海工具、百元耳机以及千奇百怪的放松姿势](https://sspai.com/post/85179)
--  19 [经典再现 | 从寻呼时代穿越到 2023，我们「重制」了曾影响世界的 BB 机](https://sspai.com/post/85047)
--  19 [我的第三台电车，为什么选择蔚来 ES6？](https://sspai.com/post/85055)<!-- sspai:END -->
+-  19 [经典再现 | 从寻呼时代穿越到 2023，我们「重制」了曾影响世界的 BB 机](https://sspai.com/post/85047)<!-- sspai:END -->
