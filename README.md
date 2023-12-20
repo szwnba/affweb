@@ -30,8 +30,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  19 [分流+落地页一站搞定，还有更多落地页模板](https://www.advertcn.com/thread-113371-1-1.html)
--  19 [广告主不允许Brand Bid的原因是什么](https://www.advertcn.com/thread-113363-1-1.html)
--  19 [海外住宅IP求助](https://www.advertcn.com/thread-113354-1-1.html)<!-- advertcn3:END -->
+-  19 [广告主不允许Brand Bid的原因是什么](https://www.advertcn.com/thread-113363-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
