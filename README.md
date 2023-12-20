@@ -41,8 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  20 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  20 [question about cpa offers zeydoo with propeller ads](https://afflift.com/f/threads/question-about-cpa-offers-zeydoo-with-propeller-ads.12330/)
+-  20 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  19 [Anyone running google display ads here?](https://afflift.com/f/threads/anyone-running-google-display-ads-here.12038/)
 -  19 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  19 [🏆 Peak Award Winners for 2023](https://afflift.com/f/threads/%F0%9F%8F%86-peak-award-winners-for-2023.12329/)
