@@ -17,11 +17,10 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  20 [新人报道](https://www.advertcn.com/thread-113379-1-1.html)
 -  19 [如何防止网站对用户进行识别和追踪？](https://www.advertcn.com/thread-113366-1-1.html)
 -  19 [新人报到](https://www.advertcn.com/thread-113365-1-1.html)
--  19 [Reddit账号批量登录指南：矩阵运营与防关联](https://www.advertcn.com/thread-113362-1-1.html)
--  19 [新人认个脸熟](https://www.advertcn.com/thread-113357-1-1.html)
--  19 [新人报道](https://www.advertcn.com/thread-113355-1-1.html)<!-- advertcn1:END -->
+-  19 [Reddit账号批量登录指南：矩阵运营与防关联](https://www.advertcn.com/thread-113362-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
