@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [🏆 Peak Award Winners for 2023](https://afflift.com/f/threads/%F0%9F%8F%86-peak-award-winners-for-2023.12329/)
--  21 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
+-  21 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
+-  21 [From Zero to One and &quot;-roi or +roi&quot;: My Journey with Affiliate Marketing &lpar;and i Can Do It Too!&rpar;](https://afflift.com/f/threads/from-zero-to-one-and-roi-or-roi-my-journey-with-affiliate-marketing-and-i-can-do-it-too.12336/)
+-  21 [I need help with Purelander and Propush](https://afflift.com/f/threads/i-need-help-with-purelander-and-propush.12053/)
 -  21 [Propeller Survey Exit suddenly not available for account?](https://afflift.com/f/threads/propeller-survey-exit-suddenly-not-available-for-account.12236/)
--  21 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
+-  21 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  21 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
+-  21 [🏆 Peak Award Winners for 2023](https://afflift.com/f/threads/%F0%9F%8F%86-peak-award-winners-for-2023.12329/)
+-  21 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
 -  20 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
 -  20 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  20 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
--  20 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
--  20 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  20 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  20 [Earn $2,000 per purchase with GanttPRO affiliate program](https://afflift.com/f/threads/earn-2-000-per-purchase-with-ganttpro-affiliate-program.10342/)<!-- afflift:END -->
+-  20 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
