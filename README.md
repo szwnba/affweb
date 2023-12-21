@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  21 [从程序员到调酒师，这是我的体验与思考](https://sspai.com/post/84505)
 -  21 [派早报：初代米奇即将进入公共领域、WPS 停止投放第三方商业广告等](https://sspai.com/post/85226)
--  20 [敲响圣诞「叮叮当」，让这 8 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)
--  20 [放轻松 | 用放松，重夺生活的掌控感](https://sspai.com/post/85159)<!-- sspai:END -->
+-  20 [敲响圣诞「叮叮当」，让这 8 部圣诞影片陪你迎接新年](https://sspai.com/post/85156)<!-- sspai:END -->
