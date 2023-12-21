@@ -23,7 +23,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  08 [做tiktok的8天感悟](https://www.advertcn.com/thread-113232-1-1.html)<!-- advertcn2:END -->
+-  21 [谷歌联盟为什么会有美国税？](https://www.advertcn.com/thread-113411-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
