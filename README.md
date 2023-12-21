@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [iPhone 15 Pro 影像体验：一个神秘学摄影项目的诞生](https://sspai.com/prime/story/mystical-photography-with-iphone-15-pro)
 -  21 [设计优化、功能更强，时隔五年的大更新：OmniFocus 4](https://sspai.com/post/68428)
 -  21 [认真聊聊 ADHD：注意力、肠胃失调、自我认知和「时髦病」](https://sspai.com/post/85217)
 -  21 [从程序员到调酒师，这是我的体验与思考](https://sspai.com/post/84505)
