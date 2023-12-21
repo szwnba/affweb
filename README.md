@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [iGB Affiliate London 2024](https://afflift.com/f/threads/igb-affiliate-london-2024.12344/)
+-  21 [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)
+-  21 [Did you pass the PropellerAds Media Buyer Certification❓](https://afflift.com/f/threads/did-you-pass-the-propellerads-media-buyer-certification%E2%9D%93.12341/)
+-  21 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  21 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  21 [Facebook give me credit, needing clean CPL offers](https://afflift.com/f/threads/facebook-give-me-credit-needing-clean-cpl-offers.12343/)
--  21 [Did you pass the PropellerAds Media Buyer Certification❓](https://afflift.com/f/threads/did-you-pass-the-propellerads-media-buyer-certification%E2%9D%93.12341/)
 -  21 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
 -  21 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  21 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  21 [Trafficback For Smartlnks Just Released. Profit x 3.](https://afflift.com/f/threads/trafficback-for-smartlnks-just-released-profit-x-3.12338/)
 -  21 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  21 [Gmail and Yahoo upcoming requirements enforced for bulk email senders](https://afflift.com/f/threads/gmail-and-yahoo-upcoming-requirements-enforced-for-bulk-email-senders.12337/)
--  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  21 [DV360 DSP – Will it Replace Google Ads and Who is it Suitable For?](https://afflift.com/f/threads/dv360-dsp-%E2%80%93-will-it-replace-google-ads-and-who-is-it-suitable-for.12339/)
--  21 [Host Your Landing Pages for Free &lpar;w/CDN&rpar; in 10 Minutes](https://afflift.com/f/threads/host-your-landing-pages-for-free-w-cdn-in-10-minutes.7673/)<!-- afflift:END -->
+-  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
