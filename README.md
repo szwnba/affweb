@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [设计优化、功能更强，时隔五年的大更新：OmniFocus 4](https://sspai.com/post/68428)
 -  21 [认真聊聊 ADHD：注意力、肠胃失调、自我认知和「时髦病」](https://sspai.com/post/85217)
 -  21 [从程序员到调酒师，这是我的体验与思考](https://sspai.com/post/84505)
 -  21 [派早报：初代米奇即将进入公共领域、WPS 停止投放第三方商业广告等](https://sspai.com/post/85226)<!-- sspai:END -->
