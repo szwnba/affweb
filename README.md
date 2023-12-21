@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
+-  21 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
+-  21 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  21 [Did you pass the PropellerAds Media Buyer Certification❓](https://afflift.com/f/threads/did-you-pass-the-propellerads-media-buyer-certification%E2%9D%93.12341/)
+-  21 [Trafficback For Smartlnks Just Released. Profit x 3.](https://afflift.com/f/threads/trafficback-for-smartlnks-just-released-profit-x-3.12338/)
+-  21 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  21 [Gmail and Yahoo upcoming requirements enforced for bulk email senders](https://afflift.com/f/threads/gmail-and-yahoo-upcoming-requirements-enforced-for-bulk-email-senders.12337/)
 -  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  21 [Trafficback For Smartlnks Just Released. Profit x 3.](https://afflift.com/f/threads/trafficback-for-smartlnks-just-released-profit-x-3.12338/)
 -  21 [DV360 DSP – Will it Replace Google Ads and Who is it Suitable For?](https://afflift.com/f/threads/dv360-dsp-%E2%80%93-will-it-replace-google-ads-and-who-is-it-suitable-for.12339/)
 -  21 [Host Your Landing Pages for Free &lpar;w/CDN&rpar; in 10 Minutes](https://afflift.com/f/threads/host-your-landing-pages-for-free-w-cdn-in-10-minutes.7673/)
 -  21 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
 -  21 [🏆 Peak Award Winners for 2023](https://afflift.com/f/threads/%F0%9F%8F%86-peak-award-winners-for-2023.12329/)
--  21 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  21 [Walkthrough on How to Create Winning Landing Pages from A-Z](https://afflift.com/f/threads/walkthrough-on-how-to-create-winning-landing-pages-from-a-z.12284/)
--  21 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)<!-- afflift:END -->
+-  21 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
