@@ -41,9 +41,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  21 [Did you pass the PropellerAds Media Buyer Certification❓](https://afflift.com/f/threads/did-you-pass-the-propellerads-media-buyer-certification%E2%9D%93.12341/)
 -  21 [Gmail and Yahoo upcoming requirements enforced for bulk email senders](https://afflift.com/f/threads/gmail-and-yahoo-upcoming-requirements-enforced-for-bulk-email-senders.12337/)
--  21 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  21 [Trafficback For Smartlnks Just Released. Profit x 3.](https://afflift.com/f/threads/trafficback-for-smartlnks-just-released-profit-x-3.12338/)
 -  21 [DV360 DSP – Will it Replace Google Ads and Who is it Suitable For?](https://afflift.com/f/threads/dv360-dsp-%E2%80%93-will-it-replace-google-ads-and-who-is-it-suitable-for.12339/)
