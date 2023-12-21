@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  21 [Propeller Survey Exit suddenly not available for account?](https://afflift.com/f/threads/propeller-survey-exit-suddenly-not-available-for-account.12236/)
 -  21 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
 -  21 [🏆 Peak Award Winners for 2023](https://afflift.com/f/threads/%F0%9F%8F%86-peak-award-winners-for-2023.12329/)
@@ -49,8 +50,7 @@
 -  20 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)
 -  20 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  20 [#ADSTERRAx2 Testing Adsterra as a Traffic Source](https://afflift.com/f/threads/adsterrax2-testing-adsterra-as-a-traffic-source.11955/)
--  20 [Earn $2,000 per purchase with GanttPRO affiliate program](https://afflift.com/f/threads/earn-2-000-per-purchase-with-ganttpro-affiliate-program.10342/)
--  20 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)<!-- afflift:END -->
+-  20 [Earn $2,000 per purchase with GanttPRO affiliate program](https://afflift.com/f/threads/earn-2-000-per-purchase-with-ganttpro-affiliate-program.10342/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
