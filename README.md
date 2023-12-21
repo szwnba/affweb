@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  21 [From Zero to One and &quot;-roi or +roi&quot;: My Journey with Affiliate Marketing &lpar;and i Can Do It Too!&rpar;](https://afflift.com/f/threads/from-zero-to-one-and-roi-or-roi-my-journey-with-affiliate-marketing-and-i-can-do-it-too.12336/)
 -  21 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  21 [Host Your Landing Pages for Free &lpar;w/CDN&rpar; in 10 Minutes](https://afflift.com/f/threads/host-your-landing-pages-for-free-w-cdn-in-10-minutes.7673/)
 -  21 [Testing The Magic Button Lander](https://afflift.com/f/threads/testing-the-magic-button-lander.12270/)
@@ -50,9 +52,7 @@
 -  21 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  21 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  21 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
--  21 [I need help with Purelander and Propush](https://afflift.com/f/threads/i-need-help-with-purelander-and-propush.12053/)
--  21 [Gmail and Yahoo upcoming requirements enforced for bulk email senders](https://afflift.com/f/threads/gmail-and-yahoo-upcoming-requirements-enforced-for-bulk-email-senders.12337/)
--  21 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
+-  21 [I need help with Purelander and Propush](https://afflift.com/f/threads/i-need-help-with-purelander-and-propush.12053/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
