@@ -28,8 +28,7 @@
 <!-- advertcn3:START -->
 -  21 [英语翻译繁体中文哪个比较准确？](https://www.advertcn.com/thread-113392-1-1.html)
 -  20 [FB广告显示無法發佈廣告: 俄羅斯的廣告客戶目前無法建立...](https://www.advertcn.com/thread-113386-1-1.html)
--  20 [务实一点，如果没项目做就做TK拉新](https://www.advertcn.com/thread-113385-1-1.html)
--  20 [Facebook产品更新|七项广告发布守则已更新](https://www.advertcn.com/thread-113380-1-1.html)<!-- advertcn3:END -->
+-  20 [务实一点，如果没项目做就做TK拉新](https://www.advertcn.com/thread-113385-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
