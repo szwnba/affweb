@@ -61,5 +61,4 @@
 -  22 [找到适合自己的图文分享卡片，我对比了 23 款软件](https://sspai.com/post/85218)
 -  22 [抓住日常频繁且随机的灵感，我是如何构建一套「内洽」的写作流程](https://sspai.com/post/84644)
 -  22 [派早报：首批搭载下一代 CarPlay 车企公布](https://sspai.com/post/85260)
--  21 [iPhone 15 Pro 影像体验：一个神秘学摄影项目的诞生](https://sspai.com/prime/story/mystical-photography-with-iphone-15-pro)
--  21 [设计优化、功能更强，时隔五年的大更新：OmniFocus 4](https://sspai.com/post/68428)<!-- sspai:END -->
+-  21 [iPhone 15 Pro 影像体验：一个神秘学摄影项目的诞生](https://sspai.com/prime/story/mystical-photography-with-iphone-15-pro)<!-- sspai:END -->
