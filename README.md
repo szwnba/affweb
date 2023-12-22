@@ -33,8 +33,7 @@
 -  22 [寻找能过revcontent的卡](https://www.advertcn.com/thread-113417-1-1.html)
 -  21 [求助各位大佬联盟Facebook投放成年人用品和娃娃，聊单玩法。](https://www.advertcn.com/thread-113413-1-1.html)
 -  21 [Gemini Pro的API免费](https://www.advertcn.com/thread-113410-1-1.html)
--  21 [超级简单的落地页制作工具小白也可以上手](https://www.advertcn.com/thread-113407-1-1.html)
--  21 [寻求cpc的联盟单子](https://www.advertcn.com/thread-113400-1-1.html)<!-- advertcn3:END -->
+-  21 [超级简单的落地页制作工具小白也可以上手](https://www.advertcn.com/thread-113407-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
