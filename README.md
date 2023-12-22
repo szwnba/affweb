@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [What Traffic methods should A beginner start learning heading into 2024?](https://afflift.com/f/threads/what-traffic-methods-should-a-beginner-start-learning-heading-into-2024.12346/)
+-  22 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
+-  22 [From Zero to One and &quot;-roi or +roi&quot;: My Journey with Affiliate Marketing &lpar;and i Can Do It Too!&rpar;](https://afflift.com/f/threads/from-zero-to-one-and-roi-or-roi-my-journey-with-affiliate-marketing-and-i-can-do-it-too.12336/)
+-  22 [🚀 Introducing Revolutionary AI in Traffic Distribution: Optimizing Campaigns with Science at Peerclick! 🚀](https://afflift.com/f/threads/%F0%9F%9A%80-introducing-revolutionary-ai-in-traffic-distribution-optimizing-campaigns-with-science-at-peerclick-%F0%9F%9A%80.12347/)
+-  22 [Facebook give me credit, needing clean CPL offers](https://afflift.com/f/threads/facebook-give-me-credit-needing-clean-cpl-offers.12343/)
+-  22 [iGB Affiliate London 2024](https://afflift.com/f/threads/igb-affiliate-london-2024.12344/)
+-  22 [The Art of Writing AI Prompts to Make Better Advertising Creatives and Landing Pages 🚀💰🤖](https://afflift.com/f/threads/the-art-of-writing-ai-prompts-to-make-better-advertising-creatives-and-landing-pages-%F0%9F%9A%80%F0%9F%92%B0%F0%9F%A4%96.10728/)
 -  22 [🚀💥 FREE 10 Million Clicks + $250 to Your Account from PeerClick! Claim Now! 💥🚀](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%92%A5-free-10-million-clicks-250-to-your-account-from-peerclick-claim-now-%F0%9F%92%A5%F0%9F%9A%80.12257/)
 -  22 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
--  22 [From Zero to One and &quot;-roi or +roi&quot;: My Journey with Affiliate Marketing &lpar;and i Can Do It Too!&rpar;](https://afflift.com/f/threads/from-zero-to-one-and-roi-or-roi-my-journey-with-affiliate-marketing-and-i-can-do-it-too.12336/)
 -  22 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  22 [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
--  22 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)
--  22 [Using the new GPTs](https://afflift.com/f/threads/using-the-new-gpts.12181/)
--  22 [What Traffic methods should A beginner start learning heading into 2024?](https://afflift.com/f/threads/what-traffic-methods-should-a-beginner-start-learning-heading-into-2024.12346/)
--  21 [Free Affiliate Marketing &amp; eCommerce P&amp;L Sheets](https://afflift.com/f/threads/free-affiliate-marketing-ecommerce-p-l-sheets.12345/)
--  21 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
--  21 [iGB Affiliate London 2024](https://afflift.com/f/threads/igb-affiliate-london-2024.12344/)
--  21 [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)<!-- afflift:END -->
+-  22 [My favorite combination - PropellerAds + ProPush + Zeydoo #PA23](https://afflift.com/f/threads/my-favorite-combination-propellerads-propush-zeydoo-pa23.11586/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
