@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [What Traffic methods should A beginner start learning heading into 2024?](https://afflift.com/f/threads/what-traffic-methods-should-a-beginner-start-learning-heading-into-2024.12346/)
+-  22 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
+-  22 [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
 -  21 [Free Affiliate Marketing &amp; eCommerce P&amp;L Sheets](https://afflift.com/f/threads/free-affiliate-marketing-ecommerce-p-l-sheets.12345/)
 -  21 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
--  21 [Zeydoo Finance Survey Follow Along](https://afflift.com/f/threads/zeydoo-finance-survey-follow-along.10174/)
 -  21 [iGB Affiliate London 2024](https://afflift.com/f/threads/igb-affiliate-london-2024.12344/)
 -  21 [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)
 -  21 [Did you pass the PropellerAds Media Buyer Certification❓](https://afflift.com/f/threads/did-you-pass-the-propellerads-media-buyer-certification%E2%9D%93.12341/)
--  21 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  21 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  21 [Facebook give me credit, needing clean CPL offers](https://afflift.com/f/threads/facebook-give-me-credit-needing-clean-cpl-offers.12343/)
 -  21 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
--  21 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  21 [Trafficback For Smartlnks Just Released. Profit x 3.](https://afflift.com/f/threads/trafficback-for-smartlnks-just-released-profit-x-3.12338/)<!-- afflift:END -->
+-  21 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
