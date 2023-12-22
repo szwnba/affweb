@@ -27,12 +27,12 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  22 [【Blitzads TOP EU offer 】](https://www.advertcn.com/thread-113424-1-1.html)
 -  22 [各位大神，推荐一个我们能用的wallet](https://www.advertcn.com/thread-113423-1-1.html)
 -  22 [有一些不错的爱情动作片资源，想分享同时还可以赚钱](https://www.advertcn.com/thread-113418-1-1.html)
 -  22 [寻找能过revcontent的卡](https://www.advertcn.com/thread-113417-1-1.html)
 -  21 [求助各位大佬联盟Facebook投放成年人用品和娃娃，聊单玩法。](https://www.advertcn.com/thread-113413-1-1.html)
--  21 [谷歌联盟为什么会有美国税？](https://www.advertcn.com/thread-113411-1-1.html)
--  21 [Gemini Pro的API免费](https://www.advertcn.com/thread-113410-1-1.html)<!-- advertcn3:END -->
+-  21 [谷歌联盟为什么会有美国税？](https://www.advertcn.com/thread-113411-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
