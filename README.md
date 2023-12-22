@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
 -  22 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  22 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  22 [Getting Back Into Affiliate Marketing](https://afflift.com/f/threads/getting-back-into-affiliate-marketing.12350/)
@@ -49,8 +50,7 @@
 -  22 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  22 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  22 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
--  22 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)
--  22 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)<!-- afflift:END -->
+-  22 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
