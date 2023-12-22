@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  21 [新人报道](https://www.advertcn.com/thread-113414-1-1.html)
 -  21 [新人报道-](https://www.advertcn.com/thread-113409-1-1.html)
--  21 [如何批量注册多个Gmail账户且不会关联？](https://www.advertcn.com/thread-113404-1-1.html)
--  21 [新人报道](https://www.advertcn.com/thread-113393-1-1.html)<!-- advertcn1:END -->
+-  21 [如何批量注册多个Gmail账户且不会关联？](https://www.advertcn.com/thread-113404-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
