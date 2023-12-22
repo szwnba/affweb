@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  22 [新人报道-上海爱竞](https://www.advertcn.com/thread-113416-1-1.html)
 -  22 [如何防止用户身份被关联?](https://www.advertcn.com/thread-113415-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-113414-1-1.html)
 -  21 [新人报道-](https://www.advertcn.com/thread-113409-1-1.html)
