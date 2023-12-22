@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  22 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  22 [Getting Back Into Affiliate Marketing](https://afflift.com/f/threads/getting-back-into-affiliate-marketing.12350/)
 -  22 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
@@ -48,7 +49,6 @@
 -  22 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  22 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  22 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  22 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  22 [ApproachX - 20% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-20-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  22 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
 -  22 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)
