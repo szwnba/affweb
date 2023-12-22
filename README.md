@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  13 [Yandex 360免费版域名邮箱, 无限用户可换域名可发信](https://51.ruyo.net/18565.html)<!-- ruyo:END -->
+-  22 [自己动手破解Markdown软件Typora，支持官网最新版](https://51.ruyo.net/18583.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
