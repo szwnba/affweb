@@ -52,6 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  23 [城市漫步指南：《海街 Diary》 里的故事，就在眼前的镰仓](https://sspai.com/post/84660)
--  22 [本周看什么 | 最近值得一看的一大坨作品](https://sspai.com/post/85272)
--  22 [少数派会员年度周边，邀请你一起来创作](https://sspai.com/prime/story/member-merch-design-2023)<!-- sspai:END -->
+-  23 [城市漫步指南：《海街 Diary》 里的故事，就在眼前的镰仓](https://sspai.com/post/84660)<!-- sspai:END -->
