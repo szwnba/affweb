@@ -37,7 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  23 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
+-  23 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  23 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  23 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  23 [Making Subdomain Landers With GitHub](https://afflift.com/f/threads/making-subdomain-landers-with-github.12356/)
 -  23 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
@@ -45,10 +48,7 @@
 -  23 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  23 [Using Github with Cloudfare](https://afflift.com/f/threads/using-github-with-cloudfare.12355/)
 -  23 [First Impression of RollerAds](https://afflift.com/f/threads/first-impression-of-rollerads.7532/)
--  23 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)
--  23 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
--  23 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
--  23 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)<!-- afflift:END -->
+-  23 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
