@@ -54,5 +54,4 @@
 <!-- sspai:START -->
 -  23 [城市漫步指南：《海街 Diary》 里的故事，就在眼前的镰仓](https://sspai.com/post/84660)
 -  22 [本周看什么 | 最近值得一看的一大坨作品](https://sspai.com/post/85272)
--  22 [少数派会员年度周边，邀请你一起来创作](https://sspai.com/prime/story/member-merch-design-2023)
--  22 [找到适合自己的图文分享卡片，我对比了 23 款软件](https://sspai.com/post/85218)<!-- sspai:END -->
+-  22 [少数派会员年度周边，邀请你一起来创作](https://sspai.com/prime/story/member-merch-design-2023)<!-- sspai:END -->
