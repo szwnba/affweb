@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Anyone running RTX keyword/url traffic? It’s been ‘dead’ for a couple of days](https://afflift.com/f/threads/anyone-running-rtx-keyword-url-traffic-it%E2%80%99s-been-%E2%80%98dead%E2%80%99-for-a-couple-of-days.12354/)
 -  23 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
 -  23 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  23 [Getting Back Into Affiliate Marketing](https://afflift.com/f/threads/getting-back-into-affiliate-marketing.12350/)
@@ -48,8 +49,7 @@
 -  22 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
 -  22 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  22 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  22 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  22 [Leveraging My Niche Site: Easy SEO Traffic From Book Publishing](https://afflift.com/f/threads/leveraging-my-niche-site-easy-seo-traffic-from-book-publishing.12285/)<!-- afflift:END -->
+-  22 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
