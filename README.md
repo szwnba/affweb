@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  22 [本周看什么 | 最近值得一看的一大坨作品](https://sspai.com/post/85272)
 -  22 [少数派会员年度周边，邀请你一起来创作](https://sspai.com/prime/story/member-merch-design-2023)
--  22 [找到适合自己的图文分享卡片，我对比了 23 款软件](https://sspai.com/post/85218)
--  22 [抓住日常频繁且随机的灵感，我是如何构建一套「内洽」的写作流程](https://sspai.com/post/84644)<!-- sspai:END -->
+-  22 [找到适合自己的图文分享卡片，我对比了 23 款软件](https://sspai.com/post/85218)<!-- sspai:END -->
