@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
 -  23 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  23 [Making Subdomain Landers With GitHub](https://afflift.com/f/threads/making-subdomain-landers-with-github.12356/)
 -  23 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
@@ -47,8 +48,7 @@
 -  23 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)
 -  23 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
 -  23 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
--  23 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
--  23 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)<!-- afflift:END -->
+-  23 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
