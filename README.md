@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  23 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  23 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  23 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
@@ -47,8 +48,7 @@
 -  23 [2024 Goals](https://afflift.com/f/threads/2024-goals.12288/)
 -  23 [Earn $300 per purchase with Agency Web affiliate program](https://afflift.com/f/threads/earn-300-per-purchase-with-agency-web-affiliate-program.12353/)
 -  23 [NoisyBoy&#39;s Bing Ads/Microsoft Ads Affiliate FA - Let&#39;s Get this Jumpin&#39;!](https://afflift.com/f/threads/noisyboys-bing-ads-microsoft-ads-affiliate-fa-lets-get-this-jumpin.11830/)
--  23 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)
--  22 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)<!-- afflift:END -->
+-  23 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
