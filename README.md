@@ -39,8 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  23 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
+-  23 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  23 [Getting Back Into Affiliate Marketing](https://afflift.com/f/threads/getting-back-into-affiliate-marketing.12350/)
 -  23 [2024 Goals](https://afflift.com/f/threads/2024-goals.12288/)
 -  23 [Earn $300 per purchase with Agency Web affiliate program](https://afflift.com/f/threads/earn-300-per-purchase-with-agency-web-affiliate-program.12353/)
