@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Propellerads: &quot;Audiences&quot; with S2S management](https://afflift.com/f/threads/propellerads-audiences-with-s2s-management.12359/)
 -  24 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
 -  24 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  24 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
@@ -46,8 +47,7 @@
 -  23 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  23 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)
 -  23 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  23 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
--  23 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)<!-- afflift:END -->
+-  23 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
