@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  23 [城市漫步指南：《海街 Diary》 里的故事，就在眼前的镰仓](https://sspai.com/post/84660)<!-- sspai:END -->
+-  24 [用 Ollama 轻松玩转本地大模型](https://sspai.com/post/85193)<!-- sspai:END -->
