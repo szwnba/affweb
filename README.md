@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
+-  24 [KeyAffiliates - iGaming - Email offers and templates all over the world](https://afflift.com/f/threads/keyaffiliates-igaming-email-offers-and-templates-all-over-the-world.11618/)
 -  24 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  24 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  24 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
@@ -45,9 +47,7 @@
 -  24 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
 -  24 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  24 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  24 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
--  24 [Facebook give me credit, needing clean CPL offers](https://afflift.com/f/threads/facebook-give-me-credit-needing-clean-cpl-offers.12343/)
--  23 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
+-  24 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
