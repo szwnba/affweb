@@ -36,13 +36,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Happy X-Mas 🎅](https://afflift.com/f/threads/happy-x-mas-%F0%9F%8E%85.12361/)
 -  24 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  24 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  24 [KeyAffiliates - iGaming - Email offers and templates all over the world](https://afflift.com/f/threads/keyaffiliates-igaming-email-offers-and-templates-all-over-the-world.11618/)
 -  24 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  24 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  24 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
--  24 [Happy X-Mas 🎅](https://afflift.com/f/threads/happy-x-mas-%F0%9F%8E%85.12361/)
 -  24 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
 -  24 [Propellerads: &quot;Audiences&quot; with S2S management](https://afflift.com/f/threads/propellerads-audiences-with-s2s-management.12359/)
 -  24 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
