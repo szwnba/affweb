@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  23 [独立站如何申请退款，有人赐教吗](https://www.advertcn.com/thread-113428-1-1.html)
--  23 [收sas账号，有的私信](https://www.advertcn.com/thread-113427-1-1.html)<!-- advertcn3:END -->
+-  23 [独立站如何申请退款，有人赐教吗](https://www.advertcn.com/thread-113428-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
