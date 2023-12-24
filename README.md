@@ -36,7 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [I am selling the source code of a complete automatic website creation &lpar;SaaS&rpar;](https://afflift.com/f/threads/i-am-selling-the-source-code-of-a-complete-automatic-website-creation-saas.12360/)
+-  24 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
 -  24 [Propellerads: &quot;Audiences&quot; with S2S management](https://afflift.com/f/threads/propellerads-audiences-with-s2s-management.12359/)
 -  24 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
 -  24 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
