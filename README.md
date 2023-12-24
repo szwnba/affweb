@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  24 [youtube自动发视频的软件](https://www.advertcn.com/thread-113430-1-1.html)
--  23 [独立站如何申请退款，有人赐教吗](https://www.advertcn.com/thread-113428-1-1.html)<!-- advertcn3:END -->
+-  24 [youtube自动发视频的软件](https://www.advertcn.com/thread-113430-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
