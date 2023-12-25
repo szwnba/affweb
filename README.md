@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  25 [CPI 协议](https://www.advertcn.com/thread-113435-1-1.html)
--  24 [youtube自动发视频的软件](https://www.advertcn.com/thread-113430-1-1.html)<!-- advertcn3:END -->
+-  25 [CPI 协议](https://www.advertcn.com/thread-113435-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
