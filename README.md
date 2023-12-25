@@ -52,5 +52,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙](https://sspai.com/post/85247)
 -  25 [派早报](https://sspai.com/post/85316)
 -  24 [用 Ollama 轻松玩转本地大模型](https://sspai.com/post/85193)<!-- sspai:END -->
