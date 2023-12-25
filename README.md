@@ -17,9 +17,9 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  25 [玩黑五类联盟来](https://www.advertcn.com/thread-113445-1-1.html)
 -  25 [女装行业facebook广告投放的方法](https://www.advertcn.com/thread-113441-1-1.html)
--  25 [新人报道](https://www.advertcn.com/thread-113436-1-1.html)
--  24 [新人报道！](https://www.advertcn.com/thread-113433-1-1.html)<!-- advertcn1:END -->
+-  25 [新人报道](https://www.advertcn.com/thread-113436-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
