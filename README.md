@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
 -  25 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  25 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
@@ -49,8 +50,7 @@
 -  24 [KeyAffiliates - iGaming - Email offers and templates all over the world](https://afflift.com/f/threads/keyaffiliates-igaming-email-offers-and-templates-all-over-the-world.11618/)
 -  24 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  24 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  24 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
--  24 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)<!-- afflift:END -->
+-  24 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
