@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  25 [TikTok for Business广告投放流程|课程](https://www.advertcn.com/thread-113437-1-1.html)
 -  25 [CPI 协议](https://www.advertcn.com/thread-113435-1-1.html)<!-- advertcn3:END -->
 
 
