@@ -40,11 +40,11 @@
 ### afflift
 <!-- afflift:START -->
 -  25 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
+-  25 [Binom 2024 New Year Promo](https://afflift.com/f/threads/binom-2024-new-year-promo.12363/)
 -  25 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
 -  25 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
 -  25 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  25 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  25 [Binom 2024 New Year Promo](https://afflift.com/f/threads/binom-2024-new-year-promo.12363/)
 -  25 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  25 [Intermediate Survey Pops Course &amp; Insights from a Newbie &lpar;First Campaign&rpar;](https://afflift.com/f/threads/intermediate-survey-pops-course-insights-from-a-newbie-first-campaign.12362/)
 -  25 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
