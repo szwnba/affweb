@@ -36,8 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Happy X-Mas 🎅](https://afflift.com/f/threads/happy-x-mas-%F0%9F%8E%85.12361/)
 -  24 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
--  24 [Happy X-Mas 🎅](https://afflift.com/f/threads/happy-x-mas-%F0%9F%8E%85.12361/)
 -  24 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  24 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  24 [KeyAffiliates - iGaming - Email offers and templates all over the world](https://afflift.com/f/threads/keyaffiliates-igaming-email-offers-and-templates-all-over-the-world.11618/)
