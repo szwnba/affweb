@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  25 [Happy X-Mas 🎅](https://afflift.com/f/threads/happy-x-mas-%F0%9F%8E%85.12361/)
 -  24 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
 -  24 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
@@ -46,8 +47,7 @@
 -  24 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  24 [Traffic source](https://afflift.com/f/threads/traffic-source.12009/)
 -  24 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
--  24 [Propellerads: &quot;Audiences&quot; with S2S management](https://afflift.com/f/threads/propellerads-audiences-with-s2s-management.12359/)
--  24 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)<!-- afflift:END -->
+-  24 [Propellerads: &quot;Audiences&quot; with S2S management](https://afflift.com/f/threads/propellerads-audiences-with-s2s-management.12359/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
