@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  25 [女装行业facebook广告投放的方法](https://www.advertcn.com/thread-113441-1-1.html)
 -  25 [新人报道-工作室接日本代投](https://www.advertcn.com/thread-113439-1-1.html)
 -  25 [新人报道](https://www.advertcn.com/thread-113436-1-1.html)
 -  24 [新人报道！](https://www.advertcn.com/thread-113433-1-1.html)<!-- advertcn1:END -->
