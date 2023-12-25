@@ -51,4 +51,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [派早报](https://sspai.com/post/85316)
 -  24 [用 Ollama 轻松玩转本地大模型](https://sspai.com/post/85193)<!-- sspai:END -->
