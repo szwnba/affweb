@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [派评 | 近期值得关注的 App](https://sspai.com/post/85340)
 -  25 [玩乐之外读什么：30 篇优秀报道，回顾游戏行业的 2023](https://sspai.com/post/85315)
 -  25 [放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙](https://sspai.com/post/85247)
 -  25 [派早报](https://sspai.com/post/85316)<!-- sspai:END -->
