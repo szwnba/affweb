@@ -28,6 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  26 [有懂youtube购买获利号的踩坑点么](https://www.advertcn.com/thread-113448-1-1.html)
 -  25 [TikTok for Business广告投放流程|课程](https://www.advertcn.com/thread-113437-1-1.html)
 -  25 [CPI 协议](https://www.advertcn.com/thread-113435-1-1.html)<!-- advertcn3:END -->
 
