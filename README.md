@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [一日一技 | 无需重装，利用 AME Wizard 让你的 Windows PC 焕然一新](https://sspai.com/post/85256)
 -  26 [研究生尾声之际，回顾我与 Obsidian 的四年](https://sspai.com/post/85339)
 -  26 [派早报：字节跳动推出线下养车服务、美光科技与福建晋华达成和解等](https://sspai.com/post/85354)
 -  25 [派评 | 近期值得关注的 App](https://sspai.com/post/85340)<!-- sspai:END -->
