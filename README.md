@@ -39,9 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
+-  26 [What Traffic methods should A beginner start learning heading into 2024?](https://afflift.com/f/threads/what-traffic-methods-should-a-beginner-start-learning-heading-into-2024.12346/)
 -  26 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  26 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)
--  26 [What Traffic methods should A beginner start learning heading into 2024?](https://afflift.com/f/threads/what-traffic-methods-should-a-beginner-start-learning-heading-into-2024.12346/)
 -  26 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  26 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
 -  26 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
@@ -49,8 +50,7 @@
 -  26 [How to Protect Your Advertising Campaign from Bot Traffic and Achieve Consistent Profits](https://afflift.com/f/threads/how-to-protect-your-advertising-campaign-from-bot-traffic-and-achieve-consistent-profits.12366/)
 -  26 [Intermediate Survey Pops Course &amp; Insights from a Newbie &lpar;First Campaign&rpar;](https://afflift.com/f/threads/intermediate-survey-pops-course-insights-from-a-newbie-first-campaign.12362/)
 -  26 [Binom 2024 New Year Promo](https://afflift.com/f/threads/binom-2024-new-year-promo.12363/)
--  26 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  26 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)<!-- afflift:END -->
+-  26 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
