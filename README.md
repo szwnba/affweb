@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  26 [Etsy新卖家必备的10个SEO工具！](https://www.advertcn.com/thread-113458-1-1.html)
 -  26 [社媒营销如何批量养号防止账号关联？](https://www.advertcn.com/thread-113449-1-1.html)
--  25 [玩黑五类联盟来](https://www.advertcn.com/thread-113445-1-1.html)
--  25 [女装行业facebook广告投放的方法](https://www.advertcn.com/thread-113441-1-1.html)<!-- advertcn1:END -->
+-  25 [玩黑五类联盟来](https://www.advertcn.com/thread-113445-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
