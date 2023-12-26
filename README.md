@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  26 [删除&amp;添加Facebook广告户隐藏管理员Hidden admin](https://www.advertcn.com/thread-113459-1-1.html)
 -  26 [你们ads是自己开户的吗](https://www.advertcn.com/thread-113457-1-1.html)
 -  26 [有懂youtube购买获利号的踩坑点么](https://www.advertcn.com/thread-113448-1-1.html)<!-- advertcn3:END -->
 
