@@ -41,18 +41,17 @@
 ### afflift
 <!-- afflift:START -->
 -  26 [&lpar;Question&rpar; 15~20k profit per month](https://afflift.com/f/threads/question-15-20k-profit-per-month.10173/)
+-  26 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
+-  26 [How to Protect Your Advertising Campaign from Bot Traffic and Achieve Consistent Profits](https://afflift.com/f/threads/how-to-protect-your-advertising-campaign-from-bot-traffic-and-achieve-consistent-profits.12366/)
+-  26 [Intermediate Survey Pops Course &amp; Insights from a Newbie &lpar;First Campaign&rpar;](https://afflift.com/f/threads/intermediate-survey-pops-course-insights-from-a-newbie-first-campaign.12362/)
 -  26 [Binom 2024 New Year Promo](https://afflift.com/f/threads/binom-2024-new-year-promo.12363/)
 -  26 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
--  26 [Intermediate Survey Pops Course &amp; Insights from a Newbie &lpar;First Campaign&rpar;](https://afflift.com/f/threads/intermediate-survey-pops-course-insights-from-a-newbie-first-campaign.12362/)
--  26 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  26 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
 -  26 [SOCKS5/HTTP&lpar;S&rpar;⚡2023 Residential Proxy List⚡922S5Proxy](https://afflift.com/f/threads/socks5-http-s-%E2%9A%A12023-residential-proxy-list%E2%9A%A1922s5proxy.12065/)
 -  26 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
 -  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  26 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
--  26 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
--  26 [Magic Button LP - PropellerAds + GG 
-🚀](https://afflift.com/f/threads/magic-button-lp-propellerads-gg-%F0%9F%9A%80.12269/)<!-- afflift:END -->
+-  26 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
