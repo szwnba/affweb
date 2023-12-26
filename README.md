@@ -57,5 +57,4 @@
 <!-- sspai:START -->
 -  26 [派早报：字节跳动推出线下养车服务、美光科技与福建晋华达成和解等](https://sspai.com/post/85354)
 -  25 [派评 | 近期值得关注的 App](https://sspai.com/post/85340)
--  25 [玩乐之外读什么：30 篇优秀报道，回顾游戏行业的 2023](https://sspai.com/post/85315)
--  25 [放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙](https://sspai.com/post/85247)<!-- sspai:END -->
+-  25 [玩乐之外读什么：30 篇优秀报道，回顾游戏行业的 2023](https://sspai.com/post/85315)<!-- sspai:END -->
