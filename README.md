@@ -40,6 +40,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
+-  26 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
+-  26 [Magic Button LP - PropellerAds + GG 
+🚀](https://afflift.com/f/threads/magic-button-lp-propellerads-gg-%F0%9F%9A%80.12269/)
+-  26 [From Coffee Addict to Media Buying Newbie: Join My Native Ads Journey!](https://afflift.com/f/threads/from-coffee-addict-to-media-buying-newbie-join-my-native-ads-journey.11401/)
 -  26 [Taboola + Squaredance Nutra](https://afflift.com/f/threads/taboola-squaredance-nutra.11822/)
 -  26 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  26 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
@@ -47,11 +52,7 @@
 -  26 [Propellerads: &quot;Audiences&quot; with S2S management](https://afflift.com/f/threads/propellerads-audiences-with-s2s-management.12359/)
 -  26 [Binom 2024 New Year Promo](https://afflift.com/f/threads/binom-2024-new-year-promo.12363/)
 -  26 [Intermediate Survey Pops Course &amp; Insights from a Newbie &lpar;First Campaign&rpar;](https://afflift.com/f/threads/intermediate-survey-pops-course-insights-from-a-newbie-first-campaign.12362/)
--  26 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  25 [Happy Christmas to all afflifters](https://afflift.com/f/threads/happy-christmas-to-all-afflifters.12351/)
--  25 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  25 [Happy X-Mas 🎅](https://afflift.com/f/threads/happy-x-mas-%F0%9F%8E%85.12361/)
--  25 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)<!-- afflift:END -->
+-  26 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
