@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
+-  27 [Christmas gift 🎄 PerplexityAI Free!](https://afflift.com/f/threads/christmas-gift-%F0%9F%8E%84-perplexityai-free.12368/)
+-  27 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  27 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
+-  27 [SOCKS5/HTTP&lpar;S&rpar;⚡2023 Residential Proxy List⚡922S5Proxy](https://afflift.com/f/threads/socks5-http-s-%E2%9A%A12023-residential-proxy-list%E2%9A%A1922s5proxy.12065/)
+-  27 [What Traffic methods should A beginner start learning heading into 2024?](https://afflift.com/f/threads/what-traffic-methods-should-a-beginner-start-learning-heading-into-2024.12346/)
 -  27 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  27 [TUT THRESHOLD](https://afflift.com/f/threads/tut-threshold.12291/)
--  27 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  27 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  27 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  27 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  27 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
--  27 [First FA with ClickDealer X PA #PA23](https://afflift.com/f/threads/first-fa-with-clickdealer-x-pa-pa23.11680/)
--  26 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
--  26 [$0 to $1k/Mo with Twitter/X](https://afflift.com/f/threads/0-to-1k-mo-with-twitter-x.10640/)
--  26 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  26 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
+-  27 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
