@@ -17,8 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  26 [Etsy新卖家必备的10个SEO工具！](https://www.advertcn.com/thread-113458-1-1.html)
--  26 [社媒营销如何批量养号防止账号关联？](https://www.advertcn.com/thread-113449-1-1.html)<!-- advertcn1:END -->
+-  27 [新人报道](https://www.advertcn.com/thread-113462-1-1.html)
+-  26 [Etsy新卖家必备的10个SEO工具！](https://www.advertcn.com/thread-113458-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
