@@ -55,8 +55,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)
 -  26 [派早报：华为 nova 12 系列发布、新款 Apple Watch 在美遭到禁售等](https://sspai.com/post/85383)
 -  26 [陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南](https://sspai.com/prime/story/training-guide-plometric-box-agility-ladder)
 -  26 [社区速递 026 | 通讯回忆录、变频两季扇和新玩意](https://sspai.com/post/85362)
--  26 [评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程](https://sspai.com/post/85328)
--  26 [一日一技 | 无需重装，利用 AME Wizard 让你的 Windows PC 焕然一新](https://sspai.com/post/85256)<!-- sspai:END -->
+-  26 [评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程](https://sspai.com/post/85328)<!-- sspai:END -->
