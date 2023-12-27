@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  27 [新人进来报道，顺便找app网盟资源](https://www.advertcn.com/thread-113471-1-1.html)
 -  27 [女装行业Facebook广告投放的方法](https://www.advertcn.com/thread-113467-1-1.html)
 -  27 [新人报道](https://www.advertcn.com/thread-113462-1-1.html)<!-- advertcn1:END -->
 
