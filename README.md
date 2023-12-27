@@ -54,6 +54,4 @@
 <!-- sspai:START -->
 -  27 [城市漫步指南：济州岛，更适合年轻人的短途免签旅行地](https://sspai.com/post/85237)
 -  27 [对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)
--  26 [派早报：华为 nova 12 系列发布、新款 Apple Watch 在美遭到禁售等](https://sspai.com/post/85383)
--  26 [陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南](https://sspai.com/prime/story/training-guide-plometric-box-agility-ladder)
--  26 [社区速递 026 | 通讯回忆录、变频两季扇和新玩意](https://sspai.com/post/85362)<!-- sspai:END -->
+-  26 [派早报：华为 nova 12 系列发布、新款 Apple Watch 在美遭到禁售等](https://sspai.com/post/85383)<!-- sspai:END -->
