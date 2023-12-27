@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
+-  27 [🎉 Exclusive for AffLift Members: End Your Year with EZmob Traffic + Bonus! 🚀](https://afflift.com/f/threads/%F0%9F%8E%89-exclusive-for-afflift-members-end-your-year-with-ezmob-traffic-bonus-%F0%9F%9A%80.12306/)
 -  27 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  27 [Christmas gift 🎄 PerplexityAI Free!](https://afflift.com/f/threads/christmas-gift-%F0%9F%8E%84-perplexityai-free.12368/)
 -  27 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
@@ -46,9 +48,7 @@
 -  27 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  27 [TUT THRESHOLD](https://afflift.com/f/threads/tut-threshold.12291/)
 -  27 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
--  27 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
--  27 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  27 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)<!-- afflift:END -->
+-  27 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
