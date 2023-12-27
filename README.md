@@ -28,8 +28,7 @@
 <!-- advertcn3:START -->
 -  27 [一大早发现的最牛掰的SEO手法](https://www.advertcn.com/thread-113461-1-1.html)
 -  26 [删除&amp;添加Facebook广告户隐藏管理员Hidden admin](https://www.advertcn.com/thread-113459-1-1.html)
--  26 [你们ads是自己开户的吗](https://www.advertcn.com/thread-113457-1-1.html)
--  26 [来写个年终总结吧](https://www.advertcn.com/thread-113454-1-1.html)<!-- advertcn3:END -->
+-  26 [你们ads是自己开户的吗](https://www.advertcn.com/thread-113457-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
