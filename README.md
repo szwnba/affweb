@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  27 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
 -  27 [First FA with ClickDealer X PA #PA23](https://afflift.com/f/threads/first-fa-with-clickdealer-x-pa-pa23.11680/)
 -  26 [🏆 Top 23 Threads of 2023](https://afflift.com/f/threads/%F0%9F%8F%86-top-23-threads-of-2023.12206/)
@@ -51,8 +52,7 @@
 -  26 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
 -  26 [Which ad format are you focusing on in 2023?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2023.10515/)
 -  26 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  26 [What Traffic methods should A beginner start learning heading into 2024?](https://afflift.com/f/threads/what-traffic-methods-should-a-beginner-start-learning-heading-into-2024.12346/)
--  26 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)<!-- afflift:END -->
+-  26 [What Traffic methods should A beginner start learning heading into 2024?](https://afflift.com/f/threads/what-traffic-methods-should-a-beginner-start-learning-heading-into-2024.12346/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
