@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Most campainges have become popular recently. Is it because of the recent New Year’s Day?](https://afflift.com/f/threads/most-campainges-have-become-popular-recently-is-it-because-of-the-recent-new-year%E2%80%99s-day.12374/)
+-  28 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  28 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  28 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  28 [Real lessons, used to remind oneself.](https://afflift.com/f/threads/real-lessons-used-to-remind-oneself.12373/)
@@ -47,9 +49,7 @@
 -  27 [What to look for when creating a pre-lander for a nutra offer in the weight loss category](https://afflift.com/f/threads/what-to-look-for-when-creating-a-pre-lander-for-a-nutra-offer-in-the-weight-loss-category.12371/)
 -  27 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
 -  27 [Christmas gift 🎄 PerplexityAI Free!](https://afflift.com/f/threads/christmas-gift-%F0%9F%8E%84-perplexityai-free.12368/)
--  27 [Meet AdsEmpire at Affiliate Summit West 2024!](https://afflift.com/f/threads/meet-adsempire-at-affiliate-summit-west-2024.12369/)
--  27 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  27 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)<!-- afflift:END -->
+-  27 [Meet AdsEmpire at Affiliate Summit West 2024!](https://afflift.com/f/threads/meet-adsempire-at-affiliate-summit-west-2024.12369/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
