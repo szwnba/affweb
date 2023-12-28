@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+-  28 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  28 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
 -  28 [Why Your Search Advertising Might Not Be Working: Explaining the Common Mistakes in Keywords and Negative Keywords for Google Ads](https://afflift.com/f/threads/why-your-search-advertising-might-not-be-working-explaining-the-common-mistakes-in-keywords-and-negative-keywords-for-google-ads.12375/)
 -  28 [Christmas gift 🎄 PerplexityAI Free!](https://afflift.com/f/threads/christmas-gift-%F0%9F%8E%84-perplexityai-free.12368/)
 -  28 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  28 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  28 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
--  28 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  28 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
 -  28 [Most campainges have become popular recently. Is it because of the recent New Year’s Day?](https://afflift.com/f/threads/most-campainges-have-become-popular-recently-is-it-because-of-the-recent-new-year%E2%80%99s-day.12374/)
 -  28 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  28 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
--  28 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
+-  28 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
