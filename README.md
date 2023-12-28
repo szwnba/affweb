@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  28 [派早报：法院暂停专利禁令，苹果暂时仍可销售 Apple Watch](https://sspai.com/post/85385)
 -  27 [更适合国内的远程访问方法：自建根服务器打造基于 ZeroTier 虚拟内网](https://sspai.com/post/85130)
--  27 [城市漫步指南：济州岛，更适合年轻人的短途免签旅行地](https://sspai.com/post/85237)
--  27 [对话青工所：如何制作一期正经又「不正经」的科普节目？](https://sspai.com/post/85263)<!-- sspai:END -->
+-  27 [城市漫步指南：济州岛，更适合年轻人的短途免签旅行地](https://sspai.com/post/85237)<!-- sspai:END -->
