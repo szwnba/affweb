@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  28 [SOCKS5/HTTP&lpar;S&rpar;⚡2023 Residential Proxy List⚡922S5Proxy](https://afflift.com/f/threads/socks5-http-s-%E2%9A%A12023-residential-proxy-list%E2%9A%A1922s5proxy.12065/)
 -  28 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  28 [&quot;EDU-MONEY&quot; is the most profitable affiliate program in the niche of custom writing](https://afflift.com/f/threads/edu-money-is-the-most-profitable-affiliate-program-in-the-niche-of-custom-writing.2129/)
@@ -48,8 +49,7 @@
 -  28 [Real lessons, used to remind oneself.](https://afflift.com/f/threads/real-lessons-used-to-remind-oneself.12373/)
 -  27 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  27 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
--  27 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
--  27 [What to look for when creating a pre-lander for a nutra offer in the weight loss category](https://afflift.com/f/threads/what-to-look-for-when-creating-a-pre-lander-for-a-nutra-offer-in-the-weight-loss-category.12371/)<!-- afflift:END -->
+-  27 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
