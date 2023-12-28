@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [The Ultimate Traffic Company&#39;s Click 2 Call Offers Blueprint: My Experiment and Experience](https://afflift.com/f/threads/the-ultimate-traffic-companys-click-2-call-offers-blueprint-my-experiment-and-experience.11745/)
 -  28 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  28 [Real lessons, used to remind oneself.](https://afflift.com/f/threads/real-lessons-used-to-remind-oneself.12373/)
 -  27 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
@@ -49,8 +50,7 @@
 -  27 [Christmas gift 🎄 PerplexityAI Free!](https://afflift.com/f/threads/christmas-gift-%F0%9F%8E%84-perplexityai-free.12368/)
 -  27 [Meet AdsEmpire at Affiliate Summit West 2024!](https://afflift.com/f/threads/meet-adsempire-at-affiliate-summit-west-2024.12369/)
 -  27 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  27 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
--  27 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  27 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
