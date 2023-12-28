@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [回首过去，展望未来：聊聊我用 Arc 浏览器的这一年](https://sspai.com/post/84931)
 -  28 [派早报：法院暂停专利禁令，苹果暂时仍可销售 Apple Watch](https://sspai.com/post/85385)
 -  27 [更适合国内的远程访问方法：自建根服务器打造基于 ZeroTier 虚拟内网](https://sspai.com/post/85130)
 -  27 [城市漫步指南：济州岛，更适合年轻人的短途免签旅行地](https://sspai.com/post/85237)<!-- sspai:END -->
