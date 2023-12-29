@@ -59,5 +59,4 @@
 <!-- sspai:START -->
 -  29 [全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)
 -  29 [派早报：小米前瞻小米汽车 SU7/Max 技术等](https://sspai.com/post/85436)
--  28 [新玩意 168｜少数派的编辑们最近买了啥？](https://sspai.com/post/85424)
--  28 [在深秋游黄山，第一次的山岳之旅](https://sspai.com/post/85073)<!-- sspai:END -->
+-  28 [新玩意 168｜少数派的编辑们最近买了啥？](https://sspai.com/post/85424)<!-- sspai:END -->
