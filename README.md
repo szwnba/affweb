@@ -38,8 +38,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  29 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
+-  29 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)
+-  29 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+-  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  29 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
 -  29 [How to avoid change of file extension from index.html to index.html.bak.bak?](https://afflift.com/f/threads/how-to-avoid-change-of-file-extension-from-index-html-to-index-html-bak-bak.12379/)
 -  29 [What influences your decision?](https://afflift.com/f/threads/what-influences-your-decision.12384/)
@@ -47,9 +49,7 @@
 -  29 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  29 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
 -  29 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  29 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)
--  29 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)
--  29 [Tutorial or Guide for Native Ads?](https://afflift.com/f/threads/tutorial-or-guide-for-native-ads.12380/)<!-- afflift:END -->
+-  29 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
