@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
 -  29 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)
 -  29 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  29 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
@@ -48,8 +49,7 @@
 -  29 [What influences your decision?](https://afflift.com/f/threads/what-influences-your-decision.12384/)
 -  29 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  29 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  29 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
--  29 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)<!-- afflift:END -->
+-  29 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
