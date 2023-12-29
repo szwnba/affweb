@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
+-  29 [You are not alone - 22 Typical affiliate mistakes 📉🥲](https://afflift.com/f/threads/you-are-not-alone-22-typical-affiliate-mistakes-%F0%9F%93%89%F0%9F%A5%B2.8052/)
 -  29 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  29 [Offer Aggregators: Your Way to Discover Countless  Offers](https://afflift.com/f/threads/offer-aggregators-your-way-to-discover-countless-offers.12378/)
 -  28 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
--  28 [You are not alone - 22 Typical affiliate mistakes 📉🥲](https://afflift.com/f/threads/you-are-not-alone-22-typical-affiliate-mistakes-%F0%9F%93%89%F0%9F%A5%B2.8052/)
 -  28 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  28 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
 -  28 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  28 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  28 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  28 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  28 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
--  28 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  28 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
