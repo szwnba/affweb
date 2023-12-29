@@ -39,9 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
+-  29 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  29 [How to avoid change of file extension from index.html to index.html.bak.bak?](https://afflift.com/f/threads/how-to-avoid-change-of-file-extension-from-index-html-to-index-html-bak-bak.12379/)
 -  29 [What influences your decision?](https://afflift.com/f/threads/what-influences-your-decision.12384/)
--  29 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  29 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  29 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  29 [Official Referral Program - Paying Weekly - 25% Commission!](https://afflift.com/f/threads/official-referral-program-paying-weekly-25-commission.754/)
@@ -49,8 +50,7 @@
 -  29 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)
 -  29 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)
 -  29 [Tutorial or Guide for Native Ads?](https://afflift.com/f/threads/tutorial-or-guide-for-native-ads.12380/)
--  29 [922 Proxy Review](https://afflift.com/f/threads/922-proxy-review.12383/)
--  29 [🚀 Introducing Revolutionary AI in Traffic Distribution: Optimizing Campaigns with Science at Peerclick! 🚀](https://afflift.com/f/threads/%F0%9F%9A%80-introducing-revolutionary-ai-in-traffic-distribution-optimizing-campaigns-with-science-at-peerclick-%F0%9F%9A%80.12347/)<!-- afflift:END -->
+-  29 [922 Proxy Review](https://afflift.com/f/threads/922-proxy-review.12383/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
