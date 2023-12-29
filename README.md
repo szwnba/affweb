@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [派早报：小米前瞻小米汽车 SU7/Max 技术等](https://sspai.com/post/85436)
 -  28 [新玩意 168｜少数派的编辑们最近买了啥？](https://sspai.com/post/85424)
 -  28 [在深秋游黄山，第一次的山岳之旅](https://sspai.com/post/85073)
 -  28 [回首过去，展望未来：聊聊我用 Arc 浏览器的这一年](https://sspai.com/post/84931)<!-- sspai:END -->
