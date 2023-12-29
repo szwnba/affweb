@@ -23,7 +23,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  21 [谷歌联盟为什么会有美国税？](https://www.advertcn.com/thread-113411-1-1.html)<!-- advertcn2:END -->
+-  29 [Media Buy学习之路记录](https://www.advertcn.com/thread-113493-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
