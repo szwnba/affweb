@@ -29,8 +29,7 @@
 <!-- advertcn3:START -->
 -  29 [2023 年最后一个工作日了，分享一下你的年终总结吧](https://www.advertcn.com/thread-113490-1-1.html)
 -  28 [恢复m.facebook.com 一款好用的代理插件推荐](https://www.advertcn.com/thread-113485-1-1.html)
--  28 [欧美流量如果变现 每天能＋ws上6000粉](https://www.advertcn.com/thread-113484-1-1.html)
--  28 [LeadsMarket周报- EPC高达$5+](https://www.advertcn.com/thread-113483-1-1.html)<!-- advertcn3:END -->
+-  28 [欧美流量如果变现 每天能＋ws上6000粉](https://www.advertcn.com/thread-113484-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
