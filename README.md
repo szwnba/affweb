@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  29 [Offer Aggregators: Your Way to Discover Countless  Offers](https://afflift.com/f/threads/offer-aggregators-your-way-to-discover-countless-offers.12378/)
 -  28 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  28 [You are not alone - 22 Typical affiliate mistakes 📉🥲](https://afflift.com/f/threads/you-are-not-alone-22-typical-affiliate-mistakes-%F0%9F%93%89%F0%9F%A5%B2.8052/)
@@ -51,8 +52,7 @@
 -  28 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  28 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  28 [December PropellerAds Promo Codes 2023](https://afflift.com/f/threads/december-propellerads-promo-codes-2023.12195/)
--  28 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  28 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
+-  28 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
