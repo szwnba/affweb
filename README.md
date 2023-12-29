@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)
+-  29 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  29 [Tutorial or Guide for Native Ads?](https://afflift.com/f/threads/tutorial-or-guide-for-native-ads.12380/)
 -  29 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  29 [TUT THRESHOLD](https://afflift.com/f/threads/tut-threshold.12291/)
@@ -50,9 +52,7 @@
 -  29 [You are not alone - 22 Typical affiliate mistakes 📉🥲](https://afflift.com/f/threads/you-are-not-alone-22-typical-affiliate-mistakes-%F0%9F%93%89%F0%9F%A5%B2.8052/)
 -  29 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  29 [Offer Aggregators: Your Way to Discover Countless  Offers](https://afflift.com/f/threads/offer-aggregators-your-way-to-discover-countless-offers.12378/)
--  28 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
--  28 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  28 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)<!-- afflift:END -->
+-  28 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
