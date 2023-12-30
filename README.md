@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  29 [本周看什么 | 最近值得一看的一大溜作品](https://sspai.com/post/85455)
 -  29 [获誉「年度突破」的减肥神药，能否突破你的减肥困境？](https://sspai.com/post/85443)
--  29 [全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)
--  29 [派早报：小米前瞻小米汽车 SU7/Max 技术等](https://sspai.com/post/85436)<!-- sspai:END -->
+-  29 [全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客](https://sspai.com/post/85141)<!-- sspai:END -->
