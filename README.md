@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  30 [付费培训投票调查，你会参加付费培训吗](https://www.advertcn.com/thread-113500-1-1.html)
 -  29 [2023 年最后一个工作日了，分享一下你的年终总结吧](https://www.advertcn.com/thread-113490-1-1.html)<!-- advertcn3:END -->
 
 
