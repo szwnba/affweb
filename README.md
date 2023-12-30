@@ -46,8 +46,7 @@
 -  30 [What influences your decision?](https://afflift.com/f/threads/what-influences-your-decision.12384/)
 -  30 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  30 [How to avoid change of file extension from index.html to index.html.bak.bak?](https://afflift.com/f/threads/how-to-avoid-change-of-file-extension-from-index-html-to-index-html-bak-bak.12379/)
--  30 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)
--  29 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)<!-- afflift:END -->
+-  30 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
