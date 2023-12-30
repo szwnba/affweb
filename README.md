@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  29 [独立站新手引流：Facebook营销工具汇总！](https://www.advertcn.com/thread-113492-1-1.html)<!-- advertcn1:END -->
+-  30 [新人报道](https://www.advertcn.com/thread-113502-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
