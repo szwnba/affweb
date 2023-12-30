@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  30 [放轻松 | 告别放松羞耻，一场互联网「半废」青年的自救](https://sspai.com/post/85288)
--  29 [本周看什么 | 最近值得一看的一大溜作品](https://sspai.com/post/85455)<!-- sspai:END -->
+-  30 [放轻松 | 告别放松羞耻，一场互联网「半废」青年的自救](https://sspai.com/post/85288)<!-- sspai:END -->
