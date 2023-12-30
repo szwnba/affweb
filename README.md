@@ -36,9 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)
 -  29 [Magic Button = Magic Profit?](https://afflift.com/f/threads/magic-button-magic-profit.12264/)
 -  29 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
--  29 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)
 -  29 [My longest running campaign - Goodbye CPA goal](https://afflift.com/f/threads/my-longest-running-campaign-goodbye-cpa-goal.11839/)
 -  29 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  29 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
