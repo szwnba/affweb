@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  29 [本周看什么 | 最近值得一看的一大溜作品](https://sspai.com/post/85455)
--  29 [获誉「年度突破」的减肥神药，能否突破你的减肥困境？](https://sspai.com/post/85443)<!-- sspai:END -->
+-  29 [本周看什么 | 最近值得一看的一大溜作品](https://sspai.com/post/85455)<!-- sspai:END -->
