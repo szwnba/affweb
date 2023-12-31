@@ -36,13 +36,14 @@
 
 ### afflift
 <!-- afflift:START -->
--  31 [Happy 2024 to you all 🥂🥂](https://afflift.com/f/threads/happy-2024-to-you-all-%F0%9F%A5%82%F0%9F%A5%82.12389/)
--  31 [The question about the rules of Binom](https://afflift.com/f/threads/the-question-about-the-rules-of-binom.12386/)
 -  31 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)
+-  31 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
+-  31 [The question about the rules of Binom](https://afflift.com/f/threads/the-question-about-the-rules-of-binom.12386/)
+-  31 [Happy 2024 to you all 🥂🥂](https://afflift.com/f/threads/happy-2024-to-you-all-%F0%9F%A5%82%F0%9F%A5%82.12389/)
+-  31 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
 -  31 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  31 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  31 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  31 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  31 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  30 [What landing page format do you use to test an ecom product?](https://afflift.com/f/threads/what-landing-page-format-do-you-use-to-test-an-ecom-product.12385/)<!-- afflift:END -->
 
