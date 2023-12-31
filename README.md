@@ -36,10 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  31 [Am I Tracking With Skro Right?](https://afflift.com/f/threads/am-i-tracking-with-skro-right.10565/)
 -  31 [Happy 2024 to you all 🥂🥂](https://afflift.com/f/threads/happy-2024-to-you-all-%F0%9F%A5%82%F0%9F%A5%82.12389/)
 -  31 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)
--  31 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  31 [The question about the rules of Binom](https://afflift.com/f/threads/the-question-about-the-rules-of-binom.12386/)
 -  31 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
 -  31 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
