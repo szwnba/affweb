@@ -26,7 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  30 [付费培训投票调查，你会参加付费培训吗](https://www.advertcn.com/thread-113500-1-1.html)<!-- advertcn3:END -->
+-  31 [请问开发大佬们这代码的作用是什么?我的卡密被盗了](https://www.advertcn.com/thread-113513-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
