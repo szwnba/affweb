@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
+-  31 [Happy 2024 to you all 🥂🥂](https://afflift.com/f/threads/happy-2024-to-you-all-%F0%9F%A5%82%F0%9F%A5%82.12389/)
 -  31 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)
 -  31 [The question about the rules of Binom](https://afflift.com/f/threads/the-question-about-the-rules-of-binom.12386/)
 -  31 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
@@ -43,8 +45,7 @@
 -  31 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  30 [What landing page format do you use to test an ecom product?](https://afflift.com/f/threads/what-landing-page-format-do-you-use-to-test-an-ecom-product.12385/)
 -  30 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
--  30 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
--  30 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)<!-- afflift:END -->
+-  30 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
