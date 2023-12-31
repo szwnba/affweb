@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Am I Tracking With Skro Right?](https://afflift.com/f/threads/am-i-tracking-with-skro-right.10565/)
 -  31 [Happy 2024 to you all 🥂🥂](https://afflift.com/f/threads/happy-2024-to-you-all-%F0%9F%A5%82%F0%9F%A5%82.12389/)
 -  31 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)
 -  31 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
