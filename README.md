@@ -45,9 +45,7 @@
 -  30 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
 -  30 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  30 [Mistakes made by affiliate marketers](https://afflift.com/f/threads/mistakes-made-by-affiliate-marketers.5424/)
--  30 [What influences your decision?](https://afflift.com/f/threads/what-influences-your-decision.12384/)
--  30 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  30 [How to avoid change of file extension from index.html to index.html.bak.bak?](https://afflift.com/f/threads/how-to-avoid-change-of-file-extension-from-index-html-to-index-html-bak-bak.12379/)<!-- afflift:END -->
+-  30 [What influences your decision?](https://afflift.com/f/threads/what-influences-your-decision.12384/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
