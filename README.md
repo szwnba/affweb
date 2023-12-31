@@ -52,4 +52,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [你的 2023，藏在这些 app 里](https://sspai.com/post/85390)
 -  30 [放轻松 | 告别放松羞耻，一场互联网「半废」青年的自救](https://sspai.com/post/85288)<!-- sspai:END -->
