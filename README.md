@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  01 [Affiliate Marketing Blogs this 2024?](https://afflift.com/f/threads/affiliate-marketing-blogs-this-2024.12393/)
 -  01 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
 -  01 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
@@ -47,8 +48,7 @@
 -  01 [New years resolution! make $20 profit a day](https://afflift.com/f/threads/new-years-resolution-make-20-profit-a-day.12392/)
 -  01 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  01 [Most campainges have become popular recently. Is it because of the recent New Year’s Day?](https://afflift.com/f/threads/most-campainges-have-become-popular-recently-is-it-because-of-the-recent-new-year%E2%80%99s-day.12374/)
--  01 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
--  01 [2024 🎉🎁](https://afflift.com/f/threads/2024-%F0%9F%8E%89%F0%9F%8E%81.12391/)<!-- afflift:END -->
+-  01 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
