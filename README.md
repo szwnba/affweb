@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [2024 🎉🎁](https://afflift.com/f/threads/2024-%F0%9F%8E%89%F0%9F%8E%81.12391/)
 -  01 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  31 [How to identify the CPA network&#39;s tracking domains using spytools?](https://afflift.com/f/threads/how-to-identify-the-cpa-networks-tracking-domains-using-spytools.12390/)
 -  31 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
@@ -46,8 +47,7 @@
 -  31 [Do Magic Buttons bring magic conversions❓ Let&#39;s test it out！](https://afflift.com/f/threads/do-magic-buttons-bring-magic-conversions%E2%9D%93-lets-test-it-out%EF%BC%81.12261/)
 -  31 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  31 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  31 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  31 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
+-  31 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
