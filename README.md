@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  31 [How to identify the CPA network&#39;s tracking domains using spytools?](https://afflift.com/f/threads/how-to-identify-the-cpa-networks-tracking-domains-using-spytools.12390/)
 -  31 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  31 [Am I Tracking With Skro Right?](https://afflift.com/f/threads/am-i-tracking-with-skro-right.10565/)
