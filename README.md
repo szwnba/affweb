@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  31 [不只为了省钱：开源密码管理器可用性报告](https://sspai.com/prime/story/opensource-password-managers-compared)
--  31 [本月玩什么 | 本月新游，以及 2023 年遗珠之作盘点](https://sspai.com/post/85480)<!-- sspai:END -->
+-  31 [不只为了省钱：开源密码管理器可用性报告](https://sspai.com/prime/story/opensource-password-managers-compared)<!-- sspai:END -->
