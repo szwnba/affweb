@@ -53,5 +53,4 @@
 <!-- sspai:START -->
 -  31 [不只为了省钱：开源密码管理器可用性报告](https://sspai.com/prime/story/opensource-password-managers-compared)
 -  31 [本月玩什么 | 本月新游，以及 2023 年遗珠之作盘点](https://sspai.com/post/85480)
--  31 [App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册](https://sspai.com/post/85355)
--  31 [你的 2023，藏在这些 app 里](https://sspai.com/post/85390)<!-- sspai:END -->
+-  31 [App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册](https://sspai.com/post/85355)<!-- sspai:END -->
