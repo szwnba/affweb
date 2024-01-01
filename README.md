@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [New years resolution! make $20 profit a day](https://afflift.com/f/threads/new-years-resolution-make-20-profit-a-day.12392/)
+-  01 [Happy 2024 to you all 🥂🥂](https://afflift.com/f/threads/happy-2024-to-you-all-%F0%9F%A5%82%F0%9F%A5%82.12389/)
 -  01 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
 -  01 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  01 [Affiliate Marketing Blogs this 2024?](https://afflift.com/f/threads/affiliate-marketing-blogs-this-2024.12393/)
@@ -46,10 +48,8 @@
 -  01 [Don&#39;t make this mistake when testing new campaigns ❌](https://afflift.com/f/threads/dont-make-this-mistake-when-testing-new-campaigns-%E2%9D%8C.8560/)
 -  01 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
 -  01 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)
--  01 [New years resolution! make $20 profit a day](https://afflift.com/f/threads/new-years-resolution-make-20-profit-a-day.12392/)
 -  01 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
--  01 [Most campainges have become popular recently. Is it because of the recent New Year’s Day?](https://afflift.com/f/threads/most-campainges-have-become-popular-recently-is-it-because-of-the-recent-new-year%E2%80%99s-day.12374/)
--  01 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)<!-- afflift:END -->
+-  01 [Most campainges have become popular recently. Is it because of the recent New Year’s Day?](https://afflift.com/f/threads/most-campainges-have-become-popular-recently-is-it-because-of-the-recent-new-year%E2%80%99s-day.12374/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
