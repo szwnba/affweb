@@ -36,8 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  01 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)
 -  01 [Binom version comparison](https://afflift.com/f/threads/binom-version-comparison.11806/)
+-  01 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
+-  01 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)
 -  01 [New years resolution! make $20 profit a day](https://afflift.com/f/threads/new-years-resolution-make-20-profit-a-day.12392/)
 -  01 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  01 [Most campainges have become popular recently. Is it because of the recent New Year’s Day?](https://afflift.com/f/threads/most-campainges-have-become-popular-recently-is-it-because-of-the-recent-new-year%E2%80%99s-day.12374/)
@@ -46,8 +47,7 @@
 -  31 [How to identify the CPA network&#39;s tracking domains using spytools?](https://afflift.com/f/threads/how-to-identify-the-cpa-networks-tracking-domains-using-spytools.12390/)
 -  31 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  31 [Am I Tracking With Skro Right?](https://afflift.com/f/threads/am-i-tracking-with-skro-right.10565/)
--  31 [Happy 2024 to you all 🥂🥂](https://afflift.com/f/threads/happy-2024-to-you-all-%F0%9F%A5%82%F0%9F%A5%82.12389/)
--  31 [The question about the rules of Binom](https://afflift.com/f/threads/the-question-about-the-rules-of-binom.12386/)<!-- afflift:END -->
+-  31 [Happy 2024 to you all 🥂🥂](https://afflift.com/f/threads/happy-2024-to-you-all-%F0%9F%A5%82%F0%9F%A5%82.12389/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
