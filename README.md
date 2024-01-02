@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  01 [youtube搬运别人的视频可以获利吗？](https://www.advertcn.com/thread-113523-1-1.html)
--  01 [祝大家新的一年吉祥如意，日进万刀](https://www.advertcn.com/thread-113517-1-1.html)<!-- advertcn3:END -->
+-  01 [youtube搬运别人的视频可以获利吗？](https://www.advertcn.com/thread-113523-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
