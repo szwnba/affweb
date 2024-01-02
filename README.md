@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
+-  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  02 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  02 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  02 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
@@ -46,9 +48,7 @@
 -  02 [what is nonbillable?](https://afflift.com/f/threads/what-is-nonbillable.12395/)
 -  02 [922S5-Best ISP Proxy Service Provider? | Socks5/Http&lpar;s&rpar; Proxy List](https://afflift.com/f/threads/922s5-best-isp-proxy-service-provider-socks5-http-s-proxy-list.12117/)
 -  02 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
--  02 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
--  02 [Optimising The Search Term Report Correctly?](https://afflift.com/f/threads/optimising-the-search-term-report-correctly.12397/)
--  02 [JV Deal using WayPoint Software](https://afflift.com/f/threads/jv-deal-using-waypoint-software.12358/)<!-- afflift:END -->
+-  02 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
