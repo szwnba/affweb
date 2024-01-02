@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  01 [新人报道](https://www.advertcn.com/thread-113521-1-1.html)
--  01 [新人实操必花的钱有哪些](https://www.advertcn.com/thread-113515-1-1.html)<!-- advertcn1:END -->
+-  01 [新人报道](https://www.advertcn.com/thread-113521-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
