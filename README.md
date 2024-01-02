@@ -36,8 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  02 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
+-  02 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  02 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
 -  02 [Optimising The Search Term Report Correctly?](https://afflift.com/f/threads/optimising-the-search-term-report-correctly.12397/)
 -  02 [JV Deal using WayPoint Software](https://afflift.com/f/threads/jv-deal-using-waypoint-software.12358/)
