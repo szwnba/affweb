@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [JV Deal using WayPoint Software](https://afflift.com/f/threads/jv-deal-using-waypoint-software.12358/)
 -  02 [Looking for SMS expert](https://afflift.com/f/threads/looking-for-sms-expert.12396/)
 -  02 [Facebook give me credit, needing clean CPL offers](https://afflift.com/f/threads/facebook-give-me-credit-needing-clean-cpl-offers.12343/)
 -  01 [what is nonbillable?](https://afflift.com/f/threads/what-is-nonbillable.12395/)
@@ -47,8 +48,7 @@
 -  01 [New years resolution! make $20 profit a day](https://afflift.com/f/threads/new-years-resolution-make-20-profit-a-day.12392/)
 -  01 [Happy 2024 to you all 🥂🥂](https://afflift.com/f/threads/happy-2024-to-you-all-%F0%9F%A5%82%F0%9F%A5%82.12389/)
 -  01 [Building a niche site](https://afflift.com/f/threads/building-a-niche-site.12289/)
--  01 [Affiliate Marketing Blogs this 2024?](https://afflift.com/f/threads/affiliate-marketing-blogs-this-2024.12393/)
--  01 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)<!-- afflift:END -->
+-  01 [Affiliate Marketing Blogs this 2024?](https://afflift.com/f/threads/affiliate-marketing-blogs-this-2024.12393/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
