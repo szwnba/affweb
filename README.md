@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  31 [不只为了省钱：开源密码管理器可用性报告](https://sspai.com/prime/story/opensource-password-managers-compared)<!-- sspai:END -->
+-  02 [派早报：微信发布 2023 年度朋友圈十大谣言等](https://sspai.com/post/85504)<!-- sspai:END -->
