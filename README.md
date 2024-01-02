@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
--  02 [Building Your Own Automation Tool – Seeking Guidance](https://afflift.com/f/threads/building-your-own-automation-tool-%E2%80%93-seeking-guidance.12402/)
+-  02 [How to avoid change of file extension from index.html to index.html.bak.bak?](https://afflift.com/f/threads/how-to-avoid-change-of-file-extension-from-index-html-to-index-html-bak-bak.12379/)
+-  02 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
+-  02 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
+-  02 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
+-  02 [What influences your decision?](https://afflift.com/f/threads/what-influences-your-decision.12384/)
 -  02 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
+-  02 [Building Your Own Automation Tool – Seeking Guidance](https://afflift.com/f/threads/building-your-own-automation-tool-%E2%80%93-seeking-guidance.12402/)
+-  02 [Affiliate Marketing Blogs this 2024?](https://afflift.com/f/threads/affiliate-marketing-blogs-this-2024.12393/)
+-  02 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
 -  02 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  02 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  02 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  02 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
--  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  02 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
--  02 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  02 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  02 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
+-  02 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
