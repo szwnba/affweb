@@ -36,9 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)
+-  02 [How to avoid change of file extension from index.html to index.html.bak.bak?](https://afflift.com/f/threads/how-to-avoid-change-of-file-extension-from-index-html-to-index-html-bak-bak.12379/)
 -  02 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  02 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
--  02 [How to avoid change of file extension from index.html to index.html.bak.bak?](https://afflift.com/f/threads/how-to-avoid-change-of-file-extension-from-index-html-to-index-html-bak-bak.12379/)
 -  02 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
 -  02 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
 -  02 [What influences your decision?](https://afflift.com/f/threads/what-influences-your-decision.12384/)
@@ -46,8 +47,7 @@
 -  02 [Building Your Own Automation Tool – Seeking Guidance](https://afflift.com/f/threads/building-your-own-automation-tool-%E2%80%93-seeking-guidance.12402/)
 -  02 [Affiliate Marketing Blogs this 2024?](https://afflift.com/f/threads/affiliate-marketing-blogs-this-2024.12393/)
 -  02 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
--  02 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
--  02 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)<!-- afflift:END -->
+-  02 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
