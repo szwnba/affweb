@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  22 [自己动手破解Markdown软件Typora，支持官网最新版](https://51.ruyo.net/18583.html)<!-- ruyo:END -->
+-  02 [Now-DNS免费提供32种子域名后缀，支持API更新DDNS](https://51.ruyo.net/18589.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
