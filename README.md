@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  02 [name.com是买东西不发货？](https://www.advertcn.com/thread-113527-1-1.html)
 -  01 [youtube搬运别人的视频可以获利吗？](https://www.advertcn.com/thread-113523-1-1.html)<!-- advertcn3:END -->
 
 
