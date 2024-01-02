@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  02 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  02 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  02 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
@@ -46,8 +47,7 @@
 -  02 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
 -  02 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
 -  02 [Optimising The Search Term Report Correctly?](https://afflift.com/f/threads/optimising-the-search-term-report-correctly.12397/)
--  02 [JV Deal using WayPoint Software](https://afflift.com/f/threads/jv-deal-using-waypoint-software.12358/)
--  02 [Looking for SMS expert](https://afflift.com/f/threads/looking-for-sms-expert.12396/)<!-- afflift:END -->
+-  02 [JV Deal using WayPoint Software](https://afflift.com/f/threads/jv-deal-using-waypoint-software.12358/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
