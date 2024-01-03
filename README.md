@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Which is the best Adult Dating Affiliate Program?](https://afflift.com/f/threads/which-is-the-best-adult-dating-affiliate-program.12141/)
 -  03 [Headlines in link previews are back on Twitter/X](https://afflift.com/f/threads/headlines-in-link-previews-are-back-on-twitter-x.12412/)
 -  03 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  03 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
@@ -50,8 +51,7 @@
 -  03 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  03 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
 -  03 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  03 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
--  03 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
+-  03 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
