@@ -39,7 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
 -  03 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
+-  03 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  03 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  03 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  03 [📣 NEW! 2023 Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-new-2023-insider-info-tips-to-succeed-on-adcash-ask-us-anything.10207/)
 -  03 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
@@ -47,10 +50,7 @@
 -  03 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
 -  03 [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)
 -  03 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  03 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
--  03 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
--  03 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
--  03 [New years resolution! make $20 profit a day](https://afflift.com/f/threads/new-years-resolution-make-20-profit-a-day.12392/)<!-- afflift:END -->
+-  03 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
