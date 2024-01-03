@@ -17,6 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  03 [新人报道  有跑原生广告渠道的么可以合作](https://www.advertcn.com/thread-113539-1-1.html)
+-  03 [如何保障多账号防关联和账号安全？](https://www.advertcn.com/thread-113536-1-1.html)
 -  03 [跨境卖家做独立站有哪些独特优势？](https://www.advertcn.com/thread-113530-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
