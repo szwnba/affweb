@@ -40,9 +40,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Headlines in link previews are back on Twitter/X](https://afflift.com/f/threads/headlines-in-link-previews-are-back-on-twitter-x.12412/)
 -  03 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  03 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  03 [Headlines in link previews are back on Twitter/X](https://afflift.com/f/threads/headlines-in-link-previews-are-back-on-twitter-x.12412/)
 -  03 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  03 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  03 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
