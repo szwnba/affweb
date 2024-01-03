@@ -55,7 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [如何入门硬件开发？一个软件开发者的边学边做手记](https://sspai.com/post/85507)
 -  03 [提示词或许需要工程，但提问一定需要智慧](https://sspai.com/post/85484)
 -  02 [派早报：百度宣布终止收购 YY、泰国宣布将对华永久免签等](https://sspai.com/post/85537)
--  02 [社区速递 027 | 最不后悔购买的X件产品大合辑](https://sspai.com/post/85528)
--  02 [不读可以先收藏：2023 少数派年度高分内容「合订本」](https://sspai.com/post/85521)<!-- sspai:END -->
+-  02 [社区速递 027 | 最不后悔购买的X件产品大合辑](https://sspai.com/post/85528)<!-- sspai:END -->
