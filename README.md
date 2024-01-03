@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  03 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
 -  03 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  03 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
@@ -46,8 +47,7 @@
 -  03 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
 -  02 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)
 -  02 [How to avoid change of file extension from index.html to index.html.bak.bak?](https://afflift.com/f/threads/how-to-avoid-change-of-file-extension-from-index-html-to-index-html-bak-bak.12379/)
--  02 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
--  02 [What influences your decision?](https://afflift.com/f/threads/what-influences-your-decision.12384/)<!-- afflift:END -->
+-  02 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
