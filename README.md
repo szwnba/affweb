@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
+-  03 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
+-  03 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  03 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
 -  03 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  03 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
 -  03 [Have you already decided your traffic source for 2024?](https://afflift.com/f/threads/have-you-already-decided-your-traffic-source-for-2024.12407/)
 -  03 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
--  03 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
--  03 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
 -  03 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  03 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  03 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
--  03 [Happy new year!One of New Year&#39;s wishes:Can Zeydoo reply faster?](https://afflift.com/f/threads/happy-new-year-one-of-new-years-wishes-can-zeydoo-reply-faster.12399/)
--  03 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)<!-- afflift:END -->
+-  03 [Happy new year!One of New Year&#39;s wishes:Can Zeydoo reply faster?](https://afflift.com/f/threads/happy-new-year-one-of-new-years-wishes-can-zeydoo-reply-faster.12399/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
