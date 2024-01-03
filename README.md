@@ -37,8 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  03 [Have you already decided your traffic source for 2024?](https://afflift.com/f/threads/have-you-already-decided-your-traffic-source-for-2024.12407/)
+-  03 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
+-  03 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  03 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  03 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
 -  03 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
@@ -47,8 +48,7 @@
 -  03 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
 -  03 [Happy new year!One of New Year&#39;s wishes:Can Zeydoo reply faster?](https://afflift.com/f/threads/happy-new-year-one-of-new-years-wishes-can-zeydoo-reply-faster.12399/)
 -  03 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
--  03 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
--  02 [New year promocodes🎆](https://afflift.com/f/threads/new-year-promocodes%F0%9F%8E%86.12388/)<!-- afflift:END -->
+-  03 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
