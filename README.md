@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  03 [一个 Chrome 插件，查看关键词的谷歌搜索量](https://www.advertcn.com/thread-113533-1-1.html)
 -  02 [name.com是买东西不发货？](https://www.advertcn.com/thread-113527-1-1.html)<!-- advertcn3:END -->
 
 
