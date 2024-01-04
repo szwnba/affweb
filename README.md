@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
+-  04 [How To Activate 3rd party Email list properly?](https://afflift.com/f/threads/how-to-activate-3rd-party-email-list-properly.12410/)
+-  04 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
 -  04 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  04 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  04 [[WEBINAR] How to Build a Content Website for Search Arb](https://afflift.com/f/threads/webinar-how-to-build-a-content-website-for-search-arb.12413/)
--  04 [How To Activate 3rd party Email list properly?](https://afflift.com/f/threads/how-to-activate-3rd-party-email-list-properly.12410/)
 -  04 [Headlines in link previews are back on Twitter/X](https://afflift.com/f/threads/headlines-in-link-previews-are-back-on-twitter-x.12412/)
 -  04 [Partners 1xBet – Top Betting &amp; Gambling Affiliate Program with 40%+ Conversion](https://afflift.com/f/threads/partners-1xbet-%E2%80%93-top-betting-gambling-affiliate-program-with-40-conversion.12328/)
 -  04 [Hello from EZmob.com - Push - Pop - Native - Display](https://afflift.com/f/threads/hello-from-ezmob-com-push-pop-native-display.1018/)
 -  04 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  04 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)
--  04 [How to Make a Non-Profitable Bundle Work?](https://afflift.com/f/threads/how-to-make-a-non-profitable-bundle-work.10497/)
--  04 [Get the laziest profit](https://afflift.com/f/threads/get-the-laziest-profit.12238/)
--  04 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)<!-- afflift:END -->
+-  04 [How to Make a Non-Profitable Bundle Work?](https://afflift.com/f/threads/how-to-make-a-non-profitable-bundle-work.10497/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
