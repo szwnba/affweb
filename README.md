@@ -58,5 +58,4 @@
 -  03 [十五道冬日暖锅，助你度过此刻严寒](https://sspai.com/prime/story/one-pot-recipes-for-winter)
 -  03 [城市漫步指南：我的台北之旅，天气不似预期](https://sspai.com/post/85206)
 -  03 [如何入门硬件开发？一个软件开发者的边学边做手记](https://sspai.com/post/85507)
--  03 [提示词或许需要工程，但提问一定需要智慧](https://sspai.com/post/85484)
--  02 [派早报：百度宣布终止收购 YY、泰国宣布将对华永久免签等](https://sspai.com/post/85537)<!-- sspai:END -->
+-  03 [提示词或许需要工程，但提问一定需要智慧](https://sspai.com/post/85484)<!-- sspai:END -->
