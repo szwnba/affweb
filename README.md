@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  04 [Facebook对个人账号的规定！！！](https://www.advertcn.com/thread-113552-1-1.html)
 -  03 [女装行业在Facebook上的广告投放问题](https://www.advertcn.com/thread-113541-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
