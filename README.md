@@ -36,8 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [How I went to SiGMA Malta!](https://afflift.com/f/threads/how-i-went-to-sigma-malta.12066/)
 -  04 [How To Activate 3rd party Email list properly?](https://afflift.com/f/threads/how-to-activate-3rd-party-email-list-properly.12410/)
+-  04 [How I went to SiGMA Malta!](https://afflift.com/f/threads/how-i-went-to-sigma-malta.12066/)
 -  04 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
 -  04 [Meet AdsEmpire at Affiliate Summit West 2024!](https://afflift.com/f/threads/meet-adsempire-at-affiliate-summit-west-2024.12369/)
 -  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
