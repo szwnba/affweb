@@ -36,7 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [How I went to SiGMA Malta!](https://afflift.com/f/threads/how-i-went-to-sigma-malta.12066/)
 -  04 [How To Activate 3rd party Email list properly?](https://afflift.com/f/threads/how-to-activate-3rd-party-email-list-properly.12410/)
+-  04 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
 -  04 [Meet AdsEmpire at Affiliate Summit West 2024!](https://afflift.com/f/threads/meet-adsempire-at-affiliate-summit-west-2024.12369/)
 -  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  04 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
@@ -45,9 +47,7 @@
 -  04 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  04 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
 -  04 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
--  04 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
--  04 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
--  04 [[WEBINAR] How to Build a Content Website for Search Arb](https://afflift.com/f/threads/webinar-how-to-build-a-content-website-for-search-arb.12413/)<!-- afflift:END -->
+-  04 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
