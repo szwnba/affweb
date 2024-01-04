@@ -51,6 +51,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [新玩意 169｜少数派的编辑们最近买了啥？](https://sspai.com/post/85572)
 -  04 [放轻松｜精简生活、回味兴趣，生病后的我这样疗愈自己](https://sspai.com/post/85421)
 -  04 [Find N3「全景虚拟屏」浅析：谈到大屏适配，我们究竟在谈些什么？](https://sspai.com/post/84641)
 -  04 [派早报：三星确认 Unpacked 2024 举办时间等](https://sspai.com/post/85555)
