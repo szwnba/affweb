@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  04 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  04 [[WEBINAR] How to Build a Content Website for Search Arb](https://afflift.com/f/threads/webinar-how-to-build-a-content-website-for-search-arb.12413/)
 -  04 [How To Activate 3rd party Email list properly?](https://afflift.com/f/threads/how-to-activate-3rd-party-email-list-properly.12410/)
@@ -46,8 +47,7 @@
 -  04 [Free Converting Landing Pages - Sharing is Caring](https://afflift.com/f/threads/free-converting-landing-pages-sharing-is-caring.11979/)
 -  04 [How to Make a Non-Profitable Bundle Work?](https://afflift.com/f/threads/how-to-make-a-non-profitable-bundle-work.10497/)
 -  04 [Get the laziest profit](https://afflift.com/f/threads/get-the-laziest-profit.12238/)
--  04 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
--  04 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)<!-- afflift:END -->
+-  04 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
