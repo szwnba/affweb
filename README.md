@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  03 [新年第一贴，数据来说明这行成功概率，应该1%左右](https://www.advertcn.com/thread-113550-1-1.html)<!-- advertcn3:END -->
+-  04 [有没有好的非洲网盟或者offer推荐，主要是南非等国家](https://www.advertcn.com/thread-113558-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
