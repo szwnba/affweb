@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  04 [How To Activate 3rd party Email list properly?](https://afflift.com/f/threads/how-to-activate-3rd-party-email-list-properly.12410/)
 -  04 [How I went to SiGMA Malta!](https://afflift.com/f/threads/how-i-went-to-sigma-malta.12066/)
 -  04 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
@@ -46,8 +47,7 @@
 -  04 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  04 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  04 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
--  04 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
--  04 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)<!-- afflift:END -->
+-  04 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
