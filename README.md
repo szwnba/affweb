@@ -55,5 +55,4 @@
 -  04 [Find N3「全景虚拟屏」浅析：谈到大屏适配，我们究竟在谈些什么？](https://sspai.com/post/84641)
 -  04 [派早报：三星确认 Unpacked 2024 举办时间等](https://sspai.com/post/85555)
 -  03 [十五道冬日暖锅，助你度过此刻严寒](https://sspai.com/prime/story/one-pot-recipes-for-winter)
--  03 [城市漫步指南：我的台北之旅，天气不似预期](https://sspai.com/post/85206)
--  03 [如何入门硬件开发？一个软件开发者的边学边做手记](https://sspai.com/post/85507)<!-- sspai:END -->
+-  03 [城市漫步指南：我的台北之旅，天气不似预期](https://sspai.com/post/85206)<!-- sspai:END -->
