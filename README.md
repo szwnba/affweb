@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  03 [女装行业在Facebook上的广告投放问题](https://www.advertcn.com/thread-113541-1-1.html)
--  03 [如何保障多账号防关联和账号安全？](https://www.advertcn.com/thread-113536-1-1.html)<!-- advertcn1:END -->
+-  03 [女装行业在Facebook上的广告投放问题](https://www.advertcn.com/thread-113541-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
