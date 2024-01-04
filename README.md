@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Partners 1xBet – Top Betting &amp; Gambling Affiliate Program with 40%+ Conversion](https://afflift.com/f/threads/partners-1xbet-%E2%80%93-top-betting-gambling-affiliate-program-with-40-conversion.12328/)
+-  04 [Hello from EZmob.com - Push - Pop - Native - Display](https://afflift.com/f/threads/hello-from-ezmob-com-push-pop-native-display.1018/)
 -  04 [Headlines in link previews are back on Twitter/X](https://afflift.com/f/threads/headlines-in-link-previews-are-back-on-twitter-x.12412/)
 -  04 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  04 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
@@ -45,9 +47,7 @@
 -  04 [Adsense approval](https://afflift.com/f/threads/adsense-approval.12340/)
 -  04 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
 -  03 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  03 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
--  03 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  03 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)<!-- afflift:END -->
+-  03 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
