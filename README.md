@@ -27,8 +27,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  03 [新年第一贴，数据来说明这行成功概率，应该1%左右](https://www.advertcn.com/thread-113550-1-1.html)
--  03 [Google开户所需资料及具体流程](https://www.advertcn.com/thread-113540-1-1.html)
--  03 [一个 Chrome 插件，查看关键词的谷歌搜索量](https://www.advertcn.com/thread-113533-1-1.html)<!-- advertcn3:END -->
+-  03 [Google开户所需资料及具体流程](https://www.advertcn.com/thread-113540-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
