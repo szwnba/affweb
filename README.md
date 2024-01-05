@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
+-  05 [922S5-Best ISP Proxy Service Provider? | Socks5/Http&lpar;s&rpar; Proxy List](https://afflift.com/f/threads/922s5-best-isp-proxy-service-provider-socks5-http-s-proxy-list.12117/)
 -  05 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
 -  05 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
 -  05 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
@@ -50,9 +52,7 @@
 -  05 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  04 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  04 [How To Activate 3rd party Email list properly?](https://afflift.com/f/threads/how-to-activate-3rd-party-email-list-properly.12410/)
--  04 [How I went to SiGMA Malta!](https://afflift.com/f/threads/how-i-went-to-sigma-malta.12066/)
--  04 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
--  04 [Meet AdsEmpire at Affiliate Summit West 2024!](https://afflift.com/f/threads/meet-adsempire-at-affiliate-summit-west-2024.12369/)<!-- afflift:END -->
+-  04 [How I went to SiGMA Malta!](https://afflift.com/f/threads/how-i-went-to-sigma-malta.12066/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
