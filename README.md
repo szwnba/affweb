@@ -40,6 +40,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [My automation result](https://afflift.com/f/threads/my-automation-result.12387/)
+-  05 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
+-  05 [How much traffic are you losing by using a tracker?](https://afflift.com/f/threads/how-much-traffic-are-you-losing-by-using-a-tracker.11131/)
 -  05 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  05 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  05 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
@@ -48,10 +51,7 @@
 -  04 [How To Activate 3rd party Email list properly?](https://afflift.com/f/threads/how-to-activate-3rd-party-email-list-properly.12410/)
 -  04 [How I went to SiGMA Malta!](https://afflift.com/f/threads/how-i-went-to-sigma-malta.12066/)
 -  04 [Purchasing Backlinks from Fiverr Gigs?](https://afflift.com/f/threads/purchasing-backlinks-from-fiverr-gigs.12352/)
--  04 [Meet AdsEmpire at Affiliate Summit West 2024!](https://afflift.com/f/threads/meet-adsempire-at-affiliate-summit-west-2024.12369/)
--  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  04 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  04 [RollerAds 2022 stats &lpar;kind of crazy&rpar;](https://afflift.com/f/threads/rollerads-2022-stats-kind-of-crazy.10162/)<!-- afflift:END -->
+-  04 [Meet AdsEmpire at Affiliate Summit West 2024!](https://afflift.com/f/threads/meet-adsempire-at-affiliate-summit-west-2024.12369/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
