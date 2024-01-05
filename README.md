@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  05 [Facebook个人号如何养号?大盘点！！！](https://www.advertcn.com/thread-113567-1-1.html)
 -  05 [Facebook新注册账号频被封？如何预防封号？](https://www.advertcn.com/thread-113565-1-1.html)
 -  05 [亚马逊多店铺运营：如何有效降低账号关联风险？](https://www.advertcn.com/thread-113563-1-1.html)
 -  05 [做跨境电商应该如何选品？](https://www.advertcn.com/thread-113561-1-1.html)
