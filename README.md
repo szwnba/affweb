@@ -57,5 +57,4 @@
 <!-- sspai:START -->
 -  05 [不用世界迷雾，还有这些工具来处理足迹](https://sspai.com/post/85505)
 -  05 [App+1 | 用 Collections Database 搭建自己的数据库](https://sspai.com/post/85464)
--  05 [派早报：微软计划在键盘上新增 Copilot 按键](https://sspai.com/post/85581)
--  04 [新玩意 169｜少数派的编辑们最近买了啥？](https://sspai.com/post/85572)<!-- sspai:END -->
+-  05 [派早报：微软计划在键盘上新增 Copilot 按键](https://sspai.com/post/85581)<!-- sspai:END -->
