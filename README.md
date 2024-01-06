@@ -51,4 +51,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [放轻松 | It‘s okay to be sad，这是焦虑和放松带给我的思考](https://sspai.com/post/85499)
 -  05 [本周看什么 | 最近值得一看的一大斛作品](https://sspai.com/post/85594)<!-- sspai:END -->
