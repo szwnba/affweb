@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [postback bemob to propeller](https://afflift.com/f/threads/postback-bemob-to-propeller.12418/)
 -  06 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
 -  06 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  06 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
@@ -46,8 +47,7 @@
 -  06 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  06 [RollerAds 2022 stats &lpar;kind of crazy&rpar;](https://afflift.com/f/threads/rollerads-2022-stats-kind-of-crazy.10162/)
 -  06 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
--  06 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
--  06 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)<!-- afflift:END -->
+-  06 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
