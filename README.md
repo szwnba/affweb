@@ -55,5 +55,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  05 [本周看什么 | 最近值得一看的一大斛作品](https://sspai.com/post/85594)
--  05 [不用世界迷雾，还有这些工具来处理足迹](https://sspai.com/post/85505)
--  05 [App+1 | 用 Collections Database 搭建自己的数据库](https://sspai.com/post/85464)<!-- sspai:END -->
+-  05 [不用世界迷雾，还有这些工具来处理足迹](https://sspai.com/post/85505)<!-- sspai:END -->
