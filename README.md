@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  06 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
+-  06 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
+-  06 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
 -  06 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
 -  06 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  06 [RollerAds 2022 stats &lpar;kind of crazy&rpar;](https://afflift.com/f/threads/rollerads-2022-stats-kind-of-crazy.10162/)
--  06 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
 -  06 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  06 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
 -  06 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  06 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  06 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
--  05 [$0 to $1k/Mo with Twitter/X](https://afflift.com/f/threads/0-to-1k-mo-with-twitter-x.10640/)
--  05 [Intermediate Survey Pops Course &amp; Insights from a Newbie &lpar;First Campaign&rpar;](https://afflift.com/f/threads/intermediate-survey-pops-course-insights-from-a-newbie-first-campaign.12362/)<!-- afflift:END -->
+-  06 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
