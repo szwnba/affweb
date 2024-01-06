@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  05 [有木有一个软件或者程序，导入代理就能自动刷网页的](https://www.advertcn.com/thread-113570-1-1.html)
--  05 [Flippa的保密协义是免费的吗](https://www.advertcn.com/thread-113564-1-1.html)<!-- advertcn3:END -->
+-  05 [有木有一个软件或者程序，导入代理就能自动刷网页的](https://www.advertcn.com/thread-113570-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
