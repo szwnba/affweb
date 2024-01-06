@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
+-  06 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  06 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
 -  06 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
 -  06 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
@@ -45,9 +47,7 @@
 -  05 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  05 [Offer Aggregators: Your Way to Discover Countless  Offers](https://afflift.com/f/threads/offer-aggregators-your-way-to-discover-countless-offers.12378/)
 -  05 [From Zero to One and &quot;-roi or +roi&quot;: My Journey with Affiliate Marketing &lpar;and i Can Do It Too!&rpar;](https://afflift.com/f/threads/from-zero-to-one-and-roi-or-roi-my-journey-with-affiliate-marketing-and-i-can-do-it-too.12336/)
--  05 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
--  05 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  05 [Explore more💲! My journey to the next level with Adsterra CPA](https://afflift.com/f/threads/explore-more%F0%9F%92%B2-my-journey-to-the-next-level-with-adsterra-cpa.11688/)<!-- afflift:END -->
+-  05 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
