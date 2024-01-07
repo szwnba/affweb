@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  07 [有奖 | 我们做了一款人见人爱的移动电源，现在还想用它来帮你「表白」](https://sspai.com/post/85545)
--  06 [放轻松 | It‘s okay to be sad，这是焦虑和放松带给我的思考](https://sspai.com/post/85499)<!-- sspai:END -->
+-  07 [有奖 | 我们做了一款人见人爱的移动电源，现在还想用它来帮你「表白」](https://sspai.com/post/85545)<!-- sspai:END -->
