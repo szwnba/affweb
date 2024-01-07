@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
+-  07 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  07 [Just upgraded!](https://afflift.com/f/threads/just-upgraded.12419/)
 -  07 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  07 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
@@ -46,9 +48,7 @@
 -  07 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  07 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
 -  07 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  07 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
--  07 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
--  07 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)<!-- afflift:END -->
+-  07 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
