@@ -38,8 +38,8 @@
 ### afflift
 <!-- afflift:START -->
 -  07 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
--  07 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  07 [Just upgraded!](https://afflift.com/f/threads/just-upgraded.12419/)
+-  07 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  07 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  07 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
 -  07 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
