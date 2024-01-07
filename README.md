@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  05 [有木有一个软件或者程序，导入代理就能自动刷网页的](https://www.advertcn.com/thread-113570-1-1.html)<!-- advertcn3:END -->
+-  07 [大家的工具站都是怎么推广的？](https://www.advertcn.com/thread-113578-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
