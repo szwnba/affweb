@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  07 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
 -  07 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
 -  07 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
@@ -46,8 +47,7 @@
 -  06 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  06 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
 -  06 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
--  06 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  06 [RollerAds 2022 stats &lpar;kind of crazy&rpar;](https://afflift.com/f/threads/rollerads-2022-stats-kind-of-crazy.10162/)<!-- afflift:END -->
+-  06 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
