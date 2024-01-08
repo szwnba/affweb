@@ -38,6 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  08 [The Anatomy of a High Converting Advertorial on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-advertorial-on-native.10707/)
+-  08 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
 -  08 [TRUST APPS - Rent of iOS/Android organic applications for FB, In-App, UAC](https://afflift.com/f/threads/trust-apps-rent-of-ios-android-organic-applications-for-fb-in-app-uac.11780/)
 -  08 [postback bemob to propeller](https://afflift.com/f/threads/postback-bemob-to-propeller.12418/)
 -  08 [Just upgraded!](https://afflift.com/f/threads/just-upgraded.12419/)
@@ -46,10 +49,7 @@
 -  07 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
 -  07 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
 -  07 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
--  07 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
--  07 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  07 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
--  07 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)<!-- afflift:END -->
+-  07 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
