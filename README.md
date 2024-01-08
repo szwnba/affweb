@@ -26,7 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  07 [大家的工具站都是怎么推广的？](https://www.advertcn.com/thread-113578-1-1.html)<!-- advertcn3:END -->
+-  08 [新人报道之广告投手](https://www.advertcn.com/thread-113589-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
