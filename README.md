@@ -38,6 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
+-  08 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
+-  08 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
 -  08 [What should be a sufficient period to store Campaign Details Report?](https://afflift.com/f/threads/what-should-be-a-sufficient-period-to-store-campaign-details-report.12426/)
 -  08 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  08 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)
@@ -46,10 +49,7 @@
 -  08 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
 -  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  08 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  08 [Going to Vegas for Affiliate Summit West](https://afflift.com/f/threads/going-to-vegas-for-affiliate-summit-west.12424/)
--  08 [OnclickA Pops Review](https://afflift.com/f/threads/onclicka-pops-review.12423/)
--  08 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
--  08 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)<!-- afflift:END -->
+-  08 [Going to Vegas for Affiliate Summit West](https://afflift.com/f/threads/going-to-vegas-for-affiliate-summit-west.12424/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
