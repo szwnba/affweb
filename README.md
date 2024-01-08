@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
+-  07 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
 -  07 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  07 [Just upgraded!](https://afflift.com/f/threads/just-upgraded.12419/)
 -  07 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
@@ -46,9 +48,7 @@
 -  07 [The Anatomy of a High Converting Advertorial on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-advertorial-on-native.10707/)
 -  07 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
 -  07 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  07 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
--  07 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  07 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)<!-- afflift:END -->
+-  07 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
