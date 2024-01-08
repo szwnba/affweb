@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
+-  08 [Building my own traffic sources](https://afflift.com/f/threads/building-my-own-traffic-sources.10721/)
+-  08 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
 -  08 [postback bemob to propeller](https://afflift.com/f/threads/postback-bemob-to-propeller.12418/)
+-  08 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+-  08 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
+-  08 [Just upgraded!](https://afflift.com/f/threads/just-upgraded.12419/)
+-  08 [Galaksion Follow Along Contest - Sweepstakes](https://afflift.com/f/threads/galaksion-follow-along-contest-sweepstakes.11314/)
 -  08 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
 -  08 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
 -  08 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
 -  08 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  08 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
--  08 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
--  08 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
--  08 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
--  08 [FREE WordPress GPL download site](https://afflift.com/f/threads/free-wordpress-gpl-download-site.12421/)
--  08 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)<!-- afflift:END -->
+-  08 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
