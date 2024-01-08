@@ -53,6 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/85663)
 -  08 [辅酶 Q10 对人体健康极其重要，但「补一补」或许没那么必要？](https://sspai.com/post/85322)
 -  08 [Matrix Talk | 极简桌面、优质平替……这是我们的桌搭进化之路](https://sspai.com/post/85556)
 -  08 [派早报：新版快递市场管理办法细化服务规范](https://sspai.com/post/85637)<!-- sspai:END -->
