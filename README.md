@@ -52,5 +52,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  08 [Matrix Talk | 极简桌面、优质平替……这是我们的桌搭进化之路](https://sspai.com/post/85556)
--  08 [派早报：新版快递市场管理办法细化服务规范](https://sspai.com/post/85637)
--  07 [智能家居的网关新形态：Aqara 方舟智慧中枢 M3 体验](https://sspai.com/post/85621)<!-- sspai:END -->
+-  08 [派早报：新版快递市场管理办法细化服务规范](https://sspai.com/post/85637)<!-- sspai:END -->
