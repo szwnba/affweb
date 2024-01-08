@@ -18,7 +18,6 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  08 [Facebook个人号防封技巧大盘点！！！](https://www.advertcn.com/thread-113591-1-1.html)
--  08 [新人报道之广告投手](https://www.advertcn.com/thread-113589-1-1.html)
 -  07 [新人报道](https://www.advertcn.com/thread-113582-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
