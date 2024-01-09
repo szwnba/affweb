@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  09 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  09 [Hello everyone :&rpar;](https://afflift.com/f/threads/hello-everyone.12425/)
 -  09 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
@@ -51,8 +52,7 @@
 -  09 [What should be a sufficient period to store Campaign Details Report?](https://afflift.com/f/threads/what-should-be-a-sufficient-period-to-store-campaign-details-report.12426/)
 -  09 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  09 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  09 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
--  09 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
+-  09 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
