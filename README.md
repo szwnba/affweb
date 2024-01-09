@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  09 [Hello everyone :&rpar;](https://afflift.com/f/threads/hello-everyone.12425/)
 -  09 [Favorite domain&lpar;s&rpar; that you haven&#39;t done anything with?](https://afflift.com/f/threads/favorite-domain-s-that-you-havent-done-anything-with.12187/)
 -  09 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
@@ -51,8 +52,7 @@
 -  09 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  09 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  09 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
--  09 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  09 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)<!-- afflift:END -->
+-  09 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
