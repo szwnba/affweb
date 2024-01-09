@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  09 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  09 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
+-  09 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
+-  09 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  09 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  09 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
+-  09 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  09 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  09 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  09 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  09 [🌟2023 Review and met 2024--A newbie’s annual summary🌟](https://afflift.com/f/threads/%F0%9F%8C%9F2023-review-and-met-2024-a-newbie%E2%80%99s-annual-summary%F0%9F%8C%9F.12427/)
 -  09 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  09 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
--  09 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
--  09 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  09 [Happy new year!One of New Year&#39;s wishes:Can Zeydoo reply faster?](https://afflift.com/f/threads/happy-new-year-one-of-new-years-wishes-can-zeydoo-reply-faster.12399/)
--  09 [Binom 2024 New Year Promo](https://afflift.com/f/threads/binom-2024-new-year-promo.12363/)<!-- afflift:END -->
+-  09 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
