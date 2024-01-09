@@ -17,9 +17,9 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  09 [Shopee新手必备的选品技巧和策略！](https://www.advertcn.com/thread-113603-1-1.html)
 -  09 [来了](https://www.advertcn.com/thread-113598-1-1.html)
--  08 [新人报到](https://www.advertcn.com/thread-113594-1-1.html)
--  08 [Facebook个人号防封技巧大盘点！！！](https://www.advertcn.com/thread-113591-1-1.html)<!-- advertcn1:END -->
+-  08 [新人报到](https://www.advertcn.com/thread-113594-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
