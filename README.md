@@ -28,8 +28,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  09 [Microsoft开户所需资料及具体流程|课程](https://www.advertcn.com/thread-113599-1-1.html)
--  08 [Chrome浏览器在2024年1月4日，开始陆续阻止第三方Cookie](https://www.advertcn.com/thread-113596-1-1.html)
--  08 [新人报道之广告投手](https://www.advertcn.com/thread-113589-1-1.html)<!-- advertcn3:END -->
+-  08 [Chrome浏览器在2024年1月4日，开始陆续阻止第三方Cookie](https://www.advertcn.com/thread-113596-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
