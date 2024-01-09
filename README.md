@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  09 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
+-  09 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  09 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  09 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  09 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
 -  09 [🌟2023 Review and met 2024--A newbie’s annual summary🌟](https://afflift.com/f/threads/%F0%9F%8C%9F2023-review-and-met-2024-a-newbie%E2%80%99s-annual-summary%F0%9F%8C%9F.12427/)
 -  09 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  09 [New Year Changes](https://afflift.com/f/threads/new-year-changes.12394/)
 -  09 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  09 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  09 [Happy new year!One of New Year&#39;s wishes:Can Zeydoo reply faster?](https://afflift.com/f/threads/happy-new-year-one-of-new-years-wishes-can-zeydoo-reply-faster.12399/)
--  09 [Binom 2024 New Year Promo](https://afflift.com/f/threads/binom-2024-new-year-promo.12363/)
--  09 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  09 [What should be a sufficient period to store Campaign Details Report?](https://afflift.com/f/threads/what-should-be-a-sufficient-period-to-store-campaign-details-report.12426/)<!-- afflift:END -->
+-  09 [Binom 2024 New Year Promo](https://afflift.com/f/threads/binom-2024-new-year-promo.12363/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
