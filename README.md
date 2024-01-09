@@ -41,6 +41,7 @@
 ### afflift
 <!-- afflift:START -->
 -  09 [What should be a sufficient period to store Campaign Details Report?](https://afflift.com/f/threads/what-should-be-a-sufficient-period-to-store-campaign-details-report.12426/)
+-  09 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  09 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
 -  09 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  09 [Going to Vegas for Affiliate Summit West](https://afflift.com/f/threads/going-to-vegas-for-affiliate-summit-west.12424/)
@@ -50,8 +51,7 @@
 -  08 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)
 -  08 [Hello everyone :&rpar;](https://afflift.com/f/threads/hello-everyone.12425/)
 -  08 [Just upgraded!](https://afflift.com/f/threads/just-upgraded.12419/)
--  08 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)
--  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  08 [X Ads Revenue Sharing](https://afflift.com/f/threads/x-ads-revenue-sharing.11444/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
