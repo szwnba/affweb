@@ -40,12 +40,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [What should be a sufficient period to store Campaign Details Report?](https://afflift.com/f/threads/what-should-be-a-sufficient-period-to-store-campaign-details-report.12426/)
+-  09 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
 -  09 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  09 [Going to Vegas for Affiliate Summit West](https://afflift.com/f/threads/going-to-vegas-for-affiliate-summit-west.12424/)
 -  08 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  08 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
--  08 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
--  08 [What should be a sufficient period to store Campaign Details Report?](https://afflift.com/f/threads/what-should-be-a-sufficient-period-to-store-campaign-details-report.12426/)
 -  08 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  08 [How do You scale your green campaign ?](https://afflift.com/f/threads/how-do-you-scale-your-green-campaign.12349/)
 -  08 [Hello everyone :&rpar;](https://afflift.com/f/threads/hello-everyone.12425/)
