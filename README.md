@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  02 [Now-DNS免费提供32种子域名后缀，支持API更新DDNS](https://51.ruyo.net/18589.html)<!-- ruyo:END -->
+-  09 [DuckDNS免费提供DDNS服务，支持duckdns.org子域名](https://51.ruyo.net/18593.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
