@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [5 DAYS LEFT! Binom New Year Promo](https://afflift.com/f/threads/5-days-left-binom-new-year-promo.12433/)
+-  10 [🌟2023 Review and met 2024--A newbie’s annual summary🌟](https://afflift.com/f/threads/%F0%9F%8C%9F2023-review-and-met-2024-a-newbie%E2%80%99s-annual-summary%F0%9F%8C%9F.12427/)
+-  10 [STEP 7 - Adding Zeydoo Smartlink as Offer to Skro Tracker](https://afflift.com/f/threads/step-7-adding-zeydoo-smartlink-as-offer-to-skro-tracker.12317/)
+-  10 [Hi Everyone!](https://afflift.com/f/threads/hi-everyone.12246/)
 -  10 [START HERE - The Beginner’s Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-the-beginner%E2%80%99s-guide-to-affiliate-marketing.12310/)
+-  10 [Introducing the Beginners Course 2.0](https://afflift.com/f/threads/introducing-the-beginners-course-2-0.12432/)
+-  10 [Golden Goose office is awesome...](https://afflift.com/f/threads/golden-goose-office-is-awesome.10216/)
 -  10 [🎉Kick Start Your New Year With EZmob And Get 💲50 For FREE](https://afflift.com/f/threads/%F0%9F%8E%89kick-start-your-new-year-with-ezmob-and-get-%F0%9F%92%B250-for-free.12431/)
 -  10 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  10 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  10 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
--  10 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
--  10 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)
--  10 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
--  10 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  10 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
--  10 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
--  10 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)<!-- afflift:END -->
+-  10 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
