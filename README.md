@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  09 [新人报道](https://www.advertcn.com/thread-113606-1-1.html)
 -  09 [TikTok小店申请流程！！！](https://www.advertcn.com/thread-113604-1-1.html)
--  09 [Shopee新手必备的选品技巧和策略！](https://www.advertcn.com/thread-113603-1-1.html)
--  09 [来了](https://www.advertcn.com/thread-113598-1-1.html)<!-- advertcn1:END -->
+-  09 [Shopee新手必备的选品技巧和策略！](https://www.advertcn.com/thread-113603-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
