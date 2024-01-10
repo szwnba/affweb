@@ -31,8 +31,7 @@
 -  10 [Media buy数据持续跑正，前期总共花了多少预算。](https://www.advertcn.com/thread-113622-1-1.html)
 -  10 [美国买别墅真不是梦](https://www.advertcn.com/thread-113618-1-1.html)
 -  10 [GPT Store 正式上线啦 【可以拿去作为你的推广整地了】](https://www.advertcn.com/thread-113617-1-1.html)
--  10 [团购STM 无法显示图片](https://www.advertcn.com/thread-113611-1-1.html)
--  09 [一个令人疑惑的问题，跑螺旋桨的大神求解惑](https://www.advertcn.com/thread-113610-1-1.html)<!-- advertcn3:END -->
+-  10 [团购STM 无法显示图片](https://www.advertcn.com/thread-113611-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
