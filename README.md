@@ -41,9 +41,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
 -  10 [START HERE - The Beginner’s Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-the-beginner%E2%80%99s-guide-to-affiliate-marketing.12310/)
 -  10 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
--  10 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
 -  10 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  10 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
 -  10 [PopCash + Zeydoo Smartlink + Skro](https://afflift.com/f/threads/popcash-zeydoo-smartlink-skro.12158/)
