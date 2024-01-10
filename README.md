@@ -60,5 +60,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  10 [派早报：Apple Music 古典乐将在大陆地区上线等](https://sspai.com/post/85699)
--  09 [社区速递 028 | 2023 年度照片、给娃 AI 起名以及作者的新玩意](https://sspai.com/post/85689)
--  09 [放轻松 | 治愈「被互联网影响的心智」](https://sspai.com/post/85420)<!-- sspai:END -->
+-  09 [社区速递 028 | 2023 年度照片、给娃 AI 起名以及作者的新玩意](https://sspai.com/post/85689)<!-- sspai:END -->
