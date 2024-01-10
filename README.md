@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  10 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  10 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
+-  10 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
+-  10 [🎉Kick Start Your New Year With EZmob And Get 💲50 For FREE](https://afflift.com/f/threads/%F0%9F%8E%89kick-start-your-new-year-with-ezmob-and-get-%F0%9F%92%B250-for-free.12431/)
 -  10 [Custom Domain in GGoose](https://afflift.com/f/threads/custom-domain-in-ggoose.11805/)
+-  10 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
+-  10 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  10 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
 -  10 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
 -  10 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  10 [🎉Kick Start Your New Year With EZmob And Get 💲50 For FREE](https://afflift.com/f/threads/%F0%9F%8E%89kick-start-your-new-year-with-ezmob-and-get-%F0%9F%92%B250-for-free.12431/)
--  10 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
 -  10 [Other than Zeydoo, what are some other affiliate platforms with good survey activities?](https://afflift.com/f/threads/other-than-zeydoo-what-are-some-other-affiliate-platforms-with-good-survey-activities.12398/)
 -  10 [The Anatomy of a High Converting VSL Lander on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-vsl-lander-on-native.12415/)
--  10 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  10 [Help! RTX Traffic Died Today! Anyone have any insight into what happened or what to do?](https://afflift.com/f/threads/help-rtx-traffic-died-today-anyone-have-any-insight-into-what-happened-or-what-to-do.10847/)
--  10 [START HERE - The Beginner’s Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-the-beginner%E2%80%99s-guide-to-affiliate-marketing.12310/)<!-- afflift:END -->
+-  10 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
