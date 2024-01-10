@@ -59,6 +59,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [播客 | 开一家自己的出版社，再出一本自己写的书](https://sspai.com/post/85675)
 -  10 [Heptabase：重塑知识管理与学习的未来](https://sspai.com/post/85171)
 -  10 [派早报：Apple Music 古典乐将在大陆地区上线等](https://sspai.com/post/85699)
 -  09 [社区速递 028 | 2023 年度照片、给娃 AI 起名以及作者的新玩意](https://sspai.com/post/85689)<!-- sspai:END -->
