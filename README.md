@@ -42,10 +42,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  10 [Campaign goal when promoting affiliate offers on FB?](https://afflift.com/f/threads/campaign-goal-when-promoting-affiliate-offers-on-fb.12436/)
 -  10 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  10 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  10 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  10 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
 -  10 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
 -  10 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
