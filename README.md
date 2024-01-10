@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  10 [独立站营销：那些适合海外推广的视频平台！](https://www.advertcn.com/thread-113614-1-1.html)
 -  09 [新人报道](https://www.advertcn.com/thread-113606-1-1.html)
 -  09 [TikTok小店申请流程！！！](https://www.advertcn.com/thread-113604-1-1.html)
 -  09 [Shopee新手必备的选品技巧和策略！](https://www.advertcn.com/thread-113603-1-1.html)<!-- advertcn1:END -->
