@@ -58,6 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [定格影像记忆，我们给心中的 2023「年度最佳」颁了奖](https://sspai.com/post/85655)
 -  10 [播客 | 开一家自己的出版社，再出一本自己写的书](https://sspai.com/post/85675)
 -  10 [Heptabase：重塑知识管理与学习的未来](https://sspai.com/post/85171)
 -  10 [派早报：Apple Music 古典乐将在大陆地区上线等](https://sspai.com/post/85699)<!-- sspai:END -->
