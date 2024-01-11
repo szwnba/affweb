@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
 -  11 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)
 -  11 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
 -  11 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
@@ -48,8 +49,7 @@
 -  10 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
 -  10 [New golden goose offerwall - thoughts?](https://afflift.com/f/threads/new-golden-goose-offerwall-thoughts.12428/)
 -  10 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  10 [Hello everyone :&rpar;](https://afflift.com/f/threads/hello-everyone.12425/)
--  10 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)<!-- afflift:END -->
+-  10 [Hello everyone :&rpar;](https://afflift.com/f/threads/hello-everyone.12425/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
