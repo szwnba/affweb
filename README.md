@@ -52,6 +52,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [调整页码、转移批注、切割页面：这些命令行工具帮你玩转 PDF](https://sspai.com/prime/story/cli-utils-for-pdf-manipulations)
 -  11 [换台新电脑、迎接新一年：2024 Mac 选购指南](https://sspai.com/post/85735)
 -  11 [放轻松 | 不再追逐快乐，允许自己悲伤，以及我的思考](https://sspai.com/post/85462)
 -  11 [派早报：荣耀发布 MagicOS 8.0、播客工具 Castro 恢复运营等](https://sspai.com/post/85729)<!-- sspai:END -->
