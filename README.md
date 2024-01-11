@@ -37,6 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Overcoming Affiliate Marketing Burnout and Stress: How to Use Pop Ads to Easily Generate Successful Ad Campaigns in 2023](https://afflift.com/f/threads/overcoming-affiliate-marketing-burnout-and-stress-how-to-use-pop-ads-to-easily-generate-successful-ad-campaigns-in-2023.12437/)
+-  11 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
+-  11 [🏆 Peak Award Winners for 2023](https://afflift.com/f/threads/%F0%9F%8F%86-peak-award-winners-for-2023.12329/)
 -  11 [Offer Aggregators: Your Way to Discover Countless  Offers](https://afflift.com/f/threads/offer-aggregators-your-way-to-discover-countless-offers.12378/)
 -  11 [START HERE - The Beginner’s Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-the-beginner%E2%80%99s-guide-to-affiliate-marketing.12310/)
 -  11 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
@@ -45,10 +48,7 @@
 -  11 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)
 -  11 [🎉Kick Start Your New Year With EZmob And Get 💲50 For FREE](https://afflift.com/f/threads/%F0%9F%8E%89kick-start-your-new-year-with-ezmob-and-get-%F0%9F%92%B250-for-free.12431/)
 -  11 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)
--  11 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
--  11 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  11 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  11 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)<!-- afflift:END -->
+-  11 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
