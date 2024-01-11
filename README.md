@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  11 [Bing广告的展示流量排除不能够了？](https://www.advertcn.com/thread-113628-1-1.html)
--  10 [media buy的环境要求](https://www.advertcn.com/thread-113626-1-1.html)<!-- advertcn3:END -->
+-  11 [Bing广告的展示流量排除不能够了？](https://www.advertcn.com/thread-113628-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
