@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  11 [Bing广告的展示流量排除不能够了？](https://www.advertcn.com/thread-113628-1-1.html)
 -  10 [media buy的环境要求](https://www.advertcn.com/thread-113626-1-1.html)
 -  10 [Media buy数据持续跑正，前期总共花了多少预算。](https://www.advertcn.com/thread-113622-1-1.html)
 -  10 [美国买别墅真不是梦](https://www.advertcn.com/thread-113618-1-1.html)
