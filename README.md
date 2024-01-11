@@ -36,6 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Bemob is totally down for me](https://afflift.com/f/threads/bemob-is-totally-down-for-me.12441/)
+-  11 [🔥 My Take on PropellerAds Contest &lpar;🍅 Secret Sauce included!&rpar; #PA23](https://afflift.com/f/threads/%F0%9F%94%A5-my-take-on-propellerads-contest-%F0%9F%8D%85-secret-sauce-included-pa23.11642/)
+-  11 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
+-  11 [Overcoming Affiliate Marketing Burnout and Stress: How to Use Pop Ads to Easily Generate Successful Ad Campaigns in 2023](https://afflift.com/f/threads/overcoming-affiliate-marketing-burnout-and-stress-how-to-use-pop-ads-to-easily-generate-successful-ad-campaigns-in-2023.12437/)
 -  11 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  11 [PrivateCPA - Private Ad Network - Sweeps, Dating, Nutra, Downloads &amp; More](https://afflift.com/f/threads/privatecpa-private-ad-network-sweeps-dating-nutra-downloads-more.4271/)
 -  11 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)
@@ -43,11 +47,7 @@
 -  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  11 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  11 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
--  11 [Dealing with “Malicious Software” Error on Google Ads: Reducing the Risk of Ad and Account Suspension](https://afflift.com/f/threads/dealing-with-%E2%80%9Cmalicious-software%E2%80%9D-error-on-google-ads-reducing-the-risk-of-ad-and-account-suspension.12439/)
--  11 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  11 [Overcoming Affiliate Marketing Burnout and Stress: How to Use Pop Ads to Easily Generate Successful Ad Campaigns in 2023](https://afflift.com/f/threads/overcoming-affiliate-marketing-burnout-and-stress-how-to-use-pop-ads-to-easily-generate-successful-ad-campaigns-in-2023.12437/)
--  11 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
--  11 [🏆 Peak Award Winners for 2023](https://afflift.com/f/threads/%F0%9F%8F%86-peak-award-winners-for-2023.12329/)<!-- afflift:END -->
+-  11 [Dealing with “Malicious Software” Error on Google Ads: Reducing the Risk of Ad and Account Suspension](https://afflift.com/f/threads/dealing-with-%E2%80%9Cmalicious-software%E2%80%9D-error-on-google-ads-reducing-the-risk-of-ad-and-account-suspension.12439/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
