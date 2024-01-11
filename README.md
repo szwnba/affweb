@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  10 [新人报道](https://www.advertcn.com/thread-113621-1-1.html)<!-- advertcn1:END -->
+-  11 [Tik Tok如何批量上传商品！](https://www.advertcn.com/thread-113632-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
