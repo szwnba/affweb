@@ -36,6 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  11 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  11 [GPT store coming to ChatGPT](https://afflift.com/f/threads/gpt-store-coming-to-chatgpt.12414/)
 -  11 [Dealing with “Malicious Software” Error on Google Ads: Reducing the Risk of Ad and Account Suspension](https://afflift.com/f/threads/dealing-with-%E2%80%9Cmalicious-software%E2%80%9D-error-on-google-ads-reducing-the-risk-of-ad-and-account-suspension.12439/)
 -  11 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  11 [Overcoming Affiliate Marketing Burnout and Stress: How to Use Pop Ads to Easily Generate Successful Ad Campaigns in 2023](https://afflift.com/f/threads/overcoming-affiliate-marketing-burnout-and-stress-how-to-use-pop-ads-to-easily-generate-successful-ad-campaigns-in-2023.12437/)
@@ -44,10 +47,7 @@
 -  11 [Offer Aggregators: Your Way to Discover Countless  Offers](https://afflift.com/f/threads/offer-aggregators-your-way-to-discover-countless-offers.12378/)
 -  11 [START HERE - The Beginner’s Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-the-beginner%E2%80%99s-guide-to-affiliate-marketing.12310/)
 -  11 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
--  11 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
--  11 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
--  11 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)
--  11 [🎉Kick Start Your New Year With EZmob And Get 💲50 For FREE](https://afflift.com/f/threads/%F0%9F%8E%89kick-start-your-new-year-with-ezmob-and-get-%F0%9F%92%B250-for-free.12431/)<!-- afflift:END -->
+-  11 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
