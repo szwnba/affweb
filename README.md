@@ -59,5 +59,4 @@
 <!-- sspai:START -->
 -  11 [派早报：荣耀发布 MagicOS 8.0、播客工具 Castro 恢复运营等](https://sspai.com/post/85729)
 -  10 [定格影像记忆，我们给心中的 2023「年度最佳」颁了奖](https://sspai.com/post/85655)
--  10 [播客 | 开一家自己的出版社，再出一本自己写的书](https://sspai.com/post/85675)
--  10 [Heptabase：重塑知识管理与学习的未来](https://sspai.com/post/85171)<!-- sspai:END -->
+-  10 [播客 | 开一家自己的出版社，再出一本自己写的书](https://sspai.com/post/85675)<!-- sspai:END -->
