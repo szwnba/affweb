@@ -38,6 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  12 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  12 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  12 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
 -  12 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  12 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
@@ -46,10 +49,7 @@
 -  12 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  12 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  12 [Conversion Sharks Not Paying?](https://afflift.com/f/threads/conversion-sharks-not-paying.12442/)
--  12 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)
--  12 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  12 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  12 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)<!-- afflift:END -->
+-  12 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
