@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  11 [Bing广告的展示流量排除不能够了？](https://www.advertcn.com/thread-113628-1-1.html)<!-- advertcn3:END -->
+-  12 [谷歌ADS 搜索量比较低（月300以内）的关键词投放有什么策略](https://www.advertcn.com/thread-113642-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
