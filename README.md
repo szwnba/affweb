@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [STEP 9 - Creating your first campaign](https://afflift.com/f/threads/step-9-creating-your-first-campaign.12320/)
 -  12 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  11 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  11 [Sending push messages to your own subscribers on ProPush &lpar;and checking the revenue share %&rpar;](https://afflift.com/f/threads/sending-push-messages-to-your-own-subscribers-on-propush-and-checking-the-revenue-share.10040/)
@@ -46,8 +47,7 @@
 -  11 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  11 [PrivateCPA - Private Ad Network - Sweeps, Dating, Nutra, Downloads &amp; More](https://afflift.com/f/threads/privatecpa-private-ad-network-sweeps-dating-nutra-downloads-more.4271/)
 -  11 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)
--  11 [Geozo Review](https://afflift.com/f/threads/geozo-review.12440/)
--  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  11 [Geozo Review](https://afflift.com/f/threads/geozo-review.12440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
