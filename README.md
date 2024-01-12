@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  11 [Tik Tok如何批量上传商品！](https://www.advertcn.com/thread-113632-1-1.html)<!-- advertcn1:END -->
+-  12 [如何同时登录多个Gmail、Outlook、Yahoo邮箱且不被关联？](https://www.advertcn.com/thread-113644-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
