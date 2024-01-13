@@ -52,5 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  13 [用好 F12，一键开启浏览器的「上帝模式」](https://sspai.com/post/85686)
--  12 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)<!-- sspai:END -->
+-  13 [用好 F12，一键开启浏览器的「上帝模式」](https://sspai.com/post/85686)<!-- sspai:END -->
