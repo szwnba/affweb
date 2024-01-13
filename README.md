@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
+-  13 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  13 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  13 [Who Sells RU Pops Now?](https://afflift.com/f/threads/who-sells-ru-pops-now.12451/)
 -  13 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
@@ -45,9 +47,7 @@
 -  13 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
 -  13 [How to find good offers on monetizer?](https://afflift.com/f/threads/how-to-find-good-offers-on-monetizer.12447/)
 -  13 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
--  13 [After changing the Binom domain, I am not receiving callbacks from CPAmatica.](https://afflift.com/f/threads/after-changing-the-binom-domain-i-am-not-receiving-callbacks-from-cpamatica.12446/)
--  13 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
--  13 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)<!-- afflift:END -->
+-  13 [After changing the Binom domain, I am not receiving callbacks from CPAmatica.](https://afflift.com/f/threads/after-changing-the-binom-domain-i-am-not-receiving-callbacks-from-cpamatica.12446/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
