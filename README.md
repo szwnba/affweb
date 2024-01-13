@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [STEP 12 - First Results](https://afflift.com/f/threads/step-12-first-results.12323/)
 -  13 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
 -  13 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
 -  13 [How to find good offers on monetizer?](https://afflift.com/f/threads/how-to-find-good-offers-on-monetizer.12447/)
@@ -47,8 +48,7 @@
 -  13 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
 -  12 [Bemob is totally down for me](https://afflift.com/f/threads/bemob-is-totally-down-for-me.12441/)
 -  12 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
--  12 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
--  12 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)<!-- afflift:END -->
+-  12 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
