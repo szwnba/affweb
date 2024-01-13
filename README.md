@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  13 [高价收收过款的ADSENSE](https://www.advertcn.com/thread-113651-1-1.html)
--  12 [以后别在godaddy买域名了](https://www.advertcn.com/thread-113649-1-1.html)<!-- advertcn3:END -->
+-  13 [高价收收过款的ADSENSE](https://www.advertcn.com/thread-113651-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
