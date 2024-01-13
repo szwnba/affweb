@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
 -  13 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  13 [STEP 12 - First Results](https://afflift.com/f/threads/step-12-first-results.12323/)
 -  13 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
@@ -46,8 +47,7 @@
 -  13 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
 -  13 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
 -  13 [How to find good offers on monetizer?](https://afflift.com/f/threads/how-to-find-good-offers-on-monetizer.12447/)
--  13 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
--  13 [After changing the Binom domain, I am not receiving callbacks from CPAmatica.](https://afflift.com/f/threads/after-changing-the-binom-domain-i-am-not-receiving-callbacks-from-cpamatica.12446/)<!-- afflift:END -->
+-  13 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
