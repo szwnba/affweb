@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
 -  12 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
 -  12 [Bemob is totally down for me](https://afflift.com/f/threads/bemob-is-totally-down-for-me.12441/)
 -  12 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
@@ -49,8 +50,7 @@
 -  12 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  12 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  12 [🚀 Introducing Revolutionary AI in Traffic Distribution: Optimizing Campaigns with Science at Peerclick! 🚀](https://afflift.com/f/threads/%F0%9F%9A%80-introducing-revolutionary-ai-in-traffic-distribution-optimizing-campaigns-with-science-at-peerclick-%F0%9F%9A%80.12443/)
--  12 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
--  12 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)<!-- afflift:END -->
+-  12 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
