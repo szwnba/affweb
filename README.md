@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  12 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)
 -  12 [焕然一新的 Thunderbird 也许是最好的 Windows 邮件日历客户端](https://sspai.com/post/85622)
--  12 [众测 | 性能至强，有龙则灵：第二期先享体验计划荣耀Magic6 Pro 开启](https://sspai.com/post/85765)
--  12 [派早报：荣耀发布 Magic6 系列手机、OpenAI 推出 GPTs 商店](https://sspai.com/post/85764)<!-- sspai:END -->
+-  12 [众测 | 性能至强，有龙则灵：第二期先享体验计划荣耀Magic6 Pro 开启](https://sspai.com/post/85765)<!-- sspai:END -->
