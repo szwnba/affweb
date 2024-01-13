@@ -52,5 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  12 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)
--  12 [焕然一新的 Thunderbird 也许是最好的 Windows 邮件日历客户端](https://sspai.com/post/85622)<!-- sspai:END -->
+-  12 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/85779)<!-- sspai:END -->
