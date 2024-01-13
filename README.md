@@ -36,6 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
+-  13 [Who Sells RU Pops Now?](https://afflift.com/f/threads/who-sells-ru-pops-now.12451/)
+-  13 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
+-  13 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)
 -  13 [STEP 12 - First Results](https://afflift.com/f/threads/step-12-first-results.12323/)
 -  13 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
 -  13 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
@@ -43,11 +47,7 @@
 -  13 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
 -  13 [After changing the Binom domain, I am not receiving callbacks from CPAmatica.](https://afflift.com/f/threads/after-changing-the-binom-domain-i-am-not-receiving-callbacks-from-cpamatica.12446/)
 -  13 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
--  13 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
--  13 [Scaling Best Hours On Propeller](https://afflift.com/f/threads/scaling-best-hours-on-propeller.12405/)
--  12 [Bemob is totally down for me](https://afflift.com/f/threads/bemob-is-totally-down-for-me.12441/)
--  12 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
--  12 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)<!-- afflift:END -->
+-  13 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
