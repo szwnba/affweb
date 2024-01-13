@@ -27,8 +27,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  12 [以后别在godaddy买域名了](https://www.advertcn.com/thread-113649-1-1.html)
--  12 [谷歌ADS 搜索量比较低（月300以内）的关键词投放有什么策略](https://www.advertcn.com/thread-113642-1-1.html)<!-- advertcn3:END -->
+-  13 [高价收收过款的ADSENSE](https://www.advertcn.com/thread-113651-1-1.html)
+-  12 [以后别在godaddy买域名了](https://www.advertcn.com/thread-113649-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
