@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
 -  13 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
 -  13 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  13 [STEP 12 - First Results](https://afflift.com/f/threads/step-12-first-results.12323/)
@@ -46,8 +47,7 @@
 -  13 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)
 -  13 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
 -  13 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
--  13 [How to find good offers on monetizer?](https://afflift.com/f/threads/how-to-find-good-offers-on-monetizer.12447/)
--  13 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)<!-- afflift:END -->
+-  13 [How to find good offers on monetizer?](https://afflift.com/f/threads/how-to-find-good-offers-on-monetizer.12447/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
