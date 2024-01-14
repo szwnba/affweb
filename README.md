@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  14 [bemob新建活动，打不开页面，有遇到过的没有](https://www.advertcn.com/thread-113661-1-1.html)
 -  14 [这是什么广告，不像adsens](https://www.advertcn.com/thread-113656-1-1.html)
 -  14 [研究表明分布式社交网络服务高度集中在Hetzner](https://www.advertcn.com/thread-113655-1-1.html)<!-- advertcn3:END -->
 
