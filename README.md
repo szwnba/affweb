@@ -25,6 +25,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  14 [研究表明分布式社交网络服务高度集中在Hetzner](https://www.advertcn.com/thread-113655-1-1.html)
+-  13 [机顶盒IP资源，有需求这个得吗？](https://www.advertcn.com/thread-113654-1-1.html)
 -  13 [高价收收过款的ADSENSE](https://www.advertcn.com/thread-113651-1-1.html)<!-- advertcn3:END -->
 
 
