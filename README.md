@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Looking For Housing/Rental and Dating Pay Per Call offer](https://afflift.com/f/threads/looking-for-housing-rental-and-dating-pay-per-call-offer.11798/)
+-  14 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)
 -  14 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/)
 -  13 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
 -  13 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
@@ -47,9 +49,7 @@
 -  13 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  13 [Who Sells RU Pops Now?](https://afflift.com/f/threads/who-sells-ru-pops-now.12451/)
 -  13 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  13 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)
--  13 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
--  13 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)<!-- afflift:END -->
+-  13 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
