@@ -48,8 +48,7 @@
 -  14 [Looking For Housing/Rental and Dating Pay Per Call offer](https://afflift.com/f/threads/looking-for-housing-rental-and-dating-pay-per-call-offer.11798/)
 -  14 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)
 -  14 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/)
--  13 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
--  13 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)<!-- afflift:END -->
+-  13 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
