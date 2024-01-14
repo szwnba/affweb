@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  14 [How much testing budget is required in Pop and Push Ad Campaign?](https://afflift.com/f/threads/how-much-testing-budget-is-required-in-pop-and-push-ad-campaign.12454/)
 -  14 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  14 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  14 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
@@ -47,9 +49,7 @@
 -  14 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)
 -  14 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/)
 -  13 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
--  13 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  13 [STEP 12 - First Results](https://afflift.com/f/threads/step-12-first-results.12323/)
--  13 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)<!-- afflift:END -->
+-  13 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
