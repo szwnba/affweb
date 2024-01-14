@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  13 [用好 F12，一键开启浏览器的「上帝模式」](https://sspai.com/post/85686)<!-- sspai:END -->
+-  14 [CES 2024 亮点回顾：硬件软件两开花](https://sspai.com/post/85807)<!-- sspai:END -->
