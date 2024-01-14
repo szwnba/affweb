@@ -38,11 +38,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
+-  14 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  14 [How much testing budget is required in Pop and Push Ad Campaign?](https://afflift.com/f/threads/how-much-testing-budget-is-required-in-pop-and-push-ad-campaign.12454/)
 -  14 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  14 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  14 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  14 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
 -  14 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  14 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  14 [Looking For Housing/Rental and Dating Pay Per Call offer](https://afflift.com/f/threads/looking-for-housing-rental-and-dating-pay-per-call-offer.11798/)
