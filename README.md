@@ -37,8 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  14 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
 -  14 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
+-  14 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
 -  14 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  14 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
 -  14 [Looking For Housing/Rental and Dating Pay Per Call offer](https://afflift.com/f/threads/looking-for-housing-rental-and-dating-pay-per-call-offer.11798/)
