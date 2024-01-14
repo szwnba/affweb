@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/)
 -  13 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
 -  13 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
 -  13 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
@@ -47,8 +48,7 @@
 -  13 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  13 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)
 -  13 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
--  13 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
--  13 [How to find good offers on monetizer?](https://afflift.com/f/threads/how-to-find-good-offers-on-monetizer.12447/)<!-- afflift:END -->
+-  13 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
