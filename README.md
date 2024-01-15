@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
+-  15 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  15 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
 -  15 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  14 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
@@ -47,9 +49,7 @@
 -  14 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  14 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  14 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
--  14 [Looking For Housing/Rental and Dating Pay Per Call offer](https://afflift.com/f/threads/looking-for-housing-rental-and-dating-pay-per-call-offer.11798/)
--  14 [Pay-per-call network recommendations?](https://afflift.com/f/threads/pay-per-call-network-recommendations.12271/)
--  14 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/)<!-- afflift:END -->
+-  14 [Looking For Housing/Rental and Dating Pay Per Call offer](https://afflift.com/f/threads/looking-for-housing-rental-and-dating-pay-per-call-offer.11798/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
