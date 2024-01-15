@@ -39,7 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [DialUP Traffic and Proxy Traffic exclude both?](https://afflift.com/f/threads/dialup-traffic-and-proxy-traffic-exclude-both.12463/)
 -  15 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
+-  15 [Carrier Targeting when running WIFI Traffic?](https://afflift.com/f/threads/carrier-targeting-when-running-wifi-traffic.12462/)
 -  15 [postback bemob to propeller](https://afflift.com/f/threads/postback-bemob-to-propeller.12418/)
 -  15 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  15 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
@@ -48,9 +50,7 @@
 -  15 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  15 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)
--  15 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)
--  15 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
--  15 [The Best Affiliate Programs for Chinese New Year 2024](https://afflift.com/f/threads/the-best-affiliate-programs-for-chinese-new-year-2024.12458/)<!-- afflift:END -->
+-  15 [Journey to Profitability with affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-afflift-guides.10148/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
