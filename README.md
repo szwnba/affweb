@@ -17,7 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  12 [TikTok Shop上传商品的流程！](https://www.advertcn.com/thread-113648-1-1.html)<!-- advertcn1:END -->
+-  15 [新人报到](https://www.advertcn.com/thread-113663-1-1.html)
+-  15 [新人报到](https://www.advertcn.com/thread-113662-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
