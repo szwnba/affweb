@@ -38,10 +38,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
+-  15 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  14 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  14 [Who Sells RU Pops Now?](https://afflift.com/f/threads/who-sells-ru-pops-now.12451/)
--  14 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
--  14 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  14 [How much testing budget is required in Pop and Push Ad Campaign?](https://afflift.com/f/threads/how-much-testing-budget-is-required-in-pop-and-push-ad-campaign.12454/)
 -  14 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  14 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
