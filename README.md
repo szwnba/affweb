@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Who Sells RU Pops Now?](https://afflift.com/f/threads/who-sells-ru-pops-now.12451/)
 -  15 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  15 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)
 -  15 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
@@ -45,7 +46,6 @@
 -  15 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
 -  15 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  14 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  14 [Who Sells RU Pops Now?](https://afflift.com/f/threads/who-sells-ru-pops-now.12451/)
 -  14 [How much testing budget is required in Pop and Push Ad Campaign?](https://afflift.com/f/threads/how-much-testing-budget-is-required-in-pop-and-push-ad-campaign.12454/)
 -  14 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  14 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
