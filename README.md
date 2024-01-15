@@ -28,8 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  15 [请问您对在非洲进行iGaming的看法如何？](https://www.advertcn.com/thread-113669-1-1.html)
--  14 [bemob新建活动，打不开页面，有遇到过的没有](https://www.advertcn.com/thread-113661-1-1.html)<!-- advertcn3:END -->
+-  15 [请问您对在非洲进行iGaming的看法如何？](https://www.advertcn.com/thread-113669-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
