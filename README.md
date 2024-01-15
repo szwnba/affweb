@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  15 [新人报道](https://www.advertcn.com/thread-113670-1-1.html)
 -  15 [急！为何Facebook账户的广告购买和店铺后台出单数据有很大...](https://www.advertcn.com/thread-113666-1-1.html)
 -  15 [新人报到](https://www.advertcn.com/thread-113663-1-1.html)
 -  15 [新人报到](https://www.advertcn.com/thread-113662-1-1.html)<!-- advertcn1:END -->
