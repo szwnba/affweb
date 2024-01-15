@@ -23,7 +23,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  29 [Media Buy学习之路记录](https://www.advertcn.com/thread-113493-1-1.html)<!-- advertcn2:END -->
+-  15 [现在在跑mvas的offer,有跑这类 offer 的大哥吗](https://www.advertcn.com/thread-113665-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
