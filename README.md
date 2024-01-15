@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [First FA with ClickDealer X PA #PA23](https://afflift.com/f/threads/first-fa-with-clickdealer-x-pa-pa23.11680/)
+-  15 [🏆 Peak Award Winners for 2023](https://afflift.com/f/threads/%F0%9F%8F%86-peak-award-winners-for-2023.12329/)
+-  15 [START HERE - The Beginner’s Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-the-beginner%E2%80%99s-guide-to-affiliate-marketing.12310/)
+-  15 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
 -  15 [Who Sells RU Pops Now?](https://afflift.com/f/threads/who-sells-ru-pops-now.12451/)
+-  15 [How much testing budget is required in Pop and Push Ad Campaign?](https://afflift.com/f/threads/how-much-testing-budget-is-required-in-pop-and-push-ad-campaign.12454/)
 -  15 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  15 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)
 -  15 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
 -  15 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  15 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
--  15 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
--  14 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  14 [How much testing budget is required in Pop and Push Ad Campaign?](https://afflift.com/f/threads/how-much-testing-budget-is-required-in-pop-and-push-ad-campaign.12454/)
--  14 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  14 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  14 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  15 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
