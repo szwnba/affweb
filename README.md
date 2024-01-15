@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  15 [First FA with ClickDealer X PA #PA23](https://afflift.com/f/threads/first-fa-with-clickdealer-x-pa-pa23.11680/)
 -  15 [🏆 Peak Award Winners for 2023](https://afflift.com/f/threads/%F0%9F%8F%86-peak-award-winners-for-2023.12329/)
 -  15 [START HERE - The Beginner’s Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-the-beginner%E2%80%99s-guide-to-affiliate-marketing.12310/)
@@ -48,8 +49,7 @@
 -  15 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)
 -  15 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
 -  15 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  15 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
--  15 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)<!-- afflift:END -->
+-  15 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
