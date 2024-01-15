@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Journey to Profitability with Popads - How much can be optimised ?](https://afflift.com/f/threads/journey-to-profitability-with-popads-how-much-can-be-optimised.12464/)
 -  15 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  15 [DialUP Traffic and Proxy Traffic exclude both?](https://afflift.com/f/threads/dialup-traffic-and-proxy-traffic-exclude-both.12463/)
 -  15 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
@@ -49,8 +50,7 @@
 -  15 [How to Filter Fake Traffic &quot;Bots&quot; That mess your tracking statistics.](https://afflift.com/f/threads/how-to-filter-fake-traffic-bots-that-mess-your-tracking-statistics.10848/)
 -  15 [Smartlink recommendations](https://afflift.com/f/threads/smartlink-recommendations.12456/)
 -  15 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
--  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  15 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)<!-- afflift:END -->
+-  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
