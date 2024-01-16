@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  16 [Google广告类型大盘点！！看这一篇就够了！](https://www.advertcn.com/thread-113674-1-1.html)
--  15 [新人报道](https://www.advertcn.com/thread-113670-1-1.html)<!-- advertcn1:END -->
+-  16 [Google广告类型大盘点！！看这一篇就够了！](https://www.advertcn.com/thread-113674-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
