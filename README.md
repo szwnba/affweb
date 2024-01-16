@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [📈 Tracking performance per zone using Google Analytics](https://afflift.com/f/threads/%F0%9F%93%88-tracking-performance-per-zone-using-google-analytics.12307/)
 -  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  16 [7000% ROI campaign](https://afflift.com/f/threads/7000-roi-campaign.12469/)
 -  16 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
@@ -50,8 +51,7 @@
 -  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  16 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  16 [postback bemob to propeller](https://afflift.com/f/threads/postback-bemob-to-propeller.12418/)
--  16 [DialUP Traffic and Proxy Traffic exclude both?](https://afflift.com/f/threads/dialup-traffic-and-proxy-traffic-exclude-both.12463/)
--  16 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)<!-- afflift:END -->
+-  16 [DialUP Traffic and Proxy Traffic exclude both?](https://afflift.com/f/threads/dialup-traffic-and-proxy-traffic-exclude-both.12463/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
