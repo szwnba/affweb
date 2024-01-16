@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  16 [7000% ROI campaign](https://afflift.com/f/threads/7000-roi-campaign.12469/)
--  16 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  16 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  16 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
+-  16 [Introducing the Beginners Course 2.0](https://afflift.com/f/threads/introducing-the-beginners-course-2-0.12432/)
+-  16 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
+-  16 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
+-  16 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  16 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  16 [postback bemob to propeller](https://afflift.com/f/threads/postback-bemob-to-propeller.12418/)
--  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  16 [DialUP Traffic and Proxy Traffic exclude both?](https://afflift.com/f/threads/dialup-traffic-and-proxy-traffic-exclude-both.12463/)
--  16 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
--  16 [Top 10 Tips for Increasing Click-Through Rates of Search and Display Ads in Google Ads](https://afflift.com/f/threads/top-10-tips-for-increasing-click-through-rates-of-search-and-display-ads-in-google-ads.12468/)
--  16 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  16 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
