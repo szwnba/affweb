@@ -27,6 +27,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  16 [wp独立站如何调整加购和立即购买按钮对齐](https://www.advertcn.com/thread-113677-1-1.html)
+-  16 [这个独立站是用的什么插件](https://www.advertcn.com/thread-113676-1-1.html)
 -  15 [请问您对在非洲进行iGaming的看法如何？](https://www.advertcn.com/thread-113669-1-1.html)<!-- advertcn3:END -->
 
 
