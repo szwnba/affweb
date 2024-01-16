@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
+-  16 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
+-  16 [Top 10 Tips for Increasing Click-Through Rates of Search and Display Ads in Google Ads](https://afflift.com/f/threads/top-10-tips-for-increasing-click-through-rates-of-search-and-display-ads-in-google-ads.12468/)
+-  16 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  16 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  16 [ApproachX - 30% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-30-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  16 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  16 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
 -  16 [DialUP Traffic and Proxy Traffic exclude both?](https://afflift.com/f/threads/dialup-traffic-and-proxy-traffic-exclude-both.12463/)
--  16 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  16 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  16 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
 -  16 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  16 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
--  16 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
--  16 [Carrier Targeting when running WIFI Traffic?](https://afflift.com/f/threads/carrier-targeting-when-running-wifi-traffic.12462/)<!-- afflift:END -->
+-  16 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
