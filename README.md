@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [💸 Adcash Promo Code for 2024! 💸](https://afflift.com/f/threads/%F0%9F%92%B8-adcash-promo-code-for-2024-%F0%9F%92%B8.12459/)
+-  16 [How to Filter Fake Traffic &quot;Bots&quot; That mess your tracking statistics.](https://afflift.com/f/threads/how-to-filter-fake-traffic-bots-that-mess-your-tracking-statistics.10848/)
+-  16 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
+-  16 [After changing the Binom domain, I am not receiving callbacks from CPAmatica.](https://afflift.com/f/threads/after-changing-the-binom-domain-i-am-not-receiving-callbacks-from-cpamatica.12446/)
+-  16 [Inquiry on Google Ads Courses: Experiences and Recommendations](https://afflift.com/f/threads/inquiry-on-google-ads-courses-experiences-and-recommendations.12471/)
+-  16 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
+-  16 [🔥 Mega post of Anstrex Landing pages 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-mega-post-of-anstrex-landing-pages-%F0%9F%94%A5.6125/)
+-  16 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
+-  16 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
 -  16 [7000% ROI campaign](https://afflift.com/f/threads/7000-roi-campaign.12469/)
 -  16 [Looking for direct nutra adv / factories for white label](https://afflift.com/f/threads/looking-for-direct-nutra-adv-factories-for-white-label.12470/)
--  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  16 [📈 Tracking performance per zone using Google Analytics](https://afflift.com/f/threads/%F0%9F%93%88-tracking-performance-per-zone-using-google-analytics.12307/)
--  16 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
--  16 [Introducing the Beginners Course 2.0](https://afflift.com/f/threads/introducing-the-beginners-course-2-0.12432/)
--  16 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
--  16 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
--  16 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  16 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  16 [postback bemob to propeller](https://afflift.com/f/threads/postback-bemob-to-propeller.12418/)<!-- afflift:END -->
+-  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
