@@ -54,4 +54,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  14 [CES 2024 亮点回顾：硬件软件两开花](https://sspai.com/post/85807)<!-- sspai:END -->
+-  16 [原理、对策与产品：聊聊牙齿美白两三事](https://sspai.com/prime/story/teeth-whitening)<!-- sspai:END -->
