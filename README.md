@@ -37,6 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [After changing the Binom domain, I am not receiving callbacks from CPAmatica.](https://afflift.com/f/threads/after-changing-the-binom-domain-i-am-not-receiving-callbacks-from-cpamatica.12446/)
+-  16 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
+-  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
+-  16 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  15 [Journey to Profitability with Popads - How much can be optimised ?](https://afflift.com/f/threads/journey-to-profitability-with-popads-how-much-can-be-optimised.12464/)
 -  15 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
 -  15 [DialUP Traffic and Proxy Traffic exclude both?](https://afflift.com/f/threads/dialup-traffic-and-proxy-traffic-exclude-both.12463/)
@@ -44,11 +48,7 @@
 -  15 [Carrier Targeting when running WIFI Traffic?](https://afflift.com/f/threads/carrier-targeting-when-running-wifi-traffic.12462/)
 -  15 [postback bemob to propeller](https://afflift.com/f/threads/postback-bemob-to-propeller.12418/)
 -  15 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  15 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  15 [How to Filter Fake Traffic &quot;Bots&quot; That mess your tracking statistics.](https://afflift.com/f/threads/how-to-filter-fake-traffic-bots-that-mess-your-tracking-statistics.10848/)
--  15 [Smartlink recommendations](https://afflift.com/f/threads/smartlink-recommendations.12456/)
--  15 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
--  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)<!-- afflift:END -->
+-  15 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
