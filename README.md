@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [DialUP Traffic and Proxy Traffic exclude both?](https://afflift.com/f/threads/dialup-traffic-and-proxy-traffic-exclude-both.12463/)
+-  16 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  16 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
+-  16 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  16 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
 -  16 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
 -  16 [Propush.me](https://afflift.com/f/threads/propush-me.12367/)
--  16 [DialUP Traffic and Proxy Traffic exclude both?](https://afflift.com/f/threads/dialup-traffic-and-proxy-traffic-exclude-both.12463/)
 -  16 [Carrier Targeting when running WIFI Traffic?](https://afflift.com/f/threads/carrier-targeting-when-running-wifi-traffic.12462/)
 -  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  16 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)
 -  16 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
--  16 [🌟2023 Review and met 2024--A newbie’s annual summary🌟](https://afflift.com/f/threads/%F0%9F%8C%9F2023-review-and-met-2024-a-newbie%E2%80%99s-annual-summary%F0%9F%8C%9F.12427/)
--  16 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  16 [After changing the Binom domain, I am not receiving callbacks from CPAmatica.](https://afflift.com/f/threads/after-changing-the-binom-domain-i-am-not-receiving-callbacks-from-cpamatica.12446/)<!-- afflift:END -->
+-  16 [🌟2023 Review and met 2024--A newbie’s annual summary🌟](https://afflift.com/f/threads/%F0%9F%8C%9F2023-review-and-met-2024-a-newbie%E2%80%99s-annual-summary%F0%9F%8C%9F.12427/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
