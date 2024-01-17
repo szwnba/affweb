@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
 -  17 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
 -  16 [Adsense issue with account approval - not a site problem](https://afflift.com/f/threads/adsense-issue-with-account-approval-not-a-site-problem.12472/)
 -  16 [📈 Tracking performance per zone using Google Analytics](https://afflift.com/f/threads/%F0%9F%93%88-tracking-performance-per-zone-using-google-analytics.12307/)
@@ -50,8 +51,7 @@
 -  16 [How to Filter Fake Traffic &quot;Bots&quot; That mess your tracking statistics.](https://afflift.com/f/threads/how-to-filter-fake-traffic-bots-that-mess-your-tracking-statistics.10848/)
 -  16 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  16 [After changing the Binom domain, I am not receiving callbacks from CPAmatica.](https://afflift.com/f/threads/after-changing-the-binom-domain-i-am-not-receiving-callbacks-from-cpamatica.12446/)
--  16 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
--  16 [🔥 Mega post of Anstrex Landing pages 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-mega-post-of-anstrex-landing-pages-%F0%9F%94%A5.6125/)<!-- afflift:END -->
+-  16 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
