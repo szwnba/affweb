@@ -44,9 +44,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
+-  17 [💸 Adcash Promo Code for 2024! 💸](https://afflift.com/f/threads/%F0%9F%92%B8-adcash-promo-code-for-2024-%F0%9F%92%B8.12459/)
 -  17 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
 -  17 [Inquiry on Google Ads Courses: Experiences and Recommendations](https://afflift.com/f/threads/inquiry-on-google-ads-courses-experiences-and-recommendations.12471/)
--  17 [💸 Adcash Promo Code for 2024! 💸](https://afflift.com/f/threads/%F0%9F%92%B8-adcash-promo-code-for-2024-%F0%9F%92%B8.12459/)
 -  17 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  17 [The Anatomy of a High Converting VSL Lander on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-vsl-lander-on-native.12415/)
 -  17 [The setup of postback link tokens for Advertizer in Binom.](https://afflift.com/f/threads/the-setup-of-postback-link-tokens-for-advertizer-in-binom.12474/)
@@ -54,8 +55,7 @@
 -  17 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  17 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  17 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  17 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  17 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)<!-- afflift:END -->
+-  17 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
