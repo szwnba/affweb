@@ -42,6 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
+-  17 [The setup of postback link tokens for Advertizer in Binom.](https://afflift.com/f/threads/the-setup-of-postback-link-tokens-for-advertizer-in-binom.12474/)
 -  17 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
 -  17 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
 -  16 [Adsense issue with account approval - not a site problem](https://afflift.com/f/threads/adsense-issue-with-account-approval-not-a-site-problem.12472/)
@@ -51,9 +53,7 @@
 -  16 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  16 [💸 Adcash Promo Code for 2024! 💸](https://afflift.com/f/threads/%F0%9F%92%B8-adcash-promo-code-for-2024-%F0%9F%92%B8.12459/)
 -  16 [How to Filter Fake Traffic &quot;Bots&quot; That mess your tracking statistics.](https://afflift.com/f/threads/how-to-filter-fake-traffic-bots-that-mess-your-tracking-statistics.10848/)
--  16 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  16 [After changing the Binom domain, I am not receiving callbacks from CPAmatica.](https://afflift.com/f/threads/after-changing-the-binom-domain-i-am-not-receiving-callbacks-from-cpamatica.12446/)
--  16 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)<!-- afflift:END -->
+-  16 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
