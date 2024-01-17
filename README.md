@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  17 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  17 [The Anatomy of a High Converting VSL Lander on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-vsl-lander-on-native.12415/)
--  17 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  17 [The setup of postback link tokens for Advertizer in Binom.](https://afflift.com/f/threads/the-setup-of-postback-link-tokens-for-advertizer-in-binom.12474/)
+-  17 [Adsense issue with account approval - not a site problem](https://afflift.com/f/threads/adsense-issue-with-account-approval-not-a-site-problem.12472/)
+-  17 [The Anatomy of a High Converting VSL Lander on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-vsl-lander-on-native.12415/)
+-  17 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
+-  17 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  17 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  17 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  17 [Payments in USDT TRC20 - how to setup](https://afflift.com/f/threads/payments-in-usdt-trc20-how-to-setup.12435/)
 -  17 [Is the survey not working at Propellerads?](https://afflift.com/f/threads/is-the-survey-not-working-at-propellerads.12444/)
 -  17 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
 -  17 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  17 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  17 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  17 [Need some help for offer test](https://afflift.com/f/threads/need-some-help-for-offer-test.12476/)
--  17 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
+-  17 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
