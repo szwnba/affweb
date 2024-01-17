@@ -30,6 +30,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  17 [谁有clickbank联盟的截图，急，在线等](https://www.advertcn.com/thread-113700-1-1.html)
 -  17 [论坛图片无法显示](https://www.advertcn.com/thread-113699-1-1.html)
 -  17 [斗篷是只用到审核人员身上就行吗](https://www.advertcn.com/thread-113695-1-1.html)
 -  17 [/dev/vda1占用100%，请教解决办法](https://www.advertcn.com/thread-113692-1-1.html)<!-- advertcn3:END -->
