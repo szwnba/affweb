@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  18 [新人报道](https://www.advertcn.com/thread-113704-1-1.html)
--  18 [如何优化亚马逊SEO，提升商品排名？](https://www.advertcn.com/thread-113702-1-1.html)
--  17 [新人报到](https://www.advertcn.com/thread-113697-1-1.html)<!-- advertcn1:END -->
+-  18 [如何优化亚马逊SEO，提升商品排名？](https://www.advertcn.com/thread-113702-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
