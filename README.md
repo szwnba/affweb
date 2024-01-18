@@ -30,6 +30,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  18 [Google政策更新|“Casino和游戏”、“加密货币及相关产品”...](https://www.advertcn.com/thread-113703-1-1.html)
 -  17 [wp独立站怎么生成一个测试购买事件](https://www.advertcn.com/thread-113701-1-1.html)
 -  17 [谁有clickbank联盟的截图，急，在线等](https://www.advertcn.com/thread-113700-1-1.html)
 -  17 [论坛图片无法显示](https://www.advertcn.com/thread-113699-1-1.html)
