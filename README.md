@@ -28,13 +28,13 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  18 [想购买guest post](https://www.advertcn.com/thread-113706-1-1.html)
 -  18 [来看看惰惰着急的样子](https://www.advertcn.com/thread-113705-1-1.html)
 -  18 [Google政策更新|“Casino和游戏”、“加密货币及相关产品”...](https://www.advertcn.com/thread-113703-1-1.html)
 -  17 [wp独立站怎么生成一个测试购买事件](https://www.advertcn.com/thread-113701-1-1.html)
 -  17 [谁有clickbank联盟的截图，急，在线等](https://www.advertcn.com/thread-113700-1-1.html)
 -  17 [论坛图片无法显示](https://www.advertcn.com/thread-113699-1-1.html)
--  17 [斗篷是只用到审核人员身上就行吗](https://www.advertcn.com/thread-113695-1-1.html)
--  17 [/dev/vda1占用100%，请教解决办法](https://www.advertcn.com/thread-113692-1-1.html)<!-- advertcn3:END -->
+-  17 [斗篷是只用到审核人员身上就行吗](https://www.advertcn.com/thread-113695-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
