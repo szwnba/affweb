@@ -45,6 +45,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [LP multi-language setting problem](https://afflift.com/f/threads/lp-multi-language-setting-problem.12478/)
+-  18 [🎉Kick Start Your New Year With EZmob And Get 💲50 For FREE](https://afflift.com/f/threads/%F0%9F%8E%89kick-start-your-new-year-with-ezmob-and-get-%F0%9F%92%B250-for-free.12431/)
+-  18 [Adport, best CPC/CPM network!](https://afflift.com/f/threads/adport-best-cpc-cpm-network.11907/)
 -  18 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
 -  18 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  18 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
@@ -53,10 +56,7 @@
 -  18 [The Anatomy of a High Converting VSL Lander on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-vsl-lander-on-native.12415/)
 -  18 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  17 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
--  17 [Who is going to TES Cascais 2024?](https://afflift.com/f/threads/who-is-going-to-tes-cascais-2024.12477/)
--  17 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  17 [💸 Adcash Promo Code for 2024! 💸](https://afflift.com/f/threads/%F0%9F%92%B8-adcash-promo-code-for-2024-%F0%9F%92%B8.12459/)
--  17 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)<!-- afflift:END -->
+-  17 [Who is going to TES Cascais 2024?](https://afflift.com/f/threads/who-is-going-to-tes-cascais-2024.12477/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
