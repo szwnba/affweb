@@ -43,6 +43,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
+-  18 [Gpt 4 Turbo and DALL-E 3 free with Copilot](https://afflift.com/f/threads/gpt-4-turbo-and-dall-e-3-free-with-copilot.12479/)
 -  18 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
 -  18 [The setup of postback link tokens for Advertizer in Binom.](https://afflift.com/f/threads/the-setup-of-postback-link-tokens-for-advertizer-in-binom.12474/)
 -  18 [Wordpress Pagination Plugin of your choice?](https://afflift.com/f/threads/wordpress-pagination-plugin-of-your-choice.12481/)
@@ -52,8 +54,6 @@
 -  18 [Adport, best CPC/CPM network!](https://afflift.com/f/threads/adport-best-cpc-cpm-network.11907/)
 -  18 [How to set up Adscore?](https://afflift.com/f/threads/how-to-set-up-adscore.12480/)
 -  18 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
--  18 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  18 [Gpt 4 Turbo and DALL-E 3 free with Copilot](https://afflift.com/f/threads/gpt-4-turbo-and-dall-e-3-free-with-copilot.12479/)
 -  18 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)<!-- afflift:END -->
 
 ### 少数派
