@@ -44,9 +44,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
 -  18 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  17 [The Anatomy of a High Converting VSL Lander on Native](https://afflift.com/f/threads/the-anatomy-of-a-high-converting-vsl-lander-on-native.12415/)
--  17 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
 -  17 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  17 [Who is going to TES Cascais 2024?](https://afflift.com/f/threads/who-is-going-to-tes-cascais-2024.12477/)
 -  17 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
