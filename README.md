@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  18 [想买一些棋牌游戏类的马甲包 过审用](https://www.advertcn.com/thread-113708-1-1.html)
 -  18 [想购买guest post](https://www.advertcn.com/thread-113706-1-1.html)
 -  18 [来看看惰惰着急的样子](https://www.advertcn.com/thread-113705-1-1.html)
 -  18 [Google政策更新|“Casino和游戏”、“加密货币及相关产品”...](https://www.advertcn.com/thread-113703-1-1.html)
