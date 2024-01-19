@@ -52,4 +52,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/85939)
 -  19 [买点年货送人送己，少数派的年货节来了](https://sspai.com/post/85933)<!-- sspai:END -->
