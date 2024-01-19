@@ -17,9 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  18 [Google应用广告系列（APP）看这一篇就够啦！！](https://www.advertcn.com/thread-113715-1-1.html)
--  18 [新人报道](https://www.advertcn.com/thread-113704-1-1.html)
--  18 [如何优化亚马逊SEO，提升商品排名？](https://www.advertcn.com/thread-113702-1-1.html)<!-- advertcn1:END -->
+-  18 [Google应用广告系列（APP）看这一篇就够啦！！](https://www.advertcn.com/thread-113715-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
