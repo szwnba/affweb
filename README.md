@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
 -  18 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  18 [Wordpress Pagination Plugin of your choice?](https://afflift.com/f/threads/wordpress-pagination-plugin-of-your-choice.12481/)
 -  18 [STEP 12 - First Results](https://afflift.com/f/threads/step-12-first-results.12323/)
@@ -52,8 +53,7 @@
 -  18 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
 -  18 [Step 8 - Create Your BeMob Campaign&lpar;s&rpar;](https://afflift.com/f/threads/step-8-create-your-bemob-campaign-s.7479/)
 -  18 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
--  18 [A Word About Landing Pages](https://afflift.com/f/threads/a-word-about-landing-pages.6908/)
--  18 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  18 [A Word About Landing Pages](https://afflift.com/f/threads/a-word-about-landing-pages.6908/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
