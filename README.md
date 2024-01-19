@@ -28,8 +28,7 @@
 -  18 [网站绑定pp后测试付款出现这个警告怎么办](https://www.advertcn.com/thread-113716-1-1.html)
 -  18 [linode真是事儿妈，加个IP要提交技术需要可行性报告？](https://www.advertcn.com/thread-113712-1-1.html)
 -  18 [想买一些棋牌游戏类的马甲包 过审用](https://www.advertcn.com/thread-113708-1-1.html)
--  18 [想购买guest post](https://www.advertcn.com/thread-113706-1-1.html)
--  18 [Google政策更新|“Casino和游戏”、“加密货币及相关产品”...](https://www.advertcn.com/thread-113703-1-1.html)<!-- advertcn3:END -->
+-  18 [想购买guest post](https://www.advertcn.com/thread-113706-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
