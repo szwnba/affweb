@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
+-  19 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  19 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
--  19 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
--  19 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
--  19 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  19 [Gpt 4 Turbo and DALL-E 3 free with Copilot](https://afflift.com/f/threads/gpt-4-turbo-and-dall-e-3-free-with-copilot.12479/)
--  19 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/)
--  19 [How to set up Adscore?](https://afflift.com/f/threads/how-to-set-up-adscore.12480/)
--  19 [How to decide good GEOs in Ad Platforms?](https://afflift.com/f/threads/how-to-decide-good-geos-in-ad-platforms.12488/)
--  19 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  19 [Wordpress Pagination Plugin of your choice?](https://afflift.com/f/threads/wordpress-pagination-plugin-of-your-choice.12481/)
--  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  19 [New Member](https://afflift.com/f/threads/new-member.12486/)<!-- afflift:END -->
+-  19 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
+-  19 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
+-  19 [New Member](https://afflift.com/f/threads/new-member.12486/)
+-  19 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
+-  19 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
+-  19 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)
+-  19 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
+-  19 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
