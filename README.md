@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Adsense approval question](https://afflift.com/f/threads/adsense-approval-question.12489/)
+-  19 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  19 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  19 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  19 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
@@ -48,9 +50,7 @@
 -  19 [New Member](https://afflift.com/f/threads/new-member.12486/)
 -  19 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
 -  19 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  19 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)
--  19 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
--  19 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)<!-- afflift:END -->
+-  19 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
