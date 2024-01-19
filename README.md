@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [How to decide good GEOs in Ad Platforms?](https://afflift.com/f/threads/how-to-decide-good-geos-in-ad-platforms.12488/)
+-  19 [Wordpress Pagination Plugin of your choice?](https://afflift.com/f/threads/wordpress-pagination-plugin-of-your-choice.12481/)
+-  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  19 [New Member](https://afflift.com/f/threads/new-member.12486/)
+-  19 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  19 [ZoogVPN Affiliate Program | Up to 80% from each sale | Full support | Custom creatives](https://afflift.com/f/threads/zoogvpn-affiliate-program-up-to-80-from-each-sale-full-support-custom-creatives.11976/)
 -  19 [ZoogVPN Affiliate Program Review](https://afflift.com/f/threads/zoogvpn-affiliate-program-review.12487/)
--  19 [New Member](https://afflift.com/f/threads/new-member.12486/)
 -  19 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
 -  19 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 -  19 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  19 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
--  19 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
--  19 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  19 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
--  19 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)<!-- afflift:END -->
+-  19 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
