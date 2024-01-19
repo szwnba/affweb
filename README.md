@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
 -  19 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
 -  19 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
 -  19 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
@@ -49,8 +50,7 @@
 -  19 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  19 [Wordpress Pagination Plugin of your choice?](https://afflift.com/f/threads/wordpress-pagination-plugin-of-your-choice.12481/)
 -  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  19 [New Member](https://afflift.com/f/threads/new-member.12486/)
--  19 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)<!-- afflift:END -->
+-  19 [New Member](https://afflift.com/f/threads/new-member.12486/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
