@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
+-  19 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
+-  19 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
+-  19 [Gpt 4 Turbo and DALL-E 3 free with Copilot](https://afflift.com/f/threads/gpt-4-turbo-and-dall-e-3-free-with-copilot.12479/)
+-  19 [ChatGPT on affLIFT &lpar;Private Message @Einstein&rpar;](https://afflift.com/f/threads/chatgpt-on-afflift-private-message-einstein.10922/)
+-  19 [How to set up Adscore?](https://afflift.com/f/threads/how-to-set-up-adscore.12480/)
 -  19 [How to decide good GEOs in Ad Platforms?](https://afflift.com/f/threads/how-to-decide-good-geos-in-ad-platforms.12488/)
+-  19 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  19 [Wordpress Pagination Plugin of your choice?](https://afflift.com/f/threads/wordpress-pagination-plugin-of-your-choice.12481/)
 -  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  19 [New Member](https://afflift.com/f/threads/new-member.12486/)
--  19 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  19 [ZoogVPN Affiliate Program | Up to 80% from each sale | Full support | Custom creatives](https://afflift.com/f/threads/zoogvpn-affiliate-program-up-to-80-from-each-sale-full-support-custom-creatives.11976/)
--  19 [ZoogVPN Affiliate Program Review](https://afflift.com/f/threads/zoogvpn-affiliate-program-review.12487/)
--  19 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
--  19 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  19 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  19 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)<!-- afflift:END -->
+-  19 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
