@@ -26,8 +26,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  19 [搞欺诈的玩意妈死了，害得我注册不了](https://www.advertcn.com/thread-113724-1-1.html)
--  19 [兄弟们，这下可热闹了~](https://www.advertcn.com/thread-113720-1-1.html)
--  18 [网站绑定pp后测试付款出现这个警告怎么办](https://www.advertcn.com/thread-113716-1-1.html)<!-- advertcn3:END -->
+-  19 [兄弟们，这下可热闹了~](https://www.advertcn.com/thread-113720-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
