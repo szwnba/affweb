@@ -26,7 +26,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  19 [倪什么明要去踩缝纫机了，你们有什么要祝福他的嘛](https://www.advertcn.com/thread-113729-1-1.html)
--  19 [nutra联盟来聊，谁家有这个offer](https://www.advertcn.com/thread-113728-1-1.html)
+-  19 [nutra联盟来聊，谁家有这2个offer](https://www.advertcn.com/thread-113728-1-1.html)
 -  19 [搞欺诈的玩意妈死了，害得我注册不了](https://www.advertcn.com/thread-113724-1-1.html)
 -  19 [兄弟们，这下可热闹了~](https://www.advertcn.com/thread-113720-1-1.html)<!-- advertcn3:END -->
 
