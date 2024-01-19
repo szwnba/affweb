@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  16 [原理、对策与产品：聊聊牙齿美白两三事](https://sspai.com/prime/story/teeth-whitening)<!-- sspai:END -->
+-  19 [买点年货送人送己，少数派的年货节来了](https://sspai.com/post/85933)<!-- sspai:END -->
