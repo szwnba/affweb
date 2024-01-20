@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
+-  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)
+-  19 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
 -  19 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  19 [Adsense approval question](https://afflift.com/f/threads/adsense-approval-question.12489/)
 -  19 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  19 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  19 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
--  19 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
 -  19 [Gpt 4 Turbo and DALL-E 3 free with Copilot](https://afflift.com/f/threads/gpt-4-turbo-and-dall-e-3-free-with-copilot.12479/)
 -  19 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  19 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  19 [New Member](https://afflift.com/f/threads/new-member.12486/)
--  19 [Stuck with optimisation](https://afflift.com/f/threads/stuck-with-optimisation.12452/)
--  19 [Greetings!](https://afflift.com/f/threads/greetings.12450/)<!-- afflift:END -->
+-  19 [New Member](https://afflift.com/f/threads/new-member.12486/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
