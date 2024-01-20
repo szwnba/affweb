@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)
+-  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)
+-  20 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
+-  20 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
 -  20 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
 -  20 [chrome will abolish cookies in q1 2025](https://afflift.com/f/threads/chrome-will-abolish-cookies-in-q1-2025.12491/)
 -  20 [How to split test 2 trackers ? A cloud tracker VS a self-hosted one.](https://afflift.com/f/threads/how-to-split-test-2-trackers-a-cloud-tracker-vs-a-self-hosted-one.12492/)
--  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)
 -  20 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  20 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  20 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  20 [New Member](https://afflift.com/f/threads/new-member.12486/)
--  20 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
--  20 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
--  20 [Adsense approval question](https://afflift.com/f/threads/adsense-approval-question.12489/)
--  19 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)<!-- afflift:END -->
+-  20 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
