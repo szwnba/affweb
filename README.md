@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Boost your email ROI with these super simple tips!](https://afflift.com/f/threads/boost-your-email-roi-with-these-super-simple-tips.12495/)
 -  20 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)
 -  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)
 -  20 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
@@ -52,8 +53,7 @@
 -  20 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  20 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  20 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
--  20 [New Member](https://afflift.com/f/threads/new-member.12486/)
--  20 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)<!-- afflift:END -->
+-  20 [New Member](https://afflift.com/f/threads/new-member.12486/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
