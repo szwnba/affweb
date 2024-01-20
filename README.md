@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  18 [Google应用广告系列（APP）看这一篇就够啦！！](https://www.advertcn.com/thread-113715-1-1.html)<!-- advertcn1:END -->
+-  20 [IP关联会怎样？如何避免多个账号的IP关联？](https://www.advertcn.com/thread-113731-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
