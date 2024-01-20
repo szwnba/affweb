@@ -56,5 +56,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  20 [App+1 | 使用 Asciidoc 制作学术个人主页](https://sspai.com/post/85757)
--  19 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/85939)<!-- sspai:END -->
+-  20 [App+1 | 使用 Asciidoc 制作学术个人主页](https://sspai.com/post/85757)<!-- sspai:END -->
