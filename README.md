@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
 -  20 [Adsense approval question](https://afflift.com/f/threads/adsense-approval-question.12489/)
 -  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)
 -  20 [chrome will abolish cookies in q1 2025](https://afflift.com/f/threads/chrome-will-abolish-cookies-in-q1-2025.12491/)
@@ -50,8 +51,7 @@
 -  19 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  19 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  19 [Gpt 4 Turbo and DALL-E 3 free with Copilot](https://afflift.com/f/threads/gpt-4-turbo-and-dall-e-3-free-with-copilot.12479/)
--  19 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  19 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)<!-- afflift:END -->
+-  19 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
