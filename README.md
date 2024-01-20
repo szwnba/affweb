@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [New Member](https://afflift.com/f/threads/new-member.12486/)
 -  20 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  20 [How to split test 2 trackers ? A cloud tracker VS a self-hosted one.](https://afflift.com/f/threads/how-to-split-test-2-trackers-a-cloud-tracker-vs-a-self-hosted-one.12492/)
 -  20 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
@@ -51,8 +52,7 @@
 -  19 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
 -  19 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  19 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  19 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
--  19 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)<!-- afflift:END -->
+-  19 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
