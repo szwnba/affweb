@@ -29,8 +29,7 @@
 -  20 [现在谷歌上广告有什么解决办法 全是拒登这种提示](https://www.advertcn.com/thread-113739-1-1.html)
 -  20 [说倪叶明什么割韭菜的就是一场闹剧，该收场了吧](https://www.advertcn.com/thread-113738-1-1.html)
 -  20 [impact radius 联盟网站更改信息怎么填写，求助！！](https://www.advertcn.com/thread-113737-1-1.html)
--  19 [倪什么明要去踩缝纫机了，你们有什么要祝福他的嘛](https://www.advertcn.com/thread-113729-1-1.html)
--  19 [nutra联盟来聊，谁家有这2个offer](https://www.advertcn.com/thread-113728-1-1.html)<!-- advertcn3:END -->
+-  19 [倪什么明要去踩缝纫机了，你们有什么要祝福他的嘛](https://www.advertcn.com/thread-113729-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
