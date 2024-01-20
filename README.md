@@ -42,8 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  20 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)
+-  20 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  20 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  20 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  20 [New Member](https://afflift.com/f/threads/new-member.12486/)
