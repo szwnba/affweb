@@ -39,8 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  20 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
 -  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)
+-  20 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
 -  19 [Approach X Push Funnel Booster Test](https://afflift.com/f/threads/approach-x-push-funnel-booster-test.12448/)
 -  19 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  19 [Adsense approval question](https://afflift.com/f/threads/adsense-approval-question.12489/)
