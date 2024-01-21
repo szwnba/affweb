@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  21 [每到年底就有镰刀和韭菜的事，给大家拜个早年](https://www.advertcn.com/thread-113755-1-1.html)
 -  21 [提前休假过年了，送积分。](https://www.advertcn.com/thread-113752-1-1.html)
 -  21 [MB退坑,propellerads余额6折出](https://www.advertcn.com/thread-113751-1-1.html)
 -  21 [竞争对手在Google 买关键词广告，我该怎么办？](https://www.advertcn.com/thread-113748-1-1.html)
