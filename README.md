@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Verify Emails BEFORE They&#39;re Added To Your List](https://afflift.com/f/threads/verify-emails-before-theyre-added-to-your-list.8468/)
 -  21 [How to split test 2 trackers ? A cloud tracker VS a self-hosted one.](https://afflift.com/f/threads/how-to-split-test-2-trackers-a-cloud-tracker-vs-a-self-hosted-one.12492/)
 -  21 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  21 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
@@ -52,8 +53,7 @@
 -  20 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)
 -  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)
 -  20 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
--  20 [chrome will abolish cookies in q1 2025](https://afflift.com/f/threads/chrome-will-abolish-cookies-in-q1-2025.12491/)
--  20 [Greetings!](https://afflift.com/f/threads/greetings.12450/)<!-- afflift:END -->
+-  20 [chrome will abolish cookies in q1 2025](https://afflift.com/f/threads/chrome-will-abolish-cookies-in-q1-2025.12491/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
