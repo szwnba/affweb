@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  21 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  21 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
 -  21 [How to split test 2 trackers ? A cloud tracker VS a self-hosted one.](https://afflift.com/f/threads/how-to-split-test-2-trackers-a-cloud-tracker-vs-a-self-hosted-one.12492/)
@@ -52,8 +53,7 @@
 -  20 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
 -  20 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  20 [Boost your email ROI with these super simple tips!](https://afflift.com/f/threads/boost-your-email-roi-with-these-super-simple-tips.12495/)
--  20 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)
--  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)<!-- afflift:END -->
+-  20 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
