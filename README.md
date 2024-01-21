@@ -57,4 +57,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  20 [App+1 | 使用 Asciidoc 制作学术个人主页](https://sspai.com/post/85757)<!-- sspai:END -->
+-  21 [放轻松 | 放松身体，是一件值得专门花时间的事](https://sspai.com/post/85754)<!-- sspai:END -->
