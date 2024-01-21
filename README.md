@@ -42,9 +42,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [How to split test 2 trackers ? A cloud tracker VS a self-hosted one.](https://afflift.com/f/threads/how-to-split-test-2-trackers-a-cloud-tracker-vs-a-self-hosted-one.12492/)
 -  21 [TikTok Advertising Promotion &lpar;Coupon&rpar;](https://afflift.com/f/threads/tiktok-advertising-promotion-coupon.12497/)
 -  21 [Verify Emails BEFORE They&#39;re Added To Your List](https://afflift.com/f/threads/verify-emails-before-theyre-added-to-your-list.8468/)
--  21 [How to split test 2 trackers ? A cloud tracker VS a self-hosted one.](https://afflift.com/f/threads/how-to-split-test-2-trackers-a-cloud-tracker-vs-a-self-hosted-one.12492/)
 -  21 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  21 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
 -  20 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
