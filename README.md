@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  21 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
 -  21 [How to split test 2 trackers ? A cloud tracker VS a self-hosted one.](https://afflift.com/f/threads/how-to-split-test-2-trackers-a-cloud-tracker-vs-a-self-hosted-one.12492/)
 -  21 [TikTok Advertising Promotion &lpar;Coupon&rpar;](https://afflift.com/f/threads/tiktok-advertising-promotion-coupon.12497/)
@@ -53,8 +54,7 @@
 -  20 [Bye, Bye Push in 2024 🫡](https://afflift.com/f/threads/bye-bye-push-in-2024-%F0%9F%AB%A1.12258/)
 -  20 [Boost your email ROI with these super simple tips!](https://afflift.com/f/threads/boost-your-email-roi-with-these-super-simple-tips.12495/)
 -  20 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)
--  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)
--  20 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)<!-- afflift:END -->
+-  20 [Google indexed my site while still under development](https://afflift.com/f/threads/google-indexed-my-site-while-still-under-development.12490/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
