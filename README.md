@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  20 [新人报道](https://www.advertcn.com/thread-113742-1-1.html)
--  20 [多账号批量管理—如何解决账号关联和账号封禁？](https://www.advertcn.com/thread-113735-1-1.html)<!-- advertcn1:END -->
+-  20 [新人报道](https://www.advertcn.com/thread-113742-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
