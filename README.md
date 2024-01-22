@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Conversion Sharks Not Paying?](https://afflift.com/f/threads/conversion-sharks-not-paying.12442/)
 -  22 [Remember 7search?](https://afflift.com/f/threads/remember-7search.12505/)
 -  22 [chrome will abolish cookies in q1 2025](https://afflift.com/f/threads/chrome-will-abolish-cookies-in-q1-2025.12491/)
 -  22 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
@@ -49,8 +50,7 @@
 -  22 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)
 -  22 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  22 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  22 [Conversion Metrics](https://afflift.com/f/threads/conversion-metrics.12501/)
--  22 [New Member](https://afflift.com/f/threads/new-member.12486/)<!-- afflift:END -->
+-  22 [Conversion Metrics](https://afflift.com/f/threads/conversion-metrics.12501/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
