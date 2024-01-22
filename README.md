@@ -58,4 +58,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [派早报：Vision Pro 上架资讯汇总](https://sspai.com/post/85973)
 -  21 [放轻松 | 放松身体，是一件值得专门花时间的事](https://sspai.com/post/85754)<!-- sspai:END -->
