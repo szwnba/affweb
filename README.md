@@ -42,6 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
+-  22 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  22 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
 -  22 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)
 -  22 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
@@ -51,9 +53,7 @@
 -  22 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
 -  22 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  22 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)
--  22 [New Member](https://afflift.com/f/threads/new-member.12486/)
--  22 [TikTok Advertising Promotion &lpar;Coupon&rpar;](https://afflift.com/f/threads/tiktok-advertising-promotion-coupon.12497/)
--  21 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)<!-- afflift:END -->
+-  22 [New Member](https://afflift.com/f/threads/new-member.12486/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
