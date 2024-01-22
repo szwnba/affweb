@@ -41,11 +41,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  22 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
 -  22 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  22 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)
 -  22 [New Member](https://afflift.com/f/threads/new-member.12486/)
--  22 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  22 [TikTok Advertising Promotion &lpar;Coupon&rpar;](https://afflift.com/f/threads/tiktok-advertising-promotion-coupon.12497/)
 -  21 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)
 -  21 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
