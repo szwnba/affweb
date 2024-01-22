@@ -28,8 +28,7 @@
 -  22 [为遵守国际法规，这笔交易已被拒绝。](https://www.advertcn.com/thread-113766-1-1.html)
 -  22 [PC的流量谁要跑](https://www.advertcn.com/thread-113764-1-1.html)
 -  22 [价值68亿美元的金融市场分析报告](https://www.advertcn.com/thread-113763-1-1.html)
--  22 [王健林会在这个论坛发传单卖房吗？](https://www.advertcn.com/thread-113759-1-1.html)
--  21 [每到年底就有镰刀和韭菜的事，给大家拜个早年](https://www.advertcn.com/thread-113755-1-1.html)<!-- advertcn3:END -->
+-  22 [王健林会在这个论坛发传单卖房吗？](https://www.advertcn.com/thread-113759-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
