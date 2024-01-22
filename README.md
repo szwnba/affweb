@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
+-  22 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)
+-  22 [New Member](https://afflift.com/f/threads/new-member.12486/)
+-  22 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  22 [TikTok Advertising Promotion &lpar;Coupon&rpar;](https://afflift.com/f/threads/tiktok-advertising-promotion-coupon.12497/)
 -  21 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)
 -  21 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
 -  21 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  21 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  21 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  21 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
 -  21 [Hello everyone :&rpar;](https://afflift.com/f/threads/hello-everyone.12425/)
--  21 [New Member](https://afflift.com/f/threads/new-member.12486/)
--  21 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  21 [How much testing budget is required in Pop and Push Ad Campaign?](https://afflift.com/f/threads/how-much-testing-budget-is-required-in-pop-and-push-ad-campaign.12454/)
--  21 [How to decide good GEOs in Ad Platforms?](https://afflift.com/f/threads/how-to-decide-good-geos-in-ad-platforms.12488/)<!-- afflift:END -->
+-  21 [How much testing budget is required in Pop and Push Ad Campaign?](https://afflift.com/f/threads/how-much-testing-budget-is-required-in-pop-and-push-ad-campaign.12454/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
