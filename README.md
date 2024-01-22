@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  22 [Google视频广告如何优化？看着一篇就够了！](https://www.advertcn.com/thread-113765-1-1.html)
--  21 [新人报到](https://www.advertcn.com/thread-113754-1-1.html)<!-- advertcn1:END -->
+-  22 [Google视频广告如何优化？看着一篇就够了！](https://www.advertcn.com/thread-113765-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
