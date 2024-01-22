@@ -42,6 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)
+-  22 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  22 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  22 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
 -  22 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
@@ -51,9 +53,7 @@
 -  21 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)
 -  21 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
 -  21 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  21 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  21 [if you had $5k in free capital where would you start?](https://afflift.com/f/threads/if-you-had-5k-in-free-capital-where-would-you-start.12370/)
--  21 [Hello everyone :&rpar;](https://afflift.com/f/threads/hello-everyone.12425/)<!-- afflift:END -->
+-  21 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
