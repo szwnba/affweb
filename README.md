@@ -54,5 +54,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [无限循环：最独特的 Apple Store 上周永久停业，但它的故事不会就此了结](https://sspai.com/post/85883)
 -  22 [派早报：Vision Pro 上架资讯汇总](https://sspai.com/post/85973)
 -  21 [放轻松 | 放松身体，是一件值得专门花时间的事](https://sspai.com/post/85754)<!-- sspai:END -->
