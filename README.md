@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  22 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
 -  22 [High Performance with Auto-Generated Creatives for Software &amp; Utilities](https://afflift.com/f/threads/high-performance-with-auto-generated-creatives-for-software-utilities.12503/)
 -  22 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
@@ -51,8 +52,7 @@
 -  22 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  22 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  22 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  22 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  22 [A late intro!](https://afflift.com/f/threads/a-late-intro.12494/)<!-- afflift:END -->
+-  22 [Greetings!](https://afflift.com/f/threads/greetings.12450/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
