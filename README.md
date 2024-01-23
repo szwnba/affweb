@@ -39,7 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
 -  23 [Remember 7search?](https://afflift.com/f/threads/remember-7search.12505/)
+-  23 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
 -  23 [Pump Up the Volume – How to Scale a Profitable Campaign](https://afflift.com/f/threads/pump-up-the-volume-%E2%80%93-how-to-scale-a-profitable-campaign.4239/)
 -  23 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)
 -  23 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
@@ -48,9 +50,7 @@
 -  22 [chrome will abolish cookies in q1 2025](https://afflift.com/f/threads/chrome-will-abolish-cookies-in-q1-2025.12491/)
 -  22 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
 -  22 [Verify Emails BEFORE They&#39;re Added To Your List](https://afflift.com/f/threads/verify-emails-before-theyre-added-to-your-list.8468/)
--  22 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)
--  22 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  22 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)<!-- afflift:END -->
+-  22 [GG + PropellerAds Postback Help](https://afflift.com/f/threads/gg-propellerads-postback-help.12473/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
