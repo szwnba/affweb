@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
+-  23 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  23 [How to decide good GEOs in Ad Platforms?](https://afflift.com/f/threads/how-to-decide-good-geos-in-ad-platforms.12488/)
+-  23 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
 -  23 [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
--  23 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  23 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
+-  23 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  23 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
+-  23 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  23 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
 -  23 [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)
 -  23 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
--  23 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
--  23 [Remember 7search?](https://afflift.com/f/threads/remember-7search.12505/)
--  23 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
--  23 [Pump Up the Volume – How to Scale a Profitable Campaign](https://afflift.com/f/threads/pump-up-the-volume-%E2%80%93-how-to-scale-a-profitable-campaign.4239/)
--  23 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)<!-- afflift:END -->
+-  23 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
