@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  23 [Step-by-step guide for setting CPV One with CPA network and Traffic source](https://afflift.com/f/threads/step-by-step-guide-for-setting-cpv-one-with-cpa-network-and-traffic-source.12512/)
+-  23 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)
+-  23 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
+-  23 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
+-  23 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  23 [chrome will abolish cookies in q1 2025](https://afflift.com/f/threads/chrome-will-abolish-cookies-in-q1-2025.12491/)
+-  23 [Valid &lpar;restricted&rpar; Policy &lpar;Trademarks in Ad Text&rpar;](https://afflift.com/f/threads/valid-restricted-policy-trademarks-in-ad-text.12510/)
 -  23 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  23 [How to decide good GEOs in Ad Platforms?](https://afflift.com/f/threads/how-to-decide-good-geos-in-ad-platforms.12488/)
 -  23 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
--  23 [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
--  23 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
--  23 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  23 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
--  23 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  23 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
--  23 [📣 2022 offer, Insider info &amp; tips to succeed on Adcash + Ask Us Anything](https://afflift.com/f/threads/%F0%9F%93%A3-2022-offer-insider-info-tips-to-succeed-on-adcash-ask-us-anything.6750/)
--  23 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
--  23 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)<!-- afflift:END -->
+-  23 [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
