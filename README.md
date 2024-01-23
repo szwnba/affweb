@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
 -  23 [Sharing some Dating Landers](https://afflift.com/f/threads/sharing-some-dating-landers.10208/)
 -  23 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  23 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
@@ -47,8 +48,7 @@
 -  23 [Remember 7search?](https://afflift.com/f/threads/remember-7search.12505/)
 -  23 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
 -  23 [Pump Up the Volume – How to Scale a Profitable Campaign](https://afflift.com/f/threads/pump-up-the-volume-%E2%80%93-how-to-scale-a-profitable-campaign.4239/)
--  23 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)
--  23 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)<!-- afflift:END -->
+-  23 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
