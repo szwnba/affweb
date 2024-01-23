@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  23 [新人报道](https://www.advertcn.com/thread-113782-1-1.html)
 -  23 [新人报道](https://www.advertcn.com/thread-113781-1-1.html)
 -  23 [Wish防关联是什么？如何避免Wish违规封店？](https://www.advertcn.com/thread-113774-1-1.html)
 -  23 [Google 视频广告之VAC广告大解析！！！](https://www.advertcn.com/thread-113771-1-1.html)<!-- advertcn1:END -->
