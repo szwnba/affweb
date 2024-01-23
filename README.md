@@ -55,5 +55,4 @@
 -  23 [放轻松 | 摆脱碎片化，让放松触手可及](https://sspai.com/post/85763)
 -  23 [一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容](https://sspai.com/post/85816)
 -  23 [派早报：Apple 发布 iOS/iPadOS 17.3 与 macOS 14.3 等正式版](https://sspai.com/post/85997)
--  22 [派评 | 近期值得关注的 App](https://sspai.com/post/85988)
--  22 [树莓派 DIY 墨水屏相框完全指南](https://sspai.com/prime/story/tutorial-diy-eink-photoframe-with-rpi)<!-- sspai:END -->
+-  22 [派评 | 近期值得关注的 App](https://sspai.com/post/85988)<!-- sspai:END -->
