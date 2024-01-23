@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  23 [Google 视频广告之VAC广告大解析！！！](https://www.advertcn.com/thread-113771-1-1.html)
 -  22 [Google视频广告如何优化？看着一篇就够了！](https://www.advertcn.com/thread-113765-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
