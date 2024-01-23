@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [STACKED MARKETER Made $715,000 in 2023](https://afflift.com/f/threads/stacked-marketer-made-715-000-in-2023.12513/)
--  23 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  23 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
+-  23 [STACKED MARKETER Made $715,000 in 2023](https://afflift.com/f/threads/stacked-marketer-made-715-000-in-2023.12513/)
+-  23 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
+-  23 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
+-  23 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)
+-  23 [200 clicks, no conversions - push newbie!](https://afflift.com/f/threads/200-clicks-no-conversions-push-newbie.12216/)
+-  23 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  23 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  23 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  23 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  23 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
--  23 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  23 [High Performance with Auto-Generated Creatives for Software &amp; Utilities](https://afflift.com/f/threads/high-performance-with-auto-generated-creatives-for-software-utilities.12503/)
--  23 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  23 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  23 [[Case Study] Adsterra&#39;s Traffic on Play Regal Offer Yields Impressive 360% ROI](https://afflift.com/f/threads/case-study-adsterras-traffic-on-play-regal-offer-yields-impressive-360-roi.12484/)<!-- afflift:END -->
+-  23 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
