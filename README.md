@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Partner with Jumbleberry - Exclusive EU Keto Offer Inside - SE/DE/FR/NO/FI](https://afflift.com/f/threads/partner-with-jumbleberry-exclusive-eu-keto-offer-inside-se-de-fr-no-fi.12515/)
+-  23 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  23 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
+-  23 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
+-  23 [Smartlink recommendations](https://afflift.com/f/threads/smartlink-recommendations.12456/)
 -  23 [STACKED MARKETER Made $715,000 in 2023](https://afflift.com/f/threads/stacked-marketer-made-715-000-in-2023.12513/)
 -  23 [Just another Pops + Push Collection Follow Along](https://afflift.com/f/threads/just-another-pops-push-collection-follow-along.12183/)
 -  23 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
 -  23 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)
 -  23 [200 clicks, no conversions - push newbie!](https://afflift.com/f/threads/200-clicks-no-conversions-push-newbie.12216/)
 -  23 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  23 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  23 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  23 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  23 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
--  23 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  23 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
