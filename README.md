@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  23 [给你们看一个你们觉得违法但是一定合法的案例](https://www.advertcn.com/thread-113775-1-1.html)
--  22 [为遵守国际法规，这笔交易已被拒绝。](https://www.advertcn.com/thread-113766-1-1.html)<!-- advertcn3:END -->
+-  23 [给你们看一个你们觉得违法但是一定合法的案例](https://www.advertcn.com/thread-113775-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
