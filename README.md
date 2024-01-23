@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Propeller Survey Exit suddenly not available for account?](https://afflift.com/f/threads/propeller-survey-exit-suddenly-not-available-for-account.12236/)
+-  23 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
 -  23 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  23 [STACKED MARKETER Made $715,000 in 2023](https://afflift.com/f/threads/stacked-marketer-made-715-000-in-2023.12513/)
+-  23 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
+-  23 [[Case Study] Adsterra&#39;s Traffic on Play Regal Offer Yields Impressive 360% ROI](https://afflift.com/f/threads/case-study-adsterras-traffic-on-play-regal-offer-yields-impressive-360-roi.12484/)
 -  23 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
 -  23 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  23 [Step-by-step guide for setting CPV One with CPA network and Traffic source](https://afflift.com/f/threads/step-by-step-guide-for-setting-cpv-one-with-cpa-network-and-traffic-source.12512/)
 -  23 [Optimize w/ Less Ad Spend Using Micro-Conversions 🦄 🧙🏻‍♂️](https://afflift.com/f/threads/optimize-w-less-ad-spend-using-micro-conversions-%F0%9F%A6%84-%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.6404/)
 -  23 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
--  23 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
--  23 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  23 [chrome will abolish cookies in q1 2025](https://afflift.com/f/threads/chrome-will-abolish-cookies-in-q1-2025.12491/)
--  23 [Valid &lpar;restricted&rpar; Policy &lpar;Trademarks in Ad Text&rpar;](https://afflift.com/f/threads/valid-restricted-policy-trademarks-in-ad-text.12510/)
--  23 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  23 [How to decide good GEOs in Ad Platforms?](https://afflift.com/f/threads/how-to-decide-good-geos-in-ad-platforms.12488/)<!-- afflift:END -->
+-  23 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
