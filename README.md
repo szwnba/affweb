@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  09 [DuckDNS免费提供DDNS服务，支持duckdns.org子域名](https://51.ruyo.net/18593.html)<!-- ruyo:END -->
+-  23 [2024年公众号叒送价值6000元的定制微信红包封面](https://51.ruyo.net/18598.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
