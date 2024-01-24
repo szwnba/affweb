@@ -28,6 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  24 [Facebook产品更新|取消进阶赋能型智能购物广告和进阶赋能...](https://www.advertcn.com/thread-113784-1-1.html)
 -  23 [给你们看一个你们觉得违法但是一定合法的案例](https://www.advertcn.com/thread-113775-1-1.html)<!-- advertcn3:END -->
 
 
