@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [High Performance with Auto-Generated Creatives for Software &amp; Utilities](https://afflift.com/f/threads/high-performance-with-auto-generated-creatives-for-software-utilities.12503/)
 -  24 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  24 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)
+-  24 [922S5-Best ISP Proxy Service Provider? | Socks5/Http&lpar;s&rpar; Proxy List](https://afflift.com/f/threads/922s5-best-isp-proxy-service-provider-socks5-http-s-proxy-list.12117/)
+-  24 [Partner with Jumbleberry - Exclusive EU Keto Offer Inside - SE/DE/FR/NO/FI](https://afflift.com/f/threads/partner-with-jumbleberry-exclusive-eu-keto-offer-inside-se-de-fr-no-fi.12515/)
 -  24 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
 -  24 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  24 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
 -  24 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
 -  24 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
 -  24 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
--  24 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)
--  23 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)
--  23 [Conversion Sharks Not Paying?](https://afflift.com/f/threads/conversion-sharks-not-paying.12442/)
--  23 [STACKED MARKETER Made $715,000 in 2023](https://afflift.com/f/threads/stacked-marketer-made-715-000-in-2023.12513/)
--  23 [Partner with Jumbleberry - Exclusive EU Keto Offer Inside - SE/DE/FR/NO/FI](https://afflift.com/f/threads/partner-with-jumbleberry-exclusive-eu-keto-offer-inside-se-de-fr-no-fi.12515/)<!-- afflift:END -->
+-  23 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
