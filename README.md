@@ -29,6 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  24 [求还有做cod的类型的大佬聊聊](https://www.advertcn.com/thread-113796-1-1.html)
 -  24 [.Net 价格将在2024年2月1号普涨](https://www.advertcn.com/thread-113788-1-1.html)
 -  24 [这个社会人心难测](https://www.advertcn.com/thread-113787-1-1.html)
 -  24 [Facebook产品更新|取消进阶赋能型智能购物广告和进阶赋能...](https://www.advertcn.com/thread-113784-1-1.html)
