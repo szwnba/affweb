@@ -20,8 +20,7 @@
 -  24 [深度解读：Snapchat选品与竞价策略](https://www.advertcn.com/thread-113800-1-1.html)
 -  24 [新人报道](https://www.advertcn.com/thread-113791-1-1.html)
 -  24 [亚马逊、eBay、TikTok等平台的综合运营实用工具分享！](https://www.advertcn.com/thread-113785-1-1.html)
--  23 [新人报道](https://www.advertcn.com/thread-113782-1-1.html)
--  23 [新人报道](https://www.advertcn.com/thread-113781-1-1.html)<!-- advertcn1:END -->
+-  23 [新人报道](https://www.advertcn.com/thread-113782-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
