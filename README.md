@@ -45,18 +45,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
+-  24 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
+-  24 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
+-  24 [Campaign Segregation &amp; Duplication = Fraud?](https://afflift.com/f/threads/campaign-segregation-duplication-fraud.12519/)
 -  24 [AD Type](https://afflift.com/f/threads/ad-type.12518/)
 -  24 [Partners 1xBet – Top Betting &amp; Gambling Affiliate Program with 40%+ Conversion](https://afflift.com/f/threads/partners-1xbet-%E2%80%93-top-betting-gambling-affiliate-program-with-40-conversion.12328/)
 -  24 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
--  24 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
--  24 [Campaign Segregation &amp; Duplication = Fraud?](https://afflift.com/f/threads/campaign-segregation-duplication-fraud.12519/)
 -  24 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
 -  24 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
 -  24 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
 -  24 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  24 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  24 [STACKED MARKETER Made $715,000 in 2023](https://afflift.com/f/threads/stacked-marketer-made-715-000-in-2023.12513/)
--  24 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)<!-- afflift:END -->
+-  24 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
