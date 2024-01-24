@@ -59,5 +59,4 @@
 <!-- sspai:START -->
 -  24 [看完 Sam Altman 的斯坦福创业课，我学到了什么？](https://sspai.com/post/84988)
 -  24 [派早报：Apple 将为空间音频内容创作者提供版税补贴等](https://sspai.com/post/86018)
--  23 [社区速递 029 | 投影仪折腾、在看的书以及作者们的新玩意](https://sspai.com/post/86008)
--  23 [放轻松 | 摆脱碎片化，让放松触手可及](https://sspai.com/post/85763)<!-- sspai:END -->
+-  23 [社区速递 029 | 投影仪折腾、在看的书以及作者们的新玩意](https://sspai.com/post/86008)<!-- sspai:END -->
