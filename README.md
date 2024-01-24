@@ -46,6 +46,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
+-  24 [AD Type](https://afflift.com/f/threads/ad-type.12518/)
+-  24 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
+-  24 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  24 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
 -  24 [STACKED MARKETER Made $715,000 in 2023](https://afflift.com/f/threads/stacked-marketer-made-715-000-in-2023.12513/)
 -  24 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
@@ -53,11 +57,7 @@
 -  24 [Smartlink recommendations](https://afflift.com/f/threads/smartlink-recommendations.12456/)
 -  24 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  24 [Partner with Jumbleberry - Exclusive EU Keto Offer Inside - SE/DE/FR/NO/FI](https://afflift.com/f/threads/partner-with-jumbleberry-exclusive-eu-keto-offer-inside-se-de-fr-no-fi.12515/)
--  24 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  24 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)
--  24 [High Performance with Auto-Generated Creatives for Software &amp; Utilities](https://afflift.com/f/threads/high-performance-with-auto-generated-creatives-for-software-utilities.12503/)
--  24 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
--  24 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)<!-- afflift:END -->
+-  24 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
