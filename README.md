@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  23 [社区速递 029 | 投影仪折腾、在看的书以及作者们的新玩意](https://sspai.com/post/86008)
 -  23 [放轻松 | 摆脱碎片化，让放松触手可及](https://sspai.com/post/85763)
--  23 [一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容](https://sspai.com/post/85816)
--  23 [派早报：Apple 发布 iOS/iPadOS 17.3 与 macOS 14.3 等正式版](https://sspai.com/post/85997)<!-- sspai:END -->
+-  23 [一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容](https://sspai.com/post/85816)<!-- sspai:END -->
