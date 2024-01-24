@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [派早报：Apple 将为空间音频内容创作者提供版税补贴等](https://sspai.com/post/86018)
 -  23 [社区速递 029 | 投影仪折腾、在看的书以及作者们的新玩意](https://sspai.com/post/86008)
 -  23 [放轻松 | 摆脱碎片化，让放松触手可及](https://sspai.com/post/85763)
 -  23 [一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容](https://sspai.com/post/85816)<!-- sspai:END -->
