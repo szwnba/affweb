@@ -46,18 +46,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Smartlink recommendations](https://afflift.com/f/threads/smartlink-recommendations.12456/)
+-  24 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
+-  24 [Partner with Jumbleberry - Exclusive EU Keto Offer Inside - SE/DE/FR/NO/FI](https://afflift.com/f/threads/partner-with-jumbleberry-exclusive-eu-keto-offer-inside-se-de-fr-no-fi.12515/)
+-  24 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
+-  24 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)
+-  24 [High Performance with Auto-Generated Creatives for Software &amp; Utilities](https://afflift.com/f/threads/high-performance-with-auto-generated-creatives-for-software-utilities.12503/)
 -  24 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
--  24 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
--  24 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12445/)
--  24 [How Much Do You Need To Get Started With Advertising On Google Ads? Considering Verticals, CPCs, And Competition](https://afflift.com/f/threads/how-much-do-you-need-to-get-started-with-advertising-on-google-ads-considering-verticals-cpcs-and-competition.12517/)
--  24 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
--  24 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
 -  24 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
--  24 [STACKED MARKETER Made $715,000 in 2023](https://afflift.com/f/threads/stacked-marketer-made-715-000-in-2023.12513/)
--  24 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
--  24 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
--  24 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  24 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  24 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
+-  24 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
+-  24 [How Much Do You Need To Get Started With Advertising On Google Ads? Considering Verticals, CPCs, And Competition](https://afflift.com/f/threads/how-much-do-you-need-to-get-started-with-advertising-on-google-ads-considering-verticals-cpcs-and-competition.12517/)
+-  24 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
