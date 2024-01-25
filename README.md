@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Looking for Exclusive In-house or Direct Dating Offers](https://afflift.com/f/threads/looking-for-exclusive-in-house-or-direct-dating-offers.12522/)
 -  25 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  25 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  25 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
@@ -53,8 +54,7 @@
 -  24 [Campaign Segregation &amp; Duplication = Fraud?](https://afflift.com/f/threads/campaign-segregation-duplication-fraud.12519/)
 -  24 [Partners 1xBet – Top Betting &amp; Gambling Affiliate Program with 40%+ Conversion](https://afflift.com/f/threads/partners-1xbet-%E2%80%93-top-betting-gambling-affiliate-program-with-40-conversion.12328/)
 -  24 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
--  24 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
--  24 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)<!-- afflift:END -->
+-  24 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
