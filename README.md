@@ -45,6 +45,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
+-  25 [Looking for Exclusive In-house or Direct Dating Offers](https://afflift.com/f/threads/looking-for-exclusive-in-house-or-direct-dating-offers.12522/)
+-  25 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
+-  25 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
 -  25 [🔥 It&#39;s time to track! Adsterra x PeerClick Tracker Giveaway to Win 1 Year Subscription.](https://afflift.com/f/threads/%F0%9F%94%A5-its-time-to-track-adsterra-x-peerclick-tracker-giveaway-to-win-1-year-subscription.12526/)
 -  25 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
 -  25 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
@@ -52,11 +56,7 @@
 -  25 [Boost your email ROI with these super simple tips!](https://afflift.com/f/threads/boost-your-email-roi-with-these-super-simple-tips.12495/)
 -  25 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
 -  25 [Gpt 4 Turbo and DALL-E 3 free with Copilot](https://afflift.com/f/threads/gpt-4-turbo-and-dall-e-3-free-with-copilot.12479/)
--  25 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  25 [😕 Should you sign up as a publisher, advertiser, or affiliate?](https://afflift.com/f/threads/%F0%9F%98%95-should-you-sign-up-as-a-publisher-advertiser-or-affiliate.12525/)
--  25 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)
--  25 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
--  25 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)<!-- afflift:END -->
+-  25 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
