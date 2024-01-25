@@ -61,5 +61,4 @@
 <!-- sspai:START -->
 -  25 [派早报：Chrome 引入 AI 功能、Apple 开启 2024 Swift 学生挑战赛等](https://sspai.com/post/86068)
 -  24 [Macintosh：40 年之前的故事](https://sspai.com/post/73310)
--  24 [Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？](https://sspai.com/post/79079)
--  24 [看完 Sam Altman 的斯坦福创业课，我学到了什么？](https://sspai.com/post/84988)<!-- sspai:END -->
+-  24 [Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？](https://sspai.com/post/79079)<!-- sspai:END -->
