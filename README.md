@@ -45,10 +45,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  25 [Data Questions](https://afflift.com/f/threads/data-questions.12529/)
 -  25 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)
--  25 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  25 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
+-  25 [Data Questions](https://afflift.com/f/threads/data-questions.12529/)
+-  25 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  25 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  25 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
 -  25 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
