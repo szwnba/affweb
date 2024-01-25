@@ -45,18 +45,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [January PropellerAds Promo Codes 2024](https://afflift.com/f/threads/january-propellerads-promo-codes-2024.12417/)
+-  25 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+-  25 [How to decide the average bid in Push Ad campaigns?](https://afflift.com/f/threads/how-to-decide-the-average-bid-in-push-ad-campaigns.12528/)
+-  25 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
+-  25 [🔥 It&#39;s time to track! Adsterra x PeerClick Tracker Giveaway to Win 1 Year Subscription.](https://afflift.com/f/threads/%F0%9F%94%A5-its-time-to-track-adsterra-x-peerclick-tracker-giveaway-to-win-1-year-subscription.12526/)
+-  25 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)
+-  25 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
+-  25 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  25 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  25 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
--  25 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  25 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
--  25 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  25 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  25 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
--  25 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)
--  25 [Looking for Exclusive In-house or Direct Dating Offers](https://afflift.com/f/threads/looking-for-exclusive-in-house-or-direct-dating-offers.12522/)
--  25 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  25 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
--  25 [🔥 It&#39;s time to track! Adsterra x PeerClick Tracker Giveaway to Win 1 Year Subscription.](https://afflift.com/f/threads/%F0%9F%94%A5-its-time-to-track-adsterra-x-peerclick-tracker-giveaway-to-win-1-year-subscription.12526/)<!-- afflift:END -->
+-  25 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
