@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
+-  25 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)
 -  25 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
 -  25 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
 -  25 [Spy Hero - New Spy Tool for Facebook / Youtube / Native / Ecom](https://afflift.com/f/threads/spy-hero-new-spy-tool-for-facebook-youtube-native-ecom.10351/)
 -  25 [First Fa with Monetizer](https://afflift.com/f/threads/first-fa-with-monetizer.12466/)
 -  25 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
--  25 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)
 -  25 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  25 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
 -  25 [Looking for Exclusive In-house or Direct Dating Offers](https://afflift.com/f/threads/looking-for-exclusive-in-house-or-direct-dating-offers.12522/)
 -  25 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  25 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  24 [AD Type](https://afflift.com/f/threads/ad-type.12518/)<!-- afflift:END -->
+-  25 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
