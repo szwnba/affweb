@@ -60,6 +60,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [遇见皆是好风景：我们影像里的 2024 少数派泰国团建](https://sspai.com/post/86088)
 -  25 [新玩意 170｜少数派的编辑们最近买了啥？（泰国特别篇）](https://sspai.com/post/86083)
 -  25 [如何为 Apple ID 和 iCloud 资料「搬家」：我的迁移经历以及经验分享](https://sspai.com/post/85912)
 -  25 [学点复式记账，让个人理财更有逻辑](https://sspai.com/post/85033)
