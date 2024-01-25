@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  25 [提升联盟营销效果的工具和网站推荐！](https://www.advertcn.com/thread-113812-1-1.html)
 -  25 [Google广告知识Q&amp;A大盘点！！！](https://www.advertcn.com/thread-113810-1-1.html)
 -  24 [深度解读：Snapchat选品与竞价策略](https://www.advertcn.com/thread-113800-1-1.html)<!-- advertcn1:END -->
 
