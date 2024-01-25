@@ -30,8 +30,7 @@
 -  25 [提升Facebook广告成效的5个隐藏方法！](https://www.advertcn.com/thread-113808-1-1.html)
 -  24 [寻找Naver和Taboola的开户代理渠道](https://www.advertcn.com/thread-113804-1-1.html)
 -  24 [题外话：国外银行收款，能否避免婚内财产？](https://www.advertcn.com/thread-113803-1-1.html)
--  24 [谷歌像素提示证书错误](https://www.advertcn.com/thread-113802-1-1.html)
--  24 [老铁们，谁在做这种产品](https://www.advertcn.com/thread-113799-1-1.html)<!-- advertcn3:END -->
+-  24 [谷歌像素提示证书错误](https://www.advertcn.com/thread-113802-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
