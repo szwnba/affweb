@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  23 [2024年公众号叒送价值6000元的定制微信红包封面](https://51.ruyo.net/18598.html)<!-- ruyo:END -->
+-  25 [TwoDNS免费提供DDNS服务，支持13个德国子域名](https://51.ruyo.net/18595.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
