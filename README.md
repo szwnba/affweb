@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
+-  25 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
 -  25 [Looking for Exclusive In-house or Direct Dating Offers](https://afflift.com/f/threads/looking-for-exclusive-in-house-or-direct-dating-offers.12522/)
 -  25 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  25 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  25 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
 -  24 [AD Type](https://afflift.com/f/threads/ad-type.12518/)
 -  24 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
 -  24 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
 -  24 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  24 [Campaign Segregation &amp; Duplication = Fraud?](https://afflift.com/f/threads/campaign-segregation-duplication-fraud.12519/)
 -  24 [Partners 1xBet – Top Betting &amp; Gambling Affiliate Program with 40%+ Conversion](https://afflift.com/f/threads/partners-1xbet-%E2%80%93-top-betting-gambling-affiliate-program-with-40-conversion.12328/)
--  24 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
--  24 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)<!-- afflift:END -->
+-  24 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
