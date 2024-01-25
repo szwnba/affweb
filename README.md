@@ -17,8 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  24 [深度解读：Snapchat选品与竞价策略](https://www.advertcn.com/thread-113800-1-1.html)
--  24 [新人报道](https://www.advertcn.com/thread-113791-1-1.html)<!-- advertcn1:END -->
+-  25 [Google广告知识Q&amp;A大盘点！！！](https://www.advertcn.com/thread-113810-1-1.html)
+-  24 [深度解读：Snapchat选品与竞价策略](https://www.advertcn.com/thread-113800-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
