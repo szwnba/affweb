@@ -45,6 +45,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  25 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  25 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
@@ -55,8 +56,7 @@
 -  25 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
 -  25 [🔥 It&#39;s time to track! Adsterra x PeerClick Tracker Giveaway to Win 1 Year Subscription.](https://afflift.com/f/threads/%F0%9F%94%A5-its-time-to-track-adsterra-x-peerclick-tracker-giveaway-to-win-1-year-subscription.12526/)
 -  25 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)
--  25 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  25 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)<!-- afflift:END -->
+-  25 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
