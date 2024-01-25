@@ -32,8 +32,7 @@
 -  24 [谷歌像素提示证书错误](https://www.advertcn.com/thread-113802-1-1.html)
 -  24 [老铁们，谁在做这种产品](https://www.advertcn.com/thread-113799-1-1.html)
 -  24 [求还有做cod的类型的大佬聊聊](https://www.advertcn.com/thread-113796-1-1.html)
--  24 [.Net 价格将在2024年2月1号普涨](https://www.advertcn.com/thread-113788-1-1.html)
--  24 [这个社会人心难测](https://www.advertcn.com/thread-113787-1-1.html)<!-- advertcn3:END -->
+-  24 [.Net 价格将在2024年2月1号普涨](https://www.advertcn.com/thread-113788-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
