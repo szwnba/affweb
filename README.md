@@ -61,5 +61,4 @@
 <!-- sspai:START -->
 -  25 [学点复式记账，让个人理财更有逻辑](https://sspai.com/post/85033)
 -  25 [派早报：Chrome 引入 AI 功能、Apple 开启 2024 Swift 学生挑战赛等](https://sspai.com/post/86068)
--  24 [Macintosh：40 年之前的故事](https://sspai.com/post/73310)
--  24 [Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？](https://sspai.com/post/79079)<!-- sspai:END -->
+-  24 [Macintosh：40 年之前的故事](https://sspai.com/post/73310)<!-- sspai:END -->
