@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  26 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
+-  26 [Spy Hero - New Spy Tool for Facebook / Youtube / Native / Ecom](https://afflift.com/f/threads/spy-hero-new-spy-tool-for-facebook-youtube-native-ecom.10351/)
+-  26 [How to decide the average bid in Push Ad campaigns?](https://afflift.com/f/threads/how-to-decide-the-average-bid-in-push-ad-campaigns.12528/)
+-  26 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
+-  26 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
+-  26 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
+-  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  26 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)
 -  26 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
+-  26 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
+-  26 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
 -  26 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
--  26 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)
--  26 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  26 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
--  26 [iGaming Creatives: +$130 Daily [Guide + Case]](https://afflift.com/f/threads/igaming-creatives-130-daily-guide-case.12534/)
--  26 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
--  26 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
--  26 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  26 [💸 Adcash Promo Code for 2024! 💸](https://afflift.com/f/threads/%F0%9F%92%B8-adcash-promo-code-for-2024-%F0%9F%92%B8.12459/)
--  26 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  26 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
