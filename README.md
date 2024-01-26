@@ -59,5 +59,4 @@
 -  26 [为 Steam Deck 装载更多可能性：Decky Loader 插件推荐](https://sspai.com/post/85809)
 -  26 [播客 | 创业就是如果你对你的工作不满意，那就永远不退休](https://sspai.com/post/86101)
 -  26 [派早报：OPPO 与诺基亚达成专利交叉许可协议，微软游戏部门裁员 1900 人等](https://sspai.com/post/86095)
--  25 [遇见皆是好风景：我们影像里的 2024 少数派泰国团建](https://sspai.com/post/86088)
--  25 [新玩意 170｜少数派的编辑们最近买了啥？（泰国特别篇）](https://sspai.com/post/86083)<!-- sspai:END -->
+-  25 [遇见皆是好风景：我们影像里的 2024 少数派泰国团建](https://sspai.com/post/86088)<!-- sspai:END -->
