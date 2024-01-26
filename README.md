@@ -21,8 +21,7 @@
 -  25 [新人报到](https://www.advertcn.com/thread-113823-1-1.html)
 -  25 [新人报道！](https://www.advertcn.com/thread-113821-1-1.html)
 -  25 [如果想做跨境电商，该学一点什么？](https://www.advertcn.com/thread-113820-1-1.html)
--  25 [新人报到](https://www.advertcn.com/thread-113816-1-1.html)
--  25 [提升联盟营销效果的工具和网站推荐！](https://www.advertcn.com/thread-113812-1-1.html)<!-- advertcn1:END -->
+-  25 [新人报到](https://www.advertcn.com/thread-113816-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
