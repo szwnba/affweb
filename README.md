@@ -45,6 +45,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  26 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
 -  26 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  25 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
@@ -55,8 +56,7 @@
 -  25 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)
 -  25 [Data Questions](https://afflift.com/f/threads/data-questions.12529/)
 -  25 [Hard to rip LPS](https://afflift.com/f/threads/hard-to-rip-lps.12509/)
--  25 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
--  25 [Boost your email ROI with these super simple tips!](https://afflift.com/f/threads/boost-your-email-roi-with-these-super-simple-tips.12495/)<!-- afflift:END -->
+-  25 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
