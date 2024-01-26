@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  26 [如何安全多开FB/Twitter/TK/Ins等账号且防关联？](https://www.advertcn.com/thread-113830-1-1.html)
 -  25 [新人报到](https://www.advertcn.com/thread-113823-1-1.html)
 -  25 [新人报道！](https://www.advertcn.com/thread-113821-1-1.html)
 -  25 [如果想做跨境电商，该学一点什么？](https://www.advertcn.com/thread-113820-1-1.html)
