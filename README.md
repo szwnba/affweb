@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
+-  26 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
 -  26 [AI White Pages Generator for AdWords / FB / Tik Tok](https://afflift.com/f/threads/ai-white-pages-generator-for-adwords-fb-tik-tok.12535/)
 -  26 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  26 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
@@ -47,9 +49,7 @@
 -  26 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  26 [Spy Hero - New Spy Tool for Facebook / Youtube / Native / Ecom](https://afflift.com/f/threads/spy-hero-new-spy-tool-for-facebook-youtube-native-ecom.10351/)
 -  26 [How to decide the average bid in Push Ad campaigns?](https://afflift.com/f/threads/how-to-decide-the-average-bid-in-push-ad-campaigns.12528/)
--  26 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  26 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)<!-- afflift:END -->
+-  26 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
