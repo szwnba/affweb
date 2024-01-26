@@ -27,9 +27,9 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  26 [亚马逊营销网站，页面不显示广告](https://www.advertcn.com/thread-113836-1-1.html)
 -  26 [那位大佬有美国adsense出，高价收一个](https://www.advertcn.com/thread-113828-1-1.html)
--  25 [惰总这句话真不认可](https://www.advertcn.com/thread-113822-1-1.html)
--  25 [纯新人咨询：你们说的以下名词是什么意思。](https://www.advertcn.com/thread-113819-1-1.html)<!-- advertcn3:END -->
+-  25 [惰总这句话真不认可](https://www.advertcn.com/thread-113822-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
