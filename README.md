@@ -38,6 +38,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [AI White Pages Generator for AdWords / FB / Tik Tok](https://afflift.com/f/threads/ai-white-pages-generator-for-adwords-fb-tik-tok.12535/)
+-  26 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
+-  26 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
+-  26 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  26 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
 -  26 [Campaign Segregation &amp; Duplication = Fraud?](https://afflift.com/f/threads/campaign-segregation-duplication-fraud.12519/)
 -  26 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
@@ -45,11 +49,7 @@
 -  26 [How to decide the average bid in Push Ad campaigns?](https://afflift.com/f/threads/how-to-decide-the-average-bid-in-push-ad-campaigns.12528/)
 -  26 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  26 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)
--  26 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  26 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
--  26 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
--  26 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)<!-- afflift:END -->
+-  26 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
