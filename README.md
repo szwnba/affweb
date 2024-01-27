@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  27 [Propeller Ads to Adsense](https://afflift.com/f/threads/propeller-ads-to-adsense.12538/)
 -  27 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
 -  27 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
@@ -49,8 +50,7 @@
 -  27 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  27 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
 -  27 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
--  27 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  27 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)<!-- afflift:END -->
+-  27 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
