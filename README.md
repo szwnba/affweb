@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  26 [干货强推|Google广告政策中的禁止行为有哪些？看这一篇就...](https://www.advertcn.com/thread-113835-1-1.html)<!-- advertcn1:END -->
+-  27 [新人报到](https://www.advertcn.com/thread-113843-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
