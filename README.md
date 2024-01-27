@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  26 [干货强推|Google广告政策中的禁止行为有哪些？看这一篇就...](https://www.advertcn.com/thread-113835-1-1.html)
--  26 [如何安全多开FB/Twitter/TK/Ins等账号且防关联？](https://www.advertcn.com/thread-113830-1-1.html)<!-- advertcn1:END -->
+-  26 [干货强推|Google广告政策中的禁止行为有哪些？看这一篇就...](https://www.advertcn.com/thread-113835-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
