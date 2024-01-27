@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
+-  27 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  27 [Propeller Ads to Adsense](https://afflift.com/f/threads/propeller-ads-to-adsense.12538/)
 -  27 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  27 [Tracker Switch Situation - Your opinion?](https://afflift.com/f/threads/tracker-switch-situation-your-opinion.12531/)
 -  27 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
 -  27 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  27 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  27 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
 -  27 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
 -  27 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  27 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  27 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
--  26 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)<!-- afflift:END -->
+-  27 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
