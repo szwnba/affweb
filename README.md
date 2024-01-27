@@ -53,5 +53,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  26 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86118)
--  26 [为 Steam Deck 装载更多可能性：Decky Loader 插件推荐](https://sspai.com/post/85809)<!-- sspai:END -->
+-  26 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86118)<!-- sspai:END -->
