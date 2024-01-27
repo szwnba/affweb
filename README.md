@@ -26,8 +26,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  27 [怎么关闭bing的受众网络的广告展示啊？](https://www.advertcn.com/thread-113839-1-1.html)
--  27 [亚马逊 Lightsail 将涨价，以弥补IPv4的成本](https://www.advertcn.com/thread-113837-1-1.html)
--  26 [亚马逊营销网站，页面不显示广告](https://www.advertcn.com/thread-113836-1-1.html)<!-- advertcn3:END -->
+-  27 [亚马逊 Lightsail 将涨价，以弥补IPv4的成本](https://www.advertcn.com/thread-113837-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
