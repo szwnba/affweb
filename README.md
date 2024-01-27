@@ -55,5 +55,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  26 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86118)
--  26 [为 Steam Deck 装载更多可能性：Decky Loader 插件推荐](https://sspai.com/post/85809)
--  26 [播客 | 创业就是如果你对你的工作不满意，那就永远不退休](https://sspai.com/post/86101)<!-- sspai:END -->
+-  26 [为 Steam Deck 装载更多可能性：Decky Loader 插件推荐](https://sspai.com/post/85809)<!-- sspai:END -->
