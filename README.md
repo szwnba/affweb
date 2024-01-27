@@ -39,8 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  27 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
 -  27 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
+-  27 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
+-  27 [Tracker Switch Situation - Your opinion?](https://afflift.com/f/threads/tracker-switch-situation-your-opinion.12531/)
+-  27 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
 -  26 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  26 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
 -  26 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
@@ -48,9 +50,7 @@
 -  26 [AI White Pages Generator for AdWords / FB / Tik Tok](https://afflift.com/f/threads/ai-white-pages-generator-for-adwords-fb-tik-tok.12535/)
 -  26 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  26 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
--  26 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
--  26 [Campaign Segregation &amp; Duplication = Fraud?](https://afflift.com/f/threads/campaign-segregation-duplication-fraud.12519/)
--  26 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)<!-- afflift:END -->
+-  26 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
