@@ -38,11 +38,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Tracker Switch Situation - Your opinion?](https://afflift.com/f/threads/tracker-switch-situation-your-opinion.12531/)
 -  27 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
 -  27 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  27 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
 -  27 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
--  27 [Tracker Switch Situation - Your opinion?](https://afflift.com/f/threads/tracker-switch-situation-your-opinion.12531/)
 -  27 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  27 [Maxconv Traker](https://afflift.com/f/threads/maxconv-traker.12524/)
 -  26 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
