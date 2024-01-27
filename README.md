@@ -53,4 +53,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [概念、趋势、产品推荐：近期大模型应用方向解析](https://sspai.com/post/86005)
 -  26 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86118)<!-- sspai:END -->
