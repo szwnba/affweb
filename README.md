@@ -27,8 +27,7 @@
 <!-- advertcn3:START -->
 -  28 [paxum 收不到验证码怎么办](https://www.advertcn.com/thread-113852-1-1.html)
 -  28 [玩国际dz的还是印度人牛逼](https://www.advertcn.com/thread-113849-1-1.html)
--  28 [都在讨论国外的偏门，我说说国内的吧](https://www.advertcn.com/thread-113848-1-1.html)
--  27 [13年前花3000还是6000加入的Youtube培训班的课程，YTB视频优化课](https://www.advertcn.com/thread-113847-1-1.html)<!-- advertcn3:END -->
+-  28 [都在讨论国外的偏门，我说说国内的吧](https://www.advertcn.com/thread-113848-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
