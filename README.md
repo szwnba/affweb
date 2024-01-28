@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
+-  28 [Propeller Ads to Adsense](https://afflift.com/f/threads/propeller-ads-to-adsense.12538/)
+-  28 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  28 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  27 [What is better to use on your Nav bar: Category Pages or Regular Pages](https://afflift.com/f/threads/what-is-better-to-use-on-your-nav-bar-category-pages-or-regular-pages.12540/)
--  27 [Propeller Ads to Adsense](https://afflift.com/f/threads/propeller-ads-to-adsense.12538/)
 -  27 [FB Conversion Events on Prelander](https://afflift.com/f/threads/fb-conversion-events-on-prelander.12539/)
 -  27 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  27 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  27 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
 -  27 [Tracker Switch Situation - Your opinion?](https://afflift.com/f/threads/tracker-switch-situation-your-opinion.12531/)
 -  27 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
--  27 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  27 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  27 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)<!-- afflift:END -->
+-  27 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
