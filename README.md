@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Google To Greenlight Bitcoin ETF Ads Amid Policy Update: Report](https://afflift.com/f/threads/google-to-greenlight-bitcoin-etf-ads-amid-policy-update-report.12542/)
+-  28 [How get approved to affiliate without having comany...?](https://afflift.com/f/threads/how-get-approved-to-affiliate-without-having-comany.12541/)
 -  28 [What is better to use on your Nav bar: Category Pages or Regular Pages](https://afflift.com/f/threads/what-is-better-to-use-on-your-nav-bar-category-pages-or-regular-pages.12540/)
 -  28 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
 -  28 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
@@ -47,9 +49,7 @@
 -  28 [The setup of postback link tokens for Advertizer in Binom.](https://afflift.com/f/threads/the-setup-of-postback-link-tokens-for-advertizer-in-binom.12474/)
 -  28 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
 -  28 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  28 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  27 [FB Conversion Events on Prelander](https://afflift.com/f/threads/fb-conversion-events-on-prelander.12539/)
--  27 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  28 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
