@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
 -  28 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  28 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
 -  28 [Help with Landing page code?](https://afflift.com/f/threads/help-with-landing-page-code.12543/)
@@ -48,8 +49,7 @@
 -  28 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
 -  28 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  28 [Tracker Switch Situation - Your opinion?](https://afflift.com/f/threads/tracker-switch-situation-your-opinion.12531/)
--  28 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
--  28 [Propeller Ads to Adsense](https://afflift.com/f/threads/propeller-ads-to-adsense.12538/)<!-- afflift:END -->
+-  28 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
