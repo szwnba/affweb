@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  27 [新人报到](https://www.advertcn.com/thread-113843-1-1.html)<!-- advertcn1:END -->
+-  28 [Facebook像素事件捕捉问题](https://www.advertcn.com/thread-113855-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
