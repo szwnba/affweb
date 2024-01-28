@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  28 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
 -  28 [Help with Landing page code?](https://afflift.com/f/threads/help-with-landing-page-code.12543/)
 -  28 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
@@ -48,8 +49,7 @@
 -  28 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  28 [Tracker Switch Situation - Your opinion?](https://afflift.com/f/threads/tracker-switch-situation-your-opinion.12531/)
 -  28 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)
--  28 [Propeller Ads to Adsense](https://afflift.com/f/threads/propeller-ads-to-adsense.12538/)
--  28 [The setup of postback link tokens for Advertizer in Binom.](https://afflift.com/f/threads/the-setup-of-postback-link-tokens-for-advertizer-in-binom.12474/)<!-- afflift:END -->
+-  28 [Propeller Ads to Adsense](https://afflift.com/f/threads/propeller-ads-to-adsense.12538/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
