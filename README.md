@@ -54,4 +54,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  27 [概念、趋势、产品推荐：近期大模型应用方向解析](https://sspai.com/post/86005)<!-- sspai:END -->
+-  28 [一日一技 | 达玛卡亚冥想法入门指南](https://sspai.com/post/86003)<!-- sspai:END -->
