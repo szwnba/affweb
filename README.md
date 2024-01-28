@@ -27,8 +27,7 @@
 <!-- advertcn3:START -->
 -  27 [13年前花3000还是6000加入的Youtube培训班的课程，YTB视频优化课](https://www.advertcn.com/thread-113847-1-1.html)
 -  27 [BTC收款的几个问题](https://www.advertcn.com/thread-113844-1-1.html)
--  27 [怎么关闭bing的受众网络的广告展示啊？](https://www.advertcn.com/thread-113839-1-1.html)
--  27 [亚马逊 Lightsail 将涨价，以弥补IPv4的成本](https://www.advertcn.com/thread-113837-1-1.html)<!-- advertcn3:END -->
+-  27 [怎么关闭bing的受众网络的广告展示啊？](https://www.advertcn.com/thread-113839-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
