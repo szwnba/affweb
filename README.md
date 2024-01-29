@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  29 [新人报道](https://www.advertcn.com/thread-113863-1-1.html)
--  29 [干货强推|Snapchat 的用户洞察，看这一篇就够了！](https://www.advertcn.com/thread-113860-1-1.html)
--  28 [Facebook像素事件捕捉问题](https://www.advertcn.com/thread-113855-1-1.html)<!-- advertcn1:END -->
+-  29 [干货强推|Snapchat 的用户洞察，看这一篇就够了！](https://www.advertcn.com/thread-113860-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
