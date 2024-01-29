@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Data Questions](https://afflift.com/f/threads/data-questions.12529/)
+-  29 [Google To Greenlight Bitcoin ETF Ads Amid Policy Update: Report](https://afflift.com/f/threads/google-to-greenlight-bitcoin-etf-ads-amid-policy-update-report.12542/)
+-  29 [Help with Landing page code?](https://afflift.com/f/threads/help-with-landing-page-code.12543/)
+-  29 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
+-  29 [How get approved to affiliate without having comany...?](https://afflift.com/f/threads/how-get-approved-to-affiliate-without-having-comany.12541/)
+-  28 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
 -  28 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
 -  28 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  28 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
--  28 [Help with Landing page code?](https://afflift.com/f/threads/help-with-landing-page-code.12543/)
 -  28 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  28 [How get approved to affiliate without having comany...?](https://afflift.com/f/threads/how-get-approved-to-affiliate-without-having-comany.12541/)
--  28 [Google To Greenlight Bitcoin ETF Ads Amid Policy Update: Report](https://afflift.com/f/threads/google-to-greenlight-bitcoin-etf-ads-amid-policy-update-report.12542/)
 -  28 [What is better to use on your Nav bar: Category Pages or Regular Pages](https://afflift.com/f/threads/what-is-better-to-use-on-your-nav-bar-category-pages-or-regular-pages.12540/)
 -  28 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
--  28 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
--  28 [Tracker Switch Situation - Your opinion?](https://afflift.com/f/threads/tracker-switch-situation-your-opinion.12531/)
--  28 [ALFALEADS - Progressive Affiliate Network](https://afflift.com/f/threads/alfaleads-progressive-affiliate-network.4461/)<!-- afflift:END -->
+-  28 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
