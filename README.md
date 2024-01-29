@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)
--  29 [Help with Landing page code?](https://afflift.com/f/threads/help-with-landing-page-code.12543/)
--  29 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
--  29 [How get approved to affiliate without having comany...?](https://afflift.com/f/threads/how-get-approved-to-affiliate-without-having-comany.12541/)
+-  29 [Seeking; High-Converting Dating Offers for Tier 1 &amp; 2 Countries!](https://afflift.com/f/threads/seeking-high-converting-dating-offers-for-tier-1-2-countries.12549/)
+-  29 [Gainster.Pro: Elevate Your Revenue Game! Dive into High-Payout Offers and Experience Innovative Offerwall](https://afflift.com/f/threads/gainster-pro-elevate-your-revenue-game-dive-into-high-payout-offers-and-experience-innovative-offerwall.12302/)
+-  29 [Gainster.Pro Review](https://afflift.com/f/threads/gainster-pro-review.12548/)
+-  29 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
 -  29 [Seeking Guidance in Transitioning to PPC Offers - Need Help and Advice](https://afflift.com/f/threads/seeking-guidance-in-transitioning-to-ppc-offers-need-help-and-advice.12547/)
--  29 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
--  29 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
--  29 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  29 [What is better to use on your Nav bar: Category Pages or Regular Pages](https://afflift.com/f/threads/what-is-better-to-use-on-your-nav-bar-category-pages-or-regular-pages.12540/)
--  29 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
--  29 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  29 [Looking help with landing page](https://afflift.com/f/threads/looking-help-with-landing-page.12546/)<!-- afflift:END -->
+-  29 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
+-  29 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
+-  29 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
+-  29 [FB Conversion Events on Prelander](https://afflift.com/f/threads/fb-conversion-events-on-prelander.12539/)
+-  29 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
+-  29 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
+-  29 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
