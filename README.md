@@ -53,4 +53,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [派早报：App Store 在欧合规举措引起批评](https://sspai.com/post/86150)
 -  28 [一日一技 | 达玛卡亚冥想法入门指南](https://sspai.com/post/86003)<!-- sspai:END -->
