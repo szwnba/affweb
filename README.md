@@ -52,5 +52,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [纸与数字碰撞：找到你最适合的记笔记方法](https://sspai.com/post/85800)
 -  29 [摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你](https://sspai.com/post/86007)
 -  29 [派早报：App Store 在欧合规举措引起批评](https://sspai.com/post/86150)<!-- sspai:END -->
