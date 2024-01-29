@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)
+-  29 [Help with Landing page code?](https://afflift.com/f/threads/help-with-landing-page-code.12543/)
+-  29 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
+-  29 [How get approved to affiliate without having comany...?](https://afflift.com/f/threads/how-get-approved-to-affiliate-without-having-comany.12541/)
+-  29 [Seeking Guidance in Transitioning to PPC Offers - Need Help and Advice](https://afflift.com/f/threads/seeking-guidance-in-transitioning-to-ppc-offers-need-help-and-advice.12547/)
+-  29 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  29 [My SEO Journey - A dream from youth](https://afflift.com/f/threads/my-seo-journey-a-dream-from-youth.12005/)
 -  29 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  29 [What is better to use on your Nav bar: Category Pages or Regular Pages](https://afflift.com/f/threads/what-is-better-to-use-on-your-nav-bar-category-pages-or-regular-pages.12540/)
 -  29 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
--  29 [Seeking Guidance in Transitioning to PPC Offers - Need Help and Advice](https://afflift.com/f/threads/seeking-guidance-in-transitioning-to-ppc-offers-need-help-and-advice.12547/)
 -  29 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  29 [Looking help with landing page](https://afflift.com/f/threads/looking-help-with-landing-page.12546/)
--  29 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  29 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  29 [$191 profit on Dating offer and email traffic with Vrume](https://afflift.com/f/threads/191-profit-on-dating-offer-and-email-traffic-with-vrume.12545/)
--  29 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  29 [How to download thousands of landing pages for free!](https://afflift.com/f/threads/how-to-download-thousands-of-landing-pages-for-free.12544/)<!-- afflift:END -->
+-  29 [Looking help with landing page](https://afflift.com/f/threads/looking-help-with-landing-page.12546/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
