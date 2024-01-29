@@ -38,6 +38,9 @@
 ### afflift
 <!-- afflift:START -->
 -  29 [Seeking; High-Converting Dating Offers for Tier 1 &amp; 2 Countries!](https://afflift.com/f/threads/seeking-high-converting-dating-offers-for-tier-1-2-countries.12549/)
+-  29 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
+-  29 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
+-  29 [Looking help with landing page](https://afflift.com/f/threads/looking-help-with-landing-page.12546/)
 -  29 [Gainster.Pro: Elevate Your Revenue Game! Dive into High-Payout Offers and Experience Innovative Offerwall](https://afflift.com/f/threads/gainster-pro-elevate-your-revenue-game-dive-into-high-payout-offers-and-experience-innovative-offerwall.12302/)
 -  29 [Gainster.Pro Review](https://afflift.com/f/threads/gainster-pro-review.12548/)
 -  29 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
@@ -45,10 +48,7 @@
 -  29 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  29 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
 -  29 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
--  29 [FB Conversion Events on Prelander](https://afflift.com/f/threads/fb-conversion-events-on-prelander.12539/)
--  29 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  29 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
--  29 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)<!-- afflift:END -->
+-  29 [FB Conversion Events on Prelander](https://afflift.com/f/threads/fb-conversion-events-on-prelander.12539/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
