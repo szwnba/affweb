@@ -38,6 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [START HERE - Survey Pops - The Intermediate Guide](https://afflift.com/f/threads/start-here-survey-pops-the-intermediate-guide.7471/)
+-  29 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
+-  29 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  29 [Data Questions](https://afflift.com/f/threads/data-questions.12529/)
 -  29 [Google To Greenlight Bitcoin ETF Ads Amid Policy Update: Report](https://afflift.com/f/threads/google-to-greenlight-bitcoin-etf-ads-amid-policy-update-report.12542/)
 -  29 [Help with Landing page code?](https://afflift.com/f/threads/help-with-landing-page-code.12543/)
@@ -46,10 +49,7 @@
 -  28 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
 -  28 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
 -  28 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  28 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  28 [What is better to use on your Nav bar: Category Pages or Regular Pages](https://afflift.com/f/threads/what-is-better-to-use-on-your-nav-bar-category-pages-or-regular-pages.12540/)
--  28 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
--  28 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)<!-- afflift:END -->
+-  28 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
