@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
 -  29 [Step 6 - Setting up MOBIPIUM Push Smartlink Offers in BeMob](https://afflift.com/f/threads/step-6-setting-up-mobipium-push-smartlink-offers-in-bemob.2943/)
 -  29 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
 -  29 [Google To Greenlight Bitcoin ETF Ads Amid Policy Update: Report](https://afflift.com/f/threads/google-to-greenlight-bitcoin-etf-ads-amid-policy-update-report.12542/)
@@ -46,8 +47,7 @@
 -  29 [Data Questions](https://afflift.com/f/threads/data-questions.12529/)
 -  29 [Help with Landing page code?](https://afflift.com/f/threads/help-with-landing-page-code.12543/)
 -  29 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  29 [How get approved to affiliate without having comany...?](https://afflift.com/f/threads/how-get-approved-to-affiliate-without-having-comany.12541/)
--  28 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  29 [How get approved to affiliate without having comany...?](https://afflift.com/f/threads/how-get-approved-to-affiliate-without-having-comany.12541/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
