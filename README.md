@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  30 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
 -  30 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
 -  30 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
@@ -51,8 +52,7 @@
 -  30 [Boost your dating ads – try email clicks!](https://afflift.com/f/threads/boost-your-dating-ads-%E2%80%93-try-email-clicks.12123/)
 -  30 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
 -  30 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  30 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
--  30 [Seeking; High-Converting Dating Offers for Tier 1 &amp; 2 Countries!](https://afflift.com/f/threads/seeking-high-converting-dating-offers-for-tier-1-2-countries.12549/)<!-- afflift:END -->
+-  30 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
