@@ -38,6 +38,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)
+-  30 [Boost your dating ads – try email clicks!](https://afflift.com/f/threads/boost-your-dating-ads-%E2%80%93-try-email-clicks.12123/)
+-  30 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
+-  30 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  30 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
 -  30 [Seeking; High-Converting Dating Offers for Tier 1 &amp; 2 Countries!](https://afflift.com/f/threads/seeking-high-converting-dating-offers-for-tier-1-2-countries.12549/)
 -  29 [Looking help with landing page](https://afflift.com/f/threads/looking-help-with-landing-page.12546/)
@@ -45,11 +49,7 @@
 -  29 [Gainster.Pro: Elevate Your Revenue Game! Dive into High-Payout Offers and Experience Innovative Offerwall](https://afflift.com/f/threads/gainster-pro-elevate-your-revenue-game-dive-into-high-payout-offers-and-experience-innovative-offerwall.12302/)
 -  29 [Gainster.Pro Review](https://afflift.com/f/threads/gainster-pro-review.12548/)
 -  29 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
--  29 [Seeking Guidance in Transitioning to PPC Offers - Need Help and Advice](https://afflift.com/f/threads/seeking-guidance-in-transitioning-to-ppc-offers-need-help-and-advice.12547/)
--  29 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
--  29 [Zeydoo / ProPush / PropellerAds have the best emails in the industry](https://afflift.com/f/threads/zeydoo-propush-propellerads-have-the-best-emails-in-the-industry.12131/)
--  29 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
--  29 [FB Conversion Events on Prelander](https://afflift.com/f/threads/fb-conversion-events-on-prelander.12539/)<!-- afflift:END -->
+-  29 [Seeking Guidance in Transitioning to PPC Offers - Need Help and Advice](https://afflift.com/f/threads/seeking-guidance-in-transitioning-to-ppc-offers-need-help-and-advice.12547/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
