@@ -42,17 +42,17 @@
 ### afflift
 <!-- afflift:START -->
 -  30 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
+-  30 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
+-  30 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
+-  30 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
+-  30 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
 -  30 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  30 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  30 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  30 [Ultimate Guide to PopAds 💰](https://afflift.com/f/threads/ultimate-guide-to-popads-%F0%9F%92%B0.4382/)
 -  30 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  30 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
--  30 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  30 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
--  30 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)
--  30 [Looking help with landing page](https://afflift.com/f/threads/looking-help-with-landing-page.12546/)
--  30 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  30 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)<!-- afflift:END -->
+-  30 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
