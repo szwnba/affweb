@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  30 [Etsy店铺频被封？ 有哪些解封方法？](https://www.advertcn.com/thread-113871-1-1.html)
 -  30 [亚马逊单账号和关联账号限制导致店铺被封怎么办？](https://www.advertcn.com/thread-113868-1-1.html)
--  29 [新人报道](https://www.advertcn.com/thread-113863-1-1.html)
--  29 [干货强推|Snapchat 的用户洞察，看这一篇就够了！](https://www.advertcn.com/thread-113860-1-1.html)<!-- advertcn1:END -->
+-  29 [新人报道](https://www.advertcn.com/thread-113863-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
