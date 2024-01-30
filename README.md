@@ -41,6 +41,7 @@
 ### afflift
 <!-- afflift:START -->
 -  30 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
+-  30 [STEP 11 - Setting Postback from Skro Tracker to PopAds Traffic Source](https://afflift.com/f/threads/step-11-setting-postback-from-skro-tracker-to-popads-traffic-source.12322/)
 -  30 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)
 -  30 [Salvador’s Guide to Amazing Creatives in mVAS 🎨](https://afflift.com/f/threads/salvador%E2%80%99s-guide-to-amazing-creatives-in-mvas-%F0%9F%8E%A8.12553/)
 -  30 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
@@ -50,8 +51,7 @@
 -  30 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  30 [Ultimate Guide to PopAds 💰](https://afflift.com/f/threads/ultimate-guide-to-popads-%F0%9F%92%B0.4382/)
 -  30 [Seeking; High-Converting Dating Offers for Tier 1 &amp; 2 Countries!](https://afflift.com/f/threads/seeking-high-converting-dating-offers-for-tier-1-2-countries.12549/)
--  30 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)
--  30 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)<!-- afflift:END -->
+-  30 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
