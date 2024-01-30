@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
 -  30 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)
 -  30 [Boost your dating ads – try email clicks!](https://afflift.com/f/threads/boost-your-dating-ads-%E2%80%93-try-email-clicks.12123/)
 -  30 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
@@ -51,8 +52,7 @@
 -  29 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  29 [Gainster.Pro: Elevate Your Revenue Game! Dive into High-Payout Offers and Experience Innovative Offerwall](https://afflift.com/f/threads/gainster-pro-elevate-your-revenue-game-dive-into-high-payout-offers-and-experience-innovative-offerwall.12302/)
 -  29 [Gainster.Pro Review](https://afflift.com/f/threads/gainster-pro-review.12548/)
--  29 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
--  29 [Seeking Guidance in Transitioning to PPC Offers - Need Help and Advice](https://afflift.com/f/threads/seeking-guidance-in-transitioning-to-ppc-offers-need-help-and-advice.12547/)<!-- afflift:END -->
+-  29 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
