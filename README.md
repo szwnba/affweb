@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [失窃设备保护、Apple Music 协作播放列表……iOS 17.3 值得关注的新特性](https://sspai.com/post/86155)
 -  30 [派早报：小红书上线「风险地点」举报专线的公告，森海塞尔 ACCENTUM Plus 发布等](https://sspai.com/post/86177)
 -  29 [新机械键盘结构漫谈（上）](https://sspai.com/prime/story/mechanic-keyboard-structures-01)
 -  29 [派评 | 近期值得关注的 App](https://sspai.com/post/86166)
