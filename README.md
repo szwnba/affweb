@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  30 [How to find the offers from specific affiliate networks on anstrex push.](https://afflift.com/f/threads/how-to-find-the-offers-from-specific-affiliate-networks-on-anstrex-push.10492/)
+-  30 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
+-  30 [Ultimate Guide to PopAds 💰](https://afflift.com/f/threads/ultimate-guide-to-popads-%F0%9F%92%B0.4382/)
+-  30 [Seeking; High-Converting Dating Offers for Tier 1 &amp; 2 Countries!](https://afflift.com/f/threads/seeking-high-converting-dating-offers-for-tier-1-2-countries.12549/)
+-  30 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
+-  30 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)
 -  30 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  30 [Affiliate Marketing Tools You Need to Boost Sale](https://afflift.com/f/threads/affiliate-marketing-tools-you-need-to-boost-sale.12552/)
 -  30 [Step-by-step guide for setting CPV One with CPA network and Traffic source](https://afflift.com/f/threads/step-by-step-guide-for-setting-cpv-one-with-cpa-network-and-traffic-source.12512/)
--  30 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
 -  30 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
--  30 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  30 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
--  30 [Are conversion rates worse on weekends?](https://afflift.com/f/threads/are-conversion-rates-worse-on-weekends.12536/)
--  30 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  30 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  30 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  30 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
