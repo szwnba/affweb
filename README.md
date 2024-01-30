@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Passing info to aff netw](https://afflift.com/f/threads/passing-info-to-aff-netw.12555/)
 -  30 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  30 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  30 [Salvador’s Guide to Amazing Creatives in mVAS 🎨](https://afflift.com/f/threads/salvador%E2%80%99s-guide-to-amazing-creatives-in-mvas-%F0%9F%8E%A8.12553/)
@@ -50,8 +51,7 @@
 -  30 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  30 [🌟2023 Review and met 2024--A newbie’s annual summary🌟](https://afflift.com/f/threads/%F0%9F%8C%9F2023-review-and-met-2024-a-newbie%E2%80%99s-annual-summary%F0%9F%8C%9F.12427/)
 -  30 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  30 [How to find the offers from specific affiliate networks on anstrex push.](https://afflift.com/f/threads/how-to-find-the-offers-from-specific-affiliate-networks-on-anstrex-push.10492/)
--  30 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
+-  30 [How to find the offers from specific affiliate networks on anstrex push.](https://afflift.com/f/threads/how-to-find-the-offers-from-specific-affiliate-networks-on-anstrex-push.10492/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
