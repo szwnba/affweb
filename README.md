@@ -27,7 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  28 [paxum 收不到验证码怎么办](https://www.advertcn.com/thread-113852-1-1.html)<!-- advertcn3:END -->
+-  30 [亚马逊affiliate什么都没干就封号了](https://www.advertcn.com/thread-113866-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
