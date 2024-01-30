@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
+-  30 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  30 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  30 [Doubts about Propellerads and Clickbank.](https://afflift.com/f/threads/doubts-about-propellerads-and-clickbank.12507/)
 -  30 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
@@ -50,9 +52,7 @@
 -  30 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  30 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
 -  30 [Boost your dating ads – try email clicks!](https://afflift.com/f/threads/boost-your-dating-ads-%E2%80%93-try-email-clicks.12123/)
--  30 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
--  30 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  30 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)<!-- afflift:END -->
+-  30 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
