@@ -40,8 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  30 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/)
 -  30 [Salvador’s Guide to Amazing Creatives in mVAS 🎨](https://afflift.com/f/threads/salvador%E2%80%99s-guide-to-amazing-creatives-in-mvas-%F0%9F%8E%A8.12553/)
+-  30 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/)
 -  30 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
 -  30 [STEP 11 - Setting Postback from Skro Tracker to PopAds Traffic Source](https://afflift.com/f/threads/step-11-setting-postback-from-skro-tracker-to-popads-traffic-source.12322/)
 -  30 [🚀 100 threads to start with - my personal picks 👌](https://afflift.com/f/threads/%F0%9F%9A%80-100-threads-to-start-with-my-personal-picks-%F0%9F%91%8C.12001/)
