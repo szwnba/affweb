@@ -52,6 +52,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [「沉浸式翻译」开发者 Owen 都装了啥？](https://sspai.com/prime/story/zhuanglesha-240131)
+-  31 [一日一技 | Mac 版微信聊天记录如何自动备份至外接硬盘](https://sspai.com/post/86175)
 -  31 [巧用「书签」，你的得力助手就在眼前](https://sspai.com/post/85996)
 -  31 [丰田皇冠简史](https://sspai.com/post/82267)
 -  31 [派早报：大模型新闻三则、首例 Neuralink 人体植入进展顺利](https://sspai.com/post/86197)<!-- sspai:END -->
