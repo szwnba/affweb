@@ -38,6 +38,7 @@
 ### afflift
 <!-- afflift:START -->
 -  31 [how to start affiliate marketing on facebook pages](https://afflift.com/f/threads/how-to-start-affiliate-marketing-on-facebook-pages.12565/)
+-  31 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
 -  31 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  31 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  31 [How can I monitor offer wealth and/or carriers problems](https://afflift.com/f/threads/how-can-i-monitor-offer-wealth-and-or-carriers-problems.12561/)
@@ -47,8 +48,7 @@
 -  31 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
 -  31 [Adcash cost tracking problems](https://afflift.com/f/threads/adcash-cost-tracking-problems.12562/)
 -  31 [mVAS Back to Basics - PropellerAds vs Golden Goose](https://afflift.com/f/threads/mvas-back-to-basics-propellerads-vs-golden-goose.12558/)
--  31 [Step-by-step guide for setting CPV One with CPA network and Traffic source](https://afflift.com/f/threads/step-by-step-guide-for-setting-cpv-one-with-cpa-network-and-traffic-source.12512/)
--  31 [START HERE - Survey Pops - The Intermediate Guide](https://afflift.com/f/threads/start-here-survey-pops-the-intermediate-guide.7471/)<!-- afflift:END -->
+-  31 [Step-by-step guide for setting CPV One with CPA network and Traffic source](https://afflift.com/f/threads/step-by-step-guide-for-setting-cpv-one-with-cpa-network-and-traffic-source.12512/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
