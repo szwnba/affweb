@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  30 [聊一下杀毒offer](https://www.advertcn.com/thread-113872-1-1.html)
--  30 [TikTok for Business产品更新 | 【印尼小店广告回归】印尼ID Shop...](https://www.advertcn.com/thread-113870-1-1.html)<!-- advertcn3:END -->
+-  30 [聊一下杀毒offer](https://www.advertcn.com/thread-113872-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
