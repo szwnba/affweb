@@ -65,5 +65,4 @@
 -  01 [当《原神》不再启动：聊聊我的二次元游戏观察与思考](https://sspai.com/post/85830)
 -  01 [水獭派对 | 好用不割手的开箱刀，少数派还为你要来了全场最低价](https://sspai.com/post/86215)
 -  01 [人机交互的基石｜Apple 字体设计排版深度解析](https://sspai.com/post/86214)
--  01 [派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)
--  31 [「沉浸式翻译」开发者 Owen 都装了啥？](https://sspai.com/prime/story/zhuanglesha-240131)<!-- sspai:END -->
+-  01 [派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)<!-- sspai:END -->
