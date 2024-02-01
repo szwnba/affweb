@@ -47,6 +47,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Discover the Secrets to Mastering Mobile CPA Offers in the MENA Region!](https://afflift.com/f/threads/discover-the-secrets-to-mastering-mobile-cpa-offers-in-the-mena-region.12569/)
+-  01 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  01 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
 -  01 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  01 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
@@ -56,9 +58,7 @@
 -  01 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  01 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
 -  01 [Flickstree Affiliate Program- Hottest Verticals, High converting offers in Sweeps, Nutra, Trials, VOD, Loans &amp; More.](https://afflift.com/f/threads/flickstree-affiliate-program-hottest-verticals-high-converting-offers-in-sweeps-nutra-trials-vod-loans-more.12567/)
--  01 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  01 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
--  01 [mVAS Back to Basics - PropellerAds vs Golden Goose](https://afflift.com/f/threads/mvas-back-to-basics-propellerads-vs-golden-goose.12558/)<!-- afflift:END -->
+-  01 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
