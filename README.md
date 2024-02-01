@@ -46,6 +46,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)
+-  01 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
+-  01 [Campaign Optimizations in Propeller Ads &lpar;On click&rpar;](https://afflift.com/f/threads/campaign-optimizations-in-propeller-ads-on-click.12575/)
 -  01 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  01 [Adpay Cards - Payment Solution for Affiliates | Pay for any ads and services!](https://afflift.com/f/threads/adpay-cards-payment-solution-for-affiliates-pay-for-any-ads-and-services.12574/)
 -  01 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/)
@@ -54,10 +57,7 @@
 -  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  01 [Step-by-step guide for setting CPV One with CPA network and Traffic source](https://afflift.com/f/threads/step-by-step-guide-for-setting-cpv-one-with-cpa-network-and-traffic-source.12512/)
 -  01 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)
--  01 [Running Ads during Popular Sports Events](https://afflift.com/f/threads/running-ads-during-popular-sports-events.12573/)
--  01 [mVAS Back to Basics - PropellerAds vs Golden Goose](https://afflift.com/f/threads/mvas-back-to-basics-propellerads-vs-golden-goose.12558/)
--  01 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  01 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)<!-- afflift:END -->
+-  01 [Running Ads during Popular Sports Events](https://afflift.com/f/threads/running-ads-during-popular-sports-events.12573/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
