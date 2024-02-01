@@ -46,6 +46,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
+-  01 [Adpay Cards - Payment Solution for Affiliates | Pay for any ads and services!](https://afflift.com/f/threads/adpay-cards-payment-solution-for-affiliates-pay-for-any-ads-and-services.12574/)
 -  01 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/)
 -  01 [STEP 11 - Setting Postback from Skro Tracker to PopAds Traffic Source](https://afflift.com/f/threads/step-11-setting-postback-from-skro-tracker-to-popads-traffic-source.12322/)
 -  01 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
@@ -54,10 +56,8 @@
 -  01 [Any Good FAST FLOW Affiliate Programs?](https://afflift.com/f/threads/any-good-fast-flow-affiliate-programs.12449/)
 -  01 [Running Ads during Popular Sports Events](https://afflift.com/f/threads/running-ads-during-popular-sports-events.12573/)
 -  01 [mVAS Back to Basics - PropellerAds vs Golden Goose](https://afflift.com/f/threads/mvas-back-to-basics-propellerads-vs-golden-goose.12558/)
--  01 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  01 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  01 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)
--  01 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)<!-- afflift:END -->
+-  01 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
