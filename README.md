@@ -25,8 +25,7 @@
 -  01 [TK美区企业成品店；英区企业成品店；东南亚成品店；TK跨...](https://www.advertcn.com/thread-113892-1-1.html)
 -  01 [TikTok账号批发、零售，便宜甩](https://www.advertcn.com/thread-113891-1-1.html)
 -  01 [TikTok跨境东南亚TAP招商团长MCN机构服务商全球本土化服务.....](https://www.advertcn.com/thread-113890-1-1.html)
--  01 [轻松开始在eBay上销售：如何创建eBay卖家账号？](https://www.advertcn.com/thread-113887-1-1.html)
--  31 [情人节来袭！如何用POD模式打造个性化商品？](https://www.advertcn.com/thread-113881-1-1.html)<!-- advertcn1:END -->
+-  01 [轻松开始在eBay上销售：如何创建eBay卖家账号？](https://www.advertcn.com/thread-113887-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
