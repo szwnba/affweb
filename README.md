@@ -35,8 +35,7 @@
 <!-- advertcn3:START -->
 -  01 [前段时间在忙 ， 最近发生什么维权的事情了 ？](https://www.advertcn.com/thread-113889-1-1.html)
 -  01 [请问谁有trafficafctory出售](https://www.advertcn.com/thread-113888-1-1.html)
--  01 [谷歌位于约翰内斯堡的首个非洲云区域现已投入运营](https://www.advertcn.com/thread-113886-1-1.html)
--  31 [寻求Clickdealer AM开个账号&amp;&amp;其他疑惑](https://www.advertcn.com/thread-113884-1-1.html)<!-- advertcn3:END -->
+-  01 [谷歌位于约翰内斯堡的首个非洲云区域现已投入运营](https://www.advertcn.com/thread-113886-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
