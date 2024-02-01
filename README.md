@@ -62,6 +62,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [新玩意 171｜少数派的编辑们最近买了啥？](https://sspai.com/post/86233)
 -  01 [当《原神》不再启动：聊聊我的二次元游戏观察与思考](https://sspai.com/post/85830)
 -  01 [水獭派对 | 好用不割手的开箱刀，少数派还为你要来了全场最低价](https://sspai.com/post/86215)
 -  01 [人机交互的基石｜Apple 字体设计排版深度解析](https://sspai.com/post/86214)
