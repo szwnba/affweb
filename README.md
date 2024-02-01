@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  25 [TwoDNS免费提供DDNS服务，支持13个德国子域名](https://51.ruyo.net/18595.html)<!-- ruyo:END -->
+-  01 [《幻兽帕鲁》不花钱自建服务端实现联机教程+单机版分享](https://51.ruyo.net/18604.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
