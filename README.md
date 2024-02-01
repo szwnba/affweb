@@ -47,6 +47,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
+-  01 [What tracker are you using?](https://afflift.com/f/threads/what-tracker-are-you-using.11940/)
 -  01 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
 -  01 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
 -  01 [Flickstree Affiliate Program- Hottest Verticals, High converting offers in Sweeps, Nutra, Trials, VOD, Loans &amp; More.](https://afflift.com/f/threads/flickstree-affiliate-program-hottest-verticals-high-converting-offers-in-sweeps-nutra-trials-vod-loans-more.12567/)
@@ -56,9 +58,7 @@
 -  31 [how to start affiliate marketing on facebook pages](https://afflift.com/f/threads/how-to-start-affiliate-marketing-on-facebook-pages.12565/)
 -  31 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  31 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
--  31 [How can I monitor offer wealth and/or carriers problems](https://afflift.com/f/threads/how-can-i-monitor-offer-wealth-and-or-carriers-problems.12561/)
--  31 [trying to get on mediavine](https://afflift.com/f/threads/trying-to-get-on-mediavine.12564/)
--  31 [Earn 195$ PPS With AffRip Program](https://afflift.com/f/threads/earn-195-pps-with-affrip-program.12563/)<!-- afflift:END -->
+-  31 [How can I monitor offer wealth and/or carriers problems](https://afflift.com/f/threads/how-can-i-monitor-offer-wealth-and-or-carriers-problems.12561/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
