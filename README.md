@@ -46,6 +46,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/)
 -  01 [STEP 11 - Setting Postback from Skro Tracker to PopAds Traffic Source](https://afflift.com/f/threads/step-11-setting-postback-from-skro-tracker-to-popads-traffic-source.12322/)
 -  01 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
 -  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
@@ -56,8 +57,7 @@
 -  01 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  01 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  01 [Looking for mainstream global in-house offers/smartlinks](https://afflift.com/f/threads/looking-for-mainstream-global-in-house-offers-smartlinks.12527/)
--  01 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)
--  01 [iGB Affiliate London VIP &amp; Meetup](https://afflift.com/f/threads/igb-affiliate-london-vip-meetup.12570/)<!-- afflift:END -->
+-  01 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
