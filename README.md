@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  31 [情人节来袭！如何用POD模式打造个性化商品？](https://www.advertcn.com/thread-113881-1-1.html)
--  31 [Twitter广告大介绍！！！看这一篇就够了](https://www.advertcn.com/thread-113880-1-1.html)<!-- advertcn1:END -->
+-  31 [情人节来袭！如何用POD模式打造个性化商品？](https://www.advertcn.com/thread-113881-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
