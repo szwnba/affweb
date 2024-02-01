@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
 -  01 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
 -  01 [Flickstree Affiliate Program- Hottest Verticals, High converting offers in Sweeps, Nutra, Trials, VOD, Loans &amp; More.](https://afflift.com/f/threads/flickstree-affiliate-program-hottest-verticals-high-converting-offers-in-sweeps-nutra-trials-vod-loans-more.12567/)
 -  01 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
@@ -48,8 +49,7 @@
 -  31 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  31 [How can I monitor offer wealth and/or carriers problems](https://afflift.com/f/threads/how-can-i-monitor-offer-wealth-and-or-carriers-problems.12561/)
 -  31 [trying to get on mediavine](https://afflift.com/f/threads/trying-to-get-on-mediavine.12564/)
--  31 [Earn 195$ PPS With AffRip Program](https://afflift.com/f/threads/earn-195-pps-with-affrip-program.12563/)
--  31 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)<!-- afflift:END -->
+-  31 [Earn 195$ PPS With AffRip Program](https://afflift.com/f/threads/earn-195-pps-with-affrip-program.12563/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
