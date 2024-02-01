@@ -53,8 +53,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [人机交互的基石｜Apple 字体设计排版深度解析](https://sspai.com/post/86214)
 -  01 [派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等](https://sspai.com/post/86222)
 -  31 [「沉浸式翻译」开发者 Owen 都装了啥？](https://sspai.com/prime/story/zhuanglesha-240131)
 -  31 [一日一技 | Mac 版微信聊天记录如何自动备份至外接硬盘](https://sspai.com/post/86175)
--  31 [巧用「书签」，你的得力助手就在眼前](https://sspai.com/post/85996)
--  31 [丰田皇冠简史](https://sspai.com/post/82267)<!-- sspai:END -->
+-  31 [巧用「书签」，你的得力助手就在眼前](https://sspai.com/post/85996)<!-- sspai:END -->
