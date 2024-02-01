@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  01 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
 -  01 [mVAS Back to Basics - PropellerAds vs Golden Goose](https://afflift.com/f/threads/mvas-back-to-basics-propellerads-vs-golden-goose.12558/)
 -  31 [how to start affiliate marketing on facebook pages](https://afflift.com/f/threads/how-to-start-affiliate-marketing-on-facebook-pages.12565/)
@@ -48,8 +49,7 @@
 -  31 [Earn 195$ PPS With AffRip Program](https://afflift.com/f/threads/earn-195-pps-with-affrip-program.12563/)
 -  31 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
 -  31 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
--  31 [Adcash cost tracking problems](https://afflift.com/f/threads/adcash-cost-tracking-problems.12562/)
--  31 [Step-by-step guide for setting CPV One with CPA network and Traffic source](https://afflift.com/f/threads/step-by-step-guide-for-setting-cpv-one-with-cpa-network-and-traffic-source.12512/)<!-- afflift:END -->
+-  31 [Adcash cost tracking problems](https://afflift.com/f/threads/adcash-cost-tracking-problems.12562/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
