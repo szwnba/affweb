@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [iGB Affiliate London VIP &amp; Meetup](https://afflift.com/f/threads/igb-affiliate-london-vip-meetup.12570/)
+-  02 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  02 [PIN API &amp; Click2SMS API update!](https://afflift.com/f/threads/pin-api-click2sms-api-update.12581/)
+-  02 [What Click2Email Submit Ratio should i aim for?](https://afflift.com/f/threads/what-click2email-submit-ratio-should-i-aim-for.12580/)
+-  02 [For the Email Advertisers - Are you using Single Opt In or Double Opt In?](https://afflift.com/f/threads/for-the-email-advertisers-are-you-using-single-opt-in-or-double-opt-in.12557/)
+-  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  02 [Tracking Clickbank order form impression/hop](https://afflift.com/f/threads/tracking-clickbank-order-form-impression-hop.8345/)
 -  02 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  02 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  02 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)
--  02 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  02 [How to use anstrex to create creative for mvas offer?](https://afflift.com/f/threads/how-to-use-anstrex-to-create-creative-for-mvas-offer.12576/)
--  02 [You Can&#39;t Miss On These Affiliate Programs for Valentine’s Day](https://afflift.com/f/threads/you-cant-miss-on-these-affiliate-programs-for-valentine%E2%80%99s-day.12579/)
--  02 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  02 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  02 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  02 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)<!-- afflift:END -->
+-  02 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
