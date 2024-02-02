@@ -46,6 +46,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
+-  02 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  01 [Trackers With Best Multi-Offer Click URL Support](https://afflift.com/f/threads/trackers-with-best-multi-offer-click-url-support.12467/)
 -  01 [Campaign Optimizations in Propeller Ads &lpar;On click&rpar;](https://afflift.com/f/threads/campaign-optimizations-in-propeller-ads-on-click.12575/)
 -  01 [Tracker Switch Situation - Your opinion?](https://afflift.com/f/threads/tracker-switch-situation-your-opinion.12531/)
@@ -55,9 +57,7 @@
 -  01 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  01 [Adpay Cards - Payment Solution for Affiliates | Pay for any ads and services!](https://afflift.com/f/threads/adpay-cards-payment-solution-for-affiliates-pay-for-any-ads-and-services.12574/)
 -  01 [Is this considered adult traffic in SA](https://afflift.com/f/threads/is-this-considered-adult-traffic-in-sa.11158/)
--  01 [STEP 11 - Setting Postback from Skro Tracker to PopAds Traffic Source](https://afflift.com/f/threads/step-11-setting-postback-from-skro-tracker-to-popads-traffic-source.12322/)
--  01 [Greetings!](https://afflift.com/f/threads/greetings.12450/)
--  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)<!-- afflift:END -->
+-  01 [STEP 11 - Setting Postback from Skro Tracker to PopAds Traffic Source](https://afflift.com/f/threads/step-11-setting-postback-from-skro-tracker-to-popads-traffic-source.12322/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
