@@ -42,11 +42,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  02 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  02 [Introducing the Beginners Course 2.0](https://afflift.com/f/threads/introducing-the-beginners-course-2-0.12432/)
 -  02 [Campaign Optimizations in Propeller Ads &lpar;On click&rpar;](https://afflift.com/f/threads/campaign-optimizations-in-propeller-ads-on-click.12575/)
 -  02 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
--  02 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  02 [What Click2Email Submit Ratio should i aim for?](https://afflift.com/f/threads/what-click2email-submit-ratio-should-i-aim-for.12580/)
 -  02 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  02 [iGB Affiliate London VIP &amp; Meetup](https://afflift.com/f/threads/igb-affiliate-london-vip-meetup.12570/)
