@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
 -  02 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
+-  02 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
+-  02 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/)
+-  02 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  02 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
 -  02 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)
 -  02 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)
 -  02 [Just upgraded!](https://afflift.com/f/threads/just-upgraded.12419/)
 -  02 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
 -  02 [how to start affiliate marketing on facebook pages](https://afflift.com/f/threads/how-to-start-affiliate-marketing-on-facebook-pages.12565/)
--  02 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
--  02 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)
--  02 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  02 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
--  02 [Introducing the Beginners Course 2.0](https://afflift.com/f/threads/introducing-the-beginners-course-2-0.12432/)<!-- afflift:END -->
+-  02 [My 1st FA--Use Landing pages to make x$/D to xx$/D](https://afflift.com/f/threads/my-1st-fa-use-landing-pages-to-make-x-d-to-xx-d.12502/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
