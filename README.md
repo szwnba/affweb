@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
 -  02 [iGB Affiliate London VIP &amp; Meetup](https://afflift.com/f/threads/igb-affiliate-london-vip-meetup.12570/)
 -  02 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  02 [PIN API &amp; Click2SMS API update!](https://afflift.com/f/threads/pin-api-click2sms-api-update.12581/)
@@ -52,8 +53,7 @@
 -  02 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  02 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  02 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)
--  02 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)<!-- afflift:END -->
+-  02 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
