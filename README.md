@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  02 [出GP开发者账号  QQ3697569423](https://www.advertcn.com/thread-113912-1-1.html)
 -  02 [tiktok本土英美店铺东南亚本土/企业店铺](https://www.advertcn.com/thread-113911-1-1.html)
 -  02 [TikTOk全球实名认证资料](https://www.advertcn.com/thread-113910-1-1.html)
 -  02 [TikTok账号白号 批发、零售 千粉 橱窗号 实名直播号](https://www.advertcn.com/thread-113908-1-1.html)<!-- advertcn1:END -->
