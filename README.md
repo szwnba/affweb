@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
+-  02 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  02 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)
 -  02 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
@@ -50,9 +52,7 @@
 -  02 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  02 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  02 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)
--  02 [🚨 Slotland Affiliates at IGB London24 – booth F30! 🚨](https://afflift.com/f/threads/%F0%9F%9A%A8-slotland-affiliates-at-igb-london24-%E2%80%93-booth-f30-%F0%9F%9A%A8.12578/)
--  02 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  02 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  02 [🚨 Slotland Affiliates at IGB London24 – booth F30! 🚨](https://afflift.com/f/threads/%F0%9F%9A%A8-slotland-affiliates-at-igb-london24-%E2%80%93-booth-f30-%F0%9F%9A%A8.12578/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
