@@ -63,6 +63,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  02 [早晚用得上的生活指南：我的第一次拔牙经历分享](https://sspai.com/post/86201)
 -  02 [派早报：HMD Global 社交账户改名、第三方社区「Linux 中国」停止运营等](https://sspai.com/post/86250)
 -  01 [新玩意 171｜少数派的编辑们最近买了啥？](https://sspai.com/post/86233)
 -  01 [当《原神》不再启动：聊聊我的二次元游戏观察与思考](https://sspai.com/post/85830)
