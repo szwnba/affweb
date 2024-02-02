@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Tracking Clickbank order form impression/hop](https://afflift.com/f/threads/tracking-clickbank-order-form-impression-hop.8345/)
 -  02 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  02 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
@@ -52,8 +53,7 @@
 -  02 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
 -  02 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  02 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  02 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)
--  02 [🚨 Slotland Affiliates at IGB London24 – booth F30! 🚨](https://afflift.com/f/threads/%F0%9F%9A%A8-slotland-affiliates-at-igb-london24-%E2%80%93-booth-f30-%F0%9F%9A%A8.12578/)<!-- afflift:END -->
+-  02 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
