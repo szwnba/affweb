@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
+-  02 [Introducing the Beginners Course 2.0](https://afflift.com/f/threads/introducing-the-beginners-course-2-0.12432/)
+-  02 [Campaign Optimizations in Propeller Ads &lpar;On click&rpar;](https://afflift.com/f/threads/campaign-optimizations-in-propeller-ads-on-click.12575/)
 -  02 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
+-  02 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
+-  02 [What Click2Email Submit Ratio should i aim for?](https://afflift.com/f/threads/what-click2email-submit-ratio-should-i-aim-for.12580/)
+-  02 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  02 [iGB Affiliate London VIP &amp; Meetup](https://afflift.com/f/threads/igb-affiliate-london-vip-meetup.12570/)
 -  02 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  02 [PIN API &amp; Click2SMS API update!](https://afflift.com/f/threads/pin-api-click2sms-api-update.12581/)
--  02 [What Click2Email Submit Ratio should i aim for?](https://afflift.com/f/threads/what-click2email-submit-ratio-should-i-aim-for.12580/)
 -  02 [For the Email Advertisers - Are you using Single Opt In or Double Opt In?](https://afflift.com/f/threads/for-the-email-advertisers-are-you-using-single-opt-in-or-double-opt-in.12557/)
--  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  02 [Tracking Clickbank order form impression/hop](https://afflift.com/f/threads/tracking-clickbank-order-form-impression-hop.8345/)
--  02 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
--  02 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  02 [What niches can use Push Ads to collect emails?](https://afflift.com/f/threads/what-niches-can-use-push-ads-to-collect-emails.12523/)<!-- afflift:END -->
+-  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
