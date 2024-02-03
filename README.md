@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
+-  03 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  02 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  02 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/)
 -  02 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
@@ -47,9 +49,7 @@
 -  02 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  02 [Amateur stuff from Galaksion!](https://afflift.com/f/threads/amateur-stuff-from-galaksion.12400/)
 -  02 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)
--  02 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)
--  02 [Just upgraded!](https://afflift.com/f/threads/just-upgraded.12419/)
--  02 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)<!-- afflift:END -->
+-  02 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
