@@ -36,8 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Help with a double click going on in my LP](https://afflift.com/f/threads/help-with-a-double-click-going-on-in-my-lp.12585/)
 -  03 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
+-  03 [Help with a double click going on in my LP](https://afflift.com/f/threads/help-with-a-double-click-going-on-in-my-lp.12585/)
 -  03 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
 -  03 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  03 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
