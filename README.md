@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  03 [归因和GA的事件统计有什么区别](https://www.advertcn.com/thread-113914-1-1.html)
 -  02 [寻Affiliate业务顾问/合伙人](https://www.advertcn.com/thread-113907-1-1.html)<!-- advertcn3:END -->
 
 
