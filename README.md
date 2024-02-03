@@ -52,5 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  03 [年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)
--  02 [本周看什么 | 最近值得一看的一大碟作品](https://sspai.com/post/86266)<!-- sspai:END -->
+-  03 [年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)<!-- sspai:END -->
