@@ -36,8 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
 -  03 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
+-  03 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
+-  03 [Overcoming Affiliate Marketing Burnout and Stress: How to Use Pop Ads to Easily Generate Successful Ad Campaigns in 2023](https://afflift.com/f/threads/overcoming-affiliate-marketing-burnout-and-stress-how-to-use-pop-ads-to-easily-generate-successful-ad-campaigns-in-2023.12437/)
 -  03 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  03 [🌟2023 Review and met 2024--A newbie’s annual summary🌟](https://afflift.com/f/threads/%F0%9F%8C%9F2023-review-and-met-2024-a-newbie%E2%80%99s-annual-summary%F0%9F%8C%9F.12427/)
 -  03 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
@@ -46,8 +47,7 @@
 -  03 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
 -  03 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
 -  03 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
--  03 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)
--  03 [What Click2Email Submit Ratio should i aim for?](https://afflift.com/f/threads/what-click2email-submit-ratio-should-i-aim-for.12580/)<!-- afflift:END -->
+-  03 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
