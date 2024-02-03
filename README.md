@@ -52,5 +52,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  03 [年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)
--  02 [本周看什么 | 最近值得一看的一大碟作品](https://sspai.com/post/86266)
--  02 [虽意犹未尽，但无可挑剔：《The Last of Us Part II》重制版篝火评测](https://sspai.com/post/86259)<!-- sspai:END -->
+-  02 [本周看什么 | 最近值得一看的一大碟作品](https://sspai.com/post/86266)<!-- sspai:END -->
