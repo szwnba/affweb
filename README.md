@@ -25,9 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  02 [寻Affiliate业务顾问/合伙人](https://www.advertcn.com/thread-113907-1-1.html)
--  02 [semrush 家的联盟真恶心](https://www.advertcn.com/thread-113902-1-1.html)
--  02 [如果发送邮件没有成本，有什么变现思路？](https://www.advertcn.com/thread-113901-1-1.html)<!-- advertcn3:END -->
+-  02 [寻Affiliate业务顾问/合伙人](https://www.advertcn.com/thread-113907-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
