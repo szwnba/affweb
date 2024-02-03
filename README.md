@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
 -  03 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
 -  03 [Looking for propellerads x zeydoo alternatives](https://afflift.com/f/threads/looking-for-propellerads-x-zeydoo-alternatives.12550/)
 -  03 [What Click2Email Submit Ratio should i aim for?](https://afflift.com/f/threads/what-click2email-submit-ratio-should-i-aim-for.12580/)
@@ -45,7 +46,6 @@
 -  03 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  02 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  02 [Purelander is updated?](https://afflift.com/f/threads/purelander-is-updated.11150/)
--  02 [Wordpress JavaScript Mystery](https://afflift.com/f/threads/wordpress-javascript-mystery.12520/)
 -  02 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
 -  02 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  02 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)<!-- afflift:END -->
