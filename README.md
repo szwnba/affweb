@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
 -  04 [Looking for WiFi traffic tips](https://afflift.com/f/threads/looking-for-wifi-traffic-tips.12586/)
 -  03 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  03 [Non-billable Trial Offers](https://afflift.com/f/threads/non-billable-trial-offers.8709/)
@@ -46,8 +47,7 @@
 -  03 [Help with a double click going on in my LP](https://afflift.com/f/threads/help-with-a-double-click-going-on-in-my-lp.12585/)
 -  03 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
 -  03 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
--  03 [Overcoming Affiliate Marketing Burnout and Stress: How to Use Pop Ads to Easily Generate Successful Ad Campaigns in 2023](https://afflift.com/f/threads/overcoming-affiliate-marketing-burnout-and-stress-how-to-use-pop-ads-to-easily-generate-successful-ad-campaigns-in-2023.12437/)
--  03 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  03 [Overcoming Affiliate Marketing Burnout and Stress: How to Use Pop Ads to Easily Generate Successful Ad Campaigns in 2023](https://afflift.com/f/threads/overcoming-affiliate-marketing-burnout-and-stress-how-to-use-pop-ads-to-easily-generate-successful-ad-campaigns-in-2023.12437/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
