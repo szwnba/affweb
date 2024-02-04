@@ -38,9 +38,9 @@
 ### afflift
 <!-- afflift:START -->
 -  04 [Non-billable Trial Offers](https://afflift.com/f/threads/non-billable-trial-offers.8709/)
+-  04 [My push journey begins!](https://afflift.com/f/threads/my-push-journey-begins.12587/)
 -  04 [Looking for WiFi traffic tips](https://afflift.com/f/threads/looking-for-wifi-traffic-tips.12586/)
 -  04 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  04 [My push journey begins!](https://afflift.com/f/threads/my-push-journey-begins.12587/)
 -  04 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  04 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
 -  04 [Salvador’s Guide to Amazing Creatives in mVAS 🎨](https://afflift.com/f/threads/salvador%E2%80%99s-guide-to-amazing-creatives-in-mvas-%F0%9F%8E%A8.12553/)
