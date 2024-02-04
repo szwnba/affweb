@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  04 [My push journey begins!](https://afflift.com/f/threads/my-push-journey-begins.12587/)
 -  04 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  04 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
@@ -46,8 +47,7 @@
 -  03 [Non-billable Trial Offers](https://afflift.com/f/threads/non-billable-trial-offers.8709/)
 -  03 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  03 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  03 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)
--  03 [Help with a double click going on in my LP](https://afflift.com/f/threads/help-with-a-double-click-going-on-in-my-lp.12585/)<!-- afflift:END -->
+-  03 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
