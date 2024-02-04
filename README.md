@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  03 [年度数码科技大盘点：我们眼中的最佳与最差都是啥？](https://sspai.com/post/86281)<!-- sspai:END -->
+-  04 [App+1 | 满足你的轻量化需求，把私密文件和 app 藏起来：Amarok](https://sspai.com/post/86161)<!-- sspai:END -->
