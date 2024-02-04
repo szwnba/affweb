@@ -37,8 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [STEP 9 - Creating your first campaign](https://afflift.com/f/threads/step-9-creating-your-first-campaign.12320/)
 -  04 [My push journey begins!](https://afflift.com/f/threads/my-push-journey-begins.12587/)
+-  04 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
+-  04 [STEP 9 - Creating your first campaign](https://afflift.com/f/threads/step-9-creating-your-first-campaign.12320/)
 -  04 [[Looking For] Incentive Offers For LATAM / Asian Market](https://afflift.com/f/threads/looking-for-incentive-offers-for-latam-asian-market.12588/)
 -  04 [Non-billable Trial Offers](https://afflift.com/f/threads/non-billable-trial-offers.8709/)
 -  04 [Looking for WiFi traffic tips](https://afflift.com/f/threads/looking-for-wifi-traffic-tips.12586/)
@@ -47,8 +48,7 @@
 -  04 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
 -  04 [Salvador’s Guide to Amazing Creatives in mVAS 🎨](https://afflift.com/f/threads/salvador%E2%80%99s-guide-to-amazing-creatives-in-mvas-%F0%9F%8E%A8.12553/)
 -  04 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
--  04 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
--  03 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)<!-- afflift:END -->
+-  04 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
