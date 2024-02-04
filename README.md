@@ -37,8 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [Non-billable Trial Offers](https://afflift.com/f/threads/non-billable-trial-offers.8709/)
+-  04 [STEP 9 - Creating your first campaign](https://afflift.com/f/threads/step-9-creating-your-first-campaign.12320/)
 -  04 [My push journey begins!](https://afflift.com/f/threads/my-push-journey-begins.12587/)
+-  04 [[Looking For] Incentive Offers For LATAM / Asian Market](https://afflift.com/f/threads/looking-for-incentive-offers-for-latam-asian-market.12588/)
+-  04 [Non-billable Trial Offers](https://afflift.com/f/threads/non-billable-trial-offers.8709/)
 -  04 [Looking for WiFi traffic tips](https://afflift.com/f/threads/looking-for-wifi-traffic-tips.12586/)
 -  04 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  04 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
@@ -46,9 +48,7 @@
 -  04 [Salvador’s Guide to Amazing Creatives in mVAS 🎨](https://afflift.com/f/threads/salvador%E2%80%99s-guide-to-amazing-creatives-in-mvas-%F0%9F%8E%A8.12553/)
 -  04 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  04 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
--  03 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
--  03 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  03 [Help with Golden Goose Tracking](https://afflift.com/f/threads/help-with-golden-goose-tracking.12461/)<!-- afflift:END -->
+-  03 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
