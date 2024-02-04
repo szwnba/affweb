@@ -36,9 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
--  04 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  04 [My push journey begins!](https://afflift.com/f/threads/my-push-journey-begins.12587/)
+-  04 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
+-  04 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
 -  04 [Salvador’s Guide to Amazing Creatives in mVAS 🎨](https://afflift.com/f/threads/salvador%E2%80%99s-guide-to-amazing-creatives-in-mvas-%F0%9F%8E%A8.12553/)
 -  04 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  04 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
