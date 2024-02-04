@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
+-  04 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)
 -  04 [Yahoo Mail Popup](https://afflift.com/f/threads/yahoo-mail-popup.12589/)
 -  04 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
 -  04 [STEP 8 - Adding Postback from Zeydoo Affiliate Network to Skro Tracker](https://afflift.com/f/threads/step-8-adding-postback-from-zeydoo-affiliate-network-to-skro-tracker.12319/)
@@ -46,9 +48,7 @@
 -  04 [STEP 9 - Creating your first campaign](https://afflift.com/f/threads/step-9-creating-your-first-campaign.12320/)
 -  04 [[Looking For] Incentive Offers For LATAM / Asian Market](https://afflift.com/f/threads/looking-for-incentive-offers-for-latam-asian-market.12588/)
 -  04 [Non-billable Trial Offers](https://afflift.com/f/threads/non-billable-trial-offers.8709/)
--  04 [Looking for WiFi traffic tips](https://afflift.com/f/threads/looking-for-wifi-traffic-tips.12586/)
--  04 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
--  04 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)<!-- afflift:END -->
+-  04 [Looking for WiFi traffic tips](https://afflift.com/f/threads/looking-for-wifi-traffic-tips.12586/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
