@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Looking for WiFi traffic tips](https://afflift.com/f/threads/looking-for-wifi-traffic-tips.12586/)
+-  03 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  03 [Non-billable Trial Offers](https://afflift.com/f/threads/non-billable-trial-offers.8709/)
 -  03 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  03 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
@@ -43,11 +45,9 @@
 -  03 [Exoclick huge clickloss](https://afflift.com/f/threads/exoclick-huge-clickloss.12583/)
 -  03 [Help with a double click going on in my LP](https://afflift.com/f/threads/help-with-a-double-click-going-on-in-my-lp.12585/)
 -  03 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
--  03 [✅ What Skill Level Affiliate Are You?](https://afflift.com/f/threads/%E2%9C%85-what-skill-level-affiliate-are-you.7860/)
 -  03 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
 -  03 [Overcoming Affiliate Marketing Burnout and Stress: How to Use Pop Ads to Easily Generate Successful Ad Campaigns in 2023](https://afflift.com/f/threads/overcoming-affiliate-marketing-burnout-and-stress-how-to-use-pop-ads-to-easily-generate-successful-ad-campaigns-in-2023.12437/)
--  03 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  03 [🌟2023 Review and met 2024--A newbie’s annual summary🌟](https://afflift.com/f/threads/%F0%9F%8C%9F2023-review-and-met-2024-a-newbie%E2%80%99s-annual-summary%F0%9F%8C%9F.12427/)<!-- afflift:END -->
+-  03 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
