@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  04 [各位，如果有那种 完全模拟人工操作的自动化脚本，你会....](https://www.advertcn.com/thread-113917-1-1.html)
--  03 [归因和GA的事件统计有什么区别](https://www.advertcn.com/thread-113914-1-1.html)<!-- advertcn3:END -->
+-  04 [各位，如果有那种 完全模拟人工操作的自动化脚本，你会....](https://www.advertcn.com/thread-113917-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
