@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
--  05 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
--  05 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
--  05 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
--  05 [A4A Says Hello!](https://afflift.com/f/threads/a4a-says-hello.12591/)
--  05 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
--  05 [Yahoo Mail Popup](https://afflift.com/f/threads/yahoo-mail-popup.12589/)
 -  05 [My 1st FA--✅Use Landing pages to make x$/D to xx$/D✅achieved](https://afflift.com/f/threads/my-1st-fa-%E2%9C%85use-landing-pages-to-make-x-d-to-xx-d%E2%9C%85achieved.12502/)
--  05 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  05 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
--  05 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
--  05 [Partners 1xBet – Top Betting &amp; Gambling Affiliate Program with 40%+ Conversion](https://afflift.com/f/threads/partners-1xbet-%E2%80%93-top-betting-gambling-affiliate-program-with-40-conversion.12328/)<!-- afflift:END -->
+-  05 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
+-  05 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
+-  05 [iGB Affiliate London VIP &amp; Meetup](https://afflift.com/f/threads/igb-affiliate-london-vip-meetup.12570/)
+-  05 [AM Viva-MTS and BY MTS: increased profit!](https://afflift.com/f/threads/am-viva-mts-and-by-mts-increased-profit.12593/)
+-  05 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
+-  05 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  05 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
+-  05 [Will you draw the raffle OnClickA?](https://afflift.com/f/threads/will-you-draw-the-raffle-onclicka.12584/)
+-  05 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
+-  05 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
+-  05 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
