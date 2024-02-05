@@ -37,11 +37,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
+-  05 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
 -  05 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  05 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)
--  05 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
 -  05 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
--  05 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
 -  05 [AI White Pages Generator for AdWords / FB / Tik Tok](https://afflift.com/f/threads/ai-white-pages-generator-for-adwords-fb-tik-tok.12535/)
 -  05 [Deciding Whether to Continue a Losing Campaign &lpar;with examples&rpar;](https://afflift.com/f/threads/deciding-whether-to-continue-a-losing-campaign-with-examples.12595/)
 -  05 [STEP 8 - Adding Postback from Zeydoo Affiliate Network to Skro Tracker](https://afflift.com/f/threads/step-8-adding-postback-from-zeydoo-affiliate-network-to-skro-tracker.12319/)
