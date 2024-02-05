@@ -37,8 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  05 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
+-  05 [AI White Pages Generator for AdWords / FB / Tik Tok](https://afflift.com/f/threads/ai-white-pages-generator-for-adwords-fb-tik-tok.12535/)
+-  05 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  05 [Deciding Whether to Continue a Losing Campaign &lpar;with examples&rpar;](https://afflift.com/f/threads/deciding-whether-to-continue-a-losing-campaign-with-examples.12595/)
 -  05 [STEP 8 - Adding Postback from Zeydoo Affiliate Network to Skro Tracker](https://afflift.com/f/threads/step-8-adding-postback-from-zeydoo-affiliate-network-to-skro-tracker.12319/)
 -  05 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
@@ -47,8 +48,7 @@
 -  05 [Creating Custom Events in Binom v2](https://afflift.com/f/threads/creating-custom-events-in-binom-v2.12594/)
 -  05 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  05 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  05 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  05 [My 1st FA--✅Use Landing pages to make x$/D to xx$/D✅achieved](https://afflift.com/f/threads/my-1st-fa-%E2%9C%85use-landing-pages-to-make-x-d-to-xx-d%E2%9C%85achieved.12502/)<!-- afflift:END -->
+-  05 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
