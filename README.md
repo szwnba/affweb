@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
+-  05 [A4A Says Hello!](https://afflift.com/f/threads/a4a-says-hello.12591/)
+-  05 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
+-  05 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
+-  05 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  05 [Yahoo Mail Popup](https://afflift.com/f/threads/yahoo-mail-popup.12589/)
 -  05 [Partners 1xBet – Top Betting &amp; Gambling Affiliate Program with 40%+ Conversion](https://afflift.com/f/threads/partners-1xbet-%E2%80%93-top-betting-gambling-affiliate-program-with-40-conversion.12328/)
 -  05 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
 -  05 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  05 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  05 [My 1st FA--✅Use Landing pages to make x$/D to xx$/D✅achieved](https://afflift.com/f/threads/my-1st-fa-%E2%9C%85use-landing-pages-to-make-x-d-to-xx-d%E2%9C%85achieved.12502/)
--  05 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
--  05 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  05 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
--  05 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  05 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  05 [My push journey begins!](https://afflift.com/f/threads/my-push-journey-begins.12587/)<!-- afflift:END -->
+-  05 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
