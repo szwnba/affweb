@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  04 [Google广告如何选择广告类型！？速速查收](https://www.advertcn.com/thread-113923-1-1.html)<!-- advertcn1:END -->
+-  05 [请查收：Facebook广告机器学习相关问题（Q&amp;A）！](https://www.advertcn.com/thread-113927-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
