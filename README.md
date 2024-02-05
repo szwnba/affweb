@@ -26,7 +26,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  04 [域名的状态如何和icann EPP Status Codes匹配起来?](https://www.advertcn.com/thread-113924-1-1.html)
--  04 [各位，如果有那种 完全模拟人工操作的自动化脚本，你会....](https://www.advertcn.com/thread-113917-1-1.html)<!-- advertcn3:END -->
+-  04 [代搭建IM开心版（3.8）](https://www.advertcn.com/thread-113920-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
