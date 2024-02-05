@@ -37,10 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  05 [Salvador’s Guide to Amazing Creatives in mVAS 🎨](https://afflift.com/f/threads/salvador%E2%80%99s-guide-to-amazing-creatives-in-mvas-%F0%9F%8E%A8.12553/)
 -  05 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)
 -  05 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
--  04 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  04 [Yahoo Mail Popup](https://afflift.com/f/threads/yahoo-mail-popup.12589/)
 -  04 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
 -  04 [STEP 8 - Adding Postback from Zeydoo Affiliate Network to Skro Tracker](https://afflift.com/f/threads/step-8-adding-postback-from-zeydoo-affiliate-network-to-skro-tracker.12319/)
