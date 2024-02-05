@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Account was closed due to a false copyright claim on Facebook](https://afflift.com/f/threads/account-was-closed-due-to-a-false-copyright-claim-on-facebook.12590/)
 -  05 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
 -  05 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  05 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
@@ -48,8 +49,7 @@
 -  04 [Yahoo Mail Popup](https://afflift.com/f/threads/yahoo-mail-popup.12589/)
 -  04 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
 -  04 [STEP 8 - Adding Postback from Zeydoo Affiliate Network to Skro Tracker](https://afflift.com/f/threads/step-8-adding-postback-from-zeydoo-affiliate-network-to-skro-tracker.12319/)
--  04 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  04 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
+-  04 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
