@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
+-  05 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
+-  05 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
+-  05 [Anyone ever see a CPV cost them $6!?](https://afflift.com/f/threads/anyone-ever-see-a-cpv-cost-them-6.12493/)
+-  05 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
 -  05 [A4A Says Hello!](https://afflift.com/f/threads/a4a-says-hello.12591/)
 -  05 [Performance with vs without the Backunder Script?](https://afflift.com/f/threads/performance-with-vs-without-the-backunder-script.10843/)
+-  05 [Yahoo Mail Popup](https://afflift.com/f/threads/yahoo-mail-popup.12589/)
+-  05 [My 1st FA--✅Use Landing pages to make x$/D to xx$/D✅achieved](https://afflift.com/f/threads/my-1st-fa-%E2%9C%85use-landing-pages-to-make-x-d-to-xx-d%E2%9C%85achieved.12502/)
+-  05 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  05 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  05 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
--  05 [Yahoo Mail Popup](https://afflift.com/f/threads/yahoo-mail-popup.12589/)
--  05 [Partners 1xBet – Top Betting &amp; Gambling Affiliate Program with 40%+ Conversion](https://afflift.com/f/threads/partners-1xbet-%E2%80%93-top-betting-gambling-affiliate-program-with-40-conversion.12328/)
--  05 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
--  05 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  05 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  05 [My 1st FA--✅Use Landing pages to make x$/D to xx$/D✅achieved](https://afflift.com/f/threads/my-1st-fa-%E2%9C%85use-landing-pages-to-make-x-d-to-xx-d%E2%9C%85achieved.12502/)
--  05 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)<!-- afflift:END -->
+-  05 [Partners 1xBet – Top Betting &amp; Gambling Affiliate Program with 40%+ Conversion](https://afflift.com/f/threads/partners-1xbet-%E2%80%93-top-betting-gambling-affiliate-program-with-40-conversion.12328/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
