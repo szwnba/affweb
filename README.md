@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  05 [求靠谱的stm团购网](https://www.advertcn.com/thread-113929-1-1.html)
--  04 [域名的状态如何和icann EPP Status Codes匹配起来?](https://www.advertcn.com/thread-113924-1-1.html)<!-- advertcn3:END -->
+-  05 [求靠谱的stm团购网](https://www.advertcn.com/thread-113929-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
