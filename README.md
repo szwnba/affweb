@@ -52,5 +52,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)
 -  05 [派早报：iFixit 拆解 Vision Pro，谷歌正式移除网页缓存功能](https://sspai.com/post/86310)
 -  04 [App+1 | 满足你的轻量化需求，把私密文件和 app 藏起来：Amarok](https://sspai.com/post/86161)<!-- sspai:END -->
