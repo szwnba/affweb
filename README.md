@@ -53,6 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [派评 | 近期值得关注的 App](https://sspai.com/post/86335)
 -  05 [满分五分，你给 Apple 的 2023 年打几分？](https://sspai.com/post/83281)
 -  05 [2024 年高峰期火车票购买指南](https://sspai.com/post/86328)
 -  05 [「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)
