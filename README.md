@@ -51,5 +51,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [2024 年高峰期火车票购买指南](https://sspai.com/post/86328)
 -  05 [「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)
 -  05 [派早报：iFixit 拆解 Vision Pro，谷歌正式移除网页缓存功能](https://sspai.com/post/86310)<!-- sspai:END -->
