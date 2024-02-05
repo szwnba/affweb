@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  05 [新人报道](https://www.advertcn.com/thread-113930-1-1.html)
 -  05 [请查收：Facebook广告机器学习相关问题（Q&amp;A）！](https://www.advertcn.com/thread-113927-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
