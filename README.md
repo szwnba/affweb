@@ -40,17 +40,17 @@
 ### afflift
 <!-- afflift:START -->
 -  06 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  06 [Binom v2 Install and Initial Setup](https://afflift.com/f/threads/binom-v2-install-and-initial-setup.11914/)
+-  06 [STEP 8 - Adding Postback from Zeydoo Affiliate Network to Skro Tracker](https://afflift.com/f/threads/step-8-adding-postback-from-zeydoo-affiliate-network-to-skro-tracker.12319/)
+-  06 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
+-  06 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
+-  06 [10 Free Landing Pages for Collecting Push Subscribers &lpar;from TacoLoco&rpar; 🔔](https://afflift.com/f/threads/10-free-landing-pages-for-collecting-push-subscribers-from-tacoloco-%F0%9F%94%94.12596/)
 -  06 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  06 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  06 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
 -  06 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
 -  06 [Deciding Whether to Continue a Losing Campaign &lpar;with examples&rpar;](https://afflift.com/f/threads/deciding-whether-to-continue-a-losing-campaign-with-examples.12595/)
--  06 [My 1st FA--✅Use Landing pages to make x$/D to xx$/D✅achieved](https://afflift.com/f/threads/my-1st-fa-%E2%9C%85use-landing-pages-to-make-x-d-to-xx-d%E2%9C%85achieved.12502/)
--  06 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
--  06 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  06 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
--  06 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
--  05 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)<!-- afflift:END -->
+-  06 [My 1st FA--✅Use Landing pages to make x$/D to xx$/D✅achieved](https://afflift.com/f/threads/my-1st-fa-%E2%9C%85use-landing-pages-to-make-x-d-to-xx-d%E2%9C%85achieved.12502/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
