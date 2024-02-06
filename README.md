@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [我的新年 flag 是听 100 张专辑](https://sspai.com/post/86287)
 -  06 [派早报：腾讯上线低温雨雪冰冻信息上报平台小程序等](https://sspai.com/post/86345)
 -  05 [派评 | 近期值得关注的 App](https://sspai.com/post/86335)
 -  05 [满分五分，你给 Apple 的 2023 年打几分？](https://sspai.com/post/83281)
