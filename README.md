@@ -40,12 +40,12 @@
 
 ### afflift
 <!-- afflift:START -->
--  06 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
 -  06 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  06 [Deciding Whether to Continue a Losing Campaign &lpar;with examples&rpar;](https://afflift.com/f/threads/deciding-whether-to-continue-a-losing-campaign-with-examples.12595/)
+-  06 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
+-  06 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
 -  05 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
 -  05 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
--  05 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
 -  05 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)
 -  05 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)
 -  05 [AI White Pages Generator for AdWords / FB / Tik Tok](https://afflift.com/f/threads/ai-white-pages-generator-for-adwords-fb-tik-tok.12535/)
