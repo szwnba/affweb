@@ -54,8 +54,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [派早报：腾讯上线低温雨雪冰冻信息上报平台小程序等](https://sspai.com/post/86345)
 -  05 [派评 | 近期值得关注的 App](https://sspai.com/post/86335)
 -  05 [满分五分，你给 Apple 的 2023 年打几分？](https://sspai.com/post/83281)
 -  05 [2024 年高峰期火车票购买指南](https://sspai.com/post/86328)
--  05 [「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)
--  05 [派早报：iFixit 拆解 Vision Pro，谷歌正式移除网页缓存功能](https://sspai.com/post/86310)<!-- sspai:END -->
+-  05 [「放轻松」主题征文结束，这 14 篇文章值得一看](https://sspai.com/post/86307)<!-- sspai:END -->
