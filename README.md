@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  01 [《幻兽帕鲁》不花钱自建服务端实现联机教程+单机版分享](https://51.ruyo.net/18604.html)<!-- ruyo:END -->
+-  06 [推荐几款目前可用的免费电视直播软件](https://51.ruyo.net/18608.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
