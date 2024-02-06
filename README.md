@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  06 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  06 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  06 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
@@ -49,8 +50,7 @@
 -  06 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  06 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
 -  06 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
--  05 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)
--  05 [Has anyone tried PPS or high ticket items &lpar;adult?&rpar; with Pop traffic](https://afflift.com/f/threads/has-anyone-tried-pps-or-high-ticket-items-adult-with-pop-traffic.12566/)<!-- afflift:END -->
+-  05 [Ask me anything about NATIVE ADVERTISING](https://afflift.com/f/threads/ask-me-anything-about-native-advertising.12499/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
