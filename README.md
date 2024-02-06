@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [新机械键盘结构漫谈（下）](https://sspai.com/prime/story/mechanic-keyboard-structures-02)
 -  06 [社区速递031 | 年度一派回顾、曼陀罗绘画和作者的新玩意](https://sspai.com/post/86352)
 -  06 [年货买了啥？分享 12 件好吃、好玩、好用的春节好物](https://sspai.com/post/86297)
 -  06 [我的新年 flag 是听 100 张专辑](https://sspai.com/post/86287)
