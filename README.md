@@ -53,7 +53,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [春节将至，送你 5 份清单，助你过好平安吉祥年](https://sspai.com/post/86229)
+-  07 [AI 助力计算摄影：荣耀Magic6 Pro 体验](https://sspai.com/post/86371)
 -  07 [Mac 视觉史 vol.2.5：山中俊治的「手绘板」](https://sspai.com/post/86124)
 -  07 [派早报：2025 款保时捷 Taycan 发布、OpenAI 引入 C2PA 标准水印等](https://sspai.com/post/86366)
--  06 [新机械键盘结构漫谈（下）](https://sspai.com/prime/story/mechanic-keyboard-structures-02)
--  06 [社区速递 031 | 年度一派回顾、曼陀罗绘画和作者的新玩意](https://sspai.com/post/86352)<!-- sspai:END -->
+-  06 [新机械键盘结构漫谈（下）](https://sspai.com/prime/story/mechanic-keyboard-structures-02)<!-- sspai:END -->
