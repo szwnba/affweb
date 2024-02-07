@@ -27,8 +27,7 @@
 <!-- advertcn3:START -->
 -  07 [fiverr上paypal绑定银联支付提示这个 怎么办？谢谢](https://www.advertcn.com/thread-113942-1-1.html)
 -  07 [fiverr上paypal绑定银联支付提示这个 怎么办？谢谢](https://www.advertcn.com/thread-113941-1-1.html)
--  07 [请教，谷歌提示“被侵网站”和“目标网址不匹配”](https://www.advertcn.com/thread-113940-1-1.html)
--  06 [有个wordpress出了问题，于是把SSL改到CF，出了更奇怪的问题...](https://www.advertcn.com/thread-113937-1-1.html)<!-- advertcn3:END -->
+-  07 [请教，谷歌提示“被侵网站”和“目标网址不匹配”](https://www.advertcn.com/thread-113940-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
