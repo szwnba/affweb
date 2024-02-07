@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [Mac 视觉史 vol.2.5：山中俊治的「手绘板」](https://sspai.com/post/86124)
 -  07 [派早报：2025 款保时捷 Taycan 发布、OpenAI 引入 C2PA 标准水印等](https://sspai.com/post/86366)
 -  06 [新机械键盘结构漫谈（下）](https://sspai.com/prime/story/mechanic-keyboard-structures-02)
 -  06 [社区速递 031 | 年度一派回顾、曼陀罗绘画和作者的新玩意](https://sspai.com/post/86352)
