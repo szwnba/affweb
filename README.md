@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
+-  07 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
 -  07 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  07 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  07 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
@@ -47,9 +49,7 @@
 -  07 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  07 [Are there any freelance designers on here?](https://afflift.com/f/threads/are-there-any-freelance-designers-on-here.12601/)
 -  07 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
--  07 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
--  07 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  06 [Mastering Quantitative Data Analysis: Strategies for Data-Driven Success](https://afflift.com/f/threads/mastering-quantitative-data-analysis-strategies-for-data-driven-success.12600/)<!-- afflift:END -->
+-  07 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
