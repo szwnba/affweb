@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  05 [新人报道](https://www.advertcn.com/thread-113930-1-1.html)<!-- advertcn1:END -->
+-  07 [TikTok跨境东南亚TAP招商团长MCN机构服务商](https://www.advertcn.com/thread-113943-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
