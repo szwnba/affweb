@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
+-  07 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)
 -  07 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  07 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
 -  07 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
@@ -47,9 +49,7 @@
 -  07 [How much Os version affects performance?](https://afflift.com/f/threads/how-much-os-version-affects-performance.12599/)
 -  07 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  07 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  07 [Are there any freelance designers on here?](https://afflift.com/f/threads/are-there-any-freelance-designers-on-here.12601/)
--  07 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
--  07 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)<!-- afflift:END -->
+-  07 [Are there any freelance designers on here?](https://afflift.com/f/threads/are-there-any-freelance-designers-on-here.12601/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
