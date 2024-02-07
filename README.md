@@ -39,11 +39,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
 -  07 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  07 [Are there any freelance designers on here?](https://afflift.com/f/threads/are-there-any-freelance-designers-on-here.12601/)
 -  07 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  07 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
--  07 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
 -  07 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  06 [Mastering Quantitative Data Analysis: Strategies for Data-Driven Success](https://afflift.com/f/threads/mastering-quantitative-data-analysis-strategies-for-data-driven-success.12600/)
 -  06 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
