@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  06 [有个wordpress出了问题，于是把SSL改到CF，出了更奇怪的问题...](https://www.advertcn.com/thread-113937-1-1.html)
--  06 [看日志很多垃圾请求该怎么处理](https://www.advertcn.com/thread-113935-1-1.html)<!-- advertcn3:END -->
+-  06 [有个wordpress出了问题，于是把SSL改到CF，出了更奇怪的问题...](https://www.advertcn.com/thread-113937-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
