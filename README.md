@@ -52,8 +52,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [新玩意 172｜少数派的编辑们最近买了啥？](https://sspai.com/post/86396)
 -  08 [付费栏目新年促销开启：春节偷偷卷，进步又省钱](https://sspai.com/post/86357)
 -  08 [龙跃智能，有龙则灵：新的一年骁龙如何用 AI 开启「芯」篇章](https://sspai.com/post/86395)
 -  08 [端侧 AI 加持、功能大满贯：荣耀Magic6 Pro 上手体验](https://sspai.com/post/86384)
--  08 [7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)
--  08 [派早报: Mozilla 推出 Monitor Plus 服务、Apple 公布仅需通过语言描述修图的 AI 工具](https://sspai.com/post/86386)<!-- sspai:END -->
+-  08 [7 道简单易上手的年夜菜，厨房小白也能在春节露一手](https://sspai.com/post/71241)<!-- sspai:END -->
