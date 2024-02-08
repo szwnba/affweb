@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  08 [📝 How to test multiple languages with one push campaign?](https://afflift.com/f/threads/%F0%9F%93%9D-how-to-test-multiple-languages-with-one-push-campaign.12605/)
+-  08 [Find Offers to Promote on PropellerAds](https://afflift.com/f/threads/find-offers-to-promote-on-propellerads.6611/)
 -  08 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
 -  08 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
--  08 [📝 How to test multiple languages with one push campaign?](https://afflift.com/f/threads/%F0%9F%93%9D-how-to-test-multiple-languages-with-one-push-campaign.12605/)
 -  08 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  08 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  08 [Dark Mode coming to affLIFT](https://afflift.com/f/threads/dark-mode-coming-to-afflift.11659/)
 -  08 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  08 [TEMU Affiliate Program with Exclusive Terms Available Now!](https://afflift.com/f/threads/temu-affiliate-program-with-exclusive-terms-available-now.12081/)
 -  08 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
--  08 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
--  08 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
--  08 [Are there any freelance designers on here?](https://afflift.com/f/threads/are-there-any-freelance-designers-on-here.12601/)<!-- afflift:END -->
+-  08 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
