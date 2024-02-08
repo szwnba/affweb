@@ -55,5 +55,4 @@
 -  08 [派早报: Mozilla 推出 Monitor Plus 服务、Apple 公布仅需通过语言描述修图的 AI 工具](https://sspai.com/post/86386)
 -  07 [轻便长焦我都要，聊聊「演唱会神机」的个人体验与选购建议](https://sspai.com/post/84545)
 -  07 [春节将至，送你 5 份清单，助你过好平安吉祥年](https://sspai.com/post/86229)
--  07 [AI 助力计算摄影：荣耀Magic6 Pro 体验](https://sspai.com/post/86371)
--  07 [Mac 视觉史 vol.2.5：山中俊治的「手绘板」](https://sspai.com/post/86124)<!-- sspai:END -->
+-  07 [AI 助力计算摄影：荣耀Magic6 Pro 体验](https://sspai.com/post/86371)<!-- sspai:END -->
