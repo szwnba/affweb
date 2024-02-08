@@ -38,6 +38,8 @@
 ### afflift
 <!-- afflift:START -->
 -  08 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
+-  08 [TEMU Affiliate Program with Exclusive Terms Available Now!](https://afflift.com/f/threads/temu-affiliate-program-with-exclusive-terms-available-now.12081/)
+-  08 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
 -  08 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
 -  08 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
 -  08 [Are there any freelance designers on here?](https://afflift.com/f/threads/are-there-any-freelance-designers-on-here.12601/)
@@ -45,10 +47,8 @@
 -  08 [DNS issue](https://afflift.com/f/threads/dns-issue.12604/)
 -  08 [$2024 added to RevShare this month!](https://afflift.com/f/threads/2024-added-to-revshare-this-month.12403/)
 -  07 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
--  07 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
 -  07 [Facebook Ad Accounts &amp; Maintaining Campaigns with BH Offers](https://afflift.com/f/threads/facebook-ad-accounts-maintaining-campaigns-with-bh-offers.12603/)
--  07 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
--  07 [TEMU Affiliate Program with Exclusive Terms Available Now!](https://afflift.com/f/threads/temu-affiliate-program-with-exclusive-terms-available-now.12081/)<!-- afflift:END -->
+-  07 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
