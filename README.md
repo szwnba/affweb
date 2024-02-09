@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  09 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
 -  09 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
 -  09 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
@@ -46,8 +47,7 @@
 -  08 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
 -  08 [Milf/Mature - adult videos shooted on phone🤳](https://afflift.com/f/threads/milf-mature-adult-videos-shooted-on-phone%F0%9F%A4%B3.12615/)
 -  08 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
--  08 [I need help to list all the ad networks that have IP targeting](https://afflift.com/f/threads/i-need-help-to-list-all-the-ad-networks-that-have-ip-targeting.12610/)
--  08 [Any affiliate networks that have CPI offers? &lpar;apps&rpar;](https://afflift.com/f/threads/any-affiliate-networks-that-have-cpi-offers-apps.12613/)<!-- afflift:END -->
+-  08 [I need help to list all the ad networks that have IP targeting](https://afflift.com/f/threads/i-need-help-to-list-all-the-ad-networks-that-have-ip-targeting.12610/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
