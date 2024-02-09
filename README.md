@@ -36,6 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
+-  09 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  09 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  09 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  09 [$2k/month - Facebook Page Monetization](https://afflift.com/f/threads/2k-month-facebook-page-monetization.10637/)
 -  09 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
@@ -44,10 +47,7 @@
 -  09 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  09 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
 -  08 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  08 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
--  08 [Milf/Mature - adult videos shooted on phone🤳](https://afflift.com/f/threads/milf-mature-adult-videos-shooted-on-phone%F0%9F%A4%B3.12615/)
--  08 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
--  08 [I need help to list all the ad networks that have IP targeting](https://afflift.com/f/threads/i-need-help-to-list-all-the-ad-networks-that-have-ip-targeting.12610/)<!-- afflift:END -->
+-  08 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
