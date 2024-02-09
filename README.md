@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  09 [2024祝大家龙年大吉! 88 广告币送上！](https://www.advertcn.com/thread-113950-1-1.html)
--  08 [如何提升复购率](https://www.advertcn.com/thread-113947-1-1.html)<!-- advertcn3:END -->
+-  09 [2024祝大家龙年大吉! 88 广告币送上！](https://www.advertcn.com/thread-113950-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
