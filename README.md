@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  09 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
+-  09 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
+-  09 [OnClickA&#39;s Christmas Raffle for Afflift users! 🏆 $2500 to the winner 🌟](https://afflift.com/f/threads/onclickas-christmas-raffle-for-afflift-users-%F0%9F%8F%86-2500-to-the-winner-%F0%9F%8C%9F.12219/)
+-  09 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  09 [Will you draw the raffle OnClickA?](https://afflift.com/f/threads/will-you-draw-the-raffle-onclicka.12584/)
+-  09 [Hot Cashback for Advertisers During Adsterra Sports Marathon!🔥](https://afflift.com/f/threads/hot-cashback-for-advertisers-during-adsterra-sports-marathon-%F0%9F%94%A5.12617/)
 -  09 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  09 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  09 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  09 [Facebook Ad Accounts &amp; Maintaining Campaigns with BH Offers](https://afflift.com/f/threads/facebook-ad-accounts-maintaining-campaigns-with-bh-offers.12603/)
--  09 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  09 [I need help to list all the ad networks that have IP targeting](https://afflift.com/f/threads/i-need-help-to-list-all-the-ad-networks-that-have-ip-targeting.12610/)
--  09 [10 Free Landing Pages for Collecting Push Subscribers &lpar;from TacoLoco&rpar; 🔔](https://afflift.com/f/threads/10-free-landing-pages-for-collecting-push-subscribers-from-tacoloco-%F0%9F%94%94.12596/)
--  09 [STEP 12 - First Results](https://afflift.com/f/threads/step-12-first-results.12323/)
--  09 [STEP 6 - Add Zeydoo Affiliate Network to Skro Tracker](https://afflift.com/f/threads/step-6-add-zeydoo-affiliate-network-to-skro-tracker.12316/)
--  09 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  09 [STEP 8 - Adding Postback from Zeydoo Affiliate Network to Skro Tracker](https://afflift.com/f/threads/step-8-adding-postback-from-zeydoo-affiliate-network-to-skro-tracker.12319/)<!-- afflift:END -->
+-  09 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+-  09 [Adsterra - Ad Network with Partner Care. Trusted by 20K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-20k-partners-worldwide.4462/)
+-  09 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  09 [🏈 Super Bowl LVIII Advertising Guide - Tips from Adcash Experts 💸](https://afflift.com/f/threads/%F0%9F%8F%88-super-bowl-lviii-advertising-guide-tips-from-adcash-experts-%F0%9F%92%B8.12616/)
+-  09 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
+-  09 [Over 1 Billion Fraud-Free Impressions from the USA - Adcash January Stats](https://afflift.com/f/threads/over-1-billion-fraud-free-impressions-from-the-usa-adcash-january-stats.12609/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
