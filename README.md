@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  09 [Facebook Ad Accounts &amp; Maintaining Campaigns with BH Offers](https://afflift.com/f/threads/facebook-ad-accounts-maintaining-campaigns-with-bh-offers.12603/)
 -  09 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  09 [I need help to list all the ad networks that have IP targeting](https://afflift.com/f/threads/i-need-help-to-list-all-the-ad-networks-that-have-ip-targeting.12610/)
 -  09 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
@@ -45,9 +47,7 @@
 -  09 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  09 [STEP 8 - Adding Postback from Zeydoo Affiliate Network to Skro Tracker](https://afflift.com/f/threads/step-8-adding-postback-from-zeydoo-affiliate-network-to-skro-tracker.12319/)
 -  09 [Any affiliate networks that have CPI offers? &lpar;apps&rpar;](https://afflift.com/f/threads/any-affiliate-networks-that-have-cpi-offers-apps.12613/)
--  09 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  09 [Over 1 Billion Fraud-Free Impressions from the USA - Adcash January Stats](https://afflift.com/f/threads/over-1-billion-fraud-free-impressions-from-the-usa-adcash-january-stats.12609/)
--  09 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)<!-- afflift:END -->
+-  09 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
