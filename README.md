@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
+-  08 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
+-  08 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  08 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  08 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
 -  08 [Milf/Mature - adult videos shooted on phone🤳](https://afflift.com/f/threads/milf-mature-adult-videos-shooted-on-phone%F0%9F%A4%B3.12615/)
--  08 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  08 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
 -  08 [I need help to list all the ad networks that have IP targeting](https://afflift.com/f/threads/i-need-help-to-list-all-the-ad-networks-that-have-ip-targeting.12610/)
 -  08 [Any affiliate networks that have CPI offers? &lpar;apps&rpar;](https://afflift.com/f/threads/any-affiliate-networks-that-have-cpi-offers-apps.12613/)
 -  08 [I want to join the top programs in the travel niche and ecommerce niche](https://afflift.com/f/threads/i-want-to-join-the-top-programs-in-the-travel-niche-and-ecommerce-niche.12612/)
 -  08 [STEP 12 - First Results](https://afflift.com/f/threads/step-12-first-results.12323/)
--  08 [How to Track Clickbank Order Form Impressions &lpar;Initial Impressions&rpar;](https://afflift.com/f/threads/how-to-track-clickbank-order-form-impressions-initial-impressions.12577/)
--  08 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  08 [Any way of making fully automated blog website with multiple affiliate programs?](https://afflift.com/f/threads/any-way-of-making-fully-automated-blog-website-with-multiple-affiliate-programs.12611/)<!-- afflift:END -->
+-  08 [How to Track Clickbank Order Form Impressions &lpar;Initial Impressions&rpar;](https://afflift.com/f/threads/how-to-track-clickbank-order-form-impressions-initial-impressions.12577/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
