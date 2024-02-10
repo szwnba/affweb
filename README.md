@@ -37,8 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  10 [Happy Lunar New Year🧨](https://afflift.com/f/threads/happy-lunar-new-year%F0%9F%A7%A8.12620/)
 -  10 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  10 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
+-  10 [Happy Lunar New Year🧨](https://afflift.com/f/threads/happy-lunar-new-year%F0%9F%A7%A8.12620/)
 -  10 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  10 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
 -  10 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
@@ -47,8 +48,7 @@
 -  09 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)
 -  09 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  09 [10 Free Landing Pages for Collecting Push Subscribers &lpar;from TacoLoco&rpar; 🔔](https://afflift.com/f/threads/10-free-landing-pages-for-collecting-push-subscribers-from-tacoloco-%F0%9F%94%94.12596/)
--  09 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  09 [Over 1 Billion Fraud-Free Impressions from the USA - Adcash January Stats](https://afflift.com/f/threads/over-1-billion-fraud-free-impressions-from-the-usa-adcash-january-stats.12609/)<!-- afflift:END -->
+-  09 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
