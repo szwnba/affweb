@@ -36,7 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  09 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  10 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  09 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  09 [Any affiliate networks that have CPI offers? &lpar;apps&rpar;](https://afflift.com/f/threads/any-affiliate-networks-that-have-cpi-offers-apps.12613/)
 -  09 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)
