@@ -52,5 +52,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  09 [老麦的除夕寄语——附 2023 年度征文](https://sspai.com/post/86409)
--  09 [不想春节「包饺子」？用这 5 款游戏给自己开场快乐春晚](https://sspai.com/post/86390)
--  09 [从独立小品到 3A 大作：春节游戏玩点啥](https://sspai.com/post/86388)<!-- sspai:END -->
+-  09 [不想春节「包饺子」？用这 5 款游戏给自己开场快乐春晚](https://sspai.com/post/86390)<!-- sspai:END -->
