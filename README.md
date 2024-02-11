@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
+-  11 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
+-  11 [Wallester cards – a perfect tool for online media buying 🔥](https://afflift.com/f/threads/wallester-cards-%E2%80%93-a-perfect-tool-for-online-media-buying-%F0%9F%94%A5.9532/)
+-  11 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
+-  11 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
 -  11 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  11 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
 -  11 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  11 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
 -  11 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 -  11 [PrivateCPA - Private Ad Network - Sweeps, Dating, Nutra, Downloads &amp; More](https://afflift.com/f/threads/privatecpa-private-ad-network-sweeps-dating-nutra-downloads-more.4271/)
--  11 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)
--  11 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
--  11 [Journey to Profitability with the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-with-the-afflift-guides.10148/)
--  11 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  11 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  10 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  11 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
