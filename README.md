@@ -37,6 +37,9 @@
 ### afflift
 <!-- afflift:START -->
 -  11 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
+-  11 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
+-  11 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
+-  11 [PrivateCPA - Private Ad Network - Sweeps, Dating, Nutra, Downloads &amp; More](https://afflift.com/f/threads/privatecpa-private-ad-network-sweeps-dating-nutra-downloads-more.4271/)
 -  11 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)
 -  11 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  11 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
@@ -44,9 +47,7 @@
 -  11 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  11 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  10 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  10 [Facebook Ad Accounts &amp; Maintaining Campaigns with BH Offers](https://afflift.com/f/threads/facebook-ad-accounts-maintaining-campaigns-with-bh-offers.12603/)
--  10 [Happy Lunar New Year🧨](https://afflift.com/f/threads/happy-lunar-new-year%F0%9F%A7%A8.12620/)
--  10 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)<!-- afflift:END -->
+-  10 [Facebook Ad Accounts &amp; Maintaining Campaigns with BH Offers](https://afflift.com/f/threads/facebook-ad-accounts-maintaining-campaigns-with-bh-offers.12603/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
