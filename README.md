@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
 -  11 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  11 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
 -  11 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
@@ -46,8 +47,7 @@
 -  11 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
 -  11 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
 -  11 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  11 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
--  11 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)<!-- afflift:END -->
+-  11 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
