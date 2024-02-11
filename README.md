@@ -37,9 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  11 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  11 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  10 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  10 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  10 [Facebook Ad Accounts &amp; Maintaining Campaigns with BH Offers](https://afflift.com/f/threads/facebook-ad-accounts-maintaining-campaigns-with-bh-offers.12603/)
 -  10 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)
