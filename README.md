@@ -51,5 +51,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [后会有「7」：下一代 Wi-Fi 技术解读](https://sspai.com/prime/story/wifi-7-explained)
 -  12 [过年聚会玩些什么？我们准备了 8 款游戏让春节更欢乐](https://sspai.com/post/86430)
 -  12 [看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)<!-- sspai:END -->
