@@ -36,6 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  12 [🔥 Get 100 virtual cards from FlexCard for linking to FB, TT, Google and be calm about running advertising 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-get-100-virtual-cards-from-flexcard-for-linking-to-fb-tt-google-and-be-calm-about-running-advertising-%F0%9F%94%A5.12625/)
+-  12 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
 -  12 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  12 [VALENTINE&#39;S DAY MARKETING CAMPAIGN](https://afflift.com/f/threads/valentines-day-marketing-campaign.12624/)
 -  12 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
@@ -44,10 +47,7 @@
 -  12 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
 -  12 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  12 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
--  12 [Deciding Whether to Continue a Losing Campaign &lpar;with examples&rpar;](https://afflift.com/f/threads/deciding-whether-to-continue-a-losing-campaign-with-examples.12595/)
--  12 [Happy Lunar New Year🧨](https://afflift.com/f/threads/happy-lunar-new-year%F0%9F%A7%A8.12620/)
--  12 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)
--  11 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)<!-- afflift:END -->
+-  12 [Deciding Whether to Continue a Losing Campaign &lpar;with examples&rpar;](https://afflift.com/f/threads/deciding-whether-to-continue-a-losing-campaign-with-examples.12595/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
