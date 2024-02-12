@@ -36,6 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Happy Lunar New Year🧨](https://afflift.com/f/threads/happy-lunar-new-year%F0%9F%A7%A8.12620/)
+-  12 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)
+-  11 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)
 -  11 [SMS Marketing On Fire](https://afflift.com/f/threads/sms-marketing-on-fire.7169/)
 -  11 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  11 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
@@ -44,10 +47,7 @@
 -  11 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  11 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
 -  11 [Wallester cards – a perfect tool for online media buying 🔥](https://afflift.com/f/threads/wallester-cards-%E2%80%93-a-perfect-tool-for-online-media-buying-%F0%9F%94%A5.9532/)
--  11 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
--  11 [How to create high quality Reddit accounts](https://afflift.com/f/threads/how-to-create-high-quality-reddit-accounts.12409/)
--  11 [Learning the ropes of media buying](https://afflift.com/f/threads/learning-the-ropes-of-media-buying.12455/)
--  11 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)<!-- afflift:END -->
+-  11 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
