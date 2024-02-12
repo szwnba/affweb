@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  09 [老麦的除夕寄语——附 2023 年度征文](https://sspai.com/post/86409)<!-- sspai:END -->
+-  12 [看什么 · 特别篇丨多一点热闹与喜庆，少不了这份春节片单](https://sspai.com/post/71209)<!-- sspai:END -->
