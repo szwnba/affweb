@@ -38,9 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Ultimate Guide to PopAds 💰](https://afflift.com/f/threads/ultimate-guide-to-popads-%F0%9F%92%B0.4382/)
 -  12 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  12 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
--  12 [Ultimate Guide to PopAds 💰](https://afflift.com/f/threads/ultimate-guide-to-popads-%F0%9F%92%B0.4382/)
 -  12 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  12 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  12 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
