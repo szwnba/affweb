@@ -38,9 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  12 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  12 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
--  12 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  12 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  12 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
 -  12 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
