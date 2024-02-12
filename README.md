@@ -36,6 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  12 [Top Weekly Offers!](https://afflift.com/f/threads/top-weekly-offers.12627/)
+-  12 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  12 [The Types of Clickbank Tracker Integrations](https://afflift.com/f/threads/the-types-of-clickbank-tracker-integrations.12626/)
 -  12 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  12 [🔥 Get 100 virtual cards from FlexCard for linking to FB, TT, Google and be calm about running advertising 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-get-100-virtual-cards-from-flexcard-for-linking-to-fb-tt-google-and-be-calm-about-running-advertising-%F0%9F%94%A5.12625/)
@@ -44,10 +47,7 @@
 -  12 [VALENTINE&#39;S DAY MARKETING CAMPAIGN](https://afflift.com/f/threads/valentines-day-marketing-campaign.12624/)
 -  12 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  12 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
--  12 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
--  12 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
--  12 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  12 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)<!-- afflift:END -->
+-  12 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
