@@ -38,16 +38,16 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
+-  12 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  12 [Ultimate Guide to PopAds 💰](https://afflift.com/f/threads/ultimate-guide-to-popads-%F0%9F%92%B0.4382/)
 -  12 [PrivateCPA - Private Ad Network - Sweeps, Dating, Nutra, Downloads &amp; More](https://afflift.com/f/threads/privatecpa-private-ad-network-sweeps-dating-nutra-downloads-more.4271/)
 -  12 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  12 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  12 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
 -  12 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  12 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  12 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
 -  12 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
--  12 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
 -  12 [ApproachX - 30% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-30-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  12 [The Types of Clickbank Tracker Integrations](https://afflift.com/f/threads/the-types-of-clickbank-tracker-integrations.12626/)<!-- afflift:END -->
 
