@@ -38,8 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
 -  12 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
+-  12 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
 -  12 [Ultimate Guide to PopAds 💰](https://afflift.com/f/threads/ultimate-guide-to-popads-%F0%9F%92%B0.4382/)
 -  12 [PrivateCPA - Private Ad Network - Sweeps, Dating, Nutra, Downloads &amp; More](https://afflift.com/f/threads/privatecpa-private-ad-network-sweeps-dating-nutra-downloads-more.4271/)
 -  12 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
