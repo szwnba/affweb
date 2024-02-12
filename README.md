@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Deciding Whether to Continue a Losing Campaign &lpar;with examples&rpar;](https://afflift.com/f/threads/deciding-whether-to-continue-a-losing-campaign-with-examples.12595/)
 -  12 [Happy Lunar New Year🧨](https://afflift.com/f/threads/happy-lunar-new-year%F0%9F%A7%A8.12620/)
 -  12 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)
 -  11 [Kinda stuck with Pop](https://afflift.com/f/threads/kinda-stuck-with-pop.12571/)
@@ -46,8 +47,7 @@
 -  11 [Wid&#39;s simple follow along journey :&rpar;](https://afflift.com/f/threads/wids-simple-follow-along-journey.12506/)
 -  11 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  11 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
--  11 [Wallester cards – a perfect tool for online media buying 🔥](https://afflift.com/f/threads/wallester-cards-%E2%80%93-a-perfect-tool-for-online-media-buying-%F0%9F%94%A5.9532/)
--  11 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)<!-- afflift:END -->
+-  11 [Wallester cards – a perfect tool for online media buying 🔥](https://afflift.com/f/threads/wallester-cards-%E2%80%93-a-perfect-tool-for-online-media-buying-%F0%9F%94%A5.9532/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
