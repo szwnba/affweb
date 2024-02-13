@@ -39,11 +39,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  13 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
 -  13 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  13 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  13 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
--  13 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  13 [Win amazing prizes by joining PropellerAds&#39; Lunar Fortunes promo!](https://afflift.com/f/threads/win-amazing-prizes-by-joining-propellerads-lunar-fortunes-promo.12629/)
 -  13 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  13 [What other networks has as much carrier traffic as PropellerAds](https://afflift.com/f/threads/what-other-networks-has-as-much-carrier-traffic-as-propellerads.12633/)
