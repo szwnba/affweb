@@ -55,5 +55,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [真情侣，不记账：用支付宝荷包 + 飞书多维表格建立消费记录与分析系统](https://sspai.com/post/86274)
 -  12 [后会有「7」：下一代 Wi-Fi 技术解读](https://sspai.com/prime/story/wifi-7-explained)
 -  12 [过年聚会玩些什么？我们准备了 8 款游戏让春节更欢乐](https://sspai.com/post/86430)<!-- sspai:END -->
