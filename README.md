@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
 -  12 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  12 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
 -  12 [Ultimate Guide to PopAds 💰](https://afflift.com/f/threads/ultimate-guide-to-popads-%F0%9F%92%B0.4382/)
@@ -49,8 +50,7 @@
 -  12 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  12 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
 -  12 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
--  12 [ApproachX - 30% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-30-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  12 [The Types of Clickbank Tracker Integrations](https://afflift.com/f/threads/the-types-of-clickbank-tracker-integrations.12626/)<!-- afflift:END -->
+-  12 [ApproachX - 30% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-30-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
