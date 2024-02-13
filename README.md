@@ -20,8 +20,7 @@
 -  13 [新人报到](https://www.advertcn.com/thread-113975-1-1.html)
 -  12 [新人报道](https://www.advertcn.com/thread-113961-1-1.html)
 -  12 [trafficfactory  有这个站的广告账号出售私聊我](https://www.advertcn.com/thread-113960-1-1.html)
--  12 [新人报到](https://www.advertcn.com/thread-113959-1-1.html)
--  12 [新人报道](https://www.advertcn.com/thread-113958-1-1.html)<!-- advertcn1:END -->
+-  12 [新人报到](https://www.advertcn.com/thread-113959-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
