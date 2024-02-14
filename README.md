@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Question about Indonesian mvas offers](https://afflift.com/f/threads/question-about-indonesian-mvas-offers.12636/)
 -  14 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
 -  14 [mVAS Back to Basics - PropellerAds vs Golden Goose](https://afflift.com/f/threads/mvas-back-to-basics-propellerads-vs-golden-goose.12558/)
 -  13 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
@@ -48,8 +49,7 @@
 -  13 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  13 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  13 [Win amazing prizes by joining PropellerAds&#39; Lunar Fortunes promo!](https://afflift.com/f/threads/win-amazing-prizes-by-joining-propellerads-lunar-fortunes-promo.12629/)
--  13 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  13 [What other networks has as much carrier traffic as PropellerAds](https://afflift.com/f/threads/what-other-networks-has-as-much-carrier-traffic-as-propellerads.12633/)<!-- afflift:END -->
+-  13 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
