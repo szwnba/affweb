@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Be aware of WarGaming Brand - World Of Warship.](https://afflift.com/f/threads/be-aware-of-wargaming-brand-world-of-warship.12639/)
 -  14 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  14 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  14 [Who is going to TES Cascais 2024?](https://afflift.com/f/threads/who-is-going-to-tes-cascais-2024.12477/)
@@ -46,8 +47,7 @@
 -  14 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  14 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  14 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
--  14 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)
--  14 [Be aware of WarGaming Brand - World Of Warship.](https://afflift.com/f/threads/be-aware-of-wargaming-brand-world-of-warship.12639/)<!-- afflift:END -->
+-  14 [iGB Affiliate London 2024 - Wrap-up and Swag Reveal](https://afflift.com/f/threads/igb-affiliate-london-2024-wrap-up-and-swag-reveal.12614/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
