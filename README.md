@@ -54,5 +54,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  14 [仰卧起坐脖子疼？聊聊如何找对健身发力感](https://sspai.com/post/86361)
--  13 [做好新年计划，你可以先从制定年度预算开始](https://sspai.com/post/86327)
--  13 [真情侣，不记账：用支付宝荷包 + 飞书多维表格建立消费记录与分析系统](https://sspai.com/post/86274)<!-- sspai:END -->
+-  13 [做好新年计划，你可以先从制定年度预算开始](https://sspai.com/post/86327)<!-- sspai:END -->
