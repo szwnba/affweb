@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  13 [2024年，求推荐适合新手学习的Mobile CPA的平台工具组合？](https://www.advertcn.com/thread-113978-1-1.html)
 -  13 [新人报到](https://www.advertcn.com/thread-113977-1-1.html)
--  13 [新人报到](https://www.advertcn.com/thread-113975-1-1.html)
--  12 [新人报道](https://www.advertcn.com/thread-113961-1-1.html)<!-- advertcn1:END -->
+-  13 [新人报到](https://www.advertcn.com/thread-113975-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
