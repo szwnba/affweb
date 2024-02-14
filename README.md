@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
+-  14 [mVAS Back to Basics - PropellerAds vs Golden Goose](https://afflift.com/f/threads/mvas-back-to-basics-propellerads-vs-golden-goose.12558/)
 -  13 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
 -  13 [Moonstar.Network -  #1 crypto / gambling affiliate network. Join today!](https://afflift.com/f/threads/moonstar-network-1-crypto-gambling-affiliate-network-join-today.12635/)
 -  13 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
@@ -47,9 +49,7 @@
 -  13 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  13 [Win amazing prizes by joining PropellerAds&#39; Lunar Fortunes promo!](https://afflift.com/f/threads/win-amazing-prizes-by-joining-propellerads-lunar-fortunes-promo.12629/)
 -  13 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  13 [What other networks has as much carrier traffic as PropellerAds](https://afflift.com/f/threads/what-other-networks-has-as-much-carrier-traffic-as-propellerads.12633/)
--  13 [Anyone here having success with nutra and push traffic?](https://afflift.com/f/threads/anyone-here-having-success-with-nutra-and-push-traffic.12034/)
--  13 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)<!-- afflift:END -->
+-  13 [What other networks has as much carrier traffic as PropellerAds](https://afflift.com/f/threads/what-other-networks-has-as-much-carrier-traffic-as-propellerads.12633/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
