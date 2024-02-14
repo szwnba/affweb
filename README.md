@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
+-  14 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
 -  14 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  14 [What other networks has as much carrier traffic as PropellerAds](https://afflift.com/f/threads/what-other-networks-has-as-much-carrier-traffic-as-propellerads.12633/)
 -  14 [Question about Indonesian mvas offers](https://afflift.com/f/threads/question-about-indonesian-mvas-offers.12636/)
@@ -45,10 +47,8 @@
 -  13 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
 -  13 [Moonstar.Network -  #1 crypto / gambling affiliate network. Join today!](https://afflift.com/f/threads/moonstar-network-1-crypto-gambling-affiliate-network-join-today.12635/)
 -  13 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  13 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
 -  13 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
--  13 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
--  13 [Win amazing prizes by joining PropellerAds&#39; Lunar Fortunes promo!](https://afflift.com/f/threads/win-amazing-prizes-by-joining-propellerads-lunar-fortunes-promo.12629/)<!-- afflift:END -->
+-  13 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
