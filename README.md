@@ -37,6 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
+-  14 [Meet AdMaven&#39;s Team at Affiliate World Dubai 2024!](https://afflift.com/f/threads/meet-admavens-team-at-affiliate-world-dubai-2024.12638/)
+-  14 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  14 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  14 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  14 [Flickstree Affiliate Program- Hottest Verticals, High converting offers in Sweeps, Nutra, Trials, VOD, Loans &amp; More.](https://afflift.com/f/threads/flickstree-affiliate-program-hottest-verticals-high-converting-offers-in-sweeps-nutra-trials-vod-loans-more.12567/)
 -  14 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
@@ -44,11 +48,7 @@
 -  14 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
 -  14 [What other networks has as much carrier traffic as PropellerAds](https://afflift.com/f/threads/what-other-networks-has-as-much-carrier-traffic-as-propellerads.12633/)
 -  14 [Question about Indonesian mvas offers](https://afflift.com/f/threads/question-about-indonesian-mvas-offers.12636/)
--  14 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
--  14 [mVAS Back to Basics - PropellerAds vs Golden Goose](https://afflift.com/f/threads/mvas-back-to-basics-propellerads-vs-golden-goose.12558/)
--  13 [Hello from New York](https://afflift.com/f/threads/hello-from-new-york.12537/)
--  13 [Moonstar.Network -  #1 crypto / gambling affiliate network. Join today!](https://afflift.com/f/threads/moonstar-network-1-crypto-gambling-affiliate-network-join-today.12635/)
--  13 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
+-  14 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
