@@ -38,6 +38,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Do landing pages work well with 1click/2click mvas offers?](https://afflift.com/f/threads/do-landing-pages-work-well-with-1click-2click-mvas-offers.12640/)
+-  15 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
+-  15 [Meet the NewsBreak Ads Team at Affiliate World Dubai 2024!](https://afflift.com/f/threads/meet-the-newsbreak-ads-team-at-affiliate-world-dubai-2024.12649/)
+-  15 [Top Keto Offers - These will skyrocket your EPC](https://afflift.com/f/threads/top-keto-offers-these-will-skyrocket-your-epc.12642/)
 -  15 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)
 -  15 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)
 -  15 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
@@ -45,11 +49,7 @@
 -  15 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
 -  15 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
 -  15 [top converting vsl offers in clickbank maxweb and buygoods](https://afflift.com/f/threads/top-converting-vsl-offers-in-clickbank-maxweb-and-buygoods.12645/)
--  15 [TheOptimizer Mobile - Pop/Redirect/Push Campaigns on Auto-Pilot](https://afflift.com/f/threads/theoptimizer-mobile-pop-redirect-push-campaigns-on-auto-pilot.1514/)
--  15 [Do landing pages work well with 1click/2click mvas offers?](https://afflift.com/f/threads/do-landing-pages-work-well-with-1click-2click-mvas-offers.12640/)
--  15 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
--  15 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  15 [Unveiling Our iGB London 2024 Experience: Slotland Affiliates](https://afflift.com/f/threads/unveiling-our-igb-london-2024-experience-slotland-affiliates.12643/)<!-- afflift:END -->
+-  15 [TheOptimizer Mobile - Pop/Redirect/Push Campaigns on Auto-Pilot](https://afflift.com/f/threads/theoptimizer-mobile-pop-redirect-push-campaigns-on-auto-pilot.1514/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
