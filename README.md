@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  14 [城市漫步指南 | 非典型的福州之旅，看见这座城市的 B 面](https://sspai.com/post/86245)<!-- sspai:END -->
+-  14 [城市漫步指南：非典型的福州之旅，看见这座城市的 B 面](https://sspai.com/post/86245)<!-- sspai:END -->
