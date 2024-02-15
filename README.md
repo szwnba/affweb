@@ -37,6 +37,9 @@
 ### afflift
 <!-- afflift:START -->
 -  15 [Question about Indonesian mvas offers](https://afflift.com/f/threads/question-about-indonesian-mvas-offers.12636/)
+-  15 [How to use anstrex to create creative for mvas offer?](https://afflift.com/f/threads/how-to-use-anstrex-to-create-creative-for-mvas-offer.12576/)
+-  15 [Binom v2 Install and Initial Setup](https://afflift.com/f/threads/binom-v2-install-and-initial-setup.11914/)
+-  15 [Be aware of WarGaming Brand - World Of Warship.](https://afflift.com/f/threads/be-aware-of-wargaming-brand-world-of-warship.12639/)
 -  15 [Do landing pages work well with 1click/2click mvas offers?](https://afflift.com/f/threads/do-landing-pages-work-well-with-1click-2click-mvas-offers.12640/)
 -  15 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
 -  15 [Bot clicks and fake traffic set to cost advertisers over $71bn in 2024](https://afflift.com/f/threads/bot-clicks-and-fake-traffic-set-to-cost-advertisers-over-71bn-in-2024.12641/)
@@ -44,10 +47,7 @@
 -  15 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
 -  15 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
 -  15 [What other networks has as much carrier traffic as PropellerAds](https://afflift.com/f/threads/what-other-networks-has-as-much-carrier-traffic-as-propellerads.12633/)
--  15 [Be aware of WarGaming Brand - World Of Warship.](https://afflift.com/f/threads/be-aware-of-wargaming-brand-world-of-warship.12639/)
--  15 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
--  14 [Maxbounty old account terminated](https://afflift.com/f/threads/maxbounty-old-account-terminated.11841/)
--  14 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)<!-- afflift:END -->
+-  15 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
