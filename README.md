@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
+-  15 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  15 [Do landing pages work well with 1click/2click mvas offers?](https://afflift.com/f/threads/do-landing-pages-work-well-with-1click-2click-mvas-offers.12640/)
+-  15 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
+-  15 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
 -  15 [Question about Indonesian mvas offers](https://afflift.com/f/threads/question-about-indonesian-mvas-offers.12636/)
 -  15 [How to use anstrex to create creative for mvas offer?](https://afflift.com/f/threads/how-to-use-anstrex-to-create-creative-for-mvas-offer.12576/)
 -  15 [Binom v2 Install and Initial Setup](https://afflift.com/f/threads/binom-v2-install-and-initial-setup.11914/)
 -  15 [Be aware of WarGaming Brand - World Of Warship.](https://afflift.com/f/threads/be-aware-of-wargaming-brand-world-of-warship.12639/)
--  15 [Do landing pages work well with 1click/2click mvas offers?](https://afflift.com/f/threads/do-landing-pages-work-well-with-1click-2click-mvas-offers.12640/)
 -  15 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
 -  15 [Bot clicks and fake traffic set to cost advertisers over $71bn in 2024](https://afflift.com/f/threads/bot-clicks-and-fake-traffic-set-to-cost-advertisers-over-71bn-in-2024.12641/)
--  15 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
--  15 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
--  15 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
--  15 [What other networks has as much carrier traffic as PropellerAds](https://afflift.com/f/threads/what-other-networks-has-as-much-carrier-traffic-as-propellerads.12633/)
--  15 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)<!-- afflift:END -->
+-  15 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
