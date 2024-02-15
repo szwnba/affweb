@@ -38,12 +38,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
+-  15 [top converting vsl offers in clickbank maxweb and buygoods](https://afflift.com/f/threads/top-converting-vsl-offers-in-clickbank-maxweb-and-buygoods.12645/)
 -  15 [TheOptimizer Mobile - Pop/Redirect/Push Campaigns on Auto-Pilot](https://afflift.com/f/threads/theoptimizer-mobile-pop-redirect-push-campaigns-on-auto-pilot.1514/)
 -  15 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
 -  15 [Do landing pages work well with 1click/2click mvas offers?](https://afflift.com/f/threads/do-landing-pages-work-well-with-1click-2click-mvas-offers.12640/)
 -  15 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
--  15 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
--  15 [top converting vsl offers in clickbank maxweb and buygoods](https://afflift.com/f/threads/top-converting-vsl-offers-in-clickbank-maxweb-and-buygoods.12645/)
 -  15 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  15 [Unveiling Our iGB London 2024 Experience: Slotland Affiliates](https://afflift.com/f/threads/unveiling-our-igb-london-2024-experience-slotland-affiliates.12643/)
 -  15 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
