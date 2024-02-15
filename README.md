@@ -36,9 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  15 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
--  15 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
 -  15 [Be aware of WarGaming Brand - World Of Warship.](https://afflift.com/f/threads/be-aware-of-wargaming-brand-world-of-warship.12639/)
+-  15 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
+-  15 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
 -  15 [Question about Indonesian mvas offers](https://afflift.com/f/threads/question-about-indonesian-mvas-offers.12636/)
 -  15 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  14 [Maxbounty old account terminated](https://afflift.com/f/threads/maxbounty-old-account-terminated.11841/)
@@ -47,7 +47,7 @@
 -  14 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  14 [Who is going to TES Cascais 2024?](https://afflift.com/f/threads/who-is-going-to-tes-cascais-2024.12477/)
 -  14 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  14 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)<!-- afflift:END -->
+-  14 [Scale up your business with Mondiad, your multiformat, multivertical, global ad network! 🚀](https://afflift.com/f/threads/scale-up-your-business-with-mondiad-your-multiformat-multivertical-global-ad-network-%F0%9F%9A%80.8789/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
