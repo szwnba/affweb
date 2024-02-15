@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
+-  15 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
+-  15 [Be aware of WarGaming Brand - World Of Warship.](https://afflift.com/f/threads/be-aware-of-wargaming-brand-world-of-warship.12639/)
+-  15 [Question about Indonesian mvas offers](https://afflift.com/f/threads/question-about-indonesian-mvas-offers.12636/)
 -  15 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  14 [Maxbounty old account terminated](https://afflift.com/f/threads/maxbounty-old-account-terminated.11841/)
 -  14 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  14 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
--  14 [Be aware of WarGaming Brand - World Of Warship.](https://afflift.com/f/threads/be-aware-of-wargaming-brand-world-of-warship.12639/)
 -  14 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  14 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  14 [Who is going to TES Cascais 2024?](https://afflift.com/f/threads/who-is-going-to-tes-cascais-2024.12477/)
 -  14 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  14 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)
--  14 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
--  14 [Pushground.com - Intuitive Intelligent Push Ad Platform](https://afflift.com/f/threads/pushground-com-intuitive-intelligent-push-ad-platform.2534/)<!-- afflift:END -->
+-  14 [Mondiad - Global ad network specialized in Push, Native and Banner ads &lpar;🎁 Bonus inside&rpar;](https://afflift.com/f/threads/mondiad-global-ad-network-specialized-in-push-native-and-banner-ads-%F0%9F%8E%81-bonus-inside.8789/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
