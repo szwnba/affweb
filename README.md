@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  13 [2024年，求推荐适合新手学习的Mobile CPA的平台工具组合？](https://www.advertcn.com/thread-113978-1-1.html)<!-- advertcn1:END -->
+-  15 [老人报道。。。完成任务](https://www.advertcn.com/thread-113991-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
