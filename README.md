@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
+-  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  16 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
 -  16 [Galaksion, please fix your blog!](https://afflift.com/f/threads/galaksion-please-fix-your-blog.12650/)
 -  16 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
@@ -47,9 +49,7 @@
 -  15 [Do landing pages work well with 1click/2click mvas offers?](https://afflift.com/f/threads/do-landing-pages-work-well-with-1click-2click-mvas-offers.12640/)
 -  15 [Meet the NewsBreak Ads Team at Affiliate World Dubai 2024!](https://afflift.com/f/threads/meet-the-newsbreak-ads-team-at-affiliate-world-dubai-2024.12649/)
 -  15 [Top Keto Offers - These will skyrocket your EPC](https://afflift.com/f/threads/top-keto-offers-these-will-skyrocket-your-epc.12642/)
--  15 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)
--  15 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)
--  15 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
+-  15 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
