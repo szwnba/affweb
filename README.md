@@ -37,8 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  16 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
 -  16 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
+-  16 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
 -  16 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  16 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
