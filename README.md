@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
 -  16 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
 -  16 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
@@ -47,8 +48,7 @@
 -  15 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  15 [Pop/PPV networks with keyword &lpar;domain&rpar; targeting](https://afflift.com/f/threads/pop-ppv-networks-with-keyword-domain-targeting.2394/)
 -  15 [Do landing pages work well with 1click/2click mvas offers?](https://afflift.com/f/threads/do-landing-pages-work-well-with-1click-2click-mvas-offers.12640/)
--  15 [Meet the NewsBreak Ads Team at Affiliate World Dubai 2024!](https://afflift.com/f/threads/meet-the-newsbreak-ads-team-at-affiliate-world-dubai-2024.12649/)
--  15 [Top Keto Offers - These will skyrocket your EPC](https://afflift.com/f/threads/top-keto-offers-these-will-skyrocket-your-epc.12642/)<!-- afflift:END -->
+-  15 [Meet the NewsBreak Ads Team at Affiliate World Dubai 2024!](https://afflift.com/f/threads/meet-the-newsbreak-ads-team-at-affiliate-world-dubai-2024.12649/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
