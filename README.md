@@ -38,12 +38,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [&lpar;Strange 😮&rpar; No single conversion today](https://afflift.com/f/threads/strange-%F0%9F%98%AE-no-single-conversion-today.12657/)
+-  16 [top converting vsl offers in clickbank maxweb and buygoods](https://afflift.com/f/threads/top-converting-vsl-offers-in-clickbank-maxweb-and-buygoods.12645/)
 -  16 [Domains Flagged](https://afflift.com/f/threads/domains-flagged.12655/)
 -  16 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  16 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
--  16 [top converting vsl offers in clickbank maxweb and buygoods](https://afflift.com/f/threads/top-converting-vsl-offers-in-clickbank-maxweb-and-buygoods.12645/)
 -  16 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)
--  16 [&lpar;Strange 😮&rpar; No single conversion today](https://afflift.com/f/threads/strange-%F0%9F%98%AE-no-single-conversion-today.12657/)
 -  16 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)
 -  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  16 [I can&#39;t find this error in my LP. &lpar;Encoding issue&rpar;](https://afflift.com/f/threads/i-cant-find-this-error-in-my-lp-encoding-issue.12652/)
