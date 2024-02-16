@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  15 [这 5 个数码产品，是我们 2023 买过最不后悔的「新玩意」](https://sspai.com/post/86457)<!-- sspai:END -->
+-  16 [新年新开始：从为什么到写什么，带你重新认识日记](https://sspai.com/post/86356)<!-- sspai:END -->
