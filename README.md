@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
+-  16 [top converting vsl offers in clickbank maxweb and buygoods](https://afflift.com/f/threads/top-converting-vsl-offers-in-clickbank-maxweb-and-buygoods.12645/)
 -  16 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  16 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)
--  16 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  16 [&lpar;Strange 😮&rpar; No single conversion today](https://afflift.com/f/threads/strange-%F0%9F%98%AE-no-single-conversion-today.12657/)
+-  16 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)
+-  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  16 [I can&#39;t find this error in my LP. &lpar;Encoding issue&rpar;](https://afflift.com/f/threads/i-cant-find-this-error-in-my-lp-encoding-issue.12652/)
+-  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  16 [Domains Flagged](https://afflift.com/f/threads/domains-flagged.12655/)
--  16 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
--  16 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
--  16 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  16 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  16 [Top Weekly Offers!](https://afflift.com/f/threads/top-weekly-offers.12627/)
--  16 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
--  16 [✅✅✅MyBrocard - Trusted Virtual Cards ⭐️⭐️⭐️ The First 50 Cards Are Free 💯💯💯 Facebook | Google | X |Black/Grayhat Agency accounts 📈📈📈](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85mybrocard-trusted-virtual-cards-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-the-first-50-cards-are-free-%F0%9F%92%AF%F0%9F%92%AF%F0%9F%92%AF-facebook-google-x-black-grayhat-agency-accounts-%F0%9F%93%88%F0%9F%93%88%F0%9F%93%88.12653/)
--  16 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)<!-- afflift:END -->
+-  16 [TheOptimizer Mobile - Pop/Redirect/Push Campaigns on Auto-Pilot](https://afflift.com/f/threads/theoptimizer-mobile-pop-redirect-push-campaigns-on-auto-pilot.1514/)
+-  16 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
