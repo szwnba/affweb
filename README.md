@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
+-  16 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  16 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  16 [Top Weekly Offers!](https://afflift.com/f/threads/top-weekly-offers.12627/)
 -  16 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  16 [✅✅✅MyBrocard - Trusted Virtual Cards ⭐️⭐️⭐️ The First 50 Cards Are Free 💯💯💯 Facebook | Google | X |Black/Grayhat Agency accounts 📈📈📈](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85mybrocard-trusted-virtual-cards-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-the-first-50-cards-are-free-%F0%9F%92%AF%F0%9F%92%AF%F0%9F%92%AF-facebook-google-x-black-grayhat-agency-accounts-%F0%9F%93%88%F0%9F%93%88%F0%9F%93%88.12653/)
--  16 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
 -  16 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  16 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/)
 -  16 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  16 [I can&#39;t find this error in my LP. &lpar;Encoding issue&rpar;](https://afflift.com/f/threads/i-cant-find-this-error-in-my-lp-encoding-issue.12652/)
 -  16 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
--  16 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
--  16 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)<!-- afflift:END -->
+-  16 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
