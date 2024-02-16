@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  15 [Mobooka的am Mitchell Dolan 有点欺负人了吧](https://www.advertcn.com/thread-113990-1-1.html)
--  15 [有没有生发的医生或医院推荐](https://www.advertcn.com/thread-113989-1-1.html)<!-- advertcn3:END -->
+-  15 [Mobooka的am Mitchell Dolan 有点欺负人了吧](https://www.advertcn.com/thread-113990-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
