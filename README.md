@@ -52,5 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  15 [这 5 个数码产品，是我们 2023 买过最不后悔的「新玩意」](https://sspai.com/post/86457)
--  15 [城市漫步指南：去墨尔本躲避北半球的冬天](https://sspai.com/post/85649)<!-- sspai:END -->
+-  15 [这 5 个数码产品，是我们 2023 买过最不后悔的「新玩意」](https://sspai.com/post/86457)<!-- sspai:END -->
