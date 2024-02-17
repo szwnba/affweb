@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  16 [新年新开始：从为什么到写什么，带你重新认识日记](https://sspai.com/post/86356)<!-- sspai:END -->
+-  17 [整理假期拍摄的照片之前，不妨读读这些关于摄影的技巧和理论](https://sspai.com/post/75837)<!-- sspai:END -->
