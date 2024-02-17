@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  17 [TikTok and Mvas = Profit?!?](https://afflift.com/f/threads/tiktok-and-mvas-profit.12659/)
 -  17 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  17 [Which types of Nutra offers are suitable for running on Facebook?](https://afflift.com/f/threads/which-types-of-nutra-offers-are-suitable-for-running-on-facebook.12661/)
@@ -46,8 +47,7 @@
 -  16 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)
 -  16 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  16 [Native + VSLs = Conversions!](https://afflift.com/f/threads/native-vsls-conversions.10913/)
--  16 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)
--  16 [top converting vsl offers in clickbank maxweb and buygoods](https://afflift.com/f/threads/top-converting-vsl-offers-in-clickbank-maxweb-and-buygoods.12645/)<!-- afflift:END -->
+-  16 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
