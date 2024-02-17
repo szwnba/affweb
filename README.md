@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
+-  17 [Affiliate Network VS. Direct Advertiser](https://afflift.com/f/threads/affiliate-network-vs-direct-advertiser.12663/)
 -  17 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
 -  17 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  17 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
@@ -45,9 +47,7 @@
 -  17 [TikTok and Mvas = Profit?!?](https://afflift.com/f/threads/tiktok-and-mvas-profit.12659/)
 -  17 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  17 [Which types of Nutra offers are suitable for running on Facebook?](https://afflift.com/f/threads/which-types-of-nutra-offers-are-suitable-for-running-on-facebook.12661/)
--  17 [Need help, how can I improve this compaign?](https://afflift.com/f/threads/need-help-how-can-i-improve-this-compaign.12660/)
--  17 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  17 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)<!-- afflift:END -->
+-  17 [Need help, how can I improve this compaign?](https://afflift.com/f/threads/need-help-how-can-i-improve-this-compaign.12660/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
