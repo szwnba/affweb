@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Need help, how can I improve this compaign?](https://afflift.com/f/threads/need-help-how-can-i-improve-this-compaign.12660/)
 -  17 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  17 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
 -  16 [&lpar;Strange 😮&rpar; No single conversion today](https://afflift.com/f/threads/strange-%F0%9F%98%AE-no-single-conversion-today.12657/)
@@ -47,8 +48,7 @@
 -  16 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)
 -  16 [top converting vsl offers in clickbank maxweb and buygoods](https://afflift.com/f/threads/top-converting-vsl-offers-in-clickbank-maxweb-and-buygoods.12645/)
 -  16 [Domains Flagged](https://afflift.com/f/threads/domains-flagged.12655/)
--  16 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
--  16 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)<!-- afflift:END -->
+-  16 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
