@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
+-  17 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
 -  17 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
 -  17 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)
 -  17 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
--  17 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
 -  17 [TikTok and Mvas = Profit?!?](https://afflift.com/f/threads/tiktok-and-mvas-profit.12659/)
 -  17 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  17 [Which types of Nutra offers are suitable for running on Facebook?](https://afflift.com/f/threads/which-types-of-nutra-offers-are-suitable-for-running-on-facebook.12661/)
 -  17 [Need help, how can I improve this compaign?](https://afflift.com/f/threads/need-help-how-can-i-improve-this-compaign.12660/)
 -  17 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  17 [Hello from Sydney, Australia !](https://afflift.com/f/threads/hello-from-sydney-australia.12568/)
--  16 [&lpar;Strange 😮&rpar; No single conversion today](https://afflift.com/f/threads/strange-%F0%9F%98%AE-no-single-conversion-today.12657/)
--  16 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)<!-- afflift:END -->
+-  16 [&lpar;Strange 😮&rpar; No single conversion today](https://afflift.com/f/threads/strange-%F0%9F%98%AE-no-single-conversion-today.12657/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
