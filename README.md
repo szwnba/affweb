@@ -54,5 +54,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  18 [用最低限度的开始，给自己最大的养成空间](https://sspai.com/post/78434)
--  17 [演示大考：全新家具、个性化试戴，Vision Pro 发布对零售店的一次大考](https://sspai.com/post/86439)<!-- sspai:END -->
+-  18 [用最低限度的开始，给自己最大的养成空间](https://sspai.com/post/78434)<!-- sspai:END -->
