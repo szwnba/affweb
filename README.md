@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  18 [Facebook Ad Accounts &amp; Maintaining Campaigns with BH Offers](https://afflift.com/f/threads/facebook-ad-accounts-maintaining-campaigns-with-bh-offers.12603/)
--  18 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  18 [Does Pop Still Work?](https://afflift.com/f/threads/does-pop-still-work.12666/)
+-  18 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  18 [Is anyone running Blank checkout offers?](https://afflift.com/f/threads/is-anyone-running-blank-checkout-offers.12667/)
+-  18 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
+-  18 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
+-  18 [Facebook Ad Accounts &amp; Maintaining Campaigns with BH Offers](https://afflift.com/f/threads/facebook-ad-accounts-maintaining-campaigns-with-bh-offers.12603/)
 -  18 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  18 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
--  18 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  18 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)
 -  18 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  18 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
--  18 [Who is going to TES Cascais 2024?](https://afflift.com/f/threads/who-is-going-to-tes-cascais-2024.12477/)
--  18 [Affiliate Network VS. Direct Advertiser](https://afflift.com/f/threads/affiliate-network-vs-direct-advertiser.12663/)<!-- afflift:END -->
+-  18 [Who is going to TES Cascais 2024?](https://afflift.com/f/threads/who-is-going-to-tes-cascais-2024.12477/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
