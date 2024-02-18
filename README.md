@@ -39,6 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
+-  18 [Who is going to TES Cascais 2024?](https://afflift.com/f/threads/who-is-going-to-tes-cascais-2024.12477/)
+-  18 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  18 [Affiliate Network VS. Direct Advertiser](https://afflift.com/f/threads/affiliate-network-vs-direct-advertiser.12663/)
 -  18 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  18 [Resurrecting a Neglected Authority Site](https://afflift.com/f/threads/resurrecting-a-neglected-authority-site.12665/)
@@ -47,8 +50,7 @@
 -  17 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  17 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
 -  17 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
--  17 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)
--  17 [TikTok and Mvas = Profit?!?](https://afflift.com/f/threads/tiktok-and-mvas-profit.12659/)<!-- afflift:END -->
+-  17 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
