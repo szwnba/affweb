@@ -48,8 +48,7 @@
 -  17 [What offers for direct linking?](https://afflift.com/f/threads/what-offers-for-direct-linking.12651/)
 -  17 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
 -  17 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)
--  17 [TikTok and Mvas = Profit?!?](https://afflift.com/f/threads/tiktok-and-mvas-profit.12659/)
--  17 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
+-  17 [TikTok and Mvas = Profit?!?](https://afflift.com/f/threads/tiktok-and-mvas-profit.12659/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
