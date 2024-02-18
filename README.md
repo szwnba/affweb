@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  16 [PropellerAds 的农历新年幸运大抽奖活动来啦——抓住良机，...](https://www.advertcn.com/thread-114000-1-1.html)<!-- advertcn3:END -->
+-  18 [独立站如何在短时间内获取大量流量](https://www.advertcn.com/thread-114006-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
