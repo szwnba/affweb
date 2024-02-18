@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Resurrecting a Neglected Authority Site](https://afflift.com/f/threads/resurrecting-a-neglected-authority-site.12665/)
 -  18 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
 -  18 [Affiliate Network VS. Direct Advertiser](https://afflift.com/f/threads/affiliate-network-vs-direct-advertiser.12663/)
 -  18 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
@@ -45,9 +46,7 @@
 -  17 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
 -  17 [Tracker suggestion.](https://afflift.com/f/threads/tracker-suggestion.12654/)
 -  17 [TikTok and Mvas = Profit?!?](https://afflift.com/f/threads/tiktok-and-mvas-profit.12659/)
--  17 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  17 [Which types of Nutra offers are suitable for running on Facebook?](https://afflift.com/f/threads/which-types-of-nutra-offers-are-suitable-for-running-on-facebook.12661/)
--  17 [Need help, how can I improve this compaign?](https://afflift.com/f/threads/need-help-how-can-i-improve-this-compaign.12660/)<!-- afflift:END -->
+-  17 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
