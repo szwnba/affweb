@@ -51,5 +51,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [用最低限度的开始，给自己最大的养成空间](https://sspai.com/post/78434)
 -  17 [演示大考：全新家具、个性化试戴，Vision Pro 发布对零售店的一次大考](https://sspai.com/post/86439)
 -  17 [整理假期拍摄的照片之前，不妨读读这些关于摄影的技巧和理论](https://sspai.com/post/75837)<!-- sspai:END -->
