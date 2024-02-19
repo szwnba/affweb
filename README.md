@@ -29,9 +29,7 @@
 -  19 [寻找俄罗斯的投放渠道](https://www.advertcn.com/thread-114024-1-1.html)
 -  19 [whatsapp现在什么情况？](https://www.advertcn.com/thread-114021-1-1.html)
 -  19 [龙年开工大吉!](https://www.advertcn.com/thread-114019-1-1.html)
--  18 [有没有可以白嫖的Tracker](https://www.advertcn.com/thread-114013-1-1.html)
--  18 [我不想参加任何培训。现在还有STM团购？](https://www.advertcn.com/thread-114010-1-1.html)
--  18 [ebay礼品卡有人收吗](https://www.advertcn.com/thread-114008-1-1.html)<!-- advertcn3:END -->
+-  18 [有没有可以白嫖的Tracker](https://www.advertcn.com/thread-114013-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
