@@ -29,8 +29,7 @@
 -  19 [有没有做跨境电商虾皮的](https://www.advertcn.com/thread-114025-1-1.html)
 -  19 [寻找俄罗斯的投放渠道](https://www.advertcn.com/thread-114024-1-1.html)
 -  19 [whatsapp现在什么情况？](https://www.advertcn.com/thread-114021-1-1.html)
--  19 [龙年开工大吉!](https://www.advertcn.com/thread-114019-1-1.html)
--  18 [有没有可以白嫖的Tracker](https://www.advertcn.com/thread-114013-1-1.html)<!-- advertcn3:END -->
+-  19 [龙年开工大吉!](https://www.advertcn.com/thread-114019-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
