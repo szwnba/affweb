@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  19 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  19 [The Most Annoying Problem In CPA Marketing [Virustotal Flags Vs Moderation]🤮😡](https://afflift.com/f/threads/the-most-annoying-problem-in-cpa-marketing-virustotal-flags-vs-moderation-%F0%9F%A4%AE%F0%9F%98%A1.12668/)
 -  19 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
@@ -50,8 +51,7 @@
 -  18 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  18 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
 -  18 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
--  18 [Does Pop Still Work?](https://afflift.com/f/threads/does-pop-still-work.12666/)
--  18 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)<!-- afflift:END -->
+-  18 [Does Pop Still Work?](https://afflift.com/f/threads/does-pop-still-work.12666/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
