@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  19 [来瞧瞧这款新兴潜力媒体→Pinterest](https://www.advertcn.com/thread-114028-1-1.html)
 -  19 [WhatsApp账号为什么被禁用？解封攻略和养号技巧](https://www.advertcn.com/thread-114020-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
