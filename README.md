@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [&lpar;Strange 😮&rpar; No single conversion today](https://afflift.com/f/threads/strange-%F0%9F%98%AE-no-single-conversion-today.12657/)
+-  19 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
+-  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  19 [Does Pop Still Work?](https://afflift.com/f/threads/does-pop-still-work.12666/)
+-  19 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
+-  19 [&lpar;Strange 😮&rpar; No single conversion today](https://afflift.com/f/threads/strange-%F0%9F%98%AE-no-single-conversion-today.12657/)
 -  19 [Is anyone running Blank checkout offers?](https://afflift.com/f/threads/is-anyone-running-blank-checkout-offers.12667/)
 -  19 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
--  19 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
 -  19 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  19 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  19 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  19 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  19 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
--  19 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  19 [The Most Annoying Problem In CPA Marketing [Virustotal Flags Vs Moderation]🤮😡](https://afflift.com/f/threads/the-most-annoying-problem-in-cpa-marketing-virustotal-flags-vs-moderation-%F0%9F%A4%AE%F0%9F%98%A1.12668/)<!-- afflift:END -->
+-  19 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
