@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  16 [新人报道](https://www.advertcn.com/thread-113997-1-1.html)<!-- advertcn1:END -->
+-  19 [WhatsApp账号为什么被禁用？解封攻略和养号技巧](https://www.advertcn.com/thread-114020-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
