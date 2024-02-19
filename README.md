@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)
--  19 [The Most Annoying Problem In CPA Marketing [Virustotal Flags Vs Moderation]🤮😡](https://afflift.com/f/threads/the-most-annoying-problem-in-cpa-marketing-virustotal-flags-vs-moderation-%F0%9F%A4%AE%F0%9F%98%A1.12668/)
 -  19 [Is anyone running Blank checkout offers?](https://afflift.com/f/threads/is-anyone-running-blank-checkout-offers.12667/)
+-  19 [The Most Annoying Problem In CPA Marketing [Virustotal Flags Vs Moderation]🤮😡](https://afflift.com/f/threads/the-most-annoying-problem-in-cpa-marketing-virustotal-flags-vs-moderation-%F0%9F%A4%AE%F0%9F%98%A1.12668/)
+-  19 [Flickstree Affiliate Program- Hottest Verticals, High converting offers in Sweeps, Nutra, Trials, VOD, Loans &amp; More.](https://afflift.com/f/threads/flickstree-affiliate-program-hottest-verticals-high-converting-offers-in-sweeps-nutra-trials-vod-loans-more.12567/)
+-  19 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
+-  19 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)
 -  19 [Question about Indonesian mvas offers](https://afflift.com/f/threads/question-about-indonesian-mvas-offers.12636/)
 -  19 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  19 [Journey to Profitability with Popads - How much can be optimised ?](https://afflift.com/f/threads/journey-to-profitability-with-popads-how-much-can-be-optimised.12464/)
 -  19 [Impressions tracking - for banner ads on 3rd party website](https://afflift.com/f/threads/impressions-tracking-for-banner-ads-on-3rd-party-website.12672/)
 -  19 [✅✅✅MyBrocard - Trusted Virtual Cards ⭐️⭐️⭐️ The First 50 Cards Are Free 💯💯💯 Facebook | Google | X |Black/Grayhat Agency accounts 📈📈📈](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85mybrocard-trusted-virtual-cards-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-the-first-50-cards-are-free-%F0%9F%92%AF%F0%9F%92%AF%F0%9F%92%AF-facebook-google-x-black-grayhat-agency-accounts-%F0%9F%93%88%F0%9F%93%88%F0%9F%93%88.12653/)
 -  19 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  19 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  19 [Meet the MGID team at Affiliate World Dubai 2024!](https://afflift.com/f/threads/meet-the-mgid-team-at-affiliate-world-dubai-2024.12670/)
--  19 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)<!-- afflift:END -->
+-  19 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
