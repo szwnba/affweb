@@ -55,5 +55,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  19 [派早报：Sora 视频生成模型公布研发进展，nginx 主要维护者宣布分叉](https://sspai.com/post/86497)
--  18 [用最低限度的开始，给自己最大的养成空间](https://sspai.com/post/78434)<!-- sspai:END -->
+-  19 [派早报：Sora 视频生成模型公布研发进展，nginx 主要维护者宣布分叉](https://sspai.com/post/86497)<!-- sspai:END -->
