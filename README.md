@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [派评 | 近期值得关注的 App](https://sspai.com/post/86521)
 -  19 [家用咖啡手册（番外） | 随心所欲，这是你的「拼配豆」DIY 指南](https://sspai.com/post/86481)
 -  19 [年度征文 | 感冒频次突增的一年，我从身体反馈中学到哪些？](https://sspai.com/post/86483)
 -  19 [派早报：Sora 视频生成模型公布研发进展，nginx 主要维护者宣布分叉](https://sspai.com/post/86497)<!-- sspai:END -->
