@@ -41,8 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  19 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
+-  19 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  19 [The Most Annoying Problem In CPA Marketing [Virustotal Flags Vs Moderation]🤮😡](https://afflift.com/f/threads/the-most-annoying-problem-in-cpa-marketing-virustotal-flags-vs-moderation-%F0%9F%A4%AE%F0%9F%98%A1.12668/)
 -  19 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
 -  18 [10 Free Landing Pages for Collecting Push Subscribers &lpar;from TacoLoco&rpar; 🔔](https://afflift.com/f/threads/10-free-landing-pages-for-collecting-push-subscribers-from-tacoloco-%F0%9F%94%94.12596/)
