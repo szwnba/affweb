@@ -27,13 +27,13 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  20 [做了一个接入了Google 关键词数据的 GPT](https://www.advertcn.com/thread-114040-1-1.html)
 -  20 [OPENAI牛鼻！SORA自动生成视频，以后视频博主难搞了~](https://www.advertcn.com/thread-114039-1-1.html)
 -  20 [哪位好心的大佬，可以分享一下游戏类的landing page吗](https://www.advertcn.com/thread-114038-1-1.html)
 -  20 [俱往矣就是个骗子](https://www.advertcn.com/thread-114037-1-1.html)
 -  20 [trafee联盟，收不到邮件](https://www.advertcn.com/thread-114035-1-1.html)
 -  20 [新手想入行黑五，需要掌握哪些技能](https://www.advertcn.com/thread-114034-1-1.html)
--  19 [用谷歌跑cps一定要用追踪工具吗](https://www.advertcn.com/thread-114030-1-1.html)
--  19 [有没有做跨境电商虾皮的](https://www.advertcn.com/thread-114025-1-1.html)<!-- advertcn3:END -->
+-  19 [用谷歌跑cps一定要用追踪工具吗](https://www.advertcn.com/thread-114030-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
