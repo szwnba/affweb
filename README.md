@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  20 [助力跨境电商：有哪些实用的跨境电商AI工具？](https://www.advertcn.com/thread-114036-1-1.html)
--  19 [新人报道！](https://www.advertcn.com/thread-114031-1-1.html)
--  19 [来瞧瞧这款新兴潜力媒体→Pinterest](https://www.advertcn.com/thread-114028-1-1.html)<!-- advertcn1:END -->
+-  19 [新人报道！](https://www.advertcn.com/thread-114031-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
