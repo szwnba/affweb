@@ -33,8 +33,7 @@
 -  20 [trafee联盟，收不到邮件](https://www.advertcn.com/thread-114035-1-1.html)
 -  20 [新手想入行黑五，需要掌握哪些技能](https://www.advertcn.com/thread-114034-1-1.html)
 -  19 [用谷歌跑cps一定要用追踪工具吗](https://www.advertcn.com/thread-114030-1-1.html)
--  19 [有没有做跨境电商虾皮的](https://www.advertcn.com/thread-114025-1-1.html)
--  19 [寻找俄罗斯的投放渠道](https://www.advertcn.com/thread-114024-1-1.html)<!-- advertcn3:END -->
+-  19 [有没有做跨境电商虾皮的](https://www.advertcn.com/thread-114025-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
