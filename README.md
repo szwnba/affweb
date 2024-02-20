@@ -43,8 +43,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  20 [What is the best way to do this with Bemob?](https://afflift.com/f/threads/what-is-the-best-way-to-do-this-with-bemob.12676/)
+-  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  20 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)
+-  20 [What is the best way to do this with Bemob?](https://afflift.com/f/threads/what-is-the-best-way-to-do-this-with-bemob.12676/)
+-  20 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  20 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  20 [Leads From Tier-1 For $0.000169: How and Where to Promote OnlyFans Accounts and Make Maximum Profit](https://afflift.com/f/threads/leads-from-tier-1-for-0-000169-how-and-where-to-promote-onlyfans-accounts-and-make-maximum-profit.12675/)
 -  20 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
@@ -52,9 +54,7 @@
 -  20 [How long will you set the redirect time when implementing a timedout redirect script on your landers ?](https://afflift.com/f/threads/how-long-will-you-set-the-redirect-time-when-implementing-a-timedout-redirect-script-on-your-landers.12674/)
 -  20 [Adexico - Trusted network for thousands partners!](https://afflift.com/f/threads/adexico-trusted-network-for-thousands-partners.5592/)
 -  20 [Flickstree Affiliate Program- Hottest Verticals, High converting offers in Sweeps, Nutra, Trials, VOD, Loans &amp; More.](https://afflift.com/f/threads/flickstree-affiliate-program-hottest-verticals-high-converting-offers-in-sweeps-nutra-trials-vod-loans-more.12567/)
--  20 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  20 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  20 [Affiliate Network VS. Direct Advertiser](https://afflift.com/f/threads/affiliate-network-vs-direct-advertiser.12663/)<!-- afflift:END -->
+-  20 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
