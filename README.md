@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
 -  20 [How long will you set the redirect time when implementing a timedout redirect script on your landers ?](https://afflift.com/f/threads/how-long-will-you-set-the-redirect-time-when-implementing-a-timedout-redirect-script-on-your-landers.12674/)
 -  20 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
 -  20 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
@@ -53,8 +54,7 @@
 -  20 [Is anyone running Blank checkout offers?](https://afflift.com/f/threads/is-anyone-running-blank-checkout-offers.12667/)
 -  20 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  20 [Is Propellerads Down?](https://afflift.com/f/threads/is-propellerads-down.12673/)
--  19 [Does Pop Still Work?](https://afflift.com/f/threads/does-pop-still-work.12666/)
--  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)<!-- afflift:END -->
+-  19 [Does Pop Still Work?](https://afflift.com/f/threads/does-pop-still-work.12666/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
