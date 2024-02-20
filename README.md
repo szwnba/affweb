@@ -61,5 +61,4 @@
 <!-- sspai:START -->
 -  20 [用浏览器思路，为 iPad 带来桌面级体验：Lok Board](https://sspai.com/post/86288)
 -  20 [派早报：Intel 被指控夸大 CPU 测试结果，英国芯片制造商 Graphcore 寻求出售等](https://sspai.com/post/86522)
--  19 [派评 | 近期值得关注的 App](https://sspai.com/post/86521)
--  19 [家用咖啡手册（番外） | 随心所欲，这是你的「拼配豆」DIY 指南](https://sspai.com/post/86481)<!-- sspai:END -->
+-  19 [派评 | 近期值得关注的 App](https://sspai.com/post/86521)<!-- sspai:END -->
