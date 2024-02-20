@@ -44,6 +44,7 @@
 ### afflift
 <!-- afflift:START -->
 -  20 [How long will you set the redirect time when implementing a timedout redirect script on your landers ?](https://afflift.com/f/threads/how-long-will-you-set-the-redirect-time-when-implementing-a-timedout-redirect-script-on-your-landers.12674/)
+-  20 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  20 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  20 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  20 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
@@ -53,8 +54,7 @@
 -  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  20 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)
 -  20 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
--  20 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  20 [Leads From Tier-1 For $0.000169: How and Where to Promote OnlyFans Accounts and Make Maximum Profit](https://afflift.com/f/threads/leads-from-tier-1-for-0-000169-how-and-where-to-promote-onlyfans-accounts-and-make-maximum-profit.12675/)<!-- afflift:END -->
+-  20 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
