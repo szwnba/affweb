@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  20 [新人报到](https://www.advertcn.com/thread-114043-1-1.html)
 -  20 [助力跨境电商：有哪些实用的跨境电商AI工具？](https://www.advertcn.com/thread-114036-1-1.html)
 -  19 [新人报道！](https://www.advertcn.com/thread-114031-1-1.html)<!-- advertcn1:END -->
 
