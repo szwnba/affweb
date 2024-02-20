@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  20 [做跨境成功的客户是如何赚钱的？20+案例解析！](https://www.advertcn.com/thread-114044-1-1.html)
 -  20 [新人报到](https://www.advertcn.com/thread-114043-1-1.html)
--  20 [助力跨境电商：有哪些实用的跨境电商AI工具？](https://www.advertcn.com/thread-114036-1-1.html)
--  19 [新人报道！](https://www.advertcn.com/thread-114031-1-1.html)<!-- advertcn1:END -->
+-  20 [助力跨境电商：有哪些实用的跨境电商AI工具？](https://www.advertcn.com/thread-114036-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
