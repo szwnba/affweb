@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Is anyone running Blank checkout offers?](https://afflift.com/f/threads/is-anyone-running-blank-checkout-offers.12667/)
+-  20 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
+-  20 [Is Propellerads Down?](https://afflift.com/f/threads/is-propellerads-down.12673/)
 -  19 [Does Pop Still Work?](https://afflift.com/f/threads/does-pop-still-work.12666/)
 -  19 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  19 [Is Propellerads Down?](https://afflift.com/f/threads/is-propellerads-down.12673/)
+-  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 -  19 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  19 [The Most Annoying Problem In CPA Marketing [Virustotal Flags Vs Moderation]🤮😡](https://afflift.com/f/threads/the-most-annoying-problem-in-cpa-marketing-virustotal-flags-vs-moderation-%F0%9F%A4%AE%F0%9F%98%A1.12668/)
 -  19 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  19 [Is anyone running Blank checkout offers?](https://afflift.com/f/threads/is-anyone-running-blank-checkout-offers.12667/)
 -  19 [Affiliate Network VS. Direct Advertiser](https://afflift.com/f/threads/affiliate-network-vs-direct-advertiser.12663/)
 -  19 [Resurrecting a Neglected Authority Site](https://afflift.com/f/threads/resurrecting-a-neglected-authority-site.12665/)
--  19 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
--  19 [Which types of Nutra offers are suitable for running on Facebook?](https://afflift.com/f/threads/which-types-of-nutra-offers-are-suitable-for-running-on-facebook.12661/)
--  19 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
+-  19 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
