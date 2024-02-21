@@ -28,9 +28,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  21 [还有哪家cloaker能过mgid？](https://www.advertcn.com/thread-114047-1-1.html)
--  20 [做了一个接入了Google 关键词数据的 GPT](https://www.advertcn.com/thread-114040-1-1.html)
--  20 [OPENAI牛鼻！SORA自动生成视频，以后视频博主难搞了~](https://www.advertcn.com/thread-114039-1-1.html)
--  20 [哪位好心的大佬，可以分享一下游戏类的landing page吗](https://www.advertcn.com/thread-114038-1-1.html)<!-- advertcn3:END -->
+-  20 [做了一个接入了Google 关键词数据的 GPT](https://www.advertcn.com/thread-114040-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
