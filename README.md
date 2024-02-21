@@ -42,17 +42,17 @@
 ### afflift
 <!-- afflift:START -->
 -  21 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  21 [Binom Down?](https://afflift.com/f/threads/binom-down.12686/)
+-  21 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/)
 -  21 [Checkout blank pages offers!!](https://afflift.com/f/threads/checkout-blank-pages-offers.12685/)
--  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  21 [Binom Down?](https://afflift.com/f/threads/binom-down.12686/)
 -  21 [How to Choose the Right Hosting for Monetization with Push Notifications](https://afflift.com/f/threads/how-to-choose-the-right-hosting-for-monetization-with-push-notifications.11915/)
+-  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  21 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  21 [Looking for Dating Offers for Tier 1 and Tier 2 countries](https://afflift.com/f/threads/looking-for-dating-offers-for-tier-1-and-tier-2-countries.12677/)
 -  21 [Help! Optimizing My CPA Spend. Need Pro Tips.](https://afflift.com/f/threads/help-optimizing-my-cpa-spend-need-pro-tips.12678/)
 -  21 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  21 [Need help for strategy](https://afflift.com/f/threads/need-help-for-strategy.12683/)
--  21 [Let&#39;s meet &lpar;again&rpar; in Dubai! 🐪🌴](https://afflift.com/f/threads/lets-meet-again-in-dubai-%F0%9F%90%AA%F0%9F%8C%B4.12684/)
--  21 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)<!-- afflift:END -->
+-  21 [Let&#39;s meet &lpar;again&rpar; in Dubai! 🐪🌴](https://afflift.com/f/threads/lets-meet-again-in-dubai-%F0%9F%90%AA%F0%9F%8C%B4.12684/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
