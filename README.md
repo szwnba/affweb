@@ -57,5 +57,4 @@
 -  21 [年度征文｜在波折失业的 2023 中，我学到了这些](https://sspai.com/post/86509)
 -  21 [派早报：富士推出 X100VI、OpenAI 放宽 GPT-4 Turbo 每日使用限制等](https://sspai.com/post/86555)
 -  20 [社区速递 032 | 写小说利器、被盗版以及春节照片后的故事](https://sspai.com/post/86538)
--  20 [在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)
--  20 [用浏览器思路，为 iPad 带来桌面级体验：Lok Board](https://sspai.com/post/86288)<!-- sspai:END -->
+-  20 [在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)<!-- sspai:END -->
