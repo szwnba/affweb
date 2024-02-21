@@ -21,8 +21,7 @@
 -  21 [一键速查TikTok出海电商大促如何做好视觉设计？！](https://www.advertcn.com/thread-114052-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-114049-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-114048-1-1.html)
--  20 [做跨境成功的客户是如何赚钱的？20+案例解析！](https://www.advertcn.com/thread-114044-1-1.html)
--  20 [新人报到](https://www.advertcn.com/thread-114043-1-1.html)<!-- advertcn1:END -->
+-  20 [做跨境成功的客户是如何赚钱的？20+案例解析！](https://www.advertcn.com/thread-114044-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
