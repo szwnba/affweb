@@ -17,6 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  21 [新人报道](https://www.advertcn.com/thread-114053-1-1.html)
+-  21 [一键速查TikTok出海电商大促如何做好视觉设计？！](https://www.advertcn.com/thread-114052-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-114049-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-114048-1-1.html)
 -  20 [做跨境成功的客户是如何赚钱的？20+案例解析！](https://www.advertcn.com/thread-114044-1-1.html)
