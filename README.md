@@ -42,7 +42,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  21 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  21 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  21 [Push/Native Adx Arbitrage Mastermind](https://afflift.com/f/threads/push-native-adx-arbitrage-mastermind.12680/)
 -  21 [Looking for Dating Offers for Tier 1 and Tier 2 countries](https://afflift.com/f/threads/looking-for-dating-offers-for-tier-1-and-tier-2-countries.12677/)
 -  21 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
@@ -51,9 +53,7 @@
 -  21 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
 -  21 [922S5-Best ISP Proxy Service Provider? | Socks5/Http&lpar;s&rpar; Proxy List](https://afflift.com/f/threads/922s5-best-isp-proxy-service-provider-socks5-http-s-proxy-list.12117/)
 -  21 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
--  21 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  20 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)
--  20 [What is the best way to do this with Bemob?](https://afflift.com/f/threads/what-is-the-best-way-to-do-this-with-bemob.12676/)<!-- afflift:END -->
+-  21 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
