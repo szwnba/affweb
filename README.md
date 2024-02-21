@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [LeadsMarket is One of the Most Profitable Affiliate Programs in the World](https://afflift.com/f/threads/leadsmarket-is-one-of-the-most-profitable-affiliate-programs-in-the-world.12679/)
+-  21 [Help! Optimizing My CPA Spend. Need Pro Tips.](https://afflift.com/f/threads/help-optimizing-my-cpa-spend-need-pro-tips.12678/)
+-  21 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
 -  21 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  21 [922S5-Best ISP Proxy Service Provider? | Socks5/Http&lpar;s&rpar; Proxy List](https://afflift.com/f/threads/922s5-best-isp-proxy-service-provider-socks5-http-s-proxy-list.12117/)
 -  21 [Looking for Dating Offers for Tier 1 and Tier 2 countries](https://afflift.com/f/threads/looking-for-dating-offers-for-tier-1-and-tier-2-countries.12677/)
 -  21 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
--  21 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
 -  21 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
 -  20 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)
 -  20 [What is the best way to do this with Bemob?](https://afflift.com/f/threads/what-is-the-best-way-to-do-this-with-bemob.12676/)
 -  20 [How long will you set the redirect time when implementing a timedout redirect script on your landers ?](https://afflift.com/f/threads/how-long-will-you-set-the-redirect-time-when-implementing-a-timedout-redirect-script-on-your-landers.12674/)
--  20 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
--  20 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  20 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  20 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
