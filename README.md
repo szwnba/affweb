@@ -28,8 +28,9 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  21 [还有哪家cloaker能过mgid？](https://www.advertcn.com/thread-114047-1-1.html)
--  20 [做了一个接入了Google 关键词数据的 GPT](https://www.advertcn.com/thread-114040-1-1.html)<!-- advertcn3:END -->
+-  21 [从0-1必看！！超全TikTok Shop美区本土店准备资料详解！](https://www.advertcn.com/thread-114051-1-1.html)
+-  21 [哪里可以弄到etsy店铺呢？](https://www.advertcn.com/thread-114050-1-1.html)
+-  21 [还有哪家cloaker能过mgid？](https://www.advertcn.com/thread-114047-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
