@@ -60,5 +60,4 @@
 <!-- sspai:START -->
 -  20 [社区速递 032 | 写小说利器、被盗版以及春节照片后的故事](https://sspai.com/post/86538)
 -  20 [在租来的房子里，我这样搭建怡人的光照](https://sspai.com/prime/story/lighting-design-for-rented-properties)
--  20 [用浏览器思路，为 iPad 带来桌面级体验：Lok Board](https://sspai.com/post/86288)
--  20 [派早报：Intel 被指控夸大 CPU 测试结果，英国芯片制造商 Graphcore 寻求出售等](https://sspai.com/post/86522)<!-- sspai:END -->
+-  20 [用浏览器思路，为 iPad 带来桌面级体验：Lok Board](https://sspai.com/post/86288)<!-- sspai:END -->
