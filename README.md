@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  22 [新人报道](https://www.advertcn.com/thread-114061-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-114053-1-1.html)
 -  21 [一键速查TikTok出海电商大促如何做好视觉设计？！](https://www.advertcn.com/thread-114052-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-114049-1-1.html)
