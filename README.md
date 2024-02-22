@@ -30,8 +30,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  21 [从0-1必看！！超全TikTok Shop美区本土店准备资料详解！](https://www.advertcn.com/thread-114051-1-1.html)
--  21 [哪里可以弄到etsy店铺呢？](https://www.advertcn.com/thread-114050-1-1.html)<!-- advertcn3:END -->
+-  22 [大家好有没有TK余额户](https://www.advertcn.com/thread-114071-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
