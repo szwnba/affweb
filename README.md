@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
+-  22 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
 -  22 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  22 [How to buy the most traffic volumn of a specific zone ?](https://afflift.com/f/threads/how-to-buy-the-most-traffic-volumn-of-a-specific-zone.11778/)
 -  22 [Checkout blank pages offers!!](https://afflift.com/f/threads/checkout-blank-pages-offers.12685/)
@@ -50,9 +52,7 @@
 -  22 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  21 [10 Free Landing Pages for Collecting Push Subscribers &lpar;from TacoLoco&rpar; 🔔](https://afflift.com/f/threads/10-free-landing-pages-for-collecting-push-subscribers-from-tacoloco-%F0%9F%94%94.12596/)
 -  21 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  21 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  21 [Help! Optimizing My CPA Spend. Need Pro Tips.](https://afflift.com/f/threads/help-optimizing-my-cpa-spend-need-pro-tips.12678/)
--  21 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  21 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
