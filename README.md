@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Not slow LP with very high clickloss](https://afflift.com/f/threads/not-slow-lp-with-very-high-clickloss.10570/)
 -  22 [Top 10 Affiliate Programs for Australia GEO](https://afflift.com/f/threads/top-10-affiliate-programs-for-australia-geo.12693/)
 -  22 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
 -  22 [How to Work with In-App Facebook Browser Traffic? [Guide + Case]](https://afflift.com/f/threads/how-to-work-with-in-app-facebook-browser-traffic-guide-case.12692/)
@@ -49,8 +50,7 @@
 -  22 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  22 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  22 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
--  22 [Search Monetization and Search Arbitrage - Here is what you need to know](https://afflift.com/f/threads/search-monetization-and-search-arbitrage-here-is-what-you-need-to-know.8185/)
--  22 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)<!-- afflift:END -->
+-  22 [Search Monetization and Search Arbitrage - Here is what you need to know](https://afflift.com/f/threads/search-monetization-and-search-arbitrage-here-is-what-you-need-to-know.8185/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
