@@ -17,10 +17,10 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  22 [请查收：一文轻松get快手的优势市场](https://www.advertcn.com/thread-114066-1-1.html)
 -  22 [新人报道](https://www.advertcn.com/thread-114061-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-114053-1-1.html)
--  21 [一键速查TikTok出海电商大促如何做好视觉设计？！](https://www.advertcn.com/thread-114052-1-1.html)
--  21 [新人报道](https://www.advertcn.com/thread-114049-1-1.html)<!-- advertcn1:END -->
+-  21 [一键速查TikTok出海电商大促如何做好视觉设计？！](https://www.advertcn.com/thread-114052-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
