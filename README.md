@@ -58,5 +58,4 @@
 <!-- sspai:START -->
 -  21 [善用命名法，让「搜索」成为最简单的本地文件管理方案](https://sspai.com/post/86393)
 -  21 [一日一技 | 用快捷指令一键切换 Mac 音频输出设备](https://sspai.com/post/86520)
--  21 [年度征文｜在波折失业的 2023 中，我学到了这些](https://sspai.com/post/86509)
--  21 [派早报：富士推出 X100VI、OpenAI 放宽 GPT-4 Turbo 每日使用限制等](https://sspai.com/post/86555)<!-- sspai:END -->
+-  21 [年度征文｜在波折失业的 2023 中，我学到了这些](https://sspai.com/post/86509)<!-- sspai:END -->
