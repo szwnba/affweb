@@ -58,5 +58,4 @@
 <!-- sspai:START -->
 -  22 [#起源、用法和趣闻：关于井号的补充史#](https://sspai.com/post/86471)
 -  22 [派早报：Apple Music 新增每月统计功能、《艾尔登法环》推出 DLC 等](https://sspai.com/post/86581)
--  21 [善用命名法，让「搜索」成为最简单的本地文件管理方案](https://sspai.com/post/86393)
--  21 [一日一技 | 用快捷指令一键切换 Mac 音频输出设备](https://sspai.com/post/86520)<!-- sspai:END -->
+-  21 [善用命名法，让「搜索」成为最简单的本地文件管理方案](https://sspai.com/post/86393)<!-- sspai:END -->
