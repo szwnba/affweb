@@ -40,6 +40,8 @@
 ### afflift
 <!-- afflift:START -->
 -  22 [Ask Me Anything about Facebook Ads 2024](https://afflift.com/f/threads/ask-me-anything-about-facebook-ads-2024.12688/)
+-  22 [AI Image Battle it Out - MidJourney/Meta AI/Gemini](https://afflift.com/f/threads/ai-image-battle-it-out-midjourney-meta-ai-gemini.12658/)
+-  22 [Anonymous-proxies.net - Fully Anonymous Proxies - SOCKS5 / HTTP /ShadowSOCKSS / Wireguard VPN](https://afflift.com/f/threads/anonymous-proxies-net-fully-anonymous-proxies-socks5-http-shadowsockss-wireguard-vpn.11474/)
 -  22 [Which clocking tool is currently effective for FB?](https://afflift.com/f/threads/which-clocking-tool-is-currently-effective-for-fb.12689/)
 -  22 [Scale up your business with Mondiad, your multiformat, multivertical, global ad network! 🚀](https://afflift.com/f/threads/scale-up-your-business-with-mondiad-your-multiformat-multivertical-global-ad-network-%F0%9F%9A%80.8789/)
 -  22 [Need help for strategy](https://afflift.com/f/threads/need-help-for-strategy.12683/)
@@ -48,9 +50,7 @@
 -  22 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  22 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  22 [Checkout blank pages offers!!](https://afflift.com/f/threads/checkout-blank-pages-offers.12685/)
--  22 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  22 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  22 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  22 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
