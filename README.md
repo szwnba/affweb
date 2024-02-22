@@ -39,6 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
+-  22 [Some offers already have landing pages?](https://afflift.com/f/threads/some-offers-already-have-landing-pages.12690/)
+-  22 [Search Monetization and Search Arbitrage - Here is what you need to know](https://afflift.com/f/threads/search-monetization-and-search-arbitrage-here-is-what-you-need-to-know.8185/)
 -  22 [anyone &lpar;still&rpar; making money here?](https://afflift.com/f/threads/anyone-still-making-money-here.12621/)
 -  22 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  22 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
@@ -47,10 +50,7 @@
 -  22 [Ask Me Anything about Facebook Ads 2024](https://afflift.com/f/threads/ask-me-anything-about-facebook-ads-2024.12688/)
 -  22 [Anonymous-proxies.net - Fully Anonymous Proxies - SOCKS5 / HTTP /ShadowSOCKSS / Wireguard VPN](https://afflift.com/f/threads/anonymous-proxies-net-fully-anonymous-proxies-socks5-http-shadowsockss-wireguard-vpn.11474/)
 -  22 [Which clocking tool is currently effective for FB?](https://afflift.com/f/threads/which-clocking-tool-is-currently-effective-for-fb.12689/)
--  22 [Scale up your business with Mondiad, your multiformat, multivertical, global ad network! 🚀](https://afflift.com/f/threads/scale-up-your-business-with-mondiad-your-multiformat-multivertical-global-ad-network-%F0%9F%9A%80.8789/)
--  22 [Need help for strategy](https://afflift.com/f/threads/need-help-for-strategy.12683/)
--  22 [Does CPA Goal weigh more in Propellerads algorithm?](https://afflift.com/f/threads/does-cpa-goal-weigh-more-in-propellerads-algorithm.11929/)
--  22 [How to Choose the Right Hosting for Monetization with Push Notifications](https://afflift.com/f/threads/how-to-choose-the-right-hosting-for-monetization-with-push-notifications.11915/)<!-- afflift:END -->
+-  22 [Scale up your business with Mondiad, your multiformat, multivertical, global ad network! 🚀](https://afflift.com/f/threads/scale-up-your-business-with-mondiad-your-multiformat-multivertical-global-ad-network-%F0%9F%9A%80.8789/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
