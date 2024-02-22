@@ -42,6 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
+-  22 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  21 [10 Free Landing Pages for Collecting Push Subscribers &lpar;from TacoLoco&rpar; 🔔](https://afflift.com/f/threads/10-free-landing-pages-for-collecting-push-subscribers-from-tacoloco-%F0%9F%94%94.12596/)
 -  21 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  21 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
@@ -51,9 +53,7 @@
 -  21 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/)
 -  21 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
 -  21 [Binom Down?](https://afflift.com/f/threads/binom-down.12686/)
--  21 [Need help for strategy](https://afflift.com/f/threads/need-help-for-strategy.12683/)
--  21 [Push/Native Adx Arbitrage Mastermind](https://afflift.com/f/threads/push-native-adx-arbitrage-mastermind.12680/)
--  21 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)<!-- afflift:END -->
+-  21 [Need help for strategy](https://afflift.com/f/threads/need-help-for-strategy.12683/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
