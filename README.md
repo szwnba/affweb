@@ -39,9 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  23 [STEP 3 - Apply for PopAds Traffic Source](https://afflift.com/f/threads/step-3-apply-for-popads-traffic-source.12313/)
 -  23 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  23 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  23 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  22 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  22 [Not slow LP with very high clickloss](https://afflift.com/f/threads/not-slow-lp-with-very-high-clickloss.10570/)
