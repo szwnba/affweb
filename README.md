@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [STEP 3 - Apply for PopAds Traffic Source](https://afflift.com/f/threads/step-3-apply-for-popads-traffic-source.12313/)
 -  23 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  23 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  22 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
@@ -48,8 +49,7 @@
 -  22 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
 -  22 [STEP 15 - Congratulations!](https://afflift.com/f/threads/step-15-congratulations.12326/)
 -  22 [Some offers already have landing pages?](https://afflift.com/f/threads/some-offers-already-have-landing-pages.12690/)
--  22 [Meet PropellerAds at the Affiliate World Conference in Dubai!](https://afflift.com/f/threads/meet-propellerads-at-the-affiliate-world-conference-in-dubai.12691/)
--  22 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)<!-- afflift:END -->
+-  22 [Meet PropellerAds at the Affiliate World Conference in Dubai!](https://afflift.com/f/threads/meet-propellerads-at-the-affiliate-world-conference-in-dubai.12691/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
