@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  23 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  23 [STEP 3 - Apply for PopAds Traffic Source](https://afflift.com/f/threads/step-3-apply-for-popads-traffic-source.12313/)
 -  23 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
@@ -50,8 +51,7 @@
 -  22 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
 -  22 [How to Work with In-App Facebook Browser Traffic? [Guide + Case]](https://afflift.com/f/threads/how-to-work-with-in-app-facebook-browser-traffic-guide-case.12692/)
 -  22 [Tired of mvas offers](https://afflift.com/f/threads/tired-of-mvas-offers.12622/)
--  22 [STEP 15 - Congratulations!](https://afflift.com/f/threads/step-15-congratulations.12326/)
--  22 [Some offers already have landing pages?](https://afflift.com/f/threads/some-offers-already-have-landing-pages.12690/)<!-- afflift:END -->
+-  22 [STEP 15 - Congratulations!](https://afflift.com/f/threads/step-15-congratulations.12326/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
