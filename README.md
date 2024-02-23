@@ -40,6 +40,7 @@
 ### afflift
 <!-- afflift:START -->
 -  23 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
+-  23 [&lpar;Question&rpar; Opinion On Aged Domain Name](https://afflift.com/f/threads/question-opinion-on-aged-domain-name.12634/)
 -  22 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  22 [Not slow LP with very high clickloss](https://afflift.com/f/threads/not-slow-lp-with-very-high-clickloss.10570/)
 -  22 [Top 10 Affiliate Programs for Australia GEO](https://afflift.com/f/threads/top-10-affiliate-programs-for-australia-geo.12693/)
@@ -49,8 +50,7 @@
 -  22 [STEP 15 - Congratulations!](https://afflift.com/f/threads/step-15-congratulations.12326/)
 -  22 [Some offers already have landing pages?](https://afflift.com/f/threads/some-offers-already-have-landing-pages.12690/)
 -  22 [Meet PropellerAds at the Affiliate World Conference in Dubai!](https://afflift.com/f/threads/meet-propellerads-at-the-affiliate-world-conference-in-dubai.12691/)
--  22 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  22 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)<!-- afflift:END -->
+-  22 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
