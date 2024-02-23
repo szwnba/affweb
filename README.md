@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  23 [磁带，可不止三十年前的老歌](https://sspai.com/post/86559)
 -  23 [派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608)
--  22 [时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518)
--  22 [随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398)<!-- sspai:END -->
+-  22 [时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518)<!-- sspai:END -->
