@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  22 [外贸人如何防止自己的领英&lpar;LinkedIn&rpar; 账号被封？](https://www.advertcn.com/thread-114073-1-1.html)
--  22 [请查收：一文轻松get快手的优势市场](https://www.advertcn.com/thread-114066-1-1.html)<!-- advertcn1:END -->
+-  22 [外贸人如何防止自己的领英&lpar;LinkedIn&rpar; 账号被封？](https://www.advertcn.com/thread-114073-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
