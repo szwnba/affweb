@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  22 [外贸人如何防止自己的领英&lpar;LinkedIn&rpar; 账号被封？](https://www.advertcn.com/thread-114073-1-1.html)<!-- advertcn1:END -->
+-  23 [快速了解eBay被封号的原因以及卖家申诉的方法！](https://www.advertcn.com/thread-114089-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
