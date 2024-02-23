@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [年度征文 | 古典、现代与未来：史学写作与科技的跨界](https://sspai.com/post/86552)
 -  23 [磁带，可不止三十年前的老歌](https://sspai.com/post/86559)
 -  23 [派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608)
 -  22 [时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518)<!-- sspai:END -->
