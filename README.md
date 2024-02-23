@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 -  23 [Need help for strategy](https://afflift.com/f/threads/need-help-for-strategy.12683/)
 -  23 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
 -  23 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)
@@ -48,8 +49,7 @@
 -  23 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  23 [STEP 3 - Apply for PopAds Traffic Source](https://afflift.com/f/threads/step-3-apply-for-popads-traffic-source.12313/)
 -  23 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  23 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  23 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)<!-- afflift:END -->
+-  23 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
