@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
 -  24 [Lost with Emails. Suggestions please!](https://afflift.com/f/threads/lost-with-emails-suggestions-please.12695/)
 -  24 [Kadam Pops Review](https://afflift.com/f/threads/kadam-pops-review.12694/)
 -  23 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
@@ -47,8 +48,7 @@
 -  23 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 -  23 [Need help for strategy](https://afflift.com/f/threads/need-help-for-strategy.12683/)
 -  23 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
--  23 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)
--  23 [How to buy the most traffic volumn of a specific zone ?](https://afflift.com/f/threads/how-to-buy-the-most-traffic-volumn-of-a-specific-zone.11778/)<!-- afflift:END -->
+-  23 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
