@@ -37,13 +37,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Lost with Emails. Suggestions please!](https://afflift.com/f/threads/lost-with-emails-suggestions-please.12695/)
 -  24 [Kadam Pops Review](https://afflift.com/f/threads/kadam-pops-review.12694/)
 -  23 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  23 [How long will you set the redirect time when implementing a timedout redirect script on your landers ?](https://afflift.com/f/threads/how-long-will-you-set-the-redirect-time-when-implementing-a-timedout-redirect-script-on-your-landers.12674/)
 -  23 [10 Free Landing Pages for Collecting Push Subscribers &lpar;from TacoLoco&rpar; 🔔](https://afflift.com/f/threads/10-free-landing-pages-for-collecting-push-subscribers-from-tacoloco-%F0%9F%94%94.12596/)
 -  23 [Looking for Dating Offers for Tier 1 and Tier 2 countries](https://afflift.com/f/threads/looking-for-dating-offers-for-tier-1-and-tier-2-countries.12677/)
 -  23 [Help! Optimizing My CPA Spend. Need Pro Tips.](https://afflift.com/f/threads/help-optimizing-my-cpa-spend-need-pro-tips.12678/)
--  23 [Lost with Emails. Suggestions please!](https://afflift.com/f/threads/lost-with-emails-suggestions-please.12695/)
 -  23 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)
 -  23 [Need help for strategy](https://afflift.com/f/threads/need-help-for-strategy.12683/)
 -  23 [Have you tested Kadam traffic? Traffic Source for top ROI](https://afflift.com/f/threads/have-you-tested-kadam-traffic-traffic-source-for-top-roi.12209/)
