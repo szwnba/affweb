@@ -36,9 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
 -  24 [Kadam Pops Review](https://afflift.com/f/threads/kadam-pops-review.12694/)
 -  24 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
--  24 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
 -  24 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  24 [Which push traffic platform is best for dating offers?](https://afflift.com/f/threads/which-push-traffic-platform-is-best-for-dating-offers.12698/)
 -  24 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
