@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  24 [我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560)
--  23 [用广告拦截器隐藏干扰元素：常用思路和语法介绍](https://sspai.com/prime/story/adblock-annoyances-intro)<!-- sspai:END -->
+-  24 [我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560)<!-- sspai:END -->
