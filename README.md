@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  23 [一文速查：Facebook广告术语（入门版本）](https://www.advertcn.com/thread-114093-1-1.html)
--  23 [快速了解eBay被封号的原因以及卖家申诉的方法！](https://www.advertcn.com/thread-114089-1-1.html)<!-- advertcn1:END -->
+-  23 [一文速查：Facebook广告术语（入门版本）](https://www.advertcn.com/thread-114093-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
