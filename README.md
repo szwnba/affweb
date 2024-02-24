@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [How long will you set the redirect time when implementing a timedout redirect script on your landers ?](https://afflift.com/f/threads/how-long-will-you-set-the-redirect-time-when-implementing-a-timedout-redirect-script-on-your-landers.12674/)
+-  24 [Lost with Emails. Suggestions please!](https://afflift.com/f/threads/lost-with-emails-suggestions-please.12695/)
+-  24 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
 -  24 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  24 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  24 [Not slow LP with very high clickloss](https://afflift.com/f/threads/not-slow-lp-with-very-high-clickloss.10570/)
 -  24 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  24 [Lost with Emails. Suggestions please!](https://afflift.com/f/threads/lost-with-emails-suggestions-please.12695/)
 -  24 [Kadam Pops Review](https://afflift.com/f/threads/kadam-pops-review.12694/)
 -  23 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  23 [How long will you set the redirect time when implementing a timedout redirect script on your landers ?](https://afflift.com/f/threads/how-long-will-you-set-the-redirect-time-when-implementing-a-timedout-redirect-script-on-your-landers.12674/)
 -  23 [10 Free Landing Pages for Collecting Push Subscribers &lpar;from TacoLoco&rpar; 🔔](https://afflift.com/f/threads/10-free-landing-pages-for-collecting-push-subscribers-from-tacoloco-%F0%9F%94%94.12596/)
 -  23 [Looking for Dating Offers for Tier 1 and Tier 2 countries](https://afflift.com/f/threads/looking-for-dating-offers-for-tier-1-and-tier-2-countries.12677/)
--  23 [Help! Optimizing My CPA Spend. Need Pro Tips.](https://afflift.com/f/threads/help-optimizing-my-cpa-spend-need-pro-tips.12678/)
--  23 [Reflex Affiliates CPA network since 2014. WH lead gen and more.](https://afflift.com/f/threads/reflex-affiliates-cpa-network-since-2014-wh-lead-gen-and-more.7190/)<!-- afflift:END -->
+-  23 [Help! Optimizing My CPA Spend. Need Pro Tips.](https://afflift.com/f/threads/help-optimizing-my-cpa-spend-need-pro-tips.12678/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
