@@ -56,5 +56,4 @@
 -  23 [用广告拦截器隐藏干扰元素：常用思路和语法介绍](https://sspai.com/prime/story/adblock-annoyances-intro)
 -  23 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86623)
 -  23 [年度征文 | 古典、现代与未来：史学写作与科技的跨界](https://sspai.com/post/86552)
--  23 [磁带，可不止三十年前的老歌](https://sspai.com/post/86559)
--  23 [派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608)<!-- sspai:END -->
+-  23 [磁带，可不止三十年前的老歌](https://sspai.com/post/86559)<!-- sspai:END -->
