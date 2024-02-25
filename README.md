@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Binom Not Tracking Cost &lpar;Propeller Ads&rpar;](https://afflift.com/f/threads/binom-not-tracking-cost-propeller-ads.12701/)
 -  25 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  25 [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
 -  25 [💸 Adcash Promo Code for 2024! 💸](https://afflift.com/f/threads/%F0%9F%92%B8-adcash-promo-code-for-2024-%F0%9F%92%B8.12459/)
@@ -49,8 +50,7 @@
 -  25 [2️⃣ The Ultimate Beginner&#39;s Guide to TikTok Ads in 2022 - Part 2](https://afflift.com/f/threads/2%EF%B8%8F%E2%83%A3-the-ultimate-beginners-guide-to-tiktok-ads-in-2022-part-2.9899/)
 -  25 [Propeller Ad rejected &quot;We are unable to see the landing page &lpar;destination URL is not accessible&rpar;&quot;](https://afflift.com/f/threads/propeller-ad-rejected-we-are-unable-to-see-the-landing-page-destination-url-is-not-accessible.12699/)
 -  25 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
--  25 [Which push traffic platform is best for dating offers?](https://afflift.com/f/threads/which-push-traffic-platform-is-best-for-dating-offers.12698/)
--  24 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)<!-- afflift:END -->
+-  25 [Which push traffic platform is best for dating offers?](https://afflift.com/f/threads/which-push-traffic-platform-is-best-for-dating-offers.12698/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
