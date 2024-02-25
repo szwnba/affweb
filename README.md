@@ -53,4 +53,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  24 [我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560)<!-- sspai:END -->
+-  25 [年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421)<!-- sspai:END -->
