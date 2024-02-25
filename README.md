@@ -40,8 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  25 [Binom Not Tracking Cost &lpar;Propeller Ads&rpar;](https://afflift.com/f/threads/binom-not-tracking-cost-propeller-ads.12701/)
 -  25 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  25 [Binom Not Tracking Cost &lpar;Propeller Ads&rpar;](https://afflift.com/f/threads/binom-not-tracking-cost-propeller-ads.12701/)
 -  25 [Who needs help with Arbitrage](https://afflift.com/f/threads/who-needs-help-with-arbitrage.10119/)
 -  25 [💸 Adcash Promo Code for 2024! 💸](https://afflift.com/f/threads/%F0%9F%92%B8-adcash-promo-code-for-2024-%F0%9F%92%B8.12459/)
 -  25 [Search Feed Contact - TONIC/BODIS/SEDO etc](https://afflift.com/f/threads/search-feed-contact-tonic-bodis-sedo-etc.12700/)
