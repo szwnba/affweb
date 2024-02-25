@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [2️⃣ The Ultimate Beginner&#39;s Guide to TikTok Ads in 2022 - Part 2](https://afflift.com/f/threads/2%EF%B8%8F%E2%83%A3-the-ultimate-beginners-guide-to-tiktok-ads-in-2022-part-2.9899/)
 -  25 [Propeller Ad rejected &quot;We are unable to see the landing page &lpar;destination URL is not accessible&rpar;&quot;](https://afflift.com/f/threads/propeller-ad-rejected-we-are-unable-to-see-the-landing-page-destination-url-is-not-accessible.12699/)
 -  25 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
 -  25 [Which push traffic platform is best for dating offers?](https://afflift.com/f/threads/which-push-traffic-platform-is-best-for-dating-offers.12698/)
@@ -47,8 +48,7 @@
 -  24 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  24 [Binom Question](https://afflift.com/f/threads/binom-question.12623/)
 -  24 [Tracking/Postback Help Total.affiliates/Bemob setup](https://afflift.com/f/threads/tracking-postback-help-total-affiliates-bemob-setup.12697/)
--  24 [How long will you set the redirect time when implementing a timedout redirect script on your landers ?](https://afflift.com/f/threads/how-long-will-you-set-the-redirect-time-when-implementing-a-timedout-redirect-script-on-your-landers.12674/)
--  24 [Lost with Emails. Suggestions please!](https://afflift.com/f/threads/lost-with-emails-suggestions-please.12695/)<!-- afflift:END -->
+-  24 [How long will you set the redirect time when implementing a timedout redirect script on your landers ?](https://afflift.com/f/threads/how-long-will-you-set-the-redirect-time-when-implementing-a-timedout-redirect-script-on-your-landers.12674/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
