@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  23 [一文速查：Facebook广告术语（入门版本）](https://www.advertcn.com/thread-114093-1-1.html)<!-- advertcn1:END -->
+-  25 [新人报道！~](https://www.advertcn.com/thread-114105-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
