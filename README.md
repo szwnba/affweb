@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  23 [【Jumbleberry Top Offer 推荐】德国/英国/法国/瑞士减肥](https://www.advertcn.com/thread-114097-1-1.html)<!-- advertcn3:END -->
+-  25 [每天发送10万封邮件可赚300刀左右，成本一天20多美金左右。](https://www.advertcn.com/thread-114099-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
