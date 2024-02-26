@@ -40,6 +40,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
+-  26 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
+-  26 [✅✅✅MyBrocard - Trusted Virtual Cards ⭐️⭐️⭐️ The First 50 Cards Are Free 💯💯💯 Facebook | Google | X |Black/Grayhat Agency accounts 📈📈📈](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85mybrocard-trusted-virtual-cards-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-the-first-50-cards-are-free-%F0%9F%92%AF%F0%9F%92%AF%F0%9F%92%AF-facebook-google-x-black-grayhat-agency-accounts-%F0%9F%93%88%F0%9F%93%88%F0%9F%93%88.12653/)
 -  26 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  26 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  26 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
@@ -48,10 +51,7 @@
 -  26 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
 -  26 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  26 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  26 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
--  26 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  26 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  26 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)<!-- afflift:END -->
+-  26 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
