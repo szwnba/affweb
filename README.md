@@ -54,5 +54,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？](https://sspai.com/post/86677)
 -  26 [派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元](https://sspai.com/post/86668)
 -  25 [年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421)<!-- sspai:END -->
