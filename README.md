@@ -29,8 +29,7 @@
 -  25 [【镰刀】YouTube分享视频赚收益！实操7天到账7百刀](https://www.advertcn.com/thread-114104-1-1.html)
 -  25 [push 跑cpa goal时，怎么优化，需要手动优化吗](https://www.advertcn.com/thread-114102-1-1.html)
 -  25 [CF出的富强工具你们用了吗？](https://www.advertcn.com/thread-114101-1-1.html)
--  25 [如何通过一个网址找到这个站长的其他网站](https://www.advertcn.com/thread-114100-1-1.html)
--  25 [每天发送10万封邮件可赚300刀左右，成本一天20多美金左右。](https://www.advertcn.com/thread-114099-1-1.html)<!-- advertcn3:END -->
+-  25 [如何通过一个网址找到这个站长的其他网站](https://www.advertcn.com/thread-114100-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
