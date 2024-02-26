@@ -19,7 +19,8 @@
 <!-- advertcn1:START -->
 -  26 [Kwai 拓展之TeleKwai短剧营销大盘点！！！](https://www.advertcn.com/thread-114115-1-1.html)
 -  26 [避免亚马逊多账号被封禁的技巧](https://www.advertcn.com/thread-114112-1-1.html)
--  26 [新人报道](https://www.advertcn.com/thread-114109-1-1.html)<!-- advertcn1:END -->
+-  26 [新人报道](https://www.advertcn.com/thread-114109-1-1.html)
+-  25 [新人报道！~](https://www.advertcn.com/thread-114105-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
