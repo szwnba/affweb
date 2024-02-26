@@ -28,8 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  26 [所谓的免费收徒，应该没人被骗吧？](https://www.advertcn.com/thread-114118-1-1.html)
--  25 [【镰刀】YouTube分享视频赚收益！实操7天到账7百刀](https://www.advertcn.com/thread-114104-1-1.html)<!-- advertcn3:END -->
+-  26 [所谓的免费收徒，应该没人被骗吧？](https://www.advertcn.com/thread-114118-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
