@@ -38,6 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
+-  26 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
+-  26 [Introducing our new Marketplace](https://afflift.com/f/threads/introducing-our-new-marketplace.12707/)
 -  26 [💰 Learn and EARN from 8-Figure Legend: RSVP Now](https://afflift.com/f/threads/%F0%9F%92%B0-learn-and-earn-from-8-figure-legend-rsvp-now.12705/)
 -  26 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
 -  26 [Surprise Adsterra Swag ❤️❤️](https://afflift.com/f/threads/surprise-adsterra-swag-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.12704/)
@@ -46,10 +49,7 @@
 -  26 [🔥 Mega post of Anstrex Landing pages 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-mega-post-of-anstrex-landing-pages-%F0%9F%94%A5.6125/)
 -  26 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  26 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
--  26 [Propeller Ad rejected &quot;We are unable to see the landing page &lpar;destination URL is not accessible&rpar;&quot;](https://afflift.com/f/threads/propeller-ad-rejected-we-are-unable-to-see-the-landing-page-destination-url-is-not-accessible.12699/)
--  26 [Affiliate world Dubai](https://afflift.com/f/threads/affiliate-world-dubai.12703/)
--  26 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  26 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)<!-- afflift:END -->
+-  26 [Propeller Ad rejected &quot;We are unable to see the landing page &lpar;destination URL is not accessible&rpar;&quot;](https://afflift.com/f/threads/propeller-ad-rejected-we-are-unable-to-see-the-landing-page-destination-url-is-not-accessible.12699/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
