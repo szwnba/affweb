@@ -39,11 +39,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
+-  26 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
 -  26 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  26 [Propeller Ad rejected &quot;We are unable to see the landing page &lpar;destination URL is not accessible&rpar;&quot;](https://afflift.com/f/threads/propeller-ad-rejected-we-are-unable-to-see-the-landing-page-destination-url-is-not-accessible.12699/)
--  26 [10 a Day Method](https://afflift.com/f/threads/10-a-day-method.12662/)
 -  26 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
--  26 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
 -  26 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  25 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  25 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
