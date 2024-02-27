@@ -34,8 +34,7 @@
 -  27 [关于每天赚300刀的发邮件培训我上午咨询了一下](https://www.advertcn.com/thread-114126-1-1.html)
 -  27 [2024年了，中国大陆身份如何解决stripe收款问题？](https://www.advertcn.com/thread-114125-1-1.html)
 -  27 [关于有人说我邮件群发项目是割韭菜？我也说说几个搞过培训的](https://www.advertcn.com/thread-114123-1-1.html)
--  27 [新手 ！站点查 测试了问卷调查一个任务也没完成！](https://www.advertcn.com/thread-114122-1-1.html)
--  26 [所谓的免费收徒，应该没人被骗吧？](https://www.advertcn.com/thread-114118-1-1.html)<!-- advertcn3:END -->
+-  27 [新手 ！站点查 测试了问卷调查一个任务也没完成！](https://www.advertcn.com/thread-114122-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
