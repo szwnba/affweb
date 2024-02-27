@@ -55,7 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等](https://sspai.com/post/86693)
 -  26 [派评 | 近期值得关注的 App](https://sspai.com/post/86685)
 -  26 [年度征文｜新手家庭财务初探](https://sspai.com/post/86627)
--  26 [用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？](https://sspai.com/post/86677)
--  26 [派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元](https://sspai.com/post/86668)<!-- sspai:END -->
+-  26 [用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？](https://sspai.com/post/86677)<!-- sspai:END -->
