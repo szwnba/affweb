@@ -17,6 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  27 [新人报道](https://www.advertcn.com/thread-114133-1-1.html)
+-  27 [一文查看：Facebook广告术语（进阶版](https://www.advertcn.com/thread-114132-1-1.html)
 -  27 [Tumblr多账号同时运营：如何做好账号防关联？](https://www.advertcn.com/thread-114124-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
