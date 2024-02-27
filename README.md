@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [🐼A Chinese guy Bobzhang is waiting for you!](https://afflift.com/f/threads/%F0%9F%90%BCa-chinese-guy-bobzhang-is-waiting-for-you.12708/)
+-  27 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
 -  27 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
 -  26 [Affiliate world Dubai](https://afflift.com/f/threads/affiliate-world-dubai.12703/)
 -  26 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
 -  26 [Marketplace?](https://afflift.com/f/threads/marketplace.12602/)
 -  26 [Introducing our new Marketplace](https://afflift.com/f/threads/introducing-our-new-marketplace.12707/)
 -  26 [💰 Learn and EARN from 8-Figure Legend: RSVP Now](https://afflift.com/f/threads/%F0%9F%92%B0-learn-and-earn-from-8-figure-legend-rsvp-now.12705/)
--  26 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
 -  26 [Surprise Adsterra Swag ❤️❤️](https://afflift.com/f/threads/surprise-adsterra-swag-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.12704/)
 -  26 [💸 Adcash Promo Code for 2024! 💸](https://afflift.com/f/threads/%F0%9F%92%B8-adcash-promo-code-for-2024-%F0%9F%92%B8.12459/)
 -  26 [Adsterra Follow Along Contest - $9500 in Prizes! #ADSTERRAx2](https://afflift.com/f/threads/adsterra-follow-along-contest-9500-in-prizes-adsterrax2.11948/)
--  26 [🔥 Mega post of Anstrex Landing pages 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-mega-post-of-anstrex-landing-pages-%F0%9F%94%A5.6125/)
--  26 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)<!-- afflift:END -->
+-  26 [🔥 Mega post of Anstrex Landing pages 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-mega-post-of-anstrex-landing-pages-%F0%9F%94%A5.6125/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
