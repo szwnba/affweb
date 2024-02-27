@@ -45,18 +45,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
+-  27 [Monetizer&#39;s top offers : What&#39;s Running Behind the Scenes! Feb 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-feb-2024.12717/)
+-  27 [TOOL: Translate a HTML Page in Seconds](https://afflift.com/f/threads/tool-translate-a-html-page-in-seconds.11422/)
+-  27 [🐼A Chinese guy Bobzhang is waiting for you!](https://afflift.com/f/threads/%F0%9F%90%BCa-chinese-guy-bobzhang-is-waiting-for-you.12708/)
+-  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  27 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  27 [Jimmy&#39;s 2024 affLIFT Journal and Ask Me Anything Thread](https://afflift.com/f/threads/jimmys-2024-afflift-journal-and-ask-me-anything-thread.12559/)
 -  27 [ClickerVolt Questions &amp; Answers / Feature Requests &amp; Change Log](https://afflift.com/f/threads/clickervolt-questions-answers-feature-requests-change-log.1059/)
 -  27 [Introducing our new Marketplace](https://afflift.com/f/threads/introducing-our-new-marketplace.12707/)
 -  27 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
 -  27 [💰 Learn and EARN from 8-Figure Legend: RSVP Now](https://afflift.com/f/threads/%F0%9F%92%B0-learn-and-earn-from-8-figure-legend-rsvp-now.12705/)
--  27 [I want UNIQUE landing pages](https://afflift.com/f/threads/i-want-unique-landing-pages.12714/)
--  27 [🔥 All Your Landing Problems End Here🔥 🤑](https://afflift.com/f/threads/%F0%9F%94%A5-all-your-landing-problems-end-here%F0%9F%94%A5-%F0%9F%A4%91.2142/)
--  27 [Good artists copy, great artists steal”: How to Analyze Competitors Ads in Google Ads and Build Better Campaigns](https://afflift.com/f/threads/good-artists-copy-great-artists-steal%E2%80%9D-how-to-analyze-competitors-ads-in-google-ads-and-build-better-campaigns.12713/)
--  27 [Clickbank affiliate with Google ads [Easy Methods]](https://afflift.com/f/threads/clickbank-affiliate-with-google-ads-easy-methods.12185/)
--  27 [🐼A Chinese guy Bobzhang is waiting for you!](https://afflift.com/f/threads/%F0%9F%90%BCa-chinese-guy-bobzhang-is-waiting-for-you.12708/)
--  27 [Get access to direct traffic: come to Booth B62 at AWA 🤩](https://afflift.com/f/threads/get-access-to-direct-traffic-come-to-booth-b62-at-awa-%F0%9F%A4%A9.12710/)<!-- afflift:END -->
+-  27 [I want UNIQUE landing pages](https://afflift.com/f/threads/i-want-unique-landing-pages.12714/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
