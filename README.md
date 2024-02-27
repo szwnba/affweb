@@ -45,18 +45,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
+-  27 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
+-  27 [Monetizer&#39;s top offers : What&#39;s Running Behind the Scenes! Feb 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-feb-2024.12717/)
+-  27 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
+-  27 [Looking for unique app games LPs](https://afflift.com/f/threads/looking-for-unique-app-games-lps.12722/)
 -  27 [Looking To Buy Unique Slots Landing Pages](https://afflift.com/f/threads/looking-to-buy-unique-slots-landing-pages.12721/)
 -  27 [Need to clone a landing page - with optin database](https://afflift.com/f/threads/need-to-clone-a-landing-page-with-optin-database.12719/)
 -  27 [Make AI generate converting creatives for your ad campaigns: prompts and tips](https://afflift.com/f/threads/make-ai-generate-converting-creatives-for-your-ad-campaigns-prompts-and-tips.12720/)
--  27 [Monetizer&#39;s top offers : What&#39;s Running Behind the Scenes! Feb 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-feb-2024.12717/)
 -  27 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  27 [LeadBit - Join global CPA agency | Nutra| Gambling| Dating](https://afflift.com/f/threads/leadbit-join-global-cpa-agency-nutra-gambling-dating.6782/)
--  27 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
 -  27 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  27 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  27 [TOOL: Translate a HTML Page in Seconds](https://afflift.com/f/threads/tool-translate-a-html-page-in-seconds.11422/)
--  27 [🐼A Chinese guy Bobzhang is waiting for you!](https://afflift.com/f/threads/%F0%9F%90%BCa-chinese-guy-bobzhang-is-waiting-for-you.12708/)
--  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  27 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
