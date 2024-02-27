@@ -43,10 +43,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  27 [🐼A Chinese guy Bobzhang is waiting for you!](https://afflift.com/f/threads/%F0%9F%90%BCa-chinese-guy-bobzhang-is-waiting-for-you.12708/)
--  27 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  27 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
 -  27 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
+-  27 [🐼A Chinese guy Bobzhang is waiting for you!](https://afflift.com/f/threads/%F0%9F%90%BCa-chinese-guy-bobzhang-is-waiting-for-you.12708/)
+-  27 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
+-  27 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  27 [Propellerads restricted on Zeydoo](https://afflift.com/f/threads/propellerads-restricted-on-zeydoo.12482/)
 -  26 [Affiliate world Dubai](https://afflift.com/f/threads/affiliate-world-dubai.12703/)
 -  26 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
