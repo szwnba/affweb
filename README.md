@@ -61,5 +61,4 @@
 <!-- sspai:START -->
 -  27 [5 大话题、24 本书：我的 2023 年年度书单](https://sspai.com/post/85733)
 -  27 [派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等](https://sspai.com/post/86693)
--  26 [派评 | 近期值得关注的 App](https://sspai.com/post/86685)
--  26 [年度征文｜新手家庭财务初探](https://sspai.com/post/86627)<!-- sspai:END -->
+-  26 [派评 | 近期值得关注的 App](https://sspai.com/post/86685)<!-- sspai:END -->
