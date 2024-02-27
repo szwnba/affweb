@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  27 [Tumblr多账号同时运营：如何做好账号防关联？](https://www.advertcn.com/thread-114124-1-1.html)
 -  26 [Kwai 拓展之TeleKwai短剧营销大盘点！！！](https://www.advertcn.com/thread-114115-1-1.html)
 -  26 [避免亚马逊多账号被封禁的技巧](https://www.advertcn.com/thread-114112-1-1.html)<!-- advertcn1:END -->
 
