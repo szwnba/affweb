@@ -45,6 +45,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Need to clone a landing page - with optin database](https://afflift.com/f/threads/need-to-clone-a-landing-page-with-optin-database.12719/)
+-  27 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  27 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  27 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
 -  27 [Top Keto Offers - These will skyrocket your EPC](https://afflift.com/f/threads/top-keto-offers-these-will-skyrocket-your-epc.12642/)
@@ -54,9 +56,7 @@
 -  27 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  27 [Looking for unique app games LPs](https://afflift.com/f/threads/looking-for-unique-app-games-lps.12722/)
 -  27 [Looking To Buy Unique Slots Landing Pages](https://afflift.com/f/threads/looking-to-buy-unique-slots-landing-pages.12721/)
--  27 [Need to clone a landing page - with optin database](https://afflift.com/f/threads/need-to-clone-a-landing-page-with-optin-database.12719/)
--  27 [Make AI generate converting creatives for your ad campaigns: prompts and tips](https://afflift.com/f/threads/make-ai-generate-converting-creatives-for-your-ad-campaigns-prompts-and-tips.12720/)
--  27 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)<!-- afflift:END -->
+-  27 [Make AI generate converting creatives for your ad campaigns: prompts and tips](https://afflift.com/f/threads/make-ai-generate-converting-creatives-for-your-ad-campaigns-prompts-and-tips.12720/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
