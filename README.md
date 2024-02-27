@@ -45,6 +45,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Top Keto Offers - These will skyrocket your EPC](https://afflift.com/f/threads/top-keto-offers-these-will-skyrocket-your-epc.12642/)
+-  27 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
 -  27 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
 -  27 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
 -  27 [Monetizer&#39;s top offers : What&#39;s Running Behind the Scenes! Feb 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-feb-2024.12717/)
@@ -54,9 +56,7 @@
 -  27 [Need to clone a landing page - with optin database](https://afflift.com/f/threads/need-to-clone-a-landing-page-with-optin-database.12719/)
 -  27 [Make AI generate converting creatives for your ad campaigns: prompts and tips](https://afflift.com/f/threads/make-ai-generate-converting-creatives-for-your-ad-campaigns-prompts-and-tips.12720/)
 -  27 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
--  27 [LeadBit - Join global CPA agency | Nutra| Gambling| Dating](https://afflift.com/f/threads/leadbit-join-global-cpa-agency-nutra-gambling-dating.6782/)
--  27 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  27 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)<!-- afflift:END -->
+-  27 [LeadBit - Join global CPA agency | Nutra| Gambling| Dating](https://afflift.com/f/threads/leadbit-join-global-cpa-agency-nutra-gambling-dating.6782/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
