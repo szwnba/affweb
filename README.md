@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  27 [我的电脑是否中了毒](https://www.advertcn.com/thread-114130-1-1.html)
 -  27 [其实我还是很佩服做培训的，培训几百个学员，完事公司注销跑路，哈哈哈哈](https://www.advertcn.com/thread-114128-1-1.html)
 -  27 [学员收满，不再收徒，几个就可以。](https://www.advertcn.com/thread-114127-1-1.html)
 -  27 [关于每天赚300刀的发邮件培训我上午咨询了一下](https://www.advertcn.com/thread-114126-1-1.html)
