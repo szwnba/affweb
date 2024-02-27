@@ -27,6 +27,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  27 [关于有人说我邮件群发项目是割韭菜？我也说说几个搞过培训的](https://www.advertcn.com/thread-114123-1-1.html)
+-  27 [新手 ！站点查 测试了问卷调查一个任务也没完成！](https://www.advertcn.com/thread-114122-1-1.html)
 -  26 [所谓的免费收徒，应该没人被骗吧？](https://www.advertcn.com/thread-114118-1-1.html)<!-- advertcn3:END -->
 
 
