@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
+-  28 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  28 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
+-  28 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
+-  28 [Clickbank affiliate with Google ads [Easy Methods]](https://afflift.com/f/threads/clickbank-affiliate-with-google-ads-easy-methods.12185/)
+-  28 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  28 [🔥 March Sports Calendars - Adcash](https://afflift.com/f/threads/%F0%9F%94%A5-march-sports-calendars-adcash.12725/)
 -  28 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
 -  28 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  28 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
 -  28 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
--  28 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  28 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
--  28 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
--  28 [Kadam Pops Review](https://afflift.com/f/threads/kadam-pops-review.12694/)
--  28 [$1965 profit on Facebook traffic with PWA app and XGames offers](https://afflift.com/f/threads/1965-profit-on-facebook-traffic-with-pwa-app-and-xgames-offers.12724/)
--  28 [Looking for Dating Offers for Tier 1 and Tier 2 countries](https://afflift.com/f/threads/looking-for-dating-offers-for-tier-1-and-tier-2-countries.12677/)
--  28 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)<!-- afflift:END -->
+-  28 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
