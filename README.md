@@ -43,6 +43,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [A &quot;Done-4-You&quot; Service: Adult Email](https://afflift.com/f/threads/a-done-4-you-service-adult-email.12728/)
+-  28 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  28 [How to Effectively Target Slotland Affiliates Brands to the Right Audience 🤔](https://afflift.com/f/threads/how-to-effectively-target-slotland-affiliates-brands-to-the-right-audience-%F0%9F%A4%94.12727/)
 -  28 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  28 [Tracking/Postback Help Total.affiliates/Bemob setup](https://afflift.com/f/threads/tracking-postback-help-total-affiliates-bemob-setup.12697/)
@@ -52,9 +54,7 @@
 -  28 [🐼A Chinese guy Bobzhang is waiting for you!](https://afflift.com/f/threads/%F0%9F%90%BCa-chinese-guy-bobzhang-is-waiting-for-you.12708/)
 -  28 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  28 [💰 Learn and EARN from 8-Figure Legend: RSVP Now](https://afflift.com/f/threads/%F0%9F%92%B0-learn-and-earn-from-8-figure-legend-rsvp-now.12705/)
--  28 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
--  28 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  28 [Flickstree Affiliate Program- Hottest Verticals, High converting offers in Sweeps, Nutra, Trials, VOD, Loans &amp; More.](https://afflift.com/f/threads/flickstree-affiliate-program-hottest-verticals-high-converting-offers-in-sweeps-nutra-trials-vod-loans-more.12567/)<!-- afflift:END -->
+-  28 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
