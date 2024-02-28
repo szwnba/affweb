@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  28 [轻松Get：Facebook广告术语（进阶版本）](https://www.advertcn.com/thread-114143-1-1.html)
 -  27 [新人报道](https://www.advertcn.com/thread-114133-1-1.html)
 -  27 [一文查看：Facebook广告术语（进阶版](https://www.advertcn.com/thread-114132-1-1.html)<!-- advertcn1:END -->
 
