@@ -46,6 +46,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  27 [Need to clone a landing page - with optin database](https://afflift.com/f/threads/need-to-clone-a-landing-page-with-optin-database.12719/)
 -  27 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  27 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
@@ -54,7 +55,6 @@
 -  27 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
 -  27 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
 -  27 [Monetizer&#39;s top offers : What&#39;s Running Behind the Scenes! Feb 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-feb-2024.12717/)
--  27 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  27 [Looking for unique app games LPs](https://afflift.com/f/threads/looking-for-unique-app-games-lps.12722/)
 -  27 [Looking To Buy Unique Slots Landing Pages](https://afflift.com/f/threads/looking-to-buy-unique-slots-landing-pages.12721/)
 -  27 [Make AI generate converting creatives for your ad campaigns: prompts and tips](https://afflift.com/f/threads/make-ai-generate-converting-creatives-for-your-ad-campaigns-prompts-and-tips.12720/)<!-- afflift:END -->
