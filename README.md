@@ -43,6 +43,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
+-  28 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
 -  28 [TOOL: Translate a HTML Page in Seconds](https://afflift.com/f/threads/tool-translate-a-html-page-in-seconds.11422/)
 -  28 [Anstrex New Tiktok Spytool Walk-Through](https://afflift.com/f/threads/anstrex-new-tiktok-spytool-walk-through.11775/)
 -  28 [Anstrex In-stream : TikTok Spytool new updates!](https://afflift.com/f/threads/anstrex-in-stream-tiktok-spytool-new-updates.12729/)
@@ -52,9 +54,7 @@
 -  28 [Tracking/Postback Help Total.affiliates/Bemob setup](https://afflift.com/f/threads/tracking-postback-help-total-affiliates-bemob-setup.12697/)
 -  28 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
 -  28 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
--  28 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)
--  28 [🐼A Chinese guy Bobzhang is waiting for you!](https://afflift.com/f/threads/%F0%9F%90%BCa-chinese-guy-bobzhang-is-waiting-for-you.12708/)
--  28 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)<!-- afflift:END -->
+-  28 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
