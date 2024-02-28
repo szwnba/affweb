@@ -45,18 +45,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
+-  28 [Top Keto Offers - These will skyrocket your EPC](https://afflift.com/f/threads/top-keto-offers-these-will-skyrocket-your-epc.12642/)
 -  28 [Monetizer&#39;s top offers : What&#39;s Running Behind the Scenes! Feb 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-feb-2024.12717/)
 -  28 [Need to clone a landing page - with optin database](https://afflift.com/f/threads/need-to-clone-a-landing-page-with-optin-database.12719/)
 -  27 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  27 [CryptoGrab - Automatic Crypto Affiliate](https://afflift.com/f/threads/cryptograb-automatic-crypto-affiliate.11746/)
 -  27 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  27 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
--  27 [Top Keto Offers - These will skyrocket your EPC](https://afflift.com/f/threads/top-keto-offers-these-will-skyrocket-your-epc.12642/)
 -  27 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
 -  27 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
 -  27 [Looking for unique app games LPs](https://afflift.com/f/threads/looking-for-unique-app-games-lps.12722/)
--  27 [Looking To Buy Unique Slots Landing Pages](https://afflift.com/f/threads/looking-to-buy-unique-slots-landing-pages.12721/)
--  27 [Make AI generate converting creatives for your ad campaigns: prompts and tips](https://afflift.com/f/threads/make-ai-generate-converting-creatives-for-your-ad-campaigns-prompts-and-tips.12720/)<!-- afflift:END -->
+-  27 [Looking To Buy Unique Slots Landing Pages](https://afflift.com/f/threads/looking-to-buy-unique-slots-landing-pages.12721/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
