@@ -57,5 +57,4 @@
 <!-- sspai:START -->
 -  28 [我的 2023 年度效率工具](https://sspai.com/post/85490)
 -  28 [派早报：努比亚公布多款新机、微软与 Mistral 达成合作等](https://sspai.com/post/86732)
--  27 [社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账](https://sspai.com/post/86718)
--  27 [年度征文 | 伪斜杠青年的自救：「兴趣使然」是最好的治愈良药](https://sspai.com/post/86625)<!-- sspai:END -->
+-  27 [社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账](https://sspai.com/post/86718)<!-- sspai:END -->
