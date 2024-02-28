@@ -43,6 +43,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [How to Effectively Target Slotland Affiliates Brands to the Right Audience 🤔](https://afflift.com/f/threads/how-to-effectively-target-slotland-affiliates-brands-to-the-right-audience-%F0%9F%A4%94.12727/)
+-  28 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
+-  28 [Tracking/Postback Help Total.affiliates/Bemob setup](https://afflift.com/f/threads/tracking-postback-help-total-affiliates-bemob-setup.12697/)
+-  28 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
 -  28 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
 -  28 [🗳️ POLL: Content Marketer or Media Buyer?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-content-marketer-or-media-buyer.10777/)
 -  28 [🐼A Chinese guy Bobzhang is waiting for you!](https://afflift.com/f/threads/%F0%9F%90%BCa-chinese-guy-bobzhang-is-waiting-for-you.12708/)
@@ -50,11 +54,7 @@
 -  28 [💰 Learn and EARN from 8-Figure Legend: RSVP Now](https://afflift.com/f/threads/%F0%9F%92%B0-learn-and-earn-from-8-figure-legend-rsvp-now.12705/)
 -  28 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
 -  28 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  28 [Flickstree Affiliate Program- Hottest Verticals, High converting offers in Sweeps, Nutra, Trials, VOD, Loans &amp; More.](https://afflift.com/f/threads/flickstree-affiliate-program-hottest-verticals-high-converting-offers-in-sweeps-nutra-trials-vod-loans-more.12567/)
--  28 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  28 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  28 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
--  28 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)<!-- afflift:END -->
+-  28 [Flickstree Affiliate Program- Hottest Verticals, High converting offers in Sweeps, Nutra, Trials, VOD, Loans &amp; More.](https://afflift.com/f/threads/flickstree-affiliate-program-hottest-verticals-high-converting-offers-in-sweeps-nutra-trials-vod-loans-more.12567/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
