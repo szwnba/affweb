@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语](https://sspai.com/post/86752)
 -  28 [年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论](https://sspai.com/post/86605)
 -  28 [我的 2023 年度效率工具](https://sspai.com/post/85490)
 -  28 [派早报：努比亚公布多款新机、微软与 Mistral 达成合作等](https://sspai.com/post/86732)<!-- sspai:END -->
