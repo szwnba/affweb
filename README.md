@@ -27,15 +27,14 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  28 [上次注册clickbank被秒封，求解决办法](https://www.advertcn.com/thread-114136-1-1.html)
 -  27 [删帖](https://www.advertcn.com/thread-114135-1-1.html)
 -  27 [求韩国naver开户渠道](https://www.advertcn.com/thread-114131-1-1.html)
 -  27 [我的电脑是否中了毒](https://www.advertcn.com/thread-114130-1-1.html)
 -  27 [其实我还是很佩服做培训的，培训几百个学员，完事公司注销跑路，哈哈哈哈](https://www.advertcn.com/thread-114128-1-1.html)
 -  27 [学员收满，不再收徒，几个就可以。](https://www.advertcn.com/thread-114127-1-1.html)
 -  27 [关于每天赚300刀的发邮件培训我上午咨询了一下](https://www.advertcn.com/thread-114126-1-1.html)
--  27 [2024年了，中国大陆身份如何解决stripe收款问题？](https://www.advertcn.com/thread-114125-1-1.html)
--  27 [关于有人说我邮件群发项目是割韭菜？我也说说几个搞过培训的](https://www.advertcn.com/thread-114123-1-1.html)
--  27 [新手 ！站点查 测试了问卷调查一个任务也没完成！](https://www.advertcn.com/thread-114122-1-1.html)<!-- advertcn3:END -->
+-  27 [2024年了，中国大陆身份如何解决stripe收款问题？](https://www.advertcn.com/thread-114125-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
