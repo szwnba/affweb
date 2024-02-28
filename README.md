@@ -29,9 +29,7 @@
 -  28 [求助，谁可以帮忙提供下这些联盟的商务经理联系方式 NU D...](https://www.advertcn.com/thread-114140-1-1.html)
 -  28 [网站询盘的来源url是其他网站，被黑了吗](https://www.advertcn.com/thread-114138-1-1.html)
 -  28 [上次注册clickbank被秒封，求解决办法](https://www.advertcn.com/thread-114136-1-1.html)
--  27 [求韩国naver开户渠道](https://www.advertcn.com/thread-114131-1-1.html)
--  27 [我的电脑是否中了毒](https://www.advertcn.com/thread-114130-1-1.html)
--  27 [其实我还是很佩服做培训的，培训几百个学员，完事公司注销跑路，哈哈哈哈](https://www.advertcn.com/thread-114128-1-1.html)<!-- advertcn3:END -->
+-  27 [求韩国naver开户渠道](https://www.advertcn.com/thread-114131-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
