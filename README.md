@@ -43,8 +43,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
+-  29 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
 -  29 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  29 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
 -  29 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
 -  29 [How to use TikTok in a Banned country?](https://afflift.com/f/threads/how-to-use-tiktok-in-a-banned-country.12731/)
 -  29 [Looking for unique app games LPs](https://afflift.com/f/threads/looking-for-unique-app-games-lps.12722/)
@@ -53,8 +54,7 @@
 -  29 [HUGE CPA network: exclusive direct offers and bump promocode](https://afflift.com/f/threads/huge-cpa-network-exclusive-direct-offers-and-bump-promocode.11077/)
 -  29 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  29 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  29 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
--  29 [Top Keto Offers - These will skyrocket your EPC](https://afflift.com/f/threads/top-keto-offers-these-will-skyrocket-your-epc.12642/)<!-- afflift:END -->
+-  29 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
