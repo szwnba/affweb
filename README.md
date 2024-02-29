@@ -60,5 +60,4 @@
 <!-- sspai:START -->
 -  29 [属于游戏玩家的春节档最强「贺岁片」：绝地潜兵 2](https://sspai.com/post/86680)
 -  29 [找到适合自己的可循之法：聊聊我对语言学习的思考](https://sspai.com/post/85611)
--  29 [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766)
--  28 [本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语](https://sspai.com/post/86752)<!-- sspai:END -->
+-  29 [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766)<!-- sspai:END -->
