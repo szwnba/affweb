@@ -22,9 +22,7 @@
 -  29 [自助注册了一个美国公司](https://www.advertcn.com/thread-114154-1-1.html)
 -  29 [Tiktok新增八大半闭环国家，卖家怎么提前布局享受红利](https://www.advertcn.com/thread-114153-1-1.html)
 -  29 [辞职不干了！24岁在美国开公司创业！！！](https://www.advertcn.com/thread-114152-1-1.html)
--  28 [联盟经理](https://www.advertcn.com/thread-114145-1-1.html)
--  28 [7000W人关注的斋月营销技巧，Snapchat带你揭晓！](https://www.advertcn.com/thread-114144-1-1.html)
--  28 [轻松Get：Facebook广告术语（进阶版本）](https://www.advertcn.com/thread-114143-1-1.html)<!-- advertcn1:END -->
+-  28 [联盟经理](https://www.advertcn.com/thread-114145-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
