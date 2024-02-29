@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)
 -  29 [Top Keto Offers - These will skyrocket your EPC](https://afflift.com/f/threads/top-keto-offers-these-will-skyrocket-your-epc.12642/)
 -  28 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  28 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
@@ -51,8 +52,7 @@
 -  28 [A &quot;Done-4-You&quot; Service: Adult Email](https://afflift.com/f/threads/a-done-4-you-service-adult-email.12728/)
 -  28 [How to Effectively Target Slotland Affiliates Brands to the Right Audience 🤔](https://afflift.com/f/threads/how-to-effectively-target-slotland-affiliates-brands-to-the-right-audience-%F0%9F%A4%94.12727/)
 -  28 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  28 [Tracking/Postback Help Total.affiliates/Bemob setup](https://afflift.com/f/threads/tracking-postback-help-total-affiliates-bemob-setup.12697/)
--  28 [E-Mail List building to the MAX](https://afflift.com/f/threads/e-mail-list-building-to-the-max.11019/)<!-- afflift:END -->
+-  28 [Tracking/Postback Help Total.affiliates/Bemob setup](https://afflift.com/f/threads/tracking-postback-help-total-affiliates-bemob-setup.12697/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
