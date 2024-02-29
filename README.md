@@ -30,6 +30,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  29 [哪家google ad 开户支持payoneer付款](https://www.advertcn.com/thread-114158-1-1.html)
 -  29 [有人在Medium写作平台上赚钱吗？](https://www.advertcn.com/thread-114150-1-1.html)
 -  28 [最近很多小伙伴搜索套利咋搞？分享个基础教程](https://www.advertcn.com/thread-114147-1-1.html)<!-- advertcn3:END -->
 
