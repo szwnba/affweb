@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
 -  29 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  29 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
@@ -52,8 +53,7 @@
 -  29 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  29 [Kadam Pops Review](https://afflift.com/f/threads/kadam-pops-review.12694/)
 -  29 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12732/)
--  29 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)
--  29 [mondiad 99% bot&#39;s traffic](https://afflift.com/f/threads/mondiad-99-bots-traffic.12730/)<!-- afflift:END -->
+-  29 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
