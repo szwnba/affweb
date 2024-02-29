@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  29 [为什么你的TikTok账户会受限或被禁用？](https://www.advertcn.com/thread-114157-1-1.html)
 -  29 [新人报道](https://www.advertcn.com/thread-114155-1-1.html)
 -  29 [自助注册了一个美国公司](https://www.advertcn.com/thread-114154-1-1.html)
 -  29 [Tiktok新增八大半闭环国家，卖家怎么提前布局享受红利](https://www.advertcn.com/thread-114153-1-1.html)
