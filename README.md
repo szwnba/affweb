@@ -13,8 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  28 [华为云沃土云创计划和初创计划最少领取5000元代金券](https://51.ruyo.net/18617.html)
--  28 [阿里云创业者计划赠送3500元抵扣金，个体工商也可申请](https://51.ruyo.net/18615.html)<!-- ruyo:END -->
+-  28 [华为云沃土云创计划和初创计划最少领取5000元代金券](https://51.ruyo.net/18617.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
