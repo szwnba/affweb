@@ -61,5 +61,4 @@
 <!-- sspai:START -->
 -  29 [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766)
 -  28 [本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语](https://sspai.com/post/86752)
--  28 [年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论](https://sspai.com/post/86605)
--  28 [我的 2023 年度效率工具](https://sspai.com/post/85490)<!-- sspai:END -->
+-  28 [年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论](https://sspai.com/post/86605)<!-- sspai:END -->
