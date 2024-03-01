@@ -17,8 +17,6 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  01 [干货满满|TikTok广告类型详解！速速查看......](https://www.advertcn.com/thread-114174-1-1.html)
--  01 [imp的相关问题](https://www.advertcn.com/thread-114173-1-1.html)
 -  01 [新人报道](https://www.advertcn.com/thread-114172-1-1.html)
 -  01 [探究电商卖家如何利用Snapchat进行营销推广？](https://www.advertcn.com/thread-114171-1-1.html)<!-- advertcn1:END -->
 
