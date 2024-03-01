@@ -58,6 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [派早报：魅族推出魅族 21 Pro 手机、Apple Music 新增「爱不释耳」个性播放列表](https://sspai.com/post/86797)
 -  29 [如何快速重置 macOS 应用窗口的位置](https://sspai.com/prime/story/reset-macos-window-position)
 -  29 [新玩意 173｜少数派的编辑们最近买了啥？](https://sspai.com/post/86780)
 -  29 [属于游戏玩家的春节档最强「贺岁片」：绝地潜兵 2](https://sspai.com/post/86680)
