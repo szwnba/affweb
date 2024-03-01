@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [mondiad 99% bot&#39;s traffic](https://afflift.com/f/threads/mondiad-99-bots-traffic.12730/)
 -  29 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
 -  29 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  29 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
@@ -53,8 +54,7 @@
 -  29 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
 -  29 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  29 [Kadam Pops Review](https://afflift.com/f/threads/kadam-pops-review.12694/)
--  29 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12732/)
--  29 [Fastest hosting?](https://afflift.com/f/threads/fastest-hosting.11983/)<!-- afflift:END -->
+-  29 [Hilltop Ads](https://afflift.com/f/threads/hilltop-ads.12732/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
