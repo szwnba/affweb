@@ -31,8 +31,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  01 [自助注册了一个美国公司做tiktok美国小店](https://www.advertcn.com/thread-114168-1-1.html)
--  29 [哪家google ad 开户支持payoneer付款](https://www.advertcn.com/thread-114158-1-1.html)
--  29 [有人在Medium写作平台上赚钱吗？](https://www.advertcn.com/thread-114150-1-1.html)<!-- advertcn3:END -->
+-  29 [哪家google ad 开户支持payoneer付款](https://www.advertcn.com/thread-114158-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
