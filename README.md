@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
+-  01 [Landing Page Service - 🧼 Rip &amp; Clean &lpar;+ Spy 🕵️‍♂️&rpar;](https://afflift.com/f/threads/landing-page-service-%F0%9F%A7%BC-rip-clean-spy-%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F.12735/)
 -  01 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  01 [Ask Me Anything about Facebook Ads 2024](https://afflift.com/f/threads/ask-me-anything-about-facebook-ads-2024.12688/)
 -  01 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
@@ -48,9 +50,7 @@
 -  01 [Affiliate networks with ecommerce, lead generation &amp; bizzopp offers.](https://afflift.com/f/threads/affiliate-networks-with-ecommerce-lead-generation-bizzopp-offers.12733/)
 -  01 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  01 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
--  01 [mondiad 99% bot&#39;s traffic](https://afflift.com/f/threads/mondiad-99-bots-traffic.12730/)
--  29 [Affiliate Summit West 2024 Wrap Up - STEAK!](https://afflift.com/f/threads/affiliate-summit-west-2024-wrap-up-steak.12521/)
--  29 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)<!-- afflift:END -->
+-  01 [mondiad 99% bot&#39;s traffic](https://afflift.com/f/threads/mondiad-99-bots-traffic.12730/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
