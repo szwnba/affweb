@@ -26,7 +26,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  01 [自助注册了一个美国公司做tiktok美国小店](https://www.advertcn.com/thread-114168-1-1.html)<!-- advertcn3:END -->
+-  01 [Mobooka 不要脸的后续来了](https://www.advertcn.com/thread-114175-1-1.html)
+-  01 [imp的相关问题](https://www.advertcn.com/thread-114173-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
