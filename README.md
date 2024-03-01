@@ -60,5 +60,4 @@
 -  29 [如何快速重置 macOS 应用窗口的位置](https://sspai.com/prime/story/reset-macos-window-position)
 -  29 [新玩意 173｜少数派的编辑们最近买了啥？](https://sspai.com/post/86780)
 -  29 [属于游戏玩家的春节档最强「贺岁片」：绝地潜兵 2](https://sspai.com/post/86680)
--  29 [找到适合自己的可循之法：聊聊我对语言学习的思考](https://sspai.com/post/85611)
--  29 [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766)<!-- sspai:END -->
+-  29 [找到适合自己的可循之法：聊聊我对语言学习的思考](https://sspai.com/post/85611)<!-- sspai:END -->
