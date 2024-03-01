@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  01 [探究电商卖家如何利用Snapchat进行营销推广？](https://www.advertcn.com/thread-114171-1-1.html)
 -  29 [干货满满！一文掌握Bing汽车行业市场洞察！](https://www.advertcn.com/thread-114160-1-1.html)
 -  29 [为什么你的TikTok账户会受限或被禁用？](https://www.advertcn.com/thread-114157-1-1.html)<!-- advertcn1:END -->
 
