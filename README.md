@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  01 [LP加载速度慢](https://www.advertcn.com/thread-114176-1-1.html)
 -  01 [Mobooka 不要脸的后续来了](https://www.advertcn.com/thread-114175-1-1.html)
 -  01 [imp的相关问题](https://www.advertcn.com/thread-114173-1-1.html)<!-- advertcn3:END -->
 
