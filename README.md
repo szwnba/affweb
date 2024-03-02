@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  02 [新人报道](https://www.advertcn.com/thread-114182-1-1.html)
 -  02 [有从Dubai AWC回来了吗，来沟通一下收获啊](https://www.advertcn.com/thread-114178-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
