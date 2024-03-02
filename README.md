@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  02 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
 -  02 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
 -  01 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  01 [Help! Optimizing My CPA Spend. Need Pro Tips.](https://afflift.com/f/threads/help-optimizing-my-cpa-spend-need-pro-tips.12678/)
@@ -46,10 +48,8 @@
 -  01 [Podcast about affiliate marketing](https://afflift.com/f/threads/podcast-about-affiliate-marketing.12737/)
 -  01 [Got Great CPA Advice on the Forum - Here&#39;s My Update](https://afflift.com/f/threads/got-great-cpa-advice-on-the-forum-heres-my-update.12738/)
 -  01 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  01 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  01 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
--  01 [Introducing our new Marketplace](https://afflift.com/f/threads/introducing-our-new-marketplace.12707/)
--  01 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)<!-- afflift:END -->
+-  01 [Introducing our new Marketplace](https://afflift.com/f/threads/introducing-our-new-marketplace.12707/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
