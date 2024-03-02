@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  02 [友情提醒：不要参加向作腾和猫贝贝的任何培训](https://www.advertcn.com/thread-114179-1-1.html)
--  01 [LP加载速度慢](https://www.advertcn.com/thread-114176-1-1.html)<!-- advertcn3:END -->
+-  02 [友情提醒：不要参加向作腾和猫贝贝的任何培训](https://www.advertcn.com/thread-114179-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
