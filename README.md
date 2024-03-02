@@ -55,6 +55,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  02 [为家庭清洁增添一份愉悦感：追觅 H30 Ultra 洗地机使用体验](https://sspai.com/post/86636)
 -  01 [本周看什么 | 最近值得一看的一大井作品](https://sspai.com/post/86816)
--  01 [年度征文 | 如何维护职场权益：我的「尝试」与实战经验分享](https://sspai.com/post/86776)
--  01 [以「工作」为分类标准，探讨「知识管理」的新思路](https://sspai.com/post/85567)<!-- sspai:END -->
+-  01 [年度征文 | 如何维护职场权益：我的「尝试」与实战经验分享](https://sspai.com/post/86776)<!-- sspai:END -->
