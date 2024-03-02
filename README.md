@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
+-  02 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
 -  02 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
 -  02 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  02 [How to make a correct Landing Page?](https://afflift.com/f/threads/how-to-make-a-correct-landing-page.11649/)
@@ -46,9 +48,7 @@
 -  01 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
 -  01 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  01 [Podcast about affiliate marketing](https://afflift.com/f/threads/podcast-about-affiliate-marketing.12737/)
--  01 [Got Great CPA Advice on the Forum - Here&#39;s My Update](https://afflift.com/f/threads/got-great-cpa-advice-on-the-forum-heres-my-update.12738/)
--  01 [February PropellerAds Promo Codes 2024](https://afflift.com/f/threads/february-propellerads-promo-codes-2024.12592/)
--  01 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)<!-- afflift:END -->
+-  01 [Got Great CPA Advice on the Forum - Here&#39;s My Update](https://afflift.com/f/threads/got-great-cpa-advice-on-the-forum-heres-my-update.12738/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
