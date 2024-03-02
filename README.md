@@ -38,6 +38,7 @@
 ### afflift
 <!-- afflift:START -->
 -  02 [mondiad 99% bot&#39;s traffic](https://afflift.com/f/threads/mondiad-99-bots-traffic.12730/)
+-  02 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  02 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
 -  02 [In-App traffic source recommendations?](https://afflift.com/f/threads/in-app-traffic-source-recommendations.12739/)
 -  02 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
@@ -47,8 +48,7 @@
 -  02 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  02 [How to make a correct Landing Page?](https://afflift.com/f/threads/how-to-make-a-correct-landing-page.11649/)
 -  02 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  02 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
--  01 [Help! Optimizing My CPA Spend. Need Pro Tips.](https://afflift.com/f/threads/help-optimizing-my-cpa-spend-need-pro-tips.12678/)<!-- afflift:END -->
+-  02 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
