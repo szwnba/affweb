@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  03 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  02 [mondiad 99% bot&#39;s traffic](https://afflift.com/f/threads/mondiad-99-bots-traffic.12730/)
 -  02 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
@@ -46,8 +47,7 @@
 -  02 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
 -  02 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
 -  02 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
--  02 [How to make a correct Landing Page?](https://afflift.com/f/threads/how-to-make-a-correct-landing-page.11649/)
--  02 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  02 [How to make a correct Landing Page?](https://afflift.com/f/threads/how-to-make-a-correct-landing-page.11649/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
