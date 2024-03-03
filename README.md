@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  03 [求助，国外客户下单后，工厂反水](https://www.advertcn.com/thread-114183-1-1.html)
 -  02 [新人报道](https://www.advertcn.com/thread-114182-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
