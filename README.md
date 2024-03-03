@@ -47,8 +47,7 @@
 -  02 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)
 -  02 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
 -  02 [CatAffs - the most fast growing gambling affiliate program](https://afflift.com/f/threads/cataffs-the-most-fast-growing-gambling-affiliate-program.12460/)
--  02 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)
--  02 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)<!-- afflift:END -->
+-  02 [Questions about bot traffic](https://afflift.com/f/threads/questions-about-bot-traffic.12637/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
