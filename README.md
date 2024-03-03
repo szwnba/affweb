@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  02 [为家庭清洁增添一份愉悦感：追觅 H30 Ultra 洗地机使用体验](https://sspai.com/post/86636)<!-- sspai:END -->
+-  03 [欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判](https://sspai.com/post/86850)<!-- sspai:END -->
