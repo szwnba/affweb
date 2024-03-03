@@ -26,7 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  02 [友情提醒：不要参加向作腾和猫贝贝的任何培训](https://www.advertcn.com/thread-114179-1-1.html)<!-- advertcn3:END -->
+-  03 [大佬们都在哪里读新闻、了解动态？](https://www.advertcn.com/thread-114184-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
