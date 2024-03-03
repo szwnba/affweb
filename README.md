@@ -38,6 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [In-App traffic source recommendations?](https://afflift.com/f/threads/in-app-traffic-source-recommendations.12739/)
+-  03 [How to find the offers from specific affiliate networks on anstrex push.](https://afflift.com/f/threads/how-to-find-the-offers-from-specific-affiliate-networks-on-anstrex-push.10492/)
+-  03 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  03 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  03 [Jimmy&#39;s 2024 affLIFT Journal and Ask Me Anything Thread](https://afflift.com/f/threads/jimmys-2024-afflift-journal-and-ask-me-anything-thread.12559/)
 -  03 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
@@ -46,9 +49,7 @@
 -  03 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  02 [mondiad 99% bot&#39;s traffic](https://afflift.com/f/threads/mondiad-99-bots-traffic.12730/)
 -  02 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  02 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)
--  02 [In-App traffic source recommendations?](https://afflift.com/f/threads/in-app-traffic-source-recommendations.12739/)
--  02 [Simple Script to Dynamically Insert Your Tracking Domain into Every Landing Page](https://afflift.com/f/threads/simple-script-to-dynamically-insert-your-tracking-domain-into-every-landing-page.10275/)<!-- afflift:END -->
+-  02 [Let&#39;s Run Some Galaksion Pops](https://afflift.com/f/threads/lets-run-some-galaksion-pops.11251/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
