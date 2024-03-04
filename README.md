@@ -54,4 +54,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [派早报：马斯克起诉 OpenAI](https://sspai.com/post/86873)
 -  03 [欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判](https://sspai.com/post/86850)<!-- sspai:END -->
