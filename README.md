@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
 -  04 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  04 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  04 [▶️FACEBOOK AGENCY - ALL TYPE ACC FOR RENT: BM,PERSONAL,CREDIT LINE✅No drop limit✅No disappear✅Great for Blackhat✅RDP,Proxy,Page,Profie Free](https://afflift.com/f/threads/%E2%96%B6%EF%B8%8Ffacebook-agency-all-type-acc-for-rent-bm-personal-credit-line%E2%9C%85no-drop-limit%E2%9C%85no-disappear%E2%9C%85great-for-blackhat%E2%9C%85rdp-proxy-page-profie-free.12742/)
+-  04 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
+-  04 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  04 [Surprise Adsterra Swag ❤️❤️](https://afflift.com/f/threads/surprise-adsterra-swag-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.12704/)
 -  04 [Hi - let&#39;s talk arb](https://afflift.com/f/threads/hi-lets-talk-arb.12740/)
 -  04 [How to find the offers from specific affiliate networks on anstrex push.](https://afflift.com/f/threads/how-to-find-the-offers-from-specific-affiliate-networks-on-anstrex-push.10492/)
 -  03 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  03 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
 -  03 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  03 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
--  03 [In-App traffic source recommendations?](https://afflift.com/f/threads/in-app-traffic-source-recommendations.12739/)
--  03 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)<!-- afflift:END -->
+-  03 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
