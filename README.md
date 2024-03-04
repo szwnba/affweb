@@ -42,6 +42,7 @@
 ### afflift
 <!-- afflift:START -->
 -  04 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
+-  04 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
 -  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  04 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  04 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
@@ -51,8 +52,7 @@
 -  04 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  04 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  04 [Looking for Affiliates and Networks! &lpar;New Online Casino&rpar;](https://afflift.com/f/threads/looking-for-affiliates-and-networks-new-online-casino.12743/)
--  04 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
--  04 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)<!-- afflift:END -->
+-  04 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
