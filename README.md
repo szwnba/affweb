@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  04 [Temu affiliate是个垃圾玩意！~](https://www.advertcn.com/thread-114191-1-1.html)
 -  03 [单量比较大，难道真的要把房子抵押了做这一单？](https://www.advertcn.com/thread-114189-1-1.html)
 -  03 [大佬们都在哪里读新闻、了解动态？](https://www.advertcn.com/thread-114184-1-1.html)<!-- advertcn3:END -->
 
