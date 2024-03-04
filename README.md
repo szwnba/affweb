@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  04 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  04 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
 -  04 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
 -  04 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
@@ -50,9 +52,7 @@
 -  04 [Looking for Affiliates and Networks! &lpar;New Online Casino&rpar;](https://afflift.com/f/threads/looking-for-affiliates-and-networks-new-online-casino.12743/)
 -  04 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  04 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
--  04 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  04 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
--  04 [In-App traffic source recommendations?](https://afflift.com/f/threads/in-app-traffic-source-recommendations.12739/)<!-- afflift:END -->
+-  04 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
