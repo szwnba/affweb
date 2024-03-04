@@ -39,12 +39,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [How to find the offers from specific affiliate networks on anstrex push.](https://afflift.com/f/threads/how-to-find-the-offers-from-specific-affiliate-networks-on-anstrex-push.10492/)
 -  03 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  03 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
 -  03 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  03 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
 -  03 [In-App traffic source recommendations?](https://afflift.com/f/threads/in-app-traffic-source-recommendations.12739/)
--  03 [How to find the offers from specific affiliate networks on anstrex push.](https://afflift.com/f/threads/how-to-find-the-offers-from-specific-affiliate-networks-on-anstrex-push.10492/)
 -  03 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  03 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  03 [Jimmy&#39;s 2024 affLIFT Journal and Ask Me Anything Thread](https://afflift.com/f/threads/jimmys-2024-afflift-journal-and-ask-me-anything-thread.12559/)
