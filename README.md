@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  04 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  04 [The Best Affiliate Programs for Ramadan 2024](https://afflift.com/f/threads/the-best-affiliate-programs-for-ramadan-2024.12744/)
 -  04 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
@@ -53,8 +54,7 @@
 -  04 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
 -  04 [▶️FACEBOOK AGENCY - ALL TYPE ACC FOR RENT: BM,PERSONAL,CREDIT LINE✅No drop limit✅No disappear✅Great for Blackhat✅RDP,Proxy,Page,Profie Free](https://afflift.com/f/threads/%E2%96%B6%EF%B8%8Ffacebook-agency-all-type-acc-for-rent-bm-personal-credit-line%E2%9C%85no-drop-limit%E2%9C%85no-disappear%E2%9C%85great-for-blackhat%E2%9C%85rdp-proxy-page-profie-free.12742/)
 -  04 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  04 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
--  04 [Surprise Adsterra Swag ❤️❤️](https://afflift.com/f/threads/surprise-adsterra-swag-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.12704/)<!-- afflift:END -->
+-  04 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
