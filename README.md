@@ -58,5 +58,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [一日一技 | 避免 Excel 跨工作表撤消的临时方案](https://sspai.com/post/86822)
 -  04 [年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？](https://sspai.com/post/86444)
 -  04 [派早报：马斯克起诉 OpenAI](https://sspai.com/post/86873)<!-- sspai:END -->
