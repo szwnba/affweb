@@ -41,6 +41,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Best native ad network as a publisher?](https://afflift.com/f/threads/best-native-ad-network-as-a-publisher.10533/)
+-  04 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
+-  04 [Cpamatica New Dashboard Looking 🔥&lpar;Upgrade&rpar;](https://afflift.com/f/threads/cpamatica-new-dashboard-looking-%F0%9F%94%A5-upgrade.12745/)
 -  04 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  04 [How to get approved with Cpamatica](https://afflift.com/f/threads/how-to-get-approved-with-cpamatica.11935/)
 -  04 [In-App traffic source recommendations?](https://afflift.com/f/threads/in-app-traffic-source-recommendations.12739/)
@@ -49,10 +52,7 @@
 -  04 [The Best Affiliate Programs for Ramadan 2024](https://afflift.com/f/threads/the-best-affiliate-programs-for-ramadan-2024.12744/)
 -  04 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  04 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  04 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  04 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  04 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  04 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)<!-- afflift:END -->
+-  04 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
