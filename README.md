@@ -30,8 +30,7 @@
 -  04 [FB像素的难题哪位大佬可以指点下呢](https://www.advertcn.com/thread-114201-1-1.html)
 -  04 [adsense更改为按照展示收费](https://www.advertcn.com/thread-114199-1-1.html)
 -  04 [月入$5000的不带任何图片的单页网站……](https://www.advertcn.com/thread-114196-1-1.html)
--  04 [Temu affiliate是个垃圾玩意！~](https://www.advertcn.com/thread-114191-1-1.html)
--  03 [单量比较大，难道真的要把房子抵押了做这一单？](https://www.advertcn.com/thread-114189-1-1.html)<!-- advertcn3:END -->
+-  04 [Temu affiliate是个垃圾玩意！~](https://www.advertcn.com/thread-114191-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
