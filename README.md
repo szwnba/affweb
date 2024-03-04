@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [▶️FACEBOOK AGENCY - ALL TYPE ACC FOR RENT: BM,PERSONAL,CREDIT LINE✅No drop limit✅No disappear✅Great for Blackhat✅RDP,Proxy,Page,Profie Free](https://afflift.com/f/threads/%E2%96%B6%EF%B8%8Ffacebook-agency-all-type-acc-for-rent-bm-personal-credit-line%E2%9C%85no-drop-limit%E2%9C%85no-disappear%E2%9C%85great-for-blackhat%E2%9C%85rdp-proxy-page-profie-free.12742/)
 -  04 [Surprise Adsterra Swag ❤️❤️](https://afflift.com/f/threads/surprise-adsterra-swag-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.12704/)
 -  04 [Hi - let&#39;s talk arb](https://afflift.com/f/threads/hi-lets-talk-arb.12740/)
 -  04 [How to find the offers from specific affiliate networks on anstrex push.](https://afflift.com/f/threads/how-to-find-the-offers-from-specific-affiliate-networks-on-anstrex-push.10492/)
@@ -51,8 +52,7 @@
 -  03 [In-App traffic source recommendations?](https://afflift.com/f/threads/in-app-traffic-source-recommendations.12739/)
 -  03 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  03 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  03 [Jimmy&#39;s 2024 affLIFT Journal and Ask Me Anything Thread](https://afflift.com/f/threads/jimmys-2024-afflift-journal-and-ask-me-anything-thread.12559/)
--  03 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)<!-- afflift:END -->
+-  03 [Jimmy&#39;s 2024 affLIFT Journal and Ask Me Anything Thread](https://afflift.com/f/threads/jimmys-2024-afflift-journal-and-ask-me-anything-thread.12559/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
