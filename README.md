@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  04 [Bing金融行业市场洞察来喽~→→→点击查看](https://www.advertcn.com/thread-114205-1-1.html)
--  03 [看了几天，还是有点收获](https://www.advertcn.com/thread-114186-1-1.html)<!-- advertcn1:END -->
+-  04 [Bing金融行业市场洞察来喽~→→→点击查看](https://www.advertcn.com/thread-114205-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
