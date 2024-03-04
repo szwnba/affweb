@@ -57,5 +57,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  04 [年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？](https://sspai.com/post/86444)
--  04 [派早报：马斯克起诉 OpenAI](https://sspai.com/post/86873)
--  03 [欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判](https://sspai.com/post/86850)<!-- sspai:END -->
+-  04 [派早报：马斯克起诉 OpenAI](https://sspai.com/post/86873)<!-- sspai:END -->
