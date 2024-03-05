@@ -26,11 +26,11 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  05 [Meta近期产品更新|进阶赋能型创意现可使用“添加目录商品...](https://www.advertcn.com/thread-114212-1-1.html)
 -  04 [关于BTC收款的问题](https://www.advertcn.com/thread-114207-1-1.html)
 -  04 [TikTok带货一定要满5000粉？？](https://www.advertcn.com/thread-114202-1-1.html)
 -  04 [FB像素的难题哪位大佬可以指点下呢](https://www.advertcn.com/thread-114201-1-1.html)
--  04 [adsense更改为按照展示收费](https://www.advertcn.com/thread-114199-1-1.html)
--  04 [月入$5000的不带任何图片的单页网站……](https://www.advertcn.com/thread-114196-1-1.html)<!-- advertcn3:END -->
+-  04 [adsense更改为按照展示收费](https://www.advertcn.com/thread-114199-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
