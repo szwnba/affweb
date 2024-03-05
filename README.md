@@ -41,12 +41,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Search arbitrage](https://afflift.com/f/threads/search-arbitrage.12748/)
+-  05 [&#39;Cloaked&#39; is high in monetizer, is that normal?](https://afflift.com/f/threads/cloaked-is-high-in-monetizer-is-that-normal.12749/)
 -  05 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  05 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
--  05 [&#39;Cloaked&#39; is high in monetizer, is that normal?](https://afflift.com/f/threads/cloaked-is-high-in-monetizer-is-that-normal.12749/)
 -  05 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  04 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
--  04 [Search arbitrage](https://afflift.com/f/threads/search-arbitrage.12748/)
 -  04 [【Jumbleberry】Top converting US/EU/AU CBD / Keto Offers - These offers will skyrocket your EPC](https://afflift.com/f/threads/%E3%80%90jumbleberry%E3%80%91top-converting-us-eu-au-cbd-keto-offers-these-offers-will-skyrocket-your-epc.12642/)
 -  04 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
 -  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
