@@ -42,6 +42,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
+-  05 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)
+-  05 [Which FB ads marketing objective will you running US Sweeps Offer?](https://afflift.com/f/threads/which-fb-ads-marketing-objective-will-you-running-us-sweeps-offer.12750/)
 -  05 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  05 [Search arbitrage](https://afflift.com/f/threads/search-arbitrage.12748/)
 -  05 [&#39;Cloaked&#39; is high in monetizer, is that normal?](https://afflift.com/f/threads/cloaked-is-high-in-monetizer-is-that-normal.12749/)
@@ -49,11 +52,8 @@
 -  05 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  04 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  04 [【Jumbleberry】Top converting US/EU/AU CBD / Keto Offers - These offers will skyrocket your EPC](https://afflift.com/f/threads/%E3%80%90jumbleberry%E3%80%91top-converting-us-eu-au-cbd-keto-offers-these-offers-will-skyrocket-your-epc.12642/)
--  04 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
 -  04 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  04 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  04 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
--  04 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)<!-- afflift:END -->
+-  04 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
