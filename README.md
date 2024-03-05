@@ -61,5 +61,4 @@
 -  05 [好键盘还不贵，派商店的 K3 / K3 Pro 的史低清仓](https://sspai.com/post/86893)
 -  05 [城市收藏夹｜慕尼黑的二月](https://sspai.com/post/86664)
 -  05 [不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词](https://sspai.com/post/85470)
--  05 [派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等](https://sspai.com/post/86902)
--  04 [派评 | 近期值得关注的 App](https://sspai.com/post/86890)<!-- sspai:END -->
+-  05 [派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等](https://sspai.com/post/86902)<!-- sspai:END -->
