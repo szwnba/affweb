@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [Which FB ads marketing objective will you running US Sweeps Offer?](https://afflift.com/f/threads/which-fb-ads-marketing-objective-will-you-running-us-sweeps-offer.12750/)
+-  05 [Implementing custom push notification service on my lander](https://afflift.com/f/threads/implementing-custom-push-notification-service-on-my-lander.12754/)
 -  05 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
+-  05 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
+-  05 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
+-  05 [Which FB ads marketing objective will you running US Sweeps Offer?](https://afflift.com/f/threads/which-fb-ads-marketing-objective-will-you-running-us-sweeps-offer.12750/)
 -  05 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  05 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  05 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  05 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  05 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  05 [TheOptimizer’s Underrated Feature That Nobody Talks About](https://afflift.com/f/threads/theoptimizer%E2%80%99s-underrated-feature-that-nobody-talks-about.12752/)
--  05 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
--  05 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)
--  05 [Easy Marketing | AI](https://afflift.com/f/threads/easy-marketing-ai.12755/)
--  05 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)<!-- afflift:END -->
+-  05 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
