@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  05 [新人报道](https://www.advertcn.com/thread-114214-1-1.html)
 -  05 [新人报道](https://www.advertcn.com/thread-114213-1-1.html)
 -  04 [Bing金融行业市场洞察来喽~→→→点击查看](https://www.advertcn.com/thread-114205-1-1.html)<!-- advertcn1:END -->
 
