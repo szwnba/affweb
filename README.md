@@ -58,6 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [社区速递 034 | 派友们的周日行程、月光社畜开始攒钱和新玩意们](https://sspai.com/post/86921)
 -  05 [好键盘还不贵，派商店的 K3 / K3 Pro 的史低清仓](https://sspai.com/post/86893)
 -  05 [城市收藏夹｜慕尼黑的二月](https://sspai.com/post/86664)
 -  05 [不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词](https://sspai.com/post/85470)
