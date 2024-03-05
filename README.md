@@ -55,7 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等](https://sspai.com/post/86902)
 -  04 [派评 | 近期值得关注的 App](https://sspai.com/post/86890)
 -  04 [一日一技 | 避免 Excel 跨工作表撤消的临时方案](https://sspai.com/post/86822)
--  04 [年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？](https://sspai.com/post/86444)
--  04 [派早报：马斯克起诉 OpenAI](https://sspai.com/post/86873)<!-- sspai:END -->
+-  04 [年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？](https://sspai.com/post/86444)<!-- sspai:END -->
