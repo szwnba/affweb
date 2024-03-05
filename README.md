@@ -41,6 +41,7 @@
 ### afflift
 <!-- afflift:START -->
 -  05 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
+-  05 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  04 [&#39;Cloaked&#39; is high in monetizer, is that normal?](https://afflift.com/f/threads/cloaked-is-high-in-monetizer-is-that-normal.12749/)
 -  04 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  04 [Search arbitrage](https://afflift.com/f/threads/search-arbitrage.12748/)
@@ -50,8 +51,7 @@
 -  04 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  04 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
 -  04 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
--  04 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
--  04 [Cpamatica New Dashboard Looking 🔥&lpar;Upgrade&rpar;](https://afflift.com/f/threads/cpamatica-new-dashboard-looking-%F0%9F%94%A5-upgrade.12745/)<!-- afflift:END -->
+-  04 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
