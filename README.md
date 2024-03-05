@@ -42,6 +42,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Which FB ads marketing objective will you running US Sweeps Offer?](https://afflift.com/f/threads/which-fb-ads-marketing-objective-will-you-running-us-sweeps-offer.12750/)
+-  05 [CF or Aws?](https://afflift.com/f/threads/cf-or-aws.12753/)
+-  05 [Landing Page Service - 🧼 Rip &amp; Clean &lpar;+ Spy 🕵️‍♂️&rpar;](https://afflift.com/f/threads/landing-page-service-%F0%9F%A7%BC-rip-clean-spy-%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F.12735/)
+-  05 [TheOptimizer’s Underrated Feature That Nobody Talks About](https://afflift.com/f/threads/theoptimizer%E2%80%99s-underrated-feature-that-nobody-talks-about.12752/)
 -  05 [Step 8 - Create Your BeMob Campaign&lpar;s&rpar;](https://afflift.com/f/threads/step-8-create-your-bemob-campaign-s.7479/)
 -  05 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
 -  05 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
@@ -49,11 +53,7 @@
 -  05 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  05 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
 -  05 [Cpamatica New Dashboard Looking 🔥&lpar;Upgrade&rpar;](https://afflift.com/f/threads/cpamatica-new-dashboard-looking-%F0%9F%94%A5-upgrade.12745/)
--  05 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)
--  05 [Which FB ads marketing objective will you running US Sweeps Offer?](https://afflift.com/f/threads/which-fb-ads-marketing-objective-will-you-running-us-sweeps-offer.12750/)
--  05 [&#39;Cloaked&#39; is high in monetizer, is that normal?](https://afflift.com/f/threads/cloaked-is-high-in-monetizer-is-that-normal.12749/)
--  05 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
--  05 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)<!-- afflift:END -->
+-  05 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
