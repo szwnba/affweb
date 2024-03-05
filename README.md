@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Easy Marketing | AI](https://afflift.com/f/threads/easy-marketing-ai.12755/)
 -  05 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  05 [Implementing custom push notification service on my lander](https://afflift.com/f/threads/implementing-custom-push-notification-service-on-my-lander.12754/)
 -  05 [CF or Aws?](https://afflift.com/f/threads/cf-or-aws.12753/)
@@ -52,8 +53,7 @@
 -  05 [TheOptimizer’s Underrated Feature That Nobody Talks About](https://afflift.com/f/threads/theoptimizer%E2%80%99s-underrated-feature-that-nobody-talks-about.12752/)
 -  05 [Step 8 - Create Your BeMob Campaign&lpar;s&rpar;](https://afflift.com/f/threads/step-8-create-your-bemob-campaign-s.7479/)
 -  05 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
--  05 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
--  05 [Search arbitrage](https://afflift.com/f/threads/search-arbitrage.12748/)<!-- afflift:END -->
+-  05 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
