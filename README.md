@@ -45,6 +45,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Affiliate Networks That Provide Crypto Payout.](https://afflift.com/f/threads/affiliate-networks-that-provide-crypto-payout.10614/)
+-  06 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
+-  06 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)
 -  06 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  06 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
 -  06 [mondiad 99% bot&#39;s traffic](https://afflift.com/f/threads/mondiad-99-bots-traffic.12730/)
@@ -53,10 +56,7 @@
 -  06 [AI | Friend or Competitor ?](https://afflift.com/f/threads/ai-friend-or-competitor.12760/)
 -  06 [What do you want to know about mVAS?](https://afflift.com/f/threads/what-do-you-want-to-know-about-mvas.12759/)
 -  06 [▶️FACEBOOK AGENCY - ALL TYPE ACC FOR RENT: BM,PERSONAL,CREDIT LINE✅No drop limit✅No disappear✅Great for Blackhat✅RDP,Proxy,Page,Profie Free](https://afflift.com/f/threads/%E2%96%B6%EF%B8%8Ffacebook-agency-all-type-acc-for-rent-bm-personal-credit-line%E2%9C%85no-drop-limit%E2%9C%85no-disappear%E2%9C%85great-for-blackhat%E2%9C%85rdp-proxy-page-profie-free.12742/)
--  06 [Which FB ads marketing objective will you running US Sweeps Offer?](https://afflift.com/f/threads/which-fb-ads-marketing-objective-will-you-running-us-sweeps-offer.12750/)
--  06 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  06 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)
--  06 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)<!-- afflift:END -->
+-  06 [Which FB ads marketing objective will you running US Sweeps Offer?](https://afflift.com/f/threads/which-fb-ads-marketing-objective-will-you-running-us-sweeps-offer.12750/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
