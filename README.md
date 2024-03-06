@@ -45,6 +45,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  06 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)
+-  06 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
+-  06 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  06 [CF or Aws?](https://afflift.com/f/threads/cf-or-aws.12753/)
 -  06 [AI | Friend or Competitor ?](https://afflift.com/f/threads/ai-friend-or-competitor.12760/)
 -  06 [Free Survey Lander](https://afflift.com/f/threads/free-survey-lander.4059/)
@@ -52,11 +56,7 @@
 -  06 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
 -  06 [Affiliate Networks That Provide Crypto Payout.](https://afflift.com/f/threads/affiliate-networks-that-provide-crypto-payout.10614/)
 -  06 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
--  06 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)
--  06 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
--  06 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
--  06 [mondiad 99% bot&#39;s traffic](https://afflift.com/f/threads/mondiad-99-bots-traffic.12730/)
--  06 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)<!-- afflift:END -->
+-  06 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
