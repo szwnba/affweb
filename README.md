@@ -34,8 +34,7 @@
 -  06 [美国公司报税的规定](https://www.advertcn.com/thread-114237-1-1.html)
 -  06 [Payoneer错名收款](https://www.advertcn.com/thread-114233-1-1.html)
 -  05 [今夜因为一个男人辗转反侧](https://www.advertcn.com/thread-114231-1-1.html)
--  05 [FB这回又在搞啥](https://www.advertcn.com/thread-114230-1-1.html)
--  05 [美国有哪些免税州](https://www.advertcn.com/thread-114225-1-1.html)<!-- advertcn3:END -->
+-  05 [FB这回又在搞啥](https://www.advertcn.com/thread-114230-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
