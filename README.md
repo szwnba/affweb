@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Stacks - The premier performance-based CPI/CPE network for media buyers!](https://afflift.com/f/threads/stacks-the-premier-performance-based-cpi-cpe-network-for-media-buyers.12761/)
+-  06 [Some Native Tips To Help You Get Started](https://afflift.com/f/threads/some-native-tips-to-help-you-get-started.9066/)
+-  06 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
 -  06 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)
 -  06 [What do you want to know about mVAS?](https://afflift.com/f/threads/what-do-you-want-to-know-about-mvas.12759/)
 -  06 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)
--  06 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
 -  06 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  06 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
 -  06 [Ask Me Anything about Facebook Ads 2024](https://afflift.com/f/threads/ask-me-anything-about-facebook-ads-2024.12688/)
 -  06 [Affiliate Networks That Provide Crypto Payout.](https://afflift.com/f/threads/affiliate-networks-that-provide-crypto-payout.10614/)
 -  06 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
--  06 [Automizer script](https://afflift.com/f/threads/automizer-script.12757/)
--  06 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  06 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)<!-- afflift:END -->
+-  06 [Automizer script](https://afflift.com/f/threads/automizer-script.12757/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
