@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [AI | Friend or Competitor ?](https://afflift.com/f/threads/ai-friend-or-competitor.12760/)
+-  06 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
+-  06 [Automizer script](https://afflift.com/f/threads/automizer-script.12757/)
+-  06 [Some Native Tips To Help You Get Started](https://afflift.com/f/threads/some-native-tips-to-help-you-get-started.9066/)
+-  06 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
+-  06 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  06 [TEMU Affiliate Program with Exclusive Terms Available Now!](https://afflift.com/f/threads/temu-affiliate-program-with-exclusive-terms-available-now.12081/)
 -  06 [Changemyip.com  - Static &amp; Rotating Proxies - SOCKS5 / HTTP / ShadowSOCKSS / Wireguard VPN](https://afflift.com/f/threads/changemyip-com-static-rotating-proxies-socks5-http-shadowsockss-wireguard-vpn.12052/)
--  06 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  06 [Ask Me Anything about Facebook Ads 2024](https://afflift.com/f/threads/ask-me-anything-about-facebook-ads-2024.12688/)
 -  06 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  06 [Free Survey Lander](https://afflift.com/f/threads/free-survey-lander.4059/)
--  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  06 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)
--  06 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  06 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  06 [CF or Aws?](https://afflift.com/f/threads/cf-or-aws.12753/)
--  06 [AI | Friend or Competitor ?](https://afflift.com/f/threads/ai-friend-or-competitor.12760/)<!-- afflift:END -->
+-  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
