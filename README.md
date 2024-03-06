@@ -45,6 +45,7 @@
 ### afflift
 <!-- afflift:START -->
 -  06 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
+-  06 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)
 -  06 [Automizer script](https://afflift.com/f/threads/automizer-script.12757/)
 -  06 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
 -  05 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
@@ -54,8 +55,7 @@
 -  05 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
 -  05 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
 -  05 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
--  05 [&#39;Cloaked&#39; is high in monetizer, is that normal?](https://afflift.com/f/threads/cloaked-is-high-in-monetizer-is-that-normal.12749/)
--  05 [Easy Marketing | AI](https://afflift.com/f/threads/easy-marketing-ai.12755/)<!-- afflift:END -->
+-  05 [&#39;Cloaked&#39; is high in monetizer, is that normal?](https://afflift.com/f/threads/cloaked-is-high-in-monetizer-is-that-normal.12749/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
