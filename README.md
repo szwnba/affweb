@@ -60,8 +60,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [年度征文 | 一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604)
 -  06 [少数派圆桌：从工具到方法，2024 年初再聊 AI](https://sspai.com/post/86901)
 -  06 [年度征文 | AI，零基础，我的第一款应用](https://sspai.com/post/86860)
 -  06 [派早报：M3 MacBook Pro 将支持同时外接两台显示器等](https://sspai.com/post/86945)
--  05 [填满 Android 全面屏，怎么就这么难？](https://sspai.com/prime/story/android-edge-to-edge-problem)
--  05 [社区速递 034 | 派友们的周日行程、月光社畜开始攒钱和新玩意们](https://sspai.com/post/86921)<!-- sspai:END -->
+-  05 [填满 Android 全面屏，怎么就这么难？](https://sspai.com/prime/story/android-edge-to-edge-problem)<!-- sspai:END -->
