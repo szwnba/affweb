@@ -59,5 +59,4 @@
 -  06 [派早报：M3 MacBook Pro 将支持同时外接两台显示器等](https://sspai.com/post/86945)
 -  05 [填满 Android 全面屏，怎么就这么难？](https://sspai.com/prime/story/android-edge-to-edge-problem)
 -  05 [社区速递 034 | 派友们的周日行程、月光社畜开始攒钱和新玩意们](https://sspai.com/post/86921)
--  05 [好键盘还不贵，派商店的 K3 / K3 Pro 的史低清仓](https://sspai.com/post/86893)
--  05 [城市收藏夹｜慕尼黑的二月](https://sspai.com/post/86664)<!-- sspai:END -->
+-  05 [好键盘还不贵，派商店的 K3 / K3 Pro 的史低清仓](https://sspai.com/post/86893)<!-- sspai:END -->
