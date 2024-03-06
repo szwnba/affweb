@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
 -  06 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  06 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)
 -  06 [Automizer script](https://afflift.com/f/threads/automizer-script.12757/)
@@ -49,7 +50,6 @@
 -  05 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  05 [TheOptimizer’s Underrated Feature That Nobody Talks About](https://afflift.com/f/threads/theoptimizer%E2%80%99s-underrated-feature-that-nobody-talks-about.12752/)
 -  05 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  05 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
 -  05 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
 -  05 [🔥 FlexCard — service for issuing virtual cards. Get 100 cards for free 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-flexcard-%E2%80%94-service-for-issuing-virtual-cards-get-100-cards-for-free-%F0%9F%94%A5.12030/)
 -  05 [Worth using a LP builder even if I can code...?](https://afflift.com/f/threads/worth-using-a-lp-builder-even-if-i-can-code.12723/)
