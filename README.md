@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  05 [干货满满|TikTok选品指南，一文get！！](https://www.advertcn.com/thread-114226-1-1.html)
--  05 [跨境电商新选择！海外“拼多多”Temu怎么如此火爆？](https://www.advertcn.com/thread-114218-1-1.html)<!-- advertcn1:END -->
+-  05 [干货满满|TikTok选品指南，一文get！！](https://www.advertcn.com/thread-114226-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
