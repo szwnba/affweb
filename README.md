@@ -30,8 +30,7 @@
 -  05 [今夜因为一个男人辗转反侧](https://www.advertcn.com/thread-114231-1-1.html)
 -  05 [FB这回又在搞啥](https://www.advertcn.com/thread-114230-1-1.html)
 -  05 [美国有哪些免税州](https://www.advertcn.com/thread-114225-1-1.html)
--  05 [美国公司报税需要资料](https://www.advertcn.com/thread-114224-1-1.html)
--  05 [Meta近期产品更新|进阶赋能型创意现可使用“添加目录商品...](https://www.advertcn.com/thread-114212-1-1.html)<!-- advertcn3:END -->
+-  05 [美国公司报税需要资料](https://www.advertcn.com/thread-114224-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
