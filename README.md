@@ -17,6 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  06 [新人EasyYi前来报道](https://www.advertcn.com/thread-114243-1-1.html)
+-  06 [干货满满|TikTok广告组-价格/预算/分类/关键词/兴趣分类](https://www.advertcn.com/thread-114242-1-1.html)
 -  05 [干货满满|TikTok选品指南，一文get！！](https://www.advertcn.com/thread-114226-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
