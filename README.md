@@ -45,13 +45,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Free Survey Lander](https://afflift.com/f/threads/free-survey-lander.4059/)
 -  06 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  06 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)
 -  06 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  06 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  06 [CF or Aws?](https://afflift.com/f/threads/cf-or-aws.12753/)
 -  06 [AI | Friend or Competitor ?](https://afflift.com/f/threads/ai-friend-or-competitor.12760/)
--  06 [Free Survey Lander](https://afflift.com/f/threads/free-survey-lander.4059/)
 -  06 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  06 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
 -  06 [Affiliate Networks That Provide Crypto Payout.](https://afflift.com/f/threads/affiliate-networks-that-provide-crypto-payout.10614/)
