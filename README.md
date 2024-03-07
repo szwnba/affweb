@@ -42,6 +42,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [✅✅✅MyBrocard - Trusted Virtual Cards ⭐️⭐️⭐️ The First 50 Cards Are Free 💯💯💯 Facebook | Google | X |Black/Grayhat Agency accounts 📈📈📈](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85mybrocard-trusted-virtual-cards-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-the-first-50-cards-are-free-%F0%9F%92%AF%F0%9F%92%AF%F0%9F%92%AF-facebook-google-x-black-grayhat-agency-accounts-%F0%9F%93%88%F0%9F%93%88%F0%9F%93%88.12653/)
+-  07 [Traffic Nomads March Tops](https://afflift.com/f/threads/traffic-nomads-march-tops.12767/)
+-  07 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+-  07 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  07 [Topic suggestion - Api](https://afflift.com/f/threads/topic-suggestion-api.12764/)
 -  07 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
 -  07 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
@@ -49,11 +53,7 @@
 -  07 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
 -  07 [AI | Friend or Competitor ?](https://afflift.com/f/threads/ai-friend-or-competitor.12760/)
 -  07 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
--  07 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  07 [Is clickloss related to tracker?](https://afflift.com/f/threads/is-clickloss-related-to-tracker.12763/)
--  07 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  07 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  07 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  07 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
