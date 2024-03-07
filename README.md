@@ -60,5 +60,4 @@
 <!-- sspai:START -->
 -  06 [年度征文 | 一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604)
 -  06 [少数派圆桌：从工具到方法，2024 年初再聊 AI](https://sspai.com/post/86901)
--  06 [年度征文 | AI，零基础，我的第一款应用](https://sspai.com/post/86860)
--  06 [派早报：M3 MacBook Pro 将支持同时外接两台显示器等](https://sspai.com/post/86945)<!-- sspai:END -->
+-  06 [年度征文 | AI，零基础，我的第一款应用](https://sspai.com/post/86860)<!-- sspai:END -->
