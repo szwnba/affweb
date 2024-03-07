@@ -46,6 +46,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)
 -  07 [What do you want to know about mVAS?](https://afflift.com/f/threads/what-do-you-want-to-know-about-mvas.12759/)
 -  07 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  07 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
@@ -56,8 +57,7 @@
 -  06 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
 -  06 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  06 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
--  06 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
--  06 [Stacks.app - The premier performance-based CPI/CPE network for media buyers!](https://afflift.com/f/threads/stacks-app-the-premier-performance-based-cpi-cpe-network-for-media-buyers.12761/)<!-- afflift:END -->
+-  06 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
