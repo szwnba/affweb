@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  07 [Is clickloss related to tracker?](https://afflift.com/f/threads/is-clickloss-related-to-tracker.12763/)
 -  07 [Topic suggestion - Api](https://afflift.com/f/threads/topic-suggestion-api.12764/)
 -  07 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
@@ -52,8 +53,7 @@
 -  07 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  07 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  07 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  07 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)
--  07 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)<!-- afflift:END -->
+-  07 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
