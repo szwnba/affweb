@@ -34,8 +34,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  06 [2024 - 美国次级金融产品的营销之年](https://www.advertcn.com/thread-114244-1-1.html)
--  06 [海外程序化业务合作](https://www.advertcn.com/thread-114239-1-1.html)
--  06 [Payoneer错名收款](https://www.advertcn.com/thread-114233-1-1.html)<!-- advertcn3:END -->
+-  06 [海外程序化业务合作](https://www.advertcn.com/thread-114239-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
