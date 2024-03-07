@@ -58,6 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [派早报：Apple 发布 iOS 17.4 更新、Meta 系产品出现大面积访问故障等](https://sspai.com/post/86993)
 -  06 [年度征文 | 一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604)
 -  06 [少数派圆桌：从工具到方法，2024 年初再聊 AI](https://sspai.com/post/86901)
 -  06 [年度征文 | AI，零基础，我的第一款应用](https://sspai.com/post/86860)<!-- sspai:END -->
