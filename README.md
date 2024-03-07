@@ -44,6 +44,8 @@
 ### afflift
 <!-- afflift:START -->
 -  07 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
+-  07 [Pops dircet Finace Survey](https://afflift.com/f/threads/pops-dircet-finace-survey.12765/)
+-  07 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
 -  07 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  07 [Stacks.app - The premier performance-based CPI/CPE network for media buyers!](https://afflift.com/f/threads/stacks-app-the-premier-performance-based-cpi-cpe-network-for-media-buyers.12761/)
 -  07 [What do you want to know about mVAS?](https://afflift.com/f/threads/what-do-you-want-to-know-about-mvas.12759/)
@@ -52,9 +54,7 @@
 -  07 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  07 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  07 [Unique Casino Email Templates with Graphics](https://afflift.com/f/threads/unique-casino-email-templates-with-graphics.12768/)
--  07 [Imagine with Meta AI &lpar;Facebook AI Image Generation&rpar;](https://afflift.com/f/threads/imagine-with-meta-ai-facebook-ai-image-generation.12217/)
--  07 [✅✅✅MyBrocard - Trusted Virtual Cards ⭐️⭐️⭐️ The First 50 Cards Are Free 💯💯💯 Facebook | Google | X |Black/Grayhat Agency accounts 📈📈📈](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85mybrocard-trusted-virtual-cards-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-the-first-50-cards-are-free-%F0%9F%92%AF%F0%9F%92%AF%F0%9F%92%AF-facebook-google-x-black-grayhat-agency-accounts-%F0%9F%93%88%F0%9F%93%88%F0%9F%93%88.12653/)<!-- afflift:END -->
+-  07 [Unique Casino Email Templates with Graphics](https://afflift.com/f/threads/unique-casino-email-templates-with-graphics.12768/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
