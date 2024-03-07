@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  07 [欧盟数字法案GDPR&amp;DMA落地在即，谷歌广告投放又出新策？](https://www.advertcn.com/thread-114255-1-1.html)
 -  07 [美国摩根大通银行开户指南](https://www.advertcn.com/thread-114254-1-1.html)
 -  07 [美国华美银行开户指南](https://www.advertcn.com/thread-114253-1-1.html)
 -  07 [美国国泰银行开户指南](https://www.advertcn.com/thread-114252-1-1.html)
