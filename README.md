@@ -18,7 +18,11 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  06 [新人EasyYi前来报道](https://www.advertcn.com/thread-114243-1-1.html)
--  06 [干货满满|TikTok广告组-价格/预算/分类/关键词/兴趣分类](https://www.advertcn.com/thread-114242-1-1.html)<!-- advertcn1:END -->
+-  06 [干货满满|TikTok广告组-价格/预算/分类/关键词/兴趣分类](https://www.advertcn.com/thread-114242-1-1.html)
+-  06 [美国德克萨斯州公司注册攻略](https://www.advertcn.com/thread-114241-1-1.html)
+-  06 [注册美国公司，不同的行业怎么选州？](https://www.advertcn.com/thread-114240-1-1.html)
+-  06 [美国公司税率怎样规定的？](https://www.advertcn.com/thread-114238-1-1.html)
+-  06 [美国公司报税的规定](https://www.advertcn.com/thread-114237-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
