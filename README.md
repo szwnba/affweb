@@ -31,8 +31,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  06 [2024 - 美国次级金融产品的营销之年](https://www.advertcn.com/thread-114244-1-1.html)
--  06 [海外程序化业务合作](https://www.advertcn.com/thread-114239-1-1.html)<!-- advertcn3:END -->
+-  07 [宝塔面板不能用vultr的快照还原？](https://www.advertcn.com/thread-114262-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
