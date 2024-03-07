@@ -43,9 +43,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
+-  07 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  07 [Journey to Profitability w/ the affLIFT Guides](https://afflift.com/f/threads/journey-to-profitability-w-the-afflift-guides.10148/)
 -  07 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
--  07 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  06 [Some Native Tips To Help You Get Started](https://afflift.com/f/threads/some-native-tips-to-help-you-get-started.9066/)
 -  06 [Ad Blue Media/CPA Build - Instantly Declined Application?](https://afflift.com/f/threads/ad-blue-media-cpa-build-instantly-declined-application.12619/)
 -  06 [Dominating Pops/Redirects. From Noob to Saibot;&rpar;](https://afflift.com/f/threads/dominating-pops-redirects-from-noob-to-saibot.12496/)
@@ -53,8 +54,7 @@
 -  06 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
 -  06 [Networks with daily payouts](https://afflift.com/f/threads/networks-with-daily-payouts.12747/)
 -  06 [Stacks.app - The premier performance-based CPI/CPE network for media buyers!](https://afflift.com/f/threads/stacks-app-the-premier-performance-based-cpi-cpe-network-for-media-buyers.12761/)
--  06 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)
--  06 [What do you want to know about mVAS?](https://afflift.com/f/threads/what-do-you-want-to-know-about-mvas.12759/)<!-- afflift:END -->
+-  06 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
