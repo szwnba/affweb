@@ -60,6 +60,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [年度征文 | 当了年2全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863)
 -  07 [用笔记建立生活的秩序感：我的记录体系搭建方案](https://sspai.com/post/85785)
 -  07 [派早报：Apple 发布 iOS 17.4 更新、Meta 系产品出现大面积访问故障等](https://sspai.com/post/86993)
 -  06 [年度征文 | 一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604)<!-- sspai:END -->
