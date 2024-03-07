@@ -43,6 +43,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  07 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  07 [My Ist FA: $100 budget to test offers](https://afflift.com/f/threads/my-ist-fa-100-budget-to-test-offers.12756/)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  07 [Unique Casino Email Templates with Graphics](https://afflift.com/f/threads/unique-casino-email-templates-with-graphics.12768/)
@@ -52,9 +54,7 @@
 -  07 [Traffic Nomads March Tops](https://afflift.com/f/threads/traffic-nomads-march-tops.12767/)
 -  07 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
 -  07 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
--  07 [Topic suggestion - Api](https://afflift.com/f/threads/topic-suggestion-api.12764/)
--  07 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
--  07 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)<!-- afflift:END -->
+-  07 [Topic suggestion - Api](https://afflift.com/f/threads/topic-suggestion-api.12764/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
