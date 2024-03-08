@@ -21,8 +21,7 @@
 -  08 [Gmail邮箱如何批量注册？ 一文搞懂！](https://www.advertcn.com/thread-114276-1-1.html)
 -  08 [新人报道](https://www.advertcn.com/thread-114273-1-1.html)
 -  08 [快速了解：2024年发展你的YouTube频道的6种方法！](https://www.advertcn.com/thread-114270-1-1.html)
--  08 [新人报道](https://www.advertcn.com/thread-114266-1-1.html)
--  07 [新人报道](https://www.advertcn.com/thread-114261-1-1.html)<!-- advertcn1:END -->
+-  08 [新人报道](https://www.advertcn.com/thread-114266-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
