@@ -63,5 +63,4 @@
 -  08 [年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658)
 -  08 [派早报：Apple 发布 macOS 14.4 等系统正式版等](https://sspai.com/post/87033)
 -  07 [出海产品 Podwise 开发团队、《硬地骇客》主播都装了啥？](https://sspai.com/prime/story/zhuanglesha-240307)
--  07 [新玩意 174｜少数派的编辑们最近买了啥？](https://sspai.com/post/87014)
--  07 [年度征文 | 当了两年全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863)<!-- sspai:END -->
+-  07 [新玩意 174｜少数派的编辑们最近买了啥？](https://sspai.com/post/87014)<!-- sspai:END -->
