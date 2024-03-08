@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [want to buy flexoffers &amp; skimlinks account](https://afflift.com/f/threads/want-to-buy-flexoffers-skimlinks-account.11241/)
 -  08 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
+-  08 [Automizer script](https://afflift.com/f/threads/automizer-script.12757/)
+-  08 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
+-  08 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+-  08 [want to buy flexoffers &amp; skimlinks account](https://afflift.com/f/threads/want-to-buy-flexoffers-skimlinks-account.11241/)
 -  08 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  08 [Let&#39;s make $100 profit per day or DIE](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die.11969/)
 -  08 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
 -  08 [Is there a popunder script that works as good as popunderJS?](https://afflift.com/f/threads/is-there-a-popunder-script-that-works-as-good-as-popunderjs.12772/)
 -  08 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  08 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  08 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  08 [Tired of modifying landing pages](https://afflift.com/f/threads/tired-of-modifying-landing-pages.12773/)
--  08 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  08 [Jimmy&#39;s 2024 affLIFT Journal and Ask Me Anything Thread](https://afflift.com/f/threads/jimmys-2024-afflift-journal-and-ask-me-anything-thread.12559/)<!-- afflift:END -->
+-  08 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
