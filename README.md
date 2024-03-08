@@ -23,8 +23,7 @@
 -  08 [快速了解：2024年发展你的YouTube频道的6种方法！](https://www.advertcn.com/thread-114270-1-1.html)
 -  08 [新人报道](https://www.advertcn.com/thread-114266-1-1.html)
 -  07 [新人报道](https://www.advertcn.com/thread-114261-1-1.html)
--  07 [在开曼注册公司的优势](https://www.advertcn.com/thread-114258-1-1.html)
--  07 [广告•素材&amp;文案・TikTok平台免费创意工具/广告更新频率↓...](https://www.advertcn.com/thread-114256-1-1.html)<!-- advertcn1:END -->
+-  07 [在开曼注册公司的优势](https://www.advertcn.com/thread-114258-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
