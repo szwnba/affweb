@@ -29,8 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  08 [ADS 点击单价越来越高怎么优化](https://www.advertcn.com/thread-114272-1-1.html)
--  07 [&lpar;转载&rpar;这几年发现一个很普遍的现象，前些年赚钱很容易的人](https://www.advertcn.com/thread-114264-1-1.html)<!-- advertcn3:END -->
+-  08 [ADS 点击单价越来越高怎么优化](https://www.advertcn.com/thread-114272-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
