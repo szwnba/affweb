@@ -61,5 +61,4 @@
 -  07 [出海产品 Podwise 开发团队、《硬地骇客》主播都装了啥？](https://sspai.com/prime/story/zhuanglesha-240307)
 -  07 [新玩意 174｜少数派的编辑们最近买了啥？](https://sspai.com/post/87014)
 -  07 [年度征文 | 当了两年全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863)
--  07 [用笔记建立生活的秩序感：我的记录体系搭建方案](https://sspai.com/post/85785)
--  07 [派早报：Apple 发布 iOS 17.4 更新、Meta 系产品出现大面积访问故障等](https://sspai.com/post/86993)<!-- sspai:END -->
+-  07 [用笔记建立生活的秩序感：我的记录体系搭建方案](https://sspai.com/post/85785)<!-- sspai:END -->
