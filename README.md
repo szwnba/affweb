@@ -44,9 +44,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  08 [Ask Me Anything about Facebook Ads 2024](https://afflift.com/f/threads/ask-me-anything-about-facebook-ads-2024.12688/)
 -  08 [Is there a popunder script that works as good as popunderJS?](https://afflift.com/f/threads/is-there-a-popunder-script-that-works-as-good-as-popunderjs.12772/)
--  08 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  08 [What do you want to know about mVAS?](https://afflift.com/f/threads/what-do-you-want-to-know-about-mvas.12759/)
 -  07 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
 -  07 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
