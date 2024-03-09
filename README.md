@@ -51,5 +51,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [年度征文 | 手机长焦现在发展成什么样了？](https://sspai.com/post/86906)
 -  09 [打造一部「电子茅台」：聊聊富士的产品策略及市场博弈](https://sspai.com/post/87038)
 -  08 [本周看什么 | 最近值得一看的一大卷作品](https://sspai.com/post/87049)<!-- sspai:END -->
