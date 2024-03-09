@@ -38,10 +38,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Automizer script](https://afflift.com/f/threads/automizer-script.12757/)
 -  09 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  08 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  08 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
--  08 [Automizer script](https://afflift.com/f/threads/automizer-script.12757/)
 -  08 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  08 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  08 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
