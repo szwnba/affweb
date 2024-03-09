@@ -52,6 +52,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [打造一部「电子茅台」：聊聊富士的产品策略及市场博弈](https://sspai.com/post/87038)
 -  08 [本周看什么 | 最近值得一看的一大卷作品](https://sspai.com/post/87049)
--  08 [想要购买新款 MacBook Air？这些细节你值得注意](https://sspai.com/post/85735)
--  08 [年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658)<!-- sspai:END -->
+-  08 [想要购买新款 MacBook Air？这些细节你值得注意](https://sspai.com/post/85735)<!-- sspai:END -->
