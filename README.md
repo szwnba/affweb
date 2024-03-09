@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  09 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  09 [Automizer script](https://afflift.com/f/threads/automizer-script.12757/)
 -  09 [Let&#39;s make $100 profit per day or DIE](https://afflift.com/f/threads/lets-make-100-profit-per-day-or-die.11969/)
@@ -46,8 +47,7 @@
 -  08 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  08 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  08 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
--  08 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)
--  08 [Is there a popunder script that works as good as popunderJS?](https://afflift.com/f/threads/is-there-a-popunder-script-that-works-as-good-as-popunderjs.12772/)<!-- afflift:END -->
+-  08 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
