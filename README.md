@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  08 [本周看什么 | 最近值得一看的一大卷作品](https://sspai.com/post/87049)
 -  08 [想要购买新款 MacBook Air？这些细节你值得注意](https://sspai.com/post/85735)
--  08 [年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658)
--  08 [派早报：Apple 发布 macOS 14.4 等系统正式版等](https://sspai.com/post/87033)<!-- sspai:END -->
+-  08 [年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658)<!-- sspai:END -->
