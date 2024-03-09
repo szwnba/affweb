@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  08 [东南亚独立站收款](https://www.advertcn.com/thread-114277-1-1.html)
 -  08 [Gmail邮箱如何批量注册？ 一文搞懂！](https://www.advertcn.com/thread-114276-1-1.html)
--  08 [新人报道](https://www.advertcn.com/thread-114273-1-1.html)
--  08 [快速了解：2024年发展你的YouTube频道的6种方法！](https://www.advertcn.com/thread-114270-1-1.html)<!-- advertcn1:END -->
+-  08 [新人报道](https://www.advertcn.com/thread-114273-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
