@@ -36,10 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  10 [Is there a popunder script that works as good as popunderJS?](https://afflift.com/f/threads/is-there-a-popunder-script-that-works-as-good-as-popunderjs.12772/)
 -  10 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
 -  10 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
--  10 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  09 [Popcash-request for sharing experience](https://afflift.com/f/threads/popcash-request-for-sharing-experience.11951/)
 -  09 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  09 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
