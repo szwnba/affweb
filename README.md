@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  09 [fb 账号类型](https://www.advertcn.com/thread-114282-1-1.html)<!-- advertcn1:END -->
+-  10 [新人报道](https://www.advertcn.com/thread-114284-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
