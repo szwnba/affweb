@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
 -  10 [Twitter Spamming?](https://afflift.com/f/threads/twitter-spamming.12775/)
 -  10 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)
 -  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
@@ -46,8 +47,7 @@
 -  10 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  10 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  10 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  10 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
--  10 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)<!-- afflift:END -->
+-  10 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
