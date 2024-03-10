@@ -36,8 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  10 [Twitter Spamming?](https://afflift.com/f/threads/twitter-spamming.12775/)
+-  10 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  10 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
+-  10 [Twitter Spamming?](https://afflift.com/f/threads/twitter-spamming.12775/)
 -  10 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)
 -  10 [Is there a popunder script that works as good as popunderJS?](https://afflift.com/f/threads/is-there-a-popunder-script-that-works-as-good-as-popunderjs.12772/)
 -  10 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
@@ -46,8 +47,7 @@
 -  10 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  10 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
 -  09 [Popcash-request for sharing experience](https://afflift.com/f/threads/popcash-request-for-sharing-experience.11951/)
--  09 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  09 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)<!-- afflift:END -->
+-  09 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
