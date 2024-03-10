@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)
+-  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  10 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
 -  10 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  10 [Twitter Spamming?](https://afflift.com/f/threads/twitter-spamming.12775/)
@@ -45,9 +47,7 @@
 -  10 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
 -  10 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
 -  10 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
--  10 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
--  09 [Popcash-request for sharing experience](https://afflift.com/f/threads/popcash-request-for-sharing-experience.11951/)
--  09 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)<!-- afflift:END -->
+-  10 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
