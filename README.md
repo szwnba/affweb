@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  10 [shareAsale联盟账号如何从国内进行登陆](https://www.advertcn.com/thread-114285-1-1.html)
--  09 [老铁我是TIKTOK服务商，有资源的转过来合作合作啥都需要。](https://www.advertcn.com/thread-114283-1-1.html)<!-- advertcn3:END -->
+-  10 [shareAsale联盟账号如何从国内进行登陆](https://www.advertcn.com/thread-114285-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
