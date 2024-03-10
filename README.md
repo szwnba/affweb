@@ -52,5 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  10 [线路延绵，在异国重拾独属于「铁道」的感动](https://sspai.com/post/85299)
--  09 [年度征文 | 手机长焦现在发展成什么样了？](https://sspai.com/post/86906)<!-- sspai:END -->
+-  10 [线路延绵，在异国重拾独属于「铁道」的感动](https://sspai.com/post/85299)<!-- sspai:END -->
