@@ -27,8 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  11 [有medie buy全套教程的付费星球吗？ 跑BB的也可以](https://www.advertcn.com/thread-114288-1-1.html)
--  10 [shareAsale联盟账号如何从国内进行登陆](https://www.advertcn.com/thread-114285-1-1.html)<!-- advertcn3:END -->
+-  11 [有medie buy全套教程的付费星球吗？ 跑BB的也可以](https://www.advertcn.com/thread-114288-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
