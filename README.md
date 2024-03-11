@@ -53,5 +53,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [一日一技 | 巧用公式实现 Notion 数据库去重](https://sspai.com/post/86909)
 -  11 [年度征文 | 渐入佳境：斜杠程序员的数字游民转型之旅](https://sspai.com/post/86832)
 -  11 [派早报：OpenAI 宣布新董事会成员，Altman 回归](https://sspai.com/post/87084)<!-- sspai:END -->
