@@ -51,5 +51,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  11 [派早报：OpenAI 宣布新董事会成员，Altman 回归](https://sspai.com/post/87084)
--  10 [线路延绵，在异国重拾独属于「铁道」的感动](https://sspai.com/post/85299)<!-- sspai:END -->
+-  11 [年度征文 | 渐入佳境：斜杠程序员的数字游民转型之旅](https://sspai.com/post/86832)
+-  11 [派早报：OpenAI 宣布新董事会成员，Altman 回归](https://sspai.com/post/87084)<!-- sspai:END -->
