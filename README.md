@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  11 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
 -  11 [AI | Friend or Competitor ?](https://afflift.com/f/threads/ai-friend-or-competitor.12760/)
 -  11 [Twitter Spamming?](https://afflift.com/f/threads/twitter-spamming.12775/)
@@ -48,8 +49,7 @@
 -  11 [💥 All you need to know about SEO Clusters 💥](https://afflift.com/f/threads/%F0%9F%92%A5-all-you-need-to-know-about-seo-clusters-%F0%9F%92%A5.12779/)
 -  11 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
 -  11 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
--  11 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
--  11 [Is there a popunder script that works as good as popunderJS?](https://afflift.com/f/threads/is-there-a-popunder-script-that-works-as-good-as-popunderjs.12772/)<!-- afflift:END -->
+-  11 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
