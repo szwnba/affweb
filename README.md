@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [My Rule of One - My Journey to Green](https://afflift.com/f/threads/my-rule-of-one-my-journey-to-green.8869/)
 -  11 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)
 -  11 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
 -  10 [Twitter Spamming?](https://afflift.com/f/threads/twitter-spamming.12775/)
@@ -46,8 +47,7 @@
 -  10 [Is there a popunder script that works as good as popunderJS?](https://afflift.com/f/threads/is-there-a-popunder-script-that-works-as-good-as-popunderjs.12772/)
 -  10 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  10 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
--  10 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)
--  10 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)<!-- afflift:END -->
+-  10 [Hi from Montreal, Canada !](https://afflift.com/f/threads/hi-from-montreal-canada.12498/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
