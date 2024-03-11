@@ -47,8 +47,7 @@
 -  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  10 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
 -  10 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
--  10 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
--  10 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)<!-- afflift:END -->
+-  10 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
