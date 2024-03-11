@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
+-  11 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  11 [How to Look-Up PropellerAds Regional Macro Codes](https://afflift.com/f/threads/how-to-look-up-propellerads-regional-macro-codes.12777/)
 -  11 [Is there a popunder script that works as good as popunderJS?](https://afflift.com/f/threads/is-there-a-popunder-script-that-works-as-good-as-popunderjs.12772/)
 -  11 [My Rule of One - My Journey to Green](https://afflift.com/f/threads/my-rule-of-one-my-journey-to-green.8869/)
@@ -47,8 +49,7 @@
 -  10 [Affigs Review](https://afflift.com/f/threads/affigs-review.11823/)
 -  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  10 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
--  10 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
--  10 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)<!-- afflift:END -->
+-  10 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
