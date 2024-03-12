@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  12 [利用您的应用程序流量赚大钱（约 10,000 美元/天）](https://www.advertcn.com/thread-114303-1-1.html)
 -  12 [什么？Meta近期又推出了多项新功能更新？？](https://www.advertcn.com/thread-114300-1-1.html)<!-- advertcn3:END -->
 
 
