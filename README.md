@@ -53,8 +53,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886)
 -  12 [2024 年，翻盖机还有什么可玩？](https://sspai.com/prime/story/buy-a-flip-phone-in-2024)
 -  12 [社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128)
 -  12 [少数派的 12 岁：正版软件特惠限时开启](https://sspai.com/post/87126)
--  12 [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447)
--  12 [年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779)<!-- sspai:END -->
+-  12 [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447)<!-- sspai:END -->
