@@ -17,10 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  12 [Discord多账号一键管理？如何在一台电脑管理多个Discord账户？](https://www.advertcn.com/thread-114299-1-1.html)
--  11 [新手该如何入门啊，有点懵](https://www.advertcn.com/thread-114292-1-1.html)
--  11 [新人报道！](https://www.advertcn.com/thread-114291-1-1.html)
--  11 [新人报道，各位前辈好](https://www.advertcn.com/thread-114289-1-1.html)<!-- advertcn1:END -->
+-  12 [Discord多账号一键管理？如何在一台电脑管理多个Discord账户？](https://www.advertcn.com/thread-114299-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
