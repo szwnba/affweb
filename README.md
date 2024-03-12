@@ -57,5 +57,4 @@
 -  12 [派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107)
 -  11 [年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944)
 -  11 [派评 | 近期值得关注的 App](https://sspai.com/post/87100)
--  11 [一日一技 | 巧用公式实现 Notion 数据库去重](https://sspai.com/post/86909)
--  11 [年度征文 | 渐入佳境：斜杠程序员的数字游民转型之旅](https://sspai.com/post/86832)<!-- sspai:END -->
+-  11 [一日一技 | 巧用公式实现 Notion 数据库去重](https://sspai.com/post/86909)<!-- sspai:END -->
