@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
+-  12 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
 -  12 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  12 [Have you tried Tiktok Creativity Program and Tiktok affiliates for Tiktok store?](https://afflift.com/f/threads/have-you-tried-tiktok-creativity-program-and-tiktok-affiliates-for-tiktok-store.12778/)
 -  12 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  12 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  12 [☑️ROYAL AGENCY☑️LOW PRICE BUT ROYAL QUALITY☑️FACEBOOK AD ACCOUNT FOR RENT☑️DISCOUNT 3% FOR CUSTOMERS FROM AFFLIFT ☑️3 DAYS TRIAL](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Froyal-agency%E2%98%91%EF%B8%8Flow-price-but-royal-quality%E2%98%91%EF%B8%8Ffacebook-ad-account-for-rent%E2%98%91%EF%B8%8Fdiscount-3-for-customers-from-afflift-%E2%98%91%EF%B8%8F3-days-trial.12780/)
 -  12 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
 -  12 [Yeesshh.com](https://afflift.com/f/threads/yeesshh-com.12781/)
 -  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  12 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  12 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  12 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
--  12 [Affiliate Network VS. Direct Advertiser](https://afflift.com/f/threads/affiliate-network-vs-direct-advertiser.12663/)<!-- afflift:END -->
+-  12 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
