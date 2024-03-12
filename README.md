@@ -51,6 +51,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447)
 -  12 [年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779)
 -  12 [派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107)
 -  11 [年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944)
