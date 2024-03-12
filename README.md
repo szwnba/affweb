@@ -37,6 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
+-  12 [Yeesshh.com](https://afflift.com/f/threads/yeesshh-com.12781/)
+-  12 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
+-  12 [AI | Friend or Competitor ?](https://afflift.com/f/threads/ai-friend-or-competitor.12760/)
 -  12 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  12 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  12 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
@@ -44,11 +48,7 @@
 -  12 [☑️ROYAL AGENCY☑️LOW PRICE BUT ROYAL QUALITY☑️FACEBOOK AD ACCOUNT FOR RENT☑️DISCOUNT 3% FOR CUSTOMERS FROM AFFLIFT ☑️3 DAYS TRIAL](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Froyal-agency%E2%98%91%EF%B8%8Flow-price-but-royal-quality%E2%98%91%EF%B8%8Ffacebook-ad-account-for-rent%E2%98%91%EF%B8%8Fdiscount-3-for-customers-from-afflift-%E2%98%91%EF%B8%8F3-days-trial.12780/)
 -  11 [Twitter Spamming?](https://afflift.com/f/threads/twitter-spamming.12775/)
 -  11 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  11 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
--  11 [AI | Friend or Competitor ?](https://afflift.com/f/threads/ai-friend-or-competitor.12760/)
--  11 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  11 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)<!-- afflift:END -->
+-  11 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
