@@ -52,8 +52,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128)
+-  12 [少数派的 12 岁：正版软件特惠限时开启](https://sspai.com/post/87126)
 -  12 [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447)
 -  12 [年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779)
--  12 [派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107)
--  11 [年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944)
--  11 [派评 | 近期值得关注的 App](https://sspai.com/post/87100)<!-- sspai:END -->
+-  12 [派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107)<!-- sspai:END -->
