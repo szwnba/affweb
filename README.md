@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  13 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  13 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
 -  13 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
@@ -53,8 +54,7 @@
 -  13 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  13 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  13 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
--  13 [🔥 Planting Roots of Inspiration by Adsterra&#39;s Team: A Marathon&#39;s Green Legacy in Kouklia](https://afflift.com/f/threads/%F0%9F%94%A5-planting-roots-of-inspiration-by-adsterras-team-a-marathons-green-legacy-in-kouklia.12788/)
--  13 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)<!-- afflift:END -->
+-  13 [🔥 Planting Roots of Inspiration by Adsterra&#39;s Team: A Marathon&#39;s Green Legacy in Kouklia](https://afflift.com/f/threads/%F0%9F%94%A5-planting-roots-of-inspiration-by-adsterras-team-a-marathons-green-legacy-in-kouklia.12788/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
