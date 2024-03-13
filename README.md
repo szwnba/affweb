@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
+-  13 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
+-  13 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  13 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  12 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
 -  12 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  12 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  12 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
 -  12 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  12 [Have you tried Tiktok Creativity Program and Tiktok affiliates for Tiktok store?](https://afflift.com/f/threads/have-you-tried-tiktok-creativity-program-and-tiktok-affiliates-for-tiktok-store.12778/)
 -  12 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  12 [☑️ROYAL AGENCY☑️LOW PRICE BUT ROYAL QUALITY☑️FACEBOOK AD ACCOUNT FOR RENT☑️DISCOUNT 3% FOR CUSTOMERS FROM AFFLIFT ☑️3 DAYS TRIAL](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Froyal-agency%E2%98%91%EF%B8%8Flow-price-but-royal-quality%E2%98%91%EF%B8%8Ffacebook-ad-account-for-rent%E2%98%91%EF%B8%8Fdiscount-3-for-customers-from-afflift-%E2%98%91%EF%B8%8F3-days-trial.12780/)
--  12 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
--  12 [Yeesshh.com](https://afflift.com/f/threads/yeesshh-com.12781/)
--  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  12 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
