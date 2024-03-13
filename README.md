@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [▶️FACEBOOK AGENCY - ALL TYPE ACC FOR RENT: BM,PERSONAL,CREDIT LINE✅No drop limit✅No disappear✅Great for Blackhat✅RDP,Proxy,Page,Profie Free](https://afflift.com/f/threads/%E2%96%B6%EF%B8%8Ffacebook-agency-all-type-acc-for-rent-bm-personal-credit-line%E2%9C%85no-drop-limit%E2%9C%85no-disappear%E2%9C%85great-for-blackhat%E2%9C%85rdp-proxy-page-profie-free.12742/)
 -  13 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
 -  13 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  13 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
@@ -49,8 +50,7 @@
 -  12 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  12 [Have you tried Tiktok Creativity Program and Tiktok affiliates for Tiktok store?](https://afflift.com/f/threads/have-you-tried-tiktok-creativity-program-and-tiktok-affiliates-for-tiktok-store.12778/)
 -  12 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  12 [☑️ROYAL AGENCY☑️LOW PRICE BUT ROYAL QUALITY☑️FACEBOOK AD ACCOUNT FOR RENT☑️DISCOUNT 3% FOR CUSTOMERS FROM AFFLIFT ☑️3 DAYS TRIAL](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Froyal-agency%E2%98%91%EF%B8%8Flow-price-but-royal-quality%E2%98%91%EF%B8%8Ffacebook-ad-account-for-rent%E2%98%91%EF%B8%8Fdiscount-3-for-customers-from-afflift-%E2%98%91%EF%B8%8F3-days-trial.12780/)
--  12 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)<!-- afflift:END -->
+-  12 [☑️ROYAL AGENCY☑️LOW PRICE BUT ROYAL QUALITY☑️FACEBOOK AD ACCOUNT FOR RENT☑️DISCOUNT 3% FOR CUSTOMERS FROM AFFLIFT ☑️3 DAYS TRIAL](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Froyal-agency%E2%98%91%EF%B8%8Flow-price-but-royal-quality%E2%98%91%EF%B8%8Ffacebook-ad-account-for-rent%E2%98%91%EF%B8%8Fdiscount-3-for-customers-from-afflift-%E2%98%91%EF%B8%8F3-days-trial.12780/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
