@@ -43,6 +43,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
+-  13 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
+-  13 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
 -  13 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  13 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  13 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
@@ -51,10 +54,7 @@
 -  13 [📣 Join Munch&#39;s affiliate program: Earn 25% recurring commission 😁](https://afflift.com/f/threads/%F0%9F%93%A3-join-munchs-affiliate-program-earn-25-recurring-commission-%F0%9F%98%81.12790/)
 -  13 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  13 [How to Work with Google Shopping Ads and What Products Can Be Promoted There](https://afflift.com/f/threads/how-to-work-with-google-shopping-ads-and-what-products-can-be-promoted-there.12789/)
--  13 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
--  13 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  13 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
--  13 [🔥 Planting Roots of Inspiration by Adsterra&#39;s Team: A Marathon&#39;s Green Legacy in Kouklia](https://afflift.com/f/threads/%F0%9F%94%A5-planting-roots-of-inspiration-by-adsterras-team-a-marathons-green-legacy-in-kouklia.12788/)<!-- afflift:END -->
+-  13 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
