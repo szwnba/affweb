@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  13 [Shopify Payment注册详细教程](https://www.advertcn.com/thread-114309-1-1.html)
--  12 [如何一台电脑高效批量管理不同平台的网络账户？](https://www.advertcn.com/thread-114302-1-1.html)
--  12 [Discord多账号一键管理？如何在一台电脑管理多个Discord账户？](https://www.advertcn.com/thread-114299-1-1.html)<!-- advertcn1:END -->
+-  12 [如何一台电脑高效批量管理不同平台的网络账户？](https://www.advertcn.com/thread-114302-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
