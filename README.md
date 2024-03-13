@@ -59,8 +59,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [年度征文｜上什么班啊，不过是来历劫罢了](https://sspai.com/post/86905)
 -  13 [将手机变成胶片机，拍一张专属「回忆盲盒」：Moment](https://sspai.com/post/85031)
 -  13 [手把手教你装机：PC 组装入门指南](https://sspai.com/post/86958)
 -  13 [年度征文 | 二十年后我再次和纸笔恋爱了](https://sspai.com/post/87018)
--  13 [派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等](https://sspai.com/post/87141)
--  12 [年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886)<!-- sspai:END -->
+-  13 [派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等](https://sspai.com/post/87141)<!-- sspai:END -->
