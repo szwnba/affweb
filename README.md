@@ -43,6 +43,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [📣 Join Munch&#39;s affiliate program: Earn 25% recurring commission 😁](https://afflift.com/f/threads/%F0%9F%93%A3-join-munchs-affiliate-program-earn-25-recurring-commission-%F0%9F%98%81.12790/)
+-  13 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  13 [How to Work with Google Shopping Ads and What Products Can Be Promoted There](https://afflift.com/f/threads/how-to-work-with-google-shopping-ads-and-what-products-can-be-promoted-there.12789/)
 -  13 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  13 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
@@ -52,9 +54,7 @@
 -  13 [🔥 Planting Roots of Inspiration by Adsterra&#39;s Team: A Marathon&#39;s Green Legacy in Kouklia](https://afflift.com/f/threads/%F0%9F%94%A5-planting-roots-of-inspiration-by-adsterras-team-a-marathons-green-legacy-in-kouklia.12788/)
 -  13 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  13 [Affiliate Network VS. Direct Advertiser](https://afflift.com/f/threads/affiliate-network-vs-direct-advertiser.12663/)
--  13 [Consultation on whitelisting issues🤩](https://afflift.com/f/threads/consultation-on-whitelisting-issues%F0%9F%A4%A9.12787/)
--  13 [What is the best way to do this with Bemob?](https://afflift.com/f/threads/what-is-the-best-way-to-do-this-with-bemob.12676/)
--  13 [🔀 Multiple offers on one landing page using BeMob &lpar;without offer rotation + landing page included&rpar;](https://afflift.com/f/threads/%F0%9F%94%80-multiple-offers-on-one-landing-page-using-bemob-without-offer-rotation-landing-page-included.12786/)<!-- afflift:END -->
+-  13 [Consultation on whitelisting issues🤩](https://afflift.com/f/threads/consultation-on-whitelisting-issues%F0%9F%A4%A9.12787/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
