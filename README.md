@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
+-  13 [Affiliate Network VS. Direct Advertiser](https://afflift.com/f/threads/affiliate-network-vs-direct-advertiser.12663/)
+-  13 [Consultation on whitelisting issues🤩](https://afflift.com/f/threads/consultation-on-whitelisting-issues%F0%9F%A4%A9.12787/)
+-  13 [What is the best way to do this with Bemob?](https://afflift.com/f/threads/what-is-the-best-way-to-do-this-with-bemob.12676/)
+-  13 [🔀 Multiple offers on one landing page using BeMob &lpar;without offer rotation + landing page included&rpar;](https://afflift.com/f/threads/%F0%9F%94%80-multiple-offers-on-one-landing-page-using-bemob-without-offer-rotation-landing-page-included.12786/)
 -  13 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  13 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  13 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
 -  13 [▶️FACEBOOK AGENCY - ALL TYPE ACC FOR RENT: BM,PERSONAL,CREDIT LINE✅No drop limit✅No disappear✅Great for Blackhat✅RDP,Proxy,Page,Profie Free](https://afflift.com/f/threads/%E2%96%B6%EF%B8%8Ffacebook-agency-all-type-acc-for-rent-bm-personal-credit-line%E2%9C%85no-drop-limit%E2%9C%85no-disappear%E2%9C%85great-for-blackhat%E2%9C%85rdp-proxy-page-profie-free.12742/)
 -  13 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
 -  13 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  13 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
--  12 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  12 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  12 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
--  12 [Have you tried Tiktok Creativity Program and Tiktok affiliates for Tiktok store?](https://afflift.com/f/threads/have-you-tried-tiktok-creativity-program-and-tiktok-affiliates-for-tiktok-store.12778/)
--  12 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  12 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
