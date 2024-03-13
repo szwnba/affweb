@@ -55,8 +55,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [手把手教你装机：PC 组装入门指南](https://sspai.com/post/86958)
 -  13 [年度征文 | 二十年后我再次和纸笔恋爱了](https://sspai.com/post/87018)
 -  13 [派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等](https://sspai.com/post/87141)
 -  12 [年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886)
--  12 [2024 年，翻盖机还有什么可玩？](https://sspai.com/prime/story/buy-a-flip-phone-in-2024)
--  12 [社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128)<!-- sspai:END -->
+-  12 [2024 年，翻盖机还有什么可玩？](https://sspai.com/prime/story/buy-a-flip-phone-in-2024)<!-- sspai:END -->
