@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [年度征文 | 赐我一场前去欧洲的流亡](https://sspai.com/post/86992)
 -  14 [派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等](https://sspai.com/post/87177)
 -  13 [年度征文｜上什么班啊，不过是来历劫罢了](https://sspai.com/post/86905)
 -  13 [将手机变成胶片机，拍一张专属「回忆盲盒」：Moment](https://sspai.com/post/85031)
