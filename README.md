@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
+-  14 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
+-  14 [Got Skills in Push Traffic? Partnership Opportunity](https://afflift.com/f/threads/got-skills-in-push-traffic-partnership-opportunity.12796/)
 -  14 [Monetizer no longer allowing us to target offers?](https://afflift.com/f/threads/monetizer-no-longer-allowing-us-to-target-offers.12795/)
 -  14 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  14 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
 -  14 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  14 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  14 [😱The network asked me to lower my traffic CR, let me put some bot traffic🤥](https://afflift.com/f/threads/%F0%9F%98%B1the-network-asked-me-to-lower-my-traffic-cr-let-me-put-some-bot-traffic%F0%9F%A4%A5.12793/)
 -  14 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
 -  14 [Top Affiliate Programs prior to Easter for Brazil GEO](https://afflift.com/f/threads/top-affiliate-programs-prior-to-easter-for-brazil-geo.12794/)
 -  14 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
--  14 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  14 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  14 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)<!-- afflift:END -->
+-  14 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
