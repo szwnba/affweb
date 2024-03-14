@@ -44,6 +44,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
+-  14 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  14 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
 -  14 [Exoclick not passing cost of CPM campaign to tracker &lpar;Binom&rpar;](https://afflift.com/f/threads/exoclick-not-passing-cost-of-cpm-campaign-to-tracker-binom.11017/)
 -  14 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
@@ -53,9 +55,7 @@
 -  14 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  14 [Targeted Advertising Made Easy - Promo code from RollerAds](https://afflift.com/f/threads/targeted-advertising-made-easy-promo-code-from-rollerads.11091/)
 -  14 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  14 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
--  14 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
--  14 [🔀 Multiple offers on one landing page using BeMob &lpar;without offer rotation + landing page included&rpar;](https://afflift.com/f/threads/%F0%9F%94%80-multiple-offers-on-one-landing-page-using-bemob-without-offer-rotation-landing-page-included.12786/)<!-- afflift:END -->
+-  14 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
