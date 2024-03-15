@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219)
 -  15 [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911)
 -  15 [一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202)
 -  15 [年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989)
