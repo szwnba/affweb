@@ -30,8 +30,7 @@
 <!-- advertcn3:START -->
 -  15 [Wordpress独立站如何标记不同流量渠道来的转化](https://www.advertcn.com/thread-114342-1-1.html)
 -  15 [用lnmp建的网站和用宝塔建的网站，网站的性能是否相同？](https://www.advertcn.com/thread-114340-1-1.html)
--  14 [寻这家代理公司](https://www.advertcn.com/thread-114337-1-1.html)
--  14 [谷歌竞价 知名品牌+关键词 这类关键词值得投吗](https://www.advertcn.com/thread-114329-1-1.html)<!-- advertcn3:END -->
+-  14 [寻这家代理公司](https://www.advertcn.com/thread-114337-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
