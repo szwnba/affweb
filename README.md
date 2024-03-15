@@ -29,8 +29,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  15 [Wordpress独立站如何标记不同流量渠道来的转化](https://www.advertcn.com/thread-114342-1-1.html)
--  15 [用lnmp建的网站和用宝塔建的网站，网站的性能是否相同？](https://www.advertcn.com/thread-114340-1-1.html)
--  14 [寻这家代理公司](https://www.advertcn.com/thread-114337-1-1.html)<!-- advertcn3:END -->
+-  15 [用lnmp建的网站和用宝塔建的网站，网站的性能是否相同？](https://www.advertcn.com/thread-114340-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
