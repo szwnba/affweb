@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [派早报：Google 将在 5 月 14 日召开 I/O 大会](https://sspai.com/post/87209)
 -  14 [年度征文 | 书能读完吗，读完了还能读什么？](https://sspai.com/post/87027)
 -  14 [城市漫步指南：无锡，正是江南春好时](https://sspai.com/post/86987)
 -  14 [App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划](https://sspai.com/post/87095)
