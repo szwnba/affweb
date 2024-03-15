@@ -58,5 +58,4 @@
 -  14 [年度征文 | 书能读完吗，读完了还能读什么？](https://sspai.com/post/87027)
 -  14 [城市漫步指南：无锡，正是江南春好时](https://sspai.com/post/86987)
 -  14 [App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划](https://sspai.com/post/87095)
--  14 [年度征文 | 赐我一场前去欧洲的流亡](https://sspai.com/post/86992)
--  14 [派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等](https://sspai.com/post/87177)<!-- sspai:END -->
+-  14 [年度征文 | 赐我一场前去欧洲的流亡](https://sspai.com/post/86992)<!-- sspai:END -->
