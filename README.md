@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  15 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  15 [How to Catch a “Wild” Lander, Modify It, and Deploy It FAST](https://afflift.com/f/threads/how-to-catch-a-%E2%80%9Cwild%E2%80%9D-lander-modify-it-and-deploy-it-fast.12800/)
 -  15 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
@@ -50,8 +51,7 @@
 -  15 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  15 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  15 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
--  15 [Consultation on whitelisting issues🤩](https://afflift.com/f/threads/consultation-on-whitelisting-issues%F0%9F%A4%A9.12787/)
--  14 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)<!-- afflift:END -->
+-  15 [Consultation on whitelisting issues🤩](https://afflift.com/f/threads/consultation-on-whitelisting-issues%F0%9F%A4%A9.12787/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
