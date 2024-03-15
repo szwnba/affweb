@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [😱The network asked me to lower my traffic CR, let me put some bot traffic🤥](https://afflift.com/f/threads/%F0%9F%98%B1the-network-asked-me-to-lower-my-traffic-cr-let-me-put-some-bot-traffic%F0%9F%A4%A5.12793/)
 -  15 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  15 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  15 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
@@ -51,7 +52,6 @@
 -  14 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  14 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  14 [JS cookies - what does it do? What is it used for?](https://afflift.com/f/threads/js-cookies-what-does-it-do-what-is-it-used-for.12797/)
--  14 [😱The network asked me to lower my traffic CR, let me put some bot traffic🤥](https://afflift.com/f/threads/%F0%9F%98%B1the-network-asked-me-to-lower-my-traffic-cr-let-me-put-some-bot-traffic%F0%9F%A4%A5.12793/)
 -  14 [Monetizer no longer allowing us to target offers?](https://afflift.com/f/threads/monetizer-no-longer-allowing-us-to-target-offers.12795/)
 -  14 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
 -  14 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)<!-- afflift:END -->
