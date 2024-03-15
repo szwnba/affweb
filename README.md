@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  15 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
 -  15 [Consultation on whitelisting issues🤩](https://afflift.com/f/threads/consultation-on-whitelisting-issues%F0%9F%A4%A9.12787/)
 -  15 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
@@ -51,8 +52,7 @@
 -  14 [😱The network asked me to lower my traffic CR, let me put some bot traffic🤥](https://afflift.com/f/threads/%F0%9F%98%B1the-network-asked-me-to-lower-my-traffic-cr-let-me-put-some-bot-traffic%F0%9F%A4%A5.12793/)
 -  14 [Monetizer no longer allowing us to target offers?](https://afflift.com/f/threads/monetizer-no-longer-allowing-us-to-target-offers.12795/)
 -  14 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
--  14 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  14 [Got Skills in Push Traffic? Partnership Opportunity](https://afflift.com/f/threads/got-skills-in-push-traffic-partnership-opportunity.12796/)<!-- afflift:END -->
+-  14 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
