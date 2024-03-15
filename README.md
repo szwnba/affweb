@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  15 [一文梳理：Facebook广告投放基础知识，速速查看](https://www.advertcn.com/thread-114343-1-1.html)
 -  15 [2024电商蓝海市场巴西：Mercado美客多平台怎么样？](https://www.advertcn.com/thread-114341-1-1.html)
--  15 [亚马逊新手开店如何提高店铺的流量？](https://www.advertcn.com/thread-114339-1-1.html)
--  14 [有疑惑？Facebook广告预算如何调整？](https://www.advertcn.com/thread-114332-1-1.html)<!-- advertcn1:END -->
+-  15 [亚马逊新手开店如何提高店铺的流量？](https://www.advertcn.com/thread-114339-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
