@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  15 [亚马逊新手开店如何提高店铺的流量？](https://www.advertcn.com/thread-114339-1-1.html)
 -  14 [有疑惑？Facebook广告预算如何调整？](https://www.advertcn.com/thread-114332-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
