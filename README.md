@@ -57,6 +57,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989)
 -  15 [派早报：Google 将在 5 月 14 日召开 I/O 大会](https://sspai.com/post/87209)
 -  14 [年度征文 | 书能读完吗，读完了还能读什么？](https://sspai.com/post/87027)
 -  14 [城市漫步指南：无锡，正是江南春好时](https://sspai.com/post/86987)
