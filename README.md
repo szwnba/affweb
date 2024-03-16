@@ -54,7 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [少数派的 12 岁：付费栏目周年庆大促开启](https://sspai.com/post/87214)
 -  16 [纯电长途、节假日出行，蔚来换电可还行](https://sspai.com/post/86882)
 -  15 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219)
--  15 [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911)
--  15 [一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202)<!-- sspai:END -->
+-  15 [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911)<!-- sspai:END -->
