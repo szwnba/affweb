@@ -39,8 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  16 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
 -  16 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
+-  16 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
 -  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  15 [How to Catch a “Wild” Lander, Modify It, and Deploy It FAST](https://afflift.com/f/threads/how-to-catch-a-%E2%80%9Cwild%E2%80%9D-lander-modify-it-and-deploy-it-fast.12800/)
 -  15 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
