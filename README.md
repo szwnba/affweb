@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
+-  16 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
 -  16 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
 -  16 [JS cookies - what does it do? What is it used for?](https://afflift.com/f/threads/js-cookies-what-does-it-do-what-is-it-used-for.12797/)
 -  16 [How to Catch a “Wild” Lander, Modify It, and Deploy It FAST](https://afflift.com/f/threads/how-to-catch-a-%E2%80%9Cwild%E2%80%9D-lander-modify-it-and-deploy-it-fast.12800/)
@@ -44,11 +46,9 @@
 -  16 [Yeesshh.com](https://afflift.com/f/threads/yeesshh-com.12781/)
 -  16 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  16 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
--  16 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
 -  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  15 [Monetizer&#39;s top offers : What&#39;s Running Behind the Scenes! Feb 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-feb-2024.12717/)
--  15 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  15 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)<!-- afflift:END -->
+-  15 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
