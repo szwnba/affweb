@@ -26,8 +26,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  16 [谷歌广告账户每天最多带来点击20次，但是我的转化需要50...](https://www.advertcn.com/thread-114356-1-1.html)
--  16 [谷歌ADS新建前几天有转化后面就没了转化](https://www.advertcn.com/thread-114354-1-1.html)
--  15 [Authorize这个信用卡网关对接效果怎么样？](https://www.advertcn.com/thread-114353-1-1.html)<!-- advertcn3:END -->
+-  16 [谷歌ADS新建前几天有转化后面就没了转化](https://www.advertcn.com/thread-114354-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
