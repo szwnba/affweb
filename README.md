@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  15 [新人报道](https://www.advertcn.com/thread-114347-1-1.html)
--  15 [一文梳理：Facebook广告投放基础知识，速速查看](https://www.advertcn.com/thread-114343-1-1.html)<!-- advertcn1:END -->
+-  15 [新人报道](https://www.advertcn.com/thread-114347-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
