@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [JS cookies - what does it do? What is it used for?](https://afflift.com/f/threads/js-cookies-what-does-it-do-what-is-it-used-for.12797/)
 -  16 [How to Catch a “Wild” Lander, Modify It, and Deploy It FAST](https://afflift.com/f/threads/how-to-catch-a-%E2%80%9Cwild%E2%80%9D-lander-modify-it-and-deploy-it-fast.12800/)
 -  16 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
 -  16 [Yeesshh.com](https://afflift.com/f/threads/yeesshh-com.12781/)
@@ -47,8 +48,7 @@
 -  15 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  15 [Monetizer&#39;s top offers : What&#39;s Running Behind the Scenes! Feb 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-feb-2024.12717/)
 -  15 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
--  15 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  15 [ProPush vs RollerAds - Gimme The Popcorn...](https://afflift.com/f/threads/propush-vs-rollerads-gimme-the-popcorn.12802/)<!-- afflift:END -->
+-  15 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
