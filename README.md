@@ -48,4 +48,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [从 Pixel 手机出发，志在千家万户——与毫米波技术「对谈」](https://sspai.com/post/87229)
 -  17 [现代打工人如何获得幸福？](https://sspai.com/post/86697)<!-- sspai:END -->
