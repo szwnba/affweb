@@ -43,8 +43,7 @@
 -  16 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
 -  16 [JS cookies - what does it do? What is it used for?](https://afflift.com/f/threads/js-cookies-what-does-it-do-what-is-it-used-for.12797/)
 -  16 [How to Catch a “Wild” Lander, Modify It, and Deploy It FAST](https://afflift.com/f/threads/how-to-catch-a-%E2%80%9Cwild%E2%80%9D-lander-modify-it-and-deploy-it-fast.12800/)
--  16 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
--  16 [Yeesshh.com](https://afflift.com/f/threads/yeesshh-com.12781/)<!-- afflift:END -->
+-  16 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
