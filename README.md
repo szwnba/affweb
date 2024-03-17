@@ -49,4 +49,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  16 [少数派的 12 岁：付费栏目周年庆大促开启](https://sspai.com/post/87214)<!-- sspai:END -->
+-  17 [现代打工人如何获得幸福？](https://sspai.com/post/86697)
+-  16 [少数派的 12 岁：付费栏目开启周年庆大促](https://sspai.com/post/87214)<!-- sspai:END -->
