@@ -41,8 +41,7 @@
 -  17 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  17 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)
 -  16 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
--  16 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
--  16 [JS cookies - what does it do? What is it used for?](https://afflift.com/f/threads/js-cookies-what-does-it-do-what-is-it-used-for.12797/)<!-- afflift:END -->
+-  16 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
