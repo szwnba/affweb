@@ -50,5 +50,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  16 [少数派的 12 岁：付费栏目周年庆大促开启](https://sspai.com/post/87214)
--  16 [纯电长途、节假日出行，蔚来换电可还行](https://sspai.com/post/86882)<!-- sspai:END -->
+-  16 [少数派的 12 岁：付费栏目周年庆大促开启](https://sspai.com/post/87214)<!-- sspai:END -->
