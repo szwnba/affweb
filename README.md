@@ -43,8 +43,7 @@
 -  16 [How to Catch a “Wild” Lander, Modify It, and Deploy It FAST](https://afflift.com/f/threads/how-to-catch-a-%E2%80%9Cwild%E2%80%9D-lander-modify-it-and-deploy-it-fast.12800/)
 -  16 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
 -  16 [Yeesshh.com](https://afflift.com/f/threads/yeesshh-com.12781/)
--  16 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  16 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)<!-- afflift:END -->
+-  16 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
