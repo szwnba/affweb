@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  17 [2024年带返点的谷歌广告海外户复活了~](https://www.advertcn.com/thread-114360-1-1.html)
--  16 [谷歌广告账户每天最多带来点击20次，但是我的转化需要50...](https://www.advertcn.com/thread-114356-1-1.html)<!-- advertcn3:END -->
+-  17 [2024年带返点的谷歌广告海外户复活了~](https://www.advertcn.com/thread-114360-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
