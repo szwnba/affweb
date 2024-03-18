@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  18 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  18 [Anonymous-proxies.net - Fully Anonymous Proxies - SOCKS5 / HTTP /ShadowSOCKSS / Wireguard VPN](https://afflift.com/f/threads/anonymous-proxies-net-fully-anonymous-proxies-socks5-http-shadowsockss-wireguard-vpn.11474/)
 -  18 [▶️FACEBOOK AGENCY - ALL TYPE ACC FOR RENT: BM,PERSONAL,CREDIT LINE✅No drop limit✅No disappear✅Great for Blackhat✅RDP,Proxy,Page,Profie Free](https://afflift.com/f/threads/%E2%96%B6%EF%B8%8Ffacebook-agency-all-type-acc-for-rent-bm-personal-credit-line%E2%9C%85no-drop-limit%E2%9C%85no-disappear%E2%9C%85great-for-blackhat%E2%9C%85rdp-proxy-page-profie-free.12742/)
@@ -46,8 +47,7 @@
 -  18 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  18 [⚡️BANZAI Partners - a brand new in-house advertiser with a void player database. RevShare up to 50%](https://afflift.com/f/threads/%E2%9A%A1%EF%B8%8Fbanzai-partners-a-brand-new-in-house-advertiser-with-a-void-player-database-revshare-up-to-50.12811/)
 -  18 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  18 [Collect subscribers](https://afflift.com/f/threads/collect-subscribers.12809/)
--  18 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  18 [Collect subscribers](https://afflift.com/f/threads/collect-subscribers.12809/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
