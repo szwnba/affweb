@@ -49,5 +49,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [派开箱 | 科技祛魅，返璞归真：明基新款屏幕挂灯实用也更好用了](https://sspai.com/post/87186)
 -  18 [做了 4 年短视频内容，我想和你分享这些心得方法](https://sspai.com/post/86760)
 -  18 [派早报：xAI 开源 Grok-1 模型](https://sspai.com/post/87349)<!-- sspai:END -->
