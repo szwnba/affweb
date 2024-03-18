@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  18 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
 -  18 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)
 -  18 [Consultation on whitelisting issues🤩](https://afflift.com/f/threads/consultation-on-whitelisting-issues%F0%9F%A4%A9.12787/)
 -  18 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
@@ -45,9 +47,7 @@
 -  18 [888STARZ Partners became a participant in SiGMA Africa Summit 2024](https://afflift.com/f/threads/888starz-partners-became-a-participant-in-sigma-africa-summit-2024.12804/)
 -  18 [☑️ROYAL AGENCY☑️LOW PRICE BUT ROYAL QUALITY☑️FACEBOOK AD ACCOUNT FOR RENT☑️DISCOUNT 3% FOR CUSTOMERS FROM AFFLIFT ☑️3 DAYS TRIAL](https://afflift.com/f/threads/%E2%98%91%EF%B8%8Froyal-agency%E2%98%91%EF%B8%8Flow-price-but-royal-quality%E2%98%91%EF%B8%8Ffacebook-ad-account-for-rent%E2%98%91%EF%B8%8Fdiscount-3-for-customers-from-afflift-%E2%98%91%EF%B8%8F3-days-trial.12780/)
 -  18 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  18 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  18 [Ask Me Anything about Facebook Ads 2024](https://afflift.com/f/threads/ask-me-anything-about-facebook-ads-2024.12688/)
--  17 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)<!-- afflift:END -->
+-  18 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
