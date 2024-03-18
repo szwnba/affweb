@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [ProPush vs RollerAds - Gimme The Popcorn...](https://afflift.com/f/threads/propush-vs-rollerads-gimme-the-popcorn.12802/)
+-  18 [Introducing World AdTech Day: Celebrating AdTech Innovators Worldwide](https://afflift.com/f/threads/introducing-world-adtech-day-celebrating-adtech-innovators-worldwide.12807/)
 -  18 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  18 [Ask Me Anything about Facebook Ads 2024](https://afflift.com/f/threads/ask-me-anything-about-facebook-ads-2024.12688/)
 -  18 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
@@ -45,9 +47,7 @@
 -  18 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
 -  18 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)
 -  18 [Consultation on whitelisting issues🤩](https://afflift.com/f/threads/consultation-on-whitelisting-issues%F0%9F%A4%A9.12787/)
--  18 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  18 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  18 [Vimmy - Ad Network. Push Traffic That Converts.](https://afflift.com/f/threads/vimmy-ad-network-push-traffic-that-converts.5871/)<!-- afflift:END -->
+-  18 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
