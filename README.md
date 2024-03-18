@@ -46,5 +46,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [做了 4 年短视频内容，我想和你分享这些心得方法](https://sspai.com/post/86760)
 -  18 [派早报：xAI 开源 Grok-1 模型](https://sspai.com/post/87349)
 -  17 [从 Pixel 手机出发，志在千家万户——与毫米波技术「对谈」](https://sspai.com/post/87229)<!-- sspai:END -->
