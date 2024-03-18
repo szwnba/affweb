@@ -36,7 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
 -  18 [ProPush vs RollerAds - Gimme The Popcorn...](https://afflift.com/f/threads/propush-vs-rollerads-gimme-the-popcorn.12802/)
+-  18 [Got Skills in Push Traffic? Partnership Opportunity](https://afflift.com/f/threads/got-skills-in-push-traffic-partnership-opportunity.12796/)
 -  18 [Introducing World AdTech Day: Celebrating AdTech Innovators Worldwide](https://afflift.com/f/threads/introducing-world-adtech-day-celebrating-adtech-innovators-worldwide.12807/)
 -  18 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  18 [Ask Me Anything about Facebook Ads 2024](https://afflift.com/f/threads/ask-me-anything-about-facebook-ads-2024.12688/)
@@ -45,9 +47,7 @@
 -  18 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  18 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  18 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
--  18 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)
--  18 [Consultation on whitelisting issues🤩](https://afflift.com/f/threads/consultation-on-whitelisting-issues%F0%9F%A4%A9.12787/)
--  18 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)<!-- afflift:END -->
+-  18 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
