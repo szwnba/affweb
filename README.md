@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  19 [电商卖家秘诀：如何查找趋势产品，提升在线销售率？](https://www.advertcn.com/thread-114376-1-1.html)
 -  19 [TEMU是什么？TEMU自养号测评有什么优势？](https://www.advertcn.com/thread-114373-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
