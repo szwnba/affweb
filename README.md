@@ -56,5 +56,4 @@
 -  19 [为了养成每日习惯、实现自我提升，我开发了 ReHabit 这款应用](https://sspai.com/post/85961)
 -  19 [派早报：LinkedIn 计划添加游戏，BT 流量不再占据主导地位等](https://sspai.com/post/87368)
 -  18 [花见花开暗香来：Apple 静安店抢先看](https://sspai.com/post/87357)
--  18 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87366)
--  18 [周岁前的日子也可以很精彩：我的小月龄带娃经历](https://sspai.com/post/84704)<!-- sspai:END -->
+-  18 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87366)<!-- sspai:END -->
