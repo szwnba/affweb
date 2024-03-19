@@ -53,7 +53,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [上新优惠皆齐全，周边商店的十二周年促销](https://sspai.com/post/87321)
+-  19 [洞察 | 数量增长超百档，喜剧播客挣钱了么？](https://sspai.com/post/87363)
 -  19 [为了养成每日习惯、实现自我提升，我开发了 ReHabit 这款应用](https://sspai.com/post/85961)
 -  19 [派早报：LinkedIn 计划添加游戏，BT 流量不再占据主导地位等](https://sspai.com/post/87368)
--  18 [花见花开暗香来：Apple 静安店抢先看](https://sspai.com/post/87357)
--  18 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87366)<!-- sspai:END -->
+-  18 [花见花开暗香来：Apple 静安店抢先看](https://sspai.com/post/87357)<!-- sspai:END -->
