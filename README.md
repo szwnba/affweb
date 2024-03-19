@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  18 [寻Search Feed 账户开户以及账户合作](https://www.advertcn.com/thread-114368-1-1.html)<!-- advertcn3:END -->
+-  19 [Facebook产品更新|快速入门工具（OE）为开设广告账户单一渠道](https://www.advertcn.com/thread-114375-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
