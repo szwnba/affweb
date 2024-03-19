@@ -38,8 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [ProPush vs RollerAds - Gimme The Popcorn...](https://afflift.com/f/threads/propush-vs-rollerads-gimme-the-popcorn.12802/)
 -  19 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
+-  19 [ProPush vs RollerAds - Gimme The Popcorn...](https://afflift.com/f/threads/propush-vs-rollerads-gimme-the-popcorn.12802/)
 -  19 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  19 [Fight for victory❌&lpar;🤑money✔&rpar;!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94.12810/)
 -  19 [Collect subscribers](https://afflift.com/f/threads/collect-subscribers.12809/)
