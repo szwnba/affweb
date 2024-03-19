@@ -36,7 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  19 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
+-  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 -  19 [Adspect is a Powerfull Cloaking&amp;Tracking&amp;Stats Tool](https://afflift.com/f/threads/adspect-is-a-powerfull-cloaking-tracking-stats-tool.10658/)
 -  19 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  18 [Fight for victory❌&lpar;🤑money✔&rpar;!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94.12810/)
@@ -45,9 +47,7 @@
 -  18 [【Jumbleberry】Top converting US/EU ME/ CBD / Keto Offers - These offers will skyrocket your EPC](https://afflift.com/f/threads/%E3%80%90jumbleberry%E3%80%91top-converting-us-eu-me-cbd-keto-offers-these-offers-will-skyrocket-your-epc.12642/)
 -  18 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
 -  18 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  18 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  18 [Anonymous-proxies.net - Fully Anonymous Proxies - SOCKS5 / HTTP /ShadowSOCKSS / Wireguard VPN](https://afflift.com/f/threads/anonymous-proxies-net-fully-anonymous-proxies-socks5-http-shadowsockss-wireguard-vpn.11474/)
--  18 [▶️FACEBOOK AGENCY - ALL TYPE ACC FOR RENT: BM,PERSONAL,CREDIT LINE✅No drop limit✅No disappear✅Great for Blackhat✅RDP,Proxy,Page,Profie Free](https://afflift.com/f/threads/%E2%96%B6%EF%B8%8Ffacebook-agency-all-type-acc-for-rent-bm-personal-credit-line%E2%9C%85no-drop-limit%E2%9C%85no-disappear%E2%9C%85great-for-blackhat%E2%9C%85rdp-proxy-page-profie-free.12742/)<!-- afflift:END -->
+-  18 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
