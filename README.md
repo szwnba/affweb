@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  15 [新人报道](https://www.advertcn.com/thread-114347-1-1.html)<!-- advertcn1:END -->
+-  19 [TEMU是什么？TEMU自养号测评有什么优势？](https://www.advertcn.com/thread-114373-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
