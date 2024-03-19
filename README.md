@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  19 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
--  19 [ProPush vs RollerAds - Gimme The Popcorn...](https://afflift.com/f/threads/propush-vs-rollerads-gimme-the-popcorn.12802/)
--  19 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
--  19 [Fight for victory❌&lpar;🤑money✔&rpar;!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94.12810/)
--  19 [Collect subscribers](https://afflift.com/f/threads/collect-subscribers.12809/)
--  19 [Complete Guide to Advertizer CPA Campaigns &lpar;AKA How to Get Traffic from Monetizer&rpar;](https://afflift.com/f/threads/complete-guide-to-advertizer-cpa-campaigns-aka-how-to-get-traffic-from-monetizer.5266/)
--  19 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  19 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  19 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
--  19 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+-  19 [WebsiteID has stopped sending traffic in PopAds](https://afflift.com/f/threads/websiteid-has-stopped-sending-traffic-in-popads.12814/)
+-  19 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  19 [【Jumbleberry】Top converting US/EU ME/ CBD / Keto Offers - These offers will skyrocket your EPC](https://afflift.com/f/threads/%E3%80%90jumbleberry%E3%80%91top-converting-us-eu-me-cbd-keto-offers-these-offers-will-skyrocket-your-epc.12642/)
 -  19 [Adspect is a Powerfull Cloaking&amp;Tracking&amp;Stats Tool](https://afflift.com/f/threads/adspect-is-a-powerfull-cloaking-tracking-stats-tool.10658/)
--  18 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)<!-- afflift:END -->
+-  19 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
+-  19 [NEW WEBINAR for all iGaming fans and newbies 🔥](https://afflift.com/f/threads/new-webinar-for-all-igaming-fans-and-newbies-%F0%9F%94%A5.12813/)
+-  19 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
+-  19 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
+-  19 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)
+-  19 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
+-  19 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  19 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
