@@ -55,5 +55,4 @@
 -  20 [派早报：Steam 新版家庭功能开启测试等](https://sspai.com/post/87396)
 -  19 [社区速递 036 | Action Button 的妙用、纸书自由以及超小收纳包](https://sspai.com/post/87385)
 -  19 [上新优惠皆齐全，周边商店的十二周年促销](https://sspai.com/post/87321)
--  19 [洞察 | 数量增长超百档，喜剧播客挣钱了么？](https://sspai.com/post/87363)
--  19 [为了养成每日习惯、实现自我提升，我开发了 ReHabit 这款应用](https://sspai.com/post/85961)<!-- sspai:END -->
+-  19 [洞察 | 数量增长超百档，喜剧播客挣钱了么？](https://sspai.com/post/87363)<!-- sspai:END -->
