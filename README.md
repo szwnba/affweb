@@ -37,8 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  20 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  20 [affLift logo in BTC network?](https://afflift.com/f/threads/afflift-logo-in-btc-network.12816/)
+-  20 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  20 [FACEBOOK ADS ACCOUNTS UNLIMITED  FOR RENT - Facebook Services, Support 24/7, CHEAPEST RENTAL FEES](https://afflift.com/f/threads/facebook-ads-accounts-unlimited-for-rent-facebook-services-support-24-7-cheapest-rental-fees.12124/)
 -  20 [Propellerads traffic drop](https://afflift.com/f/threads/propellerads-traffic-drop.12404/)
 -  20 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
