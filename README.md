@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Track and Rip Protected Landing pages, When spytools Fail to!!](https://afflift.com/f/threads/track-and-rip-protected-landing-pages-when-spytools-fail-to.10006/)
+-  20 [💬 “Share on WhatsApp” Popup for Landing Pages](https://afflift.com/f/threads/%F0%9F%92%AC-%E2%80%9Cshare-on-whatsapp%E2%80%9D-popup-for-landing-pages.12819/)
+-  20 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
 -  20 [Safari in-app browser traffic?](https://afflift.com/f/threads/safari-in-app-browser-traffic.12792/)
 -  20 [Resurrecting a Neglected Authority Site](https://afflift.com/f/threads/resurrecting-a-neglected-authority-site.12665/)
 -  20 [Journey to profitability &lpar;?&rpar; with MGID + Nutra](https://afflift.com/f/threads/journey-to-profitability-with-mgid-nutra.11855/)
 -  20 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
--  20 [💬 “Share on WhatsApp” Popup for Landing Pages](https://afflift.com/f/threads/%F0%9F%92%AC-%E2%80%9Cshare-on-whatsapp%E2%80%9D-popup-for-landing-pages.12819/)
 -  20 [WebsiteID has stopped sending traffic in PopAds](https://afflift.com/f/threads/websiteid-has-stopped-sending-traffic-in-popads.12814/)
 -  20 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  20 [affLift logo in BTC network?](https://afflift.com/f/threads/afflift-logo-in-btc-network.12816/)
 -  20 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  20 [✅Fresh Gmail ✅Aged Gmail ✅App Password ✅Forwarded Gmail ✅Warmup Gmail ✅YouTube ✅Twitter ✅LinkedIn Accounts](https://afflift.com/f/threads/%E2%9C%85fresh-gmail-%E2%9C%85aged-gmail-%E2%9C%85app-password-%E2%9C%85forwarded-gmail-%E2%9C%85warmup-gmail-%E2%9C%85youtube-%E2%9C%85twitter-%E2%9C%85linkedin-accounts.12815/)
--  20 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  20 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)<!-- afflift:END -->
+-  20 [✅Fresh Gmail ✅Aged Gmail ✅App Password ✅Forwarded Gmail ✅Warmup Gmail ✅YouTube ✅Twitter ✅LinkedIn Accounts](https://afflift.com/f/threads/%E2%9C%85fresh-gmail-%E2%9C%85aged-gmail-%E2%9C%85app-password-%E2%9C%85forwarded-gmail-%E2%9C%85warmup-gmail-%E2%9C%85youtube-%E2%9C%85twitter-%E2%9C%85linkedin-accounts.12815/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
