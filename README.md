@@ -17,11 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  19 [想深入了解TikTok应用？一文带你查看进阶产品-MCO](https://www.advertcn.com/thread-114383-1-1.html)
--  19 [一文深入了解TikTok进阶产品-AEO](https://www.advertcn.com/thread-114382-1-1.html)
--  19 [GG TT FB广告代理返点](https://www.advertcn.com/thread-114381-1-1.html)
--  19 [电商卖家秘诀：如何查找趋势产品，提升在线销售率？](https://www.advertcn.com/thread-114376-1-1.html)
--  19 [TEMU是什么？TEMU自养号测评有什么优势？](https://www.advertcn.com/thread-114373-1-1.html)<!-- advertcn1:END -->
+-  19 [电商卖家秘诀：如何查找趋势产品，提升在线销售率？](https://www.advertcn.com/thread-114376-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
