@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [WebsiteID has stopped sending traffic in PopAds](https://afflift.com/f/threads/websiteid-has-stopped-sending-traffic-in-popads.12814/)
+-  20 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  20 [affLift logo in BTC network?](https://afflift.com/f/threads/afflift-logo-in-btc-network.12816/)
 -  20 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  20 [✅Fresh Gmail ✅Aged Gmail ✅App Password ✅Forwarded Gmail ✅Warmup Gmail ✅YouTube ✅Twitter ✅LinkedIn Accounts](https://afflift.com/f/threads/%E2%9C%85fresh-gmail-%E2%9C%85aged-gmail-%E2%9C%85app-password-%E2%9C%85forwarded-gmail-%E2%9C%85warmup-gmail-%E2%9C%85youtube-%E2%9C%85twitter-%E2%9C%85linkedin-accounts.12815/)
@@ -45,9 +47,7 @@
 -  20 [Return to Form: Back in the Game, Back to Gain](https://afflift.com/f/threads/return-to-form-back-in-the-game-back-to-gain.12818/)
 -  20 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
 -  20 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  20 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  20 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
--  20 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
+-  20 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
