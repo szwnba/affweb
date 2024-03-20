@@ -51,8 +51,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [浅谈 AI 工具的性价比评估思路](https://sspai.com/prime/story/ai-tools-eval)
 -  20 [在梦里成为「新造的人」，10 部影片带你探索梦的世界](https://sspai.com/post/87131)
 -  20 [水獭派对 | 高效办公，畅快摸鱼，给你的鼠标升个级](https://sspai.com/post/87403)
 -  20 [他山之石，漫谈日本城市垃圾处理制度](https://sspai.com/post/86734)
--  20 [基于思源笔记的博客写作、管理和分发流程](https://sspai.com/post/87171)
--  20 [派早报：Steam 新版家庭功能开启测试等](https://sspai.com/post/87396)<!-- sspai:END -->
+-  20 [基于思源笔记的博客写作、管理和分发流程](https://sspai.com/post/87171)<!-- sspai:END -->
