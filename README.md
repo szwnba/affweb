@@ -25,7 +25,6 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  19 [香港鼎峰服务器-TKO机房直营,3C专线精品网](https://www.advertcn.com/thread-114378-1-1.html)
 -  19 [Facebook产品更新|快速入门工具（OE）为开设广告账户单一渠道](https://www.advertcn.com/thread-114375-1-1.html)<!-- advertcn3:END -->
 
 
