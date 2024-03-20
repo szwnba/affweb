@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Is there a popunder script that works as good as popunderJS?](https://afflift.com/f/threads/is-there-a-popunder-script-that-works-as-good-as-popunderjs.12772/)
 -  20 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
 -  20 [✅Fresh Gmail ✅Aged Gmail ✅App Password ✅Forwarded Gmail ✅Warmup Gmail ✅YouTube ✅Twitter ✅LinkedIn Accounts](https://afflift.com/f/threads/%E2%9C%85fresh-gmail-%E2%9C%85aged-gmail-%E2%9C%85app-password-%E2%9C%85forwarded-gmail-%E2%9C%85warmup-gmail-%E2%9C%85youtube-%E2%9C%85twitter-%E2%9C%85linkedin-accounts.12815/)
 -  20 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
@@ -46,8 +47,7 @@
 -  20 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  19 [Struggling to Succeed with Pay Per Call &amp; FB Ads](https://afflift.com/f/threads/struggling-to-succeed-with-pay-per-call-fb-ads.12180/)
 -  19 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  19 [Fight for victory❌&lpar;🤑money✔&rpar;!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94.12810/)
--  19 [100 days to get a profit of € 10 per day with Monetizer campaigns](https://afflift.com/f/threads/100-days-to-get-a-profit-of-%E2%82%AC-10-per-day-with-monetizer-campaigns.12776/)<!-- afflift:END -->
+-  19 [Fight for victory❌&lpar;🤑money✔&rpar;!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94.12810/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
