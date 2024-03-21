@@ -29,8 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  21 [跑搜索套利search【数据截图】](https://www.advertcn.com/thread-114396-1-1.html)
--  20 [这两个vps能看得出哪个硬件强点吗？](https://www.advertcn.com/thread-114397-1-1.html)<!-- advertcn3:END -->
+-  21 [跑搜索套利search【数据截图】](https://www.advertcn.com/thread-114396-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
