@@ -25,7 +25,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  20 [这两个vps能看得出哪个硬件强点吗？](https://www.advertcn.com/thread-114397-1-1.html)<!-- advertcn3:END -->
+-  20 [这两个vps能看得出哪个硬件强点吗？](https://www.advertcn.com/thread-114397-1-1.html)
+-  20 [代理黑返点？](https://www.advertcn.com/thread-114393-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
