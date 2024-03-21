@@ -58,5 +58,4 @@
 -  21 [新玩意 175｜少数派的编辑们最近买了啥？](https://sspai.com/post/87432)
 -  21 [从动机错位入手：快消内容戒除方法谈](https://sspai.com/post/86260)
 -  21 [预告 | 少数派共创产品分享会即将召开，一起开启 iPhone 效率新世代](https://sspai.com/post/87409)
--  21 [派早报：NVIDIA 尝试借助 AI 提高游戏 NPC 的表现、比亚迪京东自营旗舰店上线等](https://sspai.com/post/87418)
--  20 [浅谈 AI 工具的性价比评估思路](https://sspai.com/prime/story/ai-tools-eval)<!-- sspai:END -->
+-  21 [派早报：NVIDIA 尝试借助 AI 提高游戏 NPC 的表现、比亚迪京东自营旗舰店上线等](https://sspai.com/post/87418)<!-- sspai:END -->
