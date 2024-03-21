@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  20 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  20 [Track and Rip Protected Landing pages, When spytools Fail to!!](https://afflift.com/f/threads/track-and-rip-protected-landing-pages-when-spytools-fail-to.10006/)
 -  20 [💬 “Share on WhatsApp” Popup for Landing Pages](https://afflift.com/f/threads/%F0%9F%92%AC-%E2%80%9Cshare-on-whatsapp%E2%80%9D-popup-for-landing-pages.12819/)
@@ -47,8 +48,7 @@
 -  20 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  20 [WebsiteID has stopped sending traffic in PopAds](https://afflift.com/f/threads/websiteid-has-stopped-sending-traffic-in-popads.12814/)
 -  20 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
--  20 [affLift logo in BTC network?](https://afflift.com/f/threads/afflift-logo-in-btc-network.12816/)
--  20 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)<!-- afflift:END -->
+-  20 [affLift logo in BTC network?](https://afflift.com/f/threads/afflift-logo-in-btc-network.12816/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
