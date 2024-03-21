@@ -21,7 +21,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  20 [半年多的英文站还是个位数ip ，可以扔了吧](https://www.advertcn.com/thread-114388-1-1.html)<!-- advertcn2:END -->
+-  21 [油管发视频赚钱了，月入万刀，想学的进](https://www.advertcn.com/thread-114401-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
