@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
+-  21 [How to reach your first $10/day campaign almost GUARANTEED](https://afflift.com/f/threads/how-to-reach-your-first-10-day-campaign-almost-guaranteed.7430/)
 -  21 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  21 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  21 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
@@ -49,9 +51,7 @@
 -  21 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  21 [Return to Form: Back in the Game, Back to Gain](https://afflift.com/f/threads/return-to-form-back-in-the-game-back-to-gain.12818/)
 -  21 [Very happy to join afflift, hello everyone](https://afflift.com/f/threads/very-happy-to-join-afflift-hello-everyone.12825/)
--  21 [CryptoWins $10,000 affiliate contest!](https://afflift.com/f/threads/cryptowins-10-000-affiliate-contest.12844/)
--  21 [Do MB offers work well with pops?](https://afflift.com/f/threads/do-mb-offers-work-well-with-pops.12843/)
--  21 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
+-  21 [CryptoWins $10,000 affiliate contest!](https://afflift.com/f/threads/cryptowins-10-000-affiliate-contest.12844/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
