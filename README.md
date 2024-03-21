@@ -52,8 +52,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [派早报：NVIDIA 尝试借助 AI 提高游戏 NPC 的表现、比亚迪京东自营旗舰店上线等](https://sspai.com/post/87418)
 -  20 [浅谈 AI 工具的性价比评估思路](https://sspai.com/prime/story/ai-tools-eval)
 -  20 [在梦里成为「新造的人」，10 部影片带你探索梦的世界](https://sspai.com/post/87131)
 -  20 [水獭派对 | 高效办公，畅快摸鱼，给你的鼠标升个级](https://sspai.com/post/87403)
--  20 [他山之石，漫谈日本城市垃圾处理制度](https://sspai.com/post/86734)
--  20 [基于思源笔记的博客写作、管理和分发流程](https://sspai.com/post/87171)<!-- sspai:END -->
+-  20 [他山之石，漫谈日本城市垃圾处理制度](https://sspai.com/post/86734)<!-- sspai:END -->
