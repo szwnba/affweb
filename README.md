@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  28 [华为云沃土云创计划和初创计划最少领取5000元代金券](https://51.ruyo.net/18617.html)<!-- ruyo:END -->
+-  21 [Dynu免费提供DDNS服务，免费提供13个子域名可选](https://51.ruyo.net/18625.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
