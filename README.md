@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [It&#39;s a pleasure to join afflift,hello everyone~](https://afflift.com/f/threads/its-a-pleasure-to-join-afflift-hello-everyone.12821/)
 -  22 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  22 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  22 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
@@ -51,8 +52,7 @@
 -  21 [ProPush vs RollerAds - Gimme The Popcorn...](https://afflift.com/f/threads/propush-vs-rollerads-gimme-the-popcorn.12802/)
 -  21 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  21 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  21 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
--  21 [🚀🚀 Push Database Building For Adsense Arbitrage 🔥🔥](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%9A%80-push-database-building-for-adsense-arbitrage-%F0%9F%94%A5%F0%9F%94%A5.12824/)<!-- afflift:END -->
+-  21 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
