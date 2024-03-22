@@ -17,6 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  22 [面对黒五何去何从](https://www.advertcn.com/thread-114417-1-1.html)
+-  22 [新人报道 知道的太晚了](https://www.advertcn.com/thread-114413-1-1.html)
 -  22 [再来一贴做下任务](https://www.advertcn.com/thread-114412-1-1.html)
 -  22 [如何在Shopify上管理多个店铺且不会产生关联？](https://www.advertcn.com/thread-114410-1-1.html)
 -  21 [禁！建议细读！TikTok禁止投放的行业](https://www.advertcn.com/thread-114406-1-1.html)
