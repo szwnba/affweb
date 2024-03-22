@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  22 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  22 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  22 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
@@ -50,8 +51,7 @@
 -  21 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  21 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  21 [Binom v2 Help](https://afflift.com/f/threads/binom-v2-help.12511/)
--  21 [🚀🚀 Push Database Building For Adsense Arbitrage 🔥🔥](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%9A%80-push-database-building-for-adsense-arbitrage-%F0%9F%94%A5%F0%9F%94%A5.12824/)
--  21 [【Jumbleberry】Top converting US/EU ME/ CBD / Keto Offers - These offers will skyrocket your EPC](https://afflift.com/f/threads/%E3%80%90jumbleberry%E3%80%91top-converting-us-eu-me-cbd-keto-offers-these-offers-will-skyrocket-your-epc.12642/)<!-- afflift:END -->
+-  21 [🚀🚀 Push Database Building For Adsense Arbitrage 🔥🔥](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%9A%80-push-database-building-for-adsense-arbitrage-%F0%9F%94%A5%F0%9F%94%A5.12824/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
