@@ -22,8 +22,7 @@
 -  21 [禁！建议细读！TikTok禁止投放的行业](https://www.advertcn.com/thread-114406-1-1.html)
 -  21 [急！Facebook广告投放账户受限？](https://www.advertcn.com/thread-114405-1-1.html)
 -  21 [史上最全Google购物广告大解析！！速速查看](https://www.advertcn.com/thread-114404-1-1.html)
--  21 [村里又来新人了](https://www.advertcn.com/thread-114402-1-1.html)
--  21 [10个热门离岸公司注册地详细解析！](https://www.advertcn.com/thread-114400-1-1.html)<!-- advertcn1:END -->
+-  21 [村里又来新人了](https://www.advertcn.com/thread-114402-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
