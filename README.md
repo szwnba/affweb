@@ -28,6 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  22 [早该把宝塔扔了，换了CyberPanel+LiteSpeed Cache确实快！~](https://www.advertcn.com/thread-114427-1-1.html)
 -  22 [面对黑5何去何从](https://www.advertcn.com/thread-114416-1-1.html)
 -  22 [装个vps系统，遇到了一个很神奇的问题，有看得懂的吗？](https://www.advertcn.com/thread-114414-1-1.html)<!-- advertcn3:END -->
 
