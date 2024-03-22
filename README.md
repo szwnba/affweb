@@ -17,16 +17,10 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  22 [源头粉（刷点赞，评论，关注，播放量，订阅者）](https://www.advertcn.com/thread-114423-1-1.html)
--  22 [引流推广，刷点赞，评论，刷播放量，关注水军等](https://www.advertcn.com/thread-114421-1-1.html)
--  22 [引流+精准推广+营销形象打造](https://www.advertcn.com/thread-114420-1-1.html)
--  22 [引流+精准推广+营销形象打造](https://www.advertcn.com/thread-114419-1-1.html)
 -  22 [哪些行为会导致Instagram 封号？如何避免封号？](https://www.advertcn.com/thread-114418-1-1.html)
--  22 [面对黒五何去何从](https://www.advertcn.com/thread-114417-1-1.html)
 -  22 [新人报道 知道的太晚了](https://www.advertcn.com/thread-114413-1-1.html)
 -  22 [再来一贴做下任务](https://www.advertcn.com/thread-114412-1-1.html)
--  22 [如何在Shopify上管理多个店铺且不会产生关联？](https://www.advertcn.com/thread-114410-1-1.html)
--  21 [禁！建议细读！TikTok禁止投放的行业](https://www.advertcn.com/thread-114406-1-1.html)<!-- advertcn1:END -->
+-  22 [如何在Shopify上管理多个店铺且不会产生关联？](https://www.advertcn.com/thread-114410-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
