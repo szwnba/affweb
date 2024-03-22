@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  22 [如何在Shopify上管理多个店铺且不会产生关联？](https://www.advertcn.com/thread-114410-1-1.html)
 -  21 [禁！建议细读！TikTok禁止投放的行业](https://www.advertcn.com/thread-114406-1-1.html)
 -  21 [急！Facebook广告投放账户受限？](https://www.advertcn.com/thread-114405-1-1.html)
 -  21 [史上最全Google购物广告大解析！！速速查看](https://www.advertcn.com/thread-114404-1-1.html)
