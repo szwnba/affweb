@@ -61,5 +61,4 @@
 <!-- sspai:START -->
 -  22 [另辟蹊「径」，看操作系统的发展](https://sspai.com/post/86642)
 -  22 [派早报：微软发布两款新品、美司法部指控 Apple 在手机市场涉嫌非法垄断](https://sspai.com/post/87446)
--  21 [新玩意 175｜少数派的编辑们最近买了啥？](https://sspai.com/post/87432)
--  21 [从动机错位入手：快消内容戒除方法谈](https://sspai.com/post/86260)<!-- sspai:END -->
+-  21 [新玩意 175｜少数派的编辑们最近买了啥？](https://sspai.com/post/87432)<!-- sspai:END -->
