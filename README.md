@@ -42,13 +42,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  22 [It&#39;s a pleasure to join afflift,hello everyone~](https://afflift.com/f/threads/its-a-pleasure-to-join-afflift-hello-everyone.12821/)
 -  22 [Very happy to join afflift, hello everyone](https://afflift.com/f/threads/very-happy-to-join-afflift-hello-everyone.12825/)
 -  22 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  22 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  22 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  22 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
--  22 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  21 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
 -  21 [affLift logo in BTC network?](https://afflift.com/f/threads/afflift-logo-in-btc-network.12816/)
 -  21 [ProPush vs RollerAds - Gimme The Popcorn...](https://afflift.com/f/threads/propush-vs-rollerads-gimme-the-popcorn.12802/)
