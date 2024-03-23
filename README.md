@@ -36,9 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)
+-  23 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
 -  23 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  23 [Custom Conversion Script](https://afflift.com/f/threads/custom-conversion-script.12849/)
--  23 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
 -  23 [Scratcher](https://afflift.com/f/threads/scratcher.12856/)
 -  23 [Scaling a Profitable Funnel from Propeller to Galaksion &amp; Adsterra](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-galaksion-adsterra.12855/)
 -  23 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
@@ -46,8 +47,7 @@
 -  23 [Make Bridge page as a cpa offer](https://afflift.com/f/threads/make-bridge-page-as-a-cpa-offer.12850/)
 -  23 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
 -  23 [Wid&#39;s mVAS Follow Along #2024](https://afflift.com/f/threads/wids-mvas-follow-along-2024.12822/)
--  23 [New Year Monetization Offer from RollerAds](https://afflift.com/f/threads/new-year-monetization-offer-from-rollerads.12279/)
--  23 [START HERE - Survey Pops - The Intermediate Guide](https://afflift.com/f/threads/start-here-survey-pops-the-intermediate-guide.7471/)<!-- afflift:END -->
+-  23 [New Year Monetization Offer from RollerAds](https://afflift.com/f/threads/new-year-monetization-offer-from-rollerads.12279/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
