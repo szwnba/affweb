@@ -56,5 +56,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  22 [本周看什么 | 最近值得一看的一大柜作品](https://sspai.com/post/87471)
--  22 [在全平台同步阅读与笔记：以 Kindle、思源笔记与纸间书摘为例](https://sspai.com/post/87401)
--  22 [另辟蹊「径」，看操作系统的发展](https://sspai.com/post/86642)<!-- sspai:END -->
+-  22 [在全平台同步阅读与笔记：以 Kindle、思源笔记与纸间书摘为例](https://sspai.com/post/87401)<!-- sspai:END -->
