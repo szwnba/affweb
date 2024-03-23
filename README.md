@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  23 [新人报道贴](https://www.advertcn.com/thread-114430-1-1.html)
 -  22 [哪些行为会导致Instagram 封号？如何避免封号？](https://www.advertcn.com/thread-114418-1-1.html)
 -  22 [新人报道 知道的太晚了](https://www.advertcn.com/thread-114413-1-1.html)
 -  22 [再来一贴做下任务](https://www.advertcn.com/thread-114412-1-1.html)<!-- advertcn1:END -->
