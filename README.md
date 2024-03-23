@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  23 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  23 [It&#39;s a pleasure to join afflift,hello everyone~](https://afflift.com/f/threads/its-a-pleasure-to-join-afflift-hello-everyone.12821/)
 -  23 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
@@ -51,8 +52,7 @@
 -  22 [March PropellerAds Promo Codes 2024](https://afflift.com/f/threads/march-propellerads-promo-codes-2024.12746/)
 -  22 [New Affiliate Opportunity!](https://afflift.com/f/threads/new-affiliate-opportunity.12002/)
 -  22 [Very happy to join afflift, hello everyone](https://afflift.com/f/threads/very-happy-to-join-afflift-hello-everyone.12825/)
--  22 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
--  22 [Profitable Bundle: 65,47% ROI on Cryptomania Offer with Galaksion Popunder](https://afflift.com/f/threads/profitable-bundle-65-47-roi-on-cryptomania-offer-with-galaksion-popunder.12852/)<!-- afflift:END -->
+-  22 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
