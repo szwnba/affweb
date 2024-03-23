@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
 -  23 [How to download thousands of landing pages for free!](https://afflift.com/f/threads/how-to-download-thousands-of-landing-pages-for-free.12544/)
 -  23 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
 -  23 [It&#39;s a pleasure to join afflift,hello everyone~](https://afflift.com/f/threads/its-a-pleasure-to-join-afflift-hello-everyone.12821/)
@@ -46,8 +47,7 @@
 -  23 [Scratcher](https://afflift.com/f/threads/scratcher.12856/)
 -  23 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  23 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
--  23 [Make Bridge page as a cpa offer](https://afflift.com/f/threads/make-bridge-page-as-a-cpa-offer.12850/)
--  23 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)<!-- afflift:END -->
+-  23 [Make Bridge page as a cpa offer](https://afflift.com/f/threads/make-bridge-page-as-a-cpa-offer.12850/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
