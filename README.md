@@ -36,8 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  23 [Scaling a Profitable Funnel from Propeller to Galaksion &amp; Adsterra](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-galaksion-adsterra.12855/)
+-  23 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  23 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
 -  23 [Make Bridge page as a cpa offer](https://afflift.com/f/threads/make-bridge-page-as-a-cpa-offer.12850/)
 -  23 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
