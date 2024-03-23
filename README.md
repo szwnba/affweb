@@ -37,6 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
+-  23 [Scaling a Profitable Funnel from Propeller to Galaksion &amp; Adsterra](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-galaksion-adsterra.12855/)
+-  23 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
+-  23 [Make Bridge page as a cpa offer](https://afflift.com/f/threads/make-bridge-page-as-a-cpa-offer.12850/)
 -  23 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
 -  23 [Wid&#39;s mVAS Follow Along #2024](https://afflift.com/f/threads/wids-mvas-follow-along-2024.12822/)
 -  23 [New Year Monetization Offer from RollerAds](https://afflift.com/f/threads/new-year-monetization-offer-from-rollerads.12279/)
@@ -44,11 +48,7 @@
 -  23 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)
 -  23 [Step 7 - Add Landing Pages to BeMob](https://afflift.com/f/threads/step-7-add-landing-pages-to-bemob.7478/)
 -  23 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  23 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
--  23 [🔥 All Your Landing Problems End Here🔥 🤑 Landing Page Rip-Clean Service](https://afflift.com/f/threads/%F0%9F%94%A5-all-your-landing-problems-end-here%F0%9F%94%A5-%F0%9F%A4%91-landing-page-rip-clean-service.12853/)
--  23 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  23 [It&#39;s a pleasure to join afflift,hello everyone~](https://afflift.com/f/threads/its-a-pleasure-to-join-afflift-hello-everyone.12821/)
--  23 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)<!-- afflift:END -->
+-  23 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
