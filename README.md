@@ -55,5 +55,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [表现有待完善，体验瑕不掩瑜：话题性新游《龙之信条 2》好玩在哪](https://sspai.com/post/87438)
 -  22 [本周看什么 | 最近值得一看的一大柜作品](https://sspai.com/post/87471)
 -  22 [在全平台同步阅读与笔记：以 Kindle、思源笔记与纸间书摘为例](https://sspai.com/post/87401)<!-- sspai:END -->
