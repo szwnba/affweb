@@ -53,4 +53,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [2023 年度征文获奖结果公布](https://sspai.com/post/87503)
 -  24 [复古机身、胶片模拟以及高溢价：聊聊富士 X100 VI](https://sspai.com/post/87501)<!-- sspai:END -->
