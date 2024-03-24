@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Return to Form: Back in the Game, Back to Gain](https://afflift.com/f/threads/return-to-form-back-in-the-game-back-to-gain.12818/)
+-  24 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  24 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
 -  24 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
 -  24 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
@@ -46,9 +48,7 @@
 -  23 [Scaling a Profitable Funnel from Propeller to Galaksion &amp; Adsterra](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-galaksion-adsterra.12855/)
 -  23 [How to download thousands of landing pages for free!](https://afflift.com/f/threads/how-to-download-thousands-of-landing-pages-for-free.12544/)
 -  23 [It&#39;s a pleasure to join afflift,hello everyone~](https://afflift.com/f/threads/its-a-pleasure-to-join-afflift-hello-everyone.12821/)
--  23 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)
--  23 [Custom Conversion Script](https://afflift.com/f/threads/custom-conversion-script.12849/)
--  23 [Scratcher](https://afflift.com/f/threads/scratcher.12856/)<!-- afflift:END -->
+-  23 [PropellerAds: S2S sales tracking for SaaS sites [with JS]](https://afflift.com/f/threads/propellerads-s2s-sales-tracking-for-saas-sites-with-js.12381/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
