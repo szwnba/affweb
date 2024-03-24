@@ -39,9 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
--  24 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
 -  24 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  24 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
+-  24 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
+-  24 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
 -  24 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  24 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  24 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
@@ -49,8 +50,7 @@
 -  24 [Chris&#39; Journey](https://afflift.com/f/threads/chris-journey.12859/)
 -  24 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  24 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
--  24 [Hello everyone, I&#39;m from Italy](https://afflift.com/f/threads/hello-everyone-im-from-italy.10595/)
--  24 [How to bypass Cloaking?](https://afflift.com/f/threads/how-to-bypass-cloaking.11714/)<!-- afflift:END -->
+-  24 [Hello everyone, I&#39;m from Italy](https://afflift.com/f/threads/hello-everyone-im-from-italy.10595/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
