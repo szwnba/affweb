@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  24 [Hello everyone, I&#39;m from Italy](https://afflift.com/f/threads/hello-everyone-im-from-italy.10595/)
 -  24 [How to bypass Cloaking?](https://afflift.com/f/threads/how-to-bypass-cloaking.11714/)
 -  24 [Return to Form: Back in the Game, Back to Gain](https://afflift.com/f/threads/return-to-form-back-in-the-game-back-to-gain.12818/)
@@ -48,8 +49,7 @@
 -  24 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
 -  24 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  23 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
--  23 [Scaling a Profitable Funnel from Propeller to Galaksion &amp; Adsterra](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-galaksion-adsterra.12855/)
--  23 [How to download thousands of landing pages for free!](https://afflift.com/f/threads/how-to-download-thousands-of-landing-pages-for-free.12544/)<!-- afflift:END -->
+-  23 [Scaling a Profitable Funnel from Propeller to Galaksion &amp; Adsterra](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-galaksion-adsterra.12855/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
