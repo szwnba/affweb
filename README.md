@@ -38,8 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
 -  24 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  24 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
 -  24 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  24 [Hello everyone, I&#39;m from Italy](https://afflift.com/f/threads/hello-everyone-im-from-italy.10595/)
 -  24 [How to bypass Cloaking?](https://afflift.com/f/threads/how-to-bypass-cloaking.11714/)
