@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  24 [谁需要发布安卓平台APP？我帮你发，免费](https://www.advertcn.com/thread-114435-1-1.html)
+-  24 [谁需要发布安卓平台APP？我用开发者账号帮你发，免费](https://www.advertcn.com/thread-114435-1-1.html)
 -  23 [请问：出海 、 跨境 、 外贸 、 怎么做私域的？](https://www.advertcn.com/thread-114434-1-1.html)<!-- advertcn3:END -->
 
 
