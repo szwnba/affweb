@@ -39,9 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
+-  24 [Chris&#39; Journey](https://afflift.com/f/threads/chris-journey.12859/)
 -  24 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  24 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
--  24 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  24 [Hello everyone, I&#39;m from Italy](https://afflift.com/f/threads/hello-everyone-im-from-italy.10595/)
 -  24 [How to bypass Cloaking?](https://afflift.com/f/threads/how-to-bypass-cloaking.11714/)
 -  24 [Return to Form: Back in the Game, Back to Gain](https://afflift.com/f/threads/return-to-form-back-in-the-game-back-to-gain.12818/)
@@ -49,8 +50,7 @@
 -  24 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
 -  24 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  24 [High Quality Pushpop Traffic For Thailand Gambling Or In General?](https://afflift.com/f/threads/high-quality-pushpop-traffic-for-thailand-gambling-or-in-general.12706/)
--  24 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  23 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)<!-- afflift:END -->
+-  24 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
