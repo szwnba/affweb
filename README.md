@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  23 [表现有待完善，体验瑕不掩瑜：话题性新游《龙之信条 2》好玩在哪](https://sspai.com/post/87438)<!-- sspai:END -->
+-  24 [复古机身、胶片模拟以及高溢价：聊聊富士 X100 VI](https://sspai.com/post/87501)<!-- sspai:END -->
