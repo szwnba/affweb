@@ -55,6 +55,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [与 Google Pixel 在日本的 169 天：Pixel Fold 是「精致败类」吗？](https://sspai.com/post/87344)
 -  25 [UCG 评测 |「幻水」之韵，在此新生：《百英雄传》先行体验报告](https://sspai.com/post/87422)
--  25 [派早报：库克称 Vision Pro 年内中国上市，持续加大在华研发投资](https://sspai.com/post/87535)
--  24 [2023 年度征文获奖结果公布](https://sspai.com/post/87503)<!-- sspai:END -->
+-  25 [派早报：库克称 Vision Pro 年内中国上市，持续加大在华研发投资](https://sspai.com/post/87535)<!-- sspai:END -->
