@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
+-  25 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
 -  25 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)
 -  25 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  25 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
@@ -48,9 +50,7 @@
 -  25 [Chris&#39; Simple Follow Along](https://afflift.com/f/threads/chris-simple-follow-along.12859/)
 -  25 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  25 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  25 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
--  25 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
+-  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
