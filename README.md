@@ -39,10 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
 -  25 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  25 [“The Way” to Learn Campaign Optimization](https://afflift.com/f/threads/%E2%80%9Cthe-way%E2%80%9D-to-learn-campaign-optimization.8749/)
 -  25 [Chris&#39; Simple Follow Along](https://afflift.com/f/threads/chris-simple-follow-along.12859/)
--  25 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
 -  25 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  25 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
