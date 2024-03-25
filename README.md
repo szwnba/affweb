@@ -28,8 +28,7 @@
 <!-- advertcn3:START -->
 -  25 [我有推特流量，你有什么项目可以合作的来](https://www.advertcn.com/thread-114444-1-1.html)
 -  24 [联盟程序自动化有哪个大佬在跑zennoposter](https://www.advertcn.com/thread-114438-1-1.html)
--  24 [谷歌投放reviews广告提示点击诱导](https://www.advertcn.com/thread-114437-1-1.html)
--  24 [TK余额户有多余的转让](https://www.advertcn.com/thread-114436-1-1.html)<!-- advertcn3:END -->
+-  24 [谷歌投放reviews广告提示点击诱导](https://www.advertcn.com/thread-114437-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
