@@ -54,5 +54,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  25 [派早报：库克称 Vision Pro 年内中国上市，持续加大在华研发投资](https://sspai.com/post/87535)
--  24 [2023 年度征文获奖结果公布](https://sspai.com/post/87503)
--  24 [复古机身、胶片模拟以及高溢价：聊聊富士 X100 VI](https://sspai.com/post/87501)<!-- sspai:END -->
+-  24 [2023 年度征文获奖结果公布](https://sspai.com/post/87503)<!-- sspai:END -->
