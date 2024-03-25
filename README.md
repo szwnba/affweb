@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
+-  25 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
 -  25 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  25 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
 -  25 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
@@ -49,9 +51,7 @@
 -  25 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
 -  25 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  25 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  25 [Hello everyone from AnyBill :&rpar;](https://afflift.com/f/threads/hello-everyone-from-anybill.12864/)
--  25 [New Year Monetization Offer from RollerAds](https://afflift.com/f/threads/new-year-monetization-offer-from-rollerads.12279/)
--  25 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)<!-- afflift:END -->
+-  25 [Hello everyone from AnyBill :&rpar;](https://afflift.com/f/threads/hello-everyone-from-anybill.12864/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
