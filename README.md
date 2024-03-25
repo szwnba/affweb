@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  23 [新人报道贴](https://www.advertcn.com/thread-114430-1-1.html)<!-- advertcn1:END -->
+-  25 [贸易天堂！避税之都！在富得流油的迪拜怎么开公司？](https://www.advertcn.com/thread-114440-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
