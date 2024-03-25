@@ -27,8 +27,7 @@
 <!-- advertcn3:START -->
 -  24 [联盟程序自动化有哪个大佬在跑zennoposter](https://www.advertcn.com/thread-114438-1-1.html)
 -  24 [谷歌投放reviews广告提示点击诱导](https://www.advertcn.com/thread-114437-1-1.html)
--  24 [TK余额户有多余的转让](https://www.advertcn.com/thread-114436-1-1.html)
--  24 [谁需要发布安卓平台APP？我用开发者账号帮你发，免费](https://www.advertcn.com/thread-114435-1-1.html)<!-- advertcn3:END -->
+-  24 [TK余额户有多余的转让](https://www.advertcn.com/thread-114436-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
