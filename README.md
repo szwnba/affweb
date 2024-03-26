@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等](https://sspai.com/post/87554)
 -  25 [派评 | 近期值得关注的 App](https://sspai.com/post/87546)
 -  25 [与 Google Pixel 在日本的 169 天：Pixel Fold 是「精致败类」吗？](https://sspai.com/post/87344)
 -  25 [UCG 评测 |「幻水」之韵，在此新生：《百英雄传》先行体验报告](https://sspai.com/post/87422)<!-- sspai:END -->
