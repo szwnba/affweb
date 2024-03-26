@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [深度体验一年之后，我爱上了 Apple Fitness+](https://sspai.com/post/87413)
 -  26 [众测 |「先」声夺人：第三期先享体验计划，Bose Ultra 开放式耳机众测开启](https://sspai.com/post/86965)
 -  26 [派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等](https://sspai.com/post/87554)
 -  25 [派评 | 近期值得关注的 App](https://sspai.com/post/87546)<!-- sspai:END -->
