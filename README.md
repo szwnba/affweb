@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  26 [Golden Goose &quot;additional advertiser check&quot;](https://afflift.com/f/threads/golden-goose-additional-advertiser-check.12872/)
 -  26 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)
 -  26 [【Jumbleberry】Top converting US/EU ME/ CBD / Keto Offers - These offers will skyrocket your EPC](https://afflift.com/f/threads/%E3%80%90jumbleberry%E3%80%91top-converting-us-eu-me-cbd-keto-offers-these-offers-will-skyrocket-your-epc.12642/)
@@ -49,8 +50,7 @@
 -  26 [Hello everyone from AnyBill :&rpar;](https://afflift.com/f/threads/hello-everyone-from-anybill.12864/)
 -  26 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  26 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
--  26 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
--  26 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
+-  26 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
