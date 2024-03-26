@@ -27,8 +27,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  26 [Facebook产品更新|有关违规内容政策的广告功能限制](https://www.advertcn.com/thread-114465-1-1.html)
--  25 [30万集抖音狗血短剧连环套式三次变现（卖剧，网盘拉新，...](https://www.advertcn.com/thread-114458-1-1.html)<!-- advertcn3:END -->
+-  26 [本人一直在使用的指纹浏览器 永久免费版稳定不限制窗口](https://www.advertcn.com/thread-114467-1-1.html)
+-  26 [Facebook产品更新|有关违规内容政策的广告功能限制](https://www.advertcn.com/thread-114465-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
