@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [【Jumbleberry】Top converting US/EU ME/ CBD / Keto Offers - These offers will skyrocket your EPC](https://afflift.com/f/threads/%E3%80%90jumbleberry%E3%80%91top-converting-us-eu-me-cbd-keto-offers-these-offers-will-skyrocket-your-epc.12642/)
 -  26 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  26 [Cost Problem with Propellerads in Bemob](https://afflift.com/f/threads/cost-problem-with-propellerads-in-bemob.12865/)
 -  26 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)
@@ -49,8 +50,7 @@
 -  26 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
 -  26 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  26 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  26 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)
--  26 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)<!-- afflift:END -->
+-  26 [Could have earned $xxx,xxx before college...](https://afflift.com/f/threads/could-have-earned-xxx-xxx-before-college.11374/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
