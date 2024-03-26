@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Discovering High Conversion, Quick Result Affiliate Programs](https://afflift.com/f/threads/discovering-high-conversion-quick-result-affiliate-programs.12870/)
+-  26 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  26 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  26 [Golden Goose &quot;additional advertiser check&quot;](https://afflift.com/f/threads/golden-goose-additional-advertiser-check.12872/)
 -  26 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)
@@ -48,9 +50,7 @@
 -  26 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)
 -  26 [Hello everyone, I&#39;m from Italy](https://afflift.com/f/threads/hello-everyone-im-from-italy.10595/)
 -  26 [Hello everyone from AnyBill :&rpar;](https://afflift.com/f/threads/hello-everyone-from-anybill.12864/)
--  26 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  26 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
--  26 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)<!-- afflift:END -->
+-  26 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
