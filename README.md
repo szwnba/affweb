@@ -39,6 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  26 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
+-  26 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
+-  26 [Smart Surveys from ZeyDoo](https://afflift.com/f/threads/smart-surveys-from-zeydoo.10505/)
 -  26 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
 -  26 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)
 -  26 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
@@ -46,11 +50,7 @@
 -  26 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
 -  26 [💡Huge Traffic Opportunities - April Sports!](https://afflift.com/f/threads/%F0%9F%92%A1huge-traffic-opportunities-april-sports.12869/)
 -  26 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
--  26 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  26 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
--  26 [“The Way” to Learn Campaign Optimization](https://afflift.com/f/threads/%E2%80%9Cthe-way%E2%80%9D-to-learn-campaign-optimization.8749/)
--  26 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
--  26 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)<!-- afflift:END -->
+-  26 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
