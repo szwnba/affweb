@@ -17,7 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  25 [滴！干货来喽！Facebook广告账户介绍！！](https://www.advertcn.com/thread-114445-1-1.html)<!-- advertcn1:END -->
+-  26 [外贸大佬都青睐的BVI公司到底有什么优势？](https://www.advertcn.com/thread-114463-1-1.html)
+-  26 [新人报道贴](https://www.advertcn.com/thread-114462-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
