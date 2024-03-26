@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
+-  25 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  25 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
 -  25 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
 -  25 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)
@@ -48,9 +50,7 @@
 -  25 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  25 [“The Way” to Learn Campaign Optimization](https://afflift.com/f/threads/%E2%80%9Cthe-way%E2%80%9D-to-learn-campaign-optimization.8749/)
 -  25 [Chris&#39; Simple Follow Along](https://afflift.com/f/threads/chris-simple-follow-along.12859/)
--  25 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  25 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  25 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  25 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
