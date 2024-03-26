@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  26 [做Google Cash项目，Facebook广告需要的工具和服务](https://www.advertcn.com/thread-114464-1-1.html)
 -  26 [外贸大佬都青睐的BVI公司到底有什么优势？](https://www.advertcn.com/thread-114463-1-1.html)
 -  26 [新人报道贴](https://www.advertcn.com/thread-114462-1-1.html)<!-- advertcn1:END -->
 
