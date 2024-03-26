@@ -41,6 +41,8 @@
 ### afflift
 <!-- afflift:START -->
 -  26 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  26 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)
+-  26 [Chris&#39; Simple Follow Along](https://afflift.com/f/threads/chris-simple-follow-along.12859/)
 -  26 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  26 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  26 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
@@ -49,9 +51,7 @@
 -  25 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
 -  25 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
 -  25 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)
--  25 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
--  25 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  25 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)<!-- afflift:END -->
+-  25 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
