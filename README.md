@@ -23,7 +23,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  21 [油管发视频赚钱了，月入万刀，想学的进](https://www.advertcn.com/thread-114401-1-1.html)<!-- advertcn2:END -->
+-  26 [能后台提供epc，cr等数据的新手友好联盟有哪些？](https://www.advertcn.com/thread-114470-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
