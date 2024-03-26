@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  26 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)
+-  26 [Journey to building my own Email List with Casino Offers &lpar;Push2Email2Offer&rpar;](https://afflift.com/f/threads/journey-to-building-my-own-email-list-with-casino-offers-push2email2offer.12696/)
+-  26 [💡Huge Traffic Opportunities - April Sports!](https://afflift.com/f/threads/%F0%9F%92%A1huge-traffic-opportunities-april-sports.12869/)
+-  26 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
+-  26 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  26 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  26 [MyBid - We convert our traffic into Your leads!](https://afflift.com/f/threads/mybid-we-convert-our-traffic-into-your-leads.9262/)
+-  26 [“The Way” to Learn Campaign Optimization](https://afflift.com/f/threads/%E2%80%9Cthe-way%E2%80%9D-to-learn-campaign-optimization.8749/)
+-  26 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
+-  26 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)
 -  26 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
 -  26 [Chris&#39; Simple Follow Along](https://afflift.com/f/threads/chris-simple-follow-along.12859/)
--  26 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
--  26 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  26 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  26 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
--  25 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  25 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
--  25 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
--  25 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)<!-- afflift:END -->
+-  26 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
