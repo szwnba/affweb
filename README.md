@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  26 [众测 |「先」声夺人：第三期先享体验计划，Bose Ultra 开放式耳机众测开启](https://sspai.com/post/86965)
 -  26 [派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等](https://sspai.com/post/87554)
--  25 [派评 | 近期值得关注的 App](https://sspai.com/post/87546)
--  25 [与 Google Pixel 在日本的 169 天：Pixel Fold 是「精致败类」吗？](https://sspai.com/post/87344)<!-- sspai:END -->
+-  25 [派评 | 近期值得关注的 App](https://sspai.com/post/87546)<!-- sspai:END -->
