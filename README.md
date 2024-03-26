@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [💬 “Share on WhatsApp” Popup for Landing Pages](https://afflift.com/f/threads/%F0%9F%92%AC-%E2%80%9Cshare-on-whatsapp%E2%80%9D-popup-for-landing-pages.12819/)
 -  26 [Discovering High Conversion, Quick Result Affiliate Programs](https://afflift.com/f/threads/discovering-high-conversion-quick-result-affiliate-programs.12870/)
 -  26 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  26 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
@@ -49,8 +50,7 @@
 -  26 [Cost Problem with Propellerads in Bemob](https://afflift.com/f/threads/cost-problem-with-propellerads-in-bemob.12865/)
 -  26 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)
 -  26 [Hello everyone, I&#39;m from Italy](https://afflift.com/f/threads/hello-everyone-im-from-italy.10595/)
--  26 [Hello everyone from AnyBill :&rpar;](https://afflift.com/f/threads/hello-everyone-from-anybill.12864/)
--  26 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)<!-- afflift:END -->
+-  26 [Hello everyone from AnyBill :&rpar;](https://afflift.com/f/threads/hello-everyone-from-anybill.12864/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
