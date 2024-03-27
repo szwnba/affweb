@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
 -  27 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
 -  27 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! March 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-march-2024.12873/)
 -  27 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
@@ -49,8 +50,7 @@
 -  26 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  26 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  26 [Golden Goose &quot;additional advertiser check&quot;](https://afflift.com/f/threads/golden-goose-additional-advertiser-check.12872/)
--  26 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)
--  26 [【Jumbleberry】Top converting US/EU ME/ CBD / Keto Offers - These offers will skyrocket your EPC](https://afflift.com/f/threads/%E3%80%90jumbleberry%E3%80%91top-converting-us-eu-me-cbd-keto-offers-these-offers-will-skyrocket-your-epc.12642/)<!-- afflift:END -->
+-  26 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
