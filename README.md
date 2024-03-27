@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  27 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  27 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
+-  27 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  27 [CPV Lab Pro - Track, Test and Optimize All of Your Marketing](https://afflift.com/f/threads/cpv-lab-pro-track-test-and-optimize-all-of-your-marketing.3912/)
+-  27 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  27 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  27 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)
 -  27 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
 -  27 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
 -  27 [Adcash 101 for Beginners: Here’s how to make money!](https://afflift.com/f/threads/adcash-101-for-beginners-here%E2%80%99s-how-to-make-money.12874/)
--  27 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
--  27 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  27 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
--  27 [Golden Goose &quot;additional advertiser check&quot;](https://afflift.com/f/threads/golden-goose-additional-advertiser-check.12872/)
--  27 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
--  27 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
--  27 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! March 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-march-2024.12873/)<!-- afflift:END -->
+-  27 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
