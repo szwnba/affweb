@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  27 [“波罗的海之虎”爱沙尼亚公司注册指南](https://www.advertcn.com/thread-114475-1-1.html)
--  26 [做Google Cash项目，Facebook广告需要的工具和服务](https://www.advertcn.com/thread-114464-1-1.html)<!-- advertcn1:END -->
+-  27 [“波罗的海之虎”爱沙尼亚公司注册指南](https://www.advertcn.com/thread-114475-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
