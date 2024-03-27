@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  21 [Dynu免费提供DDNS服务，免费提供13个子域名可选](https://51.ruyo.net/18625.html)<!-- ruyo:END -->
+-  27 [微软Azure订阅如何添加超级协助管理账号](https://51.ruyo.net/18629.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
