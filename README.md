@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  27 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
+-  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  27 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
+-  27 [Honor AdTech Trailblazers: World AdTech Day Is Here!](https://afflift.com/f/threads/honor-adtech-trailblazers-world-adtech-day-is-here.12877/)
 -  27 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
 -  27 [Never too late-Important in participation, 💰unimportant in losses and gains.🤑](https://afflift.com/f/threads/never-too-late-important-in-participation-%F0%9F%92%B0unimportant-in-losses-and-gains-%F0%9F%A4%91.12861/)
 -  27 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
--  27 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
 -  27 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! March 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-march-2024.12873/)
 -  27 [How Do Affiliates Use Push Notifications and Pop Ads to Promote Gambling Offers in 2024? Analyzing the Best Ad Creatives and Landing Pages](https://afflift.com/f/threads/how-do-affiliates-use-push-notifications-and-pop-ads-to-promote-gambling-offers-in-2024-analyzing-the-best-ad-creatives-and-landing-pages.12875/)
 -  27 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  27 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  27 [Discovering High Conversion, Quick Result Affiliate Programs](https://afflift.com/f/threads/discovering-high-conversion-quick-result-affiliate-programs.12870/)
--  27 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  27 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
--  27 [Golden Goose &quot;additional advertiser check&quot;](https://afflift.com/f/threads/golden-goose-additional-advertiser-check.12872/)<!-- afflift:END -->
+-  27 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
