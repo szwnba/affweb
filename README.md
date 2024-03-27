@@ -52,8 +52,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [城市漫步指南：新加坡，赤道独有的新浪漫](https://sspai.com/post/87580)
 -  27 [数字时代的人文关怀：Google 无障碍解决方案汇总](https://sspai.com/post/87150)
 -  27 [派早报：WWDC24 将于 6 月 10 日举行等](https://sspai.com/post/87585)
 -  26 [BANG!CASE 开启超前预售：一键按下，开启 iPhone 效率新世代](https://sspai.com/post/87559)
--  26 [WSA 谢幕之际，盘点 PC 运行 Android 应用解决方案](https://sspai.com/prime/story/wsa-alternatives)
--  26 [社区速递 037 | 给父母买的手机、优秀热点机以及半入耳式耳机](https://sspai.com/post/87563)<!-- sspai:END -->
+-  26 [WSA 谢幕之际，盘点 PC 运行 Android 应用解决方案](https://sspai.com/prime/story/wsa-alternatives)<!-- sspai:END -->
