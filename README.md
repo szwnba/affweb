@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  27 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  27 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  27 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
@@ -48,8 +49,7 @@
 -  27 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
 -  27 [Discovering High Conversion, Quick Result Affiliate Programs](https://afflift.com/f/threads/discovering-high-conversion-quick-result-affiliate-programs.12870/)
 -  27 [Golden Goose &quot;additional advertiser check&quot;](https://afflift.com/f/threads/golden-goose-additional-advertiser-check.12872/)
--  27 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  27 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)<!-- afflift:END -->
+-  27 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
