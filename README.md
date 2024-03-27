@@ -39,17 +39,17 @@
 ### afflift
 <!-- afflift:START -->
 -  27 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
+-  27 [How Do Affiliates Use Push Notifications and Pop Ads to Promote Gambling Offers in 2024? Analyzing the Best Ad Creatives and Landing Pages](https://afflift.com/f/threads/how-do-affiliates-use-push-notifications-and-pop-ads-to-promote-gambling-offers-in-2024-analyzing-the-best-ad-creatives-and-landing-pages.12875/)
+-  27 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  27 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
+-  27 [Discovering High Conversion, Quick Result Affiliate Programs](https://afflift.com/f/threads/discovering-high-conversion-quick-result-affiliate-programs.12870/)
 -  27 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  27 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  27 [Golden Goose &quot;additional advertiser check&quot;](https://afflift.com/f/threads/golden-goose-additional-advertiser-check.12872/)
--  27 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  27 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  27 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  27 [CPV Lab Pro - Track, Test and Optimize All of Your Marketing](https://afflift.com/f/threads/cpv-lab-pro-track-test-and-optimize-all-of-your-marketing.3912/)
--  27 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  27 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  27 [🔸Explore Cpamatica Dating Offers for Banner, Push, and Facebook traffic🔸](https://afflift.com/f/threads/%F0%9F%94%B8explore-cpamatica-dating-offers-for-banner-push-and-facebook-traffic%F0%9F%94%B8.12868/)
--  27 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)<!-- afflift:END -->
+-  27 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
