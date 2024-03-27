@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
+-  27 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
 -  27 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
 -  27 [Chris&#39; Follow Along with AFFLift&#39;s Guides](https://afflift.com/f/threads/chris-follow-along-with-afflifts-guides.12859/)
 -  27 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
@@ -47,9 +49,7 @@
 -  27 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  27 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)
 -  27 [Hello everyone, I&#39;m from Italy](https://afflift.com/f/threads/hello-everyone-im-from-italy.10595/)
--  27 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  27 [Discovering High Conversion, Quick Result Affiliate Programs](https://afflift.com/f/threads/discovering-high-conversion-quick-result-affiliate-programs.12870/)
--  27 [Golden Goose &quot;additional advertiser check&quot;](https://afflift.com/f/threads/golden-goose-additional-advertiser-check.12872/)<!-- afflift:END -->
+-  27 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
