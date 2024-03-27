@@ -54,8 +54,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [派早报：WWDC24 将于 6 月 10 日举行等](https://sspai.com/post/87585)
 -  26 [BANG!CASE 开启超前预售：一键按下，开启 iPhone 效率新世代](https://sspai.com/post/87559)
 -  26 [WSA 谢幕之际，盘点 PC 运行 Android 应用解决方案](https://sspai.com/prime/story/wsa-alternatives)
 -  26 [社区速递 037 | 给父母买的手机、优秀热点机以及半入耳式耳机](https://sspai.com/post/87563)
--  26 [深度体验一年之后，我爱上了 Apple Fitness+](https://sspai.com/post/87413)
--  26 [众测 |「先」声夺人：第三期先享体验计划，Bose Ultra 开放式耳机众测开启](https://sspai.com/post/86965)<!-- sspai:END -->
+-  26 [深度体验一年之后，我爱上了 Apple Fitness+](https://sspai.com/post/87413)<!-- sspai:END -->
