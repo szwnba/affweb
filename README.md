@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [新玩意 176｜少数派的编辑们最近买了啥？](https://sspai.com/post/87623)
 -  28 [超越工具与概念之争：可持续知识管理的个人实践](https://sspai.com/post/87028)
 -  28 [回县城去：青年维特的烦恼](https://sspai.com/post/86722)
 -  28 [派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等](https://sspai.com/post/87611)<!-- sspai:END -->
