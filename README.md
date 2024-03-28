@@ -25,8 +25,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  27 [谁能帮忙结MB联盟的钱！1000美金酬劳](https://www.advertcn.com/thread-114483-1-1.html)
--  27 [136项数据助力2024联盟营销](https://www.advertcn.com/thread-114476-1-1.html)<!-- advertcn3:END -->
+-  28 [求购PayPal，Stripe等收款账号](https://www.advertcn.com/thread-114486-1-1.html)
+-  27 [谁能帮忙结MB联盟的钱！1000美金酬劳](https://www.advertcn.com/thread-114483-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
