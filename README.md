@@ -38,6 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  28 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
+-  28 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  28 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
 -  27 [Anti-detect browser AQUM](https://afflift.com/f/threads/anti-detect-browser-aqum.12878/)
 -  27 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
@@ -46,10 +49,7 @@
 -  27 [Chris&#39; Follow Along with AFFLift&#39;s Guides](https://afflift.com/f/threads/chris-follow-along-with-afflifts-guides.12859/)
 -  27 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  27 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  27 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  27 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
--  27 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
--  27 [Step 9 - Create Your PropellerAds Campaigns](https://afflift.com/f/threads/step-9-create-your-propellerads-campaigns.7480/)<!-- afflift:END -->
+-  27 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
