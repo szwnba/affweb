@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  28 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
 -  28 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  28 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  28 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  28 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
--  28 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  28 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
 -  28 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)
 -  28 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
 -  28 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
 -  27 [Anti-detect browser AQUM](https://afflift.com/f/threads/anti-detect-browser-aqum.12878/)
--  27 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
--  27 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)<!-- afflift:END -->
+-  27 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
