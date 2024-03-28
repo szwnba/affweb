@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
+-  28 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
+-  28 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)
 -  28 [Record of a newbie&#39;s first campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  28 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
--  28 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  28 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
 -  27 [Anti-detect browser AQUM](https://afflift.com/f/threads/anti-detect-browser-aqum.12878/)
 -  27 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
 -  27 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
--  27 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
 -  27 [Chris&#39; Follow Along with AFFLift&#39;s Guides](https://afflift.com/f/threads/chris-follow-along-with-afflifts-guides.12859/)
 -  27 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  27 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  27 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)<!-- afflift:END -->
+-  27 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
