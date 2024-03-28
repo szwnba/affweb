@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  27 [5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)
 -  27 [城市漫步指南：新加坡，赤道独有的新浪漫](https://sspai.com/post/87580)
--  27 [数字时代的人文关怀：Google 无障碍解决方案汇总](https://sspai.com/post/87150)
--  27 [派早报：WWDC24 将于 6 月 10 日举行等](https://sspai.com/post/87585)<!-- sspai:END -->
+-  27 [数字时代的人文关怀：Google 无障碍解决方案汇总](https://sspai.com/post/87150)<!-- sspai:END -->
