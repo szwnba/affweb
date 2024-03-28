@@ -53,6 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等](https://sspai.com/post/87611)
 -  27 [5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)
 -  27 [城市漫步指南：新加坡，赤道独有的新浪漫](https://sspai.com/post/87580)
 -  27 [数字时代的人文关怀：Google 无障碍解决方案汇总](https://sspai.com/post/87150)<!-- sspai:END -->
