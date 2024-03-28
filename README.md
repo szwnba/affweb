@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  28 [回县城去：青年维特的烦恼](https://sspai.com/post/86722)
 -  28 [派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等](https://sspai.com/post/87611)
--  27 [5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)
--  27 [城市漫步指南：新加坡，赤道独有的新浪漫](https://sspai.com/post/87580)<!-- sspai:END -->
+-  27 [5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)<!-- sspai:END -->
