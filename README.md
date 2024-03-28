@@ -39,6 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Offer Gets Paused - What do you do?](https://afflift.com/f/threads/offer-gets-paused-what-do-you-do.12881/)
+-  28 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  28 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  28 [Inviting Affiliate Partners for Writing Service Marketplace](https://afflift.com/f/threads/inviting-affiliate-partners-for-writing-service-marketplace.12880/)
 -  28 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
 -  28 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
@@ -47,10 +50,7 @@
 -  28 [The Best-Performing Affiliate Programs for Easter in North America and Europe 2024](https://afflift.com/f/threads/the-best-performing-affiliate-programs-for-easter-in-north-america-and-europe-2024.12879/)
 -  28 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
 -  28 [Top Affiliate Programs prior to Easter for Brazil GEO](https://afflift.com/f/threads/top-affiliate-programs-prior-to-easter-for-brazil-geo.12794/)
--  28 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
--  28 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
--  28 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
--  28 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)<!-- afflift:END -->
+-  28 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
