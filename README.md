@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  28 [超越工具与概念之争：可持续知识管理的个人实践](https://sspai.com/post/87028)
 -  28 [回县城去：青年维特的烦恼](https://sspai.com/post/86722)
--  28 [派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等](https://sspai.com/post/87611)
--  27 [5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」](https://sspai.com/post/87587)<!-- sspai:END -->
+-  28 [派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等](https://sspai.com/post/87611)<!-- sspai:END -->
