@@ -43,6 +43,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [✅&quot;FACEBOOK - GOOGLE - TIKTOK&quot; ADVERTISING ACCOUNT FOR RENTAL✅RDP AND AGENCY CREDIT LINE - ALL PRODUCTS 5-10% FEE](https://afflift.com/f/threads/%E2%9C%85-facebook-google-tiktok-advertising-account-for-rental%E2%9C%85rdp-and-agency-credit-line-all-products-5-10-fee.12888/)
+-  29 [Managed vs Unmanaged hosting for traffic](https://afflift.com/f/threads/managed-vs-unmanaged-hosting-for-traffic.12887/)
+-  29 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
+-  29 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
 -  29 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  29 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  29 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
@@ -50,11 +54,7 @@
 -  29 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
 -  29 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  29 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
--  29 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  29 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
--  28 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
--  28 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
--  28 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
+-  29 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
