@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  29 [✅&quot;FACEBOOK - GOOGLE - TIKTOK&quot; ADVERTISING ACCOUNT FOR RENTAL✅RDP AND AGENCY CREDIT LINE - ALL PRODUCTS 5-10% FEE](https://afflift.com/f/threads/%E2%9C%85-facebook-google-tiktok-advertising-account-for-rental%E2%9C%85rdp-and-agency-credit-line-all-products-5-10-fee.12888/)
--  29 [Managed vs Unmanaged hosting for traffic](https://afflift.com/f/threads/managed-vs-unmanaged-hosting-for-traffic.12887/)
--  29 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  29 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  29 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
+-  29 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  29 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  29 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  29 [Chris&#39; Follow Along with AFFLift&#39;s Guides](https://afflift.com/f/threads/chris-follow-along-with-afflifts-guides.12859/)
+-  29 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  29 [Managed vs Unmanaged hosting for traffic](https://afflift.com/f/threads/managed-vs-unmanaged-hosting-for-traffic.12887/)
+-  29 [✅&quot;FACEBOOK - GOOGLE - TIKTOK&quot; ADVERTISING ACCOUNT FOR RENTAL✅RDP AND AGENCY CREDIT LINE - ALL PRODUCTS 5-10% FEE](https://afflift.com/f/threads/%E2%9C%85-facebook-google-tiktok-advertising-account-for-rental%E2%9C%85rdp-and-agency-credit-line-all-products-5-10-fee.12888/)
+-  29 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  29 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  29 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
--  29 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  29 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
--  29 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
--  29 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)<!-- afflift:END -->
+-  29 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
