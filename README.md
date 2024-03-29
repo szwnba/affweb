@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
 -  29 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  29 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
 -  29 [How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
@@ -51,8 +52,7 @@
 -  28 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
 -  28 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  28 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)
--  28 [CryptoWins $10,000 affiliate contest!](https://afflift.com/f/threads/cryptowins-10-000-affiliate-contest.12844/)
--  28 [Looking For Help Setting Up URLs in Monetizer and Binom](https://afflift.com/f/threads/looking-for-help-setting-up-urls-in-monetizer-and-binom.4294/)<!-- afflift:END -->
+-  28 [CryptoWins $10,000 affiliate contest!](https://afflift.com/f/threads/cryptowins-10-000-affiliate-contest.12844/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
