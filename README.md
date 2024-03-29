@@ -20,8 +20,7 @@
 -  29 [史上最全！Facebook如何填写开户申请→建议收藏](https://www.advertcn.com/thread-114503-1-1.html)
 -  29 [建议收藏！Facebook广告审核应该避免什么？](https://www.advertcn.com/thread-114502-1-1.html)
 -  29 [一文轻松get！→Bing广告投放实操！](https://www.advertcn.com/thread-114501-1-1.html)
--  29 [media buy新秀](https://www.advertcn.com/thread-114499-1-1.html)
--  28 [新人报道](https://www.advertcn.com/thread-114490-1-1.html)<!-- advertcn1:END -->
+-  29 [media buy新秀](https://www.advertcn.com/thread-114499-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
