@@ -41,9 +41,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
+-  29 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  29 [Managed vs Unmanaged hosting for traffic](https://afflift.com/f/threads/managed-vs-unmanaged-hosting-for-traffic.12887/)
 -  29 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
--  29 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  29 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
 -  29 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
 -  29 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
@@ -51,8 +52,7 @@
 -  29 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  29 [BroPush added to the Link Directory](https://afflift.com/f/threads/bropush-added-to-the-link-directory.12891/)
 -  29 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
--  29 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
--  29 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)<!-- afflift:END -->
+-  29 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
