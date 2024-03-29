@@ -42,17 +42,17 @@
 ### afflift
 <!-- afflift:START -->
 -  29 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
+-  29 [What&#39;s happening in LK ?](https://afflift.com/f/threads/whats-happening-in-lk.12876/)
+-  29 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
+-  29 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
+-  29 [BroPush added to the Link Directory](https://afflift.com/f/threads/bropush-added-to-the-link-directory.12891/)
+-  29 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  29 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
+-  29 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
 -  29 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  29 [Managed vs Unmanaged hosting for traffic](https://afflift.com/f/threads/managed-vs-unmanaged-hosting-for-traffic.12887/)
 -  29 [ProPush.me - platform for monetizing traffic with push subscriptions](https://afflift.com/f/threads/propush-me-platform-for-monetizing-traffic-with-push-subscriptions.2352/)
--  29 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
--  29 [Looking For Help Setting Up URLs in Monetizer and Binom](https://afflift.com/f/threads/looking-for-help-setting-up-urls-in-monetizer-and-binom.4294/)
--  29 [Offer Gets Paused - What do you do?](https://afflift.com/f/threads/offer-gets-paused-what-do-you-do.12881/)
--  29 [How to Estimate Daily Cohort Revenue: New ProPush.me Feature](https://afflift.com/f/threads/how-to-estimate-daily-cohort-revenue-new-propush-me-feature.12889/)
--  29 [Royal Partners | iGaming affiliate program | In-House offers | CPA/RevShare/Hybrid](https://afflift.com/f/threads/royal-partners-igaming-affiliate-program-in-house-offers-cpa-revshare-hybrid.10011/)
--  29 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  29 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
+-  29 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
