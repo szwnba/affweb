@@ -39,8 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  28 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  28 [Adsterra closed my account, is popcash traffic of poor quality?](https://afflift.com/f/threads/adsterra-closed-my-account-is-popcash-traffic-of-poor-quality.12630/)
+-  28 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  28 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
 -  28 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  28 [All New CPVLab VPS Setup Guide with new build scripts](https://afflift.com/f/threads/all-new-cpvlab-vps-setup-guide-with-new-build-scripts.10699/)
 -  28 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
@@ -49,8 +50,7 @@
 -  28 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
 -  28 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  28 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
--  28 [Offer Gets Paused - What do you do?](https://afflift.com/f/threads/offer-gets-paused-what-do-you-do.12881/)
--  28 [Adsterra CPA Network — Global and Multi-Vertical Network with Exclusive Direct Offers](https://afflift.com/f/threads/adsterra-cpa-network-%E2%80%94-global-and-multi-vertical-network-with-exclusive-direct-offers.10001/)<!-- afflift:END -->
+-  28 [Offer Gets Paused - What do you do?](https://afflift.com/f/threads/offer-gets-paused-what-do-you-do.12881/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
