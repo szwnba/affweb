@@ -58,6 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [20 年代的赛博复古：我们都在用这些新时代的「老玩意」](https://sspai.com/post/87622)
 -  29 [家用咖啡手册（番外） | 低因咖啡是怎么回事？](https://sspai.com/post/87595)
 -  29 [派早报：小米推出 SU7 系列汽车、理光推出 GR III HDF 及特别版](https://sspai.com/post/87642)
 -  28 [新玩意 176｜少数派的编辑们最近买了啥？](https://sspai.com/post/87623)<!-- sspai:END -->
