@@ -59,6 +59,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [家用咖啡手册（番外） | 低因咖啡是怎么回事？](https://sspai.com/post/87595)
 -  29 [派早报：小米推出 SU7 系列汽车、理光推出 GR III HDF 及特别版](https://sspai.com/post/87642)
 -  28 [新玩意 176｜少数派的编辑们最近买了啥？](https://sspai.com/post/87623)
 -  28 [超越工具与概念之争：可持续知识管理的个人实践](https://sspai.com/post/87028)<!-- sspai:END -->
