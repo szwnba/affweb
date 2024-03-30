@@ -17,9 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  29 [史上最全！Facebook如何填写开户申请→建议收藏](https://www.advertcn.com/thread-114503-1-1.html)
--  29 [建议收藏！Facebook广告审核应该避免什么？](https://www.advertcn.com/thread-114502-1-1.html)
--  29 [一文轻松get！→Bing广告投放实操！](https://www.advertcn.com/thread-114501-1-1.html)<!-- advertcn1:END -->
+-  30 [东欧，中东cod物流服务商](https://www.advertcn.com/thread-114518-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
