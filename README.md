@@ -28,8 +28,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  29 [这个论坛很大一部分人想白嫖，不会玩fb的，我教你玩玩fb余额](https://www.advertcn.com/thread-114511-1-1.html)
--  29 [需要通道的来，当天结算，每天5-10万刀](https://www.advertcn.com/thread-114504-1-1.html)<!-- advertcn3:END -->
+-  30 [LP是做的很详细好还是做的粗略好](https://www.advertcn.com/thread-114512-1-1.html)
+-  29 [这个论坛很大一部分人想白嫖，不会玩fb的，我教你玩玩fb余额](https://www.advertcn.com/thread-114511-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
