@@ -59,5 +59,4 @@
 <!-- sspai:START -->
 -  29 [本周看什么 | 最近值得一看的一大兜作品](https://sspai.com/post/87654)
 -  29 [探索从短信转发到通知推送的全平台解决方案](https://sspai.com/prime/story/cross-platform-sms-forwarding-solution)
--  29 [20 年代的赛博复古：我们都在用这些新时代的「老玩意」](https://sspai.com/post/87622)
--  29 [家用咖啡手册（番外） | 低因咖啡是怎么回事？](https://sspai.com/post/87595)<!-- sspai:END -->
+-  29 [20 年代的赛博复古：我们都在用这些新时代的「老玩意」](https://sspai.com/post/87622)<!-- sspai:END -->
