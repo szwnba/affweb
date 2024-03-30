@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  30 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
+-  30 [Looking For Advertizer Push Review](https://afflift.com/f/threads/looking-for-advertizer-push-review.12892/)
 -  30 [Good Advices For Shaping A Newbie&#39;s Long Term Thinking?](https://afflift.com/f/threads/good-advices-for-shaping-a-newbies-long-term-thinking.12893/)
+-  30 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  30 [Chris&#39; Follow Along with AFFLift&#39;s Guides](https://afflift.com/f/threads/chris-follow-along-with-afflifts-guides.12859/)
+-  30 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
 -  30 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
 -  30 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
--  30 [Looking For Advertizer Push Review](https://afflift.com/f/threads/looking-for-advertizer-push-review.12892/)
 -  30 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  30 [Adsterra Promo Codes 🆕](https://afflift.com/f/threads/adsterra-promo-codes-%F0%9F%86%95.12769/)
 -  29 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  29 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
--  29 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
--  29 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  29 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
+-  29 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
