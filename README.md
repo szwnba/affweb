@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  30 [尝试了众多输入法方案后，我想和你分享这些心得](https://sspai.com/post/86791)
 -  29 [本周看什么 | 最近值得一看的一大兜作品](https://sspai.com/post/87654)
--  29 [探索从短信转发到通知推送的全平台解决方案](https://sspai.com/prime/story/cross-platform-sms-forwarding-solution)
--  29 [20 年代的赛博复古：我们都在用这些新时代的「老玩意」](https://sspai.com/post/87622)<!-- sspai:END -->
+-  29 [探索从短信转发到通知推送的全平台解决方案](https://sspai.com/prime/story/cross-platform-sms-forwarding-solution)<!-- sspai:END -->
