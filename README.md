@@ -28,8 +28,7 @@
 -  30 [收过两次款，遇到瓶颈](https://www.advertcn.com/thread-114521-1-1.html)
 -  30 [这种css文件，为什么修改了，刷不出效果？](https://www.advertcn.com/thread-114516-1-1.html)
 -  30 [hetzner拍卖机这么垃圾吗？](https://www.advertcn.com/thread-114514-1-1.html)
--  30 [LP是做的很详细好还是做的粗略好](https://www.advertcn.com/thread-114512-1-1.html)
--  29 [这个论坛很大一部分人想白嫖，不会玩fb的，我教你玩玩fb余额](https://www.advertcn.com/thread-114511-1-1.html)<!-- advertcn3:END -->
+-  30 [LP是做的很详细好还是做的粗略好](https://www.advertcn.com/thread-114512-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
