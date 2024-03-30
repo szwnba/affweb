@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
 -  30 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  30 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  30 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
@@ -49,8 +50,7 @@
 -  30 [Looking For Advertizer Push Review](https://afflift.com/f/threads/looking-for-advertizer-push-review.12892/)
 -  30 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  30 [Chris&#39; Follow Along with AFFLift&#39;s Guides](https://afflift.com/f/threads/chris-follow-along-with-afflifts-guides.12859/)
--  30 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
--  30 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)<!-- afflift:END -->
+-  30 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
