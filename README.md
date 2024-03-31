@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  30 [尝试了众多输入法方案后，我想和你分享这些心得](https://sspai.com/post/86791)<!-- sspai:END -->
+-  31 [空想特摄的浪漫：奥特曼入坑指南](https://sspai.com/post/87652)<!-- sspai:END -->
