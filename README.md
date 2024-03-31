@@ -36,8 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Good Advices For Shaping A Newbie&#39;s Long Term Thinking?](https://afflift.com/f/threads/good-advices-for-shaping-a-newbies-long-term-thinking.12893/)
 -  31 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  31 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  31 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
 -  31 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  30 [How to rip any mobile landing page?](https://afflift.com/f/threads/how-to-rip-any-mobile-landing-page.12896/)
 -  30 [Looking For Advertizer Push Review](https://afflift.com/f/threads/looking-for-advertizer-push-review.12892/)
@@ -45,9 +47,7 @@
 -  30 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! March 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-march-2024.12873/)
 -  30 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
 -  30 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
--  30 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
--  30 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)
--  30 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)<!-- afflift:END -->
+-  30 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
