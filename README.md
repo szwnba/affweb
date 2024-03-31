@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
 -  31 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  31 [Good Advices For Shaping A Newbie&#39;s Long Term Thinking?](https://afflift.com/f/threads/good-advices-for-shaping-a-newbies-long-term-thinking.12893/)
 -  31 [Realistic Earnings Expectations](https://afflift.com/f/threads/realistic-earnings-expectations.12894/)
@@ -47,8 +48,7 @@
 -  30 [How to rip any mobile landing page?](https://afflift.com/f/threads/how-to-rip-any-mobile-landing-page.12896/)
 -  30 [Looking For Advertizer Push Review](https://afflift.com/f/threads/looking-for-advertizer-push-review.12892/)
 -  30 [$1965 profit on Facebook traffic with PWA app and XGames offers](https://afflift.com/f/threads/1965-profit-on-facebook-traffic-with-pwa-app-and-xgames-offers.12724/)
--  30 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! March 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-march-2024.12873/)
--  30 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)<!-- afflift:END -->
+-  30 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! March 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-march-2024.12873/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
