@@ -38,6 +38,7 @@
 ### afflift
 <!-- afflift:START -->
 -  31 [Good Advices For Shaping A Newbie&#39;s Long Term Thinking?](https://afflift.com/f/threads/good-advices-for-shaping-a-newbies-long-term-thinking.12893/)
+-  31 [Realistic Earnings Expectations](https://afflift.com/f/threads/realistic-earnings-expectations.12894/)
 -  31 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  31 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  31 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
@@ -47,8 +48,7 @@
 -  30 [$1965 profit on Facebook traffic with PWA app and XGames offers](https://afflift.com/f/threads/1965-profit-on-facebook-traffic-with-pwa-app-and-xgames-offers.12724/)
 -  30 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! March 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-march-2024.12873/)
 -  30 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
--  30 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)
--  30 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)<!-- afflift:END -->
+-  30 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
