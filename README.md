@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  30 [收过两次款，遇到瓶颈](https://www.advertcn.com/thread-114521-1-1.html)
--  30 [这种css文件，为什么修改了，刷不出效果？](https://www.advertcn.com/thread-114516-1-1.html)<!-- advertcn3:END -->
+-  30 [收过两次款，遇到瓶颈](https://www.advertcn.com/thread-114521-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
