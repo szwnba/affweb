@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
 -  31 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
 -  31 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  31 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
@@ -47,8 +48,7 @@
 -  31 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  31 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
 -  31 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  30 [How to rip any mobile landing page?](https://afflift.com/f/threads/how-to-rip-any-mobile-landing-page.12896/)
--  30 [Looking For Advertizer Push Review](https://afflift.com/f/threads/looking-for-advertizer-push-review.12892/)<!-- afflift:END -->
+-  30 [How to rip any mobile landing page?](https://afflift.com/f/threads/how-to-rip-any-mobile-landing-page.12896/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
