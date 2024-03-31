@@ -26,7 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  30 [收过两次款，遇到瓶颈](https://www.advertcn.com/thread-114521-1-1.html)<!-- advertcn3:END -->
+-  31 [Adsense超过$5k如何收款](https://www.advertcn.com/thread-114528-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
