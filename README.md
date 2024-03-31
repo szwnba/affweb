@@ -41,7 +41,7 @@
 -  31 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  31 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  31 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
--  31 [Good Advices For Shaping A Newbie&#39;s Long Term Thinking?](https://afflift.com/f/threads/good-advices-for-shaping-a-newbies-long-term-thinking.12893/)
+-  31 [Good Advices For Shaping Long Term Thinking?](https://afflift.com/f/threads/good-advices-for-shaping-long-term-thinking.12893/)
 -  31 [Realistic Earnings Expectations](https://afflift.com/f/threads/realistic-earnings-expectations.12894/)
 -  31 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  31 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
