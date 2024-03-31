@@ -52,4 +52,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [本月玩什么 | 龙之信条 2、浪人崛起、Open Roads、Llamasoft: The Jeff Minter Story](https://sspai.com/post/87696)
 -  31 [空想特摄的浪漫：奥特曼入坑指南](https://sspai.com/post/87652)<!-- sspai:END -->
