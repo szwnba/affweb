@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  31 [新人报道吧](https://www.advertcn.com/thread-114527-1-1.html)
 -  31 [新人报道](https://www.advertcn.com/thread-114526-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
