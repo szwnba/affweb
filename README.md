@@ -55,6 +55,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [我的「数字资产」管理思与行](https://sspai.com/post/87694)
 -  01 [App+1 | 录屏灵活可控，后期省时省心：Screen Studio](https://sspai.com/post/86574)
--  01 [派早报：少数派宣布进入汽车配件市场](https://sspai.com/post/87713)
--  31 [本月玩什么 | 龙之信条 2、浪人崛起、Open Roads、Llamasoft: The Jeff Minter Story](https://sspai.com/post/87696)<!-- sspai:END -->
+-  01 [派早报：少数派宣布进入汽车配件市场](https://sspai.com/post/87713)<!-- sspai:END -->
