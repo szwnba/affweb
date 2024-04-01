@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
+-  01 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
+-  01 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
 -  01 [How I Keep My Offers Organized](https://afflift.com/f/threads/how-i-keep-my-offers-organized.11643/)
 -  01 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  01 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  01 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
 -  01 [Confused about Monetizer](https://afflift.com/f/threads/confused-about-monetizer.12898/)
 -  01 [What is the normal ROI?](https://afflift.com/f/threads/what-is-the-normal-roi.12862/)
 -  01 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  01 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
 -  01 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
--  01 [Push/Native Adx Arbitrage Mastermind](https://afflift.com/f/threads/push-native-adx-arbitrage-mastermind.12680/)
--  01 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
--  01 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)<!-- afflift:END -->
+-  01 [Push/Native Adx Arbitrage Mastermind](https://afflift.com/f/threads/push-native-adx-arbitrage-mastermind.12680/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
