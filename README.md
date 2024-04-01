@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  01 [【税务小白也能懂】SSN、ITIN、EIN有何不同？美国税号全解...](https://www.advertcn.com/thread-114533-1-1.html)
--  01 [2024年开局两月，中国进出口总值狂飙创新高！](https://www.advertcn.com/thread-114532-1-1.html)
--  31 [新人报道吧](https://www.advertcn.com/thread-114527-1-1.html)<!-- advertcn1:END -->
+-  01 [2024年开局两月，中国进出口总值狂飙创新高！](https://www.advertcn.com/thread-114532-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
