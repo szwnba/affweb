@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  01 [网站屏蔽竟对搜索主力产品，附上代码](https://www.advertcn.com/thread-114540-1-1.html)
 -  01 [求好用的住宅代理](https://www.advertcn.com/thread-114538-1-1.html)
 -  31 [为什么会有这么奇怪的问题呢？](https://www.advertcn.com/thread-114530-1-1.html)<!-- advertcn3:END -->
 
