@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
+-  01 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
 -  31 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
 -  31 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  31 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
@@ -49,9 +51,7 @@
 -  31 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  31 [Good Advices For Shaping Long Term Thinking?](https://afflift.com/f/threads/good-advices-for-shaping-long-term-thinking.12893/)
 -  31 [Realistic Earnings Expectations](https://afflift.com/f/threads/realistic-earnings-expectations.12894/)
--  31 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
--  31 [&quot;Ask me&quot; by Alukard_X](https://afflift.com/f/threads/ask-me-by-alukard_x.12857/)
--  31 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)<!-- afflift:END -->
+-  31 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
