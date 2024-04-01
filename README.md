@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [App+1 | 录屏灵活可控，后期省时省心：Screen Studio](https://sspai.com/post/86574)
 -  01 [派早报：少数派宣布进入汽车配件市场](https://sspai.com/post/87713)
 -  31 [本月玩什么 | 龙之信条 2、浪人崛起、Open Roads、Llamasoft: The Jeff Minter Story](https://sspai.com/post/87696)
 -  31 [空想特摄的浪漫：奥特曼入坑指南](https://sspai.com/post/87652)<!-- sspai:END -->
