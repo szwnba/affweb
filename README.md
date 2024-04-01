@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
+-  01 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
+-  01 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
+-  01 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  01 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  01 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  01 [$1965 profit on Facebook traffic with PWA app and XGames offers](https://afflift.com/f/threads/1965-profit-on-facebook-traffic-with-pwa-app-and-xgames-offers.12724/)
 -  01 [📈 Tracking performance per zone using Google Analytics](https://afflift.com/f/threads/%F0%9F%93%88-tracking-performance-per-zone-using-google-analytics.12307/)
 -  01 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
 -  01 [Journey to $50/day with EvaDav Push Subscriptions](https://afflift.com/f/threads/journey-to-50-day-with-evadav-push-subscriptions.11899/)
 -  01 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
--  01 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  01 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
--  01 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
--  31 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
--  31 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  31 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  31 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
--  31 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
+-  01 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
