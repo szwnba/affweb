@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  02 [收点美刀代付](https://www.advertcn.com/thread-114549-1-1.html)
 -  02 [请问跑直连应该怎么追踪回传呀](https://www.advertcn.com/thread-114547-1-1.html)
 -  02 [QuillBot 强大的英文润色工具，这个价格还可以](https://www.advertcn.com/thread-114544-1-1.html)
 -  01 [谷歌广告用lp跑应该选择转化还是点击次数？](https://www.advertcn.com/thread-114543-1-1.html)
