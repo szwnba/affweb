@@ -41,6 +41,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
+-  02 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  02 [Wid&#39;s mVAS Follow Along #2024](https://afflift.com/f/threads/wids-mvas-follow-along-2024.12822/)
+-  02 [How much are an ok CTR value and a good CTR value for a push campaign?](https://afflift.com/f/threads/how-much-are-an-ok-ctr-value-and-a-good-ctr-value-for-a-push-campaign.12906/)
 -  02 [Method - Make $250/Week With This Unique AI Technique! &lpar;Step by Step Guide&rpar;](https://afflift.com/f/threads/method-make-250-week-with-this-unique-ai-technique-step-by-step-guide.12903/)
 -  02 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  02 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
@@ -48,11 +52,7 @@
 -  02 [The Ultimate Guide to More Money and Less Stress!](https://afflift.com/f/threads/the-ultimate-guide-to-more-money-and-less-stress.12901/)
 -  02 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  02 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  02 [High-Ticket Affiliate Marketing: Way to Luxury or Just a Hassle?](https://afflift.com/f/threads/high-ticket-affiliate-marketing-way-to-luxury-or-just-a-hassle.12899/)
--  02 [Affiliate resources](https://afflift.com/f/threads/affiliate-resources.12867/)
--  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  02 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  02 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
+-  02 [High-Ticket Affiliate Marketing: Way to Luxury or Just a Hassle?](https://afflift.com/f/threads/high-ticket-affiliate-marketing-way-to-luxury-or-just-a-hassle.12899/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
