@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  01 [新人报道, 请各位大佬多多关照~~~~](https://www.advertcn.com/thread-114541-1-1.html)
--  01 [Facebook最全申诉链接来喽！！各位老板！赶快收藏](https://www.advertcn.com/thread-114539-1-1.html)<!-- advertcn1:END -->
+-  01 [新人报道, 请各位大佬多多关照~~~~](https://www.advertcn.com/thread-114541-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
