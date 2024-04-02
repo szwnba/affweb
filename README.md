@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
+-  02 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
+-  02 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  02 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
+-  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  02 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
 -  02 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  02 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  02 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  02 [Exoclick Rejection](https://afflift.com/f/threads/exoclick-rejection.6140/)
 -  02 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  02 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  02 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  02 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  02 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
--  02 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
--  02 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)<!-- afflift:END -->
+-  02 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
