@@ -41,6 +41,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
+-  02 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  02 [Anyone using Facebook ads to promote Clickbank offers here?](https://afflift.com/f/threads/anyone-using-facebook-ads-to-promote-clickbank-offers-here.12072/)
 -  02 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  02 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  02 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
@@ -49,10 +52,7 @@
 -  02 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
 -  02 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  02 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  02 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
--  02 [Exoclick Rejection](https://afflift.com/f/threads/exoclick-rejection.6140/)
--  02 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  02 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)<!-- afflift:END -->
+-  02 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
