@@ -57,6 +57,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  02 [社区速递 038 | 新玩意、进度条和派友们最爱的鼠标](https://sspai.com/post/87761)
 -  02 [轻量化、自动化、全面化：我的「量化自我」尝试数字之旅](https://sspai.com/post/86747)
 -  02 [一日一技 | 你也能上手的网络优先级调整，轻松实现局域网分流](https://sspai.com/post/87558)
 -  02 [派早报：Google 同意删除隐私模式收集的资料等](https://sspai.com/post/87740)<!-- sspai:END -->
