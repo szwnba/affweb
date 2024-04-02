@@ -42,6 +42,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  02 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
+-  02 [Road to $100 per day with Social Media](https://afflift.com/f/threads/road-to-100-per-day-with-social-media.12012/)
+-  02 [Method - Make $250/Week With This Unique AI Technique! &lpar;Step by Step Guide&rpar;](https://afflift.com/f/threads/method-make-250-week-with-this-unique-ai-technique-step-by-step-guide.12903/)
 -  02 [The Ultimate Guide to More Money and Less Stress!](https://afflift.com/f/threads/the-ultimate-guide-to-more-money-and-less-stress.12901/)
 -  02 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
 -  02 [Affiliate Marketing Digest: Increased Payouts in E-commerce, Travel, Gaming and EdTech🚀](https://afflift.com/f/threads/affiliate-marketing-digest-increased-payouts-in-e-commerce-travel-gaming-and-edtech%F0%9F%9A%80.12902/)
@@ -49,11 +53,7 @@
 -  02 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  02 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
 -  02 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
--  02 [Very happy to join afflift, hello everyone](https://afflift.com/f/threads/very-happy-to-join-afflift-hello-everyone.12825/)
--  02 [Hello everyone from AnyBill :&rpar;](https://afflift.com/f/threads/hello-everyone-from-anybill.12864/)
--  02 [Did You Merry Your First Love? ;&rpar;](https://afflift.com/f/threads/did-you-merry-your-first-love.12751/)
--  02 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  02 [Confused about Monetizer](https://afflift.com/f/threads/confused-about-monetizer.12898/)<!-- afflift:END -->
+-  02 [Very happy to join afflift, hello everyone](https://afflift.com/f/threads/very-happy-to-join-afflift-hello-everyone.12825/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
