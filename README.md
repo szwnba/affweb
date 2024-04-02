@@ -28,10 +28,10 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  01 [谷歌广告用lp跑应该选择转化还是点击次数？](https://www.advertcn.com/thread-114543-1-1.html)
 -  01 [有没有做only fans的大佬来交流一下](https://www.advertcn.com/thread-114542-1-1.html)
 -  01 [网站屏蔽竟对搜索主力产品，附上代码](https://www.advertcn.com/thread-114540-1-1.html)
--  01 [求好用的住宅代理](https://www.advertcn.com/thread-114538-1-1.html)
--  31 [为什么会有这么奇怪的问题呢？](https://www.advertcn.com/thread-114530-1-1.html)<!-- advertcn3:END -->
+-  01 [求好用的住宅代理](https://www.advertcn.com/thread-114538-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
