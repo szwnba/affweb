@@ -59,5 +59,4 @@
 <!-- sspai:START -->
 -  02 [派早报：Google 同意删除隐私模式收集的资料等](https://sspai.com/post/87740)
 -  01 [派评 | 近期值得关注的 App](https://sspai.com/post/87733)
--  01 [我的「数字资产」管理思与行](https://sspai.com/post/87694)
--  01 [App+1 | 录屏灵活可控，后期省时省心：Screen Studio](https://sspai.com/post/86574)<!-- sspai:END -->
+-  01 [我的「数字资产」管理思与行](https://sspai.com/post/87694)<!-- sspai:END -->
