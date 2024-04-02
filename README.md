@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  02 [Facebook广告用户疲劳？快来做纯拉新！](https://www.advertcn.com/thread-114556-1-1.html)
 -  01 [新人报道, 请各位大佬多多关照~~~~](https://www.advertcn.com/thread-114541-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
