@@ -31,8 +31,7 @@
 -  02 [QuillBot 强大的英文润色工具，这个价格还可以](https://www.advertcn.com/thread-114544-1-1.html)
 -  01 [谷歌广告用lp跑应该选择转化还是点击次数？](https://www.advertcn.com/thread-114543-1-1.html)
 -  01 [有没有做only fans的大佬来交流一下](https://www.advertcn.com/thread-114542-1-1.html)
--  01 [网站屏蔽竟对搜索主力产品，附上代码](https://www.advertcn.com/thread-114540-1-1.html)
--  01 [求好用的住宅代理](https://www.advertcn.com/thread-114538-1-1.html)<!-- advertcn3:END -->
+-  01 [网站屏蔽竟对搜索主力产品，附上代码](https://www.advertcn.com/thread-114540-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
