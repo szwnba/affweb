@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  02 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
 -  02 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  02 [Wid&#39;s mVAS Follow Along #2024](https://afflift.com/f/threads/wids-mvas-follow-along-2024.12822/)
@@ -51,8 +52,7 @@
 -  02 [Boost performance with the Custom Rates feature!](https://afflift.com/f/threads/boost-performance-with-the-custom-rates-feature.12904/)
 -  02 [The Ultimate Guide to More Money and Less Stress!](https://afflift.com/f/threads/the-ultimate-guide-to-more-money-and-less-stress.12901/)
 -  02 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  02 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  02 [High-Ticket Affiliate Marketing: Way to Luxury or Just a Hassle?](https://afflift.com/f/threads/high-ticket-affiliate-marketing-way-to-luxury-or-just-a-hassle.12899/)<!-- afflift:END -->
+-  02 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
