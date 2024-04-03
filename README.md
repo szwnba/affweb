@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
+-  03 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  03 [How much are an ok CTR value and a good CTR value for a push campaign?](https://afflift.com/f/threads/how-much-are-an-ok-ctr-value-and-a-good-ctr-value-for-a-push-campaign.12906/)
 -  03 [NewsBreak is heading to LeadsCon 2024 Las Vegas](https://afflift.com/f/threads/newsbreak-is-heading-to-leadscon-2024-las-vegas.12915/)
 -  03 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
@@ -45,9 +47,7 @@
 -  03 [The Ultimate Guide to More Money and Less Stress!](https://afflift.com/f/threads/the-ultimate-guide-to-more-money-and-less-stress.12901/)
 -  03 [Welcome Cashback: Geozo Ad Platform launches bonuses for new advertisers](https://afflift.com/f/threads/welcome-cashback-geozo-ad-platform-launches-bonuses-for-new-advertisers.12914/)
 -  03 [Afflift Beginners Course 2.0 is been sold on BHW for $99](https://afflift.com/f/threads/afflift-beginners-course-2-0-is-been-sold-on-bhw-for-99.12909/)
--  03 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
--  03 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
--  03 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)<!-- afflift:END -->
+-  03 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
