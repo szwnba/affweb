@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Getting Error for Golden Goose Conversion Testing](https://afflift.com/f/threads/getting-error-for-golden-goose-conversion-testing.12916/)
+-  03 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
+-  03 [Changing offer/lps without a new ad network campaign?](https://afflift.com/f/threads/changing-offer-lps-without-a-new-ad-network-campaign.12908/)
+-  03 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
 -  03 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
 -  03 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  03 [How much are an ok CTR value and a good CTR value for a push campaign?](https://afflift.com/f/threads/how-much-are-an-ok-ctr-value-and-a-good-ctr-value-for-a-push-campaign.12906/)
 -  03 [NewsBreak is heading to LeadsCon 2024 Las Vegas](https://afflift.com/f/threads/newsbreak-is-heading-to-leadscon-2024-las-vegas.12915/)
--  03 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
 -  03 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  03 [How I Keep My Offers Organized](https://afflift.com/f/threads/how-i-keep-my-offers-organized.11643/)
 -  03 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  03 [The Ultimate Guide to More Money and Less Stress!](https://afflift.com/f/threads/the-ultimate-guide-to-more-money-and-less-stress.12901/)
--  03 [Welcome Cashback: Geozo Ad Platform launches bonuses for new advertisers](https://afflift.com/f/threads/welcome-cashback-geozo-ad-platform-launches-bonuses-for-new-advertisers.12914/)
--  03 [Afflift Beginners Course 2.0 is been sold on BHW for $99](https://afflift.com/f/threads/afflift-beginners-course-2-0-is-been-sold-on-bhw-for-99.12909/)
--  03 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)<!-- afflift:END -->
+-  03 [The Ultimate Guide to More Money and Less Stress!](https://afflift.com/f/threads/the-ultimate-guide-to-more-money-and-less-stress.12901/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
