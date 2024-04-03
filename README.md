@@ -36,6 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [⚡️BANZAI Partners - a brand new in-house advertiser with a void player database. RevShare up to 50%](https://afflift.com/f/threads/%E2%9A%A1%EF%B8%8Fbanzai-partners-a-brand-new-in-house-advertiser-with-a-void-player-database-revshare-up-to-50.12811/)
+-  03 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
+-  03 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  03 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
 -  03 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
 -  03 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
@@ -44,10 +47,7 @@
 -  03 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  03 [Seek Help：questions about CTA URL](https://afflift.com/f/threads/seek-help%EF%BC%9Aquestions-about-cta-url.12910/)
 -  03 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
--  03 [Method - Make $250/Week With This Unique AI Technique! &lpar;Step by Step Guide&rpar;](https://afflift.com/f/threads/method-make-250-week-with-this-unique-ai-technique-step-by-step-guide.12903/)
--  03 [✅Fresh Gmail ✅Aged Gmail ✅App Password ✅Forwarded Gmail ✅Warmup Gmail ✅YouTube ✅Twitter ✅LinkedIn Accounts](https://afflift.com/f/threads/%E2%9C%85fresh-gmail-%E2%9C%85aged-gmail-%E2%9C%85app-password-%E2%9C%85forwarded-gmail-%E2%9C%85warmup-gmail-%E2%9C%85youtube-%E2%9C%85twitter-%E2%9C%85linkedin-accounts.12815/)
--  03 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
--  03 [Do You Believe in Afterlife?](https://afflift.com/f/threads/do-you-believe-in-afterlife.12912/)<!-- afflift:END -->
+-  03 [Method - Make $250/Week With This Unique AI Technique! &lpar;Step by Step Guide&rpar;](https://afflift.com/f/threads/method-make-250-week-with-this-unique-ai-technique-step-by-step-guide.12903/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
