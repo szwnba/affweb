@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  03 [How long do your tests last?](https://afflift.com/f/threads/how-long-do-your-tests-last.12917/)
+-  03 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)
+-  03 [Changing offer/lps without a new ad network campaign?](https://afflift.com/f/threads/changing-offer-lps-without-a-new-ad-network-campaign.12908/)
+-  03 [Never too late-Important in participation, 💰unimportant in losses and gains.🤑](https://afflift.com/f/threads/never-too-late-important-in-participation-%F0%9F%92%B0unimportant-in-losses-and-gains-%F0%9F%A4%91.12861/)
 -  03 [Getting Error for Golden Goose Conversion Testing](https://afflift.com/f/threads/getting-error-for-golden-goose-conversion-testing.12916/)
 -  03 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
--  03 [Changing offer/lps without a new ad network campaign?](https://afflift.com/f/threads/changing-offer-lps-without-a-new-ad-network-campaign.12908/)
 -  03 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
 -  03 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
 -  03 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
 -  03 [How much are an ok CTR value and a good CTR value for a push campaign?](https://afflift.com/f/threads/how-much-are-an-ok-ctr-value-and-a-good-ctr-value-for-a-push-campaign.12906/)
--  03 [NewsBreak is heading to LeadsCon 2024 Las Vegas](https://afflift.com/f/threads/newsbreak-is-heading-to-leadscon-2024-las-vegas.12915/)
--  03 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  03 [How I Keep My Offers Organized](https://afflift.com/f/threads/how-i-keep-my-offers-organized.11643/)
--  03 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  03 [The Ultimate Guide to More Money and Less Stress!](https://afflift.com/f/threads/the-ultimate-guide-to-more-money-and-less-stress.12901/)<!-- afflift:END -->
+-  03 [NewsBreak is heading to LeadsCon 2024 Las Vegas](https://afflift.com/f/threads/newsbreak-is-heading-to-leadscon-2024-las-vegas.12915/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
