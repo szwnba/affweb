@@ -54,5 +54,4 @@
 <!-- sspai:START -->
 -  03 [选题、专业性、完美主义、数据和灵感，这些创作焦虑该如何应对？](https://sspai.com/post/87015)
 -  03 [派早报：ChatGPT 支持免登录使用等](https://sspai.com/post/87773)
--  02 [社区速递 038 | 新玩意、进度条和派友们最爱的鼠标](https://sspai.com/post/87761)
--  02 [轻量化、自动化、全面化：我的「量化自我」尝试数字之旅](https://sspai.com/post/86747)<!-- sspai:END -->
+-  02 [社区速递 038 | 新玩意、进度条和派友们最爱的鼠标](https://sspai.com/post/87761)<!-- sspai:END -->
