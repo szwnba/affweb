@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [🚀🚀 Push Database Building For Adsense Arbitrage 🔥🔥](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%9A%80-push-database-building-for-adsense-arbitrage-%F0%9F%94%A5%F0%9F%94%A5.12824/)
+-  03 [PayWithUs -Anonymous Reloadable Virtual Cards &lpar;VCC&rpar; - Without ID Verification. Pay with Crypto.](https://afflift.com/f/threads/paywithus-anonymous-reloadable-virtual-cards-vcc-without-id-verification-pay-with-crypto.12918/)
 -  03 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  03 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)
 -  03 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
@@ -45,9 +47,7 @@
 -  03 [Getting Error for Golden Goose Conversion Testing](https://afflift.com/f/threads/getting-error-for-golden-goose-conversion-testing.12916/)
 -  03 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
 -  03 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
--  03 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)
--  03 [Method Adsense Traffic Arbitrage &lpar;10x ROI&rpar;🚀](https://afflift.com/f/threads/method-adsense-traffic-arbitrage-10x-roi-%F0%9F%9A%80.11268/)
--  03 [How much are an ok CTR value and a good CTR value for a push campaign?](https://afflift.com/f/threads/how-much-are-an-ok-ctr-value-and-a-good-ctr-value-for-a-push-campaign.12906/)<!-- afflift:END -->
+-  03 [CrakRevenue just upped the game with 7 new OnlyFans offers!](https://afflift.com/f/threads/crakrevenue-just-upped-the-game-with-7-new-onlyfans-offers.12648/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
