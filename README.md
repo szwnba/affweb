@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Seek Help：questions about CTA URL](https://afflift.com/f/threads/seek-help%EF%BC%9Aquestions-about-cta-url.12910/)
+-  03 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
+-  03 [Method - Make $250/Week With This Unique AI Technique! &lpar;Step by Step Guide&rpar;](https://afflift.com/f/threads/method-make-250-week-with-this-unique-ai-technique-step-by-step-guide.12903/)
+-  03 [✅Fresh Gmail ✅Aged Gmail ✅App Password ✅Forwarded Gmail ✅Warmup Gmail ✅YouTube ✅Twitter ✅LinkedIn Accounts](https://afflift.com/f/threads/%E2%9C%85fresh-gmail-%E2%9C%85aged-gmail-%E2%9C%85app-password-%E2%9C%85forwarded-gmail-%E2%9C%85warmup-gmail-%E2%9C%85youtube-%E2%9C%85twitter-%E2%9C%85linkedin-accounts.12815/)
 -  03 [Which ad format are you focusing on in 2024?](https://afflift.com/f/threads/which-ad-format-are-you-focusing-on-in-2024.12222/)
 -  03 [Do You Believe in Afterlife?](https://afflift.com/f/threads/do-you-believe-in-afterlife.12912/)
 -  03 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
--  03 [Seek Help：questions about CTA URL](https://afflift.com/f/threads/seek-help%EF%BC%9Aquestions-about-cta-url.12910/)
 -  03 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  03 [Exploring Antidetect Browsers: Safeguarding Your Online Identity!](https://afflift.com/f/threads/exploring-antidetect-browsers-safeguarding-your-online-identity.12911/)
 -  03 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  03 [Method - Make $250/Week With This Unique AI Technique! &lpar;Step by Step Guide&rpar;](https://afflift.com/f/threads/method-make-250-week-with-this-unique-ai-technique-step-by-step-guide.12903/)
 -  03 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
--  03 [Afflift Beginners Course 2.0 is been sold on BHW for $99](https://afflift.com/f/threads/afflift-beginners-course-2-0-is-been-sold-on-bhw-for-99.12909/)
--  03 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
--  03 [Changing offer/lps without a new ad network campaign?](https://afflift.com/f/threads/changing-offer-lps-without-a-new-ad-network-campaign.12908/)<!-- afflift:END -->
+-  03 [Afflift Beginners Course 2.0 is been sold on BHW for $99](https://afflift.com/f/threads/afflift-beginners-course-2-0-is-been-sold-on-bhw-for-99.12909/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
