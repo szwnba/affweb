@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [How much are an ok CTR value and a good CTR value for a push campaign?](https://afflift.com/f/threads/how-much-are-an-ok-ctr-value-and-a-good-ctr-value-for-a-push-campaign.12906/)
+-  03 [Welcome Cashback: Geozo Ad Platform launches bonuses for new advertisers](https://afflift.com/f/threads/welcome-cashback-geozo-ad-platform-launches-bonuses-for-new-advertisers.12914/)
 -  03 [Afflift Beginners Course 2.0 is been sold on BHW for $99](https://afflift.com/f/threads/afflift-beginners-course-2-0-is-been-sold-on-bhw-for-99.12909/)
+-  03 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
+-  03 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
 -  03 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  03 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  03 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  03 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
 -  03 [How to Make Money with Email Lists: Finding the Right Traffic Sources to Collect Emails, Profitable Niches, and Monetization Strategies](https://afflift.com/f/threads/how-to-make-money-with-email-lists-finding-the-right-traffic-sources-to-collect-emails-profitable-niches-and-monetization-strategies.12913/)
 -  03 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
--  03 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
--  03 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
--  03 [What kind of offers or affiliate network for PopAds?](https://afflift.com/f/threads/what-kind-of-offers-or-affiliate-network-for-popads.12239/)
--  03 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  03 [⚡️BANZAI Partners - a brand new in-house advertiser with a void player database. RevShare up to 50%](https://afflift.com/f/threads/%E2%9A%A1%EF%B8%8Fbanzai-partners-a-brand-new-in-house-advertiser-with-a-void-player-database-revshare-up-to-50.12811/)<!-- afflift:END -->
+-  03 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
