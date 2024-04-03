@@ -52,6 +52,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [清谈半窗月，澹坐一杯茶：我的饮茶入坑杂记](https://sspai.com/post/87788)
 -  03 [选题、专业性、完美主义、数据和灵感，这些创作焦虑该如何应对？](https://sspai.com/post/87015)
 -  03 [派早报：ChatGPT 支持免登录使用等](https://sspai.com/post/87773)
 -  02 [社区速递 038 | 新玩意、进度条和派友们最爱的鼠标](https://sspai.com/post/87761)<!-- sspai:END -->
