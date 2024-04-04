@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  04 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
+-  04 [Propeller Ads With Pin Submit Offer 💀 &quot;#PA10k&quot;](https://afflift.com/f/threads/propeller-ads-with-pin-submit-offer-%F0%9F%92%80-pa10k.8917/)
+-  04 [low budget problem](https://afflift.com/f/threads/low-budget-problem.12922/)
+-  04 [Afflift Beginners Course 2.0 is been sold on BHW for $99](https://afflift.com/f/threads/afflift-beginners-course-2-0-is-been-sold-on-bhw-for-99.12909/)
+-  04 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
+-  04 [Getting Error for Golden Goose Conversion Testing](https://afflift.com/f/threads/getting-error-for-golden-goose-conversion-testing.12916/)
+-  04 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
 -  04 [a late hello](https://afflift.com/f/threads/a-late-hello.12919/)
 -  04 [💬 “Share on WhatsApp” Popup for Landing Pages](https://afflift.com/f/threads/%F0%9F%92%AC-%E2%80%9Cshare-on-whatsapp%E2%80%9D-popup-for-landing-pages.12819/)
 -  04 [🛡️ Protect your landing pages from direct access &lpar;works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-works-with-cloudflare-pages.12923/)
--  04 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  04 [MEGA Thread of Useful Landing Page Scripts](https://afflift.com/f/threads/mega-thread-of-useful-landing-page-scripts.2595/)
--  04 [How long do your tests last?](https://afflift.com/f/threads/how-long-do-your-tests-last.12917/)
--  04 [Getting Error for Golden Goose Conversion Testing](https://afflift.com/f/threads/getting-error-for-golden-goose-conversion-testing.12916/)
--  04 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  04 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
--  04 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
--  04 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)<!-- afflift:END -->
+-  04 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
