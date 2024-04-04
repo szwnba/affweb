@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [1.5B impressions daily with premium pop traffic 🔥](https://afflift.com/f/threads/1-5b-impressions-daily-with-premium-pop-traffic-%F0%9F%94%A5.12920/)
+-  04 [a late hello](https://afflift.com/f/threads/a-late-hello.12919/)
 -  04 [Push.house+Dating &quot;A Perfect Match&quot;](https://afflift.com/f/threads/push-house-dating-a-perfect-match.12866/)
 -  04 [🚀🚀 Push Database Building For Adsense Arbitrage 🔥🔥](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%9A%80-push-database-building-for-adsense-arbitrage-%F0%9F%94%A5%F0%9F%94%A5.12824/)
 -  04 [Discovering High Conversion, Quick Result Affiliate Programs](https://afflift.com/f/threads/discovering-high-conversion-quick-result-affiliate-programs.12870/)
 -  04 [How long do your tests last?](https://afflift.com/f/threads/how-long-do-your-tests-last.12917/)
 -  04 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  04 [Propeller Ads With Pin Submit Offer 💀 &quot;#PA10k&quot;](https://afflift.com/f/threads/propeller-ads-with-pin-submit-offer-%F0%9F%92%80-pa10k.8917/)
--  04 [a late hello](https://afflift.com/f/threads/a-late-hello.12919/)
 -  03 [PayWithUs -Anonymous Reloadable Virtual Cards &lpar;VCC&rpar; - Without ID Verification. Pay with Crypto.](https://afflift.com/f/threads/paywithus-anonymous-reloadable-virtual-cards-vcc-without-id-verification-pay-with-crypto.12918/)
 -  03 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  03 [Changing offer/lps without a new ad network campaign?](https://afflift.com/f/threads/changing-offer-lps-without-a-new-ad-network-campaign.12908/)
--  03 [Never too late-Important in participation, 💰unimportant in losses and gains.🤑](https://afflift.com/f/threads/never-too-late-important-in-participation-%F0%9F%92%B0unimportant-in-losses-and-gains-%F0%9F%A4%91.12861/)
--  03 [Getting Error for Golden Goose Conversion Testing](https://afflift.com/f/threads/getting-error-for-golden-goose-conversion-testing.12916/)<!-- afflift:END -->
+-  03 [Never too late-Important in participation, 💰unimportant in losses and gains.🤑](https://afflift.com/f/threads/never-too-late-important-in-participation-%F0%9F%92%B0unimportant-in-losses-and-gains-%F0%9F%A4%91.12861/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
