@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  04 [How long do your tests last?](https://afflift.com/f/threads/how-long-do-your-tests-last.12917/)
+-  04 [Getting Error for Golden Goose Conversion Testing](https://afflift.com/f/threads/getting-error-for-golden-goose-conversion-testing.12916/)
+-  04 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
+-  04 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
 -  04 [🛡️ Protect your landing pages from direct access &lpar;works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-works-with-cloudflare-pages.12923/)
+-  04 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
+-  04 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
+-  04 [MEGA Thread of Useful Landing Page Scripts](https://afflift.com/f/threads/mega-thread-of-useful-landing-page-scripts.2595/)
+-  04 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  04 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  04 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  04 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  04 [How to Use Lookalike Audiences in Google Ads to Find New Customers](https://afflift.com/f/threads/how-to-use-lookalike-audiences-in-google-ads-to-find-new-customers.12925/)
--  04 [🚫 Block Crawlers From Accessing Your Landing Page](https://afflift.com/f/threads/%F0%9F%9A%AB-block-crawlers-from-accessing-your-landing-page.10761/)
--  04 [🖥️  How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/%F0%9F%96%A5%EF%B8%8F-how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
--  04 [🔥 14 Free Landing Pages with Integrated Backunder Script and Popup!](https://afflift.com/f/threads/%F0%9F%94%A5-14-free-landing-pages-with-integrated-backunder-script-and-popup.10816/)
--  04 [💳 💳 💳 FlexCard - virtual cards for affiliate marketing and payment for personal purchases. Get free cards using promo code... 🔥🔥🔥](https://afflift.com/f/threads/%F0%9F%92%B3-%F0%9F%92%B3-%F0%9F%92%B3-flexcard-virtual-cards-for-affiliate-marketing-and-payment-for-personal-purchases-get-free-cards-using-promo-code-%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5.12924/)
--  04 [RevContent RON + Nutra +TheOptimizer Follow Along](https://afflift.com/f/threads/revcontent-ron-nutra-theoptimizer-follow-along.7210/)
--  04 [low budget problem](https://afflift.com/f/threads/low-budget-problem.12922/)<!-- afflift:END -->
+-  04 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
