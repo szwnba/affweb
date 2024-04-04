@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  04 [a late hello](https://afflift.com/f/threads/a-late-hello.12919/)
 -  04 [💬 “Share on WhatsApp” Popup for Landing Pages](https://afflift.com/f/threads/%F0%9F%92%AC-%E2%80%9Cshare-on-whatsapp%E2%80%9D-popup-for-landing-pages.12819/)
 -  04 [🛡️ Protect your landing pages from direct access &lpar;works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-works-with-cloudflare-pages.12923/)
@@ -46,8 +47,7 @@
 -  04 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  04 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
 -  04 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
--  04 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
--  04 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
+-  04 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
