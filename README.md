@@ -51,6 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  04 [写给 Apple 用户的情书：vivo X Fold3 Pro](https://sspai.com/post/87747)
--  03 [小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/prime/story/ingress-ten-years)
--  03 [当 AI 拥有 200 万字的记忆：体验 Kimi 智能助手长上下文支持](https://sspai.com/post/87797)<!-- sspai:END -->
+-  04 [写给 Apple 用户的情书：vivo X Fold3 Pro](https://sspai.com/post/87747)<!-- sspai:END -->
