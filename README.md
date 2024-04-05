@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
 -  05 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  05 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  05 [I&#39;m really sad , Follow Along](https://afflift.com/f/threads/im-really-sad-follow-along.12927/)
@@ -46,8 +47,7 @@
 -  05 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  05 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  04 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
--  04 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  04 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)<!-- afflift:END -->
+-  04 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
