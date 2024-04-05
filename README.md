@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  05 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  05 [Any suggestions for mVAS landing page?](https://afflift.com/f/threads/any-suggestions-for-mvas-landing-page.12932/)
 -  05 [Is it normal for Conversions not recorded on Propeller ads dashboard ?](https://afflift.com/f/threads/is-it-normal-for-conversions-not-recorded-on-propeller-ads-dashboard.12935/)
 -  05 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  05 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  05 [Confused about Monetizer](https://afflift.com/f/threads/confused-about-monetizer.12898/)
 -  05 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 -  05 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)
 -  05 [🛡️ Protect your landing pages from direct access &lpar;works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-works-with-cloudflare-pages.12923/)
 -  05 [I&#39;m really sad , Follow Along](https://afflift.com/f/threads/im-really-sad-follow-along.12927/)
 -  05 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
--  05 [Custom domains in LiteSpeed Web Server](https://afflift.com/f/threads/custom-domains-in-litespeed-web-server.12931/)
--  05 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
+-  05 [Custom domains in LiteSpeed Web Server](https://afflift.com/f/threads/custom-domains-in-litespeed-web-server.12931/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
