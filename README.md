@@ -36,9 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  05 [I&#39;m really sad , Follow Along](https://afflift.com/f/threads/im-really-sad-follow-along.12927/)
 -  05 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  05 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  05 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  05 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  04 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
