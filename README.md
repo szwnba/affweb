@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  04 [想要投谷歌广告应该怎么做？](https://www.advertcn.com/thread-114563-1-1.html)<!-- advertcn1:END -->
+-  05 [pia s5使用遇到问题求助](https://www.advertcn.com/thread-114568-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
