@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [why my creative cannnot pass by propellerads everytime？](https://afflift.com/f/threads/why-my-creative-cannnot-pass-by-propellerads-everytime%EF%BC%9F.12929/)
 -  05 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  05 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  05 [Any suggestions for mVAS landing page?](https://afflift.com/f/threads/any-suggestions-for-mvas-landing-page.12932/)
@@ -48,8 +49,7 @@
 -  05 [Help: Is there an issue with Maxconv costs during offer conversion?](https://afflift.com/f/threads/help-is-there-an-issue-with-maxconv-costs-during-offer-conversion.12928/)
 -  05 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  05 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
--  05 [SmartLink Optimization: What Should I Do?](https://afflift.com/f/threads/smartlink-optimization-what-should-i-do.12930/)
--  05 [Custom domains in LiteSpeed Web Server](https://afflift.com/f/threads/custom-domains-in-litespeed-web-server.12931/)<!-- afflift:END -->
+-  05 [SmartLink Optimization: What Should I Do?](https://afflift.com/f/threads/smartlink-optimization-what-should-i-do.12930/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
