@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  04 [写给 Apple 用户的情书：vivo X Fold3 Pro](https://sspai.com/post/87747)<!-- sspai:END -->
+-  05 [本周看什么 | 最近值得一看的一大斗作品](https://sspai.com/post/87799)<!-- sspai:END -->
