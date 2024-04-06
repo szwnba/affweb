@@ -53,4 +53,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [特别策划 | 灵活而又强大的 Notion 可以怎么用？不妨看看少数派们的分享](https://sspai.com/post/87836)
 -  05 [本周看什么 | 最近值得一看的一大斗作品](https://sspai.com/post/87799)<!-- sspai:END -->
