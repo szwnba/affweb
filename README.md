@@ -37,13 +37,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  06 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  06 [From SEO to Facebook ads](https://afflift.com/f/threads/from-seo-to-facebook-ads.12936/)
 -  06 [Is it normal for Conversions not recorded on Propeller ads dashboard ?](https://afflift.com/f/threads/is-it-normal-for-conversions-not-recorded-on-propeller-ads-dashboard.12935/)
 -  06 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  06 [Never too late-Important in participation, 💰unimportant in losses and gains.🤑](https://afflift.com/f/threads/never-too-late-important-in-participation-%F0%9F%92%B0unimportant-in-losses-and-gains-%F0%9F%A4%91.12861/)
 -  06 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  06 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  06 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
 -  06 [I&#39;m really sad , Follow Along](https://afflift.com/f/threads/im-really-sad-follow-along.12927/)
 -  06 [Evadav in-page push+adult dating. Trying to make it profitable and stable.](https://afflift.com/f/threads/evadav-in-page-push-adult-dating-trying-to-make-it-profitable-and-stable.12823/)
