@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  06 [📰Bob&#39;s Affiliate Marketing Moments🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-affiliate-marketing-moments%F0%9F%94%8E.11842/)
 -  06 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  06 [Hey ChatGPT, Create a campaign😀[Explore the use of ChatGPT in affiliate]🔎](https://afflift.com/f/threads/hey-chatgpt-create-a-campaign%F0%9F%98%80-explore-the-use-of-chatgpt-in-affiliate-%F0%9F%94%8E.12937/)
@@ -46,8 +47,7 @@
 -  06 [Is it normal for Conversions not recorded on Propeller ads dashboard ?](https://afflift.com/f/threads/is-it-normal-for-conversions-not-recorded-on-propeller-ads-dashboard.12935/)
 -  06 [Never too late-Important in participation, 💰unimportant in losses and gains.🤑](https://afflift.com/f/threads/never-too-late-important-in-participation-%F0%9F%92%B0unimportant-in-losses-and-gains-%F0%9F%A4%91.12861/)
 -  06 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  06 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)
--  06 [I&#39;m really sad , Follow Along](https://afflift.com/f/threads/im-really-sad-follow-along.12927/)<!-- afflift:END -->
+-  06 [Detailed Clickadu Follow Along 2024](https://afflift.com/f/threads/detailed-clickadu-follow-along-2024.12883/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
