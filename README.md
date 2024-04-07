@@ -39,8 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [Find Offers to Promote on PropellerAds](https://afflift.com/f/threads/find-offers-to-promote-on-propellerads.6611/)
 -  07 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  07 [Find Offers to Promote on PropellerAds](https://afflift.com/f/threads/find-offers-to-promote-on-propellerads.6611/)
 -  07 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
 -  07 [Trying to Make Affiliate Marketing Work - Let&#39;s Hit $50/Day Profit Together!](https://afflift.com/f/threads/trying-to-make-affiliate-marketing-work-lets-hit-50-day-profit-together.9815/)
 -  07 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
