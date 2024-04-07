@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  05 [pia s5使用遇到问题求助](https://www.advertcn.com/thread-114568-1-1.html)<!-- advertcn1:END -->
+-  07 [独立站通过TikTok快速引流获客的6种方法](https://www.advertcn.com/thread-114573-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
