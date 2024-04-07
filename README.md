@@ -51,5 +51,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [你的眼睛也会长结石，但这事没什么可怕的](https://sspai.com/post/87853)
 -  07 [少数派为什么要支持创新者：做难而正确的事](https://sspai.com/post/87854)
 -  07 [Nothing Phone 2&lpar;a&rpar; 的「必要」与「表达」](https://sspai.com/post/87846)<!-- sspai:END -->
