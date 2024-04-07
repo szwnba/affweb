@@ -38,8 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [Trying to Make Affiliate Marketing Work - Let&#39;s Hit $50/Day Profit Together!](https://afflift.com/f/threads/trying-to-make-affiliate-marketing-work-lets-hit-50-day-profit-together.9815/)
 -  07 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  07 [Trying to Make Affiliate Marketing Work - Let&#39;s Hit $50/Day Profit Together!](https://afflift.com/f/threads/trying-to-make-affiliate-marketing-work-lets-hit-50-day-profit-together.9815/)
 -  07 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  07 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  07 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
