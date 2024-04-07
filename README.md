@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  05 [谷歌跑cpa 用的lp跳转 应该选择点击次数还是转化次数](https://www.advertcn.com/thread-114569-1-1.html)<!-- advertcn3:END -->
+-  07 [有人看得懂这个错误日志吗？](https://www.advertcn.com/thread-114572-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
