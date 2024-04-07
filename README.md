@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  06 [特别策划 | 灵活而又强大的 Notion 可以怎么用？不妨看看少数派们的分享](https://sspai.com/post/87836)<!-- sspai:END -->
+-  07 [Nothing Phone 2&lpar;a&rpar; 的「必要」与「表达」](https://sspai.com/post/87846)<!-- sspai:END -->
