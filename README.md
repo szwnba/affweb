@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [I&#39;m really sad , Follow Along](https://afflift.com/f/threads/im-really-sad-follow-along.12927/)
+-  06 [From SEO to Facebook ads](https://afflift.com/f/threads/from-seo-to-facebook-ads.12936/)
 -  06 [How I Keep My Offers Organized](https://afflift.com/f/threads/how-i-keep-my-offers-organized.11643/)
 -  06 [Hey ChatGPT, Create a campaign😀[Explore the use of ChatGPT in affiliate]🔎](https://afflift.com/f/threads/hey-chatgpt-create-a-campaign%F0%9F%98%80-explore-the-use-of-chatgpt-in-affiliate-%F0%9F%94%8E.12937/)
 -  06 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
@@ -45,9 +47,7 @@
 -  06 [📰Bob&#39;s Affiliate Marketing Moments🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-affiliate-marketing-moments%F0%9F%94%8E.11842/)
 -  06 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  06 [A complete challenge - win profits!](https://afflift.com/f/threads/a-complete-challenge-win-profits.12851/)
--  06 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  06 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  06 [From SEO to Facebook ads](https://afflift.com/f/threads/from-seo-to-facebook-ads.12936/)<!-- afflift:END -->
+-  06 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
