@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
+-  07 [Introducing the Beginners Course 2.0](https://afflift.com/f/threads/introducing-the-beginners-course-2-0.12432/)
 -  07 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  07 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  07 [Hello Everyone!](https://afflift.com/f/threads/hello-everyone.12938/)
@@ -47,9 +49,7 @@
 -  07 [From SEO to Facebook ads](https://afflift.com/f/threads/from-seo-to-facebook-ads.12936/)
 -  07 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  07 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  07 [Return to Form: Back in the Game, Back to Gain](https://afflift.com/f/threads/return-to-form-back-in-the-game-back-to-gain.12818/)
--  07 [Hey ChatGPT, Create a campaign😀[Explore the use of ChatGPT in affiliate]🔎](https://afflift.com/f/threads/hey-chatgpt-create-a-campaign%F0%9F%98%80-explore-the-use-of-chatgpt-in-affiliate-%F0%9F%94%8E.12937/)
--  07 [Netcraft Flag](https://afflift.com/f/threads/netcraft-flag.12885/)<!-- afflift:END -->
+-  07 [Return to Form: Back in the Game, Back to Gain](https://afflift.com/f/threads/return-to-form-back-in-the-game-back-to-gain.12818/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
