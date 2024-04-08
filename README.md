@@ -40,9 +40,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Find Offers to Promote on PropellerAds](https://afflift.com/f/threads/find-offers-to-promote-on-propellerads.6611/)
+-  08 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  08 [RollerAds vs. Propush – Which one is better for Facebook?](https://afflift.com/f/threads/rollerads-vs-propush-%E2%80%93-which-one-is-better-for-facebook.12948/)
 -  08 [Redirect users from in-app Facebook browser to Chrome](https://afflift.com/f/threads/redirect-users-from-in-app-facebook-browser-to-chrome.12944/)
--  08 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  08 [a late hello](https://afflift.com/f/threads/a-late-hello.12919/)
 -  08 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  08 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
@@ -50,8 +51,7 @@
 -  08 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  08 [Is it normal for Conversions not recorded on Propeller ads dashboard ?](https://afflift.com/f/threads/is-it-normal-for-conversions-not-recorded-on-propeller-ads-dashboard.12935/)
 -  08 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
--  08 [Use your chance to win iPhone 15 Pro Max, VR headset, Airpods Max, and 15% bonus!](https://afflift.com/f/threads/use-your-chance-to-win-iphone-15-pro-max-vr-headset-airpods-max-and-15-bonus.12947/)
--  08 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)<!-- afflift:END -->
+-  08 [Use your chance to win iPhone 15 Pro Max, VR headset, Airpods Max, and 15% bonus!](https://afflift.com/f/threads/use-your-chance-to-win-iphone-15-pro-max-vr-headset-airpods-max-and-15-bonus.12947/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
