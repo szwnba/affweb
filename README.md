@@ -39,6 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [🛡️ Protect your landing pages from direct access &lpar;works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-works-with-cloudflare-pages.12923/)
+-  08 [Made +$700 With Sweepstakes + Greece GEO &lpar;Here&#39;s How&rpar;](https://afflift.com/f/threads/made-700-with-sweepstakes-greece-geo-heres-how.12942/)
+-  08 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
 -  08 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
 -  08 [Step 4 - Setup Zeydoo in BeMob](https://afflift.com/f/threads/step-4-setup-zeydoo-in-bemob.7475/)
 -  08 [Step 3 - Setup PropellerAds in BeMob](https://afflift.com/f/threads/step-3-setup-propellerads-in-bemob.7474/)
@@ -47,10 +50,7 @@
 -  08 [START HERE - Survey Pops - The Intermediate Guide](https://afflift.com/f/threads/start-here-survey-pops-the-intermediate-guide.7471/)
 -  08 [Step 14 - Success / Failure Stories](https://afflift.com/f/threads/step-14-success-failure-stories.2951/)
 -  08 [Step 13 - The END, but really the BEGINNING?](https://afflift.com/f/threads/step-13-the-end-but-really-the-beginning.2950/)
--  08 [Step 12 - Optimized Results](https://afflift.com/f/threads/step-12-optimized-results.2949/)
--  08 [Step 11 - Optimizing our Campaign](https://afflift.com/f/threads/step-11-optimizing-our-campaign.2948/)
--  08 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
--  08 [Step 9 - Setup PopAds Postback in BeMob](https://afflift.com/f/threads/step-9-setup-popads-postback-in-bemob.2946/)<!-- afflift:END -->
+-  08 [Step 12 - Optimized Results](https://afflift.com/f/threads/step-12-optimized-results.2949/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
