@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  08 [Made +$700 With Sweepstakes + Greece GEO &lpar;Here&#39;s How&rpar;](https://afflift.com/f/threads/made-700-with-sweepstakes-greece-geo-heres-how.12942/)
+-  08 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  08 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  08 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  08 [Galaksion + Affmy + ...  Campaign Contest ⋆](https://afflift.com/f/threads/galaksion-affmy-campaign-contest-%E2%8B%86.11225/)
 -  08 [📣 Join Munch&#39;s affiliate program: Earn 25% recurring commission 😁](https://afflift.com/f/threads/%F0%9F%93%A3-join-munchs-affiliate-program-earn-25-recurring-commission-%F0%9F%98%81.12790/)
 -  08 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
 -  08 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  08 [Never too late-Important in participation, 💰unimportant in losses and gains.🤑](https://afflift.com/f/threads/never-too-late-important-in-participation-%F0%9F%92%B0unimportant-in-losses-and-gains-%F0%9F%A4%91.12861/)
 -  08 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
--  08 [Made +$700 With Sweepstakes + Greece GEO &lpar;Here&#39;s How&rpar;](https://afflift.com/f/threads/made-700-with-sweepstakes-greece-geo-heres-how.12942/)
 -  08 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  08 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
--  08 [🛡️ Protect your landing pages from direct access &lpar;works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-works-with-cloudflare-pages.12923/)<!-- afflift:END -->
+-  08 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
