@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  08 [Never too late-Important in participation, 💰unimportant in losses and gains.🤑](https://afflift.com/f/threads/never-too-late-important-in-participation-%F0%9F%92%B0unimportant-in-losses-and-gains-%F0%9F%A4%91.12861/)
+-  08 [#ZA Dating offer testing-on Propellerads Inpage Push Smart CPC](https://afflift.com/f/threads/za-dating-offer-testing-on-propellerads-inpage-push-smart-cpc.12890/)
+-  08 [Made +$700 With Sweepstakes + Greece GEO &lpar;Here&#39;s How&rpar;](https://afflift.com/f/threads/made-700-with-sweepstakes-greece-geo-heres-how.12942/)
+-  08 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  08 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  08 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
 -  08 [🛡️ Protect your landing pages from direct access &lpar;works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-works-with-cloudflare-pages.12923/)
 -  08 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  08 [Made +$700 With Sweepstakes + Greece GEO &lpar;Here&#39;s How&rpar;](https://afflift.com/f/threads/made-700-with-sweepstakes-greece-geo-heres-how.12942/)
 -  08 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  08 [Help: Is there an issue with Maxconv costs during offer conversion?](https://afflift.com/f/threads/help-is-there-an-issue-with-maxconv-costs-during-offer-conversion.12928/)
--  08 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  08 [Step 5 - Setting Up Zeydoo Survey Offers in BeMob](https://afflift.com/f/threads/step-5-setting-up-zeydoo-survey-offers-in-bemob.7476/)
--  08 [Step 4 - Setup Zeydoo in BeMob](https://afflift.com/f/threads/step-4-setup-zeydoo-in-bemob.7475/)
--  08 [Step 3 - Setup PropellerAds in BeMob](https://afflift.com/f/threads/step-3-setup-propellerads-in-bemob.7474/)
--  08 [Step 2 - Create PropellerAds Account](https://afflift.com/f/threads/step-2-create-propellerads-account.7473/)
--  08 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
--  08 [START HERE - Survey Pops - The Intermediate Guide](https://afflift.com/f/threads/start-here-survey-pops-the-intermediate-guide.7471/)<!-- afflift:END -->
+-  08 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
