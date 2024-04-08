@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  08 [TikTok广告这样投放，能帮你赚回一套房，全文干货！](https://www.advertcn.com/thread-114581-1-1.html)
--  07 [独立站通过TikTok快速引流获客的6种方法](https://www.advertcn.com/thread-114573-1-1.html)<!-- advertcn1:END -->
+-  08 [TikTok广告这样投放，能帮你赚回一套房，全文干货！](https://www.advertcn.com/thread-114581-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
