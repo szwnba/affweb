@@ -40,7 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [Made +$700 With Sweepstakes + Greece GEO &lpar;Here&#39;s How&rpar;](https://afflift.com/f/threads/made-700-with-sweepstakes-greece-geo-heres-how.12942/)
+-  08 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)
 -  08 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  08 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  08 [Potential CPA networks for Sweeps and Survey Campaigns](https://afflift.com/f/threads/potential-cpa-networks-for-sweeps-and-survey-campaigns.12943/)
