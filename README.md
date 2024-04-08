@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  08 [有大佬可以搞定德国的水电煤等地址证明吗?英文的](https://www.advertcn.com/thread-114580-1-1.html)
 -  07 [top域名 5元一个 有需要联系](https://www.advertcn.com/thread-114579-1-1.html)
 -  07 [全球VPS数据库  一站式搜索高性价比VPS方案](https://www.advertcn.com/thread-114577-1-1.html)
 -  07 [bemob后台大多数referrer域名数据显示empty？？？](https://www.advertcn.com/thread-114576-1-1.html)<!-- advertcn3:END -->
