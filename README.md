@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [RollerAds vs. Propush – Which one is better for Facebook?](https://afflift.com/f/threads/rollerads-vs-propush-%E2%80%93-which-one-is-better-for-facebook.12948/)
 -  08 [Redirect users from in-app Facebook browser to Chrome](https://afflift.com/f/threads/redirect-users-from-in-app-facebook-browser-to-chrome.12944/)
 -  08 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  08 [a late hello](https://afflift.com/f/threads/a-late-hello.12919/)
@@ -50,8 +51,7 @@
 -  08 [Is it normal for Conversions not recorded on Propeller ads dashboard ?](https://afflift.com/f/threads/is-it-normal-for-conversions-not-recorded-on-propeller-ads-dashboard.12935/)
 -  08 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
 -  08 [Use your chance to win iPhone 15 Pro Max, VR headset, Airpods Max, and 15% bonus!](https://afflift.com/f/threads/use-your-chance-to-win-iphone-15-pro-max-vr-headset-airpods-max-and-15-bonus.12947/)
--  08 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
--  08 [Follow Along Contest - Anything Goes - $2500 in Prizes](https://afflift.com/f/threads/follow-along-contest-anything-goes-2500-in-prizes.12808/)<!-- afflift:END -->
+-  08 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
