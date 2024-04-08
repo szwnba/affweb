@@ -56,6 +56,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [从零开始认识 API，把网页信息化为己用](https://sspai.com/post/87885)
 -  08 [也许学校根本没有教你如何学习：论什么是真正的自学](https://sspai.com/post/87551)
--  08 [派早报：运营商称将扩大「二次号码」解绑服务范围](https://sspai.com/post/87879)
--  07 [你的眼睛也会长结石，但这事没什么可怕的](https://sspai.com/post/87853)<!-- sspai:END -->
+-  08 [派早报：运营商称将扩大「二次号码」解绑服务范围](https://sspai.com/post/87879)<!-- sspai:END -->
