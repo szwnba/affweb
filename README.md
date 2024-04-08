@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  29 [北京摩托车自己网上交保险，不用花钱找代办！](https://51.ruyo.net/18634.html)<!-- ruyo:END -->
+-  08 [site.ac免费提供9个.tc二级域名，支持自定义NS解析](https://51.ruyo.net/18639.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
