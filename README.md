@@ -41,6 +41,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Made +$700 With Sweepstakes + Greece GEO &lpar;Here&#39;s How&rpar;](https://afflift.com/f/threads/made-700-with-sweepstakes-greece-geo-heres-how.12942/)
+-  08 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
+-  08 [Return to Form: Back in the Game, Back to Gain](https://afflift.com/f/threads/return-to-form-back-in-the-game-back-to-gain.12818/)
 -  08 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  08 [Help: Is there an issue with Maxconv costs during offer conversion?](https://afflift.com/f/threads/help-is-there-an-issue-with-maxconv-costs-during-offer-conversion.12928/)
 -  08 [SimilarWeb: rank check [bulk]](https://afflift.com/f/threads/similarweb-rank-check-bulk.12941/)
@@ -48,11 +51,8 @@
 -  08 [Redirect users from in-app Facebook browser to Chrome](https://afflift.com/f/threads/redirect-users-from-in-app-facebook-browser-to-chrome.12944/)
 -  08 [Meet Online Dating Kings at the Conversion Conf Warsaw April 16 - 17 2024!](https://afflift.com/f/threads/meet-online-dating-kings-at-the-conversion-conf-warsaw-april-16-17-2024.12945/)
 -  08 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
--  08 [Made +$700 With Sweepstakes + Greece GEO &lpar;Here&#39;s How&rpar;](https://afflift.com/f/threads/made-700-with-sweepstakes-greece-geo-heres-how.12942/)
 -  08 [Potential CPA networks for Sweeps and Survey Campaigns](https://afflift.com/f/threads/potential-cpa-networks-for-sweeps-and-survey-campaigns.12943/)
--  08 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  08 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  08 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)<!-- afflift:END -->
+-  08 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
