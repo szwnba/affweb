@@ -28,8 +28,7 @@
 <!-- advertcn3:START -->
 -  08 [原生Native广告spy工具团购的车哪里还有？](https://www.advertcn.com/thread-114583-1-1.html)
 -  08 [开outbrain和Taboola等原生广告账户，有什么要求吗？](https://www.advertcn.com/thread-114582-1-1.html)
--  08 [有大佬可以搞定德国的水电煤等地址证明吗?英文的](https://www.advertcn.com/thread-114580-1-1.html)
--  07 [top域名 5元一个 有需要联系](https://www.advertcn.com/thread-114579-1-1.html)<!-- advertcn3:END -->
+-  08 [有大佬可以搞定德国的水电煤等地址证明吗?英文的](https://www.advertcn.com/thread-114580-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
