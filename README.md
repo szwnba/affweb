@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)
 -  09 [打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
 -  09 [派早报：14 款进口网络游戏获批、台积电获美国补贴将建第三厂等](https://sspai.com/post/87916)
 -  08 [陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)
