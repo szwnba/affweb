@@ -39,6 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
+-  09 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
+-  09 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  09 [Wid&#39;s mVAS Follow Along #2024](https://afflift.com/f/threads/wids-mvas-follow-along-2024.12822/)
 -  09 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
 -  09 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  09 [I&#39;m really sad , Follow Along](https://afflift.com/f/threads/im-really-sad-follow-along.12927/)
@@ -46,11 +50,7 @@
 -  09 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  09 [Custom domains in LiteSpeed Web Server](https://afflift.com/f/threads/custom-domains-in-litespeed-web-server.12931/)
 -  09 [Redirect users from in-app Facebook browser to Chrome](https://afflift.com/f/threads/redirect-users-from-in-app-facebook-browser-to-chrome.12944/)
--  09 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
--  09 [Cheap Traffic for Promoting Dating Offers in India: Examples of Traffic Sources and Best Ad Creatives](https://afflift.com/f/threads/cheap-traffic-for-promoting-dating-offers-in-india-examples-of-traffic-sources-and-best-ad-creatives.12950/)
--  09 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  09 [The Untold Truth About High-Ticket Affiliate Marketing: Unveiling Digital Dynasty&#39;s Goldmine](https://afflift.com/f/threads/the-untold-truth-about-high-ticket-affiliate-marketing-unveiling-digital-dynastys-goldmine.12949/)
--  09 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)<!-- afflift:END -->
+-  09 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
