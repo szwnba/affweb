@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  09 [Leadmob联盟](https://www.advertcn.com/thread-114600-1-1.html)
 -  09 [新人报道](https://www.advertcn.com/thread-114599-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
