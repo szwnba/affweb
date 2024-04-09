@@ -25,6 +25,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  09 [Facebook产品更新|有关提高单日预算限制的更新](https://www.advertcn.com/thread-114595-1-1.html)
+-  09 [maxconv的click url总是死链](https://www.advertcn.com/thread-114593-1-1.html)
 -  08 [原生Native广告spy工具团购的车哪里还有？](https://www.advertcn.com/thread-114583-1-1.html)
 -  08 [开outbrain和Taboola等原生广告账户，有什么要求吗？](https://www.advertcn.com/thread-114582-1-1.html)<!-- advertcn3:END -->
 
