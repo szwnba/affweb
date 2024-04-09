@@ -39,10 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  09 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
 -  09 [Use your chance to win iPhone 15 Pro Max, VR headset, Airpods Max, and 15% bonus!](https://afflift.com/f/threads/use-your-chance-to-win-iphone-15-pro-max-vr-headset-airpods-max-and-15-bonus.12947/)
 -  09 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  09 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  09 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  09 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  09 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
