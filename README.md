@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  09 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
+-  09 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
+-  09 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
+-  09 [dr.cash is one of the TOP affiliate network for working with Nutra vertical all over the world.](https://afflift.com/f/threads/dr-cash-is-one-of-the-top-affiliate-network-for-working-with-nutra-vertical-all-over-the-world.11669/)
+-  09 [Use your chance to win iPhone 15 Pro Max, VR headset, Airpods Max, and 15% bonus!](https://afflift.com/f/threads/use-your-chance-to-win-iphone-15-pro-max-vr-headset-airpods-max-and-15-bonus.12947/)
+-  09 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  09 [Affiliate Performance Metrics in iGaming: What metrics do you use to assess your success?](https://afflift.com/f/threads/affiliate-performance-metrics-in-igaming-what-metrics-do-you-use-to-assess-your-success.12952/)
 -  09 [Make profits with dating offers💘💰](https://afflift.com/f/threads/make-profits-with-dating-offers%F0%9F%92%98%F0%9F%92%B0.12848/)
 -  09 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  09 [Wid&#39;s mVAS Follow Along #2024](https://afflift.com/f/threads/wids-mvas-follow-along-2024.12822/)
--  09 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
--  09 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
--  09 [I&#39;m really sad , Follow Along](https://afflift.com/f/threads/im-really-sad-follow-along.12927/)
--  09 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  09 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  09 [Custom domains in LiteSpeed Web Server](https://afflift.com/f/threads/custom-domains-in-litespeed-web-server.12931/)
--  09 [Redirect users from in-app Facebook browser to Chrome](https://afflift.com/f/threads/redirect-users-from-in-app-facebook-browser-to-chrome.12944/)
--  09 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)<!-- afflift:END -->
+-  09 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
