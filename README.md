@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  08 [TikTok广告这样投放，能帮你赚回一套房，全文干货！](https://www.advertcn.com/thread-114581-1-1.html)<!-- advertcn1:END -->
+-  09 [新人报道](https://www.advertcn.com/thread-114599-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
