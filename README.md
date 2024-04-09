@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
+-  09 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
 -  09 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  09 [How to Look-Up PropellerAds Regional Macro Codes](https://afflift.com/f/threads/how-to-look-up-propellerads-regional-macro-codes.12777/)
 -  09 [Potential CPA networks for Sweeps and Survey Campaigns](https://afflift.com/f/threads/potential-cpa-networks-for-sweeps-and-survey-campaigns.12943/)
@@ -47,10 +49,8 @@
 -  09 [PayWithUs -Anonymous Reloadable Virtual Cards &lpar;VCC&rpar; - Without ID Verification. Pay with Crypto.](https://afflift.com/f/threads/paywithus-anonymous-reloadable-virtual-cards-vcc-without-id-verification-pay-with-crypto.12918/)
 -  08 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  08 [Find Offers to Promote on PropellerAds](https://afflift.com/f/threads/find-offers-to-promote-on-propellerads.6611/)
--  08 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  08 [RollerAds vs. Propush – Which one is better for Facebook?](https://afflift.com/f/threads/rollerads-vs-propush-%E2%80%93-which-one-is-better-for-facebook.12948/)
--  08 [Redirect users from in-app Facebook browser to Chrome](https://afflift.com/f/threads/redirect-users-from-in-app-facebook-browser-to-chrome.12944/)
--  08 [a late hello](https://afflift.com/f/threads/a-late-hello.12919/)<!-- afflift:END -->
+-  08 [Redirect users from in-app Facebook browser to Chrome](https://afflift.com/f/threads/redirect-users-from-in-app-facebook-browser-to-chrome.12944/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
