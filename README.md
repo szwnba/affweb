@@ -39,6 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
+-  09 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
+-  09 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  09 [I&#39;m really sad , Follow Along](https://afflift.com/f/threads/im-really-sad-follow-along.12927/)
 -  09 [Use your chance to win iPhone 15 Pro Max, VR headset, Airpods Max, and 15% bonus!](https://afflift.com/f/threads/use-your-chance-to-win-iphone-15-pro-max-vr-headset-airpods-max-and-15-bonus.12947/)
 -  09 [RollerAds vs. Propush – Which one is better for Facebook?](https://afflift.com/f/threads/rollerads-vs-propush-%E2%80%93-which-one-is-better-for-facebook.12948/)
@@ -47,10 +50,7 @@
 -  09 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  09 [Setting up a New Mailing Operation](https://afflift.com/f/threads/setting-up-a-new-mailing-operation.12771/)
 -  09 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  09 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  09 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
--  09 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
--  09 [How to Look-Up PropellerAds Regional Macro Codes](https://afflift.com/f/threads/how-to-look-up-propellerads-regional-macro-codes.12777/)<!-- afflift:END -->
+-  09 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
