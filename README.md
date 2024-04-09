@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  09 [The Untold Truth About High-Ticket Affiliate Marketing: Unveiling Digital Dynasty&#39;s Goldmine](https://afflift.com/f/threads/the-untold-truth-about-high-ticket-affiliate-marketing-unveiling-digital-dynastys-goldmine.12949/)
 -  09 [PayWithUs -Anonymous Reloadable Virtual Cards &lpar;VCC&rpar; - Without ID Verification. Pay with Crypto.](https://afflift.com/f/threads/paywithus-anonymous-reloadable-virtual-cards-vcc-without-id-verification-pay-with-crypto.12918/)
 -  08 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
@@ -49,8 +50,7 @@
 -  08 [a late hello](https://afflift.com/f/threads/a-late-hello.12919/)
 -  08 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  08 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
--  08 [Hey ChatGPT, Create a campaign😀[Explore the use of ChatGPT in affiliate]🔎](https://afflift.com/f/threads/hey-chatgpt-create-a-campaign%F0%9F%98%80-explore-the-use-of-chatgpt-in-affiliate-%F0%9F%94%8E.12937/)
--  08 [Is it normal for Conversions not recorded on Propeller ads dashboard ?](https://afflift.com/f/threads/is-it-normal-for-conversions-not-recorded-on-propeller-ads-dashboard.12935/)<!-- afflift:END -->
+-  08 [Hey ChatGPT, Create a campaign😀[Explore the use of ChatGPT in affiliate]🔎](https://afflift.com/f/threads/hey-chatgpt-create-a-campaign%F0%9F%98%80-explore-the-use-of-chatgpt-in-affiliate-%F0%9F%94%8E.12937/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
