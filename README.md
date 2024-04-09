@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [社区速递 039 | 新玩意、自动记账和派友们关注的小红书博主](https://sspai.com/post/87929)
 -  09 [再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)
 -  09 [打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
 -  09 [派早报：14 款进口网络游戏获批、台积电获美国补贴将建第三厂等](https://sspai.com/post/87916)<!-- sspai:END -->
