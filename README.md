@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Bye Bye Calendar Format?](https://afflift.com/f/threads/bye-bye-calendar-format.12959/)
+-  10 [1Win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
+-  10 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  10 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
+-  10 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)
+-  10 [Searching for gambling affiliate networks](https://afflift.com/f/threads/searching-for-gambling-affiliate-networks.12955/)
+-  10 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
 -  10 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
 -  10 [Scale up your business with Mondiad, your multiformat, multivertical, global ad network! 🚀](https://afflift.com/f/threads/scale-up-your-business-with-mondiad-your-multiformat-multivertical-global-ad-network-%F0%9F%9A%80.8789/)
 -  10 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
--  10 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
 -  10 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  10 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
--  10 [🛡️ Protect your landing pages from direct access &lpar;script for Skro tracker&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-skro-tracker.12958/)
--  10 [low budget problem](https://afflift.com/f/threads/low-budget-problem.12922/)
--  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  10 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  10 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
--  10 [🛡️ Protect your landing pages from direct access &lpar;works with CloudFlare Pages&rpar; [BeMob]](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-works-with-cloudflare-pages-bemob.12923/)<!-- afflift:END -->
+-  10 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
