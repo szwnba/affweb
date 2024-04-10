@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Changing offer/lps without a new ad network campaign?](https://afflift.com/f/threads/changing-offer-lps-without-a-new-ad-network-campaign.12908/)
+-  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  10 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
+-  10 [Facebook + Impact.com offer good or bad idea ?](https://afflift.com/f/threads/facebook-impact-com-offer-good-or-bad-idea.12957/)
 -  10 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
 -  10 [Searching for gambling affiliate networks](https://afflift.com/f/threads/searching-for-gambling-affiliate-networks.12955/)
 -  10 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  10 [Meet MGID team at Conversion Conf 2024 in Warsaw](https://afflift.com/f/threads/meet-mgid-team-at-conversion-conf-2024-in-warsaw.12956/)
--  10 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
--  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  10 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  10 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  10 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  09 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  09 [Use your chance to win iPhone 15 Pro Max, VR headset, Airpods Max, and 15% bonus!](https://afflift.com/f/threads/use-your-chance-to-win-iphone-15-pro-max-vr-headset-airpods-max-and-15-bonus.12947/)
--  09 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)<!-- afflift:END -->
+-  09 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
