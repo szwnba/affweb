@@ -29,9 +29,7 @@
 <!-- advertcn3:START -->
 -  10 [【ChatGPT4】免费使用ChatGPT4的方法](https://www.advertcn.com/thread-114611-1-1.html)
 -  09 [taboola 绑信用卡秒封号](https://www.advertcn.com/thread-114610-1-1.html)
--  09 [github可以当服务器用吗，有几个问题没搞懂](https://www.advertcn.com/thread-114602-1-1.html)
--  09 [Facebook产品更新|有关提高单日预算限制的更新](https://www.advertcn.com/thread-114595-1-1.html)
--  09 [maxconv的click url总是死链](https://www.advertcn.com/thread-114593-1-1.html)<!-- advertcn3:END -->
+-  09 [github可以当服务器用吗，有几个问题没搞懂](https://www.advertcn.com/thread-114602-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
