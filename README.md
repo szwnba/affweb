@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  10 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
+-  10 [Documenting my journey running paid push ads](https://afflift.com/f/threads/documenting-my-journey-running-paid-push-ads.12963/)
+-  10 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  10 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  10 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  10 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  10 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
+-  10 [Potential CPA networks for Sweeps and Survey Campaigns](https://afflift.com/f/threads/potential-cpa-networks-for-sweeps-and-survey-campaigns.12943/)
 -  10 [Searching for gambling affiliate networks](https://afflift.com/f/threads/searching-for-gambling-affiliate-networks.12955/)
+-  10 [🔓 Unleash Fin Freedom With Finance Offers! 🌟](https://afflift.com/f/threads/%F0%9F%94%93-unleash-fin-freedom-with-finance-offers-%F0%9F%8C%9F.12863/)
+-  10 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
 -  10 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
 -  10 [Facebook + Impact.com offer good or bad idea ?](https://afflift.com/f/threads/facebook-impact-com-offer-good-or-bad-idea.12957/)
--  10 [📰Bob&#39;s Affiliate Marketing Moments🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-affiliate-marketing-moments%F0%9F%94%8E.11842/)
--  10 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
--  10 [PrivateCPA - Private Ad Network - Sweeps, Dating, Nutra, Downloads &amp; More](https://afflift.com/f/threads/privatecpa-private-ad-network-sweeps-dating-nutra-downloads-more.4271/)
--  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  10 [Bye Bye Calendar Format?](https://afflift.com/f/threads/bye-bye-calendar-format.12959/)
--  10 [1Win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)<!-- afflift:END -->
+-  10 [📰Bob&#39;s Affiliate Marketing Moments🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-affiliate-marketing-moments%F0%9F%94%8E.11842/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
