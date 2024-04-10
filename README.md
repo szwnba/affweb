@@ -17,11 +17,11 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  10 [好用的ip就用Storm](https://www.advertcn.com/thread-114629-1-1.html)
 -  10 [学会了TikTok小店投流，出单再也不用愁了](https://www.advertcn.com/thread-114625-1-1.html)
 -  10 [终于找到Facebook不被封号的技巧了](https://www.advertcn.com/thread-114622-1-1.html)
 -  10 [新人报道](https://www.advertcn.com/thread-114612-1-1.html)
--  09 [新人报道](https://www.advertcn.com/thread-114609-1-1.html)
--  09 [新人报道](https://www.advertcn.com/thread-114607-1-1.html)<!-- advertcn1:END -->
+-  09 [新人报道](https://www.advertcn.com/thread-114609-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
