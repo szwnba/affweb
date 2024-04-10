@@ -27,10 +27,10 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  10 [哈哈 广告按行卖了吗](https://www.advertcn.com/thread-114619-1-1.html)
 -  10 [关于pop流量中的ad](https://www.advertcn.com/thread-114615-1-1.html)
 -  10 [【ChatGPT4】免费使用ChatGPT4的方法](https://www.advertcn.com/thread-114611-1-1.html)
--  09 [taboola 绑信用卡秒封号](https://www.advertcn.com/thread-114610-1-1.html)
--  09 [github可以当服务器用吗，有几个问题没搞懂](https://www.advertcn.com/thread-114602-1-1.html)<!-- advertcn3:END -->
+-  09 [taboola 绑信用卡秒封号](https://www.advertcn.com/thread-114610-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
