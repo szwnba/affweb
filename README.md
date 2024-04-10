@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Searching for gambling affiliate networks](https://afflift.com/f/threads/searching-for-gambling-affiliate-networks.12955/)
+-  10 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
+-  10 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
+-  10 [PrivateCPA - Private Ad Network - Sweeps, Dating, Nutra, Downloads &amp; More](https://afflift.com/f/threads/privatecpa-private-ad-network-sweeps-dating-nutra-downloads-more.4271/)
+-  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  10 [Bye Bye Calendar Format?](https://afflift.com/f/threads/bye-bye-calendar-format.12959/)
 -  10 [1Win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
 -  10 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  10 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
 -  10 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)
--  10 [Searching for gambling affiliate networks](https://afflift.com/f/threads/searching-for-gambling-affiliate-networks.12955/)
 -  10 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  10 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
--  10 [Scale up your business with Mondiad, your multiformat, multivertical, global ad network! 🚀](https://afflift.com/f/threads/scale-up-your-business-with-mondiad-your-multiformat-multivertical-global-ad-network-%F0%9F%9A%80.8789/)
--  10 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
--  10 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  10 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)<!-- afflift:END -->
+-  10 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
