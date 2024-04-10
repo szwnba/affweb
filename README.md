@@ -55,7 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [当设计代替性价比：从设计的角度解读 Nothing Phone &lpar;2a&rpar;](https://sspai.com/post/87883)
 -  10 [派早报：Fairphone 推出可更换电池的 ANC 耳机等](https://sspai.com/post/87944)
 -  09 [社区速递 039 | 新玩意、自动记账和派友们关注的小红书博主](https://sspai.com/post/87929)
--  09 [再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)
--  09 [打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)<!-- sspai:END -->
+-  09 [再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)<!-- sspai:END -->
