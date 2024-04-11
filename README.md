@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  11 [Hello](https://www.advertcn.com/thread-114637-1-1.html)
 -  11 [建议收藏！TikTok运营工具合集](https://www.advertcn.com/thread-114636-1-1.html)
--  11 [Tiktok挂链接之后显示页面不安全，跳转不了应该这么解决...](https://www.advertcn.com/thread-114634-1-1.html)
--  10 [学会了TikTok小店投流，出单再也不用愁了](https://www.advertcn.com/thread-114625-1-1.html)<!-- advertcn1:END -->
+-  11 [Tiktok挂链接之后显示页面不安全，跳转不了应该这么解决...](https://www.advertcn.com/thread-114634-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
