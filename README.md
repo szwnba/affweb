@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  08 [site.ac免费提供9个.tc二级域名，支持自定义NS解析](https://51.ruyo.net/18639.html)<!-- ruyo:END -->
+-  11 [2024年最新申请AlphaSSL通配符域名证书教程](https://51.ruyo.net/18642.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
