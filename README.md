@@ -42,6 +42,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
+-  11 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
+-  11 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  11 [Facebook + Impact.com offer good or bad idea ?](https://afflift.com/f/threads/facebook-impact-com-offer-good-or-bad-idea.12957/)
 -  11 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
 -  11 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
@@ -50,10 +53,7 @@
 -  11 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  11 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  10 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  10 [Affiliate World Dubai 2024 Reflections](https://afflift.com/f/threads/affiliate-world-dubai-2024-reflections.12964/)
--  10 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  10 [Documenting my journey running paid push ads](https://afflift.com/f/threads/documenting-my-journey-running-paid-push-ads.12963/)
--  10 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)<!-- afflift:END -->
+-  10 [Affiliate World Dubai 2024 Reflections](https://afflift.com/f/threads/affiliate-world-dubai-2024-reflections.12964/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
