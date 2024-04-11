@@ -56,6 +56,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [派早报：红米召开新品发布会、暴雪娱乐确认回归等](https://sspai.com/post/87978)
 -  10 [曾经「装机必备」的老游戏，现在怎么样了？](https://sspai.com/post/78197)
--  10 [当设计代替性价比：从设计的角度解读 Nothing Phone &lpar;2a&rpar;](https://sspai.com/post/87883)
--  10 [派早报：Fairphone 推出可更换电池的 ANC 耳机等](https://sspai.com/post/87944)<!-- sspai:END -->
+-  10 [当设计代替性价比：从设计的角度解读 Nothing Phone &lpar;2a&rpar;](https://sspai.com/post/87883)<!-- sspai:END -->
