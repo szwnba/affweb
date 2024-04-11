@@ -27,8 +27,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  10 [小白开始做MediaBuy所了解到的信息，求大佬们指点](https://www.advertcn.com/thread-114633-1-1.html)
--  10 [网站从宝塔迁移到CyberPanel，最好的方法是哪个？](https://www.advertcn.com/thread-114624-1-1.html)<!-- advertcn3:END -->
+-  11 [【socks5】安卓手机直接使用socks5的方法](https://www.advertcn.com/thread-114640-1-1.html)
+-  10 [小白开始做MediaBuy所了解到的信息，求大佬们指点](https://www.advertcn.com/thread-114633-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
