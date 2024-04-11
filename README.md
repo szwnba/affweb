@@ -56,5 +56,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)
 -  11 [派早报：红米召开新品发布会、暴雪娱乐确认回归等](https://sspai.com/post/87978)
 -  10 [曾经「装机必备」的老游戏，现在怎么样了？](https://sspai.com/post/78197)<!-- sspai:END -->
