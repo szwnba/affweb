@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  11 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  11 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  11 [Searching for booking.com affiliate account](https://afflift.com/f/threads/searching-for-booking-com-affiliate-account.12968/)
+-  11 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  11 [Trafficstars malicious link problem](https://afflift.com/f/threads/trafficstars-malicious-link-problem.12966/)
+-  11 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
 -  11 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  11 [Have you tried popunder traffic by CPA?](https://afflift.com/f/threads/have-you-tried-popunder-traffic-by-cpa.6522/)
 -  11 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  11 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  11 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  11 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
--  11 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  11 [Facebook + Impact.com offer good or bad idea ?](https://afflift.com/f/threads/facebook-impact-com-offer-good-or-bad-idea.12957/)
--  11 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
--  11 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  11 [Hong Kong&#39;s Affiliate Goldmine: Top 10 Affiliate Programs You Need to Know](https://afflift.com/f/threads/hong-kongs-affiliate-goldmine-top-10-affiliate-programs-you-need-to-know.12965/)
--  11 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
+-  11 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
