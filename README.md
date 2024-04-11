@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  11 [Why Does Google Often Reject Even Whitehat Ads? And What Can Be Done in Such Cases?](https://afflift.com/f/threads/why-does-google-often-reject-even-whitehat-ads-and-what-can-be-done-in-such-cases.12970/)
 -  11 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  11 [Searching for booking.com affiliate account](https://afflift.com/f/threads/searching-for-booking-com-affiliate-account.12968/)
@@ -52,8 +53,7 @@
 -  11 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
 -  11 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
 -  11 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  11 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)
--  11 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)<!-- afflift:END -->
+-  11 [My first FA with Mobplus and PA #PA23](https://afflift.com/f/threads/my-first-fa-with-mobplus-and-pa-pa23.11576/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
