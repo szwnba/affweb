@@ -29,8 +29,7 @@
 <!-- advertcn3:START -->
 -  10 [小白开始做MediaBuy所了解到的信息，求大佬们指点](https://www.advertcn.com/thread-114633-1-1.html)
 -  10 [网站从宝塔迁移到CyberPanel，最好的方法是哪个？](https://www.advertcn.com/thread-114624-1-1.html)
--  10 [哈哈 广告按行卖了吗](https://www.advertcn.com/thread-114619-1-1.html)
--  10 [关于pop流量中的ad](https://www.advertcn.com/thread-114615-1-1.html)<!-- advertcn3:END -->
+-  10 [哈哈 广告按行卖了吗](https://www.advertcn.com/thread-114619-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
