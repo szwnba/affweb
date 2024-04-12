@@ -28,6 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  12 [分享一个比较实用的Pay-per-call 教程](https://www.advertcn.com/thread-114664-1-1.html)
 -  12 [有没有能发货法国的物流，](https://www.advertcn.com/thread-114663-1-1.html)
 -  12 [DigitalOcean 推出中国合作伙伴](https://www.advertcn.com/thread-114656-1-1.html)
 -  11 [Want to Learn Fb Ads](https://www.advertcn.com/thread-114649-1-1.html)
