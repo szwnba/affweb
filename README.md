@@ -47,17 +47,17 @@
 ### afflift
 <!-- afflift:START -->
 -  12 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  12 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
+-  12 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  12 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
+-  12 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
+-  12 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
+-  12 [Facebook, YouTube or Push/pop?](https://afflift.com/f/threads/facebook-youtube-or-push-pop.12972/)
+-  12 [Trafficstars malicious link problem](https://afflift.com/f/threads/trafficstars-malicious-link-problem.12966/)
 -  12 [STEP 10 - Buying Traffic on PopAds](https://afflift.com/f/threads/step-10-buying-traffic-on-popads.12321/)
 -  12 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  12 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
--  12 [Campaign Rejected ？Pre-Leandsr Dangerous website ？❌](https://afflift.com/f/threads/campaign-rejected-%EF%BC%9Fpre-leandsr-dangerous-website-%EF%BC%9F%E2%9D%8C.12973/)
--  12 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
--  12 [🔥 April Advertising Trends Roundup! 👀](https://afflift.com/f/threads/%F0%9F%94%A5-april-advertising-trends-roundup-%F0%9F%91%80.12976/)
--  12 [Facebook, YouTube or Push/pop?](https://afflift.com/f/threads/facebook-youtube-or-push-pop.12972/)
--  12 [STEP 3 - Apply for PopAds Traffic Source](https://afflift.com/f/threads/step-3-apply-for-popads-traffic-source.12313/)
--  12 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  12 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)<!-- afflift:END -->
+-  12 [Campaign Rejected ？Pre-Leandsr Dangerous website ？❌](https://afflift.com/f/threads/campaign-rejected-%EF%BC%9Fpre-leandsr-dangerous-website-%EF%BC%9F%E2%9D%8C.12973/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
