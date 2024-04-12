@@ -60,5 +60,4 @@
 <!-- sspai:START -->
 -  11 [新玩意 177｜少数派的编辑们最近买了啥？](https://sspai.com/post/87996)
 -  11 [当你以为自己用的是苹果系统字体](https://sspai.com/post/87960)
--  11 [给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)
--  11 [派早报：红米召开新品发布会、暴雪娱乐确认回归等](https://sspai.com/post/87978)<!-- sspai:END -->
+-  11 [给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)<!-- sspai:END -->
