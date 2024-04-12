@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  12 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)
--  12 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
--  12 [Facebook, YouTube or Push/pop?](https://afflift.com/f/threads/facebook-youtube-or-push-pop.12972/)
--  12 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  12 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  12 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
+-  12 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
+-  12 [a late hello](https://afflift.com/f/threads/a-late-hello.12919/)
+-  12 [Facebook, YouTube or Push/pop?](https://afflift.com/f/threads/facebook-youtube-or-push-pop.12972/)
 -  12 [Campaign Rejected ？Pre-Leandsr Dangerous website ？❌](https://afflift.com/f/threads/campaign-rejected-%EF%BC%9Fpre-leandsr-dangerous-website-%EF%BC%9F%E2%9D%8C.12973/)
--  12 [SmartLink Optimization: What Should I Do?](https://afflift.com/f/threads/smartlink-optimization-what-should-i-do.12930/)
--  11 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
--  11 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  11 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)<!-- afflift:END -->
+-  12 [Trafficstars malicious link problem](https://afflift.com/f/threads/trafficstars-malicious-link-problem.12966/)
+-  12 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  12 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
+-  12 [Is there anyone who is making a constant profit from the Zeydoo + Adsterra CPA network?](https://afflift.com/f/threads/is-there-anyone-who-is-making-a-constant-profit-from-the-zeydoo-adsterra-cpa-network.12230/)
+-  12 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
+-  12 [NEW WEBINAR for all iGaming fans and newbies 🔥](https://afflift.com/f/threads/new-webinar-for-all-igaming-fans-and-newbies-%F0%9F%94%A5.12813/)
+-  12 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
