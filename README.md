@@ -59,6 +59,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [用没那么枯燥的方式学英语：我的沉浸式语言学习实践](https://sspai.com/post/87977)
 -  12 [派早报：大疆发布 DJI Avata 2 无人机、汉王发布新款 N10 和 N10 Mini](https://sspai.com/post/88008)
 -  11 [新玩意 177｜少数派的编辑们最近买了啥？](https://sspai.com/post/87996)
 -  11 [当你以为自己用的是苹果系统字体](https://sspai.com/post/87960)<!-- sspai:END -->
