@@ -17,11 +17,9 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  12 [FACEBOOK用什么虚拟信用卡](https://www.advertcn.com/thread-114651-1-1.html)
+-  12 [干货技巧！TikTok广告竞价与计费模式解析](https://www.advertcn.com/thread-114657-1-1.html)
 -  12 [物流新人报道](https://www.advertcn.com/thread-114650-1-1.html)
--  11 [如何快速找到每天流量有几k或者几百的论坛](https://www.advertcn.com/thread-114645-1-1.html)
--  11 [Hello](https://www.advertcn.com/thread-114637-1-1.html)
--  11 [建议收藏！TikTok运营工具合集](https://www.advertcn.com/thread-114636-1-1.html)<!-- advertcn1:END -->
+-  11 [如何快速找到每天流量有几k或者几百的论坛](https://www.advertcn.com/thread-114645-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
