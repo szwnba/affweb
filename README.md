@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  12 [韩国naver广告开户](https://www.advertcn.com/thread-114666-1-1.html)
 -  12 [新人报道，需要fb资源的都可以找我哦](https://www.advertcn.com/thread-114660-1-1.html)
 -  12 [做跨境电商，出海中东热门注册国家推荐对比](https://www.advertcn.com/thread-114659-1-1.html)
 -  12 [干货技巧！TikTok广告竞价与计费模式解析](https://www.advertcn.com/thread-114657-1-1.html)
