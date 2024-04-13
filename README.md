@@ -61,5 +61,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  13 [触碰虚拟与现实的边界：少数派的 Let&#39;s visionOS 2024 大会回顾](https://sspai.com/post/88040)
--  12 [本周看什么 | 最近值得一看的好一些作品](https://sspai.com/post/88024)
--  12 [新兴云端部署服务 Zeabur 创始团队都装了啥？](https://sspai.com/prime/story/zhuanglesha-230412)<!-- sspai:END -->
+-  12 [本周看什么 | 最近值得一看的好一些作品](https://sspai.com/post/88024)<!-- sspai:END -->
