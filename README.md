@@ -29,6 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  13 [出海快半年了，连1美元都没赚到，快没信心了](https://www.advertcn.com/thread-114676-1-1.html)
 -  13 [出几个us的SAS联盟号](https://www.advertcn.com/thread-114670-1-1.html)
 -  12 [论坛上有在用Rola代理的小伙伴吗？求合租](https://www.advertcn.com/thread-114665-1-1.html)
 -  12 [分享一个比较实用的Pay-per-call 教程](https://www.advertcn.com/thread-114664-1-1.html)
