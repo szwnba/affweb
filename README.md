@@ -44,8 +44,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  13 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  13 [Intermediate Survey Pops Course &amp; Insights from a Newbie &lpar;First Campaign&rpar;](https://afflift.com/f/threads/intermediate-survey-pops-course-insights-from-a-newbie-first-campaign.12362/)
 -  12 [STEP 10 - Buying Traffic on PopAds](https://afflift.com/f/threads/step-10-buying-traffic-on-popads.12321/)
--  12 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  12 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  12 [STEP 3 - Apply for PopAds Traffic Source](https://afflift.com/f/threads/step-3-apply-for-popads-traffic-source.12313/)
 -  12 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
@@ -53,9 +55,7 @@
 -  12 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
 -  12 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  12 [Facebook, YouTube or Push/pop?](https://afflift.com/f/threads/facebook-youtube-or-push-pop.12972/)
--  12 [Trafficstars malicious link problem](https://afflift.com/f/threads/trafficstars-malicious-link-problem.12966/)
--  12 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  12 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)<!-- afflift:END -->
+-  12 [Trafficstars malicious link problem](https://afflift.com/f/threads/trafficstars-malicious-link-problem.12966/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
