@@ -19,9 +19,7 @@
 <!-- advertcn1:START -->
 -  13 [新人报道](https://www.advertcn.com/thread-114674-1-1.html)
 -  13 [新人报到](https://www.advertcn.com/thread-114673-1-1.html)
--  13 [新人报道](https://www.advertcn.com/thread-114672-1-1.html)
--  12 [新人报道](https://www.advertcn.com/thread-114669-1-1.html)
--  12 [韩国naver广告开户](https://www.advertcn.com/thread-114666-1-1.html)<!-- advertcn1:END -->
+-  13 [新人报道](https://www.advertcn.com/thread-114672-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
