@@ -26,8 +26,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  13 [请大家帮我看看这个独立站，怎么整比较合适？](https://www.advertcn.com/thread-114677-1-1.html)
--  13 [出海快半年了，连1美元都没赚到，快没信心了](https://www.advertcn.com/thread-114676-1-1.html)
--  13 [出几个us的SAS联盟号](https://www.advertcn.com/thread-114670-1-1.html)<!-- advertcn3:END -->
+-  13 [出海快半年了，连1美元都没赚到，快没信心了](https://www.advertcn.com/thread-114676-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
