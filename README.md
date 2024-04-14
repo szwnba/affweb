@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  13 [触碰虚拟与现实的边界：少数派的 Let&#39;s visionOS 2024 大会回顾](https://sspai.com/post/88040)<!-- sspai:END -->
+-  14 [具透 | 首个 Beta 版上线：Android 15 现阶段最值得关注的三大亮点汇总](https://sspai.com/post/88060)<!-- sspai:END -->
