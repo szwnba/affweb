@@ -39,6 +39,7 @@
 ### afflift
 <!-- afflift:START -->
 -  15 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  15 [Potential CPA networks for Sweeps and Survey Campaigns](https://afflift.com/f/threads/potential-cpa-networks-for-sweeps-and-survey-campaigns.12943/)
 -  15 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  15 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
 -  15 [Trafficstars malicious link problem](https://afflift.com/f/threads/trafficstars-malicious-link-problem.12966/)
@@ -48,8 +49,7 @@
 -  15 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  15 [Is Dynu In Media a reliable network? How to work with them effectively?](https://afflift.com/f/threads/is-dynu-in-media-a-reliable-network-how-to-work-with-them-effectively.12981/)
 -  15 [🛡️ Protect your landing pages from direct access &lpar;script for Skro tracker&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-skro-tracker.12958/)
--  15 [💳 💳 💳 FlexCard - virtual cards for affiliate marketing and payment for personal purchases. Get free cards using promo code... 🔥🔥🔥](https://afflift.com/f/threads/%F0%9F%92%B3-%F0%9F%92%B3-%F0%9F%92%B3-flexcard-virtual-cards-for-affiliate-marketing-and-payment-for-personal-purchases-get-free-cards-using-promo-code-%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5.12924/)
--  15 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)<!-- afflift:END -->
+-  15 [💳 💳 💳 FlexCard - virtual cards for affiliate marketing and payment for personal purchases. Get free cards using promo code... 🔥🔥🔥](https://afflift.com/f/threads/%F0%9F%92%B3-%F0%9F%92%B3-%F0%9F%92%B3-flexcard-virtual-cards-for-affiliate-marketing-and-payment-for-personal-purchases-get-free-cards-using-promo-code-%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5.12924/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
