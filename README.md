@@ -53,6 +53,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [城市漫步指南：初见山西，记住大同](https://sspai.com/post/87791)
 -  15 [App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity](https://sspai.com/post/87950)
--  15 [派早报：商务部推动数字消费提升、消费品以旧换新](https://sspai.com/post/88074)
--  14 [具透 | 首个 Beta 版上线：Android 15 现阶段最值得关注的三大亮点汇总](https://sspai.com/post/88060)<!-- sspai:END -->
+-  15 [派早报：商务部推动数字消费提升、消费品以旧换新](https://sspai.com/post/88074)<!-- sspai:END -->
