@@ -39,11 +39,11 @@
 ### afflift
 <!-- afflift:START -->
 -  15 [Live server issues in VS Code](https://afflift.com/f/threads/live-server-issues-in-vs-code.12979/)
+-  15 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  15 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  15 [Documenting my journey running paid push ads](https://afflift.com/f/threads/documenting-my-journey-running-paid-push-ads.12963/)
 -  15 [🛡️ Protect your landing pages from direct access &lpar;script for Skro tracker&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-skro-tracker.12958/)
 -  14 [Free Optimizer Tool - Booster Script ⚡ &lpar;PropellerAds+BeMob&rpar;](https://afflift.com/f/threads/free-optimizer-tool-booster-script-%E2%9A%A1-propellerads-bemob.10601/)
--  14 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  14 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  14 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  14 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
