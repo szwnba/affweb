@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
+-  15 [STEP 10 - Buying Traffic on PopAds](https://afflift.com/f/threads/step-10-buying-traffic-on-popads.12321/)
+-  15 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
+-  15 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
 -  15 [How many offers are you running?](https://afflift.com/f/threads/how-many-offers-are-you-running.12986/)
--  15 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  15 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  15 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)
--  15 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
+-  15 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
+-  15 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
+-  15 [Webinar Apr 18th_ Level Up Your Affiliate Marketing Skills with MGID, MaxWeb and Xevio - Don&#39;t Miss Out!](https://afflift.com/f/threads/webinar-apr-18th_-level-up-your-affiliate-marketing-skills-with-mgid-maxweb-and-xevio-dont-miss-out.12980/)
 -  15 [FREE plan for affLIFT users from PeerClick 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-%F0%9F%8E%89%F0%9F%94%A5.12985/)
--  15 [Is Dynu In Media a reliable network? How to work with them effectively?](https://afflift.com/f/threads/is-dynu-in-media-a-reliable-network-how-to-work-with-them-effectively.12981/)
--  15 [Hello everyone！](https://afflift.com/f/threads/hello-everyone%EF%BC%81.12977/)
--  15 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
--  15 [🛡️ Protect your landing pages from direct access &lpar;script for Skro tracker&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-skro-tracker.12958/)
--  15 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  15 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
+-  15 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)
+-  15 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  15 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
