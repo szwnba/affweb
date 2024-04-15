@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  15 [Is Dynu In Media a reliable network? How to work with them effectively?](https://afflift.com/f/threads/is-dynu-in-media-a-reliable-network-how-to-work-with-them-effectively.12981/)
 -  15 [Webinar Apr 18th_ Level Up Your Affiliate Marketing Skills with MGID, MaxWeb and Xevio - Don&#39;t Miss Out!](https://afflift.com/f/threads/webinar-apr-18th_-level-up-your-affiliate-marketing-skills-with-mgid-maxweb-and-xevio-dont-miss-out.12980/)
 -  15 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
 -  15 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
@@ -47,9 +49,7 @@
 -  15 [🔥 April Advertising Trends Roundup! 👀](https://afflift.com/f/threads/%F0%9F%94%A5-april-advertising-trends-roundup-%F0%9F%91%80.12976/)
 -  15 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  15 [Live server issues in VS Code](https://afflift.com/f/threads/live-server-issues-in-vs-code.12979/)
--  15 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  15 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  15 [Documenting my journey running paid push ads](https://afflift.com/f/threads/documenting-my-journey-running-paid-push-ads.12963/)<!-- afflift:END -->
+-  15 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
