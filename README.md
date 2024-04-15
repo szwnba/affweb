@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  15 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
+-  15 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  15 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  15 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
+-  15 [Trafficstars malicious link problem](https://afflift.com/f/threads/trafficstars-malicious-link-problem.12966/)
+-  15 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  15 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
+-  15 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
 -  15 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  15 [Is Dynu In Media a reliable network? How to work with them effectively?](https://afflift.com/f/threads/is-dynu-in-media-a-reliable-network-how-to-work-with-them-effectively.12981/)
 -  15 [🛡️ Protect your landing pages from direct access &lpar;script for Skro tracker&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-skro-tracker.12958/)
 -  15 [💳 💳 💳 FlexCard - virtual cards for affiliate marketing and payment for personal purchases. Get free cards using promo code... 🔥🔥🔥](https://afflift.com/f/threads/%F0%9F%92%B3-%F0%9F%92%B3-%F0%9F%92%B3-flexcard-virtual-cards-for-affiliate-marketing-and-payment-for-personal-purchases-get-free-cards-using-promo-code-%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5.12924/)
--  15 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
--  15 [🛡️ Protect your landing pages from direct access &lpar;works with CloudFlare Pages&rpar; [BeMob]](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-works-with-cloudflare-pages-bemob.12923/)
--  15 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  15 [Webinar Apr 18th_ Level Up Your Affiliate Marketing Skills with MGID, MaxWeb and Xevio - Don&#39;t Miss Out!](https://afflift.com/f/threads/webinar-apr-18th_-level-up-your-affiliate-marketing-skills-with-mgid-maxweb-and-xevio-dont-miss-out.12980/)
--  15 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
--  15 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)<!-- afflift:END -->
+-  15 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
