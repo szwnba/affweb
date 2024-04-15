@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  15 [twitter广告虚拟卡哪家比较好，有推荐的吗](https://www.advertcn.com/thread-114700-1-1.html)
 -  15 [变现金矿-如何用ASO流量跑美国贷款？](https://www.advertcn.com/thread-114697-1-1.html)<!-- advertcn3:END -->
 
 
