@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  15 [TikTok运营干货丨2024年运营TikTok的四大技巧](https://www.advertcn.com/thread-114691-1-1.html)
--  15 [新人报道，请多指教](https://www.advertcn.com/thread-114688-1-1.html)
--  15 [跨境支付新人报道！](https://www.advertcn.com/thread-114687-1-1.html)<!-- advertcn1:END -->
+-  15 [新人报道，请多指教](https://www.advertcn.com/thread-114688-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
