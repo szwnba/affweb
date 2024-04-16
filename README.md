@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  11 [2024年最新申请AlphaSSL通配符域名证书教程](https://51.ruyo.net/18642.html)<!-- ruyo:END -->
+-  16 [#收集控#2024年最新可免费申请域名SSL证书网站](https://51.ruyo.net/18485.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
