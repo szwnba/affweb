@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Affiliate Conferences - Which ones are you attending this year?](https://afflift.com/f/threads/affiliate-conferences-which-ones-are-you-attending-this-year.12975/)
 -  16 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
 -  16 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
 -  16 [FREE plan for affLIFT users from PeerClick 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-%F0%9F%8E%89%F0%9F%94%A5.12985/)
@@ -50,8 +51,7 @@
 -  16 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
 -  16 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)
 -  16 [Impossible to get accepted on clickbank](https://afflift.com/f/threads/impossible-to-get-accepted-on-clickbank.12632/)
--  16 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
--  16 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)<!-- afflift:END -->
+-  16 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
