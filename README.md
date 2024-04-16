@@ -40,6 +40,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
+-  16 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
+-  16 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
+-  16 [Affiliate Conferences - Which ones are you attending this year?](https://afflift.com/f/threads/affiliate-conferences-which-ones-are-you-attending-this-year.12975/)
 -  16 [What are best Push Traffic Ad Networks according to you?](https://afflift.com/f/threads/what-are-best-push-traffic-ad-networks-according-to-you.11953/)
 -  16 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  16 [TraffCore is a CPA Affiliate Network for Dating, Sweeps and Crypto with Daily Payouts from 1$](https://afflift.com/f/threads/traffcore-is-a-cpa-affiliate-network-for-dating-sweeps-and-crypto-with-daily-payouts-from-1.8700/)
@@ -47,11 +51,7 @@
 -  16 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  16 [Searching for gambling affiliate networks](https://afflift.com/f/threads/searching-for-gambling-affiliate-networks.12955/)
 -  16 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  16 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)
--  16 [FREE plan for affLIFT users from PeerClick 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-%F0%9F%8E%89%F0%9F%94%A5.12985/)
--  16 [Documenting my journey running paid push ads](https://afflift.com/f/threads/documenting-my-journey-running-paid-push-ads.12963/)
--  16 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
--  16 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)<!-- afflift:END -->
+-  16 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
