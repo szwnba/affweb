@@ -37,7 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  16 [Is Dynu In Media a reliable network? How to work with them effectively?](https://afflift.com/f/threads/is-dynu-in-media-a-reliable-network-how-to-work-with-them-effectively.12981/)
+-  16 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  16 [Join the Digital Dynasty Affiliate Program: Expand Your Earnings with Every Referral!](https://afflift.com/f/threads/join-the-digital-dynasty-affiliate-program-expand-your-earnings-with-every-referral.12988/)
 -  16 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
 -  15 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
@@ -45,10 +45,10 @@
 -  15 [FREE plan for affLIFT users from PeerClick 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-%F0%9F%8E%89%F0%9F%94%A5.12985/)
 -  15 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
 -  15 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
--  15 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  15 [1Win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
 -  15 [1Win Partners Affiliate Program](https://afflift.com/f/threads/1win-partners-affiliate-program.12987/)
--  15 [How many offers are you running?](https://afflift.com/f/threads/how-many-offers-are-you-running.12986/)<!-- afflift:END -->
+-  15 [How many offers are you running?](https://afflift.com/f/threads/how-many-offers-are-you-running.12986/)
+-  15 [Affiliate Conferences - Which ones are you attending this year?](https://afflift.com/f/threads/affiliate-conferences-which-ones-are-you-attending-this-year.12975/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
