@@ -29,8 +29,7 @@
 <!-- advertcn3:START -->
 -  16 [现在cj联盟出款有阻碍吗？](https://www.advertcn.com/thread-114709-1-1.html)
 -  16 [合租luminati](https://www.advertcn.com/thread-114704-1-1.html)
--  16 [Facebook产品更新|进阶赋能型智能购物广告发布新受众报告...](https://www.advertcn.com/thread-114702-1-1.html)
--  15 [twitter广告虚拟卡哪家比较好，有推荐的吗](https://www.advertcn.com/thread-114700-1-1.html)<!-- advertcn3:END -->
+-  16 [Facebook产品更新|进阶赋能型智能购物广告发布新受众报告...](https://www.advertcn.com/thread-114702-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
