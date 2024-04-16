@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  16 [我是新人，请多多指教](https://www.advertcn.com/thread-114703-1-1.html)
 -  16 [Facebook主动开发客户的方法，全是干货~](https://www.advertcn.com/thread-114701-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
