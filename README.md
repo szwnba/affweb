@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  15 [派评 | 近期值得关注的 App](https://sspai.com/post/88086)
 -  15 [城市漫步指南：初见山西，记住大同](https://sspai.com/post/87791)
--  15 [App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity](https://sspai.com/post/87950)
--  15 [派早报：商务部推动数字消费提升、消费品以旧换新](https://sspai.com/post/88074)<!-- sspai:END -->
+-  15 [App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity](https://sspai.com/post/87950)<!-- sspai:END -->
