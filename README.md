@@ -54,7 +54,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [电子茅台与不驯灵魂：X100VI 漫谈，以及更多的复古相机选择](https://sspai.com/prime/story/xv100vi-retro-cameras)
+-  16 [社区速递 040 | 季度作者、跑出半马、海鸥双反以及派友手机壳大推荐](https://sspai.com/post/88118)
 -  16 [Ghidra 逆向工程实战：看看 macOS 恶意软件动了什么手脚](https://sspai.com/post/87870)
 -  16 [有瑕疵的旅途伴侣：小米 14 Ultra 旅拍体验](https://sspai.com/post/88067)
--  16 [派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等](https://sspai.com/post/88102)
--  15 [派评 | 近期值得关注的 App](https://sspai.com/post/88086)<!-- sspai:END -->
+-  16 [派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等](https://sspai.com/post/88102)<!-- sspai:END -->
