@@ -53,6 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [Ghidra 逆向工程实战：看看 macOS 恶意软件动了什么手脚](https://sspai.com/post/87870)
 -  16 [有瑕疵的旅途伴侣：小米 14 Ultra 旅拍体验](https://sspai.com/post/88067)
 -  16 [派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等](https://sspai.com/post/88102)
 -  15 [派评 | 近期值得关注的 App](https://sspai.com/post/88086)<!-- sspai:END -->
