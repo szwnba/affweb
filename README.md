@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
 -  16 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  16 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  16 [Join the Digital Dynasty Affiliate Program: Expand Your Earnings with Every Referral!](https://afflift.com/f/threads/join-the-digital-dynasty-affiliate-program-expand-your-earnings-with-every-referral.12988/)
@@ -47,8 +48,7 @@
 -  15 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
 -  15 [1Win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
 -  15 [1Win Partners Affiliate Program](https://afflift.com/f/threads/1win-partners-affiliate-program.12987/)
--  15 [How many offers are you running?](https://afflift.com/f/threads/how-many-offers-are-you-running.12986/)
--  15 [Affiliate Conferences - Which ones are you attending this year?](https://afflift.com/f/threads/affiliate-conferences-which-ones-are-you-attending-this-year.12975/)<!-- afflift:END -->
+-  15 [How many offers are you running?](https://afflift.com/f/threads/how-many-offers-are-you-running.12986/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
