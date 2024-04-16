@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
+-  16 [$1965 profit on Facebook traffic with PWA app and XGames offers](https://afflift.com/f/threads/1965-profit-on-facebook-traffic-with-pwa-app-and-xgames-offers.12724/)
+-  16 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)
+-  16 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
+-  16 [Anyone work with Yamileads?](https://afflift.com/f/threads/anyone-work-with-yamileads.12805/)
+-  16 [Impossible to get accepted on clickbank](https://afflift.com/f/threads/impossible-to-get-accepted-on-clickbank.12632/)
 -  16 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
 -  16 [FREE plan for affLIFT users from PeerClick 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-%F0%9F%8E%89%F0%9F%94%A5.12985/)
 -  16 [DALL-E 3 is so good](https://afflift.com/f/threads/dall-e-3-is-so-good.11716/)
 -  16 [STEP 10 - Buying Traffic on PopAds](https://afflift.com/f/threads/step-10-buying-traffic-on-popads.12321/)
 -  16 [The killer feature to segment your audience in pop campaigns!](https://afflift.com/f/threads/the-killer-feature-to-segment-your-audience-in-pop-campaigns.12989/)
--  16 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
--  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  16 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  16 [Ad Creatives for Everyone: A List of The Best Free Spy Tools](https://afflift.com/f/threads/ad-creatives-for-everyone-a-list-of-the-best-free-spy-tools.12991/)
--  16 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  16 [🚀🚀 Push Database Building For Adsense Arbitrage 🔥🔥](https://afflift.com/f/threads/%F0%9F%9A%80%F0%9F%9A%80-push-database-building-for-adsense-arbitrage-%F0%9F%94%A5%F0%9F%94%A5.12824/)
--  16 [Don&#39;t Miss Out on Brazil&#39;s Mother&#39;s Day Craze: Top 10 Affiliate Programs Unveiled!](https://afflift.com/f/threads/dont-miss-out-on-brazils-mothers-day-craze-top-10-affiliate-programs-unveiled.12990/)<!-- afflift:END -->
+-  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
