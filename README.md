@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  16 [有瑕疵的旅途伴侣：小米 14 Ultra 旅拍体验](https://sspai.com/post/88067)
 -  16 [派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等](https://sspai.com/post/88102)
--  15 [派评 | 近期值得关注的 App](https://sspai.com/post/88086)
--  15 [城市漫步指南：初见山西，记住大同](https://sspai.com/post/87791)<!-- sspai:END -->
+-  15 [派评 | 近期值得关注的 App](https://sspai.com/post/88086)<!-- sspai:END -->
