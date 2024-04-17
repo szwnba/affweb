@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  17 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
 -  17 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  17 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
@@ -51,8 +52,7 @@
 -  16 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  16 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  16 [$1965 profit on Facebook traffic with PWA app and XGames offers](https://afflift.com/f/threads/1965-profit-on-facebook-traffic-with-pwa-app-and-xgames-offers.12724/)
--  16 [Allow me to introduce myself...](https://afflift.com/f/threads/allow-me-to-introduce-myself.12974/)<!-- afflift:END -->
+-  16 [$1965 profit on Facebook traffic with PWA app and XGames offers](https://afflift.com/f/threads/1965-profit-on-facebook-traffic-with-pwa-app-and-xgames-offers.12724/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
