@@ -29,8 +29,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  17 [traffic company的转化无法回传到maxconv和流量平台](https://www.advertcn.com/thread-114711-1-1.html)
--  16 [现在cj联盟出款有阻碍吗？](https://www.advertcn.com/thread-114709-1-1.html)
--  16 [合租luminati](https://www.advertcn.com/thread-114704-1-1.html)<!-- advertcn3:END -->
+-  16 [现在cj联盟出款有阻碍吗？](https://www.advertcn.com/thread-114709-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
