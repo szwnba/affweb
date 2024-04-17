@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [重回记忆中起风的草原：聊聊我们最爱的吉卜力电影](https://sspai.com/post/88085)
 -  17 [这 100 年来，我们如何「听见」声音](https://sspai.com/post/88090)
 -  17 [一日一技 | 一篇教你搞定 SSL 证书监控和续签](https://sspai.com/post/88127)
 -  17 [派早报：影石发布 8K 全景运动相机 X4 等](https://sspai.com/post/88125)<!-- sspai:END -->
