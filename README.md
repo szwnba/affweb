@@ -40,6 +40,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
+-  17 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  17 [$1965 profit on Facebook traffic with PWA app and XGames offers](https://afflift.com/f/threads/1965-profit-on-facebook-traffic-with-pwa-app-and-xgames-offers.12724/)
 -  17 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  17 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
 -  17 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
@@ -48,10 +51,7 @@
 -  16 [OnClickA = Clickadilla ?](https://afflift.com/f/threads/onclicka-clickadilla.12408/)
 -  16 [Affiliate Conferences - Which ones are you attending this year?](https://afflift.com/f/threads/affiliate-conferences-which-ones-are-you-attending-this-year.12975/)
 -  16 [FREE plan for affLIFT users from PeerClick 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-%F0%9F%8E%89%F0%9F%94%A5.12985/)
--  16 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  16 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  16 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  16 [$1965 profit on Facebook traffic with PWA app and XGames offers](https://afflift.com/f/threads/1965-profit-on-facebook-traffic-with-pwa-app-and-xgames-offers.12724/)<!-- afflift:END -->
+-  16 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
