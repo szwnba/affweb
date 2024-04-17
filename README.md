@@ -28,6 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  17 [tiktok 和 facebook](https://www.advertcn.com/thread-114722-1-1.html)
 -  17 [traffic company的转化无法回传到maxconv和流量平台](https://www.advertcn.com/thread-114711-1-1.html)
 -  16 [现在cj联盟出款有阻碍吗？](https://www.advertcn.com/thread-114709-1-1.html)<!-- advertcn3:END -->
 
