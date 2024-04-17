@@ -20,8 +20,7 @@
 -  17 [收藏干货！TikTok最新建联达人带货爆单攻略](https://www.advertcn.com/thread-114716-1-1.html)
 -  17 [一篇文章教你搞定谷歌广告验证](https://www.advertcn.com/thread-114713-1-1.html)
 -  16 [新人，请多多指教](https://www.advertcn.com/thread-114708-1-1.html)
--  16 [我是新人，请多多指教](https://www.advertcn.com/thread-114703-1-1.html)
--  16 [Facebook主动开发客户的方法，全是干货~](https://www.advertcn.com/thread-114701-1-1.html)<!-- advertcn1:END -->
+-  16 [我是新人，请多多指教](https://www.advertcn.com/thread-114703-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
