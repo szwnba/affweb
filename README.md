@@ -57,6 +57,4 @@
 <!-- sspai:START -->
 -  17 [这 100 年来，我们如何「听见」声音](https://sspai.com/post/88090)
 -  17 [一日一技 | 一篇教你搞定 SSL 证书监控和续签](https://sspai.com/post/88127)
--  17 [派早报：影石发布 8K 全景运动相机 X4 等](https://sspai.com/post/88125)
--  16 [电子茅台与不驯灵魂：X100VI 漫谈，以及更多的复古相机选择](https://sspai.com/prime/story/xv100vi-retro-cameras)
--  16 [社区速递 040 | 季度作者、跑出半马、海鸥双反以及派友手机壳大推荐](https://sspai.com/post/88118)<!-- sspai:END -->
+-  17 [派早报：影石发布 8K 全景运动相机 X4 等](https://sspai.com/post/88125)<!-- sspai:END -->
