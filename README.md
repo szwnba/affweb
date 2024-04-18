@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  16 [#收集控#2024年最新可免费申请域名SSL证书网站](https://51.ruyo.net/18485.html)<!-- ruyo:END -->
+-  18 [.best便宜顶级域名一年需1.5美元，续费同价，支持隐私保护](https://51.ruyo.net/18649.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
