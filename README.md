@@ -59,6 +59,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)
 -  18 [新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
 -  18 [复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
 -  18 [有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)
