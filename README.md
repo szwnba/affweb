@@ -30,6 +30,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  18 [论坛内有跑cj联盟的用wise收款的吗？](https://www.advertcn.com/thread-114733-1-1.html)
 -  18 [这种大佬的网站，被index惩罚的原因是什么？](https://www.advertcn.com/thread-114725-1-1.html)
 -  17 [tiktok 和 facebook](https://www.advertcn.com/thread-114722-1-1.html)<!-- advertcn3:END -->
 
