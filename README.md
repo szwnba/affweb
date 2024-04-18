@@ -46,16 +46,16 @@
 <!-- afflift:START -->
 -  18 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  18 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
+-  18 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)
+-  18 [Detailed walkthrough of the latest version of AdPlexity &lpar;features and updates&rpar;.](https://afflift.com/f/threads/detailed-walkthrough-of-the-latest-version-of-adplexity-features-and-updates.12997/)
+-  18 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  18 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  18 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
 -  18 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  18 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
 -  18 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
 -  18 [Bypass tracking blockers on browsers](https://afflift.com/f/threads/bypass-tracking-blockers-on-browsers.12993/)
--  18 [Looking for a reliable traffic source? We are here!🔥](https://afflift.com/f/threads/looking-for-a-reliable-traffic-source-we-are-here-%F0%9F%94%A5.12996/)
--  18 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  17 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
--  17 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  17 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  17 [Affiliate Conferences - Which ones are you attending this year?](https://afflift.com/f/threads/affiliate-conferences-which-ones-are-you-attending-this-year.12975/)<!-- afflift:END -->
+-  18 [Looking for a reliable traffic source? We are here!🔥](https://afflift.com/f/threads/looking-for-a-reliable-traffic-source-we-are-here-%F0%9F%94%A5.12996/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
