@@ -45,6 +45,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [⚡️BANZAI Partners - a brand new in-house advertiser with a void player database. RevShare up to 50%](https://afflift.com/f/threads/%E2%9A%A1%EF%B8%8Fbanzai-partners-a-brand-new-in-house-advertiser-with-a-void-player-database-revshare-up-to-50.12811/)
 -  18 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  18 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
 -  18 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
@@ -55,8 +56,7 @@
 -  18 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  18 [Looking for a reliable traffic source? We are here!🔥](https://afflift.com/f/threads/looking-for-a-reliable-traffic-source-we-are-here-%F0%9F%94%A5.12996/)
 -  18 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  18 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
--  18 [Adepti Ads - Worldwide Dating Affiliate Network](https://afflift.com/f/threads/adepti-ads-worldwide-dating-affiliate-network.12646/)<!-- afflift:END -->
+-  18 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
