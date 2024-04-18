@@ -46,6 +46,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  18 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  18 [New Affiliate Opportunity!](https://afflift.com/f/threads/new-affiliate-opportunity.12002/)
 -  18 [🔥 April Advertising Trends Roundup! 👀](https://afflift.com/f/threads/%F0%9F%94%A5-april-advertising-trends-roundup-%F0%9F%91%80.12976/)
@@ -56,8 +57,7 @@
 -  18 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  18 [⚡️BANZAI Partners - a brand new in-house advertiser with a void player database. RevShare up to 50%](https://afflift.com/f/threads/%E2%9A%A1%EF%B8%8Fbanzai-partners-a-brand-new-in-house-advertiser-with-a-void-player-database-revshare-up-to-50.12811/)
 -  18 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  18 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
--  18 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)<!-- afflift:END -->
+-  18 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
