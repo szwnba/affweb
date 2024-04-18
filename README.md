@@ -18,6 +18,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  18 [新人报道](https://www.advertcn.com/thread-114735-1-1.html)
 -  18 [纯干货！TikTok 爆款打造方法论](https://www.advertcn.com/thread-114731-1-1.html)
 -  18 [香港公司未年审或逾期会有什么后果？](https://www.advertcn.com/thread-114728-1-1.html)
 -  18 [如何能快速求购到adsense老账号啊](https://www.advertcn.com/thread-114727-1-1.html)
