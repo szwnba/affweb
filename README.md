@@ -60,5 +60,4 @@
 <!-- sspai:START -->
 -  18 [派早报：AMD 发布锐龙 PRO 系列处理器、Adobe Acrobat 上线 AI 助手等](https://sspai.com/post/88145)
 -  17 [重回记忆中起风的草原：聊聊我们最爱的吉卜力电影](https://sspai.com/post/88085)
--  17 [这 100 年来，我们如何「听见」声音](https://sspai.com/post/88090)
--  17 [一日一技 | 一篇教你搞定 SSL 证书监控和续签](https://sspai.com/post/88127)<!-- sspai:END -->
+-  17 [这 100 年来，我们如何「听见」声音](https://sspai.com/post/88090)<!-- sspai:END -->
