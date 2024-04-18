@@ -13,6 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
+-  18 [微信公众号全面开放【留言】功能，小伙伴快去看看！](https://51.ruyo.net/18651.html)
 -  18 [.best便宜顶级域名一年需1.5美元，续费同价，支持隐私保护](https://51.ruyo.net/18649.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
