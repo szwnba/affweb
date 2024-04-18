@@ -60,6 +60,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
 -  18 [有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)
 -  18 [派早报：AMD 发布锐龙 PRO 系列处理器、Adobe Acrobat 上线 AI 助手等](https://sspai.com/post/88145)
 -  17 [重回记忆中起风的草原：聊聊我们最爱的吉卜力电影](https://sspai.com/post/88085)<!-- sspai:END -->
