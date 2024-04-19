@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  19 [TikTok如何打造高级内容的干货知识，吐血整理！](https://www.advertcn.com/thread-114749-1-1.html)
 -  18 [新手报到从日$0到日$1000记录](https://www.advertcn.com/thread-114737-1-1.html)
 -  18 [新人报道](https://www.advertcn.com/thread-114735-1-1.html)<!-- advertcn1:END -->
 
