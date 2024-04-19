@@ -29,8 +29,7 @@
 -  19 [这年头，该不该便宜卖掉房子](https://www.advertcn.com/thread-114754-1-1.html)
 -  19 [外贸独立站工具集合来了，全网最低](https://www.advertcn.com/thread-114750-1-1.html)
 -  19 [2024年，AdSense用哪个银行收款比较容易？](https://www.advertcn.com/thread-114745-1-1.html)
--  19 [AdSense被拒两次了，有没有影响](https://www.advertcn.com/thread-114744-1-1.html)
--  18 [有跑乐天ls联盟的吗](https://www.advertcn.com/thread-114742-1-1.html)<!-- advertcn3:END -->
+-  19 [AdSense被拒两次了，有没有影响](https://www.advertcn.com/thread-114744-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
