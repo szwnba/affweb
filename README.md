@@ -58,6 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [派早报：首个第三方应用程序商店 AltStore PAL 上线等](https://sspai.com/post/88182)
 -  18 [解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)
 -  18 [新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
 -  18 [复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
