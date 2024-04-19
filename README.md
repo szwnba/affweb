@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Looking for affiliate networks to promote financial advertising and stocks, we are willing to pay advertisers $5 for every customer who joins our comm](https://afflift.com/f/threads/looking-for-affiliate-networks-to-promote-financial-advertising-and-stocks-we-are-willing-to-pay-advertisers-5-for-every-customer-who-joins-our-comm.13002/)
+-  19 [Huge iGaming Opportunity Awaits in BR!](https://afflift.com/f/threads/huge-igaming-opportunity-awaits-in-br.13005/)
+-  19 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  19 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  19 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  19 [Hello From Singapore - Xavier Fok](https://afflift.com/f/threads/hello-from-singapore-xavier-fok.13003/)
 -  19 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
 -  19 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  19 [Looking for affiliate networks to promote financial advertising and stocks, we are willing to pay advertisers $5 for every customer who joins our comm](https://afflift.com/f/threads/looking-for-affiliate-networks-to-promote-financial-advertising-and-stocks-we-are-willing-to-pay-advertisers-5-for-every-customer-who-joins-our-comm.13002/)
 -  19 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  19 [Find affiliate networks, promote financial advertising, and stocks](https://afflift.com/f/threads/find-affiliate-networks-promote-financial-advertising-and-stocks.13001/)
 -  19 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  19 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
--  19 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
--  19 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)<!-- afflift:END -->
+-  19 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
