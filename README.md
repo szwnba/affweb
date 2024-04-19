@@ -59,5 +59,4 @@
 -  19 [赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)
 -  19 [做一款创意驱动的手机壳，让每个人都能玩开心](https://sspai.com/post/88188)
 -  19 [探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
--  19 [派早报：首个第三方应用程序商店 AltStore PAL 上线等](https://sspai.com/post/88182)
--  18 [解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)<!-- sspai:END -->
+-  19 [派早报：首个第三方应用程序商店 AltStore PAL 上线等](https://sspai.com/post/88182)<!-- sspai:END -->
