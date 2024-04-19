@@ -41,11 +41,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  18 [Bypass tracking blockers on browsers](https://afflift.com/f/threads/bypass-tracking-blockers-on-browsers.12993/)
 -  18 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  18 [About Monetize Global Non Targeted Traffic !](https://afflift.com/f/threads/about-monetize-global-non-targeted-traffic.12999/)
 -  18 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
--  18 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  18 [New Affiliate Opportunity!](https://afflift.com/f/threads/new-affiliate-opportunity.12002/)
 -  18 [🔥 April Advertising Trends Roundup! 👀](https://afflift.com/f/threads/%F0%9F%94%A5-april-advertising-trends-roundup-%F0%9F%91%80.12976/)
 -  18 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
