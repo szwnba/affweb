@@ -41,9 +41,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Looking for affiliate networks to promote financial advertising and stocks, we are willing to pay advertisers $5 for every customer who joins our comm](https://afflift.com/f/threads/looking-for-affiliate-networks-to-promote-financial-advertising-and-stocks-we-are-willing-to-pay-advertisers-5-for-every-customer-who-joins-our-comm.13002/)
 -  19 [Hello From Singapore - Xavier Fok](https://afflift.com/f/threads/hello-from-singapore-xavier-fok.13003/)
 -  19 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  19 [Looking for affiliate networks to promote financial advertising and stocks, we are willing to pay advertisers $5 for every customer who joins our comm](https://afflift.com/f/threads/looking-for-affiliate-networks-to-promote-financial-advertising-and-stocks-we-are-willing-to-pay-advertisers-5-for-every-customer-who-joins-our-comm.13002/)
 -  19 [Find affiliate networks, promote financial advertising, and stocks](https://afflift.com/f/threads/find-affiliate-networks-promote-financial-advertising-and-stocks.13001/)
 -  19 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  19 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
