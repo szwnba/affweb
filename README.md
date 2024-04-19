@@ -62,5 +62,4 @@
 -  18 [解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)
 -  18 [新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
 -  18 [复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
--  18 [有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)
--  18 [派早报：AMD 发布锐龙 PRO 系列处理器、Adobe Acrobat 上线 AI 助手等](https://sspai.com/post/88145)<!-- sspai:END -->
+-  18 [有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)<!-- sspai:END -->
