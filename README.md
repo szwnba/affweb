@@ -30,8 +30,7 @@
 -  19 [2024年，AdSense用哪个银行收款比较容易？](https://www.advertcn.com/thread-114745-1-1.html)
 -  19 [AdSense被拒两次了，有没有影响](https://www.advertcn.com/thread-114744-1-1.html)
 -  18 [有跑乐天ls联盟的吗](https://www.advertcn.com/thread-114742-1-1.html)
--  18 [WP独立站有好用的多货币插件吗](https://www.advertcn.com/thread-114740-1-1.html)
--  18 [Tiktok怎么开户？为什么要选择代理商进行开户？有什么优...](https://www.advertcn.com/thread-114734-1-1.html)<!-- advertcn3:END -->
+-  18 [WP独立站有好用的多货币插件吗](https://www.advertcn.com/thread-114740-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
