@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
 -  19 [派早报：首个第三方应用程序商店 AltStore PAL 上线等](https://sspai.com/post/88182)
 -  18 [解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)
 -  18 [新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
