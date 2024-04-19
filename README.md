@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)
 -  19 [赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)
 -  19 [做一款创意驱动的手机壳，让每个人都能玩开心](https://sspai.com/post/88188)
 -  19 [探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
