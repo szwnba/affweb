@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Hello From Singapore - Xavier Fok](https://afflift.com/f/threads/hello-from-singapore-xavier-fok.13003/)
+-  19 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  19 [Looking for affiliate networks to promote financial advertising and stocks, we are willing to pay advertisers $5 for every customer who joins our comm](https://afflift.com/f/threads/looking-for-affiliate-networks-to-promote-financial-advertising-and-stocks-we-are-willing-to-pay-advertisers-5-for-every-customer-who-joins-our-comm.13002/)
+-  19 [Find affiliate networks, promote financial advertising, and stocks](https://afflift.com/f/threads/find-affiliate-networks-promote-financial-advertising-and-stocks.13001/)
 -  19 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  19 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)
--  19 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  19 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
 -  19 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  19 [Are there any advertisers in India?](https://afflift.com/f/threads/are-there-any-advertisers-in-india.13000/)
 -  19 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  19 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  18 [Bypass tracking blockers on browsers](https://afflift.com/f/threads/bypass-tracking-blockers-on-browsers.12993/)
--  18 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
--  18 [About Monetize Global Non Targeted Traffic !](https://afflift.com/f/threads/about-monetize-global-non-targeted-traffic.12999/)
--  18 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)<!-- afflift:END -->
+-  18 [Bypass tracking blockers on browsers](https://afflift.com/f/threads/bypass-tracking-blockers-on-browsers.12993/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
