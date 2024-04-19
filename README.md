@@ -41,6 +41,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
+-  19 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
+-  19 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  19 [Looking for affiliate networks to promote financial advertising and stocks, we are willing to pay advertisers $5 for every customer who joins our comm](https://afflift.com/f/threads/looking-for-affiliate-networks-to-promote-financial-advertising-and-stocks-we-are-willing-to-pay-advertisers-5-for-every-customer-who-joins-our-comm.13002/)
 -  19 [Huge iGaming Opportunity Awaits in BR!](https://afflift.com/f/threads/huge-igaming-opportunity-awaits-in-br.13005/)
 -  19 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
@@ -49,10 +52,7 @@
 -  19 [Hello From Singapore - Xavier Fok](https://afflift.com/f/threads/hello-from-singapore-xavier-fok.13003/)
 -  19 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
 -  19 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  19 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  19 [Find affiliate networks, promote financial advertising, and stocks](https://afflift.com/f/threads/find-affiliate-networks-promote-financial-advertising-and-stocks.13001/)
--  19 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  19 [MaxConv Tracker - a scalable, affordable and effective tracking software](https://afflift.com/f/threads/maxconv-tracker-a-scalable-affordable-and-effective-tracking-software.9941/)<!-- afflift:END -->
+-  19 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
