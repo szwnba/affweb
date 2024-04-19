@@ -43,6 +43,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
+-  19 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
+-  19 [Are there any advertisers in India?](https://afflift.com/f/threads/are-there-any-advertisers-in-india.13000/)
 -  19 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  19 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  18 [Bypass tracking blockers on browsers](https://afflift.com/f/threads/bypass-tracking-blockers-on-browsers.12993/)
@@ -51,10 +54,7 @@
 -  18 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
 -  18 [New Affiliate Opportunity!](https://afflift.com/f/threads/new-affiliate-opportunity.12002/)
 -  18 [🔥 April Advertising Trends Roundup! 👀](https://afflift.com/f/threads/%F0%9F%94%A5-april-advertising-trends-roundup-%F0%9F%91%80.12976/)
--  18 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
--  18 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)
--  18 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
--  18 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)<!-- afflift:END -->
+-  18 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
