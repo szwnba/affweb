@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
+-  20 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  20 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  20 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  20 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
@@ -45,9 +47,7 @@
 -  19 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
 -  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  19 [Hello From Singapore - Xavier Fok](https://afflift.com/f/threads/hello-from-singapore-xavier-fok.13003/)
--  19 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  19 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
--  19 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)<!-- afflift:END -->
+-  19 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
