@@ -36,8 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  20 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  20 [Looking To Collab With A CPA Network](https://afflift.com/f/threads/looking-to-collab-with-a-cpa-network.13011/)
+-  20 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
 -  20 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  20 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  20 [Hello everyone, is there such an advertising operator?](https://afflift.com/f/threads/hello-everyone-is-there-such-an-advertising-operator.13009/)
