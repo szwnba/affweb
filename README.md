@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  20 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  20 [tracking question](https://afflift.com/f/threads/tracking-question.13012/)
 -  20 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
@@ -46,8 +47,7 @@
 -  20 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  20 [Hello everyone, is there such an advertising operator?](https://afflift.com/f/threads/hello-everyone-is-there-such-an-advertising-operator.13009/)
 -  20 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  20 [Looking For Advertizer Push Review](https://afflift.com/f/threads/looking-for-advertizer-push-review.12892/)
--  20 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)<!-- afflift:END -->
+-  20 [Looking For Advertizer Push Review](https://afflift.com/f/threads/looking-for-advertizer-push-review.12892/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
