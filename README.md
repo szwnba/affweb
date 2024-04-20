@@ -39,11 +39,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  19 [Egypt-PopAds-Monetizer Question](https://afflift.com/f/threads/egypt-popads-monetizer-question.12758/)
 -  19 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  19 [Adavice Promo Codes](https://afflift.com/f/threads/adavice-promo-codes.13006/)
 -  19 [MOBIPIUM Exciting New Features!](https://afflift.com/f/threads/mobipium-exciting-new-features.12551/)
--  19 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  19 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  19 [Hello From Singapore - Xavier Fok](https://afflift.com/f/threads/hello-from-singapore-xavier-fok.13003/)
