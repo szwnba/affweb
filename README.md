@@ -52,5 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  19 [本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)
--  19 [赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)<!-- sspai:END -->
+-  19 [本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)<!-- sspai:END -->
