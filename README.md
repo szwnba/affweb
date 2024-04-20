@@ -27,8 +27,7 @@
 <!-- advertcn3:START -->
 -  19 [FB账单户的疑问](https://www.advertcn.com/thread-114756-1-1.html)
 -  19 [这年头，该不该便宜卖掉房子](https://www.advertcn.com/thread-114754-1-1.html)
--  19 [外贸独立站工具集合来了，全网最低](https://www.advertcn.com/thread-114750-1-1.html)
--  19 [2024年，AdSense用哪个银行收款比较容易？](https://www.advertcn.com/thread-114745-1-1.html)<!-- advertcn3:END -->
+-  19 [外贸独立站工具集合来了，全网最低](https://www.advertcn.com/thread-114750-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
