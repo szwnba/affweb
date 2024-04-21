@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  19 [TikTok如何打造高级内容的干货知识，吐血整理！](https://www.advertcn.com/thread-114749-1-1.html)<!-- advertcn1:END -->
+-  21 [怎么上广告](https://www.advertcn.com/thread-114761-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
