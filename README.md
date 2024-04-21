@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  19 [本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)<!-- sspai:END -->
+-  21 [小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/prime/story/ingress-ten-years)<!-- sspai:END -->
