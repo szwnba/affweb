@@ -36,9 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  21 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  21 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  20 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  20 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  20 [tracking question](https://afflift.com/f/threads/tracking-question.13012/)
 -  20 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
