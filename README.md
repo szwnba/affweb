@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Help: Regarding the issue of setting hidden links in LP.](https://afflift.com/f/threads/help-regarding-the-issue-of-setting-hidden-links-in-lp.13013/)
+-  21 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
 -  21 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  21 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  21 [SelfAdvertiser closing in Sept 2023](https://afflift.com/f/threads/selfadvertiser-closing-in-sept-2023.11544/)
 -  21 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  21 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
--  21 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
 -  21 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  21 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  21 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
 -  20 [tracking question](https://afflift.com/f/threads/tracking-question.13012/)
--  20 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  20 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)<!-- afflift:END -->
+-  20 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
