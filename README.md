@@ -38,6 +38,7 @@
 ### afflift
 <!-- afflift:START -->
 -  21 [Help: Regarding the issue of setting hidden links in LP.](https://afflift.com/f/threads/help-regarding-the-issue-of-setting-hidden-links-in-lp.13013/)
+-  21 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 -  21 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
 -  21 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  21 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
@@ -47,8 +48,7 @@
 -  21 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  21 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  21 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  20 [tracking question](https://afflift.com/f/threads/tracking-question.13012/)
--  20 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
+-  20 [tracking question](https://afflift.com/f/threads/tracking-question.13012/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
