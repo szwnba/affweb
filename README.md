@@ -45,6 +45,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  22 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
+-  22 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)
 -  22 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)
 -  22 [How to set Postback url for my own funnel.](https://afflift.com/f/threads/how-to-set-postback-url-for-my-own-funnel.13016/)
 -  22 [Networks to avoid killing your Cashflow as a beginner](https://afflift.com/f/threads/networks-to-avoid-killing-your-cashflow-as-a-beginner.5847/)
@@ -53,10 +56,7 @@
 -  22 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  22 [tracking question](https://afflift.com/f/threads/tracking-question.13012/)
 -  22 [Hello From Singapore - Xavier Fok](https://afflift.com/f/threads/hello-from-singapore-xavier-fok.13003/)
--  22 [Help: Regarding the issue of setting hidden links in LP.](https://afflift.com/f/threads/help-regarding-the-issue-of-setting-hidden-links-in-lp.13013/)
--  22 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
--  22 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  22 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)<!-- afflift:END -->
+-  22 [Help: Regarding the issue of setting hidden links in LP.](https://afflift.com/f/threads/help-regarding-the-issue-of-setting-hidden-links-in-lp.13013/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
