@@ -44,8 +44,8 @@
 ### afflift
 <!-- afflift:START -->
 -  22 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
--  22 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)
 -  22 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
+-  22 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)
 -  22 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
 -  21 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
 -  21 [Wid&#39;s mVAS Follow Along #2024](https://afflift.com/f/threads/wids-mvas-follow-along-2024.12822/)
