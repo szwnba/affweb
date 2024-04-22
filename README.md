@@ -60,6 +60,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [如何借助维基百科 API 查询术语翻译](https://sspai.com/prime/story/wikipedia-translator)
 -  22 [派评 | 近期值得关注的 App](https://sspai.com/post/88259)
 -  22 [一个操作按钮还不够用？这些捷径和另类玩法带你解锁全部潜力](https://sspai.com/post/88236)
 -  22 [手机号绑定了哪些服务？写点代码从短信里找出答案](https://sspai.com/post/88076)
