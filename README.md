@@ -46,6 +46,7 @@
 ### afflift
 <!-- afflift:START -->
 -  22 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)
+-  22 [Bemob - Is it possible to block publishers?](https://afflift.com/f/threads/bemob-is-it-possible-to-block-publishers.13018/)
 -  22 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  22 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
 -  22 [How to set Postback url for my own funnel.](https://afflift.com/f/threads/how-to-set-postback-url-for-my-own-funnel.13016/)
@@ -55,8 +56,7 @@
 -  22 [Networks to avoid killing your Cashflow as a beginner](https://afflift.com/f/threads/networks-to-avoid-killing-your-cashflow-as-a-beginner.5847/)
 -  22 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
 -  22 [April PropellerAds Promo Codes 2024](https://afflift.com/f/threads/april-propellerads-promo-codes-2024.12926/)
--  22 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
--  22 [tracking question](https://afflift.com/f/threads/tracking-question.13012/)<!-- afflift:END -->
+-  22 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
