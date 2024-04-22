@@ -45,6 +45,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
 -  22 [Unlock Earning Potential with Anonymous-Proxies.net Affiliate Program](https://afflift.com/f/threads/unlock-earning-potential-with-anonymous-proxies-net-affiliate-program.11473/)
 -  22 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
 -  22 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
@@ -55,8 +56,7 @@
 -  22 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  22 [Samurai Partners - igaming affiliate program, best conditions for best partners](https://afflift.com/f/threads/samurai-partners-igaming-affiliate-program-best-conditions-for-best-partners.13015/)
 -  22 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
--  22 [Adavice Promo Codes](https://afflift.com/f/threads/adavice-promo-codes.13006/)
--  22 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
+-  22 [Adavice Promo Codes](https://afflift.com/f/threads/adavice-promo-codes.13006/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
