@@ -18,6 +18,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  22 [新人报道，请大家多多关照](https://www.advertcn.com/thread-114768-1-1.html)
 -  21 [怎么上广告](https://www.advertcn.com/thread-114761-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
