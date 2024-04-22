@@ -45,8 +45,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
 -  22 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
--  22 [Samurai Partners](https://afflift.com/f/threads/samurai-partners.13015/)
+-  22 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  22 [Samurai Partners - igaming affiliate program, best conditions for best partners](https://afflift.com/f/threads/samurai-partners-igaming-affiliate-program-best-conditions-for-best-partners.13015/)
 -  22 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  22 [Adavice Promo Codes](https://afflift.com/f/threads/adavice-promo-codes.13006/)
 -  22 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
@@ -54,9 +56,7 @@
 -  22 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  22 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
 -  22 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
--  22 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)
--  22 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
--  21 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)<!-- afflift:END -->
+-  22 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
