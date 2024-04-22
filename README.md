@@ -56,5 +56,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  22 [派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)
--  21 [小众游戏 Ingress 的十年：是什么让它令人如此着迷](https://sspai.com/prime/story/ingress-ten-years)<!-- sspai:END -->
+-  22 [派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)<!-- sspai:END -->
