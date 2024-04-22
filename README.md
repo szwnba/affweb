@@ -56,5 +56,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [一个操作按钮还不够用？这些捷径和另类玩法带你解锁全部潜力](https://sspai.com/post/88236)
 -  22 [手机号绑定了哪些服务？写点代码从短信里找出答案](https://sspai.com/post/88076)
 -  22 [派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)<!-- sspai:END -->
