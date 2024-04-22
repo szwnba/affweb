@@ -13,8 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  22 [MXroute域名邮箱服务配置使用教程](https://51.ruyo.net/18648.html)
--  21 [2024年港澳台通行证及护照申请流程以及注意事项](https://51.ruyo.net/18654.html)<!-- ruyo:END -->
+-  22 [MXroute域名邮箱服务配置使用教程](https://51.ruyo.net/18648.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
