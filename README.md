@@ -42,6 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
+-  22 [Are there any advertisers in India?](https://afflift.com/f/threads/are-there-any-advertisers-in-india.13000/)
 -  22 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  22 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
 -  22 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
@@ -51,9 +53,7 @@
 -  21 [Wid&#39;s mVAS Follow Along #2024](https://afflift.com/f/threads/wids-mvas-follow-along-2024.12822/)
 -  21 [Help: Regarding the issue of setting hidden links in LP.](https://afflift.com/f/threads/help-regarding-the-issue-of-setting-hidden-links-in-lp.13013/)
 -  21 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  21 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
--  21 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  21 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
+-  21 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
