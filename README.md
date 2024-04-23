@@ -27,11 +27,11 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  23 [最新Facebook开启双重验证方法](https://www.advertcn.com/thread-114787-1-1.html)
 -  23 [DAO.AD 流量平台创建campaign 老是被拒](https://www.advertcn.com/thread-114781-1-1.html)
 -  22 [收一个PerformCB&lpar;原ClickBooth&rpar; 账号](https://www.advertcn.com/thread-114779-1-1.html)
 -  22 [有哪个大佬在做海外移动订阅的来聊聊呀](https://www.advertcn.com/thread-114778-1-1.html)
--  22 [有哪个大佬在做海外移动订阅的来聊聊呀](https://www.advertcn.com/thread-114777-1-1.html)
--  22 [官宣！西安云晨蓝网络科技有限公司正式成为TikTok官方代...](https://www.advertcn.com/thread-114776-1-1.html)<!-- advertcn3:END -->
+-  22 [有哪个大佬在做海外移动订阅的来聊聊呀](https://www.advertcn.com/thread-114777-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
