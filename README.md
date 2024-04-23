@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
+-  23 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  23 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
+-  23 [I want UNIQUE landing pages](https://afflift.com/f/threads/i-want-unique-landing-pages.12714/)
 -  23 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  23 [Detailed walkthrough of the latest version of AdPlexity &lpar;features and updates&rpar;.](https://afflift.com/f/threads/detailed-walkthrough-of-the-latest-version-of-adplexity-features-and-updates.12997/)
 -  23 [Domain Flag a Big Headache](https://afflift.com/f/threads/domain-flag-a-big-headache.13019/)
--  23 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
 -  23 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  23 [Are there any advertisers in India?](https://afflift.com/f/threads/are-there-any-advertisers-in-india.13000/)
 -  23 [Hello from NewsBreak Ads!](https://afflift.com/f/threads/hello-from-newsbreak-ads.13023/)
--  23 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  23 [📰Bob&#39;s Affiliate Marketing Moments🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-affiliate-marketing-moments%F0%9F%94%8E.11842/)
--  23 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  23 [CPC vs CPM : Google Adsense](https://afflift.com/f/threads/cpc-vs-cpm-google-adsense.13021/)
--  23 [Documenting my journey running paid push ads](https://afflift.com/f/threads/documenting-my-journey-running-paid-push-ads.12963/)<!-- afflift:END -->
+-  23 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
