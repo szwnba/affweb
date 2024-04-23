@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Domain Flag a Big Headache](https://afflift.com/f/threads/domain-flag-a-big-headache.13019/)
 -  23 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)
+-  23 [Are there any advertisers in India?](https://afflift.com/f/threads/are-there-any-advertisers-in-india.13000/)
+-  23 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
+-  23 [Domain Flag a Big Headache](https://afflift.com/f/threads/domain-flag-a-big-headache.13019/)
+-  23 [CPC vs CPM : Google Adsense](https://afflift.com/f/threads/cpc-vs-cpm-google-adsense.13021/)
 -  23 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  23 [Looking help with landing page](https://afflift.com/f/threads/looking-help-with-landing-page.12546/)
--  23 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
 -  23 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  23 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  23 [Bemob - Is it possible to block publishers?](https://afflift.com/f/threads/bemob-is-it-possible-to-block-publishers.13018/)
--  23 [Are there any advertisers in India?](https://afflift.com/f/threads/are-there-any-advertisers-in-india.13000/)
 -  23 [Trying to Make Affiliate Marketing Work - Let&#39;s Hit $50/Day Profit Together!](https://afflift.com/f/threads/trying-to-make-affiliate-marketing-work-lets-hit-50-day-profit-together.9815/)
--  23 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
--  23 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)<!-- afflift:END -->
+-  23 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
