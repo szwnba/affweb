@@ -58,6 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows [送码]](https://sspai.com/post/88207)
 -  23 [我的购房指北：买房之前可以关注什么？](https://sspai.com/post/88238)
 -  23 [派早报：Meta 向第三方开放混合现实系统 Horizon OS，微软推出 VASA-1 AI 框架等](https://sspai.com/post/88272)
 -  22 [如何借助维基百科 API 查询术语翻译](https://sspai.com/prime/story/wikipedia-translator)
