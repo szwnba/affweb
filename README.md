@@ -44,6 +44,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
+-  23 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
+-  23 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  23 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
 -  23 [Help: Regarding the issue of setting hidden links in LP.](https://afflift.com/f/threads/help-regarding-the-issue-of-setting-hidden-links-in-lp.13013/)
 -  23 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
@@ -52,10 +55,7 @@
 -  22 [Bemob - Is it possible to block publishers?](https://afflift.com/f/threads/bemob-is-it-possible-to-block-publishers.13018/)
 -  22 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  22 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
--  22 [How to set Postback url for my own funnel.](https://afflift.com/f/threads/how-to-set-postback-url-for-my-own-funnel.13016/)
--  22 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
--  22 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
--  22 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)<!-- afflift:END -->
+-  22 [How to set Postback url for my own funnel.](https://afflift.com/f/threads/how-to-set-postback-url-for-my-own-funnel.13016/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
