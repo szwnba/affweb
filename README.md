@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  23 [新人报道](https://www.advertcn.com/thread-114785-1-1.html)
 -  23 [新人报道](https://www.advertcn.com/thread-114783-1-1.html)
 -  23 [跨境干货：9个有效Facebook广告投放技巧](https://www.advertcn.com/thread-114782-1-1.html)<!-- advertcn1:END -->
 
