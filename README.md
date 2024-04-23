@@ -44,6 +44,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Domain Flag a Big Headache](https://afflift.com/f/threads/domain-flag-a-big-headache.13019/)
+-  23 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
 -  23 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  23 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  23 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
@@ -53,9 +55,7 @@
 -  22 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)
 -  22 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  22 [Bemob - Is it possible to block publishers?](https://afflift.com/f/threads/bemob-is-it-possible-to-block-publishers.13018/)
--  22 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  22 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
--  22 [How to set Postback url for my own funnel.](https://afflift.com/f/threads/how-to-set-postback-url-for-my-own-funnel.13016/)<!-- afflift:END -->
+-  22 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
