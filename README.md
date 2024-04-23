@@ -29,8 +29,7 @@
 <!-- advertcn3:START -->
 -  23 [clickbank禁止大陆Ip注册了嘛？](https://www.advertcn.com/thread-114789-1-1.html)
 -  23 [最新Facebook开启双重验证方法](https://www.advertcn.com/thread-114787-1-1.html)
--  23 [DAO.AD 流量平台创建campaign 老是被拒](https://www.advertcn.com/thread-114781-1-1.html)
--  22 [收一个PerformCB&lpar;原ClickBooth&rpar; 账号](https://www.advertcn.com/thread-114779-1-1.html)<!-- advertcn3:END -->
+-  23 [DAO.AD 流量平台创建campaign 老是被拒](https://www.advertcn.com/thread-114781-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
