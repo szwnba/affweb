@@ -17,8 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  22 [海外社媒干货：Facebook的特点及运营策略](https://www.advertcn.com/thread-114772-1-1.html)
--  22 [新人报道，请大家多多关照](https://www.advertcn.com/thread-114768-1-1.html)<!-- advertcn1:END -->
+-  23 [跨境干货：9个有效Facebook广告投放技巧](https://www.advertcn.com/thread-114782-1-1.html)
+-  22 [海外社媒干货：Facebook的特点及运营策略](https://www.advertcn.com/thread-114772-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
