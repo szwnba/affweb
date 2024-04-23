@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
+-  23 [Bemob - Is it possible to block publishers?](https://afflift.com/f/threads/bemob-is-it-possible-to-block-publishers.13018/)
 -  23 [Domain Flag a Big Headache](https://afflift.com/f/threads/domain-flag-a-big-headache.13019/)
 -  23 [Are there any advertisers in India?](https://afflift.com/f/threads/are-there-any-advertisers-in-india.13000/)
 -  23 [Trying to Make Affiliate Marketing Work - Let&#39;s Hit $50/Day Profit Together!](https://afflift.com/f/threads/trying-to-make-affiliate-marketing-work-lets-hit-50-day-profit-together.9815/)
 -  23 [AdStart Media - Performance Marketing Network &amp; mVAS Direct Advertiser](https://afflift.com/f/threads/adstart-media-performance-marketing-network-mvas-direct-advertiser.9494/)
--  23 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  23 [Running bigger tests with Galaksion](https://afflift.com/f/threads/running-bigger-tests-with-galaksion.12711/)
 -  23 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  23 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
 -  23 [Help: Regarding the issue of setting hidden links in LP.](https://afflift.com/f/threads/help-regarding-the-issue-of-setting-hidden-links-in-lp.13013/)
 -  23 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  22 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)
--  22 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)<!-- afflift:END -->
+-  22 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
