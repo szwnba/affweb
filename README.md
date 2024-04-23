@@ -44,6 +44,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
+-  23 [Help: Regarding the issue of setting hidden links in LP.](https://afflift.com/f/threads/help-regarding-the-issue-of-setting-hidden-links-in-lp.13013/)
 -  23 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  22 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)
 -  22 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
@@ -53,9 +55,7 @@
 -  22 [How to set Postback url for my own funnel.](https://afflift.com/f/threads/how-to-set-postback-url-for-my-own-funnel.13016/)
 -  22 [Introducing RevShare by affLIFT](https://afflift.com/f/threads/introducing-revshare-by-afflift.11814/)
 -  22 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
--  22 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)
--  22 [Networks to avoid killing your Cashflow as a beginner](https://afflift.com/f/threads/networks-to-avoid-killing-your-cashflow-as-a-beginner.5847/)
--  22 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)<!-- afflift:END -->
+-  22 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
