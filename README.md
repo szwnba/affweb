@@ -42,6 +42,7 @@
 ### afflift
 <!-- afflift:START -->
 -  23 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
+-  23 [Hey ChatGPT, Create a campaign😀[Explore the use of ChatGPT in affiliate]🔎](https://afflift.com/f/threads/hey-chatgpt-create-a-campaign%F0%9F%98%80-explore-the-use-of-chatgpt-in-affiliate-%F0%9F%94%8E.12937/)
 -  23 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  23 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
 -  23 [I want UNIQUE landing pages](https://afflift.com/f/threads/i-want-unique-landing-pages.12714/)
@@ -51,8 +52,7 @@
 -  23 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  23 [Are there any advertisers in India?](https://afflift.com/f/threads/are-there-any-advertisers-in-india.13000/)
 -  23 [Hello from NewsBreak Ads!](https://afflift.com/f/threads/hello-from-newsbreak-ads.13023/)
--  23 [📰Bob&#39;s Affiliate Marketing Moments🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-affiliate-marketing-moments%F0%9F%94%8E.11842/)
--  23 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
+-  23 [📰Bob&#39;s Affiliate Marketing Moments🔎](https://afflift.com/f/threads/%F0%9F%93%B0bobs-affiliate-marketing-moments%F0%9F%94%8E.11842/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
