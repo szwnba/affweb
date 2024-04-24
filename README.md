@@ -30,8 +30,7 @@
 -  24 [MAXCONV-按着教程设置LP，为什么click url 网页加载不出来](https://www.advertcn.com/thread-114797-1-1.html)
 -  24 [MAXCONV-按着教程设置LP，为什么click url 网页加载不出来](https://www.advertcn.com/thread-114795-1-1.html)
 -  24 [TikTok 你一定要了解的专有名词...](https://www.advertcn.com/thread-114793-1-1.html)
--  23 [clickbank禁止大陆Ip注册了嘛？](https://www.advertcn.com/thread-114789-1-1.html)
--  23 [最新Facebook开启双重验证方法](https://www.advertcn.com/thread-114787-1-1.html)<!-- advertcn3:END -->
+-  23 [clickbank禁止大陆Ip注册了嘛？](https://www.advertcn.com/thread-114789-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
