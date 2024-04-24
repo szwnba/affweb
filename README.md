@@ -61,5 +61,4 @@
 <!-- sspai:START -->
 -  24 [放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机](https://sspai.com/post/88270)
 -  24 [派早报：雷蛇毒蝰 V3 专业版发布等](https://sspai.com/post/88303)
--  23 [社区速递 041 | 派友速食大曝光、开源的老乡鸡以及作者的新玩意](https://sspai.com/post/88290)
--  23 [看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows [送码]](https://sspai.com/post/88207)<!-- sspai:END -->
+-  23 [社区速递 041 | 派友速食大曝光、开源的老乡鸡以及作者的新玩意](https://sspai.com/post/88290)<!-- sspai:END -->
