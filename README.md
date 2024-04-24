@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  24 [重庆结汇，专注于Google结汇](https://www.advertcn.com/thread-114794-1-1.html)
 -  24 [TikTok保姆级运营教程，新手必看！](https://www.advertcn.com/thread-114792-1-1.html)
 -  24 [鲁班跨境通新官网上线：界面优化、操作升级，助力出海...](https://www.advertcn.com/thread-114791-1-1.html)
 -  24 [玉姐专讲：做COD，Facebook广告转化效果差？三步教你爆单！](https://www.advertcn.com/thread-114790-1-1.html)
