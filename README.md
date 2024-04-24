@@ -43,16 +43,16 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
+-  24 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  24 [Hello from NewsBreak Ads!](https://afflift.com/f/threads/hello-from-newsbreak-ads.13023/)
 -  24 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  24 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  24 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  24 [Need your input: what affiliate services/tools do you use?](https://afflift.com/f/threads/need-your-input-what-affiliate-services-tools-do-you-use.13024/)
 -  24 [Domain Flag a Big Headache](https://afflift.com/f/threads/domain-flag-a-big-headache.13019/)
--  24 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  24 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  24 [Augmented Reality &lpar;AR&rpar; — New Advertising Opportunities On Google?](https://afflift.com/f/threads/augmented-reality-ar-%E2%80%94-new-advertising-opportunities-on-google.13029/)
--  24 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
 -  24 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)
 -  24 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)<!-- afflift:END -->
 
