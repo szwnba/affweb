@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)
 -  23 [Ad Creatives for Everyone: A List of The Best Free Spy Tools](https://afflift.com/f/threads/ad-creatives-for-everyone-a-list-of-the-best-free-spy-tools.12991/)
 -  23 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  23 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
@@ -50,8 +51,7 @@
 -  23 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  23 [Detailed walkthrough of the latest version of AdPlexity &lpar;features and updates&rpar;.](https://afflift.com/f/threads/detailed-walkthrough-of-the-latest-version-of-adplexity-features-and-updates.12997/)
 -  23 [Domain Flag a Big Headache](https://afflift.com/f/threads/domain-flag-a-big-headache.13019/)
--  23 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
--  23 [Are there any advertisers in India?](https://afflift.com/f/threads/are-there-any-advertisers-in-india.13000/)<!-- afflift:END -->
+-  23 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
