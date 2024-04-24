@@ -58,5 +58,4 @@
 <!-- sspai:START -->
 -  24 [听我爱听的——基于 Antennapod 的全播客解决方案](https://sspai.com/post/88279)
 -  24 [放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机](https://sspai.com/post/88270)
--  24 [派早报：雷蛇毒蝰 V3 专业版发布等](https://sspai.com/post/88303)
--  23 [社区速递 041 | 派友速食大曝光、开源的老乡鸡以及作者的新玩意](https://sspai.com/post/88290)<!-- sspai:END -->
+-  24 [派早报：雷蛇毒蝰 V3 专业版发布等](https://sspai.com/post/88303)<!-- sspai:END -->
