@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
+-  24 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
+-  24 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
+-  24 [Need your input: what affiliate services/tools do you use?](https://afflift.com/f/threads/need-your-input-what-affiliate-services-tools-do-you-use.13024/)
+-  24 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  24 [How to Backup your Keitaro Tracker](https://afflift.com/f/threads/how-to-backup-your-keitaro-tracker.13022/)
 -  24 [How to download thousands of landing pages for free!](https://afflift.com/f/threads/how-to-download-thousands-of-landing-pages-for-free.12544/)
+-  24 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
 -  24 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
 -  24 [Domain Flag a Big Headache](https://afflift.com/f/threads/domain-flag-a-big-headache.13019/)
--  24 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  24 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)
 -  23 [Ad Creatives for Everyone: A List of The Best Free Spy Tools](https://afflift.com/f/threads/ad-creatives-for-everyone-a-list-of-the-best-free-spy-tools.12991/)
--  23 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
--  23 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
--  23 [Hey ChatGPT, Create a campaign😀[Explore the use of ChatGPT in affiliate]🔎](https://afflift.com/f/threads/hey-chatgpt-create-a-campaign%F0%9F%98%80-explore-the-use-of-chatgpt-in-affiliate-%F0%9F%94%8E.12937/)
--  23 [I want UNIQUE landing pages](https://afflift.com/f/threads/i-want-unique-landing-pages.12714/)
--  23 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  23 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
