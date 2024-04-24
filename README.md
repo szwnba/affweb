@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  24 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
+-  24 [anyone heard of this native network my6sense.com](https://afflift.com/f/threads/anyone-heard-of-this-native-network-my6sense-com.12854/)
+-  24 [What networks are Propellerads&#39;s partner networks ?](https://afflift.com/f/threads/what-networks-are-propelleradss-partner-networks.13028/)
 -  24 [The A/B test results of LP and Offer are opposite. How should you choose?](https://afflift.com/f/threads/the-a-b-test-results-of-lp-and-offer-are-opposite-how-should-you-choose.13031/)
+-  24 [Hello from NewsBreak Ads!](https://afflift.com/f/threads/hello-from-newsbreak-ads.13023/)
+-  24 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
+-  24 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
+-  24 [Top Landing Pages for Different Types of Traffic](https://afflift.com/f/threads/top-landing-pages-for-different-types-of-traffic.13025/)
+-  24 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  24 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)
 -  24 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  24 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  24 [What networks are Propellerads&#39;s partner networks ?](https://afflift.com/f/threads/what-networks-are-propelleradss-partner-networks.13028/)
--  24 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  24 [MAGIC BOOST - Web3, Blockchain and Crypto Leading Affiliate Network](https://afflift.com/f/threads/magic-boost-web3-blockchain-and-crypto-leading-affiliate-network.10508/)
--  24 [Augmented Reality &lpar;AR&rpar; — New Advertising Opportunities On Google?](https://afflift.com/f/threads/augmented-reality-ar-%E2%80%94-new-advertising-opportunities-on-google.13029/)
--  24 [Using Github with Netlify to Streamline the Process](https://afflift.com/f/threads/using-github-with-netlify-to-streamline-the-process.9145/)
--  24 [Anything Goes Contest - Vote For Your Favorite Follow Along](https://afflift.com/f/threads/anything-goes-contest-vote-for-your-favorite-follow-along.12951/)
--  24 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)<!-- afflift:END -->
+-  24 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
