@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  24 [玉姐专讲：做COD，Facebook广告转化效果差？三步教你爆单！](https://www.advertcn.com/thread-114790-1-1.html)
 -  23 [新人报道](https://www.advertcn.com/thread-114785-1-1.html)
 -  23 [新人报道](https://www.advertcn.com/thread-114783-1-1.html)
 -  23 [跨境干货：9个有效Facebook广告投放技巧](https://www.advertcn.com/thread-114782-1-1.html)<!-- advertcn1:END -->
