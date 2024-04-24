@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  24 [每天几十万印度流量，寻变现](https://www.advertcn.com/thread-114805-1-1.html)
 -  24 [这行快彻底凉凉了,都躺平吧](https://www.advertcn.com/thread-114803-1-1.html)
 -  24 [MAXCONV-按着教程设置LP，为什么click url 网页加载不出来](https://www.advertcn.com/thread-114797-1-1.html)
 -  24 [MAXCONV-按着教程设置LP，为什么click url 网页加载不出来](https://www.advertcn.com/thread-114795-1-1.html)
