@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [What networks are Propellerads&#39;s partner networks ?](https://afflift.com/f/threads/what-networks-are-propelleradss-partner-networks.13028/)
+-  24 [𝙏𝙝𝙚 𝙐𝙡𝙩𝙞𝙢𝙖𝙩𝙚 𝙂𝙪𝙞𝙙𝙚 𝙛𝙤𝙧 𝙋𝙪𝙨𝙝 𝘼𝙙𝙨 𝙞𝙣 𝟮𝟬𝟮𝟰](https://afflift.com/f/threads/%F0%9D%99%8F%F0%9D%99%9D%F0%9D%99%9A-%F0%9D%99%90%F0%9D%99%A1%F0%9D%99%A9%F0%9D%99%9E%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%9A-%F0%9D%99%82%F0%9D%99%AA%F0%9D%99%9E%F0%9D%99%99%F0%9D%99%9A-%F0%9D%99%9B%F0%9D%99%A4%F0%9D%99%A7-%F0%9D%99%8B%F0%9D%99%AA%F0%9D%99%A8%F0%9D%99%9D-%F0%9D%98%BC%F0%9D%99%99%F0%9D%99%A8-%F0%9D%99%9E%F0%9D%99%A3-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B0.13027/)
+-  24 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  24 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
+-  24 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
+-  24 [Documenting my journey running paid push ads](https://afflift.com/f/threads/documenting-my-journey-running-paid-push-ads.12963/)
 -  24 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  24 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  24 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  24 [Need your input: what affiliate services/tools do you use?](https://afflift.com/f/threads/need-your-input-what-affiliate-services-tools-do-you-use.13024/)
 -  24 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  24 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  24 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  24 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  24 [How to Backup your Keitaro Tracker](https://afflift.com/f/threads/how-to-backup-your-keitaro-tracker.13022/)
--  24 [How to download thousands of landing pages for free!](https://afflift.com/f/threads/how-to-download-thousands-of-landing-pages-for-free.12544/)
--  24 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
--  24 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)<!-- afflift:END -->
+-  24 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
