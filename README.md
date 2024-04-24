@@ -20,8 +20,7 @@
 -  24 [TikTok保姆级运营教程，新手必看！](https://www.advertcn.com/thread-114792-1-1.html)
 -  24 [鲁班跨境通新官网上线：界面优化、操作升级，助力出海...](https://www.advertcn.com/thread-114791-1-1.html)
 -  24 [玉姐专讲：做COD，Facebook广告转化效果差？三步教你爆单！](https://www.advertcn.com/thread-114790-1-1.html)
--  23 [新人报道](https://www.advertcn.com/thread-114785-1-1.html)
--  23 [新人报道](https://www.advertcn.com/thread-114783-1-1.html)<!-- advertcn1:END -->
+-  23 [新人报道](https://www.advertcn.com/thread-114785-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
