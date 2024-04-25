@@ -17,9 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  25 [新人报道！](https://www.advertcn.com/thread-114808-1-1.html)
--  24 [TikTok保姆级运营教程，新手必看！](https://www.advertcn.com/thread-114792-1-1.html)
--  24 [鲁班跨境通新官网上线：界面优化、操作升级，助力出海...](https://www.advertcn.com/thread-114791-1-1.html)<!-- advertcn1:END -->
+-  25 [新人报道！](https://www.advertcn.com/thread-114808-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
