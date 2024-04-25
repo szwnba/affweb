@@ -42,9 +42,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
+-  25 [Does using Propush drop the CR?](https://afflift.com/f/threads/does-using-propush-drop-the-cr.13033/)
 -  25 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  25 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  25 [Does using Propush drop the CR?](https://afflift.com/f/threads/does-using-propush-drop-the-cr.13033/)
 -  25 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  25 [Domain Flag a Big Headache](https://afflift.com/f/threads/domain-flag-a-big-headache.13019/)
 -  25 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
@@ -52,8 +53,7 @@
 -  24 [Hello from NewsBreak Ads!](https://afflift.com/f/threads/hello-from-newsbreak-ads.13023/)
 -  24 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  24 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  24 [Need your input: what affiliate services/tools do you use?](https://afflift.com/f/threads/need-your-input-what-affiliate-services-tools-do-you-use.13024/)
--  24 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)<!-- afflift:END -->
+-  24 [Need your input: what affiliate services/tools do you use?](https://afflift.com/f/threads/need-your-input-what-affiliate-services-tools-do-you-use.13024/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
