@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
+-  25 [Augmented Reality &lpar;AR&rpar; — New Advertising Opportunities On Google?](https://afflift.com/f/threads/augmented-reality-ar-%E2%80%94-new-advertising-opportunities-on-google.13029/)
 -  25 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
 -  25 [Facebook or Ad Networks: Criteria for Choosing a Traffic Source in 2024](https://afflift.com/f/threads/facebook-or-ad-networks-criteria-for-choosing-a-traffic-source-in-2024.13039/)
 -  25 [Opportunity for newbies: earn profit and 10% cashback from your first Asian campaign!](https://afflift.com/f/threads/opportunity-for-newbies-earn-profit-and-10-cashback-from-your-first-asian-campaign.13036/)
--  25 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  25 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  25 [Rules when you use no-redirect tracking, is it possible?](https://afflift.com/f/threads/rules-when-you-use-no-redirect-tracking-is-it-possible.13037/)
 -  25 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  25 [Ad Creatives for Everyone: A List of The Best Free Spy Tools](https://afflift.com/f/threads/ad-creatives-for-everyone-a-list-of-the-best-free-spy-tools.12991/)
 -  25 [We now offer USDT payment!](https://afflift.com/f/threads/we-now-offer-usdt-payment.13038/)
 -  25 [ApproachX - 30% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-30-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  25 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  25 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
+-  25 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
