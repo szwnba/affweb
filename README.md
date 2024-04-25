@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  25 [独家sweeps寻找优质traffic](https://www.advertcn.com/thread-114813-1-1.html)
 -  25 [独家Sweepstakes寻找优秀traffic](https://www.advertcn.com/thread-114812-1-1.html)
 -  25 [干货分享！5个做TikTok的技巧汇总！](https://www.advertcn.com/thread-114810-1-1.html)
 -  25 [新人报道！](https://www.advertcn.com/thread-114808-1-1.html)<!-- advertcn1:END -->
