@@ -57,6 +57,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [iPhone 终于有任天堂模拟器了：聊聊热门应用 Delta 的前世今生](https://sspai.com/post/88299)
 -  25 [「助你苹安」iPhone 一键遥控 Android 热点，简单设置强化双持体验](https://sspai.com/post/88334)
 -  25 [派早报：OPPO 发布 K12、vivo 推出 Z9 系列手机等](https://sspai.com/post/88335)
 -  24 [你的五一旅行必备清单，这些出行好物推荐给你](https://sspai.com/post/88300)
