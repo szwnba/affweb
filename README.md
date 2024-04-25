@@ -59,5 +59,4 @@
 -  25 [派早报：OPPO 发布 K12、vivo 推出 Z9 系列手机等](https://sspai.com/post/88335)
 -  24 [你的五一旅行必备清单，这些出行好物推荐给你](https://sspai.com/post/88300)
 -  24 [出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店](https://sspai.com/post/83199)
--  24 [听我爱听的——基于 Antennapod 的全播客解决方案](https://sspai.com/post/88279)
--  24 [放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机](https://sspai.com/post/88270)<!-- sspai:END -->
+-  24 [听我爱听的——基于 Antennapod 的全播客解决方案](https://sspai.com/post/88279)<!-- sspai:END -->
