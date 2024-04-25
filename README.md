@@ -57,6 +57,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [新玩意 179｜少数派的编辑们最近买了啥？](https://sspai.com/post/88350)
 -  25 [在「移动的家」里，这是我们的爱护方式和好物推荐](https://sspai.com/post/88348)
 -  25 [iPhone 终于有任天堂模拟器了：聊聊热门应用 Delta 的前世今生](https://sspai.com/post/88299)
 -  25 [「助你苹安」iPhone 一键遥控 Android 热点，简单设置强化双持体验](https://sspai.com/post/88334)
