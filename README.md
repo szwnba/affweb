@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  25 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
--  25 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  25 [Webinar May 1st_ Level Up Your Affiliate Marketing Skills with MGID, MaxWeb and Xevio - Don&#39;t Miss Out!](https://afflift.com/f/threads/webinar-may-1st_-level-up-your-affiliate-marketing-skills-with-mgid-maxweb-and-xevio-dont-miss-out.12980/)
+-  25 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
+-  25 [Rules when you use no-redirect tracking, is it possible?](https://afflift.com/f/threads/rules-when-you-use-no-redirect-tracking-is-it-possible.13037/)
 -  25 [We now offer USDT payment!](https://afflift.com/f/threads/we-now-offer-usdt-payment.13038/)
+-  25 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  25 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
+-  25 [Webinar May 1st_ Level Up Your Affiliate Marketing Skills with MGID, MaxWeb and Xevio - Don&#39;t Miss Out!](https://afflift.com/f/threads/webinar-may-1st_-level-up-your-affiliate-marketing-skills-with-mgid-maxweb-and-xevio-dont-miss-out.12980/)
 -  25 [Augmented Reality &lpar;AR&rpar; — New Advertising Opportunities On Google?](https://afflift.com/f/threads/augmented-reality-ar-%E2%80%94-new-advertising-opportunities-on-google.13029/)
 -  25 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
 -  25 [Facebook or Ad Networks: Criteria for Choosing a Traffic Source in 2024](https://afflift.com/f/threads/facebook-or-ad-networks-criteria-for-choosing-a-traffic-source-in-2024.13039/)
 -  25 [Opportunity for newbies: earn profit and 10% cashback from your first Asian campaign!](https://afflift.com/f/threads/opportunity-for-newbies-earn-profit-and-10-cashback-from-your-first-asian-campaign.13036/)
 -  25 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
--  25 [Rules when you use no-redirect tracking, is it possible?](https://afflift.com/f/threads/rules-when-you-use-no-redirect-tracking-is-it-possible.13037/)
--  25 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
--  25 [Ad Creatives for Everyone: A List of The Best Free Spy Tools](https://afflift.com/f/threads/ad-creatives-for-everyone-a-list-of-the-best-free-spy-tools.12991/)<!-- afflift:END -->
+-  25 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
