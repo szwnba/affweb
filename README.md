@@ -42,6 +42,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  26 [We now offer USDT payment!](https://afflift.com/f/threads/we-now-offer-usdt-payment.13038/)
+-  26 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  26 [TG HUNTER 2.0⭐ - Promoting your projects in Telegram ⚡️Parsing, Sending messages, Inviting to groups, Multitools](https://afflift.com/f/threads/tg-hunter-2-0%E2%AD%90-promoting-your-projects-in-telegram-%E2%9A%A1%EF%B8%8Fparsing-sending-messages-inviting-to-groups-multitools.13045/)
 -  26 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
 -  26 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
@@ -50,10 +53,7 @@
 -  26 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  26 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  26 [Navigating the PropellerAds Maze: Seeking Advice on Budgeting and Targeting](https://afflift.com/f/threads/navigating-the-propellerads-maze-seeking-advice-on-budgeting-and-targeting.13041/)
--  26 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
--  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  26 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
--  26 [What networks are Propellerads&#39;s partner networks ?](https://afflift.com/f/threads/what-networks-are-propelleradss-partner-networks.13028/)<!-- afflift:END -->
+-  26 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
