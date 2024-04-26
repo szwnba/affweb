@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [TG HUNTER 2.0⭐ - Promoting your projects in Telegram ⚡️Parsing, Sending messages, Inviting to groups, Multitools](https://afflift.com/f/threads/tg-hunter-2-0%E2%AD%90-promoting-your-projects-in-telegram-%E2%9A%A1%EF%B8%8Fparsing-sending-messages-inviting-to-groups-multitools.13045/)
+-  26 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
 -  26 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)
 -  26 [Purelander and AWS](https://afflift.com/f/threads/purelander-and-aws.13044/)
 -  26 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
@@ -50,9 +52,7 @@
 -  26 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
 -  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  26 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
--  26 [What networks are Propellerads&#39;s partner networks ?](https://afflift.com/f/threads/what-networks-are-propelleradss-partner-networks.13028/)
--  26 [We now offer USDT payment!](https://afflift.com/f/threads/we-now-offer-usdt-payment.13038/)
--  26 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  26 [What networks are Propellerads&#39;s partner networks ?](https://afflift.com/f/threads/what-networks-are-propelleradss-partner-networks.13028/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
