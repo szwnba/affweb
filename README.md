@@ -23,7 +23,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  19 [分享一些广告文案设计相关的材料 希望对LP和软文有帮助](https://www.advertcn.com/thread-114753-1-1.html)<!-- advertcn2:END -->
+-  26 [MediaBuy第一天: 测试，直链](https://www.advertcn.com/thread-114833-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
