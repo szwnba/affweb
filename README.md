@@ -29,6 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  26 [谷歌广告为啥无法智能出价呢](https://www.advertcn.com/thread-114822-1-1.html)
 -  25 [除了adspower外，有没有其他指纹浏览器](https://www.advertcn.com/thread-114820-1-1.html)
 -  25 [adsense这种收益在论坛里算多吗？](https://www.advertcn.com/thread-114815-1-1.html)
 -  25 [全局富强工具](https://www.advertcn.com/thread-114809-1-1.html)<!-- advertcn3:END -->
