@@ -58,6 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器](https://sspai.com/post/88364)
 -  25 [新玩意 179｜少数派的编辑们最近买了啥？](https://sspai.com/post/88350)
 -  25 [在「移动的家」里，这是我们的爱护方式和好物推荐](https://sspai.com/post/88348)
 -  25 [iPhone 终于有任天堂模拟器了：聊聊热门应用 Delta 的前世今生](https://sspai.com/post/88299)
