@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Navigating the PropellerAds Maze: Seeking Advice on Budgeting and Targeting](https://afflift.com/f/threads/navigating-the-propellerads-maze-seeking-advice-on-budgeting-and-targeting.13041/)
 -  25 [Rules when you use no-redirect tracking, is it possible?](https://afflift.com/f/threads/rules-when-you-use-no-redirect-tracking-is-it-possible.13037/)
 -  25 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  25 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
@@ -53,8 +54,7 @@
 -  25 [Augmented Reality &lpar;AR&rpar; — New Advertising Opportunities On Google?](https://afflift.com/f/threads/augmented-reality-ar-%E2%80%94-new-advertising-opportunities-on-google.13029/)
 -  25 [Facebook or Ad Networks: Criteria for Choosing a Traffic Source in 2024](https://afflift.com/f/threads/facebook-or-ad-networks-criteria-for-choosing-a-traffic-source-in-2024.13039/)
 -  25 [Opportunity for newbies: earn profit and 10% cashback from your first Asian campaign!](https://afflift.com/f/threads/opportunity-for-newbies-earn-profit-and-10-cashback-from-your-first-asian-campaign.13036/)
--  25 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
--  25 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)<!-- afflift:END -->
+-  25 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
