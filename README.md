@@ -17,10 +17,11 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  26 [干货满满！从0到1，TikTok运营几大关键步骤是什么？](https://www.advertcn.com/thread-114830-1-1.html)
+-  26 [新人报道](https://www.advertcn.com/thread-114829-1-1.html)
 -  25 [新人报道](https://www.advertcn.com/thread-114821-1-1.html)
 -  25 [独家sweeps寻找优质traffic](https://www.advertcn.com/thread-114813-1-1.html)
--  25 [独家Sweepstakes寻找优秀traffic](https://www.advertcn.com/thread-114812-1-1.html)
--  25 [干货分享！5个做TikTok的技巧汇总！](https://www.advertcn.com/thread-114810-1-1.html)<!-- advertcn1:END -->
+-  25 [独家Sweepstakes寻找优秀traffic](https://www.advertcn.com/thread-114812-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
