@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [[Google Ads] Financial offer - Ads disapproved](https://afflift.com/f/threads/google-ads-financial-offer-ads-disapproved.13034/)
 -  26 [TG HUNTER 2.0⭐ - Promoting your projects in Telegram ⚡️Parsing, Sending messages, Inviting to groups, Multitools](https://afflift.com/f/threads/tg-hunter-2-0%E2%AD%90-promoting-your-projects-in-telegram-%E2%9A%A1%EF%B8%8Fparsing-sending-messages-inviting-to-groups-multitools.13045/)
 -  26 [Looking for VOD and CC submits offers](https://afflift.com/f/threads/looking-for-vod-and-cc-submits-offers.13046/)
 -  26 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
@@ -51,8 +52,7 @@
 -  26 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  26 [We now offer USDT payment!](https://afflift.com/f/threads/we-now-offer-usdt-payment.13038/)
 -  26 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  26 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
--  26 [EPN.NET | Premium US Virtual Cards to pay for ads](https://afflift.com/f/threads/epn-net-premium-us-virtual-cards-to-pay-for-ads.11362/)<!-- afflift:END -->
+-  26 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
