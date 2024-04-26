@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  26 [干货满满！从0到1，TikTok运营几大关键步骤是什么？](https://www.advertcn.com/thread-114830-1-1.html)
--  26 [新人报道](https://www.advertcn.com/thread-114829-1-1.html)
--  25 [新人报道](https://www.advertcn.com/thread-114821-1-1.html)<!-- advertcn1:END -->
+-  26 [新人报道](https://www.advertcn.com/thread-114829-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
