@@ -60,5 +60,4 @@
 <!-- sspai:START -->
 -  26 [一日一技 | Windows 11 满地广告：教你如何关闭它](https://sspai.com/post/88373)
 -  26 [什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
--  26 [派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器](https://sspai.com/post/88364)
--  25 [新玩意 179｜少数派的编辑们最近买了啥？](https://sspai.com/post/88350)<!-- sspai:END -->
+-  26 [派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器](https://sspai.com/post/88364)<!-- sspai:END -->
