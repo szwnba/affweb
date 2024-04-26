@@ -42,6 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [EvaDav Pops Added!](https://afflift.com/f/threads/evadav-pops-added.13017/)
+-  26 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
 -  26 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  26 [TaroAds Ad Network](https://afflift.com/f/threads/taroads-ad-network.13042/)
 -  26 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
@@ -51,9 +53,7 @@
 -  26 [We now offer USDT payment!](https://afflift.com/f/threads/we-now-offer-usdt-payment.13038/)
 -  26 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
 -  26 [Navigating the PropellerAds Maze: Seeking Advice on Budgeting and Targeting](https://afflift.com/f/threads/navigating-the-propellerads-maze-seeking-advice-on-budgeting-and-targeting.13041/)
--  26 [Rules when you use no-redirect tracking, is it possible?](https://afflift.com/f/threads/rules-when-you-use-no-redirect-tracking-is-it-possible.13037/)
--  26 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
--  25 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)<!-- afflift:END -->
+-  26 [Rules when you use no-redirect tracking, is it possible?](https://afflift.com/f/threads/rules-when-you-use-no-redirect-tracking-is-it-possible.13037/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
