@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  27 [What is the fundamental factor that determines whether you can make a stable profit in the career of affiliate marketing?](https://afflift.com/f/threads/what-is-the-fundamental-factor-that-determines-whether-you-can-make-a-stable-profit-in-the-career-of-affiliate-marketing.13047/)
 -  26 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
 -  26 [[Google Ads] Financial offer - Ads disapproved](https://afflift.com/f/threads/google-ads-financial-offer-ads-disapproved.13034/)
@@ -48,8 +49,7 @@
 -  26 [Navigating the PropellerAds Maze: Seeking Advice on Budgeting and Targeting](https://afflift.com/f/threads/navigating-the-propellerads-maze-seeking-advice-on-budgeting-and-targeting.13041/)
 -  26 [TaroAds Ad Network](https://afflift.com/f/threads/taroads-ad-network.13042/)
 -  26 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  26 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  26 [We now offer USDT payment!](https://afflift.com/f/threads/we-now-offer-usdt-payment.13038/)<!-- afflift:END -->
+-  26 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
