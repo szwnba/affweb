@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
+-  27 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  27 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  27 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  27 [What is the fundamental factor that determines whether you can make a stable profit in the career of affiliate marketing?](https://afflift.com/f/threads/what-is-the-fundamental-factor-that-determines-whether-you-can-make-a-stable-profit-in-the-career-of-affiliate-marketing.13047/)
@@ -45,10 +47,8 @@
 -  27 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  27 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
 -  27 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
--  27 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  27 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
--  26 [[Google Ads] Financial offer - Ads disapproved](https://afflift.com/f/threads/google-ads-financial-offer-ads-disapproved.13034/)
--  26 [TG HUNTER 2.0⭐ - Promoting your projects in Telegram ⚡️Parsing, Sending messages, Inviting to groups, Multitools](https://afflift.com/f/threads/tg-hunter-2-0%E2%AD%90-promoting-your-projects-in-telegram-%E2%9A%A1%EF%B8%8Fparsing-sending-messages-inviting-to-groups-multitools.13045/)<!-- afflift:END -->
+-  26 [[Google Ads] Financial offer - Ads disapproved](https://afflift.com/f/threads/google-ads-financial-offer-ads-disapproved.13034/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
