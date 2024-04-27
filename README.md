@@ -22,8 +22,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  26 [广告算法工程师尝试 mediabuy 第一天](https://www.advertcn.com/thread-114834-1-1.html)
--  26 [MediaBuy第一天: 测试，直链](https://www.advertcn.com/thread-114833-1-1.html)<!-- advertcn2:END -->
+-  26 [广告算法工程师尝试 mediabuy 第一天](https://www.advertcn.com/thread-114834-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
