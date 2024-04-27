@@ -54,5 +54,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  27 [出行锦囊 | 出去玩带什么：和你分享我的包](https://sspai.com/post/83351)
--  26 [19 种做法，解锁笋的节节美味](https://sspai.com/prime/story/bamboo-shoots-recipes)
--  26 [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/88382)<!-- sspai:END -->
+-  26 [19 种做法，解锁笋的节节美味](https://sspai.com/prime/story/bamboo-shoots-recipes)<!-- sspai:END -->
