@@ -58,5 +58,4 @@
 -  26 [19 种做法，解锁笋的节节美味](https://sspai.com/prime/story/bamboo-shoots-recipes)
 -  26 [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/88382)
 -  26 [一日一技 | Windows 11 满地广告：教你如何关闭它](https://sspai.com/post/88373)
--  26 [什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
--  26 [派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器](https://sspai.com/post/88364)<!-- sspai:END -->
+-  26 [什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)<!-- sspai:END -->
