@@ -29,8 +29,7 @@
 <!-- advertcn3:START -->
 -  26 [如何找到pp的客户经理](https://www.advertcn.com/thread-114827-1-1.html)
 -  26 [官宣！西安云晨蓝网络科技有限公司正式成为TikTok官方代...](https://www.advertcn.com/thread-114825-1-1.html)
--  26 [投放广告到底用TikTok还是Facebook？](https://www.advertcn.com/thread-114824-1-1.html)
--  26 [谷歌广告为啥无法智能出价呢](https://www.advertcn.com/thread-114822-1-1.html)<!-- advertcn3:END -->
+-  26 [投放广告到底用TikTok还是Facebook？](https://www.advertcn.com/thread-114824-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
