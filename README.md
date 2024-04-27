@@ -26,7 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  26 [如何找到pp的客户经理](https://www.advertcn.com/thread-114827-1-1.html)<!-- advertcn3:END -->
+-  27 [谷歌Ads最近抽风吗](https://www.advertcn.com/thread-114840-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
