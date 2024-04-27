@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
+-  27 [I Just Remembered... &lpar;Be careful who you trust! 😱&rpar;](https://afflift.com/f/threads/i-just-remembered-be-careful-who-you-trust-%F0%9F%98%B1.13048/)
 -  27 [What is the fundamental factor that determines whether you can make a stable profit in the career of affiliate marketing?](https://afflift.com/f/threads/what-is-the-fundamental-factor-that-determines-whether-you-can-make-a-stable-profit-in-the-career-of-affiliate-marketing.13047/)
 -  27 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  27 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
@@ -48,9 +50,7 @@
 -  27 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
 -  27 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  27 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
--  27 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
--  27 [Tracking Additional Monetization Scripts &lpar;Back Button, Timed Redirect, etc.&rpar;](https://afflift.com/f/threads/tracking-additional-monetization-scripts-back-button-timed-redirect-etc.5121/)
--  26 [[Google Ads] Financial offer - Ads disapproved](https://afflift.com/f/threads/google-ads-financial-offer-ads-disapproved.13034/)<!-- afflift:END -->
+-  27 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
