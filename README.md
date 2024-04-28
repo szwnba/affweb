@@ -56,4 +56,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  27 [出行锦囊 | 出去玩带什么：和你分享我的包](https://sspai.com/post/83351)<!-- sspai:END -->
+-  28 [Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始](https://sspai.com/post/88325)<!-- sspai:END -->
