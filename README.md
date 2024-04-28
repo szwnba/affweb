@@ -39,10 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [What is the fundamental factor that determines whether you can make a stable profit in the career of affiliate marketing?](https://afflift.com/f/threads/what-is-the-fundamental-factor-that-determines-whether-you-can-make-a-stable-profit-in-the-career-of-affiliate-marketing.13047/)
 -  27 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  27 [I Just Remembered... &lpar;Be careful who you trust! 😱&rpar;](https://afflift.com/f/threads/i-just-remembered-be-careful-who-you-trust-%F0%9F%98%B1.13048/)
 -  27 [Fb+CPA: Journey to Profitable Campaigns! 💰](https://afflift.com/f/threads/fb-cpa-journey-to-profitable-campaigns-%F0%9F%92%B0.12907/)
--  27 [What is the fundamental factor that determines whether you can make a stable profit in the career of affiliate marketing?](https://afflift.com/f/threads/what-is-the-fundamental-factor-that-determines-whether-you-can-make-a-stable-profit-in-the-career-of-affiliate-marketing.13047/)
 -  27 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  27 [Step 10 - Analyzing Your PopAds Campaigns using BeMob](https://afflift.com/f/threads/step-10-analyzing-your-popads-campaigns-using-bemob.2947/)
 -  27 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
