@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Purelander and AWS](https://afflift.com/f/threads/purelander-and-aws.13044/)
 -  29 [Late introduction](https://afflift.com/f/threads/late-introduction.13050/)
 -  29 [WORDCAST - Beta Testers Wanted](https://afflift.com/f/threads/wordcast-beta-testers-wanted.13049/)
 -  29 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
@@ -51,8 +52,7 @@
 -  29 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  29 [Navigating the PropellerAds Maze: Seeking Advice on Budgeting and Targeting](https://afflift.com/f/threads/navigating-the-propellerads-maze-seeking-advice-on-budgeting-and-targeting.13041/)
 -  29 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  29 [Are you pissed off with your tracker? - Switch to PEERCLICK](https://afflift.com/f/threads/are-you-pissed-off-with-your-tracker-switch-to-peerclick.7539/)
--  29 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)<!-- afflift:END -->
+-  29 [Are you pissed off with your tracker? - Switch to PEERCLICK](https://afflift.com/f/threads/are-you-pissed-off-with-your-tracker-switch-to-peerclick.7539/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
