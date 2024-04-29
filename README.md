@@ -26,9 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  28 [TikTok为什么风靡全球？TikTok对不同行业有什么影响？](https://www.advertcn.com/thread-114850-1-1.html)
--  28 [fb企业账户](https://www.advertcn.com/thread-114851-1-1.html)
--  28 [出flexoff账号](https://www.advertcn.com/thread-114848-1-1.html)<!-- advertcn3:END -->
+-  28 [TikTok为什么风靡全球？TikTok对不同行业有什么影响？](https://www.advertcn.com/thread-114850-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
