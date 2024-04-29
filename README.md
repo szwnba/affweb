@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [What is the fundamental factor that determines whether you can make a stable profit in the career of affiliate marketing?](https://afflift.com/f/threads/what-is-the-fundamental-factor-that-determines-whether-you-can-make-a-stable-profit-in-the-career-of-affiliate-marketing.13047/)
 -  28 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  28 [Late introduction](https://afflift.com/f/threads/late-introduction.13050/)
 -  28 [Affiliate Networks That Provide Crypto Payout.](https://afflift.com/f/threads/affiliate-networks-that-provide-crypto-payout.10614/)
@@ -49,7 +50,6 @@
 -  28 [White Hat Landing Pages: Easy Creative Design Method 2023](https://afflift.com/f/threads/white-hat-landing-pages-easy-creative-design-method-2023.11420/)
 -  28 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  28 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  28 [What is the fundamental factor that determines whether you can make a stable profit in the career of affiliate marketing?](https://afflift.com/f/threads/what-is-the-fundamental-factor-that-determines-whether-you-can-make-a-stable-profit-in-the-career-of-affiliate-marketing.13047/)
 -  28 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)<!-- afflift:END -->
 
 ### 少数派
