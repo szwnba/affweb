@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  29 [TikTok的广告类型有哪些？](https://www.advertcn.com/thread-114868-1-1.html)
 -  29 [有号商有可以接受分享的像素的bm吗](https://www.advertcn.com/thread-114863-1-1.html)
 -  29 [谁有可以接受像素分享的BM](https://www.advertcn.com/thread-114862-1-1.html)
 -  29 [如何用Email流量跑金融Offer](https://www.advertcn.com/thread-114860-1-1.html)
