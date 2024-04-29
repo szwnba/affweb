@@ -52,4 +52,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [派早报：字节跳动称无计划出售 TikTok](https://sspai.com/post/88419)
 -  28 [Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始](https://sspai.com/post/88325)<!-- sspai:END -->
