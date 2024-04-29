@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  29 [新人报到](https://www.advertcn.com/thread-114855-1-1.html)
 -  28 [开户攻略：人在国内怎么开美国银行账户！](https://www.advertcn.com/thread-114852-1-1.html)
 -  28 [TikTok运营干货！2024年运营TikTok的四大技巧](https://www.advertcn.com/thread-114846-1-1.html)<!-- advertcn1:END -->
 
