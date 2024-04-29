@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  29 [脸书纯干货来了！5个Facebook推广技巧！](https://www.advertcn.com/thread-114858-1-1.html)
 -  29 [新人报到](https://www.advertcn.com/thread-114855-1-1.html)
 -  28 [开户攻略：人在国内怎么开美国银行账户！](https://www.advertcn.com/thread-114852-1-1.html)<!-- advertcn1:END -->
 
