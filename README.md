@@ -41,8 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  29 [Purelander and AWS](https://afflift.com/f/threads/purelander-and-aws.13044/)
+-  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  29 [Late introduction](https://afflift.com/f/threads/late-introduction.13050/)
 -  29 [WORDCAST - Beta Testers Wanted](https://afflift.com/f/threads/wordcast-beta-testers-wanted.13049/)
 -  29 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
