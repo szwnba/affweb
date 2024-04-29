@@ -27,9 +27,10 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  29 [有号商有可以接受分享的像素的bm吗](https://www.advertcn.com/thread-114863-1-1.html)
+-  29 [谁有可以接受像素分享的BM](https://www.advertcn.com/thread-114862-1-1.html)
 -  29 [如何用Email流量跑金融Offer](https://www.advertcn.com/thread-114860-1-1.html)
--  29 [俱往矣私底下收徒弟小心了](https://www.advertcn.com/thread-114856-1-1.html)
--  28 [TikTok为什么风靡全球？TikTok对不同行业有什么影响？](https://www.advertcn.com/thread-114850-1-1.html)<!-- advertcn3:END -->
+-  29 [俱往矣私底下收徒弟小心了](https://www.advertcn.com/thread-114856-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
