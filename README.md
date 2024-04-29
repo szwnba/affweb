@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [EVADAV&gt;&gt; Empowering Publishers &amp; Advertisers with Leading Ads](https://afflift.com/f/threads/evadav-empowering-publishers-advertisers-with-leading-ads.1501/)
 -  29 [WORDCAST - Beta Testers Wanted](https://afflift.com/f/threads/wordcast-beta-testers-wanted.13049/)
 -  29 [Push detection after the landing page?](https://afflift.com/f/threads/push-detection-after-the-landing-page.13051/)
 -  29 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
@@ -51,8 +52,7 @@
 -  28 [What is the fundamental factor that determines whether you can make a stable profit in the career of affiliate marketing?](https://afflift.com/f/threads/what-is-the-fundamental-factor-that-determines-whether-you-can-make-a-stable-profit-in-the-career-of-affiliate-marketing.13047/)
 -  28 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  28 [Affiliate Networks That Provide Crypto Payout.](https://afflift.com/f/threads/affiliate-networks-that-provide-crypto-payout.10614/)
--  28 [Super Simple Landing Pages - Tutorial](https://afflift.com/f/threads/super-simple-landing-pages-tutorial.10696/)
--  28 [We now offer USDT payment!](https://afflift.com/f/threads/we-now-offer-usdt-payment.13038/)<!-- afflift:END -->
+-  28 [Super Simple Landing Pages - Tutorial](https://afflift.com/f/threads/super-simple-landing-pages-tutorial.10696/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
