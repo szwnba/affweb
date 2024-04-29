@@ -41,11 +41,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Late introduction](https://afflift.com/f/threads/late-introduction.13050/)
 -  29 [WORDCAST - Beta Testers Wanted](https://afflift.com/f/threads/wordcast-beta-testers-wanted.13049/)
 -  29 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  29 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
 -  29 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  29 [Late introduction](https://afflift.com/f/threads/late-introduction.13050/)
 -  29 [Push detection after the landing page?](https://afflift.com/f/threads/push-detection-after-the-landing-page.13051/)
 -  29 [PeerClick - Perfomance tracker | Optimise you ad traffic in a few clicks!](https://afflift.com/f/threads/peerclick-perfomance-tracker-optimise-you-ad-traffic-in-a-few-clicks.796/)
 -  29 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
