@@ -56,5 +56,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [派评 | 近期值得关注的 App](https://sspai.com/post/88456)
 -  29 [为即将到来的出境游做好准备：这些经验让你少踩坑](https://sspai.com/post/88394)
 -  29 [派早报：字节跳动称无计划出售 TikTok](https://sspai.com/post/88419)<!-- sspai:END -->
