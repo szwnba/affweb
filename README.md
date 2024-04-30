@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  30 [7月1日起，谷歌广告在意大利、西班牙和土耳其附加费上调](https://www.advertcn.com/thread-114876-1-1.html)
 -  30 [谁有便宜iproyal流量充值？](https://www.advertcn.com/thread-114871-1-1.html)<!-- advertcn3:END -->
 
 
