@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  30 [谁有便宜iproyal流量充值？](https://www.advertcn.com/thread-114871-1-1.html)
--  29 [TikTok的广告类型有哪些？](https://www.advertcn.com/thread-114868-1-1.html)<!-- advertcn3:END -->
+-  30 [谁有便宜iproyal流量充值？](https://www.advertcn.com/thread-114871-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
