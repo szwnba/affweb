@@ -56,5 +56,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  30 [派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)
--  29 [派评 | 近期值得关注的 App](https://sspai.com/post/88456)
--  29 [为即将到来的出境游做好准备：这些经验让你少踩坑](https://sspai.com/post/88394)<!-- sspai:END -->
+-  29 [派评 | 近期值得关注的 App](https://sspai.com/post/88456)<!-- sspai:END -->
