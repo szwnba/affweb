@@ -51,7 +51,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [社区速递 042 | RIME 多端同步、无线充电争议以及派友们的新玩意](https://sspai.com/post/88483)
 -  30 [五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
 -  30 [一个「吸引」行业震动的小小改动](https://sspai.com/post/88461)
--  30 [派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)
--  29 [派评 | 近期值得关注的 App](https://sspai.com/post/88456)<!-- sspai:END -->
+-  30 [派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)<!-- sspai:END -->
