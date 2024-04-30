@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  29 [Purelander and AWS](https://afflift.com/f/threads/purelander-and-aws.13044/)
 -  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  29 [Late introduction](https://afflift.com/f/threads/late-introduction.13050/)
@@ -50,8 +51,7 @@
 -  29 [Push detection after the landing page?](https://afflift.com/f/threads/push-detection-after-the-landing-page.13051/)
 -  29 [PeerClick - Perfomance tracker | Optimise you ad traffic in a few clicks!](https://afflift.com/f/threads/peerclick-perfomance-tracker-optimise-you-ad-traffic-in-a-few-clicks.796/)
 -  29 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  29 [Navigating the PropellerAds Maze: Seeking Advice on Budgeting and Targeting](https://afflift.com/f/threads/navigating-the-propellerads-maze-seeking-advice-on-budgeting-and-targeting.13041/)
--  29 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  29 [Navigating the PropellerAds Maze: Seeking Advice on Budgeting and Targeting](https://afflift.com/f/threads/navigating-the-propellerads-maze-seeking-advice-on-budgeting-and-targeting.13041/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
