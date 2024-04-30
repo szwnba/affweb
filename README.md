@@ -37,6 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  30 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! April 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-april-2024.13052/)
+-  30 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
 -  30 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  30 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  29 [Purelander and AWS](https://afflift.com/f/threads/purelander-and-aws.13044/)
@@ -45,10 +48,7 @@
 -  29 [WORDCAST - Beta Testers Wanted](https://afflift.com/f/threads/wordcast-beta-testers-wanted.13049/)
 -  29 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  29 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
--  29 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  29 [Push detection after the landing page?](https://afflift.com/f/threads/push-detection-after-the-landing-page.13051/)
--  29 [PeerClick - Perfomance tracker | Optimise you ad traffic in a few clicks!](https://afflift.com/f/threads/peerclick-perfomance-tracker-optimise-you-ad-traffic-in-a-few-clicks.796/)
--  29 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
+-  29 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
