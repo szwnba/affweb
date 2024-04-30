@@ -52,6 +52,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
 -  30 [一个「吸引」行业震动的小小改动](https://sspai.com/post/88461)
 -  30 [派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)
 -  29 [派评 | 近期值得关注的 App](https://sspai.com/post/88456)<!-- sspai:END -->
