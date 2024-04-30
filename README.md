@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Detailed walkthrough of the latest version of AdPlexity &lpar;features and updates&rpar;.](https://afflift.com/f/threads/detailed-walkthrough-of-the-latest-version-of-adplexity-features-and-updates.12997/)
 -  30 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  30 [Popcash Guide for 2024](https://afflift.com/f/threads/popcash-guide-for-2024.13054/)
 -  30 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
@@ -49,8 +50,7 @@
 -  30 [CryptoWins $10,000 affiliate contest!](https://afflift.com/f/threads/cryptowins-10-000-affiliate-contest.12844/)
 -  30 [“The Way” to Learn Campaign Optimization](https://afflift.com/f/threads/%E2%80%9Cthe-way%E2%80%9D-to-learn-campaign-optimization.8749/)
 -  30 [⚡️BANZAI Partners - a brand new in-house advertiser with a void player database. RevShare up to 50%](https://afflift.com/f/threads/%E2%9A%A1%EF%B8%8Fbanzai-partners-a-brand-new-in-house-advertiser-with-a-void-player-database-revshare-up-to-50.12811/)
--  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  30 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
