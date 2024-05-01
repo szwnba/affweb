@@ -37,6 +37,7 @@
 ### afflift
 <!-- afflift:START -->
 -  01 [Social proof pictures](https://afflift.com/f/threads/social-proof-pictures.13062/)
+-  01 [SpyLead - Get the full ad settings of your competitor](https://afflift.com/f/threads/spylead-get-the-full-ad-settings-of-your-competitor.13063/)
 -  01 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
 -  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  01 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
@@ -46,8 +47,7 @@
 -  01 [Impact of TikTok Ban?](https://afflift.com/f/threads/impact-of-tiktok-ban.13061/)
 -  01 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  01 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
--  01 [How to prevent VPN to browse my offer link.](https://afflift.com/f/threads/how-to-prevent-vpn-to-browse-my-offer-link.13057/)<!-- afflift:END -->
+-  01 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
