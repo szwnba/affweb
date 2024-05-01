@@ -27,8 +27,7 @@
 <!-- advertcn3:START -->
 -  30 [发现一个国人ai站点](https://www.advertcn.com/thread-114879-1-1.html)
 -  30 [可以推荐个笔记本吗](https://www.advertcn.com/thread-114878-1-1.html)
--  30 [7月1日起，谷歌广告在意大利、西班牙和土耳其附加费上调](https://www.advertcn.com/thread-114876-1-1.html)
--  30 [谁有便宜iproyal流量充值？](https://www.advertcn.com/thread-114871-1-1.html)<!-- advertcn3:END -->
+-  30 [7月1日起，谷歌广告在意大利、西班牙和土耳其附加费上调](https://www.advertcn.com/thread-114876-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
