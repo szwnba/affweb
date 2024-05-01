@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
+-  01 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
+-  01 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  01 [Popcash Guide for 2024](https://afflift.com/f/threads/popcash-guide-for-2024.13054/)
 -  01 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
--  01 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
 -  30 [Super Simple Landing Pages - Tutorial](https://afflift.com/f/threads/super-simple-landing-pages-tutorial.10696/)
 -  30 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! April 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-april-2024.13052/)
 -  30 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
 -  30 [Detailed walkthrough of the latest version of AdPlexity &lpar;features and updates&rpar;.](https://afflift.com/f/threads/detailed-walkthrough-of-the-latest-version-of-adplexity-features-and-updates.12997/)
 -  30 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  30 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  30 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
--  30 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)<!-- afflift:END -->
+-  30 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
