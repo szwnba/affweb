@@ -25,9 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  01 [impact申请被拒怎么办](https://www.advertcn.com/thread-114882-1-1.html)
--  30 [发现一个国人ai站点](https://www.advertcn.com/thread-114879-1-1.html)
--  30 [可以推荐个笔记本吗](https://www.advertcn.com/thread-114878-1-1.html)<!-- advertcn3:END -->
+-  01 [impact申请被拒怎么办](https://www.advertcn.com/thread-114882-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
