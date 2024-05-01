@@ -57,5 +57,4 @@
 -  01 [找回最简单的摄影乐趣：索尼 A7C2](https://sspai.com/post/85853)
 -  01 [如何用 LaTeX 给文档创建美观的目录和索引](https://sspai.com/post/87254)
 -  01 [这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)
--  30 [本月玩什么 | 波坦尼庄园、太阳之子、哈罗德·哈利巴](https://sspai.com/post/88489)
--  30 [小屏手机，一只脚踏进坟地](https://sspai.com/prime/story/small-phones-the-demise-of)<!-- sspai:END -->
+-  30 [本月玩什么 | 波坦尼庄园、太阳之子、哈罗德·哈利巴](https://sspai.com/post/88489)<!-- sspai:END -->
