@@ -36,6 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Popcash Guide for 2024](https://afflift.com/f/threads/popcash-guide-for-2024.13054/)
+-  02 [Using the Binom v2 API](https://afflift.com/f/threads/using-the-binom-v2-api.13066/)
+-  02 [Pin-Submit Ad Campaigns - are they worth it? A case study! 💡](https://afflift.com/f/threads/pin-submit-ad-campaigns-are-they-worth-it-a-case-study-%F0%9F%92%A1.13065/)
 -  02 [Are Pin-Submit Ad Campaigns worth it? A case study! 💡](https://afflift.com/f/threads/are-pin-submit-ad-campaigns-worth-it-a-case-study-%F0%9F%92%A1.13064/)
 -  02 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  02 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
@@ -44,10 +47,7 @@
 -  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  01 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  01 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  01 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
--  01 [Impact of TikTok Ban?](https://afflift.com/f/threads/impact-of-tiktok-ban.13061/)
--  01 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)<!-- afflift:END -->
+-  01 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
