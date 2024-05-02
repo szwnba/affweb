@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [How to Promote MMA Offers Using Push Notifications](https://afflift.com/f/threads/how-to-promote-mma-offers-using-push-notifications.13068/)
+-  02 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  02 [Popcash Guide for 2024](https://afflift.com/f/threads/popcash-guide-for-2024.13054/)
 -  02 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  02 [PeerClick - Perfomance tracker | Optimise you ad traffic in a few clicks!](https://afflift.com/f/threads/peerclick-perfomance-tracker-optimise-you-ad-traffic-in-a-few-clicks.796/)
@@ -45,9 +47,7 @@
 -  02 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  02 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
 -  02 [Giveaway. Tickets to MAC conference in Yerevan &lpar;30-31 May&rpar;](https://afflift.com/f/threads/giveaway-tickets-to-mac-conference-in-yerevan-30-31-may.13067/)
--  02 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  02 [⚡️BANZAI Partners - a brand new in-house advertiser with a void player database. RevShare up to 50%](https://afflift.com/f/threads/%E2%9A%A1%EF%B8%8Fbanzai-partners-a-brand-new-in-house-advertiser-with-a-void-player-database-revshare-up-to-50.12811/)
--  02 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)<!-- afflift:END -->
+-  02 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
