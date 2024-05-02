@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [How to Promote MMA Offers Using Push Notifications](https://afflift.com/f/threads/how-to-promote-mma-offers-using-push-notifications.13068/)
+-  02 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
+-  02 [Opportunity for newbies: earn profit and 10% cashback from your first Asian campaign!](https://afflift.com/f/threads/opportunity-for-newbies-earn-profit-and-10-cashback-from-your-first-asian-campaign.13036/)
+-  02 [New Intermediate Course &lpar;2.0&rpar;](https://afflift.com/f/threads/new-intermediate-course-2-0.13069/)
 -  02 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
+-  02 [The Back Button Script Guide](https://afflift.com/f/threads/the-back-button-script-guide.8283/)
+-  02 [How to Promote MMA Offers Using Push Notifications](https://afflift.com/f/threads/how-to-promote-mma-offers-using-push-notifications.13068/)
 -  02 [Popcash Guide for 2024](https://afflift.com/f/threads/popcash-guide-for-2024.13054/)
 -  02 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  02 [PeerClick - Perfomance tracker | Optimise you ad traffic in a few clicks!](https://afflift.com/f/threads/peerclick-perfomance-tracker-optimise-you-ad-traffic-in-a-few-clicks.796/)
 -  02 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
 -  02 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  02 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
--  02 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
--  02 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  02 [Giveaway. Tickets to MAC conference in Yerevan &lpar;30-31 May&rpar;](https://afflift.com/f/threads/giveaway-tickets-to-mac-conference-in-yerevan-30-31-may.13067/)
--  02 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  02 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
