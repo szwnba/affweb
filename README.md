@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [Popcash Guide for 2024](https://afflift.com/f/threads/popcash-guide-for-2024.13054/)
+-  02 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  02 [Need help making Mobidea work with Peerclick](https://afflift.com/f/threads/need-help-making-mobidea-work-with-peerclick.10009/)
+-  02 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
+-  02 [⚡️BANZAI Partners - a brand new in-house advertiser with a void player database. RevShare up to 50%](https://afflift.com/f/threads/%E2%9A%A1%EF%B8%8Fbanzai-partners-a-brand-new-in-house-advertiser-with-a-void-player-database-revshare-up-to-50.12811/)
+-  02 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
 -  02 [Using the Binom v2 API](https://afflift.com/f/threads/using-the-binom-v2-api.13066/)
+-  02 [Popcash Guide for 2024](https://afflift.com/f/threads/popcash-guide-for-2024.13054/)
 -  02 [Pin-Submit Ad Campaigns - are they worth it? A case study! 💡](https://afflift.com/f/threads/pin-submit-ad-campaigns-are-they-worth-it-a-case-study-%F0%9F%92%A1.13065/)
 -  02 [Are Pin-Submit Ad Campaigns worth it? A case study! 💡](https://afflift.com/f/threads/are-pin-submit-ad-campaigns-worth-it-a-case-study-%F0%9F%92%A1.13064/)
 -  02 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  02 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
--  02 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
--  01 [Social proof pictures](https://afflift.com/f/threads/social-proof-pictures.13062/)
--  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  01 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  01 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  01 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)<!-- afflift:END -->
+-  02 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
