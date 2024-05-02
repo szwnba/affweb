@@ -36,8 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
 -  01 [Social proof pictures](https://afflift.com/f/threads/social-proof-pictures.13062/)
--  01 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
 -  01 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  01 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  01 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
