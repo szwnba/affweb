@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Are Pin-Submit Ad Campaigns worth it? A case study! 💡](https://afflift.com/f/threads/are-pin-submit-ad-campaigns-worth-it-a-case-study-%F0%9F%92%A1.13064/)
+-  02 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  02 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  02 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
 -  01 [Social proof pictures](https://afflift.com/f/threads/social-proof-pictures.13062/)
@@ -45,9 +47,7 @@
 -  01 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  01 [Impact of TikTok Ban?](https://afflift.com/f/threads/impact-of-tiktok-ban.13061/)
 -  01 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  01 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
--  01 [How to prevent VPN to browse my offer link.](https://afflift.com/f/threads/how-to-prevent-vpn-to-browse-my-offer-link.13057/)<!-- afflift:END -->
+-  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
