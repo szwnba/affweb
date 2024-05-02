@@ -51,5 +51,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  02 [把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)
 -  01 [找回最简单的摄影乐趣：索尼 A7C2](https://sspai.com/post/85853)
 -  01 [如何用 LaTeX 给文档创建美观的目录和索引](https://sspai.com/post/87254)<!-- sspai:END -->
