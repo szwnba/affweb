@@ -52,5 +52,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  01 [找回最简单的摄影乐趣：索尼 A7C2](https://sspai.com/post/85853)
--  01 [如何用 LaTeX 给文档创建美观的目录和索引](https://sspai.com/post/87254)
--  01 [这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)<!-- sspai:END -->
+-  01 [如何用 LaTeX 给文档创建美观的目录和索引](https://sspai.com/post/87254)<!-- sspai:END -->
