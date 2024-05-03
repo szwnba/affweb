@@ -36,8 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Essential Tools for Affiliates: Spy, Personalize, and Conquer with MaxWeb](https://afflift.com/f/threads/essential-tools-for-affiliates-spy-personalize-and-conquer-with-maxweb.10998/)
+-  03 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  03 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
+-  03 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
+-  03 [Essential Tools for Affiliates: Spy, Personalize, and Conquer with MaxWeb](https://afflift.com/f/threads/essential-tools-for-affiliates-spy-personalize-and-conquer-with-maxweb.10998/)
 -  03 [How to spy google ads](https://afflift.com/f/threads/how-to-spy-google-ads.7198/)
 -  03 [Which spy tool good for Facebook Ads ?](https://afflift.com/f/threads/which-spy-tool-good-for-facebook-ads.1246/)
 -  03 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
@@ -45,9 +47,7 @@
 -  03 [MaxWeb](https://afflift.com/f/threads/maxweb.6507/)
 -  03 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
 -  03 [How was your April Month?](https://afflift.com/f/threads/how-was-your-april-month.13074/)
--  03 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)
--  03 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  03 [ProPush vs RollerAds - Gimme The Popcorn...](https://afflift.com/f/threads/propush-vs-rollerads-gimme-the-popcorn.12802/)<!-- afflift:END -->
+-  03 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
