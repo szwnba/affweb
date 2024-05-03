@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [a 3-years follow along about how to make 1m in 3 years](https://afflift.com/f/threads/a-3-years-follow-along-about-how-to-make-1m-in-3-years.13070/)
 -  03 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  03 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
 -  03 [BidVertiser + Zeydoo&lpar;maybe Golden Goose too&rpar; + ProPush - Pop Campaign [Contest]](https://afflift.com/f/threads/bidvertiser-zeydoo-maybe-golden-goose-too-propush-pop-campaign-contest.12895/)
@@ -46,8 +47,7 @@
 -  02 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
 -  02 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  02 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  02 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
--  02 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! April 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-april-2024.13052/)<!-- afflift:END -->
+-  02 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
