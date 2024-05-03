@@ -52,5 +52,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  02 [只缘身在此山中：我在五台山做义工](https://sspai.com/post/88078)
--  02 [用 Keyboard Maestro 增强浏览器使用体验](https://sspai.com/post/83865)
--  02 [把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)<!-- sspai:END -->
+-  02 [用 Keyboard Maestro 增强浏览器使用体验](https://sspai.com/post/83865)<!-- sspai:END -->
