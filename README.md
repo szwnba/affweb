@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  03 [12.5 GPT 与进阶技巧：AI 内容检测](https://sspai.com/post/85766)
--  02 [只缘身在此山中：我在五台山做义工](https://sspai.com/post/88078)<!-- sspai:END -->
+-  03 [12.5 GPT 与进阶技巧：AI 内容检测](https://sspai.com/post/85766)<!-- sspai:END -->
