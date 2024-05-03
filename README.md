@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  03 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  03 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
 -  03 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
@@ -46,8 +47,7 @@
 -  03 [Best spytool to find FB ads on gambling?](https://afflift.com/f/threads/best-spytool-to-find-fb-ads-on-gambling.10762/)
 -  03 [MaxWeb](https://afflift.com/f/threads/maxweb.6507/)
 -  03 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
--  03 [How was your April Month?](https://afflift.com/f/threads/how-was-your-april-month.13074/)
--  03 [Adsterra Promo Codes &lpar;April 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-april-2024.12961/)<!-- afflift:END -->
+-  03 [How was your April Month?](https://afflift.com/f/threads/how-was-your-april-month.13074/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
