@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  01 [impact申请被拒怎么办](https://www.advertcn.com/thread-114882-1-1.html)<!-- advertcn3:END -->
+-  04 [如何突破IP的限制](https://www.advertcn.com/thread-114892-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
