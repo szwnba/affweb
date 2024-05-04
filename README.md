@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  03 [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/88518)
--  03 [12.5 GPT 与进阶技巧：AI 内容检测](https://sspai.com/post/85766)<!-- sspai:END -->
+-  03 [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/88518)<!-- sspai:END -->
