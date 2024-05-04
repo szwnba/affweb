@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
+-  04 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  04 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
 -  04 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  04 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  04 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
--  04 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  03 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  03 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  03 [Essential Tools for Affiliates: Spy, Personalize, and Conquer with MaxWeb](https://afflift.com/f/threads/essential-tools-for-affiliates-spy-personalize-and-conquer-with-maxweb.10998/)
 -  03 [How to spy google ads](https://afflift.com/f/threads/how-to-spy-google-ads.7198/)
 -  03 [Which spy tool good for Facebook Ads ?](https://afflift.com/f/threads/which-spy-tool-good-for-facebook-ads.1246/)
--  03 [Best spytool to find FB ads on gambling?](https://afflift.com/f/threads/best-spytool-to-find-fb-ads-on-gambling.10762/)
--  03 [MaxWeb](https://afflift.com/f/threads/maxweb.6507/)<!-- afflift:END -->
+-  03 [Best spytool to find FB ads on gambling?](https://afflift.com/f/threads/best-spytool-to-find-fb-ads-on-gambling.10762/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
