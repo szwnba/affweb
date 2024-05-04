@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
+-  04 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  04 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  04 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  04 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
@@ -45,9 +47,7 @@
 -  03 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  03 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  03 [Essential Tools for Affiliates: Spy, Personalize, and Conquer with MaxWeb](https://afflift.com/f/threads/essential-tools-for-affiliates-spy-personalize-and-conquer-with-maxweb.10998/)
--  03 [How to spy google ads](https://afflift.com/f/threads/how-to-spy-google-ads.7198/)
--  03 [Which spy tool good for Facebook Ads ?](https://afflift.com/f/threads/which-spy-tool-good-for-facebook-ads.1246/)
--  03 [Best spytool to find FB ads on gambling?](https://afflift.com/f/threads/best-spytool-to-find-fb-ads-on-gambling.10762/)<!-- afflift:END -->
+-  03 [How to spy google ads](https://afflift.com/f/threads/how-to-spy-google-ads.7198/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
