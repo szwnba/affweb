@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  04 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  04 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  04 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
@@ -46,8 +47,7 @@
 -  03 [How to spy google ads](https://afflift.com/f/threads/how-to-spy-google-ads.7198/)
 -  03 [Which spy tool good for Facebook Ads ?](https://afflift.com/f/threads/which-spy-tool-good-for-facebook-ads.1246/)
 -  03 [Best spytool to find FB ads on gambling?](https://afflift.com/f/threads/best-spytool-to-find-fb-ads-on-gambling.10762/)
--  03 [MaxWeb](https://afflift.com/f/threads/maxweb.6507/)
--  03 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)<!-- afflift:END -->
+-  03 [MaxWeb](https://afflift.com/f/threads/maxweb.6507/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
