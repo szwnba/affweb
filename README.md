@@ -51,4 +51,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [如何用快捷指令批量清理截图状态栏](https://sspai.com/post/79283)
+-  04 [又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得关注](https://sspai.com/post/88525)
 -  03 [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/88518)<!-- sspai:END -->
