@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
 -  05 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  04 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  04 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
@@ -46,8 +47,7 @@
 -  04 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  04 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  04 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  04 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
--  04 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
+-  04 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
