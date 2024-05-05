@@ -52,6 +52,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  04 [用 Proxmox 敲开家庭服务器的大门](https://sspai.com/prime/story/proxmox-homelab-guide-1)
--  04 [比装备推荐更重要的户外知识：重装徒步入坑指南](https://sspai.com/post/88425)
--  04 [如何用快捷指令批量清理截图状态栏](https://sspai.com/post/79283)
--  04 [又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得关注](https://sspai.com/post/88525)<!-- sspai:END -->
+-  04 [比装备推荐更重要的户外知识：重装徒步入坑指南](https://sspai.com/post/88425)<!-- sspai:END -->
