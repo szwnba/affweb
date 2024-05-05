@@ -51,6 +51,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [掌握 Windows 终端命令的基本语法及风格](https://sspai.com/post/78248)
 -  05 [抓住冬天的尾巴，去见江南的楼阁](https://sspai.com/post/86171)
 -  05 [旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
 -  04 [用 Proxmox 敲开家庭服务器的大门](https://sspai.com/prime/story/proxmox-homelab-guide-1)
