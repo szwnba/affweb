@@ -39,6 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [How to create your own creatives based on those obtained from Spy-Service.](https://afflift.com/f/threads/how-to-create-your-own-creatives-based-on-those-obtained-from-spy-service.13081/)
+-  06 [TG HUNTER 2.0⭐ - Promoting your projects in Telegram ⚡️Parsing, Sending messages, Inviting to groups, Multitools](https://afflift.com/f/threads/tg-hunter-2-0%E2%AD%90-promoting-your-projects-in-telegram-%E2%9A%A1%EF%B8%8Fparsing-sending-messages-inviting-to-groups-multitools.13045/)
+-  06 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  06 [Making money from pop-ups is like a miracle](https://afflift.com/f/threads/making-money-from-pop-ups-is-like-a-miracle.13077/)
 -  06 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  06 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
@@ -47,10 +50,7 @@
 -  06 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  06 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
 -  06 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
--  06 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
--  06 [MaxWeb](https://afflift.com/f/threads/maxweb.6507/)
--  06 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
--  06 [How was your April Month?](https://afflift.com/f/threads/how-was-your-april-month.13074/)<!-- afflift:END -->
+-  06 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
