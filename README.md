@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  06 [寻找专业黑五投手合作](https://www.advertcn.com/thread-114903-1-1.html)
 -  06 [afflift账号付款出错](https://www.advertcn.com/thread-114899-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
