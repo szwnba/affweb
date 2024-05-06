@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  04 [如何突破IP的限制](https://www.advertcn.com/thread-114892-1-1.html)<!-- advertcn3:END -->
+-  06 [举报LosPollos恶意封号](https://www.advertcn.com/thread-114893-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
