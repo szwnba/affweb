@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [派评 | 近期值得关注的 app](https://sspai.com/post/88579)
 -  06 [从 1.0 到 95，见证 Windows 界面从青涩到成熟](https://sspai.com/post/87835)
 -  06 [理解 Keynote「神奇移动」效果的原理](https://sspai.com/post/77495)
 -  06 [喀拉峻的瞬间](https://sspai.com/post/88505)
