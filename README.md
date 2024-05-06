@@ -39,9 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Making money from pop-ups is like a miracle](https://afflift.com/f/threads/making-money-from-pop-ups-is-like-a-miracle.13077/)
+-  06 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  06 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
 -  06 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
--  06 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  06 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
 -  06 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  06 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
@@ -49,8 +50,7 @@
 -  06 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  06 [MaxWeb](https://afflift.com/f/threads/maxweb.6507/)
 -  06 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
--  06 [How was your April Month?](https://afflift.com/f/threads/how-was-your-april-month.13074/)
--  06 [STEP 11 - Setting Postback from Skro Tracker to PopAds Traffic Source](https://afflift.com/f/threads/step-11-setting-postback-from-skro-tracker-to-popads-traffic-source.12322/)<!-- afflift:END -->
+-  06 [How was your April Month?](https://afflift.com/f/threads/how-was-your-april-month.13074/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
