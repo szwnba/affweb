@@ -52,5 +52,5 @@
 
 ### 少数派
 <!-- sspai:START -->
--  06 [派早报：首个完全使用 Sora 制作的 MV 发布](https://sspai.com/post/88562)
--  05 [掌握 Windows 终端命令的基本语法及风格](https://sspai.com/post/78248)<!-- sspai:END -->
+-  06 [喀拉峻的瞬间](https://sspai.com/post/88505)
+-  06 [派早报：首个完全使用 Sora 制作的 MV 发布](https://sspai.com/post/88562)<!-- sspai:END -->
