@@ -57,5 +57,4 @@
 -  07 [用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
 -  07 [在 2024 年播放一张上世纪的「图像唱片」：LaserDisc](https://sspai.com/post/88519)
 -  07 [派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等](https://sspai.com/post/88593)
--  06 [派评 | 近期值得关注的 app](https://sspai.com/post/88579)
--  06 [从 1.0 到 95，见证 Windows 界面从青涩到成熟](https://sspai.com/post/87835)<!-- sspai:END -->
+-  06 [派评 | 近期值得关注的 app](https://sspai.com/post/88579)<!-- sspai:END -->
