@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
 -  07 [用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
 -  07 [在 2024 年播放一张上世纪的「图像唱片」：LaserDisc](https://sspai.com/post/88519)
 -  07 [派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等](https://sspai.com/post/88593)
