@@ -40,6 +40,7 @@
 ### afflift
 <!-- afflift:START -->
 -  07 [AFFCigs Doesn&#39;t Pay](https://afflift.com/f/threads/affcigs-doesnt-pay.13082/)
+-  07 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
 -  07 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  06 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  06 [How to create your own creatives based on those obtained from Spy-Service.](https://afflift.com/f/threads/how-to-create-your-own-creatives-based-on-those-obtained-from-spy-service.13081/)
@@ -48,7 +49,6 @@
 -  06 [Making money from pop-ups is like a miracle](https://afflift.com/f/threads/making-money-from-pop-ups-is-like-a-miracle.13077/)
 -  06 [Happy 6th Birthday, affLIFT!](https://afflift.com/f/threads/happy-6th-birthday-afflift.13053/)
 -  06 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
--  06 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
 -  06 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  06 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)<!-- afflift:END -->
 
