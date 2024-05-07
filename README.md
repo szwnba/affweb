@@ -27,8 +27,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  06 [手上有一些料卡可以拿来做什么用？经测可过店铺认证](https://www.advertcn.com/thread-114902-1-1.html)
--  06 [关于速卖通的产品变体导入独立站之后……](https://www.advertcn.com/thread-114895-1-1.html)
--  06 [举报LosPollos恶意封号](https://www.advertcn.com/thread-114893-1-1.html)<!-- advertcn3:END -->
+-  06 [关于速卖通的产品变体导入独立站之后……](https://www.advertcn.com/thread-114895-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
