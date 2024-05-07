@@ -44,9 +44,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  07 [AFFCigs Doesn&#39;t Pay](https://afflift.com/f/threads/affcigs-doesnt-pay.13082/)
 -  07 [Spanish Converting Traffic for VOD Service](https://afflift.com/f/threads/spanish-converting-traffic-for-vod-service.13088/)
--  07 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  07 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
 -  07 [Trying to Make Affiliate Marketing Work - Let&#39;s Hit $1000/Month Profit Together!](https://afflift.com/f/threads/trying-to-make-affiliate-marketing-work-lets-hit-1000-month-profit-together.9815/)
 -  07 [Some question  about Galaksion + Binom](https://afflift.com/f/threads/some-question-about-galaksion-binom.13085/)
