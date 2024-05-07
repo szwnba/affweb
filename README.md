@@ -43,6 +43,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
+-  07 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
+-  07 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  07 [Trying to Make Affiliate Marketing Work - Let&#39;s Hit $1000/Month Profit Together!](https://afflift.com/f/threads/trying-to-make-affiliate-marketing-work-lets-hit-1000-month-profit-together.9815/)
 -  07 [How to Properly Analyze Campaigns in Google Ads and Not Waste Your Budget](https://afflift.com/f/threads/how-to-properly-analyze-campaigns-in-google-ads-and-not-waste-your-budget.13086/)
 -  07 [STEP 10 - Buying Traffic on PopAds](https://afflift.com/f/threads/step-10-buying-traffic-on-popads.12321/)
@@ -51,10 +54,7 @@
 -  07 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
 -  07 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  07 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
--  07 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
--  07 [MaxWeb](https://afflift.com/f/threads/maxweb.6507/)
--  07 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  07 [Some question  about Galaksion + Binom](https://afflift.com/f/threads/some-question-about-galaksion-binom.13085/)<!-- afflift:END -->
+-  07 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
