@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  07 [谁知道taboola绑卡的风控策略？虚拟卡绑上过一会儿就封号](https://www.advertcn.com/thread-114915-1-1.html)
 -  07 [Facebook产品更新|Facebook Reels 轮播广告中将推出产品级视频](https://www.advertcn.com/thread-114911-1-1.html)
 -  07 [谷歌广告客户验证](https://www.advertcn.com/thread-114907-1-1.html)<!-- advertcn3:END -->
 
