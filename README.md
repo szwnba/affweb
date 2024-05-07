@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  07 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  07 [Some question  about Galaksion + Binom](https://afflift.com/f/threads/some-question-about-galaksion-binom.13085/)
--  07 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
+-  07 [MaxWeb](https://afflift.com/f/threads/maxweb.6507/)
+-  07 [STEP 10 - Buying Traffic on PopAds](https://afflift.com/f/threads/step-10-buying-traffic-on-popads.12321/)
+-  07 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  07 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
+-  07 [Some question  about Galaksion + Binom](https://afflift.com/f/threads/some-question-about-galaksion-binom.13085/)
+-  07 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
+-  07 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
+-  07 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
 -  07 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
 -  07 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
 -  07 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  07 [AFFCigs Doesn&#39;t Pay](https://afflift.com/f/threads/affcigs-doesnt-pay.13082/)
--  07 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
--  07 [Looking for nutra for Tier 1 and Tier 2 countries](https://afflift.com/f/threads/looking-for-nutra-for-tier-1-and-tier-2-countries.13083/)
--  07 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
--  07 [“The Way” to Learn Campaign Optimization](https://afflift.com/f/threads/%E2%80%9Cthe-way%E2%80%9D-to-learn-campaign-optimization.8749/)<!-- afflift:END -->
+-  07 [AFFCigs Doesn&#39;t Pay](https://afflift.com/f/threads/affcigs-doesnt-pay.13082/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
