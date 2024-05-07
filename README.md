@@ -17,8 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  07 [新人报到](https://www.advertcn.com/thread-114906-1-1.html)
--  06 [寻找专业黑五投手合作](https://www.advertcn.com/thread-114903-1-1.html)<!-- advertcn1:END -->
+-  07 [新人报道](https://www.advertcn.com/thread-114912-1-1.html)
+-  07 [新人报到](https://www.advertcn.com/thread-114906-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
