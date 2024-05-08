@@ -43,6 +43,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
+-  08 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  08 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  08 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  07 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
@@ -52,9 +54,7 @@
 -  07 [Trying to Make Affiliate Marketing Work - Let&#39;s Hit $1000/Month Profit Together!](https://afflift.com/f/threads/trying-to-make-affiliate-marketing-work-lets-hit-1000-month-profit-together.9815/)
 -  07 [Some question  about Galaksion + Binom](https://afflift.com/f/threads/some-question-about-galaksion-binom.13085/)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  07 [Heading to MAC Yerevan? Kick off the conference at the Affiliate Retreat - the chilliest event around!](https://afflift.com/f/threads/heading-to-mac-yerevan-kick-off-the-conference-at-the-affiliate-retreat-the-chilliest-event-around.13087/)
--  07 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  07 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)<!-- afflift:END -->
+-  07 [Heading to MAC Yerevan? Kick off the conference at the Affiliate Retreat - the chilliest event around!](https://afflift.com/f/threads/heading-to-mac-yerevan-kick-off-the-conference-at-the-affiliate-retreat-the-chilliest-event-around.13087/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
