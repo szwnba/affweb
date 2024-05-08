@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  22 [MXroute域名邮箱服务配置使用教程](https://51.ruyo.net/18648.html)<!-- ruyo:END -->
+-  08 [CubicHost免费提供3个.hk香港子域名，有效期1年可续期](https://51.ruyo.net/18660.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
