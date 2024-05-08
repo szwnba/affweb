@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
+-  08 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)
 -  08 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  08 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  08 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)
 -  08 [How fast is your internet connection?](https://afflift.com/f/threads/how-fast-is-your-internet-connection.7590/)
 -  08 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  08 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
 -  08 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  08 [Spanish Converting Traffic for VOD Service](https://afflift.com/f/threads/spanish-converting-traffic-for-vod-service.13088/)
 -  08 [Making money from pop-ups is like a miracle](https://afflift.com/f/threads/making-money-from-pop-ups-is-like-a-miracle.13077/)
--  08 [Ask media buyers: Do I need a media plan?](https://afflift.com/f/threads/ask-media-buyers-do-i-need-a-media-plan.13092/)
--  08 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
+-  08 [Ask media buyers: Do I need a media plan?](https://afflift.com/f/threads/ask-media-buyers-do-i-need-a-media-plan.13092/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
