@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  08 [最新FB上广告问题](https://www.advertcn.com/thread-114936-1-1.html)
 -  08 [高价求购google adsense老的账号](https://www.advertcn.com/thread-114929-1-1.html)
 -  08 [最近5.1给小我22岁的女朋友花了不少钱，大家觉得找女朋友应该找多大的好呢](https://www.advertcn.com/thread-114928-1-1.html)
 -  08 [邮件一天发10万，利润500美金，成本10人民币](https://www.advertcn.com/thread-114926-1-1.html)
