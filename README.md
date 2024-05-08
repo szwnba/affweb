@@ -45,17 +45,17 @@
 ### afflift
 <!-- afflift:START -->
 -  08 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
+-  08 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)
+-  08 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
+-  08 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
 -  08 [👉The Road to Make Money💲 with Galaksion—Let&#39;s Go!✅](https://afflift.com/f/threads/%F0%9F%91%89the-road-to-make-money%F0%9F%92%B2-with-galaksion%E2%80%94lets-go-%E2%9C%85.11303/)
 -  08 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  08 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  08 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  07 [AFFCigs Doesn&#39;t Pay](https://afflift.com/f/threads/affcigs-doesnt-pay.13082/)
 -  07 [Spanish Converting Traffic for VOD Service](https://afflift.com/f/threads/spanish-converting-traffic-for-vod-service.13088/)
--  07 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
 -  07 [Trying to Make Affiliate Marketing Work - Let&#39;s Hit $1000/Month Profit Together!](https://afflift.com/f/threads/trying-to-make-affiliate-marketing-work-lets-hit-1000-month-profit-together.9815/)
--  07 [Some question  about Galaksion + Binom](https://afflift.com/f/threads/some-question-about-galaksion-binom.13085/)
--  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  07 [Heading to MAC Yerevan? Kick off the conference at the Affiliate Retreat - the chilliest event around!](https://afflift.com/f/threads/heading-to-mac-yerevan-kick-off-the-conference-at-the-affiliate-retreat-the-chilliest-event-around.13087/)<!-- afflift:END -->
+-  07 [Some question  about Galaksion + Binom](https://afflift.com/f/threads/some-question-about-galaksion-binom.13085/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
