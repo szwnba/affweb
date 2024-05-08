@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  07 [新人报道，可以直接用clickbank下放的链接挂推广展现吗？](https://www.advertcn.com/thread-114914-1-1.html)<!-- advertcn1:END -->
+-  08 [新人报道](https://www.advertcn.com/thread-114932-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
