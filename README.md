@@ -62,5 +62,4 @@
 -  08 [派早报：Apple 发布多款 iPad 新品等](https://sspai.com/post/88620)
 -  07 [一图流 | Apple 春季特别活动回顾](https://sspai.com/post/88619)
 -  07 [iPad Pro 重磅升级、Apple Pencil Pro 全新亮相：Apple 发布会回顾](https://sspai.com/post/88618)
--  07 [社区速递 043 | 浏览器里的虚拟机、派友小组件大曝光以及新玩意](https://sspai.com/post/88607)
--  07 [我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)<!-- sspai:END -->
+-  07 [社区速递 043 | 浏览器里的虚拟机、派友小组件大曝光以及新玩意](https://sspai.com/post/88607)<!-- sspai:END -->
