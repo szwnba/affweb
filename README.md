@@ -32,8 +32,7 @@
 -  08 [我在几个渠道都投了广告，转化涨了不少，这里面究竟有...](https://www.advertcn.com/thread-114924-1-1.html)
 -  07 [用宝塔碰到一个奇怪的问题](https://www.advertcn.com/thread-114920-1-1.html)
 -  07 [广告账号被封，落地页域名会被拉黑吗？](https://www.advertcn.com/thread-114919-1-1.html)
--  07 [要割韭菜就割老外的，做海外知识付费的交流交流](https://www.advertcn.com/thread-114918-1-1.html)
--  07 [在做海外知识付费电子书的进来合作，](https://www.advertcn.com/thread-114916-1-1.html)<!-- advertcn3:END -->
+-  07 [要割韭菜就割老外的，做海外知识付费的交流交流](https://www.advertcn.com/thread-114918-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
