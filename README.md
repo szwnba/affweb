@@ -31,8 +31,7 @@
 -  07 [要割韭菜就割老外的，做海外知识付费的交流交流](https://www.advertcn.com/thread-114918-1-1.html)
 -  07 [在做海外知识付费电子书的进来合作，](https://www.advertcn.com/thread-114916-1-1.html)
 -  07 [谁知道taboola绑卡的风控策略？虚拟卡绑上过一会儿就封号](https://www.advertcn.com/thread-114915-1-1.html)
--  07 [Facebook产品更新|Facebook Reels 轮播广告中将推出产品级视频](https://www.advertcn.com/thread-114911-1-1.html)
--  07 [谷歌广告客户验证](https://www.advertcn.com/thread-114907-1-1.html)<!-- advertcn3:END -->
+-  07 [Facebook产品更新|Facebook Reels 轮播广告中将推出产品级视频](https://www.advertcn.com/thread-114911-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
