@@ -43,6 +43,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Dating Offers _ SEO in search of CPA Marketing](https://afflift.com/f/threads/dating-offers-_-seo-in-search-of-cpa-marketing.13095/)
+-  09 [How many offers do you test a day?](https://afflift.com/f/threads/how-many-offers-do-you-test-a-day.13094/)
+-  09 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  09 [Seeking feedback for a new tool: traffic-lab.io, a traffic estimator](https://afflift.com/f/threads/seeking-feedback-for-a-new-tool-traffic-lab-io-a-traffic-estimator.12301/)
 -  09 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
 -  09 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
@@ -51,10 +54,7 @@
 -  09 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  09 [Ask media buyers: Do I need a media plan?](https://afflift.com/f/threads/ask-media-buyers-do-i-need-a-media-plan.13092/)
 -  09 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
--  09 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
--  09 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
--  09 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  09 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)<!-- afflift:END -->
+-  09 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
