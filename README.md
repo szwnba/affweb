@@ -59,5 +59,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  08 [返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
--  08 [如何让 app 设计易于上手？从认识「可供性」开始](https://sspai.com/post/88464)
--  08 [派早报：Apple 发布多款 iPad 新品等](https://sspai.com/post/88620)<!-- sspai:END -->
+-  08 [如何让 app 设计易于上手？从认识「可供性」开始](https://sspai.com/post/88464)<!-- sspai:END -->
