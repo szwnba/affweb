@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  09 [流量都去哪里了？](https://www.advertcn.com/thread-114940-1-1.html)
 -  09 [长期收AdSense未过pin的号 带域名](https://www.advertcn.com/thread-114939-1-1.html)
 -  09 [成年人网站用什么付费流量平台？](https://www.advertcn.com/thread-114937-1-1.html)
 -  08 [最新FB上广告问题](https://www.advertcn.com/thread-114936-1-1.html)<!-- advertcn3:END -->
