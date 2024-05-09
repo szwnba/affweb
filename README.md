@@ -42,6 +42,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
+-  09 [Which country do you live in?](https://afflift.com/f/threads/which-country-do-you-live-in.65/)
+-  09 [Ask media buyers: Do I need a media plan?](https://afflift.com/f/threads/ask-media-buyers-do-i-need-a-media-plan.13092/)
 -  09 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
 -  09 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  09 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
@@ -50,10 +53,7 @@
 -  08 [Google Ranking Algorithms Update in 2024: What has changed and how to adapt?](https://afflift.com/f/threads/google-ranking-algorithms-update-in-2024-what-has-changed-and-how-to-adapt.13093/)
 -  08 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  08 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  08 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  08 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  08 [How fast is your internet connection?](https://afflift.com/f/threads/how-fast-is-your-internet-connection.7590/)<!-- afflift:END -->
+-  08 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
