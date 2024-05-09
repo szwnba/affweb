@@ -57,6 +57,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [处理器简史 08 | 频率大战一触即发，黄金时代转瞬即逝](https://sspai.com/prime/story/sv-anecdotes-08)
 -  09 [新玩意 180｜少数派的编辑们最近买了啥？](https://sspai.com/post/88671)
 -  09 [来一场有准备的国内自驾：线路规划篇](https://sspai.com/post/88227)
 -  09 [App+1 | 小鹤音形在 iPhone 上的完美归宿：仓输入法](https://sspai.com/post/88595)
