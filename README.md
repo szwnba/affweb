@@ -31,8 +31,7 @@
 -  08 [高价求购google adsense老的账号](https://www.advertcn.com/thread-114929-1-1.html)
 -  08 [最近5.1给小我22岁的女朋友花了不少钱，大家觉得找女朋友应该找多大的好呢](https://www.advertcn.com/thread-114928-1-1.html)
 -  08 [邮件一天发10万，利润500美金，成本10人民币](https://www.advertcn.com/thread-114926-1-1.html)
--  08 [ROI是什么？tiktok的专有名词都是什么意思？](https://www.advertcn.com/thread-114901-1-1.html)
--  08 [我在几个渠道都投了广告，转化涨了不少，这里面究竟有...](https://www.advertcn.com/thread-114924-1-1.html)<!-- advertcn3:END -->
+-  08 [ROI是什么？tiktok的专有名词都是什么意思？](https://www.advertcn.com/thread-114901-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
