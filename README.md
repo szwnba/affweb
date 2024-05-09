@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  09 [新人报到](https://www.advertcn.com/thread-114946-1-1.html)
 -  08 [我是肥仔，山寨985毕业，出海三年经验](https://www.advertcn.com/thread-114935-1-1.html)
 -  08 [小白新人想学习lead赚美刀](https://www.advertcn.com/thread-114933-1-1.html)
 -  08 [新人报道](https://www.advertcn.com/thread-114932-1-1.html)<!-- advertcn1:END -->
