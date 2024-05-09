@@ -57,6 +57,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [App+1 | 小鹤音形在 iPhone 上的完美归宿：仓输入法](https://sspai.com/post/88595)
 -  09 [派早报：Matter 1.3 规范发布、哈苏发布 XCD 2,5/25V 广角夜拍中画幅镜头](https://sspai.com/post/88658)
 -  08 [返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
 -  08 [如何让 app 设计易于上手？从认识「可供性」开始](https://sspai.com/post/88464)<!-- sspai:END -->
