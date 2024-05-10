@@ -46,6 +46,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  10 [Traffic Nomads opens Crypto Payments](https://afflift.com/f/threads/traffic-nomads-opens-crypto-payments.13102/)
 -  10 [Making money from pop-ups is like a miracle](https://afflift.com/f/threads/making-money-from-pop-ups-is-like-a-miracle.13077/)
 -  10 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
 -  10 [Interesting subject line...](https://afflift.com/f/threads/interesting-subject-line.13097/)
@@ -55,9 +57,7 @@
 -  10 [Revcontent RON + VSL Let&#39;s do this 🚀](https://afflift.com/f/threads/revcontent-ron-vsl-lets-do-this-%F0%9F%9A%80.9662/)
 -  10 [What plugins does Afflift use?](https://afflift.com/f/threads/what-plugins-does-afflift-use.13101/)
 -  10 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
--  10 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)
--  10 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
--  10 [How many offers do you test a day?](https://afflift.com/f/threads/how-many-offers-do-you-test-a-day.13094/)<!-- afflift:END -->
+-  10 [$600 Giveaway for our 6th Birthday!](https://afflift.com/f/threads/600-giveaway-for-our-6th-birthday.13055/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
