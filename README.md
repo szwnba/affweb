@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  10 [在Twitter（X）进行品牌营销推广的技巧](https://www.advertcn.com/thread-114957-1-1.html)
 -  10 [新人报道](https://www.advertcn.com/thread-114956-1-1.html)
 -  10 [新人报道](https://www.advertcn.com/thread-114955-1-1.html)
 -  10 [eBay如何实现多账号登录以及防关联？](https://www.advertcn.com/thread-114952-1-1.html)
