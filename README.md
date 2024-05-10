@@ -61,7 +61,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [能弯曲的 Bose Ultra 开放式耳机，黑科技带来时尚的体验](https://sspai.com/post/88673)
 -  10 [派早报：Google 发布 Pixel 8a、Apple 就 iPad Pro 广告致歉等](https://sspai.com/post/88677)
 -  09 [处理器简史 08 | 频率大战一触即发，黄金时代转瞬即逝](https://sspai.com/prime/story/sv-anecdotes-08)
--  09 [新玩意 180｜少数派的编辑们最近买了啥？](https://sspai.com/post/88671)
--  09 [来一场有准备的国内自驾：线路规划篇](https://sspai.com/post/88227)<!-- sspai:END -->
+-  09 [新玩意 180｜少数派的编辑们最近买了啥？](https://sspai.com/post/88671)<!-- sspai:END -->
