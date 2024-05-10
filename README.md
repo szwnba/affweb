@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  10 [eBay如何实现多账号登录以及防关联？](https://www.advertcn.com/thread-114952-1-1.html)
 -  09 [新人报到](https://www.advertcn.com/thread-114946-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
