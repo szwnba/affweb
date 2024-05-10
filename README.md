@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  10 [批量发营销邮件的问题](https://www.advertcn.com/thread-114950-1-1.html)
 -  10 [ShareaAsale发邮件说会在2025年与AWIN整合](https://www.advertcn.com/thread-114949-1-1.html)
 -  09 [请谨慎与此人合作](https://www.advertcn.com/thread-114948-1-1.html)
 -  09 [TikTok平台上有几种类型的商店，tiktok小店和独立站哪个能...](https://www.advertcn.com/thread-114945-1-1.html)
