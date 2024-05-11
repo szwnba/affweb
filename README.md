@@ -60,5 +60,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  10 [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/88696)
--  10 [我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)
--  10 [能弯曲的 Bose Ultra 开放式耳机，黑科技带来时尚的体验](https://sspai.com/post/88673)<!-- sspai:END -->
+-  10 [我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)<!-- sspai:END -->
