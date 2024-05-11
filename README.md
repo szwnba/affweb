@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
 -  11 [Newbies have some questions about landing pages](https://afflift.com/f/threads/newbies-have-some-questions-about-landing-pages.13105/)
 -  11 [a 3-years follow along about how to make 1m in 3 years](https://afflift.com/f/threads/a-3-years-follow-along-about-how-to-make-1m-in-3-years.13070/)
 -  11 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
@@ -48,8 +49,7 @@
 -  11 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
 -  11 [Any suggestions for mVAS landing page?](https://afflift.com/f/threads/any-suggestions-for-mvas-landing-page.12932/)
 -  11 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  11 [Buy - CSS Edit for Lightbox Gallery Plugin for WP](https://afflift.com/f/threads/buy-css-edit-for-lightbox-gallery-plugin-for-wp.13104/)
--  11 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)<!-- afflift:END -->
+-  11 [Buy - CSS Edit for Lightbox Gallery Plugin for WP](https://afflift.com/f/threads/buy-css-edit-for-lightbox-gallery-plugin-for-wp.13104/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
