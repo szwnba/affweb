@@ -54,5 +54,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  11 [一场长途自驾后的讨论：油电同乐，拥抱纯电](https://sspai.com/post/88715)
--  10 [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/88696)<!-- sspai:END -->
+-  11 [一场长途自驾后的讨论：油电同乐，拥抱纯电](https://sspai.com/post/88715)<!-- sspai:END -->
