@@ -32,8 +32,7 @@
 -  10 [如何给一个网站更换域名？](https://www.advertcn.com/thread-114961-1-1.html)
 -  10 [高性价比的海外IP代理,-Smart Proxy](https://www.advertcn.com/thread-114959-1-1.html)
 -  10 [有一起研究fb海外账期户的有没有？](https://www.advertcn.com/thread-114954-1-1.html)
--  10 [给大家发个大福利！顺便公布一个骗子老外，还经常说3.5 折给广告户](https://www.advertcn.com/thread-114953-1-1.html)
--  10 [批量发营销邮件的问题](https://www.advertcn.com/thread-114950-1-1.html)<!-- advertcn3:END -->
+-  10 [给大家发个大福利！顺便公布一个骗子老外，还经常说3.5 折给广告户](https://www.advertcn.com/thread-114953-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
