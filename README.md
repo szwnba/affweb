@@ -27,8 +27,7 @@
 <!-- advertcn3:START -->
 -  11 [TikTok上怎么直播带货呢？](https://www.advertcn.com/thread-114971-1-1.html)
 -  11 [爬虫应该选择住宅ip代理还是数据中心代理？](https://www.advertcn.com/thread-114967-1-1.html)
--  10 [卖号的小baby，出售1BM,7-8tk](https://www.advertcn.com/thread-114965-1-1.html)
--  10 [TikTok 如何投放广告？](https://www.advertcn.com/thread-114963-1-1.html)<!-- advertcn3:END -->
+-  10 [卖号的小baby，出售1BM,7-8tk](https://www.advertcn.com/thread-114965-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
