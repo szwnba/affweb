@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  08 [CubicHost免费提供3个.hk香港子域名，有效期1年可续期](https://51.ruyo.net/18660.html)<!-- ruyo:END -->
+-  11 [Club Sim香港电话卡免费接收短信，支持eSIM，保号0元/年](https://51.ruyo.net/18628.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
