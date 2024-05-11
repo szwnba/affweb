@@ -39,6 +39,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
+-  11 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
+-  11 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  11 [What plugins does Afflift use?](https://afflift.com/f/threads/what-plugins-does-afflift-use.13101/)
 -  11 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
 -  11 [Any suggestions for mVAS landing page?](https://afflift.com/f/threads/any-suggestions-for-mvas-landing-page.12932/)
@@ -47,10 +50,7 @@
 -  11 [Buy - CSS Edit for Lightbox Gallery Plugin for WP](https://afflift.com/f/threads/buy-css-edit-for-lightbox-gallery-plugin-for-wp.13104/)
 -  11 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
 -  10 [How to “Piggyback” 🐷 Your Postback URL](https://afflift.com/f/threads/how-to-%E2%80%9Cpiggyback%E2%80%9D-%F0%9F%90%B7-your-postback-url.9986/)
--  10 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  10 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
--  10 [22 useful websites for making advertising creatives](https://afflift.com/f/threads/22-useful-websites-for-making-advertising-creatives.13103/)
--  10 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  10 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
