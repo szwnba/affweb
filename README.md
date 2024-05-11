@@ -54,5 +54,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [一场长途自驾后的讨论：油电同乐，拥抱纯电](https://sspai.com/post/88715)
 -  10 [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/88696)
 -  10 [我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)<!-- sspai:END -->
