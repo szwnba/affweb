@@ -48,8 +48,7 @@
 -  11 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
 -  11 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  11 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
--  11 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
--  11 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)<!-- afflift:END -->
+-  11 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
