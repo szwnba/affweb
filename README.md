@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  12 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  11 [What plugins does Afflift use?](https://afflift.com/f/threads/what-plugins-does-afflift-use.13101/)
 -  11 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
@@ -47,8 +48,7 @@
 -  11 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
 -  11 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  11 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
--  11 [Any suggestions for mVAS landing page?](https://afflift.com/f/threads/any-suggestions-for-mvas-landing-page.12932/)
--  11 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)<!-- afflift:END -->
+-  11 [Any suggestions for mVAS landing page?](https://afflift.com/f/threads/any-suggestions-for-mvas-landing-page.12932/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
