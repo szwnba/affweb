@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  12 [Newbies have some questions about landing pages](https://afflift.com/f/threads/newbies-have-some-questions-about-landing-pages.13105/)
 -  12 [What plugins does Afflift use?](https://afflift.com/f/threads/what-plugins-does-afflift-use.13101/)
 -  12 [When to Cut a Zone That Has Conversions &lpar;Using Statistical Analysis&rpar;](https://afflift.com/f/threads/when-to-cut-a-zone-that-has-conversions-using-statistical-analysis.10611/)
@@ -48,8 +49,7 @@
 -  12 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  12 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  12 [FREE plan for affLIFT users from Peerclick Ad Tracker 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-ad-tracker-%F0%9F%8E%89%F0%9F%94%A5.12985/)
--  12 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
--  11 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)<!-- afflift:END -->
+-  12 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
