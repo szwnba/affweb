@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  11 [TikTok上怎么直播带货呢？](https://www.advertcn.com/thread-114971-1-1.html)
--  11 [爬虫应该选择住宅ip代理还是数据中心代理？](https://www.advertcn.com/thread-114967-1-1.html)<!-- advertcn3:END -->
+-  11 [TikTok上怎么直播带货呢？](https://www.advertcn.com/thread-114971-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
