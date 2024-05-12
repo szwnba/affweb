@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [FREE plan for affLIFT users from Peerclick Ad Tracker 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-ad-tracker-%F0%9F%8E%89%F0%9F%94%A5.12985/)
 -  12 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  12 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  11 [What plugins does Afflift use?](https://afflift.com/f/threads/what-plugins-does-afflift-use.13101/)
@@ -48,8 +49,7 @@
 -  11 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  11 [Attempt to make the ROI of a campaign positive](https://afflift.com/f/threads/attempt-to-make-the-roi-of-a-campaign-positive.11803/)
 -  11 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
--  11 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
--  11 [Any suggestions for mVAS landing page?](https://afflift.com/f/threads/any-suggestions-for-mvas-landing-page.12932/)<!-- afflift:END -->
+-  11 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
