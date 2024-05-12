@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [mVAS landers bundle](https://afflift.com/f/threads/mvas-landers-bundle.12774/)
 -  11 [What plugins does Afflift use?](https://afflift.com/f/threads/what-plugins-does-afflift-use.13101/)
 -  11 [How do you feel when you see the landing pages you designed appear on the affiliate network?](https://afflift.com/f/threads/how-do-you-feel-when-you-see-the-landing-pages-you-designed-appear-on-the-affiliate-network.12799/)
 -  11 [Newbies have some questions about landing pages](https://afflift.com/f/threads/newbies-have-some-questions-about-landing-pages.13105/)
@@ -48,8 +49,7 @@
 -  11 [Affiliate Boutique](https://afflift.com/f/threads/affiliate-boutique.8028/)
 -  11 [What Landers for These Offers?](https://afflift.com/f/threads/what-landers-for-these-offers.12644/)
 -  11 [Any suggestions for mVAS landing page?](https://afflift.com/f/threads/any-suggestions-for-mvas-landing-page.12932/)
--  11 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)
--  11 [Buy - CSS Edit for Lightbox Gallery Plugin for WP](https://afflift.com/f/threads/buy-css-edit-for-lightbox-gallery-plugin-for-wp.13104/)<!-- afflift:END -->
+-  11 [Returning to mVAS again](https://afflift.com/f/threads/returning-to-mvas-again.12820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
