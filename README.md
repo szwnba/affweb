@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [派评 | 近期值得关注的 App](https://sspai.com/post/88773)
 -  13 [Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索](https://sspai.com/post/88506)
 -  13 [面对国产软件的 VVIP，我选择了退订](https://sspai.com/post/88734)
 -  13 [派早报：苹果称仅极少开发者申请接入外部支付](https://sspai.com/post/88754)<!-- sspai:END -->
