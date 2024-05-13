@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  11 [新人帖子](https://www.advertcn.com/thread-114974-1-1.html)<!-- advertcn1:END -->
+-  13 [全球优质web to app流量供应商](https://www.advertcn.com/thread-114990-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
