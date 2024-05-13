@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [{Affsub2}  - CPA Network | Dating Smartlink, Nutra, Insurance offers](https://afflift.com/f/threads/affsub2-cpa-network-dating-smartlink-nutra-insurance-offers.9010/)
+-  13 [GPT-4o](https://afflift.com/f/threads/gpt-4o.13110/)
 -  13 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
 -  13 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  13 [How to create DeepFake videos for free.](https://afflift.com/f/threads/how-to-create-deepfake-videos-for-free.13108/)
@@ -49,9 +51,7 @@
 -  13 [Spanish Converting Traffic for VOD Service](https://afflift.com/f/threads/spanish-converting-traffic-for-vod-service.13088/)
 -  13 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  13 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
--  13 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
--  13 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
--  13 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)<!-- afflift:END -->
+-  13 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
