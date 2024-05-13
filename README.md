@@ -54,4 +54,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  11 [一场长途自驾后的讨论：油电同乐，拥抱纯电](https://sspai.com/post/88715)<!-- sspai:END -->
+-  13 [派早报：苹果称仅极少开发者申请接入外部支付](https://sspai.com/post/88754)<!-- sspai:END -->
