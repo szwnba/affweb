@@ -55,4 +55,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [面对国产软件的 VVIP，我选择了退订](https://sspai.com/post/88734)
 -  13 [派早报：苹果称仅极少开发者申请接入外部支付](https://sspai.com/post/88754)<!-- sspai:END -->
