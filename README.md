@@ -57,5 +57,4 @@
 <!-- sspai:START -->
 -  14 [派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等](https://sspai.com/post/88779)
 -  13 [派评 | 近期值得关注的 App](https://sspai.com/post/88773)
--  13 [Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索](https://sspai.com/post/88506)
--  13 [面对国产软件的 VVIP，我选择了退订](https://sspai.com/post/88734)<!-- sspai:END -->
+-  13 [Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索](https://sspai.com/post/88506)<!-- sspai:END -->
