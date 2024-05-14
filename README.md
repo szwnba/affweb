@@ -28,8 +28,7 @@
 <!-- advertcn3:START -->
 -  13 [Https对英文站是不是特别重要](https://www.advertcn.com/thread-114989-1-1.html)
 -  13 [有一些地方的黑警还很多的。哈哈哈哈](https://www.advertcn.com/thread-114987-1-1.html)
--  13 [做亚马逊affiliate 的怎么办](https://www.advertcn.com/thread-114986-1-1.html)
--  13 [计算机网络：IP地址、子网掩码、网关都是什么？](https://www.advertcn.com/thread-114983-1-1.html)<!-- advertcn3:END -->
+-  13 [做亚马逊affiliate 的怎么办](https://www.advertcn.com/thread-114986-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
