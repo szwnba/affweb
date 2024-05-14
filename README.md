@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [一日一技 | 用 iCloud Drive 实现 RIME 输入法配置跨平台同步](https://sspai.com/post/88355)
 -  14 [派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等](https://sspai.com/post/88779)
 -  13 [派评 | 近期值得关注的 App](https://sspai.com/post/88773)
 -  13 [Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索](https://sspai.com/post/88506)<!-- sspai:END -->
