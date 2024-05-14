@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
+-  14 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  14 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  14 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
 -  14 [The “Best” Spy Tool For Ripping Landing Pages](https://afflift.com/f/threads/the-%E2%80%9Cbest%E2%80%9D-spy-tool-for-ripping-landing-pages.13115/)
@@ -47,9 +49,7 @@
 -  14 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
 -  14 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  14 [Popcash Guide for 2024](https://afflift.com/f/threads/popcash-guide-for-2024.13054/)
--  14 [FunnelFlux Pro | Trial + 50% off your first month](https://afflift.com/f/threads/funnelflux-pro-trial-50-off-your-first-month.6195/)
--  14 [Voluum.com - The ultimate affiliate tracking solution](https://afflift.com/f/threads/voluum-com-the-ultimate-affiliate-tracking-solution.1843/)
--  14 [PeerClick - Perfomance tracker | Optimise you ad traffic in a few clicks!](https://afflift.com/f/threads/peerclick-perfomance-tracker-optimise-you-ad-traffic-in-a-few-clicks.796/)<!-- afflift:END -->
+-  14 [FunnelFlux Pro | Trial + 50% off your first month](https://afflift.com/f/threads/funnelflux-pro-trial-50-off-your-first-month.6195/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
