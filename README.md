@@ -53,7 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [社区速递 044 | 作者的新玩意、NuPhy 以及派友用车小心得](https://sspai.com/post/88798)
 -  14 [来一场有准备的国内自驾：招募队友、住行票务与物资准备](https://sspai.com/post/88656)
 -  14 [一日一技 | 用 iCloud Drive 实现 RIME 输入法配置跨平台同步](https://sspai.com/post/88355)
--  14 [派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等](https://sspai.com/post/88779)
--  13 [派评 | 近期值得关注的 App](https://sspai.com/post/88773)<!-- sspai:END -->
+-  14 [派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等](https://sspai.com/post/88779)<!-- sspai:END -->
