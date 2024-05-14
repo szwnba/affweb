@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  11 [Club Sim香港电话卡免费接收短信，支持eSIM，保号0元/年](https://51.ruyo.net/18628.html)<!-- ruyo:END -->
+-  14 [OpenAI正式发布GPT-4o模型，所有用户可免费使用！](https://51.ruyo.net/18663.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
