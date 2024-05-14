@@ -39,13 +39,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
 -  14 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
 -  14 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)
 -  14 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
 -  14 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  14 [Get an email notification when your domain gets flagged](https://afflift.com/f/threads/get-an-email-notification-when-your-domain-gets-flagged.10447/)
 -  13 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
--  13 [How to monetize your Social Traffic with Push Subscriptions?](https://afflift.com/f/threads/how-to-monetize-your-social-traffic-with-push-subscriptions.10271/)
 -  13 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  13 [GPT-4o](https://afflift.com/f/threads/gpt-4o.13110/)
 -  13 [How to create DeepFake videos for free.](https://afflift.com/f/threads/how-to-create-deepfake-videos-for-free.13108/)
