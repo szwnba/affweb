@@ -38,6 +38,7 @@
 ### afflift
 <!-- afflift:START -->
 -  14 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
+-  14 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
 -  14 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)
 -  14 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
 -  14 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
@@ -47,8 +48,7 @@
 -  14 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  14 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  14 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  14 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
--  14 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)<!-- afflift:END -->
+-  14 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
