@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Zeydoo - First-class Offers from Direct Advertisers](https://afflift.com/f/threads/zeydoo-first-class-offers-from-direct-advertisers.4373/)
+-  14 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)
 -  14 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
 -  14 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  14 [Get an email notification when your domain gets flagged](https://afflift.com/f/threads/get-an-email-notification-when-your-domain-gets-flagged.10447/)
@@ -48,9 +50,7 @@
 -  13 [GPT-4o](https://afflift.com/f/threads/gpt-4o.13110/)
 -  13 [How to create DeepFake videos for free.](https://afflift.com/f/threads/how-to-create-deepfake-videos-for-free.13108/)
 -  13 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
--  13 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
--  13 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
--  13 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
+-  13 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
