@@ -37,8 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  14 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
 -  14 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
+-  14 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
 -  14 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)
 -  14 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  14 [🌿Innovative Extracts Affiliate Program🌿Earn 40% Commission!](https://afflift.com/f/threads/%F0%9F%8C%BFinnovative-extracts-affiliate-program%F0%9F%8C%BFearn-40-commission.13117/)
