@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [小巧轻便，随时聆听：Beats Solo 4 佩戴体验](https://sspai.com/post/88797)
 -  15 [征文 | 找回数字生活主导权，聊聊你的自托管经验技巧](https://sspai.com/post/88807)
 -  15 [OpenAI 春季更新：大戏到来前的半代升级](https://sspai.com/post/88803)
 -  15 [派早报：Setapp 应用商店在欧洲上线、未知位置追踪器检测行业标准落地等](https://sspai.com/post/88806)<!-- sspai:END -->
