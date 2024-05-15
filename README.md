@@ -43,6 +43,7 @@
 ### afflift
 <!-- afflift:START -->
 -  15 [Building a team?](https://afflift.com/f/threads/building-a-team.13124/)
+-  15 [How to use anstrex to create creative for mvas offer?](https://afflift.com/f/threads/how-to-use-anstrex-to-create-creative-for-mvas-offer.12576/)
 -  15 [GPT-4o](https://afflift.com/f/threads/gpt-4o.13110/)
 -  15 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  15 [What Google considers &quot;Grey Advertising&quot; and how to run White Hat.](https://afflift.com/f/threads/what-google-considers-grey-advertising-and-how-to-run-white-hat.13123/)
@@ -52,8 +53,7 @@
 -  15 [Trouble with Facebook? Fixing 80% of Issues Fast! Regain Access Now.✅](https://afflift.com/f/threads/trouble-with-facebook-fixing-80-of-issues-fast-regain-access-now-%E2%9C%85.13121/)
 -  15 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
 -  15 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
--  15 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
--  15 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)<!-- afflift:END -->
+-  15 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
