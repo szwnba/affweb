@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
+-  15 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
+-  15 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
+-  15 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  15 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  15 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
 -  15 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  15 [GPT-4o](https://afflift.com/f/threads/gpt-4o.13110/)
 -  15 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  15 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
 -  15 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  15 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
--  15 [May Advertising Trends - VPN offers, Tyson Fury, and geo + offer combos! 🔥](https://afflift.com/f/threads/may-advertising-trends-vpn-offers-tyson-fury-and-geo-offer-combos-%F0%9F%94%A5.13120/)
--  15 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
--  15 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
--  15 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)<!-- afflift:END -->
+-  15 [May Advertising Trends - VPN offers, Tyson Fury, and geo + offer combos! 🔥](https://afflift.com/f/threads/may-advertising-trends-vpn-offers-tyson-fury-and-geo-offer-combos-%F0%9F%94%A5.13120/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
