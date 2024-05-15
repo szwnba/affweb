@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  15 [有没有做独立站代收的](https://www.advertcn.com/thread-115003-1-1.html)
 -  14 [TikTok企业户投放广告详细教程 小白也能轻松上手！](https://www.advertcn.com/thread-115000-1-1.html)
 -  14 [Facebook产品更新|Instagram 提醒广告将推出产品更新](https://www.advertcn.com/thread-114998-1-1.html)<!-- advertcn3:END -->
 
