@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [The “Best” Spy Tool For Ripping Landing Pages](https://afflift.com/f/threads/the-%E2%80%9Cbest%E2%80%9D-spy-tool-for-ripping-landing-pages.13115/)
+-  15 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
+-  15 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  15 [Hello Everyone! Alexis is here.](https://afflift.com/f/threads/hello-everyone-alexis-is-here.13118/)
 -  15 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)
 -  15 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  15 [Building a team?](https://afflift.com/f/threads/building-a-team.13124/)
--  15 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  15 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  15 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
 -  15 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/)
 -  15 [What is the Average CTR For Landing Page](https://afflift.com/f/threads/what-is-the-average-ctr-for-landing-page.13125/)
--  15 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
--  15 [How to use anstrex to create creative for mvas offer?](https://afflift.com/f/threads/how-to-use-anstrex-to-create-creative-for-mvas-offer.12576/)
--  15 [GPT-4o](https://afflift.com/f/threads/gpt-4o.13110/)
--  15 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)<!-- afflift:END -->
+-  15 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
