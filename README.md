@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  15 [征文 | 找回数字生活主导权，聊聊你的自托管经验技巧](https://sspai.com/post/88807)
 -  15 [OpenAI 春季更新：大戏到来前的半代升级](https://sspai.com/post/88803)
--  15 [派早报：Setapp 应用商店在欧洲上线、未知位置追踪器检测行业标准落地等](https://sspai.com/post/88806)
--  14 [社区速递 044 | 作者的新玩意、NuPhy 以及派友用车小心得](https://sspai.com/post/88798)<!-- sspai:END -->
+-  15 [派早报：Setapp 应用商店在欧洲上线、未知位置追踪器检测行业标准落地等](https://sspai.com/post/88806)<!-- sspai:END -->
