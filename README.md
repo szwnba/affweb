@@ -42,6 +42,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  15 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
+-  15 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
 -  15 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/)
 -  15 [What is the Average CTR For Landing Page](https://afflift.com/f/threads/what-is-the-average-ctr-for-landing-page.13125/)
 -  15 [Building a team?](https://afflift.com/f/threads/building-a-team.13124/)
@@ -50,10 +53,7 @@
 -  15 [GPT-4o](https://afflift.com/f/threads/gpt-4o.13110/)
 -  15 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  15 [What Google considers &quot;Grey Advertising&quot; and how to run White Hat.](https://afflift.com/f/threads/what-google-considers-grey-advertising-and-how-to-run-white-hat.13123/)
--  15 [Running the AliExpress offer at HilltopAds: ROI 69,17%](https://afflift.com/f/threads/running-the-aliexpress-offer-at-hilltopads-roi-69-17.13122/)
--  15 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
--  15 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
--  15 [Trouble with Facebook? Fixing 80% of Issues Fast! Regain Access Now.✅](https://afflift.com/f/threads/trouble-with-facebook-fixing-80-of-issues-fast-regain-access-now-%E2%9C%85.13121/)<!-- afflift:END -->
+-  15 [Running the AliExpress offer at HilltopAds: ROI 69,17%](https://afflift.com/f/threads/running-the-aliexpress-offer-at-hilltopads-roi-69-17.13122/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
