@@ -17,7 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  15 [Facebook高阶投放指南：如何锁定受众，稳量爆单？](https://www.advertcn.com/thread-115013-1-1.html)<!-- advertcn1:END -->
+-  16 [我是Beian，刚来报道](https://www.advertcn.com/thread-115024-1-1.html)
+-  16 [助力营销：Instagram运营进行数据分析的利器！](https://www.advertcn.com/thread-115022-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
