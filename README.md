@@ -44,6 +44,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
+-  16 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  16 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)
 -  16 [Running the AliExpress offer at HilltopAds: ROI 69,17%](https://afflift.com/f/threads/running-the-aliexpress-offer-at-hilltopads-roi-69-17.13122/)
 -  16 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
@@ -53,9 +55,7 @@
 -  16 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  16 [These Tips Will Boost Your Conversion Rate!](https://afflift.com/f/threads/these-tips-will-boost-your-conversion-rate.13127/)
 -  16 [Building a team?](https://afflift.com/f/threads/building-a-team.13124/)
--  16 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
--  16 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
--  16 [Email list building with Facebook Lead Ads](https://afflift.com/f/threads/email-list-building-with-facebook-lead-ads.13126/)<!-- afflift:END -->
+-  16 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
