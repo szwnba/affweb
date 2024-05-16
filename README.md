@@ -43,8 +43,8 @@
 ### afflift
 <!-- afflift:START -->
 -  16 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
--  16 [Email list building with Facebook Lead Ads](https://afflift.com/f/threads/email-list-building-with-facebook-lead-ads.13126/)
 -  16 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
+-  16 [Email list building with Facebook Lead Ads](https://afflift.com/f/threads/email-list-building-with-facebook-lead-ads.13126/)
 -  16 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)
 -  16 [How to use anstrex to create creative for mvas offer?](https://afflift.com/f/threads/how-to-use-anstrex-to-create-creative-for-mvas-offer.12576/)
 -  16 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
