@@ -57,6 +57,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [怀旧游戏全能王：RetroArch 极速入门](https://sspai.com/post/88260)
 -  16 [派早报：OpenAI 首席科学家 Ilya 宣布离职、乐道发布 L60 纯电中型 SUV 等](https://sspai.com/post/88841)
 -  15 [小巧轻便，随时聆听：Beats Solo 4 佩戴体验](https://sspai.com/post/88797)
 -  15 [征文 | 找回数字生活主导权，聊聊你的自托管经验技巧](https://sspai.com/post/88807)<!-- sspai:END -->
