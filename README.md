@@ -45,6 +45,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)
 -  16 [Running the AliExpress offer at HilltopAds: ROI 69,17%](https://afflift.com/f/threads/running-the-aliexpress-offer-at-hilltopads-roi-69-17.13122/)
 -  16 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  16 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
@@ -55,8 +56,7 @@
 -  16 [Building a team?](https://afflift.com/f/threads/building-a-team.13124/)
 -  16 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
 -  16 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
--  16 [Email list building with Facebook Lead Ads](https://afflift.com/f/threads/email-list-building-with-facebook-lead-ads.13126/)
--  16 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)<!-- afflift:END -->
+-  16 [Email list building with Facebook Lead Ads](https://afflift.com/f/threads/email-list-building-with-facebook-lead-ads.13126/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
