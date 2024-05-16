@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Unlock Profitable Dating Campaigns with AdsEmpire](https://afflift.com/f/threads/unlock-profitable-dating-campaigns-with-adsempire.13131/)
 -  16 [Maxconv click loss](https://afflift.com/f/threads/maxconv-click-loss.13128/)
 -  16 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
 -  16 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
@@ -53,8 +54,7 @@
 -  16 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
 -  16 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  16 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  16 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)
--  16 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)<!-- afflift:END -->
+-  16 [Adpump - earn more with our big brands &lpar;a global affiliate network with 1000+ offers&rpar;](https://afflift.com/f/threads/adpump-earn-more-with-our-big-brands-a-global-affiliate-network-with-1000-offers.9833/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
