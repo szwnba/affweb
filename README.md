@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Email list building with Facebook Lead Ads](https://afflift.com/f/threads/email-list-building-with-facebook-lead-ads.13126/)
 -  15 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  15 [Boost your sales with HilltopAds Interests-based targeting!](https://afflift.com/f/threads/boost-your-sales-with-hilltopads-interests-based-targeting.13112/)
 -  15 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
@@ -53,8 +54,7 @@
 -  15 [Hello Everyone! Alexis is here.](https://afflift.com/f/threads/hello-everyone-alexis-is-here.13118/)
 -  15 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  15 [Building a team?](https://afflift.com/f/threads/building-a-team.13124/)
--  15 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  15 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)<!-- afflift:END -->
+-  15 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
