@@ -58,6 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [新玩意 181｜少数派的编辑们最近买了啥？](https://sspai.com/post/88853)
 -  16 [[现货发售] FlipGo 效率双屏带来了哪些改变？来自少数派作者们的思考](https://sspai.com/post/88827)
 -  16 [iOS 辅助功能知多少](https://sspai.com/post/76750)
 -  16 [「怀旧游戏全能王」上架 App Store，带你入门 RetroArch](https://sspai.com/post/88260)
