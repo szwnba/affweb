@@ -41,6 +41,8 @@
 ### afflift
 <!-- afflift:START -->
 -  17 [In which ad network I can find cheap NG Push traffic?](https://afflift.com/f/threads/in-which-ad-network-i-can-find-cheap-ng-push-traffic.13141/)
+-  17 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
+-  17 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  17 [Meet Online Dating Kings at iCon Island Conference Cyprus May 30 - 31!](https://afflift.com/f/threads/meet-online-dating-kings-at-icon-island-conference-cyprus-may-30-31.13135/)
 -  17 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
 -  17 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
@@ -49,9 +51,7 @@
 -  17 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
 -  17 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  17 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
--  17 [Becareful with Clickadilla](https://afflift.com/f/threads/becareful-with-clickadilla.13140/)
--  17 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
--  17 [Neural Network Generates Music and Vocals in a Specified Style.](https://afflift.com/f/threads/neural-network-generates-music-and-vocals-in-a-specified-style.13139/)<!-- afflift:END -->
+-  17 [Becareful with Clickadilla](https://afflift.com/f/threads/becareful-with-clickadilla.13140/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
