@@ -25,7 +25,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  14 [跑SEDO可以用voluum追踪吗？](https://www.advertcn.com/thread-115001-1-1.html)<!-- advertcn2:END -->
+-  17 [注册popads时的问题](https://www.advertcn.com/thread-115034-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
