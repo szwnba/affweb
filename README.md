@@ -55,8 +55,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [派早报：适马推出新款 24⁠–70 镜头、《沙丘》前传剧集公布预告片等](https://sspai.com/post/88862)
 -  16 [新玩意 181｜少数派的编辑们最近买了啥？](https://sspai.com/post/88853)
 -  16 [[现货发售] FlipGo 效率双屏带来了哪些改变？来自少数派作者们的思考](https://sspai.com/post/88827)
 -  16 [iOS 辅助功能知多少](https://sspai.com/post/76750)
--  16 [「怀旧游戏全能王」上架 App Store，带你入门 RetroArch](https://sspai.com/post/88260)
--  16 [派早报：OpenAI 首席科学家 Ilya 宣布离职、乐道发布 L60 纯电中型 SUV 等](https://sspai.com/post/88841)<!-- sspai:END -->
+-  16 [「怀旧游戏全能王」上架 App Store，带你入门 RetroArch](https://sspai.com/post/88260)<!-- sspai:END -->
