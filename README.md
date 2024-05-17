@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  17 [Spy tool for offers](https://afflift.com/f/threads/spy-tool-for-offers.13136/)
 -  17 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
 -  17 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
@@ -49,8 +50,7 @@
 -  17 [Roller Ads Postback Setup](https://afflift.com/f/threads/roller-ads-postback-setup.13134/)
 -  17 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
 -  17 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  17 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
--  17 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
+-  17 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
