@@ -30,8 +30,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  16 [SMS短信营销注意事项-10DLC](https://www.advertcn.com/thread-115027-1-1.html)
--  16 [查看关键词的竞争程度，你们用哪个程序](https://www.advertcn.com/thread-115020-1-1.html)<!-- advertcn3:END -->
+-  16 [SMS短信营销注意事项-10DLC](https://www.advertcn.com/thread-115027-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
