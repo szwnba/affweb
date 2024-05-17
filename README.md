@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
+-  17 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  17 [TheOptimizer Mobile - Pop/Redirect/Push Campaigns on Auto-Pilot](https://afflift.com/f/threads/theoptimizer-mobile-pop-redirect-push-campaigns-on-auto-pilot.1514/)
 -  17 [Roller Ads Postback Setup](https://afflift.com/f/threads/roller-ads-postback-setup.13134/)
 -  17 [😱 [OMFG] - The tracker of all trackers is live. Meet ClickFlare](https://afflift.com/f/threads/%F0%9F%98%B1-omfg-the-tracker-of-all-trackers-is-live-meet-clickflare.9851/)
@@ -48,9 +50,7 @@
 -  17 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  17 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
 -  17 [Meet Online Dating Kings at iCon Island Conference Cyprus May 30 - 31!](https://afflift.com/f/threads/meet-online-dating-kings-at-icon-island-conference-cyprus-may-30-31.13135/)
--  17 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
--  17 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  17 [When to Cut a Zone That Has Conversions &lpar;Using Statistical Analysis&rpar;](https://afflift.com/f/threads/when-to-cut-a-zone-that-has-conversions-using-statistical-analysis.10611/)<!-- afflift:END -->
+-  17 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
