@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
+-  17 [Meet Online Dating Kings at iCon Island Conference Cyprus May 30 - 31!](https://afflift.com/f/threads/meet-online-dating-kings-at-icon-island-conference-cyprus-may-30-31.13135/)
+-  17 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
+-  17 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
+-  17 [When to Cut a Zone That Has Conversions &lpar;Using Statistical Analysis&rpar;](https://afflift.com/f/threads/when-to-cut-a-zone-that-has-conversions-using-statistical-analysis.10611/)
+-  17 [Proxy-Seller - Residential / 4G LTE / IPv4 / IPv6/ ISP High Quality Private proxies. Lots of GEO](https://afflift.com/f/threads/proxy-seller-residential-4g-lte-ipv4-ipv6-isp-high-quality-private-proxies-lots-of-geo.11946/)
 -  17 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
 -  17 [Maxconv click loss](https://afflift.com/f/threads/maxconv-click-loss.13128/)
 -  17 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  17 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
 -  17 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  17 [Roller Ads Postback Setup](https://afflift.com/f/threads/roller-ads-postback-setup.13134/)
--  17 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
--  16 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
--  16 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
--  16 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
--  16 [Unlock Profitable Dating Campaigns with AdsEmpire](https://afflift.com/f/threads/unlock-profitable-dating-campaigns-with-adsempire.13131/)
--  16 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)<!-- afflift:END -->
+-  17 [Roller Ads Postback Setup](https://afflift.com/f/threads/roller-ads-postback-setup.13134/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
