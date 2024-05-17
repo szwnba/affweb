@@ -31,8 +31,7 @@
 <!-- advertcn3:START -->
 -  16 [SMS短信营销注意事项-10DLC](https://www.advertcn.com/thread-115027-1-1.html)
 -  16 [查看关键词的竞争程度，你们用哪个程序](https://www.advertcn.com/thread-115020-1-1.html)
--  16 [代理http中的住宅IP代理与数据中心IP代理如何辨别？](https://www.advertcn.com/thread-115019-1-1.html)
--  16 [你们网站用的啥流量统计](https://www.advertcn.com/thread-115018-1-1.html)<!-- advertcn3:END -->
+-  16 [代理http中的住宅IP代理与数据中心IP代理如何辨别？](https://www.advertcn.com/thread-115019-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
