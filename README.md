@@ -20,8 +20,7 @@
 -  17 [Impact联盟能用国内银行收款吗](https://www.advertcn.com/thread-115035-1-1.html)
 -  17 [Flex offer用什么可以收款？求助！回复有金币！](https://www.advertcn.com/thread-115033-1-1.html)
 -  17 [实用的亚马逊店铺竞对分析工具！了解你的竞争对手！](https://www.advertcn.com/thread-115032-1-1.html)
--  17 [LinkedIn广告投放秘籍，两大精准营销要点：](https://www.advertcn.com/thread-115031-1-1.html)
--  16 [TikTok广告投放干货分享：精准定位，效益最大化](https://www.advertcn.com/thread-115026-1-1.html)<!-- advertcn1:END -->
+-  17 [LinkedIn广告投放秘籍，两大精准营销要点：](https://www.advertcn.com/thread-115031-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
