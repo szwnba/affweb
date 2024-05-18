@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [What is the correct way to create an Arabic landing page from the English one](https://afflift.com/f/threads/what-is-the-correct-way-to-create-an-arabic-landing-page-from-the-english-one.12978/)
+-  18 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
 -  18 [In which ad network I can find cheap NG Push traffic?](https://afflift.com/f/threads/in-which-ad-network-i-can-find-cheap-ng-push-traffic.13141/)
 -  18 [[Need Help] Set Postback for Adsbridge and ClickAdilla](https://afflift.com/f/threads/need-help-set-postback-for-adsbridge-and-clickadilla.13143/)
 -  17 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
@@ -48,9 +50,7 @@
 -  17 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
 -  17 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  17 [😇 A &quot;Good&quot; Traffic Source?](https://afflift.com/f/threads/%F0%9F%98%87-a-good-traffic-source.13137/)
--  17 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  17 [Zeropark ban my account](https://afflift.com/f/threads/zeropark-ban-my-account.12514/)
--  17 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)<!-- afflift:END -->
+-  17 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
