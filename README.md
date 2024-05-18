@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
+-  18 [Turning $380 to +$900 &lpar;Case Study&rpar;](https://afflift.com/f/threads/turning-380-to-900-case-study.13144/)
 -  18 [Spy tool for offers](https://afflift.com/f/threads/spy-tool-for-offers.13136/)
 -  18 [STEP 4 - Setup Skro Tracker](https://afflift.com/f/threads/step-4-setup-skro-tracker.12314/)
 -  18 [In which ad network I can find cheap NG Push traffic?](https://afflift.com/f/threads/in-which-ad-network-i-can-find-cheap-ng-push-traffic.13141/)
@@ -43,9 +45,7 @@
 -  18 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
 -  18 [GPT-4o](https://afflift.com/f/threads/gpt-4o.13110/)
 -  18 [Hello Everyone! Alexis is here.](https://afflift.com/f/threads/hello-everyone-alexis-is-here.13118/)
--  18 [Turning $380 to +$900 &lpar;Case Study&rpar;](https://afflift.com/f/threads/turning-380-to-900-case-study.13144/)
 -  18 [What is the correct way to create an Arabic landing page from the English one](https://afflift.com/f/threads/what-is-the-correct-way-to-create-an-arabic-landing-page-from-the-english-one.12978/)
--  18 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
 -  18 [[Need Help] Set Postback for Adsbridge and ClickAdilla](https://afflift.com/f/threads/need-help-set-postback-for-adsbridge-and-clickadilla.13143/)
 -  17 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)<!-- afflift:END -->
 
