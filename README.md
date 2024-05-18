@@ -53,5 +53,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  17 [AI 硬件接连翻车，怪我们太严格了吗？](https://sspai.com/prime/story/ai-gadgets-hype)
--  17 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/88877)
--  17 [具透 | 原生 Android「分身」来了：Android 15 Beta 2 亮点速览](https://sspai.com/post/88875)<!-- sspai:END -->
+-  17 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/88877)<!-- sspai:END -->
