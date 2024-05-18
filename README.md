@@ -52,5 +52,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [网上冲浪也能兼顾效率和体验：Chrome 侧边栏浏览器扩展集锦](https://sspai.com/post/88825)
 -  17 [AI 硬件接连翻车，怪我们太严格了吗？](https://sspai.com/prime/story/ai-gadgets-hype)
 -  17 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/88877)<!-- sspai:END -->
