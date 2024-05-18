@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [In which ad network I can find cheap NG Push traffic?](https://afflift.com/f/threads/in-which-ad-network-i-can-find-cheap-ng-push-traffic.13141/)
+-  18 [a 3-years follow along about how to make 1m in 3 years](https://afflift.com/f/threads/a-3-years-follow-along-about-how-to-make-1m-in-3-years.13070/)
+-  18 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
+-  18 [GPT-4o](https://afflift.com/f/threads/gpt-4o.13110/)
+-  18 [Hello Everyone! Alexis is here.](https://afflift.com/f/threads/hello-everyone-alexis-is-here.13118/)
+-  18 [Turning $380 to +$900 &lpar;Case Study&rpar;](https://afflift.com/f/threads/turning-380-to-900-case-study.13144/)
 -  18 [What is the correct way to create an Arabic landing page from the English one](https://afflift.com/f/threads/what-is-the-correct-way-to-create-an-arabic-landing-page-from-the-english-one.12978/)
 -  18 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
--  18 [In which ad network I can find cheap NG Push traffic?](https://afflift.com/f/threads/in-which-ad-network-i-can-find-cheap-ng-push-traffic.13141/)
 -  18 [[Need Help] Set Postback for Adsbridge and ClickAdilla](https://afflift.com/f/threads/need-help-set-postback-for-adsbridge-and-clickadilla.13143/)
 -  17 [Road to Homelessness](https://afflift.com/f/threads/road-to-homelessness.12858/)
 -  17 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  17 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
--  17 [Meet Online Dating Kings at iCon Island Conference Cyprus May 30 - 31!](https://afflift.com/f/threads/meet-online-dating-kings-at-icon-island-conference-cyprus-may-30-31.13135/)
--  17 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
--  17 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
--  17 [😇 A &quot;Good&quot; Traffic Source?](https://afflift.com/f/threads/%F0%9F%98%87-a-good-traffic-source.13137/)
--  17 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)<!-- afflift:END -->
+-  17 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
