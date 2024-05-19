@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  17 [有人分享无人直播带货的教程吗](https://www.advertcn.com/thread-115038-1-1.html)<!-- advertcn3:END -->
+-  19 [企业微信有8万用户，有什么变现方式](https://www.advertcn.com/thread-115044-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
