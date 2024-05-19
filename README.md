@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Roast my idea: High converting LP repository](https://afflift.com/f/threads/roast-my-idea-high-converting-lp-repository.13147/)
 -  19 [How to login into Adsterra CPA Network?](https://afflift.com/f/threads/how-to-login-into-adsterra-cpa-network.13146/)
 -  19 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  19 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
@@ -46,8 +47,7 @@
 -  19 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  19 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  19 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
--  19 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
--  18 [😇 A &quot;Good&quot; Traffic Source?](https://afflift.com/f/threads/%F0%9F%98%87-a-good-traffic-source.13137/)<!-- afflift:END -->
+-  19 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
