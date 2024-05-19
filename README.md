@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  18 [网上冲浪也能兼顾效率和体验：Chrome 侧边栏浏览器扩展集锦](https://sspai.com/post/88825)<!-- sspai:END -->
+-  19 [从编程小白到三次被苹果推荐，这是我送给自己最好的本科毕业礼物](https://sspai.com/post/88689)<!-- sspai:END -->
