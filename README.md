@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  19 [+$540 with AI Optimization!](https://afflift.com/f/threads/540-with-ai-optimization.13145/)
 -  19 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  19 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
@@ -46,8 +47,7 @@
 -  19 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  18 [😇 A &quot;Good&quot; Traffic Source?](https://afflift.com/f/threads/%F0%9F%98%87-a-good-traffic-source.13137/)
 -  18 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
--  18 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
--  18 [[Need Help] Set Postback for Adsbridge and ClickAdilla](https://afflift.com/f/threads/need-help-set-postback-for-adsbridge-and-clickadilla.13143/)<!-- afflift:END -->
+-  18 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
