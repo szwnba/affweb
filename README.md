@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  20 [请问国内开美区paypal  收款是否稳定](https://www.advertcn.com/thread-115064-1-1.html)
 -  20 [求购skimlink账户](https://www.advertcn.com/thread-115062-1-1.html)
 -  20 [繁体中文站，除了AdSense，还有什么network可以选择](https://www.advertcn.com/thread-115061-1-1.html)
 -  20 [长期收AdSense未过pin的号 带域名](https://www.advertcn.com/thread-115060-1-1.html)
