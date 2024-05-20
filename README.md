@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  20 [长期收AdSense未过pin的号 带域名](https://www.advertcn.com/thread-115060-1-1.html)
 -  20 [寻求派安盈美金 银行汇率收](https://www.advertcn.com/thread-115050-1-1.html)
 -  19 [打算建一个中文站，哪个空间更能顺利备案](https://www.advertcn.com/thread-115047-1-1.html)<!-- advertcn3:END -->
 
