@@ -52,5 +52,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [问就是 AI 过：盘点与「人工智能」相关的 Apple 软硬件](https://sspai.com/post/88923)
 -  20 [App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件](https://sspai.com/post/88759)
 -  20 [派早报：iOS 第三方浏览器引擎只能由实际位于欧盟的设备调试](https://sspai.com/post/88917)<!-- sspai:END -->
