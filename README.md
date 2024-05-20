@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
+-  20 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  20 [Which are good pop networks for FB in-app browser pop traffic only?](https://afflift.com/f/threads/which-are-good-pop-networks-for-fb-in-app-browser-pop-traffic-only.13153/)
+-  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  20 [+$540 with AI Optimization!](https://afflift.com/f/threads/540-with-ai-optimization.13145/)
+-  20 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  20 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
 -  20 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
 -  20 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  20 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
--  20 [Turn LinkedIn Into Your Lead Generation Machine!](https://afflift.com/f/threads/turn-linkedin-into-your-lead-generation-machine.13150/)
 -  20 [😇 A &quot;Good&quot; Traffic Source?](https://afflift.com/f/threads/%F0%9F%98%87-a-good-traffic-source.13137/)
--  20 [Help to promote dating offers and get SEO traffic](https://afflift.com/f/threads/help-to-promote-dating-offers-and-get-seo-traffic.13152/)
--  20 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  20 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
--  20 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
--  20 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)<!-- afflift:END -->
+-  20 [Help to promote dating offers and get SEO traffic](https://afflift.com/f/threads/help-to-promote-dating-offers-and-get-seo-traffic.13152/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
