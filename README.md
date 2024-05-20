@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  17 [出售谷歌/twitter/instagram/领英/VK/脸书等各种海外账号](https://www.advertcn.com/thread-115039-1-1.html)<!-- advertcn1:END -->
+-  20 [为什么说住宅动态IP代理比数据中心IP代理好用？](https://www.advertcn.com/thread-115057-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
