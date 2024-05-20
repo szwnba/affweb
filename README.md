@@ -53,5 +53,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件](https://sspai.com/post/88759)
 -  20 [派早报：iOS 第三方浏览器引擎只能由实际位于欧盟的设备调试](https://sspai.com/post/88917)
 -  19 [从编程小白到三次被苹果推荐，这是我送给自己最好的本科毕业礼物](https://sspai.com/post/88689)<!-- sspai:END -->
