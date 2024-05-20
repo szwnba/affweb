@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Roast my idea: High converting LP repository](https://afflift.com/f/threads/roast-my-idea-high-converting-lp-repository.13147/)
+-  20 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
 -  20 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  20 [Google Ads Not Spending](https://afflift.com/f/threads/google-ads-not-spending.13154/)
 -  20 [Which are good pop networks for FB in-app browser pop traffic only?](https://afflift.com/f/threads/which-are-good-pop-networks-for-fb-in-app-browser-pop-traffic-only.13153/)
@@ -50,9 +52,7 @@
 -  20 [Hi everyone from TacoLoco - new ad network from LosPollos!](https://afflift.com/f/threads/hi-everyone-from-tacoloco-new-ad-network-from-lospollos.3468/)
 -  20 [TacoLoco - an ad network from LosPollos. Extra large servings of high quality traffic!](https://afflift.com/f/threads/tacoloco-an-ad-network-from-lospollos-extra-large-servings-of-high-quality-traffic.3467/)
 -  20 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
--  20 [Which payment services do you use to deposit funds in ad accounts especially Facebook and Google ads?](https://afflift.com/f/threads/which-payment-services-do-you-use-to-deposit-funds-in-ad-accounts-especially-facebook-and-google-ads.13155/)
--  20 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
--  20 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)<!-- afflift:END -->
+-  20 [Which payment services do you use to deposit funds in ad accounts especially Facebook and Google ads?](https://afflift.com/f/threads/which-payment-services-do-you-use-to-deposit-funds-in-ad-accounts-especially-facebook-and-google-ads.13155/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
