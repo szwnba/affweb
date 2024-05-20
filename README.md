@@ -42,6 +42,7 @@
 ### afflift
 <!-- afflift:START -->
 -  20 [Bot Traffic - Will It Kill You in 2024?! &lpar; Read This to Protect Yourself &rpar;](https://afflift.com/f/threads/bot-traffic-will-it-kill-you-in-2024-read-this-to-protect-yourself.13156/)
+-  20 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
 -  20 [Which are good pop networks for FB in-app browser pop traffic only?](https://afflift.com/f/threads/which-are-good-pop-networks-for-fb-in-app-browser-pop-traffic-only.13153/)
 -  20 [Which payment services do you use to deposit funds in ad accounts especially Facebook and Google ads?](https://afflift.com/f/threads/which-payment-services-do-you-use-to-deposit-funds-in-ad-accounts-especially-facebook-and-google-ads.13155/)
 -  20 [Cracking the Code: Affiliate Adventure: A Beginner&#39;s Success with Winning Strategies – If I Can, You Can Do Too! #PA23](https://afflift.com/f/threads/cracking-the-code-affiliate-adventure-a-beginners-success-with-winning-strategies-%E2%80%93-if-i-can-you-can-do-too-pa23.11559/)
@@ -51,8 +52,7 @@
 -  20 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  20 [Newbie&#39;s second $100:Challenge Survey Pops again&amp;Promote another offer from MB&lpar;with Galaksion&rpar;](https://afflift.com/f/threads/newbies-second-100-challenge-survey-pops-again-promote-another-offer-from-mb-with-galaksion.13010/)
 -  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  20 [+$540 with AI Optimization!](https://afflift.com/f/threads/540-with-ai-optimization.13145/)
--  20 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
+-  20 [+$540 with AI Optimization!](https://afflift.com/f/threads/540-with-ai-optimization.13145/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
