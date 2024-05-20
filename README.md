@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
+-  20 [How to login into Adsterra CPA Network?](https://afflift.com/f/threads/how-to-login-into-adsterra-cpa-network.13146/)
 -  20 [+$540 with AI Optimization!](https://afflift.com/f/threads/540-with-ai-optimization.13145/)
 -  20 [Rules when you use no-redirect tracking, is it possible?](https://afflift.com/f/threads/rules-when-you-use-no-redirect-tracking-is-it-possible.13037/)
 -  20 [FB Ads reporting question](https://afflift.com/f/threads/fb-ads-reporting-question.13149/)
@@ -47,9 +49,7 @@
 -  19 [Roast my idea: High converting LP repository](https://afflift.com/f/threads/roast-my-idea-high-converting-lp-repository.13147/)
 -  19 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
 -  19 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  19 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  19 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
--  19 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)<!-- afflift:END -->
+-  19 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
