@@ -45,6 +45,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Tips and tricks on how to use XenForo forum 💬](https://afflift.com/f/threads/tips-and-tricks-on-how-to-use-xenforo-forum-%F0%9F%92%AC.13160/)
+-  21 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
+-  21 [🎁💸 &quot;PROPELLER&quot; + &quot;PROPUSH&quot; ZONES GIVEAWAY! 🚀💰](https://afflift.com/f/threads/%F0%9F%8E%81%F0%9F%92%B8-propeller-propush-zones-giveaway-%F0%9F%9A%80%F0%9F%92%B0.13164/)
 -  21 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  21 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
 -  21 [Facebook ADS + Nutra 😈](https://afflift.com/f/threads/facebook-ads-nutra-%F0%9F%98%88.12664/)
@@ -53,10 +56,7 @@
 -  21 [Help to promote dating offers and get SEO traffic](https://afflift.com/f/threads/help-to-promote-dating-offers-and-get-seo-traffic.13152/)
 -  21 [Some spoilers before I leave the pop+mvas battlefield](https://afflift.com/f/threads/some-spoilers-before-i-leave-the-pop-mvas-battlefield.12992/)
 -  21 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  21 [🎁💸 &quot;PROPELLER&quot; + &quot;PROPUSH&quot; ZONES GIVEAWAY! 🚀💰](https://afflift.com/f/threads/%F0%9F%8E%81%F0%9F%92%B8-propeller-propush-zones-giveaway-%F0%9F%9A%80%F0%9F%92%B0.13164/)
--  21 [🎁💸 &quot;REVCONTENT&quot; + &quot;CLICKBANK&quot; ZONES GIVEAWAY! 🚀💰](https://afflift.com/f/threads/%F0%9F%8E%81%F0%9F%92%B8-revcontent-clickbank-zones-giveaway-%F0%9F%9A%80%F0%9F%92%B0.13165/)
--  21 [Adsterra - Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
--  21 [Best Affiliate Marketing Telegram Groups &amp; Channels](https://afflift.com/f/threads/best-affiliate-marketing-telegram-groups-channels.6450/)<!-- afflift:END -->
+-  21 [🎁💸 &quot;REVCONTENT&quot; + &quot;CLICKBANK&quot; ZONES GIVEAWAY! 🚀💰](https://afflift.com/f/threads/%F0%9F%8E%81%F0%9F%92%B8-revcontent-clickbank-zones-giveaway-%F0%9F%9A%80%F0%9F%92%B0.13165/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
