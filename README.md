@@ -44,18 +44,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Let&#39;s meet at MAC Affiliate Conference 2024!](https://afflift.com/f/threads/lets-meet-at-mac-affiliate-conference-2024.13162/)
 -  21 [I&#39;m Sorry Guys!](https://afflift.com/f/threads/im-sorry-guys.13161/)
+-  21 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  21 [⚡ Keitaro Tracker 10.3 Stable is Available](https://afflift.com/f/threads/%E2%9A%A1-keitaro-tracker-10-3-stable-is-available.13163/)
+-  21 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
+-  21 [Earning Easy Money: My Journey with a Crazy Converting Offer!](https://afflift.com/f/threads/earning-easy-money-my-journey-with-a-crazy-converting-offer.11370/)
+-  21 [Let&#39;s meet at MAC Affiliate Conference 2024!](https://afflift.com/f/threads/lets-meet-at-mac-affiliate-conference-2024.13162/)
 -  21 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
 -  21 [😇 A &quot;Good&quot; Traffic Source?](https://afflift.com/f/threads/%F0%9F%98%87-a-good-traffic-source.13137/)
 -  21 [Tips and tricks on how to use XenForo forum 💬](https://afflift.com/f/threads/tips-and-tricks-on-how-to-use-xenforo-forum-%F0%9F%92%AC.13160/)
 -  21 [PROXY-SALE.com - IPv4 / IPv6 / ISP / Residential / 4G LTE proxies &lpar;socks5/https&rpar;. Support 24/7](https://afflift.com/f/threads/proxy-sale-com-ipv4-ipv6-isp-residential-4g-lte-proxies-socks5-https-support-24-7.12382/)
 -  21 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  21 [💰 How much revenue do traffic sources generate?](https://afflift.com/f/threads/%F0%9F%92%B0-how-much-revenue-do-traffic-sources-generate.12068/)
--  21 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  21 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
--  21 [Bot Traffic - Will It Kill You in 2024?! &lpar; Read This to Protect Yourself &rpar;](https://afflift.com/f/threads/bot-traffic-will-it-kill-you-in-2024-read-this-to-protect-yourself.13156/)
--  21 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
+-  21 [💰 How much revenue do traffic sources generate?](https://afflift.com/f/threads/%F0%9F%92%B0-how-much-revenue-do-traffic-sources-generate.12068/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
