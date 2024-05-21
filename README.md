@@ -60,5 +60,4 @@
 <!-- sspai:START -->
 -  21 [派早报：英国研究所发布 LLM 安全报告，柳青升任滴滴永久合伙人等](https://sspai.com/post/88954)
 -  20 [派评 | 近期值得关注的 App](https://sspai.com/post/88936)
--  20 [问就是 AI 过：盘点与「人工智能」相关的 Apple 软硬件](https://sspai.com/post/88923)
--  20 [App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件](https://sspai.com/post/88759)<!-- sspai:END -->
+-  20 [问就是 AI 过：盘点与「人工智能」相关的 Apple 软硬件](https://sspai.com/post/88923)<!-- sspai:END -->
