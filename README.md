@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
 -  21 [自力更生 | 你可能不需要一个 NAS？从零开始搭建自托管的影音服务器](https://sspai.com/post/88861)
 -  21 [派早报：英国研究所发布 LLM 安全报告，柳青升任滴滴永久合伙人等](https://sspai.com/post/88954)
 -  20 [派评 | 近期值得关注的 App](https://sspai.com/post/88936)<!-- sspai:END -->
