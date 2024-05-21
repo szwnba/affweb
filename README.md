@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  21 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
 -  21 [😇 A &quot;Good&quot; Traffic Source?](https://afflift.com/f/threads/%F0%9F%98%87-a-good-traffic-source.13137/)
 -  21 [Bot Traffic - Will It Kill You in 2024?! &lpar; Read This to Protect Yourself &rpar;](https://afflift.com/f/threads/bot-traffic-will-it-kill-you-in-2024-read-this-to-protect-yourself.13156/)
@@ -53,8 +54,7 @@
 -  20 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
 -  20 [[Need Help] Set Postback for Adsbridge and ClickAdilla](https://afflift.com/f/threads/need-help-set-postback-for-adsbridge-and-clickadilla.13143/)
 -  20 [STEP 4 - Setup Skro Tracker](https://afflift.com/f/threads/step-4-setup-skro-tracker.12314/)
--  20 [Roast my idea: High converting LP repository](https://afflift.com/f/threads/roast-my-idea-high-converting-lp-repository.13147/)
--  20 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)<!-- afflift:END -->
+-  20 [Roast my idea: High converting LP repository](https://afflift.com/f/threads/roast-my-idea-high-converting-lp-repository.13147/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
