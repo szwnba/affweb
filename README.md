@@ -25,14 +25,9 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  21 [nutra来品](https://www.advertcn.com/thread-115069-1-1.html)
--  21 [谷歌seo 来nutra联盟上几个品](https://www.advertcn.com/thread-115068-1-1.html)
--  20 [寻找实力代投  巴西地区游戏](https://www.advertcn.com/thread-115066-1-1.html)
 -  20 [谷歌投金融广告太麻烦了](https://www.advertcn.com/thread-115065-1-1.html)
--  20 [请问国内开美区paypal  收款是否稳定](https://www.advertcn.com/thread-115064-1-1.html)
 -  20 [求购skimlink账户](https://www.advertcn.com/thread-115062-1-1.html)
--  20 [繁体中文站，除了AdSense，还有什么network可以选择](https://www.advertcn.com/thread-115061-1-1.html)
--  20 [长期收AdSense未过pin的号 带域名](https://www.advertcn.com/thread-115060-1-1.html)<!-- advertcn3:END -->
+-  20 [繁体中文站，除了AdSense，还有什么network可以选择](https://www.advertcn.com/thread-115061-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
