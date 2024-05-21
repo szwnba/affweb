@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Psychology of Money - What You Need to Know](https://afflift.com/f/threads/psychology-of-money-what-you-need-to-know.13159/)
 -  21 [💰 How much revenue do traffic sources generate?](https://afflift.com/f/threads/%F0%9F%92%B0-how-much-revenue-do-traffic-sources-generate.12068/)
 -  21 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  21 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
@@ -49,8 +50,7 @@
 -  20 [Which payment services do you use to deposit funds in ad accounts especially Facebook and Google ads?](https://afflift.com/f/threads/which-payment-services-do-you-use-to-deposit-funds-in-ad-accounts-especially-facebook-and-google-ads.13155/)
 -  20 [Roast my 2nd idea: Job board for the Ad Tech industry](https://afflift.com/f/threads/roast-my-2nd-idea-job-board-for-the-ad-tech-industry.13157/)
 -  20 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
--  20 [[Need Help] Set Postback for Adsbridge and ClickAdilla](https://afflift.com/f/threads/need-help-set-postback-for-adsbridge-and-clickadilla.13143/)
--  20 [STEP 4 - Setup Skro Tracker](https://afflift.com/f/threads/step-4-setup-skro-tracker.12314/)<!-- afflift:END -->
+-  20 [[Need Help] Set Postback for Adsbridge and ClickAdilla](https://afflift.com/f/threads/need-help-set-postback-for-adsbridge-and-clickadilla.13143/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
