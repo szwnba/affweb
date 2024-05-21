@@ -59,6 +59,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [社区速递 045 | 广告争议、自建NAS以及作者的新玩意](https://sspai.com/post/88975)
 -  21 [无套路、很简单，少数派周边商店 618 促销开启](https://sspai.com/post/88932)
 -  21 [暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
 -  21 [自力更生 | 你可能不需要一个 NAS？从零开始搭建自托管的影音服务器](https://sspai.com/post/88861)
