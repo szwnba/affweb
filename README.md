@@ -42,8 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  21 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
+-  21 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  21 [How many offers do you test a day?](https://afflift.com/f/threads/how-many-offers-do-you-test-a-day.13094/)
 -  21 [Hetzner now in the US!](https://afflift.com/f/threads/hetzner-now-in-the-us.7794/)
 -  21 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
