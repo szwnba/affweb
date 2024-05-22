@@ -17,6 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  22 [亚马逊卖家如何做到固定IP进行多店铺运营？](https://www.advertcn.com/thread-115095-1-1.html)
+-  22 [新人报道！](https://www.advertcn.com/thread-115094-1-1.html)
 -  22 [新人报到](https://www.advertcn.com/thread-115093-1-1.html)
 -  21 [新人报道，请指教](https://www.advertcn.com/thread-115086-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-115084-1-1.html)
