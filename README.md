@@ -29,6 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  22 [是否有多地部署的必要？实际测试看看](https://www.advertcn.com/thread-115092-1-1.html)
 -  21 [TikTok中的像素是什么？如何创建生成像素？](https://www.advertcn.com/thread-115076-1-1.html)
 -  21 [广告主注意啦~Meta官方又双叒叕出新功能啦~](https://www.advertcn.com/thread-115073-1-1.html)<!-- advertcn3:END -->
 
