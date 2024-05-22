@@ -44,9 +44,9 @@
 ### afflift
 <!-- afflift:START -->
 -  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
+-  22 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  22 [I&#39;m Sorry Guys!](https://afflift.com/f/threads/im-sorry-guys.13161/)
 -  22 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  22 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  22 [🖥️  How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/%F0%9F%96%A5%EF%B8%8F-how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  22 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
 -  22 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
