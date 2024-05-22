@@ -21,8 +21,7 @@
 -  22 [玉姐专讲：大预算小出价，让你不再消耗崩盘！](https://www.advertcn.com/thread-115096-1-1.html)
 -  22 [亚马逊卖家如何做到固定IP进行多店铺运营？](https://www.advertcn.com/thread-115095-1-1.html)
 -  22 [新人报道！](https://www.advertcn.com/thread-115094-1-1.html)
--  22 [新人报到](https://www.advertcn.com/thread-115093-1-1.html)
--  21 [新人报道，请指教](https://www.advertcn.com/thread-115086-1-1.html)<!-- advertcn1:END -->
+-  22 [新人报到](https://www.advertcn.com/thread-115093-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
