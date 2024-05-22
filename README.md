@@ -41,11 +41,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
 -  22 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
 -  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  22 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  22 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
--  21 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
 -  21 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  21 [How many offers do you test a day?](https://afflift.com/f/threads/how-many-offers-do-you-test-a-day.13094/)
 -  21 [Hetzner now in the US!](https://afflift.com/f/threads/hetzner-now-in-the-us.7794/)
