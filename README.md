@@ -45,18 +45,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
+-  22 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
+-  22 [🖥️  How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/%F0%9F%96%A5%EF%B8%8F-how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
+-  22 [Crushing ROI: My Adsense/AdX Arbitrage Journey Unveiled! 💰](https://afflift.com/f/threads/crushing-roi-my-adsense-adx-arbitrage-journey-unveiled-%F0%9F%92%B0.12228/)
+-  22 [Looking for high quality push traffic sources - 2024?](https://afflift.com/f/threads/looking-for-high-quality-push-traffic-sources-2024.12940/)
 -  22 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
 -  22 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
--  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  22 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
--  22 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  21 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  21 [How many offers do you test a day?](https://afflift.com/f/threads/how-many-offers-do-you-test-a-day.13094/)
 -  21 [Hetzner now in the US!](https://afflift.com/f/threads/hetzner-now-in-the-us.7794/)
--  21 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
--  21 [Google Ads Not Spending](https://afflift.com/f/threads/google-ads-not-spending.13154/)
--  21 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  21 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)<!-- afflift:END -->
+-  21 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
