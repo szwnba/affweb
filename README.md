@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  22 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
 -  22 [Desktop Software for Organization](https://afflift.com/f/threads/desktop-software-for-organization.13173/)
+-  22 [Roast my 2nd idea: Job board for the Ad Tech industry](https://afflift.com/f/threads/roast-my-2nd-idea-job-board-for-the-ad-tech-industry.13157/)
+-  22 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
+-  22 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
+-  22 [Case Study: Earning money with Instagram Reels for OnlyFans. A Guide to Working with Short Videos on Social Media.](https://afflift.com/f/threads/case-study-earning-money-with-instagram-reels-for-onlyfans-a-guide-to-working-with-short-videos-on-social-media.13174/)
+-  22 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
 -  22 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)
 -  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  22 [I&#39;m Sorry Guys!](https://afflift.com/f/threads/im-sorry-guys.13161/)
 -  22 [looking for creative ideas to block wifi on taboola](https://afflift.com/f/threads/looking-for-creative-ideas-to-block-wifi-on-taboola.13172/)
 -  22 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
--  22 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  22 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  22 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  22 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
--  22 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
+-  22 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
