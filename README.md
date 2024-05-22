@@ -42,8 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  22 [Desktop Software for Organization](https://afflift.com/f/threads/desktop-software-for-organization.13173/)
 -  22 [Roast my 2nd idea: Job board for the Ad Tech industry](https://afflift.com/f/threads/roast-my-2nd-idea-job-board-for-the-ad-tech-industry.13157/)
+-  22 [Desktop Software for Organization](https://afflift.com/f/threads/desktop-software-for-organization.13173/)
 -  22 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  22 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  22 [Case Study: Earning money with Instagram Reels for OnlyFans. A Guide to Working with Short Videos on Social Media.](https://afflift.com/f/threads/case-study-earning-money-with-instagram-reels-for-onlyfans-a-guide-to-working-with-short-videos-on-social-media.13174/)
