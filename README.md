@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [🧪🧪Survey Exit Traffic + Sweepstakes🧪🧪](https://afflift.com/f/threads/%F0%9F%A7%AA%F0%9F%A7%AAsurvey-exit-traffic-sweepstakes%F0%9F%A7%AA%F0%9F%A7%AA.13176/)
+-  22 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
+-  22 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
+-  22 [ROIAds Pops is now in the link directory](https://afflift.com/f/threads/roiads-pops-is-now-in-the-link-directory.13175/)
+-  22 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  22 [Roast my 2nd idea: Job board for the Ad Tech industry](https://afflift.com/f/threads/roast-my-2nd-idea-job-board-for-the-ad-tech-industry.13157/)
 -  22 [Desktop Software for Organization](https://afflift.com/f/threads/desktop-software-for-organization.13173/)
 -  22 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  22 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  22 [Case Study: Earning money with Instagram Reels for OnlyFans. A Guide to Working with Short Videos on Social Media.](https://afflift.com/f/threads/case-study-earning-money-with-instagram-reels-for-onlyfans-a-guide-to-working-with-short-videos-on-social-media.13174/)
 -  22 [🗳️ POLL: What push subscription&lpar;s&rpar; service are you using?](https://afflift.com/f/threads/%F0%9F%97%B3%EF%B8%8F-poll-what-push-subscription-s-service-are-you-using.13133/)
--  22 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)
--  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
--  22 [I&#39;m Sorry Guys!](https://afflift.com/f/threads/im-sorry-guys.13161/)
--  22 [looking for creative ideas to block wifi on taboola](https://afflift.com/f/threads/looking-for-creative-ideas-to-block-wifi-on-taboola.13172/)
--  22 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
--  22 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
+-  22 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
