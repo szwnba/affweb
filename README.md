@@ -63,5 +63,4 @@
 -  22 [也许你也用得上的技术，从零开始了解内网穿透](https://sspai.com/post/88937)
 -  22 [派早报：OpenAI 暂时停用 Sky 语音选项、京东支付与微信支付实现互联互通等](https://sspai.com/post/88989)
 -  21 [社区速递 045 | 广告争议、自建NAS以及作者的新玩意](https://sspai.com/post/88975)
--  21 [无套路、很简单，少数派周边商店 618 促销开启](https://sspai.com/post/88932)
--  21 [暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)<!-- sspai:END -->
+-  21 [无套路、很简单，少数派周边商店 618 促销开启](https://sspai.com/post/88932)<!-- sspai:END -->
