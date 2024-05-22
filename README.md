@@ -17,10 +17,12 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  22 [新人报到](https://www.advertcn.com/thread-115093-1-1.html)
 -  21 [新人报道，请指教](https://www.advertcn.com/thread-115086-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-115084-1-1.html)
 -  21 [新人报道](https://www.advertcn.com/thread-115080-1-1.html)
--  21 [好地方](https://www.advertcn.com/thread-115077-1-1.html)<!-- advertcn1:END -->
+-  21 [好地方](https://www.advertcn.com/thread-115077-1-1.html)
+-  21 [独立站小白速速查看！从0到1教你如何搭建独立站！](https://www.advertcn.com/thread-115071-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
