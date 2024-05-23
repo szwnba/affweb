@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  23 [从光机电算到软硬芯云，华为影像 XMAGE 希望继续为移动影像做些什么？](https://sspai.com/post/88977)
 -  23 [从有所耳闻到为己所用，我是这样入门 AI 的](https://sspai.com/post/88960)
 -  23 [派早报：松下发布 LUMIX S9 相机、Sonos 发布头戴式耳机等](https://sspai.com/post/89018)
 -  22 [《地狱之刃2：塞娜的传说》篝火评测：互动小说的极致游戏化表现](https://sspai.com/post/89000)
