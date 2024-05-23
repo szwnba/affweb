@@ -59,5 +59,4 @@
 <!-- sspai:START -->
 -  22 [《地狱之刃2：塞娜的传说》篝火评测：互动小说的极致游戏化表现](https://sspai.com/post/89000)
 -  22 [一群中国的高中生，打算办一场全球性的黑客松](https://sspai.com/post/88924)
--  22 [也许你也用得上的技术，从零开始了解内网穿透](https://sspai.com/post/88937)
--  22 [派早报：OpenAI 暂时停用 Sky 语音选项、京东支付与微信支付实现互联互通等](https://sspai.com/post/88989)<!-- sspai:END -->
+-  22 [也许你也用得上的技术，从零开始了解内网穿透](https://sspai.com/post/88937)<!-- sspai:END -->
