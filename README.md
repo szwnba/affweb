@@ -27,8 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  22 [facebook该如何注册](https://www.advertcn.com/thread-115101-1-1.html)
--  22 [本人有谷歌广告大账户可打折消耗诚心寻求合作](https://www.advertcn.com/thread-115098-1-1.html)<!-- advertcn3:END -->
+-  22 [facebook该如何注册](https://www.advertcn.com/thread-115101-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
