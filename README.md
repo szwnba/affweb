@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [The Funny Thing About AM](https://afflift.com/f/threads/the-funny-thing-about-am.13177/)
+-  23 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  23 [How many offers do you test a day?](https://afflift.com/f/threads/how-many-offers-do-you-test-a-day.13094/)
 -  23 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
 -  23 [🎁💸 &quot;PROPELLER&quot; + &quot;PROPUSH&quot; ZONES GIVEAWAY! 🚀💰](https://afflift.com/f/threads/%F0%9F%8E%81%F0%9F%92%B8-propeller-propush-zones-giveaway-%F0%9F%9A%80%F0%9F%92%B0.13164/)
--  23 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  23 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  22 [Desktop Software for Organization](https://afflift.com/f/threads/desktop-software-for-organization.13173/)
 -  22 [Dating Offers _ SEO in search of CPA Marketing](https://afflift.com/f/threads/dating-offers-_-seo-in-search-of-cpa-marketing.13095/)
 -  22 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  22 [Thinking About Promoting Dating Offers in 2023? Gain Insights and Expertise from Cpamatica&#39;s...](https://afflift.com/f/threads/thinking-about-promoting-dating-offers-in-2023-gain-insights-and-expertise-from-cpamaticas.11706/)
 -  22 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
--  22 [Google Ads Not Spending](https://afflift.com/f/threads/google-ads-not-spending.13154/)
--  22 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)<!-- afflift:END -->
+-  22 [Google Ads Not Spending](https://afflift.com/f/threads/google-ads-not-spending.13154/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
