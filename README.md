@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [affiliate marketing IS NOT dead 💪](https://afflift.com/f/threads/affiliate-marketing-is-not-dead-%F0%9F%92%AA.6567/)
+-  23 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  23 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  23 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
 -  23 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
@@ -46,9 +48,7 @@
 -  23 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  23 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
 -  23 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)
--  23 [How to get approved with iMonetizeIt](https://afflift.com/f/threads/how-to-get-approved-with-imonetizeit.13183/)
--  23 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
--  23 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)<!-- afflift:END -->
+-  23 [How to get approved with iMonetizeIt](https://afflift.com/f/threads/how-to-get-approved-with-imonetizeit.13183/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
