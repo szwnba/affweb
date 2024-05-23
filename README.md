@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  22 [Desktop Software for Organization](https://afflift.com/f/threads/desktop-software-for-organization.13173/)
 -  22 [Dating Offers _ SEO in search of CPA Marketing](https://afflift.com/f/threads/dating-offers-_-seo-in-search-of-cpa-marketing.13095/)
 -  22 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
@@ -52,8 +53,7 @@
 -  22 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
 -  22 [Roast my 2nd idea: Job board for the Ad Tech industry](https://afflift.com/f/threads/roast-my-2nd-idea-job-board-for-the-ad-tech-industry.13157/)
 -  22 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)
--  22 [looking for creative ideas to block wifi on taboola](https://afflift.com/f/threads/looking-for-creative-ideas-to-block-wifi-on-taboola.13172/)
--  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)<!-- afflift:END -->
+-  22 [looking for creative ideas to block wifi on taboola](https://afflift.com/f/threads/looking-for-creative-ideas-to-block-wifi-on-taboola.13172/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
