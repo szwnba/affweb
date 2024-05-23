@@ -17,9 +17,9 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  23 [新人报道](https://www.advertcn.com/thread-115106-1-1.html)
 -  23 [COD是什么？如果独立站想入东南亚市场做COD需要做什么？](https://www.advertcn.com/thread-115105-1-1.html)
--  22 [如何在 Facebook 上投放多个广告活动而不被禁止?](https://www.advertcn.com/thread-115100-1-1.html)
--  22 [玉姐专讲：大预算小出价，让你不再消耗崩盘！](https://www.advertcn.com/thread-115096-1-1.html)<!-- advertcn1:END -->
+-  22 [如何在 Facebook 上投放多个广告活动而不被禁止?](https://www.advertcn.com/thread-115100-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
