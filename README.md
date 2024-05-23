@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [💥 All you need to know about SEO Clusters 💥](https://afflift.com/f/threads/%F0%9F%92%A5-all-you-need-to-know-about-seo-clusters-%F0%9F%92%A5.12779/)
+-  23 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  23 [Thinking About Promoting Dating Offers in 2023? Gain Insights and Expertise from Cpamatica&#39;s...](https://afflift.com/f/threads/thinking-about-promoting-dating-offers-in-2023-gain-insights-and-expertise-from-cpamaticas.11706/)
 -  23 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  23 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
@@ -46,9 +48,7 @@
 -  23 [How to get approved with iMonetizeIt](https://afflift.com/f/threads/how-to-get-approved-with-imonetizeit.13183/)
 -  23 [Running Trending Campaigns - Monetizer + PropellerAds](https://afflift.com/f/threads/running-trending-campaigns-monetizer-propellerads.5091/)
 -  23 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  23 [The Funny Thing About AM](https://afflift.com/f/threads/the-funny-thing-about-am.13177/)
--  23 [What&#39;s Your Biggest ROI](https://afflift.com/f/threads/whats-your-biggest-roi.13178/)
--  23 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
+-  23 [The Funny Thing About AM](https://afflift.com/f/threads/the-funny-thing-about-am.13177/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
