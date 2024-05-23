@@ -38,6 +38,7 @@
 ### afflift
 <!-- afflift:START -->
 -  23 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
+-  23 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)
 -  23 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  23 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  23 [How to get approved with iMonetizeIt](https://afflift.com/f/threads/how-to-get-approved-with-imonetizeit.13183/)
@@ -47,8 +48,7 @@
 -  23 [The Funny Thing About AM](https://afflift.com/f/threads/the-funny-thing-about-am.13177/)
 -  23 [What&#39;s Your Biggest ROI](https://afflift.com/f/threads/whats-your-biggest-roi.13178/)
 -  23 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  23 [Roast my 2nd idea: Job board for the Ad Tech industry](https://afflift.com/f/threads/roast-my-2nd-idea-job-board-for-the-ad-tech-industry.13157/)
--  23 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  23 [Roast my 2nd idea: Job board for the Ad Tech industry](https://afflift.com/f/threads/roast-my-2nd-idea-job-board-for-the-ad-tech-industry.13157/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
