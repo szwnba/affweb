@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
+-  23 [How to get approved with iMonetizeIt](https://afflift.com/f/threads/how-to-get-approved-with-imonetizeit.13183/)
+-  23 [What&#39;s Your Biggest ROI](https://afflift.com/f/threads/whats-your-biggest-roi.13178/)
 -  23 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
+-  23 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  23 [Roast my 2nd idea: Job board for the Ad Tech industry](https://afflift.com/f/threads/roast-my-2nd-idea-job-board-for-the-ad-tech-industry.13157/)
 -  23 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  23 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  23 [Google Ads Smart Campaigns: The Easiest Way to Get Started With Advertising on Google](https://afflift.com/f/threads/google-ads-smart-campaigns-the-easiest-way-to-get-started-with-advertising-on-google.13182/)
 -  23 [The Funny Thing About AM](https://afflift.com/f/threads/the-funny-thing-about-am.13177/)
 -  23 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
--  23 [Meet 888STARZ Partners at MAC Affiliate conference 2024!](https://afflift.com/f/threads/meet-888starz-partners-at-mac-affiliate-conference-2024.13180/)
--  23 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  23 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  23 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
--  23 [Thinking About Promoting Dating Offers in 2023? Gain Insights and Expertise from Cpamatica&#39;s...](https://afflift.com/f/threads/thinking-about-promoting-dating-offers-in-2023-gain-insights-and-expertise-from-cpamaticas.11706/)<!-- afflift:END -->
+-  23 [Meet 888STARZ Partners at MAC Affiliate conference 2024!](https://afflift.com/f/threads/meet-888starz-partners-at-mac-affiliate-conference-2024.13180/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
