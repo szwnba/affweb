@@ -41,6 +41,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
+-  24 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
+-  24 [What&#39;s Your Biggest ROI](https://afflift.com/f/threads/whats-your-biggest-roi.13178/)
+-  24 [CyberRank - Master Follow Thread &lpar;POP&#39;s&rpar;](https://afflift.com/f/threads/cyberrank-master-follow-thread-pops.13186/)
 -  24 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
 -  24 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
 -  24 [Amazon Merch On Demand account holders?](https://afflift.com/f/threads/amazon-merch-on-demand-account-holders.11831/)
@@ -48,11 +52,7 @@
 -  24 [The Funny Thing About AM](https://afflift.com/f/threads/the-funny-thing-about-am.13177/)
 -  24 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  24 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
--  24 [Host Your Landing Pages for Free &lpar;w/CDN&rpar; in 10 Minutes](https://afflift.com/f/threads/host-your-landing-pages-for-free-w-cdn-in-10-minutes.7673/)
--  24 [🎁💸 &quot;PROPELLER&quot; + &quot;PROPUSH&quot; ZONES GIVEAWAY! 🚀💰](https://afflift.com/f/threads/%F0%9F%8E%81%F0%9F%92%B8-propeller-propush-zones-giveaway-%F0%9F%9A%80%F0%9F%92%B0.13164/)
--  24 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
--  24 [STEP 4 - Setup Skro Tracker](https://afflift.com/f/threads/step-4-setup-skro-tracker.12314/)
--  24 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)<!-- afflift:END -->
+-  24 [Host Your Landing Pages for Free &lpar;w/CDN&rpar; in 10 Minutes](https://afflift.com/f/threads/host-your-landing-pages-for-free-w-cdn-in-10-minutes.7673/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
