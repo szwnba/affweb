@@ -29,7 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  23 [有朋友收抖音和小红书账号么【暂停出售】](https://www.advertcn.com/thread-115107-1-1.html)<!-- advertcn3:END -->
+-  24 [吐槽白嫖党](https://www.advertcn.com/thread-115120-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
