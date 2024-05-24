@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  24 [2024 Etsy替代品推荐：探索手工艺品销售的其他平台](https://www.advertcn.com/thread-115112-1-1.html)
 -  23 [新人报道](https://www.advertcn.com/thread-115106-1-1.html)
 -  23 [COD是什么？如果独立站想入东南亚市场做COD需要做什么？](https://www.advertcn.com/thread-115105-1-1.html)<!-- advertcn1:END -->
 
