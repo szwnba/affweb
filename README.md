@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  24 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
 -  24 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  23 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
@@ -48,8 +49,7 @@
 -  23 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  23 [Thinking About Promoting Dating Offers in 2023? Gain Insights and Expertise from Cpamatica&#39;s...](https://afflift.com/f/threads/thinking-about-promoting-dating-offers-in-2023-gain-insights-and-expertise-from-cpamaticas.11706/)
 -  23 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
--  23 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)
--  23 [How to get approved with iMonetizeIt](https://afflift.com/f/threads/how-to-get-approved-with-imonetizeit.13183/)<!-- afflift:END -->
+-  23 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
