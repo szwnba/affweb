@@ -38,9 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  24 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  24 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
--  24 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  23 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
 -  23 [affiliate marketing IS NOT dead 💪](https://afflift.com/f/threads/affiliate-marketing-is-not-dead-%F0%9F%92%AA.6567/)
 -  23 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
