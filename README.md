@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  24 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  24 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  24 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
@@ -51,8 +52,7 @@
 -  24 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  24 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  24 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
--  24 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)
--  24 [See you at I-CON Island Conference 2024!](https://afflift.com/f/threads/see-you-at-i-con-island-conference-2024.13188/)<!-- afflift:END -->
+-  24 [5 Beginner Success Tips For 2024](https://afflift.com/f/threads/5-beginner-success-tips-for-2024.13171/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
