@@ -55,5 +55,4 @@
 -  23 [新玩意 182｜少数派的编辑们最近买了啥？](https://sspai.com/post/89031)
 -  23 [到手即用的「高配」客制化键盘：少数派定制版 Keychron Q1 Max 体验](https://sspai.com/post/89030)
 -  23 [从光机电算到软硬芯云，华为影像 XMAGE 希望继续为移动影像做些什么？](https://sspai.com/post/88977)
--  23 [从有所耳闻到为己所用，我是这样入门 AI 的](https://sspai.com/post/88960)
--  23 [派早报：松下发布 LUMIX S9 相机、Sonos 发布头戴式耳机等](https://sspai.com/post/89018)<!-- sspai:END -->
+-  23 [从有所耳闻到为己所用，我是这样入门 AI 的](https://sspai.com/post/88960)<!-- sspai:END -->
