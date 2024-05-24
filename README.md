@@ -56,6 +56,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [关于代糖，你应该多了解的几个问题](https://sspai.com/prime/story/sweeteners-faq)
+-  24 [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/89070)
 -  24 [App+1 | 在 Android 平台，找到「好像在哪里见过」的你：Snapseek](https://sspai.com/post/89059)
 -  24 [理解睡眠，破除焦虑，让我睡得更好](https://sspai.com/post/88390)
 -  24 [派早报：微软向 Release Preview 发布 Windows 11 24H2 预览版等](https://sspai.com/post/89048)<!-- sspai:END -->
