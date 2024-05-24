@@ -37,11 +37,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
+-  23 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
 -  23 [affiliate marketing IS NOT dead 💪](https://afflift.com/f/threads/affiliate-marketing-is-not-dead-%F0%9F%92%AA.6567/)
 -  23 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  23 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
--  23 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
--  23 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  23 [💥 All you need to know about SEO Clusters 💥](https://afflift.com/f/threads/%F0%9F%92%A5-all-you-need-to-know-about-seo-clusters-%F0%9F%92%A5.12779/)
 -  23 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  23 [Thinking About Promoting Dating Offers in 2023? Gain Insights and Expertise from Cpamatica&#39;s...](https://afflift.com/f/threads/thinking-about-promoting-dating-offers-in-2023-gain-insights-and-expertise-from-cpamaticas.11706/)
