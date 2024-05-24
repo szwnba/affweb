@@ -53,6 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [派早报：微软向 Release Preview 发布 Windows 11 24H2 预览版等](https://sspai.com/post/89048)
 -  23 [新玩意 182｜少数派的编辑们最近买了啥？](https://sspai.com/post/89031)
 -  23 [到手即用的「高配」客制化键盘：少数派定制版 Keychron Q1 Max 体验](https://sspai.com/post/89030)
 -  23 [从光机电算到软硬芯云，华为影像 XMAGE 希望继续为移动影像做些什么？](https://sspai.com/post/88977)
