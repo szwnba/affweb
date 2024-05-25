@@ -21,8 +21,7 @@
 -  24 [东南亚跑COD&amp;独立站配Facebook都是什么？深度解析不看就亏啦](https://www.advertcn.com/thread-115118-1-1.html)
 -  24 [新人报道](https://www.advertcn.com/thread-115116-1-1.html)
 -  24 [谷歌广告怎么投放你真的了解吗？还不来看秘诀大分享？！](https://www.advertcn.com/thread-115114-1-1.html)
--  24 [Google Ads账户被暂停/封禁会有什么影响？](https://www.advertcn.com/thread-115113-1-1.html)
--  24 [2024 Etsy替代品推荐：探索手工艺品销售的其他平台](https://www.advertcn.com/thread-115112-1-1.html)<!-- advertcn1:END -->
+-  24 [Google Ads账户被暂停/封禁会有什么影响？](https://www.advertcn.com/thread-115113-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
