@@ -44,8 +44,7 @@
 -  25 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
 -  25 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  25 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
--  25 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  24 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)<!-- afflift:END -->
+-  25 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
