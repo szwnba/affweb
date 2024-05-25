@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
+-  25 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
+-  25 [Maximize Your Profits with LinksTest.com - A Must-Try Tool for Affiliates!](https://afflift.com/f/threads/maximize-your-profits-with-linkstest-com-a-must-try-tool-for-affiliates.13191/)
 -  25 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
 -  25 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
--  25 [Maximize Your Profits with LinksTest.com - A Must-Try Tool for Affiliates!](https://afflift.com/f/threads/maximize-your-profits-with-linkstest-com-a-must-try-tool-for-affiliates.13191/)
 -  25 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  25 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  25 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  24 [How to check the landing page of such tracking links? [Anstrex]](https://afflift.com/f/threads/how-to-check-the-landing-page-of-such-tracking-links-anstrex.13187/)
 -  24 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  24 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  24 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  24 [STEP 4 - Setup Skro Tracker](https://afflift.com/f/threads/step-4-setup-skro-tracker.12314/)
--  24 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)<!-- afflift:END -->
+-  24 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
