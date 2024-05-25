@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  24 [新人报道](https://www.advertcn.com/thread-115122-1-1.html)
--  24 [东南亚跑COD&amp;独立站配Facebook都是什么？深度解析不看就亏啦](https://www.advertcn.com/thread-115118-1-1.html)
--  24 [新人报道](https://www.advertcn.com/thread-115116-1-1.html)<!-- advertcn1:END -->
+-  24 [东南亚跑COD&amp;独立站配Facebook都是什么？深度解析不看就亏啦](https://www.advertcn.com/thread-115118-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
