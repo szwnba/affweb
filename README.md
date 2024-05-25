@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  24 [关于代糖，你应该多了解的几个问题](https://sspai.com/prime/story/sweeteners-faq)
--  24 [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/89070)<!-- sspai:END -->
+-  25 [用计算机科学的方法优化个人任务管理](https://sspai.com/post/87071)<!-- sspai:END -->
