@@ -37,14 +37,13 @@
 ### afflift
 <!-- afflift:START -->
 -  26 [No Traffic Estimator in PopAds?](https://afflift.com/f/threads/no-traffic-estimator-in-popads.13192/)
+-  26 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  26 [Rollerads Push Subscription Postback](https://afflift.com/f/threads/rollerads-push-subscription-postback.13193/)
 -  26 [Maximize Your Profits with LinksTest.com - A Must-Try Tool for Affiliates!](https://afflift.com/f/threads/maximize-your-profits-with-linkstest-com-a-must-try-tool-for-affiliates.13191/)
 -  26 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
 -  26 [CyberRank - Master Follow Thread &lpar;POP&#39;s&rpar;](https://afflift.com/f/threads/cyberrank-master-follow-thread-pops.13186/)
--  26 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  26 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  25 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
--  25 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)<!-- afflift:END -->
+-  25 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
