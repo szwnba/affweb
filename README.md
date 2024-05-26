@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
 -  26 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  26 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  26 [CyberRank - Master Follow Thread &lpar;POP&#39;s&rpar;](https://afflift.com/f/threads/cyberrank-master-follow-thread-pops.13186/)
