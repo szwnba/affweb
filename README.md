@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  24 [新人报道](https://www.advertcn.com/thread-115122-1-1.html)<!-- advertcn1:END -->
+-  26 [新人报道，收SODO或者BODIS或者SYSTEM1的账户](https://www.advertcn.com/thread-115133-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
