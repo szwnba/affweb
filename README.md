@@ -38,6 +38,7 @@
 ### afflift
 <!-- afflift:START -->
 -  27 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
+-  27 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
 -  27 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  27 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  26 [🚦 Survey Traffic Arbitrage?](https://afflift.com/f/threads/%F0%9F%9A%A6-survey-traffic-arbitrage.12508/)
@@ -47,8 +48,7 @@
 -  26 [No Traffic Estimator in PopAds?](https://afflift.com/f/threads/no-traffic-estimator-in-popads.13192/)
 -  26 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  26 [Rollerads Push Subscription Postback](https://afflift.com/f/threads/rollerads-push-subscription-postback.13193/)
--  26 [Maximize Your Profits with LinksTest.com - A Must-Try Tool for Affiliates!](https://afflift.com/f/threads/maximize-your-profits-with-linkstest-com-a-must-try-tool-for-affiliates.13191/)
--  26 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)<!-- afflift:END -->
+-  26 [Maximize Your Profits with LinksTest.com - A Must-Try Tool for Affiliates!](https://afflift.com/f/threads/maximize-your-profits-with-linkstest-com-a-must-try-tool-for-affiliates.13191/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
