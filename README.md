@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)
+-  27 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  27 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
 -  27 [WIN PS5 AT THE I-CON GIVEAWAY BY ONCLICKA ADVERTISING NETWORK!](https://afflift.com/f/threads/win-ps5-at-the-i-con-giveaway-by-onclicka-advertising-network.13196/)
 -  27 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
@@ -46,9 +48,7 @@
 -  27 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  27 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  27 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
--  27 [Adport launches SDK!](https://afflift.com/f/threads/adport-launches-sdk.13194/)
--  27 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
--  27 [22 useful websites for making advertising creatives](https://afflift.com/f/threads/22-useful-websites-for-making-advertising-creatives.13103/)<!-- afflift:END -->
+-  27 [Adport launches SDK!](https://afflift.com/f/threads/adport-launches-sdk.13194/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
