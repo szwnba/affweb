@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
+-  27 [WIN PS5 AT THE I-CON GIVEAWAY BY ONCLICKA ADVERTISING NETWORK!](https://afflift.com/f/threads/win-ps5-at-the-i-con-giveaway-by-onclicka-advertising-network.13196/)
+-  27 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
+-  27 [Top Landing Pages for Different Types of Traffic](https://afflift.com/f/threads/top-landing-pages-for-different-types-of-traffic.13025/)
 -  27 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  27 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  27 [Top Landing Pages for Different Types of Traffic](https://afflift.com/f/threads/top-landing-pages-for-different-types-of-traffic.13025/)
 -  27 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  27 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
 -  27 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  27 [Cpa.rip Ad Library Helper Extension &quot;Free&quot;](https://afflift.com/f/threads/cpa-rip-ad-library-helper-extension-free.11700/)
 -  27 [Adport launches SDK!](https://afflift.com/f/threads/adport-launches-sdk.13194/)
 -  27 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
--  27 [22 useful websites for making advertising creatives](https://afflift.com/f/threads/22-useful-websites-for-making-advertising-creatives.13103/)
--  27 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  27 [Salvador’s Guide to Amazing Creatives in mVAS 🎨](https://afflift.com/f/threads/salvador%E2%80%99s-guide-to-amazing-creatives-in-mvas-%F0%9F%8E%A8.12553/)<!-- afflift:END -->
+-  27 [22 useful websites for making advertising creatives](https://afflift.com/f/threads/22-useful-websites-for-making-advertising-creatives.13103/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
