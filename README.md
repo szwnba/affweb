@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  27 [想转战Snapchat平台投广告？Snap投广有哪些注意事项？必看！](https://www.advertcn.com/thread-115137-1-1.html)
 -  26 [新人报道，收SODO或者BODIS或者SYSTEM1的账户](https://www.advertcn.com/thread-115133-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
