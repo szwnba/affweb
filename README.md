@@ -52,4 +52,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [你见过那只四处「威逼利诱」的猫头鹰吗？微小成就感如何成就多邻国](https://sspai.com/post/89013)
 -  27 [派早报：ICQ 将于 6 月关闭](https://sspai.com/post/89109)<!-- sspai:END -->
