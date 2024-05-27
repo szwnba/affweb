@@ -51,4 +51,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [派早报：ICQ 将于 6 月关闭](https://sspai.com/post/89109)
 -  26 [找不到好听的新歌？从这些地方扩充你的华语曲库](https://sspai.com/post/89093)<!-- sspai:END -->
