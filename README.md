@@ -38,9 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  28 [Affiliate.com: Supercharge Your Affiliate Profits](https://afflift.com/f/threads/affiliate-com-supercharge-your-affiliate-profits.13202/)
 -  28 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)
--  28 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  28 [legality of use of real news video snippets](https://afflift.com/f/threads/legality-of-use-of-real-news-video-snippets.13200/)
 -  28 [Copywriting Formulas](https://afflift.com/f/threads/copywriting-formulas.1460/)
 -  28 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
