@@ -36,6 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)
+-  28 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
+-  28 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
+-  28 [How to Get Approved by +90% of CPA Affiliate Networks](https://afflift.com/f/threads/how-to-get-approved-by-90-of-cpa-affiliate-networks.13198/)
 -  28 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  28 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
 -  28 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
@@ -43,11 +47,7 @@
 -  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  27 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  27 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
--  27 [Effective Budget Allocation on Facebook Accounts.](https://afflift.com/f/threads/effective-budget-allocation-on-facebook-accounts.13197/)
--  27 [No Traffic Estimator in PopAds?](https://afflift.com/f/threads/no-traffic-estimator-in-popads.13192/)
--  27 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
--  27 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
--  27 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)<!-- afflift:END -->
+-  27 [Effective Budget Allocation on Facebook Accounts.](https://afflift.com/f/threads/effective-budget-allocation-on-facebook-accounts.13197/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
