@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  28 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  27 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
@@ -46,8 +47,7 @@
 -  27 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
 -  27 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)
 -  27 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
--  27 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
--  27 [WIN PS5 AT THE I-CON GIVEAWAY BY ONCLICKA ADVERTISING NETWORK!](https://afflift.com/f/threads/win-ps5-at-the-i-con-giveaway-by-onclicka-advertising-network.13196/)<!-- afflift:END -->
+-  27 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
