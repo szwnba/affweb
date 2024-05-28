@@ -54,5 +54,4 @@
 -  28 [为了缩短批量处理工作时长，我做了一款 Figma 插件](https://sspai.com/post/89084)
 -  28 [派早报：荣耀发布 200 系列新机，夏普小米签订专利交叉许可协议等](https://sspai.com/post/89139)
 -  27 [派评 | 近期值得关注的 App](https://sspai.com/post/89134)
--  27 [TA 有好物 | 夏天到来快乐吃冰，来试试一拉就出的「懒人冰格」](https://sspai.com/post/67455)
--  27 [自力更生 | 守护一方赛博净土，我的自建服务思路分享](https://sspai.com/post/88959)<!-- sspai:END -->
+-  27 [TA 有好物 | 夏天到来快乐吃冰，来试试一拉就出的「懒人冰格」](https://sspai.com/post/67455)<!-- sspai:END -->
