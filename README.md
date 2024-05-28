@@ -52,8 +52,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  28 [派早报：荣耀发布 200 系列新机，夏普小米签订专利交叉许可协议等](https://sspai.com/post/89139)
 -  27 [派评 | 近期值得关注的 App](https://sspai.com/post/89134)
 -  27 [TA 有好物 | 夏天到来快乐吃冰，来试试一拉就出的「懒人冰格」](https://sspai.com/post/67455)
 -  27 [自力更生 | 守护一方赛博净土，我的自建服务思路分享](https://sspai.com/post/88959)
--  27 [你见过那只四处「威逼利诱」的猫头鹰吗？微小成就感如何成就多邻国](https://sspai.com/post/89013)
--  27 [派早报：ICQ 将于 6 月关闭](https://sspai.com/post/89109)<!-- sspai:END -->
+-  27 [你见过那只四处「威逼利诱」的猫头鹰吗？微小成就感如何成就多邻国](https://sspai.com/post/89013)<!-- sspai:END -->
