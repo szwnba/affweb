@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  28 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
 -  28 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  28 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
@@ -46,8 +47,7 @@
 -  27 [No Traffic Estimator in PopAds?](https://afflift.com/f/threads/no-traffic-estimator-in-popads.13192/)
 -  27 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
 -  27 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
--  27 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)
--  27 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)<!-- afflift:END -->
+-  27 [Juddy.biz](https://afflift.com/f/threads/juddy-biz.12533/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
