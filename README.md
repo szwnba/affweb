@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  28 [🌿Innovative Extracts Affiliate Program🌿Earn 40% Commission!](https://afflift.com/f/threads/%F0%9F%8C%BFinnovative-extracts-affiliate-program%F0%9F%8C%BFearn-40-commission.13117/)
 -  28 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
 -  28 [How to Get Approved by +90% of CPA Affiliate Networks](https://afflift.com/f/threads/how-to-get-approved-by-90-of-cpa-affiliate-networks.13198/)
@@ -48,8 +49,7 @@
 -  28 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
 -  28 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  28 [Rollerads Push has transformed my push revenue from less than $100 to more than $200 a DAY !](https://afflift.com/f/threads/rollerads-push-has-transformed-my-push-revenue-from-less-than-100-to-more-than-200-a-day.12598/)
--  28 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)
--  28 [Top Landing Pages for Different Types of Traffic](https://afflift.com/f/threads/top-landing-pages-for-different-types-of-traffic.13025/)<!-- afflift:END -->
+-  28 [✅ Dolphin{anty} - a modern antidetect browser! -❗️10 free profiles for everyone❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin-anty-a-modern-antidetect-browser-%E2%9D%97%EF%B8%8F10-free-profiles-for-everyone%E2%9D%97%EF%B8%8F.7310/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
