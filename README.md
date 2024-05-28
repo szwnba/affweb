@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
+-  28 [The countdown begins! Geozo will reveal the true performance of native ads for traffic monetization](https://afflift.com/f/threads/the-countdown-begins-geozo-will-reveal-the-true-performance-of-native-ads-for-traffic-monetization.13199/)
 -  28 [Geozo — International Platform for Native Advertising](https://afflift.com/f/threads/geozo-%E2%80%94-international-platform-for-native-advertising.12082/)
 -  28 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
 -  28 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
@@ -45,9 +47,7 @@
 -  28 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  28 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  27 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  27 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
--  27 [Effective Budget Allocation on Facebook Accounts.](https://afflift.com/f/threads/effective-budget-allocation-on-facebook-accounts.13197/)<!-- afflift:END -->
+-  27 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
