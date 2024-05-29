@@ -45,6 +45,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  29 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  29 [CyberRank - Master Follow Thread &lpar;POP&#39;s&rpar;](https://afflift.com/f/threads/cyberrank-master-follow-thread-pops.13186/)
 -  29 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)
@@ -55,8 +56,7 @@
 -  29 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
 -  28 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
 -  28 [Interview with a Pro Affiliate: DEADZ](https://afflift.com/f/threads/interview-with-a-pro-affiliate-deadz.7608/)
--  28 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  28 [legality of use of real news video snippets](https://afflift.com/f/threads/legality-of-use-of-real-news-video-snippets.13200/)<!-- afflift:END -->
+-  28 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
