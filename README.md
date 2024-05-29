@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  14 [OpenAI正式发布GPT-4o模型，所有用户可免费使用！](https://51.ruyo.net/18663.html)<!-- ruyo:END -->
+-  29 [Google Cloud通过Vertex AI获取150美元赠金，有效期3个月](https://51.ruyo.net/18673.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
