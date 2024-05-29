@@ -62,6 +62,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [WWDC24 派对之夜：四城四场线下活动，来与我们一起看 Apple 发布会](https://sspai.com/post/89180)
 -  29 [自力更生 | 如何压榨 24 小时工作的 NAS](https://sspai.com/post/89049)
 -  29 [派早报：腾讯应用宝与 Microsoft Store 达成合作等](https://sspai.com/post/89166)
 -  28 [社区速递 046 | 龙珠大冒险、作者的新玩意以及派友在用的导航](https://sspai.com/post/89150)<!-- sspai:END -->
