@@ -62,5 +62,4 @@
 <!-- sspai:START -->
 -  29 [自力更生 | 如何压榨 24 小时工作的 NAS](https://sspai.com/post/89049)
 -  29 [派早报：腾讯应用宝与 Microsoft Store 达成合作等](https://sspai.com/post/89166)
--  28 [社区速递 046 | 龙珠大冒险、作者的新玩意以及派友在用的导航](https://sspai.com/post/89150)
--  28 [从零到终点线：我如何跑完人生第一场马拉松](https://sspai.com/post/89067)<!-- sspai:END -->
+-  28 [社区速递 046 | 龙珠大冒险、作者的新玩意以及派友在用的导航](https://sspai.com/post/89150)<!-- sspai:END -->
