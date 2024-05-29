@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)
 -  29 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  29 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)
 -  29 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
@@ -47,7 +48,6 @@
 -  28 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  28 [legality of use of real news video snippets](https://afflift.com/f/threads/legality-of-use-of-real-news-video-snippets.13200/)
 -  28 [Affiliate.com: Supercharge Your Affiliate Profits](https://afflift.com/f/threads/affiliate-com-supercharge-your-affiliate-profits.13202/)
--  28 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)
 -  28 [Copywriting Formulas](https://afflift.com/f/threads/copywriting-formulas.1460/)
 -  28 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  28 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
