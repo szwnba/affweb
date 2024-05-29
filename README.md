@@ -45,6 +45,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  29 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  29 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
 -  29 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)
 -  29 [It&#39;s Valentine&#39;s Day in Brazil: Top 7 Affiliate Programs for Maximum Earnings](https://afflift.com/f/threads/its-valentines-day-in-brazil-top-7-affiliate-programs-for-maximum-earnings.13204/)
@@ -54,9 +56,7 @@
 -  29 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
 -  29 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  29 [CyberRank - Master Follow Thread &lpar;POP&#39;s&rpar;](https://afflift.com/f/threads/cyberrank-master-follow-thread-pops.13186/)
--  29 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  29 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  29 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)<!-- afflift:END -->
+-  29 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
