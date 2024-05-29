@@ -21,7 +21,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  17 [注册popads时的问题](https://www.advertcn.com/thread-115034-1-1.html)<!-- advertcn2:END -->
+-  29 [Media Buy 40天新手教程](https://www.advertcn.com/thread-115158-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
