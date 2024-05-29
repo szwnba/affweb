@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  27 [想转战Snapchat平台投广告？Snap投广有哪些注意事项？必看！](https://www.advertcn.com/thread-115137-1-1.html)<!-- advertcn1:END -->
+-  29 [节日来临！TikTok营销怎么做？5种优秀案例速看！](https://www.advertcn.com/thread-115159-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
