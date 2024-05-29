@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [派早报：腾讯应用宝与 Microsoft Store 达成合作等](https://sspai.com/post/89166)
 -  28 [社区速递 046 | 龙珠大冒险、作者的新玩意以及派友在用的导航](https://sspai.com/post/89150)
 -  28 [从零到终点线：我如何跑完人生第一场马拉松](https://sspai.com/post/89067)
 -  28 [为了缩短批量处理工作时长，我做了一款 Figma 插件](https://sspai.com/post/89084)<!-- sspai:END -->
