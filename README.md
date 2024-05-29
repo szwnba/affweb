@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  29 [新人报道](https://www.advertcn.com/thread-115164-1-1.html)
 -  29 [做Facebook广告，我有两不投！](https://www.advertcn.com/thread-115160-1-1.html)
 -  29 [节日来临！TikTok营销怎么做？5种优秀案例速看！](https://www.advertcn.com/thread-115159-1-1.html)<!-- advertcn1:END -->
 
