@@ -44,6 +44,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [It&#39;s Valentine&#39;s Day in Brazil: Top 7 Affiliate Programs for Maximum Earnings](https://afflift.com/f/threads/its-valentines-day-in-brazil-top-7-affiliate-programs-for-maximum-earnings.13204/)
 -  29 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  29 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
 -  29 [Online Dating Kings / imaXcash - in-house Dating Offers in 30+ Countries!](https://afflift.com/f/threads/online-dating-kings-imaxcash-in-house-dating-offers-in-30-countries.12847/)
@@ -54,8 +55,7 @@
 -  29 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  29 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  29 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
--  29 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  29 [Looking for Purelander alternative](https://afflift.com/f/threads/looking-for-purelander-alternative.13076/)<!-- afflift:END -->
+-  29 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
