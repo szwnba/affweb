@@ -44,6 +44,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
+-  29 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
 -  29 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  29 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  29 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)
@@ -53,9 +55,7 @@
 -  29 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)
 -  29 [It&#39;s Valentine&#39;s Day in Brazil: Top 7 Affiliate Programs for Maximum Earnings](https://afflift.com/f/threads/its-valentines-day-in-brazil-top-7-affiliate-programs-for-maximum-earnings.13204/)
 -  29 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  29 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
--  29 [Online Dating Kings / imaXcash - in-house Dating Offers in 30+ Countries!](https://afflift.com/f/threads/online-dating-kings-imaxcash-in-house-dating-offers-in-30-countries.12847/)
--  29 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)<!-- afflift:END -->
+-  29 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
