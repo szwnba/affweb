@@ -54,5 +54,4 @@
 <!-- sspai:START -->
 -  30 [本月玩什么 | Lorelei and the Laser Eyes、动物井、印蒂卡、地狱之刃 2](https://sspai.com/post/89216)
 -  30 [为了能让老婆看上带中文字幕的俄剧，我做了一个产品](https://sspai.com/post/88291)
--  30 [派早报：Apple 发布 WWDC 邀请函、《使命召唤 21》将加入 XGP 等](https://sspai.com/post/89208)
--  29 [爱上深夜的便利港湾：9 位少数派的便利店好物与故事](https://sspai.com/post/89163)<!-- sspai:END -->
+-  30 [派早报：Apple 发布 WWDC 邀请函、《使命召唤 21》将加入 XGP 等](https://sspai.com/post/89208)<!-- sspai:END -->
