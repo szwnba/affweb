@@ -37,9 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
+-  30 [Invoices for accounting](https://afflift.com/f/threads/invoices-for-accounting.13208/)
 -  30 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  30 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  30 [Invoices for accounting](https://afflift.com/f/threads/invoices-for-accounting.13208/)
 -  30 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
 -  30 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)
 -  30 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
@@ -47,8 +48,7 @@
 -  30 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
 -  30 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
 -  30 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
--  30 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
--  30 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)<!-- afflift:END -->
+-  30 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
