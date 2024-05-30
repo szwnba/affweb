@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)
+-  30 [Invoices for accounting](https://afflift.com/f/threads/invoices-for-accounting.13208/)
 -  30 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
+-  30 [Greetings from Germany](https://afflift.com/f/threads/greetings-from-germany.13210/)
 -  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  30 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  30 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  30 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  30 [Invoices for accounting](https://afflift.com/f/threads/invoices-for-accounting.13208/)
 -  30 [A Winning Affiliate Landing Page For Dating Vertical](https://afflift.com/f/threads/a-winning-affiliate-landing-page-for-dating-vertical.13026/)
 -  30 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
 -  30 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  30 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
--  30 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  30 [PropellerAds Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/propellerads-promo-codes-may-2024.13116/)<!-- afflift:END -->
+-  30 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
