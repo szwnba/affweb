@@ -38,8 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  30 [💥 All you need to know about SEO Clusters 💥](https://afflift.com/f/threads/%F0%9F%92%A5-all-you-need-to-know-about-seo-clusters-%F0%9F%92%A5.12779/)
 -  30 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)
+-  30 [💥 All you need to know about SEO Clusters 💥](https://afflift.com/f/threads/%F0%9F%92%A5-all-you-need-to-know-about-seo-clusters-%F0%9F%92%A5.12779/)
 -  30 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
 -  30 [Greetings from Germany](https://afflift.com/f/threads/greetings-from-germany.13210/)
 -  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
