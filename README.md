@@ -18,9 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  30 [跨境用户信息挖掘可以利用哪些工具？](https://www.advertcn.com/thread-115182-1-1.html)
--  30 [TikTok账号不涨粉？成交率为什么这么低？快来找原因！](https://www.advertcn.com/thread-115181-1-1.html)
--  29 [自有链接寻优质海外H5流量](https://www.advertcn.com/thread-115171-1-1.html)
--  29 [想打造跨境独立站？注册的公司有什么要求？](https://www.advertcn.com/thread-115166-1-1.html)<!-- advertcn1:END -->
+-  29 [自有链接寻优质海外H5流量](https://www.advertcn.com/thread-115171-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
