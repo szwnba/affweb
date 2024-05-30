@@ -17,8 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  30 [跨境用户信息挖掘可以利用哪些工具？](https://www.advertcn.com/thread-115182-1-1.html)
--  29 [自有链接寻优质海外H5流量](https://www.advertcn.com/thread-115171-1-1.html)<!-- advertcn1:END -->
+-  30 [免费好用的10款Shopify插件，优化你的电商体验！](https://www.advertcn.com/thread-115185-1-1.html)
+-  30 [跨境用户信息挖掘可以利用哪些工具？](https://www.advertcn.com/thread-115182-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
