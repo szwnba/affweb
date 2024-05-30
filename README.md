@@ -13,8 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  30 [免费注册US.KG域名支持接入CF，有效期1年，可免费延期](https://51.ruyo.net/18675.html)
--  29 [Google Cloud通过Vertex AI获取150美元赠金，有效期3个月](https://51.ruyo.net/18673.html)<!-- ruyo:END -->
+-  30 [免费注册US.KG域名支持接入CF，有效期1年，可免费延期](https://51.ruyo.net/18675.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
