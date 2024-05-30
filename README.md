@@ -62,5 +62,4 @@
 <!-- sspai:START -->
 -  29 [爱上深夜的便利港湾：9 位少数派的便利店好物与故事](https://sspai.com/post/89163)
 -  29 [WWDC24 派对之夜：四城四场线下活动，来与我们一起看 Apple 发布会](https://sspai.com/post/89180)
--  29 [自力更生 | 如何压榨 24 小时工作的 NAS](https://sspai.com/post/89049)
--  29 [派早报：腾讯应用宝与 Microsoft Store 达成合作等](https://sspai.com/post/89166)<!-- sspai:END -->
+-  29 [自力更生 | 如何压榨 24 小时工作的 NAS](https://sspai.com/post/89049)<!-- sspai:END -->
