@@ -18,8 +18,6 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  29 [tinder老号1-10年（@cc11300，V：EE10000888，Q：466422311）](https://www.advertcn.com/thread-115173-1-1.html)
--  29 [新人报道](https://www.advertcn.com/thread-115172-1-1.html)
 -  29 [自有链接寻优质海外H5流量](https://www.advertcn.com/thread-115171-1-1.html)
 -  29 [想打造跨境独立站？注册的公司有什么要求？](https://www.advertcn.com/thread-115166-1-1.html)
 -  29 [新人报道](https://www.advertcn.com/thread-115164-1-1.html)
