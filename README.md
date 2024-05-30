@@ -21,8 +21,7 @@
 -  29 [自有链接寻优质海外H5流量](https://www.advertcn.com/thread-115171-1-1.html)
 -  29 [想打造跨境独立站？注册的公司有什么要求？](https://www.advertcn.com/thread-115166-1-1.html)
 -  29 [新人报道](https://www.advertcn.com/thread-115164-1-1.html)
--  29 [做Facebook广告，我有两不投！](https://www.advertcn.com/thread-115160-1-1.html)
--  29 [节日来临！TikTok营销怎么做？5种优秀案例速看！](https://www.advertcn.com/thread-115159-1-1.html)<!-- advertcn1:END -->
+-  29 [做Facebook广告，我有两不投！](https://www.advertcn.com/thread-115160-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
