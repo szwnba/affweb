@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Invoices for accounting](https://afflift.com/f/threads/invoices-for-accounting.13208/)
+-  30 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
+-  30 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
+-  30 [Which affiliate network has better sweepstakes Offers?](https://afflift.com/f/threads/which-affiliate-network-has-better-sweepstakes-offers.12197/)
 -  30 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)
 -  30 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  30 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  30 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  30 [Invoices for accounting](https://afflift.com/f/threads/invoices-for-accounting.13208/)
 -  30 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
 -  30 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  30 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  30 [legality of use of real news video snippets](https://afflift.com/f/threads/legality-of-use-of-real-news-video-snippets.13200/)
--  30 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
--  30 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  30 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)<!-- afflift:END -->
+-  30 [legality of use of real news video snippets](https://afflift.com/f/threads/legality-of-use-of-real-news-video-snippets.13200/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
