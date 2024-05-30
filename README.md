@@ -38,11 +38,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Greetings from Germany](https://afflift.com/f/threads/greetings-from-germany.13210/)
 -  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
 -  30 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)
 -  30 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
 -  30 [Invoices for accounting](https://afflift.com/f/threads/invoices-for-accounting.13208/)
--  30 [Greetings from Germany](https://afflift.com/f/threads/greetings-from-germany.13210/)
 -  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  30 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  30 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
