@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
+-  31 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  31 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
 -  31 [Greetings from Germany](https://afflift.com/f/threads/greetings-from-germany.13210/)
 -  31 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
@@ -46,9 +48,7 @@
 -  31 [Isn&#39;t there a computer like the MacBook Air?](https://afflift.com/f/threads/isnt-there-a-computer-like-the-macbook-air.13211/)
 -  31 [Get unlimited Ad Creatives with AdWall.io &quot;Free&quot;](https://afflift.com/f/threads/get-unlimited-ad-creatives-with-adwall-io-free.13217/)
 -  31 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
--  31 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)
--  31 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  31 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)<!-- afflift:END -->
+-  31 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
