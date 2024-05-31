@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Seeking FB/ Bing Wisdom](https://afflift.com/f/threads/seeking-fb-bing-wisdom.13214/)
 -  31 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
 -  31 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
 -  31 [Isn&#39;t there a computer like the MacBook Air?](https://afflift.com/f/threads/isnt-there-a-computer-like-the-macbook-air.13211/)
@@ -48,8 +49,7 @@
 -  30 [💥 All you need to know about SEO Clusters 💥](https://afflift.com/f/threads/%F0%9F%92%A5-all-you-need-to-know-about-seo-clusters-%F0%9F%92%A5.12779/)
 -  30 [Greetings from Germany](https://afflift.com/f/threads/greetings-from-germany.13210/)
 -  30 [Here we back ☀️ How to run Facebook ads + cpa +100% ROI](https://afflift.com/f/threads/here-we-back-%E2%98%80%EF%B8%8F-how-to-run-facebook-ads-cpa-100-roi.12146/)
--  30 [Invoices for accounting](https://afflift.com/f/threads/invoices-for-accounting.13208/)
--  30 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  30 [Invoices for accounting](https://afflift.com/f/threads/invoices-for-accounting.13208/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
