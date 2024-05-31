@@ -37,11 +37,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
 -  31 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  31 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  31 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
 -  31 [Greetings from Germany](https://afflift.com/f/threads/greetings-from-germany.13210/)
--  31 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
 -  31 [Maximizing Affiliate Marketing Success: Facebook vs Ad Networks.](https://afflift.com/f/threads/maximizing-affiliate-marketing-success-facebook-vs-ad-networks.13218/)
 -  31 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  31 [Seeking FB/ Bing Wisdom](https://afflift.com/f/threads/seeking-fb-bing-wisdom.13214/)
