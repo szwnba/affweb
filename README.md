@@ -52,6 +52,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  31 [我的 AI 内容总结使用心得：用什么、何时用与怎么用](https://sspai.com/post/88530)
 -  31 [派早报：Fitbit 发布 Ace LTE 儿童手表等](https://sspai.com/post/89242)
 -  30 [新玩意 184｜少数派的编辑们最近买了啥？](https://sspai.com/post/89223)
 -  30 [本月玩什么 | Lorelei and the Laser Eyes、动物井、印蒂卡、地狱之刃 2](https://sspai.com/post/89216)<!-- sspai:END -->
