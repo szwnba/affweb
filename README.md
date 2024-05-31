@@ -37,6 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)
+-  31 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
+-  31 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  31 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
 -  31 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  31 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
@@ -45,10 +48,7 @@
 -  31 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
 -  31 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
 -  31 [Greetings from Germany](https://afflift.com/f/threads/greetings-from-germany.13210/)
--  31 [Doubts regarding Traffic Source Postback URL set up in Clickflare Platform.](https://afflift.com/f/threads/doubts-regarding-traffic-source-postback-url-set-up-in-clickflare-platform.13216/)
--  31 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
--  31 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  31 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)<!-- afflift:END -->
+-  31 [Doubts regarding Traffic Source Postback URL set up in Clickflare Platform.](https://afflift.com/f/threads/doubts-regarding-traffic-source-postback-url-set-up-in-clickflare-platform.13216/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
