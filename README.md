@@ -37,9 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  31 [Doubts regarding Traffic Source Postback URL set up in Clickflare Platform.](https://afflift.com/f/threads/doubts-regarding-traffic-source-postback-url-set-up-in-clickflare-platform.13216/)
+-  31 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
 -  31 [Google Adx Arbitrage by push &lpar;100%roi&rpar;](https://afflift.com/f/threads/google-adx-arbitrage-by-push-100-roi.12165/)
 -  31 [Seeking FB/ Bing Wisdom](https://afflift.com/f/threads/seeking-fb-bing-wisdom.13214/)
--  31 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
 -  31 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  31 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
 -  31 [Adsterra Promo Codes &lpar;May 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-may-2024.13100/)
@@ -47,8 +48,7 @@
 -  30 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  30 [Maximize Your Profits with LinksTest.com - A Must-Try Tool for Affiliates!](https://afflift.com/f/threads/maximize-your-profits-with-linkstest-com-a-must-try-tool-for-affiliates.13191/)
 -  30 [Hadomi vs. Zuckerberg: - Facebook Ads Sweepstakes - #Contest Entry](https://afflift.com/f/threads/hadomi-vs-zuckerberg-facebook-ads-sweepstakes-contest-entry.12846/)
--  30 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)
--  30 [💥 All you need to know about SEO Clusters 💥](https://afflift.com/f/threads/%F0%9F%92%A5-all-you-need-to-know-about-seo-clusters-%F0%9F%92%A5.12779/)<!-- afflift:END -->
+-  30 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
