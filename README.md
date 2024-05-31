@@ -54,5 +54,4 @@
 <!-- sspai:START -->
 -  31 [派早报：Fitbit 发布 Ace LTE 儿童手表等](https://sspai.com/post/89242)
 -  30 [新玩意 184｜少数派的编辑们最近买了啥？](https://sspai.com/post/89223)
--  30 [本月玩什么 | Lorelei and the Laser Eyes、动物井、印蒂卡、地狱之刃 2](https://sspai.com/post/89216)
--  30 [为了能让老婆看上带中文字幕的俄剧，我做了一个产品](https://sspai.com/post/88291)<!-- sspai:END -->
+-  30 [本月玩什么 | Lorelei and the Laser Eyes、动物井、印蒂卡、地狱之刃 2](https://sspai.com/post/89216)<!-- sspai:END -->
