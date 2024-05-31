@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  31 [境卖家必看：Facebook购物季，不同预算下都有什么广告策略？](https://www.advertcn.com/thread-115191-1-1.html)
--  30 [新人报道](https://www.advertcn.com/thread-115190-1-1.html)
--  30 [免费好用的10款Shopify插件，优化你的电商体验！](https://www.advertcn.com/thread-115185-1-1.html)<!-- advertcn1:END -->
+-  30 [新人报道](https://www.advertcn.com/thread-115190-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
