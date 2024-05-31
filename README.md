@@ -54,5 +54,4 @@
 <!-- sspai:START -->
 -  31 [错过一次再等半年，618 主流相机选购不完全攻略](https://sspai.com/post/89245)
 -  31 [我的 AI 内容总结使用心得：用什么、何时用与怎么用](https://sspai.com/post/88530)
--  31 [派早报：Fitbit 发布 Ace LTE 儿童手表等](https://sspai.com/post/89242)
--  30 [新玩意 184｜少数派的编辑们最近买了啥？](https://sspai.com/post/89223)<!-- sspai:END -->
+-  31 [派早报：Fitbit 发布 Ace LTE 儿童手表等](https://sspai.com/post/89242)<!-- sspai:END -->
