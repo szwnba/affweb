@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  30 [免费注册US.KG域名支持接入CF，有效期1年，可免费延期](https://51.ruyo.net/18675.html)<!-- ruyo:END -->
+-  31 [VMware 个人用户免费了, 但下载软件成了难题？](https://51.ruyo.net/18669.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
