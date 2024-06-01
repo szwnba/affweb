@@ -53,5 +53,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  01 [一年买两次，一次用半年：618 护肤购物不完全指南](https://sspai.com/post/89219)
--  31 [本周看什么 | 最近值得一看的一大篓作品](https://sspai.com/post/89259)
--  31 [追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel](https://sspai.com/prime/story/sv-anecdotes-09)<!-- sspai:END -->
+-  31 [本周看什么 | 最近值得一看的一大篓作品](https://sspai.com/post/89259)<!-- sspai:END -->
