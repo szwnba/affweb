@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  01 [请教，现在Payoneer收到的美元，怎么汇回国内？](https://www.advertcn.com/thread-115199-1-1.html)
--  31 [911s5 出售代理 IP、收入 7.16 亿元：被捕](https://www.advertcn.com/thread-115195-1-1.html)<!-- advertcn3:END -->
+-  01 [请教，现在Payoneer收到的美元，怎么汇回国内？](https://www.advertcn.com/thread-115199-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
