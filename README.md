@@ -37,8 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
 -  01 [Maxbounty tracklink](https://afflift.com/f/threads/maxbounty-tracklink.13219/)
--  31 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
 -  31 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  31 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  31 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
