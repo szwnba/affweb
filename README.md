@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [[BINOM] - Offer not opening when redirected via landing page?](https://afflift.com/f/threads/binom-offer-not-opening-when-redirected-via-landing-page.13223/)
 -  01 [❤️ I&#39;m Impressed with Maxconv Tracker!](https://afflift.com/f/threads/%E2%9D%A4%EF%B8%8F-im-impressed-with-maxconv-tracker.13221/)
 -  01 [Affiliate.com: Supercharge Your Affiliate Profits](https://afflift.com/f/threads/affiliate-com-supercharge-your-affiliate-profits.13202/)
 -  01 [When I use Zeropark, my account gets suspended!](https://afflift.com/f/threads/when-i-use-zeropark-my-account-gets-suspended.13222/)
@@ -46,8 +47,7 @@
 -  01 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
 -  01 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  01 [Maxbounty tracklink](https://afflift.com/f/threads/maxbounty-tracklink.13219/)
--  01 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
--  01 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)<!-- afflift:END -->
+-  01 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
