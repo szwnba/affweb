@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
+-  01 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  01 [Affiliate World Conference &lpar;My Experience + Tips + Why You Should Join!&rpar;](https://afflift.com/f/threads/affiliate-world-conference-my-experience-tips-why-you-should-join.13220/)
 -  01 [Maxbounty tracklink](https://afflift.com/f/threads/maxbounty-tracklink.13219/)
 -  01 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
@@ -46,9 +48,7 @@
 -  31 [Greetings from Germany](https://afflift.com/f/threads/greetings-from-germany.13210/)
 -  31 [Maximizing Affiliate Marketing Success: Facebook vs Ad Networks.](https://afflift.com/f/threads/maximizing-affiliate-marketing-success-facebook-vs-ad-networks.13218/)
 -  31 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
--  31 [Seeking FB/ Bing Wisdom](https://afflift.com/f/threads/seeking-fb-bing-wisdom.13214/)
--  31 [Isn&#39;t there a computer like the MacBook Air?](https://afflift.com/f/threads/isnt-there-a-computer-like-the-macbook-air.13211/)
--  31 [Get unlimited Ad Creatives with AdWall.io &quot;Free&quot;](https://afflift.com/f/threads/get-unlimited-ad-creatives-with-adwall-io-free.13217/)<!-- afflift:END -->
+-  31 [Seeking FB/ Bing Wisdom](https://afflift.com/f/threads/seeking-fb-bing-wisdom.13214/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
