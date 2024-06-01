@@ -37,6 +37,7 @@
 ### afflift
 <!-- afflift:START -->
 -  01 [Propellerads Promote Code](https://afflift.com/f/threads/propellerads-promote-code.13215/)
+-  01 [Affiliate World Conference &lpar;My Experience + Tips + Why You Should Join!&rpar;](https://afflift.com/f/threads/affiliate-world-conference-my-experience-tips-why-you-should-join.13220/)
 -  01 [Maxbounty tracklink](https://afflift.com/f/threads/maxbounty-tracklink.13219/)
 -  31 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  31 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
@@ -46,8 +47,7 @@
 -  31 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  31 [Seeking FB/ Bing Wisdom](https://afflift.com/f/threads/seeking-fb-bing-wisdom.13214/)
 -  31 [Isn&#39;t there a computer like the MacBook Air?](https://afflift.com/f/threads/isnt-there-a-computer-like-the-macbook-air.13211/)
--  31 [Get unlimited Ad Creatives with AdWall.io &quot;Free&quot;](https://afflift.com/f/threads/get-unlimited-ad-creatives-with-adwall-io-free.13217/)
--  31 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)<!-- afflift:END -->
+-  31 [Get unlimited Ad Creatives with AdWall.io &quot;Free&quot;](https://afflift.com/f/threads/get-unlimited-ad-creatives-with-adwall-io-free.13217/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
