@@ -52,5 +52,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  31 [本周看什么 | 最近值得一看的一大篓作品](https://sspai.com/post/89259)
--  31 [追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel](https://sspai.com/prime/story/sv-anecdotes-09)
--  31 [错过一次再等半年，618 主流相机选购不完全攻略](https://sspai.com/post/89245)<!-- sspai:END -->
+-  31 [追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel](https://sspai.com/prime/story/sv-anecdotes-09)<!-- sspai:END -->
