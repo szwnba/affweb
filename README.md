@@ -25,7 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  01 [请教，现在Payoneer收到的美元，怎么汇回国内？](https://www.advertcn.com/thread-115199-1-1.html)<!-- advertcn3:END -->
+-  02 [求高人指点，922 S5 这个代理软件是在国内不能用吗？需要....](https://www.advertcn.com/thread-115204-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
