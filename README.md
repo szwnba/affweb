@@ -36,9 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [[BINOM] - Offer not opening when redirected via landing page?](https://afflift.com/f/threads/binom-offer-not-opening-when-redirected-via-landing-page.13223/)
+-  02 [Top Pinterest Tips to Make +$50/Day](https://afflift.com/f/threads/top-pinterest-tips-to-make-50-day.13225/)
 -  02 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  02 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)
--  02 [Top Pinterest Tips to Make +$50/Day](https://afflift.com/f/threads/top-pinterest-tips-to-make-50-day.13225/)
 -  02 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  02 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  02 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
@@ -46,7 +47,6 @@
 -  02 [Seeking FB/ Bing Wisdom](https://afflift.com/f/threads/seeking-fb-bing-wisdom.13214/)
 -  02 [Facebook](https://afflift.com/f/threads/facebook.13224/)
 -  02 [When I use Zeropark, my account gets suspended!](https://afflift.com/f/threads/when-i-use-zeropark-my-account-gets-suspended.13222/)
--  02 [[BINOM] - Offer not opening when redirected via landing page?](https://afflift.com/f/threads/binom-offer-not-opening-when-redirected-via-landing-page.13223/)
 -  02 [Affiliate World Conference &lpar;My Experience + Tips + Why You Should Join!&rpar;](https://afflift.com/f/threads/affiliate-world-conference-my-experience-tips-why-you-should-join.13220/)<!-- afflift:END -->
 
 ### 少数派
