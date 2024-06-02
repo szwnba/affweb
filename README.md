@@ -36,8 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [When I use Zeropark, my account gets suspended!](https://afflift.com/f/threads/when-i-use-zeropark-my-account-gets-suspended.13222/)
 -  02 [[BINOM] - Offer not opening when redirected via landing page?](https://afflift.com/f/threads/binom-offer-not-opening-when-redirected-via-landing-page.13223/)
+-  02 [When I use Zeropark, my account gets suspended!](https://afflift.com/f/threads/when-i-use-zeropark-my-account-gets-suspended.13222/)
 -  02 [Affiliate World Conference &lpar;My Experience + Tips + Why You Should Join!&rpar;](https://afflift.com/f/threads/affiliate-world-conference-my-experience-tips-why-you-should-join.13220/)
 -  01 [Interview with a Pro Affiliate: DEADZ](https://afflift.com/f/threads/interview-with-a-pro-affiliate-deadz.7608/)
 -  01 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
