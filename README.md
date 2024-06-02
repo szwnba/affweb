@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
+-  02 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)
 -  02 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)
 -  02 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  02 [Are some trackers blocked by adblock?](https://afflift.com/f/threads/are-some-trackers-blocked-by-adblock.13226/)
@@ -45,9 +47,7 @@
 -  02 [Doubts regarding Traffic Source Postback URL set up in Clickflare Platform.](https://afflift.com/f/threads/doubts-regarding-traffic-source-postback-url-set-up-in-clickflare-platform.13216/)
 -  02 [Amazon Merch On Demand Progress &amp; Mistake](https://afflift.com/f/threads/amazon-merch-on-demand-progress-mistake.10970/)
 -  02 [[BINOM] - Offer not opening when redirected via landing page?](https://afflift.com/f/threads/binom-offer-not-opening-when-redirected-via-landing-page.13223/)
--  02 [When I use Zeropark, my account gets suspended!](https://afflift.com/f/threads/when-i-use-zeropark-my-account-gets-suspended.13222/)
--  02 [Top Pinterest Tips to Make +$50/Day](https://afflift.com/f/threads/top-pinterest-tips-to-make-50-day.13225/)
--  02 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)<!-- afflift:END -->
+-  02 [When I use Zeropark, my account gets suspended!](https://afflift.com/f/threads/when-i-use-zeropark-my-account-gets-suspended.13222/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
