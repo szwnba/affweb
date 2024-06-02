@@ -36,6 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Get unlimited Ad Creatives with AdWall.io &quot;Free&quot;](https://afflift.com/f/threads/get-unlimited-ad-creatives-with-adwall-io-free.13217/)
+-  02 [Seeking FB/ Bing Wisdom](https://afflift.com/f/threads/seeking-fb-bing-wisdom.13214/)
+-  02 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
 -  02 [Facebook](https://afflift.com/f/threads/facebook.13224/)
 -  02 [Top Pinterest Tips to Make +$50/Day](https://afflift.com/f/threads/top-pinterest-tips-to-make-50-day.13225/)
 -  02 [When I use Zeropark, my account gets suspended!](https://afflift.com/f/threads/when-i-use-zeropark-my-account-gets-suspended.13222/)
@@ -44,10 +47,7 @@
 -  01 [Interview with a Pro Affiliate: DEADZ](https://afflift.com/f/threads/interview-with-a-pro-affiliate-deadz.7608/)
 -  01 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
 -  01 [❤️ I&#39;m Impressed with Maxconv Tracker!](https://afflift.com/f/threads/%E2%9D%A4%EF%B8%8F-im-impressed-with-maxconv-tracker.13221/)
--  01 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
--  01 [Affiliate.com: Supercharge Your Affiliate Profits](https://afflift.com/f/threads/affiliate-com-supercharge-your-affiliate-profits.13202/)
--  01 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
--  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)<!-- afflift:END -->
+-  01 [Affiliate.com: Supercharge Your Affiliate Profits](https://afflift.com/f/threads/affiliate-com-supercharge-your-affiliate-profits.13202/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
