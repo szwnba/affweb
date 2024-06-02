@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  02 [Are some trackers blocked by adblock?](https://afflift.com/f/threads/are-some-trackers-blocked-by-adblock.13226/)
 -  02 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)
 -  02 [Doubts regarding Traffic Source Postback URL set up in Clickflare Platform.](https://afflift.com/f/threads/doubts-regarding-traffic-source-postback-url-set-up-in-clickflare-platform.13216/)
@@ -46,8 +47,7 @@
 -  02 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  02 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
 -  02 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
--  02 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)
--  02 [Get unlimited Ad Creatives with AdWall.io &quot;Free&quot;](https://afflift.com/f/threads/get-unlimited-ad-creatives-with-adwall-io-free.13217/)<!-- afflift:END -->
+-  02 [Affiliate Delusion or My Redemption Arc? One GEO + Tons of F**kin&#39; Offers](https://afflift.com/f/threads/affiliate-delusion-or-my-redemption-arc-one-geo-tons-of-f-kin-offers.13035/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
