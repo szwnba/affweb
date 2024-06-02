@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  01 [一年买两次，一次用半年：618 护肤购物不完全指南](https://sspai.com/post/89219)<!-- sspai:END -->
+-  02 [陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)<!-- sspai:END -->
