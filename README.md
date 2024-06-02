@@ -36,8 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [[BINOM] - Offer not opening when redirected via landing page?](https://afflift.com/f/threads/binom-offer-not-opening-when-redirected-via-landing-page.13223/)
 -  02 [When I use Zeropark, my account gets suspended!](https://afflift.com/f/threads/when-i-use-zeropark-my-account-gets-suspended.13222/)
+-  02 [Facebook](https://afflift.com/f/threads/facebook.13224/)
+-  02 [[BINOM] - Offer not opening when redirected via landing page?](https://afflift.com/f/threads/binom-offer-not-opening-when-redirected-via-landing-page.13223/)
 -  02 [Affiliate World Conference &lpar;My Experience + Tips + Why You Should Join!&rpar;](https://afflift.com/f/threads/affiliate-world-conference-my-experience-tips-why-you-should-join.13220/)
 -  01 [Interview with a Pro Affiliate: DEADZ](https://afflift.com/f/threads/interview-with-a-pro-affiliate-deadz.7608/)
 -  01 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
@@ -46,8 +47,7 @@
 -  01 [Affiliate.com: Supercharge Your Affiliate Profits](https://afflift.com/f/threads/affiliate-com-supercharge-your-affiliate-profits.13202/)
 -  01 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
 -  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  01 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
--  01 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)<!-- afflift:END -->
+-  01 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
