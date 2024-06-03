@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
+-  03 [Skyrocket Your Traffic with iOS Calendar Push Format!](https://afflift.com/f/threads/skyrocket-your-traffic-with-ios-calendar-push-format.13229/)
 -  03 [How should I start with monetizer?](https://afflift.com/f/threads/how-should-i-start-with-monetizer.13228/)
 -  03 [Top Pinterest Tips to Make +$50/Day](https://afflift.com/f/threads/top-pinterest-tips-to-make-50-day.13225/)
 -  03 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
@@ -45,9 +47,7 @@
 -  02 [Hi Everyone, Andrew is here.](https://afflift.com/f/threads/hi-everyone-andrew-is-here.13206/)
 -  02 [Growing Instagram Theme Pages](https://afflift.com/f/threads/growing-instagram-theme-pages.12406/)
 -  02 [Are some trackers blocked by adblock?](https://afflift.com/f/threads/are-some-trackers-blocked-by-adblock.13226/)
--  02 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
--  02 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  02 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)<!-- afflift:END -->
+-  02 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
