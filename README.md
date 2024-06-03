@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [How do we keep our ad safe from spy tools?](https://afflift.com/f/threads/how-do-we-keep-our-ad-safe-from-spy-tools.13231/)
 -  03 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
 -  03 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
 -  03 [June Jackpot: Up to $1000 Cashback from Adsterra](https://afflift.com/f/threads/june-jackpot-up-to-1000-cashback-from-adsterra.13234/)
@@ -46,8 +47,7 @@
 -  03 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  03 [How should I start with monetizer?](https://afflift.com/f/threads/how-should-i-start-with-monetizer.13228/)
 -  03 [No Traffic Estimator in PopAds?](https://afflift.com/f/threads/no-traffic-estimator-in-popads.13192/)
--  03 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
--  03 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
+-  03 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
