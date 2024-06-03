@@ -51,6 +51,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境](https://sspai.com/post/89299)
 -  03 [自力更生 | 基于 Readeck 搭建个人稍后读与书签服务](https://sspai.com/post/89289)
--  03 [派早报：Napster 推出 25 周年](https://sspai.com/post/89306)
--  02 [陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)<!-- sspai:END -->
+-  03 [派早报：Napster 推出 25 周年](https://sspai.com/post/89306)<!-- sspai:END -->
