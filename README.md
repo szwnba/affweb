@@ -51,4 +51,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [派早报：Napster 推出 25 周年](https://sspai.com/post/89306)
 -  02 [陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/prime/story/training-guide-bosu-ball-vipr)<!-- sspai:END -->
