@@ -36,10 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Top Pinterest Tips to Make +$50/Day](https://afflift.com/f/threads/top-pinterest-tips-to-make-50-day.13225/)
 -  03 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  03 [Skyrocket Your Traffic with iOS Calendar Push Format!](https://afflift.com/f/threads/skyrocket-your-traffic-with-ios-calendar-push-format.13229/)
 -  03 [How should I start with monetizer?](https://afflift.com/f/threads/how-should-i-start-with-monetizer.13228/)
--  03 [Top Pinterest Tips to Make +$50/Day](https://afflift.com/f/threads/top-pinterest-tips-to-make-50-day.13225/)
 -  03 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  03 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
 -  02 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
