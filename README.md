@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)
--  03 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0.13233/)
--  03 [How do we keep our ad safe from spy tools?](https://afflift.com/f/threads/how-do-we-keep-our-ad-safe-from-spy-tools.13231/)
--  03 [Pin API offers for your Google, pop and push traffic.](https://afflift.com/f/threads/pin-api-offers-for-your-google-pop-and-push-traffic.13230/)
 -  03 [Are some trackers blocked by adblock?](https://afflift.com/f/threads/are-some-trackers-blocked-by-adblock.13226/)
+-  03 [How do we keep our ad safe from spy tools?](https://afflift.com/f/threads/how-do-we-keep-our-ad-safe-from-spy-tools.13231/)
+-  03 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)
+-  03 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
+-  03 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰 &lpar;Sponsored by Luke&rpar;](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0-sponsored-by-luke.13233/)
+-  03 [Top Pinterest Tips to Make +$50/Day](https://afflift.com/f/threads/top-pinterest-tips-to-make-50-day.13225/)
+-  03 [Pin API offers for your Google, pop and push traffic.](https://afflift.com/f/threads/pin-api-offers-for-your-google-pop-and-push-traffic.13230/)
 -  03 [How should I start with monetizer?](https://afflift.com/f/threads/how-should-i-start-with-monetizer.13228/)
 -  03 [Round Two: Exploring CPI Offers Again](https://afflift.com/f/threads/round-two-exploring-cpi-offers-again.13073/)
--  03 [Top Pinterest Tips to Make +$50/Day](https://afflift.com/f/threads/top-pinterest-tips-to-make-50-day.13225/)
 -  03 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  03 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
--  03 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
--  02 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)<!-- afflift:END -->
+-  03 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
