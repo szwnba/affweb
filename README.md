@@ -37,7 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [Skyrocket Your Traffic with iOS Calendar Push Format!](https://afflift.com/f/threads/skyrocket-your-traffic-with-ios-calendar-push-format.13229/)
+-  03 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)
+-  03 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0.13233/)
 -  03 [How do we keep our ad safe from spy tools?](https://afflift.com/f/threads/how-do-we-keep-our-ad-safe-from-spy-tools.13231/)
 -  03 [Pin API offers for your Google, pop and push traffic.](https://afflift.com/f/threads/pin-api-offers-for-your-google-pop-and-push-traffic.13230/)
 -  03 [Are some trackers blocked by adblock?](https://afflift.com/f/threads/are-some-trackers-blocked-by-adblock.13226/)
@@ -47,8 +48,7 @@
 -  03 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  03 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  03 [The Ultimate Search Arbitrage Bible [Free Download]](https://afflift.com/f/threads/the-ultimate-search-arbitrage-bible-free-download.10830/)
--  02 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)
--  02 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)<!-- afflift:END -->
+-  02 [&quot;Some Advice &lpar;For Beginners&rpar; Based On The First Steps I Took To Reach $XX,XXX/mo&quot; - DEADZ](https://afflift.com/f/threads/some-advice-for-beginners-based-on-the-first-steps-i-took-to-reach-xx-xxx-mo-deadz.2016/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
