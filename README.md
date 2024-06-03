@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  03 [STM有没合买的](https://www.advertcn.com/thread-115214-1-1.html)
 -  02 [求高人指点，922 S5 这个代理软件是在国内不能用吗？需要....](https://www.advertcn.com/thread-115204-1-1.html)<!-- advertcn3:END -->
 
 
