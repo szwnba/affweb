@@ -36,9 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)
 -  03 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
 -  03 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
--  03 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)
 -  03 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
 -  03 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  03 [OperaGX on PropellerAds traffic!](https://afflift.com/f/threads/operagx-on-propellerads-traffic.13213/)
