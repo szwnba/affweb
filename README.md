@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  04 [tiktok余额户转让](https://www.advertcn.com/thread-115227-1-1.html)
 -  04 [速看！！TikTok广告的出价策略应该怎么选择？](https://www.advertcn.com/thread-115224-1-1.html)
 -  04 [广告主必看！自8月1日起定位台湾用户的金融服务类广告必...](https://www.advertcn.com/thread-115218-1-1.html)<!-- advertcn3:END -->
 
