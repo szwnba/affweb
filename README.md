@@ -51,7 +51,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [[护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析](https://sspai.com/post/89315)
 -  04 [派早报：AMD 推出多款新处理器、亚马逊 Kindle 中国电子书店月底停止服务等](https://sspai.com/post/89336)
 -  03 [派评 | 近期值得关注的 App](https://sspai.com/post/89329)
--  03 [卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境](https://sspai.com/post/89299)
--  03 [自力更生 | 基于 Readeck 搭建个人稍后读与书签服务](https://sspai.com/post/89289)<!-- sspai:END -->
+-  03 [卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境](https://sspai.com/post/89299)<!-- sspai:END -->
