@@ -36,8 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
+-  04 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
 -  03 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)
--  03 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
 -  03 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  03 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
 -  03 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
@@ -46,8 +47,7 @@
 -  03 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
 -  03 [June Jackpot: Up to $1000 Cashback from Adsterra](https://afflift.com/f/threads/june-jackpot-up-to-1000-cashback-from-adsterra.13234/)
 -  03 [Namaste from Mumbai!](https://afflift.com/f/threads/namaste-from-mumbai.13207/)
--  03 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  03 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
