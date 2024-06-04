@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
 -  04 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
 -  04 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  04 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰 &lpar;Sponsored by Luke&rpar;](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0-sponsored-by-luke.13233/)
@@ -47,8 +48,7 @@
 -  03 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  03 [OperaGX on PropellerAds traffic!](https://afflift.com/f/threads/operagx-on-propellerads-traffic.13213/)
 -  03 [How do we keep our ad safe from spy tools?](https://afflift.com/f/threads/how-do-we-keep-our-ad-safe-from-spy-tools.13231/)
--  03 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
--  03 [June Jackpot: Up to $1000 Cashback from Adsterra](https://afflift.com/f/threads/june-jackpot-up-to-1000-cashback-from-adsterra.13234/)<!-- afflift:END -->
+-  03 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
