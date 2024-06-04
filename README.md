@@ -17,6 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  04 [迪拜经济繁荣腾飞5%！把握商机，企业注册正当时！](https://www.advertcn.com/thread-115221-1-1.html)
+-  04 [2024最新迪拜公司注册攻略](https://www.advertcn.com/thread-115220-1-1.html)
 -  04 [寻找网络防御公司合作](https://www.advertcn.com/thread-115216-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
