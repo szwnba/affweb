@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  31 [找一个大神FB代投日本gm](https://www.advertcn.com/thread-115196-1-1.html)<!-- advertcn1:END -->
+-  04 [寻找网络防御公司合作](https://www.advertcn.com/thread-115216-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
