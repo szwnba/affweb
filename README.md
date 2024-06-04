@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Adsterra&#39;s Categories](https://afflift.com/f/threads/adsterras-categories.13240/)
 -  04 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
 -  04 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
 -  04 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
@@ -50,8 +51,7 @@
 -  04 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰 &lpar;Sponsored by Luke&rpar;](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0-sponsored-by-luke.13233/)
 -  04 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)
 -  04 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  04 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  04 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)<!-- afflift:END -->
+-  04 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
