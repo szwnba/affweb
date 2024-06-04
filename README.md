@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
+-  04 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  04 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
+-  04 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
+-  04 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰 &lpar;Sponsored by Luke&rpar;](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0-sponsored-by-luke.13233/)
 -  04 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
 -  04 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  04 [Online Dating Kings / imaXcash - in-house Dating Offers in 30+ Countries!](https://afflift.com/f/threads/online-dating-kings-imaxcash-in-house-dating-offers-in-30-countries.12847/)
 -  04 [How do we keep our ad safe from spy tools?](https://afflift.com/f/threads/how-do-we-keep-our-ad-safe-from-spy-tools.13231/)
 -  04 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
 -  04 [💥 All you need to know about SEO Clusters 💥](https://afflift.com/f/threads/%F0%9F%92%A5-all-you-need-to-know-about-seo-clusters-%F0%9F%92%A5.12779/)
--  04 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  04 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
--  04 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
--  04 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰 &lpar;Sponsored by Luke&rpar;](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0-sponsored-by-luke.13233/)
--  04 [Maximize Your ROI with ROIads - A Comprehensive Overview &lpar;10% Bonus!&rpar;](https://afflift.com/f/threads/maximize-your-roi-with-roiads-a-comprehensive-overview-10-bonus.11259/)
--  04 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)<!-- afflift:END -->
+-  04 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
