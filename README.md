@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [Adsterra&#39;s Categories](https://afflift.com/f/threads/adsterras-categories.13240/)
--  04 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
 -  04 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
+-  04 [Anstrex+ Push *First Follow Along*](https://afflift.com/f/threads/anstrex-push-first-follow-along.13241/)
+-  04 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
+-  04 [Adsterra&#39;s Categories](https://afflift.com/f/threads/adsterras-categories.13240/)
+-  04 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  04 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  04 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  04 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
 -  04 [LOOKING 4 HELP TO SET UP API &lpar; DETAILS IN POST &rpar;](https://afflift.com/f/threads/looking-4-help-to-set-up-api-details-in-post.13239/)
 -  04 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
 -  04 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰 &lpar;Sponsored by Luke&rpar;](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0-sponsored-by-luke.13233/)
--  04 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)
--  04 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  04 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)<!-- afflift:END -->
+-  04 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
