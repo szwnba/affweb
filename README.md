@@ -41,17 +41,17 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [Don&#39;t make this mistake when testing new campaigns ❌](https://afflift.com/f/threads/dont-make-this-mistake-when-testing-new-campaigns-%E2%9D%8C.8560/)
 -  05 [Welcome to the Pay Per Call forum!](https://afflift.com/f/threads/welcome-to-the-pay-per-call-forum.13247/)
+-  05 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
+-  05 [Anstrex+ Push *First Follow Along*](https://afflift.com/f/threads/anstrex-push-first-follow-along.13241/)
+-  05 [$300profit/day what you think?](https://afflift.com/f/threads/300profit-day-what-you-think.13245/)
+-  05 [Don&#39;t make this mistake when testing new campaigns ❌](https://afflift.com/f/threads/dont-make-this-mistake-when-testing-new-campaigns-%E2%9D%8C.8560/)
 -  05 [SEO in nutra: how to get leads with the highest approve and minimal investment](https://afflift.com/f/threads/seo-in-nutra-how-to-get-leads-with-the-highest-approve-and-minimal-investment.13248/)
 -  05 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
--  05 [$300profit/day what you think?](https://afflift.com/f/threads/300profit-day-what-you-think.13245/)
 -  05 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  05 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  05 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)
 -  05 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  05 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
--  05 [Anstrex+ Push *First Follow Along*](https://afflift.com/f/threads/anstrex-push-first-follow-along.13241/)
 -  05 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
