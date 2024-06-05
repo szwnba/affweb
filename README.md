@@ -58,5 +58,4 @@
 -  05 [派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等](https://sspai.com/post/89360)
 -  04 [社区速递 047 | 在线CAD、作者新玩意以及派友们新关注的博主](https://sspai.com/post/89353)
 -  04 [618 想买鼠标，这些型号值得一看](https://sspai.com/post/89262)
--  04 [「移动的家」为什么需要更智能的车载香氛，他们说……](https://sspai.com/post/88605)
--  04 [[护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析](https://sspai.com/post/89315)<!-- sspai:END -->
+-  04 [「移动的家」为什么需要更智能的车载香氛，他们说……](https://sspai.com/post/88605)<!-- sspai:END -->
