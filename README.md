@@ -41,10 +41,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [$300profit/day what you think?](https://afflift.com/f/threads/300profit-day-what-you-think.13245/)
 -  05 [Welcome to the Pay Per Call forum!](https://afflift.com/f/threads/welcome-to-the-pay-per-call-forum.13247/)
 -  05 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  05 [Anstrex+ Push *First Follow Along*](https://afflift.com/f/threads/anstrex-push-first-follow-along.13241/)
--  05 [$300profit/day what you think?](https://afflift.com/f/threads/300profit-day-what-you-think.13245/)
 -  05 [Don&#39;t make this mistake when testing new campaigns ❌](https://afflift.com/f/threads/dont-make-this-mistake-when-testing-new-campaigns-%E2%9D%8C.8560/)
 -  05 [SEO in nutra: how to get leads with the highest approve and minimal investment](https://afflift.com/f/threads/seo-in-nutra-how-to-get-leads-with-the-highest-approve-and-minimal-investment.13248/)
 -  05 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
