@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [June Jackpot: Up to $1000 Cashback from Adsterra](https://afflift.com/f/threads/june-jackpot-up-to-1000-cashback-from-adsterra.13243/)
+-  05 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
 -  05 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
 -  05 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  05 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
@@ -49,9 +51,7 @@
 -  05 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  05 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  05 [Adsterra&#39;s Categories](https://afflift.com/f/threads/adsterras-categories.13240/)
--  04 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
--  04 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
--  04 [Anstrex+ Push *First Follow Along*](https://afflift.com/f/threads/anstrex-push-first-follow-along.13241/)<!-- afflift:END -->
+-  04 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
