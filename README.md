@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [大家好！Greetings from China~](https://afflift.com/f/threads/%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%81greetings-from-china.13242/)
 -  04 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
 -  04 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
 -  04 [Anstrex+ Push *First Follow Along*](https://afflift.com/f/threads/anstrex-push-first-follow-along.13241/)
@@ -50,8 +51,7 @@
 -  04 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
 -  04 [LOOKING 4 HELP TO SET UP API &lpar; DETAILS IN POST &rpar;](https://afflift.com/f/threads/looking-4-help-to-set-up-api-details-in-post.13239/)
 -  04 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
--  04 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰 &lpar;Sponsored by Luke&rpar;](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0-sponsored-by-luke.13233/)
--  04 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)<!-- afflift:END -->
+-  04 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰 &lpar;Sponsored by Luke&rpar;](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0-sponsored-by-luke.13233/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
