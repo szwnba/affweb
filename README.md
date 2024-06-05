@@ -28,8 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  04 [tiktok余额户转让](https://www.advertcn.com/thread-115227-1-1.html)
--  04 [速看！！TikTok广告的出价策略应该怎么选择？](https://www.advertcn.com/thread-115224-1-1.html)<!-- advertcn3:END -->
+-  05 [Brave浏览器开始推出搜索引擎广告](https://www.advertcn.com/thread-115236-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
