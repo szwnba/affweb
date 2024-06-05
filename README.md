@@ -58,5 +58,4 @@
 -  04 [社区速递 047 | 在线CAD、作者新玩意以及派友们新关注的博主](https://sspai.com/post/89353)
 -  04 [618 想买鼠标，这些型号值得一看](https://sspai.com/post/89262)
 -  04 [「移动的家」为什么需要更智能的车载香氛，他们说……](https://sspai.com/post/88605)
--  04 [[护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析](https://sspai.com/post/89315)
--  04 [派早报：AMD 推出多款新处理器、亚马逊 Kindle 中国电子书店月底停止服务等](https://sspai.com/post/89336)<!-- sspai:END -->
+-  04 [[护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析](https://sspai.com/post/89315)<!-- sspai:END -->
