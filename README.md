@@ -41,6 +41,8 @@
 ### afflift
 <!-- afflift:START -->
 -  05 [大家好！Greetings from China~](https://afflift.com/f/threads/%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%81greetings-from-china.13242/)
+-  05 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
+-  05 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  05 [Adsterra&#39;s Categories](https://afflift.com/f/threads/adsterras-categories.13240/)
 -  04 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
 -  04 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
@@ -49,9 +51,7 @@
 -  04 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  04 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  04 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
--  04 [LOOKING 4 HELP TO SET UP API &lpar; DETAILS IN POST &rpar;](https://afflift.com/f/threads/looking-4-help-to-set-up-api-details-in-post.13239/)
--  04 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
--  04 [💸 &quot;PROPELLER&quot; +ROI ZONES 🚀💰 &lpar;Sponsored by Luke&rpar;](https://afflift.com/f/threads/%F0%9F%92%B8-propeller-roi-zones-%F0%9F%9A%80%F0%9F%92%B0-sponsored-by-luke.13233/)<!-- afflift:END -->
+-  04 [LOOKING 4 HELP TO SET UP API &lpar; DETAILS IN POST &rpar;](https://afflift.com/f/threads/looking-4-help-to-set-up-api-details-in-post.13239/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
