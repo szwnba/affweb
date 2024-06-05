@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
+-  05 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
+-  05 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  05 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
 -  05 [June Jackpot: Up to $1000 Cashback from Adsterra](https://afflift.com/f/threads/june-jackpot-up-to-1000-cashback-from-adsterra.13243/)
 -  05 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
 -  05 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
 -  05 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
--  05 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
 -  05 [Top Affiliate network &lpar;Mobidea&rpar; won&#39;t pay, scam?](https://afflift.com/f/threads/top-affiliate-network-mobidea-wont-pay-scam.11128/)
 -  05 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  05 [大家好！Greetings from China~](https://afflift.com/f/threads/%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%81greetings-from-china.13242/)
--  05 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
--  05 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
--  05 [Adsterra&#39;s Categories](https://afflift.com/f/threads/adsterras-categories.13240/)<!-- afflift:END -->
+-  05 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
