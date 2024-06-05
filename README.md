@@ -40,8 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  05 [Adsterra&#39;s Categories](https://afflift.com/f/threads/adsterras-categories.13240/)
 -  05 [大家好！Greetings from China~](https://afflift.com/f/threads/%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%81greetings-from-china.13242/)
+-  05 [Adsterra&#39;s Categories](https://afflift.com/f/threads/adsterras-categories.13240/)
 -  04 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
 -  04 [Tracking Organic Traffic](https://afflift.com/f/threads/tracking-organic-traffic.13203/)
 -  04 [Anstrex+ Push *First Follow Along*](https://afflift.com/f/threads/anstrex-push-first-follow-along.13241/)
