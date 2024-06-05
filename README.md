@@ -57,5 +57,4 @@
 <!-- sspai:START -->
 -  05 [买第二台车的时候，我们终于冷静了](https://sspai.com/post/89322)
 -  05 [一日一技 | 借助 Obsidian 插件和快捷指令快速添加阅读记录](https://sspai.com/post/89317)
--  05 [派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等](https://sspai.com/post/89360)
--  04 [社区速递 047 | 在线CAD、作者新玩意以及派友们新关注的博主](https://sspai.com/post/89353)<!-- sspai:END -->
+-  05 [派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等](https://sspai.com/post/89360)<!-- sspai:END -->
