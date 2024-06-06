@@ -42,6 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [大家好！Greetings from China~](https://afflift.com/f/threads/%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%81greetings-from-china.13242/)
+-  06 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  05 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  05 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
 -  05 [Anstrex+ Push *First Follow Along*](https://afflift.com/f/threads/anstrex-push-first-follow-along.13241/)
@@ -51,9 +53,7 @@
 -  05 [Don&#39;t make this mistake when testing new campaigns ❌](https://afflift.com/f/threads/dont-make-this-mistake-when-testing-new-campaigns-%E2%9D%8C.8560/)
 -  05 [SEO in nutra: how to get leads with the highest approve and minimal investment](https://afflift.com/f/threads/seo-in-nutra-how-to-get-leads-with-the-highest-approve-and-minimal-investment.13248/)
 -  05 [Case Study: $500 In a week with Zeydoo Surveys](https://afflift.com/f/threads/case-study-500-in-a-week-with-zeydoo-surveys.13237/)
--  05 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
--  05 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  05 [Newbie with Knowledge](https://afflift.com/f/threads/newbie-with-knowledge.13227/)<!-- afflift:END -->
+-  05 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
