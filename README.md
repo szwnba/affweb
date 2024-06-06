@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  06 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  06 [Adsterra + RollerAds = PROFIT?!?!](https://afflift.com/f/threads/adsterra-rollerads-profit.13252/)
 -  06 [Tired of testing? Try the Galaksion × Zeydoo bundle to gain 41% ROI with no sweat](https://afflift.com/f/threads/tired-of-testing-try-the-galaksion-%C3%97-zeydoo-bundle-to-gain-41-roi-with-no-sweat.13255/)
@@ -51,8 +52,7 @@
 -  06 [Push CPM vs. Push CPC: Which Do You Prefer and Why?](https://afflift.com/f/threads/push-cpm-vs-push-cpc-which-do-you-prefer-and-why.13253/)
 -  06 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  06 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
--  06 [Don&#39;t make this mistake when testing new campaigns ❌](https://afflift.com/f/threads/dont-make-this-mistake-when-testing-new-campaigns-%E2%9D%8C.8560/)
--  06 [Welcome to the Pay Per Call forum!](https://afflift.com/f/threads/welcome-to-the-pay-per-call-forum.13247/)<!-- afflift:END -->
+-  06 [Don&#39;t make this mistake when testing new campaigns ❌](https://afflift.com/f/threads/dont-make-this-mistake-when-testing-new-campaigns-%E2%9D%8C.8560/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
