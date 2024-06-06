@@ -17,7 +17,6 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  05 [新人报道，本人专业出售纯自然流量Youtube油管获利号](https://www.advertcn.com/thread-115239-1-1.html)
 -  05 [超全攻略——注册一家美国公司，做亚马逊赢麻了！](https://www.advertcn.com/thread-115238-1-1.html)
 -  05 [制度政策双重加持，跨境电商迎新机遇：海外注册地选择...](https://www.advertcn.com/thread-115233-1-1.html)
 -  05 [为什么现在付费代理http比免费代理http更受用户欢迎？](https://www.advertcn.com/thread-115231-1-1.html)
