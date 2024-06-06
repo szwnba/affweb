@@ -58,5 +58,4 @@
 <!-- sspai:START -->
 -  06 [派早报：Netflix 将停止支持旧款 Apple TV、三星 Z 系列新品通过 FCC 认证等](https://sspai.com/post/89400)
 -  05 [2024 年，如何「正确地」观看一场演唱会](https://sspai.com/post/89101)
--  05 [买第二台车的时候，我们终于冷静了](https://sspai.com/post/89322)
--  05 [一日一技 | 借助 Obsidian 插件和快捷指令快速添加阅读记录](https://sspai.com/post/89317)<!-- sspai:END -->
+-  05 [买第二台车的时候，我们终于冷静了](https://sspai.com/post/89322)<!-- sspai:END -->
