@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  06 [日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
 -  06 [派早报：Netflix 将停止支持旧款 Apple TV、三星 Z 系列新品通过 FCC 认证等](https://sspai.com/post/89400)
 -  05 [2024 年，如何「正确地」观看一场演唱会](https://sspai.com/post/89101)
 -  05 [买第二台车的时候，我们终于冷静了](https://sspai.com/post/89322)<!-- sspai:END -->
