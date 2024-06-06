@@ -25,7 +25,7 @@
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
--  29 [Media Buy 40天新手教程](https://www.advertcn.com/thread-115158-1-1.html)<!-- advertcn2:END -->
+-  06 [打算做10个网站](https://www.advertcn.com/thread-115247-1-1.html)<!-- advertcn2:END -->
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
