@@ -28,6 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  06 [打算在亚马逊上开一个网店，初期需要投资多少？](https://www.advertcn.com/thread-115258-1-1.html)
 -  06 [社交平台 X 调整规则正式允许成年人内容](https://www.advertcn.com/thread-115250-1-1.html)
 -  06 [这次911S5 王云河 事件大家有什么想说的？](https://www.advertcn.com/thread-115248-1-1.html)<!-- advertcn3:END -->
 
