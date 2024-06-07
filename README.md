@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  07 [为什么选择Pinterest进行联盟营销？](https://www.advertcn.com/thread-115269-1-1.html)
 -  07 [新人报道](https://www.advertcn.com/thread-115268-1-1.html)
 -  07 [Tinder蓝V（1-10年私人老号） 火种](https://www.advertcn.com/thread-115267-1-1.html)
 -  07 [如何更精准定位你的Facebook广告受众？](https://www.advertcn.com/thread-115263-1-1.html)
