@@ -46,6 +46,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
+-  07 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  07 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  07 [Fake Review from Source Traffic](https://afflift.com/f/threads/fake-review-from-source-traffic.13258/)
 -  07 [Setting up RollerAds and ProPush to use the same variables](https://afflift.com/f/threads/setting-up-rollerads-and-propush-to-use-the-same-variables.13257/)
@@ -53,11 +55,9 @@
 -  07 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  07 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  07 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
--  07 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  07 [New Feature: Auto Creatives Generated with ML for Top Performance](https://afflift.com/f/threads/new-feature-auto-creatives-generated-with-ml-for-top-performance.13256/)
 -  07 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
--  07 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)
--  07 [Anstrex+ Push *First Follow Along*](https://afflift.com/f/threads/anstrex-push-first-follow-along.13241/)<!-- afflift:END -->
+-  07 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
