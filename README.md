@@ -41,9 +41,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Adsterra + RollerAds = PROFIT?!?!](https://afflift.com/f/threads/adsterra-rollerads-profit.13252/)
 -  06 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  06 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  06 [Adsterra + RollerAds = PROFIT?!?!](https://afflift.com/f/threads/adsterra-rollerads-profit.13252/)
 -  06 [Tired of testing? Try the Galaksion × Zeydoo bundle to gain 41% ROI with no sweat](https://afflift.com/f/threads/tired-of-testing-try-the-galaksion-%C3%97-zeydoo-bundle-to-gain-41-roi-with-no-sweat.13255/)
 -  06 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  06 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
