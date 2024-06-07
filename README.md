@@ -46,10 +46,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  07 [Fake Review from Source Traffic](https://afflift.com/f/threads/fake-review-from-source-traffic.13258/)
 -  07 [Setting up RollerAds and ProPush to use the same variables](https://afflift.com/f/threads/setting-up-rollerads-and-propush-to-use-the-same-variables.13257/)
 -  07 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  07 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  07 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  07 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  07 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
