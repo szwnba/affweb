@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [派早报：徕卡推出 Leica Lux 相机应用、Apple 2024 年设计大奖得主公布等](https://sspai.com/post/89427)
 -  06 [具透 Plus | 近期值得你关注的软件更新细节](https://sspai.com/prime/story/inside-release-notes)
 -  06 [告别 Apple Watch 续航焦虑，这些设置和小习惯值得收藏](https://sspai.com/post/89403)
 -  06 [日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)<!-- sspai:END -->
