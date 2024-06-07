@@ -59,6 +59,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  07 [少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/89374)
 -  07 [众测 | 第四期先享体验计划，vivo X100 Ultra 众测开启](https://sspai.com/post/89327)
 -  07 [派早报：徕卡推出 Leica Lux 相机应用、Apple 2024 年设计大奖得主公布等](https://sspai.com/post/89427)
 -  06 [具透 Plus | 近期值得你关注的软件更新细节](https://sspai.com/prime/story/inside-release-notes)
