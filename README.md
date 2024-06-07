@@ -46,18 +46,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
+-  07 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
+-  07 [Fake Review from Source Traffic](https://afflift.com/f/threads/fake-review-from-source-traffic.13258/)
+-  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  07 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
+-  07 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 -  07 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  07 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  07 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
--  07 [Fake Review from Source Traffic](https://afflift.com/f/threads/fake-review-from-source-traffic.13258/)
 -  07 [Setting up RollerAds and ProPush to use the same variables](https://afflift.com/f/threads/setting-up-rollerads-and-propush-to-use-the-same-variables.13257/)
 -  07 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  07 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  07 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
--  07 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
--  07 [New Feature: Auto Creatives Generated with ML for Top Performance](https://afflift.com/f/threads/new-feature-auto-creatives-generated-with-ml-for-top-performance.13256/)
--  07 [OnClickA - performance-driven self-serve ad network](https://afflift.com/f/threads/onclicka-performance-driven-self-serve-ad-network.10316/)
--  07 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)<!-- afflift:END -->
+-  07 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
