@@ -33,8 +33,7 @@
 -  07 [等M4的macbook还是现在先入手M3？](https://www.advertcn.com/thread-115266-1-1.html)
 -  07 [PayPal里的网盟资金可以结汇啦！](https://www.advertcn.com/thread-115265-1-1.html)
 -  07 [mac系统对做站有那些帮助？](https://www.advertcn.com/thread-115262-1-1.html)
--  06 [打算在亚马逊上开一个网店，初期需要投资多少？](https://www.advertcn.com/thread-115258-1-1.html)
--  06 [社交平台 X 调整规则正式允许成年人内容](https://www.advertcn.com/thread-115250-1-1.html)<!-- advertcn3:END -->
+-  06 [打算在亚马逊上开一个网店，初期需要投资多少？](https://www.advertcn.com/thread-115258-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
