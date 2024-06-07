@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  07 [如何更精准定位你的Facebook广告受众？](https://www.advertcn.com/thread-115263-1-1.html)
 -  06 [新人报道](https://www.advertcn.com/thread-115253-1-1.html)
 -  06 [eBay因信用卡收费问题与美国运通断绝关系](https://www.advertcn.com/thread-115252-1-1.html)
 -  06 [从英国公司注册到年审：一站式了解合规运营的关键步骤](https://www.advertcn.com/thread-115251-1-1.html)
