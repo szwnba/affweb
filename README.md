@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [How to login into Adsterra CPA Network?](https://afflift.com/f/threads/how-to-login-into-adsterra-cpa-network.13146/)
+-  08 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  08 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  08 [Any tips and tricks for twitter &lpar;X&rpar; ads ?](https://afflift.com/f/threads/any-tips-and-tricks-for-twitter-x-ads.13259/)
 -  08 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
@@ -45,9 +47,7 @@
 -  07 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  07 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
 -  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  07 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
--  07 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
--  07 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)<!-- afflift:END -->
+-  07 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
