@@ -36,14 +36,15 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Welcome to the Pay Per Call forum!](https://afflift.com/f/threads/welcome-to-the-pay-per-call-forum.13247/)
+-  08 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  08 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  08 [How to login into Adsterra CPA Network?](https://afflift.com/f/threads/how-to-login-into-adsterra-cpa-network.13146/)
 -  08 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  08 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  08 [Any tips and tricks for twitter &lpar;X&rpar; ads ?](https://afflift.com/f/threads/any-tips-and-tricks-for-twitter-x-ads.13259/)
 -  08 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  07 [Setting up RollerAds and ProPush to use the same variables](https://afflift.com/f/threads/setting-up-rollerads-and-propush-to-use-the-same-variables.13257/)
--  07 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)<!-- afflift:END -->
+-  07 [Setting up RollerAds and ProPush to use the same variables](https://afflift.com/f/threads/setting-up-rollerads-and-propush-to-use-the-same-variables.13257/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
