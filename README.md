@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  08 [How to login into Adsterra CPA Network?](https://afflift.com/f/threads/how-to-login-into-adsterra-cpa-network.13146/)
 -  08 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  08 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
@@ -43,11 +44,7 @@
 -  08 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  07 [Setting up RollerAds and ProPush to use the same variables](https://afflift.com/f/threads/setting-up-rollerads-and-propush-to-use-the-same-variables.13257/)
 -  07 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)
--  07 [Fake Review from Source Traffic](https://afflift.com/f/threads/fake-review-from-source-traffic.13258/)
--  07 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
--  07 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
--  07 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  07 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)<!-- afflift:END -->
+-  07 [Fake Review from Source Traffic](https://afflift.com/f/threads/fake-review-from-source-traffic.13258/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
