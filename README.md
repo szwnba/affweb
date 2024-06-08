@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  31 [VMware 个人用户免费了, 但下载软件成了难题？](https://51.ruyo.net/18669.html)<!-- ruyo:END -->
+-  08 [#收集控#国内外AI编程助手收集推荐](https://51.ruyo.net/18684.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
