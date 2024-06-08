@@ -58,5 +58,4 @@
 <!-- sspai:START -->
 -  08 [WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点](https://sspai.com/post/89308)
 -  07 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/89444)
--  07 [循环永续，创想无尽：与「无穷小亮」探讨环境科普内容创作](https://sspai.com/post/89436)
--  07 [少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/89374)<!-- sspai:END -->
+-  07 [循环永续，创想无尽：与「无穷小亮」探讨环境科普内容创作](https://sspai.com/post/89436)<!-- sspai:END -->
