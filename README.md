@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  08 [WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点](https://sspai.com/post/89308)
--  07 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/89444)<!-- sspai:END -->
+-  08 [WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点](https://sspai.com/post/89308)<!-- sspai:END -->
