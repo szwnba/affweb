@@ -17,10 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  08 [新人报道](https://www.advertcn.com/thread-115279-1-1.html)
--  07 [想做亚马逊美国站，国内发货](https://www.advertcn.com/thread-115273-1-1.html)
--  07 [新人报道](https://www.advertcn.com/thread-115272-1-1.html)
--  07 [注册美国公司做跨境电商，如何选择公司类型和注册州](https://www.advertcn.com/thread-115271-1-1.html)<!-- advertcn1:END -->
+-  08 [新人报道](https://www.advertcn.com/thread-115279-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
