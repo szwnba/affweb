@@ -48,4 +48,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  08 [WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点](https://sspai.com/post/89308)<!-- sspai:END -->
+-  09 [WWDC24 前瞻：当家也能「升级」，我们该对 Aqara 如何期待](https://sspai.com/post/89467)<!-- sspai:END -->
