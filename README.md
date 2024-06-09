@@ -39,10 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [STEP 2 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-2-apply-for-zeydoo-affiliate-network.12312/)
 -  09 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
 -  09 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  09 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  09 [STEP 2 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-2-apply-for-zeydoo-affiliate-network.12312/)
 -  09 [How to Track Clickbank Order Form Impressions &lpar;Initial Impressions&rpar;](https://afflift.com/f/threads/how-to-track-clickbank-order-form-impressions-initial-impressions.12577/)
 -  09 [💰 Monetizing Popunder &amp; Back Button Traffic: Share Tips &amp; Best Networks! 📈](https://afflift.com/f/threads/%F0%9F%92%B0-monetizing-popunder-back-button-traffic-share-tips-best-networks-%F0%9F%93%88.13260/)
 -  09 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
