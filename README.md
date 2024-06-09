@@ -44,8 +44,7 @@
 -  08 [How to login into Adsterra CPA Network?](https://afflift.com/f/threads/how-to-login-into-adsterra-cpa-network.13146/)
 -  08 [#PA23 is DATING working on propeller?](https://afflift.com/f/threads/pa23-is-dating-working-on-propeller.11678/)
 -  08 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  08 [Any tips and tricks for twitter &lpar;X&rpar; ads ?](https://afflift.com/f/threads/any-tips-and-tricks-for-twitter-x-ads.13259/)
--  08 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  08 [Any tips and tricks for twitter &lpar;X&rpar; ads ?](https://afflift.com/f/threads/any-tips-and-tricks-for-twitter-x-ads.13259/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
