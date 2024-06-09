@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  09 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  09 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  09 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
