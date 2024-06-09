@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  09 [新人报道](https://www.advertcn.com/thread-115287-1-1.html)
 -  09 [新人报道，没有程序技能可以做mediabuy吗](https://www.advertcn.com/thread-115285-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
