@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  09 [STEP 2 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-2-apply-for-zeydoo-affiliate-network.12312/)
 -  09 [How to Track Clickbank Order Form Impressions &lpar;Initial Impressions&rpar;](https://afflift.com/f/threads/how-to-track-clickbank-order-form-impressions-initial-impressions.12577/)
 -  09 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
 -  09 [💰 Monetizing Popunder &amp; Back Button Traffic: Share Tips &amp; Best Networks! 📈](https://afflift.com/f/threads/%F0%9F%92%B0-monetizing-popunder-back-button-traffic-share-tips-best-networks-%F0%9F%93%88.13260/)
@@ -48,8 +50,7 @@
 -  09 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  09 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  08 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
--  08 [Welcome to the Pay Per Call forum!](https://afflift.com/f/threads/welcome-to-the-pay-per-call-forum.13247/)
--  08 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)<!-- afflift:END -->
+-  08 [Welcome to the Pay Per Call forum!](https://afflift.com/f/threads/welcome-to-the-pay-per-call-forum.13247/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
