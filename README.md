@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
+-  10 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
+-  10 [❤️ I&#39;m Impressed with Maxconv Tracker!](https://afflift.com/f/threads/%E2%9D%A4%EF%B8%8F-im-impressed-with-maxconv-tracker.13221/)
+-  10 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
+-  10 [Google Documentation Leak: 14,000 Ranking Factors and New SEO Revelations.](https://afflift.com/f/threads/google-documentation-leak-14-000-ranking-factors-and-new-seo-revelations.13265/)
 -  10 [Any tips and tricks for twitter &lpar;X&rpar; ads ?](https://afflift.com/f/threads/any-tips-and-tricks-for-twitter-x-ads.13259/)
 -  10 [I bought PeerFly &lpar;.com&rpar;](https://afflift.com/f/threads/i-bought-peerfly-com.12297/)
 -  10 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
 -  10 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  10 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
 -  10 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
--  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  10 [Tired of testing? Try the Galaksion × Zeydoo bundle to gain 41% ROI with no sweat](https://afflift.com/f/threads/tired-of-testing-try-the-galaksion-%C3%97-zeydoo-bundle-to-gain-41-roi-with-no-sweat.13255/)
--  10 [Novices run Taboola native ads](https://afflift.com/f/threads/novices-run-taboola-native-ads.13264/)
--  10 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  10 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)<!-- afflift:END -->
+-  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
