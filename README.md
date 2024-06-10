@@ -36,6 +36,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [How to login into Adsterra CPA Network?](https://afflift.com/f/threads/how-to-login-into-adsterra-cpa-network.13146/)
+-  10 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  10 [💰 Monetizing Popunder &amp; Back Button Traffic: Share Tips &amp; Best Networks! 📈](https://afflift.com/f/threads/%F0%9F%92%B0-monetizing-popunder-back-button-traffic-share-tips-best-networks-%F0%9F%93%88.13260/)
 -  10 [Welcome to the Pay Per Call forum!](https://afflift.com/f/threads/welcome-to-the-pay-per-call-forum.13247/)
 -  10 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
