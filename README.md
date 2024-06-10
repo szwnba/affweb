@@ -36,6 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  10 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
+-  10 [Free Website Extensions for Affiliate Marketing 💰](https://afflift.com/f/threads/free-website-extensions-for-affiliate-marketing-%F0%9F%92%B0.13263/)
+-  10 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
 -  10 [Adsterra + RollerAds = PROFIT?!?!](https://afflift.com/f/threads/adsterra-rollerads-profit.13252/)
 -  10 [Whitelist CPM Bidding can work on Galaksion too?!?!?!](https://afflift.com/f/threads/whitelist-cpm-bidding-can-work-on-galaksion-too.13262/)
 -  10 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
@@ -43,11 +47,7 @@
 -  10 [Tired of testing? Try the Galaksion × Zeydoo bundle to gain 41% ROI with no sweat](https://afflift.com/f/threads/tired-of-testing-try-the-galaksion-%C3%97-zeydoo-bundle-to-gain-41-roi-with-no-sweat.13255/)
 -  10 [How to Drive Traffic to Mobile Apps in Summer 2024](https://afflift.com/f/threads/how-to-drive-traffic-to-mobile-apps-in-summer-2024.13261/)
 -  10 [💰 Monetizing Popunder &amp; Back Button Traffic: Share Tips &amp; Best Networks! 📈](https://afflift.com/f/threads/%F0%9F%92%B0-monetizing-popunder-back-button-traffic-share-tips-best-networks-%F0%9F%93%88.13260/)
--  10 [No Traffic Estimator in PopAds?](https://afflift.com/f/threads/no-traffic-estimator-in-popads.13192/)
--  10 [How to login into Adsterra CPA Network?](https://afflift.com/f/threads/how-to-login-into-adsterra-cpa-network.13146/)
--  10 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
--  10 [Welcome to the Pay Per Call forum!](https://afflift.com/f/threads/welcome-to-the-pay-per-call-forum.13247/)
--  10 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)<!-- afflift:END -->
+-  10 [No Traffic Estimator in PopAds?](https://afflift.com/f/threads/no-traffic-estimator-in-popads.13192/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
