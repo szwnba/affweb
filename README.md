@@ -50,4 +50,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  09 [WWDC24 前瞻：当家也能「升级」，我们该对 Aqara 如何期待](https://sspai.com/post/89467)<!-- sspai:END -->
+-  10 [高考结束的暑假除了狂欢，还能如何为将来做准备](https://sspai.com/post/89473)<!-- sspai:END -->
