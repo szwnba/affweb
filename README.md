@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [ApproachX - 30% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-30-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
 -  11 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  11 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  11 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
@@ -49,8 +50,7 @@
 -  11 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
 -  10 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  10 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  10 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
--  10 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)<!-- afflift:END -->
+-  10 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
