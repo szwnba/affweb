@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
+-  11 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
+-  11 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
+-  11 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
+-  11 [Introducing Myself to the Afflift Community: Pay Per Call Expert Diving into CPL/CPA Campaigns!](https://afflift.com/f/threads/introducing-myself-to-the-afflift-community-pay-per-call-expert-diving-into-cpl-cpa-campaigns.12516/)
 -  11 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  11 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)
 -  11 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
 -  11 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  11 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  11 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
--  11 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  11 [TerraLeads ‒ exclusive COD nutra offers in Europe and Asia.](https://afflift.com/f/threads/terraleads-%E2%80%92-exclusive-cod-nutra-offers-in-europe-and-asia.3287/)
--  11 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  11 [ApproachX - 30% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-30-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  11 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  11 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
+-  11 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
