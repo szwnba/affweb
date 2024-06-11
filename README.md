@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [FREE plan for affLIFT users from Peerclick Ad Tracker 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-ad-tracker-%F0%9F%8E%89%F0%9F%94%A5.12985/)
 -  11 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
 -  11 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
 -  10 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
@@ -49,8 +50,7 @@
 -  10 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
 -  10 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  10 [❤️ I&#39;m Impressed with Maxconv Tracker!](https://afflift.com/f/threads/%E2%9D%A4%EF%B8%8F-im-impressed-with-maxconv-tracker.13221/)
--  10 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
--  10 [Google Documentation Leak: 14,000 Ranking Factors and New SEO Revelations.](https://afflift.com/f/threads/google-documentation-leak-14-000-ranking-factors-and-new-seo-revelations.13265/)<!-- afflift:END -->
+-  10 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
