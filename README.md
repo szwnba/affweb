@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  11 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)
 -  11 [Let&#39;s get some Pay Per Call offers going!](https://afflift.com/f/threads/lets-get-some-pay-per-call-offers-going.13267/)
 -  11 [FREE plan for affLIFT users from Peerclick Ad Tracker 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-ad-tracker-%F0%9F%8E%89%F0%9F%94%A5.12985/)
@@ -49,8 +50,7 @@
 -  10 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  10 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  10 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
--  10 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  10 [❤️ I&#39;m Impressed with Maxconv Tracker!](https://afflift.com/f/threads/%E2%9D%A4%EF%B8%8F-im-impressed-with-maxconv-tracker.13221/)<!-- afflift:END -->
+-  10 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
