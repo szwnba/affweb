@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  11 [派早报：Apple 在 WWDC24 开幕活动中发布 iOS 18 等新系统等](https://sspai.com/post/89498)
 -  10 [一图流 | WWDC24 开幕式回顾](https://sspai.com/post/89497)
--  10 [大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾](https://sspai.com/post/89496)
--  10 [高考结束的暑假除了狂欢，还能如何为将来做准备](https://sspai.com/post/89473)<!-- sspai:END -->
+-  10 [大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾](https://sspai.com/post/89496)<!-- sspai:END -->
