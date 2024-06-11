@@ -54,8 +54,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意](https://sspai.com/post/89505)
 -  11 [直播预告 | WWDC24 开幕式回顾：哪些亮点值得展开讲讲？](https://sspai.com/post/89432)
 -  11 [认清需求再下手，面向大众的 NAS 选购与折腾指南](https://sspai.com/post/89214)
 -  11 [派早报：Apple 在 WWDC24 开幕活动中发布 iOS 18 等新系统等](https://sspai.com/post/89498)
--  10 [一图流 | WWDC24 开幕式回顾](https://sspai.com/post/89497)
--  10 [大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾](https://sspai.com/post/89496)<!-- sspai:END -->
+-  10 [一图流 | WWDC24 开幕式回顾](https://sspai.com/post/89497)<!-- sspai:END -->
