@@ -27,8 +27,7 @@
 <!-- advertcn3:START -->
 -  11 [关于tiktok个人户，bc户，有偿请教一些问题](https://www.advertcn.com/thread-115300-1-1.html)
 -  11 [关于Sedo 出售域名，有大佬能指点一下吗？](https://www.advertcn.com/thread-115299-1-1.html)
--  10 [确定注册商后，什么小国别的域名后缀较抗投诉？](https://www.advertcn.com/thread-115297-1-1.html)
--  10 [推荐个住宅代理商家 - 不用包月 - $2/GB](https://www.advertcn.com/thread-115295-1-1.html)<!-- advertcn3:END -->
+-  10 [确定注册商后，什么小国别的域名后缀较抗投诉？](https://www.advertcn.com/thread-115297-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
