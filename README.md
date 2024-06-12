@@ -43,9 +43,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
+-  12 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  12 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  12 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  12 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  12 [Whitelist CPM Bidding can work on Galaksion too?!?!?!](https://afflift.com/f/threads/whitelist-cpm-bidding-can-work-on-galaksion-too.13262/)
 -  12 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
 -  12 [Question about a banned FB ad account](https://afflift.com/f/threads/question-about-a-banned-fb-ad-account.13274/)
@@ -53,8 +54,7 @@
 -  12 [Need Help Scaling Profitable Campaigns Across Ad Networks](https://afflift.com/f/threads/need-help-scaling-profitable-campaigns-across-ad-networks.13277/)
 -  12 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
 -  12 [Monetizer&gt;Cloaked: meaning](https://afflift.com/f/threads/monetizer-cloaked-meaning.13273/)
--  12 [NewsBreak Ads MasterMind Recap](https://afflift.com/f/threads/newsbreak-ads-mastermind-recap.13276/)
--  12 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)<!-- afflift:END -->
+-  12 [NewsBreak Ads MasterMind Recap](https://afflift.com/f/threads/newsbreak-ads-mastermind-recap.13276/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
