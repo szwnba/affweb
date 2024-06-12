@@ -29,8 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  11 [关于tiktok个人户，bc户，有偿请教一些问题](https://www.advertcn.com/thread-115300-1-1.html)
--  11 [关于Sedo 出售域名，有大佬能指点一下吗？](https://www.advertcn.com/thread-115299-1-1.html)<!-- advertcn3:END -->
+-  12 [有支持BID竞价建议的AI平台吗？](https://www.advertcn.com/thread-115316-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
