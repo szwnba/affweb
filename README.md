@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Bot Traffic - Will It Kill You in 2024?! &lpar; Read This to Protect Yourself &rpar;](https://afflift.com/f/threads/bot-traffic-will-it-kill-you-in-2024-read-this-to-protect-yourself.13156/)
 -  12 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  12 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
 -  12 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
@@ -47,8 +48,7 @@
 -  11 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  11 [Propush vs. RollerAds Drama 😡](https://afflift.com/f/threads/propush-vs-rollerads-drama-%F0%9F%98%A1.12983/)
 -  11 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
--  11 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  11 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)<!-- afflift:END -->
+-  11 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
