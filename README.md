@@ -52,6 +52,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [Clicks Keyboard：另一场全键盘的同床异梦](https://sspai.com/post/89493)
 -  12 [派早报：佳能发布 RF-S 双鱼眼镜头、微软公布新的 Outlook 安全策略等](https://sspai.com/post/89519)
 -  11 [社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意](https://sspai.com/post/89505)
 -  11 [直播预告 | WWDC24 开幕式回顾：哪些亮点值得展开讲讲？](https://sspai.com/post/89432)
