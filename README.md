@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [80 后到 00 后，他们在用 PiPods 听……](https://sspai.com/post/78464)
+-  12 [Apple 2024 年设计奖揭幕，这 14 款应用是今年的赢家](https://sspai.com/post/89465)
 -  12 [Clicks Keyboard：另一场全键盘的同床异梦](https://sspai.com/post/89493)
--  12 [派早报：佳能发布 RF-S 双鱼眼镜头、微软公布新的 Outlook 安全策略等](https://sspai.com/post/89519)
--  11 [社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意](https://sspai.com/post/89505)<!-- sspai:END -->
+-  12 [派早报：佳能发布 RF-S 双鱼眼镜头、微软公布新的 Outlook 安全策略等](https://sspai.com/post/89519)<!-- sspai:END -->
