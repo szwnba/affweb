@@ -52,6 +52,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [派早报：佳能发布 RF-S 双鱼眼镜头、微软公布新的 Outlook 安全策略等](https://sspai.com/post/89519)
 -  11 [社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意](https://sspai.com/post/89505)
 -  11 [直播预告 | WWDC24 开幕式回顾：哪些亮点值得展开讲讲？](https://sspai.com/post/89432)
 -  11 [认清需求再下手，面向大众的 NAS 选购与折腾指南](https://sspai.com/post/89214)<!-- sspai:END -->
