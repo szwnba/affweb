@@ -43,6 +43,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
+-  12 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  12 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  12 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  12 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
@@ -52,9 +54,7 @@
 -  12 [Question about a banned FB ad account](https://afflift.com/f/threads/question-about-a-banned-fb-ad-account.13274/)
 -  12 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  12 [Need Help Scaling Profitable Campaigns Across Ad Networks](https://afflift.com/f/threads/need-help-scaling-profitable-campaigns-across-ad-networks.13277/)
--  12 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
--  12 [Monetizer&gt;Cloaked: meaning](https://afflift.com/f/threads/monetizer-cloaked-meaning.13273/)
--  12 [NewsBreak Ads MasterMind Recap](https://afflift.com/f/threads/newsbreak-ads-mastermind-recap.13276/)<!-- afflift:END -->
+-  12 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
