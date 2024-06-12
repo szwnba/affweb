@@ -39,8 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  12 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
+-  12 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
 -  12 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
+-  12 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
+-  12 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
 -  12 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  12 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
 -  12 [Bot Traffic - Will It Kill You in 2024?! &lpar; Read This to Protect Yourself &rpar;](https://afflift.com/f/threads/bot-traffic-will-it-kill-you-in-2024-read-this-to-protect-yourself.13156/)
@@ -48,9 +50,7 @@
 -  12 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)
 -  12 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  12 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
--  12 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
--  11 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
--  11 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)<!-- afflift:END -->
+-  12 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
