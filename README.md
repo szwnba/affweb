@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
+-  12 [Need Help Scaling Profitable Campaigns Across Ad Networks](https://afflift.com/f/threads/need-help-scaling-profitable-campaigns-across-ad-networks.13277/)
+-  12 [Question about a banned FB ad account](https://afflift.com/f/threads/question-about-a-banned-fb-ad-account.13274/)
+-  12 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
+-  12 [Monetizer&gt;Cloaked: meaning](https://afflift.com/f/threads/monetizer-cloaked-meaning.13273/)
 -  12 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  12 [NewsBreak Ads MasterMind Recap](https://afflift.com/f/threads/newsbreak-ads-mastermind-recap.13276/)
 -  12 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  12 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
 -  12 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  12 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  12 [Monetizer&gt;Cloaked: meaning](https://afflift.com/f/threads/monetizer-cloaked-meaning.13273/)
--  12 [Question about a banned FB ad account](https://afflift.com/f/threads/question-about-a-banned-fb-ad-account.13274/)
--  12 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  12 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  12 [Stacks.app is in the Link Directory!](https://afflift.com/f/threads/stacks-app-is-in-the-link-directory.13272/)
--  12 [15+ Years in the Game: My Incomplete Guide to Affiliate Marketing Book is Released!](https://afflift.com/f/threads/15-years-in-the-game-my-incomplete-guide-to-affiliate-marketing-book-is-released.13109/)<!-- afflift:END -->
+-  12 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
