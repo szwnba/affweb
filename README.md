@@ -28,6 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  12 [大哥们，Google AdSense收款不到是什么情况](https://www.advertcn.com/thread-115327-1-1.html)
 -  12 [有支持BID竞价建议的AI平台吗？](https://www.advertcn.com/thread-115316-1-1.html)<!-- advertcn3:END -->
 
 
