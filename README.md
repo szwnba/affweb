@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
+-  13 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  13 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  13 [What to Do if Competitors Click on Your Ads To Waste Your Ad Budget: Proven Protection Strategies and Tools](https://afflift.com/f/threads/what-to-do-if-competitors-click-on-your-ads-to-waste-your-ad-budget-proven-protection-strategies-and-tools.13285/)
 -  13 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  13 [Monetizer&gt;Cloaked: meaning](https://afflift.com/f/threads/monetizer-cloaked-meaning.13273/)
--  13 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  13 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
 -  13 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  13 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  13 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)
 -  13 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  13 [Need Help Scaling Profitable Campaigns Across Ad Networks](https://afflift.com/f/threads/need-help-scaling-profitable-campaigns-across-ad-networks.13277/)
--  13 [CPA Goal at HilltopAds: Spend less, earn more. New advertising feature of 2024.](https://afflift.com/f/threads/cpa-goal-at-hilltopads-spend-less-earn-more-new-advertising-feature-of-2024.13282/)<!-- afflift:END -->
+-  13 [Need Help Scaling Profitable Campaigns Across Ad Networks](https://afflift.com/f/threads/need-help-scaling-profitable-campaigns-across-ad-networks.13277/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
