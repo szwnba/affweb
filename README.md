@@ -59,8 +59,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  13 [Windows 设计史 03 | Windows XP：摆脱机械，拥抱自然](https://sspai.com/post/88722)
 -  13 [派早报：HTC 推出 U24 Pro 手机、Android 测试防盗功能等](https://sspai.com/post/89560)
 -  12 [捧读、Miraa 开发者周楷雯都装了啥？](https://sspai.com/prime/story/zhuanglesha-240612)
 -  12 [2024 德国欧洲杯观赛指南](https://sspai.com/post/89490)
--  12 [80 后到 00 后，他们在用 PiPods 听……](https://sspai.com/post/78464)
--  12 [Apple 2024 年设计奖揭幕，这 14 款应用是今年的赢家](https://sspai.com/post/89465)<!-- sspai:END -->
+-  12 [80 后到 00 后，他们在用 PiPods 听……](https://sspai.com/post/78464)<!-- sspai:END -->
