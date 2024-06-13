@@ -44,6 +44,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  13 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  13 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  12 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
@@ -54,8 +55,7 @@
 -  12 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  12 [Whitelist CPM Bidding can work on Galaksion too?!?!?!](https://afflift.com/f/threads/whitelist-cpm-bidding-can-work-on-galaksion-too.13262/)
 -  12 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
--  12 [Question about a banned FB ad account](https://afflift.com/f/threads/question-about-a-banned-fb-ad-account.13274/)
--  12 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)<!-- afflift:END -->
+-  12 [Question about a banned FB ad account](https://afflift.com/f/threads/question-about-a-banned-fb-ad-account.13274/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
