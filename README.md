@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [🆓 Free Consulting Call with MGID&#39;s Leadership? Yes, Please! 🆓](https://afflift.com/f/threads/%F0%9F%86%93-free-consulting-call-with-mgids-leadership-yes-please-%F0%9F%86%93.13288/)
 -  13 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  13 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  13 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
@@ -49,8 +50,7 @@
 -  13 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)
 -  13 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  13 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  13 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
--  13 [Maximize Pride: LGBTQ+ Dating Offers Guide 🏳️‍🌈](https://afflift.com/f/threads/maximize-pride-lgbtq-dating-offers-guide-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88.13286/)<!-- afflift:END -->
+-  13 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
