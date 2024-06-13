@@ -28,8 +28,7 @@
 <!-- advertcn3:START -->
 -  13 [不是我发很多遍是我发布了上传的图片都不显示](https://www.advertcn.com/thread-115341-1-1.html)
 -  13 [昨天遇到个大骗子，朋友们警惕呀，骗子无处不在呀气死...](https://www.advertcn.com/thread-115339-1-1.html)
--  12 [细分领域的一个工具新站，想搞清楚访问者从哪里来](https://www.advertcn.com/thread-115335-1-1.html)
--  12 [关于cloudflare DMCA，不知道大家发现没](https://www.advertcn.com/thread-115331-1-1.html)<!-- advertcn3:END -->
+-  12 [细分领域的一个工具新站，想搞清楚访问者从哪里来](https://www.advertcn.com/thread-115335-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
