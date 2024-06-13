@@ -41,6 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
+-  13 [Step 1 - Apply for Zeydoo Affiliate Network](https://afflift.com/f/threads/step-1-apply-for-zeydoo-affiliate-network.7472/)
 -  13 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  13 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  13 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
@@ -50,9 +52,7 @@
 -  13 [Question about a banned FB ad account](https://afflift.com/f/threads/question-about-a-banned-fb-ad-account.13274/)
 -  13 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  13 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  13 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  12 [Need Help Scaling Profitable Campaigns Across Ad Networks](https://afflift.com/f/threads/need-help-scaling-profitable-campaigns-across-ad-networks.13277/)
--  12 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)<!-- afflift:END -->
+-  13 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
