@@ -17,10 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  12 [英国亚马逊市场高速增长，码住这几个策略助你快速抢占...](https://www.advertcn.com/thread-115321-1-1.html)
--  12 [缺啥都不行！原来在英国银行开户有这么多讲究](https://www.advertcn.com/thread-115320-1-1.html)
--  12 [跨境电商：外贸增长新引擎，构筑国际经济合作精准优势](https://www.advertcn.com/thread-115318-1-1.html)
--  12 [收藏！2024在美国开公司需要交哪些税？](https://www.advertcn.com/thread-115317-1-1.html)<!-- advertcn1:END -->
+-  13 [亚马逊英国大动作，注册英国公司更便捷！](https://www.advertcn.com/thread-115345-1-1.html)
+-  13 [香港银行开户攻略——境外投资必备，如何拥有一张香港...](https://www.advertcn.com/thread-115344-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
