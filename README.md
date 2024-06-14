@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  14 [X-T50 使用体验：富士的最后一个爆款？](https://sspai.com/post/89599)
 -  14 [派早报：荣耀发布 Magic V Flip 折叠屏手机，影石发布 Insta360 GO 3S 相机等](https://sspai.com/post/89594)
--  13 [新玩意 184｜少数派的编辑们最近买了啥？](https://sspai.com/post/89580)
--  13 [WWDC24 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/89541)<!-- sspai:END -->
+-  13 [新玩意 184｜少数派的编辑们最近买了啥？](https://sspai.com/post/89580)<!-- sspai:END -->
