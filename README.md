@@ -41,18 +41,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Free Invoice Template in Google Sheets](https://afflift.com/f/threads/free-invoice-template-in-google-sheets.13289/)
+-  14 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
+-  14 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
+-  14 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)
+-  14 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
 -  14 [Remember 7search?](https://afflift.com/f/threads/remember-7search.12505/)
 -  14 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
--  14 [Free Invoice Template in Google Sheets](https://afflift.com/f/threads/free-invoice-template-in-google-sheets.13289/)
 -  14 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
 -  14 [GOLDEN GOOSE - join the leaders of mVAS market](https://afflift.com/f/threads/golden-goose-join-the-leaders-of-mvas-market.5191/)
 -  14 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
 -  14 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)
--  14 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
--  14 [Using the Binom v2 API](https://afflift.com/f/threads/using-the-binom-v2-api.13066/)
--  14 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
--  14 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  14 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)<!-- afflift:END -->
+-  14 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
