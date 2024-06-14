@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Using the Binom v2 API](https://afflift.com/f/threads/using-the-binom-v2-api.13066/)
 -  14 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  14 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  14 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
@@ -48,8 +49,7 @@
 -  13 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
 -  13 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
 -  13 [🆓 Free Consulting Call with MGID&#39;s Leadership? Yes, Please! 🆓](https://afflift.com/f/threads/%F0%9F%86%93-free-consulting-call-with-mgids-leadership-yes-please-%F0%9F%86%93.13288/)
--  13 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  13 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)<!-- afflift:END -->
+-  13 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
