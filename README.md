@@ -55,7 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  14 [派早报：荣耀发布 Magic V Flip 折叠屏手机，影石发布 Insta360 GO 3S 相机等](https://sspai.com/post/89594)
 -  13 [新玩意 184｜少数派的编辑们最近买了啥？](https://sspai.com/post/89580)
 -  13 [WWDC24 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/89541)
--  13 [Windows 设计史 03 | Windows XP：摆脱机械，拥抱自然](https://sspai.com/post/88722)
--  13 [派早报：HTC 推出 U24 Pro 手机、Android 测试防盗功能等](https://sspai.com/post/89560)<!-- sspai:END -->
+-  13 [Windows 设计史 03 | Windows XP：摆脱机械，拥抱自然](https://sspai.com/post/88722)<!-- sspai:END -->
