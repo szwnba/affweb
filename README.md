@@ -13,8 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  14 [最便宜的通配符SSL域名证书，仅99元首年](https://51.ruyo.net/18686.html)
--  13 [国内无法访问下载Docker镜像的多种解决方案](https://51.ruyo.net/18687.html)<!-- ruyo:END -->
+-  14 [最便宜的通配符SSL域名证书，仅99元首年](https://51.ruyo.net/18686.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
