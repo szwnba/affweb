@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
 -  14 [Free Invoice Template in Google Sheets](https://afflift.com/f/threads/free-invoice-template-in-google-sheets.13289/)
 -  14 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  14 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
@@ -50,8 +51,7 @@
 -  14 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)
 -  14 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  14 [STEP 16 - Success / Failure Stories](https://afflift.com/f/threads/step-16-success-failure-stories.12327/)
--  14 [How to Promote Financial Offers via Facebook in 2024. Guide from PDL-Profit](https://afflift.com/f/threads/how-to-promote-financial-offers-via-facebook-in-2024-guide-from-pdl-profit.13290/)
--  14 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  14 [How to Promote Financial Offers via Facebook in 2024. Guide from PDL-Profit](https://afflift.com/f/threads/how-to-promote-financial-offers-via-facebook-in-2024-guide-from-pdl-profit.13290/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
