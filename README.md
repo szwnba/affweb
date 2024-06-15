@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  15 [广告做到roi 500-1000%也是牛逼的不行](https://www.advertcn.com/thread-115377-1-1.html)
 -  15 [用AI造谣日入1万，一天最高产出7000篇谣言，最后只拘留5日?](https://www.advertcn.com/thread-115375-1-1.html)
 -  15 [寻找跟踪器和优化大佬 我跑直链 无法显示点击和转化！](https://www.advertcn.com/thread-115374-1-1.html)
 -  15 [还是得坚持啊](https://www.advertcn.com/thread-115372-1-1.html)
