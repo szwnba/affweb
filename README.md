@@ -40,8 +40,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  15 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
+-  15 [Biz Opp / Make money Online](https://afflift.com/f/threads/biz-opp-make-money-online.13292/)
 -  15 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
+-  15 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
 -  15 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  15 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  15 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
@@ -50,8 +51,7 @@
 -  14 [What to Do if Competitors Click on Your Ads To Waste Your Ad Budget: Proven Protection Strategies and Tools](https://afflift.com/f/threads/what-to-do-if-competitors-click-on-your-ads-to-waste-your-ad-budget-proven-protection-strategies-and-tools.13285/)
 -  14 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  14 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
--  14 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
--  14 [Free Invoice Template in Google Sheets](https://afflift.com/f/threads/free-invoice-template-in-google-sheets.13289/)<!-- afflift:END -->
+-  14 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
