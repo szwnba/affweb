@@ -17,9 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  14 [新人报道](https://www.advertcn.com/thread-115366-1-1.html)
--  14 [2024年新加坡银行最全开户攻略!](https://www.advertcn.com/thread-115361-1-1.html)
--  14 [银行开户-美国华美银行开户指南](https://www.advertcn.com/thread-115360-1-1.html)<!-- advertcn1:END -->
+-  14 [新人报道](https://www.advertcn.com/thread-115366-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
