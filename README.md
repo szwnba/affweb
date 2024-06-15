@@ -41,6 +41,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
+-  15 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
+-  15 [Interested In Pay Per Call? Here&#39;s A Good Opportunity For YOU &amp; The Forum](https://afflift.com/f/threads/interested-in-pay-per-call-heres-a-good-opportunity-for-you-the-forum.13294/)
+-  15 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
 -  15 [Biz Opp / Make money Online](https://afflift.com/f/threads/biz-opp-make-money-online.13292/)
 -  15 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  15 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
@@ -48,8 +52,7 @@
 -  15 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  15 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
 -  15 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
--  15 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  15 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)<!-- afflift:END -->
+-  15 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
