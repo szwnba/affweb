@@ -49,10 +49,7 @@
 -  15 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
 -  15 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  15 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  15 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
--  14 [Adsterra + RollerAds = PROFIT?!?!](https://afflift.com/f/threads/adsterra-rollerads-profit.13252/)
--  14 [What to Do if Competitors Click on Your Ads To Waste Your Ad Budget: Proven Protection Strategies and Tools](https://afflift.com/f/threads/what-to-do-if-competitors-click-on-your-ads-to-waste-your-ad-budget-proven-protection-strategies-and-tools.13285/)
--  14 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)<!-- afflift:END -->
+-  15 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
