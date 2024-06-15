@@ -58,5 +58,4 @@
 <!-- sspai:START -->
 -  15 [WWDC24 开幕式，该聊还是得聊两句](https://sspai.com/post/89581)
 -  14 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/89614)
--  14 [小风扇常见，但可以降温的「高速吹风机」你不妨一试](https://sspai.com/post/81440)
--  14 [具透 | 全心全意，只属于你：iOS 18 中值得关注的新特性](https://sspai.com/post/89561)<!-- sspai:END -->
+-  14 [小风扇常见，但可以降温的「高速吹风机」你不妨一试](https://sspai.com/post/81440)<!-- sspai:END -->
