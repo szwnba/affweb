@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  15 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
 -  15 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  15 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
@@ -51,8 +52,7 @@
 -  15 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  15 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
 -  15 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  15 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
--  15 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)<!-- afflift:END -->
+-  15 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
