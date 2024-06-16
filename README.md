@@ -57,5 +57,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  15 [劝老人体检难过高考？不如先了解一下他们需要的这些细节](https://sspai.com/post/89624)
--  15 [跨专业转行、裸辞、自媒体……活了 34 年我才看清「迷茫」的真相](https://sspai.com/post/89248)
--  15 [WWDC24 开幕式，该聊还是得聊两句](https://sspai.com/post/89581)<!-- sspai:END -->
+-  15 [跨专业转行、裸辞、自媒体……活了 34 年我才看清「迷茫」的真相](https://sspai.com/post/89248)<!-- sspai:END -->
