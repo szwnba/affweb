@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  16 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
 -  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  15 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
@@ -50,8 +51,7 @@
 -  15 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  15 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  15 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)
--  15 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  15 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)<!-- afflift:END -->
+-  15 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
