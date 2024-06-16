@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  16 [Shopify 电商品牌创造数百万美元收入，正在寻找合作伙伴：](https://www.advertcn.com/thread-115384-1-1.html)
 -  16 [好久没来广告中国，今天第一次跑正，记录下](https://www.advertcn.com/thread-115383-1-1.html)
 -  16 [衰，发现clickbank把我的五个号全封了，客服回信说](https://www.advertcn.com/thread-115382-1-1.html)<!-- advertcn3:END -->
 
