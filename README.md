@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Profitable Bundle: 65,47% ROI on Cryptomania Offer with Galaksion Popunder](https://afflift.com/f/threads/profitable-bundle-65-47-roi-on-cryptomania-offer-with-galaksion-popunder.12852/)
 -  16 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)
 -  16 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  16 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
