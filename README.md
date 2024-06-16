@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  16 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  16 [Profitable Bundle: 65,47% ROI on Cryptomania Offer with Galaksion Popunder](https://afflift.com/f/threads/profitable-bundle-65-47-roi-on-cryptomania-offer-with-galaksion-popunder.12852/)
 -  16 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)
