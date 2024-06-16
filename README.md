@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  14 [新人报道](https://www.advertcn.com/thread-115366-1-1.html)<!-- advertcn1:END -->
+-  16 [联盟平台上要求填写的Property具体指的什么](https://www.advertcn.com/thread-115379-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
