@@ -53,5 +53,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  16 [具透 | iPadOS 18：史诗级更新「计算器」来了，这些变化也值得一试](https://sspai.com/post/89644)
--  15 [劝老人体检难过高考？不如先了解一下他们需要的这些细节](https://sspai.com/post/89624)<!-- sspai:END -->
+-  16 [具透 | iPadOS 18：史诗级更新「计算器」来了，这些变化也值得一试](https://sspai.com/post/89644)<!-- sspai:END -->
