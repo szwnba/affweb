@@ -41,8 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
 -  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  15 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
 -  15 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  15 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  15 [Interested In Pay Per Call? Here&#39;s A Good Opportunity For YOU &amp; The Forum](https://afflift.com/f/threads/interested-in-pay-per-call-heres-a-good-opportunity-for-you-the-forum.13294/)
