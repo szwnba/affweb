@@ -26,8 +26,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  16 [好久没来广告中国，今天第一次跑正，记录下](https://www.advertcn.com/thread-115383-1-1.html)
--  16 [衰，发现clickbank把我的五个号全封了，客服回信说](https://www.advertcn.com/thread-115382-1-1.html)
--  15 [广告做到roi 500-1000%也是牛逼的不行](https://www.advertcn.com/thread-115377-1-1.html)<!-- advertcn3:END -->
+-  16 [衰，发现clickbank把我的五个号全封了，客服回信说](https://www.advertcn.com/thread-115382-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
