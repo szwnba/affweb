@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)
 -  16 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  16 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  16 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
@@ -46,10 +47,7 @@
 -  15 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  15 [Interested In Pay Per Call? Here&#39;s A Good Opportunity For YOU &amp; The Forum](https://afflift.com/f/threads/interested-in-pay-per-call-heres-a-good-opportunity-for-you-the-forum.13294/)
 -  15 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
--  15 [Biz Opp / Make money Online](https://afflift.com/f/threads/biz-opp-make-money-online.13292/)
--  15 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
--  15 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  15 [Stable agency accounts](https://afflift.com/f/threads/stable-agency-accounts.12994/)<!-- afflift:END -->
+-  15 [Biz Opp / Make money Online](https://afflift.com/f/threads/biz-opp-make-money-online.13292/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
