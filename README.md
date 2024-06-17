@@ -52,5 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  17 [派早报：YouTube 测试在服务端向视频植入广告](https://sspai.com/post/89656)
--  16 [具透 | iPadOS 18：史诗级更新「计算器」来了，这些变化也值得一试](https://sspai.com/post/89644)<!-- sspai:END -->
+-  17 [派早报：YouTube 测试在服务端向视频植入广告](https://sspai.com/post/89656)<!-- sspai:END -->
