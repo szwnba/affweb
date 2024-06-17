@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [$300profit/day what you think?](https://afflift.com/f/threads/300profit-day-what-you-think.13245/)
 -  17 [Biz Opp / Make money Online](https://afflift.com/f/threads/biz-opp-make-money-online.13292/)
 -  17 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  17 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
@@ -52,8 +53,7 @@
 -  17 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  17 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
 -  17 [How to View Offer page on Different OS from my PC?](https://afflift.com/f/threads/how-to-view-offer-page-on-different-os-from-my-pc.13296/)
--  17 [Profitable Bundle: 65,47% ROI on Cryptomania Offer with Galaksion Popunder](https://afflift.com/f/threads/profitable-bundle-65-47-roi-on-cryptomania-offer-with-galaksion-popunder.12852/)
--  17 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)<!-- afflift:END -->
+-  17 [Profitable Bundle: 65,47% ROI on Cryptomania Offer with Galaksion Popunder](https://afflift.com/f/threads/profitable-bundle-65-47-roi-on-cryptomania-offer-with-galaksion-popunder.12852/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
