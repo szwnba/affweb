@@ -43,18 +43,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  17 [How to View Offer page on Different OS from my PC?](https://afflift.com/f/threads/how-to-view-offer-page-on-different-os-from-my-pc.13296/)
+-  17 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
+-  17 [Let&#39;s Connect in Lisbon 🌟 Networking Opportunity on June 19-20](https://afflift.com/f/threads/lets-connect-in-lisbon-%F0%9F%8C%9F-networking-opportunity-on-june-19-20.13297/)
+-  17 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
+-  17 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)
+-  17 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
+-  17 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  17 [The Infamous “Magic Button” Landing Page](https://afflift.com/f/threads/the-infamous-%E2%80%9Cmagic-button%E2%80%9D-landing-page.12213/)
+-  17 [How to View Offer page on Different OS from my PC?](https://afflift.com/f/threads/how-to-view-offer-page-on-different-os-from-my-pc.13296/)
 -  17 [Profitable Bundle: 65,47% ROI on Cryptomania Offer with Galaksion Popunder](https://afflift.com/f/threads/profitable-bundle-65-47-roi-on-cryptomania-offer-with-galaksion-popunder.12852/)
 -  17 [⚡ I&#39;ve tested redirect speeds for 6 different trackers. Here are my results! 📈](https://afflift.com/f/threads/%E2%9A%A1-ive-tested-redirect-speeds-for-6-different-trackers-here-are-my-results-%F0%9F%93%88.13113/)
 -  17 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
--  17 [Biz Opp / Make money Online](https://afflift.com/f/threads/biz-opp-make-money-online.13292/)
--  17 [↪️ How to avoid tracker redirects? &lpar;works with Facebook and Google Ads campaigns&rpar;](https://afflift.com/f/threads/%E2%86%AA%EF%B8%8F-how-to-avoid-tracker-redirects-works-with-facebook-and-google-ads-campaigns.13295/)
--  17 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
--  17 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
--  17 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
--  17 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  17 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)<!-- afflift:END -->
+-  17 [Biz Opp / Make money Online](https://afflift.com/f/threads/biz-opp-make-money-online.13292/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
