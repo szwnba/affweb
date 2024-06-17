@@ -17,8 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  17 [新人报道，在做aff广告](https://www.advertcn.com/thread-115386-1-1.html)
--  16 [联盟平台上要求填写的Property具体指的什么](https://www.advertcn.com/thread-115379-1-1.html)<!-- advertcn1:END -->
+-  17 [新人，请问google adsense 现在审核要多久啊？](https://www.advertcn.com/thread-115387-1-1.html)
+-  17 [新人报道，在做aff广告](https://www.advertcn.com/thread-115386-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
