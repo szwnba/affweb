@@ -52,4 +52,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [挑选适合自己的夏日被子，享受凉爽舒适睡眠](https://sspai.com/post/89135)
 -  17 [派早报：YouTube 测试在服务端向视频植入广告](https://sspai.com/post/89656)<!-- sspai:END -->
