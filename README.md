@@ -57,6 +57,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [天气逐渐变热，派商店带你解锁夏日饮品新配方](https://sspai.com/post/79882)
+-  17 [派评 | 近期值得关注的 App](https://sspai.com/post/89677)
 -  17 [具透 | 关心健康，更关心你：watchOS 11 中值得关注的更新](https://sspai.com/post/89662)
 -  17 [挑选适合自己的夏日被子，享受凉爽舒适睡眠](https://sspai.com/post/89135)
 -  17 [派早报：YouTube 测试在服务端向视频植入广告](https://sspai.com/post/89656)<!-- sspai:END -->
