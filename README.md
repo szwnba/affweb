@@ -31,8 +31,7 @@
 -  17 [Google ads 绑卡，邮件都是过去式了，随便聊聊，说不定对你有启发。](https://www.advertcn.com/thread-115398-1-1.html)
 -  17 [求耳鸣offer](https://www.advertcn.com/thread-115394-1-1.html)
 -  17 [Smart Proxy 住宅代理的优势](https://www.advertcn.com/thread-115390-1-1.html)
--  17 [大家是如何处理税务问题的？](https://www.advertcn.com/thread-115388-1-1.html)
--  16 [Shopify 电商品牌创造数百万美元收入，正在寻找合作伙伴：](https://www.advertcn.com/thread-115384-1-1.html)<!-- advertcn3:END -->
+-  17 [大家是如何处理税务问题的？](https://www.advertcn.com/thread-115388-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
