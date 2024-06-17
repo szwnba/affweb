@@ -28,6 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  17 [Google ads 绑卡，邮件都是过去式了，随便聊聊，说不定对你有启发。](https://www.advertcn.com/thread-115398-1-1.html)
 -  17 [求耳鸣offer](https://www.advertcn.com/thread-115394-1-1.html)
 -  17 [Smart Proxy 住宅代理的优势](https://www.advertcn.com/thread-115390-1-1.html)
 -  17 [大家是如何处理税务问题的？](https://www.advertcn.com/thread-115388-1-1.html)
