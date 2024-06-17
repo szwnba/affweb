@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Asocks.com | Trusted Mobile Proxies | $3=1GB | Get a Trial](https://afflift.com/f/threads/asocks-com-trusted-mobile-proxies-3-1gb-get-a-trial.12806/)
 -  17 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
 -  17 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  17 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
@@ -51,8 +52,7 @@
 -  17 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  17 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
 -  16 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
--  16 [Profitable Bundle: 65,47% ROI on Cryptomania Offer with Galaksion Popunder](https://afflift.com/f/threads/profitable-bundle-65-47-roi-on-cryptomania-offer-with-galaksion-popunder.12852/)
--  16 [Running Traffic on Landings? Get Cashback on Your Traffic with Push Notifications!🚀](https://afflift.com/f/threads/running-traffic-on-landings-get-cashback-on-your-traffic-with-push-notifications-%F0%9F%9A%80.13268/)<!-- afflift:END -->
+-  16 [Profitable Bundle: 65,47% ROI on Cryptomania Offer with Galaksion Popunder](https://afflift.com/f/threads/profitable-bundle-65-47-roi-on-cryptomania-offer-with-galaksion-popunder.12852/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
