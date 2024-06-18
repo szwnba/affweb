@@ -33,8 +33,7 @@
 -  18 [怎么知道Tiktok和Facebook哪个更适合你？FB的投放流程来咯](https://www.advertcn.com/thread-115415-1-1.html)
 -  18 [什么？Meta近期又推出了多项新功能更新？？](https://www.advertcn.com/thread-115413-1-1.html)
 -  18 [DFO Global/VerveDirect affiliate 招募](https://www.advertcn.com/thread-115408-1-1.html)
--  18 [注册主机站帐户，用那款邮箱稳定，长久，不封？](https://www.advertcn.com/thread-115407-1-1.html)
--  17 [Google ads 绑卡，邮件都是过去式了，随便聊聊，说不定对你有启发。](https://www.advertcn.com/thread-115398-1-1.html)<!-- advertcn3:END -->
+-  18 [注册主机站帐户，用那款邮箱稳定，长久，不封？](https://www.advertcn.com/thread-115407-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
