@@ -44,6 +44,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
+-  18 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+-  18 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  18 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  18 [Do Push Notifications Have Low Conversion Rates and Low-Quality Traffic? Let&#39;s Debunk the Myths](https://afflift.com/f/threads/do-push-notifications-have-low-conversion-rates-and-low-quality-traffic-lets-debunk-the-myths.13300/)
 -  18 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
@@ -52,10 +55,7 @@
 -  18 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  18 [How to View Offer page on Different OS from my PC?](https://afflift.com/f/threads/how-to-view-offer-page-on-different-os-from-my-pc.13296/)
 -  18 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
--  18 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  18 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  18 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)
--  18 [RichAds: Premium push, pop, in-page, calendar, direct click, native traffic!](https://afflift.com/f/threads/richads-premium-push-pop-in-page-calendar-direct-click-native-traffic.991/)<!-- afflift:END -->
+-  18 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
