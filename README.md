@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  14 [最便宜的通配符SSL域名证书，仅99元首年](https://51.ruyo.net/18686.html)<!-- ruyo:END -->
+-  18 [国内开通ChatGPT Plus相对稳定的方式：Apple内购](https://51.ruyo.net/18681.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
