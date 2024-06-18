@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  18 [如何隐藏真实的MAC地址和IP地址，保证多账户的安全？](https://www.advertcn.com/thread-115405-1-1.html)
 -  18 [新人报道](https://www.advertcn.com/thread-115403-1-1.html)
 -  17 [美国公司注册后可以变更的信息有哪些？](https://www.advertcn.com/thread-115397-1-1.html)
 -  17 [如何利用香港公司来控股内地公司](https://www.advertcn.com/thread-115396-1-1.html)<!-- advertcn1:END -->
