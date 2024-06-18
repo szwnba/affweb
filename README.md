@@ -29,6 +29,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  18 [DFO Global/VerveDirect affiliate 招募](https://www.advertcn.com/thread-115408-1-1.html)
+-  18 [注册主机站帐户，用那款邮箱稳定，长久，不封？](https://www.advertcn.com/thread-115407-1-1.html)
 -  17 [Google ads 绑卡，邮件都是过去式了，随便聊聊，说不定对你有启发。](https://www.advertcn.com/thread-115398-1-1.html)
 -  17 [求耳鸣offer](https://www.advertcn.com/thread-115394-1-1.html)<!-- advertcn3:END -->
 
