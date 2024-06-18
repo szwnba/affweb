@@ -61,5 +61,4 @@
 -  18 [移动的家绕不开用电问题：聊聊房车上关于电的那些事](https://sspai.com/post/88929)
 -  18 [派早报：尼康发布 Z6Ⅲ 相机，软银与 AI 搜索引擎 Perplexity 达成战略合作等](https://sspai.com/post/89685)
 -  17 [天气逐渐变热，派商店带你解锁夏日饮品新配方](https://sspai.com/post/79882)
--  17 [派评 | 近期值得关注的 App](https://sspai.com/post/89677)
--  17 [具透 | 关心健康，更关心你：watchOS 11 中值得关注的更新](https://sspai.com/post/89662)<!-- sspai:END -->
+-  17 [派评 | 近期值得关注的 App](https://sspai.com/post/89677)<!-- sspai:END -->
