@@ -43,9 +43,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  18 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)
--  18 [↪️ How to avoid tracker redirects? &lpar;works with Facebook and Google Ads campaigns&rpar;](https://afflift.com/f/threads/%E2%86%AA%EF%B8%8F-how-to-avoid-tracker-redirects-works-with-facebook-and-google-ads-campaigns.13295/)
 -  18 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
+-  18 [↪️ How to avoid tracker redirects? &lpar;works with Facebook and Google Ads campaigns&rpar;](https://afflift.com/f/threads/%E2%86%AA%EF%B8%8F-how-to-avoid-tracker-redirects-works-with-facebook-and-google-ads-campaigns.13295/)
+-  18 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)
 -  18 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  18 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
 -  17 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
