@@ -41,9 +41,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  18 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  18 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
--  17 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  17 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  17 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)
 -  17 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
