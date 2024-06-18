@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  18 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
+-  18 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
+-  17 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  17 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  17 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)
 -  17 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
--  17 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  17 [Native + VSLs = Conversions!](https://afflift.com/f/threads/native-vsls-conversions.10913/)
 -  17 [$300profit/day what you think?](https://afflift.com/f/threads/300profit-day-what-you-think.13245/)
 -  17 [Biz Opp / Make money Online](https://afflift.com/f/threads/biz-opp-make-money-online.13292/)
 -  17 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  17 [Looking for recommendations for networks with WH lead-gen offers](https://afflift.com/f/threads/looking-for-recommendations-for-networks-with-wh-lead-gen-offers.13236/)
--  17 [Let&#39;s Connect in Lisbon 🌟 Networking Opportunity on June 19-20](https://afflift.com/f/threads/lets-connect-in-lisbon-%F0%9F%8C%9F-networking-opportunity-on-june-19-20.13297/)
--  17 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
--  17 [Looking for those Job Offers](https://afflift.com/f/threads/looking-for-those-job-offers.13271/)<!-- afflift:END -->
+-  17 [Let&#39;s Connect in Lisbon 🌟 Networking Opportunity on June 19-20](https://afflift.com/f/threads/lets-connect-in-lisbon-%F0%9F%8C%9F-networking-opportunity-on-june-19-20.13297/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
