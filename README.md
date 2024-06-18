@@ -60,6 +60,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  18 [具透 | macOS Sequoia 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/89629)
 -  18 [移动的家绕不开用电问题：聊聊房车上关于电的那些事](https://sspai.com/post/88929)
 -  18 [派早报：尼康发布 Z6Ⅲ 相机，软银与 AI 搜索引擎 Perplexity 达成战略合作等](https://sspai.com/post/89685)
 -  17 [天气逐渐变热，派商店带你解锁夏日饮品新配方](https://sspai.com/post/79882)
