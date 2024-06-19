@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
 -  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  19 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
 -  19 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
@@ -47,8 +48,7 @@
 -  19 [LeadScout | The Top Loan Affiliate Program in Canada](https://afflift.com/f/threads/leadscout-the-top-loan-affiliate-program-in-canada.13306/)
 -  19 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  19 [Enjoy Copa America and Win Big with Adsterra: Exciting Prizes Are Waiting For You!](https://afflift.com/f/threads/enjoy-copa-america-and-win-big-with-adsterra-exciting-prizes-are-waiting-for-you.13305/)
--  19 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
--  19 [Adsterra - Global Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-global-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)<!-- afflift:END -->
+-  19 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
