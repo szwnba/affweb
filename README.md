@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
 -  19 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  19 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  19 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
@@ -47,8 +48,7 @@
 -  19 [Ready-Made Bundle: Zeydoo CPL and SOI Offers + Galaksion Popunder = $665 in a Month! [Case]](https://afflift.com/f/threads/ready-made-bundle-zeydoo-cpl-and-soi-offers-galaksion-popunder-665-in-a-month-case.13307/)
 -  19 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  19 [LeadScout | The Top Loan Affiliate Program in Canada](https://afflift.com/f/threads/leadscout-the-top-loan-affiliate-program-in-canada.13306/)
--  19 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)<!-- afflift:END -->
+-  19 [LeadScout | The Top Loan Affiliate Program in Canada](https://afflift.com/f/threads/leadscout-the-top-loan-affiliate-program-in-canada.13306/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
