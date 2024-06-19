@@ -37,6 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
+-  19 [Enjoy Copa America and Win Big with Adsterra: Exciting Prizes Are Waiting For You!](https://afflift.com/f/threads/enjoy-copa-america-and-win-big-with-adsterra-exciting-prizes-are-waiting-for-you.13305/)
+-  19 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
 -  19 [Adsterra - Global Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-global-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
 -  19 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  19 [CIPIAI Tech Network. Join our beta](https://afflift.com/f/threads/cipiai-tech-network-join-our-beta.13303/)
@@ -45,10 +48,7 @@
 -  19 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  19 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  19 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  18 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  18 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)
--  18 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
--  18 [Help to promote dating offers and get SEO traffic](https://afflift.com/f/threads/help-to-promote-dating-offers-and-get-seo-traffic.13152/)<!-- afflift:END -->
+-  18 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
