@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  19 [Adcombo要跑路了？崩溃24小时了](https://www.advertcn.com/thread-115423-1-1.html)
--  18 [[非直客广告主] Meta新产品测试](https://www.advertcn.com/thread-115417-1-1.html)<!-- advertcn3:END -->
+-  19 [Adcombo要跑路了？崩溃24小时了](https://www.advertcn.com/thread-115423-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
