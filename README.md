@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  18 [做跨境电商怎么选择目标市场？八大热门市场分析](https://www.advertcn.com/thread-115410-1-1.html)
 -  18 [亚马逊占据美国电商40%，如何快速抢占美国亚马逊市场？](https://www.advertcn.com/thread-115409-1-1.html)
--  18 [如何优化Instagram的SEO？7个关键技巧。](https://www.advertcn.com/thread-115406-1-1.html)
--  18 [如何隐藏真实的MAC地址和IP地址，保证多账户的安全？](https://www.advertcn.com/thread-115405-1-1.html)<!-- advertcn1:END -->
+-  18 [如何优化Instagram的SEO？7个关键技巧。](https://www.advertcn.com/thread-115406-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
