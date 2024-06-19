@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
+-  19 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  19 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
 -  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  19 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
@@ -46,9 +48,7 @@
 -  19 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  19 [LeadScout | The Top Loan Affiliate Program in Canada](https://afflift.com/f/threads/leadscout-the-top-loan-affiliate-program-in-canada.13306/)
--  19 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  19 [Enjoy Copa America and Win Big with Adsterra: Exciting Prizes Are Waiting For You!](https://afflift.com/f/threads/enjoy-copa-america-and-win-big-with-adsterra-exciting-prizes-are-waiting-for-you.13305/)
--  19 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)<!-- afflift:END -->
+-  19 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
