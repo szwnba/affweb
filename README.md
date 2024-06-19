@@ -26,9 +26,8 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  18 [[非直客广告主] Meta新产品测试](https://www.advertcn.com/thread-115417-1-1.html)
--  18 [怎么知道Tiktok和Facebook哪个更适合你？FB的投放流程来咯](https://www.advertcn.com/thread-115415-1-1.html)
--  18 [什么？Meta近期又推出了多项新功能更新？？](https://www.advertcn.com/thread-115413-1-1.html)<!-- advertcn3:END -->
+-  19 [Adcombo要跑路了？崩溃24小时了](https://www.advertcn.com/thread-115423-1-1.html)
+-  18 [[非直客广告主] Meta新产品测试](https://www.advertcn.com/thread-115417-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
