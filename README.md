@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  19 [CIPIAI Tech Network. Join our beta](https://afflift.com/f/threads/cipiai-tech-network-join-our-beta.13303/)
 -  19 [Do Push Notifications Have Low Conversion Rates and Low-Quality Traffic? Let&#39;s Debunk the Myths](https://afflift.com/f/threads/do-push-notifications-have-low-conversion-rates-and-low-quality-traffic-lets-debunk-the-myths.13300/)
 -  19 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
@@ -47,8 +48,7 @@
 -  18 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)
 -  18 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
 -  18 [Help to promote dating offers and get SEO traffic](https://afflift.com/f/threads/help-to-promote-dating-offers-and-get-seo-traffic.13152/)
--  18 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  18 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)<!-- afflift:END -->
+-  18 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
