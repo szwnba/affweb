@@ -37,6 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
+-  19 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
+-  19 [Why Your Google Ads Campaigns Attract Irrelevant Traffic and How to Fix It.](https://afflift.com/f/threads/why-your-google-ads-campaigns-attract-irrelevant-traffic-and-how-to-fix-it.13309/)
 -  19 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
 -  19 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  19 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
@@ -45,10 +48,7 @@
 -  19 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
 -  19 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  19 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
--  19 [Ready-Made Bundle: Zeydoo CPL and SOI Offers + Galaksion Popunder = $665 in a Month! [Case]](https://afflift.com/f/threads/ready-made-bundle-zeydoo-cpl-and-soi-offers-galaksion-popunder-665-in-a-month-case.13307/)
--  19 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  19 [LeadScout | The Top Loan Affiliate Program in Canada](https://afflift.com/f/threads/leadscout-the-top-loan-affiliate-program-in-canada.13306/)<!-- afflift:END -->
+-  19 [Ready-Made Bundle: Zeydoo CPL and SOI Offers + Galaksion Popunder = $665 in a Month! [Case]](https://afflift.com/f/threads/ready-made-bundle-zeydoo-cpl-and-soi-offers-galaksion-popunder-665-in-a-month-case.13307/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
