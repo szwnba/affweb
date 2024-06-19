@@ -57,6 +57,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  19 [沪漂七年、搬家七次，我的选房思路与租房好物分享](https://sspai.com/post/89127)
 -  19 [派早报：Meta 发布 Threads API、美国司法部就订阅续费问题起诉 Adobe 等](https://sspai.com/post/89720)
 -  18 [新品首发 | 玩出个性桌搭，好拼、好看、好玩的积木插座来了](https://sspai.com/post/89696)
 -  18 [社区速递 049 | 洛阳自驾游、派友升级中以及作者的新玩意](https://sspai.com/post/89710)
