@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  19 [LeadScout | The Top Loan Affiliate Program in Canada](https://afflift.com/f/threads/leadscout-the-top-loan-affiliate-program-in-canada.13306/)
 -  19 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  19 [Enjoy Copa America and Win Big with Adsterra: Exciting Prizes Are Waiting For You!](https://afflift.com/f/threads/enjoy-copa-america-and-win-big-with-adsterra-exciting-prizes-are-waiting-for-you.13305/)
 -  19 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
@@ -46,9 +48,7 @@
 -  19 [Do Push Notifications Have Low Conversion Rates and Low-Quality Traffic? Let&#39;s Debunk the Myths](https://afflift.com/f/threads/do-push-notifications-have-low-conversion-rates-and-low-quality-traffic-lets-debunk-the-myths.13300/)
 -  19 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  19 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  19 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
--  19 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  18 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)<!-- afflift:END -->
+-  19 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
