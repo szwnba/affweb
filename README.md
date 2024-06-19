@@ -61,5 +61,4 @@
 -  19 [派早报：Meta 发布 Threads API、美国司法部就订阅续费问题起诉 Adobe 等](https://sspai.com/post/89720)
 -  18 [新品首发 | 玩出个性桌搭，好拼、好看、好玩的积木插座来了](https://sspai.com/post/89696)
 -  18 [社区速递 049 | 洛阳自驾游、派友升级中以及作者的新玩意](https://sspai.com/post/89710)
--  18 [具透 | macOS Sequoia 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/89629)
--  18 [移动的家绕不开用电问题：聊聊房车上关于电的那些事](https://sspai.com/post/88929)<!-- sspai:END -->
+-  18 [具透 | macOS Sequoia 首个测试版上线，这些是值得你关注的新功能](https://sspai.com/post/89629)<!-- sspai:END -->
