@@ -37,6 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  19 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
+-  19 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  19 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
 -  19 [Ready-Made Bundle: Zeydoo CPL and SOI Offers + Galaksion Popunder = $665 in a Month! [Case]](https://afflift.com/f/threads/ready-made-bundle-zeydoo-cpl-and-soi-offers-galaksion-popunder-665-in-a-month-case.13307/)
 -  19 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
@@ -45,10 +48,7 @@
 -  19 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  19 [Enjoy Copa America and Win Big with Adsterra: Exciting Prizes Are Waiting For You!](https://afflift.com/f/threads/enjoy-copa-america-and-win-big-with-adsterra-exciting-prizes-are-waiting-for-you.13305/)
 -  19 [BroPush - profitable traffic monetization via push notifications | 97% RevShare](https://afflift.com/f/threads/bropush-profitable-traffic-monetization-via-push-notifications-97-revshare.7840/)
--  19 [Adsterra - Global Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-global-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
--  19 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  19 [CIPIAI Tech Network. Join our beta](https://afflift.com/f/threads/cipiai-tech-network-join-our-beta.13303/)
--  19 [Do Push Notifications Have Low Conversion Rates and Low-Quality Traffic? Let&#39;s Debunk the Myths](https://afflift.com/f/threads/do-push-notifications-have-low-conversion-rates-and-low-quality-traffic-lets-debunk-the-myths.13300/)<!-- afflift:END -->
+-  19 [Adsterra - Global Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-global-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
