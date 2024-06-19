@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  19 [Do Push Notifications Have Low Conversion Rates and Low-Quality Traffic? Let&#39;s Debunk the Myths](https://afflift.com/f/threads/do-push-notifications-have-low-conversion-rates-and-low-quality-traffic-lets-debunk-the-myths.13300/)
+-  19 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  19 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
 -  19 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  19 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
@@ -48,9 +50,7 @@
 -  18 [Help to promote dating offers and get SEO traffic](https://afflift.com/f/threads/help-to-promote-dating-offers-and-get-seo-traffic.13152/)
 -  18 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  18 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
--  18 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  18 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)
--  18 [CIPIAI Tech Network. Join our beta](https://afflift.com/f/threads/cipiai-tech-network-join-our-beta.13303/)<!-- afflift:END -->
+-  18 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
