@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
+-  20 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  20 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  20 [📣Online Casino Is Looking For Traffic](https://afflift.com/f/threads/%F0%9F%93%A3online-casino-is-looking-for-traffic.12212/)
 -  20 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
@@ -46,9 +48,7 @@
 -  20 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  19 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
 -  19 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
--  19 [Why Your Google Ads Campaigns Attract Irrelevant Traffic and How to Fix It.](https://afflift.com/f/threads/why-your-google-ads-campaigns-attract-irrelevant-traffic-and-how-to-fix-it.13309/)
--  19 [🔥Global success starts here: 888STARZ Partners affiliate program!🔥](https://afflift.com/f/threads/%F0%9F%94%A5global-success-starts-here-888starz-partners-affiliate-program-%F0%9F%94%A5.12803/)
--  19 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)<!-- afflift:END -->
+-  19 [Why Your Google Ads Campaigns Attract Irrelevant Traffic and How to Fix It.](https://afflift.com/f/threads/why-your-google-ads-campaigns-attract-irrelevant-traffic-and-how-to-fix-it.13309/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
