@@ -26,7 +26,6 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  20 [FB广告开户账户二不限三不限，找合作,欢迎咨询~](https://www.advertcn.com/thread-115431-1-1.html)
 -  19 [Adcombo要跑路了？崩溃24小时了](https://www.advertcn.com/thread-115423-1-1.html)<!-- advertcn3:END -->
 
 
