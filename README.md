@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
+-  20 [Binom causes &quot;Dangerous site&quot; warning?](https://afflift.com/f/threads/binom-causes-dangerous-site-warning.13314/)
 -  20 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
 -  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  20 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
@@ -48,9 +50,7 @@
 -  20 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  20 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
 -  20 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  20 [Do Push Notifications Have Low Conversion Rates and Low-Quality Traffic? Let&#39;s Debunk the Myths](https://afflift.com/f/threads/do-push-notifications-have-low-conversion-rates-and-low-quality-traffic-lets-debunk-the-myths.13300/)
--  20 [AI image generation tools for advertisers](https://afflift.com/f/threads/ai-image-generation-tools-for-advertisers.13313/)
--  20 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)<!-- afflift:END -->
+-  20 [Do Push Notifications Have Low Conversion Rates and Low-Quality Traffic? Let&#39;s Debunk the Myths](https://afflift.com/f/threads/do-push-notifications-have-low-conversion-rates-and-low-quality-traffic-lets-debunk-the-myths.13300/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
