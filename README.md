@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
 -  20 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  20 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  19 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
@@ -48,8 +49,7 @@
 -  19 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
 -  19 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  19 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
--  19 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
--  19 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)<!-- afflift:END -->
+-  19 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
