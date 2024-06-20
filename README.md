@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  20 [how would u read this kpis](https://afflift.com/f/threads/how-would-u-read-this-kpis.13311/)
+-  20 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
+-  20 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
+-  20 [Monetizer Push Collection Landing Page](https://afflift.com/f/threads/monetizer-push-collection-landing-page.13059/)
 -  20 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  20 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  20 [Do Push Notifications Have Low Conversion Rates and Low-Quality Traffic? Let&#39;s Debunk the Myths](https://afflift.com/f/threads/do-push-notifications-have-low-conversion-rates-and-low-quality-traffic-lets-debunk-the-myths.13300/)
 -  20 [AI image generation tools for advertisers](https://afflift.com/f/threads/ai-image-generation-tools-for-advertisers.13313/)
 -  20 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  20 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  20 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
--  20 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  20 [Propeller + GG + One GEO](https://afflift.com/f/threads/propeller-gg-one-geo.12860/)
--  20 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  20 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
--  20 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)<!-- afflift:END -->
+-  20 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
