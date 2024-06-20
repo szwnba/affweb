@@ -52,8 +52,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  20 [Linux 游戏生态览：真的有人用它来打游戏吗？](https://sspai.com/post/89743)
 -  19 [派早报：Apple Vision Pro 国区 App Store 已上线、腾讯成为 2024 巴黎奥运会特许转播商等](https://sspai.com/post/89752)
 -  19 [新疆的十天，在伊犁遇见人生最美景色](https://sspai.com/post/88904)
 -  19 [具透 | 这或许才是完全体的 Vision Pro，VisionOS 2 中值得你关注的新功能](https://sspai.com/post/89704)
--  19 [如果生命可以描出画面，我们该用什么方式记录](https://sspai.com/post/89678)
--  19 [沪漂七年、搬家七次，我的选房思路与租房好物分享](https://sspai.com/post/89127)<!-- sspai:END -->
+-  19 [如果生命可以描出画面，我们该用什么方式记录](https://sspai.com/post/89678)<!-- sspai:END -->
