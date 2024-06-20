@@ -17,8 +17,9 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  19 [花旗在日本成立商业银行部门](https://www.advertcn.com/thread-115425-1-1.html)
--  19 [跨境卖家如何利用“香港公司”实现财税合规？](https://www.advertcn.com/thread-115424-1-1.html)<!-- advertcn1:END -->
+-  20 [NETS 和 DGN 在新加坡扩大信用卡受理范围](https://www.advertcn.com/thread-115439-1-1.html)
+-  20 [2024年来美新移民必看：开设美国银行帐户攻略](https://www.advertcn.com/thread-115438-1-1.html)
+-  20 [可以同时运行多个LinkedIn账户吗？](https://www.advertcn.com/thread-115437-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
