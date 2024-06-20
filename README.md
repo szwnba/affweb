@@ -40,17 +40,17 @@
 ### afflift
 <!-- afflift:START -->
 -  20 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
+-  20 [Binom causes &quot;Dangerous site&quot; warning?](https://afflift.com/f/threads/binom-causes-dangerous-site-warning.13314/)
+-  20 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
 -  20 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
 -  20 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  20 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  20 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
--  20 [Binom causes &quot;Dangerous site&quot; warning?](https://afflift.com/f/threads/binom-causes-dangerous-site-warning.13314/)
 -  20 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  20 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
 -  20 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
--  20 [how would u read this kpis](https://afflift.com/f/threads/how-would-u-read-this-kpis.13311/)
--  20 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)<!-- afflift:END -->
+-  20 [how would u read this kpis](https://afflift.com/f/threads/how-would-u-read-this-kpis.13311/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
