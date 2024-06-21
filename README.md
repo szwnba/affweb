@@ -42,6 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Crypto Forex Traffic needed](https://afflift.com/f/threads/crypto-forex-traffic-needed.9342/)
+-  21 [FTD Company: Exclusive hot HQ/WW Leadgen, Forex, Crypto](https://afflift.com/f/threads/ftd-company-exclusive-hot-hq-ww-leadgen-forex-crypto.13320/)
 -  21 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  21 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  21 [Adcash CPA Target Optimization &lpar;and Profit&rpar;](https://afflift.com/f/threads/adcash-cpa-target-optimization-and-profit.9511/)
@@ -51,9 +53,7 @@
 -  21 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  21 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
 -  21 [Generating Home Service Calls?](https://afflift.com/f/threads/generating-home-service-calls.13319/)
--  21 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
--  21 [Using Postman to query Binom v2 API](https://afflift.com/f/threads/using-postman-to-query-binom-v2-api.13315/)
--  21 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  21 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
