@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [派早报：Anthropic 发布 Claude 3.5 Sonnet 模型等](https://sspai.com/post/89783)
 -  20 [新玩意 185｜少数派的编辑们最近买了啥？](https://sspai.com/post/89771)
 -  20 [我晕：iPhone 的新辅助功能，真能让你不晕车？](https://sspai.com/post/89765)
 -  20 [Linux 游戏生态览：真的有人用它来打游戏吗？](https://sspai.com/post/89743)<!-- sspai:END -->
