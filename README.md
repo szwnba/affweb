@@ -41,11 +41,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [Binom causes &quot;Dangerous site&quot; warning?](https://afflift.com/f/threads/binom-causes-dangerous-site-warning.13314/)
 -  21 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
 -  21 [Adsterra + RollerAds = PROFIT?!?!](https://afflift.com/f/threads/adsterra-rollerads-profit.13252/)
 -  21 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  21 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  21 [Binom causes &quot;Dangerous site&quot; warning?](https://afflift.com/f/threads/binom-causes-dangerous-site-warning.13314/)
 -  20 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
 -  20 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
 -  20 [Adcash + RollerAds = PROFIT?!?!?!](https://afflift.com/f/threads/adcash-rollerads-profit.13107/)
