@@ -40,8 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Adsterra + RollerAds = PROFIT?!?!](https://afflift.com/f/threads/adsterra-rollerads-profit.13252/)
 -  21 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
+-  21 [Adsterra + RollerAds = PROFIT?!?!](https://afflift.com/f/threads/adsterra-rollerads-profit.13252/)
 -  21 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  21 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  21 [Binom causes &quot;Dangerous site&quot; warning?](https://afflift.com/f/threads/binom-causes-dangerous-site-warning.13314/)
