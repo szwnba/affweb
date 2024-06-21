@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  20 [新玩意 185｜少数派的编辑们最近买了啥？](https://sspai.com/post/89771)
 -  20 [我晕：iPhone 的新辅助功能，真能让你不晕车？](https://sspai.com/post/89765)
--  20 [Linux 游戏生态览：真的有人用它来打游戏吗？](https://sspai.com/post/89743)
--  19 [派早报：Apple Vision Pro 国区 App Store 已上线、腾讯成为 2024 巴黎奥运会特许转播商等](https://sspai.com/post/89752)<!-- sspai:END -->
+-  20 [Linux 游戏生态览：真的有人用它来打游戏吗？](https://sspai.com/post/89743)<!-- sspai:END -->
