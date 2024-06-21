@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  21 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
+-  21 [Spin and Win](https://afflift.com/f/threads/spin-and-win.12812/)
 -  21 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  21 [Binom causes &quot;Dangerous site&quot; warning?](https://afflift.com/f/threads/binom-causes-dangerous-site-warning.13314/)
 -  20 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
@@ -48,9 +50,7 @@
 -  20 [Looking for beta testers &lpar;ProPush tool&rpar;](https://afflift.com/f/threads/looking-for-beta-testers-propush-tool.11522/)
 -  20 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  20 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  20 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
--  20 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)
--  20 [how would u read this kpis](https://afflift.com/f/threads/how-would-u-read-this-kpis.13311/)<!-- afflift:END -->
+-  20 [Linken Sphere 9 - new generation antidetect browser](https://afflift.com/f/threads/linken-sphere-9-new-generation-antidetect-browser.12681/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
