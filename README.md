@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  21 [苹果将关闭Apple Pay Later](https://www.advertcn.com/thread-115454-1-1.html)
 -  21 [如何开立香港个人账户？香港五大银行开户流程介绍](https://www.advertcn.com/thread-115453-1-1.html)
 -  21 [提供全球跨境支付:稳定不用担心突然封号，无需海外主体...](https://www.advertcn.com/thread-115447-1-1.html)
 -  20 [NETS 和 DGN 在新加坡扩大信用卡受理范围](https://www.advertcn.com/thread-115439-1-1.html)
