@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  21 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
+-  21 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
+-  21 [Adcash CPA Target Optimization &lpar;and Profit&rpar;](https://afflift.com/f/threads/adcash-cpa-target-optimization-and-profit.9511/)
+-  21 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
 -  21 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
+-  21 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
+-  21 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
+-  21 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
 -  21 [Generating Home Service Calls?](https://afflift.com/f/threads/generating-home-service-calls.13319/)
 -  21 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
 -  21 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  21 [Using Postman to query Binom v2 API](https://afflift.com/f/threads/using-postman-to-query-binom-v2-api.13315/)
--  21 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  21 [3000+ offers for 180+ GEOs: Check out our iCPA and Promos](https://afflift.com/f/threads/3000-offers-for-180-geos-check-out-our-icpa-and-promos.9783/)
--  21 [Adcash CPA Target Optimization &lpar;and Profit&rpar;](https://afflift.com/f/threads/adcash-cpa-target-optimization-and-profit.9511/)
--  21 [Which affiliate networks companies have the most e-commerce CPS  offers?](https://afflift.com/f/threads/which-affiliate-networks-companies-have-the-most-e-commerce-cps-offers.13317/)
--  21 [Adsterra + RollerAds = PROFIT?!?!](https://afflift.com/f/threads/adsterra-rollerads-profit.13252/)
--  21 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)<!-- afflift:END -->
+-  21 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
