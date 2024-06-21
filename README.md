@@ -58,7 +58,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  21 [从应届生到社会人：我的职场生长经验录](https://sspai.com/post/89736)
 -  21 [时隔两年再度封神？《艾尔登法环 黄金树幽影》游玩体验](https://sspai.com/post/89739)
 -  21 [派早报：Anthropic 发布 Claude 3.5 Sonnet 模型等](https://sspai.com/post/89783)
--  20 [新玩意 185｜少数派的编辑们最近买了啥？](https://sspai.com/post/89771)
--  20 [我晕：iPhone 的新辅助功能，真能让你不晕车？](https://sspai.com/post/89765)<!-- sspai:END -->
+-  20 [新玩意 185｜少数派的编辑们最近买了啥？](https://sspai.com/post/89771)<!-- sspai:END -->
