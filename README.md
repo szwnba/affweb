@@ -55,6 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  22 [WWDC24 在现场：我们听到了这些开发者的声音](https://sspai.com/post/89816)
 -  21 [iOS 18 的图标自定义有什么问题？](https://sspai.com/prime/story/ios-18-tinted-icon-issues)
 -  21 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/89815)
 -  21 [从应届生到社会人：我的职场生长经验录](https://sspai.com/post/89736)<!-- sspai:END -->
