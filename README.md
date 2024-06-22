@@ -46,8 +46,7 @@
 -  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  22 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  22 [Facebook browser question](https://afflift.com/f/threads/facebook-browser-question.13325/)
--  22 [App to Boost 🚀 Your EPV/EPC on ANY vertical](https://afflift.com/f/threads/app-to-boost-%F0%9F%9A%80-your-epv-epc-on-any-vertical.13323/)
--  21 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)<!-- afflift:END -->
+-  22 [App to Boost 🚀 Your EPV/EPC on ANY vertical](https://afflift.com/f/threads/app-to-boost-%F0%9F%9A%80-your-epv-epc-on-any-vertical.13323/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
