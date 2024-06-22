@@ -42,10 +42,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  22 [App to Boost 🚀 Your EPV/EPC on ANY vertical](https://afflift.com/f/threads/app-to-boost-%F0%9F%9A%80-your-epv-epc-on-any-vertical.13323/)
 -  22 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
 -  21 [Adcash CPA Target Optimization &lpar;and Profit&rpar;](https://afflift.com/f/threads/adcash-cpa-target-optimization-and-profit.9511/)
--  21 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  21 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  21 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  21 [Crypto Forex Traffic needed](https://afflift.com/f/threads/crypto-forex-traffic-needed.9342/)
