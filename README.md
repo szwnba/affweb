@@ -36,9 +36,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
 -  22 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  22 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  22 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
 -  22 [Adcash CPA Target Optimization &lpar;and Profit&rpar;](https://afflift.com/f/threads/adcash-cpa-target-optimization-and-profit.9511/)
 -  22 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  22 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
