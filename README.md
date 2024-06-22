@@ -60,5 +60,4 @@
 -  21 [iOS 18 的图标自定义有什么问题？](https://sspai.com/prime/story/ios-18-tinted-icon-issues)
 -  21 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/89815)
 -  21 [从应届生到社会人：我的职场生长经验录](https://sspai.com/post/89736)
--  21 [时隔两年再度封神？《艾尔登法环 黄金树幽影》游玩体验](https://sspai.com/post/89739)
--  21 [派早报：Anthropic 发布 Claude 3.5 Sonnet 模型等](https://sspai.com/post/89783)<!-- sspai:END -->
+-  21 [时隔两年再度封神？《艾尔登法环 黄金树幽影》游玩体验](https://sspai.com/post/89739)<!-- sspai:END -->
