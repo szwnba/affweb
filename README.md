@@ -36,9 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  22 [Facebook browser question](https://afflift.com/f/threads/facebook-browser-question.13325/)
--  22 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
+-  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  22 [Adstera link](https://afflift.com/f/threads/adstera-link.13324/)
+-  22 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
+-  22 [Facebook browser question](https://afflift.com/f/threads/facebook-browser-question.13325/)
 -  22 [Adcash CPA Target Optimization &lpar;and Profit&rpar;](https://afflift.com/f/threads/adcash-cpa-target-optimization-and-profit.9511/)
 -  22 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  22 [App to Boost 🚀 Your EPV/EPC on ANY vertical](https://afflift.com/f/threads/app-to-boost-%F0%9F%9A%80-your-epv-epc-on-any-vertical.13323/)
@@ -46,8 +47,7 @@
 -  21 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  21 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  21 [Crypto Forex Traffic needed](https://afflift.com/f/threads/crypto-forex-traffic-needed.9342/)
--  21 [🔥 𝐅𝐓𝐃 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: 𝐄𝐱𝐜𝐥𝐮𝐬𝐢𝐯𝐞 𝐡𝐨𝐭 𝐇𝐐/𝐖𝐖 𝐋𝐞𝐚𝐝𝐠𝐞𝐧, 𝐅𝐨𝐫𝐞𝐱, 𝐂𝐫𝐲𝐩𝐭𝐨](https://afflift.com/f/threads/%F0%9F%94%A5-%F0%9D%90%85%F0%9D%90%93%F0%9D%90%83-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%B2-%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E-%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%AD-%F0%9D%90%87%F0%9D%90%90-%F0%9D%90%96%F0%9D%90%96-%F0%9D%90%8B%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A7-%F0%9D%90%85%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%B1-%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%AD%F0%9D%90%A8.13320/)
--  21 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)<!-- afflift:END -->
+-  21 [🔥 𝐅𝐓𝐃 𝐂𝐨𝐦𝐩𝐚𝐧𝐲: 𝐄𝐱𝐜𝐥𝐮𝐬𝐢𝐯𝐞 𝐡𝐨𝐭 𝐇𝐐/𝐖𝐖 𝐋𝐞𝐚𝐝𝐠𝐞𝐧, 𝐅𝐨𝐫𝐞𝐱, 𝐂𝐫𝐲𝐩𝐭𝐨](https://afflift.com/f/threads/%F0%9F%94%A5-%F0%9D%90%85%F0%9D%90%93%F0%9D%90%83-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%B2-%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E-%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%AD-%F0%9D%90%87%F0%9D%90%90-%F0%9D%90%96%F0%9D%90%96-%F0%9D%90%8B%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A7-%F0%9D%90%85%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%B1-%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%AD%F0%9D%90%A8.13320/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
