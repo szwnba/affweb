@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  22 [App to Boost 🚀 Your EPV/EPC on ANY vertical](https://afflift.com/f/threads/app-to-boost-%F0%9F%9A%80-your-epv-epc-on-any-vertical.13323/)
 -  22 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
 -  21 [Adcash CPA Target Optimization &lpar;and Profit&rpar;](https://afflift.com/f/threads/adcash-cpa-target-optimization-and-profit.9511/)
 -  21 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
@@ -52,8 +53,7 @@
 -  21 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  21 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
 -  21 [Propellerads zones by theme](https://afflift.com/f/threads/propellerads-zones-by-theme.13293/)
--  21 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  21 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)<!-- afflift:END -->
+-  21 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
