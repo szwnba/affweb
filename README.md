@@ -29,8 +29,7 @@
 -  21 [请问各位大佬一般在哪里买便宜得WP插件和主题？](https://www.advertcn.com/thread-115457-1-1.html)
 -  21 [见鬼了， Limited by search volume](https://www.advertcn.com/thread-115456-1-1.html)
 -  21 [GG又要更新了](https://www.advertcn.com/thread-115452-1-1.html)
--  21 [Facebook Enterprise advertiser](https://www.advertcn.com/thread-115451-1-1.html)
--  21 [求推荐可以跑套利的广告平台](https://www.advertcn.com/thread-115450-1-1.html)<!-- advertcn3:END -->
+-  21 [Facebook Enterprise advertiser](https://www.advertcn.com/thread-115451-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
