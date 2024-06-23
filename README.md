@@ -47,8 +47,7 @@
 -  23 [Financial traffic on geo Malaysia🇲🇾](https://afflift.com/f/threads/financial-traffic-on-geo-malaysia%F0%9F%87%B2%F0%9F%87%BE.13327/)
 -  22 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  22 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  22 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
--  22 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
+-  22 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
