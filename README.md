@@ -17,7 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  21 [苹果将关闭Apple Pay Later](https://www.advertcn.com/thread-115454-1-1.html)<!-- advertcn1:END -->
+-  23 [大佬们，除了亚马逊联盟，还有别的类似的好申请的联盟吗](https://www.advertcn.com/thread-115469-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
