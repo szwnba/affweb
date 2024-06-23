@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Changing click url in Bulk in Aws &lpar; for landing pages &rpar;](https://afflift.com/f/threads/changing-click-url-in-bulk-in-aws-for-landing-pages.13328/)
 -  23 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  23 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
 -  23 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
