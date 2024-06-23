@@ -39,9 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  23 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
+-  23 [Need something to laugh?](https://afflift.com/f/threads/need-something-to-laugh.13329/)
 -  23 [Changing click url in Bulk in Aws &lpar; for landing pages &rpar;](https://afflift.com/f/threads/changing-click-url-in-bulk-in-aws-for-landing-pages.13328/)
 -  23 [Upwork accounts](https://afflift.com/f/threads/upwork-accounts.13330/)
--  23 [Need something to laugh?](https://afflift.com/f/threads/need-something-to-laugh.13329/)
 -  23 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)
 -  23 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  23 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
@@ -49,8 +50,7 @@
 -  23 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  23 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
 -  23 [Financial traffic on geo Malaysia🇲🇾](https://afflift.com/f/threads/financial-traffic-on-geo-malaysia%F0%9F%87%B2%F0%9F%87%BE.13327/)
--  22 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
--  22 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)<!-- afflift:END -->
+-  22 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
