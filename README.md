@@ -39,8 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  23 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  23 [Need something to laugh?](https://afflift.com/f/threads/need-something-to-laugh.13329/)
+-  23 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  23 [Changing click url in Bulk in Aws &lpar; for landing pages &rpar;](https://afflift.com/f/threads/changing-click-url-in-bulk-in-aws-for-landing-pages.13328/)
 -  23 [Upwork accounts](https://afflift.com/f/threads/upwork-accounts.13330/)
 -  23 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)
