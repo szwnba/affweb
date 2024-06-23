@@ -47,9 +47,7 @@
 -  22 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
 -  22 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  22 [Adcash CPA Target Optimization &lpar;and Profit&rpar;](https://afflift.com/f/threads/adcash-cpa-target-optimization-and-profit.9511/)
--  22 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  22 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
--  22 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)<!-- afflift:END -->
+-  22 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
