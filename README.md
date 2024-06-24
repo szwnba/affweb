@@ -54,4 +54,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  24 [WWDC 横幅：可能是苹果又一项失传的手艺](https://sspai.com/post/89448)
 -  24 [派早报：TikTok 就反对美国禁令提交法律意见](https://sspai.com/post/89868)<!-- sspai:END -->
