@@ -37,13 +37,13 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  24 [🌿💰 Global Green Profits: Scaling Success! 🌍🚀](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B0-global-green-profits-scaling-success-%F0%9F%8C%8D%F0%9F%9A%80.13167/)
 -  24 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
 -  24 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
 -  24 [🖼️ 100 Free Creatives for Push Notifications!](https://afflift.com/f/threads/%F0%9F%96%BC%EF%B8%8F-100-free-creatives-for-push-notifications.13336/)
 -  24 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  24 [Modify push collection alert?](https://afflift.com/f/threads/modify-push-collection-alert.13340/)
--  24 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  24 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)
 -  24 [Need something to laugh?](https://afflift.com/f/threads/need-something-to-laugh.13329/)
 -  24 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)
