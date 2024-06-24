@@ -17,6 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  24 [印度金融情报部门对币安处以 220 万美元罚款](https://www.advertcn.com/thread-115479-1-1.html)
+-  24 [NatWest 银行将收购 Sainsbury 银行业务](https://www.advertcn.com/thread-115478-1-1.html)
 -  23 [大佬们，除了亚马逊联盟，还有别的类似的好申请的联盟吗](https://www.advertcn.com/thread-115469-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
