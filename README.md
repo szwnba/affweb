@@ -54,4 +54,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  22 [WWDC24 在现场：我们听到了这些开发者的声音](https://sspai.com/post/89816)<!-- sspai:END -->
+-  24 [派早报：TikTok 就反对美国禁令提交法律意见](https://sspai.com/post/89868)<!-- sspai:END -->
