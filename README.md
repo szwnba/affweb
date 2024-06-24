@@ -37,6 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Does anyone know how to get on Snapchat?](https://afflift.com/f/threads/does-anyone-know-how-to-get-on-snapchat.13334/)
+-  24 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
+-  24 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  24 [It&#39;s Traffic Nomads 4th Birthday!!](https://afflift.com/f/threads/its-traffic-nomads-4th-birthday.13333/)
 -  24 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  24 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  24 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
@@ -44,11 +48,7 @@
 -  24 [Are CPA campaigns in test period supposed to show 0 cost?](https://afflift.com/f/threads/are-cpa-campaigns-in-test-period-supposed-to-show-0-cost.13331/)
 -  24 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  24 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)
--  23 [Need something to laugh?](https://afflift.com/f/threads/need-something-to-laugh.13329/)
--  23 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
--  23 [Changing click url in Bulk in Aws &lpar; for landing pages &rpar;](https://afflift.com/f/threads/changing-click-url-in-bulk-in-aws-for-landing-pages.13328/)
--  23 [Upwork accounts](https://afflift.com/f/threads/upwork-accounts.13330/)
--  23 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)<!-- afflift:END -->
+-  23 [Need something to laugh?](https://afflift.com/f/threads/need-something-to-laugh.13329/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
