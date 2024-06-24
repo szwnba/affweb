@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
+-  24 [Need something to laugh?](https://afflift.com/f/threads/need-something-to-laugh.13329/)
+-  24 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  24 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
+-  24 [Facebook browser question](https://afflift.com/f/threads/facebook-browser-question.13325/)
+-  24 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
+-  24 [Are CPA campaigns in test period supposed to show 0 cost?](https://afflift.com/f/threads/are-cpa-campaigns-in-test-period-supposed-to-show-0-cost.13331/)
+-  24 [Introducing BackUnder - Back Button + Popunder Script](https://afflift.com/f/threads/introducing-backunder-back-button-popunder-script.10073/)
+-  24 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  24 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
 -  24 [It&#39;s Traffic Nomads 4th Birthday!!](https://afflift.com/f/threads/its-traffic-nomads-4th-birthday.13333/)
--  24 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  24 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
--  24 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
--  24 [Google Ads Account Suspended - Circumventing Systems Policy](https://afflift.com/f/threads/google-ads-account-suspended-circumventing-systems-policy.13337/)
--  24 [🌿💰 Global Green Profits: Scaling Success! 🌍🚀](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B0-global-green-profits-scaling-success-%F0%9F%8C%8D%F0%9F%9A%80.13167/)
--  24 [Help with Upwork accounts ban](https://afflift.com/f/threads/help-with-upwork-accounts-ban.13330/)
--  24 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
--  24 [Services to Make Creatives and Landing Pages from RollerAds](https://afflift.com/f/threads/services-to-make-creatives-and-landing-pages-from-rollerads.13138/)
--  24 [🖼️ 100 Free Creatives for Push Notifications!](https://afflift.com/f/threads/%F0%9F%96%BC%EF%B8%8F-100-free-creatives-for-push-notifications.13336/)
--  24 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)<!-- afflift:END -->
+-  24 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
