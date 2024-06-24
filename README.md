@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  23 [美国某企业给了我几百万美元，我存在香港某银行，FBI会...](https://www.advertcn.com/thread-115471-1-1.html)
--  23 [求海外动态住宅ip，每个月20t需求量](https://www.advertcn.com/thread-115470-1-1.html)<!-- advertcn3:END -->
+-  23 [美国某企业给了我几百万美元，我存在香港某银行，FBI会...](https://www.advertcn.com/thread-115471-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
