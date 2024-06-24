@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
 -  24 [Are CPA campaigns in test period supposed to show 0 cost?](https://afflift.com/f/threads/are-cpa-campaigns-in-test-period-supposed-to-show-0-cost.13331/)
 -  24 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  24 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)
@@ -47,7 +48,6 @@
 -  23 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)
 -  23 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  23 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
--  23 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
 -  23 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)<!-- afflift:END -->
 
 ### 少数派
