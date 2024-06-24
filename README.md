@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  24 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
 -  24 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
 -  24 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
@@ -49,8 +50,7 @@
 -  23 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  23 [Changing click url in Bulk in Aws &lpar; for landing pages &rpar;](https://afflift.com/f/threads/changing-click-url-in-bulk-in-aws-for-landing-pages.13328/)
 -  23 [Upwork accounts](https://afflift.com/f/threads/upwork-accounts.13330/)
--  23 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)
--  23 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)<!-- afflift:END -->
+-  23 [Finally It Happened! News Websites Are Experiencing a Decline!](https://afflift.com/f/threads/finally-it-happened-news-websites-are-experiencing-a-decline.13090/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
