@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Are CPA campaigns in test period supposed to show 0 cost?](https://afflift.com/f/threads/are-cpa-campaigns-in-test-period-supposed-to-show-0-cost.13331/)
+-  24 [Trying to catch back up to an industry been in since 2006](https://afflift.com/f/threads/trying-to-catch-back-up-to-an-industry-been-in-since-2006.13299/)
 -  23 [Need something to laugh?](https://afflift.com/f/threads/need-something-to-laugh.13329/)
 -  23 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  23 [Changing click url in Bulk in Aws &lpar; for landing pages &rpar;](https://afflift.com/f/threads/changing-click-url-in-bulk-in-aws-for-landing-pages.13328/)
@@ -48,8 +50,7 @@
 -  23 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
 -  23 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
 -  23 [Record Of A Newbie&#39;s First Campaign](https://afflift.com/f/threads/record-of-a-newbies-first-campaign.12826/)
--  23 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)
--  23 [Financial traffic on geo Malaysia🇲🇾](https://afflift.com/f/threads/financial-traffic-on-geo-malaysia%F0%9F%87%B2%F0%9F%87%BE.13327/)<!-- afflift:END -->
+-  23 [🌿💸 Green Profits Quest: Scaling WW Offers! 🌍🚀 📲💥](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B8-green-profits-quest-scaling-ww-offers-%F0%9F%8C%8D%F0%9F%9A%80-%F0%9F%93%B2%F0%9F%92%A5.13167/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
