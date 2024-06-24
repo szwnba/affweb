@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  24 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  24 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
 -  24 [Modify push collection alert?](https://afflift.com/f/threads/modify-push-collection-alert.13340/)
 -  24 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  24 [iGaming Now Available on Trafee Affiliate Network](https://afflift.com/f/threads/igaming-now-available-on-trafee-affiliate-network.11601/)
@@ -46,9 +48,7 @@
 -  24 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  24 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  24 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  24 [Facebook browser question](https://afflift.com/f/threads/facebook-browser-question.13325/)
--  24 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
--  24 [Are CPA campaigns in test period supposed to show 0 cost?](https://afflift.com/f/threads/are-cpa-campaigns-in-test-period-supposed-to-show-0-cost.13331/)<!-- afflift:END -->
+-  24 [Facebook browser question](https://afflift.com/f/threads/facebook-browser-question.13325/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
