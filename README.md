@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  25 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
 -  25 [🖼️ 100 Free Creatives for Push Notifications!](https://afflift.com/f/threads/%F0%9F%96%BC%EF%B8%8F-100-free-creatives-for-push-notifications.13336/)
 -  25 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
@@ -47,8 +48,7 @@
 -  24 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
 -  24 [Modify push collection alert?](https://afflift.com/f/threads/modify-push-collection-alert.13340/)
 -  24 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  24 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)
--  24 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)<!-- afflift:END -->
+-  24 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
