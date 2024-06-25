@@ -54,7 +54,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [重燃了我折腾的心：特洛克积木插座小评](https://sspai.com/post/89830)
+-  25 [社区速递 050 | 宝宝辅食、类原生系统折腾、好眠技巧以及作者的新玩意](https://sspai.com/post/89919)
 -  25 [印度尼西亚：从布罗莫火山到精灵坠崖的魔幻之旅](https://sspai.com/post/89105)
 -  25 [自力更生 | 自托管前，你考虑过网络安全吗？](https://sspai.com/post/89837)
--  25 [派早报：微信推出高考查分渠道等整合服务，Meta 为 Quest 头显推出刷机工具等](https://sspai.com/post/89894)
--  24 [派评 | 近期值得关注的 App](https://sspai.com/post/89889)<!-- sspai:END -->
+-  25 [派早报：微信推出高考查分渠道等整合服务，Meta 为 Quest 头显推出刷机工具等](https://sspai.com/post/89894)<!-- sspai:END -->
