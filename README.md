@@ -52,6 +52,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [自力更生 | 自托管前，你考虑过网络安全吗？](https://sspai.com/post/89837)
 -  25 [派早报：微信推出高考查分渠道等整合服务，Meta 为 Quest 头显推出刷机工具等](https://sspai.com/post/89894)
 -  24 [派评 | 近期值得关注的 App](https://sspai.com/post/89889)
 -  24 [没有 E3 但新作扎堆：「御三家」的 6 月谁更精彩？](https://sspai.com/post/89876)<!-- sspai:END -->
