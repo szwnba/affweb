@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  25 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
 -  25 [Google Ads Account Suspended - Circumventing Systems Policy](https://afflift.com/f/threads/google-ads-account-suspended-circumventing-systems-policy.13337/)
 -  25 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  25 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
@@ -48,7 +49,6 @@
 -  25 [🖥️  How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/%F0%9F%96%A5%EF%B8%8F-how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
 -  25 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
 -  25 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  24 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
 -  24 [Modify push collection alert?](https://afflift.com/f/threads/modify-push-collection-alert.13340/)
 -  24 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
 
