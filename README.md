@@ -52,7 +52,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  25 [派早报：微信推出高考查分渠道等整合服务，Meta 为 Quest 头显推出刷机工具等](https://sspai.com/post/89894)
 -  24 [派评 | 近期值得关注的 App](https://sspai.com/post/89889)
 -  24 [没有 E3 但新作扎堆：「御三家」的 6 月谁更精彩？](https://sspai.com/post/89876)
--  24 [WWDC 横幅：可能是苹果又一项失传的手艺](https://sspai.com/post/89448)
--  24 [派早报：TikTok 就反对美国禁令提交法律意见](https://sspai.com/post/89868)<!-- sspai:END -->
+-  24 [WWDC 横幅：可能是苹果又一项失传的手艺](https://sspai.com/post/89448)<!-- sspai:END -->
