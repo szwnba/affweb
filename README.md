@@ -17,10 +17,9 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  25 [新人报道](https://www.advertcn.com/thread-115491-1-1.html)
 -  25 [NatWest 银行将收购 Sainsbury 银行业务](https://www.advertcn.com/thread-115489-1-1.html)
--  25 [英国暂停100多种商品进口税，跨境卖家如何抓住利好政策](https://www.advertcn.com/thread-115488-1-1.html)
--  24 [印度金融情报部门对币安处以 220 万美元罚款](https://www.advertcn.com/thread-115479-1-1.html)
--  24 [NatWest 银行将收购 Sainsbury 银行业务](https://www.advertcn.com/thread-115478-1-1.html)<!-- advertcn1:END -->
+-  25 [英国暂停100多种商品进口税，跨境卖家如何抓住利好政策](https://www.advertcn.com/thread-115488-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
