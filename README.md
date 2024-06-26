@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  26 [New Traffic Type is Here! Say Hello to Unforgettable Conversion Rates](https://afflift.com/f/threads/new-traffic-type-is-here-say-hello-to-unforgettable-conversion-rates.13358/)
 -  26 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
 -  26 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)
@@ -50,8 +51,7 @@
 -  26 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  26 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
 -  26 [Whitelisting for push collect](https://afflift.com/f/threads/whitelisting-for-push-collect.13356/)
--  26 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  26 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)<!-- afflift:END -->
+-  26 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
