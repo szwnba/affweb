@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  26 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  26 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  26 [Trackwill](https://afflift.com/f/threads/trackwill.4986/)
@@ -50,8 +51,7 @@
 -  26 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  26 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
 -  26 [Questions about exoclick account](https://afflift.com/f/threads/questions-about-exoclick-account.13350/)
--  26 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  26 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
+-  26 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
