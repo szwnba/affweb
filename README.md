@@ -19,9 +19,7 @@
 <!-- advertcn1:START -->
 -  26 [新人报道](https://www.advertcn.com/thread-115499-1-1.html)
 -  25 [新人报道](https://www.advertcn.com/thread-115496-1-1.html)
--  25 [新人报道](https://www.advertcn.com/thread-115491-1-1.html)
--  25 [NatWest 银行将收购 Sainsbury 银行业务](https://www.advertcn.com/thread-115489-1-1.html)
--  25 [英国暂停100多种商品进口税，跨境卖家如何抓住利好政策](https://www.advertcn.com/thread-115488-1-1.html)<!-- advertcn1:END -->
+-  25 [新人报道](https://www.advertcn.com/thread-115491-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
