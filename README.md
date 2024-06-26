@@ -40,7 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
--  25 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
+-  26 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
 -  25 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  25 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)
 -  25 [Google Ads Traking Help](https://afflift.com/f/threads/google-ads-traking-help.13344/)
