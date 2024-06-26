@@ -41,6 +41,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Google Ads Traking Help](https://afflift.com/f/threads/google-ads-traking-help.13344/)
 -  26 [Questions about exoclick account](https://afflift.com/f/threads/questions-about-exoclick-account.13350/)
 -  26 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  26 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
@@ -48,7 +49,6 @@
 -  26 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  26 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
 -  25 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)
--  25 [Google Ads Traking Help](https://afflift.com/f/threads/google-ads-traking-help.13344/)
 -  25 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  25 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  25 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
