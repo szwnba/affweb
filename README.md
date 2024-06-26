@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
+-  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  26 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  26 [New Traffic Type is Here! Say Hello to Unforgettable Conversion Rates](https://afflift.com/f/threads/new-traffic-type-is-here-say-hello-to-unforgettable-conversion-rates.13358/)
 -  26 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
@@ -49,9 +51,7 @@
 -  26 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  26 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  26 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
--  26 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
--  26 [Whitelisting for push collect](https://afflift.com/f/threads/whitelisting-for-push-collect.13356/)
--  26 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)<!-- afflift:END -->
+-  26 [Whitelisting for push collect](https://afflift.com/f/threads/whitelisting-for-push-collect.13356/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
