@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  26 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
 -  26 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
 -  26 [New Traffic Type is Here! Say Hello to Unforgettable Conversion Rates](https://afflift.com/f/threads/new-traffic-type-is-here-say-hello-to-unforgettable-conversion-rates.13358/)
@@ -50,8 +51,7 @@
 -  26 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
 -  26 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)
 -  26 [How to drive financial offers?💲](https://afflift.com/f/threads/how-to-drive-financial-offers-%F0%9F%92%B2.13360/)
--  26 [Google Ads Account Suspended - Circumventing Systems Policy](https://afflift.com/f/threads/google-ads-account-suspended-circumventing-systems-policy.13337/)
--  26 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)<!-- afflift:END -->
+-  26 [Google Ads Account Suspended - Circumventing Systems Policy](https://afflift.com/f/threads/google-ads-account-suspended-circumventing-systems-policy.13337/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
