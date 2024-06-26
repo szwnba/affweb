@@ -40,11 +40,11 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Follow Along: Running Click to Msg FB Camp to collect DM opt in - then DM weekly Newsletter](https://afflift.com/f/threads/follow-along-running-click-to-msg-fb-camp-to-collect-dm-opt-in-then-dm-weekly-newsletter.13361/)
 -  26 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  26 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
 -  26 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
 -  26 [New Traffic Type is Here! Say Hello to Unforgettable Conversion Rates](https://afflift.com/f/threads/new-traffic-type-is-here-say-hello-to-unforgettable-conversion-rates.13358/)
--  26 [Follow Along: Running Click to Msg FB Camp to collect DM opt in - then DM weekly Newsletter](https://afflift.com/f/threads/follow-along-running-click-to-msg-fb-camp-to-collect-dm-opt-in-then-dm-weekly-newsletter.13361/)
 -  26 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
 -  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  26 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
