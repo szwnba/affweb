@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  26 [新人报道](https://www.advertcn.com/thread-115499-1-1.html)
 -  25 [新人报道](https://www.advertcn.com/thread-115496-1-1.html)
 -  25 [新人报道](https://www.advertcn.com/thread-115491-1-1.html)
 -  25 [NatWest 银行将收购 Sainsbury 银行业务](https://www.advertcn.com/thread-115489-1-1.html)
