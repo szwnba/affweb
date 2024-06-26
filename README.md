@@ -42,6 +42,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [Questions about exoclick account](https://afflift.com/f/threads/questions-about-exoclick-account.13350/)
 -  26 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  26 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  26 [White crypto offers](https://afflift.com/f/threads/white-crypto-offers.13347/)
@@ -52,8 +53,7 @@
 -  25 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  25 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
 -  25 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
--  25 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  25 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)<!-- afflift:END -->
+-  25 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
