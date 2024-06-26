@@ -61,6 +61,4 @@
 <!-- sspai:START -->
 -  26 [除了显卡，玩转大模型的门槛还在哪？](https://sspai.com/post/89162)
 -  26 [在上海，当一天书店店长，参加一次电影节](https://sspai.com/post/89523)
--  26 [派早报：新款 Beats Pill 发布、欧盟对 Apple 展开进一步 DMA 违规调查等](https://sspai.com/post/89935)
--  25 [重燃了我折腾的心：特洛克积木插座小评](https://sspai.com/post/89830)
--  25 [社区速递 050 | 宝宝辅食、类原生系统折腾、好眠技巧以及作者的新玩意](https://sspai.com/post/89919)<!-- sspai:END -->
+-  26 [派早报：新款 Beats Pill 发布、欧盟对 Apple 展开进一步 DMA 违规调查等](https://sspai.com/post/89935)<!-- sspai:END -->
