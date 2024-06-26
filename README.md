@@ -31,8 +31,7 @@
 -  26 [咨询谷歌ads屏蔽恶意点击最有效的办法](https://www.advertcn.com/thread-115504-1-1.html)
 -  26 [Smart Proxy 住宅代理的优势](https://www.advertcn.com/thread-115500-1-1.html)
 -  26 [PAXUM 帐号突然被关了](https://www.advertcn.com/thread-115498-1-1.html)
--  25 [想要多赚广告币，看了教学唯一的方法](https://www.advertcn.com/thread-115493-1-1.html)
--  25 [请问有推荐不错的成年人流量广告平台吗](https://www.advertcn.com/thread-115492-1-1.html)<!-- advertcn3:END -->
+-  25 [想要多赚广告币，看了教学唯一的方法](https://www.advertcn.com/thread-115493-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
