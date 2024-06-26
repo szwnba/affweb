@@ -20,8 +20,7 @@
 -  26 [Klarna 出售 Checkout 业务](https://www.advertcn.com/thread-115503-1-1.html)
 -  26 [香港银行开户|2024最新东亚银行开户指南](https://www.advertcn.com/thread-115502-1-1.html)
 -  26 [新人报道](https://www.advertcn.com/thread-115499-1-1.html)
--  25 [新人报道](https://www.advertcn.com/thread-115496-1-1.html)
--  25 [新人报道](https://www.advertcn.com/thread-115491-1-1.html)<!-- advertcn1:END -->
+-  25 [新人报道](https://www.advertcn.com/thread-115496-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
