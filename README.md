@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  26 [New Traffic Type is Here! Say Hello to Unforgettable Conversion Rates](https://afflift.com/f/threads/new-traffic-type-is-here-say-hello-to-unforgettable-conversion-rates.13358/)
+-  26 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
+-  26 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)
+-  26 [How to drive financial offers?💲](https://afflift.com/f/threads/how-to-drive-financial-offers-%F0%9F%92%B2.13360/)
+-  26 [Google Ads Account Suspended - Circumventing Systems Policy](https://afflift.com/f/threads/google-ads-account-suspended-circumventing-systems-policy.13337/)
 -  26 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
+-  26 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  26 [PropellerAds - Your Advertising network &amp; Global traffic source](https://afflift.com/f/threads/propellerads-your-advertising-network-global-traffic-source.244/)
 -  26 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
 -  26 [Whitelisting for push collect](https://afflift.com/f/threads/whitelisting-for-push-collect.13356/)
--  26 [The referral program in PDL-Profit🤑](https://afflift.com/f/threads/the-referral-program-in-pdl-profit%F0%9F%A4%91.13355/)
--  26 [Mem of the day](https://afflift.com/f/threads/mem-of-the-day.13354/)
 -  26 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
--  26 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  26 [Time To Make Some Independent Moves](https://afflift.com/f/threads/time-to-make-some-independent-moves.13346/)
--  26 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  26 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  26 [🔔 Is ProPush still worth it? I&#39;ve tested 3 push monetization platforms!](https://afflift.com/f/threads/%F0%9F%94%94-is-propush-still-worth-it-ive-tested-3-push-monetization-platforms.12275/)
--  26 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)<!-- afflift:END -->
+-  26 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
