@@ -55,6 +55,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  26 [明讽强敌，暗渡陈仓：世纪之交的苹果如何悄悄转向英特尔](https://sspai.com/prime/story/ppc-history-11)
+-  26 [做好优化、选好软件：我是如何改善 Android 类原生 ROM 使用体验的](https://sspai.com/post/89282)
 -  26 [除了显卡，玩转大模型的门槛还在哪？](https://sspai.com/post/89162)
 -  26 [在上海，当一天书店店长，参加一次电影节](https://sspai.com/post/89523)
 -  26 [派早报：新款 Beats Pill 发布、欧盟对 Apple 展开进一步 DMA 违规调查等](https://sspai.com/post/89935)<!-- sspai:END -->
