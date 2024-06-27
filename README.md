@@ -17,8 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  26 [Klarna 出售 Checkout 业务](https://www.advertcn.com/thread-115503-1-1.html)
--  26 [香港银行开户|2024最新东亚银行开户指南](https://www.advertcn.com/thread-115502-1-1.html)<!-- advertcn1:END -->
+-  27 [亚马逊将开低价商店直接从中国发货；TikTok Shop菲律宾上新...](https://www.advertcn.com/thread-115511-1-1.html)
+-  27 [6个跨境电商亚马逊开设店铺必备的实用工具！](https://www.advertcn.com/thread-115509-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
