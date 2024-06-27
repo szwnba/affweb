@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Time To Make Some Independent Moves](https://afflift.com/f/threads/time-to-make-some-independent-moves.13346/)
+-  27 [Google Ads Account Suspended - Circumventing Systems Policy](https://afflift.com/f/threads/google-ads-account-suspended-circumventing-systems-policy.13337/)
 -  27 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  27 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
 -  27 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
@@ -46,9 +48,7 @@
 -  27 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  27 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  26 [Follow Along: Running Click to Msg FB Camp to collect DM opt in - then DM weekly Newsletter](https://afflift.com/f/threads/follow-along-running-click-to-msg-fb-camp-to-collect-dm-opt-in-then-dm-weekly-newsletter.13361/)
--  26 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
--  26 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
--  26 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)<!-- afflift:END -->
+-  26 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
