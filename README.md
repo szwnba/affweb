@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  26 [咨询谷歌ads屏蔽恶意点击最有效的办法](https://www.advertcn.com/thread-115504-1-1.html)
--  26 [Smart Proxy 住宅代理的优势](https://www.advertcn.com/thread-115500-1-1.html)<!-- advertcn3:END -->
+-  26 [咨询谷歌ads屏蔽恶意点击最有效的办法](https://www.advertcn.com/thread-115504-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
