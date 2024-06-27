@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  27 [☘️ Virtual credit card with 3% cashback for all payments | Visa, Mastercard, $, €, ₮, ₿ | No deposit fees | Teams | Merchant accounts | LinkPay ❤️](https://afflift.com/f/threads/%E2%98%98%EF%B8%8F-virtual-credit-card-with-3-cashback-for-all-payments-visa-mastercard-%E2%82%AC-%E2%82%AE-%E2%82%BF-no-deposit-fees-teams-merchant-accounts-linkpay-%E2%9D%A4%EF%B8%8F.13364/)
 -  27 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
 -  27 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)
@@ -47,8 +48,7 @@
 -  27 [Whitelisting for push collect](https://afflift.com/f/threads/whitelisting-for-push-collect.13356/)
 -  27 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
 -  27 [Trackwill](https://afflift.com/f/threads/trackwill.4986/)
--  27 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
--  27 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)<!-- afflift:END -->
+-  27 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
