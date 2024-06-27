@@ -53,6 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  27 [国行版  Vision Pro 上手体验：你可能会关心的 8 个问题](https://sspai.com/post/89976)
 -  27 [派早报：Mac 版 ChatGPT 桌面应用正式开放、Firefox 将接入 AI 聊天机器人等](https://sspai.com/post/89975)
 -  26 [明讽强敌，暗渡陈仓：世纪之交的苹果如何悄悄转向英特尔](https://sspai.com/prime/story/ppc-history-11)
 -  26 [做好优化、选好软件：我是如何改善 Android 类原生 ROM 使用体验的](https://sspai.com/post/89282)
