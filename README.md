@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  27 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  26 [Follow Along: Running Click to Msg FB Camp to collect DM opt in - then DM weekly Newsletter](https://afflift.com/f/threads/follow-along-running-click-to-msg-fb-camp-to-collect-dm-opt-in-then-dm-weekly-newsletter.13361/)
 -  26 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
@@ -48,8 +49,7 @@
 -  26 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  26 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  26 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
--  26 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)
--  26 [How to drive financial offers?💲](https://afflift.com/f/threads/how-to-drive-financial-offers-%F0%9F%92%B2.13360/)<!-- afflift:END -->
+-  26 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
