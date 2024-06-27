@@ -37,9 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
+-  27 [☘️ Virtual credit card with 3% cashback for all payments | Visa, Mastercard, $, €, ₮, ₿ | No deposit fees | Teams | Merchant accounts | LinkPay ❤️](https://afflift.com/f/threads/%E2%98%98%EF%B8%8F-virtual-credit-card-with-3-cashback-for-all-payments-visa-mastercard-%E2%82%AC-%E2%82%AE-%E2%82%BF-no-deposit-fees-teams-merchant-accounts-linkpay-%E2%9D%A4%EF%B8%8F.13364/)
 -  27 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  27 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  27 [☘️ Virtual credit card with 3% cashback for all payments | Visa, Mastercard, $, €, ₮, ₿ | No deposit fees | Teams | Merchant accounts | LinkPay ❤️](https://afflift.com/f/threads/%E2%98%98%EF%B8%8F-virtual-credit-card-with-3-cashback-for-all-payments-visa-mastercard-%E2%82%AC-%E2%82%AE-%E2%82%BF-no-deposit-fees-teams-merchant-accounts-linkpay-%E2%9D%A4%EF%B8%8F.13364/)
 -  27 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
 -  27 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)
 -  27 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
@@ -47,8 +48,7 @@
 -  27 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
 -  27 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
 -  27 [Whitelisting for push collect](https://afflift.com/f/threads/whitelisting-for-push-collect.13356/)
--  27 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
--  27 [Trackwill](https://afflift.com/f/threads/trackwill.4986/)<!-- afflift:END -->
+-  27 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
