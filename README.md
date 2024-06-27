@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
+-  27 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
 -  27 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
 -  27 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
 -  27 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
@@ -46,9 +48,7 @@
 -  26 [Follow Along: Running Click to Msg FB Camp to collect DM opt in - then DM weekly Newsletter](https://afflift.com/f/threads/follow-along-running-click-to-msg-fb-camp-to-collect-dm-opt-in-then-dm-weekly-newsletter.13361/)
 -  26 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
 -  26 [Flag because of ProPush?](https://afflift.com/f/threads/flag-because-of-propush.13312/)
--  26 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
--  26 [New Traffic Type is Here! Say Hello to Unforgettable Conversion Rates](https://afflift.com/f/threads/new-traffic-type-is-here-say-hello-to-unforgettable-conversion-rates.13358/)
--  26 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)<!-- afflift:END -->
+-  26 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
