@@ -26,7 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  26 [咨询谷歌ads屏蔽恶意点击最有效的办法](https://www.advertcn.com/thread-115504-1-1.html)<!-- advertcn3:END -->
+-  27 [为何你的Google广告被忽略？揭秘对手都在用的高转化率策略](https://www.advertcn.com/thread-115514-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
