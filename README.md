@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  27 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  27 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
 -  27 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  27 [ApproachX - 30% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-30-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
@@ -47,8 +48,7 @@
 -  27 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
 -  27 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)
 -  27 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  27 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)
--  27 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)<!-- afflift:END -->
+-  27 [A: Why Revshare? + tips](https://afflift.com/f/threads/a-why-revshare-tips.10241/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
