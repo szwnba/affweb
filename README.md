@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  28 [派早报：Apple Vision Pro 国行版开售、《魔兽世界》国服将于 8 月 1 日开服](https://sspai.com/post/90016)
 -  27 [新玩意 186｜少数派的编辑们最近买了啥？](https://sspai.com/post/89993)
--  27 [回到毕业的六月那天，让你的记忆在这些影像中弥新](https://sspai.com/post/80318)
--  27 [国行版 Vision Pro 上手体验：你可能会关心的 8 个问题](https://sspai.com/post/89976)<!-- sspai:END -->
+-  27 [回到毕业的六月那天，让你的记忆在这些影像中弥新](https://sspai.com/post/80318)<!-- sspai:END -->
