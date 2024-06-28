@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
+-  27 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  27 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  27 [☘️ Virtual credit card with 3% cashback for all payments | Visa, Mastercard, $, €, ₮, ₿ | No deposit fees | Teams | Merchant accounts | LinkPay ❤️](https://afflift.com/f/threads/%E2%98%98%EF%B8%8F-virtual-credit-card-with-3-cashback-for-all-payments-visa-mastercard-%E2%82%AC-%E2%82%AE-%E2%82%BF-no-deposit-fees-teams-merchant-accounts-linkpay-%E2%9D%A4%EF%B8%8F.13364/)
 -  27 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
@@ -46,9 +48,7 @@
 -  27 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
 -  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  27 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  27 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
--  27 [Whitelisting for push collect](https://afflift.com/f/threads/whitelisting-for-push-collect.13356/)
--  27 [Adsence saite](https://afflift.com/f/threads/adsence-saite.13351/)<!-- afflift:END -->
+-  27 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
