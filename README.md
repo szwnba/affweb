@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
+-  28 [How do we keep our ad safe from spy tools?](https://afflift.com/f/threads/how-do-we-keep-our-ad-safe-from-spy-tools.13231/)
 -  28 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  28 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
 -  28 [✅✅Purest IP Proxy Service❗️Cheapest Price❗️Unlimited use within the validity period✅⭕](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85purest-ip-proxy-service%E2%9D%97%EF%B8%8Fcheapest-price%E2%9D%97%EF%B8%8Funlimited-use-within-the-validity-period%E2%9C%85%E2%AD%95.13365/)
@@ -48,9 +50,7 @@
 -  27 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)
 -  27 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  27 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
--  27 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)
--  27 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
--  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  27 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
