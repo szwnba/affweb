@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  28 [本月玩什么 | 觉醒深渊，以及黄金树幽影等大把 DLC……](https://sspai.com/post/90019)
 -  28 [你可以在 Mac 上使用 iPhone 了：iOS/iPadOS 18 Beta 2 具透](https://sspai.com/post/89981)
--  28 [派早报：Apple Vision Pro 国行版开售、《魔兽世界》国服将于 8 月 1 日开服](https://sspai.com/post/90016)
--  27 [新玩意 186｜少数派的编辑们最近买了啥？](https://sspai.com/post/89993)<!-- sspai:END -->
+-  28 [派早报：Apple Vision Pro 国行版开售、《魔兽世界》国服将于 8 月 1 日开服](https://sspai.com/post/90016)<!-- sspai:END -->
