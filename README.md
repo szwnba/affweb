@@ -38,8 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  28 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
 -  28 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
+-  28 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
 -  28 [✅✅Purest IP Proxy Service❗️Cheapest Price❗️Unlimited use within the validity period✅⭕](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85purest-ip-proxy-service%E2%9D%97%EF%B8%8Fcheapest-price%E2%9D%97%EF%B8%8Funlimited-use-within-the-validity-period%E2%9C%85%E2%AD%95.13365/)
 -  27 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  27 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
