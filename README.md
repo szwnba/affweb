@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
+-  28 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
+-  28 [Google Analytics 4 alternatives?](https://afflift.com/f/threads/google-analytics-4-alternatives.13369/)
+-  28 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
+-  28 [Advertising during EURO 2024 + July Sports Calendars! ⚽️](https://afflift.com/f/threads/advertising-during-euro-2024-july-sports-calendars-%E2%9A%BD%EF%B8%8F.13368/)
+-  28 [🌟 Adcash 2024 Offers, Insider Info &amp; Tips to Succeed + Ask Us Anything 🌟](https://afflift.com/f/threads/%F0%9F%8C%9F-adcash-2024-offers-insider-info-tips-to-succeed-ask-us-anything-%F0%9F%8C%9F.12411/)
+-  28 [Questions about propush unsubscribing](https://afflift.com/f/threads/questions-about-propush-unsubscribing.13367/)
+-  28 [The Secret Sauce Behind my Invisible Lambo](https://afflift.com/f/threads/the-secret-sauce-behind-my-invisible-lambo.12845/)
+-  28 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
 -  28 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
 -  28 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  28 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
--  28 [☘️ Virtual credit card with 3% cashback for all payments | Visa, Mastercard, $, €, ₮, ₿ | No deposit fees | Teams | Merchant accounts | LinkPay ❤️](https://afflift.com/f/threads/%E2%98%98%EF%B8%8F-virtual-credit-card-with-3-cashback-for-all-payments-visa-mastercard-%E2%82%AC-%E2%82%AE-%E2%82%BF-no-deposit-fees-teams-merchant-accounts-linkpay-%E2%9D%A4%EF%B8%8F.13364/)
--  28 [How To Build Your Own SMTP Email Server](https://afflift.com/f/threads/how-to-build-your-own-smtp-email-server.12556/)
--  28 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  28 [How do we keep our ad safe from spy tools?](https://afflift.com/f/threads/how-do-we-keep-our-ad-safe-from-spy-tools.13231/)
--  28 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
--  28 [✅✅Purest IP Proxy Service❗️Cheapest Price❗️Unlimited use within the validity period✅⭕](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85purest-ip-proxy-service%E2%9D%97%EF%B8%8Fcheapest-price%E2%9D%97%EF%B8%8Funlimited-use-within-the-validity-period%E2%9C%85%E2%AD%95.13365/)
--  27 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
--  27 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
--  27 [2023 Casino Email Marketing Results](https://afflift.com/f/threads/2023-casino-email-marketing-results.12465/)<!-- afflift:END -->
+-  28 [☘️ Virtual credit card with 3% cashback for all payments | Visa, Mastercard, $, €, ₮, ₿ | No deposit fees | Teams | Merchant accounts | LinkPay ❤️](https://afflift.com/f/threads/%E2%98%98%EF%B8%8F-virtual-credit-card-with-3-cashback-for-all-payments-visa-mastercard-%E2%82%AC-%E2%82%AE-%E2%82%BF-no-deposit-fees-teams-merchant-accounts-linkpay-%E2%9D%A4%EF%B8%8F.13364/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
