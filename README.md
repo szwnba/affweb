@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  28 [Got more than 50% traffic loss from PropellerAds](https://afflift.com/f/threads/got-more-than-50-traffic-loss-from-propellerads.13370/)
--  28 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)
 -  28 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  28 [Meta ads performance [question]](https://afflift.com/f/threads/meta-ads-performance-question.13371/)
--  28 [Yellana: Worldwide CPA network that unites affiliates and direct advertisers on a way of growth 🪐](https://afflift.com/f/threads/yellana-worldwide-cpa-network-that-unites-affiliates-and-direct-advertisers-on-a-way-of-growth-%F0%9F%AA%90.10512/)
--  28 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
--  28 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
--  28 [LeadGid - International Affiliate Network with Financial Offers](https://afflift.com/f/threads/leadgid-international-affiliate-network-with-financial-offers.6217/)
+-  28 [Got more than 50% traffic loss from PropellerAds](https://afflift.com/f/threads/got-more-than-50-traffic-loss-from-propellerads.13370/)
+-  28 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
 -  28 [Questions about propush unsubscribing](https://afflift.com/f/threads/questions-about-propush-unsubscribing.13367/)
--  28 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
--  28 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  28 [Google Analytics 4 alternatives?](https://afflift.com/f/threads/google-analytics-4-alternatives.13369/)<!-- afflift:END -->
+-  28 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
+-  28 [Achieve 183% ROI using HilltopAds Popunder traffic for Non-Mainstream Dating Offers](https://afflift.com/f/threads/achieve-183-roi-using-hilltopads-popunder-traffic-for-non-mainstream-dating-offers.13373/)
+-  28 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
+-  28 [Google Analytics 4 alternatives?](https://afflift.com/f/threads/google-analytics-4-alternatives.13369/)
+-  28 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
+-  28 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
+-  28 [How do we keep our ad safe from spy tools?](https://afflift.com/f/threads/how-do-we-keep-our-ad-safe-from-spy-tools.13231/)
+-  28 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
