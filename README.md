@@ -38,7 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  28 [Monetizer&#39;s top offers: What&#39;s Running Behind the Scenes! June 2024](https://afflift.com/f/threads/monetizers-top-offers-whats-running-behind-the-scenes-june-2024.13349/)
 -  28 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
+-  28 [✅✅Purest IP Proxy Service❗️Cheapest Price❗️Unlimited use within the validity period✅⭕](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85purest-ip-proxy-service%E2%9D%97%EF%B8%8Fcheapest-price%E2%9D%97%EF%B8%8Funlimited-use-within-the-validity-period%E2%9C%85%E2%AD%95.13365/)
 -  27 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  27 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  27 [☘️ Virtual credit card with 3% cashback for all payments | Visa, Mastercard, $, €, ₮, ₿ | No deposit fees | Teams | Merchant accounts | LinkPay ❤️](https://afflift.com/f/threads/%E2%98%98%EF%B8%8F-virtual-credit-card-with-3-cashback-for-all-payments-visa-mastercard-%E2%82%AC-%E2%82%AE-%E2%82%BF-no-deposit-fees-teams-merchant-accounts-linkpay-%E2%9D%A4%EF%B8%8F.13364/)
@@ -47,9 +49,7 @@
 -  27 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
 -  27 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)
 -  27 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)
--  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  27 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
--  27 [Hi from Mexico](https://afflift.com/f/threads/hi-from-mexico.13341/)<!-- afflift:END -->
+-  27 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
