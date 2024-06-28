@@ -54,5 +54,4 @@
 <!-- sspai:START -->
 -  27 [新玩意 186｜少数派的编辑们最近买了啥？](https://sspai.com/post/89993)
 -  27 [回到毕业的六月那天，让你的记忆在这些影像中弥新](https://sspai.com/post/80318)
--  27 [国行版 Vision Pro 上手体验：你可能会关心的 8 个问题](https://sspai.com/post/89976)
--  27 [派早报：Mac 版 ChatGPT 桌面应用正式开放、Firefox 将接入 AI 聊天机器人等](https://sspai.com/post/89975)<!-- sspai:END -->
+-  27 [国行版 Vision Pro 上手体验：你可能会关心的 8 个问题](https://sspai.com/post/89976)<!-- sspai:END -->
