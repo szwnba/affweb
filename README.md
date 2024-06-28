@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  28 [亚马逊市值首次突破2万亿美元；TikTok Shop将7月1日上线西班...](https://www.advertcn.com/thread-115520-1-1.html)
 -  27 [亚马逊将开低价商店直接从中国发货；TikTok Shop菲律宾上新...](https://www.advertcn.com/thread-115511-1-1.html)
 -  27 [6个跨境电商亚马逊开设店铺必备的实用工具！](https://www.advertcn.com/thread-115509-1-1.html)<!-- advertcn1:END -->
 
