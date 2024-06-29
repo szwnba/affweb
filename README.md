@@ -37,8 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  29 [↪️ How to avoid tracker redirects? &lpar;works with Facebook and Google Ads campaigns&rpar;](https://afflift.com/f/threads/%E2%86%AA%EF%B8%8F-how-to-avoid-tracker-redirects-works-with-facebook-and-google-ads-campaigns.13295/)
 -  29 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
+-  29 [↪️ How to avoid tracker redirects? &lpar;works with Facebook and Google Ads campaigns&rpar;](https://afflift.com/f/threads/%E2%86%AA%EF%B8%8F-how-to-avoid-tracker-redirects-works-with-facebook-and-google-ads-campaigns.13295/)
 -  28 [Anyone crack the code on getting in-page push to convert?](https://afflift.com/f/threads/anyone-crack-the-code-on-getting-in-page-push-to-convert.13374/)
 -  28 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  28 [Google Analytics 4 alternatives?](https://afflift.com/f/threads/google-analytics-4-alternatives.13369/)
