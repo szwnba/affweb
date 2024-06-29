@@ -52,6 +52,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  29 [自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题](https://sspai.com/post/89784)
 -  28 [Apple Intelligence 面面观：「果味」模型是怎样炼成的？](https://sspai.com/prime/story/apple-intelligence-the-making-of)
 -  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/90039)
 -  28 [本月玩什么 | 觉醒深渊，以及黄金树幽影等大把 DLC……](https://sspai.com/post/90019)<!-- sspai:END -->
