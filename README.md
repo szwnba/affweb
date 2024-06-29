@@ -56,5 +56,4 @@
 -  28 [Apple Intelligence 面面观：「果味」模型是怎样炼成的？](https://sspai.com/prime/story/apple-intelligence-the-making-of)
 -  28 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/90039)
 -  28 [本月玩什么 | 觉醒深渊，以及黄金树幽影等大把 DLC……](https://sspai.com/post/90019)
--  28 [你可以在 Mac 上使用 iPhone 了：iOS/iPadOS 18 Beta 2 具透](https://sspai.com/post/89981)
--  28 [派早报：Apple Vision Pro 国行版开售、《魔兽世界》国服将于 8 月 1 日开服](https://sspai.com/post/90016)<!-- sspai:END -->
+-  28 [你可以在 Mac 上使用 iPhone 了：iOS/iPadOS 18 Beta 2 具透](https://sspai.com/post/89981)<!-- sspai:END -->
