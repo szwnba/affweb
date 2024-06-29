@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  28 [请问现在paypal兑换找谁啊，以前的好像都不做了。](https://www.advertcn.com/thread-115519-1-1.html)
--  28 [最近谁创建过谷歌的mcc啊](https://www.advertcn.com/thread-115517-1-1.html)<!-- advertcn3:END -->
+-  28 [请问现在paypal兑换找谁啊，以前的好像都不做了。](https://www.advertcn.com/thread-115519-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
