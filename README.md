@@ -37,9 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Anyone crack the code on getting in-page push to convert?](https://afflift.com/f/threads/anyone-crack-the-code-on-getting-in-page-push-to-convert.13374/)
 -  29 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  29 [Got more than 50% traffic loss from PropellerAds](https://afflift.com/f/threads/got-more-than-50-traffic-loss-from-propellerads.13370/)
--  29 [Anyone crack the code on getting in-page push to convert?](https://afflift.com/f/threads/anyone-crack-the-code-on-getting-in-page-push-to-convert.13374/)
 -  29 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  29 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  29 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
