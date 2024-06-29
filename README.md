@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  29 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
+-  29 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
 -  29 [Questions about propush unsubscribing](https://afflift.com/f/threads/questions-about-propush-unsubscribing.13367/)
 -  29 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  29 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)
@@ -46,9 +48,7 @@
 -  28 [Google Analytics 4 alternatives?](https://afflift.com/f/threads/google-analytics-4-alternatives.13369/)
 -  28 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  28 [ApproachX - 30% CR Dating Offers Made by Affiliates for Affiliates](https://afflift.com/f/threads/approachx-30-cr-dating-offers-made-by-affiliates-for-affiliates.9381/)
--  28 [Got more than 50% traffic loss from PropellerAds](https://afflift.com/f/threads/got-more-than-50-traffic-loss-from-propellerads.13370/)
--  28 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
--  28 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)<!-- afflift:END -->
+-  28 [Got more than 50% traffic loss from PropellerAds](https://afflift.com/f/threads/got-more-than-50-traffic-loss-from-propellerads.13370/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
