@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  30 [Anyone crack the code on getting in-page push to convert?](https://afflift.com/f/threads/anyone-crack-the-code-on-getting-in-page-push-to-convert.13374/)
 -  30 [Got more than 50% traffic loss from PropellerAds](https://afflift.com/f/threads/got-more-than-50-traffic-loss-from-propellerads.13370/)
 -  30 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
@@ -45,8 +46,7 @@
 -  29 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  29 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
 -  29 [Questions about propush unsubscribing](https://afflift.com/f/threads/questions-about-propush-unsubscribing.13367/)
--  29 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)
--  29 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)<!-- afflift:END -->
+-  29 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
