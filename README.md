@@ -50,4 +50,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  29 [自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题](https://sspai.com/post/89784)<!-- sspai:END -->
+-  30 [Navidrome：自建音乐库新选择](https://sspai.com/post/89420)<!-- sspai:END -->
