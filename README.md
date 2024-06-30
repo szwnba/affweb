@@ -50,4 +50,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  30 [一年过半，给去年值得一听的专辑查缺补漏](https://sspai.com/post/90066)
 -  30 [Navidrome：自建音乐库新选择](https://sspai.com/post/89420)<!-- sspai:END -->
