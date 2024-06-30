@@ -45,8 +45,7 @@
 -  29 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  29 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  29 [START HERE - Pops Guide - The Beginners Guide to Affiliate Marketing](https://afflift.com/f/threads/start-here-pops-guide-the-beginners-guide-to-affiliate-marketing.2937/)
--  29 [Questions about propush unsubscribing](https://afflift.com/f/threads/questions-about-propush-unsubscribing.13367/)
--  29 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)<!-- afflift:END -->
+-  29 [Questions about propush unsubscribing](https://afflift.com/f/threads/questions-about-propush-unsubscribing.13367/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
