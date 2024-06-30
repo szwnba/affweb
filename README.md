@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  30 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  30 [Questions about propush unsubscribing](https://afflift.com/f/threads/questions-about-propush-unsubscribing.13367/)
 -  30 [Meta ads performance [question]](https://afflift.com/f/threads/meta-ads-performance-question.13371/)
 -  30 [URL Scanner By Cloudflare Radar](https://afflift.com/f/threads/url-scanner-by-cloudflare-radar.13375/)
