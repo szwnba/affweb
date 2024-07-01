@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
+-  01 [Don&#39;t work with these guys...](https://afflift.com/f/threads/dont-work-with-these-guys.13381/)
 -  01 [How to make $863 on iMonetizeIt Dating offer and Clickadu Popunder in 8 days?](https://afflift.com/f/threads/how-to-make-863-on-imonetizeit-dating-offer-and-clickadu-popunder-in-8-days.13380/)
 -  01 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)
 -  01 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
@@ -48,9 +50,7 @@
 -  01 [Anyone crack the code on getting in-page push to convert?](https://afflift.com/f/threads/anyone-crack-the-code-on-getting-in-page-push-to-convert.13374/)
 -  01 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  01 [&quot;EDU-MONEY&quot; is the most profitable affiliate program in the niche of custom writing](https://afflift.com/f/threads/edu-money-is-the-most-profitable-affiliate-program-in-the-niche-of-custom-writing.2129/)
--  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  01 [Optimizing Push Campaigns: Struggling with CPC and ROI](https://afflift.com/f/threads/optimizing-push-campaigns-struggling-with-cpc-and-roi.13343/)
--  01 [Propush network](https://afflift.com/f/threads/propush-network.13345/)<!-- afflift:END -->
+-  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
