@@ -50,5 +50,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [想去的地方很多？用 Tripsy 轻松制定旅行计划](https://sspai.com/post/89705)
 -  01 [派早报：多平台宣布处置挑动极端民族主义情绪有害信息](https://sspai.com/post/90090)
 -  30 [一年过半，给去年值得一听的专辑查缺补漏](https://sspai.com/post/90066)<!-- sspai:END -->
