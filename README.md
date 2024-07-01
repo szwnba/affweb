@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [Optimizing Push Campaigns: Struggling with CPC and ROI](https://afflift.com/f/threads/optimizing-push-campaigns-struggling-with-cpc-and-roi.13343/)
 -  01 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  01 [Modify push collection alert?](https://afflift.com/f/threads/modify-push-collection-alert.13340/)
 -  01 [Sharing and seeking assistance: Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/sharing-and-seeking-assistance-using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)
@@ -49,8 +50,7 @@
 -  01 [Need help {Paid Task}](https://afflift.com/f/threads/need-help-paid-task.13376/)
 -  01 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  01 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)
--  30 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
--  30 [Questions about propush unsubscribing](https://afflift.com/f/threads/questions-about-propush-unsubscribing.13367/)<!-- afflift:END -->
+-  30 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
