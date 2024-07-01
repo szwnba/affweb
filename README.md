@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  01 [How to make $863 on iMonetizeIt Dating offer and Clickadu Popunder in 8 days?](https://afflift.com/f/threads/how-to-make-863-on-imonetizeit-dating-offer-and-clickadu-popunder-in-8-days.13380/)
+-  01 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)
+-  01 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
+-  01 [AdCombo | Biweekly payouts | Exclusive Cash-on-Delivery offers](https://afflift.com/f/threads/adcombo-biweekly-payouts-exclusive-cash-on-delivery-offers.3509/)
+-  01 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  01 [Binom 1 vs 2](https://afflift.com/f/threads/binom-1-vs-2.13377/)
 -  01 [Anyone crack the code on getting in-page push to convert?](https://afflift.com/f/threads/anyone-crack-the-code-on-getting-in-page-push-to-convert.13374/)
--  01 [Earn on financial offers with daily commission payouts with PDL-Profit](https://afflift.com/f/threads/earn-on-financial-offers-with-daily-commission-payouts-with-pdl-profit.13326/)
+-  01 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  01 [&quot;EDU-MONEY&quot; is the most profitable affiliate program in the niche of custom writing](https://afflift.com/f/threads/edu-money-is-the-most-profitable-affiliate-program-in-the-niche-of-custom-writing.2129/)
 -  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
 -  01 [Optimizing Push Campaigns: Struggling with CPC and ROI](https://afflift.com/f/threads/optimizing-push-campaigns-struggling-with-cpc-and-roi.13343/)
--  01 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  01 [Modify push collection alert?](https://afflift.com/f/threads/modify-push-collection-alert.13340/)
--  01 [Sharing and seeking assistance: Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/sharing-and-seeking-assistance-using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)
--  01 [Binom 1 vs 2](https://afflift.com/f/threads/binom-1-vs-2.13377/)
--  01 [Are you making consistent profits with Pops/Push?](https://afflift.com/f/threads/are-you-making-consistent-profits-with-pops-push.13181/)
--  01 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
--  01 [Need help {Paid Task}](https://afflift.com/f/threads/need-help-paid-task.13376/)<!-- afflift:END -->
+-  01 [Propush network](https://afflift.com/f/threads/propush-network.13345/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
