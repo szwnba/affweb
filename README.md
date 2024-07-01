@@ -43,9 +43,7 @@
 -  30 [URL Scanner By Cloudflare Radar](https://afflift.com/f/threads/url-scanner-by-cloudflare-radar.13375/)
 -  30 [Insider Spy Service For Facebook &amp; Google Ads. Get Access to Competitor Ad Settings Now!](https://afflift.com/f/threads/insider-spy-service-for-facebook-google-ads-get-access-to-competitor-ad-settings-now.13060/)
 -  30 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  30 [Anyone crack the code on getting in-page push to convert?](https://afflift.com/f/threads/anyone-crack-the-code-on-getting-in-page-push-to-convert.13374/)
--  30 [Got more than 50% traffic loss from PropellerAds](https://afflift.com/f/threads/got-more-than-50-traffic-loss-from-propellerads.13370/)
--  30 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)<!-- afflift:END -->
+-  30 [Anyone crack the code on getting in-page push to convert?](https://afflift.com/f/threads/anyone-crack-the-code-on-getting-in-page-push-to-convert.13374/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
