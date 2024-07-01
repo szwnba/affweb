@@ -53,6 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  01 [带在身边的一缕风，让夏天更快乐的 4 款小风扇](https://sspai.com/post/90075)
 -  01 [玩音箱，有线和 AirPlay 我全都要：飞傲 SR11](https://sspai.com/post/89834)
 -  01 [想去的地方很多？用 Tripsy 轻松制定旅行计划](https://sspai.com/post/89705)
 -  01 [派早报：多平台宣布处置挑动极端民族主义情绪有害信息](https://sspai.com/post/90090)<!-- sspai:END -->
