@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  28 [税务指南|2024最新迪拜公司报税指南](https://www.advertcn.com/thread-115521-1-1.html)
--  28 [亚马逊市值首次突破2万亿美元；TikTok Shop将7月1日上线西班...](https://www.advertcn.com/thread-115520-1-1.html)<!-- advertcn1:END -->
+-  01 [新人报道](https://www.advertcn.com/thread-115528-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
