@@ -59,5 +59,4 @@
 <!-- sspai:START -->
 -  02 [北京 LiveHouse 地图：那个塑造了我音乐喜好的地方](https://sspai.com/post/90121)
 -  02 [从配置到优化，搭建称手的 RIME 雾凇拼音输入方案](https://sspai.com/post/89281)
--  02 [派早报：微软回应关闭国内线下授权门店，淘宝本月将上线闲鱼网页版等](https://sspai.com/post/90124)
--  01 [派评 | 近期值得关注的 App](https://sspai.com/post/90113)<!-- sspai:END -->
+-  02 [派早报：微软回应关闭国内线下授权门店，淘宝本月将上线闲鱼网页版等](https://sspai.com/post/90124)<!-- sspai:END -->
