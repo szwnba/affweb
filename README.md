@@ -56,8 +56,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  02 [派早报：微软回应关闭国内线下授权门店，淘宝本月将上线闲鱼网页版等](https://sspai.com/post/90124)
 -  01 [派评 | 近期值得关注的 App](https://sspai.com/post/90113)
 -  01 [带在身边的一缕风，让夏天更快乐的 4 款小风扇](https://sspai.com/post/90075)
 -  01 [玩音箱，有线和 AirPlay 我全都要：飞傲 SR11](https://sspai.com/post/89834)
--  01 [想去的地方很多？用 Tripsy 轻松制定旅行计划](https://sspai.com/post/89705)
--  01 [派早报：多平台宣布处置挑动极端民族主义情绪有害信息](https://sspai.com/post/90090)<!-- sspai:END -->
+-  01 [想去的地方很多？用 Tripsy 轻松制定旅行计划](https://sspai.com/post/89705)<!-- sspai:END -->
