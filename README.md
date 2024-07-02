@@ -41,8 +41,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
 -  02 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
+-  02 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
 -  02 [How to make $863 on iMonetizeIt Dating offer and Clickadu Popunder in 8 days?](https://afflift.com/f/threads/how-to-make-863-on-imonetizeit-dating-offer-and-clickadu-popunder-in-8-days.13380/)
 -  01 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)
 -  01 [Don&#39;t work with these guys... $880 unpaid!](https://afflift.com/f/threads/dont-work-with-these-guys-880-unpaid.13381/)
