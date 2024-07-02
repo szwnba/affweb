@@ -19,8 +19,7 @@
 <!-- advertcn1:START -->
 -  02 [Evolve Bank 确认数据遭勒索软件团伙窃取](https://www.advertcn.com/thread-115547-1-1.html)
 -  02 [微众银行获准在香港设立金融科技子公司](https://www.advertcn.com/thread-115546-1-1.html)
--  01 [SimplyNode proxies. Why is it profitable to work with us?](https://www.advertcn.com/thread-115537-1-1.html)
--  01 [新人报道](https://www.advertcn.com/thread-115534-1-1.html)<!-- advertcn1:END -->
+-  01 [SimplyNode proxies. Why is it profitable to work with us?](https://www.advertcn.com/thread-115537-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
