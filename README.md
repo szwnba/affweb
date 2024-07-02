@@ -42,6 +42,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
+-  02 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
+-  02 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  02 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
 -  02 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  02 [OfferGate CPA Network - full monetization of your traffic.](https://afflift.com/f/threads/offergate-cpa-network-full-monetization-of-your-traffic.13382/)
@@ -50,10 +53,7 @@
 -  02 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  02 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  02 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
--  02 [How to make $863 on iMonetizeIt Dating offer and Clickadu Popunder in 8 days?](https://afflift.com/f/threads/how-to-make-863-on-imonetizeit-dating-offer-and-clickadu-popunder-in-8-days.13380/)
--  01 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)
--  01 [Don&#39;t work with these guys... $880 unpaid!](https://afflift.com/f/threads/dont-work-with-these-guys-880-unpaid.13381/)
--  01 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)<!-- afflift:END -->
+-  02 [How to make $863 on iMonetizeIt Dating offer and Clickadu Popunder in 8 days?](https://afflift.com/f/threads/how-to-make-863-on-imonetizeit-dating-offer-and-clickadu-popunder-in-8-days.13380/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
