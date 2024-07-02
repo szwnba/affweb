@@ -41,6 +41,8 @@
 ### afflift
 <!-- afflift:START -->
 -  02 [Binom+Propellerad setup](https://afflift.com/f/threads/binom-propellerad-setup.13385/)
+-  02 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  02 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  02 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  02 [Join 1win at iGB L!VE Amsterdam - The Future of iGaming Awaits!](https://afflift.com/f/threads/join-1win-at-igb-l-ve-amsterdam-the-future-of-igaming-awaits.13386/)
@@ -49,9 +51,7 @@
 -  02 [How to make $863 on iMonetizeIt Dating offer and Clickadu Popunder in 8 days?](https://afflift.com/f/threads/how-to-make-863-on-imonetizeit-dating-offer-and-clickadu-popunder-in-8-days.13380/)
 -  02 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
 -  02 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
--  02 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  02 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
--  02 [OfferGate CPA Network - full monetization of your traffic.](https://afflift.com/f/threads/offergate-cpa-network-full-monetization-of-your-traffic.13382/)<!-- afflift:END -->
+-  02 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
