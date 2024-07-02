@@ -42,6 +42,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Binom+Propellerad setup](https://afflift.com/f/threads/binom-propellerad-setup.13385/)
+-  02 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  02 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  02 [How to make $863 on iMonetizeIt Dating offer and Clickadu Popunder in 8 days?](https://afflift.com/f/threads/how-to-make-863-on-imonetizeit-dating-offer-and-clickadu-popunder-in-8-days.13380/)
 -  02 [CLICKLEAD – best terms in gambling vertical](https://afflift.com/f/threads/clicklead-%E2%80%93-best-terms-in-gambling-vertical.7194/)
@@ -51,9 +53,7 @@
 -  02 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  02 [OfferGate CPA Network - full monetization of your traffic.](https://afflift.com/f/threads/offergate-cpa-network-full-monetization-of-your-traffic.13382/)
 -  02 [Sharing and seeking assistance: Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/sharing-and-seeking-assistance-using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)
--  02 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
--  02 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  02 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)<!-- afflift:END -->
+-  02 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
