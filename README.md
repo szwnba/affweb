@@ -38,8 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  02 [Binom+Propellerad setup](https://afflift.com/f/threads/binom-propellerad-setup.13385/)
 -  02 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
+-  02 [Binom+Propellerad setup](https://afflift.com/f/threads/binom-propellerad-setup.13385/)
 -  02 [Sharing and seeking assistance: Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/sharing-and-seeking-assistance-using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)
 -  02 [Got more than 50% traffic loss from PropellerAds](https://afflift.com/f/threads/got-more-than-50-traffic-loss-from-propellerads.13370/)
 -  02 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
