@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  02 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)
 -  02 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  02 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)
 -  02 [How much do different pop ads vary in performance?](https://afflift.com/f/threads/how-much-do-different-pop-ads-vary-in-performance.13266/)
@@ -53,8 +54,7 @@
 -  01 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
 -  01 [Meta ads performance [question]](https://afflift.com/f/threads/meta-ads-performance-question.13371/)
 -  01 [3snet affiliate network | We turn traffic into money](https://afflift.com/f/threads/3snet-affiliate-network-we-turn-traffic-into-money.1333/)
--  01 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)
--  01 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)<!-- afflift:END -->
+-  01 [Get your Affiliate Program Added to our Link Directory!](https://afflift.com/f/threads/get-your-affiliate-program-added-to-our-link-directory.4649/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
