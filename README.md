@@ -27,8 +27,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  02 [Facebook产品更新|Reels应用推广现可突出显示应用评分、点评...](https://www.advertcn.com/thread-115548-1-1.html)
--  02 [一个不到半年每天两万IP的站](https://www.advertcn.com/thread-115543-1-1.html)
--  01 [Proxies for any tasks / GB FREE / Discounts for new users](https://www.advertcn.com/thread-115538-1-1.html)<!-- advertcn3:END -->
+-  02 [一个不到半年每天两万IP的站](https://www.advertcn.com/thread-115543-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
