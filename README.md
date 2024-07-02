@@ -42,6 +42,9 @@
 ### afflift
 <!-- afflift:START -->
 -  02 [Binom+Propellerad setup](https://afflift.com/f/threads/binom-propellerad-setup.13385/)
+-  02 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
+-  02 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
+-  02 [Join 1win at iGB L!VE Amsterdam - The Future of iGaming Awaits!](https://afflift.com/f/threads/join-1win-at-igb-l-ve-amsterdam-the-future-of-igaming-awaits.13386/)
 -  02 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  02 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  02 [How to make $863 on iMonetizeIt Dating offer and Clickadu Popunder in 8 days?](https://afflift.com/f/threads/how-to-make-863-on-imonetizeit-dating-offer-and-clickadu-popunder-in-8-days.13380/)
@@ -49,10 +52,7 @@
 -  02 [✅ Dolphin❗️a tool for those who work with Facebook ads❗️](https://afflift.com/f/threads/%E2%9C%85-dolphin%E2%9D%97%EF%B8%8Fa-tool-for-those-who-work-with-facebook-ads%E2%9D%97%EF%B8%8F.7096/)
 -  02 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
 -  02 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
--  02 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
--  02 [OfferGate CPA Network - full monetization of your traffic.](https://afflift.com/f/threads/offergate-cpa-network-full-monetization-of-your-traffic.13382/)
--  02 [Sharing and seeking assistance: Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/sharing-and-seeking-assistance-using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)
--  02 [Pushatomic: Push traffic to rocket your campaigns 🚀](https://afflift.com/f/threads/pushatomic-push-traffic-to-rocket-your-campaigns-%F0%9F%9A%80.13084/)<!-- afflift:END -->
+-  02 [OfferGate CPA Network - full monetization of your traffic.](https://afflift.com/f/threads/offergate-cpa-network-full-monetization-of-your-traffic.13382/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
