@@ -43,8 +43,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  03 [$30 PropellerAds Promo Code](https://afflift.com/f/threads/30-propellerads-promo-code.13391/)
+-  03 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
+-  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  03 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
 -  03 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  03 [STEP 7 - Adding Zeydoo Smartlink as Offer to Skro Tracker](https://afflift.com/f/threads/step-7-adding-zeydoo-smartlink-as-offer-to-skro-tracker.12317/)
@@ -53,8 +54,7 @@
 -  03 [Once-in-FOUR-years profit opportunities AWAIT](https://afflift.com/f/threads/once-in-four-years-profit-opportunities-await.13389/)
 -  03 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  03 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
--  03 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
--  03 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)<!-- afflift:END -->
+-  03 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
