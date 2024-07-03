@@ -43,6 +43,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Need Help with PropellerAds, Binom Tracker, and GoldenGoose for POP Campaign](https://afflift.com/f/threads/need-help-with-propellerads-binom-tracker-and-goldengoose-for-pop-campaign.13392/)
+-  03 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
 -  03 [$30 PropellerAds Promo Code](https://afflift.com/f/threads/30-propellerads-promo-code.13391/)
 -  03 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
@@ -52,9 +54,7 @@
 -  03 [Don&#39;t Miss Out: Key July Sports Event Updates for Advertisers and Publishers!](https://afflift.com/f/threads/dont-miss-out-key-july-sports-event-updates-for-advertisers-and-publishers.13390/)
 -  03 [Adsterra - Global Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-global-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
 -  03 [Once-in-FOUR-years profit opportunities AWAIT](https://afflift.com/f/threads/once-in-four-years-profit-opportunities-await.13389/)
--  03 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
--  03 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
--  03 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)<!-- afflift:END -->
+-  03 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
