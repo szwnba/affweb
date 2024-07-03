@@ -17,9 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  03 [新手在Temu上怎样上架商品？](https://www.advertcn.com/thread-115558-1-1.html)
--  02 [Evolve Bank 确认数据遭勒索软件团伙窃取](https://www.advertcn.com/thread-115547-1-1.html)
--  02 [微众银行获准在香港设立金融科技子公司](https://www.advertcn.com/thread-115546-1-1.html)<!-- advertcn1:END -->
+-  03 [新人报道](https://www.advertcn.com/thread-115563-1-1.html)
+-  03 [新手在Temu上怎样上架商品？](https://www.advertcn.com/thread-115558-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
