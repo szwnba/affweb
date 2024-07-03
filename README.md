@@ -53,6 +53,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [见光不见灯之我见：聊聊家庭光照设计](https://sspai.com/post/89609)
 -  03 [善用白板和卡片，聊聊 Heptabase 如何助我「知识管理」](https://sspai.com/post/90069)
 -  03 [派早报：Meta 更新平台内 AI 信息标注、搜狗输入法上线多项 AI 功能等](https://sspai.com/post/90168)
 -  02 [社区速递 051 | 一周热评、AirTag 平替与派友的主屏幕](https://sspai.com/post/90160)<!-- sspai:END -->
