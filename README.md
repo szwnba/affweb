@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Don&#39;t Miss Out: Key July Sports Event Updates for Advertisers and Publishers!](https://afflift.com/f/threads/dont-miss-out-key-july-sports-event-updates-for-advertisers-and-publishers.13390/)
+-  03 [Adsterra - Global Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-global-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
 -  03 [STEP 7 - Adding Zeydoo Smartlink as Offer to Skro Tracker](https://afflift.com/f/threads/step-7-adding-zeydoo-smartlink-as-offer-to-skro-tracker.12317/)
+-  03 [Once-in-FOUR-years profit opportunities AWAIT](https://afflift.com/f/threads/once-in-four-years-profit-opportunities-await.13389/)
 -  03 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  03 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  03 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
 -  03 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
 -  03 [Share your desk setup!](https://afflift.com/f/threads/share-your-desk-setup.4023/)
 -  03 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
--  03 [Once-in-FOUR-years profit opportunities AWAIT](https://afflift.com/f/threads/once-in-four-years-profit-opportunities-await.13389/)
 -  03 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
--  03 [↪️ How to avoid tracker redirects? &lpar;works with Facebook and Google Ads campaigns&rpar;](https://afflift.com/f/threads/%E2%86%AA%EF%B8%8F-how-to-avoid-tracker-redirects-works-with-facebook-and-google-ads-campaigns.13295/)
--  03 [OfferGate CPA Network - full monetization of your traffic.](https://afflift.com/f/threads/offergate-cpa-network-full-monetization-of-your-traffic.13382/)
--  03 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)<!-- afflift:END -->
+-  03 [↪️ How to avoid tracker redirects? &lpar;works with Facebook and Google Ads campaigns&rpar;](https://afflift.com/f/threads/%E2%86%AA%EF%B8%8F-how-to-avoid-tracker-redirects-works-with-facebook-and-google-ads-campaigns.13295/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
