@@ -43,6 +43,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
 -  03 [Need Help with PropellerAds, Binom Tracker, and GoldenGoose for POP Campaign](https://afflift.com/f/threads/need-help-with-propellerads-binom-tracker-and-goldengoose-for-pop-campaign.13392/)
 -  03 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
 -  03 [$30 PropellerAds Promo Code](https://afflift.com/f/threads/30-propellerads-promo-code.13391/)
@@ -53,8 +54,7 @@
 -  03 [STEP 7 - Adding Zeydoo Smartlink as Offer to Skro Tracker](https://afflift.com/f/threads/step-7-adding-zeydoo-smartlink-as-offer-to-skro-tracker.12317/)
 -  03 [Don&#39;t Miss Out: Key July Sports Event Updates for Advertisers and Publishers!](https://afflift.com/f/threads/dont-miss-out-key-july-sports-event-updates-for-advertisers-and-publishers.13390/)
 -  03 [Adsterra - Global Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-global-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
--  03 [Once-in-FOUR-years profit opportunities AWAIT](https://afflift.com/f/threads/once-in-four-years-profit-opportunities-await.13389/)
--  03 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)<!-- afflift:END -->
+-  03 [Once-in-FOUR-years profit opportunities AWAIT](https://afflift.com/f/threads/once-in-four-years-profit-opportunities-await.13389/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
