@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  03 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  03 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  03 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  03 [↪️ How to avoid tracker redirects? &lpar;works with Facebook and Google Ads campaigns&rpar;](https://afflift.com/f/threads/%E2%86%AA%EF%B8%8F-how-to-avoid-tracker-redirects-works-with-facebook-and-google-ads-campaigns.13295/)
@@ -48,8 +49,7 @@
 -  02 [Best Ad Network For Organic Indian Movie Traffic?](https://afflift.com/f/threads/best-ad-network-for-organic-indian-movie-traffic.13352/)
 -  02 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  02 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  02 [Sharing and seeking assistance: Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/sharing-and-seeking-assistance-using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)
--  02 [Big Weekend with Adcash and Binom?](https://afflift.com/f/threads/big-weekend-with-adcash-and-binom.13318/)<!-- afflift:END -->
+-  02 [Sharing and seeking assistance: Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/sharing-and-seeking-assistance-using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
