@@ -38,8 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  03 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  03 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
+-  03 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  03 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  03 [↪️ How to avoid tracker redirects? &lpar;works with Facebook and Google Ads campaigns&rpar;](https://afflift.com/f/threads/%E2%86%AA%EF%B8%8F-how-to-avoid-tracker-redirects-works-with-facebook-and-google-ads-campaigns.13295/)
 -  03 [Got more than 50% traffic loss from PropellerAds](https://afflift.com/f/threads/got-more-than-50-traffic-loss-from-propellerads.13370/)
