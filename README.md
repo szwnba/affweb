@@ -57,8 +57,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  03 [特洛克积木插座 Pixel 65，「充电」之外还可以做更多](https://sspai.com/post/90109)
 -  03 [比花钱扩容更有性价比：华为手机 NM 存储卡使用指南](https://sspai.com/post/89840)
 -  03 [见光不见灯之我见：聊聊家庭光照设计](https://sspai.com/post/89609)
 -  03 [善用白板和卡片，聊聊 Heptabase 如何助我「知识管理」](https://sspai.com/post/90069)
--  03 [派早报：Meta 更新平台内 AI 信息标注、搜狗输入法上线多项 AI 功能等](https://sspai.com/post/90168)
--  02 [社区速递 051 | 一周热评、AirTag 平替与派友的主屏幕](https://sspai.com/post/90160)<!-- sspai:END -->
+-  03 [派早报：Meta 更新平台内 AI 信息标注、搜狗输入法上线多项 AI 功能等](https://sspai.com/post/90168)<!-- sspai:END -->
