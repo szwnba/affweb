@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  03 [派早报：Meta 更新平台内 AI 信息标注、搜狗输入法上线多项 AI 功能等](https://sspai.com/post/90168)
 -  02 [社区速递 051 | 一周热评、AirTag 平替与派友的主屏幕](https://sspai.com/post/90160)
--  02 [北京 LiveHouse 地图：那个塑造了我音乐喜好的地方](https://sspai.com/post/90121)
--  02 [从配置到优化，搭建称手的 RIME 雾凇拼音输入方案](https://sspai.com/post/89281)<!-- sspai:END -->
+-  02 [北京 LiveHouse 地图：那个塑造了我音乐喜好的地方](https://sspai.com/post/90121)<!-- sspai:END -->
