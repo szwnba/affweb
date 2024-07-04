@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
+-  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  04 [No &quot;Tracking Software&quot; No Problem, Also avoid tracker redirects](https://afflift.com/f/threads/no-tracking-software-no-problem-also-avoid-tracker-redirects.13398/)
+-  04 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  04 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)
 -  04 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
 -  04 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  04 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
--  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  04 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  04 [My affiliate media buying journey](https://afflift.com/f/threads/my-affiliate-media-buying-journey.12784/)
 -  04 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
--  04 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
--  04 [Propellerads?LOL](https://afflift.com/f/threads/propellerads-lol.13395/)
--  04 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)<!-- afflift:END -->
+-  04 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
