@@ -42,18 +42,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
+-  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
+-  04 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
 -  04 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/)
 -  04 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  04 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  04 [$30 PropellerAds Promo Code](https://afflift.com/f/threads/30-propellerads-promo-code.13391/)
--  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  04 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  03 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  03 [Need Help with PropellerAds, Binom Tracker, and GoldenGoose for POP Campaign](https://afflift.com/f/threads/need-help-with-propellerads-binom-tracker-and-goldengoose-for-pop-campaign.13392/)
 -  03 [Mobivion - Next-Generation Advertising Network with AI](https://afflift.com/f/threads/mobivion-next-generation-advertising-network-with-ai.13393/)
--  03 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)
--  03 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
--  03 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  03 [Ask Me Anything .. Spy Tools](https://afflift.com/f/threads/ask-me-anything-spy-tools.9343/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
