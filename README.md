@@ -20,8 +20,7 @@
 -  03 [国际清算（BIS）银行将推出跨境支付平台](https://www.advertcn.com/thread-115569-1-1.html)
 -  03 [蚂蚁国际收购 MultiSafepay 以支持欧洲中小企业支付](https://www.advertcn.com/thread-115568-1-1.html)
 -  03 [Ozon/Noon/Temu/TK Shop如何多店铺经营免受关联封号？](https://www.advertcn.com/thread-115567-1-1.html)
--  03 [新人报道](https://www.advertcn.com/thread-115563-1-1.html)
--  03 [新手在Temu上怎样上架商品？](https://www.advertcn.com/thread-115558-1-1.html)<!-- advertcn1:END -->
+-  03 [新人报道](https://www.advertcn.com/thread-115563-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
