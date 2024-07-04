@@ -37,12 +37,12 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  04 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  04 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  04 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
 -  04 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)
+-  04 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  04 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
+-  04 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  04 [🌿💰 Global Green Profits: Scaling Success! 🌍🚀](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B0-global-green-profits-scaling-success-%F0%9F%8C%8D%F0%9F%9A%80.13167/)
 -  04 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)
 -  04 [No &quot;Tracking Software&quot; No Problem, Also avoid tracker redirects](https://afflift.com/f/threads/no-tracking-software-no-problem-also-avoid-tracker-redirects.13398/)
