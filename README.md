@@ -43,10 +43,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
 -  04 [Need Help with PropellerAds, Binom Tracker, and GoldenGoose for POP Campaign](https://afflift.com/f/threads/need-help-with-propellerads-binom-tracker-and-goldengoose-for-pop-campaign.13392/)
 -  04 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  04 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
--  04 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
 -  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  04 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
 -  04 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/)
