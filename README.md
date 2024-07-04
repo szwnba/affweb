@@ -58,5 +58,4 @@
 -  04 [空想特摄的浪漫（二）：《假面骑士》入坑指南](https://sspai.com/post/90188)
 -  04 [让 RIME 体验更上一层楼：如何用 MediaWiki 扩展词库](https://sspai.com/post/90068)
 -  04 [派早报：Apple 以观察员身份入驻 OpenAI 董事会、大疆推出自行车电助力系统等](https://sspai.com/post/90196)
--  03 [面向 AI 时代，共建「多维」未来：多维表格开发者日 | AI 专场邀你报名](https://sspai.com/post/90180)
--  03 [特洛克积木插座 Pixel 65，「充电」之外还可以做更多](https://sspai.com/post/90109)<!-- sspai:END -->
+-  03 [面向 AI 时代，共建「多维」未来：多维表格开发者日 | AI 专场邀你报名](https://sspai.com/post/90180)<!-- sspai:END -->
