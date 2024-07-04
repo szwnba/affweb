@@ -58,8 +58,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  04 [派早报：Apple 以观察员身份入驻 OpenAI 董事会、大疆推出自行车电助力系统等](https://sspai.com/post/90196)
 -  03 [面向 AI 时代，共建「多维」未来：多维表格开发者日 | AI 专场邀你报名](https://sspai.com/post/90180)
 -  03 [特洛克积木插座 Pixel 65，「充电」之外还可以做更多](https://sspai.com/post/90109)
 -  03 [比花钱扩容更有性价比：华为手机 NM 存储卡使用指南](https://sspai.com/post/89840)
--  03 [见光不见灯之我见：聊聊家庭光照设计](https://sspai.com/post/89609)
--  03 [善用白板和卡片，聊聊 Heptabase 如何助我「知识管理」](https://sspai.com/post/90069)<!-- sspai:END -->
+-  03 [见光不见灯之我见：聊聊家庭光照设计](https://sspai.com/post/89609)<!-- sspai:END -->
