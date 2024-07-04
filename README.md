@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
+-  04 [🖥️  How to host your landing pages without a server - for free ? &lpar;unlimited traffic and global coverage&rpar;](https://afflift.com/f/threads/%F0%9F%96%A5%EF%B8%8F-how-to-host-your-landing-pages-without-a-server-for-free-unlimited-traffic-and-global-coverage.10527/)
+-  04 [⚡ Host your landing pages for free on CloudFlare [UPDATED]](https://afflift.com/f/threads/%E2%9A%A1-host-your-landing-pages-for-free-on-cloudflare-updated.13396/)
+-  04 [Propellerads?LOL](https://afflift.com/f/threads/propellerads-lol.13395/)
 -  04 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
+-  04 [🔥 Mega post of Anstrex Landing pages 🔥](https://afflift.com/f/threads/%F0%9F%94%A5-mega-post-of-anstrex-landing-pages-%F0%9F%94%A5.6125/)
+-  04 [Landing Pages 101](https://afflift.com/f/threads/landing-pages-101.8005/)
+-  04 [Google Analytics 4 alternatives?](https://afflift.com/f/threads/google-analytics-4-alternatives.13369/)
 -  04 [Need Help with PropellerAds, Binom Tracker, and GoldenGoose for POP Campaign](https://afflift.com/f/threads/need-help-with-propellerads-binom-tracker-and-goldengoose-for-pop-campaign.13392/)
 -  04 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  04 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
--  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  04 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
--  04 [Golden Goose + Mobidea / MVAS](https://afflift.com/f/threads/golden-goose-mobidea-mvas.11107/)
--  04 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  04 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
--  04 [$30 PropellerAds Promo Code](https://afflift.com/f/threads/30-propellerads-promo-code.13391/)
--  03 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
--  03 [Mobivion - Next-Generation Advertising Network with AI](https://afflift.com/f/threads/mobivion-next-generation-advertising-network-with-ai.13393/)<!-- afflift:END -->
+-  04 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
