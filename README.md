@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
+-  04 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  04 [STEP 13 - Applying Updates on PopAds Traffic Source](https://afflift.com/f/threads/step-13-applying-updates-on-popads-traffic-source.12324/)
 -  04 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
 -  04 [Am I calculating the budget for the popunder campaign correctly?](https://afflift.com/f/threads/am-i-calculating-the-budget-for-the-popunder-campaign-correctly.7313/)
@@ -46,9 +48,7 @@
 -  04 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)
 -  04 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  04 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  04 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  04 [🌿💰 Global Green Profits: Scaling Success! 🌍🚀](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B0-global-green-profits-scaling-success-%F0%9F%8C%8D%F0%9F%9A%80.13167/)
--  04 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)<!-- afflift:END -->
+-  04 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
