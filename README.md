@@ -37,8 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  04 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
+-  04 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
+-  04 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  04 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  04 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
 -  04 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)
@@ -47,8 +48,7 @@
 -  04 [No &quot;Tracking Software&quot; No Problem, Also avoid tracker redirects](https://afflift.com/f/threads/no-tracking-software-no-problem-also-avoid-tracker-redirects.13398/)
 -  04 [FREE plan for affLIFT users from Peerclick Ad Tracker 🎉🔥](https://afflift.com/f/threads/free-plan-for-afflift-users-from-peerclick-ad-tracker-%F0%9F%8E%89%F0%9F%94%A5.12985/)
 -  04 [Cloud Trackers Comparison](https://afflift.com/f/threads/cloud-trackers-comparison.10165/)
--  04 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
--  04 [AdShaped - Global Media Agency](https://afflift.com/f/threads/adshaped-global-media-agency.7136/)<!-- afflift:END -->
+-  04 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
