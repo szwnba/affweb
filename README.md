@@ -26,8 +26,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  04 [如何弄到Telegram账号？](https://www.advertcn.com/thread-115583-1-1.html)
--  04 [日IP 1万左右的海外影视站挂哪个联盟比较合适？](https://www.advertcn.com/thread-115578-1-1.html)
--  03 [PropellerAds优惠码](https://www.advertcn.com/thread-115575-1-1.html)<!-- advertcn3:END -->
+-  04 [日IP 1万左右的海外影视站挂哪个联盟比较合适？](https://www.advertcn.com/thread-115578-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
