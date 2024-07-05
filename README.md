@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
 -  05 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
 -  05 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
 -  05 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)
@@ -46,8 +47,7 @@
 -  04 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  04 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  04 [STEP 13 - Applying Updates on PopAds Traffic Source](https://afflift.com/f/threads/step-13-applying-updates-on-popads-traffic-source.12324/)
--  04 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
--  04 [Am I calculating the budget for the popunder campaign correctly?](https://afflift.com/f/threads/am-i-calculating-the-budget-for-the-popunder-campaign-correctly.7313/)<!-- afflift:END -->
+-  04 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
