@@ -53,5 +53,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  05 [派早报：双因素认证服务 Authy 数据泄露、FTC 要求公司修改非法保修条款等](https://sspai.com/post/90218)
--  04 [空想特摄的浪漫（二）：《假面骑士》入坑指南](https://sspai.com/post/90188)
--  04 [让 RIME 体验更上一层楼：如何用 MediaWiki 扩展词库](https://sspai.com/post/90068)<!-- sspai:END -->
+-  04 [空想特摄的浪漫（二）：《假面骑士》入坑指南](https://sspai.com/post/90188)<!-- sspai:END -->
