@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)
+-  05 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
 -  04 [Has anyone tried social traffic on propellerads ?](https://afflift.com/f/threads/has-anyone-tried-social-traffic-on-propellerads.13400/)
 -  04 [Affiliate Top - a new level affiliate program](https://afflift.com/f/threads/affiliate-top-a-new-level-affiliate-program.13401/)
 -  04 [TrueMeds - True Pharmacy Affiliate Program! Increase your profit x2 times with us!](https://afflift.com/f/threads/truemeds-true-pharmacy-affiliate-program-increase-your-profit-x2-times-with-us.10662/)
@@ -46,9 +48,7 @@
 -  04 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
 -  04 [Am I calculating the budget for the popunder campaign correctly?](https://afflift.com/f/threads/am-i-calculating-the-budget-for-the-popunder-campaign-correctly.7313/)
 -  04 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
--  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  04 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
--  04 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)<!-- afflift:END -->
+-  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
