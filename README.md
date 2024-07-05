@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Pops dircet Finace Survey](https://afflift.com/f/threads/pops-dircet-finace-survey.12765/)
 -  05 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
 -  05 [Landing Pages 101](https://afflift.com/f/threads/landing-pages-101.8005/)
 -  05 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
@@ -46,8 +47,7 @@
 -  05 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
 -  05 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)
 -  05 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
--  04 [Has anyone tried social traffic on propellerads ?](https://afflift.com/f/threads/has-anyone-tried-social-traffic-on-propellerads.13400/)
--  04 [Affiliate Top - a new level affiliate program](https://afflift.com/f/threads/affiliate-top-a-new-level-affiliate-program.13401/)<!-- afflift:END -->
+-  04 [Has anyone tried social traffic on propellerads ?](https://afflift.com/f/threads/has-anyone-tried-social-traffic-on-propellerads.13400/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
