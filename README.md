@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
+-  05 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  05 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  05 [Sharing and seeking assistance: Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/sharing-and-seeking-assistance-using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)
 -  05 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
@@ -47,11 +49,9 @@
 -  05 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  05 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
 -  05 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  05 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  05 [landing pages CTR collapsed](https://afflift.com/f/threads/landing-pages-ctr-collapsed.13407/)
 -  05 [Why don&#39;t you use push?](https://afflift.com/f/threads/why-dont-you-use-push.13406/)
--  05 [Low in Conversions? Try Setting Up IP2 Location Targeting](https://afflift.com/f/threads/low-in-conversions-try-setting-up-ip2-location-targeting.13408/)
--  05 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)<!-- afflift:END -->
+-  05 [Low in Conversions? Try Setting Up IP2 Location Targeting](https://afflift.com/f/threads/low-in-conversions-try-setting-up-ip2-location-targeting.13408/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
