@@ -53,5 +53,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  04 [空想特摄的浪漫（二）：《假面骑士》入坑指南](https://sspai.com/post/90188)
--  04 [让 RIME 体验更上一层楼：如何用 MediaWiki 扩展词库](https://sspai.com/post/90068)
--  04 [派早报：Apple 以观察员身份入驻 OpenAI 董事会、大疆推出自行车电助力系统等](https://sspai.com/post/90196)<!-- sspai:END -->
+-  04 [让 RIME 体验更上一层楼：如何用 MediaWiki 扩展词库](https://sspai.com/post/90068)<!-- sspai:END -->
