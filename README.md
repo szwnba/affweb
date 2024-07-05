@@ -55,5 +55,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  05 [一日一技 | 如何从快照镜像恢复图床服务器数据](https://sspai.com/post/90154)
 -  05 [「临门一脚」助你入门 Vim：Kickstart 配置笔记](https://sspai.com/post/90115)
 -  05 [派早报：双因素认证服务 Authy 数据泄露、FTC 要求公司修改非法保修条款等](https://sspai.com/post/90218)<!-- sspai:END -->
