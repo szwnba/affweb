@@ -52,5 +52,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  05 [「临门一脚」助你入门 Vim：Kickstart 配置笔记](https://sspai.com/post/90115)
--  05 [派早报：双因素认证服务 Authy 数据泄露、FTC 要求公司修改非法保修条款等](https://sspai.com/post/90218)
--  04 [空想特摄的浪漫（二）：《假面骑士》入坑指南](https://sspai.com/post/90188)<!-- sspai:END -->
+-  05 [派早报：双因素认证服务 Authy 数据泄露、FTC 要求公司修改非法保修条款等](https://sspai.com/post/90218)<!-- sspai:END -->
