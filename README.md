@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
+-  05 [Landing Pages 101](https://afflift.com/f/threads/landing-pages-101.8005/)
+-  05 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
+-  05 [Affialiat profit](https://afflift.com/f/threads/affialiat-profit.13402/)
+-  05 [URL Scanner By Cloudflare Radar](https://afflift.com/f/threads/url-scanner-by-cloudflare-radar.13375/)
 -  05 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
 -  05 [Would you be interested in learning more about Pay Per Call?](https://afflift.com/f/threads/would-you-be-interested-in-learning-more-about-pay-per-call.13184/)
 -  05 [PropellerAds SmartCPC US Sweepstake offers #PA23](https://afflift.com/f/threads/propellerads-smartcpc-us-sweepstake-offers-pa23.11580/)
 -  05 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)
 -  05 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
 -  04 [Has anyone tried social traffic on propellerads ?](https://afflift.com/f/threads/has-anyone-tried-social-traffic-on-propellerads.13400/)
--  04 [Affiliate Top - a new level affiliate program](https://afflift.com/f/threads/affiliate-top-a-new-level-affiliate-program.13401/)
--  04 [TrueMeds - True Pharmacy Affiliate Program! Increase your profit x2 times with us!](https://afflift.com/f/threads/truemeds-true-pharmacy-affiliate-program-increase-your-profit-x2-times-with-us.10662/)
--  04 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
--  04 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  04 [STEP 13 - Applying Updates on PopAds Traffic Source](https://afflift.com/f/threads/step-13-applying-updates-on-popads-traffic-source.12324/)
--  04 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)<!-- afflift:END -->
+-  04 [Affiliate Top - a new level affiliate program](https://afflift.com/f/threads/affiliate-top-a-new-level-affiliate-program.13401/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
