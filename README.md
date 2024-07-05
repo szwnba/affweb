@@ -37,6 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  04 [Has anyone tried social traffic on propellerads ?](https://afflift.com/f/threads/has-anyone-tried-social-traffic-on-propellerads.13400/)
+-  04 [Affiliate Top - a new level affiliate program](https://afflift.com/f/threads/affiliate-top-a-new-level-affiliate-program.13401/)
+-  04 [TrueMeds - True Pharmacy Affiliate Program! Increase your profit x2 times with us!](https://afflift.com/f/threads/truemeds-true-pharmacy-affiliate-program-increase-your-profit-x2-times-with-us.10662/)
 -  04 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  04 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  04 [STEP 13 - Applying Updates on PopAds Traffic Source](https://afflift.com/f/threads/step-13-applying-updates-on-popads-traffic-source.12324/)
@@ -45,10 +48,7 @@
 -  04 [How to Calculate Clickloss/Click Loss Percentage on Zone/Source Level?](https://afflift.com/f/threads/how-to-calculate-clickloss-click-loss-percentage-on-zone-source-level.6449/)
 -  04 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  04 [Today&#39;s brought a surprise from PropellerAds.](https://afflift.com/f/threads/todays-brought-a-surprise-from-propellerads.13394/)
--  04 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)
--  04 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  04 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  04 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)<!-- afflift:END -->
+-  04 [Do you prefer CPA or CPC in Propllerads?](https://afflift.com/f/threads/do-you-prefer-cpa-or-cpc-in-propllerads.13399/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
