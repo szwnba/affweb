@@ -41,7 +41,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  05 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
+-  05 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  05 [OnclickA traffic is scum?](https://afflift.com/f/threads/onclicka-traffic-is-scum.13404/)
+-  05 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  05 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
 -  05 [Jam-pack your APK with huge ROI](https://afflift.com/f/threads/jam-pack-your-apk-with-huge-roi.13403/)
 -  05 [STEP 1 - What is Affiliate Marketing](https://afflift.com/f/threads/step-1-what-is-affiliate-marketing.12311/)
@@ -49,10 +52,7 @@
 -  05 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
 -  05 [Pops dircet Finace Survey](https://afflift.com/f/threads/pops-dircet-finace-survey.12765/)
 -  05 [A Different Way to Approach Campaigns](https://afflift.com/f/threads/a-different-way-to-approach-campaigns.13363/)
--  05 [Landing Pages 101](https://afflift.com/f/threads/landing-pages-101.8005/)
--  05 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
--  05 [Affialiat profit](https://afflift.com/f/threads/affialiat-profit.13402/)
--  05 [URL Scanner By Cloudflare Radar](https://afflift.com/f/threads/url-scanner-by-cloudflare-radar.13375/)<!-- afflift:END -->
+-  05 [Landing Pages 101](https://afflift.com/f/threads/landing-pages-101.8005/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
