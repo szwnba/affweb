@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  06 [新人报道](https://www.advertcn.com/thread-115615-1-1.html)
 -  05 [大家好，新人报道，多多指教](https://www.advertcn.com/thread-115601-1-1.html)
 -  05 [贸发会议报告：2024年一季度全球贸易趋势转好](https://www.advertcn.com/thread-115598-1-1.html)
 -  05 [银行开户 | 关于如何在迪拜开设银行账户的详细指南！](https://www.advertcn.com/thread-115597-1-1.html)
