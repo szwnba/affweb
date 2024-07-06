@@ -38,18 +38,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
+-  06 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
 -  06 [Propellerads?LOL](https://afflift.com/f/threads/propellerads-lol.13395/)
 -  06 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  06 [Pump Up the Volume – How to Scale a Profitable Campaign](https://afflift.com/f/threads/pump-up-the-volume-%E2%80%93-how-to-scale-a-profitable-campaign.4239/)
 -  06 [What link should i post from my Binom tracker on my landing page?](https://afflift.com/f/threads/what-link-should-i-post-from-my-binom-tracker-on-my-landing-page.13410/)
 -  06 [Why don&#39;t you use push?](https://afflift.com/f/threads/why-dont-you-use-push.13406/)
 -  06 [OnclickA traffic is scum?](https://afflift.com/f/threads/onclicka-traffic-is-scum.13404/)
--  06 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  05 [Has anyone tried social traffic on propellerads ?](https://afflift.com/f/threads/has-anyone-tried-social-traffic-on-propellerads.13400/)
 -  05 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
 -  05 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
--  05 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
--  05 [Sharing and seeking assistance: Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/sharing-and-seeking-assistance-using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)<!-- afflift:END -->
+-  05 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
