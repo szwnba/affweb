@@ -58,5 +58,4 @@
 -  05 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/90243)
 -  05 [具透 Plus | 企图变聪明的 Chrome 与小广告止不住的 Windows](https://sspai.com/prime/story/inside-release-notes-240705)
 -  05 [一日一技 | 如何从快照镜像恢复图床服务器数据](https://sspai.com/post/90154)
--  05 [「临门一脚」助你入门 Vim：Kickstart 配置笔记](https://sspai.com/post/90115)
--  05 [派早报：双因素认证服务 Authy 数据泄露、FTC 要求公司修改非法保修条款等](https://sspai.com/post/90218)<!-- sspai:END -->
+-  05 [「临门一脚」助你入门 Vim：Kickstart 配置笔记](https://sspai.com/post/90115)<!-- sspai:END -->
