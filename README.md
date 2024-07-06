@@ -37,9 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  06 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
+-  06 [Why don&#39;t you use push?](https://afflift.com/f/threads/why-dont-you-use-push.13406/)
 -  06 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  06 [What link should i post from my Binom tracker on my landing page?](https://afflift.com/f/threads/what-link-should-i-post-from-my-binom-tracker-on-my-landing-page.13410/)
--  06 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
 -  06 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  06 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
 -  06 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
@@ -47,8 +48,7 @@
 -  06 [Building a team?](https://afflift.com/f/threads/building-a-team.13124/)
 -  06 [OnclickA traffic is scum?](https://afflift.com/f/threads/onclicka-traffic-is-scum.13404/)
 -  06 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
--  06 [Propellerads?LOL](https://afflift.com/f/threads/propellerads-lol.13395/)
--  06 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)<!-- afflift:END -->
+-  06 [Propellerads?LOL](https://afflift.com/f/threads/propellerads-lol.13395/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
