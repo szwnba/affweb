@@ -27,8 +27,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  06 [大家现在如何搞外链？](https://www.advertcn.com/thread-115613-1-1.html)
--  05 [澳洲电子烟独立站寻流量](https://www.advertcn.com/thread-115605-1-1.html)
--  05 [TikTok流量不好？破解TikTok流量难题：打造高效广告投放策略](https://www.advertcn.com/thread-115599-1-1.html)<!-- advertcn3:END -->
+-  05 [澳洲电子烟独立站寻流量](https://www.advertcn.com/thread-115605-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
