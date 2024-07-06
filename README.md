@@ -26,8 +26,7 @@
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
 -  06 [KYC 人脸识别](https://www.advertcn.com/thread-115618-1-1.html)
--  06 [大家现在如何搞外链？](https://www.advertcn.com/thread-115613-1-1.html)
--  05 [澳洲电子烟独立站寻流量](https://www.advertcn.com/thread-115605-1-1.html)<!-- advertcn3:END -->
+-  06 [大家现在如何搞外链？](https://www.advertcn.com/thread-115613-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
