@@ -36,10 +36,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Mobipium callback question](https://afflift.com/f/threads/mobipium-callback-question.13411/)
 -  07 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  07 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
 -  07 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  07 [Mobipium callback question](https://afflift.com/f/threads/mobipium-callback-question.13411/)
 -  06 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
 -  06 [Why don&#39;t you use push?](https://afflift.com/f/threads/why-dont-you-use-push.13406/)
 -  06 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
