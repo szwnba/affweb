@@ -51,5 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  06 [Heptabase + Logseq + Readwise：我的知识管理与输出实践](https://sspai.com/post/90223)
--  06 [线下活动：节奏与世界｜Asalato 制作工坊及世界音乐即兴音乐会](https://sspai.com/post/90240)<!-- sspai:END -->
+-  06 [Heptabase + Logseq + Readwise：我的知识管理与输出实践](https://sspai.com/post/90223)<!-- sspai:END -->
