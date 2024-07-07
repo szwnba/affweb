@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
+-  07 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
+-  07 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
 -  07 [That&#39;s hilarious 😂😂](https://afflift.com/f/threads/thats-hilarious-%F0%9F%98%82%F0%9F%98%82.13413/)
 -  07 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
 -  07 [Mobipium callback question](https://afflift.com/f/threads/mobipium-callback-question.13411/)
--  07 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  07 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
 -  07 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  06 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
 -  06 [Why don&#39;t you use push?](https://afflift.com/f/threads/why-dont-you-use-push.13406/)
 -  06 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  06 [What link should i post from my Binom tracker on my landing page?](https://afflift.com/f/threads/what-link-should-i-post-from-my-binom-tracker-on-my-landing-page.13410/)
--  06 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  06 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)<!-- afflift:END -->
+-  06 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
