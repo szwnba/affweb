@@ -37,7 +37,8 @@
 ### afflift
 <!-- afflift:START -->
 -  07 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
--  06 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
+-  07 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
+-  07 [Mobipium callback question](https://afflift.com/f/threads/mobipium-callback-question.13411/)
 -  06 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
 -  06 [Why don&#39;t you use push?](https://afflift.com/f/threads/why-dont-you-use-push.13406/)
 -  06 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
@@ -46,8 +47,7 @@
 -  06 [Skro.eu | Affiliate campaign tracker with Free plan - 250k free events per month](https://afflift.com/f/threads/skro-eu-affiliate-campaign-tracker-with-free-plan-250k-free-events-per-month.7260/)
 -  06 [Building a team?](https://afflift.com/f/threads/building-a-team.13124/)
 -  06 [OnclickA traffic is scum?](https://afflift.com/f/threads/onclicka-traffic-is-scum.13404/)
--  06 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
--  06 [Propellerads?LOL](https://afflift.com/f/threads/propellerads-lol.13395/)<!-- afflift:END -->
+-  06 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
