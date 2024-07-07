@@ -37,10 +37,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  07 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  07 [That&#39;s hilarious 😂😂](https://afflift.com/f/threads/thats-hilarious-%F0%9F%98%82%F0%9F%98%82.13413/)
 -  07 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
 -  07 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
--  07 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  07 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  07 [Whitelist CPM Bidding can work on Galaksion too?!?!?!](https://afflift.com/f/threads/whitelist-cpm-bidding-can-work-on-galaksion-too.13262/)
 -  07 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
