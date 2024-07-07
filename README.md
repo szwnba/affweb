@@ -25,8 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  07 [Mobipium postback Binom 配置求助](https://www.advertcn.com/thread-115619-1-1.html)
--  06 [KYC 人脸识别](https://www.advertcn.com/thread-115618-1-1.html)<!-- advertcn3:END -->
+-  07 [Mobipium postback Binom 配置求助](https://www.advertcn.com/thread-115619-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
