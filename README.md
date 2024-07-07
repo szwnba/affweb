@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  07 [搜索套利小白交流](https://www.advertcn.com/thread-115621-1-1.html)
 -  07 [小白搜索套利问题，求大佬帮助](https://www.advertcn.com/thread-115620-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
