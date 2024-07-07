@@ -52,4 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  06 [Heptabase + Logseq + Readwise：我的知识管理与输出实践](https://sspai.com/post/90223)<!-- sspai:END -->
+-  07 [「都市丽人」小跑一夏：我如何让跑步成为习惯](https://sspai.com/post/90189)<!-- sspai:END -->
