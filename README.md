@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  18 [国内开通ChatGPT Plus相对稳定的方式：Apple内购](https://51.ruyo.net/18681.html)<!-- ruyo:END -->
+-  08 [Fastly提供免费CDN服务，全球泛播，每月50美元流量加速](https://51.ruyo.net/18704.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
