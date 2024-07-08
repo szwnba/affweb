@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
+-  08 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  08 [MrBet Partners Affiliate Program](https://afflift.com/f/threads/mrbet-partners-affiliate-program.13420/)
 -  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  08 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
 -  08 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  08 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)
 -  08 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
--  08 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  08 [Propush - domains flagged - ??](https://afflift.com/f/threads/propush-domains-flagged.13419/)
 -  08 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
 -  08 [That&#39;s hilarious 😂😂](https://afflift.com/f/threads/thats-hilarious-%F0%9F%98%82%F0%9F%98%82.13413/)
--  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
--  08 [Re: RECAP for Propush to Trackers and Push2Tracker](https://afflift.com/f/threads/re-recap-for-propush-to-trackers-and-push2tracker.13417/)<!-- afflift:END -->
+-  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
