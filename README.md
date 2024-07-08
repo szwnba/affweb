@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
+-  08 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)
 -  08 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
 -  08 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)
 -  08 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)
@@ -49,9 +51,7 @@
 -  08 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
 -  08 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
--  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  08 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  07 [Whitelist CPM Bidding can work on Galaksion too?!?!?!](https://afflift.com/f/threads/whitelist-cpm-bidding-can-work-on-galaksion-too.13262/)<!-- afflift:END -->
+-  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
