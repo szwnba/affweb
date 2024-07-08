@@ -40,10 +40,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  08 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
 -  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  08 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
--  08 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  08 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  08 [Am I calculating the budget for the popunder campaign correctly?](https://afflift.com/f/threads/am-i-calculating-the-budget-for-the-popunder-campaign-correctly.7313/)
