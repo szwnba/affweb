@@ -40,8 +40,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
+-  08 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
 -  08 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
+-  08 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  08 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
 -  08 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
@@ -50,8 +51,7 @@
 -  08 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
 -  08 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
 -  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
--  08 [Propush - domains flagged - ??](https://afflift.com/f/threads/propush-domains-flagged.13419/)
--  08 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)<!-- afflift:END -->
+-  08 [Propush - domains flagged - ??](https://afflift.com/f/threads/propush-domains-flagged.13419/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
