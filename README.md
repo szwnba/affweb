@@ -39,6 +39,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  08 [Propush - domains flagged - ??](https://afflift.com/f/threads/propush-domains-flagged.13419/)
 -  08 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)
 -  08 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)
 -  08 [Time To Make Some Independent Moves](https://afflift.com/f/threads/time-to-make-some-independent-moves.13346/)
@@ -48,9 +50,7 @@
 -  08 [Push Code on Root HOW?](https://afflift.com/f/threads/push-code-on-root-how.13418/)
 -  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  08 [Re: RECAP for Propush to Trackers and Push2Tracker](https://afflift.com/f/threads/re-recap-for-propush-to-trackers-and-push2tracker.13417/)
--  08 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  08 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)
--  08 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)<!-- afflift:END -->
+-  08 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
