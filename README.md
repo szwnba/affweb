@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  08 [CPV Lab Pro - Track, Test and Optimize All of Your Marketing](https://afflift.com/f/threads/cpv-lab-pro-track-test-and-optimize-all-of-your-marketing.3912/)
 -  08 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
 -  08 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
 -  08 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  08 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
 -  08 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  08 [Am I calculating the budget for the popunder campaign correctly?](https://afflift.com/f/threads/am-i-calculating-the-budget-for-the-popunder-campaign-correctly.7313/)
 -  08 [How to Choose Right bid for Pop Ad?](https://afflift.com/f/threads/how-to-choose-right-bid-for-pop-ad.13308/)
--  08 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)
--  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)<!-- afflift:END -->
+-  08 [Using ChatGPT and other AI tools to revive a website](https://afflift.com/f/threads/using-chatgpt-and-other-ai-tools-to-revive-a-website.12532/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
