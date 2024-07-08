@@ -37,9 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  08 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
 -  08 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
--  08 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  08 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
