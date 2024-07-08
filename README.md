@@ -54,5 +54,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [花点心思，「平价」也能拥有皮实的隐形车衣](https://sspai.com/post/90265)
 -  08 [派早报：苹果批准 Epic 在欧盟区开设第三方应用商店](https://sspai.com/post/90275)
 -  07 [「都市丽人」小跑一夏：我如何让跑步成为习惯](https://sspai.com/post/90189)<!-- sspai:END -->
