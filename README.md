@@ -56,5 +56,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  08 [放烟火的人生而平等：AI 应用从概念到落地需要克服哪些问题](https://sspai.com/post/90225)
 -  08 [花点心思，「平价」也能拥有皮实的隐形车衣](https://sspai.com/post/90265)
 -  08 [派早报：苹果批准 Epic 在欧盟区开设第三方应用商店](https://sspai.com/post/90275)<!-- sspai:END -->
