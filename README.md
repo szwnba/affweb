@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
--  08 [Propush - domains flagged - ??](https://afflift.com/f/threads/propush-domains-flagged.13419/)
--  08 [Re: RECAP for Propush to Trackers and Push2Tracker](https://afflift.com/f/threads/re-recap-for-propush-to-trackers-and-push2tracker.13417/)
--  08 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)
--  08 [STEP 7 - Adding Zeydoo Smartlink as Offer to Skro Tracker](https://afflift.com/f/threads/step-7-adding-zeydoo-smartlink-as-offer-to-skro-tracker.12317/)
+-  08 [MrBet Partners Affiliate Program](https://afflift.com/f/threads/mrbet-partners-affiliate-program.13420/)
 -  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
--  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
--  08 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)
--  08 [Time To Make Some Independent Moves](https://afflift.com/f/threads/time-to-make-some-independent-moves.13346/)
--  08 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
--  08 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
--  08 [Push Code on Root HOW?](https://afflift.com/f/threads/push-code-on-root-how.13418/)<!-- afflift:END -->
+-  08 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
+-  08 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
+-  08 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)
+-  08 [MyLead.global - Join the most innovative affiliate network. Get it on a new level!](https://afflift.com/f/threads/mylead-global-join-the-most-innovative-affiliate-network-get-it-on-a-new-level.2151/)
+-  08 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
+-  08 [Propush - domains flagged - ??](https://afflift.com/f/threads/propush-domains-flagged.13419/)
+-  08 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
+-  08 [That&#39;s hilarious 😂😂](https://afflift.com/f/threads/thats-hilarious-%F0%9F%98%82%F0%9F%98%82.13413/)
+-  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
+-  08 [Re: RECAP for Propush to Trackers and Push2Tracker](https://afflift.com/f/threads/re-recap-for-propush-to-trackers-and-push2tracker.13417/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
