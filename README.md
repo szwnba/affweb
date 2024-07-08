@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
+-  08 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
+-  08 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
+-  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  08 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  07 [Whitelist CPM Bidding can work on Galaksion too?!?!?!](https://afflift.com/f/threads/whitelist-cpm-bidding-can-work-on-galaksion-too.13262/)
--  07 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  07 [That&#39;s hilarious 😂😂](https://afflift.com/f/threads/thats-hilarious-%F0%9F%98%82%F0%9F%98%82.13413/)
--  07 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
 -  07 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
 -  07 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  07 [Push2Tracker - Track your push revenue!](https://afflift.com/f/threads/push2tracker-track-your-push-revenue.13278/)
--  07 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)
--  07 [⭕ Anti-detect browser AdsPower for effective work with multi-accounts! [Try it for free]](https://afflift.com/f/threads/%E2%AD%95-anti-detect-browser-adspower-for-effective-work-with-multi-accounts-try-it-for-free.8805/)
--  07 [Mobipium callback question](https://afflift.com/f/threads/mobipium-callback-question.13411/)<!-- afflift:END -->
+-  07 [Datingleads.com scam?](https://afflift.com/f/threads/datingleads-com-scam.13409/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
