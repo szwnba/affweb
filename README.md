@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  08 [Propush - domains flagged - ??](https://afflift.com/f/threads/propush-domains-flagged.13419/)
--  08 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)
+-  08 [Re: RECAP for Propush to Trackers and Push2Tracker](https://afflift.com/f/threads/re-recap-for-propush-to-trackers-and-push2tracker.13417/)
 -  08 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)
+-  08 [STEP 7 - Adding Zeydoo Smartlink as Offer to Skro Tracker](https://afflift.com/f/threads/step-7-adding-zeydoo-smartlink-as-offer-to-skro-tracker.12317/)
+-  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
+-  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  08 [START HERE - Push Ads Sweepstakes Mastery Course Outline](https://afflift.com/f/threads/start-here-push-ads-sweepstakes-mastery-course-outline.6887/)
 -  08 [Time To Make Some Independent Moves](https://afflift.com/f/threads/time-to-make-some-independent-moves.13346/)
 -  08 [Adsterra Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-june-2024.13269/)
 -  08 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
--  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
--  08 [Push Code on Root HOW?](https://afflift.com/f/threads/push-code-on-root-how.13418/)
--  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
--  08 [Re: RECAP for Propush to Trackers and Push2Tracker](https://afflift.com/f/threads/re-recap-for-propush-to-trackers-and-push2tracker.13417/)
--  08 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)<!-- afflift:END -->
+-  08 [Push Code on Root HOW?](https://afflift.com/f/threads/push-code-on-root-how.13418/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
