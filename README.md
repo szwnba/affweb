@@ -40,6 +40,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  08 [Push Code on Root HOW?](https://afflift.com/f/threads/push-code-on-root-how.13418/)
+-  08 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
+-  08 [Re: RECAP for Propush to Trackers and Push2Tracker](https://afflift.com/f/threads/re-recap-for-propush-to-trackers-and-push2tracker.13417/)
 -  08 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
 -  08 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)
 -  08 [✅✅✅ ANYBILL – Trusted Anonymous Cards to pay for ADS ⭐️⭐️⭐️ Without KYC ❤️❤️❤️](https://afflift.com/f/threads/%E2%9C%85%E2%9C%85%E2%9C%85-anybill-%E2%80%93-trusted-anonymous-cards-to-pay-for-ads-%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F%E2%AD%90%EF%B8%8F-without-kyc-%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F.11204/)
@@ -48,10 +51,7 @@
 -  08 [Building a team?](https://afflift.com/f/threads/building-a-team.13124/)
 -  08 [Mobipium callback question](https://afflift.com/f/threads/mobipium-callback-question.13411/)
 -  08 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
--  08 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
--  08 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
--  08 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
--  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
+-  08 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
