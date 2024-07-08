@@ -29,7 +29,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  07 [Mobipium postback Binom 配置求助](https://www.advertcn.com/thread-115619-1-1.html)<!-- advertcn3:END -->
+-  08 [收一个SYSTEM1或者Bodis的账号](https://www.advertcn.com/thread-115639-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
