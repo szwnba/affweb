@@ -17,6 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  08 [越南要求 390 美元以上的数字支付必须使用面部识别技术](https://www.advertcn.com/thread-115628-1-1.html)
+-  08 [联想通过 Trustly 推出开放银行结账服务](https://www.advertcn.com/thread-115627-1-1.html)
 -  07 [搜索套利小白交流](https://www.advertcn.com/thread-115621-1-1.html)
 -  07 [小白搜索套利问题，求大佬帮助](https://www.advertcn.com/thread-115620-1-1.html)<!-- advertcn1:END -->
 
