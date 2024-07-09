@@ -27,6 +27,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  09 [Facebook产品更新|20 项广告发布守则已更新](https://www.advertcn.com/thread-115649-1-1.html)
 -  08 [收一个SYSTEM1或者Bodis的账号](https://www.advertcn.com/thread-115639-1-1.html)<!-- advertcn3:END -->
 
 
