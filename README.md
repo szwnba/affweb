@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  09 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
 -  09 [How to Increase Your Google Ads Campaign ROI with Personalization](https://afflift.com/f/threads/how-to-increase-your-google-ads-campaign-roi-with-personalization.13427/)
 -  09 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
@@ -50,8 +51,7 @@
 -  09 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  09 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  09 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
--  09 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
--  09 [Achieving $2,000 to $3,000 monthly: a publisher&#39;s success story with HilltopAds&#39; Popunder and VAST Video Ads](https://afflift.com/f/threads/achieving-2-000-to-3-000-monthly-a-publishers-success-story-with-hilltopads-popunder-and-vast-video-ads.13424/)<!-- afflift:END -->
+-  09 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
