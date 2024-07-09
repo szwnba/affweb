@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  09 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
 -  09 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
 -  09 [LeadBit tracking setup for Facebbok](https://afflift.com/f/threads/leadbit-tracking-setup-for-facebbok.13421/)
@@ -50,8 +51,7 @@
 -  08 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)
 -  08 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  08 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
--  08 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
--  08 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  08 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
