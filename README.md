@@ -40,6 +40,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
+-  09 [How to Increase Your Google Ads Campaign ROI with Personalization](https://afflift.com/f/threads/how-to-increase-your-google-ads-campaign-roi-with-personalization.13427/)
+-  09 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
+-  09 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  09 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
 -  09 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  09 [What kind of vertical is the most popular in affiliate marketing?](https://afflift.com/f/threads/what-kind-of-vertical-is-the-most-popular-in-affiliate-marketing.13426/)
@@ -47,11 +51,7 @@
 -  09 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  09 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  09 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
--  09 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
--  09 [Achieving $2,000 to $3,000 monthly: a publisher&#39;s success story with HilltopAds&#39; Popunder and VAST Video Ads](https://afflift.com/f/threads/achieving-2-000-to-3-000-monthly-a-publishers-success-story-with-hilltopads-popunder-and-vast-video-ads.13424/)
--  09 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
--  09 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
--  09 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)<!-- afflift:END -->
+-  09 [Achieving $2,000 to $3,000 monthly: a publisher&#39;s success story with HilltopAds&#39; Popunder and VAST Video Ads](https://afflift.com/f/threads/achieving-2-000-to-3-000-monthly-a-publishers-success-story-with-hilltopads-popunder-and-vast-video-ads.13424/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
