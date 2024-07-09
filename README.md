@@ -56,6 +56,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [YaoYao 跳绳开发者中年程序猿汪二都装了啥？](https://sspai.com/prime/story/zhuanglesha-240709)
 -  09 [社区速递 052 | 一周热评、派友在用的键盘和新玩意](https://sspai.com/post/90320)
 -  09 [用 AutoHotKey 在 Windows 上找回 macOS 使用体验](https://sspai.com/post/90212)
 -  09 [打扫房间可以很简单：10 个便宜好用的清洁用品](https://sspai.com/post/89304)
