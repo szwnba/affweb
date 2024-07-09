@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  08 [Fastly提供免费CDN服务，全球泛播，每月50美元流量加速](https://51.ruyo.net/18704.html)<!-- ruyo:END -->
+-  09 [2024好消息！北京摩托车可在官方途径办理ETC啦！](https://51.ruyo.net/18706.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
