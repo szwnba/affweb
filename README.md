@@ -13,6 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
+-  09 [百度网盘青春版网页版上线，不使用客户端可不限速下载资源](https://51.ruyo.net/18709.html)
 -  09 [2024好消息！北京摩托车可在官方途径办理ETC啦！](https://51.ruyo.net/18706.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
