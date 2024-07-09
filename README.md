@@ -38,8 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  09 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)
 -  09 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
+-  09 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)
+-  09 [OnclickA traffic is scum?](https://afflift.com/f/threads/onclicka-traffic-is-scum.13404/)
 -  09 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  09 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
 -  09 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
@@ -48,8 +49,7 @@
 -  09 [LeadBit tracking setup for Facebbok](https://afflift.com/f/threads/leadbit-tracking-setup-for-facebbok.13421/)
 -  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  08 [CPV Lab Pro - Track, Test and Optimize All of Your Marketing](https://afflift.com/f/threads/cpv-lab-pro-track-test-and-optimize-all-of-your-marketing.3912/)
--  08 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
--  08 [Lead Wolves](https://afflift.com/f/threads/lead-wolves.13412/)<!-- afflift:END -->
+-  08 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
