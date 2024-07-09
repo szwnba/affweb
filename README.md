@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  09 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  09 [OnClickA Traffic + Zeydoo Offers = 💰 Profit!](https://afflift.com/f/threads/onclicka-traffic-zeydoo-offers-%F0%9F%92%B0-profit.13428/)
 -  09 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
@@ -49,8 +50,7 @@
 -  09 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  09 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
 -  09 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  09 [What kind of vertical is the most popular in affiliate marketing?](https://afflift.com/f/threads/what-kind-of-vertical-is-the-most-popular-in-affiliate-marketing.13426/)
--  09 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)<!-- afflift:END -->
+-  09 [What kind of vertical is the most popular in affiliate marketing?](https://afflift.com/f/threads/what-kind-of-vertical-is-the-most-popular-in-affiliate-marketing.13426/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
