@@ -42,17 +42,17 @@
 ### afflift
 <!-- afflift:START -->
 -  09 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
+-  09 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
+-  09 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
+-  09 [Which source of traffic would you recommend for high-ticket sales?](https://afflift.com/f/threads/which-source-of-traffic-would-you-recommend-for-high-ticket-sales.13170/)
+-  09 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
 -  09 [Achieving $2,000 to $3,000 monthly: a publisher&#39;s success story with HilltopAds&#39; Popunder and VAST Video Ads](https://afflift.com/f/threads/achieving-2-000-to-3-000-monthly-a-publishers-success-story-with-hilltopads-popunder-and-vast-video-ads.13424/)
 -  09 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
 -  09 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
 -  09 [Directlink Arbitrage](https://afflift.com/f/threads/directlink-arbitrage.13415/)
 -  09 [OnclickA traffic is scum?](https://afflift.com/f/threads/onclicka-traffic-is-scum.13404/)
 -  09 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
--  09 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)
--  09 [PropellerAd Promo Codes &lpar;June 2024&rpar;](https://afflift.com/f/threads/propellerad-promo-codes-june-2024.13246/)
--  09 [LLC for Non-U.S. residents?](https://afflift.com/f/threads/llc-for-non-u-s-residents.11828/)
--  09 [LeadBit tracking setup for Facebbok](https://afflift.com/f/threads/leadbit-tracking-setup-for-facebbok.13421/)
--  08 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)<!-- afflift:END -->
+-  09 [My Profits🤑 X2 in One Month with Rollerads!](https://afflift.com/f/threads/my-profits%F0%9F%A4%91-x2-in-one-month-with-rollerads.12791/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
