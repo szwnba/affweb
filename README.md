@@ -56,5 +56,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  09 [打扫房间可以很简单：10 个便宜好用的清洁用品](https://sspai.com/post/89304)
 -  09 [派早报：Nothing 子品牌 CMF 发布多款新品，支付宝推出「碰一下」支付等](https://sspai.com/post/90295)
 -  08 [派评 | 近期值得关注的 App](https://sspai.com/post/90287)<!-- sspai:END -->
