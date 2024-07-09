@@ -39,9 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  09 [OnClickA Traffic + Zeydoo Offers = 💰 Profit!](https://afflift.com/f/threads/onclicka-traffic-zeydoo-offers-%F0%9F%92%B0-profit.13428/)
+-  09 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)
 -  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  09 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  09 [OnClickA Traffic + Zeydoo Offers = 💰 Profit!](https://afflift.com/f/threads/onclicka-traffic-zeydoo-offers-%F0%9F%92%B0-profit.13428/)
 -  09 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  09 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  09 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
@@ -49,8 +50,7 @@
 -  09 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
 -  09 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  09 [File with top performing offers to upload on ad-networks](https://afflift.com/f/threads/file-with-top-performing-offers-to-upload-on-ad-networks.13397/)
--  09 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  09 [What kind of vertical is the most popular in affiliate marketing?](https://afflift.com/f/threads/what-kind-of-vertical-is-the-most-popular-in-affiliate-marketing.13426/)<!-- afflift:END -->
+-  09 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
