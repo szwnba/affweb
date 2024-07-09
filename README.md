@@ -54,5 +54,4 @@
 ### 少数派
 <!-- sspai:START -->
 -  09 [派早报：Nothing 子品牌 CMF 发布多款新品，支付宝推出「碰一下」支付等](https://sspai.com/post/90295)
--  08 [派评 | 近期值得关注的 App](https://sspai.com/post/90287)
--  08 [放烟火的人生而平等：AI 应用从概念到落地需要克服哪些问题](https://sspai.com/post/90225)<!-- sspai:END -->
+-  08 [派评 | 近期值得关注的 App](https://sspai.com/post/90287)<!-- sspai:END -->
