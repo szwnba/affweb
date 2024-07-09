@@ -17,7 +17,6 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  08 [印尼打粉团队寻求](https://www.advertcn.com/thread-115638-1-1.html)
 -  08 [跟踪器BeMob和Golden Goose设置问题](https://www.advertcn.com/thread-115637-1-1.html)
 -  08 [新人报道](https://www.advertcn.com/thread-115630-1-1.html)
 -  08 [越南要求 390 美元以上的数字支付必须使用面部识别技术](https://www.advertcn.com/thread-115628-1-1.html)
