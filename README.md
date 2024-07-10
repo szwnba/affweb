@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Spin wheel, boxes and survey landings still work in sweepstakes?](https://afflift.com/f/threads/spin-wheel-boxes-and-survey-landings-still-work-in-sweepstakes.13433/)
+-  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
+-  10 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
+-  10 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)
 -  10 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  10 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
 -  10 [Why don&#39;t you use push?](https://afflift.com/f/threads/why-dont-you-use-push.13406/)
 -  10 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  10 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)
 -  10 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)
--  10 [Spin wheel, boxes and survey landings still work in sweepstakes?](https://afflift.com/f/threads/spin-wheel-boxes-and-survey-landings-still-work-in-sweepstakes.13433/)
 -  10 [Time To Make Some Independent Moves](https://afflift.com/f/threads/time-to-make-some-independent-moves.13346/)
 -  10 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
--  10 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)
--  10 [Got questions to Clickadu? We&#39;ll be happy to help you.](https://afflift.com/f/threads/got-questions-to-clickadu-well-be-happy-to-help-you.2674/)
--  10 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)<!-- afflift:END -->
+-  10 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
