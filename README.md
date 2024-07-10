@@ -52,8 +52,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  10 [「自力更生」征文收官，来听听少数派们的自托管经验谈](https://sspai.com/post/90350)
 -  10 [周末去哪玩：我们收集了这些不同城市的「度假」方式](https://sspai.com/post/90103)
 -  10 [「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)
 -  10 [多关节可动人偶白菜价：Dummy 13 入门指南](https://sspai.com/post/90185)
--  10 [派早报：realme 发布真我 GT6、华硕发布 NUC 14 Pro+ 迷你 PC 等](https://sspai.com/post/90344)
--  09 [YaoYao 跳绳开发者中年程序猿汪二都装了啥？](https://sspai.com/prime/story/zhuanglesha-240709)<!-- sspai:END -->
+-  10 [派早报：realme 发布真我 GT6、华硕发布 NUC 14 Pro+ 迷你 PC 等](https://sspai.com/post/90344)<!-- sspai:END -->
