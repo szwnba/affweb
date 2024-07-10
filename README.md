@@ -37,12 +37,12 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
 -  10 [Spin wheel, boxes and survey landings still work in sweepstakes?](https://afflift.com/f/threads/spin-wheel-boxes-and-survey-landings-still-work-in-sweepstakes.13433/)
 -  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  10 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
 -  10 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)
 -  10 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  10 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
 -  10 [Why don&#39;t you use push?](https://afflift.com/f/threads/why-dont-you-use-push.13406/)
 -  10 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
 -  10 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)
