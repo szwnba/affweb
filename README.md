@@ -56,5 +56,4 @@
 -  09 [YaoYao 跳绳开发者中年程序猿汪二都装了啥？](https://sspai.com/prime/story/zhuanglesha-240709)
 -  09 [社区速递 052 | 一周热评、派友在用的键盘和新玩意](https://sspai.com/post/90320)
 -  09 [用 AutoHotKey 在 Windows 上找回 macOS 使用体验](https://sspai.com/post/90212)
--  09 [打扫房间可以很简单：10 个便宜好用的清洁用品](https://sspai.com/post/89304)
--  09 [派早报：Nothing 子品牌 CMF 发布多款新品，支付宝推出「碰一下」支付等](https://sspai.com/post/90295)<!-- sspai:END -->
+-  09 [打扫房间可以很简单：10 个便宜好用的清洁用品](https://sspai.com/post/89304)<!-- sspai:END -->
