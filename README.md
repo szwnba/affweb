@@ -38,6 +38,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
 -  10 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
 -  09 [Shout out TLD &quot;.com&quot; vs cheap TLD &quot;.store&quot;  - who gets &quot;flagged&quot; first?](https://afflift.com/f/threads/shout-out-tld-com-vs-cheap-tld-store-who-gets-flagged-first.13429/)
 -  09 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)
@@ -48,8 +49,7 @@
 -  09 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  09 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
 -  09 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
--  09 [How to Increase Your Google Ads Campaign ROI with Personalization](https://afflift.com/f/threads/how-to-increase-your-google-ads-campaign-roi-with-personalization.13427/)
--  09 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)<!-- afflift:END -->
+-  09 [How to Increase Your Google Ads Campaign ROI with Personalization](https://afflift.com/f/threads/how-to-increase-your-google-ads-campaign-roi-with-personalization.13427/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
