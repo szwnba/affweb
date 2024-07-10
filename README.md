@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
+-  10 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
+-  10 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
+-  10 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  10 [Adavice DSP - Pops](https://afflift.com/f/threads/adavice-dsp-pops.8378/)
 -  10 [Adavice DSP - Push Notifications](https://afflift.com/f/threads/adavice-dsp-push-notifications.8361/)
 -  10 [FREE Top Converting Landing Pages From Anstrex &lpar;Updated Frequently&rpar;](https://afflift.com/f/threads/free-top-converting-landing-pages-from-anstrex-updated-frequently.2596/)
--  10 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
 -  10 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)
 -  10 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
--  10 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
 -  10 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  10 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
--  10 [Shout out TLD &quot;.com&quot; vs cheap TLD &quot;.store&quot;  - who gets &quot;flagged&quot; first?](https://afflift.com/f/threads/shout-out-tld-com-vs-cheap-tld-store-who-gets-flagged-first.13429/)
--  10 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  10 [OnClickA Traffic + Zeydoo Offers = 💰 Profit!](https://afflift.com/f/threads/onclicka-traffic-zeydoo-offers-%F0%9F%92%B0-profit.13428/)<!-- afflift:END -->
+-  10 [Shout out TLD &quot;.com&quot; vs cheap TLD &quot;.store&quot;  - who gets &quot;flagged&quot; first?](https://afflift.com/f/threads/shout-out-tld-com-vs-cheap-tld-store-who-gets-flagged-first.13429/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
