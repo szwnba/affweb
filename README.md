@@ -38,8 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
 -  09 [Shout out TLD &quot;.com&quot; vs cheap TLD &quot;.store&quot;  - who gets &quot;flagged&quot; first?](https://afflift.com/f/threads/shout-out-tld-com-vs-cheap-tld-store-who-gets-flagged-first.13429/)
--  09 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
 -  09 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)
 -  09 [OnClickA Traffic + Zeydoo Offers = 💰 Profit!](https://afflift.com/f/threads/onclicka-traffic-zeydoo-offers-%F0%9F%92%B0-profit.13428/)
 -  09 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)
