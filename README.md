@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  09 [现在什么银行可以收俄罗斯的货款呢](https://www.advertcn.com/thread-115652-1-1.html)
--  09 [Facebook产品更新|20 项广告发布守则已更新](https://www.advertcn.com/thread-115649-1-1.html)<!-- advertcn3:END -->
+-  09 [现在什么银行可以收俄罗斯的货款呢](https://www.advertcn.com/thread-115652-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
