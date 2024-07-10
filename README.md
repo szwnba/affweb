@@ -17,8 +17,8 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  09 [美国银行开户 | 2024最新美国华美银行开户攻略（零门槛、...](https://www.advertcn.com/thread-115654-1-1.html)
--  09 [海外版天某查、企某查？如何查询海外公司公开信息](https://www.advertcn.com/thread-115653-1-1.html)<!-- advertcn1:END -->
+-  10 [迪拜商业银行与 Visa 合作推出信用卡和借记卡](https://www.advertcn.com/thread-115667-1-1.html)
+-  10 [公司变更 | 新加坡公司变更股东有哪些情况？](https://www.advertcn.com/thread-115666-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
