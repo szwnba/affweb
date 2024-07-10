@@ -38,17 +38,17 @@
 ### afflift
 <!-- afflift:START -->
 -  10 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)
+-  10 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
+-  10 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
 -  10 [Shout out TLD &quot;.com&quot; vs cheap TLD &quot;.store&quot;  - who gets &quot;flagged&quot; first?](https://afflift.com/f/threads/shout-out-tld-com-vs-cheap-tld-store-who-gets-flagged-first.13429/)
 -  10 [30-Day Challenge to get 🎯3000$ Profit⁉ a contest for myself✊](https://afflift.com/f/threads/30-day-challenge-to-get-%F0%9F%8E%AF3000-profit%E2%81%89-a-contest-for-myself%E2%9C%8A.9419/)
--  10 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
 -  10 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
 -  10 [OnClickA Traffic + Zeydoo Offers = 💰 Profit!](https://afflift.com/f/threads/onclicka-traffic-zeydoo-offers-%F0%9F%92%B0-profit.13428/)
 -  10 [What kind of vertical is the most popular in affiliate marketing?](https://afflift.com/f/threads/what-kind-of-vertical-is-the-most-popular-in-affiliate-marketing.13426/)
 -  10 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
 -  10 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
 -  10 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
--  09 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)
--  09 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)<!-- afflift:END -->
+-  09 [Empire: watch me build lots of niche suites](https://afflift.com/f/threads/empire-watch-me-build-lots-of-niche-suites.13342/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
