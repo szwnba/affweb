@@ -26,7 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  09 [现在什么银行可以收俄罗斯的货款呢](https://www.advertcn.com/thread-115652-1-1.html)<!-- advertcn3:END -->
+-  10 [中国新设六个国际通信业务出入口局将提高国际网络互通](https://www.advertcn.com/thread-115668-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
