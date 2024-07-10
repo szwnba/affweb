@@ -38,6 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  10 [Profitable Golden Goose Campaign 2024](https://afflift.com/f/threads/profitable-golden-goose-campaign-2024.13405/)
+-  10 [What kind of vertical is the most popular in affiliate marketing?](https://afflift.com/f/threads/what-kind-of-vertical-is-the-most-popular-in-affiliate-marketing.13426/)
+-  10 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
 -  10 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
 -  10 [Any podcasts/youtube channels for affiliate marketing?](https://afflift.com/f/threads/any-podcasts-youtube-channels-for-affiliate-marketing.13425/)
 -  09 [Shout out TLD &quot;.com&quot; vs cheap TLD &quot;.store&quot;  - who gets &quot;flagged&quot; first?](https://afflift.com/f/threads/shout-out-tld-com-vs-cheap-tld-store-who-gets-flagged-first.13429/)
@@ -46,10 +49,7 @@
 -  09 [Looking for a new native traffic source?](https://afflift.com/f/threads/looking-for-a-new-native-traffic-source.12647/)
 -  09 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  09 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
--  09 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
--  09 [Step 1 - Apply for MOBIPIUM](https://afflift.com/f/threads/step-1-apply-for-mobipium.2938/)
--  09 [My first Facebook Ads](https://afflift.com/f/threads/my-first-facebook-ads.13414/)
--  09 [How to Increase Your Google Ads Campaign ROI with Personalization](https://afflift.com/f/threads/how-to-increase-your-google-ads-campaign-roi-with-personalization.13427/)<!-- afflift:END -->
+-  09 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
