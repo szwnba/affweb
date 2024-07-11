@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
+-  11 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
+-  11 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
+-  11 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
+-  11 [build custom tracker &lpar; no its not for push..for real &rpar;](https://afflift.com/f/threads/build-custom-tracker-no-its-not-for-push-for-real.13441/)
+-  11 [Marketing](https://afflift.com/f/threads/marketing.13436/)
 -  11 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  11 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)
 -  11 [🔺 Be Part of TwinRed&#39;s Growth: We&#39;re Hiring!](https://afflift.com/f/threads/%F0%9F%94%BA-be-part-of-twinreds-growth-were-hiring.13442/)
 -  11 [Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)
 -  11 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
--  11 [build custom tracker &lpar; no its not for push..for real &rpar;](https://afflift.com/f/threads/build-custom-tracker-no-its-not-for-push-for-real.13441/)
--  11 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
--  11 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
--  11 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
--  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
--  11 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
--  11 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)<!-- afflift:END -->
+-  11 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
