@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  11 [Halide 团队全新力作，专业视频更轻松拍：Kino](https://sspai.com/post/90314)
 -  11 [诸事皆橙：半年时间个人物品的「黑橙」配色改造](https://sspai.com/post/90236)
 -  11 [派早报：三星推出多款新品、索尼发布 ZV-E10 II 相机等](https://sspai.com/post/90378)
 -  10 [「自力更生」征文收官，来听听少数派们的自托管经验谈](https://sspai.com/post/90350)<!-- sspai:END -->
