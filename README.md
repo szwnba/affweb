@@ -40,6 +40,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
+-  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  11 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  11 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)
 -  11 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  11 [Optimizer Tool](https://afflift.com/f/threads/optimizer-tool.13439/)
@@ -48,10 +51,7 @@
 -  11 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  11 [Virus total vs GSB](https://afflift.com/f/threads/virus-total-vs-gsb.13438/)
 -  11 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
--  11 [Seek Help：questions about CTA URL](https://afflift.com/f/threads/seek-help%EF%BC%9Aquestions-about-cta-url.12910/)
--  11 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)
--  11 [Marketing](https://afflift.com/f/threads/marketing.13436/)
--  11 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)<!-- afflift:END -->
+-  11 [Seek Help：questions about CTA URL](https://afflift.com/f/threads/seek-help%EF%BC%9Aquestions-about-cta-url.12910/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
