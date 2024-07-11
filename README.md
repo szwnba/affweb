@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)
+-  11 [🍰 $36 Birthday Bonus from PropellerAds](https://afflift.com/f/threads/%F0%9F%8D%B0-36-birthday-bonus-from-propellerads.13387/)
+-  11 [build custom tracker &lpar; no its not for push..for real &rpar;](https://afflift.com/f/threads/build-custom-tracker-no-its-not-for-push-for-real.13441/)
 -  11 [Trafee.com - The new generation of smartlink!](https://afflift.com/f/threads/trafee-com-the-new-generation-of-smartlink.6265/)
 -  11 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
--  11 [build custom tracker &lpar; no its not for push..for real &rpar;](https://afflift.com/f/threads/build-custom-tracker-no-its-not-for-push-for-real.13441/)
 -  11 [LP Packs from AdPlexity Are Back](https://afflift.com/f/threads/lp-packs-from-adplexity-are-back.13284/)
 -  11 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  11 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  11 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)
 -  11 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  11 [Optimizer Tool](https://afflift.com/f/threads/optimizer-tool.13439/)
--  11 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)
--  11 [Do you use Propellerads SmartCPC? How do you calculate the bid?](https://afflift.com/f/threads/do-you-use-propellerads-smartcpc-how-do-you-calculate-the-bid.13437/)
--  11 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)<!-- afflift:END -->
+-  11 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
