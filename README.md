@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)
+-  11 [Why Mvas is so irritating?](https://afflift.com/f/threads/why-mvas-is-so-irritating.13201/)
 -  11 [Virus total vs GSB](https://afflift.com/f/threads/virus-total-vs-gsb.13438/)
 -  11 [Do you use Propellerads SmartCPC? How do you calculate the bid?](https://afflift.com/f/threads/do-you-use-propellerads-smartcpc-how-do-you-calculate-the-bid.13437/)
 -  11 [Marketing](https://afflift.com/f/threads/marketing.13436/)
 -  11 [💸 Cpamatica Affilaite Network | Cpamatica.io 🇺🇦 | Dating, Sweeps Offers](https://afflift.com/f/threads/%F0%9F%92%B8-cpamatica-affilaite-network-cpamatica-io-%F0%9F%87%BA%F0%9F%87%A6-dating-sweeps-offers.8489/)
--  11 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)
 -  11 [Seek Help：questions about CTA URL](https://afflift.com/f/threads/seek-help%EF%BC%9Aquestions-about-cta-url.12910/)
 -  11 [💻 How to create your first landing page and connect it with tracker? &lpar;and test that it actually works!&rpar;](https://afflift.com/f/threads/%F0%9F%92%BB-how-to-create-your-first-landing-page-and-connect-it-with-tracker-and-test-that-it-actually-works.13435/)
 -  11 [Spin wheel, boxes and survey landings still work in sweepstakes?](https://afflift.com/f/threads/spin-wheel-boxes-and-survey-landings-still-work-in-sweepstakes.13433/)
 -  11 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  11 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  11 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)
--  11 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)<!-- afflift:END -->
+-  11 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
