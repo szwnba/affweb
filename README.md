@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Spin wheel, boxes and survey landings still work in sweepstakes?](https://afflift.com/f/threads/spin-wheel-boxes-and-survey-landings-still-work-in-sweepstakes.13433/)
 -  11 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  11 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  11 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)
@@ -46,7 +47,6 @@
 -  11 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
 -  11 [🤖 Bots - Gotta Catch Em&#39; All](https://afflift.com/f/threads/%F0%9F%A4%96-bots-gotta-catch-em-all.6693/)
 -  11 [Time To Make Some Independent Moves](https://afflift.com/f/threads/time-to-make-some-independent-moves.13346/)
--  11 [Spin wheel, boxes and survey landings still work in sweepstakes?](https://afflift.com/f/threads/spin-wheel-boxes-and-survey-landings-still-work-in-sweepstakes.13433/)
 -  10 [Why don&#39;t you use push?](https://afflift.com/f/threads/why-dont-you-use-push.13406/)
 -  10 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  10 [Binom v2 update](https://afflift.com/f/threads/binom-v2-update.11909/)
