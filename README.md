@@ -40,10 +40,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
 -  11 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
 -  11 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
 -  11 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
--  11 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
 -  11 [build custom tracker &lpar; no its not for push..for real &rpar;](https://afflift.com/f/threads/build-custom-tracker-no-its-not-for-push-for-real.13441/)
 -  11 [Marketing](https://afflift.com/f/threads/marketing.13436/)
 -  11 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
