@@ -26,7 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  11 [Nimble API 免费试用 &lpar;有数据采集需求的测试一下&rpar;](https://www.advertcn.com/thread-115681-1-1.html)
+-  11 [NimbleAPI.io 免费试用 &lpar;有数据采集需求的测试一下&rpar;](https://www.advertcn.com/thread-115681-1-1.html)
 -  11 [【寻可跑海外订阅offer大牛】](https://www.advertcn.com/thread-115677-1-1.html)
 -  11 [有兄弟需要过anura检测吗](https://www.advertcn.com/thread-115675-1-1.html)<!-- advertcn3:END -->
 
