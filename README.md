@@ -40,8 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  11 [Virus total vs GSB](https://afflift.com/f/threads/virus-total-vs-gsb.13438/)
 -  11 [Propellerads traff quality last week](https://afflift.com/f/threads/propellerads-traff-quality-last-week.13434/)
+-  11 [Virus total vs GSB](https://afflift.com/f/threads/virus-total-vs-gsb.13438/)
 -  11 [iMonetizeIt: Your Smartlink. Your CPA. Your ONE network](https://afflift.com/f/threads/imonetizeit-your-smartlink-your-cpa-your-one-network.3086/)
 -  11 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)
 -  11 [Seek Help：questions about CTA URL](https://afflift.com/f/threads/seek-help%EF%BC%9Aquestions-about-cta-url.12910/)
