@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  11 [有兄弟需要过anura检测吗](https://www.advertcn.com/thread-115675-1-1.html)
 -  10 [中国新设六个国际通信业务出入口局将提高国际网络互通](https://www.advertcn.com/thread-115668-1-1.html)<!-- advertcn3:END -->
 
 
