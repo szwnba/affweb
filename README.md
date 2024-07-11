@@ -56,6 +56,4 @@
 <!-- sspai:START -->
 -  11 [诸事皆橙：半年时间个人物品的「黑橙」配色改造](https://sspai.com/post/90236)
 -  11 [派早报：三星推出多款新品、索尼发布 ZV-E10 II 相机等](https://sspai.com/post/90378)
--  10 [「自力更生」征文收官，来听听少数派们的自托管经验谈](https://sspai.com/post/90350)
--  10 [周末去哪玩：我们收集了这些不同城市的「度假」方式](https://sspai.com/post/90103)
--  10 [「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)<!-- sspai:END -->
+-  10 [「自力更生」征文收官，来听听少数派们的自托管经验谈](https://sspai.com/post/90350)<!-- sspai:END -->
