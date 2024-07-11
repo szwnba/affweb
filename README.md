@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  11 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
 -  11 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
 -  11 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  11 [build custom tracker &lpar; no its not for push..for real &rpar;](https://afflift.com/f/threads/build-custom-tracker-no-its-not-for-push-for-real.13441/)
@@ -50,8 +51,7 @@
 -  11 [Marketing](https://afflift.com/f/threads/marketing.13436/)
 -  11 [Galaksion + RollerAds Push Subs = PROFIT?!?](https://afflift.com/f/threads/galaksion-rollerads-push-subs-profit.13030/)
 -  11 [Be careful working with clickadu or you&#39;ll be fucked](https://afflift.com/f/threads/be-careful-working-with-clickadu-or-youll-be-fucked.13432/)
--  11 [🔺 Be Part of TwinRed&#39;s Growth: We&#39;re Hiring!](https://afflift.com/f/threads/%F0%9F%94%BA-be-part-of-twinreds-growth-were-hiring.13442/)
--  11 [Using Google Sheets to periodically check if a domain is flagged by Google](https://afflift.com/f/threads/using-google-sheets-to-periodically-check-if-a-domain-is-flagged-by-google.13378/)<!-- afflift:END -->
+-  11 [🔺 Be Part of TwinRed&#39;s Growth: We&#39;re Hiring!](https://afflift.com/f/threads/%F0%9F%94%BA-be-part-of-twinreds-growth-were-hiring.13442/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
