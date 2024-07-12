@@ -37,6 +37,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
 -  12 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  12 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
 -  12 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
@@ -47,8 +48,7 @@
 -  12 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)
 -  12 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  12 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
--  12 [STEP 7 - Adding Zeydoo Smartlink as Offer to Skro Tracker](https://afflift.com/f/threads/step-7-adding-zeydoo-smartlink-as-offer-to-skro-tracker.12317/)
--  12 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)<!-- afflift:END -->
+-  12 [STEP 7 - Adding Zeydoo Smartlink as Offer to Skro Tracker](https://afflift.com/f/threads/step-7-adding-zeydoo-smartlink-as-offer-to-skro-tracker.12317/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
