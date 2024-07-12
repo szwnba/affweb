@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Novices run Taboola native ads](https://afflift.com/f/threads/novices-run-taboola-native-ads.13264/)
+-  12 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
+-  12 [🏦 Merchant account consulting](https://afflift.com/f/threads/%F0%9F%8F%A6-merchant-account-consulting.13451/)
 -  12 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
+-  12 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
+-  12 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  12 [landing page CTR 250% ??!](https://afflift.com/f/threads/landing-page-ctr-250.13450/)
 -  12 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
 -  12 [Scale up your business with Mondiad, your multiformat, multivertical, global ad network! 🚀](https://afflift.com/f/threads/scale-up-your-business-with-mondiad-your-multiformat-multivertical-global-ad-network-%F0%9F%9A%80.8789/)
 -  12 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  12 [Cash On Delivery - Improving Redemption Rates](https://afflift.com/f/threads/cash-on-delivery-improving-redemption-rates.13447/)
--  12 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
--  12 [Vimmy Can you still use it?](https://afflift.com/f/threads/vimmy-can-you-still-use-it.13446/)
--  12 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
--  12 [What traffic source do you usually use?](https://afflift.com/f/threads/what-traffic-source-do-you-usually-use.13445/)
--  12 [3000+ offers for 180+ GEOs: Check out our CPAi and Promos](https://afflift.com/f/threads/3000-offers-for-180-geos-check-out-our-cpai-and-promos.9783/)
--  12 [Is mVas friendly for newbie?](https://afflift.com/f/threads/is-mvas-friendly-for-newbie.13444/)<!-- afflift:END -->
+-  12 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
