@@ -56,5 +56,4 @@
 <!-- sspai:START -->
 -  12 [派早报: iQOO 发布 Neo9S Pro+ 等新品](https://sspai.com/post/90417)
 -  11 [新玩意 187｜少数派的编辑们最近买了啥？](https://sspai.com/post/90396)
--  11 [Halide 团队全新力作，专业视频更轻松拍：Kino](https://sspai.com/post/90314)
--  11 [诸事皆橙：半年时间个人物品的「黑橙」配色改造](https://sspai.com/post/90236)<!-- sspai:END -->
+-  11 [Halide 团队全新力作，专业视频更轻松拍：Kino](https://sspai.com/post/90314)<!-- sspai:END -->
