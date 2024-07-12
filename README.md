@@ -38,9 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Is mVas friendly for newbie?](https://afflift.com/f/threads/is-mvas-friendly-for-newbie.13444/)
 -  12 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
 -  12 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
--  12 [Is mVas friendly for newbie?](https://afflift.com/f/threads/is-mvas-friendly-for-newbie.13444/)
 -  12 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  12 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
 -  12 [What link should i post from my Binom tracker on my landing page?](https://afflift.com/f/threads/what-link-should-i-post-from-my-binom-tracker-on-my-landing-page.13410/)
