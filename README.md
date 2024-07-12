@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  11 [Novabeyond | 从零开始：搜索套利广告的入门策略](https://www.advertcn.com/thread-115682-1-1.html)
--  11 [NimbleAPI.io 免费试用 &lpar;有数据采集需求的测试一下&rpar;](https://www.advertcn.com/thread-115681-1-1.html)<!-- advertcn3:END -->
+-  11 [Novabeyond | 从零开始：搜索套利广告的入门策略](https://www.advertcn.com/thread-115682-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
