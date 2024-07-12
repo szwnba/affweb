@@ -37,6 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [Vimmy Can you still use it?](https://afflift.com/f/threads/vimmy-can-you-still-use-it.13446/)
+-  12 [What traffic source do you usually use?](https://afflift.com/f/threads/what-traffic-source-do-you-usually-use.13445/)
+-  12 [3000+ offers for 180+ GEOs: Check out our CPAi and Promos](https://afflift.com/f/threads/3000-offers-for-180-geos-check-out-our-cpai-and-promos.9783/)
 -  12 [Is mVas friendly for newbie?](https://afflift.com/f/threads/is-mvas-friendly-for-newbie.13444/)
 -  12 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
 -  12 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
@@ -45,10 +48,7 @@
 -  12 [What link should i post from my Binom tracker on my landing page?](https://afflift.com/f/threads/what-link-should-i-post-from-my-binom-tracker-on-my-landing-page.13410/)
 -  11 [build custom tracker &lpar; no its not for push..for real &rpar;](https://afflift.com/f/threads/build-custom-tracker-no-its-not-for-push-for-real.13441/)
 -  11 [Unlock Your Earning Potential with 2x2 Media Network - Your Gateway to Lucrative CPA Offers!](https://afflift.com/f/threads/unlock-your-earning-potential-with-2x2-media-network-your-gateway-to-lucrative-cpa-offers.12303/)
--  11 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
--  11 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
--  11 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  11 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)<!-- afflift:END -->
+-  11 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
