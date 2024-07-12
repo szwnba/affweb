@@ -26,8 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  12 [投放纯小白想进军联盟圈是不是还挺难的](https://www.advertcn.com/thread-115691-1-1.html)
--  11 [Novabeyond | 从零开始：搜索套利广告的入门策略](https://www.advertcn.com/thread-115682-1-1.html)<!-- advertcn3:END -->
+-  12 [投放纯小白想进军联盟圈是不是还挺难的](https://www.advertcn.com/thread-115691-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
