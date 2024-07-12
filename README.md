@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
+-  12 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
+-  12 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  12 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  12 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
 -  12 [Vimmy Can you still use it?](https://afflift.com/f/threads/vimmy-can-you-still-use-it.13446/)
 -  12 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)
--  12 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  12 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)
 -  12 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  12 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)
 -  12 [STEP 7 - Adding Zeydoo Smartlink as Offer to Skro Tracker](https://afflift.com/f/threads/step-7-adding-zeydoo-smartlink-as-offer-to-skro-tracker.12317/)
--  12 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)
--  12 [STEP 13 - Applying Updates on PopAds Traffic Source](https://afflift.com/f/threads/step-13-applying-updates-on-popads-traffic-source.12324/)
--  12 [Baseball Forum](https://afflift.com/f/threads/baseball-forum.13075/)<!-- afflift:END -->
+-  12 [Think twice before sending traffic to AdCombo](https://afflift.com/f/threads/think-twice-before-sending-traffic-to-adcombo.13379/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
