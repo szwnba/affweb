@@ -57,5 +57,4 @@
 <!-- sspai:START -->
 -  11 [新玩意 187｜少数派的编辑们最近买了啥？](https://sspai.com/post/90396)
 -  11 [Halide 团队全新力作，专业视频更轻松拍：Kino](https://sspai.com/post/90314)
--  11 [诸事皆橙：半年时间个人物品的「黑橙」配色改造](https://sspai.com/post/90236)
--  11 [派早报：三星推出多款新品、索尼发布 ZV-E10 II 相机等](https://sspai.com/post/90378)<!-- sspai:END -->
+-  11 [诸事皆橙：半年时间个人物品的「黑橙」配色改造](https://sspai.com/post/90236)<!-- sspai:END -->
