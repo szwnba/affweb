@@ -39,6 +39,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
 -  12 [Is mVas friendly for newbie?](https://afflift.com/f/threads/is-mvas-friendly-for-newbie.13444/)
 -  12 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)
 -  12 [💰 Epic mVas Hustle: New Record 🚀 #LetsCrushIt](https://afflift.com/f/threads/%F0%9F%92%B0-epic-mvas-hustle-new-record-%F0%9F%9A%80-letscrushit.12305/)
@@ -49,8 +50,7 @@
 -  11 [Embark on an exhilarating collaboration journey with TrafficStore.pro!](https://afflift.com/f/threads/embark-on-an-exhilarating-collaboration-journey-with-trafficstore-pro.12220/)
 -  11 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
 -  11 [Propush network](https://afflift.com/f/threads/propush-network.13345/)
--  11 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
--  11 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)<!-- afflift:END -->
+-  11 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
