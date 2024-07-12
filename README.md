@@ -38,6 +38,9 @@
 ### afflift
 <!-- afflift:START -->
 -  12 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
+-  12 [landing page CTR 250% ??!](https://afflift.com/f/threads/landing-page-ctr-250.13450/)
+-  12 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
+-  12 [Scale up your business with Mondiad, your multiformat, multivertical, global ad network! 🚀](https://afflift.com/f/threads/scale-up-your-business-with-mondiad-your-multiformat-multivertical-global-ad-network-%F0%9F%9A%80.8789/)
 -  12 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  12 [Cash On Delivery - Improving Redemption Rates](https://afflift.com/f/threads/cash-on-delivery-improving-redemption-rates.13447/)
 -  12 [OWNR WALLET Affiliate Program](https://afflift.com/f/threads/ownr-wallet-affiliate-program.9733/)
@@ -45,10 +48,7 @@
 -  12 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
 -  12 [What traffic source do you usually use?](https://afflift.com/f/threads/what-traffic-source-do-you-usually-use.13445/)
 -  12 [3000+ offers for 180+ GEOs: Check out our CPAi and Promos](https://afflift.com/f/threads/3000-offers-for-180-geos-check-out-our-cpai-and-promos.9783/)
--  12 [Is mVas friendly for newbie?](https://afflift.com/f/threads/is-mvas-friendly-for-newbie.13444/)
--  12 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
--  12 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
--  12 [mVAS 101: Ultimate Guide to Mobile Content Offers](https://afflift.com/f/threads/mvas-101-ultimate-guide-to-mobile-content-offers.11905/)<!-- afflift:END -->
+-  12 [Is mVas friendly for newbie?](https://afflift.com/f/threads/is-mvas-friendly-for-newbie.13444/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
