@@ -37,9 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  12 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  12 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
 -  12 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
--  12 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  12 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
 -  12 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
 -  12 [Vimmy Can you still use it?](https://afflift.com/f/threads/vimmy-can-you-still-use-it.13446/)
