@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  12 [在二维世界里踩三维空间的坑：我的装修平面图诞生记](https://sspai.com/post/89268)
 -  12 [派早报: iQOO 发布 Neo9S Pro+ 等新品](https://sspai.com/post/90417)
 -  11 [新玩意 187｜少数派的编辑们最近买了啥？](https://sspai.com/post/90396)
 -  11 [Halide 团队全新力作，专业视频更轻松拍：Kino](https://sspai.com/post/90314)<!-- sspai:END -->
