@@ -52,5 +52,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  12 [善用 watchOS 新功能，让 Apple Watch 离专业跑步手表更近一步](https://sspai.com/prime/story/watchos-running-stats-explained)
--  12 [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/90439)<!-- sspai:END -->
+-  13 [给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)<!-- sspai:END -->
