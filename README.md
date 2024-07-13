@@ -36,6 +36,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)
 -  13 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
 -  13 [Vimmy Can you still use it?](https://afflift.com/f/threads/vimmy-can-you-still-use-it.13446/)
 -  13 [Making Sense Of The Math &lpar;Please Help&rpar;](https://afflift.com/f/threads/making-sense-of-the-math-please-help.13454/)
@@ -46,7 +47,6 @@
 -  12 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
 -  12 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
 -  12 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  12 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)
 -  12 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)<!-- afflift:END -->
 
 ### 少数派
