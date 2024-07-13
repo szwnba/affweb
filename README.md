@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  13 [Vimmy Can you still use it?](https://afflift.com/f/threads/vimmy-can-you-still-use-it.13446/)
+-  13 [Making Sense Of The Math &lpar;Please Help&rpar;](https://afflift.com/f/threads/making-sense-of-the-math-please-help.13454/)
 -  13 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
 -  13 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
 -  12 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
@@ -45,11 +47,9 @@
 -  12 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
 -  12 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
 -  12 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  12 [Vimmy Can you still use it?](https://afflift.com/f/threads/vimmy-can-you-still-use-it.13446/)
 -  12 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)
 -  12 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)
--  12 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
--  12 [Greetings from San Antonio](https://afflift.com/f/threads/greetings-from-san-antonio.13321/)<!-- afflift:END -->
+-  12 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
