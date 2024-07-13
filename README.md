@@ -26,6 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  13 [KYC ,人脸识别,各种国外银行账户](https://www.advertcn.com/thread-115694-1-1.html)
 -  12 [投放纯小白想进军联盟圈是不是还挺难的](https://www.advertcn.com/thread-115691-1-1.html)<!-- advertcn3:END -->
 
 
