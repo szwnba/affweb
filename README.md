@@ -54,5 +54,4 @@
 <!-- sspai:START -->
 -  12 [善用 watchOS 新功能，让 Apple Watch 离专业跑步手表更近一步](https://sspai.com/prime/story/watchos-running-stats-explained)
 -  12 [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/90439)
--  12 [选择更多，参加更易：Apple 高校优惠活动开始了](https://sspai.com/post/90436)
--  12 [在二维世界里踩三维空间的坑：我的装修平面图诞生记](https://sspai.com/post/89268)<!-- sspai:END -->
+-  12 [选择更多，参加更易：Apple 高校优惠活动开始了](https://sspai.com/post/90436)<!-- sspai:END -->
