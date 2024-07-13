@@ -17,8 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  12 [银行开户-美国摩根大通银行开户指南](https://www.advertcn.com/thread-115689-1-1.html)
--  12 [公司变更 | 美国公司注销及变更流程](https://www.advertcn.com/thread-115688-1-1.html)<!-- advertcn1:END -->
+-  13 [新人报道](https://www.advertcn.com/thread-115695-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
