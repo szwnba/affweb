@@ -37,6 +37,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
+-  14 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
 -  14 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
 -  14 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  14 [What files does Cloudflare cache by default?](https://afflift.com/f/threads/what-files-does-cloudflare-cache-by-default.13455/)
@@ -46,9 +48,7 @@
 -  14 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
 -  14 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
 -  14 [Want to capture lead to google sheets](https://afflift.com/f/threads/want-to-capture-lead-to-google-sheets.13457/)
--  14 [Making Sense Of The Math &lpar;Please Help&rpar;](https://afflift.com/f/threads/making-sense-of-the-math-please-help.13454/)
--  14 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
--  13 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)<!-- afflift:END -->
+-  14 [Making Sense Of The Math &lpar;Please Help&rpar;](https://afflift.com/f/threads/making-sense-of-the-math-please-help.13454/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
