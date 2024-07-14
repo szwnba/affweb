@@ -13,7 +13,7 @@
 
 ### 无忧分享
 <!-- ruyo:START -->
--  09 [百度网盘青春版网页版上线，不使用客户端可不限速下载资源](https://51.ruyo.net/18709.html)<!-- ruyo:END -->
+-  14 [腾讯云测评：1CPU/2G内存/5M带宽轻量应用云服务器](https://51.ruyo.net/18711.html)<!-- ruyo:END -->
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
