@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  14 [请教大佬选择什么作为图片站的存储和 CDN](https://www.advertcn.com/thread-115701-1-1.html)
 -  14 [有人会用Tracker&lpar;Bemob&rpar;的Campaign嵌套吗？](https://www.advertcn.com/thread-115699-1-1.html)<!-- advertcn3:END -->
 
 
