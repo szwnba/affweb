@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  13 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)
--  13 [$1000/month with Pop2Push](https://afflift.com/f/threads/1000-month-with-pop2push.13275/)
--  13 [Vimmy Can you still use it?](https://afflift.com/f/threads/vimmy-can-you-still-use-it.13446/)
--  13 [Making Sense Of The Math &lpar;Please Help&rpar;](https://afflift.com/f/threads/making-sense-of-the-math-please-help.13454/)
--  13 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
--  13 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
--  12 [STEP 14 - Optimised Results](https://afflift.com/f/threads/step-14-optimised-results.12325/)
--  12 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
--  12 [How to promote smartlink?](https://afflift.com/f/threads/how-to-promote-smartlink.13430/)
--  12 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
--  12 [LosPollos - Global Smart Link Affiliate Program | Weekly Payments | 24/7 Support](https://afflift.com/f/threads/lospollos-global-smart-link-affiliate-program-weekly-payments-24-7-support.1702/)
--  12 [asking for dr.cash recommendation/opinion and general advice on choosing networks](https://afflift.com/f/threads/asking-for-dr-cash-recommendation-opinion-and-general-advice-on-choosing-networks.13298/)<!-- afflift:END -->
+-  14 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
+-  14 [Facebook API problem](https://afflift.com/f/threads/facebook-api-problem.13460/)
+-  14 [How to choose geo to test?](https://afflift.com/f/threads/how-to-choose-geo-to-test.13461/)
+-  14 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
+-  14 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
+-  14 [Want to capture lead to google sheets](https://afflift.com/f/threads/want-to-capture-lead-to-google-sheets.13457/)
+-  14 [What files does Cloudflare cache by default?](https://afflift.com/f/threads/what-files-does-cloudflare-cache-by-default.13455/)
+-  14 [Making Sense Of The Math &lpar;Please Help&rpar;](https://afflift.com/f/threads/making-sense-of-the-math-please-help.13454/)
+-  14 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
+-  13 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
+-  13 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
+-  13 [Store Form Data From Lander to Google Sheet](https://afflift.com/f/threads/store-form-data-from-lander-to-google-sheet.13456/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
