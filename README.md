@@ -51,4 +51,4 @@
 
 ### 少数派
 <!-- sspai:START -->
--  13 [给国内新用户的 Google Pixel 使用指南](https://sspai.com/post/78200)<!-- sspai:END -->
+-  14 [决胜时刻，Intel 举棋若定；绝处逢生，AMD 备战未来](https://sspai.com/prime/story/sv-anecdotes-10)<!-- sspai:END -->
