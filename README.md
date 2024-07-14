@@ -36,18 +36,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [What files does Cloudflare cache by default?](https://afflift.com/f/threads/what-files-does-cloudflare-cache-by-default.13455/)
+-  14 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  14 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
 -  14 [Facebook API problem](https://afflift.com/f/threads/facebook-api-problem.13460/)
 -  14 [How to choose geo to test?](https://afflift.com/f/threads/how-to-choose-geo-to-test.13461/)
 -  14 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)
 -  14 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)
 -  14 [Want to capture lead to google sheets](https://afflift.com/f/threads/want-to-capture-lead-to-google-sheets.13457/)
--  14 [What files does Cloudflare cache by default?](https://afflift.com/f/threads/what-files-does-cloudflare-cache-by-default.13455/)
 -  14 [Making Sense Of The Math &lpar;Please Help&rpar;](https://afflift.com/f/threads/making-sense-of-the-math-please-help.13454/)
 -  14 [It&#39;s crazy but I boosted my conversion rate almost 4x by testing the big main image FIRST](https://afflift.com/f/threads/its-crazy-but-i-boosted-my-conversion-rate-almost-4x-by-testing-the-big-main-image-first.13366/)
 -  13 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
--  13 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)
--  13 [Store Form Data From Lander to Google Sheet](https://afflift.com/f/threads/store-form-data-from-lander-to-google-sheet.13456/)<!-- afflift:END -->
+-  13 [Journey with CPIs and Mobile Apps](https://afflift.com/f/threads/journey-with-cpis-and-mobile-apps.12762/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
