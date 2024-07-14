@@ -37,9 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  14 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
 -  14 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
 -  14 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
--  14 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
 -  14 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  14 [What files does Cloudflare cache by default?](https://afflift.com/f/threads/what-files-does-cloudflare-cache-by-default.13455/)
 -  14 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
