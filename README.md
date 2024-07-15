@@ -40,6 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [New Zones in CPA Galaksion Campaign?](https://afflift.com/f/threads/new-zones-in-cpa-galaksion-campaign.13452/)
+-  15 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
 -  15 [Adsterra Promo Codes &lpar;July 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-july-2024.13469/)
 -  15 [🌿💰 Global Green Profits: Scaling Success! 🌍🚀](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B0-global-green-profits-scaling-success-%F0%9F%8C%8D%F0%9F%9A%80.13167/)
 -  15 [Tracking all my trafficback inside each campaign and postback the revenue](https://afflift.com/f/threads/tracking-all-my-trafficback-inside-each-campaign-and-postback-the-revenue.13466/)
@@ -49,9 +51,7 @@
 -  15 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
 -  15 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)
 -  15 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
--  15 [Conversion tracking with GA4](https://afflift.com/f/threads/conversion-tracking-with-ga4.13463/)
--  15 [How to choose geo to test?](https://afflift.com/f/threads/how-to-choose-geo-to-test.13461/)
--  15 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)<!-- afflift:END -->
+-  15 [Conversion tracking with GA4](https://afflift.com/f/threads/conversion-tracking-with-ga4.13463/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
