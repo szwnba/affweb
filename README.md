@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [Conversion tracking with GA4](https://afflift.com/f/threads/conversion-tracking-with-ga4.13463/)
+-  15 [How to choose geo to test?](https://afflift.com/f/threads/how-to-choose-geo-to-test.13461/)
+-  15 [Tracking all my trafficback inside each campaign and postback the revenue](https://afflift.com/f/threads/tracking-all-my-trafficback-inside-each-campaign-and-postback-the-revenue.13466/)
+-  15 [private wine collection](https://afflift.com/f/threads/private-wine-collection.13467/)
+-  15 [Celebrate 11 Years with HilltopAds: Enter Our Epic Giveaway Today!](https://afflift.com/f/threads/celebrate-11-years-with-hilltopads-enter-our-epic-giveaway-today.13465/)
 -  15 [Facebook API problem](https://afflift.com/f/threads/facebook-api-problem.13460/)
+-  15 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
+-  15 [LeadBit tracking setup for Facebbok](https://afflift.com/f/threads/leadbit-tracking-setup-for-facebbok.13421/)
 -  15 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  15 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
--  15 [Conversion tracking with GA4](https://afflift.com/f/threads/conversion-tracking-with-ga4.13463/)
 -  15 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
--  15 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)
--  15 [Don&#39;t work with these guys... $880 unpaid!](https://afflift.com/f/threads/dont-work-with-these-guys-880-unpaid.13381/)
--  15 [🛡️ Protect your landing pages from direct access &lpar;script for MaxConv tracker, works with CloudFlare Pages&rpar;](https://afflift.com/f/threads/%F0%9F%9B%A1%EF%B8%8F-protect-your-landing-pages-from-direct-access-script-for-maxconv-tracker-works-with-cloudflare-pages.12982/)
--  15 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
--  15 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
--  15 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
--  15 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)<!-- afflift:END -->
+-  15 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
