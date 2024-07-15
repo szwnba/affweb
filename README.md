@@ -40,18 +40,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  15 [66pusher - php push notification software](https://afflift.com/f/threads/66pusher-php-push-notification-software.13468/)
--  15 [private wine collection](https://afflift.com/f/threads/private-wine-collection.13467/)
--  15 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
+-  15 [Adsterra Promo Codes &lpar;July 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-july-2024.13469/)
+-  15 [🌿💰 Global Green Profits: Scaling Success! 🌍🚀](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B0-global-green-profits-scaling-success-%F0%9F%8C%8D%F0%9F%9A%80.13167/)
+-  15 [Tracking all my trafficback inside each campaign and postback the revenue](https://afflift.com/f/threads/tracking-all-my-trafficback-inside-each-campaign-and-postback-the-revenue.13466/)
+-  15 [Collect Audience Insights Directly from Your Lander Survey in Google Sheets](https://afflift.com/f/threads/collect-audience-insights-directly-from-your-lander-survey-in-google-sheets.7889/)
+-  15 [Mega Thread of Google Sheet Guides](https://afflift.com/f/threads/mega-thread-of-google-sheet-guides.10513/)
+-  15 [Store Form Data From Lander to Google Sheet](https://afflift.com/f/threads/store-form-data-from-lander-to-google-sheet.13456/)
+-  15 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
+-  15 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)
+-  15 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
 -  15 [Conversion tracking with GA4](https://afflift.com/f/threads/conversion-tracking-with-ga4.13463/)
 -  15 [How to choose geo to test?](https://afflift.com/f/threads/how-to-choose-geo-to-test.13461/)
--  15 [Tracking all my trafficback inside each campaign and postback the revenue](https://afflift.com/f/threads/tracking-all-my-trafficback-inside-each-campaign-and-postback-the-revenue.13466/)
--  15 [Celebrate 11 Years with HilltopAds: Enter Our Epic Giveaway Today!](https://afflift.com/f/threads/celebrate-11-years-with-hilltopads-enter-our-epic-giveaway-today.13465/)
--  15 [Facebook API problem](https://afflift.com/f/threads/facebook-api-problem.13460/)
--  15 [LeadBit tracking setup for Facebbok](https://afflift.com/f/threads/leadbit-tracking-setup-for-facebbok.13421/)
--  15 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
--  15 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
--  15 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)<!-- afflift:END -->
+-  15 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
