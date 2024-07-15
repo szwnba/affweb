@@ -25,6 +25,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
+-  15 [有没有做afs搜索套利的兄弟？](https://www.advertcn.com/thread-115705-1-1.html)
 -  15 [求推荐个好的富强工具](https://www.advertcn.com/thread-115704-1-1.html)
 -  15 [LeadsMarket邀您共赴ChinaJoy2024，限量门票大放送！](https://www.advertcn.com/thread-115703-1-1.html)
 -  14 [请教大佬选择什么作为图片站的存储和 CDN](https://www.advertcn.com/thread-115701-1-1.html)
