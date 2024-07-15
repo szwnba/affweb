@@ -40,8 +40,8 @@
 
 ### afflift
 <!-- afflift:START -->
--  15 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  15 [Facebook API problem](https://afflift.com/f/threads/facebook-api-problem.13460/)
+-  15 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  15 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
 -  15 [Conversion tracking with GA4](https://afflift.com/f/threads/conversion-tracking-with-ga4.13463/)
 -  15 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
