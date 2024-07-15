@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  15 [掌慧Huiimedia小慧 海外户新人报道～](https://www.advertcn.com/thread-115707-1-1.html)
 -  14 [新人报道，这个帖子就当时间囊吧](https://www.advertcn.com/thread-115700-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
