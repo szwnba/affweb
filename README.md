@@ -56,6 +56,6 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [终于可以在 Linux 下愉快打印了：Linux 发行版配置打印机攻略](https://sspai.com/post/90194)
 -  15 [读了等于没读？可能是读书笔记的方法错了](https://sspai.com/post/89269)
--  15 [派早报：欧盟 AI 法案发布最终文本，八月生效](https://sspai.com/post/90474)
--  14 [决胜时刻，Intel 举棋若定；绝处逢生，AMD 备战未来](https://sspai.com/prime/story/sv-anecdotes-10)<!-- sspai:END -->
+-  15 [派早报：欧盟 AI 法案发布最终文本，八月生效](https://sspai.com/post/90474)<!-- sspai:END -->
