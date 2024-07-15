@@ -39,8 +39,10 @@
 
 ### afflift
 <!-- afflift:START -->
--  15 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
+-  15 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
 -  15 [Adsterra Promo Codes &lpar;July 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-july-2024.13469/)
+-  15 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
+-  15 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  15 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
 -  15 [private wine collection](https://afflift.com/f/threads/private-wine-collection.13467/)
 -  15 [New Zones in CPA Galaksion Campaign?](https://afflift.com/f/threads/new-zones-in-cpa-galaksion-campaign.13452/)
@@ -48,9 +50,7 @@
 -  15 [Tracking all my trafficback inside each campaign and postback the revenue](https://afflift.com/f/threads/tracking-all-my-trafficback-inside-each-campaign-and-postback-the-revenue.13466/)
 -  15 [Collect Audience Insights Directly from Your Lander Survey in Google Sheets](https://afflift.com/f/threads/collect-audience-insights-directly-from-your-lander-survey-in-google-sheets.7889/)
 -  15 [Mega Thread of Google Sheet Guides](https://afflift.com/f/threads/mega-thread-of-google-sheet-guides.10513/)
--  15 [Store Form Data From Lander to Google Sheet](https://afflift.com/f/threads/store-form-data-from-lander-to-google-sheet.13456/)
--  15 [Tracking push campaigns – cost not being sent?](https://afflift.com/f/threads/tracking-push-campaigns-%E2%80%93-cost-not-being-sent.13443/)
--  15 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)<!-- afflift:END -->
+-  15 [Store Form Data From Lander to Google Sheet](https://afflift.com/f/threads/store-form-data-from-lander-to-google-sheet.13456/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
