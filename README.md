@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [🏆 Facebook PWA Black Hat Mastery: Discover 🏴‍☠️ NON Ethical Strategies that Work 💸 Follow Along &amp; Profit!](https://afflift.com/f/threads/%F0%9F%8F%86-facebook-pwa-black-hat-mastery-discover-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-non-ethical-strategies-that-work-%F0%9F%92%B8-follow-along-profit.13056/)
 -  15 [Facebook API problem](https://afflift.com/f/threads/facebook-api-problem.13460/)
 -  15 [Hi I&#39;m danny come from Taiwan](https://afflift.com/f/threads/hi-im-danny-come-from-taiwan.13422/)
 -  15 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
@@ -50,8 +51,7 @@
 -  14 [Let&#39;s Crack MGID Nutra 🚀](https://afflift.com/f/threads/lets-crack-mgid-nutra-%F0%9F%9A%80.12967/)
 -  14 [What files does Cloudflare cache by default?](https://afflift.com/f/threads/what-files-does-cloudflare-cache-by-default.13455/)
 -  14 [Fight for victory❌&lpar;🤑money✔&rpar;with Adsterra!](https://afflift.com/f/threads/fight-for-victory%E2%9D%8C-%F0%9F%A4%91money%E2%9C%94-with-adsterra.12810/)
--  14 [How to choose geo to test?](https://afflift.com/f/threads/how-to-choose-geo-to-test.13461/)
--  14 [🔔 How to add push code to your landing pages hosted on CloudFlare Pages?](https://afflift.com/f/threads/%F0%9F%94%94-how-to-add-push-code-to-your-landing-pages-hosted-on-cloudflare-pages.13020/)<!-- afflift:END -->
+-  14 [How to choose geo to test?](https://afflift.com/f/threads/how-to-choose-geo-to-test.13461/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
