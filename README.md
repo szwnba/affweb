@@ -17,8 +17,9 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
--  15 [掌慧Huiimedia小慧 海外户新人报道～](https://www.advertcn.com/thread-115707-1-1.html)
--  14 [新人报道，这个帖子就当时间囊吧](https://www.advertcn.com/thread-115700-1-1.html)<!-- advertcn1:END -->
+-  15 [花旗因未能解决监管问题被罚款1.36亿美元](https://www.advertcn.com/thread-115711-1-1.html)
+-  15 [意大利为当地金融机构制定 MiCA 指南](https://www.advertcn.com/thread-115710-1-1.html)
+-  15 [掌慧Huiimedia小慧 海外户新人报道～](https://www.advertcn.com/thread-115707-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
