@@ -40,6 +40,7 @@
 
 ### afflift
 <!-- afflift:START -->
+-  15 [66pusher - php push notification software](https://afflift.com/f/threads/66pusher-php-push-notification-software.13468/)
 -  15 [private wine collection](https://afflift.com/f/threads/private-wine-collection.13467/)
 -  15 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
 -  15 [Conversion tracking with GA4](https://afflift.com/f/threads/conversion-tracking-with-ga4.13463/)
@@ -50,8 +51,7 @@
 -  15 [LeadBit tracking setup for Facebbok](https://afflift.com/f/threads/leadbit-tracking-setup-for-facebbok.13421/)
 -  15 [Sweeps networks](https://afflift.com/f/threads/sweeps-networks.13416/)
 -  15 [🟣 CLEAR PROXIES FOR AFFILIATE MARKETING 🟣 FREE TEST 🟣](https://afflift.com/f/threads/%F0%9F%9F%A3-clear-proxies-for-affiliate-marketing-%F0%9F%9F%A3-free-test-%F0%9F%9F%A3.9996/)
--  15 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)
--  15 [Scaling a Profitable Funnel from Propeller to.. &lpar;not sure&rpar;](https://afflift.com/f/threads/scaling-a-profitable-funnel-from-propeller-to-not-sure.12855/)<!-- afflift:END -->
+-  15 [🧠 Are Smart Links Actually &quot;Smart&quot;?](https://afflift.com/f/threads/%F0%9F%A7%A0-are-smart-links-actually-smart.13431/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
