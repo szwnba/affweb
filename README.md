@@ -52,4 +52,5 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  15 [派早报：欧盟 AI 法案发布最终文本，八月生效](https://sspai.com/post/90474)
 -  14 [决胜时刻，Intel 举棋若定；绝处逢生，AMD 备战未来](https://sspai.com/prime/story/sv-anecdotes-10)<!-- sspai:END -->
