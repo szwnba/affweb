@@ -55,5 +55,4 @@
 <!-- sspai:START -->
 -  16 [iOS / iPadOS 18 Public Beta 公测版来了：升降级指南 &amp; 注意事项](https://sspai.com/post/90227)
 -  16 [系统抽风蹦出的「火星文」，如何帮助推动本地化？](https://sspai.com/post/90269)
--  16 [派早报：Google 终止 Android 5.X 的 Google Play 服务支持等](https://sspai.com/post/90502)
--  15 [派评 | 近期值得关注的 App](https://sspai.com/post/90492)<!-- sspai:END -->
+-  16 [派早报：Google 终止 Android 5.X 的 Google Play 服务支持等](https://sspai.com/post/90502)<!-- sspai:END -->
