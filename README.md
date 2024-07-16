@@ -55,7 +55,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [派早报：Google 终止 Android 5.X 的 Google Play 服务支持等](https://sspai.com/post/90502)
 -  15 [派评 | 近期值得关注的 App](https://sspai.com/post/90492)
 -  15 [终于可以在 Linux 下愉快打印了：Linux 发行版配置打印机攻略](https://sspai.com/post/90194)
--  15 [读了等于没读？可能是读书笔记的方法错了](https://sspai.com/post/89269)
--  15 [派早报：欧盟 AI 法案发布最终文本，八月生效](https://sspai.com/post/90474)<!-- sspai:END -->
+-  15 [读了等于没读？可能是读书笔记的方法错了](https://sspai.com/post/89269)<!-- sspai:END -->
