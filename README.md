@@ -17,6 +17,7 @@
 
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
+-  16 [新人报道](https://www.advertcn.com/thread-115727-1-1.html)
 -  16 [掌慧小慧Huii 海外户新人报道](https://www.advertcn.com/thread-115717-1-1.html)
 -  16 [新人初来咋到，多指教](https://www.advertcn.com/thread-115716-1-1.html)<!-- advertcn1:END -->
 
