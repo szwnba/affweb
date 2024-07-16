@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  16 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
+-  16 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
+-  16 [Is this the right way to distinguish junk traffic?](https://afflift.com/f/threads/is-this-the-right-way-to-distinguish-junk-traffic.13471/)
+-  16 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
 -  16 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)
 -  16 [a 3-years follow along about how to make 1m in 3 years](https://afflift.com/f/threads/a-3-years-follow-along-about-how-to-make-1m-in-3-years.13070/)
 -  16 [Do you use Propellerads SmartCPC? How do you calculate the bid?](https://afflift.com/f/threads/do-you-use-propellerads-smartcpc-how-do-you-calculate-the-bid.13437/)
 -  16 [Adsterra Promo Codes &lpar;July 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-july-2024.13469/)
 -  16 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  16 [Conversion tracking with GA4](https://afflift.com/f/threads/conversion-tracking-with-ga4.13463/)
--  15 [66pusher - php push notification software](https://afflift.com/f/threads/66pusher-php-push-notification-software.13468/)
--  15 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)
--  15 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
--  15 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
--  15 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)<!-- afflift:END -->
+-  15 [66pusher - php push notification software](https://afflift.com/f/threads/66pusher-php-push-notification-software.13468/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
