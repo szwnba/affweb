@@ -39,17 +39,17 @@
 ### afflift
 <!-- afflift:START -->
 -  16 [Are CPA campaigns in test period supposed to show 0 cost?](https://afflift.com/f/threads/are-cpa-campaigns-in-test-period-supposed-to-show-0-cost.13331/)
+-  16 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
+-  16 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
 -  16 [Get Ready to Make Serious Money with Olavivo&#39;s Exciting Offers](https://afflift.com/f/threads/get-ready-to-make-serious-money-with-olavivos-exciting-offers.10730/)
 -  16 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)
 -  16 [CPA priced cost in Binom bug?](https://afflift.com/f/threads/cpa-priced-cost-in-binom-bug.13474/)
 -  16 [🌿💰 Global Green Profits: Scaling Success! 🌍🚀](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B0-global-green-profits-scaling-success-%F0%9F%8C%8D%F0%9F%9A%80.13167/)
 -  16 [Adding Push Notifications from Partners.House to your Landing Page](https://afflift.com/f/threads/adding-push-notifications-from-partners-house-to-your-landing-page.13475/)
--  16 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
 -  16 [AdsEmpire - CPA Network with Exclusive Dating offers and Smartlink!](https://afflift.com/f/threads/adsempire-cpa-network-with-exclusive-dating-offers-and-smartlink.6820/)
 -  16 [Adsterra Promo Codes &lpar;July 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-july-2024.13469/)
 -  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
--  16 [Is this the right way to distinguish junk traffic?](https://afflift.com/f/threads/is-this-the-right-way-to-distinguish-junk-traffic.13471/)
--  16 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)<!-- afflift:END -->
+-  16 [Is this the right way to distinguish junk traffic?](https://afflift.com/f/threads/is-this-the-right-way-to-distinguish-junk-traffic.13471/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
