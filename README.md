@@ -39,18 +39,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  16 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)
 -  16 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
+-  16 [Do you use Propellerads SmartCPC? How do you calculate the bid?](https://afflift.com/f/threads/do-you-use-propellerads-smartcpc-how-do-you-calculate-the-bid.13437/)
+-  16 [Boost Your Earnings with Top Offers | CpaRoll](https://afflift.com/f/threads/boost-your-earnings-with-top-offers-cparoll.13078/)
 -  16 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
+-  16 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)
 -  16 [Adsterra - Global Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-global-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
 -  16 [a 3-years follow along about how to make 1m in 3 years](https://afflift.com/f/threads/a-3-years-follow-along-about-how-to-make-1m-in-3-years.13070/)
--  16 [Do you use Propellerads SmartCPC? How do you calculate the bid?](https://afflift.com/f/threads/do-you-use-propellerads-smartcpc-how-do-you-calculate-the-bid.13437/)
 -  16 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  16 [Seeking Recommendations for Ad Networks Specializing in Gay CAM and Dating Affiliate Programs - I&#39;ve Already Lost a Lot of Money 🥲](https://afflift.com/f/threads/seeking-recommendations-for-ad-networks-specializing-in-gay-cam-and-dating-affiliate-programs-ive-already-lost-a-lot-of-money-%F0%9F%A5%B2.13472/)
 -  16 [📊 PropellerAds Optimizer Script &lpar;works with any tracker!&rpar;](https://afflift.com/f/threads/%F0%9F%93%8A-propellerads-optimizer-script-works-with-any-tracker.11813/)
 -  16 [Is this the right way to distinguish junk traffic?](https://afflift.com/f/threads/is-this-the-right-way-to-distinguish-junk-traffic.13471/)
--  16 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)
--  16 [Adsellerator - international crypto, gambling and dating network since 2015](https://afflift.com/f/threads/adsellerator-international-crypto-gambling-and-dating-network-since-2015.6683/)<!-- afflift:END -->
+-  16 [traffic network suggestion](https://afflift.com/f/threads/traffic-network-suggestion.13388/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
