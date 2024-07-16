@@ -54,6 +54,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  16 [2001: 让乔布斯下定转向英特尔决心的转折之年](https://sspai.com/prime/story/ppc-history-12)
 -  16 [社区速递 053 | 一周最热评、派友六月买了啥汇总](https://sspai.com/post/90521)
 -  16 [iOS / iPadOS 18 Public Beta 公测版来了：升降级指南 &amp; 注意事项](https://sspai.com/post/90227)
 -  16 [系统抽风蹦出的「火星文」，如何帮助推动本地化？](https://sspai.com/post/90269)
