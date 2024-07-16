@@ -28,8 +28,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  15 [有没有做afs搜索套利的兄弟？](https://www.advertcn.com/thread-115705-1-1.html)
--  15 [求推荐个好的富强工具](https://www.advertcn.com/thread-115704-1-1.html)<!-- advertcn3:END -->
+-  15 [有没有做afs搜索套利的兄弟？](https://www.advertcn.com/thread-115705-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
