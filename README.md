@@ -27,7 +27,6 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  16 [如何规避FB误封](https://www.advertcn.com/thread-115728-1-1.html)
 -  16 [有精通wp的吗？请教一个关于时间显示的问题……](https://www.advertcn.com/thread-115726-1-1.html)<!-- advertcn3:END -->
 
 
