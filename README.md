@@ -38,6 +38,10 @@
 
 ### afflift
 <!-- afflift:START -->
+-  16 [ClickDealer - Join The Leaders Of Performance Marketing!](https://afflift.com/f/threads/clickdealer-join-the-leaders-of-performance-marketing.2440/)
+-  16 [Is this the right way to distinguish junk traffic?](https://afflift.com/f/threads/is-this-the-right-way-to-distinguish-junk-traffic.13471/)
+-  16 [Adsterra Promo Codes &lpar;July 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-july-2024.13469/)
+-  16 [[Giveaway] The Pay Per Call Revolution Book](https://afflift.com/f/threads/giveaway-the-pay-per-call-revolution-book.13270/)
 -  16 [TrafficHunt - Only high quality &amp; Member area traffic | Dating &amp; Mainstream Ad Platform](https://afflift.com/f/threads/traffichunt-only-high-quality-member-area-traffic-dating-mainstream-ad-platform.10862/)
 -  16 [Adtrafico - the best choice for media buyers. Sweepstakes, Dating, Mobile Billing and more](https://afflift.com/f/threads/adtrafico-the-best-choice-for-media-buyers-sweepstakes-dating-mobile-billing-and-more.4312/)
 -  16 [KEYPROXY.NET ✈ Ukraine mobile proxies for business-level use /FB &amp; Google ads, mass DM, LK, FL Inst &amp; TikTok / FREE TRIAL](https://afflift.com/f/threads/keyproxy-net-%E2%9C%88-ukraine-mobile-proxies-for-business-level-use-fb-google-ads-mass-dm-lk-fl-inst-tiktok-free-trial.12900/)
@@ -45,11 +49,7 @@
 -  16 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
 -  16 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
 -  16 [Do you use Propellerads SmartCPC? How do you calculate the bid?](https://afflift.com/f/threads/do-you-use-propellerads-smartcpc-how-do-you-calculate-the-bid.13437/)
--  16 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  16 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)
--  16 [Adsterra - Global Ad Network with Partner Care. Trusted by 50K+ Partners Worldwide](https://afflift.com/f/threads/adsterra-global-ad-network-with-partner-care-trusted-by-50k-partners-worldwide.4462/)
--  16 [a 3-years follow along about how to make 1m in 3 years](https://afflift.com/f/threads/a-3-years-follow-along-about-how-to-make-1m-in-3-years.13070/)
--  16 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)<!-- afflift:END -->
+-  16 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
