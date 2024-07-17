@@ -38,6 +38,8 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
+-  17 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)
 -  17 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
 -  17 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
 -  17 [🌿💰 Global Green Profits: Scaling Success! 🌍🚀](https://afflift.com/f/threads/%F0%9F%8C%BF%F0%9F%92%B0-global-green-profits-scaling-success-%F0%9F%8C%8D%F0%9F%9A%80.13167/)
@@ -47,9 +49,7 @@
 -  17 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
 -  17 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
 -  17 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
--  16 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)
--  16 [Dating Offer!](https://afflift.com/f/threads/dating-offer.13453/)
--  16 [MrGoose for GG](https://afflift.com/f/threads/mrgoose-for-gg.13448/)<!-- afflift:END -->
+-  16 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
