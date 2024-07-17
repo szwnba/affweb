@@ -26,7 +26,7 @@
 
 ### 综合讨论区: General Discussion
 <!-- advertcn3:START -->
--  16 [有精通wp的吗？请教一个关于时间显示的问题……](https://www.advertcn.com/thread-115726-1-1.html)<!-- advertcn3:END -->
+-  17 [Google Performance Max：AI驱动的广告优化与创意生成](https://www.advertcn.com/thread-115743-1-1.html)<!-- advertcn3:END -->
 
 
 ### zhihu
