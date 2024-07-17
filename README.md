@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Improving POP traffic analysis: a new approach with custom events](https://afflift.com/f/threads/improving-pop-traffic-analysis-a-new-approach-with-custom-events.13476/)
+-  17 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
 -  17 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
 -  17 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
 -  17 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
--  17 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
 -  17 [Demand CTV?](https://afflift.com/f/threads/demand-ctv.13479/)
 -  17 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
 -  17 [PDL-Profit | Rank webmasters, generate traffic to financial offers and win guaranteed prizes](https://afflift.com/f/threads/pdl-profit-rank-webmasters-generate-traffic-to-financial-offers-and-win-guaranteed-prizes.13326/)
 -  17 [Adport now has Banner ad format!](https://afflift.com/f/threads/adport-now-has-banner-ad-format.13478/)
 -  17 [Newbie](https://afflift.com/f/threads/newbie.13477/)
 -  17 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
--  17 [Adding Push Notifications from Partners.House to your Landing Page](https://afflift.com/f/threads/adding-push-notifications-from-partners-house-to-your-landing-page.13475/)
--  17 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)<!-- afflift:END -->
+-  17 [Adding Push Notifications from Partners.House to your Landing Page](https://afflift.com/f/threads/adding-push-notifications-from-partners-house-to-your-landing-page.13475/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
