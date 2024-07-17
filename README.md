@@ -52,8 +52,8 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [App+1 | PhotoGIMP：让开源的 GIMP「变身」Photoshop](https://sspai.com/post/90413)
 -  17 [少数派会员第四年：权益升级，优惠回归](https://sspai.com/post/90556)
 -  17 [日本浮生录 05：在冲绳的十天，日日与海为伴](https://sspai.com/post/90157)
 -  17 [具透 | iOS 18 Public Beta 公测版来了，这些功能值得一试](https://sspai.com/post/90525)
--  17 [派早报：魅族发布魅蓝 20 AI 手机、Claude 推出 Android 版应用等](https://sspai.com/post/90536)
--  16 [2001: 让乔布斯下定转向英特尔决心的转折之年](https://sspai.com/prime/story/ppc-history-12)<!-- sspai:END -->
+-  17 [派早报：魅族发布魅蓝 20 AI 手机、Claude 推出 Android 版应用等](https://sspai.com/post/90536)<!-- sspai:END -->
