@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
--  17 [Improving POP traffic analysis: a new approach with custom events](https://afflift.com/f/threads/improving-pop-traffic-analysis-a-new-approach-with-custom-events.13476/)
+-  17 [New Zones in CPA Galaksion Campaign?](https://afflift.com/f/threads/new-zones-in-cpa-galaksion-campaign.13452/)
+-  17 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)
+-  17 [Adsterra Promo Codes &lpar;July 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-july-2024.13469/)
+-  17 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
 -  17 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
--  17 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
--  17 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
--  17 [Partners.House is a traffic monetization affiliate network with 4 popular advertising formats](https://afflift.com/f/threads/partners-house-is-a-traffic-monetization-affiliate-network-with-4-popular-advertising-formats.12128/)
--  17 [Demand CTV?](https://afflift.com/f/threads/demand-ctv.13479/)
--  17 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
--  17 [PDL-Profit | Rank webmasters, generate traffic to financial offers and win guaranteed prizes](https://afflift.com/f/threads/pdl-profit-rank-webmasters-generate-traffic-to-financial-offers-and-win-guaranteed-prizes.13326/)
--  17 [Adport now has Banner ad format!](https://afflift.com/f/threads/adport-now-has-banner-ad-format.13478/)
+-  17 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
+-  17 [CPA priced cost in Binom bug?](https://afflift.com/f/threads/cpa-priced-cost-in-binom-bug.13474/)
 -  17 [Newbie](https://afflift.com/f/threads/newbie.13477/)
--  17 [Mobidea: The Leading CPA Network in mVAS!](https://afflift.com/f/threads/mobidea-the-leading-cpa-network-in-mvas.13235/)
--  17 [Adding Push Notifications from Partners.House to your Landing Page](https://afflift.com/f/threads/adding-push-notifications-from-partners-house-to-your-landing-page.13475/)<!-- afflift:END -->
+-  17 [Improving POP traffic analysis: a new approach with custom events](https://afflift.com/f/threads/improving-pop-traffic-analysis-a-new-approach-with-custom-events.13476/)
+-  17 [Adport now has Banner ad format!](https://afflift.com/f/threads/adport-now-has-banner-ad-format.13478/)
+-  17 [PDL-Profit | Rank webmasters, generate traffic to financial offers and win guaranteed prizes](https://afflift.com/f/threads/pdl-profit-rank-webmasters-generate-traffic-to-financial-offers-and-win-guaranteed-prizes.13326/)
+-  17 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
