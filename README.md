@@ -37,8 +37,9 @@
 
 ### afflift
 <!-- afflift:START -->
--  17 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  17 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
+-  17 [⭐️Mostbet Partners — monetize your traffic: casino bids and bets &lpar;CPA/RevShare&rpar;](https://afflift.com/f/threads/%E2%AD%90%EF%B8%8Fmostbet-partners-%E2%80%94-monetize-your-traffic-casino-bids-and-bets-cpa-revshare.7373/)
+-  17 [PDL-Profit | Payday loan offers | Daily payouts | Smartlink | +5% bonus commission for newbies](https://afflift.com/f/threads/pdl-profit-payday-loan-offers-daily-payouts-smartlink-5-bonus-commission-for-newbies.13326/)
 -  17 [Adport now has Banner ad format!](https://afflift.com/f/threads/adport-now-has-banner-ad-format.13478/)
 -  17 [Newbie](https://afflift.com/f/threads/newbie.13477/)
 -  17 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
@@ -47,8 +48,7 @@
 -  17 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
 -  17 [Tracking all my trafficback inside each campaign and postback the revenue](https://afflift.com/f/threads/tracking-all-my-trafficback-inside-each-campaign-and-postback-the-revenue.13466/)
 -  17 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
--  17 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)
--  17 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)<!-- afflift:END -->
+-  17 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
