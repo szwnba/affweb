@@ -38,6 +38,9 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Adding Push Notifications from Partners.House to your Landing Page](https://afflift.com/f/threads/adding-push-notifications-from-partners-house-to-your-landing-page.13475/)
+-  17 [1win Partners - Boost Your Affiliate Marketing Success!](https://afflift.com/f/threads/1win-partners-boost-your-affiliate-marketing-success.12960/)
+-  17 [Tracking all my trafficback inside each campaign and postback the revenue](https://afflift.com/f/threads/tracking-all-my-trafficback-inside-each-campaign-and-postback-the-revenue.13466/)
 -  17 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)
 -  17 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)
 -  17 [$1 for 200 Landing Pages](https://afflift.com/f/threads/1-for-200-landing-pages.12504/)
@@ -46,10 +49,7 @@
 -  17 [Adsterra Promo Codes &lpar;July 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-july-2024.13469/)
 -  17 [ADVERTEN | Global Smartlink | Achieve peak results with the right traffic expert](https://afflift.com/f/threads/adverten-global-smartlink-achieve-peak-results-with-the-right-traffic-expert.7526/)
 -  17 [The real ADX arbitrage results.](https://afflift.com/f/threads/the-real-adx-arbitrage-results.13310/)
--  17 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)
--  17 [What countries have you encountered low-quality traffic](https://afflift.com/f/threads/what-countries-have-you-encountered-low-quality-traffic.13462/)
--  17 [reply to the &quot;chat battle&quot; and motivation](https://afflift.com/f/threads/reply-to-the-chat-battle-and-motivation.13169/)
--  16 [💡 Facebook CPA Success Secrets: Follow Along &amp; Profit! 💸#Contest Entry](https://afflift.com/f/threads/%F0%9F%92%A1-facebook-cpa-success-secrets-follow-along-profit-%F0%9F%92%B8-contest-entry.12886/)<!-- afflift:END -->
+-  17 [Affiliate Marketing Promo Codes and Coupons](https://afflift.com/f/threads/affiliate-marketing-promo-codes-and-coupons.587/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
