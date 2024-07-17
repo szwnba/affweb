@@ -37,18 +37,18 @@
 
 ### afflift
 <!-- afflift:START -->
+-  17 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
 -  17 [New Zones in CPA Galaksion Campaign?](https://afflift.com/f/threads/new-zones-in-cpa-galaksion-campaign.13452/)
+-  17 [Campaigns with PartnersHouse&#39;s Landing Page: Can Dual Subscriptions Boost My Profits, Conversions, and CPA Traffic?](https://afflift.com/f/threads/campaigns-with-partnershouses-landing-page-can-dual-subscriptions-boost-my-profits-conversions-and-cpa-traffic.13480/)
+-  17 [Webvõrk — Look at the CPA in a new way](https://afflift.com/f/threads/webv%C3%B5rk-%E2%80%94-look-at-the-cpa-in-a-new-way.2820/)
+-  17 [Improving POP traffic analysis: a new approach with custom events](https://afflift.com/f/threads/improving-pop-traffic-analysis-a-new-approach-with-custom-events.13476/)
 -  17 [Seeking Advice on Effective Ad Types for Shopping Sites like Amazon and Shopee](https://afflift.com/f/threads/seeking-advice-on-effective-ad-types-for-shopping-sites-like-amazon-and-shopee.13473/)
 -  17 [Adsterra Promo Codes &lpar;July 2024&rpar;](https://afflift.com/f/threads/adsterra-promo-codes-july-2024.13469/)
 -  17 [My Another Struggle:Pop+Dating Survey&gt;Taxi driver&#39;s income？](https://afflift.com/f/threads/my-another-struggle-pop-dating-survey-taxi-drivers-income%EF%BC%9F.13190/)
--  17 [Partners.House Follow Along Contest - $5000 in Prizes](https://afflift.com/f/threads/partners-house-follow-along-contest-5000-in-prizes.13470/)
 -  17 [LeadRock Affiliate Network | Direct Nutra and Whitehat advertiser](https://afflift.com/f/threads/leadrock-affiliate-network-direct-nutra-and-whitehat-advertiser.12933/)
 -  17 [CPA priced cost in Binom bug?](https://afflift.com/f/threads/cpa-priced-cost-in-binom-bug.13474/)
 -  17 [Newbie](https://afflift.com/f/threads/newbie.13477/)
--  17 [Improving POP traffic analysis: a new approach with custom events](https://afflift.com/f/threads/improving-pop-traffic-analysis-a-new-approach-with-custom-events.13476/)
--  17 [Adport now has Banner ad format!](https://afflift.com/f/threads/adport-now-has-banner-ad-format.13478/)
--  17 [PDL-Profit | Rank webmasters, generate traffic to financial offers and win guaranteed prizes](https://afflift.com/f/threads/pdl-profit-rank-webmasters-generate-traffic-to-financial-offers-and-win-guaranteed-prizes.13326/)
--  17 [Push notifications to grow Instagram accounts](https://afflift.com/f/threads/push-notifications-to-grow-instagram-accounts.13458/)<!-- afflift:END -->
+-  17 [Adport now has Banner ad format!](https://afflift.com/f/threads/adport-now-has-banner-ad-format.13478/)<!-- afflift:END -->
 
 ### 少数派
 <!-- sspai:START -->
