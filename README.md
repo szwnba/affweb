@@ -51,6 +51,7 @@
 
 ### 少数派
 <!-- sspai:START -->
+-  17 [具透 | iOS 18 Public Beta 公测版来了，这些功能值得一试](https://sspai.com/post/90525)
 -  17 [派早报：魅族发布魅蓝 20 AI 手机、Claude 推出 Android 版应用等](https://sspai.com/post/90536)
 -  16 [2001: 让乔布斯下定转向英特尔决心的转折之年](https://sspai.com/prime/story/ppc-history-12)
 -  16 [社区速递 053 | 一周最热评、派友六月买了啥汇总](https://sspai.com/post/90521)
