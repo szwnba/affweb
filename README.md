@@ -18,8 +18,7 @@
 ### 进阶学堂: Newbie Questions
 <!-- advertcn1:START -->
 -  17 [法国巴黎银行与蚂蚁国际达成合作](https://www.advertcn.com/thread-115739-1-1.html)
--  17 [市场趋势 | 入驻Ozon本土店，抢占俄罗斯市场](https://www.advertcn.com/thread-115738-1-1.html)
--  16 [如何规避FB误封](https://www.advertcn.com/thread-115728-1-1.html)<!-- advertcn1:END -->
+-  17 [市场趋势 | 入驻Ozon本土店，抢占俄罗斯市场](https://www.advertcn.com/thread-115738-1-1.html)<!-- advertcn1:END -->
 
 ### 步步为赢: Follow Along
 <!-- advertcn2:START -->
