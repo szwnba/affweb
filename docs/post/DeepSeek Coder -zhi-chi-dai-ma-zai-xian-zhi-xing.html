@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="今天，Claude3.5 Sonnet 发布，并上新 Artifacts 功能，自动生成代码并直接在浏览器上运行。">
+<meta property="og:title" content="DeepSeek Coder 支持代码在线执行">
+<meta property="og:description" content="今天，Claude3.5 Sonnet 发布，并上新 Artifacts 功能，自动生成代码并直接在浏览器上运行。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/DeepSeek%20Coder%20-zhi-chi-dai-ma-zai-xian-zhi-xing.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>DeepSeek Coder 支持代码在线执行</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">DeepSeek Coder 支持代码在线执行</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/593" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>今天，Claude3.5 Sonnet 发布，并上新 Artifacts 功能，自动生成代码并直接在浏览器上运行。</p>
+<p>很快，DeepSeek 官网的代码助手也上线了同样的功能：生成代码，一键运行！</p>
+<p>仅需三步，就能体验全新交互！</p>
+<p>访问 coder.deepseek.com →  选择“代码助手 V2” → 输入提示词 → 点击 “运行HTML”。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ee7e6cb404a5f0e6a713213bb1c2e3d6f7e0aa6b307221eb8ca83756ee793f64/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59457363525269614638637a677a68445a3777577166303165393748703176434b5155317349646f396671653345796d61496663527537412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ee7e6cb404a5f0e6a713213bb1c2e3d6f7e0aa6b307221eb8ca83756ee793f64/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59457363525269614638637a677a68445a3777577166303165393748703176434b5155317349646f396671653345796d61496663527537412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/pkWC42uvwkkJoRPsfNTGCytI34VohicjYEscRRiaF8czgzhDZ7wWqf01e97Hp1vCKQU1sIdo9fqe3EymaIfcRu7A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>网页设计</strong></p>
+<p>参考提示词：</p>
+<blockquote>
+<p>用HTML、CSS和JavaScript实现一个美观的、销售海鲜的、电子商务网页，元素尽可能丰富，并设置一些交互动效，全权由你来设计和创建。title要别致一点，颜色、元素要和海鲜、海洋相结合。主页上是一个大屏图，写上商城介绍，还有一些美观的设计，不要使用图片，配色合理，加上合适的动画。</p>
+<p>商品列表：</p>
+<p>深海龙虾：300美元</p>
+<p>北极贝：200美元</p>
+<p>鳕鱼：100美元等</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/93931c88f5709c750a500ff6200a2cb97b1f7f4556500788a9d80912d6d0f515/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59636961526e56716b336961753947497a724333653930474461656769627a6962464656517669634b61454d70566c3168734932393571794d7643672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/93931c88f5709c750a500ff6200a2cb97b1f7f4556500788a9d80912d6d0f515/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59636961526e56716b336961753947497a724333653930474461656769627a6962464656517669634b61454d70566c3168734932393571794d7643672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/pkWC42uvwkkJoRPsfNTGCytI34VohicjYciaRnVqk3iau9GIzrC3e90GDaegibzibFFVQvicKaEMpVl1hsI295qyMvCg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>经典游戏：五子棋</strong></p>
+<p>参考提示词：</p>
+<blockquote>
+<p>用 HTML、CSS 和 JavaScript 实现一个五子棋游戏的所有逻辑，棋盘背景使用浅木色。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0278a8c1a9d16f8ed69764094a1ff45d6315850bd48c7e02875cfb334e75eaa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59346e494e786c6677686b6f706e336c696262346d69634a5164766570706a426e4641766c5a4b6168645565777456377155424f6961723063672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c0278a8c1a9d16f8ed69764094a1ff45d6315850bd48c7e02875cfb334e75eaa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59346e494e786c6677686b6f706e336c696262346d69634a5164766570706a426e4641766c5a4b6168645565777456377155424f6961723063672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/pkWC42uvwkkJoRPsfNTGCytI34VohicjY4nINxlfwhkopn3libb4micJQdveppjBnFAvlZKahdUewtV7qUBOiar0cg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>经典游戏：飞行射击</strong></p>
+<p>参考提示词：</p>
+<blockquote>
+<p>请使用 HTML 和 JavaScript 创建一个满足以下规格的 8 位风格自动射击飞行游戏：</p>
+<p>标准设置：</p>
+<p>画布尺寸：256x240 像素（以 2 倍缩放显示）</p>
+<p>8 位元风格的图形</p>
+<p>使用限定色彩调色板</p>
+<p>玩家飞机：</p>
+<p>使用箭头键可向左右展开</p>
+<p>流畅且顺畅的移动也是可能的</p>
+<p>自动发射子弹（约每 10 帧一次）</p>
+<p>敌：</p>
+<p>随机出现，向下</p>
+<p>随着等级的提升，力量也会增强</p>
+<p>老板：</p>
+<p>每 100 点出现一次</p>
+<p>拥有 HP 条</p>
+<p>横向移动并生成敌人</p>
+<p>游戏玩法：</p>
+<p>显示分数、级别和玩家生命值</p>
+<p>击败敌人和 Boss 会使分数增加</p>
+<p>玩家的生命值降至 0 时，游戏结束</p>
+<p>图形：</p>
+<p>用简单的图形表示玩家、敌人、Boss 和子弹</p>
+<p>显示闪耀的星星</p>
+<p>性能：</p>
+<p>使用 requestAnimationFrame</p>
+<p>利用 Delta Time 实现与帧率无关的动态效果</p>
+<p>其他功能：</p>
+<p>游戏结束画面</p>
+<p>重新启动</p>
+<p>此游戏应以单一 HTML 文件形式实现，请勿使用外部库。同时，请在代码中添加适当的注释，并确保结构清晰易读。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0be68deb1c377618b834b640bda58de0d25cf5f1724805f832d030de34f83184/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a5942636a6e4e6a4d7576503266616f6749466278504d39464c7331724a487138746470486b6e6548783476544d6d74674978683869626e672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0be68deb1c377618b834b640bda58de0d25cf5f1724805f832d030de34f83184/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a5942636a6e4e6a4d7576503266616f6749466278504d39464c7331724a487138746470486b6e6548783476544d6d74674978683869626e672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/pkWC42uvwkkJoRPsfNTGCytI34VohicjYBcjnNjMuvP2faogIFbxPM9FLs1rJHq8tdpHkneHx4vTMmtgIxh8ibng/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>经典游戏：扫雷</strong></p>
+<p>参考提示词：</p>
+<blockquote>
+<p>用html实现复杂一点的扫雷游戏，数字颜色分明，有计时，有重启按钮</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10051b585d0e691a1ab5fed23310a3eba449bb44bffd8d48d8c2466a7016aa9a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59613837756c5a4441636f596730614c7342576963636f716c7066785869615857446d6153494d6d37424b55744f614e5a52554c7372766d412f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/10051b585d0e691a1ab5fed23310a3eba449bb44bffd8d48d8c2466a7016aa9a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59613837756c5a4441636f596730614c7342576963636f716c7066785869615857446d6153494d6d37424b55744f614e5a52554c7372766d412f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/pkWC42uvwkkJoRPsfNTGCytI34VohicjYa87ulZDAcoYg0aLsBWiccoqlpfxXiaXWDmaSIMm7BKUtOaNZRULsrvmA/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>经典游戏：2048</strong></p>
+<p>参考提示词：</p>
+<blockquote>
+<p>用 HTML、CSS 和 JavaScript 实现 2048 游戏的所有逻辑，满足以下条件： </p>
+<p>背景：<a href="https://s2.loli.net/2024/06/21/1lxYdNIpwuegH8m.jpg" rel="nofollow">https://s2.loli.net/2024/06/21/1lxYdNIpwuegH8m.jpg</a></p>
+<p>数字：深色 </p>
+<p>格子：透明 </p>
+<p>计分：开启 </p>
+<p>重启：开启</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0749e57b47fec4367df3c079a811bce49fbc9085ab4522db06dbc37561eaa700/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59483669636c6e793163525a30676843586859794d6d79344369633759356b66323743764d766f696348533169613163386f797769614f6a6d3956772f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0749e57b47fec4367df3c079a811bce49fbc9085ab4522db06dbc37561eaa700/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a59483669636c6e793163525a30676843586859794d6d79344369633759356b66323743764d766f696348533169613163386f797769614f6a6d3956772f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/pkWC42uvwkkJoRPsfNTGCytI34VohicjYH6iclny1cRZ0ghCXhYyMmy4Cic7Y5kf27CvMvoicHS1ia1c8oywiaOjm9Vw/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>计算器</strong></p>
+<p>参考提示词：</p>
+<blockquote>
+<p>用html写一个简单且美观的计算器</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec430c1aab8853ee1caa5f0e927d5a07ff2c51bfd00720e1b0c62cacc21bf544/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a596962714a394442364e726c7038544b6d6962797944696362614573714b6f42504d304776514f614c6333305a573569624f494b387066664750672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ec430c1aab8853ee1caa5f0e927d5a07ff2c51bfd00720e1b0c62cacc21bf544/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a596962714a394442364e726c7038544b6d6962797944696362614573714b6f42504d304776514f614c6333305a573569624f494b387066664750672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/pkWC42uvwkkJoRPsfNTGCytI34VohicjYibqJ9DB6Nrlp8TKmibyyDicbaEsqKoBPM0GvQOaLc30ZW5ibOIK8pffGPg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>音乐播放器</strong></p>
+<p>参考提示词：</p>
+<blockquote>
+<p>用 HTML、CSS 和 JavaScript 实现一个好看的音乐播放器的所有逻辑，允许用户上传音频文件，正常输出，样式美观，显示当前音乐名，并通过 canvas 实现音乐频谱可视化。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/68d2009413c09f3f7ba9b483be4e55b56dc6ee2e4e15f025a0a683fdeba62e0f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a5968706e6961725a455132446961773643644e34515147384747646e3869634c48536b426e617a5558776a557a6b626c4e70363363474a5873672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/68d2009413c09f3f7ba9b483be4e55b56dc6ee2e4e15f025a0a683fdeba62e0f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a5968706e6961725a455132446961773643644e34515147384747646e3869634c48536b426e617a5558776a557a6b626c4e70363363474a5873672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/pkWC42uvwkkJoRPsfNTGCytI34VohicjYhpniarZEQ2Diaw6CdN4QQG8GGdn8icLHSkBnazUXwjUzkblNp63cGJXsg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>数据可视化</strong></p>
+<p>参考提示词：</p>
+<blockquote>
+<p>"MBPP</p>
+<p>Plus"        "Human</p>
+<p>Eval"        "LiveCode</p>
+<p>Bench"        Aider        MATH        GSM8K</p>
+<p>GPT-4o-0513        73.5        91.0        43.5        72.9        76.6        95.8</p>
+<p>DeepSeek-Coder-V2        76.2        90.2        43.4        73.7        75.7        94.9</p>
+<p>GPT-4-Turbo-0409        72.2        88.2        45.7        63.9        73.4        93.7</p>
+<p>Claude-3-Opus        72.0        84.8        34.6        68.4        60.1        95.0</p>
+<p>Gemini-1.5-Pro        74.6        83.5        34.1        57.1        67.7        90.8</p>
+<p>GPT-4-1106-preview        72.8        82.2        40.1        65.4        64.1        91.4</p>
+<p>Yi-Large（零一万物）        58.7        82.3        31.0        49.6        62.4        92.6</p>
+<p>Qwen2-72B（阿里）        63.1        86.0        28.3        52.6        59.7        91.1</p>
+<p>DeepSeek-V2        67.7        81.1        32.5        60.2        53.9        92.2</p>
+<p>Llama3-70B        69.0        81.7        28.7        49.2        50.4        93.0</p>
+<p>ERNIE-4.0（百度）        64.6        72.0        -        -        52.2        91.3</p>
+<p>MiniMax-abab-6.5        63.2        78.0        24.7        34.6        51.4        91.7</p>
+<p>Step-1-32k（阶跃星辰）        62.2        79.9        28.3        35.3        56.6        91.6</p>
+<p>GLM-4（智谱清言）        59.3        72.0        34.5        42.9        47.9        87.6</p>
+<p>Baichuan4（百川）        58.5        74.4        21.2        36.8        47.0        90.5</p>
+<p>hunyuan-pro（腾讯）        60.3        78.1        21.7        37.6        54.6        91.4</p>
+<p>Doubao-pro-32k（字节）        60.8        73.8        23.0        39.1        46.2        88.9</p>
+<p>Moonshot-v1（月之暗面）        60.3        82.9        23.9        33.8        44.2        89.5</p>
+<p>Codestral        68.2        81.1        31.0        51.1        31.6        75.8</p>
+<p>Visualize all the above data using bar charts, with bars in the same column having the same color (in macaron color schemes). Implement it in HTML.</p>
+<p>对如上所有数据进行可视化，柱状图，同一列的柱状用一个颜色（马卡龙色系）。用html实现</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6bc695427d6e4d12781f1d9da406b22b778370ad14745f6f0d6474a677ea458b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a5975696346324b546169624e50434e746453715274494662536b5a4950305969616f31714d5179727932336963415938326d34797a7a6c6e5678412f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6bc695427d6e4d12781f1d9da406b22b778370ad14745f6f0d6474a677ea458b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f706b574334327576776b6b4a6f525073664e5447437974493334566f6869636a5975696346324b546169624e50434e746453715274494662536b5a4950305969616f31714d5179727932336963415938326d34797a7a6c6e5678412f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/pkWC42uvwkkJoRPsfNTGCytI34VohicjYuicF2KTaibNPCNtdSqRtIFbSkZIP0Yiao1qMQyry23icAY82m4yzzlnVxA/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>轮到你啦~</p>
+<p>访问 coder.deepseek.com 输入你的提示词，一键运行代码，展现你的创意吧！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f4d55b30131f6469e9ffdd8574b12e2586e6dd3059adaa383de1d20f16f587b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f706b574334327576776b6e315872424a6c35527647506835566c496961777369617a634169636b326c636963544a386b7169613344466e4c795243686b486d6670484d79426674705545764b50784b5837526669614a505935636d672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f4d55b30131f6469e9ffdd8574b12e2586e6dd3059adaa383de1d20f16f587b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f706b574334327576776b6e315872424a6c35527647506835566c496961777369617a634169636b326c636963544a386b7169613344466e4c795243686b486d6670484d79426674705545764b50784b5837526669614a505935636d672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/pkWC42uvwkn1XrBJl5RvGPh5VlIiawsiazcAick2lcicTJ8kqia3DFnLyRChkHmfpHMyBftpUEvKPxKX7RfiaJPY5cmg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="今天给大家介绍一个非常有用的AI工具，它能够实现对视频的快速剪辑，帮你节省大量的体力劳动！它就是：**FunClip**
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/KIpjqt6C2eQxQ3nNMS47US5ibu59JkD7SJD9T1BbupeSXlrKMQKlOIibeYuSibFzVnDAabfF5pHmG5MYlyTV1pXTQ/640?wx_fmt=jpeg&from=appmsg)
+
+**FunClip是什么？**
+
+FunClip是由阿里达摩院开源的AI自动视频剪辑工具。">
+<meta property="og:title" content="阿里推出的，自动化AI视频剪辑工具：FunClip">
+<meta property="og:description" content="今天给大家介绍一个非常有用的AI工具，它能够实现对视频的快速剪辑，帮你节省大量的体力劳动！它就是：**FunClip**
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/KIpjqt6C2eQxQ3nNMS47US5ibu59JkD7SJD9T1BbupeSXlrKMQKlOIibeYuSibFzVnDAabfF5pHmG5MYlyTV1pXTQ/640?wx_fmt=jpeg&from=appmsg)
+
+**FunClip是什么？**
+
+FunClip是由阿里达摩院开源的AI自动视频剪辑工具。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/a-li-tui-chu-de-%EF%BC%8C-zi-dong-hua-AI-shi-pin-jian-ji-gong-ju-%EF%BC%9AFunClip.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>阿里推出的，自动化AI视频剪辑工具：FunClip</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">阿里推出的，自动化AI视频剪辑工具：FunClip</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/532" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>今天给大家介绍一个非常有用的AI工具，它能够实现对视频的快速剪辑，帮你节省大量的体力劳动！它就是：<strong>FunClip</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1c5297b750bf69c21618d557d911fbe0ee9d2bc30991422e7ae3d6a2cdc344f9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4b49706a717436433265517851336e4e4d53343755533569627535394a6b4437534a44395431426275706553586c724b4d514b6c4f496962655975536962467a566e4441616266463570486d47354d596c79545631705854512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1c5297b750bf69c21618d557d911fbe0ee9d2bc30991422e7ae3d6a2cdc344f9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4b49706a717436433265517851336e4e4d53343755533569627535394a6b4437534a44395431426275706553586c724b4d514b6c4f496962655975536962467a566e4441616266463570486d47354d596c79545631705854512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/KIpjqt6C2eQxQ3nNMS47US5ibu59JkD7SJD9T1BbupeSXlrKMQKlOIibeYuSibFzVnDAabfF5pHmG5MYlyTV1pXTQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>FunClip是什么？</strong></p>
+<p>FunClip是由阿里达摩院开源的AI自动视频剪辑工具。模型进行视频的语音识别，随后用户可以自由选择识别结果中的文本片段或说话人，点击裁剪按钮即可获取对应片段的视频。这意味着，大量繁琐的工作可以通过AI来实现。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f297b21037668ac277bd13fc90e21c296a17e188c898b0e29e2fc52a9d40b3b5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4b49706a717436433265517851336e4e4d53343755533569627535394a6b4437535171736c7069613678696161416131337a4a4c67516373574a374a69634f5a417957376a706963776f4d64794e774b727a62324a794c774279672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f297b21037668ac277bd13fc90e21c296a17e188c898b0e29e2fc52a9d40b3b5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4b49706a717436433265517851336e4e4d53343755533569627535394a6b4437535171736c7069613678696161416131337a4a4c67516373574a374a69634f5a417957376a706963776f4d64794e774b727a62324a794c774279672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/KIpjqt6C2eQxQ3nNMS47US5ibu59JkD7SQqslpia6xiaaAa13zJLgQcsWJ7JicOZAyW7jpicwoMdyNwKrzb2JyLwByg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>FunClip的特色功能</strong></p>
+<p><strong>自动化语音识别</strong>：集成了阿里巴巴开源的工业级模型Paraformer-Large，是当前识别效果最优的开源中文ASR模型之一，Modelscope下载量1300w+次，并且能够一体化的准确预测时间戳。</p>
+<p><strong>热词定制化</strong>：通过集成的SeACo-Paraformer模型，用户可以指定一些实体词、人名等作为热词，以提升特定词汇的识别准确率。</p>
+<p><strong>说话人识别</strong>：集成CAM++说话人识别模型，允许用户根据自动识别的说话人ID裁剪出特定说话人的视频段落。</p>
+<p><strong>视频裁剪</strong>：用户可以选择识别结果中的文本片段或指定说话人，通过点击裁剪按钮获取对应视频片段。</p>
+<p><strong>多段剪辑支持</strong>：FunClip支持用户对视频进行多段剪辑，提供了灵活的编辑能力。</p>
+<p><strong>如何使用FunClip？</strong></p>
+<p>使用FunClip非常简单，你可以选择在线体验或者本地部署。</p>
+<p><strong>在线体验地址：</strong></p>
+<blockquote>
+<p><a href="https://modelscope.cn/studios/iic/funasr%5C_app%5C_clipvideo/summary" rel="nofollow">https://modelscope.cn/studios/iic/funasr\_app\_clipvideo/summary</a></p>
+</blockquote>
+<p><strong>项目地址：</strong></p>
+<blockquote>
+<p><a href="https://github.com/alibaba-damo-academy/FunClip#%E7%A4%BE%E5%8C%BA%E4%BA%A4%E6%B5%81">https://github.com/alibaba-damo-academy/FunClip#%E7%A4%BE%E5%8C%BA%E4%BA%A4%E6%B5%81</a></p>
+</blockquote>
+<p><strong>AI变革往期回顾：</strong></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486317&amp;idx=1&amp;sn=64ac9c947b117011d971e54f2a20cea3&amp;chksm=e8a54d72dfd2c4640469ec1390df854377f9d1c98f92d62a7d82fe791e8b83e86f0e8553c7f6&amp;scene=21#wechat_redirect" rel="nofollow">0、</a><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486789&amp;idx=1&amp;sn=616dd77152656b3de33d80bab09ab1d3&amp;chksm=e8a54b5adfd2c24c1f0fd6429f91ebcdec435b93c7bd0d6c3d6d8fe0a821e946d8537f077731&amp;scene=21#wechat_redirect" rel="nofollow">非常赞的开源AI搜索项目！支持图片，视频，地图等！</a></p>
+<p>1、<a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486604&amp;idx=1&amp;sn=cedfcfb3fe95f9f1b0d264e629439e01&amp;chksm=e8a54a93dfd2c385ee56ce33f624c27dfa91f143cabe995fc4a635e039a590124a2ca7b5b51b&amp;scene=21#wechat_redirect" rel="nofollow">让照片变逼真的真人视频！腾讯推出开源AI框架：AniPortrait</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486010&amp;idx=1&amp;sn=6847148f5f02e483be8cace0a3041a3f&amp;chksm=e8a54c25dfd2c5336e0609aa297d49d3ddc8de2b34d2d0e047e9fce7453758f67c33de635c7a&amp;scene=21#wechat_redirect" rel="nofollow">2、</a><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486128&amp;idx=1&amp;sn=fe6e278c00ff2e0555187d5645bb92e9&amp;chksm=e8a54cafdfd2c5b95396b2e5c52766f1990882a8eeb5f44e072968c2b5423e97db19a6e5e727&amp;scene=21#wechat_redirect" rel="nofollow">开源、可本地部署的AI知识问答库来了！有道出品：QAnything</a></p>
+<p>3、<a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486614&amp;idx=1&amp;sn=a84b59d08969bf27c3c19083ff1a2cf0&amp;chksm=e8a54a89dfd2c39fd11efac323ed7326b331f160eeaa4d433a766eea65df329952dc2589c4b8&amp;scene=21#wechat_redirect" rel="nofollow">输入文本生成网页！一个开源的AI网页生成项目: OpenUI</a></p>
+<p>4、<a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486591&amp;idx=2&amp;sn=31a3beb9f788a6f87745c4c8a86cefb6&amp;chksm=e8a54a60dfd2c37679932bb010e375ea3d39e512d01fbda08aca3a551962ac557a501df53bc7&amp;scene=21#wechat_redirect" rel="nofollow">AI生图新方法！1秒生成20桢，质量还不差</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247485926&amp;idx=1&amp;sn=caaa10c6604d3d33dd00bdb3a9d6364a&amp;chksm=e8a54ff9dfd2c6ef88068c62337ec040908c440887c78d51ae7ab414da84e0b8b24eec5f49de&amp;scene=21#wechat_redirect" rel="nofollow">5、</a><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486551&amp;idx=1&amp;sn=a0fe57d777613d9ce9b83939011912b9&amp;chksm=e8a54a48dfd2c35eab27267de55079d898478cd1f2a49c08d06cf3a1ac6d3517ca98d87ca711&amp;scene=21#wechat_redirect" rel="nofollow">想一想，就能生成图片！Stability AI 推出 MindEye</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247485826&amp;idx=1&amp;sn=e02ba7ea06c08f8f7031a4642de15ba7&amp;chksm=e8a54f9ddfd2c68b4c412f1bb2e3e3db6426d5d6d0fd106fc19520358d4320fa82d379c7ca28&amp;scene=21#wechat_redirect" rel="nofollow">6、一张照片！生成逼真的3D头像！头发丝都能看清！Meta推出RGCA技术</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247485780&amp;idx=1&amp;sn=065832db6ad6b5a0b317bf24cb485f10&amp;chksm=e8a54f4bdfd2c65da46ee842654ba40d295d84d6be251320615cf7b2cb8318350b9ceda3d1d1&amp;scene=21#wechat_redirect" rel="nofollow">7、目前世界最好的小语言AI模型：Phi-2！可部署在手机使用！</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247485755&amp;idx=1&amp;sn=be934bfe1c7ed1a2532b193ba38c0202&amp;chksm=e8a54f24dfd2c6323341e0c4736996a390d0bd6ef3e30ee47c715c2e78f2f595ee0f1d222f9e&amp;scene=21#wechat_redirect" rel="nofollow">8、</a><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486083&amp;idx=1&amp;sn=60241409237b245bb83cf060aec40014&amp;chksm=e8a54c9cdfd2c58ad1e44ee2f462716eba39b1cf654c7ebd3e2b832e1b10e54512096bf2c112&amp;scene=21#wechat_redirect" rel="nofollow">AnyText：一种能够生成和编辑多语言文本图像的神奇模型</a></p>
+<p>9、<a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486059&amp;idx=1&amp;sn=73f0b5c6c72f6e196da425fa96025732&amp;chksm=e8a54c74dfd2c562022555fd66b97fd52214c88567b1c26b08b7c8beeb2d6f99d47022e28fb7&amp;scene=21#wechat_redirect" rel="nofollow">通过声音生成逼真的全身形象？！Meta开源AI工具：audio2photoreal</a></p>
+<p>10、<a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247485635&amp;idx=1&amp;sn=2a81955569e40045d89d6dd193c712db&amp;chksm=e8a54edcdfd2c7ca3e1fbdf074ad6f789f35d59b04226b654c48c8b6027ab7f92d74a7c7550a&amp;scene=21#wechat_redirect" rel="nofollow">AI“同声传译”新进展！Google发布，无监督，语音识别：Translatotron 3！</a></p>
+<p>11、<a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486044&amp;idx=1&amp;sn=1a6cd91772c10624a5c4d41daa3bd705&amp;chksm=e8a54c43dfd2c5550626bc9d942713bcc8ffb1565d0fdd4b62dbfe119378665aab4db1c2afe6&amp;scene=21#wechat_redirect" rel="nofollow">火爆全网！斯坦福研究了一个能做家务的机器人！叠被子、煎牛排、扫地都不在话下！</a></p>
+<p>12、<a href="http://mp.weixin.qq.com/s?__biz=MzIzMTQ0NTM2MA==&amp;mid=2247486284&amp;idx=1&amp;sn=83965a7e780a5e9f624d83f9de1d5185&amp;chksm=e8a54d53dfd2c4451bfe99bb51dc6eeddbf9d1bc601a5bbd5ee8452e2b9d20e56df7fbd9ab4e&amp;scene=21#wechat_redirect" rel="nofollow">AI视频生成王炸更新！Pika和Runway的强大对手来了！一个可通过文字生成视频的AI模型：DynamiCrafter</a></p>
+<p><strong>好了，今天的内容就分享到这里希望你们喜欢！欢迎关注、点赞和分享！</strong></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

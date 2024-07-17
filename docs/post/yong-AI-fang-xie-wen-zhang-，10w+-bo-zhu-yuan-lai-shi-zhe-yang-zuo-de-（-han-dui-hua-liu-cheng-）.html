@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/ff7uCFnCk81bHBQZIicLIgaooJEYGv1MuweM7hME7tIVnc2ictuiarUBT8oaEgAGMf7jVBc89QG3AlemqcnZIxveQ/640?wx_fmt=png&from=appmsg)
+
+对于洗搞、仿写指令，许多人都有着不同的看法。">
+<meta property="og:title" content="用AI仿写文章，10w+博主原来是这样做的（含对话流程）">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/ff7uCFnCk81bHBQZIicLIgaooJEYGv1MuweM7hME7tIVnc2ictuiarUBT8oaEgAGMf7jVBc89QG3AlemqcnZIxveQ/640?wx_fmt=png&from=appmsg)
+
+对于洗搞、仿写指令，许多人都有着不同的看法。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/yong-AI-fang-xie-wen-zhang-%EF%BC%8C10w%2B-bo-zhu-yuan-lai-shi-zhe-yang-zuo-de-%EF%BC%88-han-dui-hua-liu-cheng-%EF%BC%89.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>用AI仿写文章，10w+博主原来是这样做的（含对话流程）</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用AI仿写文章，10w+博主原来是这样做的（含对话流程）</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/605" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8b4a919bce28e8bf0950456b06f53340f760ccf54278d1538df395c09496442/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d7577654d37684d45377449566e633269637475696172554254386f61456741474d66376a5642633839514733416c656d71636e5a49787665512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f8b4a919bce28e8bf0950456b06f53340f760ccf54278d1538df395c09496442/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d7577654d37684d45377449566e633269637475696172554254386f61456741474d66376a5642633839514733416c656d71636e5a49787665512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ff7uCFnCk81bHBQZIicLIgaooJEYGv1MuweM7hME7tIVnc2ictuiarUBT8oaEgAGMf7jVBc89QG3AlemqcnZIxveQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>对于洗搞、仿写指令，许多人都有着不同的看法。在过去的经验里，很多人都觉得给AI的指令应该“高大上”、应该用结构化指令组成。</p>
+<p>然而，在实际的操作中，往往是通俗易懂的指令更容易被AI理解，效果也不比那些复杂的指令来的差。</p>
+<p>请看这样的阶梯对话顺序（依次按顺序发给AI）：</p>
+<p><strong>对话1：</strong> 我是写作新手，想要学习并模仿某种风格的文案。请指导我应该从哪些方面分析文案的特点，以达到和原作者的风格几乎一模一样。</p>
+<p>****对话<strong>2：</strong> 你列出来的特点这些方面过于太笼统，最大的问题是不够详细</p>
+<p><strong>对话3： 上面给我列了这么多要点，而且我感觉不够有深度，请你深呼吸，重新一步一步思考</strong>对话<strong>4：</strong> 你列出来的这些方面还是 过于太笼统，不够详细，需要更深入的去挖掘和分析<br>
+****对话<strong>5：</strong> 了解这些深层次的分析要点，然后基于这些详细的要点去分析文章,然后得出详细的分析结果，并帮我写一篇【】的文章</p>
+<p>很显然，这些对话的语言看起来并不是很“专业”，更容易让人理解，通过5个不断地追问，逐步深入和细化的过程，让AI最终输出的文章媲美原文。</p>
+<p>我们所要做的，便是将上述的对话填充和微调后投喂给AI，让AI写出我们所需要的效果。</p>
+<p>那么，就让我们试试吧！</p>
+<p>以KimiAI为例，我们可以通过以下指令，完成一次完整的仿写。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/ff7uCFnCk81bHBQZIicLIgaooJEYGv1Mun1zOnRicHV8OxFTicCxxS5Dlb7ibtvSgRXv74PGcMIuAhv1ERtibFPqrAg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>1. 笼统开始，概括方法要点</p>
+<p>通过简单的指令，让AI帮助我们总结出模仿文案风格所需要注意的大致要点和步骤。</p>
+<p>在这个过程中，AI总结出的要点可以做到分条分点、非常清晰。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/920773cc71f88dd7792448905d5b923bff50129e499b567cfd812553bc756fa6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756d52796c48505869625574487942456c736962494e7371736369626e5767624e6d6d6a666f3755734d377a64314e545a4c364143376a424b412f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/920773cc71f88dd7792448905d5b923bff50129e499b567cfd812553bc756fa6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756d52796c48505869625574487942456c736962494e7371736369626e5767624e6d6d6a666f3755734d377a64314e545a4c364143376a424b412f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ff7uCFnCk81bHBQZIicLIgaooJEYGv1MumRylHPXibUtHyBElsibINsqscibnWgbNmmjfo7UsM7zd1NTZL6AC7jBKA/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/ff7uCFnCk81bHBQZIicLIgaooJEYGv1Mun1zOnRicHV8OxFTicCxxS5Dlb7ibtvSgRXv74PGcMIuAhv1ERtibFPqrAg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>2. 进阶解读，分析方法</p>
+<p>在第一步的分析中，AI提供的要点通常倾向于笼统、模糊，和官方而我们要做的便是让它总结得更加精准。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e908beddfd00bba79c0cc993e534b306a19ea4d6f12c5c09d9dc87713f6001e3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d75726233354d566c7a55664c464e4e5366696363674636717833716c72797a5932557870594c34476f72513758364d69624a6d6545737258672f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e908beddfd00bba79c0cc993e534b306a19ea4d6f12c5c09d9dc87713f6001e3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d75726233354d566c7a55664c464e4e5366696363674636717833716c72797a5932557870594c34476f72513758364d69624a6d6545737258672f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ff7uCFnCk81bHBQZIicLIgaooJEYGv1Murb35MVlzUfLFNNSficcgF6qx3qlryzY2UxpYL4GorQ7X6MibJmeEsrXg/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/ff7uCFnCk81bHBQZIicLIgaooJEYGv1Mun1zOnRicHV8OxFTicCxxS5Dlb7ibtvSgRXv74PGcMIuAhv1ERtibFPqrAg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>3、反复深入，分析大方面</p>
+<p>要求AI深呼吸并重新思考，这不仅是对AI的一种人性化要求，也是鼓励AI进行更深层次的分析。我们应该精益求精，让AI为它自己精炼出更有价值的内容。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2a3cdcc9d89002df3dfc3466d84f80507cad047a2a48a260b37beaf5bea3632b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d754e69614e6961425a69626f6f74495249306962625842463659334548703549774e39707a48794149414c41645362675869614d506d72696369627a59672f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2a3cdcc9d89002df3dfc3466d84f80507cad047a2a48a260b37beaf5bea3632b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d754e69614e6961425a69626f6f74495249306962625842463659334548703549774e39707a48794149414c41645362675869614d506d72696369627a59672f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ff7uCFnCk81bHBQZIicLIgaooJEYGv1MuNiaNiaBZibootIRI0ibbXBF6Y3EHp5IwN9pzHyAIALAdSbgXiaMPmricibzYg/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/ff7uCFnCk81bHBQZIicLIgaooJEYGv1Mun1zOnRicHV8OxFTicCxxS5Dlb7ibtvSgRXv74PGcMIuAhv1ERtibFPqrAg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>4. 最后精炼，为仿写作准备</p>
+<p>这是开始仿写前的最后一步啦~让AI总结出最后的要点大纲，相信它已经可以胜任仿写的工作。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ee0c6747d3a6cd9fa9338f86bfb29a1e2624a9d55e3d4ee37ad2562f691e7fee/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d75696235534c745a4d6c58394b786869616b5353466f63354371786c716963707578566767434d667855334a316a4f42706f5769614546584f6f512f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ee0c6747d3a6cd9fa9338f86bfb29a1e2624a9d55e3d4ee37ad2562f691e7fee/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d75696235534c745a4d6c58394b786869616b5353466f63354371786c716963707578566767434d667855334a316a4f42706f5769614546584f6f512f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ff7uCFnCk81bHBQZIicLIgaooJEYGv1Muib5SLtZMlX9KxhiakSSFoc5CqxlqicpuxVggCMfxU3J1jOBpoWiaEFXOoQ/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/ff7uCFnCk81bHBQZIicLIgaooJEYGv1Mun1zOnRicHV8OxFTicCxxS5Dlb7ibtvSgRXv74PGcMIuAhv1ERtibFPqrAg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>5. 开始仿写，生成相似文章</p>
+<p>输入相应标题，一篇完整的、风格相近的文章便被AI生成出来啦~怎么样，是不是很神奇！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec52bd73b78f114abf7cf080f56f6e5590d74c9e0cb3025f1560a4befcb9ae4a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d75735070547a6f493569614c44656c6f3146766a753079354a57397768653859616c596359676741456d536961664b715062344978764b35672f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ec52bd73b78f114abf7cf080f56f6e5590d74c9e0cb3025f1560a4befcb9ae4a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d75735070547a6f493569614c44656c6f3146766a753079354a57397768653859616c596359676741456d536961664b715062344978764b35672f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ff7uCFnCk81bHBQZIicLIgaooJEYGv1MusPpTzoI5iaLDelo1Fvju0y5JW9whe8YalYcYggAEmSiafKqPb4IxvK5g/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/71be4ecff7cbccc89dae1887ea32fbd822106970705d9a5bbb51c47625ef7165/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6666377543466e436b3831624842515a4969634c4967616f6f4a45594776314d756e317a4f6e5269634856384f78465469634378785335446c623769627476536752587637345047634d49754168763145527469624650717241672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/ff7uCFnCk81bHBQZIicLIgaooJEYGv1Mun1zOnRicHV8OxFTicCxxS5Dlb7ibtvSgRXv74PGcMIuAhv1ERtibFPqrAg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>对比第一张图片的养生之法，在看下AI生成的美容之道，是不是有异曲同工之妙，在AI的帮助下，5句对话就可以，高效的完成内容仿写工作，并且完全保留了原文的风格。</p>
+<p>很显然，只要完全学会利用AI，我们的工作会变得便利很多！</p>
+<p>心动的话，现在就行动起来吧！</p>
+<p>以上就是小编今天分享的内容啦。喜欢的话，不妨点点关注，点个赞吧！</p>
+<p>最后分享我的指令大全<a href="http://mp.weixin.qq.com/s?__biz=Mzk0MjQ4NDA0MQ==&amp;mid=2247487009&amp;idx=1&amp;sn=5bf5306258eced67206927b110921f8c&amp;chksm=c2c33107f5b4b8112166854d28fa33f4d5b1001b0a69a45a433510b5fdf56c3dc62c6d2f6592&amp;scene=21#wechat_redirect" rel="nofollow">99%的人不知道，2024年AI指令大全原来在这</a></p>
+<p>内容超级干！全程无废话！没有羞涩难道的代码，也没有贩卖焦虑，直接就是围绕这指令干货本身，任何人都可以从0-1学习，手册总字数也近<strong>10w字</strong></p>
+<p>！绝对是秒杀同级别产品。</p>
+<p><strong>手册以文档的形式交付，这样方便大家保存阅览和复制。新店只需5元（即将恢复原价299）****。需要联系</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6868499739cc7de72aac4b78c7d60ea96d77d3a7eb06c4231d0f4e234834802c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6666377543466e436b3833737661714b474d6d5232767034536c7848366874363659786437737931424b4c4f675045434a497146716b7465516a5a544f786f6c70714b39417438637968465a4e7836327145476a68412f3634303f77785f666d743d6f746865722666726f6d3d6170706d73672674703d7765627026777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/6868499739cc7de72aac4b78c7d60ea96d77d3a7eb06c4231d0f4e234834802c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6666377543466e436b3833737661714b474d6d5232767034536c7848366874363659786437737931424b4c4f675045434a497146716b7465516a5a544f786f6c70714b39417438637968465a4e7836327145476a68412f3634303f77785f666d743d6f746865722666726f6d3d6170706d73672674703d7765627026777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ff7uCFnCk83svaqKGMmR2vp4SlxH6ht66Yxd7sy1BKLOgPECJIqFqkteQjZTOxolpqK9At8cyhFZNx62qEGjhA/640?wx_fmt=other&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

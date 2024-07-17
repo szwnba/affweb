@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="最近在折腾无人直播。">
+<meta property="og:title" content="5分钟教你利用服务器，打造1个 7*24H直播的直播间">
+<meta property="og:description" content="最近在折腾无人直播。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/5-fen-zhong-jiao-ni-li-yong-fu-wu-qi-%EF%BC%8C-da-zao-1-ge-%207-24H-zhi-bo-de-zhi-bo-jian.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>5分钟教你利用服务器，打造1个 7*24H直播的直播间</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">5分钟教你利用服务器，打造1个 7*24H直播的直播间</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/254" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>最近在折腾无人直播。觉得还挺有意思，接下来就分享一下如何实现。实现后就可以给一些主流的平台直播间不间断推流，达到无人直播的效果。 前提：拥有一台服务器。最好流量是1T或者以上。直播对流量要求比较高，视频码率越大，越费流量，所以最好买个国外的服务器。流量相对便宜。 接下来开始整，以centos作为演示搭建平台：</p>
+<ol>
+<li>先vim创建文件，然后复制lala大佬的写的比较傻瓜式的操作的脚本，给放到服务器上，脚本内容如下：我这里创建的文件名字是test.sh。（ 就是vim test.sh 。然后输入i进入编辑模式，然后复制粘贴以下内容，然后:wq 保存退出即可应该都会用vim吧，不会的可以留言~ ）</li>
+</ol>
+<pre class="notranslate"><code class="notranslate">#!/bin/bashPATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/binexport PATH#=================================================================##   System Required: CentOS7 X86_64                               ##   Description: FFmpeg Stream Media Server                       ##   Author: LALA                                    ##   Website: https://www.lala.im                                  ##=================================================================## 颜色选择red='\033[0;31m'green='\033[0;32m'yellow='\033[0;33m'font="\033[0m"ffmpeg_install(){# 安装FFMPEGread -p "你的机器内是否已经安装过FFmpeg4.x?安装FFmpeg才能正常推流,是否现在安装FFmpeg?(yes/no):" Chooseif [ $Choose = "yes" ];then    yum -y install wget    wget --no-check-certificate https://www.johnvansickle.com/ffmpeg/old-releases/ffmpeg-4.0.3-64bit-static.tar.xz    tar -xJf ffmpeg-4.0.3-64bit-static.tar.xz    cd ffmpeg-4.0.3-64bit-static    mv ffmpeg /usr/bin &amp;&amp; mv ffprobe /usr/bin &amp;&amp; mv qt-faststart /usr/bin &amp;&amp; mv ffmpeg-10bit /usr/binfiif [ $Choose = "no" ]then    echo -e "${yellow} 你选择不安装FFmpeg,请确定你的机器内已经自行安装过FFmpeg,否则程序无法正常工作! ${font}"    sleep 2fi    }stream_start(){# 定义推流地址和推流码read -p "输入你的推流地址和推流码(rtmp协议):" rtmp# 判断用户输入的地址是否合法if [[ $rtmp =~ "rtmp://" ]];then    echo -e "${green} 推流地址输入正确,程序将进行下一步操作. ${font}"      sleep 2    else      echo -e "${red} 你输入的地址不合法,请重新运行程序并输入! ${font}"      exit 1fi# 定义视频存放目录read -p "输入你的视频存放目录 (格式仅支持mp4,并且要绝对路径,例如/opt/video):" folder# 判断是否需要添加水印read -p "是否需要为视频添加水印?水印位置默认在右上方,需要较好CPU支持(yes/no):" watermarkif [ $watermark = "yes" ];then    read -p "输入你的水印图片存放绝对路径,例如/opt/image/watermark.jpg (格式支持jpg/png/bmp):" image    echo -e "${yellow} 添加水印完成,程序将开始推流. ${font}"    # 循环    while true    do        cd $folder        for video in $(ls *.mp4)        do        ffmpeg -re -i "$video" -i "$image" -filter_complex overlay=W-w-5:5 -c:v libx264 -c:a aac -b:a 192k -strict -2 -f flv ${rtmp}        done    donefiif [ $watermark = "no" ]then    echo -e "${yellow} 你选择不添加水印,程序将开始推流. ${font}"    # 循环    while true    do        cd $folder        for video in $(ls *.mp4)        do        ffmpeg -re -i "$video" -preset ultrafast -c:v copy -c:a aac -b:a 192k -strict -2 -f flv ${rtmp}       # ffmpeg -re -i "$video" -preset ultrafast -vcodec libx264 -g 60 -b:v 8500k -c:a aac -b:a 128k -strict -2 -f flv ${rtmp}        done    donefi    }# 停止推流stream_stop(){    screen -S stream -X quit    killall ffmpeg    }# 开始菜单设置echo -e "${yellow} CentOS7 X86_64 FFmpeg无人值守循环推流 For LALA.IM ${font}"echo -e "${red} 请确定此脚本目前是在screen窗口内运行的! ${font}"echo -e "${green} 1.安装FFmpeg (机器要安装FFmpeg才能正常推流) ${font}"echo -e "${green} 2.开始无人值守循环推流 ${font}"echo -e "${green} 3.停止推流 ${font}"start_menu(){    read -p "请输入数字(1-3),选择你要进行的操作:" num    case "$num" in        1)        ffmpeg_install        ;;        2)        stream_start        ;;        3)        stream_stop        ;;        *)        echo -e "${red} 请输入正确的数字 (1-3) ${font}"        ;;    esac    }# 运行开始菜单start_menu
+</code></pre>
+<ol start="2">
+<li>第一步如果折腾好的话是这样的</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c39aa36f681d4fa6e3268e1fdb4c584ed84c4016e374dd3fa05afc3155d3a87d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d5058376963414e76546f6c746d346d42696267315061335857467a69617843636a534f56617776764339454c4c6b7368616839596a69633732736f653137512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/c39aa36f681d4fa6e3268e1fdb4c584ed84c4016e374dd3fa05afc3155d3a87d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d5058376963414e76546f6c746d346d42696267315061335857467a69617843636a534f56617776764339454c4c6b7368616839596a69633732736f653137512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0fM9JPVK9JUulDanDzIkXPqwm8mPX7icANvToltm4mBibg1Pa3XWFziaxCcjSOVawvvC9ELLkshah9Yjic72soe17Q/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>然后执行bash test.sh。显示这样</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/128d7fad2e410b9e0eb738183c328ae747548d968c5b1800c601bb9fa0d6328c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d5058376963415247504c7769636c3067306f4a623564665572306b3770575362475433766b63696366373769617069626b6d75534f7a536432364152634f61412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/128d7fad2e410b9e0eb738183c328ae747548d968c5b1800c601bb9fa0d6328c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d5058376963415247504c7769636c3067306f4a623564665572306b3770575362475433766b63696366373769617069626b6d75534f7a536432364152634f61412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0fM9JPVK9JUulDanDzIkXPqwm8mPX7icARGPLwicl0g0oJb5dfUr0k7pWSbGT3vkcicf77iapibkmuSOzSd26ARcOaA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<ol start="3">
+<li>
+<p>选择1，回车，yes，先安装FFmpeg。 安装完成之后，再次允许脚本。这次我们选择2.<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/35969b03df00ecce7236fa4caed7deab3784285e4ef8d3960e6ecdc6fc526d14/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d50583769634138426854704172436651316963664d334f4c4b564a6c6648616e654c696274746f696255324b3754544e3549614971526963305a6865596e57772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/35969b03df00ecce7236fa4caed7deab3784285e4ef8d3960e6ecdc6fc526d14/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d50583769634138426854704172436651316963664d334f4c4b564a6c6648616e654c696274746f696255324b3754544e3549614971526963305a6865596e57772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0fM9JPVK9JUulDanDzIkXPqwm8mPX7icA8BhTpArCfQ1icfM3OLKVJlfHaneLibttoibU2K7TTN5IaIqRic0ZheYnWw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p>这一步我们需要准备推流地址和推流码。这里我以youtube的为例子，把推流地址和推流码复制过来。</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bb15684fd99a4590ad19cdd926f6e5db45f6873471ecd926d49abb0c4792d6c2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d5058376963416c37774e6e7a7647646333556c76704b334d4230464e594951645948304c307a4a4a534b31786576696263313469624d44597676505a4a412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/bb15684fd99a4590ad19cdd926f6e5db45f6873471ecd926d49abb0c4792d6c2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d5058376963416c37774e6e7a7647646333556c76704b334d4230464e594951645948304c307a4a4a534b31786576696263313469624d44597676505a4a412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0fM9JPVK9JUulDanDzIkXPqwm8mPX7icAl7wNnzvGdc3UlvpK3MB0FNYIQdYH0L0zJJSK1xevibc14ibMDYvvPZJA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>注意先复制1，然后复制2，这中间要有斜杠。有的直播平台会自己带，有的没有。最后服务器上是这样的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6937f03b6d8a5a9543f7aa62fd12de99336f1f87aad02ac1ef6d0387c4947a36/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d50583769634171576c716257366e466c71524b3070444a614e6e4b32685347684a566559497175676962456b75646c4b51455a316352503964314d6d672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/6937f03b6d8a5a9543f7aa62fd12de99336f1f87aad02ac1ef6d0387c4947a36/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d50583769634171576c716257366e466c71524b3070444a614e6e4b32685347684a566559497175676962456b75646c4b51455a316352503964314d6d672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0fM9JPVK9JUulDanDzIkXPqwm8mPX7icAqWlqbW6nFlqRK0pDJaNnK2hSGhJVeYIqugibEkudlKQEZ1cRP9d1Mmg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>一定要注意推流地址和推流码之间的'/' 5. 然后回车进入下一步。把MP4格式的视频准备好，就是把你想直播的mp4放到服务器上，不会命令行操作的可用moba这些的ssh终端操作。最好放在和这个脚本一个路径的地方，当然别的地方也可以，随意~ 6. 至此，我们推流脚本和要推流的视频都已经准备好了。其实已经开始直播了，但是我们这里要再使用一个screen工具来实现后台执行这个命令，让我们可以在服务器上可以继续干别的事情 yum -y install screen 。安装即可。 7.接着我们还是在当前路径，即视频和脚本所在的路径输入 screen。新建一个屏幕。然后执行bash test.sh 然后 输入2.然后输入推流地址和推流码。然后回车，然后输入你视频存放的路径。继续回车，选择是否要添加水印。如果服务器cpu不错。，可以开启，否则不开启。继续回车，就开始推流了</p>
+<ol start="8">
+<li>
+<p>此时我们按住CTRL + A +D。即可让程序后台运行。</p>
+</li>
+<li>
+<p>若是想中断直播，输入，screen -ls 。</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/957b2b137dc63ec25d3f21201dd1303c1d93a8fac29a816960eee205899be00a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d505837696341515855493753686344696347766d53614e445a5862696137776963756e55357077516169626e4d7a6a766a376d39334a4a455130424957334b512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/957b2b137dc63ec25d3f21201dd1303c1d93a8fac29a816960eee205899be00a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30664d394a50564b394a55756c44616e447a496b585071776d386d505837696341515855493753686344696347766d53614e445a5862696137776963756e55357077516169626e4d7a6a766a376d39334a4a455130424957334b512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0fM9JPVK9JUulDanDzIkXPqwm8mPX7icAQXUI7ShcDicGvmSaNDZXbia7wicunU5pwQaibnMzjvj7m93JJEQ0BIW3KQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>看到前面的进程号之后，kill掉即可。 若要重新回去这个屏幕 screen -r 进程号 即可。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

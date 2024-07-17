@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="CozeIDE 是扣子给你提供的插件开发利器，你可以在 CozeIDE 上开发、测试插件，并由扣子帮你托管运行插件代码，你无需关心购买服务器、配置域名等事项。">
+<meta property="og:title" content="了解扣子：如何用 CozeIDE 制作一个插件">
+<meta property="og:description" content="CozeIDE 是扣子给你提供的插件开发利器，你可以在 CozeIDE 上开发、测试插件，并由扣子帮你托管运行插件代码，你无需关心购买服务器、配置域名等事项。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/le-jie-kou-zi-%EF%BC%9A-ru-he-yong-%20CozeIDE%20-zhi-zuo-yi-ge-cha-jian.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>了解扣子：如何用 CozeIDE 制作一个插件</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">了解扣子：如何用 CozeIDE 制作一个插件</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/492" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>CozeIDE 是扣子给你提供的插件开发利器，你可以在 CozeIDE 上开发、测试插件，并由扣子帮你托管运行插件代码，你无需关心购买服务器、配置域名等事项。CozeIDE 还内置了 AI 编程助手，无论你是否有编程基础，都可以通过 AI 助手，快速开发插件。</p>
+<h2>CozeIDE 有哪些主要功能？</h2>
+<p>CozeIDE 为插件开发者提供了一整套代码编辑、依赖包管理、测试、元数据管理、发布部署能力，以及 AI 编程助手，解决你开发插件过程中的各种问题。</p>
+<h3>1、代码编辑</h3>
+<p>CozeIDE 为你提供了代码模板，你只需要在代码模板的基础上进行开发、完善。IDE 提供了 2 种运行时：Node.js 和 Python，满足你不同的诉求。</p>
+<h4>Node.js 模板示例</h4>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fffff47bb681c461bdb6f272853e3dd3db61cab6f36bca8109238823fbf14ee7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775326f63746c4e4b705230677a546a3335674875546e5364386a574b7a714d723758486b6e576e6762666859784c42696338496b375a6963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fffff47bb681c461bdb6f272853e3dd3db61cab6f36bca8109238823fbf14ee7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775326f63746c4e4b705230677a546a3335674875546e5364386a574b7a714d723758486b6e576e6762666859784c42696338496b375a6963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7u2octlNKpR0gzTj35gHuTnSd8jWKzqMr7XHknWngbfhYxLBic8Ik7ZicQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h4>Python 模板示例</h4>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/117771af3554dda343557a6fd153c24e2de83007b00e46e71a81989a4b726a23/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775556632616f457a416a4d3033683337674d516d596777674e676a5157317137355744347876716d537a6c496e774e4d31315347596d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/117771af3554dda343557a6fd153c24e2de83007b00e46e71a81989a4b726a23/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775556632616f457a416a4d3033683337674d516d596777674e676a5157317137355744347876716d537a6c496e774e4d31315347596d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uUf2aoEzAjM03h37gMQmYgwgNgjQW1q75WD4xvqmSzlInwNM11SGYmQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>2、AI 编程助手</h3>
+<p>如果你写代码过程遇到问题，可通过快捷键唤起 AI 编程助手（macOS 为 <code class="notranslate">Command + I</code>、windows 为 <code class="notranslate">Ctrl + I</code>）。AI 编程助手可为你提供以下几个便捷的能力：</p>
+<ul>
+<li>
+<p>AI 生成代码：输入想要的功能，点击</p>
+</li>
+<li>
+<p>AI 修改代码：选中待修改的代码，唤起 AI 助手，输入想要修改的功能。</p>
+</li>
+<li>
+<p>AI 代码解释/代码注释：选中代码后，输入/ 选择不同指令，由 AI 对代码进行解释，或者自动生成代码注释。</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e2fefb9d3ee4aacb7e6bc4843858a06c1249d494369584138f1dde2c59f43d58/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377552304163304650544941754c516e38475869614664745a454d595a4750716963577170316a63626f594a4146416c7a76715072496b3165672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e2fefb9d3ee4aacb7e6bc4843858a06c1249d494369584138f1dde2c59f43d58/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377552304163304650544941754c516e38475869614664745a454d595a4750716963577170316a63626f594a4146416c7a76715072496b3165672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uR0Ac0FPTIAuLQn8GXiaFdtZEMYZGPqicWqp1jcboYJAFAlzvqPrIk1eg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>3、依赖包管理</h3>
+<p>依赖包是代码运行依赖的外部代码模块。如果你的代码中引用了其他外部的模块，但没有安装依赖，IDE 会提示错误。根据错误信息，点击左下角【添加依赖】，输入依赖的名称即可安装。安装过程中可查看控制台的日志，观察安装进度。</p>
+<h4>具体示例</h4>
+<p>未安装依赖时报错</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/542c4f316f72590dda2075c93e95e752f8619a7f21bd039bc96088315dd87967/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377558636b53594478344447444469616a704344796369626c6e764933776f7a546a5a3830426d35574d4e62335671383973426d7959303566412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/542c4f316f72590dda2075c93e95e752f8619a7f21bd039bc96088315dd87967/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377558636b53594478344447444469616a704344796369626c6e764933776f7a546a5a3830426d35574d4e62335671383973426d7959303566412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uXckSYDx4DGDDiajpCDyciblnvI3wozTjZ80Bm5WMNb3Vq89sBmyY05fA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>安装依赖</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c87015538913d540fa65fa23462e5aa3057c5eb3c93e1da9f74789241427ab09/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637757a3843707372765137313061775155564d6e3378305a37464f3769627a37574d3664527a4c514d384a4e67504e58614e77417576344a512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c87015538913d540fa65fa23462e5aa3057c5eb3c93e1da9f74789241427ab09/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637757a3843707372765137313061775155564d6e3378305a37464f3769627a37574d3664527a4c514d384a4e67504e58614e77417576344a512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uz8CpsrvQ710awQUVMn3x0Z7FO7ibz7WM6dRzLQM8JNgPNXaNwAuv4JQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>安装依赖后未报错</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f70ad7eda22021fbe4fce10bd7a7127a9a343bbbd306c7c7e61f7e29b75d7921/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637757836627262674c456962536f4b4261484b4351664652456c376230566f6c6d6e6e376b53366c504d6d316d755954696259467074355774772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f70ad7eda22021fbe4fce10bd7a7127a9a343bbbd306c7c7e61f7e29b75d7921/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637757836627262674c456962536f4b4261484b4351664652456c376230566f6c6d6e6e376b53366c504d6d316d755954696259467074355774772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7ux6brbgLEibSoKBaHKCQfFREl7b0Volmnn7kS6lPMm1muYTibYFpt5Wtw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>若需要指定安装某个版本，你可以通过依赖名@版本号来进行选择。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c8e80f37a4afba3f5f9eda6bb114a324425d322acd0023df8d21a6452b69357/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637754f456d4d7255444a4148574438674b335a4f696252756236634f6a64437466734c7370326f746c6a57466b6b6178507669625773394652772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6c8e80f37a4afba3f5f9eda6bb114a324425d322acd0023df8d21a6452b69357/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637754f456d4d7255444a4148574438674b335a4f696252756236634f6a64437466734c7370326f746c6a57466b6b6178507669625773394652772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uOEmMrUDJAHWD8gK3ZOibRub6cOjdCtfsLsp2otljWFkkaxPvibWs9FRw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>4、元数据</h3>
+<p>元数据的作用是让大模型理解每个工具输入参数、输出参数有哪些，以及对应的含义。</p>
+<p>在以下代码示例中，这个工具接收一个输入参数：name，并返回一个参数：message。因此，我们需要将 name 和 message 补充到元数据面板。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0f72f4f7dc4fdb95dcb41bb18d746812b621c66d1413e5280b590a86e4d776e6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637756c6839546e50774753667266385a47676166516e503830387271686275335a4d42635a764e3169627030504642517162384c454b7553672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0f72f4f7dc4fdb95dcb41bb18d746812b621c66d1413e5280b590a86e4d776e6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637756c6839546e50774753667266385a47676166516e503830387271686275335a4d42635a764e3169627030504642517162384c454b7553672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7ulh9TnPwGSfrf8ZGgafQnP808rqhbu3ZMBcZvN1ibp0PFBQqb8LEKuSg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db9d22002b788ca899f27a5522846d37d88d5b2b585689820d0fd442a0e9d5a0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637755342484b4f756e326a654530464b4c41315666324a336c44696369635a3438716d5973653278646e6472456866737a77714f4450476a68672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/db9d22002b788ca899f27a5522846d37d88d5b2b585689820d0fd442a0e9d5a0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637755342484b4f756e326a654530464b4c41315666324a336c44696369635a3438716d5973653278646e6472456866737a77714f4450476a68672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uSBHKOun2jeE0FKLA1Vf2J3lDicicZ48qmYse2xdndrEhfszwqODPGjhg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>5、测试</h3>
+<p>写完代码和元数据后，需要验证代码是否正常运行。点击右侧的测试，输入测试的数据。</p>
+<p>如果你已经填写元数据中的输入参数，则可以点击自动生成，IDE 会生成符合你结构定义的随机数据。你需要修改成你需要的值即可。填写完成后，点击运行，即可看到测试结果。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24d380670c5667f7b63ec6b0fc9e42bd96a8b12bc18763637d6610b78575cbbb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775334d576e45713469627270594d673932696237646f6a7967335169616e55534b5765794e36564b5233387876657553653845716843706739512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/24d380670c5667f7b63ec6b0fc9e42bd96a8b12bc18763637d6610b78575cbbb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775334d576e45713469627270594d673932696237646f6a7967335169616e55534b5765794e36564b5233387876657553653845716843706739512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7u3MWnEq4ibrpYMg92ib7dojyg3QianUSKWeyN6VKR38xveuSe8EqhCpg9Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/179a52c379cfe5678add51d12ff85333316f7ad016af872fa9ff42e3bd6e7c75/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377578696257417954496271794569625538705566517a4f6961326135366b3261386a654948644d565142617538346961644e416269624261374943512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/179a52c379cfe5678add51d12ff85333316f7ad016af872fa9ff42e3bd6e7c75/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377578696257417954496271794569625538705566517a4f6961326135366b3261386a654948644d565142617538346961644e416269624261374943512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uxibWAyTIbqyEibU8pUfQzOia2a56k2a8jeIHdMVQBau84iadNAbibBa7ICQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>如果你之前未填写元数据的输出参数结构，可以在测试通过后，点击下方的【更新输出参数】，IDE 会自动更新覆盖在元数据区域，你只需要补充完善描述即可。</p>
+<h3>6、发布</h3>
+<p>测试通过后，就可以去点击发布啦。如果你开发了多个工具，但有些没测试完成不想发布，可以在该入口禁用这些工具，只发布启用的工具。</p>
+<p>接着选择“信息收集声明”。如果插件会收集用户信息，请选择“是”并选择具体信息，用户在使用该插件时能了解收集的信息。否则，选择“否”，点击发布即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/60b3612ed1e6923d1173d6b7f62afd94be2f0f99b9163be72ad3b05ffb2b04d4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775453379597959626f6a396c6b6343523162636157335677423834756878614c45496d44554e4d5359475a635a6e71546e4750374973672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/60b3612ed1e6923d1173d6b7f62afd94be2f0f99b9163be72ad3b05ffb2b04d4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775453379597959626f6a396c6b6343523162636157335677423834756878614c45496d44554e4d5359475a635a6e71546e4750374973672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uE3yYyYboj9lkcCR1bcaW3VwB84uhxaLEImDUNMSYGZcZnqTnGP7Isg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>接下来我们以开发实际插件为例，演示整个创建流程。</p>
+<h3>插件一、查询股票价格（难度 🌟 ）</h3>
+<h4>明确目的和方案</h4>
+<p>首先，需要构思这个插件具备什么能力：根据股票名称查询股票价格。</p>
+<p>接着搜索哪些网站可以免费查询股票价格。通过互联网检索，可以得知“alpha vantage”提供了免费查询美股股票价格的能力。明确了目的和方案后，开始开发插件。该插件难度🌟，教程内已提供源码，可直接复制使用。</p>
+<h4>操作步骤</h4>
+<h5>步骤一：新建插件和工具</h5>
+<ol>
+<li>
+<p>打开 <a href="https://www.coze.cn/" rel="nofollow">https://www.coze.cn/</a> 选择需要所属的团队。</p>
+</li>
+<li>
+<p>点击右上角创建插件，填写名称，选择插件创建方式为“在 Coze IDE 创建”，运行时选择“Node.js”（你也可以根据自己的情况，选择 Python）</p>
+</li>
+<li>
+<p>插件名称：查询股票价格</p>
+</li>
+<li>
+<p>插件描述：查询股票价格</p>
+</li>
+<li>
+<p>点击“在 IDE 中创建工具”，填写工具名称和介绍：</p>
+</li>
+<li>
+<p>名称：search_stock_prices</p>
+</li>
+<li>
+<p>介绍：根据股票名称查询股票价格</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3cfa17fac7bbd184168c04455be49617bde5054b07d221db19ad5ad98ee7709c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775734978384d6642517a304c4f6d7269617a4c48505272334555584738786363767577575937334279585a76757a43684f6a6a304f4c42512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3cfa17fac7bbd184168c04455be49617bde5054b07d221db19ad5ad98ee7709c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775734978384d6642517a304c4f6d7269617a4c48505272334555584738786363767577575937334279585a76757a43684f6a6a304f4c42512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7usIx8MfBQz0LOmriazLHPRr3EUXG8xccvuwWY73ByXZvuzChOjj0OLBQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h5>步骤二：代码编写和开发</h5>
+<ol>
+<li>因为已经明确需要根据股票名称查询价格，所以可以先在元数据中定义一个输入参数，名称：code，描述为：股票名称</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d26adc7b1cb81d4c7a1cc04ce36684ca6a2fa4b631d71eea72c119f914501124/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377575306b3654476168654c704c705a5a3136517a41444e627450366e696369633064794d6e6d45424145314761766d584b78564f69614d3177512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d26adc7b1cb81d4c7a1cc04ce36684ca6a2fa4b631d71eea72c119f914501124/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377575306b3654476168654c704c705a5a3136517a41444e627450366e696369633064794d6e6d45424145314761766d584b78564f69614d3177512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uu0k6TGaheLpLpZZ16QzADNbtP6nicic0dyMnmEBAE1GavmXKxVOiaM1wQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>编写元信息</p>
+<ol start="2">
+<li>
+<p>在代码编辑器中，通过快捷键唤起 AI 助手（macOS 为 <code class="notranslate">Command + I</code>、windows 为 <code class="notranslate">Ctrl + I</code>），输入我们的需求：根据 input.code，到 alpha vantage 查询股票价格。你也可以手动编写代码。</p>
+</li>
+<li>
+<p>AI 生成代码后，点击接受，再进行调整，最后得到这样一份代码。（若 AI 生成效果不好，可直接复制本代码使用）</p>
+</li>
+</ol>
+<p>``import { Args } from '@/runtime';<br>
+import { Input, Output } from "@/typings/search_stock_prices/search_stock_prices";<br>
+import axios from 'axios';<br>
+export async function handler({ input, logger }: Args): Promise {<br>
+  const code  = input.code;<br>
+  const apiKey = 'YOUR_ALPHA_VANTAGE_API_KEY';<br>
+  const url = <code class="notranslate">https://www.alphavantage.co/query?function=GLOBAL_QUOTE&amp;symbol=${code}&amp;apikey=${apiKey}</code>;</p>
+<p>    try {<br>
+    const response = await axios.get(url);<br>
+    const data = response.data['Global Quote'];<br>
+    return {<br>
+      code: code,<br>
+      price: data['05. price'],<br>
+    };<br>
+  } catch (error) {<br>
+    logger.error(<code class="notranslate">Error fetching stock price for ${code}: ${error}</code>);<br>
+    return {<br>
+      code: code,<br>
+      price: null,<br>
+    };<br>
+  }<br>
+}</p>
+<p>``</p>
+<ol start="4">
+<li>左侧安装 axios 依赖，安装该依赖后可发起请求查询数据。未安装依赖时会提示错误。</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad3e92efd5a4fcd8cf3497fb58d28592b8e67aa0bd6cdd52d92f064b0c684831/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377532396a754f35757a434537426962703441543672347a5247547a37376a506a6c52387536317965323479464a334670435969634542326c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ad3e92efd5a4fcd8cf3497fb58d28592b8e67aa0bd6cdd52d92f064b0c684831/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377532396a754f35757a434537426962703441543672347a5247547a37376a506a6c52387536317965323479464a334670435969634542326c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7u29juO5uzCE7Bibp4AT6r4zRGTz77jPjlR8u61ye24yFJ3FpCYicEB2lA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>安装依赖后正常</p>
+<h5>步骤三：测试</h5>
+<ol>
+<li>点击自动生成测试数据，修改 code 为 AAPL（苹果），点击运行。</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/df9021ed53e47f0c9f29a164f095558b2403b3aa9775fc9ae2831ee849d9eb7b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377558656e5a487165704b6962343345344863644369637457784331366233626c75324575357662464e67744d6a7a6e70343069627345426f51512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/df9021ed53e47f0c9f29a164f095558b2403b3aa9775fc9ae2831ee849d9eb7b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377558656e5a487165704b6962343345344863644369637457784331366233626c75324575357662464e67744d6a7a6e70343069627345426f51512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uXenZHqepKib43E4HcdCictWxC16b3blu2Eu5vbFNgtMjznp40ibsEBoQQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ol start="2">
+<li>点击“更新输出参数”，然后切换到“元数据”面板，修改输出参数中 code 和 price 的描述。修改后，需再次运行测试，避免修改错误导致运行出现问题。</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4738999c527d6193a9295d8a2602785d78f203b3142d4e5aea12234cc1378e77/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377578356d665272454839686546525579394d6e7a4833424c5868563569613032557542367a627461796f7156734366786f6c6554303546672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4738999c527d6193a9295d8a2602785d78f203b3142d4e5aea12234cc1378e77/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377578356d665272454839686546525579394d6e7a4833424c5868563569613032557542367a627461796f7156734366786f6c6554303546672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7ux5mfRrEH9heFRUy9MnzH3BLXhV5ia02UuB6zbtayoqVsCfxoleT05Fg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ol start="3">
+<li>测试通过后，就可以进行发布</li>
+</ol>
+<h5>步骤四：发布</h5>
+<ol>
+<li>
+<p>点击右上角发布，点击下一步，选择“否”，点发布。</p>
+</li>
+<li>
+<p>发布成功后，就可以去创建 Bot 使用啦</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4de81ff2681e2d69669a980ef371afcc168746ee2eb77b8a68ffe0d8300294c0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775713265394541626d7972474f336963327a34574957517a357974696134496858714638446d366963786a627573497061696136496c42546346772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4de81ff2681e2d69669a980ef371afcc168746ee2eb77b8a68ffe0d8300294c0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775713265394541626d7972474f336963327a34574957517a357974696134496858714638446d366963786a627573497061696136496c42546346772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uq2e9EAbmyrGO3ic2z4WIWQz5ytia4IhXqF8Dm6icxjbusIpaia6IlBTcFw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a6939beca3ad13f330b7c53188f1d587399ec1dfa5d77165c070736a2006b716/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377562704769614b6a6963507a4f34704d6255486b573770304444784a33787a314c4250684b725863497365786445594e5965516c5a4b6b79772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a6939beca3ad13f330b7c53188f1d587399ec1dfa5d77165c070736a2006b716/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377562704769614b6a6963507a4f34704d6255486b573770304444784a33787a314c4250684b725863497365786445594e5965516c5a4b6b79772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7ubpGiaKjicPzO4pMbUHkW7p0DDxJ3xz1LBPhKrXcIsexdEYNYeQlZKkyw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h5>步骤五：创建 Bot 使用该插件，使用 Bot</h5>
+<ol>
+<li>
+<p>回到 Bot 列表，点击创建 Bot，填写名称和功能描述：</p>
+</li>
+<li>
+<p>名称：查询股票价格</p>
+</li>
+<li>
+<p>功能介绍：查询股票价格</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/501c116521fd8ce0e6cd2b5b77277323116bc7a0d14ad2e8149b0cf56b21a26a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637754c457254536a47586838707a74734e6d7568573136366b6e7356783078696271644f4a3361624b58524877656b7a42474542454e4950772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/501c116521fd8ce0e6cd2b5b77277323116bc7a0d14ad2e8149b0cf56b21a26a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637754c457254536a47586838707a74734e6d7568573136366b6e7356783078696271644f4a3361624b58524877656b7a42474542454e4950772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uLErTSjGXh8pztsNmuhW166knsVx0xibqdOJ3abKXRHwekzBGEBENIPw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ol>
+<li>关联刚刚发布的插件，并且填写 Bot 的回复逻辑，点击“优化”</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dfdf4e9e12eab30663ceb93e437c3a0b030eb2c3c89769b60dbe3c446f54b20a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637755069615979696378416468574e61437a434a6877676d353344334a613569616961696172414d574541467173737a704c4d44596862696267474c71772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/dfdf4e9e12eab30663ceb93e437c3a0b030eb2c3c89769b60dbe3c446f54b20a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637755069615979696378416468574e61437a434a6877676d353344334a613569616961696172414d574541467173737a704c4d44596862696267474c71772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uPiaYyicxAdhWNaCzCJhwgm53D3Ja5iaiaiarAMWEAFqsszpLMDYhbibgGLqw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>关联插件、填写Prompt</p>
+<ol start="3">
+<li>优化完 Prompt 后，就可以和 Bot 进行对话，查询公司股票啦。</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8a25f4bf4f6a157d938d9d1eec03f5b51d0753a804f838dfa6f872632490456/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377546364a3543676e344851354f77366e5567706b6c486e4e35583853673933616f5569626138434172357a59435a6a4a7841636e42696259412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f8a25f4bf4f6a157d938d9d1eec03f5b51d0753a804f838dfa6f872632490456/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377546364a3543676e344851354f77366e5567706b6c486e4e35583853673933616f5569626138434172357a59435a6a4a7841636e42696259412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uF6J5Cgn4HQ5Ow6nUgpklHnN5X8Sg93aoUiba8CAr5zYCZjJxAcnBibYA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>自动优化Prompt，进行使用</p>
+<ol start="4">
+<li>更多 Bot 配置和高阶玩法，可参考官方文档</li>
+</ol>
+<h3>插件二、掘金插件（难度 🌟🌟🌟 ）</h3>
+<h4>明确目的和方案</h4>
+<p>首先，需要明确插件具有哪些能力：</p>
+<ol>
+<li>
+<p>列出掘金上的热门文章</p>
+</li>
+<li>
+<p>按主题搜索掘金上的热门文章</p>
+</li>
+</ol>
+<p>该插件难度🌟🌟🌟 ，教程内未提供源码，你可自行调研方案。</p>
+<h4>操作步骤</h4>
+<h5>步骤一：新建插件和工具</h5>
+<ol>
+<li>
+<p>打开 <a href="https://www.coze.cn/" rel="nofollow">https://www.coze.cn/</a> 选择需要所属的团队。</p>
+</li>
+<li>
+<p>点击右上角创建插件，填写名称，选择插件创建方式为“在 Coze IDE 创建”，运行时选择“Node.js”（你也可以根据自己的情况，选择 Python）</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3e667868bae307ca8337fd598b3f71287c7f55ef7922b4d281a2c2088e07821/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377558634443696161794d42535a4d35736e5669633755644554556f4e316e31466f7048786962696268387a314c75384d70325245707072557176512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b3e667868bae307ca8337fd598b3f71287c7f55ef7922b4d281a2c2088e07821/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377558634443696161794d42535a4d35736e5669633755644554556f4e316e31466f7048786962696268387a314c75384d70325245707072557176512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uXcDCiaayMBSZM5snVic7UdETUoN1n1FopHxibibh8z1Lu8Mp2REpprUqvQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ol>
+<li>点击“在 IDE 中创建工具”，创建一个 search 的工具</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/726ed1e15bd2b629c240f9df0255de9154497279848283f9a5e9398200781e7b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637757033773835376e4a574a5333696330625769634461797845786962596b74597249456a644d4c6d3169624c5557766b53384c4b5064346a4756412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/726ed1e15bd2b629c240f9df0255de9154497279848283f9a5e9398200781e7b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637757033773835376e4a574a5333696330625769634461797845786962596b74597249456a644d4c6d3169624c5557766b53384c4b5064346a4756412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7up3w857nJWJS3ic0bWicDayxExibYktYrIEjdMLm1ibLUWvkS8LKPd4jGVA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h5>步骤二：代码编写和开发</h5>
+<p>进行代码开发、安装依赖包安装等</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/726ed1e15bd2b629c240f9df0255de9154497279848283f9a5e9398200781e7b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637757033773835376e4a574a5333696330625769634461797845786962596b74597249456a644d4c6d3169624c5557766b53384c4b5064346a4756412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/726ed1e15bd2b629c240f9df0255de9154497279848283f9a5e9398200781e7b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637757033773835376e4a574a5333696330625769634461797845786962596b74597249456a644d4c6d3169624c5557766b53384c4b5064346a4756412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7up3w857nJWJS3ic0bWicDayxExibYktYrIEjdMLm1ibLUWvkS8LKPd4jGVA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h5>步骤三：测试</h5>
+<p>开发完成后，填写测试数据，进行测试。这个阶段你可能会反复执行和调试代码，查看输出结果是否符合预期、增加异常处理、对 API 返回的脏数据的处理等。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2bfafd7deb852704335347f78bd02cc6d0a4989f7f7e7d2f0fe2a8b47083dc04/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775465a384a626a4a366a426b5069634c5369634435376d5636766874724b69624c6c704c487446634438365041616a36796c74514f78334146412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2bfafd7deb852704335347f78bd02cc6d0a4989f7f7e7d2f0fe2a8b47083dc04/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c706358763775465a384a626a4a366a426b5069634c5369634435376d5636766874724b69624c6c704c487446634438365041616a36796c74514f78334146412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uFZ8JbjJ6jBkPicLSicD57mV6vhtrKibLlpLHtFcD86PAaj6yltQOx3AFA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>更新元数据：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43e753f6045bb1b6f56552b8878ca5e6d738172c7727cfa0fcd9666301d4bc85/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637754c74655670464a69613734376a50466864797a584e444a6d437263647a30566f6c7554466e3762353344743278424342657a5146576d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/43e753f6045bb1b6f56552b8878ca5e6d738172c7727cfa0fcd9666301d4bc85/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c7063587637754c74655670464a69613734376a50466864797a584e444a6d437263647a30566f6c7554466e3762353344743278424342657a5146576d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7uLteVpFJia747jPFhdyzXNDJmCrcdz0VoluTFn7b53Dt2xBCBezQFWmQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h5>步骤四：发布</h5>
+<p>点击右上角发布，点击下一步，选择“否”，点发布。发布成功后，就可以去创建 Bot 使用啦。</p>
+<h5>步骤五：创建 Bot 使用该插件，使用 Bot</h5>
+<p>回到 Bot 列表，创建一个 Bot，或选择现有的 Bot，进入 Bot 编排页面，关联这个插件后进行使用。更多 Bot 配置和高阶玩法，可参考官方文档</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c062d8dd53a06b23f523b1e9ef385738c0121c064a8e002fd4e597a342f4b62/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377534587271414975593134443156624d384447384e4d587678594c344a4f623434477a30614d327a596173514b5a654c385233654933672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0c062d8dd53a06b23f523b1e9ef385738c0121c064a8e002fd4e597a342f4b62/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696274796b6b5a72706d67366768314e4e4c70635876377534587271414975593134443156624d384447384e4d587678594c344a4f623434477a30614d327a596173514b5a654c385233654933672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibtykkZrpmg6gh1NNLpcXv7u4XrqAIuY14D1VbM8DG8NMXvxYL4JOb44Gz0aM2zYasQKZeL8R3eI3g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>以上就是 2 个插件和 Bot 开发的完整过程，赶快去试试开发你的 IDE 插件吧。</p>
+<h4>体验一下</h4>
+<p>如果想体验以上掘金 Bot，点击下方链接即可快速体验</p>
+<p><a href="https://www.coze.cn/store/bot/7356502654404804634" rel="nofollow">https://www.coze.cn/store/bot/7356502654404804634</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

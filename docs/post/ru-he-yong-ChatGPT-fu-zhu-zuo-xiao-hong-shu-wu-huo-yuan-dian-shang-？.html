@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917CdEJRKs4k25FSLBN1JKGcayUnibL3AcqAPicuRyicqWmZsQRH3htOZQdA/640?wx_fmt=png)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917CdEJRKs4k25FSLBN1JKGcayUnibL3AcqAPicuRyicqWmZsQRH3htOZQdA/640?wx_fmt=png)
+
+今天你ChatGPT了吗？  
+
+之前分享过一篇《[演示篇｜如何用ChatGPT写一篇80分的小红书笔记？](http://mp.weixin.qq.com/s?__biz=Mzg5MTkwNjUxNQ==&mid=2247598667&idx=1&sn=3eb072a0802fdb18dcbba1eec57cb916&chksm=cfc532f7f8b2bbe1c8e1eaad6db8e19001be15eb4bbd6545b7be741403a2c7da0b6c2def0cc5&scene=21#wechat_redirect)》更适合做小红书IP类账号。">
+<meta property="og:title" content="如何用ChatGPT辅助做小红书无货源电商？">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917CdEJRKs4k25FSLBN1JKGcayUnibL3AcqAPicuRyicqWmZsQRH3htOZQdA/640?wx_fmt=png)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917CdEJRKs4k25FSLBN1JKGcayUnibL3AcqAPicuRyicqWmZsQRH3htOZQdA/640?wx_fmt=png)
+
+今天你ChatGPT了吗？  
+
+之前分享过一篇《[演示篇｜如何用ChatGPT写一篇80分的小红书笔记？](http://mp.weixin.qq.com/s?__biz=Mzg5MTkwNjUxNQ==&mid=2247598667&idx=1&sn=3eb072a0802fdb18dcbba1eec57cb916&chksm=cfc532f7f8b2bbe1c8e1eaad6db8e19001be15eb4bbd6545b7be741403a2c7da0b6c2def0cc5&scene=21#wechat_redirect)》更适合做小红书IP类账号。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/ru-he-yong-ChatGPT-fu-zhu-zuo-xiao-hong-shu-wu-huo-yuan-dian-shang-%EF%BC%9F.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>如何用ChatGPT辅助做小红书无货源电商？</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">如何用ChatGPT辅助做小红书无货源电商？</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/207" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ffa304258dbd0d978b8442aa7e8d1c8998cf7e8091709ffbf25ecabbb2447f68/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931374364454a524b73346b323546534c424e314a4b47636179556e69624c3341637141506963755279696371576d5a735152483368744f5a5164412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/ffa304258dbd0d978b8442aa7e8d1c8998cf7e8091709ffbf25ecabbb2447f68/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931374364454a524b73346b323546534c424e314a4b47636179556e69624c3341637141506963755279696371576d5a735152483368744f5a5164412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917CdEJRKs4k25FSLBN1JKGcayUnibL3AcqAPicuRyicqWmZsQRH3htOZQdA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ffa304258dbd0d978b8442aa7e8d1c8998cf7e8091709ffbf25ecabbb2447f68/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931374364454a524b73346b323546534c424e314a4b47636179556e69624c3341637141506963755279696371576d5a735152483368744f5a5164412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/ffa304258dbd0d978b8442aa7e8d1c8998cf7e8091709ffbf25ecabbb2447f68/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931374364454a524b73346b323546534c424e314a4b47636179556e69624c3341637141506963755279696371576d5a735152483368744f5a5164412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917CdEJRKs4k25FSLBN1JKGcayUnibL3AcqAPicuRyicqWmZsQRH3htOZQdA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>今天你ChatGPT了吗？</p>
+<p>之前分享过一篇《<a href="http://mp.weixin.qq.com/s?__biz=Mzg5MTkwNjUxNQ==&amp;mid=2247598667&amp;idx=1&amp;sn=3eb072a0802fdb18dcbba1eec57cb916&amp;chksm=cfc532f7f8b2bbe1c8e1eaad6db8e19001be15eb4bbd6545b7be741403a2c7da0b6c2def0cc5&amp;scene=21#wechat_redirect" rel="nofollow">演示篇｜如何用ChatGPT写一篇80分的小红书笔记？</a>》更适合做小红书IP类账号。</p>
+<p>今天分享一篇来自生财圈友@曜文用ChatGPT来做小红书店铺带货的实操内容。</p>
+<p>并且在曜文还在结尾分享了24条来自实战一线的经验，一定要看到最后，希望对想做小红书店铺的你有所启发。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b6aee6c47c2ad56c1834890bb05c69893e73c03c9f26c49abe7888e1c6a95bf2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f53507545336a36553957395764723239616f396a6c3567345149756f69623931377450684b45696163536b7478394a69626645696241334b6961507a667779345752645857655249765272324f4d327a564a5543307946504636412f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/b6aee6c47c2ad56c1834890bb05c69893e73c03c9f26c49abe7888e1c6a95bf2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f53507545336a36553957395764723239616f396a6c3567345149756f69623931377450684b45696163536b7478394a69626645696241334b6961507a667779345752645857655249765272324f4d327a564a5543307946504636412f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917tPhKEiacSktx9JibfEibA3KiaPzfwy4WRdXWeRIvRr2OM2zVJUC0yFPF6A/640?wx_fmt=gif" style="max-width: 100%;"></a></p>
+<p>你好，我是曜文。</p>
+<p>我深入研究并且通过GPT，实现了批量产出文案。然后通过AI产生的文案，进行批量修改，节省了时间成本和人力成本。</p>
+<p>尤其是近期小红书电商的红利，我迅速的利用这个工具实现批量矩阵内容，同时在测试之后也提升了曝光实现产品的出单。</p>
+<p>我认为，如果你在小红书一天都憋不出来三条笔记。那么本篇内容一定会对你有着很大的帮助。</p>
+<p>下面，我具体把我的实操流程写出来，希望能给大家在思维上和实操中带来启发。</p>
+<p><strong>Part 1</strong></p>
+<p><strong>GPT调试</strong></p>
+<p>首先GPT的回答很官方，类似你在百度上面搜相关的内容的百科回答。所以，你需要在让AI帮助你创作内容的时候，让他改变一下语言风格，写出来的内容会更接地气。</p>
+<p>例如：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d828f7175ed1dab838a04922c750c1cd51eaccb0a8ed7efe4e547af6b625df9b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931373254324143516962584d597a386c764158334939754a4c6357303763704458535a6738456a5179427073525a50347a633468674f5644412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/d828f7175ed1dab838a04922c750c1cd51eaccb0a8ed7efe4e547af6b625df9b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931373254324143516962584d597a386c764158334939754a4c6357303763704458535a6738456a5179427073525a50347a633468674f5644412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib9172T2ACQibXMYz8lvAX3I9uJLcW07cpDXSZg8EjQyBpsRZP4zc4hgOVDA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>当然，你可以根据“你的产品”或者“你想生产哪种风格的文案”对他进行调试。</p>
+<p>比如，你想要写点干货，或者写热点，你尽管把你的要求告诉它，让它按照你的想法来生成内容</p>
+<p>这里我操作的是小红书，所以就让他调整成小红书种草内容风格。</p>
+<p>延伸：比如微博、知乎、得物，同理也可以让他调整，最后再结合对应的平台进行优化。让内容符合平台属性实现流量的倍增。</p>
+<p><strong>Part 2</strong></p>
+<p><strong>素材准备</strong></p>
+<p>拿小红书举例，我想要做一款女鞋</p>
+<p>如图：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/21c57abd31772d1fbb4d4e6e607ccfce2b82b8157b582ad0c3c375c073942b10/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f696239313762356c666c477435746e7561583436775146743173666d54546d365748385232306c726866774d5742656e4451654545534769626b50512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/21c57abd31772d1fbb4d4e6e607ccfce2b82b8157b582ad0c3c375c073942b10/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f696239313762356c666c477435746e7561583436775146743173666d54546d365748385232306c726866774d5742656e4451654545534769626b50512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917b5lflGt5tnuaX46wQFt1sfmTTm6WH8R20lrhfwMWBenDQeEESGibkPQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>先把这款鞋子的关键词提取出来，例如：高跟鞋、春季、百搭、复古、玛丽珍、女鞋。下一步让AI生产给出明确指令：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0e561208ac3c896c80d407125b55c231da5cd4466294bafc4548e29c403912f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f6962393137784e6a6b6d6d683769615052775569616d4d616845544e64716f544c6b337577766a75514244387a724a7559795a576a6161396b4c3457512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/d0e561208ac3c896c80d407125b55c231da5cd4466294bafc4548e29c403912f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f6962393137784e6a6b6d6d683769615052775569616d4d616845544e64716f544c6b337577766a75514244387a724a7559795a576a6161396b4c3457512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917xNjkmmh7iaPRwUiamMahETNdqoTLk3uwvjuQBD8zrJuYyZWjaa9kL4WQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>如果不满意还可以让他进行二次优化：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d6e55945f4300910379edf78bed73e062c9a70eaed2c9663c4eca2c760acdcb2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f6962393137745261305159774c485069616334464856713369634851534d53367971495169617136797a4547655a696368617a3977506a456e6c56574572672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/d6e55945f4300910379edf78bed73e062c9a70eaed2c9663c4eca2c760acdcb2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f6962393137745261305159774c485069616334464856713369634851534d53367971495169617136797a4547655a696368617a3977506a456e6c56574572672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917tRa0QYwLHPiac4FHVq3icHQSMS6yqIQiaq6yzEGeZichaz9wPjEnlVWErg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>此步骤你可以生成10条、20条，甚至是50条，以便于让自己有更多的灵感。下面让它根据生产的标题来写内容：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff9ea1b72014be4e8fac2193d1cd95bc92ebf710f3062f4d1af9b8eee13ba569/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931376c714d717a6837396f4436613841796a456e6e444558534d5a69624c4e644968696139516f3754737a7633654a714849746d3431434646512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/ff9ea1b72014be4e8fac2193d1cd95bc92ebf710f3062f4d1af9b8eee13ba569/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931376c714d717a6837396f4436613841796a456e6e444558534d5a69624c4e644968696139516f3754737a7633654a714849746d3431434646512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917lqMqzh79oD6a8AyjEnnDEXSMZibLNdIhia9Qo7Tszv3eJqHItm41CFFQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>你还可以让它单独为一个标题写内容：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fdd0a195e62c6d43e98dc73b5c02101c4f511e7e1d69908ad856d57cf7774f57/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931374b7753534e304138524379594e69616e47597474456167353362615270757350424e65657159587a38516475614d766d6b3934434a45512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/fdd0a195e62c6d43e98dc73b5c02101c4f511e7e1d69908ad856d57cf7774f57/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931374b7753534e304138524379594e69616e47597474456167353362615270757350424e65657159587a38516475614d766d6b3934434a45512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917KwSSN0A8RCyYNianGYttEag53baRpusPBNeeqYXz8QduaMvmk94CJEQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>此步骤你如果已经产出了10条内容，把内容记录下来并且保存到文档。下面开始优化内容。</p>
+<p><strong>Part 3</strong></p>
+<p><strong>优化内容</strong></p>
+<p>优化内容前需要做一个准备，就是查找小红书近期的热搜词和关键词：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bcce5f806e794d855549ff6df4d5b61a0c9b6c9384ffb43369e27ad8a564bd4f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931377271563478496f6d6c4336726b4359704f753766496b4653726351626e7255676d48543978597738475a496d5968306441586e746e772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/bcce5f806e794d855549ff6df4d5b61a0c9b6c9384ffb43369e27ad8a564bd4f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f69623931377271563478496f6d6c4336726b4359704f753766496b4653726351626e7255676d48543978597738475a496d5968306441586e746e772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917rqV4xIomlC6rkCYpOu7fIkFSrcQbnrUgmHT9xYw8GZImYh0dAXntnw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b504f7a589c32684daa3303db164c35e19184e3b4ba836aa92d7646da021f874/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f696239313768595834696369626c3766705a646a4b735058566a6e337143715857586e58335149386963784d4d6d536c567a556846375a414c4b333646772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/b504f7a589c32684daa3303db164c35e19184e3b4ba836aa92d7646da021f874/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a36553957395764723239616f396a6c3567345149756f696239313768595834696369626c3766705a646a4b735058566a6e337143715857586e58335149386963784d4d6d536c567a556846375a414c4b333646772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9Wdr29ao9jl5g4QIuoib917hYX4icibl7fpZdjKsPXVjn3qCqXWXnX3QI8icxMMmSlVzUhF7ZALK36Fw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>左右滑动查看</strong></p>
+<p>❖</p>
+<p>1.粗跟玛丽珍，春季百搭又甜又欲</p>
+<p>❖</p>
+<p>2.复古玛丽珍高跟鞋，穿上直接一米八</p>
+<p>❖</p>
+<p>3.百搭单品超优雅，姐妹快来夸爆它！</p>
+<p>❖</p>
+<p>4.男票说这双鞋直接穿出仙女感</p>
+<p>❖</p>
+<p>5.任何人没有这双百搭复古高跟鞋，我都会伤心</p>
+<p>❖</p>
+<p>6.复古玛丽珍，穿出古典气息</p>
+<p>❖</p>
+<p>7.超甜美风格不允许你没有这双百搭玛丽珍女鞋</p>
+<p>❖</p>
+<p>8.复古高跟鞋来袭春季百搭太爱了</p>
+<p>❖</p>
+<p>9.优雅迷人玛丽珍，闺蜜说气质满分</p>
+<p>❖</p>
+<p>10.这双玛丽珍！时尚百搭春季再也不怕不会搭衣服</p>
+<p>把前面通过关键词的爆款标题的内容，拿来优化一下，不出3分钟你就会得到一组更符合小红书风格的标题。</p>
+<p><strong>下面是内容，按照我们标题的优化方式继续优化，点击高赞笔记或者销量高的笔记进行优化</strong></p>
+<p><strong>笔记 1</strong></p>
+<p>姐妹们优雅气质肯定少不了这双复古玛丽珍高跟鞋</p>
+<p>百搭款式适合春季任何场合</p>
+<p>无论是与裙装还是牛仔裤搭配都很出色</p>
+<p>小巧设计使得你穿着舒适轻松，即使整天在办公室穿着也不会疲劳</p>
+<p>不要犹豫，抓住这个季节最流行的时尚趋势。💕💄👠</p>
+<p><strong>笔记 2</strong></p>
+<p>如果你正在寻找一双适合春季的高跟鞋</p>
+<p>这款复古玛丽珍将是你的最爱</p>
+<p>百搭性和经典的设计不仅可以增加自信心</p>
+<p>而且可以轻松搭配各种衣服</p>
+<p>鞋跟高度也恰到好处，即使长时间穿着也不会觉得不适</p>
+<p>左下角赶紧冲！到了就迈出舒适又时尚的步伐！💋👠💃</p>
+<p><strong>笔记 3</strong></p>
+<p>春季时尚的新宠！！！</p>
+<p>设计自带复古气息，既优雅又别致</p>
+<p>无论是在办公室还是晚宴都能增添魅力</p>
+<p>超百搭可以随意搭配</p>
+<p>让你的每一次穿搭都变得与众不同</p>
+<p>如果你想要成为这个春季的焦点，就来试试这双高跟鞋吧！💃🌸💕</p>
+<p><strong>笔记 4</strong></p>
+<p>展示女性优雅的最佳季节</p>
+<p>这双复古玛丽珍高跟鞋这个季节必须拥有</p>
+<p>设计简约而不失优雅，无论走到哪里都自信满满</p>
+<p>百搭的款式可以搭配任何服饰，而适中的高度也让你不会感到疲劳</p>
+<p>让姐妹们在春季拥有别致而又自信的魅力🌺💃👠</p>
+<p>优化后，读起来是不是顺畅许多了，把AI生成的一些停顿词去掉，带入点种草风格，不到10分钟就能完成10篇内容。</p>
+<p><strong>我总结了一个优化公式：生****产内容-生硬词+语气助词+高赞参考=新的原创内容。</strong></p>
+<p>看到这里是不是觉得，原来写文案这么简单了，而且可以批量生成批量修改，麻麻再也不用担心不会写小红书文案了。</p>
+<p><strong>Part 4</strong></p>
+<p><strong>批量流程化</strong></p>
+<p>通过上面步骤我想你已经对小红书的种草文案有所了解，那么如何形成一套流程呢？</p>
+<p>❖</p>
+<p><strong>1.上款时记录关键词，让AI帮你生产标题（此步骤还可以搜集图片素材）</strong></p>
+<p>❖</p>
+<p><strong>2.生产后，把文案复制到Word上面，对应标题对应文案</strong></p>
+<p>❖</p>
+<p><strong>3.结合小红书批量修改优化</strong></p>
+<p>❖</p>
+<p><strong>4.平台定时发送，个人一天写个50篇分发到5个店完全不是问题</strong></p>
+<p>❖</p>
+<p><strong>5.每天选款上架，测款，重复上面流程</strong></p>
+<p>最后，这个玩法我让助理实操了一下然后进行小红书电商的内容中草，效果比他自己每天花4个小时写出来的文案舒服多了，节省了很多时间成本，而且还出单了。</p>
+<p><strong>Part 5</strong></p>
+<p><strong>无货源电商玩法细节分享</strong></p>
+<p>内容电商的重点还是在于内容，不断的提升自己的文案能力和创作能力不管你在做哪个平台都是加分项，然后流程化矩阵化才能在自己积累财富的同时增长技能见识。</p>
+<p>如果你想做小红书店铺，我这里总结了一些经验总结：</p>
+<p><strong>1.产品下单前期代发还是拼多有优势</strong></p>
+<p>风险比较低，不会亏钱，拿样基本也是免费因为有退货包运费，直接后台让快递来退，不花钱，前期可以鉴别质量的好坏而且你看了货去发会更有信心。</p>
+<p><strong>2.做****退换率比较高的产品也不用慌</strong></p>
+<p>拼多多退货包运费一单补贴7-10元，你完全不会亏，后台即使开运费险也是有的赚，即使退货率很高你也能赚点辛苦费，产品质量稳定就不走平台直接和商家对接一单能少10-15元，具体看品类。</p>
+<p>**3.**<strong>选款先看电商款再从小红书看种草不挂车笔记</strong></p>
+<p>如果不挂车笔记数据很棒这款一定要上，爆的几率会提高，而且长尾流量很久。</p>
+<p>**4.**<strong>输出形式内容图文的长尾流量比视频长</strong></p>
+<p>视频的曝光会比较高，但是转化没有图文高，图文可能这个月发的内容到下个月还有人通过本月发的链接去下单。</p>
+<p>**5.**<strong>先制作图文再把图文生成内容</strong></p>
+<p>这样下来能多出10个左右的素材，可以开新号发视频，获取更多流量。</p>
+<p>**6.**<strong>账号垂直度非常重要</strong></p>
+<p>账号不垂直，流量是很低的，具体可以看看自己主页推荐的都是什么，换位思考一下，你的主页推荐的是不是有很多新内容，那你的账号发也一样会精准的推送给经常看到用户。</p>
+<p><strong>7.客户收货之后准备10-20条话术私信发，沉淀到私域来</strong></p>
+<p>即使你以后不开店了你会发现你的私域也有很多人要找你买东西，可以说是一笔巨大的财富。</p>
+<p><strong>8.小****红书的女性喜欢内容精致图片精致店铺精致</strong></p>
+<p>多花点心思在每一条内容上，不要疯狂怼量，拿样就相当于是在拼几率，可以在自己的商品标题上加上你的IP或者店铺名。</p>
+<p><strong>9.想要利润高还是得有自己的一个原创品牌</strong></p>
+<p>这里不是让你去申请品牌，而是你要想一个IP或者人设，经常出现在粉丝的视野里，他们会觉得你和其他店铺不一样从而提升转化率。</p>
+<p><strong>10.本****月更新了个人店不交1000保证金无法开通微信支付</strong></p>
+<p>总有人说不想交保证金什么的，你不交后期是提不了现的，想要玩玩的话也可以先不交，个人后台显示还是支付宝支付的多。</p>
+<p><strong>11.真人出镜加口播加展示后面会成为带货的主流</strong></p>
+<p>目前还在野蛮生长阶段，所以混剪拼图还是能拿到流量，还处于红利期不用担心。</p>
+<p><strong>12.长期看好平台电商的可以布局蓝海细分产品</strong></p>
+<p>虽然前期销量不高，但是你可以占领关键词把细分垂直的店铺都给占领了。</p>
+<p><strong>13.店****铺销量和粉丝数没有关系</strong></p>
+<p>即使你只有5个粉丝照样也能卖出百单，长久的运营账号可以适当发干货植入产品，发教程植入产品，可以IP人设带货。</p>
+<p><strong>14.账号垂直会推送很多近期正在火的内容或者垂直内容数据较为好的内容，可以参考选品，抓住爆点</strong>。</p>
+<p><strong>15</strong>**.<strong>如果非要推荐几个类目，我的建议是</strong>细分领域的女装，精致生活的女鞋，国风的饰品，提升生活质量的产品**。</p>
+<p><strong>16.不****用太纠结货源</strong>，直接在电商平台多比较多找几个商家大胆问就行了，非要找到高质量的好货黄花菜都凉了，要么别人看不上你，要么别人不给你代发。</p>
+<p>**17.**<strong>兼职代发还是能提高品牌知名度和店铺曝光度</strong>，兼职可以直接在小红书这个领域里面的评论找，做长尾关键词优化非常有帮助。</p>
+<p>**18.**<strong>个人开店建议还是做精</strong></p>
+<p>把领域里面的产品都做到排名搞钱，每天出单会比较香，因为目前大多数还是靠笔记出单，还没有店铺标题优化意识。</p>
+<p><strong>19.刚****开始开店设置电商优惠券自动全网投放，对比新店出单帮助会比较大。</strong></p>
+<p><strong>20.要****把商家的微信加来私域</strong></p>
+<p>即使不合作也能从对方的朋友圈了解到当季的新品和爆款对于选品有比较大的帮助.</p>
+<p>**21.**<strong>少研究什么爆款</strong></p>
+<p>起店什么日出百单，踏踏实实的每天选款、找素材、发内容，是最实在的，也能积累更多实战经验。研究旁门左道反而会浪费无数的精力。</p>
+<p>22.<strong>每天复盘记录数据优化文案和选款，是一个非常好的习惯</strong>。随缘、无上进心，不容易做起来。</p>
+<p>23.直播带货目前流量虽然不大，但是平台内容电商扶持起来之后，下一个肯定是直播带货，所以<strong>真人带货还是未来的趋势</strong>。</p>
+<p>24.<strong>GPT目前依然是一个节省时间和精力的工具</strong>，努力的训练让它成为一个好帮手吧。</p>
+<p><strong>作者 |</strong> <strong>曜文</strong> <strong>| 编辑 |</strong> <strong>爱****丽丝家的胖兔子</strong></p>
+<p><strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f884d48855177008dbbfd5d9a911ffb606394723933ce47d18c8f3b667601231/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f585355357a30674b3138366531655241497153344a31485075734a6b6177414d635970374f716669626a4d597a6c64777a6d47516d614752335a5659553178766f5a5075326e684151787833696275344370696238366a6a672f3634303f77785f666d743d6a70656726777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/f884d48855177008dbbfd5d9a911ffb606394723933ce47d18c8f3b667601231/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f585355357a30674b3138366531655241497153344a31485075734a6b6177414d635970374f716669626a4d597a6c64777a6d47516d614752335a5659553178766f5a5075326e684151787833696275344370696238366a6a672f3634303f77785f666d743d6a70656726777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/XSU5z0gK186e1eRAIqS4J1HPusJkawAMcYp7OqfibjMYzldwzmGQmaGR3ZVYU1xvoZPu2nhAQxx3ibu4Cpib86jjg/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a></strong></p>
+<p>生财有术第七期<strong>4月28日已涨价至2465元/年，第七期开启累计有25000+新老圈友加入，感谢支持和认可。</strong></p>
+<p>从第七期开始，生财有术从之前的固定4月18号到期，改为每个用户都是365天有效期，想加入依旧可以扫码加入。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/512860e566eaa8eed727c54b07072aace775e09bd42875aa06acd57de592877e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a365539573942526d6c6a4d5a4b6a384a7765655671687747664e61496d6a6963334c4a56453231715042776963647669626b426f374d6562383430586c7a47444b595869635747524e504679696155434c787177512f3634303f77785f666d743d706e6726777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/512860e566eaa8eed727c54b07072aace775e09bd42875aa06acd57de592877e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f53507545336a365539573942526d6c6a4d5a4b6a384a7765655671687747664e61496d6a6963334c4a56453231715042776963647669626b426f374d6562383430586c7a47444b595869635747524e504679696155434c787177512f3634303f77785f666d743d706e6726777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/SPuE3j6U9W9BRmljMZKj8JweeVqhwGfNaImjic3LJVE21qPBwicdvibkBo7Meb840XlzGDKYXicWGRNPFyiaUCLxqwQ/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a></p>
+<p>第七期权益👉：<a href="http://mp.weixin.qq.com/s?__biz=Mzg5MTkwNjUxNQ==&amp;mid=2247598908&amp;idx=2&amp;sn=509f6748c67a38138e8efe1fe1c4f746&amp;chksm=cfc53380f8b2ba96d47bfc9ed579717b3e1a20d1ab7ddfaa6db30e0a99ffa3d090ee82e896ef&amp;scene=21#wechat_redirect" rel="nofollow">生财有术第七期四大核心权益</a></p>
+<p>第六期成绩单👉：<a href="http://mp.weixin.qq.com/s?__biz=Mzg5MTkwNjUxNQ==&amp;mid=2247598039&amp;idx=1&amp;sn=120b99695e959bcc9c0089f77870ee4c&amp;chksm=cfc50f6bf8b2867d1f30f160b910978cf026578c5e194abe82248a31d0105bd259e13e8ca992&amp;scene=21#wechat_redirect" rel="nofollow">生财有术第六期成绩单，这一年我们交付了什么？</a></p>
+<p>如果你还在犹豫，不确定生财有术是否适合你，可以添加生财服务官鱼丸微信<strong>回复【体验】</strong></p>
+<p>参加生财有术体验营活动，<strong>领取一张3天体验卡（每人仅限领取一次）</strong>，免费查看星球近180天内的全部内容。</p>
+<p>（已添加鱼丸无须重复添加）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/80e18c2a0ed7a91ea1757faedc29e5c93b5dcf3d8ca077ca20f516f2306628e8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f70687a414569617a6a786c69636c3744616a315269626c72565a6453307249517377616e48426c67304859306b6c707231724f5a6b357248696345645a7779396a6f6b42344266677a41696156424f4b386c776f774145614563772f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/80e18c2a0ed7a91ea1757faedc29e5c93b5dcf3d8ca077ca20f516f2306628e8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f70687a414569617a6a786c69636c3744616a315269626c72565a6453307249517377616e48426c67304859306b6c707231724f5a6b357248696345645a7779396a6f6b42344266677a41696156424f4b386c776f774145614563772f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/phzAEiazjxlicl7Daj1RiblrVZdS0rIQswanHBlg0HY0klpr1rOZk5rHicEdZwy9jokB4BfgzAiaVBOK8lwowAEaEcw/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>如果扫码出现问题</p>
+<p>可添加鱼丸微信：yuwan14</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="阵容推荐网站地址：https://lol.qq.com/tft/#/index
+
+数据查询网站地址：https://tactics.tools/zh
+
+上大学的时候，特别喜欢玩英雄联盟，现在随着年龄越来越大，手速和反应慢了很多，白银局打的都费劲，也就不想玩了。">
+<meta property="og:title" content="我使用coze做了一个云顶之弈助手，帮助我上分">
+<meta property="og:description" content="阵容推荐网站地址：https://lol.qq.com/tft/#/index
+
+数据查询网站地址：https://tactics.tools/zh
+
+上大学的时候，特别喜欢玩英雄联盟，现在随着年龄越来越大，手速和反应慢了很多，白银局打的都费劲，也就不想玩了。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/wo-shi-yong-coze-zuo-le-yi-ge-yun-ding-zhi-yi-zhu-shou-%EF%BC%8C-bang-zhu-wo-shang-fen.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>我使用coze做了一个云顶之弈助手，帮助我上分</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我使用coze做了一个云顶之弈助手，帮助我上分</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/529" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>阵容推荐网站地址：<a href="https://lol.qq.com/tft/#/index" rel="nofollow">https://lol.qq.com/tft/#/index</a></p>
+<p>数据查询网站地址：<a href="https://tactics.tools/zh" rel="nofollow">https://tactics.tools/zh</a></p>
+<p>上大学的时候，特别喜欢玩英雄联盟，现在随着年龄越来越大，手速和反应慢了很多，白银局打的都费劲，也就不想玩了。后面英雄联盟出了一个云顶之弈，这个模式不需要手速和反应，我偶尔玩一下。</p>
+<p>我段位很低，常年在铂金段位。因为工作和家庭的原因，没有时间去研究阵容，凭着自己的理解乱玩。</p>
+<p>有次在看直播的时候，看见主播在一个网站查询数据。某个英雄带哪个装备胜率最高。我得知有这么一个网站，然后我自己玩的时候，不知道给英雄什么装备，或不知道选什么强化的时候，就跑到这个网站查询。但是这个网站很卡，打开一次要很久，查询方式对新人不太友好，所以我打算用coze做一个辅助工具，只需要用户简单的输入，就能获取到自己想要的信息。</p>
+<p>云顶之弈助手做完后，我自己体验了一下，轻轻松松上到了一区砖石，最高砖一44胜点，本来差一点上大师，那把之后运气就变差了，D不到自己想要的牌，连续几把没吃分，开始摆烂了，现在掉到了砖三了。</p>
+<p>下面和大家分享一下这个助手，感兴趣的可以去体验一下。</p>
+<h2>概述</h2>
+<p>扣子是新一代 AI 应用开发平台。无论你是否有编程基础，都可以在扣子上快速搭建基于大模型的各类 Bot，并将 Bot 发布到各个社交平台、通讯软件或部署到网站等其他渠道。</p>
+<h2>功能与优势</h2>
+<h3>无限拓展的能力集</h3>
+<p>扣子集成了丰富的插件工具，可以极大地拓展 Bot 的能力边界。</p>
+<ul>
+<li>
+<p>内置插件：目前平台已经集成了超过 60 款各类型的插件，包括资讯阅读、旅游出行、效率办公、图片理解等 API 及多模态模型。你可以直接将这些插件添加到 Bot 中，丰富 Bot 能力。例如使用新闻插件，打造一个可以播报最新时事新闻的 AI 新闻播音员。</p>
+</li>
+<li>
+<p>自定义插件：扣子平台也支持创建自定义插件。你可以将已有的 API 能力通过参数配置的方式快速创建一个插件让 Bot 调用。</p>
+</li>
+</ul>
+<h3>丰富的数据源</h3>
+<p>扣子提供了简单易用的知识库功能来管理和存储数据，支持 Bot 与你自己的数据进行交互。无论是内容量巨大的本地文件还是某个网站的实时信息，都可以上传到知识库中。这样，Bot 就可以使用知识库中的内容回答问题了。</p>
+<ul>
+<li>
+<p>内容格式：知识库支持添加文本格式、表格格式的数据。</p>
+</li>
+<li>
+<p>内容上传：你可以将本地 TXT、PDF、DOCX、Excel、CSV 格式的文档上传至知识库，也可以基于 URL 获取在线网页内容和 API JSON 数据。同时支持直接在知识库内添加自定义数据。</p>
+</li>
+</ul>
+<h3>持久化的记忆能力</h3>
+<p>扣子提供了方便 AI 交互的数据库记忆能力，可持久记住用户对话的重要参数或内容。</p>
+<p>例如，创建一个数据库来记录阅读笔记，包括书名、阅读进度和个人注释。有了数据库，Bot 就可以通过查询数据库中的数据来提供更准确的答案。</p>
+<h3>灵活的工作流设计</h3>
+<p>扣子的工作流功能可以用来处理逻辑复杂，且有较高稳定性要求的任务流。扣子提供了大量灵活可组合的节点包括大语言模型 LLM、自定义代码、判断逻辑等，无论你是否有编程基础，都可以通过拖拉拽的方式快速搭建一个工作流，例如：</p>
+<ul>
+<li>
+<p>创建一个搜集电影评论的工作流，快速查看一部最新电影的评论与评分。</p>
+</li>
+<li>
+<p>创建一个撰写行业研究报告的工作流，让 Bot 写一份 20 页的报告。</p>
+</li>
+</ul>
+<h2>使用体验</h2>
+<p>在做插件的过程中，遇到了很多问题，感觉Coze还有很长的路要走，后面会和大家分享一下我遇到的坑。</p>
+<h2>阵容推荐</h2>
+<p>当用户输入阵容推荐或与阵容相关的内容时，会为用户推荐最热门的阵容。这里的热门阵容本来打算使用tactics网站里的胜率高的阵容，但是tactics里的数据都是国外的，国内环境和国外环境不一样，所以我这里使用的是官网的推荐阵容。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d6d34aa5559affa761fe8881d157e5113d13950197f31fd2a5d58ce3efe779d0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662777249597845395235414e3141324f4e576a4c6d457377674e6b626676357932456e5159634d6e334c72374c4a5164696364674f527673512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d6d34aa5559affa761fe8881d157e5113d13950197f31fd2a5d58ce3efe779d0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662777249597845395235414e3141324f4e576a4c6d457377674e6b626676357932456e5159634d6e334c72374c4a5164696364674f527673512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwrIYxE9R5AN1A2ONWjLmEswgNkbfv5y2EnQYcMn3Lr7LJQdicdgORvsQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>点击查看详情按钮，可以查看阵容详情。</p>
+<h2>数据查询</h2>
+<p>输入棋子名称或装备名称或强化名称会根据吃鸡率、前4率、平均排名为你推荐与之最搭配的强化、阵容、装备、羁绊。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/abbe707a510c36bc521eb1247f172f1c66101499ea8b38dfcd06ab1959a4dfbc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776b71584450594f51626c775854734c353569633033444f67473444414950544679346335536d754d6669626e5475556278585357596f30772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/abbe707a510c36bc521eb1247f172f1c66101499ea8b38dfcd06ab1959a4dfbc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776b71584450594f51626c775854734c353569633033444f67473444414950544679346335536d754d6669626e5475556278585357596f30772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwkqXDPYOQblwXTsL55ic03DOgG4DAIPTFy4c5SmuMfibnTuUbxXSWYo0w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/124fd0a90eaac0d3c54946047d52a790d78fb88d30cb49bb4317c05acb72a933/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277446d69624f453041796a46684256316d5437516632554e6c543866443037714f4f79547a324875727941305664696269626e724652755632672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/124fd0a90eaac0d3c54946047d52a790d78fb88d30cb49bb4317c05acb72a933/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277446d69624f453041796a46684256316d5437516632554e6c543866443037714f4f79547a324875727941305664696269626e724652755632672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwDmibOE0AyjFhBV1mT7Qf2UNlT8fD07qOOyTz2HuryA0VdibibnrFRuV2g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/21e849010f400b502c351616b629be6c640fb1534112dd0dd67073d9a2870847/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a47696138473636627734463747354b464d653669617151576961306962336478615252304261494c71703175706d716846545949337448447a4778676f544e4653412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/21e849010f400b502c351616b629be6c640fb1534112dd0dd67073d9a2870847/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a47696138473636627734463747354b464d653669617151576961306962336478615252304261494c71703175706d716846545949337448447a4778676f544e4653412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bw4F7G5KFMe6iaqQWia0ib3dxaRR0BaILqp1upmqhFTYI3tHDzGxgoTNFSA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>这里输入的名称，可以少输一些字，但是不能有错字。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c03d538c48da3223df2dafaaeee52d4829753f43dd7771b3255323f695bdb87/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277636f53684d37686e37617869614f676c6c556c75696139714837495574736b76375349737469624a416f4e6b6e61785a7261766d66345875412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0c03d538c48da3223df2dafaaeee52d4829753f43dd7771b3255323f695bdb87/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277636f53684d37686e37617869614f676c6c556c75696139714837495574736b76375349737469624a416f4e6b6e61785a7261766d66345875412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwcoShM7hn7axiaOgllUluia9qH7IUtskv7SIstibJAoNknaxZravmf4XuA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>大家可以在bot商店里搜索**「云顶之弈助手」**体验插件。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6bb48411f63401f7f50f97c479ca614813fd8cf0305fdefbba9432434eae98a1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277426f336c6a7269623873516e72746962584e39366255324739777a514a4169626f4232494c6438563137386963417443504676314172773945672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6bb48411f63401f7f50f97c479ca614813fd8cf0305fdefbba9432434eae98a1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277426f336c6a7269623873516e72746962584e39366255324739777a514a4169626f4232494c6438563137386963417443504676314172773945672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwBo3ljrib8sQnrtibXN96bU2G9wzQJAiboB2ILd8V178icAtCPFv1Arw9Eg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<h2>人设与回复逻辑</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e9fc5dea306cebccb3b40a5421f14ea4b3aa0881c55bde53a33dfa482a22525c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277356d4f777230377533704654385376386b4b72394e753571364b5668554c4a416e4a4d50435750576d743670456547424655626d4b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e9fc5dea306cebccb3b40a5421f14ea4b3aa0881c55bde53a33dfa482a22525c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277356d4f777230377533704654385376386b4b72394e753571364b5668554c4a416e4a4d50435750576d743670456547424655626d4b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bw5mOwr07u3pFT8Sv8kKr9Nu5q6KVhULJAnJMPCWPWmt6pEeGBFUbmKQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>告诉coze根据用户不同的输入调用不同的工作流。</p>
+<p>这里我写了两个工作流，一个是查询热门阵容，另外一个用来查询棋子、装备、强化信息。</p>
+<h2>热门阵容</h2>
+<h3>热门阵容工作流</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/51fe988886c4df785a77b59f02ce193dd2620833d6e714867a6bc49381db68b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277324d716c366f445877574359416733686241484879487a49734b70686f775a69614237653131416d614c584969626f79795930474b5776512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/51fe988886c4df785a77b59f02ce193dd2620833d6e714867a6bc49381db68b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277324d716c366f445877574359416733686241484879487a49734b70686f775a69614237653131416d614c584969626f79795930474b5776512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bw2Mql6oDXwWCYAg3hbAHHyHzIsKphowZiaB7e11AmaLXIiboyyY0GKWvQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>热门阵容工作流里主要调用了云顶热门阵容插件(yunding_hot_list)，然后把插件里返回的数据返回出去，这里有个需要注意的地方，我被卡了一段时间，还是群里的大佬帮助我解决的，结束节点这里，如果你想使用卡片展示用户问题答案，结束节点这里最好设置为**「使用设定内容指定回答」**，</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed970068d1fcac94cab69e8f5c749f97c35f7cce936eeca3f8e79434edd47c8e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277304c5a4c48303273507864466133704a525537776a41626264376342624a4957624e7a3249333568645a774c6c677a454176545247772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ed970068d1fcac94cab69e8f5c749f97c35f7cce936eeca3f8e79434edd47c8e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277304c5a4c48303273507864466133704a525537776a41626264376342624a4957624e7a3249333568645a774c6c677a454176545247772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bw0LZLH02sPxdFa3pJRU7wjAbbd7cBbJIWbNz2I35hdZwLlgzEAvTRGw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>如果使用默认回答模式，会输出乱七八糟的东西。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/addff472176ae4387fab63e1b0193007e85f77d4f02782016ea65d846c71604d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662777733475569635579596b707953634f465869634e6d374b63756c553038397474614f7550646962334c41666269627a7135774a4a7a6644304d672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/addff472176ae4387fab63e1b0193007e85f77d4f02782016ea65d846c71604d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662777733475569635579596b707953634f465869634e6d374b63756c553038397474614f7550646962334c41666269627a7135774a4a7a6644304d672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bww3GUicUyYkpyScOFXicNm7KculU089ttaOuPdib3LAfbibzq5wJJzfD0Mg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<h3>热门阵容插件</h3>
+<p>工作流里支持调用插件，我们写一个查询云顶热门阵容的插件在工作流中使用。</p>
+<p>插件这里开发语言我选择nodejs，调用云顶官网接口查询数据，官网地址：<a href="https://lol.qq.com/tft/#/index%E3%80%82" rel="nofollow">https://lol.qq.com/tft/#/index。</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/42808ac6d9913aaa61877560af3e981e81ec457f26e8b26bac687ff6f31370a4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662775854696142796963476d656b6e5555444d4f6a4c7068786d686f4964425632395768594c6d4279584a4c463274756e73515242724a3553512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/42808ac6d9913aaa61877560af3e981e81ec457f26e8b26bac687ff6f31370a4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662775854696142796963476d656b6e5555444d4f6a4c7068786d686f4964425632395768594c6d4279584a4c463274756e73515242724a3553512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwXTiaByicGmeknUUDMOjLphxmhoIdBV29WhYLmByXJLF2tunsQRBrJ5SQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>插件完整代码</p>
+<p>``import { Output } from "@/typings/yunding_hot_list/yunding_hot_list";<br>
+import { unescape } from 'querystring';<br>
+/**<br>
+  * Each file needs to export a function named <code class="notranslate">handler</code>. This function is the entrance to the Tool.<br>
+  * <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/param/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/param">@param</a> {Object} args.input - input parameters, you can get test input value by input.xxx.<br>
+  * <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/param/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/param">@param</a> {Object} args.logger - logger instance used to print logs, injected by runtime<br>
+  * <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/returns/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/returns">@returns</a> {*} The return data of the function, which should match the declared output parameters.<br>
+  * <br>
+  * Remember to fill in input/output in Metadata, it helps LLM to recognize and use tool.<br>
+  */<br>
+export async function handler(): Promise {</p>
+<p>  // 获取棋子数据<br>
+  async function getChessMap() {<br>
+    const { data } = await fetch('<a href="https://game.gtimg.cn/images/lol/act/img/tft/js/chess.js').then(res%C2%A0=%3E%C2%A0res.json()" rel="nofollow">https://game.gtimg.cn/images/lol/act/img/tft/js/chess.js').then(res =&gt; res.json()</a>);</p>
+<p>    return data.reduce((prev, cur) =&gt; {<br>
+      prev[cur.chessId] = cur;<br>
+      return prev;<br>
+    }, {});<br>
+  }</p>
+<p>  // 获取羁绊数据<br>
+  async function getHexMap() {<br>
+    const { data } = await fetch('<a href="https://game.gtimg.cn/images/lol/act/img/tft/js/hex.js').then(res%C2%A0=%3E%C2%A0res.json()" rel="nofollow">https://game.gtimg.cn/images/lol/act/img/tft/js/hex.js').then(res =&gt; res.json()</a>);<br>
+    return Object.values(data).reduce((prev, cur: any) =&gt; {<br>
+      prev[cur.hexId] = cur;<br>
+      return prev;<br>
+    }, {});<br>
+  }</p>
+<p>  const [chessMap, hexMap] = await Promise.all([<br>
+    getChessMap(),<br>
+    getHexMap(),<br>
+  ]);</p>
+<p>  // 查询热门阵容<br>
+  let data: any = await fetch('<a href="https://game.gtimg.cn/images/lol/act/tftzlkauto/json/lineupJson/s11/6/lineup_detail_total.json" rel="nofollow">https://game.gtimg.cn/images/lol/act/tftzlkauto/json/lineupJson/s11/6/lineup_detail_total.json</a>')<br>
+    .then(res =&gt; res.text());</p>
+<p>  data = JSON.parse(unescape(data.replace(/\n/g, '')));</p>
+<p>  data.lineup_list.forEach(item =&gt; {<br>
+    item.detail = JSON.parse(item.detail);<br>
+  });</p>
+<p>  // 格式化数据输出<br>
+  const formatedData = (data.lineup_list.map((item, index) =&gt; {<br>
+    return {<br>
+      rank: index + 1,<br>
+      name: item.detail.line_name,<br>
+      image: '<a href="https://www.fluxyadmin.cn/file/yunding/1001.jpeg" rel="nofollow">https://www.fluxyadmin.cn/file/yunding/1001.jpeg</a>',<br>
+      chesses: item.detail.hero_location.map(item =&gt; chessMap[item.hero_id]?.displayName).filter(o =&gt; o).join(','),<br>
+      hexes: item.detail.hexbuff.recomm.split(',').map(item =&gt; hexMap[item]?.name).filter(o =&gt; o).join(','),<br>
+      races: item.detail.contact.toSorted((x, y) =&gt; y.num - x.num).map(item =&gt; <code class="notranslate">${item.num}${item.name}</code>).filter(o =&gt; o).join(' '),<br>
+      hex_info: item.detail.hex_info,<br>
+      early_info: item.detail.early_info,<br>
+      d_time: item.detail.d_time,<br>
+      equipment_info: item.detail.equipment_info,<br>
+      location_info: item.detail.location_info,<br>
+      location_info_2: item.detail.location_info_2,<br>
+      enemy_info: item.detail.enemy_info,<br>
+      url: <code class="notranslate">https://lol.qq.com/tft/#/lineupDetail/${item.id}/1/detail</code>,<br>
+    }<br>
+  }))</p>
+<p>  return {<br>
+    list: formatedData,<br>
+  };<br>
+};</p>
+<p>``</p>
+<p>设置插件的输入输出参数</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5ab594921dd48924522d93873fc8c1c27b0a3433c78a7a292eb8fd260f0aa032/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a47696138473636627745644b4a4b6433326a53734e41427377596b434e4e72774a58764a43773069627730566a69636963417357455447654a575755686b6e6148412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5ab594921dd48924522d93873fc8c1c27b0a3433c78a7a292eb8fd260f0aa032/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a47696138473636627745644b4a4b6433326a53734e41427377596b434e4e72774a58764a43773069627730566a69636963417357455447654a575755686b6e6148412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwEdKJKd32jSsNABswYkCNNrwJXvJCw0ibw0VjicicAsWETGeJWWUhknaHA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<h3>自定义回答卡片</h3>
+<p>如果不想使用文字回答，可以使用自定义卡片形式展示答案。</p>
+<p>给工作流绑定卡片</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ef9de2c287531a6a011723e20122194fddff275b6f8c82e920ef3ddd063c32cf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776a4775734a61704a69617856557757734e556f314a7877424469634259413759784759573873707037584878446c6f616963775142664f46512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ef9de2c287531a6a011723e20122194fddff275b6f8c82e920ef3ddd063c32cf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776a4775734a61704a69617856557757734e556f314a7877424469634259413759784759573873707037584878446c6f616963775142664f46512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwjGusJapJiaxVUwWsNUo1JxwBDicBYA7YxGYW8spp7XHxDloaicwQBfOFQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>可以使用官方的卡片，也可以自定义，这里官方没有合适的，我们自定义一个。</p>
+<p>先创建一个变量，默认值把插件返回的数据放进去。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d1bd361a9418dea04d550abc517d1d36e98050bf7075a26889d76e1b6a94145e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277747571656963796d30534850717a51726963564c7776314e56654b4f4b4856363667395151627468663364764a5a5367676c65657a656963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d1bd361a9418dea04d550abc517d1d36e98050bf7075a26889d76e1b6a94145e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277747571656963796d30534850717a51726963564c7776314e56654b4f4b4856363667395151627468663364764a5a5367676c65657a656963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwtuqeicym0SHPqzQricVLwv1NVeKOKHV66g9QQbthf3dvJZSggleezeicQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b47e5b49f1024ff2f7bba0754729572f1b85892a6be0749e5ac48d9f1896ca4b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776b3848633643413557774a4c5147464b7a73506472726b3248523558724b716961705a3441526e4d4f5a4c7a76484c634774504b6533672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b47e5b49f1024ff2f7bba0754729572f1b85892a6be0749e5ac48d9f1896ca4b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776b3848633643413557774a4c5147464b7a73506472726b3248523558724b716961705a3441526e4d4f5a4c7a76484c634774504b6533672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwk8Hc6CA5WwJLQGFKzsPdrrk2HR5XrKqiapZ4ARnMOZLzvHLcGtPKe3g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>剩下的就像一些低代码平台一样，可以通过拖拉拽配置卡片内容。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/84a97daae76d363d8ed4783ba87e1f5c9f81415f687649549a3b5526f922d74e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277767438677656783469617532774d39347678684f706655554a3546744e316261386a46436963466961554f554f3347384236386365686f4b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/84a97daae76d363d8ed4783ba87e1f5c9f81415f687649549a3b5526f922d74e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a476961384736366277767438677656783469617532774d39347678684f706655554a3546744e316261386a46436963466961554f554f3347384236386365686f4b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwvt8gvVx4iau2wM94vxhOpfUUJ5FtN1ba8jFCicFiaUOUO3G8B68cehoKA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>可以通过配置循环渲染，展示列表</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d3c9ac2cbda61b83c281393d9edf5c11ca575bb6d38760147bb4463790fb59d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a47696138473636627775696372576538396963477847597268476a6962777a4c745669635a386177434d4679637031315852384a39764f576152544369637a66684456772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0d3c9ac2cbda61b83c281393d9edf5c11ca575bb6d38760147bb4463790fb59d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a47696138473636627775696372576538396963477847597268476a6962777a4c745669635a386177434d4679637031315852384a39764f576152544369637a66684456772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwuicrWe89icGxGYrhGjibwzLtVicZ8awCMFycp11XR8J9vOWaRTCiczfhDVw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>文本内容可以绑定变量</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed02feac3e55b9944d6b20457f67cc6d5d9298975ea039f365ee006aec0e9436/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776c3448397069626961573842346e6b526d567357766f37454876574941423343317a354d586962504146357673724d46596d7769636864324d672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ed02feac3e55b9944d6b20457f67cc6d5d9298975ea039f365ee006aec0e9436/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776c3448397069626961573842346e6b526d567357766f37454876574941423343317a354d586962504146357673724d46596d7769636864324d672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwl4H9pibiaW8B4nkRmVsWvo7EHvWIAB3C1z5MXibPAF5vsrMFYmwichd2Mg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>为卡片绑定变量，绑定变量的我发现了个bug，好像只支持string类型的数据，其他类型数据即使工作流返回的数据类型和卡片需要的类型一样，也选不到。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d1b15c92675787646252b7177d9e67ff313dac0f1c9efe20ac6fc86da1119c45/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662777142426e414e5671477a4d496173516737473472394958666b324f593669624e3454705247426f454a72374c57736b746e545a686267672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d1b15c92675787646252b7177d9e67ff313dac0f1c9efe20ac6fc86da1119c45/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662777142426e414e5671477a4d496173516737473472394958666b324f593669624e3454705247426f454a72374c57736b746e545a686267672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwqBBnANVqGzMIasQg7G4r9IXfk2OY6ibN4TpRGBoEJr7LWsktnTZhbgg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>效果展示</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2df7afd3783df60991df1adb0b2cd3cab516558e774d4492d0a1a777052da4fc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662775667663373726d7666426b6d35656c6a74425a7877754836474a6a446d615a5145675962774e61706e30757755696151354564574141412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2df7afd3783df60991df1adb0b2cd3cab516558e774d4492d0a1a777052da4fc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662775667663373726d7666426b6d35656c6a74425a7877754836474a6a446d615a5145675962774e61706e30757755696151354564574141412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwVgf3srmvfBkm5eljtBZxwuH6GJjDmaZQEgYbwNapn0uwUiaQ5EdWAAA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<h2>棋子、强化、装备信息查询</h2>
+<p>和上面热门阵容的配置差不多，也是在工作流中调用一个插件返回数据，然后自定义卡片展示。</p>
+<p>这里主要介绍一下插件，最开始从网站获取数据在一块代码是写在插件里的，但是查询数据这几个接口，太慢了，所以我自己写了一个接口，给查询的数据做一个缓存，只要当前信息被查过一次，后面再查直接就从我们自己数据库中取就行了。</p>
+<p>每天晚上12点，把数据给清掉，第二天所有数据重新查询，保证数据实时性。</p>
+<p>数据来源网站：<a href="https://tactics.tools" rel="nofollow">https://tactics.tools</a></p>
+<p>对外提供接口的框架，使用的是midway node框架，我以前写过一篇midway入门文章。</p>
+<p>因为棋子、装备、强化名称是固定的，所以我们先写一个脚本把这些数据做成静态文件，就不用每次都去请求这些数据了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8f1dc66ebe5f66bb9713c3e9c25b52987eab4524738122de2b30eb730cc5687e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662773267305069626a623836617638704d35566e566d49584743326c66654d4b615769616c7a5348723172575657696164484f3252354f45696145412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8f1dc66ebe5f66bb9713c3e9c25b52987eab4524738122de2b30eb730cc5687e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662773267305069626a623836617638704d35566e566d49584743326c66654d4b615769616c7a5348723172575657696164484f3252354f45696145412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bw2g0Pibjb86av8pM5VnVmIXGC2lfeMKaWialzSHr1rWVWiadHO2R5OEiaEA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6ef0d591c249d8cfe6efa0ce77d03aa662b87a2af5460f3f061104fdb5aa1932/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776f68705472514e4748765377657a4531594842564432514e4b455874684e45706861783552663137794f734e5a3431315a33557a35512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6ef0d591c249d8cfe6efa0ce77d03aa662b87a2af5460f3f061104fdb5aa1932/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776f68705472514e4748765377657a4531594842564432514e4b455874684e45706861783552663137794f734e5a3431315a33557a35512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwohpTrQNGHvSwezE1YHBVD2QNKEXthNEphax5Rf17yOsNZ411Z3Uz5Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>然后写接口，数据库使用的是mongoosedb。</p>
+<p>`import { Controller, Get, Inject, Query } from '@midwayjs/core';<br>
+import { DataService } from '../service/chess.service';<br>
+import chess from '../data/chess.json';<br>
+import items from '../data/items.json';<br>
+import augments from '../data/augments.json';<br>
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/controller/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/controller">@controller</a>('/api')<br>
+export class APIController {<br>
+  <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Inject/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Inject">@Inject</a>()<br>
+  dataService: DataService;</p>
+<p>  <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/get/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/get">@get</a>('/data')<br>
+  async getData(<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/query/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/query">@query</a>('name') name: string) {</p>
+<p>    // 判断用户输入的名称是棋子还是物品还是强化名称<br>
+    const chessName = Object.keys(chess).find(o =&gt; o.includes(name));</p>
+<p>    if (chessName) {<br>
+      return this.dataService.getChessByName(chessName);<br>
+    }</p>
+<p>    const itemName = Object.keys(items).find(o =&gt; o.includes(name));</p>
+<p>    if (itemName) {<br>
+      return this.dataService.getItemByName(itemName);<br>
+    }</p>
+<p>    const augmentName = Object.keys(augments).find(o =&gt; o.includes(name));</p>
+<p>    if (augmentName) {<br>
+      return this.dataService.getAugmentByName(augmentName);<br>
+    }<br>
+  }<br>
+}</p>
+<p>`</p>
+<p>service中调用tactics网站接口查询数据，下面以查询棋子信息为例。</p>
+<p>`` async getChessInfo(name: string) {<br>
+    const code = Chess[name];</p>
+<p>    if (!code) return { name: 'error' };</p>
+<p>    // 查询数据库，如果存在则直接返回<br>
+    let info: Data = await this.dataModel.findOne({ code });</p>
+<p>    if (info) {<br>
+      return info;<br>
+    }</p>
+<p>    const data = (await axios(<br>
+      <code class="notranslate">https://d2.tft.tools/stats2/unit/1100/${code}/14101/1</code><br>
+    ).then(res =&gt; res.data)) as any;</p>
+<p>    info = {<br>
+      icon: <code class="notranslate">https://ap.tft.tools/img/face/${data.unitId}.jpg</code>,<br>
+    } as Data;</p>
+<p>    info.count =<br>
+      data.base.count &gt; 1000<br>
+        ? (data.base.count / 1000).toFixed(2) + 'k'<br>
+        : data.base.count;</p>
+<p>    info.rate = data.base.rate.toFixed(2) + '%';<br>
+    info.won = data.base.won + '%';<br>
+    info.top4 = data.base.top4 + '%';<br>
+    info.place = data.base.place;<br>
+    info.name = zh.s11Unitsi18n[data.unitId];</p>
+<p>    // 计算平均排名，然后取前5名强化<br>
+    info.augments = this.getAverageRanking(data.augments)<br>
+      .slice(0, 5)<br>
+      .map(cur =&gt; {<br>
+        return <code class="notranslate">${zh.s11Augmentsi18n[cur.id]}</code>.replace(/ /g, '');<br>
+      })<br>
+      .join(' ');</p>
+<p>    // 计算平均排名，然后取前5名装备<br>
+    info.items = this.getAverageRanking(<br>
+      data.items.map(item =&gt; ({ ...item, id: item.items }))<br>
+    )<br>
+      .slice(0, 5)<br>
+      .map(item =&gt; {<br>
+        return <code class="notranslate">${zh.s11Itemsi18n[item.items]}</code>;<br>
+      })<br>
+      .join(' ');</p>
+<p>    // 计算平均排名，然后取前8名单位<br>
+    info.units = [<br>
+      ...this.getAverageRanking(data.units)<br>
+        .slice(0, 8)<br>
+        .map(item =&gt; <code class="notranslate">${zh.s11Unitsi18n[item.id]}</code>),<br>
+      name,<br>
+    ].join(' ');</p>
+<p>    // 计算平均排名，然后取前10名羁绊<br>
+    info.traits = this.getAverageRanking(<br>
+      data.traits.map(item =&gt; ({ ...item, id: <code class="notranslate">${item.id[0]}-${item.id[1]}</code> }))<br>
+    )<br>
+      .slice(0, 10)<br>
+      .map(item =&gt; {<br>
+        const [id] = item.id.split('-');<br>
+        return <code class="notranslate">${zh.s11Traitsi18n[id]}</code>;<br>
+      })<br>
+      .join(' ');</p>
+<p>    info.code = code;<br>
+    info.type = '棋子';</p>
+<p>    this.dataModel.create(info);</p>
+<p>    return info;<br>
+  }</p>
+<p>``</p>
+<p>再写一个定时任务，每天晚上12点清除数据。</p>
+<p>`import { Inject } from '@midwayjs/core';<br>
+import { Job, IJob } from '@midwayjs/cron';<br>
+import { DataService } from '../service/chess.service';</p>
+<p><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/job/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/job">@job</a>({<br>
+  cronTime: '0 0 0 * * *',<br>
+  start: true,<br>
+})<br>
+export class DataClearJob implements IJob {<br>
+  <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Inject/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Inject">@Inject</a>()<br>
+  dataService: DataService;</p>
+<p>  async onTick() {<br>
+    this.dataService.clear();<br>
+  }<br>
+}</p>
+<p>`</p>
+<p>写完接口中，部署到服务器，然后在插件中调用接口。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c691f38e17167fc7eb1ad482074cb4d7a0fd86f2a4442fe1017adfac03439e9f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776b5a4567557855747a765161326f574c723655505a646963726647516962656755524563724b325241425168654a79333463536c4b696156672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c691f38e17167fc7eb1ad482074cb4d7a0fd86f2a4442fe1017adfac03439e9f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776b5a4567557855747a765161326f574c723655505a646963726647516962656755524563724b325241425168654a79333463536c4b696156672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwkZEgUxUtzvQa2oWLr6UPZdicrfGQibegUREcrK2RABQheJy34cSlKiaVg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/034f6733928cbf2ab86daf459f40e0c4c211068cde0ac67e0c42d1d7f3466502/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662777149616269613771696368537842786d6d4e48494e537150795179577862736e37654c364f4766714b58776b534851726e4d69624b595a4e512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/034f6733928cbf2ab86daf459f40e0c4c211068cde0ac67e0c42d1d7f3466502/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662777149616269613771696368537842786d6d4e48494e537150795179577862736e37654c364f4766714b58776b534851726e4d69624b595a4e512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwqIabia7qichSxBxmmNHINSqPyQyWxbsn7eL6OGfqKXwkSHQrnMibKYZNQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>本来我还做了一个功能，把所有棋子的信息爬下来，然后上传到coze的知识库，试了一下发现coze知识库回答的不稳定。</p>
+<p>我准备的测试知识库数据</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27cee040f235a29b1c79585f3120bdfd318edd78124dc5ad5171b14bd01d3c1b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662773232346d6751363466647565343176556d384f5352646f736852554a39586961545135696333724752743373357351316963476458416345512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/27cee040f235a29b1c79585f3120bdfd318edd78124dc5ad5171b14bd01d3c1b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662773232346d6751363466647565343176556d384f5352646f736852554a39586961545135696333724752743373357351316963476458416345512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bw224mgQ64fdue41vUm8OSRdoshRUJ9XiaTQ5ic3rGRt3s5sQ1icGdXAcEQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>这是我的问题和它的回答，实际上大卖特卖的吃鸡率比小伙伴高。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/74d5eb7fcceb377a0a930c846207041a610db9aa6cae140ab06070daf555b63b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776f44736961725166705254356249626159774645577158757331727447514f6f466e6469636963674179534e56377956566c4b6a4638524a512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/74d5eb7fcceb377a0a930c846207041a610db9aa6cae140ab06070daf555b63b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c6730326774696276784b65737759777253696152497a4769613847363662776f44736961725166705254356249626159774645577158757331727447514f6f466e6469636963674179534e56377956566c4b6a4638524a512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvxKeswYwrSiaRIzGia8G66bwoDsiarQfpRT5bIbaYwFEWqXus1rtGQOoFndicicgAySNV7yVVlKjF8RJQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>可能是我用法不对，我再研究研究，作为后续计划吧。</p>
+<p>截止到这篇文章发完，我还是没上大师，五一期间玩的有点多，影响了家庭和谐，后面就没再玩了，有点遗憾，没有圆大师梦。</p>
+<p>希望这个插件能帮助到大家，让大家上上分。</p>
+<p>阵容推荐网站地址：<a href="https://lol.qq.com/tft/#/index" rel="nofollow">https://lol.qq.com/tft/#/index</a></p>
+<p>数据查询网站地址：<a href="https://tactics.tools/zh" rel="nofollow">https://tactics.tools/zh</a></p>
+<p>bot ID: 7355799683123609641</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

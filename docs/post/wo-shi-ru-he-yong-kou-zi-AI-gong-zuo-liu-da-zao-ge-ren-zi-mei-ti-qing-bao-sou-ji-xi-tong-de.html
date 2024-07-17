@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="从开始做自媒体以来，一直有个困惑许久的问题没有解决，那就是搜集我关注的相关领域的对标自媒体一手信息，包括文章、评论、点赞、转发等。">
+<meta property="og:title" content="我是如何用扣子AI工作流打造个人自媒体情报搜集系统的">
+<meta property="og:description" content="从开始做自媒体以来，一直有个困惑许久的问题没有解决，那就是搜集我关注的相关领域的对标自媒体一手信息，包括文章、评论、点赞、转发等。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/wo-shi-ru-he-yong-kou-zi-AI-gong-zuo-liu-da-zao-ge-ren-zi-mei-ti-qing-bao-sou-ji-xi-tong-de.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>我是如何用扣子AI工作流打造个人自媒体情报搜集系统的</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我是如何用扣子AI工作流打造个人自媒体情报搜集系统的</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/566" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>从开始做自媒体以来，一直有个困惑许久的问题没有解决，那就是搜集我关注的相关领域的对标自媒体一手信息，包括文章、评论、点赞、转发等。一方面，是为了了解我关注的内容，另一方面，也是为了逼迫自己学习更多的内容，从而提高自己的能力。</p>
+<p>但是，目前市面上还没有一款产品能够满足我的需求，于是，我尝试自己动手来解决这个问题。我的策略就是通过抓取对标公众号的数据，来获取我关注的内容并存入数据库，然后在通过扣子的AI工作流来处理这些数据，进行一定的总结和分析，从而得到我关注的内容。</p>
+<h2>1. 抓取对标公众号数据</h2>
+<p>首先，我需要找到我关注的相关领域的对标公众号，然后通过抓取这些公众号的文章、评论、点赞、转发等数据，来获取我关注的内容。然而，我的方法是可以获取到文章信息的，但是获取不到评论、点赞、转发等数据。如果需要获取这些数据，可能需要rpa控制pc端的微信来实现了，由于我主要使用的是Linux和mac电脑，所以暂时没有实现这个功能。</p>
+<p>我的方法是通过公众号后台的网页端来获取对标公众号的数据，然后存入数据库，最后生成API来供我调用。</p>
+<h3>1.1 选取对标账号列表</h3>
+<p>我是通过csv文件存储我关注的账号，然后通过脚本来读取这些账号，并获取这些账号的文章信息。起初，我还有使用LangChain的loader来获取，并让LLM来更智能的获取账号，然后再做成langchain的tool智能提取文章内容，但是由于抓取过程需要扫码，所以没招，通过python读取它吧。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9225763e7161efa2e5630bd14776169f85f1fdb3e4e09f4ba2d71ee7654e48d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a4170506b37486c73336b67586669627133313769634d4e62375a79746a6f6963394e595a5731557257696335553762696373504563687a70416e4355772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a9225763e7161efa2e5630bd14776169f85f1fdb3e4e09f4ba2d71ee7654e48d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a4170506b37486c73336b67586669627133313769634d4e62375a79746a6f6963394e595a5731557257696335553762696373504563687a70416e4355772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJApPk7Hls3kgXfibq317icMNb7Zytjoic9NYZW1UrWic5U7bicsPEchzpAnCUw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d944fa4163916c56d9598b78bd1a1e7d251891463e104fbbb9d017c6b29dcb7b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41706b52757348354f4e4e6b5469623432574a39426963754a70724c374d4261576c706b746f574c305a716354337951614b43723967474673412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d944fa4163916c56d9598b78bd1a1e7d251891463e104fbbb9d017c6b29dcb7b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41706b52757348354f4e4e6b5469623432574a39426963754a70724c374d4261576c706b746f574c305a716354337951614b43723967474673412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJApkRusH5ONNkTib42WJ9BicuJprL7MBaWlpktoWL0ZqcT3yQaKCr9gGFsA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d2644f8d7735ce4580de5d6f5d3cfa66cf6a030671fb3fbe6f32811caede1bc1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41704d467458393348696243613470696370667063366675587168724d736c7136666472566a644f4473617171307858724e4170796569634942512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d2644f8d7735ce4580de5d6f5d3cfa66cf6a030671fb3fbe6f32811caede1bc1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41704d467458393348696243613470696370667063366675587168724d736c7136666472566a644f4473617171307858724e4170796569634942512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJApMFtX93HibCa4picpfpc6fuXqhrMslq6fdrVjdODsaqq0xXrNApyeicIBQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8a99299a4e9920cd2c9c6f896c20684a866cb2ef23a3a9f4c8494ca7345a8610/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a417038696245317955563076696169636165515a566d46434f48784c393430766e575442416e7069636f7475666556677047575434746545665949512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8a99299a4e9920cd2c9c6f896c20684a866cb2ef23a3a9f4c8494ca7345a8610/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a417038696245317955563076696169636165515a566d46434f48784c393430766e575442416e7069636f7475666556677047575434746545665949512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJAp8ibE1yUV0viaicaeQZVmFCOHxL940vnWTBAnpicotufeVgpGWT4teEfYIQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c50bbd9a008a9b8c61caeeb6bdc64106116dcab5f1fafd91c3a1ee26caa11109/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a417050414e57397633786d49637a753775426963656f556b45716d5743487448313143667739314b577a37446673486a4355637369614a696279412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c50bbd9a008a9b8c61caeeb6bdc64106116dcab5f1fafd91c3a1ee26caa11109/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a417050414e57397633786d49637a753775426963656f556b45716d5743487448313143667739314b577a37446673486a4355637369614a696279412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJApPANW9v3xmIczu7uBiceoUkEqmWCHtH11Cfw91KWz7DfsHjCUcsiaJibyA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>读取对标账号后，就到了最关键的获取账号下文章列表的过程。</p>
+<h3>1.2 获取文章列表</h3>
+<p>我是通过python的selenium库来实现的，通过selenium来操作网页版的公众号后台，在编辑文章页面，插入链接处，是有个搜索公众号文章的功能的，虽然比较隐蔽，一般也是用来在自己文章中插入别的公众号文章用的，很多人可能都不知道有这个功能。</p>
+<p>通过这个功能，我就可以获取到账号下所有文章的标题和链接，并存入数据库，至于文章内容，我们也可以一起通过requests访问并存入数据库，但是，这样的话，后面我们在扣子里面会再次访问一遍，从而使工作流变得特别的慢，所以，我在这里用LangChain对每篇文章做了总结，然后，把总结存入数据库，这样，后面在扣子里面访问的时候，就不用再次访问了。</p>
+<p>`class Mp_his:<br>
+    def <strong>init</strong>(self):<br>
+        options = Options()<br>
+        # options.add_argument('--headless')<br>
+        # options.add_argument('--disable-gpu')<br>
+        options.add_argument("--incognito")<br>
+        self.driver = webdriver.Chrome(options=options)<br>
+        self.vars = {}</p>
+<p>    def wait_for_window(self, timeout=2):<br>
+        time.sleep(round(timeout / 1000))<br>
+        wh_now = self.driver.window_handles<br>
+        wh_then = self.vars["window_handles"]<br>
+        if len(wh_now) &gt; len(wh_then):<br>
+            return set(wh_now).difference(set(wh_then)).pop()</p>
+<p>        def check_exist(self, link):<br>
+        # 检查数据库中是否存在该文章<br>
+        conn = sqlite3.connect("mp1.db")<br>
+        cursor = conn.cursor()<br>
+        cursor.execute("SELECT * FROM mp_articles WHERE link = ?", (link,))<br>
+        result = cursor.fetchone()<br>
+        conn.close()<br>
+        return result</p>
+<p>        def get_his(self):<br>
+        os.chdir(os.path.dirname(os.path.abspath(<strong>file</strong>)))<br>
+        self.driver.get("<a href="http://mp.weixin.qq.com/" rel="nofollow">http://mp.weixin.qq.com/</a>")<br>
+        self.vars["window_handles"] = self.driver.window_handles<br>
+        if self.driver.find_elements(By.CLASS_NAME, "login__type__container__scan__qrcode"):<br>
+            # 等待二维码出现<br>
+            time.sleep(2)<br>
+            qrcode = self.driver.find_element(<br>
+                By.CLASS_NAME, "login__type__container__scan__qrcode")<br>
+            qrcode.screenshot("./qrcode.png")<br>
+        # 等待.new-creation__menu-item:nth-child(2) svg出现<br>
+        WebDriverWait(self.driver, 60).until(expected_conditions.presence_of_element_located(<br>
+            (By.CSS_SELECTOR, ".new-creation__menu-item:nth-child(2) svg")))<br>
+        self.driver.find_element(<br>
+            By.CSS_SELECTOR, ".new-creation__menu-item:nth-child(2) svg").click()<br>
+        self.vars["win670"] = self.wait_for_window(2000)<br>
+        self.driver.switch_to.window(self.vars["win670"])<br>
+        self.driver.find_element(By.ID, "js_editor_insertlink").click()<br>
+        # 从mp.csv中读取公众号名称<br>
+        with open('mp.csv', 'r', encoding='utf-8') as f:<br>
+            reader = csv.reader(f)<br>
+            for row in reader:<br>
+                self.driver.find_element(<br>
+                    By.XPATH, "//button[contains(.,'选择其他公众号')]").click()<br>
+                # 输入公众号名称<br>
+                self.driver.find_element(<br>
+                    By.CSS_SELECTOR, ".weui-desktop-search__wrp .weui-desktop-form__input").send_keys(row[0])<br>
+                self.driver.find_element(<br>
+                    By.CSS_SELECTOR, ".weui-desktop-search__wrp .weui-desktop-form__input").send_keys(Keys.ENTER)<br>
+                time.sleep(1)<br>
+                # 选择第一个公众号.inner_link_account_item的第一个<br>
+                WebDriverWait(self.driver, 60).until(expected_conditions.presence_of_element_located(<br>
+                    (By.CSS_SELECTOR, ".inner_link_account_item:nth-child(1)")<br>
+                ))<br>
+                self.driver.find_element(<br>
+                    By.CSS_SELECTOR, ".inner_link_account_item:nth-child(1)").click()<br>
+                # 循环class 为 .inner_link_article_item的 label 标签<br>
+                for i in range(1, 10):<br>
+                    WebDriverWait(self.driver, 60).until(expected_conditions.presence_of_element_located(<br>
+                        (By.CSS_SELECTOR, f".inner_link_article_item:nth-child({i})")))<br>
+                    label = self.driver.find_element(<br>
+                        By.CSS_SELECTOR, f".inner_link_article_item:nth-child({i})")<br>
+                    author = row[0]<br>
+                    title = label.find_element(<br>
+                        By.CSS_SELECTOR, "div span:nth-child(2)").text<br>
+                    publish_date_str = label.find_element(<br>
+                        By.CSS_SELECTOR, ".inner_link_article_date").text<br>
+                    publish_date = datetime.strptime(<br>
+                        publish_date_str, "%Y-%m-%d")<br>
+                    link = label.find_element(<br>
+                        By.CSS_SELECTOR, "a").get_attribute("href")<br>
+                    # 当发布时间小于昨天，结束循环<br>
+                    if publish_date &lt; datetime.now() - timedelta(days=7):<br>
+                        print("发布时间小于一周，结束循环")<br>
+                        break<br>
+                    # 数据库里面有这篇文章，结束循环<br>
+                    if self.check_exist(link):<br>
+                        break</p>
+<p>                                        summary = ""<br>
+                    # 加载html并获取概述<br>
+                    if os.environ['SUMMARY_FLAG'] == 'True':<br>
+                        loader = AsyncHtmlLoader([link])<br>
+                        doc = loader.load()<br>
+                        h2t = Html2TextTransformer()<br>
+                        docs_transformed = h2t.transform_documents(doc)<br>
+                        text_splitter = RecursiveCharacterTextSplitter()<br>
+                        texts = text_splitter.split_documents(docs_transformed)<br>
+                        prompt_template = """写下一段文字的摘要:<br>
+"{text}"<br>
+摘要内容:"""<br>
+                        prompt = PromptTemplate.from_template(prompt_template)<br>
+                        llm_chain = LLMChain(llm=QianfanChatEndpoint(temperature=0.1), prompt=prompt)<br>
+                        stuff_chain = StuffDocumentsChain(llm_chain=llm_chain, document_variable_name="text")<br>
+                        summary = stuff_chain.invoke(texts)["output_text"]</p>
+<p>                    # 写入mysql数据库<br>
+                    import mysql.connector</p>
+<p>                                        mydb = mysql.connector.connect(<br>
+                        host="YOUR_HOST",<br>
+                        user="YOURUSER",<br>
+                        password="YOURPASS",<br>
+                        database="YOURDB"<br>
+                    )<br>
+                    mycursor = mydb.cursor()<br>
+                    mycursor.execute(<br>
+                        "INSERT INTO mp_articles (title, author, publish_date, link, summary) VALUES (%s, %s, %s, %s, %s)", (title, author, publish_date, link, summary))<br>
+                    mydb.commit()</p>
+<p>                    print(f"{title} 写入成功")</p>
+<p>`</p>
+<p>这个代码使用了Selenium库来控制浏览器，然后通过XPath选择器来定位元素，输入内容，点击按钮，等待页面加载，使用BeautifulSoup库来解析HTML，使用OpenAI的API来生成摘要，最后写入数据库。这里我推荐大家一个免费的mysql数据库，sqlpub.com, 注册后，可以免费使用，感兴趣的可以去试试，我就是用的这个。</p>
+<p>这段代码执行的时候会打开浏览器，并弹出二维码，需要手动扫码，然后，会自动化操作到底。至此，抓取数据就已经完成。</p>
+<h2>2. 生成API</h2>
+<p>我使用的是fastapi，这样可以跟LangServe保持一致，我是为将来继承进我的AI小助手做好准备。不熟悉fastapi的小伙伴需要自行学习一下基础的语法，或者使用别的web框架，比如flask/django，都可以。</p>
+<p>定义路由：</p>
+<p><code class="notranslate">@app.get("/get_articles")   def get_articles():       articles = get_mp_articles()       return articles   </code></p>
+<p>获取文章列表：</p>
+<p><code class="notranslate">def get_mp_articles():       # 连接到 MySQL 数据库       connection = pymysql.connect(           host="YOURHOST",           user="YOURUSER",           password="YOURPASS",           database="YOURDB",       )       db = connection       # 查询数据库       cursor = db.cursor(pymysql.cursors.DictCursor)       cursor.execute("SELECT title,summary,author,link FROM mp_articles WHERE publish_date &gt;= DATE_SUB(CURDATE(), INTERVAL 2 DAY)")       articles = cursor.fetchall()       result = {"articles": articles}       return result   </code></p>
+<p>我只获取最近2天的文章，你可以根据你的需求修改查询条件。</p>
+<p>这样，API接口就开发出来了，最后就需要再扣子上对接了。</p>
+<h2>3. 对接扣子</h2>
+<h3>3.1 创建插件</h3>
+<p>进入扣子的后台，在个人空间，点击插件标签，点击创建插件，填写相关信息，选择类型为基于已有服务，填写接口地址为刚才开发的接口地址，其他依据提示填写即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24651172a4bc65e8cb0c4dbfa32e789210dd5f6c55562256c623f61fb44ab45c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a4170387771533069626259557a684f4f48424d49696359796b6b457759787848613078456a396d77745439696271624a36365a794b3442583745672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/24651172a4bc65e8cb0c4dbfa32e789210dd5f6c55562256c623f61fb44ab45c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a4170387771533069626259557a684f4f48424d49696359796b6b457759787848613078456a396d77745439696271624a36365a794b3442583745672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJAp8wqS0ibbYUzhOOHBMIicYykkEwYxxHa0xEj9mwtT9ibqbJ66ZyK4BX7Eg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>20240425223157</p>
+<p>创建成功后，再点击创建工具，同样依据提示填写相关信息即可，输入输出的字段要填写完整，最后要进行调试一下才能应用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dbec3b34112822b6bbd15b2b0c69d580b75505cbaee52c499964175ffdc11d40/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a417041437778534e6436364e3254696279424253677241515a626e746a6e494c343369616d7236486c4972535764565749426963596c78773734772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/dbec3b34112822b6bbd15b2b0c69d580b75505cbaee52c499964175ffdc11d40/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a417041437778534e6436364e3254696279424253677241515a626e746a6e494c343369616d7236486c4972535764565749426963596c78773734772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJApACwxSNd66N2TibyBBSgrAQZbntjnIL43iamr6HlIrSWdVWIBicYlxw74w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>20240425223547</p>
+<h3>3.2 创建工作流</h3>
+<p>回到个人空间，点击工作流标签，点击创建工作流，填写相关信息，进入工作流的编排页面，选择刚才创建的插件，选择刚才创建的工具，点击添加。按照如图所示的流程进行编排，这样就可以让AI来进行筛选，得到最符合你要求的目标文章了，我写的提示词比较简单，大家可以进一步的优化一下提示词，这个很重要，但是我感觉者就可以满足我的要求了，所以我就直接使用了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce28555b6039ee7ae9e72dd405d954108b19e45d6e5c92628bbe428db8f8b71e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41704d5577576374727a4e4b687773696265484b787456543669626d36304769617032484a7a4e46755649656f344734734637374658505a5370772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ce28555b6039ee7ae9e72dd405d954108b19e45d6e5c92628bbe428db8f8b71e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41704d5577576374727a4e4b687773696265484b787456543669626d36304769617032484a7a4e46755649656f344734734637374658505a5370772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJApMUwWctrzNKhwsibeHKxtVT6ibm60Giap2HJzNFuVIeo4G4sF77FXPZSpw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>20240425224513</p>
+<p>最后，同样要进行调试，调试通过后才能提交。</p>
+<h3>3.3 创建bot</h3>
+<p>回到个人空间，点击bot标签，点击创建bot，填写基本信息。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ae679edde0b1636261e5d39d4088c224a5935f6717b40aa09e495fc4fa8165ae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41705666326f7a6d793173594e396855706963436762477942514b65696145667a4c7166553474575376306e597163703337696368336a396b65512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ae679edde0b1636261e5d39d4088c224a5935f6717b40aa09e495fc4fa8165ae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41705666326f7a6d793173594e396855706963436762477942514b65696145667a4c7166553474575376306e597163703337696368336a396b65512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJApVf2ozmy1sYN9hUpicCgbGyBQKeiaEfzLqfU4tWSv0nYqcp37ich3j9keQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>20240425223843</p>
+<p>进入编辑页面，整体的编辑内容如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3c0bbabb138fd0f7470a943c3c13c4f5c034571a9ed329143ae02e58bad8ccb9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41706b6f6c7230463845714e69624272656648343747566253696255743468666632306666535155376f7053706d635675306277456e59344c772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3c0bbabb138fd0f7470a943c3c13c4f5c034571a9ed329143ae02e58bad8ccb9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a41706b6f6c7230463845714e69624272656648343747566253696255743468666632306666535155376f7053706d635675306277456e59344c772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJApkolr0F8EqNibBrefH47GVbSibUt4hff20ffSQU7opSpmcVu0bwEnY4Lw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>20240425224839</p>
+<p>提示词可以点那个优化，大模型给优化的效果还是可以的。工作流一定要记得选择刚才创建的工作流，插件，我加了LinkReaderPlugin，方便大模型阅读文章。</p>
+<h3>3.4 测试bot</h3>
+<p>测试bot，输入：按照要求获取情报</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb612ef75e180f537fa8c42252d61c3fa92156a12aa441d6e8574a24731868b0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a417047626a493762365331696138436a6d5368436963324c68436962416e4c71595741457846546962477733736f75745268616861595039416f33412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fb612ef75e180f537fa8c42252d61c3fa92156a12aa441d6e8574a24731868b0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f324d7658696270796846496851554f6131736e48496e4951335935473369614a417047626a493762365331696138436a6d5368436963324c68436962416e4c71595741457846546962477733736f75745268616861595039416f33412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2MvXibpyhFIhQUOa1snHInIQ3Y5G3iaJApGbjI7b6S1ia8CjmShCic2LhCibAnLqYWAExFTibGw3soutRhahaYP9Ao3A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>20240425225158</p>
+<p>怎么样？最后的结果还可以吧？发现问题了吗？我要的日期呢？我经过了反复调试都没有给我输出来文章的发表日期，可是，我的数据里明明有这个数据，为什么没有输出来呢？有懂行的小伙伴可以给我解释一下吗？</p>
+<h2>4. 总结</h2>
+<p>通过这个案例，我实现了通过AI来筛选自媒体文章的功能，并且通过扣子来完成这个功能。整体下来，还是比较顺畅的，扣子实现了很多原来需要LangChain来完成的功能，它通过可视化的界面来帮助用户完成工作流，大大的简化了开发过程。类似的还有百度的appbuilder、dify、fastGPT等等，这些工具都可以帮助用户快速开发出自己的应用。就像在AI生图用到的comfyUI一样，这种图形化的工作流模式，或许就是AI开发领域的Windows，可以改变人们的开发习惯。</p>
+<p>相关阅读：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA4NjQxNjgwOQ==&amp;mid=2648134413&amp;idx=1&amp;sn=db01fead2b9c72fdf39292162fc847bd&amp;chksm=87eaffcbb09d76dd17b74882e3fc2d572d5248fbf9d2ec490a45659c331c4de077443a13acc2&amp;scene=21#wechat_redirect" rel="nofollow">利用CrewAI框架打造高效自动化周报系统：告别手动报告，迎接智能协作</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA4NjQxNjgwOQ==&amp;mid=2648134443&amp;idx=2&amp;sn=c86f3ca0e9900297a57f5127d3903164&amp;chksm=87eaffedb09d76fb6f8804a24b6ee17c757eb9abe0653020401eb09832f2ebdfce4ab8190bb6&amp;scene=21#wechat_redirect" rel="nofollow">利用LangChain优化团队工作周报自动汇总：替代多智能体的可控解决方案</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA4NjQxNjgwOQ==&amp;mid=2648134560&amp;idx=1&amp;sn=bc178ed9e6e5935a814023e85ed52df0&amp;chksm=87eaff66b09d767039836385eb96e43fb749d9a5810ff81467195d0b7b108c4fdefb301b396a&amp;scene=21#wechat_redirect" rel="nofollow">结合fastapi-users与Langserve轻松实现大语言接口用户认证</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA4NjQxNjgwOQ==&amp;mid=2648134498&amp;idx=1&amp;sn=942824d4624b838f4fb9dc6d87012a63&amp;chksm=87eaffa4b09d76b286aadad53e896f579da3e56866db6300552bf4c8ed8cc05e5bdb496a4944&amp;scene=21#wechat_redirect" rel="nofollow">LangServe全面使用指南</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a5984a2fd7353b786bc221389c88ea2da49aa7856cbe696a081d89330a7da90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f324d7658696270796846496a6961336a644261535a42666d4b34626a377534497978416676346159526e4e373369626e4f69623769633766797166774b456e4c4f626b78647a4c4342467478326348696267374e444e526963357244772f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7a5984a2fd7353b786bc221389c88ea2da49aa7856cbe696a081d89330a7da90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f324d7658696270796846496a6961336a644261535a42666d4b34626a377534497978416676346159526e4e373369626e4f69623769633766797166774b456e4c4f626b78647a4c4342467478326348696267374e444e526963357244772f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/2MvXibpyhFIjia3jdBaSZBfmK4bj7u4IyxAfv4aYRnN73ibnOib7ic7fyqfwKEnLObkxdzLCBFtx2cHibg7NDNRic5rDw/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>END</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a5984a2fd7353b786bc221389c88ea2da49aa7856cbe696a081d89330a7da90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f324d7658696270796846496a6961336a644261535a42666d4b34626a377534497978416676346159526e4e373369626e4f69623769633766797166774b456e4c4f626b78647a4c4342467478326348696267374e444e526963357244772f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7a5984a2fd7353b786bc221389c88ea2da49aa7856cbe696a081d89330a7da90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f324d7658696270796846496a6961336a644261535a42666d4b34626a377534497978416676346159526e4e373369626e4f69623769633766797166774b456e4c4f626b78647a4c4342467478326348696267374e444e526963357244772f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/2MvXibpyhFIjia3jdBaSZBfmK4bj7u4IyxAfv4aYRnN73ibnOib7ic7fyqfwKEnLObkxdzLCBFtx2cHibg7NDNRic5rDw/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>加</strong></p>
+<p><strong>加</strong></p>
+<p><strong>笔</strong></p>
+<p><strong>记</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f02a2a85252c45c77d72246e031b4f17bee699d03bb9b4b9c516f9c8933fe8a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f324d7658696270796846496a6961336a644261535a42666d4b34626a37753449797838644b7946756962466f7a385373467765704e61706278304a6b534e6269615842393148397a41395251477637794967556b70346e3548512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f02a2a85252c45c77d72246e031b4f17bee699d03bb9b4b9c516f9c8933fe8a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f324d7658696270796846496a6961336a644261535a42666d4b34626a37753449797838644b7946756962466f7a385373467765704e61706278304a6b534e6269615842393148397a41395251477637794967556b70346e3548512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2MvXibpyhFIjia3jdBaSZBfmK4bj7u4Iyx8dKyFuibFoz8SsFwepNapbx0JkSNbiaXB91H9zA9RQGv7yIgUkp4n5HQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>加加笔记｜AI 破局合伙人</p>
+<p>微信号：jiajiabiji</p>
+<p>个人博客：www.jjbiji.com</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="这几年短视频非常火爆，尤其是抖音等短视频平台的崛起，很多人都可以把自己的日常生活或者工作发到网上，吸引很多人的关注，也有一些人因此赚到了人生第一桶金。">
+<meta property="og:title" content="阿里开源的自动化视频剪辑工具，免费使用">
+<meta property="og:description" content="这几年短视频非常火爆，尤其是抖音等短视频平台的崛起，很多人都可以把自己的日常生活或者工作发到网上，吸引很多人的关注，也有一些人因此赚到了人生第一桶金。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/a-li-kai-yuan-de-zi-dong-hua-shi-pin-jian-ji-gong-ju-%EF%BC%8C-mian-fei-shi-yong.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>阿里开源的自动化视频剪辑工具，免费使用</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">阿里开源的自动化视频剪辑工具，免费使用</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/543" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>这几年短视频非常火爆，尤其是抖音等短视频平台的崛起，很多人都可以把自己的日常生活或者工作发到网上，吸引很多人的关注，也有一些人因此赚到了人生第一桶金。</p>
+<p>然后剪辑视频却是一件非常耗费精力的事情，经常要几个小时才能剪出来一个视频。</p>
+<p>今天给大家推荐一个阿里开源的自动化视频剪辑工具—FunClip，可以帮助大家轻松剪辑视频。</p>
+<p>FunClip是一款完全开源的自动化视频剪辑工具，可以安装在我们自己的电脑上，支持离线使用。还可以通过调用阿里巴巴通义实验室开源的 FunASR Paraformer 系列模型进行视频的语音识别，然后我们可以自由选择识别结果中的文本片段或说话人，点击裁剪按钮即可获取对应片段的视频。</p>
+<p>所以使用 <strong>FunClip</strong>剪辑视频非常的简单，不用像传统的视频剪辑软件，需要我们手动自己分割视频。</p>
+<p>在上述基本功能的基础上，FunClip有以下特色：</p>
+<ul>
+<li>
+<p>FunClip融合了众多高级语言模型的调用机制，并开放了灵活的prompt设置功能，旨在探索利用大型语言模型进行视频编辑的新方法。</p>
+</li>
+<li>
+<p>FunClip采用了阿里巴巴开源的顶尖工业级语音识别模型——Paraformer-Large，它在开源中文ASR模型中表现出色，Modelscope的下载次数已超过1300万次，同时能够精确地预测出时间戳。</p>
+</li>
+<li>
+<p>此外，FunClip还整合了SeACo-Paraformer的热词定制功能，在语音识别过程中可以特别指定实体词、人名等作为热词，从而显著提高识别的准确性。</p>
+</li>
+<li>
+<p>FunClip还配备了CAM++的说话人识别模型，用户可以利用自动识别出的说话人ID作为编辑的依据，轻松裁剪出特定说话人的部分。</p>
+</li>
+<li>
+<p>通过Gradio的交互界面，用户可以轻松实现上述功能，安装过程简洁，操作便捷，并且支持在服务器端部署，通过网页进行操作。</p>
+</li>
+<li>
+<p>FunClip还支持多段视频的自由编辑，并且能够自动生成完整的视频SRT字幕文件以及目标剪辑片段的SRT字幕，简化了整个编辑流程。</p>
+</li>
+</ul>
+<p>而且FunClip还加入了大语言模型智能裁剪功能，集成了qwen系列，gpt系列等模型，提供默认prompt，我们也可以训练自己的prompt，还支持通过FunASR开源的SeACo-Paraformer模型在视频剪辑中进一步支持热词定制化。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d028c711f125b02de8b3c8932220f37a9e73c12b5eee55482d494199a8ebafbe/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f784572707a5065504d5336654f53764372666c4c734231514a314966794969627778796c303178696361556962644f75744d43675a4d547558727055494c50416f3370527767564d69624f6962313445754755306962696173465737412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/d028c711f125b02de8b3c8932220f37a9e73c12b5eee55482d494199a8ebafbe/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f784572707a5065504d5336654f53764372666c4c734231514a314966794969627778796c303178696361556962644f75744d43675a4d547558727055494c50416f3370527767564d69624f6962313445754755306962696173465737412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/xErpzPePMS6eOSvCrflLsB1QJ1IfyIibwxyl01xicaUibdOutMCgZMTuXrpUILPAo3pRwgVMibOib14EuGU0ibiasFW7A/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<h2><strong>安装🔨</strong></h2>
+<p><strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/79965d573a58aa07b5fb35fee6e11073eed402bf8a1939a9fab59d6468fae555/68747470733a2f2f7265732e77782e71712e636f6d2f742f77785f6665642f77652d656d6f6a692f7265732f76312e332e31302f6173736574732f6e6577656d6f6a692f4e6f50726f622e706e67"><img src="https://camo.githubusercontent.com/79965d573a58aa07b5fb35fee6e11073eed402bf8a1939a9fab59d6468fae555/68747470733a2f2f7265732e77782e71712e636f6d2f742f77785f6665642f77652d656d6f6a692f7265732f76312e332e31302f6173736574732f6e6577656d6f6a692f4e6f50726f622e706e67" alt="" data-canonical-src="https://res.wx.qq.com/t/wx_fed/we-emoji/res/v1.3.10/assets/newemoji/NoProb.png" style="max-width: 100%;"></a><br>
+ 安装python环境</strong></p>
+<p>FunClip的运行仅依赖python环境，所以我们只需要搭建好python环境就OK了。</p>
+<div class="highlight highlight-source-ini"><pre class="notranslate">git clone https://github.com/alibaba-damo-academy/FunClip.git
+cd FunClip
+
+pip install -r ./requirements.txt</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b862d7ff144b75bc932bf70cea971afa0d34aae3f182a67844ad34f206f9cdef/68747470733a2f2f7265732e77782e71712e636f6d2f742f77785f6665642f77652d656d6f6a692f7265732f76312e332e31302f6173736574732f6e6577656d6f6a692f4c65744d655365652e706e67"><img src="https://camo.githubusercontent.com/b862d7ff144b75bc932bf70cea971afa0d34aae3f182a67844ad34f206f9cdef/68747470733a2f2f7265732e77782e71712e636f6d2f742f77785f6665642f77652d656d6f6a692f7265732f76312e332e31302f6173736574732f6e6577656d6f6a692f4c65744d655365652e706e67" alt="" data-canonical-src="https://res.wx.qq.com/t/wx_fed/we-emoji/res/v1.3.10/assets/newemoji/LetMeSee.png" style="max-width: 100%;"></a> <strong>安装 imagemagick</strong></p>
+<p>希望使用自动生成字幕的视频裁剪功能，那么需要安装imagemagick：</p>
+<ul>
+<li>Ubuntu</li>
+</ul>
+<div class="highlight highlight-source-sql"><pre class="notranslate">apt<span class="pl-k">-</span>get <span class="pl-k">-</span>y <span class="pl-k">update</span> &amp;&amp; apt<span class="pl-k">-</span>get <span class="pl-k">-</span>y install ffmpeg imagemagick
+sed <span class="pl-k">-</span>i <span class="pl-s"><span class="pl-pds">'</span>s/none/read,write/g<span class="pl-pds">'</span></span> <span class="pl-k">/</span>etc<span class="pl-k">/</span>ImageMagick<span class="pl-k">-</span><span class="pl-c1">6</span><span class="pl-k">/</span><span class="pl-c1">policy</span>.<span class="pl-c1">xml</span></pre></div>
+<ul>
+<li>MacOS</li>
+</ul>
+<div class="highlight highlight-source-sql"><pre class="notranslate">brew install imagemagick
+sed <span class="pl-k">-</span>i <span class="pl-s"><span class="pl-pds">'</span>s/none/read,write/g<span class="pl-pds">'</span></span> <span class="pl-k">/</span>usr<span class="pl-k">/</span>local<span class="pl-k">/</span>Cellar<span class="pl-k">/</span>imagemagick<span class="pl-k">/</span><span class="pl-c1">7</span>.<span class="pl-c1">1</span>.<span class="pl-c1">1</span><span class="pl-k">-</span>8_1<span class="pl-k">/</span>etc<span class="pl-k">/</span>ImageMagick<span class="pl-k">-</span><span class="pl-c1">7</span><span class="pl-k">/</span><span class="pl-c1">policy</span>.<span class="pl-c1">xml</span></pre></div>
+<ul>
+<li>Windows</li>
+</ul>
+<p>需要从下面的地址下载并安装imagemagick：</p>
+<div class="highlight highlight-source-js"><pre class="notranslate">https:<span class="pl-kos"></span></pre></div>
+<p><strong>使用FunClip</strong></p>
+<p>首先使用下面的命令启动FunClip：</p>
+<div class="highlight highlight-source-nginx"><pre class="notranslate"><span class="pl-k">python</span> funclip/launch.py</pre></div>
+<p>随后在浏览器中访问localhost:7860 就能进入首页。</p>
+<p>然后按如下步骤即可进行视频剪辑：</p>
+<ul>
+<li>
+<p>上传你的视频（或使用下方的视频用例）</p>
+</li>
+<li>
+<p>设置热词，设置文件输出路径（保存识别结果、视频等）</p>
+</li>
+<li>
+<p>点击识别按钮获取识别结果，或点击识别+区分说话人在语音识别基础上识别说话人ID</p>
+</li>
+<li>
+<p>将识别结果中的选段复制到对应位置，或者将说话人ID输入到对应为止</p>
+</li>
+<li>
+<p>配置剪辑参数，偏移量与字幕设置等</p>
+</li>
+<li>
+<p>点击“裁剪”或“裁剪+字幕”按钮</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fbc996e70a3d7c207e96f1da52b415508e0a5d8261399da4522118a51ea154de/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f784572707a5065504d5336654f53764372666c4c734231514a31496679496962777969634f6f5330455636464a4548504e6a63336f316449353233484c454b304a37376d4772493266613469624161785462434a696138674a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fbc996e70a3d7c207e96f1da52b415508e0a5d8261399da4522118a51ea154de/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f784572707a5065504d5336654f53764372666c4c734231514a31496679496962777969634f6f5330455636464a4548504e6a63336f316449353233484c454b304a37376d4772493266613469624161785462434a696138674a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/xErpzPePMS6eOSvCrflLsB1QJ1IfyIibwyicOoS0EV6FJEHPNjc3o1dI523HLEK0J77mGrI2fa4ibAaxTbCJia8gJw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>使用大语言模型裁剪请参考如下教程：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fd28e2b8cdc8d24d8113ca1995674063315d804ee89ed6e588ea18c20cc38ba6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f784572707a5065504d5336654f53764372666c4c734231514a31496679496962777a447938726c39386e6753546963596d6f78644b306a5a363969614268727a4f39527277716c4e596733796564644536564e38336f4455412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fd28e2b8cdc8d24d8113ca1995674063315d804ee89ed6e588ea18c20cc38ba6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f784572707a5065504d5336654f53764372666c4c734231514a31496679496962777a447938726c39386e6753546963596d6f78644b306a5a363969614268727a4f39527277716c4e596733796564644536564e38336f4455412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/xErpzPePMS6eOSvCrflLsB1QJ1IfyIibwzDy8rl98ngSTicYmoxdK0jZ69iaBhrzO9RrwqlNYg3yeddE6VN83oDUA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>FunClip 在魔塔社区部署了在线服务，可以通过下面的地址体验：</p>
+<p><a href="https://modelscope.cn/studios/iic/funasr%5C_app%5C_clipvideo/summary" rel="nofollow">https://modelscope.cn/studios/iic/funasr\_app\_clipvideo/summary</a></p>
+<p>我们可以上传自己的视频或者音频，也可以使用 FunClip 提供的demo：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d52b342340b523447bdb46c03461badbf2c703eeb6ce7c3f1489316503b6ce6a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f784572707a5065504d5336654f53764372666c4c734231514a3149667949696277696249306d4f696236504e444572487a4e6c735a776f6246614d577a4751696231566b69636963777a4e6a746b6c566c56324a4f6a306f6b4157772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d52b342340b523447bdb46c03461badbf2c703eeb6ce7c3f1489316503b6ce6a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f784572707a5065504d5336654f53764372666c4c734231514a3149667949696277696249306d4f696236504e444572487a4e6c735a776f6246614d577a4751696231566b69636963777a4e6a746b6c566c56324a4f6a306f6b4157772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/xErpzPePMS6eOSvCrflLsB1QJ1IfyIibwibI0mOib6PNDErHzNlsZwobFaMWzGQib1VkicicwzNjtklVlV2JOj0okAWw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>更多内容，可以到github了解：</p>
+<p><a href="https://github.com/alibaba-damo-academy/FunClip">https://github.com/alibaba-damo-academy/FunClip</a></p>
+<p>总的来说，FunClip是一款完全开源、本地部署的自动化视频剪辑工具，可以帮助我们更加轻松地剪辑视频，记录我们的美好生活。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

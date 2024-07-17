@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="上回说到
+
+[**《如何用 Coze 搞定文字工作》**](http://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247488052&idx=2&sn=162b17113e1fd84030f1d164b988ae7a&chksm=c2bcdf32f5cb5624d332ea9b8942f63e5631f32c60e63c6ada828aa3b84b14ab21df3cafa16b&scene=21#wechat_redirect)  
+
+这次我们来聊聊  
+
+如何用 Coze 搞定图片工作  
+
+答案是用「图像流」
+
+没听过？
+
+这太正常了  
+
+因为这是今天刚出的  
+
+官网还没发通知呢😊
+
+以“自动给老板画表情包”为例
+
+首先，我很喜欢马老板
+
+所以，马老板镇楼
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oxvboZ3RE57KRiaib4x89DwaZ5R7WjI3Yu3uyE4zZ9vvCgSfTt0L7qWxQ/640?wx_fmt=png&from=appmsg)
+
+这是我的所有输入
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oicruYjxh6HZS7kOUKXrOjDfV5sBhfLEm2HiasC6wxMxdia5dPC0mRnjDA/640?wx_fmt=png&from=appmsg)
+
+**步骤如下**  
+
+*   Step0：创建一个 Bot，先跑起来
+    
+*   Step1：定义「图片流」，来画沙雕图
+    
+*   Step2：.. 没了，没有步骤2，超简单的
+    
+
+下面，容我细细到来  
+
+**Step0：先跑起来**
+
+目标 🏆
+
+创建一个 Coze Bot，使用图片流模板，把你画成《戴珍珠耳环的少女》
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9okTPT82ic4HmyG2XXB6Y0tzzYHAYaM0Ql8l6plUe6ecZM9ctrb46YH3A/640?wx_fmt=png&from=appmsg)
+
+**创建第一个 Bot**
+
+打开 coze.cn/home，点创建 Bot
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oR8HSe22jUvickIRw7layFOL3UiclE6HVqib83PM9iaEpViciaGdFfFjDbfFw/640?wx_fmt=png&from=appmsg)
+
+信息随便输，如：
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oAr9bbCrF2yg6VHkvuiasR058DYadJECA0cuqvnR2FjWRYcShn01Patg/640?wx_fmt=png&from=appmsg)
+
+**引入图像流**
+
+你可以看到「图像流」，点这里的 \+ 号
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9op6Rj7cichAn0m8JGBfFXBI2YbZYx2jfp40zTiad326yJZRDLW2VAkpHw/640?wx_fmt=png&from=appmsg)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oszMVX2xwPnoQibQ2h8HvWmt6MrPFMywDezicww2iaP7Fibk1tS11mnXf5A/640?wx_fmt=png&from=appmsg)
+
+我们选一个预设的图像流：「名画照相馆」，并据此创建副本：
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oR8utZYLX8viaowhXiaRt0MzFhTUybXGof6WicsDx8SKN4uYF7BXSiaJqhA/640?wx_fmt=png&from=appmsg)
+
+进去之后，啥都不用干，直接测试&发布
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9o81rTZzL851D4gb2gZUfBmMn9p9GIs871icyvluzO27hfEXnMahDpg9g/640?wx_fmt=png&from=appmsg)
+
+图过你没有照片，可以用我的，八块腹肌（只要你信）  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oRQvKibWycv8MuZicZaSOENzLujicvPIZxDpyaeXCUK3fvicKqGzEgBWx3w/640?wx_fmt=png&from=appmsg)
+
+发布后，在 Coze 中载入
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9onclJQ7cuXhTWiaWhPcHjD3iaemgNxgbYIyAnAnZuERfjLibKR7Xf5vjlg/640?wx_fmt=png&from=appmsg)
+
+**调试一下**
+
+这里，我用马老板的照片，来得到一个「带珍珠耳环的马老板」
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9odxXXRicj2lrVfAFnWpP0WocQqqbgicW002ica6CFyibLgibOvPRKBUgzxhQ/640?wx_fmt=png&from=appmsg)
+
+成功！有内味了！
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9okTPT82ic4HmyG2XXB6Y0tzzYHAYaM0Ql8l6plUe6ecZM9ctrb46YH3A/640?wx_fmt=png&from=appmsg)
+
+**Step1：做一个自己的**
+
+目标 🏆
+
+做一个自己的图像流，给老板生成一个表情包。">
+<meta property="og:title" content="Coze 保姆级教程：用图像流，给老板来一套表情包">
+<meta property="og:description" content="上回说到
+
+[**《如何用 Coze 搞定文字工作》**](http://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247488052&idx=2&sn=162b17113e1fd84030f1d164b988ae7a&chksm=c2bcdf32f5cb5624d332ea9b8942f63e5631f32c60e63c6ada828aa3b84b14ab21df3cafa16b&scene=21#wechat_redirect)  
+
+这次我们来聊聊  
+
+如何用 Coze 搞定图片工作  
+
+答案是用「图像流」
+
+没听过？
+
+这太正常了  
+
+因为这是今天刚出的  
+
+官网还没发通知呢😊
+
+以“自动给老板画表情包”为例
+
+首先，我很喜欢马老板
+
+所以，马老板镇楼
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oxvboZ3RE57KRiaib4x89DwaZ5R7WjI3Yu3uyE4zZ9vvCgSfTt0L7qWxQ/640?wx_fmt=png&from=appmsg)
+
+这是我的所有输入
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oicruYjxh6HZS7kOUKXrOjDfV5sBhfLEm2HiasC6wxMxdia5dPC0mRnjDA/640?wx_fmt=png&from=appmsg)
+
+**步骤如下**  
+
+*   Step0：创建一个 Bot，先跑起来
+    
+*   Step1：定义「图片流」，来画沙雕图
+    
+*   Step2：.. 没了，没有步骤2，超简单的
+    
+
+下面，容我细细到来  
+
+**Step0：先跑起来**
+
+目标 🏆
+
+创建一个 Coze Bot，使用图片流模板，把你画成《戴珍珠耳环的少女》
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9okTPT82ic4HmyG2XXB6Y0tzzYHAYaM0Ql8l6plUe6ecZM9ctrb46YH3A/640?wx_fmt=png&from=appmsg)
+
+**创建第一个 Bot**
+
+打开 coze.cn/home，点创建 Bot
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oR8HSe22jUvickIRw7layFOL3UiclE6HVqib83PM9iaEpViciaGdFfFjDbfFw/640?wx_fmt=png&from=appmsg)
+
+信息随便输，如：
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oAr9bbCrF2yg6VHkvuiasR058DYadJECA0cuqvnR2FjWRYcShn01Patg/640?wx_fmt=png&from=appmsg)
+
+**引入图像流**
+
+你可以看到「图像流」，点这里的 \+ 号
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9op6Rj7cichAn0m8JGBfFXBI2YbZYx2jfp40zTiad326yJZRDLW2VAkpHw/640?wx_fmt=png&from=appmsg)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oszMVX2xwPnoQibQ2h8HvWmt6MrPFMywDezicww2iaP7Fibk1tS11mnXf5A/640?wx_fmt=png&from=appmsg)
+
+我们选一个预设的图像流：「名画照相馆」，并据此创建副本：
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oR8utZYLX8viaowhXiaRt0MzFhTUybXGof6WicsDx8SKN4uYF7BXSiaJqhA/640?wx_fmt=png&from=appmsg)
+
+进去之后，啥都不用干，直接测试&发布
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9o81rTZzL851D4gb2gZUfBmMn9p9GIs871icyvluzO27hfEXnMahDpg9g/640?wx_fmt=png&from=appmsg)
+
+图过你没有照片，可以用我的，八块腹肌（只要你信）  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oRQvKibWycv8MuZicZaSOENzLujicvPIZxDpyaeXCUK3fvicKqGzEgBWx3w/640?wx_fmt=png&from=appmsg)
+
+发布后，在 Coze 中载入
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9onclJQ7cuXhTWiaWhPcHjD3iaemgNxgbYIyAnAnZuERfjLibKR7Xf5vjlg/640?wx_fmt=png&from=appmsg)
+
+**调试一下**
+
+这里，我用马老板的照片，来得到一个「带珍珠耳环的马老板」
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9odxXXRicj2lrVfAFnWpP0WocQqqbgicW002ica6CFyibLgibOvPRKBUgzxhQ/640?wx_fmt=png&from=appmsg)
+
+成功！有内味了！
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9okTPT82ic4HmyG2XXB6Y0tzzYHAYaM0Ql8l6plUe6ecZM9ctrb46YH3A/640?wx_fmt=png&from=appmsg)
+
+**Step1：做一个自己的**
+
+目标 🏆
+
+做一个自己的图像流，给老板生成一个表情包。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/Coze%20-bao-mu-ji-jiao-cheng-%EF%BC%9A-yong-tu-xiang-liu-%EF%BC%8C-gei-lao-ban-lai-yi-tao-biao-qing-bao.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>Coze 保姆级教程：用图像流，给老板来一套表情包</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Coze 保姆级教程：用图像流，给老板来一套表情包</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/524" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>上回说到</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&amp;mid=2247488052&amp;idx=2&amp;sn=162b17113e1fd84030f1d164b988ae7a&amp;chksm=c2bcdf32f5cb5624d332ea9b8942f63e5631f32c60e63c6ada828aa3b84b14ab21df3cafa16b&amp;scene=21#wechat_redirect" rel="nofollow"><strong>《如何用 Coze 搞定文字工作》</strong></a></p>
+<p>这次我们来聊聊</p>
+<p>如何用 Coze 搞定图片工作</p>
+<p>答案是用「图像流」</p>
+<p>没听过？</p>
+<p>这太正常了</p>
+<p>因为这是今天刚出的</p>
+<p>官网还没发通知呢😊</p>
+<p>以“自动给老板画表情包”为例</p>
+<p>首先，我很喜欢马老板</p>
+<p>所以，马老板镇楼</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ff9be7ee42e6336436ff97ae9a31578f98fd2abf905ce6a2c9d86d742066a55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7876626f5a33524535374b5269616962347838394477615a355237576a4933597533757945347a5a397676436753665474304c37715778512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3ff9be7ee42e6336436ff97ae9a31578f98fd2abf905ce6a2c9d86d742066a55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7876626f5a33524535374b5269616962347838394477615a355237576a4933597533757945347a5a397676436753665474304c37715778512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oxvboZ3RE57KRiaib4x89DwaZ5R7WjI3Yu3uyE4zZ9vvCgSfTt0L7qWxQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这是我的所有输入</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/89e1a34a8ba5ee0547b282a719b0c07ebfc00b4e50645fe4a02cf704cb5b12da/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f69637275596a786836485a53376b4f554b58724f6a44665635734268664c456d3248696173433677784d7864696135645043306d526e6a44412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/89e1a34a8ba5ee0547b282a719b0c07ebfc00b4e50645fe4a02cf704cb5b12da/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f69637275596a786836485a53376b4f554b58724f6a44665635734268664c456d3248696173433677784d7864696135645043306d526e6a44412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oicruYjxh6HZS7kOUKXrOjDfV5sBhfLEm2HiasC6wxMxdia5dPC0mRnjDA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>步骤如下</strong></p>
+<ul>
+<li>
+<p>Step0：创建一个 Bot，先跑起来</p>
+</li>
+<li>
+<p>Step1：定义「图片流」，来画沙雕图</p>
+</li>
+<li>
+<p>Step2：.. 没了，没有步骤2，超简单的</p>
+</li>
+</ul>
+<p>下面，容我细细到来</p>
+<p><strong>Step0：先跑起来</strong></p>
+<p>目标 🏆</p>
+<p>创建一个 Coze Bot，使用图片流模板，把你画成《戴珍珠耳环的少女》</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a5174d76f6fbfb0dbaaf5ca5acb357c0c4cdfd53e65384640b591ba3801f215e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6b5450543832696334486d794732585842365930747a7a59484159614d30516c386c36706c55653665635a4d39637472623436594833412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a5174d76f6fbfb0dbaaf5ca5acb357c0c4cdfd53e65384640b591ba3801f215e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6b5450543832696334486d794732585842365930747a7a59484159614d30516c386c36706c55653665635a4d39637472623436594833412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9okTPT82ic4HmyG2XXB6Y0tzzYHAYaM0Ql8l6plUe6ecZM9ctrb46YH3A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>创建第一个 Bot</strong></p>
+<p>打开 coze.cn/home，点创建 Bot</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/39373cb71fdc71022c53527fd5853c43f55a7624911e6989b3dd73f551b6ad95/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f523848536532326a557669636b495277376c6179464f4c335569636c453648567169623833504d3969614570566963696147644666466a44626646772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/39373cb71fdc71022c53527fd5853c43f55a7624911e6989b3dd73f551b6ad95/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f523848536532326a557669636b495277376c6179464f4c335569636c453648567169623833504d3969614570566963696147644666466a44626646772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oR8HSe22jUvickIRw7layFOL3UiclE6HVqib83PM9iaEpViciaGdFfFjDbfFw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>信息随便输，如：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e3d76e23f80ac399efb8fecf79f7e2f4743cb1615c8a9402d8705b31c27ab95a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f41723962624372463279673656486b767569617352303538445961644a45434130637571766e5232466a5752596353686e3031506174672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e3d76e23f80ac399efb8fecf79f7e2f4743cb1615c8a9402d8705b31c27ab95a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f41723962624372463279673656486b767569617352303538445961644a45434130637571766e5232466a5752596353686e3031506174672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oAr9bbCrF2yg6VHkvuiasR058DYadJECA0cuqvnR2FjWRYcShn01Patg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>引入图像流</strong></p>
+<p>你可以看到「图像流」，点这里的 + 号</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/816293b018f8353a8e12c9ad872bb5b28bb906fb2bf3f68cb49e9e334cd599a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7036526a3763696368416e306d384a474266465842493259625a5978326a667034307a54696164333236794a5a52444c573256416b7048772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/816293b018f8353a8e12c9ad872bb5b28bb906fb2bf3f68cb49e9e334cd599a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7036526a3763696368416e306d384a474266465842493259625a5978326a667034307a54696164333236794a5a52444c573256416b7048772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9op6Rj7cichAn0m8JGBfFXBI2YbZYx2jfp40zTiad326yJZRDLW2VAkpHw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a297e269aa8da0a967cf15eeacc2e3ad3c1197afd3576c25e0eae320f1427c5a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f737a4d5658327877506e6f516962513268384876576d74364d7250464d797744657a6963777732696150374669626b31745331316d6e586635412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a297e269aa8da0a967cf15eeacc2e3ad3c1197afd3576c25e0eae320f1427c5a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f737a4d5658327877506e6f516962513268384876576d74364d7250464d797744657a6963777732696150374669626b31745331316d6e586635412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oszMVX2xwPnoQibQ2h8HvWmt6MrPFMywDezicww2iaP7Fibk1tS11mnXf5A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我们选一个预设的图像流：「名画照相馆」，并据此创建副本：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8d25272667ad7022cf6bc878a378eb17249f3a73c4221f36144c98dae828c0cd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f523875745a594c58387669616f77685869615274304d7a46685455796258476f663657696373447838534b4e347559463742585369614a7168412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8d25272667ad7022cf6bc878a378eb17249f3a73c4221f36144c98dae828c0cd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f523875745a594c58387669616f77685869615274304d7a46685455796258476f663657696373447838534b4e347559463742585369614a7168412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oR8utZYLX8viaowhXiaRt0MzFhTUybXGof6WicsDx8SKN4uYF7BXSiaJqhA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>进去之后，啥都不用干，直接测试&amp;发布</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b98956dcfedbf601e8072c0c089942e083874346d9251931a4352f3efdfa204f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f383172545a7a4c3835314434676232675a5566426d4d6e397039474973383731696379766c757a4f3237686645586e4d616844706739672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b98956dcfedbf601e8072c0c089942e083874346d9251931a4352f3efdfa204f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f383172545a7a4c3835314434676232675a5566426d4d6e397039474973383731696379766c757a4f3237686645586e4d616844706739672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9o81rTZzL851D4gb2gZUfBmMn9p9GIs871icyvluzO27hfEXnMahDpg9g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>图过你没有照片，可以用我的，八块腹肌（只要你信）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d247e658820a888cab59ac9c5d597e7467cfb1d0dc2dda35912f8e2f72163629/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f5251764b696257796376384d755a69635a61534f454e7a4c756a69637650495a7844707961655843554b33667669634b71477a456742577833772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d247e658820a888cab59ac9c5d597e7467cfb1d0dc2dda35912f8e2f72163629/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f5251764b696257796376384d755a69635a61534f454e7a4c756a69637650495a7844707961655843554b33667669634b71477a456742577833772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oRQvKibWycv8MuZicZaSOENzLujicvPIZxDpyaeXCUK3fvicKqGzEgBWx3w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>发布后，在 Coze 中载入</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a72ec30c48a2625d8ad350b065e3d6dc66d5b9573117950999590bf77216f6fa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6e636c4a5137637558685457696157685063486a44336961656d674e786762594979416e416e5a754552666a4c69624b5237586635766a6c672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a72ec30c48a2625d8ad350b065e3d6dc66d5b9573117950999590bf77216f6fa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6e636c4a5137637558685457696157685063486a44336961656d674e786762594979416e416e5a754552666a4c69624b5237586635766a6c672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9onclJQ7cuXhTWiaWhPcHjD3iaemgNxgbYIyAnAnZuERfjLibKR7Xf5vjlg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>调试一下</strong></p>
+<p>这里，我用马老板的照片，来得到一个「带珍珠耳环的马老板」</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/84d343c379080e5a706ba660002e1a641b60509be66ab43020627acd696a4445/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f647858585269636a326c72566641466e57705030576f6351717162676963573030326963613643467969624c6769624f7650524b4255677a7868512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/84d343c379080e5a706ba660002e1a641b60509be66ab43020627acd696a4445/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f647858585269636a326c72566641466e57705030576f6351717162676963573030326963613643467969624c6769624f7650524b4255677a7868512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9odxXXRicj2lrVfAFnWpP0WocQqqbgicW002ica6CFyibLgibOvPRKBUgzxhQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>成功！有内味了！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a5174d76f6fbfb0dbaaf5ca5acb357c0c4cdfd53e65384640b591ba3801f215e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6b5450543832696334486d794732585842365930747a7a59484159614d30516c386c36706c55653665635a4d39637472623436594833412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a5174d76f6fbfb0dbaaf5ca5acb357c0c4cdfd53e65384640b591ba3801f215e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6b5450543832696334486d794732585842365930747a7a59484159614d30516c386c36706c55653665635a4d39637472623436594833412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9okTPT82ic4HmyG2XXB6Y0tzzYHAYaM0Ql8l6plUe6ecZM9ctrb46YH3A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>Step1：做一个自己的</strong></p>
+<p>目标 🏆</p>
+<p>做一个自己的图像流，给老板生成一个表情包。</p>
+<p>比如下面这个，我给马老板生成的：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ff9be7ee42e6336436ff97ae9a31578f98fd2abf905ce6a2c9d86d742066a55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7876626f5a33524535374b5269616962347838394477615a355237576a4933597533757945347a5a397676436753665474304c37715778512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3ff9be7ee42e6336436ff97ae9a31578f98fd2abf905ce6a2c9d86d742066a55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7876626f5a33524535374b5269616962347838394477615a355237576a4933597533757945347a5a397676436753665474304c37715778512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oxvboZ3RE57KRiaib4x89DwaZ5R7WjI3Yu3uyE4zZ9vvCgSfTt0L7qWxQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>新建图片流</strong></p>
+<p>打开 coze.cn/home，先点开「图像流」tag，再点创建图像流</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb68adac3ce44ac0a7d29595a3fbe7275f48faa7dbade3b49b6b414f1a87caf8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6164783048656c6472564c7a5737444455535a4a4f6c583869636a39796d7450305633464a4761424b66374c5579466f6e6e624e5034672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/eb68adac3ce44ac0a7d29595a3fbe7275f48faa7dbade3b49b6b414f1a87caf8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6164783048656c6472564c7a5737444455535a4a4f6c583869636a39796d7450305633464a4761424b66374c5579466f6e6e624e5034672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oadx0HeldrVLzW7DDUSZJOlX8icj9ymtP0V3FJGaBKf7LUyFonnbNP4g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>信息随便输，如：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7f18255e0d26ab22dfe58a7179bc81fb2cb49f9dd64800a8ce6a288130290359/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f43394f7941486a6961586d667a397a386850776c79786f4e5073505658304e37527575763835584f4c654f6f696377716469616e57584875512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7f18255e0d26ab22dfe58a7179bc81fb2cb49f9dd64800a8ce6a288130290359/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f43394f7941486a6961586d667a397a386850776c79786f4e5073505658304e37527575763835584f4c654f6f696377716469616e57584875512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oC9OyAHjiaXmfz9z8hPwlyxoNPsPVX0N7Ruuv85XOLeOoicwqdianWXHuQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后，你就能看到这样一个空白页面，在这里：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34d63dc3733b898703b8a5d44cad20f4ea6e80446d2ff946564c13adfe6ee6f1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f3747454533726b7639494567483950556c4738774a4430616245464c4e7633454478373030637069614464396962716c6f33696356367235512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/34d63dc3733b898703b8a5d44cad20f4ea6e80446d2ff946564c13adfe6ee6f1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f3747454533726b7639494567483950556c4738774a4430616245464c4e7633454478373030637069614464396962716c6f33696356367235512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9o7GEE3rkv9IEgH9PUlG8wJD0abEFLNv3EDx700cpiaDd9ibqlo3icV6r5Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>认识图像流</strong></p>
+<p>在这个页面中，你可以看到两个区域，左侧（红框）是工具栏，在这里你可以看到图片流支持的所有工具。而在右侧，则是操作区。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/56a23cfbac6d38e02c244d99796c2b9f5bc95a9fe37fbb3d2528f1bd737b0d30/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f67753676706a5271486f616c48696332664a4c58323469626b3464686c7575574e3373595536474a30736f4757765a5178527731524974412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/56a23cfbac6d38e02c244d99796c2b9f5bc95a9fe37fbb3d2528f1bd737b0d30/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f67753676706a5271486f616c48696332664a4c58323469626b3464686c7575574e3373595536474a30736f4757765a5178527731524974412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9ogu6vpjRqHoalHic2fJLX24ibk4dhluuWN3sYU6GJ0soGWvZQxRw1RItA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>当前扣子的工作流工具，包括以下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ba2474d1c86173fd61d41425c17dc0fbb219fa23ef288e4e763aa9f5f994884/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f374e7442785574357a743230595257754f6275704b696349786d7677375a6b5669624172435653674a473657434949786a4866526a394a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2ba2474d1c86173fd61d41425c17dc0fbb219fa23ef288e4e763aa9f5f994884/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f374e7442785574357a743230595257754f6275704b696349786d7677375a6b5669624172435653674a473657434949786a4866526a394a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9o7NtBxUt5zt20YRWuObupKicIxmvw7ZkVibArCVSgJG6WCIIxjHfRj9JA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>而右侧，是类似流程图的东西，逻辑大概是这样：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b0e9096cf0823224e39cee16eaece6c2014a52358e76f186079eba6d2b28cd7c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f647045535661336d676136477469613843556962776d6b644c4b725577536961666962505a6535787054545a72316669624f7844554f39737262512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b0e9096cf0823224e39cee16eaece6c2014a52358e76f186079eba6d2b28cd7c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f647045535661336d676136477469613843556962776d6b644c4b725577536961666962505a6535787054545a72316669624f7844554f39737262512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9odpESVa3mga6Gtia8CUibwmkdLKrUwSiafibPZe5xpTTZr1fibOxDUO9srbQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>而你要做的，就是先想好输入和输出，然后在从工具栏里拉出指令，把这个工作流给实现。</p>
+<p><strong>编辑工作流</strong></p>
+<p>我希望上传一张人物图片+一段文字，生成一个表情包。</p>
+<p>据此，就有了这个工作流：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e339e7f0ef2e5f1a8beb1c8c9b7e1f0597c3e1efcf4ce5f253d89c588ac34020/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7049394e3665783272615a4f46323044334b4a454d69626e3079317934456962504b31795a6d465673696362675653417a696242447234545a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e339e7f0ef2e5f1a8beb1c8c9b7e1f0597c3e1efcf4ce5f253d89c588ac34020/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7049394e3665783272615a4f46323044334b4a454d69626e3079317934456962504b31795a6d465673696362675653417a696242447234545a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9opI9N6ex2raZOF20D3KJEMibn0y1y4EibPK1yZmFVsicbgVSAzibBDr4TZA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我步骤包含4个，分别是</p>
+<ul>
+<li>
+<p>读取人物照片和文字</p>
+</li>
+<li>
+<p>把人的头像，放在熊猫图上</p>
+</li>
+<li>
+<p>把文字，放在熊猫图上</p>
+</li>
+<li>
+<p>输出</p>
+</li>
+</ul>
+<p>具体配置如下，供参考：</p>
+<p>第一步，读取人物照片和文字。这里我使用了默认的开始节点，并多加了一个文字输入，类型设置成了文本（String）：</p>
+<p>* 节点，就是那个白色框框</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fab00c905f1f72e053106072b4feb9925fb30a83dfb7a501dbaa9deb001b8f1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6b55314a4b547a69624e527a43686b3778536f3855565a514d6c7a5a7764796147777a703674736c4d3239796837423069633573547a58512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0fab00c905f1f72e053106072b4feb9925fb30a83dfb7a501dbaa9deb001b8f1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6b55314a4b547a69624e527a43686b3778536f3855565a514d6c7a5a7764796147777a703674736c4d3239796837423069633573547a58512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9okU1JKTzibNRzChk7xSo8UVZQMlzZwdyaGwzp6tslM29yh7B0ic5sTzXQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>第二步，我选用了「智能换脸」工具，将输入设置成了上一步中的图片输入（swap_face），并上传了一个熊猫图</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/99abe083ed0a3875ac7f4ec94744e386f7397e6745234f72f7a501bb26d6471b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f4a75706f45644461565236745574376d43436b523259436b413155393466595356736e68425169636731724c49345672476b594e3958412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/99abe083ed0a3875ac7f4ec94744e386f7397e6745234f72f7a501bb26d6471b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f4a75706f45644461565236745574376d43436b523259436b413155393466595356736e68425169636731724c49345672476b594e3958412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oJupoEdDaVR6tUt7mCCkR2YCkA1U94fYSVsnhBQicg1rLI4VrGkYN9XA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>如果你需要熊猫图，这里：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/124c2fae30d228de63787c2911175cc54ca57d807765e483ebbaf5634aa5bdb7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d63315642495972656273524e75564a643069626353435444475363396f416e3764736233447a574b624f6f737478334f717358493569624a36384e6a4f6a7a4c334b634e3171355161526a594b324f6f6962486f512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/124c2fae30d228de63787c2911175cc54ca57d807765e483ebbaf5634aa5bdb7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d63315642495972656273524e75564a643069626353435444475363396f416e3764736233447a574b624f6f737478334f717358493569624a36384e6a4f6a7a4c334b634e3171355161526a594b324f6f6962486f512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oAn7dsb3DzWKbOostx3OqsXI5ibJ68NjOjzL3KcN1q5QaRjYK2OoibHoQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>第三步，我选用了「添加文字」工具，将用户输入的文字（来自步骤一的 text）添加到图片上（引用 data），位置这里我选择在正上方（north），调整字体为文泉微米黑（也可以不调整），调整位置往下偏移20个像素（也可以不管）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/60abb9961407bc80cd20332a69b9025ef7be9f9f2f26927ef2eaefedefcef16c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6a44467863354f72764f79685864727853444f516d6d37454e5465644173567358523232463846516f67327a786739586c6f4c5a34772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/60abb9961407bc80cd20332a69b9025ef7be9f9f2f26927ef2eaefedefcef16c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f6a44467863354f72764f79685864727853444f516d6d37454e5465644173567358523232463846516f67327a786739586c6f4c5a34772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9ojDFxc5OrvOyhXdrxSDOQmm7ENTedAsVsXR22F8FQog2zxg9XloLZ4w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>最后一步，选择输出上一步中的图片</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8374f8e1b0c4a8a34268f00c1d074a9ce438f7c4bda4ca8926ce9ee3748c7bf1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f50315a496c6467476a38423762385274613355374e42656b4e58485039664a66557757495158556c69624c733369626361387074383754412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8374f8e1b0c4a8a34268f00c1d074a9ce438f7c4bda4ca8926ce9ee3748c7bf1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f50315a496c6467476a38423762385274613355374e42656b4e58485039664a66557757495158556c69624c733369626361387074383754412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oP1ZIldgGj8B7b8Rta3U7NBekNXHP9fJfUwWIQXUlibLs3ibca8pt87TA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>使用图像流</strong></p>
+<p>和之前一样，先调试，再发布：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/615cd77783efefb01eade1d272932a4fb4b6e0bf8835dcfd376d0ed63e1c5295/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7973766735514c7a57796e3731316e4557595736547364756164586b664e32333933754274336963676b3555484c533530487867374d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/615cd77783efefb01eade1d272932a4fb4b6e0bf8835dcfd376d0ed63e1c5295/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f7973766735514c7a57796e3731316e4557595736547364756164586b664e32333933754274336963676b3555484c533530487867374d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oysvg5QLzWyn711nEWYW6TsduadXkfN2393uBt3icgk5UHLS50Hxg7MQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eccd72e12098d4f55e6cf316e1c2aeee9db76007b2fe690081b336d2a30cd2ba/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f39696131793168676265416647325955646b45436961573169624354546961367632344838455169626678596874394b354b6f474a6c52596278412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/eccd72e12098d4f55e6cf316e1c2aeee9db76007b2fe690081b336d2a30cd2ba/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f39696131793168676265416647325955646b45436961573169624354546961367632344838455169626678596874394b354b6f474a6c52596278412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9o9ia1y1hgbeAfG2YUdkECiaW1ibCTTia6v24H8EQibfxYht9K5KoGJlRYbxA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后放在 bot 里：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90744dafcc4a5f23e0bd0af708c331b789a6a484d0b226f3409e5c6da5b8ee33/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f33725a38504c696262527a6d7271543476645855354f6d76554f61356b31396876664e79323050475578734379386463426a456e3479672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/90744dafcc4a5f23e0bd0af708c331b789a6a484d0b226f3409e5c6da5b8ee33/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f33725a38504c696262527a6d7271543476645855354f6d76554f61356b31396876664e79323050475578734379386463426a456e3479672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9o3rZ8PLibbRzmrqT4vdXU5OmvUOa5k19hvfNy20PGUxsCy8dcBjEn4yg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>还可以发布到商店，比如：<a href="https://www.coze.cn/s/i2WDS9Dh/" rel="nofollow">https://www.coze.cn/s/i2WDS9Dh/</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cf5ed53748d02b13a255e14103bff8c3e79c78299285b82579c79c0814c91664/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f634134507772466d696135536d563837536b6b6f4b7177433273594a334978644d74636a716b6a4c726558346a68596963733050743646772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/cf5ed53748d02b13a255e14103bff8c3e79c78299285b82579c79c0814c91664/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f634134507772466d696135536d563837536b6b6f4b7177433273594a334978644d74636a716b6a4c726558346a68596963733050743646772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9ocA4PwrFmia5SmV87SkkoKqwC2sYJ3IxdMtcjqkjLreX4jhYics0Pt6Fw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>One More Thing</p>
+<p>官方其实已经预设了不少的模板，可以先学习参考，包括不仅限于以下（容我报个菜名）:</p>
+<p>名画照相馆、穿越重生、一键穿搭、人物风格化、孩子长相预测、变身神奇角色、环游世界、宠物卡通风、熊猫头表情包、创意表情包、智能证件照、房间风格化、毛坯房装修、建筑创意、趣味扩图、电商模特换背景、电商产品换背景、随机拼贴、文字海报</p>
+<p>通过这个路径，来加载这些模板：创建Bot - 添加图像流 - 选择模板，比如前文中说到的「名画照相馆」</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8d25272667ad7022cf6bc878a378eb17249f3a73c4221f36144c98dae828c0cd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f523875745a594c58387669616f77685869615274304d7a46685455796258476f663657696373447838534b4e347559463742585369614a7168412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8d25272667ad7022cf6bc878a378eb17249f3a73c4221f36144c98dae828c0cd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972656273524e75564a643069626353435444475363396f523875745a594c58387669616f77685869615274304d7a46685455796258476f663657696373447838534b4e347559463742585369614a7168412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrebsRNuVJd0ibcSCTDGSc9oR8utZYLX8viaowhXiaRt0MzFhTUybXGof6WicsDx8SKN4uYF7BXSiaJqhA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>以上就是本期 Coze 教程</p>
+<p>讲究的就是一个</p>
+<p>Coze 打工你躺平</p>
+<p>祝大家整活愉快</p>
+<p>下期再见</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

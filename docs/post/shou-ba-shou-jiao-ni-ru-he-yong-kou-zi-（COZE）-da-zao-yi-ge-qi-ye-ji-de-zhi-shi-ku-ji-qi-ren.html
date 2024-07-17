@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="本文分为三个部分
+
+**第一部分介绍AI大模型（LLM）和AI Agent的区别。">
+<meta property="og:title" content="手把手教你如何用扣子（COZE）打造一个企业级的知识库机器人">
+<meta property="og:description" content="本文分为三个部分
+
+**第一部分介绍AI大模型（LLM）和AI Agent的区别。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/shou-ba-shou-jiao-ni-ru-he-yong-kou-zi-%EF%BC%88COZE%EF%BC%89-da-zao-yi-ge-qi-ye-ji-de-zhi-shi-ku-ji-qi-ren.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>手把手教你如何用扣子（COZE）打造一个企业级的知识库机器人</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">手把手教你如何用扣子（COZE）打造一个企业级的知识库机器人</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/577" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>本文分为三个部分</p>
+<p><strong>第一部分介绍AI大模型（LLM）和AI Agent的区别。AI Agent的能力为什么变强了？</strong></p>
+<p><strong>第二部分通过一个实际案例，手把手的教你如何使用扣子（COZE）</strong></p>
+<p><strong>第三部分聊一聊AI Agent未来会对我们的工作和生活产生哪些改变</strong></p>
+<p>其实教程本身不是最重要的，本篇文章第二部分的教程只是在验证和推导出第一和第三部分的观点和推论；</p>
+<p>这篇文章字数有点多，如果没什么耐心的话，可以拉到文章末尾直接找机器人体验入口亲自感受一下。</p>
+<p>一、AI Agent的概念和能力</p>
+<p>1、什么是AI大模型（LLM）：大型语言模型（例如GPT-4或BERT）是一种基于深度学习的模型，主要被训练来理解和生成自然语言文本。这些模型通过分析大量的文本数据学习语言的统计规律，从而能够完成翻译、摘要、对话等多种语言任务。大型语言模型通常没有特定的目标或任务，而是根据输入的文本生成相关的输出。</p>
+<p>2、AI Agent则是指可以自主执行任务或目标的系统，它可以是一个软件，也可以是一个智能机器，这些系统通过感知环境并在此基础上做出决策。AI Agent可以集成多种技术，包括AI大模型（LLM），但它们的核心是交互性和目标导向性。例如，自动驾驶汽车是一个AI Agent，它通过感应周围环境（如路况和障碍物）来决策接下来每一步的行动方案，从而实现安全驾驶的目的。</p>
+<p>3、用一个可能不太恰当的比喻，AI大模型（LLM）就是人的大脑，AI Agent就是人本身。AI大模型（LLM）只有输入输出，而AI Agent则包括AI大模型（LLM）、Planning（规划）、Momory（记忆）（前面三项构成了大脑）、Tools（工具，就是手脚）。</p>
+<p>4、以前AI模型（LLM）出来之前，所谓的智能机器人无法“理解”人类的语言。    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4300ee1b358c0179007dde2d9b1c115583ffb4c66500568d614764b3fc38c645/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c387834464e625772757952355564474178436a4d4b346962625669635457676e536f776c57556b31796764596558556d7068504d5a486a772f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/4300ee1b358c0179007dde2d9b1c115583ffb4c66500568d614764b3fc38c645/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c387834464e625772757952355564474178436a4d4b346962625669635457676e536f776c57556b31796764596558556d7068504d5a486a772f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNL8x4FNbWruyR5UdGAxCjMK4ibbVicTWgnSowlWUk1ygdYeXUmphPMZHjw/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>而AI大模型通过深度学习技术，开始“理解”人类的语言了（本质上就是通过AI大模型，对下一个token的预测准确率大大的提高了，如何通过prompt也就是输入进一步提高准确率这一话题，以后有机会再写），这个时候和“它”对话，其作用逐渐显现出来，感觉也越来越像人了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcc025c1f6cef59e4c8734e667d5e75ff348760472d5880932d03eb262c0bdcb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7632676963486733304d3832356569634877484a557164755931397144566164335150457377764f7045686e473337565a426b736e696151672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/fcc025c1f6cef59e4c8734e667d5e75ff348760472d5880932d03eb262c0bdcb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7632676963486733304d3832356569634877484a557164755931397144566164335150457377764f7045686e473337565a426b736e696151672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLv2gicHg30M825eicHwHJUqduY19qDVad3QPEswvOpEhnG37VZBksniaQg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>因此时至今日，AI Agent这最重要的一环逐渐闭合了。AI Agent即将发挥越来越重要的作用，可以预见，未来AI Agent将出现大量的应用，将很大程度上改变我们的生活和工作。</p>
+<p>5、所以AI Agent=AI大模型（LLM）+Planning（规划）+Momory（记忆）+Tools（工具）。</p>
+<p>二、如何用扣子（COZE）做一个AI Agent，更具体一点就是知识库机器人</p>
+<p>1、扣子（COZE）分为国内版和国外版</p>
+<p>（1）国内版：<a href="https://www.coze.cn%E3%80%82" rel="nofollow">https://www.coze.cn。</a></p>
+<p>大模型使用的是字节自研的云雀大模型和kimi大模型。</p>
+<p>国内版官方文档教程：<a href="https://www.coze.cn/docs/guides/welcome" rel="nofollow">https://www.coze.cn/docs/guides/welcome</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a2c6c15d5e8568af48fd2c3840714de8dcc299ba98c764bc6ad10a59eb614733/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c55795370524e33486577684377674532683365736854786d71775164764c796d77514869616b726f6148414d7153585636696241716a72672f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/a2c6c15d5e8568af48fd2c3840714de8dcc299ba98c764bc6ad10a59eb614733/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c55795370524e33486577684377674532683365736854786d71775164764c796d77514869616b726f6148414d7153585636696241716a72672f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLUySpRN3HewhCwgE2h3eshTxmqwQdvLymwQHiakroaHAMqSXV6ibAqjrg/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>（2）国外版：<a href="https://www.coze.com/" rel="nofollow">https://www.coze.com/</a></p>
+<p>大模型使用的是GPT-3.5，GPT-4（是的，在这是可以免费用GPT-4的），但是需要一些科学上网的方法。</p>
+<p>国外版官方文档教程：<a href="https://www.coze.com/docs/guides/welcome" rel="nofollow">https://www.coze.com/docs/guides/welcome</a>    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9b36cf5f2b12042bb9746026e65df1f56d98c25c1356954a7a2104d94c1c61db/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7a6961366e737779746962573962684f517772747277706e525a7a5262395a6962555165654633544279684b777363586b586c414a586c6962672f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/9b36cf5f2b12042bb9746026e65df1f56d98c25c1356954a7a2104d94c1c61db/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7a6961366e737779746962573962684f517772747277706e525a7a5262395a6962555165654633544279684b777363586b586c414a586c6962672f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLzia6nswytibW9bhOQwrtrwpnRZzRb9ZibUQeeF3TByhKwscXkXlAJXlibg/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>国外版的COZE的确比国内版的要香一些，但是国内版的一些功能也在不断地完善。就是在大模型对话方面，GPT-4的确要顺滑多了。体验上的排序如下：GPT-4&gt;GPT-3.5=kimi&gt;云雀大模型。</p>
+<p>我们的教程就以国内版COZE来进行。</p>
+<p>2、扣子（COZE）功能介绍</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a2c6c15d5e8568af48fd2c3840714de8dcc299ba98c764bc6ad10a59eb614733/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c55795370524e33486577684377674532683365736854786d71775164764c796d77514869616b726f6148414d7153585636696241716a72672f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/a2c6c15d5e8568af48fd2c3840714de8dcc299ba98c764bc6ad10a59eb614733/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c55795370524e33486577684377674532683365736854786d71775164764c796d77514869616b726f6148414d7153585636696241716a72672f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLUySpRN3HewhCwgE2h3eshTxmqwQdvLymwQHiakroaHAMqSXV6ibAqjrg/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>以下内容来自扣子官方指南：<a href="https://www.coze.cn/docs/guides/function_overview%E3%80%82" rel="nofollow">https://www.coze.cn/docs/guides/function_overview。</a></p>
+<p><strong>这部分可迅速的略过，在制作的过程中，在回过头看一下相关功能。</strong></p>
+<p>基础能力    </p>
+<p>你可以使用扣子提供的以下功能，定制你的 AI Bot：</p>
+<p>（1）提示词（人设与回复逻辑功能）</p>
+<p>设定 Bot 的身份及其目标和技能，例如产品问答助手、新闻播报员、翻译助理等等。Bot 的提示词决定了 Bot 如何与你的用户进行互动。</p>
+<p>（2）插件</p>
+<p>通过 API 连接集成各种平台和服务，扩展 Bot 能力。扣子平台内置丰富的插件供你直接调用，你也可以创建自定义插件，将你所需要的 API 集成在扣子内作为插件来使用。</p>
+<p>（3）工作流</p>
+<p>一种用于规划和实现复杂功能逻辑的工具。你可以通过拖拽不同的任务节点来设计复杂的多步骤任务，提升 Bot 处理复杂任务的效率。</p>
+<p>（4）触发器</p>
+<p>允许用户在与 Bot 对话过程中，根据用户所在时区创建定时任务。例如“每天早上八点推送新闻”。每个对话中最多创建 3 条定时任务。</p>
+<p>（5）记忆库</p>
+<p>扣子的记忆库功能可以保留和理解对话细节，并支持添加外部知识库给模型补充知识，使 Bot 与用户的互动更加有针对性和个性化。你可以通过以下方式来存储和管理外部知识。</p>
+<p>知识库：支持上传本地或线上内容，然后将这些内容分割成知识分片，通过语义匹配给模型补充知识。</p>
+<p>（6）变量</p>
+<p>用于保存用户个人信息，让Bot记住用户的特征，使回复更加个性化。</p>
+<p>（7）数据库</p>
+<p>用来存储和管理结构化数据，并支持用户通过自然语言方式对数据库中的数据进行增删改查。    </p>
+<p>（8）长期记忆</p>
+<p>总结聊天对话的内容，并用于更好的相应用户的消息。</p>
+<p>（9）开场白</p>
+<p>设置 Bot 对话的开场语，让用户快速了解 Bot 的功能。例如 我是一个旅行助手 Bot，我能帮助你计划行程和查找旅行信息。</p>
+<p>（10）用户问题建议</p>
+<p>Bot 每次响应用户问题后，系统会根据上下文自动提供三个相关的问题建议给用户使用。</p>
+<p>（11）音色</p>
+<p>为 Bot 选择与用户交流使用的音色。</p>
+<p>高级能力</p>
+<p>除了上述简单易用的搭建能力，扣子平台还提供了以下高级功能，让你更加灵活的设计、使用搭建的 Bot。</p>
+<p>（12）数据分析</p>
+<p>扣子平台为每个 Bot 提供了数据分析看板，让你可以通过数据得知 Bot 的使用情况。例如活跃用户数、留存率等。</p>
+<p>（13）多发布渠道</p>
+<p>扣子支持将搭建的 Bot 发布到各种社交应用中，让你的 Bot 服务更多的用户。</p>
+<p>接下来我们结合实际案例来熟悉这些功能。</p>
+<p>3、搭建网站（www.17ai.site）知识库机器人</p>
+<p><strong>（1）该机器人产品的背景、目的及价值</strong></p>
+<p>最近几个月AI的发展非常的迅猛，几乎每天都在发生变化，我在查找相关信息的过程中就发现，大量的时间花在了查找、分辨高质量内容的方面。    </p>
+<p>我就想能不能边查找AI相关信息的同时，边将高质量的内容整合到一起呢，我想，这是有价值的。于是做了一个AI信息聚合网站www.17ai.site。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9c413975dcf13cef099562ae081e15e042002161390b19836c167608d37c5db8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c33736a4f6d6962396b6641533669625365584866526d65346e4f6e66736d7a377043724f6768785a4a4b7a744432344849684c76716d79672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/9c413975dcf13cef099562ae081e15e042002161390b19836c167608d37c5db8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c33736a4f6d6962396b6641533669625365584866526d65346e4f6e66736d7a377043724f6768785a4a4b7a744432344849684c76716d79672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNL3sjOmib9kfAS6ibSeXHfRme4nOnfsmz7pCrOghxZJKztD24HIhLvqmyg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/168a1619d5e7bea187f943f386ae659b1e7e811206b25a2b728e6119dec6d1d7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c797468767974786c337468584842514543477a75356c7a57594569633368363067703857386c646a48686433416961617a334a4e595059772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/168a1619d5e7bea187f943f386ae659b1e7e811206b25a2b728e6119dec6d1d7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c797468767974786c337468584842514543477a75356c7a57594569633368363067703857386c646a48686433416961617a334a4e595059772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLythvytxl3thXHBQECGzu5lzWYEic3h60gp8W8ldjHhd3Aiaaz3JNYPYw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>从体验上来看，一方面随着信息越来越多，单靠分类、标签，用户仍然会越来越难以查找到自己想要找到的信息。另一方面，站内搜索的体验感很差，很多信息搜不出来，用机器人对话体验感则好了很多。</p>
+<p>看下面的示例，同样搜GPT网站内容，站内搜索搜不出来，机器人会帮你找到，提供教程链接，并给出简短的介绍，体验感好很多。</p>
+<p>所以制作这个知识库机器人的目的是：基于www.17AI.site网站内的信息，为用户提供更高效的检索服务，助其找到高质量内容。    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/29398a29ad1e68cfa1606181345f7aa4431d1ab51e51c1ffd6ff2a0e7ee977dc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c495a746e305548375132307a75576962654978383735466442526630675345615669626c745052336b4f4e78676e68716769626e79493943512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/29398a29ad1e68cfa1606181345f7aa4431d1ab51e51c1ffd6ff2a0e7ee977dc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c495a746e305548375132307a75576962654978383735466442526630675345615669626c745052336b4f4e78676e68716769626e79493943512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLIZtn0UH7Q20zuWibeIx875FdBRf0gSEaVibltPR3kONxgnhqgibnyI9CQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c8be09a5b3a53cdd413e62ac9e2af63ea135b95e827502cdbd57418796569f2e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c50317a53777242686a4a7278675755585767306d724457744c6b6e6a486f4461313779586f43704a514e6e30346e6b5356717a4666512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/c8be09a5b3a53cdd413e62ac9e2af63ea135b95e827502cdbd57418796569f2e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c50317a53777242686a4a7278675755585767306d724457744c6b6e6a486f4461313779586f43704a514e6e30346e6b5356717a4666512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLP1zSwrBhjJrxgWUXWg0mrDWtLknjHoDa17yXoCpJQNn04nkSVqzFfQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>（2）先搞清楚扣子（COZE）机器人运行的最大问题</strong></p>
+<p>搭建这个知识库机器人的目的是为了高质量的搜索站内信息。但是实话实说扣子（COZE）里面现在的<strong>两个AI大模型（云雀、kimi）非常喜欢“夹带私货”，无论我怎么通过提示词强调也没用，总是将无关信息呈现出来。</strong></p>
+<p><strong>相较而言GPT-4就非常的“听话”，绝对不会越俎代庖，这就是大模型之间的差距了。</strong></p>
+<p>后来经过我非常多次的调试、试验，在“人设与回复逻辑”里面用云雀大模型并配上以下提示词（这里不要用kimi，非常非常“不听话”，工作流里面再用它），会相对的减少这种情况的出现（看看提示词里面有多少！就可以想象我经历了什么）    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad52126264680b03ca8818928fbf76dbcca7a8e9a7b7b1d5282e7bdff716939f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c45715a5538595975366646737a423666414c377138706b61377436646b7838334b6f63447876497449724d337054686e384a576d68412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/ad52126264680b03ca8818928fbf76dbcca7a8e9a7b7b1d5282e7bdff716939f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c45715a5538595975366646737a423666414c377138706b61377436646b7838334b6f63447876497449724d337054686e384a576d68412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLEqZU8YYu6fFszB6fAL7q8pka7t6dkx83KocDxvItIrM3pThn8JWmhA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>这里是你和Bot直接对话的地方，所以哪怕你后面什么都没做，Bot也会根据你的提示词行动。</p>
+<p><strong>（3）搭建AI机器人的工作流程</strong></p>
+<p><strong>站内信息整合→创建知识库→创建工作流→编写Bot提示词→调试、优化→发布</strong></p>
+<p><strong>（4）站内信息整合</strong></p>
+<p>我将网站内的信息整合成了表格，表格分成了两个类型，一个是网站类，一个是文章类。</p>
+<p>网站类保留了4个选项，网站名称、网站简介、网站标签、网址</p>
+<p>文章类保留了6个选项，日期、星级、一级分类、二级分类、文章标题、网址</p>
+<p>这样是为了后面可以<strong>多维度的搜索相关信息，这样能更加精准的搜到想要找到的信息。</strong></p>
+<p>比如我想搜索：近7天内，星级4星以上的，关于AI开发的文章。就可以精准的找到。</p>
+<p>所以高质量的信息源也是非常关键的。    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6262a14ab913bb660b2b7f5d057142a114e22c8ec91b81149a384e759d8a084d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c48665454675359316d6c5471567146754c526c36354b546e716962526c6f4a71617969613346467734746c623653613169613444664f3571672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/6262a14ab913bb660b2b7f5d057142a114e22c8ec91b81149a384e759d8a084d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c48665454675359316d6c5471567146754c526c36354b546e716962526c6f4a71617969613346467734746c623653613169613444664f3571672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLHfTTgSY1mlTqVqFuLRl65KTnqibRloJqayia3FFw4tlb6Sa1ia4DfO5qg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ffaabf55d88beb381b3a6fdaa18e161da8cf3acde7cc1a53c1529c853a7f4812/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c636e31696232446963425177744c357a43476d655575767a51734264534e324b3537515a356f705161414649644d645042337763364b68412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/ffaabf55d88beb381b3a6fdaa18e161da8cf3acde7cc1a53c1529c853a7f4812/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c636e31696232446963425177744c357a43476d655575767a51734264534e324b3537515a356f705161414649644d645042337763364b68412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLcn1ib2DicBQwtL5zCGmeUuvzQsBdSN2K57QZ5opQaAFIdMdPB3wc6KhA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>（5）创建知识库</strong></p>
+<p>点击“个人空间”-“知识库”-“创建知识库”    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e1db72cfb3df75a86524cd9a81b0a5b829015b12cbe07c70789d146030596b3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c524d48454751554d5362643943684154686a5447377944707947355455335948384469624e43526251344a6d316e6d66387a44525349672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/6e1db72cfb3df75a86524cd9a81b0a5b829015b12cbe07c70789d146030596b3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c524d48454751554d5362643943684154686a5447377944707947355455335948384469624e43526251344a6d316e6d66387a44525349672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLRMHEGQUMSbd9ChAThjTG7yDpyG5TU3YH8DibNCRbQ4Jm1nmf8zDRSIg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>起个名字，然后点击“新增单元”</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e93316153e10645c1086fd7b67746bbf2599e29541681fb9321c73ebe0b16882/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c4f47316d6c437470773878776f305262516475444f6364506961445877476f5363636962316362363569634e76525664794e676563554a6a412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/e93316153e10645c1086fd7b67746bbf2599e29541681fb9321c73ebe0b16882/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c4f47316d6c437470773878776f305262516475444f6364506961445877476f5363636962316362363569634e76525664794e676563554a6a412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLOG1mlCtpw8xwo0RbQduDOcdPiaDXwGoSccib1cb65icNvRVdyNgecUJjA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>点击“表格格式”-“本地文档”</p>
+<p>注意：这里还可以选择其他文档形式比如word、pdf等，还可以在线采集等方式，<strong>但是这些方式结构不清晰，知识库在导入的时候会自动分割大小（这涉及到知识库的RAG相关知识，这里不赘述），导致检索质量不稳定。所以我比较倾向于用结构清晰的excel表格。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7cbb4b5e97bc3ad34f29901e2bc113ba28b60b3bc1835d6102cc4ae8cde93b71/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c71535571724f525a6c42686477595145705667486d6459365766786b4f4956654f356a533144496f79626764437442416b52394f47412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/7cbb4b5e97bc3ad34f29901e2bc113ba28b60b3bc1835d6102cc4ae8cde93b71/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c71535571724f525a6c42686477595145705667486d6459365766786b4f4956654f356a533144496f79626764437442416b52394f47412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLqSUqrORZlBhdwYQEpVgHmdY6WfxkOIVeO5jS1DIoybgdCtBAkR9OGA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>将表格拖入上传    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d817bf176a899d0d80adc2b4fc8022bc73cab9e1e8f1cdcbb9b8277a89d93b67/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7530486167764f3159524e59503544486c39764669616f414243554c6b4677355a544b527565334a396741534757735033386f415245512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/d817bf176a899d0d80adc2b4fc8022bc73cab9e1e8f1cdcbb9b8277a89d93b67/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7530486167764f3159524e59503544486c39764669616f414243554c6b4677355a544b527565334a396741534757735033386f415245512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLu0HagvO1YRNYP5DHl9vFiaoABCULkFw5ZTKRue3J9gASGWsP38oAREQ/640?wx_fmt=png" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f595031c1549a2852abf8dfa02af5623591da082db2d363ed30f9e067e69683b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c386d6a5a31464e4a6b534837736961514c69625361567a6b4b6e376b746d6f716e474547614437376961675535646d4b526d667763494755412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/f595031c1549a2852abf8dfa02af5623591da082db2d363ed30f9e067e69683b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c386d6a5a31464e4a6b534837736961514c69625361567a6b4b6e376b746d6f716e474547614437376961675535646d4b526d667763494755412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNL8mjZ1FNJkSH7siaQLibSaVzkKn7ktmoqnGEGaD77iagU5dmKRmfwcIGUA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>选择索引项，就是按哪一项进行搜索，比如这里选“一级分类”，我就可以搜索出比如“AI资讯”、“AI实践”等信息出来。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9363fb4a1769db0f715d9ae7a2ff131ef4ad1d3ba7c6d336333504e1bc948442/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c6861314f67654b52674b5736774e6135676e6d4e48525a69636b774769635a324b624a4b5341657169634f584a6f726762344d696262514d54772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/9363fb4a1769db0f715d9ae7a2ff131ef4ad1d3ba7c6d336333504e1bc948442/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c6861314f67654b52674b5736774e6135676e6d4e48525a69636b774769635a324b624a4b5341657169634f584a6f726762344d696262514d54772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLha1OgeKRgKW6wNa5gnmNHRZickwGicZ2KbJKSAeqicOXJorgb4MibbQMTw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/54822bcadeac9a2e2bb06eca57abc900ee2274305ea605757bd01c4797c2ba70/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c4a4e795a4a636a496b636d68456275466a49334e6d4f524b484953474756784b36446a69635154337147714c5656345237454a534376412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/54822bcadeac9a2e2bb06eca57abc900ee2274305ea605757bd01c4797c2ba70/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c4a4e795a4a636a496b636d68456275466a49334e6d4f524b484953474756784b36446a69635154337147714c5656345237454a534376412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLJNyZJcjIkcmhEbuFjI3NmORKHISGGVxK6DjicQT3qGqLVV4R7EJSCvA/640?wx_fmt=png" style="max-width: 100%;"></a><br>
+   </p>
+<p>上传完毕，之后再想增加内容的时候，就点击添加内容即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/98610fce208cf94f0905990a5bdec9d9b970cb6c43fb16342fc3a562b2268776/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c55584e6464454e76416b4369614231447143746d476a4944743831326a38586e5157495a70324b534d6c4b6a6169633447497838484b77772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/98610fce208cf94f0905990a5bdec9d9b970cb6c43fb16342fc3a562b2268776/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c55584e6464454e76416b4369614231447143746d476a4944743831326a38586e5157495a70324b534d6c4b6a6169633447497838484b77772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLUXNddENvAkCiaB1DqCtmGjIDt812j8XnQWIZp2KSMlKjaic4GIx8HKww/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>这里还有问题就是如果一个表格，我除了按“一级分类”搜索之外，我还希望按“二级分类”和“文章标题”来搜索怎么办。很简单，那就多建立几个表格就行了。</strong></p>
+<p>到这里，知识库创建完毕</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce5bd730cec4a4457202fe05c83b8c309b7bfd2a3f82650b4330437db47e6e0e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c5541456649464f4277583935594d446e6961315a6553576962785876386963735231734877426546424e644d35474a41765656327435636d672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/ce5bd730cec4a4457202fe05c83b8c309b7bfd2a3f82650b4330437db47e6e0e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c5541456649464f4277583935594d446e6961315a6553576962785876386963735231734877426546424e644d35474a41765656327435636d672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLUAEfIFOBwX95YMDnia1ZeSWibxXv8icsR1sHwBeFBNdM5GJAvVV2t5cmg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>（6）创建工作流</strong></p>
+<p>点击“个人空间”-“工作流”-“创建工作流”</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b6bf953c7425a3d4e2866b9e71d5cf016c9b74e09b4d871035d995cbd63d4738/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c677774535069626a39356b72593650784e6d554a656146326d7376353139456c395965333672704e53586f69636963674151496e6a4b7375512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/b6bf953c7425a3d4e2866b9e71d5cf016c9b74e09b4d871035d995cbd63d4738/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c677774535069626a39356b72593650784e6d554a656146326d7376353139456c395965333672704e53586f69636963674151496e6a4b7375512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLgwtSPibj95krY6PxNmUJeaF2msv519El9Ye36rpNSXoicicgAQInjKsuQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>新建好的页面长这样，一个开始，一个结束，一个输入，一个输出。<strong>这也表明了工作流的作用，就是接收输入，比如用户打字提问，最后输出贴合这个问题的回答。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8c526ab6a9c3af24ca5e7c5ef14e5cc4db2825135248b8132d239b78638854a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c4a6c5267584f684478645a30484d464969634346477838427a585766536266396a554d3535354a506836386c314c5057753579523553672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/e8c526ab6a9c3af24ca5e7c5ef14e5cc4db2825135248b8132d239b78638854a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c4a6c5267584f684478645a30484d464969634346477838427a585766536266396a554d3535354a506836386c314c5057753579523553672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLJlRgXOhDxdZ0HMFIicCFGx8BzXWfSbf9jUM555JPh68l1LPWu5yR5Sg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>a.开始节点</p>
+<p>输入变量名称”question”，这个变量将存储用户的输入信息。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/58cc0e0d2c79db57c22d81cd8200ca12c8734cf6dce5578a343b18f713369236/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c744e3256387a6f586b746a6f77436c525952326b36513943674e6b78774c4c386a41545a6142666b69616b58476b6963596961496d54486f412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/58cc0e0d2c79db57c22d81cd8200ca12c8734cf6dce5578a343b18f713369236/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c744e3256387a6f586b746a6f77436c525952326b36513943674e6b78774c4c386a41545a6142666b69616b58476b6963596961496d54486f412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLtN2V8zoXktjowClRYR2k6Q9CgNkxwLL8jATZaBfkiakXGkicYiaImTHoA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>b.知识库节点</p>
+<p>点击左边“知识库”-“+”，将刚才开始节点与知识库节点连接起来。</p>
+<p>在输入项，选择刚才开始节点的变量“question”。</p>
+<p>点击知识库右边的“+”，选择刚才建立好的知识库“17AIsite”。</p>
+<p>搜索策略根据情况选择，我选的是“混合”，最大召回量就是从知识库中输出的最大段落数，数量越大，速度越慢。</p>
+<p>最小匹配度，就是搜出来的结果，数值越大，筛选的标准越严格，输出的数据越少，数值越小，筛选的标准越松，输出的数据越多。比如搜出来10个结果，这里的数值如果是0.8，那么输出的结果可能就只有1、2个，如果数值是0.2，那么输出的结果可能就是8、9个。在调试的过程中，可以自行调整看一下，找到最合适的数值。    </p>
+<p>输出部分不用管。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1034738cbe75f2b67d3d24a15b2aa1aa5ea51b1d49ecfd5cef1fe6f65417f07b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c654f35696239794a5a755151324a77326d68536c6f495844647a6761625269627874357971797954706c304b68654232773056704e4561772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/1034738cbe75f2b67d3d24a15b2aa1aa5ea51b1d49ecfd5cef1fe6f65417f07b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c654f35696239794a5a755151324a77326d68536c6f495844647a6761625269627874357971797954706c304b68654232773056704e4561772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLeO5ib9yJZuQQ2Jw2mhSloIXDdzgabRibxt5yqyyTpl0KheB2w0VpNEaw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>c.大模型节点</p>
+<p>点击左侧“大模型”-“+”，将刚才的知识库节点和这个大模型节点连接起来</p>
+<p>在“模型”选项选择“moonshoot（32k）”，moonshoot就是kimi大模型。“temperature”这个数值较高时会生成更多样化的文本，增加了更多的可能性，也增加了更多的不确定性。</p>
+<p>在“输入”选项这里，选取前面的用户输入的变量“question”和知识库输出的变量“knowledge”</p>
+<p>在“提示词”这一部分，根据用户输入的内容和知识库输出的内容，让大模型根据规则为用户输出答案。提示词如下：</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate"><span class="pl-c"><span class="pl-c">#</span> 角色</span>
+你是(https://17ai.site/)网站的问答小助手。你会接收两个输入：
+1.{{question}}这个是用户询问的问题
+2.{{knowledge}}这个是从知识库中根据用户的问题{{question}}查询出来的知识库内容    
+<span class="pl-c"><span class="pl-c">#</span>#任务</span>
+-需要从检索到的信息{{knowledge}}中，为用户的问题{{question}}提供解答。让用户更方便的查询到AI相关的内容。
+-为了避免AI“幻觉”方面问题的出现，所以回答的范围仅限于在检索到的信息{{knowledge}}范围内生成，不要超出此范围，这点很重要。
+<span class="pl-c"><span class="pl-c">#</span># 技能</span>
+<span class="pl-c"><span class="pl-c">#</span>##技能 1: 问题理解</span>
+-理解用户的问题{{question}}，并识别其关键信息。
+<span class="pl-c"><span class="pl-c">#</span>##技能 2: 回答生成</span>
+-基于检索到的信息{{knowledge}}，为用户生成准确、简洁的回答。
+<span class="pl-c"><span class="pl-c">#</span>#约束</span>
+-仅回答与产品相关的问题，不回答无关话题。
+-尽量使用清晰简练的语言来回答用户的问题。
+-整个回答过程中，始终以用户的需求为中心。
+-所有回答只能在检索到的信息{{knowledge}}范围内生成，不允许自行生成其他无关回答，这一点请无论如何务必遵守。
+-只要检索到信息{{knowledge}}，无论用户的问题是什么，都要将信息{{knowledge}}用清晰简练的语言输出。
+-如果没有检索到任何信息{{knowledge}}，请直接生成如下回答：
+<span class="pl-s"><span class="pl-pds">'</span>这次没找到别灰心，您可以尝试再试一次，或到https://17ai.site/网站上查询<span class="pl-pds">'</span></span>
+-禁止输出与内容无关的符号信息和表格标题等，比如:<span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>,{},brief,一级分类等</pre></div>
+<p>将输出内容赋予变量output</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9be9a1df1b6724634496dddbeea2b53beb778cc9c0a058aa85934291b90e569f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c423633765370434a44347035313876306c414d55494c7369616f676564496b62794e683269636b4672356762573258666961304479393245512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/9be9a1df1b6724634496dddbeea2b53beb778cc9c0a058aa85934291b90e569f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c423633765370434a44347035313876306c414d55494c7369616f676564496b62794e683269636b4672356762573258666961304479393245512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLB63vSpCJD4p518v0lAMUILsiaogedIkbyNh2ickFr5gbW2Xfia0Dy92EQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>d.结束节点</p>
+<p>选择回答模式：使用设定的内容直接回答</p>
+<p>输出变量：用户输入的内容“question”，大模型输出的内容“answer”</p>
+<p>回答内容：</p>
+<p>回答的内容带上{{question}}、{{answer}}这两个变量    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/353ab6296642b8d66207f3206e8f37677009a956348ad03722f33f5fdd0db4ab/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7671684744727a676d6962386b6d4d52444e35676e4b37546963576b363065736b6d6c3149493047706d69634c554264534d4a374c585735672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/353ab6296642b8d66207f3206e8f37677009a956348ad03722f33f5fdd0db4ab/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7671684744727a676d6962386b6d4d52444e35676e4b37546963576b363065736b6d6c3149493047706d69634c554264534d4a374c585735672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLvqhGDrzgmib8kmMRDN5gnK7TicWk60eskml1II0GpmicLUBdSMJ7LXW5g/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>e.试运行并发布</p>
+<p>点击“试运行”</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c7eb22ce9adcf305517a34b83c5557212ce5800cd5b49cc434a5f372d94e8976/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c526b614e77434f3344657736494f7a716538696165524779436f3761706a766962696176494663796e4d435978304332664a76477769636632512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/c7eb22ce9adcf305517a34b83c5557212ce5800cd5b49cc434a5f372d94e8976/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c526b614e77434f3344657736494f7a716538696165524779436f3761706a766962696176494663796e4d435978304332664a76477769636632512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLRkaNwCO3Dew6IOzqe8iaeRGyCo7apjvibiavIFcynMCYx0C2fJvGwicf2Q/640?wx_fmt=png" style="max-width: 100%;"></a><br>
+   </p>
+<p>输入问题，选择Bot，点击运行</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/394c029fb0ae6107a54f287d8ab81c05fc410cbf64e922492ab99e67f19e84e6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c74786551734f77527a4d35655a7a37684d54576d5845696169614a4c30576469626e767833395274666961556c7769636b6f6157625a4641554e772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/394c029fb0ae6107a54f287d8ab81c05fc410cbf64e922492ab99e67f19e84e6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c74786551734f77527a4d35655a7a37684d54576d5845696169614a4c30576469626e767833395274666961556c7769636b6f6157625a4641554e772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLtxeQsOwRzM5eZz7hMTWmXEiaiaJL0Wdibnvx39RtfiaUlwickoaWbZFAUNw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>可以看到运行结果没问题    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f369ab7cd1c6bee44b5d99f7243599a121ae674b9694b07db46082f71064275d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c57796269625a4573524c56464c7030696156347131725236735051536f4955396a6962714b5a616d4739744a63476963776961584743734c3261512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/f369ab7cd1c6bee44b5d99f7243599a121ae674b9694b07db46082f71064275d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c57796269625a4573524c56464c7030696156347131725236735051536f4955396a6962714b5a616d4739744a63476963776961584743734c3261512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLWybibZEsRLVFLp0iaV4q1rR6sPQSoIU9jibqKZamG9tJcGicwiaXGCsL2aQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>还可以看一下其他节点的运行结果。</p>
+<p><strong>可以看到从知识库的输出到大模型的输出，很明显无论是文字表述还是排版都得到了很大的提升。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a8128f0eff9588e8c0cb8b9bd7fb298c7313a8e848766fd40c00597e6dddf0a8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c6a6c6e62506770394479765247507a6a6f4672434874343744774169627745564d4c7055715255335a345a4f4b696379644d7749487870412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/a8128f0eff9588e8c0cb8b9bd7fb298c7313a8e848766fd40c00597e6dddf0a8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c6a6c6e62506770394479765247507a6a6f4672434874343744774169627745564d4c7055715255335a345a4f4b696379644d7749487870412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLjlnbPgp9DyvRGPzjoFrCHt47DwAibwEVMLpUqRU3Z4ZOKicydMwIHxpA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>确定没问题了，就点击发布</p>
+<p>至此，工作流内容完成。    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/732e8381fc073b127ba554949c28800a5a20e9344f437f1e109ddaa826e2d633/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c746a4d577834597366554d46565641663548425239424b4e74686d384b414473636462414c6963374a525159784c696159726432777946512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/732e8381fc073b127ba554949c28800a5a20e9344f437f1e109ddaa826e2d633/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c746a4d577834597366554d46565641663548425239424b4e74686d384b414473636462414c6963374a525159784c696159726432777946512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLtjMWx4YsfUMFVVAf5HBR9BKNthm8KADscdbALic7JRQYxLiaYrd2wyFQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>（7）编写Bot提示词→调试、优化→发布</strong></p>
+<p>返回Bots，点击“17AI小助手”，完成其他环节，并自行调试、优化</p>
+<p>这些比较简单，就略过了。</p>
+<p>全部完成之后，点击“发布”，选择发布渠道</p>
+<p>我选择了如下4个渠道，Bot Store、豆包、飞书、订阅号</p>
+<p>至此，知识库机器人就创建完成了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/971ef6cf2b392ad97455134555a725178888243a24e199b88bf13b3a2ca23dfd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c72415741314d3867305a483367485a4138754b563453494d4c62644a344d614a4736747a4c4d754a7a396a6844516962426457357561672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/971ef6cf2b392ad97455134555a725178888243a24e199b88bf13b3a2ca23dfd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c72415741314d3867305a483367485a4138754b563453494d4c62644a344d614a4736747a4c4d754a7a396a6844516962426457357561672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLrAWA1M8g0ZH3gHZA8uKV4SIMLbdJ4MaJG6tzLMuJz9jhDQibBdW5uag/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf25844f41f355c75ff27760c6377ebd27176c66d0ecd1da52fd4c457ee62fc2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c4c335534704a4c6745637548316f596169635271744f47763947326963354d564b777473696232453249586b50306961426f474a3276777776412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/bf25844f41f355c75ff27760c6377ebd27176c66d0ecd1da52fd4c457ee62fc2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c4c335534704a4c6745637548316f596169635271744f47763947326963354d564b777473696232453249586b50306961426f474a3276777776412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLL3U4pJLgEcuH1oYaicRqtOGv9G2ic5MVKwtsib2E2IXkP0iaBoGJ2vwwvA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>（8）各渠道体验</strong></p>
+<p>各渠道除了订阅号的表现不太稳定（时好时坏）之外，其他的都还可以。</p>
+<p><strong>a、订阅号体验入口：</strong> <strong>我的公众号“王笑东”，对话框</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/88e295cda5c6d157786b67b8c3aa37f997bba38e33014f77ce95455d42784e50/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c78395437366650696158624f7a56555168674164746a7a4b7543633034726e39795932443137426f46677832696164516f5a7573625450672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/88e295cda5c6d157786b67b8c3aa37f997bba38e33014f77ce95455d42784e50/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c78395437366650696158624f7a56555168674164746a7a4b7543633034726e39795932443137426f46677832696164516f5a7573625450672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLx9T76fPiaXbOzVUQhgAdtjzKuCc04rn9yY2D17BoFgx2iadQoZusbTPg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>b、豆包体验入口：</strong></p>
+<p><strong><a href="https://www.doubao.com/chat/19574572603906" rel="nofollow">https://www.doubao.com/chat/19574572603906</a></strong>    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7121acad92a2bb68b814979c89a8c3277f778141a81833e78bfe0b12b0662dd4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7049355856787377796e6650736437576962374b527561456962596c494c4e4b35303754394d35585a6e6d4a7854535855615250784f32672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/7121acad92a2bb68b814979c89a8c3277f778141a81833e78bfe0b12b0662dd4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c7049355856787377796e6650736437576962374b527561456962596c494c4e4b35303754394d35585a6e6d4a7854535855615250784f32672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLpI5XVxswynfPsd7Wib7KRuaEibYlILNK507T9M5XZnmJxTSXUaRPxO2g/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>c、飞书体验入口：</strong></p>
+<p><strong><a href="https://applink.feishu.cn/T8LZq6JEloki" rel="nofollow">https://applink.feishu.cn/T8LZq6JEloki</a></strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c12273dc9161eae9ccaee5db730140db8917c2bf685c69ad474ab47f0dd8e4c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c626835577067773061426e356e434c356e45377a7a68766e6e746131516a6d4f4a327754453579496962794b78414f6148596e65696145412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/c12273dc9161eae9ccaee5db730140db8917c2bf685c69ad474ab47f0dd8e4c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c626835577067773061426e356e434c356e45377a7a68766e6e746131516a6d4f4a327754453579496962794b78414f6148596e65696145412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNLbh5Wpgw0aBn5nCL5nE7zzhvnnta1QjmOJ2wTE5yIibyKxAOaHYneiaEA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>三、AI Agent的未来</p>
+<p>其实知识库机器人只是AI Agent一个很小的应用场景，我相信在不久的将来，AI Agent会在方方面面出现很多不同于以往的应用。</p>
+<p>我就由我们的知识库机器人这个案例推导一下，大家可以想象一下未来会不会有这样的应用。</p>
+<p><strong>一家企业将他们所有的资料都打包做成知识库，让AI大模型通过不断训练，然后开放给内部员工使用。</strong></p>
+<p><strong>基层员工可以通过这个机器人进行培训、答疑，帮助处理各类问题（比如技术上的，服务上的等等）</strong></p>
+<p><strong>营销文案、设计等工作，只要和机器人简单的沟通对话，就能很快的得到相应的文案和设计图片。</strong></p>
+<p><strong>人事行政工作，让机器人写一些办公文档完全不在话下，通过与各级员工的对话+员工的各项数据，对每名员工进行人事分析评测也将变得更有效率。</strong></p>
+<p><strong>复杂的企业各种系统问题，由于有大量的系统文本输入，再加上所有员工相关问题的搜集整理，AI大模型将会不断地得到反馈并优化解决方案。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d8cf62d650720a5c26a450c1b15714b2d2c4f28d4d8fdab75d7fb311d1f1ab00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655932746d667478416a6e6f5355766a3269625938433850683767465777544b466236725149774470385949343249564f59577751365443377a474c64755068514a4830376f754f496c64687868672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d8cf62d650720a5c26a450c1b15714b2d2c4f28d4d8fdab75d7fb311d1f1ab00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655932746d667478416a6e6f5355766a3269625938433850683767465777544b466236725149774470385949343249564f59577751365443377a474c64755068514a4830376f754f496c64687868672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2tmftxAjnoSUvj2ibY8C8Ph7gFWwTKFb6rQIwDp8YI42IVOYWwQ6TC7zGLduPhQJH07ouOIldhxhg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>多Agents模式用于更复杂场景，长期记忆让Bot不断优化总结</p>
+<p>以上并不是想象，现在AI大模型基本上都可以实现，只是这样的应用还未出现，但我相信不会太久。</p>
+<p>这样的应用对企业来说就是请了一名“超级数字员工”，企业成本（各种隐性成本）降低了，效率（管理效率）大大提升了，客户体验提高了，企业资产（数字资产）提升了。</p>
+<p>对于企业员工来说，会用AI就成了必备技能，让AI成为自己的助理，指挥AI去做更繁琐、更基层的事，自己则去做更有创意更有价值的事，从而为企业创造更大的价值。</p>
+<blockquote>
+<p>最后总结，我们详细探讨了如何利用扣子（COZE）平台构建一个企业级的知识库机器人，从理论到实践逐步展开。首先阐述了AI大模型与AI Agent的基本概念，并指出了AI Agent的独特能力和应用前景。</p>
+<p>通过教程，详细说明了创建一个高效知识库机器人的步骤，包括工作流的设定、知识库的建立、以及功能的优化。此过程不仅展示了技术的具体应用，也反映了AI技术在信息整合和管理数据方面的巨大潜力。通过AI Agent能够更加高效地处理和检索信息，极大地提高工作效率和决策质量。</p>
+<p>文章通过知识库机器人的实例，展望了AI Agent在未来工作和生活中的潜在影响，强调了AI技术在提高工作效率和企业数字化转型中的关键作用。</p>
+<p>以上总结在GPT-4生成的基础上，我进行了调整</p>
+</blockquote>
+<p>后续我还会不断地将更多AI应用实践的过程记录下来。希望对你有所帮助。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/391b969ebdb61e45115e4653b862bbc66e572794a998420b54804b1c017a7941/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c3679456f6b3647505433686d5354657558517771474f3552346769634547496c7951653633396f6f3230376437457564684778634d45512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/391b969ebdb61e45115e4653b862bbc66e572794a998420b54804b1c017a7941/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a397a435656526559336e51785a325a75666a445a354c59375735506a4e4c3679456f6b3647505433686d5354657558517771474f3552346769634547496c7951653633396f6f3230376437457564684778634d45512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2j9zCVVReY3nQxZ2ZufjDZ5LY7W5PjNL6yEok6GPT3hmSTeuXQwqGO5R4gicEGIlyQe639oo207d7EudhGxcMEQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>题图标题：《五一度假》</p>
+<p>AI算法提供：Midjourney V6</p>
+<p>Prompt：Japanese comics/manga,Front view,Warm light,A train is running on the track， surrounded by flowers and green grass. In the grassland， the visual effect is dreamlike with bright colors and bold shapes. Capture this moment., --q 2 --v 6.0 --ar 16:9</p>
+<p>你也可以阅读原文，了解更多AI信息及资讯。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

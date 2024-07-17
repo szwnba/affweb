@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="点关注，不迷路  
+
+免费的AI学习交流群，加我微信发送暗号“W001”，邀请进群
+
+往期精彩内容：  
+
+[【绝对干货】AI提示工程(Prompt Engineering)最佳实践](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247483957&idx=1&sn=d26f75105d5905c8ddbbec1bd5e29f2c&chksm=fbfd6bfdcc8ae2eb393a2f3ec0b5a015032465e058a02b618e142e600a26b0a3cf6212b98b92&scene=21#wechat_redirect)  
+
+[这两款Kimi Chat插件真香](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247484007&idx=1&sn=aacda2a5cc0cf180c5c11cece70e4cab&chksm=fbfd6bafcc8ae2b94e69e98073c86afd470bcb653c81ca4e262066ab1fdd12f2449dc2dec36f&scene=21#wechat_redirect)  
+
+[AI智能体｜使用扣子Coze创建知识库，看这一篇就够了（新手必看）](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247484166&idx=1&sn=9d1dd89d9a7098a79bd8755624b15f99&chksm=fbfd6acecc8ae3d8173d47cf8d371a5a09640d3f698787b1b84eb2333265288001aa06766fd7&scene=21#wechat_redirect)  
+
+[AI智能体｜使用扣子Coze搭建AI智能体，看这一篇就够了（新手必看）](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247484197&idx=1&sn=2765500d7156a9067e3c81cf0e5f1267&chksm=fbfd6aedcc8ae3fbc59ef654f45d0101836964ba421fbf92a02efc176a5ad9326a956db93399&scene=21#wechat_redirect)  
+
+[AI智能体｜我把Coze Bot接入了微信公众号](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247484211&idx=1&sn=d043c7c1f5b42183b60f308694503d7c&chksm=fbfd6afbcc8ae3edd33c9d43cf2392113184b7ad5bfe16f98551a6c78b6d1cc264a62e06e842&scene=21#wechat_redirect)  
+
+* * *
+
+大家好，我是无界生长。">
+<meta property="og:title" content="AI智能体｜使用扣子Coze创建AI绘画工作流">
+<meta property="og:description" content="点关注，不迷路  
+
+免费的AI学习交流群，加我微信发送暗号“W001”，邀请进群
+
+往期精彩内容：  
+
+[【绝对干货】AI提示工程(Prompt Engineering)最佳实践](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247483957&idx=1&sn=d26f75105d5905c8ddbbec1bd5e29f2c&chksm=fbfd6bfdcc8ae2eb393a2f3ec0b5a015032465e058a02b618e142e600a26b0a3cf6212b98b92&scene=21#wechat_redirect)  
+
+[这两款Kimi Chat插件真香](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247484007&idx=1&sn=aacda2a5cc0cf180c5c11cece70e4cab&chksm=fbfd6bafcc8ae2b94e69e98073c86afd470bcb653c81ca4e262066ab1fdd12f2449dc2dec36f&scene=21#wechat_redirect)  
+
+[AI智能体｜使用扣子Coze创建知识库，看这一篇就够了（新手必看）](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247484166&idx=1&sn=9d1dd89d9a7098a79bd8755624b15f99&chksm=fbfd6acecc8ae3d8173d47cf8d371a5a09640d3f698787b1b84eb2333265288001aa06766fd7&scene=21#wechat_redirect)  
+
+[AI智能体｜使用扣子Coze搭建AI智能体，看这一篇就够了（新手必看）](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247484197&idx=1&sn=2765500d7156a9067e3c81cf0e5f1267&chksm=fbfd6aedcc8ae3fbc59ef654f45d0101836964ba421fbf92a02efc176a5ad9326a956db93399&scene=21#wechat_redirect)  
+
+[AI智能体｜我把Coze Bot接入了微信公众号](http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&mid=2247484211&idx=1&sn=d043c7c1f5b42183b60f308694503d7c&chksm=fbfd6afbcc8ae3edd33c9d43cf2392113184b7ad5bfe16f98551a6c78b6d1cc264a62e06e842&scene=21#wechat_redirect)  
+
+* * *
+
+大家好，我是无界生长。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/AI-zhi-neng-ti-%EF%BD%9C-shi-yong-kou-zi-Coze-chuang-jian-AI-hui-hua-gong-zuo-liu.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>AI智能体｜使用扣子Coze创建AI绘画工作流</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">AI智能体｜使用扣子Coze创建AI绘画工作流</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/550" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>点关注，不迷路</p>
+<p>免费的AI学习交流群，加我微信发送暗号“W001”，邀请进群</p>
+<p>往期精彩内容：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&amp;mid=2247483957&amp;idx=1&amp;sn=d26f75105d5905c8ddbbec1bd5e29f2c&amp;chksm=fbfd6bfdcc8ae2eb393a2f3ec0b5a015032465e058a02b618e142e600a26b0a3cf6212b98b92&amp;scene=21#wechat_redirect" rel="nofollow">【绝对干货】AI提示工程(Prompt Engineering)最佳实践</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&amp;mid=2247484007&amp;idx=1&amp;sn=aacda2a5cc0cf180c5c11cece70e4cab&amp;chksm=fbfd6bafcc8ae2b94e69e98073c86afd470bcb653c81ca4e262066ab1fdd12f2449dc2dec36f&amp;scene=21#wechat_redirect" rel="nofollow">这两款Kimi Chat插件真香</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&amp;mid=2247484166&amp;idx=1&amp;sn=9d1dd89d9a7098a79bd8755624b15f99&amp;chksm=fbfd6acecc8ae3d8173d47cf8d371a5a09640d3f698787b1b84eb2333265288001aa06766fd7&amp;scene=21#wechat_redirect" rel="nofollow">AI智能体｜使用扣子Coze创建知识库，看这一篇就够了（新手必看）</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&amp;mid=2247484197&amp;idx=1&amp;sn=2765500d7156a9067e3c81cf0e5f1267&amp;chksm=fbfd6aedcc8ae3fbc59ef654f45d0101836964ba421fbf92a02efc176a5ad9326a956db93399&amp;scene=21#wechat_redirect" rel="nofollow">AI智能体｜使用扣子Coze搭建AI智能体，看这一篇就够了（新手必看）</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU1MjgyOTA5NQ==&amp;mid=2247484211&amp;idx=1&amp;sn=d043c7c1f5b42183b60f308694503d7c&amp;chksm=fbfd6afbcc8ae3edd33c9d43cf2392113184b7ad5bfe16f98551a6c78b6d1cc264a62e06e842&amp;scene=21#wechat_redirect" rel="nofollow">AI智能体｜我把Coze Bot接入了微信公众号</a></p>
+<hr>
+<p>大家好，我是无界生长。</p>
+<p>今天分享下如何使用Coze（扣子）创建AI绘画工作流，为后续通过Coze创建AI绘画助手做铺垫，学会了的话，欢迎分享转发！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a58bbfae41dfba84321ac27665af5e5ddae604ed5fc73309dc35166411340fac/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346574f75335a374b776c44563864444d7a7756446962713079474139427353664c6f6a46636452704475696269615a787669634b68337a79554a61772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a58bbfae41dfba84321ac27665af5e5ddae604ed5fc73309dc35166411340fac/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346574f75335a374b776c44563864444d7a7756446962713079474139427353664c6f6a46636452704475696269615a787669634b68337a79554a61772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFWOu3Z7KwlDV8dDMzwVDibq0yGA9BsSfLojFcdRpDuibiaZxvicKh3zyUJaw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>扣子Coze平台集成了超过60种类型的插件，其中包含了AI绘画相关的插件。我们这里使用通义万相这个插件的文生图工具，通过文字描述生成图像。如果你认为通义万相不满足需求，可以尝试使用官方集成的其他绘画插件，或者开发自定义的绘画插件。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bd4d01cf0c7d83d059b0b9e519c55bf2c07bc2f909c4b65f7a9f7730d8dc528e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657654571793569626d3373504a4c526e356a464b6962536369634243776c6e436f736962544d38366a705447434f494f7a634268395855334b66412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bd4d01cf0c7d83d059b0b9e519c55bf2c07bc2f909c4b65f7a9f7730d8dc528e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657654571793569626d3373504a4c526e356a464b6962536369634243776c6e436f736962544d38366a705447434f494f7a634268395855334b66412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFWeEqy5ibm3sPJLRn5jFKibScicBCwlnCosibTM86jpTGCOIOzcBh9XU3KfA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>输入参数</h2>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>参数名</th>
+<th>参数类型</th>
+<th>参数说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>n</td>
+<td>integer</td>
+<td>生成几张图片，默认一张</td>
+</tr>
+<tr>
+<td>prompt</td>
+<td>string</td>
+<td>用户关于图片的描述</td>
+</tr>
+<tr>
+<td>size</td>
+<td>integer</td>
+<td>0:1024_1024, 1:720_1280, 2:1280*720</td>
+</tr>
+<tr>
+<td>style</td>
+<td>integer</td>
+<td>0:默认风格, 1:3D卡通, 2:动画, 3:油画, 4:水彩, 5:素描, 6:中国画, 7:扁平插画</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h2>返回结果</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4d83d2a5e843aeccbbd5b17df9770dc704a54f9bcfae60f9074dd9c0ecf8d835/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657506961476d5346784f5473764735726569633256686f6e4869625875386f614370506e76376e6962787972476e385a5334526d633663666a67772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4d83d2a5e843aeccbbd5b17df9770dc704a54f9bcfae60f9074dd9c0ecf8d835/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657506961476d5346784f5473764735726569633256686f6e4869625875386f614370506e76376e6962787972476e385a5334526d633663666a67772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFWPiaGmSFxOTsvG5reic2VhonHibXu8oaCpPnv7nibxyrGn8ZS4Rmc6cfjgw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>登陆Coze国内版官网：<a href="https://www.coze.cn" rel="nofollow">https://www.coze.cn</a> ，点击“创建工作流”。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c99d8513616e5decfddabbb964277424fc84e26b5f28cfc53548ca92a9595222/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657674761776b3577554d5a54626762677368324678454b637a5a416452414b704f6165546578564f364a69616961334b6c69626b506e6e7374672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c99d8513616e5decfddabbb964277424fc84e26b5f28cfc53548ca92a9595222/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657674761776b3577554d5a54626762677368324678454b637a5a416452414b704f6165546578564f364a69616961334b6c69626b506e6e7374672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFWgGawk5wUMZTbgbgsh2FxEKczZAdRAKpOaeTexVO6Jiaia3KlibkPnnstg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>填写工作流的名称和描述。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2886d1f5e54eada3c01466159487315435ee962b52ebbf7a0107e92faa3754dd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346575258624177745142466e4a69627558674e6d4851354b61456f47547769623567664467595570726f386162454c6337744c56696356614b5a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2886d1f5e54eada3c01466159487315435ee962b52ebbf7a0107e92faa3754dd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346575258624177745142466e4a69627558674e6d4851354b61456f47547769623567664467595570726f386162454c6337744c56696356614b5a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFWRXbAwtQBFnJibuXgNmHQ5KaEoGTwib5gfDgYUpro8abELc7tLVicVaKZw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>进入工作流编辑页面，默认只有“开始”和“结束”节点，可以在“开始”和“结束”节点之间添加“基础节点”、“插件”、和“工作流”。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f11dfc262e955f0f7978a9dba5c8acbdd43b3a24afd8e01d1a9c5bdbf8d1dfd8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346575867744949476b5863554a77616138666669617878556e4d724e4b5456645469634f776e656f50793247734378793369627774687347464c512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f11dfc262e955f0f7978a9dba5c8acbdd43b3a24afd8e01d1a9c5bdbf8d1dfd8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346575867744949476b5863554a77616138666669617878556e4d724e4b5456645469634f776e656f50793247734378793369627774687347464c512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFWXgtIIGkXcUJwaa8ffiaxxUnMrNKTVdTicOwneoPy2GsCxy3ibwthsGFLQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<p>“开始”节点：接收大模型从用户输入内容中解析出的参数</p>
+</li>
+<li>
+<p>“文生图”节点：从“开始”节点接收输入参数，生成图片，返回结果</p>
+</li>
+<li>
+<p>“选择器”节点：对“文生图”节点的返回结果做条件判断，如果图片生成成功，走到“图片生成成功”节点，否则走到“图片生成失败”节点</p>
+</li>
+<li>
+<p>“图片生成成功”节点：打印信息，输出“文生图”节点的返回结果中的image_urls内容</p>
+</li>
+<li>
+<p>“图片生成失败”节点：打印信息，输出“文生图”节点的返回结果中的log_id、msg、code内容</p>
+</li>
+<li>
+<p>“结束”节点：生成最终结果，返回变量，由Bot生成回答</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fe6e903c582584c9f4d3bb7c6f899b446fbf0f7c7d205f26d3f5c23b63e2f48/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346574132437850657434594e47696348305158316c6961526c7532335666517172616e50514d34644f767467614579726e623542386d47556961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0fe6e903c582584c9f4d3bb7c6f899b446fbf0f7c7d205f26d3f5c23b63e2f48/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346574132437850657434594e47696348305158316c6961526c7532335666517172616e50514d34644f767467614579726e623542386d47556961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFWA2CxPet4YNGicH0QX1liaRlu23VfQqranPQM4dOvtgaEyrnb5B8mGUiaA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击右上角的试运行按钮，填写参数，检查工作流运行结果是否符合预期</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8d50b518b8c3548fca59d2e69ac322cd431263bf35507e3131a3ee236e72880c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c78673959347544753843465736576c726b6c4b39314c5154577965764c3277696268683357657745306b44536e4d644e69634549313769625a4a377356304e455075364b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8d50b518b8c3548fca59d2e69ac322cd431263bf35507e3131a3ee236e72880c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c78673959347544753843465736576c726b6c4b39314c5154577965764c3277696268683357657745306b44536e4d644e69634549313769625a4a377356304e455075364b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFW6WlrklK91LQTWyevL2wibhh3WewE0kDSnMdNicEI17ibZJ7sV0NEPu6KQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>如果需要反复输入相同参数测试工作流，可以勾选“运行后自动将此数据保存为测试集”，填写测试集名称和描述即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ddcd317b680c87d27ae728e53eacdbd493d8a61d099f36e56a07fc8a0c2454a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657547a69636131453363336d4d524a4b696153617a4553794266544c7152564b4453436f69636e334861366272427054716572785a7141547a512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ddcd317b680c87d27ae728e53eacdbd493d8a61d099f36e56a07fc8a0c2454a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657547a69636131453363336d4d524a4b696153617a4553794266544c7152564b4453436f69636e334861366272427054716572785a7141547a512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFWTzica1E3c3mMRJKiaSazESyBfTLqRVKDSCoicn3Ha6brBpTqerxZqATzQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>试运行工作流通过后，点击右上角的“发布”按钮。（发布工作流必须要试运行通过，否则不允许发布）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5852d48c3a5302ccf6ad89d753aed379bcd47d0542559d451d72050ded49719c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346574533476b613154704e4738425a666858634d4c4877353443384672704c78336672696239414b547469635278446d625869634e4d5a493654772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5852d48c3a5302ccf6ad89d753aed379bcd47d0542559d451d72050ded49719c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c7867395934754475384346574533476b613154704e4738425a666858634d4c4877353443384672704c78336672696239414b547469635278446d625869634e4d5a493654772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFWE3Gka1TpNG8BZfhXcMLHw54C8FrpLx3frib9AKTticRxDmbXicNMZI6Tw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>发布成功后，可以在工作流界面看到我们制作好的AI绘画工作流了</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9cab15350fbc5361de1fa6cc4fb8721b3027aca5020037a8105f11a6baee0a00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657354b6c6f6c735a6a44647378317933475a645676616b34654a6e3150585579596333394a4d4c4f6f485a6d66554b73517432644f71512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9cab15350fbc5361de1fa6cc4fb8721b3027aca5020037a8105f11a6baee0a00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f43676169613258344a59764f6e48665977547a784c786739593475447538434657354b6c6f6c735a6a44647378317933475a645676616b34654a6e3150585579596333394a4d4c4f6f485a6d66554b73517432644f71512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Cgaia2X4JYvOnHfYwTzxLxg9Y4uDu8CFW5KlolsZjDdsx1y3GZdVvak4eJn1PXUyYc39JMLOoHZmfUKsQt2dOqQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>本文详细的介绍了如何使用通义万相的文生图工具制作AI绘画工作流，并对工作流进行测试和发布。上述工作流通过Coze Bot 发布到了Bot商店，想体验绘画助手可以在Coze或者豆包搜索：无界生长的绘画助手。如果看完还没学会的话，可以私信我。学会了的话，欢迎转发分享给你的朋友们。</p>
+<hr>
+<p>我是无界生长，如果你觉得我分享的内容对你有帮助，麻烦点个关注，带你一起玩转AI！</p>
+<p>私人微信限时开放一天</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff42adfb538bbcb605ead84a0c6aeb9b9c6ce12052d9b10c8dec8c342d1d9c0e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f43676169613258344a59764e456146756257616e5456634e66636962436e36444856567a363962795a68586d6343504c32764476336a53316642455a6b6661746f65546a614d71766962756b53656c73635830575651596962512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ff42adfb538bbcb605ead84a0c6aeb9b9c6ce12052d9b10c8dec8c342d1d9c0e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f43676169613258344a59764e456146756257616e5456634e66636962436e36444856567a363962795a68586d6343504c32764476336a53316642455a6b6661746f65546a614d71766962756b53656c73635830575651596962512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Cgaia2X4JYvNEaFubWanTVcNfcibCn6DHVVz69byZhXmcCPL2vDv3jS1fBEZkfatoeTjaMqvibukSelscX0WVQYibQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

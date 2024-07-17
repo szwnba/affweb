@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="对于普通玩家来说AI绘画的算力一直是心中的痛，不管是升级显卡还是购买云服务，都需要拿出真金白银。">
+<meta property="og:title" content="云端部署Stable Diffusion，价值8万元显卡免费用！">
+<meta property="og:description" content="对于普通玩家来说AI绘画的算力一直是心中的痛，不管是升级显卡还是购买云服务，都需要拿出真金白银。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/yun-duan-bu-shu-Stable%20Diffusion%EF%BC%8C-jia-zhi-8-wan-yuan-xian-qia-mian-fei-yong-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>云端部署Stable Diffusion，价值8万元显卡免费用！</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">云端部署Stable Diffusion，价值8万元显卡免费用！</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/599" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>对于普通玩家来说AI绘画的算力一直是心中的痛，不管是升级显卡还是购买云服务，都需要拿出真金白银。如果有一种方法，可以白嫖价值8万元的高端显卡进行绘图，你会不会心动？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/14aaec90710e5c2b5b1b62b8608194e0d1ddc5970202388891ba5f815f59ddac/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c32354c52445a556a69615a505936374c72696235493247333450796b3975663562764935396448485a4435416f556b4232776c4353326c512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/14aaec90710e5c2b5b1b62b8608194e0d1ddc5970202388891ba5f815f59ddac/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c32354c52445a556a69615a505936374c72696235493247333450796b3975663562764935396448485a4435416f556b4232776c4353326c512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSL25LRDZUjiaZPY67Lrib5I2G34Pyk9uf5bvI59dHHZD5AoUkB2wlCS2lQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>虽然白嫖无法为GDP做贡献，但他真的是很香<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b7ca09bedb0efb93e5834a7b53ec5b893589195c43a1aeda70862a07fe46dfde/68747470733a2f2f7265732e77782e71712e636f6d2f742f77785f6665642f77652d656d6f6a692f7265732f76312e332e31302f6173736574732f45787072657373696f6e2f45787072657373696f6e5f35324032782e706e67"><img src="https://camo.githubusercontent.com/b7ca09bedb0efb93e5834a7b53ec5b893589195c43a1aeda70862a07fe46dfde/68747470733a2f2f7265732e77782e71712e636f6d2f742f77785f6665642f77652d656d6f6a692f7265732f76312e332e31302f6173736574732f45787072657373696f6e2f45787072657373696f6e5f35324032782e706e67" alt="" data-canonical-src="https://res.wx.qq.com/t/wx_fed/we-emoji/res/v1.3.10/assets/Expression/Expression_52@2x.png" style="max-width: 100%;"></a></p>
+<p>闲话不说，开始整活~~</p>
+<p>打开电脑浏览器输入以下网址：</p>
+<div class="highlight highlight-source-js"><pre class="notranslate">https:<span class="pl-c">//openi.pcl.ac.cn/user/sign_up?sharedUser=vawter</span><span class="pl-kos"></span></pre></div>
+<p>微信扫码注册账号</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9969b6c06134746b05d72a2d4f8bf99cd05946fc0f6df21d970ac839790c282a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c4d484953534a4c4174386963557271726e69627272504664553747616c764e63444b3252557555687036375058354c6c526f6677476f4f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9969b6c06134746b05d72a2d4f8bf99cd05946fc0f6df21d970ac839790c282a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c4d484953534a4c4174386963557271726e69627272504664553747616c764e63444b3252557555687036375058354c6c526f6677476f4f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSLMHISSJLAt8icUrqrnibrrPFdU7GalvNcDK2RUuUhp67PX5LlRofwGoOw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后简单填写资料，手机号验证一下就OK了。</p>
+<p>打开这个网站，在右上角找到“创建”，创建云脑任务，然后进行任务调试。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3a29fa722853571040db9242c2531d98edf84fcdc6177a0b6f850443b9e69e0c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c6a69616b617a615a64664e75714f347178394e3932336f63495467354f446a7677474f3765724b586d79444b7047424b64774f4f6561772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3a29fa722853571040db9242c2531d98edf84fcdc6177a0b6f850443b9e69e0c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c6a69616b617a615a64664e75714f347178394e3932336f63495467354f446a7677474f3765724b586d79444b7047424b64774f4f6561772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSLjiakazaZdfNuqO4qx9N923ocITg5ODjvwGO7erKXmyDKpGBKdwOOeaw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这里新建一个项目，自己起一个名字，</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/be86497f0f7f5551f7cfda420fcab01cb294ea32f6215d93f5e1128dc814f465/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c4169616962696154336677786a357230696368656c684762656d6c683733484c3359536164595a6d65734652454871544a74354d613749766961672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/be86497f0f7f5551f7cfda420fcab01cb294ea32f6215d93f5e1128dc814f465/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c4169616962696154336677786a357230696368656c684762656d6c683733484c3359536164595a6d65734652454871544a74354d613749766961672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSLAiaibiaT3fwxj5r0ichelhGbemlh73HL3YSadYZmesFREHqTJt5Ma7Iviag/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后下一步，选择GPU，A100 40G</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6639852789d77ee98ff4dae893281e4ad5321e272edbe8e1c834acadde3cf4ed/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c4f4d664a446961567357464b4f54577a45436769623065563378627a524b4a486e36367573474a346b6e36706c4a4b524157696255514f67512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6639852789d77ee98ff4dae893281e4ad5321e272edbe8e1c834acadde3cf4ed/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c4f4d664a446961567357464b4f54577a45436769623065563378627a524b4a486e36367573474a346b6e36706c4a4b524157696255514f67512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSLOMfJDiaVsWFKOTWzECgib0eV3xbzRKJHn66usGJ4kn6plJKRAWibUQOgQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>接下来创建镜像，将镜像地址放进输入框，点击新建</p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-c1">192.168</span><span class="pl-c1">.242</span><span class="pl-c1">.22</span>:<span class="pl-c1">443</span><span class="pl-c1">/</span><span class="pl-s1">default</span><span class="pl-c1">-</span><span class="pl-s1">workspace</span><span class="pl-c1">/</span><span class="pl-c1">2</span><span class="pl-s1">a72307689ae49758c80c896fffda0a1</span><span class="pl-c1">/</span><span class="pl-s1">image</span>:<span class="pl-c1">SD</span><span class="pl-c1">-</span><span class="pl-v">Webui_v1</span><span class="pl-c1">.9</span><span class="pl-c1">.4</span><span class="pl-s1">_backup</span></pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/def06d3a8c186808d1d6c94f343892f5f303dbb52c1cc9fc3d3efe1f90bfc75b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c7964474b6e43495467624c613145726f64376769634c7571444946564371636f704f42706c4e5a5a34685169634932517a4d5448574d6963412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/def06d3a8c186808d1d6c94f343892f5f303dbb52c1cc9fc3d3efe1f90bfc75b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c7964474b6e43495467624c613145726f64376769634c7571444946564371636f704f42706c4e5a5a34685169634932517a4d5448574d6963412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSLydGKnCITgbLa1Erod7gicLuqDIFVCqcopOBplNZZ4hQicI2QzMTHWMicA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这样，一个云脑任务就建立好了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed3250d50020161fc2d5d6e7b83b58de6bcda78fb87ebfb2ae46d2036c77ccd4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c7751497933525a6962696263636962346c384f365666443852485861437332546576733665444a6d6a5569636b435a43744b586e4668673231412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ed3250d50020161fc2d5d6e7b83b58de6bcda78fb87ebfb2ae46d2036c77ccd4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c7751497933525a6962696263636962346c384f365666443852485861437332546576733665444a6d6a5569636b435a43744b586e4668673231412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSLwQIy3RZibibccib4l8O6VfD8RHXaCs2Tevs6eDJmjUickCZCtKXnFhg21A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>当状态显示为“Running”时，就可以点击调试了。点击后转到下面这个界面</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/89367f9814a00b893db4110261ab23d7f92352cd40d51c6cd2aabf29620b2dde/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c656a5870393041386963316158564d384346576962426c665a6e6f4576336d6b6f416b457533765542674e524276537539724639723265672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/89367f9814a00b893db4110261ab23d7f92352cd40d51c6cd2aabf29620b2dde/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c656a5870393041386963316158564d384346576962426c665a6e6f4576336d6b6f416b457533765542674e524276537539724639723265672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSLejXp90A8ic1aXVM8CFWibBlfZnoEv3mkoAkEu3vUBgNRBvSu9rF9r2eg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>进入界面后，点击“Terminal”</p>
+<p>在命令行输入以下命令</p>
+<div class="highlight highlight-source-nginx"><pre class="notranslate"><span class="pl-k">cp</span> -r /sd/stable-diffusion-webui /tmp/code
+<span class="pl-k">cd</span> /tmp/code/stable-diffusion-webui
+python launch.py --xformers --<span class="pl-k">api</span></pre></div>
+<p>等该刷新出SD访问网址</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fa0071b1312939ad189983ebe13aacb6f775523a2e1303762ad4bf1d945b09ba/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c333778546c394b534d74354530486f616a484579646d6b39774c543855353345567a7a4d35644d4b346a775a3247506c30527a796a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fa0071b1312939ad189983ebe13aacb6f775523a2e1303762ad4bf1d945b09ba/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c333778546c394b534d74354530486f616a484579646d6b39774c543855353345567a7a4d35644d4b346a775a3247506c30527a796a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSL37xTl9KSMt5E0HoajHEydmk9wLT8U53EVzzM5dMK4jwZ2GPl0Rzyjw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这时候，还无法访问，因为是在云端部署，我们要做内网映射，此时再新建一个终端窗口，运行一下命令</p>
+<div class="highlight highlight-source-css"><pre class="notranslate"><span class="pl-ent">ssh</span> <span class="pl-ent">-R</span> 80<span class="pl-kos">:</span>127.0.0.1<span class="pl-kos">:</span>7860 <span class="pl-ent">nokey</span><span class="pl-k">@localhost</span>.<span class="pl-c1">run</span></pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7ee3454b98b54c8b2aa63edefe7c5bfafbcc988f7600075bb5c8000153866662/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c363062716c3756734850504e764c6c395958666d3847624263745054636f6961716b72625669634673576a595843346531325457454855672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7ee3454b98b54c8b2aa63edefe7c5bfafbcc988f7600075bb5c8000153866662/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c363062716c3756734850504e764c6c395958666d3847624263745054636f6961716b72625669634673576a595843346531325457454855672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSL60bql7VsHPPNvLl9YXfm8GbBctPTcoiaqkrbVicFsWjYXC4e12TWEHUg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>复制地址到浏览器打开或者用手机扫描二维码，在手机浏览器上打开。现在应该已经打开了。这里可以看到模型、内置的提示词、插件扩展，以及默认设置的采样方法。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ccf5d67009010eaabefc662a0fce33fc9fe7cf396aed6146d9ba843ee649301f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c75566c49664269635243344a456a4b335157635a3239595046554b53684f397352524b78467855614c3142654757486d343864585651412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ccf5d67009010eaabefc662a0fce33fc9fe7cf396aed6146d9ba843ee649301f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b41666549394f366233384b53504e3165534573534c75566c49664269635243344a456a4b335157635a3239595046554b53684f397352524b78467855614c3142654757486d343864585651412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSLuVlIfBicRC4JEjK3QWcZ29YPFUKShO9sRRKxFxUaL1BeGWHm48dXVQA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>云脑任务是按小时计费的，如果不满30分钟则不计费，超过30分钟按小时计费。像刚刚那个8万元的显卡，每小时9分钱。你只要在30分钟之内停止任务，然后重新调试，再进行SD的运行，那么你将永远不需要支付费用，就永远不受分数限制，可以无限免费使用这张卡。</p>
+<p>这只是一个小的演示，有了免费显卡想干啥来就干啥，虽然每半小时重启一次，但结合RPA做一些单任务半小时以内的工作完全没有问题。</p>
+<p>比如你要生成一大批图片或者视频，测试好间隔时间，让RPA不断地循环生成即可，具体操作细节这里就不展开讲太多，领会精神~~</p>
+<p>更多AI技巧咨询可订阅我的专栏~~一杯奶茶少走弯路</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8dbc4b7a18c083a9f0e2d9044def7485c4192438931401de89fc090f2b29f1bc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b41666549394f366233384b53504e3165534573534c73436a4167684f476851696269635869616c4b523242666859386961324a6259464174306566774a6f726c36456961786e6871687555416f7763772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8dbc4b7a18c083a9f0e2d9044def7485c4192438931401de89fc090f2b29f1bc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b41666549394f366233384b53504e3165534573534c73436a4167684f476851696269635869616c4b523242666859386961324a6259464174306566774a6f726c36456961786e6871687555416f7763772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3WAfPxicpXckAfeI9O6b38KSPN1eSEsSLsCjAghOGhQibicXialKR2BfhY8ia2JbYFAt0efwJorl6EiaxnhqhuUAowcw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485938&amp;idx=1&amp;sn=732f55b8d57f886c0d593b1e56c20c82&amp;chksm=97433d82a034b494074c7014c4bdcc464bb268fbdeb111614b3149da451f1c138839814e40a7&amp;scene=21#wechat_redirect" rel="nofollow">AI搜索引擎私有化部署：Gemma2+Perplexica，拉爆Llama3 Qwen2</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485918&amp;idx=1&amp;sn=88f6552dc4b0e3b14da01c57deb88557&amp;chksm=97433daea034b4b85ddf48ec1b4f71cd3336b99ac6206402fe007160040eceda7f7ee0de91b4&amp;scene=21#wechat_redirect" rel="nofollow">统一回复：别再问我微信能不能接入开源这个那个模型，能接入所有模型，云端的本地的。我说的~~</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485907&amp;idx=1&amp;sn=436fc53579d277bc97cf9abe5fea6d45&amp;chksm=97433da3a034b4b58d97a820523ec5895799243a570a446a4ebc523431d7c018650a4e6d4a79&amp;scene=21#wechat_redirect" rel="nofollow">一个简单的演示，开源项目免费部署云端，墙内可访问，带API接口，套路适用几乎所有AI项目，门票这就值了</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485876&amp;idx=1&amp;sn=d838455225c63be9afd8ff6bf5d155f9&amp;chksm=97433dc4a034b4d20d8bdf6ea5e64a56baeaadee5fdcb0dfb7cac834517e6f214bd0193c6d77&amp;scene=21#wechat_redirect" rel="nofollow">薅GPT4o羊毛，无需自建接口！完美闭环~~</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485795&amp;idx=1&amp;sn=3ef4c955fe3c54f6a13357d83a7d6e51&amp;chksm=97433d13a034b405e77bfa2a5c50ca7398403eb0a81346f6999d2ff03a1ea683a83ebedf6fd3&amp;scene=21#wechat_redirect" rel="nofollow">我的模型听我的~~破解大模型的审查机制，提升模型生成能力，探索无限可能！</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485728&amp;idx=1&amp;sn=0cb15118a28ccced63c0b42ec44de72c&amp;chksm=97433d50a034b446087577d8f006aa04a27dbba0a151872323b0b021022dd62d4667965d74fc&amp;scene=21#wechat_redirect" rel="nofollow">Coze接入个人微信，下载解压即用</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485713&amp;idx=1&amp;sn=43da81b11be5ec104dd4957a739727c7&amp;chksm=97433d61a034b477dbde748582f15b947d3d9778df058860a2d8e56a6b2d7fe2595cd0d8be31&amp;scene=21#wechat_redirect" rel="nofollow">Open GPT-4o可本地部署支持多模态</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485689&amp;idx=1&amp;sn=3f650629d2a21013ac38a315d91371a6&amp;chksm=97433c89a034b59f35fb60e756925d4b08359a4bda8f55572806681b54c8ba56290c4a96144c&amp;scene=21#wechat_redirect" rel="nofollow">Qwen2：免费翻译与数据分析的实用技巧</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485618&amp;idx=1&amp;sn=c8910decd51996d5907a127e3b9edb98&amp;chksm=97433cc2a034b5d46d17cdfae5c8fe3e35b2ad3f94a6d0b06e008d5950de026c3d4eaf154342&amp;scene=21#wechat_redirect" rel="nofollow">超越Llama3：快速体验本地部署glm-4-9b支持高并发请求</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485581&amp;idx=1&amp;sn=b8c283aa6bd86bb818b8703b4c0bbd7b&amp;chksm=97433cfda034b5eb7f9cb357e1087b449c991a91747248576ac2cf888cde720f464b870d7eb7&amp;scene=21#wechat_redirect" rel="nofollow">拒绝套壳山寨：原生GPT-4o免费接入个人微信，挂载本地知识库，不限次数，量大管饱</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485562&amp;idx=1&amp;sn=f79b2864fbf151268cf81d3703ab8768&amp;chksm=97433c0aa034b51c76df28ce77196244941eca730a020ae52b519439c009fed73e610eb2f147&amp;scene=21#wechat_redirect" rel="nofollow">影刀RPA演示：无限免费的GPT-4o</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485536&amp;idx=1&amp;sn=a101d038b4e214ccf697689f72ed184f&amp;chksm=97433c10a034b506637ae52a6f80f4e4e6e0a8dadde422e30de7b6e421f291467d8b3f4e2fd0&amp;scene=21#wechat_redirect" rel="nofollow">AutoGen Studio：构建多智能体工作流解决方案</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485467&amp;idx=1&amp;sn=b7e6c03f9ba3968fd00a43ac0c2e0caa&amp;chksm=97433c6ba034b57d11fb58c84740655cd29fdd1f4b146d74cf4fcb2d1f435d1419ad275a6682&amp;scene=21#wechat_redirect" rel="nofollow">挑战GPT4?？Kimi+Qwen多模型协作Agent</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485440&amp;idx=1&amp;sn=90ed6755567fecd1823ed491e8fa28fa&amp;chksm=97433c70a034b566ef5ed0f20129a9d4fd20d264e44f18daed7c13885f6d60c99830ae9b4f37&amp;scene=21#wechat_redirect" rel="nofollow">吊打Coze：原生Kimi接入个人微信，免费接入，打包下载解压即用</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485420&amp;idx=1&amp;sn=9d851b3860ccccbcc311781a336a0292&amp;chksm=9743339ca034ba8a693983c938a3d4f9f2e6aea44b1306ac091648b2a3ac81c679bc5dab1be9&amp;scene=21#wechat_redirect" rel="nofollow">so easy：月之暗面Kimi接入微信只要三分钟</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d9b3abd5b35199ea4f9dfbf10b0824b0c0b13b1fcbffcf05c50879080af99e5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f33574166507869637058636e6b566d303865775058654d6f6444354f4f3342526f396b4f4c43686d64416d4f623848536d696162646963397a6f6f50655065706355665569624c507532716e7169634d6d6963776e66507770536d672f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270"><img src="https://camo.githubusercontent.com/1d9b3abd5b35199ea4f9dfbf10b0824b0c0b13b1fcbffcf05c50879080af99e5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f33574166507869637058636e6b566d303865775058654d6f6444354f4f3342526f396b4f4c43686d64416d4f623848536d696162646963397a6f6f50655065706355665569624c507532716e7169634d6d6963776e66507770536d672f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/3WAfPxicpXcnkVm08ewPXeModD5OO3BRo9kOLChmdAmOb8HSmiabdic9zooPePepcUfUibLPu2qnqicMmicwnfPwpSmg/640?wx_fmt=other&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c861cc12821f0f89e6e8d890dc2048b90b1c629a40dda2ca4619e15066e8e70e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b483878386146546b54733769633873324d4358464958706e7a6e586c4e6832746a42644e6e7368784d6d67696359543462396b574d494b393969634b6962696236454a457557743239377668654770772f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270"><img src="https://camo.githubusercontent.com/c861cc12821f0f89e6e8d890dc2048b90b1c629a40dda2ca4619e15066e8e70e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b483878386146546b54733769633873324d4358464958706e7a6e586c4e6832746a42644e6e7368784d6d67696359543462396b574d494b393969634b6962696236454a457557743239377668654770772f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3WAfPxicpXckH8x8aFTkTs7ic8s2MCXFIXpnznXlNh2tjBdNnshxMmgicYT4b9kWMIK99icKibib6EJEuWt297vheGpw/640?wx_fmt=other&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp" style="max-width: 100%;"></a></p>
+<h2><strong>加微信不失联</strong></h2>
+<p>分享Chat-GPT、Stable Diffusion等AI工具最新玩法和EXCEL、RPA自动化办公的高级应用</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

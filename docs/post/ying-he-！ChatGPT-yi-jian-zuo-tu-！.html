@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="**大家好，我是阿川！**  
+
+24号晚上八点，我会在视频号进行直播，分享无人直播带货搞钱，小红书引流变现和自媒体搞钱的玩法，务必预约直播，不要错过！
+
+**以下是正文：** 
+
+怎么样让ChatGPT变成你的私人图库助理，帮你迅速做出你需要的图片素材？
+
+3个方法，教你使用ChatGPT作图，满足你99%的工作需求。">
+<meta property="og:title" content="硬核！ChatGPT一键做图！">
+<meta property="og:description" content="**大家好，我是阿川！**  
+
+24号晚上八点，我会在视频号进行直播，分享无人直播带货搞钱，小红书引流变现和自媒体搞钱的玩法，务必预约直播，不要错过！
+
+**以下是正文：** 
+
+怎么样让ChatGPT变成你的私人图库助理，帮你迅速做出你需要的图片素材？
+
+3个方法，教你使用ChatGPT作图，满足你99%的工作需求。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/ying-he-%EF%BC%81ChatGPT-yi-jian-zuo-tu-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>硬核！ChatGPT一键做图！</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">硬核！ChatGPT一键做图！</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/288" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><strong>大家好，我是阿川！</strong></p>
+<p>24号晚上八点，我会在视频号进行直播，分享无人直播带货搞钱，小红书引流变现和自媒体搞钱的玩法，务必预约直播，不要错过！</p>
+<p><strong>以下是正文：</strong></p>
+<p>怎么样让ChatGPT变成你的私人图库助理，帮你迅速做出你需要的图片素材？</p>
+<p>3个方法，教你使用ChatGPT作图，满足你99%的工作需求。</p>
+<p><strong>方法一：ChatGPT+Unsplash API</strong></p>
+<p>使用过ChatGPT的朋友应该都知道，ChatGPT是没办法直接作图的。</p>
+<p>如果你直接告诉它，让它给你做一张图，那ChatGPT就会告诉你它无法生成图像，比如：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a09875d8c2be3502fac27437530362080ef0c8224917198174c5162834a8d434/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d48463434325170664664306579446f31615a6e41723644696262306f6338434467375469626962655a4f6961756569626569626e39434b336c527652326e512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/a09875d8c2be3502fac27437530362080ef0c8224917198174c5162834a8d434/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d48463434325170664664306579446f31615a6e41723644696262306f6338434467375469626962655a4f6961756569626569626e39434b336c527652326e512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF442QpfFd0eyDo1aZnAr6Dibb0oc8CDg7TibibeZOiaueibeibn9CK3lRvR2nQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>但是没关系，经过简单的调教之后，ChatGPT就会“心甘情愿”地为我们生成图片了，比如：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/06d889f34d76be586709e5c3c72c27ac0eb978082d0bfc41b7fc9a212c184dd7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634514a65747748506961754a5a74664a37794f396b634f614e3730527a3169636255696236654e4b7652503378517977703033357762677955512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/06d889f34d76be586709e5c3c72c27ac0eb978082d0bfc41b7fc9a212c184dd7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634514a65747748506961754a5a74664a37794f396b634f614e3730527a3169636255696236654e4b7652503378517977703033357762677955512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4QJetwHPiauJZtfJ7yO9kcOaN70Rz1icbUib6eNKvRP3xQywp035wbgyUQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>调教的方法很简单，复制下面这串文字和代码，发给ChatGPT：</p>
+<blockquote>
+<p>接下来我会给你指令，生成相应的图片，我希望你用Markdown语言生成，不要用反引号，不要用代码框，你需要用Unsplash API。</p>
+<p>遵循以下的格式：</p>
+<p><a href="https://source.unsplash.com/1600x900/" rel="nofollow">https://source.unsplash.com/1600x900/</a>?&lt; PUT YOUR QUERY HERE &gt;。</p>
+<p>你明白了吗？</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/21b21b8a13c3824c3c9babc7e6b7dc400193d763a19a337f502c4bd8ce5f795b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634475a7569614f72666d734456705356477a3378436c5743324277413852534d4241624365364b5745344f52396963556b32553559433638672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/21b21b8a13c3824c3c9babc7e6b7dc400193d763a19a337f502c4bd8ce5f795b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634475a7569614f72666d734456705356477a3378436c5743324277413852534d4241624365364b5745344f52396963556b32553559433638672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4GZuiaOrfmsDVpSVGz3xClWC2BwA8RSMBAbCe6KWE4OR9icUk2U5YC68g/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>然后chatgpt就可以开始生成图片了。</p>
+<p>我们还可以用这种方式生成其他分辨率的图片。</p>
+<p>比如把prompt里的“1600x900”修改成“800x800”，就可以生成800x800分辨率的照片了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fb2aaf37cff9c76727f338e649f1edf3732ec22358b28986bff7c465d80ab5d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634585657337558686a506e6b33586d776d304252735968447172634d396b4867615146367743776e517436397a6b69634f3479526b4357512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/0fb2aaf37cff9c76727f338e649f1edf3732ec22358b28986bff7c465d80ab5d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634585657337558686a506e6b33586d776d304252735968447172634d396b4867615146367743776e517436397a6b69634f3479526b4357512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4XVW3uXhjPnk3Xmwm0BRsYhDqrcM9kHgaQF6wCwnQt69zkicO4yRkCWQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>不过这个方法其实本质上并不是让ChatGPT真的生成图片了，而是使用了一种叫做Markdown的语言。</p>
+<p><strong>Markdown是一种简单的文字语言，可以把文字变成图片、表格等不同形式</strong>。</p>
+<p>所以，其实<strong>ChatGPT生成的还是文字，但是这些文字可以变成图片</strong>。</p>
+<p>图片来自一个叫做Unsplash的网站，这个网站有很多很多免费的图片。</p>
+<p>ChatGPT做的事情是<strong>根据你的问题生成一个特殊的Unsplash图片链接，这个链接就是图片的地址</strong>。</p>
+<p><strong>当你看到这个链接时，Markdown语言会帮助把链接变成图片</strong>。</p>
+<p>这样，你就可以看到ChatGPT生成的图片啦。</p>
+<p>这种方法的优点是<strong>可以帮我们快速搜集整理到相应主题下的图片素材</strong>。</p>
+<p>但缺点也很明显，就是<strong>生成的图片很难受控制</strong>，并且如果没有及时保存的话，很容易就再也找不到了。</p>
+<p>没关系，接下来就教你一种可控性更强的ChatGPT生成图片的方法。</p>
+<p><strong>方法二：ChatGPT+HTML代码</strong></p>
+<p><strong>第一步，把我们的图片需求整理好发给ChatGPT。</strong></p>
+<p>比如：</p>
+<blockquote>
+<p>"我希望设计一张公众号封面图，要求如下：</p>
+<p>尺寸比例为2.35:1，即宽度约为940像素，高度约为400像素。</p>
+<p>背景渐变色为棕黄色调，从#FFD700渐变至#8B4513。</p>
+<p>我希望使用canvas来实现设计，并将所有必要的代码内联到HTML中。"</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c06ff55bf2b5d515f1af78b49860f851231720ce62de3a6e7d125045e2997275/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d4846345a627879367178506443314b69614b69623774656d4f4849746850384e5076636f6961546d31374d643139596165686f5344353730476d61412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/c06ff55bf2b5d515f1af78b49860f851231720ce62de3a6e7d125045e2997275/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d4846345a627879367178506443314b69614b69623774656d4f4849746850384e5076636f6961546d31374d643139596165686f5344353730476d61412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4Zbxy6qxPdC1KiaKib7temOHIthP8NPvcoiaTm17Md19YaehoSD570GmaA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>第二步，复制保存ChatGPT生成的代码</strong></p>
+<p>在电脑上新建一个文本文档，把代码复制粘贴进去：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3c88ca3210b81fb124985a1a20ec614b02e114a3009cb3314d5f2d7a23dee1e7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d4846346633414963415752534243626f5365366f3930666e5269626b686469635a475544786848677546583851445267426d7249477132457536412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/3c88ca3210b81fb124985a1a20ec614b02e114a3009cb3314d5f2d7a23dee1e7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d4846346633414963415752534243626f5365366f3930666e5269626b686469635a475544786848677546583851445267426d7249477132457536412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4f3AIcAWRSBCboSe6o90fnRibkhdicZGUDxhHguFX8QDRgBmrIGq2Eu6A/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>第三步，修改文件扩展名</strong></p>
+<p>把文件后缀“txt”修改为“html”</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ece427b6d864f9ed66a79c6afab0c75f095d9d8756f1a9a25d4c461a399c1110/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634426961716f75736e696353324d59455961387936636a69626b6b536a685254414f4676614968576176663447446f3735437a69617a6556544d772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/ece427b6d864f9ed66a79c6afab0c75f095d9d8756f1a9a25d4c461a399c1110/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634426961716f75736e696353324d59455961387936636a69626b6b536a685254414f4676614968576176663447446f3735437a69617a6556544d772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4BiaqousnicS2MYEYa8y6cjibkkSjhRTAOFvaIhWavf4GDo75CziazeVTMw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>修改好之后，再双击使用浏览器打开文件，就可以看到做好的图了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ecb6a58fd19abbe9128feecaebe6346d45e2153b7c80539dd14fe497bbf90c6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d48463468775778414e65533645785371696371776e6c6b32724f4c53754a7a534871516e6b68627145616b66595542724e766961536279783266772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/2ecb6a58fd19abbe9128feecaebe6346d45e2153b7c80539dd14fe497bbf90c6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d48463468775778414e65533645785371696371776e6c6b32724f4c53754a7a534871516e6b68627145616b66595542724e766961536279783266772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4hwWxANeS6ExSqicqwnlk2rOLSuJzSHqQnkhbqEakfYUBrNviaSbyx2fw/640?wx_fmt=png" style="max-width: 100%;"></a><br>
+我们还可以使用这个方法让ChatGPT生成信息含量更多的图片。</p>
+<p>比如直接把我们的要求提给ChatGPT：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/833ece22ebc12228b76ee124e7d793425f31edfbf6213d1cad2a0a687e56d429/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d4846344e49456771433345625976696345506455596a394d57504a434b7130594f46353376396d7971466556733478517977556963756a595358672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/833ece22ebc12228b76ee124e7d793425f31edfbf6213d1cad2a0a687e56d429/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d4846344e49456771433345625976696345506455596a394d57504a434b7130594f46353376396d7971466556733478517977556963756a595358672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4NIEgqC3EbYvicEPdUYj9MWPJCKq0YOF53v9myqFeVs4xQywUicujYSXg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>然后ChatGPT就会在这张图片的基础上，为我们添加更多的信息元素：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8fa0d098bc9048ec6e8659cdc319a55e3f5580b7dba83f2393da5501a0189eeb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634644653336f5a4e7841375646564f62434e4b6c6d30574b71514364776f73757161364d475768795144416355524b6961503652654757512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/8fa0d098bc9048ec6e8659cdc319a55e3f5580b7dba83f2393da5501a0189eeb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d484634644653336f5a4e7841375646564f62434e4b6c6d30574b71514364776f73757161364d475768795144416355524b6961503652654757512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4dFS3oZNxA7VFVObCNKlm0WKqQCdwosuqa6MGWhyQDAcURKiaP6ReGWQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>你还可以使用这个方法来控制字体的颜色、间距、位置、内容等等元素。</p>
+<p>只需要把要求提给ChatGPT就可以一键完成。</p>
+<p>除了这些基础操作，我们还可以直接把第一种和第二种方式结合到一起使用，效果翻倍。</p>
+<p><strong>方法三：ChatGPT+Unsplash API+HTML代码</strong>****</p>
+<p>把这段融合后的指令发给ChatGPT：</p>
+<p>我正在准备设计你的公众号封面，主题是“如何使用ChatGPT生成图片”。为了实现这个设计，你可以按照以下步骤操作：</p>
+<p>1、使用ChatGPT生成一张与封面主题相关的图片。你可以使用Markdown语言，通过Unsplash API获取一张星空的图片，以展示无限创意的可能性。遵循以下的格式：<a href="https://source.unsplash.com/1600x900/" rel="nofollow">https://source.unsplash.com/1600x900/</a>?&lt; PUT YOUR QUERY HERE &gt;；</p>
+<p>2、请你生成相应的HTML和CSS代码，以将图片和主题文字结合在一起，创建出引人注目的封面。我希望使用canvas来实现设计，并将所有必要的代码内联到HTML中。</p>
+<p>3、请你帮我丰富画面细节，比如字体颜色使用棕黄色并且加粗、行间距为2.5，内容等等，以便让封面图更吸引人；</p>
+<p>4、过程中不需要展示图片，直接给我提供最终的html代码即可。</p>
+<p>比如：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d6ae4d31ece76b725f0c6c7c58762c1686d7d727294bd64d9d5d149b5d394cee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d48463444535a4353506837455871755974427232334e447069616d725179364c3962784d5045644e386168367371634f69616552307034635339672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/d6ae4d31ece76b725f0c6c7c58762c1686d7d727294bd64d9d5d149b5d394cee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d48463444535a4353506837455871755974427232334e447069616d725179364c3962784d5045644e386168367371634f69616552307034635339672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4DSZCSPh7EXquYtBr23NDpiamrQy6L9bxMPEdN8ah6sqcOiaeR0p4cS9g/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>然后按照第二步的操作，把代码复制下来之后，在浏览器中打开就可以看到做好的图片了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/815997cf2c1b6bf91f0876aa44368042bc9d75bd9950beb4c063d8a9ff01a22c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d48463441454e636a596e744b4369636961447653476c45564956786f7669617a764e595656524234513953786b54554d326c345a3738424358566a672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/815997cf2c1b6bf91f0876aa44368042bc9d75bd9950beb4c063d8a9ff01a22c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716134563375764c705353546c715447395533544d48463441454e636a596e744b4369636961447653476c45564956786f7669617a764e595656524234513953786b54554d326c345a3738424358566a672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa4V3uvLpSSTlqTG9U3TMHF4AENcjYntKCiciaDvSGlEVIVxoviazvNYVVRB4Q9SxkTUM2l4Z78BCXVjg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>这么做的好处是，除了字体我们可以控制，背景也可以任意切换。</p>
+<p>如果对画面背景不满意，点击一下左上角的刷新按钮，就可以直接更换一张相同主题的照片。</p>
+<p>体验感贼棒！</p>
+<p>最后在重复一下，川哥在24号晚上8点有一场直播，分享内容为chagpt搞钱、无人直播带货、小红书运营、自媒体变现等，想搞钱的小伙伴可以直接点击下方卡片预约直播，到时候准时邀请你来直播间！</p>
+<p><strong>-end-</strong></p>
+<p><strong>最后送给大家一个福利：</strong></p>
+<p>如果你对GPT搞钱、抖音无人直播带货、小红书引流、自媒体运营感兴趣，可以扫码加我微信，送给你一份 10 万字的搞钱电子书，里边包含了 100 个搞钱项目！</p>
+<p>添加时备注：副业</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b087e3878ca5ad859b830ca37d5f2fc8f851cf82523633ef1bcf4ff4486d4151/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f71674d58436d5a34716136415337394b764c37445851394d626a3977584d724d677a746962514c5542324258514c746b366244556537414239357155774565346962777a3854444152766550675a704f5861696165793776772f3634303f77785f666d743d6a70656726777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/b087e3878ca5ad859b830ca37d5f2fc8f851cf82523633ef1bcf4ff4486d4151/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f71674d58436d5a34716136415337394b764c37445851394d626a3977584d724d677a746962514c5542324258514c746b366244556537414239357155774565346962777a3854444152766550675a704f5861696165793776772f3634303f77785f666d743d6a70656726777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qgMXCmZ4qa6AS79KvL7DXQ9Mbj9wXMrMgztibQLUB2BXQLtk6bDUe7AB95qUwEe4ibwz8TDARvePgZpOXaiaey7vw/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a></p>
+<p><strong>往期推荐:</strong></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkxNDQ5NjgxMw==&amp;mid=2247485271&amp;idx=1&amp;sn=fc9dfbb993af7e1fb3af1309c6d1643f&amp;chksm=c16ccb15f61b42035a3820f6426f1fbd384588a1bcfd72abe2875fa2589f444e6853fe32d957&amp;scene=21#wechat_redirect" rel="nofollow">写给阿川的新读者！</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkxNDQ5NjgxMw==&amp;mid=2247485263&amp;idx=1&amp;sn=36fd8e58a1d8d90bd80745a2f3c8c1db&amp;chksm=c16ccb0df61b421bea4b41049be36ad586a059742f6857436f060142f7162964a3a83b5c07fd&amp;scene=21#wechat_redirect" rel="nofollow">安利一个搞钱野路子！</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxNDQ5NjgxMw==&amp;mid=2247484975&amp;idx=1&amp;sn=60914eaa684fbea831bf22440229dcaf&amp;scene=21#wechat_redirect" rel="nofollow">打个广告，一篇文章解决你所有GPT相关问题！</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

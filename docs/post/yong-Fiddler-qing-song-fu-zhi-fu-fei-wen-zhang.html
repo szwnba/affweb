@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6QAibCl9KLUpc7fIhrgNzh94BGcahrue9GFoQwqYFhOP2Eyv0GJiahUBw/640?wx_fmt=png&from=appmsg)
+
+**读书▶提升认知**
+
+**工具▶提高效率**
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/5QtAiashSIFQMXSNbibANExHBiawdky25N67jpSnwyqkwmT59ia1wBUias2ibmpC54aPwkeBmHrN3pUCiajryianUB4rOA/640?wx_fmt=jpeg&from=appmsg)
+
+付费文章是无法复制、打印的，且只能使用微信内置浏览器才能阅读全文，因此无法使用浏览器插件。">
+<meta property="og:title" content="用Fiddler轻松复制付费文章">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6QAibCl9KLUpc7fIhrgNzh94BGcahrue9GFoQwqYFhOP2Eyv0GJiahUBw/640?wx_fmt=png&from=appmsg)
+
+**读书▶提升认知**
+
+**工具▶提高效率**
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/5QtAiashSIFQMXSNbibANExHBiawdky25N67jpSnwyqkwmT59ia1wBUias2ibmpC54aPwkeBmHrN3pUCiajryianUB4rOA/640?wx_fmt=jpeg&from=appmsg)
+
+付费文章是无法复制、打印的，且只能使用微信内置浏览器才能阅读全文，因此无法使用浏览器插件。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/yong-Fiddler-qing-song-fu-zhi-fu-fei-wen-zhang.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>用Fiddler轻松复制付费文章</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用Fiddler轻松复制付费文章</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/548" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7efb7f8d4b8eab5fea95327bacf06dc93b57492a5a57bb1d2f9f1f86cd339837/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3651416962436c394b4c5570633766496872674e7a68393442476361687275653947466f5177715946684f503245797630474a6961685542772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7efb7f8d4b8eab5fea95327bacf06dc93b57492a5a57bb1d2f9f1f86cd339837/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3651416962436c394b4c5570633766496872674e7a68393442476361687275653947466f5177715946684f503245797630474a6961685542772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6QAibCl9KLUpc7fIhrgNzh94BGcahrue9GFoQwqYFhOP2Eyv0GJiahUBw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>读书▶提升认知</strong></p>
+<p><strong>工具▶提高效率</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1c6e9998b67391e8852a69c4e59e6d8c8d273acaabdf8d646b9acceaf6f0f4a0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36376a70536e7779716b776d5435396961317742556961733269626d704335346150776b65426d48724e3370554369616a727969616e554234724f412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1c6e9998b67391e8852a69c4e59e6d8c8d273acaabdf8d646b9acceaf6f0f4a0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36376a70536e7779716b776d5435396961317742556961733269626d704335346150776b65426d48724e3370554369616a727969616e554234724f412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5QtAiashSIFQMXSNbibANExHBiawdky25N67jpSnwyqkwmT59ia1wBUias2ibmpC54aPwkeBmHrN3pUCiajryianUB4rOA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>付费文章是无法复制、打印的，且只能使用微信内置浏览器才能阅读全文，因此无法使用浏览器插件。</p>
+<p><strong>如何复制？</strong></p>
+<p><strong>教你个一劳永逸、免费、无需注册的好办法。</strong></p>
+<p>这个办法看起来有点高大上，但实际操作起来，相当简单。即使是没有编程基础的纯小白，按照以下步骤，也能几分钟内立即搞定。</p>
+<p><strong>前期配置</strong></p>
+<p><strong>第一步，你需要下载一个Fiddler抓包软件。</strong> <strong>点击图片，进入Fiddler官网，下载官方最新版本：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ff5ec203f4fbcec4377b4703a58b9d1a50d07bd6ec28ce326bee9d755ecb8ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3631556e754d785a4e684b34556a4d69626e617833416e714f763931776a6962674c44474e675a45567754365744483431634c6252713346412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3ff5ec203f4fbcec4377b4703a58b9d1a50d07bd6ec28ce326bee9d755ecb8ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3631556e754d785a4e684b34556a4d69626e617833416e714f763931776a6962674c44474e675a45567754365744483431634c6252713346412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N61UnuMxZNhK4UjMibnax3AnqOv91wjibgLDGNgZEVwT6WDH41cLbRq3FA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fd17ec1047428a53dcfadac2b7e5d71ac105eb74d34d67857f3cfb0f5f873873/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e365445646e5976653366306963634837584a43315a696343587a6f51587070714649474662396a4b455750426962654f69614e66514351623568512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fd17ec1047428a53dcfadac2b7e5d71ac105eb74d34d67857f3cfb0f5f873873/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e365445646e5976653366306963634837584a43315a696343587a6f51587070714649474662396a4b455750426962654f69614e66514351623568512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6TEdnYve3f0iccH7XJC1ZicCXzoQXppqFIGFb9jKEWPBibeOiaNfQCQb5hQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>软件打开后，长这样：（可点击图片，放大查看）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/652a1691d2cad60af9400eaeeb0420459c27d2de09617a84b7a2b3600595dd4d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e366c5a564864416962586d363156486962727053344869616a456b6748475734766f774d4666374879477843377669634436486c4f4d4a376136772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/652a1691d2cad60af9400eaeeb0420459c27d2de09617a84b7a2b3600595dd4d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e366c5a564864416962586d363156486962727053344869616a456b6748475734766f774d4666374879477843377669634436486c4f4d4a376136772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6lZVHdAibXm61VHibrpS4HiajEkgHGW4vowMFf7HyGxC7vicD6HlOMJ7a6w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/883fd18eb61ce17bd8e90b3a90a985857d0bed3bd31f856a053bbb0a523f88cf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e364a644b70637867626a67464b654c45674d6a455853674569637176476769614b536963714974503473456e4c50724251757945647a633443512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/883fd18eb61ce17bd8e90b3a90a985857d0bed3bd31f856a053bbb0a523f88cf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e364a644b70637867626a67464b654c45674d6a455853674569637176476769614b536963714974503473456e4c50724251757945647a633443512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6JdKpcxgbjgFKeLEgMjEXSgEicqvGgiaKSicqItP4sEnLPrBQuyEdzc4CQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>第二步：在Fiddler软件内进行基础配置。</strong></p>
+<p>打开fiddler，点击左上角的tools，再点击Options。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/68a122fe74976e4a4bf09e6b0987eeb2fb622e091c18e52b2c10485bc6abb793/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e364631627444554844574933784d66797a4475544c70545363375045767335716961594c414d576c3353676b6d41634a34584f38385854672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/68a122fe74976e4a4bf09e6b0987eeb2fb622e091c18e52b2c10485bc6abb793/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e364631627444554844574933784d66797a4475544c70545363375045767335716961594c414d576c3353676b6d41634a34584f38385854672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6F1btDUHDWI3xMfyzDuTLpTSc7PEvs5qiaYLAMWl3SgkmAcJ4XO88XTg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>在Options的弹窗中，点击HTTPS，再按照下图所示，将三个勾打好。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a2a939442e71eb841a05164a637f0f524cb9699215e27222166024b534fe6ba8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36677975516963494c4459776361425450346e7662346c396f744d71493341367a69625178614930716e62696145387953674d703259305147512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a2a939442e71eb841a05164a637f0f524cb9699215e27222166024b534fe6ba8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36677975516963494c4459776361425450346e7662346c396f744d71493341367a69625178614930716e62696145387953674d703259305147512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6gyuQicILDYwcaBTP4nvb4l9otMqI3A6zibQxaI0qnbiaE8ySgMp2Y0QGQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>第三步，关闭fiddler软件。</strong></p>
+<p>至此，fiddler配置结束。第一次使用前，一定要先关闭，再重新打开。</p>
+<p><strong>开始操作</strong></p>
+<p>**第一步，先打开fiddler，**<strong>再打开要复制的付费文章。</strong></p>
+<p>这时我们会发现，fiddler抓取到了一系列网址，见下图：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e040636ad050794bc8c8eea0109febc75f77bdc71cff61a0d110a0969960e55/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e364b696168474c46666962744f436731696277676f537953413361696267696239764c746c4c39663778573572736d3736514674444a3639344f73672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6e040636ad050794bc8c8eea0109febc75f77bdc71cff61a0d110a0969960e55/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e364b696168474c46666962744f436731696277676f537953413361696267696239764c746c4c39663778573572736d3736514674444a3639344f73672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6KiahGLFfibtOCg1ibwgoSySA3aibgib9vLtlL9f7xW5rsm76QFtDJ694Osg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>第二步，找到s?__biz=开头的那一行，点击。</strong></p>
+<p><strong>第三步，在右边栏中，点击Textview。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e92d749626fba70ac71295201feab8bef43f5482151fd76ffdb052558fa56e5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3641477374676d43795949575644736c4678674877313131726e61365a724435547332534b426759433078684c6a646963536a737a4375772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7e92d749626fba70ac71295201feab8bef43f5482151fd76ffdb052558fa56e5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3641477374676d43795949575644736c4678674877313131726e61365a724435547332534b426759433078684c6a646963536a737a4375772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6AGstgmCyYIWVDslFxgHw111rna6ZrD5Ts2SKBgYC0xhLjdicSjszCuw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>第四步，在下方搜索框中，搜索  &lt;div class="rich_media_content即可迅速定位到文章开头，从这里开始复制，直至文章结尾。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c32138dc68d20ee3dae887294494786bc68dd2d2a7887f643c08ef5f2ffcdee6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36687153576a724d515130673736726c52696375696269625062395169634a6d567265626e70356e6e636275374c7a6f7376314234726f506b59512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c32138dc68d20ee3dae887294494786bc68dd2d2a7887f643c08ef5f2ffcdee6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36687153576a724d515130673736726c52696375696269625062395169634a6d567265626e70356e6e636275374c7a6f7376314234726f506b59512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6hqSWjrMQQ0g76rlRicuibibPb9QicJmVrebnp5nncbu7Lzosv1B4roPkYQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc7305778bc5d09861db8fab61d6918467a35a50acdb35796f1ff60385a2d2d7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e367845363550666d3059526238324e4d75376d4b6251545163526759737361786d56484c794a696146786a5261347465764b414d69625330772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/cc7305778bc5d09861db8fab61d6918467a35a50acdb35796f1ff60385a2d2d7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e367845363550666d3059526238324e4d75376d4b6251545163526759737361786d56484c794a696146786a5261347465764b414d69625330772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6xE65Pfm0YRb82NMu7mKbQTQcRgYssaxmVHLyJiaFxjRa4tevKAMibS0w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>至此，文章复制完毕。</p>
+<p><strong>格式转换</strong></p>
+<p><strong>第一步，网页搜索任一HTML在线编辑器</strong></p>
+<p>将刚刚复制的文章粘贴进去。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/788c01ae9987e823037fdb706d2dfe9a9bb873b4a5b62883b42be9aa469db4e9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e367477634547666c4a37657668516576346c4c6b6c444e74316962396863486b7a4b68705445756b724f50667a4e4c5a6d735235596672412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/788c01ae9987e823037fdb706d2dfe9a9bb873b4a5b62883b42be9aa469db4e9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e367477634547666c4a37657668516576346c4c6b6c444e74316962396863486b7a4b68705445756b724f50667a4e4c5a6d735235596672412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6twcEGflJ7evhQev4lLklDNt1ib9hcHkzKhpTEukrOPfzNLZmsR5YfrA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>第二步，点击左上角:解码</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce84685c9af1eaa409b3665b009131b0a8a6081d12d7b2b50bbfcb40cad09d06/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36634861757a44414250644971655a474630583847506c4e7777337258547039303555654d486630464e7369613465647a4372304e6637772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ce84685c9af1eaa409b3665b009131b0a8a6081d12d7b2b50bbfcb40cad09d06/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36634861757a44414250644971655a474630583847506c4e7777337258547039303555654d486630464e7369613465647a4372304e6637772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6cHauzDABPdIqeZGF0X8GPlNww3rXTp905UeMHf0FNsia4edzCr0Nf7w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>至此，文章即可转化为正常的排版格式，可以随意复制粘贴到任意位置。</p>
+<p>并且，原文中的加粗、超链接等格式，都会原封不动的保存下来。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a76fb80098832b9c4a0b65495dbd0b64da842982116c28352a2b1215b876fbd2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e366570414c6731736678304f583352766a453542777778527a696351305a55416f7436796d73574664624e366a49716769615744496b774d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a76fb80098832b9c4a0b65495dbd0b64da842982116c28352a2b1215b876fbd2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e366570414c6731736678304f583352766a453542777778527a696351305a55416f7436796d73574664624e366a49716769615744496b774d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/5QtAiashSIFQMXSNbibANExHBiawdky25N6epALg1sfx0OX3RvjE5BwwxRzicQ0ZUAot6ymsWFdbN6jIqgiaWDIkwMQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>附：Fiddler的抓取原理</strong></p>
+<p>Fiddler 能够复制一些网站中无法复制的文字，主要是因为它能够拦截和查看客户端与服务器之间的所有 HTTP 和 HTTPS 通信。以下是详细解释：</p>
+<p><strong>1. 直接编辑：</strong> 有些网站为了防止内容被复制，会通过前端的 JavaScript 来禁用复制功能。而 Fiddler 可以拦截 HTTP 响应，直接查看和编辑返回的 HTML 页面内容，从而绕过前端的这些限制。</p>
+<p><strong>2. 响应内容获取：</strong> 当浏览器请求网页数据时，Fiddler 作为代理服务器，可以截获服务器响应的原始 HTML 内容。这意味着 Fiddler 可以访问到网页的源代码，包括那些被 JavaScript 动态生成且在客户端上被禁用复制的部分。</p>
+<p><strong>3. 禁用 JavaScript：</strong> 由于 Fiddler 允许用户查看未经浏览器渲染和 JavaScript 处理的纯 HTML 内容，因此可以绕过那些通过 JavaScript 实现的复制限制。</p>
+<p><strong>4. 查看和复制：</strong> 用户可以在 Fiddler 中查看网页的 HTML 源代码，找到需要的文字，然后直接复制。<strong>这个过程不涉及执行网页上的任何脚本，因此不会被复制保护措施所阻止。</strong></p>
+<p><strong>5. 开发者工具：</strong> 虽然现代浏览器的开发者工具也允许用户查看和编辑 HTML 和 CSS，但是 Fiddler 提供了一个独立于浏览器的方式来进行这些操作，对于不熟悉开发者工具的用户来说可能更加方便。</p>
+<p><strong>6. 教育和研究：</strong> Fiddler 可以作为学习和研究网页结构、CSS 和 JavaScript 的工具，帮助用户理解网站是如何工作的，以及如何通过技术手段来保护或限制内容的复制。</p>
+<p>需要注意的是，尽管技术上可以实现绕过复制限制，但复制受保护的内容可能侵犯了版权或其他法律权利。在使用 Fiddler 或任何其他工具来绕过这些限制时，用户应当确保他们的行为符合版权法和相关法律法规，并且尊重内容创作者的权益。</p>
+<p><strong>END</strong></p>
+<p>如果您找不到合适的HTML在线编辑器</p>
+<p><strong>可以关注公众号</strong></p>
+<p><strong>后台回复：html</strong></p>
+<p>发送给您一个在线免费使用的网站</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/328e42c03a679d2cf8f9bbe05330234ddda0564df862add376c57e6004b7ea9c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36656c526d43594f4f505043724b6468676a306830484d6d64495371634473654f457069614c47316b777a48476450786a69624e4b394b6d772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/328e42c03a679d2cf8f9bbe05330234ddda0564df862add376c57e6004b7ea9c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36656c526d43594f4f505043724b6468676a306830484d6d64495371634473654f457069614c47316b777a48476450786a69624e4b394b6d772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5QtAiashSIFQMXSNbibANExHBiawdky25N6elRmCYOOPPCrKdhgj0h0HMmdISqcDseOEpiaLG1kwzHGdPxjibNK9Kmw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>#扫码关注我#</p>
+<p>读书 ▶提高认知</p>
+<p>工具 ▶提升效率</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7c12a8684c80e71bbf88dce3cebd20ae2c9a105a45dddda5f6e71b5fb45710a5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3671326d746961534575413478566f3175654734757a63476f45516b384d69636f66684f70654945414542477a6565514b38655841536859512f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7c12a8684c80e71bbf88dce3cebd20ae2c9a105a45dddda5f6e71b5fb45710a5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3671326d746961534575413478566f3175654734757a63476f45516b384d69636f66684f70654945414542477a6565514b38655841536859512f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/5QtAiashSIFQMXSNbibANExHBiawdky25N6q2mtiaSEuA4xVo1ueG4uzcGoEQk8MicofhOpeIEAEBGzeeQK8eXAShYQ/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>分享</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b389f5444b71b51652ed448e520cfc5dabef8056ea17c9e19b44e312b74568ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3658354d6b6c4b696178356353383358354e613253635a6768337367496b34344b4d4b556f6172666d46736633736c324d6f645a6b5a55772f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b389f5444b71b51652ed448e520cfc5dabef8056ea17c9e19b44e312b74568ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3658354d6b6c4b696178356353383358354e613253635a6768337367496b34344b4d4b556f6172666d46736633736c324d6f645a6b5a55772f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/5QtAiashSIFQMXSNbibANExHBiawdky25N6X5MklKiax5cS83X5Na2ScZgh3sgIk44KMKUoarfmFsf3sl2ModZkZUw/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>收藏</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/515cc873fc8548607da220c8c19781fd404d94cd71ed5d7ce98047055c0f1c6e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3671574e6f7965554d6963393134347169614974336569613261464e6669616b5446766b3557384762454c46534168625969626358414254624b56512f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/515cc873fc8548607da220c8c19781fd404d94cd71ed5d7ce98047055c0f1c6e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f3551744169617368534946514d58534e626962414e45784842696177646b7932354e3671574e6f7965554d6963393134347169614974336569613261464e6669616b5446766b3557384762454c46534168625969626358414254624b56512f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/5QtAiashSIFQMXSNbibANExHBiawdky25N6qWNoyeUMic9144qiaIt3eia2aFNfiakTFvk5W8GbELFSAhbYibcXABTbKVQ/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>在看</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f36c9a38d04021b0492676c0f66f8cfc308b7c03eee5b1bf2cf1f8b0db621538/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36696134516643696165613676394e71535a6278646963733950503645486c64307a3152714952796e386c336563463463616758617669615872412f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f36c9a38d04021b0492676c0f66f8cfc308b7c03eee5b1bf2cf1f8b0db621538/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f3551744169617368534946514d58534e626962414e45784842696177646b7932354e36696134516643696165613676394e71535a6278646963733950503645486c64307a3152714952796e386c336563463463616758617669615872412f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/5QtAiashSIFQMXSNbibANExHBiawdky25N6ia4QfCiaea6v9NqSZbxdics9PP6EHld0z1RqIRyn8l3ecF4cagXaviaXrA/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点赞</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

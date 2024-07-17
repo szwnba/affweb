@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="做视频剪辑的同学都知道，搜索对标账号和样片是相当耗时的，一般我们通过关键字检索可以获取少量账号和视频素材，并且短时间检索的数据是相同的，因此没法持续获取数据  
+
+那么，如何持续获取相关账户信息和样片呢？
+
+以某音为例，我们只需要前期针对账号做一些特定的训练，后期推荐的大部分内容都是我们想要的数据；然后模拟刷视频的动作，通过 OCR 截取视频相关的信息（视频标题、时长、喜欢量等）进行过滤，最后通过点击复制链接按钮，将视频信息写入到本地即可
+
+本篇文章将聊聊常见可行的方案
+
+1、**pytesseract**
+
+借助 pyautogui 和 pytesseract，可以先对屏幕进行截图，然后利用 pytesseract 进行文字识别
+
+首先，下载 pytesseract 客户端，安装后将运行目录配置到环境变量中
+
+下载地址：https://github.com/UB-Mannheim/tesseract/wiki
+
+然后，下载中文语音训练库并放到应用安装目录
+
+PS：最新版本为 4.1.0
+
+下载地址：https://github.com/tesseract-ocr/tessdata
+
+接着，安装依赖
+
+pip3 install pyautogui pytesseract
+
+核心源码如下：
+
+```
+`import pyautogui, pytesseract, os, re``from zhon.hanzi import punctuation``os.environ['TESSDATA_PREFIX'] = r'C:\Program Files\Tesseract-OCR'``def remove_special_characters(text):` `text = re.sub(r'[{}]+'.format(punctuation), '', text)  # 去除特殊字符` `text = re.sub(r'\s+', '', text)  # 去除空格和换行符` `return text``def __convert_to_minutes(time_str):` `'''` `将视频时长的字符串格式转换为分钟数。">
+<meta property="og:title" content="抖音探宝：如何用 OCR 自动化寻找最佳短视频，解放双手！">
+<meta property="og:description" content="做视频剪辑的同学都知道，搜索对标账号和样片是相当耗时的，一般我们通过关键字检索可以获取少量账号和视频素材，并且短时间检索的数据是相同的，因此没法持续获取数据  
+
+那么，如何持续获取相关账户信息和样片呢？
+
+以某音为例，我们只需要前期针对账号做一些特定的训练，后期推荐的大部分内容都是我们想要的数据；然后模拟刷视频的动作，通过 OCR 截取视频相关的信息（视频标题、时长、喜欢量等）进行过滤，最后通过点击复制链接按钮，将视频信息写入到本地即可
+
+本篇文章将聊聊常见可行的方案
+
+1、**pytesseract**
+
+借助 pyautogui 和 pytesseract，可以先对屏幕进行截图，然后利用 pytesseract 进行文字识别
+
+首先，下载 pytesseract 客户端，安装后将运行目录配置到环境变量中
+
+下载地址：https://github.com/UB-Mannheim/tesseract/wiki
+
+然后，下载中文语音训练库并放到应用安装目录
+
+PS：最新版本为 4.1.0
+
+下载地址：https://github.com/tesseract-ocr/tessdata
+
+接着，安装依赖
+
+pip3 install pyautogui pytesseract
+
+核心源码如下：
+
+```
+`import pyautogui, pytesseract, os, re``from zhon.hanzi import punctuation``os.environ['TESSDATA_PREFIX'] = r'C:\Program Files\Tesseract-OCR'``def remove_special_characters(text):` `text = re.sub(r'[{}]+'.format(punctuation), '', text)  # 去除特殊字符` `text = re.sub(r'\s+', '', text)  # 去除空格和换行符` `return text``def __convert_to_minutes(time_str):` `'''` `将视频时长的字符串格式转换为分钟数。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/dou-yin-tan-bao-%EF%BC%9A-ru-he-yong-%20OCR%20-zi-dong-hua-xun-zhao-zui-jia-duan-shi-pin-%EF%BC%8C-jie-fang-shuang-shou-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>抖音探宝：如何用 OCR 自动化寻找最佳短视频，解放双手！</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">抖音探宝：如何用 OCR 自动化寻找最佳短视频，解放双手！</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/559" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>做视频剪辑的同学都知道，搜索对标账号和样片是相当耗时的，一般我们通过关键字检索可以获取少量账号和视频素材，并且短时间检索的数据是相同的，因此没法持续获取数据</p>
+<p>那么，如何持续获取相关账户信息和样片呢？</p>
+<p>以某音为例，我们只需要前期针对账号做一些特定的训练，后期推荐的大部分内容都是我们想要的数据；然后模拟刷视频的动作，通过 OCR 截取视频相关的信息（视频标题、时长、喜欢量等）进行过滤，最后通过点击复制链接按钮，将视频信息写入到本地即可</p>
+<p>本篇文章将聊聊常见可行的方案</p>
+<p>1、<strong>pytesseract</strong></p>
+<p>借助 pyautogui 和 pytesseract，可以先对屏幕进行截图，然后利用 pytesseract 进行文字识别</p>
+<p>首先，下载 pytesseract 客户端，安装后将运行目录配置到环境变量中</p>
+<p>下载地址：<a href="https://github.com/UB-Mannheim/tesseract/wiki">https://github.com/UB-Mannheim/tesseract/wiki</a></p>
+<p>然后，下载中文语音训练库并放到应用安装目录</p>
+<p>PS：最新版本为 4.1.0</p>
+<p>下载地址：<a href="https://github.com/tesseract-ocr/tessdata">https://github.com/tesseract-ocr/tessdata</a></p>
+<p>接着，安装依赖</p>
+<p>pip3 install pyautogui pytesseract</p>
+<p>核心源码如下：</p>
+<pre class="notranslate"><code class="notranslate">`import pyautogui, pytesseract, os, re``from zhon.hanzi import punctuation``os.environ['TESSDATA_PREFIX'] = r'C:\Program Files\Tesseract-OCR'``def remove_special_characters(text):` `text = re.sub(r'[{}]+'.format(punctuation), '', text)  # 去除特殊字符` `text = re.sub(r'\s+', '', text)  # 去除空格和换行符` `return text``def __convert_to_minutes(time_str):` `"""` `将视频时长的字符串格式转换为分钟数。` `:param time_str: 视频时长的字符串，格式为 'HH:MM:SS' 或 'MM:SS'` `:return: 转换后的分钟数` `"""` `if len(time_str.split(':')) == 2:` `hours = 0` `minutes, seconds = time_str.split(':')` `else:` `hours, minutes, seconds = map(int, time_str.split(':'))` `return int(hours) * 60 * 60 + int(minutes) * 60 + int(seconds)``def get_region_text(region):` `# 截图（基于坐标）` `im = pyautogui.screenshot(region=region)` `im.save('my_screenshot.png')` `# 使用pytesseract识别截图中的文字` `text = pytesseract.image_to_string(im, lang='chi_sim')` `# print("识别文字(raw):", text)` `text_new = remove_special_characters(text)` `# print("识别文字(new):", text_new)` `return text_new``# 视频时长（秒）``def get_video_duration(str_raw):` `duration_seconds = -1` `try:` `duration_str = str_raw.split("/")[-1].strip()` `duration_seconds = int(__convert_to_minutes(duration_str))` `except:` `pass` `return duration_seconds``if __name__ == '__main__':` `# 时长` `video_duration_raw = get_region_text((340, 1689, 160, 62))` `video_duration = get_video_duration(video_duration_raw)` `# 视频介绍` `video_content = get_region_text((259, 1774, 1024, 70))` `# 喜欢` `try:` `video_like = int(get_region_text((1699, 1888, 85, 46)))` `except:` `video_like = -1` `print("视频时长:", video_duration)` `print('视频介绍：', video_content)` `print("视频喜欢数：", video_like)`
+</code></pre>
+<p>2、<strong>CnOCR</strong></p>
+<p>实际体验下来，方式一的识别结果不如人意；如果要使用 pytesseract，建议自己训练数据集，提高准确率</p>
+<p>CnOCR 是基于 PyTorch 的超棒中英文 OCR Python 工具包；它自带 20 多个针对不同应用场景的训练有素的模型，安装即可使用</p>
+<p>项目地址：<a href="https://github.com/breezedeus/CnOCR">https://github.com/breezedeus/CnOCR</a></p>
+<p>首先，需要安装 C++ 生成工具</p>
+<p><a href="https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/" rel="nofollow">https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/</a></p>
+<p>然后，安装依赖包</p>
+<p>pip install cnocr[ort-cpu]</p>
+<p>核心源码如下：</p>
+<pre class="notranslate"><code class="notranslate">`import pyautogui, os, re``from zhon.hanzi import punctuation``from cnocr import CnOcr``# pip3 install cnocr[ort-cpu]``def __convert_to_minutes(time_str):` `"""` `将视频时长的字符串格式转换为分钟数。` `:param time_str: 视频时长的字符串，格式为 'HH:MM:SS' 或 'MM:SS'` `:return: 转换后的分钟数` `"""` `# 如果没有小时部分，我们需要将小时设置为0` `if len(time_str.split(':')) == 2:` `hours = 0` `minutes, seconds = time_str.split(':')` `else:` `# 使用分割函数 split，如果没有小时部分，将默认小时部分为0` `hours, minutes, seconds = map(int, time_str.split(':'))` `return int(hours) * 60 * 60 + int(minutes) * 60 + int(seconds)``def get_region_text(region):` `im = pyautogui.screenshot(region=region)` `im.save('my_screenshot.png')` `ocr = CnOcr()` `result = ocr.ocr('my_screenshot.png')` `text = result[0].get("text")` `print("识别文字(raw):", text)` `return text``# 视频时长（秒）``def get_video_duration(str_raw):` `duration_seconds = -1` `try:` `duration_str = str_raw.split("/")[-1].strip()` `duration_seconds = int(__convert_to_minutes(duration_str))` `except:` `pass` `return duration_seconds``if __name__ == '__main__':` `# 时长` `video_duration_ = get_region_text((340, 1689, 160, 62))` `video_duration = get_video_duration(video_duration_)` `video_content = get_region_text((259, 1774, 1024, 70))` `# 喜欢` `try:` `video_like = int(get_region_text((1699, 1888, 85, 46)))` `except:` `video_like = -1` `print("视频时长:", video_duration)` `print('视频介绍：', video_content)` `print("视频喜欢数：", video_like)`
+</code></pre>
+<p>3、<strong>PaddleOCR</strong></p>
+<p>PaddleOCR 是百度开源的深度学习框架 PaddlePaddle 下的 OCR 工具集，支持多种语言的文字检测与识别；它具有易用性、高效性，并提供丰富的文档和模型，适用于多种场景的文字识别任务</p>
+<p>项目地址：<a href="https://github.com/PaddlePaddle/PaddleOCR">https://github.com/PaddlePaddle/PaddleOCR</a></p>
+<p>首先，需要安装 PaddlePaddle</p>
+<pre class="notranslate"><code class="notranslate">pip3 install paddlepaddle -i https://mirror.baidu.com/pypi/simple
+</code></pre>
+<p>然后，安装 PaddleOCR whl 包</p>
+<pre class="notranslate"><code class="notranslate">pip3 install "paddleocr&gt;=2.0.1" # 推荐使用2.0.1+版本
+</code></pre>
+<p>核心源码如下：</p>
+<pre class="notranslate"><code class="notranslate">`import pyautogui, os, re``from paddleocr import PaddleOCR``def get_region_text(region):` `im = pyautogui.screenshot(region=region)` `im.save('my_screenshot.png')` `ocr = PaddleOCR(use_angle_cls=True, lang="ch",` `use_gpu=True)  # need to run only once to download and load model into memory` `img_path = 'my_screenshot.png'` `text = ocr.ocr(img_path, cls=True)[0][0][-1][0]` `print("识别文字(raw):", text)` `return text``if __name__ == '__main__':` `# 时长` `video_duration_ = get_region_text((340, 1689, 160, 62))` `video_duration = get_video_duration(video_duration_)` `# 视频介绍（不精确）` `video_content = get_region_text((259, 1774, 1024, 70))` `# 喜欢` `try:` `video_like = int(get_region_text((1699, 1888, 85, 46)))` `except:` `video_like = -1` `print("视频时长:", video_duration)` `print('视频介绍：', video_content)` `print("视频喜欢数：", video_like)`
+</code></pre>
+<p>4、实战一下</p>
+<p>以某音为例，要筛选出合适的账号和片子，我们需要先借助工具获取元素的坐标（视频内容、喜欢数、时长等），并配置筛选关键字和喜欢阈值</p>
+<pre class="notranslate"><code class="notranslate">`if __name__ == '__main__':` `# 坐标配置` `duration_region = (187, 1879, 186, 52)  # 视频时长` `content_region = (144, 1694, 622, 141)  # 内容，包含多行` `like_region = (2102, 1295, 159, 58)  # 喜欢数` `studio_video_region = (138, 1698, 111, 59)  # 左下角：直播中` `share_url_region = 2211, 1715  # 分享ICON` `copy_url_region = 1747, 1698  # 拷贝URL到剪切板` `dy_video_region = 1314, 1155  # 视频中间位置（方便暂停播放，提取视频时长）` `# 视频保存目录` `output_path = 'C:\\Users\\xx\\Desktop\\'` `output_video_path = f'{output_path}video_result.txt'` `# 运行日志` `timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')` `file_name = f'log_{timestamp}.txt'` `output_log_path = f'{output_path}{file_name}'` `logger = Logger(output_log_path)` `# 喜欢数阈值（5000）` `like_target = 5 * 1000` `# 时长限制（秒）` `video_duration_min = 45` `video_duration_max = 120` `# 关键字` `keywords = ['xx1', 'xx2']`
+</code></pre>
+<p>然后编写过滤逻辑和数据写入本地逻辑</p>
+<pre class="notranslate"><code class="notranslate">`def current_video_check():` `# 时长` `video_duration_ = get_region_text(duration_region)` `video_duration = get_video_duration(video_duration_)` `logger.debug("视频时长：" + str(video_duration))` `...` `# 视频介绍` `video_content = get_region_text(content_region)` `logger.debug("视频介绍：" + str(video_content))` `if not contain_keywords(video_content) or '广告' in video_content:` `video_content_result = False` `return video_duration_result, video_content_result, video_like_result` `else:` `video_content_result = True` `# 喜欢` `try:` `video_like_str = get_region_text(like_region)` `video_like = get_like_count(video_like_str)` `except:` `video_like = -1` `logger.debug("视频喜欢数：" + str(video_like))` `if video_like &lt; like_target:` `video_like_result = False` `else:` `video_like_result = True` `return video_duration_result, video_content_result, video_like_result``# 写入数据``def write_to_file():` `# 移动到复制按钮处，显示复制悬浮框` `pyautogui.moveTo(share_url_region)` `time.sleep(1)` `# 点击复制按钮，将内容复制到剪切板` `pyautogui.click(copy_url_region)` `...` `# 点击界面，关闭复制弹框` `pyautogui.click(dy_video_region)`
+</code></pre>
+<p>最后模拟刷视频的动作，通过上面的筛选条件过滤出合适的数据</p>
+<pre class="notranslate"><code class="notranslate">`def start():` `# 点击视频画面，停止播放，并窗口focus` `pyautogui.click(dy_video_region)` `while True:` `video_duration_result, video_content_result, video_like_result = current_video_check()` `if video_duration_result and video_content_result and video_like_result:` `write_to_file()` `elif not video_duration_result:` `logger.error("Fail-时长不满足要求")` `elif not video_content_result:` `logger.error("Fail-视频内容不满足要求")` `elif not video_like_result:` `logger.error("Fail-视频点赞数不满足要求")` `# 下一个片子` `# 模拟按下方向下键` `pyautogui.press('down')` `# 等待一段时间` `time.sleep(random.uniform(0.5, 2.0))` `if is_studio_video():` `print("直播间，过滤。。。")` `pyautogui.press('down')` `time.sleep(1)` `else:` `# 模拟按下空格键（暂停）` `# pyautogui.press('space')` `pyautogui.click(dy_video_region)`
+</code></pre>
+<p>完整思路及核心源码上面已全部包含。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73af1339a34cd8f45ce59e50aee39713207ba0a9a340b3357ba55a8e7e27522a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584468716b65696245614e6f484e66423161786476646e443247636e69626d773671794c546554677169616d476c34336b674255696341774973412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/73af1339a34cd8f45ce59e50aee39713207ba0a9a340b3357ba55a8e7e27522a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584468716b65696245614e6f484e66423161786476646e443247636e69626d773671794c546554677169616d476c34336b674255696341774973412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/ohoo1dCmvqfatDt2TsehjQicnMdNNP0jXDhqkeibEaNoHNfB1axdvdnD2Gcnibmw6qyLTeTgqiamGl43kgBUicAwIsA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73af1339a34cd8f45ce59e50aee39713207ba0a9a340b3357ba55a8e7e27522a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584468716b65696245614e6f484e66423161786476646e443247636e69626d773671794c546554677169616d476c34336b674255696341774973412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/73af1339a34cd8f45ce59e50aee39713207ba0a9a340b3357ba55a8e7e27522a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584468716b65696245614e6f484e66423161786476646e443247636e69626d773671794c546554677169616d476c34336b674255696341774973412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/ohoo1dCmvqfatDt2TsehjQicnMdNNP0jXDhqkeibEaNoHNfB1axdvdnD2Gcnibmw6qyLTeTgqiamGl43kgBUicAwIsA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73af1339a34cd8f45ce59e50aee39713207ba0a9a340b3357ba55a8e7e27522a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584468716b65696245614e6f484e66423161786476646e443247636e69626d773671794c546554677169616d476c34336b674255696341774973412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/73af1339a34cd8f45ce59e50aee39713207ba0a9a340b3357ba55a8e7e27522a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584468716b65696245614e6f484e66423161786476646e443247636e69626d773671794c546554677169616d476c34336b674255696341774973412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/ohoo1dCmvqfatDt2TsehjQicnMdNNP0jXDhqkeibEaNoHNfB1axdvdnD2Gcnibmw6qyLTeTgqiamGl43kgBUicAwIsA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73af1339a34cd8f45ce59e50aee39713207ba0a9a340b3357ba55a8e7e27522a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584468716b65696245614e6f484e66423161786476646e443247636e69626d773671794c546554677169616d476c34336b674255696341774973412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/73af1339a34cd8f45ce59e50aee39713207ba0a9a340b3357ba55a8e7e27522a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584468716b65696245614e6f484e66423161786476646e443247636e69626d773671794c546554677169616d476c34336b674255696341774973412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/ohoo1dCmvqfatDt2TsehjQicnMdNNP0jXDhqkeibEaNoHNfB1axdvdnD2Gcnibmw6qyLTeTgqiamGl43kgBUicAwIsA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a25e8a58b2117d88e616c234d50111590afda0f556f55a9d48d03c0c03a66bae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584e434d4569626832396f396f59315474576834437a746d444554383068316753743653696271544579533564677054584d66384b6a3947412f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a25e8a58b2117d88e616c234d50111590afda0f556f55a9d48d03c0c03a66bae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584e434d4569626832396f396f59315474576834437a746d444554383068316753743653696271544579533564677054584d66384b6a3947412f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/ohoo1dCmvqfatDt2TsehjQicnMdNNP0jXNCMEibh29o9oY1TtWh4CztmDET80h1gSt6SibqTEyS5dgpTXMf8Kj9GA/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>更多每日开发小技巧</strong></p>
+<p><strong>尽在****未闻 Code Telegram Channel</strong> <strong>!</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a25e8a58b2117d88e616c234d50111590afda0f556f55a9d48d03c0c03a66bae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584e434d4569626832396f396f59315474576834437a746d444554383068316753743653696271544579533564677054584d66384b6a3947412f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a25e8a58b2117d88e616c234d50111590afda0f556f55a9d48d03c0c03a66bae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a584e434d4569626832396f396f59315474576834437a746d444554383068316753743653696271544579533564677054584d66384b6a3947412f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/ohoo1dCmvqfatDt2TsehjQicnMdNNP0jXNCMEibh29o9oY1TtWh4CztmDET80h1gSt6SibqTEyS5dgpTXMf8Kj9GA/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/144a6e0c6c1b14d064f9ae699e4451f255bc5da342b39783f46cac7627880886/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a586478396559753861663832696143476b397a6d4136507970326b6171757a4851344647376e713164446f673168556661644b6d6c7952772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/144a6e0c6c1b14d064f9ae699e4451f255bc5da342b39783f46cac7627880886/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a586478396559753861663832696143476b397a6d4136507970326b6171757a4851344647376e713164446f673168556661644b6d6c7952772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/ohoo1dCmvqfatDt2TsehjQicnMdNNP0jXdx9eYu8af82iaCGk9zmA6Pyp2kaquzHQ4FG7nq1dDog1hUfadKmlyRw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>END</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/726d4dff8842b48a13f91f5bfdf3851a164482ededb3303a807955c223f271f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a58696250753130714e674f524445696158656165534f7675784b786f615875656b613049706245633469614c4c4c61436963424b4e764d585966512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/726d4dff8842b48a13f91f5bfdf3851a164482ededb3303a807955c223f271f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a58696250753130714e674f524445696158656165534f7675784b786f615875656b613049706245633469614c4c4c61436963424b4e764d585966512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/ohoo1dCmvqfatDt2TsehjQicnMdNNP0jXibPu10qNgORDEiaXeaeSOvuxKxoaXueka0IpbEc4iaLLLaCicBKNvMXYfQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>未闻 Code·知识星球开放啦！</p>
+<p>一对一答疑爬虫相关问题</p>
+<p>职业生涯咨询</p>
+<p>面试经验分享</p>
+<p>每周直播分享</p>
+<p>......</p>
+<p>未闻 Code·知识星球期待与你相见~</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e0b7a4862888461ccd17c2f322fe48aa62ff4e0edfd36af4a6a4e77fc60f9ab6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a5859546a47546c67456169636d7552715150696156397075714154344f4172634d497a4736744b5a43503562545761684441344b626e6663672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e0b7a4862888461ccd17c2f322fe48aa62ff4e0edfd36af4a6a4e77fc60f9ab6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f686f6f3164436d7671666174447432547365686a5169636e4d644e4e50306a5859546a47546c67456169636d7552715150696156397075714154344f4172634d497a4736744b5a43503562545761684441344b626e6663672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/ohoo1dCmvqfatDt2TsehjQicnMdNNP0jXYTjGTlgEaicmuRqQPiaV9puqAT4OArcMIzG6tKZCP5bTWahDA4Kbnfcg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>一二线大厂在职员工</p>
+<p>十多年码龄的编程老鸟</p>
+<p>国内外高校在读学生</p>
+<p>中小学刚刚入门的新人</p>
+<p>在“未闻 Code技术交流群”等你来！</p>
+<p><em>入群方式：添加微信“mekingname”，备注“粉丝群”（谢绝广告党，非诚勿扰！)</em></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

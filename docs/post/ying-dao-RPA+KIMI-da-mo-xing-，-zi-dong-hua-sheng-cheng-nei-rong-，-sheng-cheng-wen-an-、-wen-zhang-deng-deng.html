@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> 大家好，我是吴。">
+<meta property="og:title" content="影刀RPA+KIMI大模型，自动化生成内容，生成文案、文章等等">
+<meta property="og:description" content="> 大家好，我是吴。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/ying-dao-RPA%2BKIMI-da-mo-xing-%EF%BC%8C-zi-dong-hua-sheng-cheng-nei-rong-%EF%BC%8C-sheng-cheng-wen-an-%E3%80%81-wen-zhang-deng-deng.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>影刀RPA+KIMI大模型，自动化生成内容，生成文案、文章等等</title>
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">影刀RPA+KIMI大模型，自动化生成内容，生成文案、文章等等</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/552" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>大家好，我是吴。上市公司资深开发，全国最大AI社群成员，掌握N多AI变现方式。 本公众号专注于分享RPA技术、AI技术、AI工具、AI前沿知识、AI变现等内容。感谢您的阅读，关注我一起成长进步。</p>
+</blockquote>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzk0NzYyMjA5MQ==&amp;mid=2247484437&amp;idx=1&amp;sn=bd10775e1d98bfc02b8a94d741c9f543&amp;chksm=c3755db1f402d4a7c524ba0beab16291e4840c09a06b3e0a8e8f88b9f6aa40d9f452311748c5&amp;scene=21#wechat_redirect" rel="nofollow">RPA系列 基础概念</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzk0NzYyMjA5MQ==&amp;mid=2247484451&amp;idx=1&amp;sn=a76bd6023fbab52b6f4021fefdcf9058&amp;chksm=c3755d87f402d49157c25091c00d92a465b5db240fe4fb0139de5b74538dd3ed9e0f69ef94a0&amp;scene=21#wechat_redirect" rel="nofollow">影刀RPA PC环境安装配置</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzk0NzYyMjA5MQ==&amp;mid=2247484465&amp;idx=1&amp;sn=7c47f8ca49da973a7bc6896415341d62&amp;chksm=c3755d95f402d4833e2dc09ab6aa6c612a1b01f2c3dee1393e079b50672bb872da6615c063ac&amp;scene=21#wechat_redirect" rel="nofollow">影刀RPA 手机端环境配置 新手小白教程</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzk0NzYyMjA5MQ==&amp;mid=2247484467&amp;idx=1&amp;sn=ba0577d75429af59c747b621b6befd85&amp;chksm=c3755d97f402d481af021bb74bef8388d30f47b5778782c21673bdd2b30f99e8eb6a050a16eb&amp;scene=21#wechat_redirect" rel="nofollow">影刀RPA自动化小白教程-小红书养号自动化程序，手把手小白教程，老奶奶都能学会</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzk0NzYyMjA5MQ==&amp;mid=2247484490&amp;idx=1&amp;sn=c4e19143f40daece6e20b2014919b708&amp;chksm=c3755deef402d4f8c4a8bcc8e7cb9ba8ac7ca99b6d1352e2316841ce6a7fd355867115fbf372&amp;scene=21#wechat_redirect" rel="nofollow">影刀RPA自动化小白教程-小红书爆款素材库抓取机器人（一），手把手小白教程，老奶奶都能学会</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzk0NzYyMjA5MQ==&amp;mid=2247484513&amp;idx=1&amp;sn=5f9ee9f5cd17f5d920d91090531f494c&amp;chksm=c3755dc5f402d4d3d8c952b4f2720dfcdb8304fca54b06a5107ee4414e007f5376d0f5b2abdd&amp;scene=21#wechat_redirect" rel="nofollow">影刀RPA自动化小白教程-小红书爆款素材库抓取机器人（二），手把手小白教程，老奶奶都能学会</a></p>
+<p>KIMI是目前国产排的上名的大模型，本篇文章教大家怎么使用影刀RPA和KIMI完成对话，并且采集对话数据</p>
+<p>KIMI地址：</p>
+<p><a href="https://kimi.moonshot.cn/" rel="nofollow">https://kimi.moonshot.cn/</a></p>
+<p>KIMI首页：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a9b83fa09ea49553e6aba73302732281e73d20e446ab7b6c6cd5a602832dd08/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767079663464676566314d75436678626f6962756c774b6f615069614a523337617543577576464c4e6a705364777957634c4366666a65747a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7a9b83fa09ea49553e6aba73302732281e73d20e446ab7b6c6cd5a602832dd08/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767079663464676566314d75436678626f6962756c774b6f615069614a523337617543577576464c4e6a705364777957634c4366666a65747a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpyf4dgef1MuCfxboibulwKoaPiaJR37auCWuvFLNjpSdwyWcLCffjetzA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>KIMI对话界面：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0e772cb34b128608e65aa92f5348158f32dcfa262b540f5b79428c7420fe38bd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767076613956585234394645417a5930486961477765425345394a376530534e545a44675378703042426f61526962446269634e41574d5a416b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0e772cb34b128608e65aa92f5348158f32dcfa262b540f5b79428c7420fe38bd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767076613956585234394645417a5930486961477765425345394a376530534e545a44675378703042426f61526962446269634e41574d5a416b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpva9VXR49FEAzY0HiaGweBSE9J7e0SNTZDgSxp0BBoaRibDbicNAWMZAkQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>操作步骤：</p>
+<p>1.打开kimi首页，然后输入提示词</p>
+<p>2.在kimi对话界面，输入对话内容</p>
+<p>3.获取生成的内容</p>
+<p>演示视频</p>
+<p>完整步骤</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f5111df9012b19dd8358908c01307768d1deba63e3c4f37521c11343c876e27f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676707851536a656d773930464946474d51485a44696352454f304633355642586642756e6963426e37507a4e507a77667477564669627250386962772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f5111df9012b19dd8358908c01307768d1deba63e3c4f37521c11343c876e27f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676707851536a656d773930464946474d51485a44696352454f304633355642586642756e6963426e37507a4e507a77667477564669627250386962772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpxQSjemw90FIFGMQHZDicREO0F35VBXfBunicBn7PzNPzwftwVFibrP8ibw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0093d56ba766f97451ea0d78ae6a537dd125a91433fa95c9465787c3f7ca2555/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670447464776e65696369624a68327a44454c4c41554e4a4d463247786169625750396962546d33423171503839527a5a4b4a38707a4754703053772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0093d56ba766f97451ea0d78ae6a537dd125a91433fa95c9465787c3f7ca2555/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670447464776e65696369624a68327a44454c4c41554e4a4d463247786169625750396962546d33423171503839527a5a4b4a38707a4754703053772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpDtdwneicibJh2zDELLAUNJMF2GxaibWP9ibTm3B1qP89RzZKJ8pzGTp0Sw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2><strong>一、打开KIMI网页</strong></h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b869ae503d5a6a148a2b42acbb9662a7698175fe9c51827cc638aca855a57fb5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676704a305a756a4c6e58304a4168324b4b356a615055636a667545766b4970456963526b4b36636e4438616453416d53526962524c557a6a35412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b869ae503d5a6a148a2b42acbb9662a7698175fe9c51827cc638aca855a57fb5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676704a305a756a4c6e58304a4168324b4b356a615055636a667545766b4970456963526b4b36636e4438616453416d53526962524c557a6a35412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpJ0ZujLnX0JAh2KK5jaPUcjfuEvkIpEicRkK6cnD8adSAmSRibRLUzj5A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2><strong>二、输入提示词</strong></h2>
+<p>捕获输入框，并且输入我们的提示词</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f5a7ad829f78940b0957f05679ed27859f0858a5ae1907316a2246b5ec4c19b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767034333841797169614434317369626142655856357478654650354e6177363050676764774d525547754b4f6e33384d35516d4439717039512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2f5a7ad829f78940b0957f05679ed27859f0858a5ae1907316a2246b5ec4c19b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767034333841797169614434317369626142655856357478654650354e6177363050676764774d525547754b4f6e33384d35516d4439717039512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvp438AyqiaD41sibaBeXV5txeFP5Naw60PggdwMRUGuKOn38M5QmD9qp9Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>目标目标：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8975fcb6dfc102ee8d30af0ec46884766000ab24395ebe7badf1eb815447eee3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670517a4d716b3968374d354c37707669614e596e3159766c5733393231726c70365668344d69626a6c6859494142714a3448354e6d78506b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8975fcb6dfc102ee8d30af0ec46884766000ab24395ebe7badf1eb815447eee3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670517a4d716b3968374d354c37707669614e596e3159766c5733393231726c70365668344d69626a6c6859494142714a3448354e6d78506b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpQzMqk9h7M5L7pviaNYn1YvlW3921rlp6Vh4MibjlhYIABqJ4H5NmxPkg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>输入内容：自己的提示词</p>
+<p>然后在高级中，输入方式选择：剪切板输入，这样快一点</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bec367b7cbd36aec53a247fc3b11acf9a0f8d80c8f405962cb6f76d839937792/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670316e70724169616b456f4e6f31594f46384465567646786f5945566f69627549717942524479584c7839316857457873516d324a36444d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bec367b7cbd36aec53a247fc3b11acf9a0f8d80c8f405962cb6f76d839937792/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670316e70724169616b456f4e6f31594f46384465567646786f5945566f69627549717942524479584c7839316857457873516d324a36444d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvp1nprAiakEoNo1YOF8DeVvFxoYEVoibuIqyBRDyXLx91hWExsQm2J6DMQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>提示词输入好以后，我们回车，提交输入</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3510c48cc0ee128c27d633d01b15db0773146882dd654a31f0a7e451579068d2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676704b31547048414e464e446669636963713668497249566263567634643432344b6e61643849367451724a347731496138696153676542696375672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3510c48cc0ee128c27d633d01b15db0773146882dd654a31f0a7e451579068d2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676704b31547048414e464e446669636963713668497249566263567634643432344b6e61643849367451724a347731496138696153676542696375672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpK1TpHANFNDficicq6hIrIVbcVv4d424Knad8I6tQrJ4w1Ia8iaSgeBicug/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后我们随机等待一下，我这边等待1到5秒</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e5392ed07640cda96f140bf23abd178d6597c2df5b0bfac7f4d51d86dc85b864/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676703863515369634e5068447836454f32425937696278704b57324a4762474455573249614c494932493672356a6f314b5a4650726e454749412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e5392ed07640cda96f140bf23abd178d6597c2df5b0bfac7f4d51d86dc85b864/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676703863515369634e5068447836454f32425937696278704b57324a4762474455573249614c494932493672356a6f314b5a4650726e454749412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvp8cQSicNPhDx6EO2BY7ibxpKW2JGbGDUW2IaLII2I6r5jo1KZFPrnEGIA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>输入提示词后，kimi会输出欢迎语，我们需要等待输出完以后，才会继续输入对话内容</p>
+<p>这里有一个要点，怎么判断程序输出完了，通过判断网页是否存在<strong>停止输出</strong>按钮。当没有这个按钮，也就是我们可以继续输入了</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0559c2926ee80f28561cab1a8aa67633357e2cf3a88900a367b2682a2f813814/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676707570494c6a61687054524c6757307a564175644b596353437078516b5a4a69614850373465516962454b7665436535505a5643666a7658512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0559c2926ee80f28561cab1a8aa67633357e2cf3a88900a367b2682a2f813814/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676707570494c6a61687054524c6757307a564175644b596353437078516b5a4a69614850373465516962454b7665436535505a5643666a7658512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpupILjahpTRLgW0zVAudKYcSCpxQkZJiaHP74eQibEKveCe5PZVCfjvXQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>所以这里我们加一个**【等待元素(web)】**</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/560909933689a97a213ed4151e408e9921756f4f28fff076400d3a5ee8ca8a4f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670554e575a705968324246394a3744567666775969636961776d72487a4c53626e5341754979687a766f3276665356554477644c34647565672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/560909933689a97a213ed4151e408e9921756f4f28fff076400d3a5ee8ca8a4f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670554e575a705968324246394a3744567666775969636961776d72487a4c53626e5341754979687a766f3276665356554477644c34647565672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpUNWZpYh2BF9J7DVvfwYiciawmrHzLSbnSAuIyhzvo2vfSVUDwdL4dueg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>操作目标：</p>
+<p>我们捕获这个停止输出按钮，我们在捕获的时候，需要让内容正在生成就可以，然后快速捕获</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e538f35424da101712498e5f56103ce579156553b14d3dd3b009b9f48a42217/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767061336d774835656b30427177664b76673842696349724c44524738746f33537a6f5046395971615131704e656e654767356172587877512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8e538f35424da101712498e5f56103ce579156553b14d3dd3b009b9f48a42217/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767061336d774835656b30427177664b76673842696349724c44524738746f33537a6f5046395971615131704e656e654767356172587877512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpa3mwH5ek0BqwfKvg8BicIrLDRG8to3SzoPF9YqaQ1pNeneGg5arXxwQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>等待状态：等待元素消失</p>
+<p>超时时间：我们根据情况，自己设置一个</p>
+<h2><strong>三、输入对话内容</strong></h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bee0266b20526d2136e49b4bab8fbfcf4185cf7383449de7302a98effe35957f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767063766e393871356961444e794e456564744c6c553146797a706f53706a466e51364e6a57526a424379767062324979517a6b4d6c7562412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bee0266b20526d2136e49b4bab8fbfcf4185cf7383449de7302a98effe35957f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767063766e393871356961444e794e456564744c6c553146797a706f53706a466e51364e6a57526a424379767062324979517a6b4d6c7562412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpcvn98q5iaDNyNEedtLlU1FyzpoSpjFnQ6NjWRjBCyvpb2IyQzkMlubA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>输入内容：</p>
+<p>想要怎么对话就输入什么内容</p>
+<p>操作目标：</p>
+<p>捕获这个输入框</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8910eb8555a3195711d6d1b99683a81df00272458ff2ca6fccfc17dbdacfd00b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676704e636564786a476d52394b3768616f52566f66513345506155783738667972726f717330786b4379466677444a794e7436656a5a52412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8910eb8555a3195711d6d1b99683a81df00272458ff2ca6fccfc17dbdacfd00b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676704e636564786a476d52394b3768616f52566f66513345506155783738667972726f717330786b4379466677444a794e7436656a5a52412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpNcedxjGmR9K7haoRVofQ3EPaUx78fyrroqs0xkCyFfwDJyNt6ejZRA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>输入完以后，我们点击发送按钮</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/62baf7a2833bbcf8664f2932e94f2bd1f753cb6d3f457d23cf9d1a9e553365d5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676703536654469616b5143637a766d5a526d4b4750635769634b5349464556397a4635347034786c75316b384b656f315a354c585a73493432512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/62baf7a2833bbcf8664f2932e94f2bd1f753cb6d3f457d23cf9d1a9e553365d5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676703536654469616b5143637a766d5a526d4b4750635769634b5349464556397a4635347034786c75316b384b656f315a354c585a73493432512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvp56eDiakQCczvmZRmKGPcWicKSIFEV9zF54p4xlu1k8Keo1Z5LXZsI42Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/accd8128a71f584a299c1b30683d5f9b4b1caa631a07248fdfb42edddc9e04da/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767076464c783144325973574445646b61344a415a7535524c776369614945714756325958696162774a536c596d537546696164544a624a6f33412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/accd8128a71f584a299c1b30683d5f9b4b1caa631a07248fdfb42edddc9e04da/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a307361586476767076464c783144325973574445646b61344a415a7535524c776369614945714756325958696162774a536c596d537546696164544a624a6f33412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpvFLx1D2YsWDEdka4JAZu5RLwciaIEqGV2YXiabwJSlYmSuFiadTJbJo3A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击后，我们需要随机等待一下，我这边设置5-10秒。</p>
+<p>为什么这里要等待，因为有时候，程序还没有反应过来，也就是还没有出现停止输出这个按钮。这样就会导致停止输出判断失效。多轮对话的情况下，就会导致对话内容丢失</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96593dcace51343c9f40c785d6f9c901feba54af48893d75c27397545867c6c2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670784b465369625870657359783047696134446e59535a453350573649537043507069626345475a41746d5654396f6e3568624d7235663146512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/96593dcace51343c9f40c785d6f9c901feba54af48893d75c27397545867c6c2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670784b465369625870657359783047696134446e59535a453350573649537043507069626345475a41746d5654396f6e3568624d7235663146512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpxKFSibXpesYx0Gia4DnYSZE3PW6ISpCPpibcEGZAtmVT9on5hbMr5f1FQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这里同理，等待停止输出按钮消失</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/560909933689a97a213ed4151e408e9921756f4f28fff076400d3a5ee8ca8a4f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670554e575a705968324246394a3744567666775969636961776d72487a4c53626e5341754979687a766f3276665356554477644c34647565672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/560909933689a97a213ed4151e408e9921756f4f28fff076400d3a5ee8ca8a4f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670554e575a705968324246394a3744567666775969636961776d72487a4c53626e5341754979687a766f3276665356554477644c34647565672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpUNWZpYh2BF9J7DVvfwYiciawmrHzLSbnSAuIyhzvo2vfSVUDwdL4dueg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2><strong>四、获取对话内容</strong></h2>
+<p>这里我们通过观察，得到最新的输出下，有复制按钮，我们就通过点击复制按钮，得到kimi输出的内容</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1cedeaf0b0344ef4c938da521434c4d2e667a7d4290efa40989da820ec0fe0f0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676703158773272364974416263643974485669624f4c3734635869633065593574504e4935645438504e6f6f62626f6a797762594e73434533512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1cedeaf0b0344ef4c938da521434c4d2e667a7d4290efa40989da820ec0fe0f0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676703158773272364974416263643974485669624f4c3734635869633065593574504e4935645438504e6f6f62626f6a797762594e73434533512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvp1Xw2r6ItAbcd9tHVibOL74cXic0eY5tPNI5dT8PNoobbojywbYNsCE3Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d8e720cfa172db1724e77f9c892b592c2249f085ef692d5a05db773314300349/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670514d5451326b54314d69617a366f4f51444566395a7069614862435031625243466d466e396a79463737646a7175514d4a34466a49446b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d8e720cfa172db1724e77f9c892b592c2249f085ef692d5a05db773314300349/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670514d5451326b54314d69617a366f4f51444566395a7069614862435031625243466d466e396a79463737646a7175514d4a34466a49446b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpQMTQ2kT1Miaz6oOQDEf9ZpiaHbCP1bRCFmFn9jyF77djquQMJ4FjIDkQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>操作目标：捕获复制按钮</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/112d05dc780aa0e2bd193df0b1a90c9240792291015865f7f3fdc89924fb52c7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676707a364e6b61393972707544725336556e794f3279664c30664a336869634b6846784c64514f31424d766248427a657834696352446b6c33512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/112d05dc780aa0e2bd193df0b1a90c9240792291015865f7f3fdc89924fb52c7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676707a364e6b61393972707544725336556e794f3279664c30664a336869634b6846784c64514f31424d766248427a657834696352446b6c33512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpz6Nka99rpuDrS6UnyO2yfL0fJ3hicKhFxLdQO1BMvbHBzex4icRDkl3Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后通过获取剪切板文本，得到复制中的内容</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4d9211ede1e1f85c37842894f08de4d11b44be081a1fd5bc2ce281d6ae641854/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670587369614843726961364f69635a47413633676a35544c69634249524e4a764653397961747050734b4b4a7a42363158774b71594a474a6a34412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4d9211ede1e1f85c37842894f08de4d11b44be081a1fd5bc2ce281d6ae641854/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a3073615864767670587369614843726961364f69635a47413633676a35544c69634249524e4a764653397961747050734b4b4a7a42363158774b71594a474a6a34412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpXsiaHCria6OicZGA63gj5TLicBIRNJvFS9yatpPsKKJzB61XwKqYJGJj4A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2><strong>五、关闭网页</strong></h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e45a3e5662bea5f00290287fe4089c2345ea6017f11ff9282ab4b11eaeeb5fb3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676705878736a4c3769617534797877756c5153794d6169624a6b696331447a3236524f566a69634d775864556f577a6773624c713168555569614d56672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e45a3e5662bea5f00290287fe4089c2345ea6017f11ff9282ab4b11eaeeb5fb3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f344f3230796962536c76754c62446c647565753970624a504a30736158647676705878736a4c3769617534797877756c5153794d6169624a6b696331447a3236524f566a69634d775864556f577a6773624c713168555569614d56672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4O20yibSlvuLbDldueu9pbJPJ0saXdvvpXxsjL7iau4yxwulQSyMaibJkic1Dz26ROVjicMwXdUoWzgsbLq1hUUiaMVg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这样，一个使用影刀RPA和kimi大模型对话的小程序就做好了。</p>
+<p>后续自己可以再扩展，比如增加多轮对话，重复步骤3-4，让kimi生成文章等等。循环1-5步骤，就可以完整批量生成</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>

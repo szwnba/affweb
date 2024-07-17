@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfoghxeo6YXZZicia6bNPGpfz0WMmGavX6v6ujcLLe3P1Xhf4644drY8CoIXQ/640?wx_fmt=png)
+  
+
+你是否曾在深夜中挣扎，试图在设计的海洋中寻找那个完美的视觉元素，却始终无果？你的IP形象是否因为缺乏出色的视觉展现而无法在竞品中脱颖而出？或者，你是否曾经对那些高昂的设计和版权费用感到深深的无力和挫败感？
+
+如果你的答案是肯定的，那么，我有一个好消息要告诉你：Midjourney，一个人工智能绘图工具，可能会成为你的救星。">
+<meta property="og:title" content="Midjourney七大神级Prompts，让你的IP在视觉上独领风骚">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfoghxeo6YXZZicia6bNPGpfz0WMmGavX6v6ujcLLe3P1Xhf4644drY8CoIXQ/640?wx_fmt=png)
+  
+
+你是否曾在深夜中挣扎，试图在设计的海洋中寻找那个完美的视觉元素，却始终无果？你的IP形象是否因为缺乏出色的视觉展现而无法在竞品中脱颖而出？或者，你是否曾经对那些高昂的设计和版权费用感到深深的无力和挫败感？
+
+如果你的答案是肯定的，那么，我有一个好消息要告诉你：Midjourney，一个人工智能绘图工具，可能会成为你的救星。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://szwnba.github.io/affweb/post/Midjourney-qi-da-shen-ji-Prompts%EF%BC%8C-rang-ni-de-IP-zai-shi-jue-shang-du-ling-feng-sao.html">
+<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<title>Midjourney七大神级Prompts，让你的IP在视觉上独领风骚</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Midjourney七大神级Prompts，让你的IP在视觉上独领风骚</h1>
+<div class="title-right">
+    <a href="https://szwnba.github.io/affweb" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/267" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/79fd471d95b591c8d3a1723f2ad5cfde60f06f56e9f39e2bb5eef7448b642e5a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f676878656f3659585a5a6963696136624e504770667a30574d6d47617658367636756a634c4c653350315868663436343464725938436f4958512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/79fd471d95b591c8d3a1723f2ad5cfde60f06f56e9f39e2bb5eef7448b642e5a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f676878656f3659585a5a6963696136624e504770667a30574d6d47617658367636756a634c4c653350315868663436343464725938436f4958512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfoghxeo6YXZZicia6bNPGpfz0WMmGavX6v6ujcLLe3P1Xhf4644drY8CoIXQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>你是否曾在深夜中挣扎，试图在设计的海洋中寻找那个完美的视觉元素，却始终无果？你的IP形象是否因为缺乏出色的视觉展现而无法在竞品中脱颖而出？或者，你是否曾经对那些高昂的设计和版权费用感到深深的无力和挫败感？</p>
+<p>如果你的答案是肯定的，那么，我有一个好消息要告诉你：Midjourney，一个人工智能绘图工具，可能会成为你的救星。只需要简单掌握7大神级Prompts，就能让AI为你描绘出理想中的设计。想知道如何实现吗？那就跟随我一起进入Midjourney的神秘世界，以我的公众号「AI小岛」为例，开启这场创新的旅程。"</p>
+<p><strong>1. 专业插图</strong></p>
+<p>你能想象吗？在Midjourney中，可以用专业插图提示，画出一张展现「AI小岛」特色的精美插图，让每一位新的访客都被这张插图深深吸引。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/961a4dfeee3a266264f11df1031af80db23c007585324b81ece70bc7a6cd427f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f67685251647955645368573869633245465567516c6e59465054556e646b325a454a5244615944496d537231504f6872726442696166354679772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/961a4dfeee3a266264f11df1031af80db23c007585324b81ece70bc7a6cd427f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f67685251647955645368573869633245465567516c6e59465054556e646b325a454a5244615944496d537231504f6872726442696166354679772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfoghRQdyUdShW8ic2EFUgQlnYFPTUndk2ZEJRDaYDImSr1POhrrdBiaf5Fyw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>Prompt:</p>
+<p>"#insert idea, colorful line illustration, cartoon, minimalist, precise lines and contour, angular"</p>
+<p>“#插入想法，多彩的线条插图，卡通，极简主义，精确的线条和轮廓，角度”</p>
+<p><strong>2. 现代背景</strong></p>
+<p>想要让「AI小岛」公众号的封面更具吸引力？使用Midjourney的现代背景提示。可以创造出一个充满现代感的背景图像。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b5ba9d04b4f92c140d54628a78677695f323847cabcc7317e09944d1033fbad4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f676855684c7a317473696261454f577677497a48424d6d456e32747a64524f615674774b354a744839776b3552314c3770587777486f725a412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/b5ba9d04b4f92c140d54628a78677695f323847cabcc7317e09944d1033fbad4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f676855684c7a317473696261454f577677497a48424d6d456e32747a64524f615674774b354a744839776b3552314c3770587777486f725a412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfoghUhLz1tsibaEOWvwIzHBMmEn2tzdROaVtwK5JtH9wk5R1L7pXwwHorZA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>Prompt:</p>
+<p>"#insert your colors, modern background with white dots, geometric circular liquids, rounded forms, memphis design aspects, abstract minimalism, wavy fluid formations"</p>
+<p>“#插入你的颜色，带有白色点的现代背景，几何圆形液体，圆形形状，孟菲斯设计元素，抽象极简主义，波浪状流体形态”</p>
+<p><strong>3. 产品开发</strong></p>
+<p>「AI小岛」的虚拟AI助手是本岛的招牌。在Midjourney中，可以利用产品开发提示，生成一张鲜活生动的虚拟AI助手图片，增添更多的人性化色彩。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4042bdd8b54a019b6289a8057011d4d4a68bc0bc81e6892a7c35a557b0883d55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f67684f4f575062746b69616f6d617554536963466163446963503645614853625568436d6357675937794f696161514e5653336e484b56334d4962772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/4042bdd8b54a019b6289a8057011d4d4a68bc0bc81e6892a7c35a557b0883d55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f67684f4f575062746b69616f6d617554536963466163446963503645614853625568436d6357675937794f696161514e5653336e484b56334d4962772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfoghOOWPbtkiaomauTSicFacDicP6EaHSbUhCmcWgY7yOiaaQNVS3nHKV3MIbw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>Prompt:</p>
+<p>"a close-up shot of #insert your item on a #insert color background background, high resolution, studio lighting, #insert brand tone/mood, modern and sleek design, minimalistic, #insert color palette"</p>
+<p>“一个特写镜头，#插入你的物品在一个#插入颜色的背景上，高分辨率，演播室照明，#插入品牌调性/氛围，现代且光滑的设计，简约主义，#插入颜色调色板”</p>
+<p><strong>4. 商业艺术</strong></p>
+<p>可以使用Midjourney的商品艺术提示，创造出「AI小岛」主题的衍生艺术图片，使IP形象更为丰富，为喜欢的读者提供更多的收藏和购买选择。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d61a95fa42cb8689f6de3191b996372f6b67e236df8e1b660c343168a8f45eb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f6768316e6875723666717831704941486f66714f785050786e3047374d6f6f3530696263573268455763714c735569616d5a444a30336b416e412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/0d61a95fa42cb8689f6de3191b996372f6b67e236df8e1b660c343168a8f45eb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f6768316e6875723666717831704941486f66714f785050786e3047374d6f6f3530696263573268455763714c735569616d5a444a30336b416e412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfogh1nhur6fqx1pIAHofqOxPPxn0G7Moo50ibcW2hEWcqLsUiamZDJ03kAnA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>Prompt:</p>
+<p>"#insert your idea, minimalistic vector art, still life painting, flat illustration, limited shading, monochromatic shadows, pop art inspired, white background"</p>
+<p>“#插入你的想法，简约的矢量艺术，静物画，平面插图，有限的阴影，单色阴影，受波普艺术启发，白色背景”</p>
+<p><strong>5. 广告艺术</strong></p>
+<p>在Midjourney中使用广告艺术提示，创作一张引人入胜的广告图片，来宣传「AI小岛」，看看能不能立刻吸引大量新的关注者。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/faaad21e9f9d1205902319718bc6e12540f4369f896e74f822ee77f042cfbd99/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f6768756f4169636458494d4655655043336e54676538696232486d61466d744a54394c564c723551734a7462696278566d72535442735a746431512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/faaad21e9f9d1205902319718bc6e12540f4369f896e74f822ee77f042cfbd99/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f6768756f4169636458494d4655655043336e54676538696232486d61466d744a54394c564c723551734a7462696278566d72535442735a746431512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfoghuoAicdXIMFUePC3nTge8ib2HmaFmtJT9LVLr5QsJtbibxVmrSTBsZtd1Q/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>Prompt:</p>
+<p>"#insert yoru item/product, surrounded by swirling energy in blue and white, chromepunk style, metallic and futuristic elements, Ferrania P30 film, high-contrast monochromatic look with bold shadows and highlights, vibrant dark background creating striking contrast"</p>
+<p>“#插入你的物品/产品，被蓝色和白色的旋转能量环绕，铬朋克风格，金属和未来主义元素，Ferrania P30胶片，醒目的阴影和高光的高对比度单色外观，鲜明的深色背景形成强烈的对比”</p>
+<p><strong>6. 专业头像</strong></p>
+<p>我不希望「AI小岛」的虚拟AI助手只是代码和命令，使用Midjourney的专业头像提示，设计出一个虚拟AI助手的真人图片，使她更具亲和力，更能与你的读者建立情感联系。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a5c73e63b1f7be8c73d9ac9793117e88b56d0ecbaf2c1c0614aa766025f3c17d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f6768513553716e51336e786e567877597675436b5548763438763871655977716a417272754d5559435a725969634c42704b7a5176535665512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/a5c73e63b1f7be8c73d9ac9793117e88b56d0ecbaf2c1c0614aa766025f3c17d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f6768513553716e51336e786e567877597675436b5548763438763871655977716a417272754d5559435a725969634c42704b7a5176535665512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfoghQ5SqnQ3nxnVxwYvuCkUHv48v8qeYwqjArruMUYCZrYicLBpKzQvSVeQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>Prompt:</p>
+<p>"#insert type of person, professional headshot, #insert clothing details, detailed facial features, portraiture specialist, white background"</p>
+<p>“#插入人物类型，专业的头像照，#插入服装细节，详细的面部特征，肖像专家，白色背景</p>
+<p><strong>7. logo设计</strong></p>
+<p>「AI小岛」需要一个独特的Logo。在Midjourney中，可以使用Logo设计提示，打造一个艺术化的Logo，让你的品牌形象更加突出，更具辨识度。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca3fce627b8af0614f474e88bceb2db1fab019abf258028dc9000773eb3b8045/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f6768474f55653245567867315a6656447944714c57654a53337050366e6b7754647847576962414a5269616d3064654a516741434143774856772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/ca3fce627b8af0614f474e88bceb2db1fab019abf258028dc9000773eb3b8045/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55363852526541696247643874617163736a45636a7054506770626253666f6768474f55653245567867315a6656447944714c57654a53337050366e6b7754647847576962414a5269616d3064654a516741434143774856772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U68RReAibGd8taqcsjEcjpTPgpbbSfoghGOUe2EVxg1ZfVDyDqLWeJS3pP6nkwTdxGWibAJRiam0deJQgACACwHVw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>Prompt:</p>
+<p>"line art logo of #insert item, thin #insert color lines, minimal, #background color"</p>
+<p>“#插入物品的线条艺术logo，细#插入颜色的线条，简约，#背景色”</p>
+<p>现在，你是不是对Midjourney的神奇魔力有了更深的理解？是不是感觉到了一个全新的视觉世界正在向你敞开大门？这就是Midjourney，一个可以通过简单提示，帮助你实现设计梦想的工具。</p>
+<p>如果你觉得这篇文章对你有所启发，那就点击下方的“赞”按钮，并分享给你的朋友，让更多的人了解这个强大的工具。期待你在设计的道路上独树一帜，创出属于你的精彩！</p>
+<p><strong>AI小岛涵哥 出品</strong>【微信号】** <strong>sanhan2016</strong>**</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/622b43521684202a88c43f72d2edc677d45f13d400ec154d5977ede728bca084/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5536385252654169624764395a78464a637a3334426e3272585679324d42797755686a696275726732666c414b55673270534138646b45636461706a4153497a79494939304772416b39784b39426547664d5455616e6d412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/622b43521684202a88c43f72d2edc677d45f13d400ec154d5977ede728bca084/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5536385252654169624764395a78464a637a3334426e3272585679324d42797755686a696275726732666c414b55673270534138646b45636461706a4153497a79494939304772416b39784b39426547664d5455616e6d412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/U68RReAibGd9ZxFJcz34Bn2rXVy2MBywUhjiburg2flAKUg2pSA8dkEcdapjASIzyII90GrAk9xK9BeGfMTUanmA/640?wx_fmt=jpeg" style="max-width: 100%;"></a><br>
+<strong>个人转载内容至朋友圈和群聊天，无需申请版权许可。</strong></p>
+<p>都看到这里了，你不关注一下嘛👇 👇 👇 </p>
+<p>你的点赞，是我持续更新的动力。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://szwnba.github.io/affweb"> Blog Title </a>
+<p>
+<span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
+</p>
+
+<script>
+if(""!=""){
+    var now=new Date();
+    var startSite=new Date("");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("year").innerHTML=now.getFullYear();
+    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
+}
+</script>
+</div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>
