@@ -10,13 +10,13 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="这是我的笔记空间,收集有关AI、IT、自媒体相关领域的内容">
-<meta property="og:title" content="Johnson的个人笔记">
-<meta property="og:description" content="这是我的笔记空间,收集有关AI、IT、自媒体相关领域的内容">
+<meta name="description" content="这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容">
+<meta property="og:title" content="Johnson的备忘录">
+<meta property="og:description" content="这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容">
 <meta property="og:type" content="blog">
 <meta property="og:url" content="https://blog.126.plus">
 <meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
-<title>Johnson的个人笔记</title>
+<title>Johnson的备忘录</title>
 
 </head>
 <style>
@@ -56,14 +56,18 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <body>
     <div id="header">
 <h1>
-    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">Johnson的个人笔记</a></h1>
+    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">Johnson的备忘录</a></h1>
 <div class="title-right">
     <a href="https://blog.126.plus/tag.html" id="buttonSearch" class="btn btn-invisible circle" title="搜索">
         <svg class="octicon" width="16" height="16" >
             <path id="pathSearch" fill-rule="evenodd"></path>
         </svg>
     </a>
-    
+    <a href="https://github.com/szwnba" class="btn btn-invisible circle" title="github" target="_blank">
+        <svg class="octicon" width="16" height="16" >
+            <path id="github" fill-rule="evenodd"></path>
+        </svg>
+    </a>
     <a href="https://blog.126.plus/about.html" class="btn btn-invisible circle" title="关于">
         <svg class="octicon" width="16" height="16" >
             <path id="关于" fill-rule="evenodd"></path>
@@ -82,7 +86,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div style="margin-bottom: 16px;">这是我的笔记空间,收集有关AI、IT、自媒体相关领域的内容</div>
+<div style="margin-bottom: 16px;">这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</div>
 <nav class="SideNav border">
 <a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/dou-yin-tan-bao-%EF%BC%9A-ru-he-yong-%20OCR%20-zi-dong-hua-xun-zhao-zui-jia-duan-shi-pin-%EF%BC%8C-jie-fang-shuang-shou-%EF%BC%81.html">
     <div class="d-flex flex-items-center">
@@ -254,7 +258,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div class="pagination"><a class="previous_page" rel="previous" href="https://blog.126.plus/index.html" aria-label="Previous Page">上一页</a><a class="next_page" rel="next" href="https://blog.126.plus/page3.html" aria-label="Next Page">下一页</a></div>
 </nav>
 </div>
-    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://blog.126.plus">Johnson的个人笔记</a></div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://blog.126.plus">Johnson的备忘录</a></div>
 <div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号</a> • </span>
     <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
 </div>
@@ -263,8 +267,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 var now=new Date();
 document.getElementById("copyrightYear").innerHTML=now.getFullYear();
 
-if("05/15/2023"!=""){
-    var startSite=new Date("05/15/2023");
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
@@ -317,6 +321,7 @@ for(var i=0;i<iconPost.length;i++){
 }
 
 
+document.getElementById("github").setAttribute("d",value=IconList["github"]);
 
 document.getElementById("关于").setAttribute("d",value=IconList["about"]);
 </script>

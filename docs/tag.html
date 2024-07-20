@@ -10,8 +10,8 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="Johnson的个人笔记 search page">
-<title>Johnson的个人笔记 - Tag</title>
+<meta name="description" content="Johnson的备忘录 search page">
+<title>Johnson的备忘录 - Tag</title>
 
 </head>
 <style>
@@ -76,7 +76,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <nav class="SideNav"></nav>
 <div class="notFind" style="display:none;font-size:24px;margin:8px;">Not Find</div>
 </div>
-    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://blog.126.plus">Johnson的个人笔记</a></div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://blog.126.plus">Johnson的备忘录</a></div>
 <div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号</a> • </span>
     <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
 </div>
@@ -85,8 +85,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 var now=new Date();
 document.getElementById("copyrightYear").innerHTML=now.getFullYear();
 
-if("05/15/2023"!=""){
-    var startSite=new Date("05/15/2023");
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
@@ -236,7 +236,7 @@ function setClassDisplay(label){
     let lists = document.getElementsByClassName("lists");
     let tagTitle = document.getElementsByClassName("tagTitle")[0];
     tagTitle.innerHTML="Tag #"+label;
-    document.title=label+" - Johnson的个人笔记";
+    document.title=label+" - Johnson的备忘录";
     document.getElementsByClassName("subnav-search-input")[0].value='';
     if(label=="All"){
         for(let i = 0; i < lists.length; i++){lists[i].style.display='block';}
@@ -264,8 +264,8 @@ function searchShow(){
     let tagTitle = document.getElementsByClassName("tagTitle")[0];
     let searchInput = document.getElementsByClassName("subnav-search-input")[0].value;
     tagTitle.innerHTML="Search #"+searchInput;
-    if(searchInput==''){document.title="Search - Johnson的个人笔记";}
-    else{document.title=searchInput+" - Johnson的个人笔记";}
+    if(searchInput==''){document.title="Search - Johnson的备忘录";}
+    else{document.title=searchInput+" - Johnson的备忘录";}
     let a=0;
     window.location.hash="#"+(searchInput);
     for(let i = 0; i < lists.length; i++){
