@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0da60f59149447b3b05939621e81a6ee~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1784&h=752&s=168101&e=png&b=020001)
+
+前言
+--
+
+之前有期视频介绍过，在 Vercel 上可以免费部署很多应用，包括 Next.js、Nuxt、Remix。">
+<meta property="og:title" content="将 Node 应用 Express.js 部署到 Vercel - 掘金">
+<meta property="og:description" content="![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0da60f59149447b3b05939621e81a6ee~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1784&h=752&s=168101&e=png&b=020001)
+
+前言
+--
+
+之前有期视频介绍过，在 Vercel 上可以免费部署很多应用，包括 Next.js、Nuxt、Remix。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.126.plus/post/jiang-%20Node%20-ying-yong-%20Express.js%20-bu-shu-dao-%20Vercel%20-%20-jue-jin.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>将 Node 应用 Express.js 部署到 Vercel - 掘金</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">将 Node 应用 Express.js 部署到 Vercel - 掘金</h1>
+<div class="title-right">
+    <a href="https://blog.126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/634" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a34e05c5cf8ef8a70c6d0f82d6174dc36ef80ea1ff7851466cdc14fc5c8c1744/68747470733a2f2f70332d6a75656a696e2e62797465696d672e636f6d2f746f732d636e2d692d6b3375316662706663702f30646136306635393134393434376233623035393339363231653831613665657e74706c762d6b3375316662706663702d6a6a2d6d61726b3a333032343a303a303a303a7137352e6177656270233f773d3137383426683d37353226733d31363831303126653d706e6726623d303230303031"><img src="https://camo.githubusercontent.com/a34e05c5cf8ef8a70c6d0f82d6174dc36ef80ea1ff7851466cdc14fc5c8c1744/68747470733a2f2f70332d6a75656a696e2e62797465696d672e636f6d2f746f732d636e2d692d6b3375316662706663702f30646136306635393134393434376233623035393339363231653831613665657e74706c762d6b3375316662706663702d6a6a2d6d61726b3a333032343a303a303a303a7137352e6177656270233f773d3137383426683d37353226733d31363831303126653d706e6726623d303230303031" alt="" data-canonical-src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0da60f59149447b3b05939621e81a6ee~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1784&amp;h=752&amp;s=168101&amp;e=png&amp;b=020001" style="max-width: 100%;"></a></p>
+<h2>前言</h2>
+<p>之前有期视频介绍过，在 Vercel 上可以免费部署很多应用，包括 Next.js、Nuxt、Remix。除了 Node.js 甚至还支持其他语言，包括 Go、 Python、Ruby，但在 Node.js 中有一个老牌的框架 Express.js，很多应用都是通过 Express.js 创建的，本文将记录下，如何将 Express.js 应用部署到 Vercel，以及它在 serverless 环境中应该考虑的因素。</p>
+<p>在 Vercel 上部署 Express.js 应用程序只需要修改少量代码。让我们使用以下步骤创建一个新的 Express.js 项目并将其部署到 Vercel。</p>
+<h2>使用模板</h2>
+<p>Vercel 官网有一个 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fsolutions%2Fexpress" title="https://github.com/vercel/examples/tree/main/solutions/express" rel="nofollow">Express.js 项目示例</a>，可以将其克隆并部署到 Vercel 作为项目的初始模板。</p>
+<h2>迁移现有项目</h2>
+<p>前置条件</p>
+<ul>
+<li>安装 Node.js 环境</li>
+<li>拥有 vercel 账号（可使用 Github 账号登录）</li>
+</ul>
+<h3>创建一个 Express.js 项目</h3>
+<div class="highlight highlight-source-shell"><pre class="notranslate">mkdir new-express-project
+<span class="pl-c1">cd</span> new-express-project
+npm init -y
+npm install express
+</pre></div>
+<p>并且我们创建一个<code class="notranslate">src/index.js</code> 作为入口文件</p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-k">const</span> <span class="pl-s1">express</span> <span class="pl-c1">=</span> <span class="pl-en">require</span><span class="pl-kos">(</span><span class="pl-s">"express"</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-k">const</span> <span class="pl-s1">app</span> <span class="pl-c1">=</span> <span class="pl-s1">express</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+<span class="pl-s1">app</span><span class="pl-kos">.</span><span class="pl-en">get</span><span class="pl-kos">(</span><span class="pl-s">"/"</span><span class="pl-kos">,</span> <span class="pl-kos">(</span><span class="pl-s1">req</span><span class="pl-kos">,</span> <span class="pl-s1">res</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-s1">res</span><span class="pl-kos">.</span><span class="pl-en">send</span><span class="pl-kos">(</span><span class="pl-s">"Hello Express"</span><span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+<span class="pl-s1">app</span><span class="pl-kos">.</span><span class="pl-en">listen</span><span class="pl-kos">(</span><span class="pl-c1">3000</span><span class="pl-kos">,</span> <span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">log</span><span class="pl-kos">(</span><span class="pl-s">"Server ready on port 3000."</span><span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">;</span></pre></div>
+<p>现在，我们运行 <code class="notranslate">node src/index.js</code> 便可以在本地启动 Express.js 服务。访问 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flocalhost%3A3000%2F" title="http://localhost:3000/" rel="nofollow">http://localhost:3000/</a> 页面显示 Hello Express。</p>
+<h3>适配 vercel</h3>
+<p>我们知道 Vercel 是提供的是 serverless 服务，因此他有一个 api 目录作为每个函数的入口程序。</p>
+<p>比如我们新建一个文件 <code class="notranslate">api/hello.js</code></p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-k">export</span> <span class="pl-k">default</span> <span class="pl-k">function</span> <span class="pl-en">handler</span><span class="pl-kos">(</span><span class="pl-s1">request</span><span class="pl-kos">,</span> <span class="pl-s1">response</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+  <span class="pl-k">const</span> <span class="pl-kos">{</span> name <span class="pl-c1">=</span> <span class="pl-s">'World'</span> <span class="pl-kos">}</span> <span class="pl-c1">=</span> <span class="pl-s1">request</span><span class="pl-kos">.</span><span class="pl-c1">query</span><span class="pl-kos">;</span>
+  <span class="pl-k">return</span> <span class="pl-s1">response</span><span class="pl-kos">.</span><span class="pl-en">send</span><span class="pl-kos">(</span><span class="pl-s">`Hello <span class="pl-s1"><span class="pl-kos">${</span><span class="pl-s1">name</span><span class="pl-kos">}</span></span>!`</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span></pre></div>
+<p>部署到 Vercel 之后，访问 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fexample.vercel.app%2Fapi%2Fhello%3Fname%3DVercel" title="https://example.vercel.app/api/hello?name=Vercel" rel="nofollow">example.vercel.app/api/hello?n…</a></p>
+<p>页面就会显示 Hello Vercel。</p>
+<p>这就是 serverless，如要将传统 node 程序迁移到 serverless，需要改动大量代码。</p>
+<p>幸运的是 vercel 已经实现了适配 express.js。</p>
+<ol>
+<li>新建一个 <code class="notranslate">api/index.js</code> 作为主程序的入口。</li>
+</ol>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-k">const</span> <span class="pl-kos">{</span> app <span class="pl-kos">}</span> <span class="pl-c1">=</span> <span class="pl-en">require</span><span class="pl-kos">(</span><span class="pl-s">"../src"</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+<span class="pl-smi">module</span><span class="pl-kos">.</span><span class="pl-c1">exports</span> <span class="pl-c1">=</span> <span class="pl-s1">app</span><span class="pl-kos">;</span></pre></div>
+<p>并且导出 app。</p>
+<ol start="2">
+<li>修改在 <code class="notranslate">src/index.js</code> 中导出 app</li>
+</ol>
+<pre lang="diff-js" class="notranslate"><code class="notranslate">const express = require("express");
+const app = express();
+
+app.get("/", (req, res) =&gt; res.send("Hello Express"));
+
+app.listen(3000, () =&gt; console.log("Server ready on port 3000."));
+
++ exports.app = app;
+
+</code></pre>
+<ol start="3">
+<li>在根目录下新建一个文件 <code class="notranslate">vercel.json</code></li>
+</ol>
+<div class="highlight highlight-source-json"><pre class="notranslate">{ <span class="pl-ent">"version"</span>: <span class="pl-c1">2</span>, <span class="pl-ent">"rewrites"</span>: [{ <span class="pl-ent">"source"</span>: <span class="pl-s"><span class="pl-pds">"</span>/(.*)<span class="pl-pds">"</span></span>, <span class="pl-ent">"destination"</span>: <span class="pl-s"><span class="pl-pds">"</span>/api<span class="pl-pds">"</span></span> }]
+</pre></div>
+<p>通过使用 vercel.json 文件，我们可以控制 Vercel 配置应用程序的路由，将告诉 Vercel 将所有传入请求路由到我们的 <code class="notranslate">/api</code> 文件夹。</p>
+<h2>本地运行</h2>
+<p>我们可以使用 Vercel CLI 在本地模拟 Vercel 部署的环境。这样运行方式与 vercel 保持一致</p>
+<p>首先，我们需要在终端中运行以下命令来安装 Vercel CLI。</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">npm i -g vercel
+</pre></div>
+<p>接下来，登录 Vercel 以授权，Vercel CLI 在您的 Vercel 账户上运行命令。</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">vercel login
+</pre></div>
+<p>现在我们使用本地开发命令，该命令还将执行上面创建的<code class="notranslate">vercel.json</code>配置。</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">vercel dev
+</pre></div>
+<p>运行 <code class="notranslate">vercel dev</code> 会问你一些问题，随意回答即可。</p>
+<p>回答完问题后，您现在应该在 <a href="https://link.juejin.cn/?target=http%3A%2F%2Flocalhost%3A3000" title="http://localhost:3000" rel="nofollow">http://localhost:3000</a> 上有一个本地运行的服务器，我们可以在部署到 Vercel 之前测试该应用程序是否正常运行。</p>
+<h2>部署</h2>
+<p>我们可以将代码提交到 Github 中， 然后在 vercel 仪表盘中关联 git 项目，这样每次提交代码就会自动部署。也可以使用 vercel cli 来部署。</p>
+<p>只需要执行</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">vercel
+</pre></div>
+<p>就可以打包部署，在控制台中会打印 2 个地址，第一个链接地址可以查看部署情况。第二个链接就是生成的预览地址。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c8864a8de29797f020a74e4c7bfb7475a70634ba88ae3fde9c7d26c7b4269f6a/68747470733a2f2f70332d6a75656a696e2e62797465696d672e636f6d2f746f732d636e2d692d6b3375316662706663702f63396166326439646266663734636664393936323638303966356137633330647e74706c762d6b3375316662706663702d6a6a2d6d61726b3a333032343a303a303a303a7137352e6177656270233f773d3136313226683d35383026733d33333335383126653d706e6726623d303130313031"><img src="https://camo.githubusercontent.com/c8864a8de29797f020a74e4c7bfb7475a70634ba88ae3fde9c7d26c7b4269f6a/68747470733a2f2f70332d6a75656a696e2e62797465696d672e636f6d2f746f732d636e2d692d6b3375316662706663702f63396166326439646266663734636664393936323638303966356137633330647e74706c762d6b3375316662706663702d6a6a2d6d61726b3a333032343a303a303a303a7137352e6177656270233f773d3136313226683d35383026733d33333335383126653d706e6726623d303130313031" alt="" data-canonical-src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c9af2d9dbff74cfd99626809f5a7c30d~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1612&amp;h=580&amp;s=333581&amp;e=png&amp;b=010101" style="max-width: 100%;"></a></p>
+<p>使用 <code class="notranslate">vercel --prod</code> 可以将预览环境发布到生产环境。</p>
+<h2>适配 serverless 环境</h2>
+<p>如果从服务器环境迁移到 vercel serverless 环境，可能还需要考虑几个因素， 因为不再有服务器在后台运行</p>
+<p><strong>Websockets</strong>：serverless 函数具有最大执行时间限制，因此需要尽快响应。因此需要客户端定时请求数据，推荐使用使用 <a href="https://link.juejin.cn/?target=https%3A%2F%2Fswr.vercel.app%2Fzh-CN" title="https://swr.vercel.app/zh-CN" rel="nofollow">swr</a> 方案代替，或者考虑使用 serverless 友好的<a href="https://link.juejin.cn/?target=https%3A%2F%2Fvercel.com%2Fdocs%2Fsolutions%2Frealtime" title="https://vercel.com/docs/solutions/realtime" rel="nofollow">实时数据提供程序</a>。</p>
+<p><strong>数据库连接</strong>：serverless 函数的本质意味着它们可以打开多个数据库连接以响应不断增加的流量。为了有效地管理这一点，请使用 serverless 友好的数据库或<a href="https://link.juejin.cn/?target=https%3A%2F%2Fvercel.com%2Fdocs%2Fsolutions%2Fdatabases" title="https://vercel.com/docs/solutions/databases" rel="nofollow">实时连接池</a>。这有助于确保最佳连接并维持应用程序的正常运行时间。</p>
+<ul>
+<li><strong>模板和视图引擎</strong>：在 serverless 环境中，优化响应计算至关重要。考虑 React、Pug 或 EJS 等视图引擎的效率。设置正确的标头以启用缓存也很重要，从而避免需要为每个请求计算相同的响应。这种方法最大限度地减少了按需计算，并利用缓存的内容来满足未来的请求。</li>
+</ul>
+<p>例如在 vercel.json 配置缓存</p>
+<div class="highlight highlight-source-json"><pre class="notranslate">{
+  <span class="pl-ent">"version"</span>: <span class="pl-c1">2</span>,
+  <span class="pl-ent">"rewrites"</span>: [{ <span class="pl-ent">"source"</span>: <span class="pl-s"><span class="pl-pds">"</span>/(.*)<span class="pl-pds">"</span></span>, <span class="pl-ent">"destination"</span>: <span class="pl-s"><span class="pl-pds">"</span>/api<span class="pl-pds">"</span></span> }],
+  <span class="pl-ent">"headers"</span>: [
+    {
+      <span class="pl-ent">"source"</span>: <span class="pl-s"><span class="pl-pds">"</span>/assets/(.*)<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"headers"</span>: [
+        {
+          <span class="pl-ent">"key"</span>: <span class="pl-s"><span class="pl-pds">"</span>Cache-Control<span class="pl-pds">"</span></span>,
+          <span class="pl-ent">"value"</span>: <span class="pl-s"><span class="pl-pds">"</span>max-age=31536000, immutable<span class="pl-pds">"</span></span>
+        }
+      ]
+    }
+  ]
+}
+</pre></div>
+<p>参考：<a href="https://link.juejin.cn/?target=https%3A%2F%2Fvercel.com%2Fguides%2Fusing-express-with-vercel" title="https://vercel.com/guides/using-express-with-vercel" rel="nofollow">vercel.com/guides/usin…</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://blog.126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+</script>
+
+
+</html>
