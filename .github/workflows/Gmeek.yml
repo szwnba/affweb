@@ -41,6 +41,28 @@ jobs:
           lastTag=$(git describe --tags `git rev-list --tags --max-count=1`)
           if [ $GMEEK_VERSION == 'last' ]; then git checkout $lastTag; else git checkout $GMEEK_VERSION; fi;
 
+          python3 - <<'EOF'
+import re
+p='/opt/Gmeek/Gmeek.py'
+s=open(p, encoding='utf-8').read()
+old='''            response = requests.post("https://api.github.com/markdown", json=payload, headers=headers)
+            response.raise_for_status()  # Raises an exception if status code is not 200'''
+new='''            for attempt in range(5):
+                response = requests.post("https://api.github.com/markdown", json=payload, headers=headers)
+                if response.status_code == 200:
+                    break
+                if response.status_code in (403, 429) and attempt < 4:
+                    time.sleep(20 * (attempt + 1))
+                    continue
+                response.raise_for_status()
+            response.raise_for_status()'''
+if old in s:
+    open(p,'w',encoding='utf-8').write(s.replace(old,new))
+    print("patched markdown2html with retry")
+else:
+    print("WARNING: upstream Gmeek.py changed, retry patch skipped")
+EOF
+
       - name: Install dependencies
         run: |
           pip install --upgrade pip
@@ -50,7 +72,7 @@ jobs:
         run: |
           cp -r ./* /opt/Gmeek/
           cd /opt/Gmeek/
-          python Gmeek.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
+          python Gmeek.py ${{ secrets.PAT_TOKEN }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
           cp -a /opt/Gmeek/docs ${{ github.workspace }} 
           cp -a /opt/Gmeek/backup ${{ github.workspace }} 
           cp /opt/Gmeek/blogBase.json ${{ github.workspace }} 
