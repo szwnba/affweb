@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="**Firecrawl Keyless，来了**
+
+上周Firecrawl官方扔出一枚重磅炸弹。">
+<meta property="og:title" content="刚刚，130K星爬虫神器宣布：API Key，再见">
+<meta property="og:description" content="**Firecrawl Keyless，来了**
+
+上周Firecrawl官方扔出一枚重磅炸弹。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/gang-gang-%EF%BC%8C130K-xing-pa-chong-shen-qi-xuan-bu-%EF%BC%9AAPI%20Key%EF%BC%8C-zai-jian.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>刚刚，130K星爬虫神器宣布：API Key，再见</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">刚刚，130K星爬虫神器宣布：API Key，再见</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/733" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><strong>Firecrawl Keyless，来了</strong></p>
+<p>上周Firecrawl官方扔出一枚重磅炸弹。</p>
+<p>**用Firecrawl，不用申请Key、不用配env，**直接调接口就行。每月还白送1000次免费额度。</p>
+<p>消息一出，开发者圈直接炸了。</p>
+<p><strong>01</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/750cc2f12c6f3e38a174b7a1a9fbc10ced65d39f4e867099a19d493427b3d802/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f616c366b7036715a7142596169624f67734b45613477647669636963776e7852304e666675317a50654b375069627842505a51534f6b624b4d46366d635a5a44706b64634e6961444a6c6c32556750416a704e71594152696144495369633743744445715549316376565359627277784b4d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/750cc2f12c6f3e38a174b7a1a9fbc10ced65d39f4e867099a19d493427b3d802/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f616c366b7036715a7142596169624f67734b45613477647669636963776e7852304e666675317a50654b375069627842505a51534f6b624b4d46366d635a5a44706b64634e6961444a6c6c32556750416a704e71594152696144495369633743744445715549316376565359627277784b4d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/al6kp6qZqBYaibOgsKEa4wdvicicwnxR0Nffu1zPeK7PibxBPZQSOkbKMF6mcZZDpkdcNiaDJll2UgPAjpNqYARiaDISic7CtDEqUI1cvVSYbrwxKM/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p><strong>它到底是干什么的？</strong></p>
+<p>简单说，<strong>Firecrawl是一个专门给AI用的网页数据接口。</strong></p>
+<p>你给它一个网址，它把网页变成AI能直接读的<strong>干净Markdown或结构化JSON。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24fe9cff2ab5db277af8e5c80270a0c2052a7352c82f80b72ca4c38b2df0dbb6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f616c366b7036715a7142614757563738536571365835664975554335544c434f6170594267513569636667656c4979674f39327a524f6961435441757531303865766c784b4431704c42476d6b585172614c7559795531763474354c784c776d48616672464a716154635263672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/24fe9cff2ab5db277af8e5c80270a0c2052a7352c82f80b72ca4c38b2df0dbb6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f616c366b7036715a7142614757563738536571365835664975554335544c434f6170594267513569636667656c4979674f39327a524f6961435441757531303865766c784b4431704c42476d6b585172614c7559795531763474354c784c776d48616672464a716154635263672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/al6kp6qZqBaGWV78Seq6X5fIuUC5TLCOapYBgQ5icfgelIygO92zROiaCTAuu108evlxKD1pLBGmkXQraLuYyU1v4t5LxLwmHafrFJqaTcRcg/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>导航栏、广告、页脚？统统帮你删掉。</p>
+<p>想要截图、HTML、元数据？也可以。</p>
+<p>它还支持<strong>网页爬取、本地文件解析、arXiv语义搜索，甚至能搜GitHub仓库信息。</strong></p>
+<p><strong>130K Star，什么概念？</strong></p>
+<p>这个项目已经是<strong>GitHub社区Top 100仓库之一。</strong></p>
+<p>截至2026年7月，<strong>Star数突破146K。</strong></p>
+<p>全球15万+家公司在用，客户名单包括Apple、Canva、Stanford、Zapier、Replit。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0bb53426f070d785a171176b828140adee5dba7cfeca6a1e919aed570c905bc7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a71425a7a475962384d73346f5043503269635636685535383369615743324970657343387070756c46324e49486846416578704d456557766a6961395275346b7a754b696170696248716e6b506749396830576962466a506b367774793659536f596c4d5375496961632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/0bb53426f070d785a171176b828140adee5dba7cfeca6a1e919aed570c905bc7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a71425a7a475962384d73346f5043503269635636685535383369615743324970657343387070756c46324e49486846416578704d456557766a6961395275346b7a754b696170696248716e6b506749396830576962466a506b367774793659536f596c4d5375496961632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/al6kp6qZqBZzGYb8Ms4oPCP2icV6hU583iaWC2IpesC8ppulF2NIHhFAexpMEeWvjia9Ru4kzuKiapibHqnkPgI9h0WibFjPk6wty6YSoYlMSuIiac/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>它提供的<strong>MCP已被安装超过40万次</strong>，可能是全球安装量最高的MCP之一。</p>
+<p><strong>02</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6f6cad36f94db47690b1d8b21c8f5212e2a7ac21dce2003220dfe238ba1ecd2b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a7142594166793242614232514778444438617a676435547775774f75394e4c4e50374a39594268737a4b496c686e6c6e414b724d76584b686343686368416d38744a6d7a6f7a6369634f663636365a42465175586961516b45453262456b7a3764667136342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/6f6cad36f94db47690b1d8b21c8f5212e2a7ac21dce2003220dfe238ba1ecd2b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a7142594166793242614232514778444438617a676435547775774f75394e4c4e50374a39594268737a4b496c686e6c6e414b724d76584b686343686368416d38744a6d7a6f7a6369634f663636365a42465175586961516b45453262456b7a3764667136342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/al6kp6qZqBYAfy2BaB2QGxDD8azgd5TwuwOu9NLNP7J9YBhszKIlhnlnAKrMvXKhcChchAm8tJmzozcicOf666ZBFQuXiaQkEE2bEkz7dfq64/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p><strong>三大核心能力</strong></p>
+<p><strong>Search</strong>：搜索整个互联网，每个结果直接带完整网页内容。</p>
+<p><strong>Scrape</strong>：抓单个页面，JS渲染、动态加载全都能搞定。</p>
+<p><strong>Interact：</strong> 让AI在网页上点击、填表、翻页、走登录流程。</p>
+<p><strong>它是AI Agent的眼睛和手</strong>——让Agent既能“看见”网页，又能“操作”网页。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/04a9dcf8016ab69a6521051715c3ef167ff3e675cde56b1cef4d53bd48fb6e09/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a7142594b587954616365665666794a58496963613337554f513342437655784170616d61346d7846377a363074466e556963525872427068514d6961584a566353365046687630616631456833463469614c724857516276643877586464534131476a757735452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/04a9dcf8016ab69a6521051715c3ef167ff3e675cde56b1cef4d53bd48fb6e09/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a7142594b587954616365665666794a58496963613337554f513342437655784170616d61346d7846377a363074466e556963525872427068514d6961584a566353365046687630616631456833463469614c724857516276643877586464534131476a757735452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/al6kp6qZqBYKXyTacefVfyJXIica37UOQ3BCvUxApama4mxF7z60tFnUicRXrBphQMiaXJVcS6PFhv0af1Eh3F4iaLrHWQbvd8wXddSA1Gjuw5E/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>在AI联网这个赛道里，<strong>Firecrawl基本已经是事实标准。</strong></p>
+<p><strong>03</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0e341b8b0b351afea9e730054c7076324310d584db1f5036adc30644108866ea/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f616c366b7036715a7142616f57304379706f684d6531487a676f596c39544841666e56444d696365667033676e79526a49367a4b3036706453664658717237783067733065786c50594577364e6a4a5149644b6963445569615555315a774a554f6d574c453445696176576f6363412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/0e341b8b0b351afea9e730054c7076324310d584db1f5036adc30644108866ea/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f616c366b7036715a7142616f57304379706f684d6531487a676f596c39544841666e56444d696365667033676e79526a49367a4b3036706453664658717237783067733065786c50594577364e6a4a5149644b6963445569615555315a774a554f6d574c453445696176576f6363412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/al6kp6qZqBaoW0CypohMe1HzgoYl9THAfnVDMicefp3gnyRjI6zK06pdSfFXqr7x0gs0exlPYEw6NjJQIdKicDUiaUU1ZwJUOmWLE4EiavWoccA/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p><strong>三种入口，零门槛接入</strong></p>
+<p>这次更新主<strong>推无Key模式</strong>，三个入口同时上线。</p>
+<p><strong>第一个：MCP</strong></p>
+<p>在用Claude Code、Cursor这类MCP工具？<strong>一行命令搞定：</strong></p>
+<p>claude mcp add --transport http firecrawl <a href="https://mcp.firecrawl.dev/v2/mcp" rel="nofollow">https://mcp.firecrawl.dev/v2/mcp</a></p>
+<p><strong>Agent自己完成接入，不需要你手动传Key。</strong> 以前得先注册、拿Key、配环境，现在Agent想用自己就接上了。</p>
+<p><strong>第二个：CLI</strong></p>
+<p>npx firecrawl-cli@latest</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/59bee0505f5211ae244c97f60c2336bbd2c6096f9c446a87c17b3f045e81ed7b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a714259474b5952686a596f76465276426d4b4d356c47685974526750684e6577487a4a6b6531653976437a306d364a466f50554a41504530664a636569626e70534643467a4a75374d7638445a4a48664f5a4a72384f323731567443394869636b6a4573382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/59bee0505f5211ae244c97f60c2336bbd2c6096f9c446a87c17b3f045e81ed7b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a714259474b5952686a596f76465276426d4b4d356c47685974526750684e6577487a4a6b6531653976437a306d364a466f50554a41504530664a636569626e70534643467a4a75374d7638445a4a48664f5a4a72384f323731567443394869636b6a4573382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/al6kp6qZqBYGKYRhjYovFRvBmKM5lGhYtRgPhNewHzJke1e9vCz0m6JFoPUJAPE0fJceibnpSFCFzJu7Mv8DZJHfOZJr8O271VtC9HickjEs8/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p><strong>第三个：REST API</strong></p>
+<p><strong>连Authorization header都不用写了。</strong></p>
+<p>以前调API：</p>
+<p>curl -H “Authorization: Bearer fc-xxxxxx” <a href="https://api.firecrawl.dev/v2/scrape" rel="nofollow">https://api.firecrawl.dev/v2/scrape</a></p>
+<p>现在直接：</p>
+<p>curl <a href="https://api.firecrawl.dev/v2/scrape" rel="nofollow">https://api.firecrawl.dev/v2/scrape</a></p>
+<p>就这么简单。<strong>每月1000次免费额度自动给到</strong>，用超了再去注册升级。</p>
+<p><strong>04</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f7bcccac7005b7f96aae6a74cf5ebbb2157a4bb130a9f9c7d9f9d33638bb32ac/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a714262346751626365514150666c464b526961747047334c7a347838705330556c5a426e3174696257485a4d5451786a6a5568767152767839677a3432766a766b7572626563584633756f6e686f4571546e71426668566e514b5935647174477972515a732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/f7bcccac7005b7f96aae6a74cf5ebbb2157a4bb130a9f9c7d9f9d33638bb32ac/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f616c366b7036715a714262346751626365514150666c464b526961747047334c7a347838705330556c5a426e3174696257485a4d5451786a6a5568767152767839677a3432766a766b7572626563584633756f6e686f4571546e71426668566e514b5935647174477972515a732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/al6kp6qZqBb4gQbceQAPflFKRiatpG3Lz4x8pS0UlZBn1tibWHZMTQxjjUhvqRvx9gz42vjvkurbecXF3uonhoEqTnqBfhVnQKY5dqtGyrQZs/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p><strong>这波操作背后的逻辑</strong></p>
+<p>表面看，Firecrawl只是去掉了API Key这一个步骤。</p>
+<p>但仔细想想，他们想得很清楚——<strong>在Agent吞没整个数字世界之前，先把Agent接入互联网这个基建啃下来。</strong></p>
+<p><strong>以前API Key是给人的</strong>：开发者注册、付费、管理Key。</p>
+<p>但Agent不会注册账号，也不会自己绑邮箱，它只会直接调接口。</p>
+<p>当AI Agent越来越多地成为API的主要消费者时，<strong>无Key调用就会从特权变成默认。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d3fd965545511af420582ff781ea0db60660c17ee1caeb340e4c47cac702559/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f616c366b7036715a714259475865546a6b76714261446a52634569635853756d304234506d4241586356487051416168316442505664766b676362485676557644776f5a5a336e70657232645a4b6f6a7667474e456562696167315a7a72734279526e3269626343314e613266632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38"><img src="https://camo.githubusercontent.com/2d3fd965545511af420582ff781ea0db60660c17ee1caeb340e4c47cac702559/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f616c366b7036715a714259475865546a6b76714261446a52634569635853756d304234506d4241586356487051416168316442505664766b676362485676557644776f5a5a336e70657232645a4b6f6a7667474e456562696167315a7a72734279526e3269626343314e613266632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/al6kp6qZqBYGXeTjkvqBaDjRcEicXSum0B4PmBAXcVHpQAah1dBPVdvkgcbHVvUvDwoZZ3nper2dZKojvgGNEebiag1ZzrsByRn2ibcC1Na2fc/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>Firecrawl这一步**，等于提前押注了这个趋势。**</p>
+<p>开源、免费送额度、现在又去掉Key——<strong>先把开发者心智占住，规模化阶段再变现。</strong></p>
+<p><strong>这是典型的基础设施卡位战打法。</strong></p>
+<p>互联网正在从“人浏览的资源”变成**“AI调用的接口”。**</p>
+<p>Firecrawl这波Keyless，给这个趋势又加了一把火。</p>
+<p><strong>写在最后</strong></p>
+<p>不用注册、不用Key、每月1000次免费。</p>
+<p><strong>从今天起，任何AI Agent都能零门槛接入互联网。</strong></p>
+<p>这不仅是产品更新，更是<strong>AI Native基础设施的一次范式转移。</strong></p>
+<p>你只需要一个网址，剩下的交给Firecrawl。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

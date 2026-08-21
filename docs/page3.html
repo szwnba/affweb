@@ -29,7 +29,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <style>
 .avatar {transition: 0.8s;width:64px;height:64px;object-fit: cover;}
 .avatar:hover{transform: scale(1.15) rotate(360deg);}
-#header h1 a{color:inherit;text-decoration:none;vertical-align: bottom;font-size:40px;font-family:Monaco;margin-left:8px;}
+.title-left a{color:inherit;text-decoration:none;vertical-align: bottom;font-size:40px;font-weight: bold;font-family:Monaco;margin-left:8px;}
 .title-right{display:flex;margin:auto 0 0 auto;}
 .title-right button{margin-right:8px;padding:16px;}
 .title-right .circle{padding: 14px 16px;}
@@ -55,8 +55,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 <body>
     <div id="header">
-<h1>
-    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">Johnson的备忘录</a></h1>
+<div class="title-left">
+    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">Johnson的备忘录</a></div>
 <div class="title-right">
     <a href="https://126.plus/tag.html" id="buttonSearch" class="btn btn-invisible circle" title="搜索">
         <svg class="octicon" width="16" height="16" >
@@ -88,9 +88,20 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 <div style="margin-bottom: 16px;">这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</div>
 <nav class="SideNav border">
-<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/RPA-zi-dong-cai-ji-pi-liang-zhang-hao-gong-zhong-hao-tu-wen-zha-lie-sheng-ji.html">
+<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/ri-geng-gong-zhong-hao-bao-wen-300%2B-pian-%EF%BC%8C-yuan-lai-shi-yong-le-zhe-ge-shen-qi-%EF%BC%8C-zhe-yang-zhuan-qian-huan-you-nan-du-ma-%EF%BC%9F.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">日更公众号爆文300+篇，原来是用了这个神器，这样赚钱还有难度吗？</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#E6B022"><object><a style="color:#fff" href="tag.html#TODO">TODO</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-05-08</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/RPA-zi-dong-cai-ji-pi-liang-zhang-hao-gong-zhong-hao-tu-wen-zha-lie-sheng-ji.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">RPA自动采集批量账号公众号图文炸裂升级</span>
     </div>
@@ -101,7 +112,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/gong-zhong-hao-kai-pian---an-li-yi-kuan-hao-yong-de-gong-zhong-hao-bian-ji-qi-gong-ju-_-wei-xin-gong-zhong-hao-md-CSDN-bo-ke.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">公众号开篇-安利一款好用的公众号编辑器工具_微信公众号md-CSDN博客</span>
     </div>
@@ -112,7 +123,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/le-jie-kou-zi-%EF%BC%9A-ru-he-yong-%20CozeIDE%20-zhi-zuo-yi-ge-cha-jian.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">了解扣子：如何用 CozeIDE 制作一个插件</span>
     </div>
@@ -123,7 +134,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/zhuan-mei-yuan-%EF%BC%8C-fu-zhi-gong-zhong-hao-wen-zhang-dao-wang-zhan-%EF%BC%8C-yue-liu-liang-qing-song-po-qian-wan.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">赚美元，复制公众号文章到网站，月流量轻松破千万</span>
     </div>
@@ -134,7 +145,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/AI-xie-zuo-%EF%BC%9A-ru-he-gen-ju-fan-wen-%EF%BC%8C-yi-jian-sheng-cheng-yuan-chuang-wen-zhang-%EF%BC%9F.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">AI写作：如何根据范文，一键生成原创文章？</span>
     </div>
@@ -145,7 +156,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/rang-ChatGPT-xie-chu-zui-jia-de-Prompt-wan-neng-fang-fa-%EF%BC%81.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">让ChatGPT写出最佳的Prompt万能方法！</span>
     </div>
@@ -156,7 +167,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/AI-xie-zuo-Prompt-gun-15-ge-chao-shi-yong-de-Prompt-ti-shi-ci.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">AI写作Prompt丨15个超实用的Prompt提示词</span>
     </div>
@@ -167,7 +178,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/ChatGPT%2B-gong-zhong-hao-%EF%BC%8C-pian-pian-10-wan-%2B.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">ChatGPT+公众号，篇篇10万+</span>
     </div>
@@ -178,7 +189,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/ying-he-%EF%BC%81ChatGPT-yi-jian-zuo-tu-%EF%BC%81.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">硬核！ChatGPT一键做图！</span>
     </div>
@@ -189,7 +200,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/Midjourney-qi-da-shen-ji-Prompts%EF%BC%8C-rang-ni-de-IP-zai-shi-jue-shang-du-ling-feng-sao.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">Midjourney七大神级Prompts，让你的IP在视觉上独领风骚</span>
     </div>
@@ -200,7 +211,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/Gpt-jin-jie-%28-liu-%29--pa-qu-zhi-ding-wang-zhan-%EF%BC%8C-da-jian-AI-zhi-neng-wen-da-xi-tong.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">Gpt进阶(六):爬取指定网站，搭建AI智能问答系统</span>
     </div>
@@ -211,7 +222,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/ru-he-yong-ChatGPT-pi-liang-sheng-cheng-xiao-hong-shu-bao-kuan-bi-ji-%EF%BC%9F.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">如何用ChatGPT批量生成小红书爆款笔记？</span>
     </div>
@@ -222,7 +233,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/5-fen-zhong-jiao-ni-li-yong-fu-wu-qi-%EF%BC%8C-da-zao-1-ge-%207-24H-zhi-bo-de-zhi-bo-jian.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">5分钟教你利用服务器，打造1个 7*24H直播的直播间</span>
     </div>
@@ -233,7 +244,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
 </a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/tai-zha-lie-%E2%80%94%E2%80%94ChatGPT-quan-zi-dong-jian-ji-shi-pin-%E3%80%81-sheng-cheng-jiao-ben-%E3%80%81-xun-zhao-su-cai-%EF%BC%8C-duan-shi-pin-chuang-zuo-zhe-de-fu-yin.html">
     <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
         </svg>
         <span class="listTitle">太炸裂——ChatGPT全自动剪辑视频、生成脚本、寻找素材，短视频创作者的福音</span>
     </div>
@@ -241,17 +252,6 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         
         <span class="Label LabelName" style="background-color:#5319e7"><object><a style="color:#fff" href="tag.html#OpenAI">OpenAI</a></object></span>
         <span class="Label LabelTime" style="background-color:#A333D0">2023-06-28</span>
-    </div>
-</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/xue-hui-zhi-zao---la-ji--%EF%BC%8C-yun-xu-zi-ji-xian-shi-bai-100-ci.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">学会制造&#34;垃圾&#34;，允许自己先失败100次</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#f9d0c4"><object><a style="color:#fff" href="tag.html#效能">效能</a></object></span>
-        <span class="Label LabelTime" style="background-color:#A333D0">2023-06-16</span>
     </div>
 </a>
 </nav><nav class="paginate-container" aria-label="Pagination">
@@ -271,7 +271,7 @@ if("07/15/2024"!=""){
     var startSite=new Date("07/15/2024");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
-    document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
 }
 </script></div>
 </body>
