@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/mmbiz_jpg/P5kw0QkzBv2ezhWG0ApAjhMROjySfjmDzOvsNiasEadZkwG0e7ObFdMGBL5icaGAFseWO4ULB2VN7vhj5Cib09mBw/640?wx_fmt=jpeg)
+
+在概率论上有一种算法
+
+成功概率20%的事+重复14次=95%的成功率
+
+复杂的计算公式如下：
+
+做一次失败的概率为
+
+1-20%=80%=0.8
+
+重复做n次都不成功的概率是
+
+80%的n次方=1-95%=5%=0.05
+
+**所以，重复做14次，你成功的概率能达到95%**
+
+牛人做事，找到成功概率20%的事，有心力和毅力坚持，反复尝试，重复做。">
+<meta property="og:title" content="一件事重复14次，你成功的概率是95%">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/mmbiz_jpg/P5kw0QkzBv2ezhWG0ApAjhMROjySfjmDzOvsNiasEadZkwG0e7ObFdMGBL5icaGAFseWO4ULB2VN7vhj5Cib09mBw/640?wx_fmt=jpeg)
+
+在概率论上有一种算法
+
+成功概率20%的事+重复14次=95%的成功率
+
+复杂的计算公式如下：
+
+做一次失败的概率为
+
+1-20%=80%=0.8
+
+重复做n次都不成功的概率是
+
+80%的n次方=1-95%=5%=0.05
+
+**所以，重复做14次，你成功的概率能达到95%**
+
+牛人做事，找到成功概率20%的事，有心力和毅力坚持，反复尝试，重复做。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yi-jian-shi-zhong-fu-14-ci-%EF%BC%8C-ni-cheng-gong-de-gai-lv-shi-95%25.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>一件事重复14次，你成功的概率是95%</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">一件事重复14次，你成功的概率是95%</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/326" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b2cbc9e0a5e8ada66e350ba3118b38e93e99b4eeff0c248a6dde4bfa53fc24f2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f50356b7730516b7a427632657a685747304170416a684d524f6a7953666a6d447a4f76734e6961734561645a6b77473065374f6246644d47424c356963614741467365574f34554c4232564e3776686a3543696230396d42772f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/b2cbc9e0a5e8ada66e350ba3118b38e93e99b4eeff0c248a6dde4bfa53fc24f2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f50356b7730516b7a427632657a685747304170416a684d524f6a7953666a6d447a4f76734e6961734561645a6b77473065374f6246644d47424c356963614741467365574f34554c4232564e3776686a3543696230396d42772f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/P5kw0QkzBv2ezhWG0ApAjhMROjySfjmDzOvsNiasEadZkwG0e7ObFdMGBL5icaGAFseWO4ULB2VN7vhj5Cib09mBw/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>在概率论上有一种算法</p>
+<p>成功概率20%的事+重复14次=95%的成功率</p>
+<p>复杂的计算公式如下：</p>
+<p>做一次失败的概率为</p>
+<p>1-20%=80%=0.8</p>
+<p>重复做n次都不成功的概率是</p>
+<p>80%的n次方=1-95%=5%=0.05</p>
+<p><strong>所以，重复做14次，你成功的概率能达到95%</strong></p>
+<p>牛人做事，找到成功概率20%的事，有心力和毅力坚持，反复尝试，重复做。</p>
+<p>反观我们大部人做事，都和低谷期的意公子一样，做一件不知道成功率有多少的事，努力了几次，失败了，觉得不合适，转头又换了一件事，尝试了又失败，几轮下来，精疲力尽，花费的努力差不多，得到的结果和牛人南辕北辙。</p>
+<p>总结：没有找到那件初始成功概率为20%的事，也没有心力和毅力坚持</p>
+<p><strong>怎么找到那件</strong></p>
+<p><strong>初始成功概率20%的事</strong></p>
+<p>创过业的人都知道，20%的成功概率已经不算小了，毕竟，你只要把这件事重复做14次，你的成功概率就能达到95%</p>
+<p><strong>对于我们普通人来说，只要找到大概率能成功的事，重复做，就离成功不远了。</strong></p>
+<p>什么是大概率能成功的事？</p>
+<p>这件事你喜欢且擅长</p>
+<p>“喜欢”代表你有原始动力去做，</p>
+<p>“擅长”让你不断在做事过程中得到正向反馈，你有心力和毅力去坚持。</p>
+<p><strong>第一步：找到喜欢的事</strong></p>
+<p><strong>——“强想忘爽”模型</strong></p>
+<p>|</p>
+<p><strong>模型</strong></p>
+<p>|</p>
+<p><strong>问题</strong></p>
+<p>|</p>
+<p><strong>举例</strong></p>
+<p>|<br>
+|</p>
+<p><strong>强</strong></p>
+<p>|</p>
+<p>在做什么事情的时候，</p>
+<p>你感觉自己很强大，不怕</p>
+<p>失败，也不怕别人评价，</p>
+<p>就是觉得这事我能成。</p>
+<p>|</p>
+<p>每次接部门的新任务，</p>
+<p>都能第一时间出战略</p>
+<p>地图，项目规划</p>
+<p>|<br>
+|</p>
+<p><strong>想</strong></p>
+<p>|</p>
+<p>有什么事情，是你非常想</p>
+<p>要，总也忍不住去做，</p>
+<p>不做就难受的？</p>
+<p>|</p>
+<p>不管是别人的稿子，</p>
+<p>还是自己的稿子，看到</p>
+<p>错别字，哪怕只是一点，</p>
+<p>都忍不住要改过来</p>
+<p>|<br>
+|</p>
+<p><strong>忘</strong></p>
+<p>|</p>
+<p>什么事情是你沉醉其中，</p>
+<p>停不下来忘记了时间</p>
+<p>的流逝，牺牲休息时间</p>
+<p>也要做完的？</p>
+<p>|</p>
+<p>想到一个很棒的选题，</p>
+<p>即使下班已经很累了，</p>
+<p>仍然一口气写了</p>
+<p>三小时稿。</p>
+<p>|<br>
+|</p>
+<p><strong>爽</strong></p>
+<p>|</p>
+<p>什么事情，在做完之后，</p>
+<p>让你有巨大的满足感</p>
+<p>和成就感感觉很对、很爽？</p>
+<p>|</p>
+<p>一个人策划了让自己</p>
+<p>和伴侣终身难忘的婚</p>
+<p>礼，每个细节都符</p>
+<p>合自己理想的模样</p>
+<p>|</p>
+<p><strong>第二步：找到擅长的事</strong></p>
+<p><strong>——优势定位，找准天赋</strong></p>
+<p>有一件事，你天生就比10000个人做得好，那就是你的优势。<strong>什么是优势？它是你天生的感受、反应和行为模式。</strong></p>
+<p>比如：一句话，你听了之后感动得泪流满面；你的伴侣可能会问，有什么好哭的？很有可能你有共情力优势，他没有。</p>
+<p>比如：开会听完汇报，你的脑子里马上一二三总结好重点，等你想说的时候，同事却迅速把会议记录甩了出来，虽然记得乱七八槽。</p>
+<p>很有可能，你的分析力优势帮你把信息条分缕析归纳好，同事的行动力优势让他马上就做。</p>
+<p>我们大脑中叫“突触”的结构，把神经元连接在一起，突触数量在我们约3岁成长到巅峰。</p>
+<p>受先天基因、后天教育等影响，有些突触连接固化稳定，有一些缩小消失，最终成为我们独特优势的基础。</p>
+<p><strong>借用工具，发挥优势。</strong></p>
+<p>如果你不确定自己的优势，或者没有时间去做细致的自我探索，专业的优势测评工具是最快、最好，也是结果最准确的选择。</p>
+<p>|</p>
+<p><strong>优势</strong></p>
+<p>|</p>
+<p><strong>优势核心特质</strong></p>
+<p>|<br>
+|<br>
+|<br>
+|</p>
+<p><strong>目标力</strong></p>
+<p>|</p>
+<p>     条理：制定计划，按规则办事，精确高效</p>
+<p>     责任：一丝不苟，认真负责                     </p>
+<p>     坚韧：目标明确，持之以恒                     </p>
+<p>|<br>
+|<br>
+|<br>
+|</p>
+<p><strong>行动力</strong></p>
+<p>|</p>
+<p>  行动：果断不拖延，边做边学             </p>
+<p>冒险：主动，敢作敢当                      </p>
+<p>    决断：快速应对，快速思考和决策         </p>
+<p>|<br>
+|<br>
+|<br>
+|</p>
+<p><strong>驱动力</strong></p>
+<p>|</p>
+<p>成就：追求成功和卓越，进取心         </p>
+<p>挑战：竞争心强，不服输                  </p>
+<p>信仰：有价值观，有信念                  </p>
+<p>|<br>
+|<br>
+|<br>
+|</p>
+<p><strong>学习力</strong></p>
+<p>|</p>
+<p> 开放：对知识和观点开放                   </p>
+<p>  求知：有好奇心，愿意学习新知识      </p>
+<p>|<br>
+|<br>
+|</p>
+<p>|</p>
+<p><strong>分析力</strong></p>
+<p>|</p>
+<p>      分析：注重逻辑关系，分析预测                </p>
+<p>   系统：全局思考，解决复杂问题             </p>
+<p>|<br>
+|<br>
+|<br>
+|</p>
+<p><strong>创新力</strong></p>
+<p>|</p>
+<p> 发散：思维不受现实局限                   </p>
+<p>  革新：突破常规，产生新思想             </p>
+<p> 灵活：举一反三，触类旁通                </p>
+<p>|<br>
+|<br>
+|<br>
+|</p>
+<p><strong>共情力</strong></p>
+<p>|</p>
+<p>  共情：换位思考，设身处地                </p>
+<p>支持：给予情感支持                         </p>
+<p> 宽和：包容接纳他人                         </p>
+<p>|<br>
+|<br>
+|<br>
+|</p>
+<p><strong>引领力</strong></p>
+<p>|</p>
+<p>表达：善于表达和说服                      </p>
+<p>自信：对自我认可，有信心                </p>
+<p>  统领：有领导、支配他人的欲望           </p>
+<p>|<br>
+|<br>
+|</p>
+<p>根据自己的优势</p>
+<p>找到对应适合的工作领域</p>
+<p>|</p>
+<p><strong>学习力</strong></p>
+<p><strong>分析力</strong></p>
+<p>|</p>
+<p>学者、精算师、金融分析师、律师</p>
+<p>法官、内科医生、记者、财务</p>
+<p>保险规划师、证券管理员</p>
+<p>|<br>
+|</p>
+<p>研究类</p>
+<p>|<br>
+|</p>
+<p><strong>行动力</strong></p>
+<p><strong>驱动力</strong></p>
+<p>|</p>
+<p>计算机操作、外科医生、司机</p>
+<p>演员厨师、运动员、乐手</p>
+<p>军人、地质勘查</p>
+<p>|<br>
+|</p>
+<p>操作类</p>
+<p>|<br>
+|</p>
+<p><strong>引领力</strong></p>
+<p><strong>交往力</strong></p>
+<p>|</p>
+<p>公关、推销员、保险代理、教师</p>
+<p>社群组织者、主持人、直播网红</p>
+<p>|<br>
+|</p>
+<p>销售类</p>
+<p>|<br>
+|</p>
+<p><strong>目标力</strong></p>
+<p>|</p>
+<p>会计、出纳、图书管理员、文秘</p>
+<p>统计、档案管理、基层公务员</p>
+<p>工程师、试验人员、质检员</p>
+<p>|<br>
+|</p>
+<p>流程类</p>
+<p>|</p>
+<p>其实每个人，都有自己专属的天赋</p>
+<p>但找到并发挥出来，却非易事。</p>
+<p>因为很多时候，我们太急于求成一个结果。</p>
+<p>“人生不是百米冲刺，而是充满考验的长跑，一步一个脚印，才能走出自己的路”</p>
+<p><strong>正确的事情，重复做</strong></p>
+<p><strong>概率，会回报给我们一个好的结果。</strong></p>
+<p>今日共勉。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

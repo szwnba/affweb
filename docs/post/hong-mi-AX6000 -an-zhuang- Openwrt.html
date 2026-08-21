@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="Redmi 红米 AX6000 双频5952M 家用千兆Mesh无线路由器 Wi-Fi 6  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/ZQhJYEicbwcyNzXUUnDcKjhJURxOoQvPZMmTu3Btgicd2Alb44xZOtVZ0mTXicH0sYOtCTRvCVuNQ7jsULGelGI4g/640?wx_fmt=jpeg&from=appmsg)
+
+* * *
+
+### 刷机前准备
+
+通电后，原生系统，基本上不理。">
+<meta property="og:title" content="红米AX6000 安装 Openwrt">
+<meta property="og:description" content="Redmi 红米 AX6000 双频5952M 家用千兆Mesh无线路由器 Wi-Fi 6  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/ZQhJYEicbwcyNzXUUnDcKjhJURxOoQvPZMmTu3Btgicd2Alb44xZOtVZ0mTXicH0sYOtCTRvCVuNQ7jsULGelGI4g/640?wx_fmt=jpeg&from=appmsg)
+
+* * *
+
+### 刷机前准备
+
+通电后，原生系统，基本上不理。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/hong-mi-AX6000%20-an-zhuang-%20Openwrt.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>红米AX6000 安装 Openwrt</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">红米AX6000 安装 Openwrt</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/701" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>Redmi 红米 AX6000 双频5952M 家用千兆Mesh无线路由器 Wi-Fi 6</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7391f5495a05341a2bac2bca1f4f98f27d56e52ebe5b3bef0a993624e0a426cd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a4d6d54753342746769636432416c623434785a4f74565a306d54586963483073594f74435452764356754e51376a73554c47656c474934672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7391f5495a05341a2bac2bca1f4f98f27d56e52ebe5b3bef0a993624e0a426cd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a4d6d54753342746769636432416c623434785a4f74565a306d54586963483073594f74435452764356754e51376a73554c47656c474934672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/ZQhJYEicbwcyNzXUUnDcKjhJURxOoQvPZMmTu3Btgicd2Alb44xZOtVZ0mTXicH0sYOtCTRvCVuNQ7jsULGelGI4g/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<hr>
+<h3>刷机前准备</h3>
+<p>通电后，原生系统，基本上不理。直接准备刷机</p>
+<p>提前一天在恩山论坛上浏览相关信息，发现有几个版本的固件：stock 保留官方分区刷 OP；uboot 则是 hanwckf 大佬的，新版有多种分区布局切换功能，可以选择官方分区刷，也可以切换为 110m 大分区；还有则是 ubootmod 固件。</p>
+<p>最终决定选择刷 hanwckf 大佬的 uboot（下载最新的 bl-mt798x-release-20240123.7z，解压出里面的 mt7986_redmi_ax6000-fip-fixed-parts-multi-layout.bin 备用）：<a href="https://github.com/hanwckf/bl-mt798x/releases">https://github.com/hanwckf/bl-mt798x/releases</a></p>
+<p>Openwrt 的版本，我则是选择 ImmortalWrt（链接：<a href="https://firmware-selector.immortalwrt.org/%EF%BC%89" rel="nofollow">https://firmware-selector.immortalwrt.org/）</a></p>
+<p>ImmortalWrt 上的对应关系</p>
+<ul>
+<li>
+<p>stock layout 对应 stock 固件</p>
+</li>
+<li>
+<p>custom U-Boot layout 对应 uboot 固件</p>
+</li>
+<li>
+<p>OpenWrt U-Boot layout 对应 ubootmod 固件</p>
+</li>
+</ul>
+<h3>解锁 ssh</h3>
+<p>参考 NormalPeople 教程：【保姆级教程】红米AX6000永久获取SSH权限（Redmi AX6000）</p>
+<p>只需要解锁 SSH，再关闭开发者模式即可</p>
+<p>按照教程，本来要先降级，我拿到手时固件是 1.0.67，使用链接里的降级固件时不给我降级，干脆我就没降级，不过也不影响。能正常操作</p>
+<p><strong>这里简述一下解锁 ssh 过程</strong></p>
+<ul>
+<li>
+<p>打开管理页面：192.168.31.1</p>
+</li>
+<li>
+<p>记录浏览器地址里的 stok 值，每次路由器重启，stok 值会改变</p>
+</li>
+</ul>
+<p>（这里吐槽一下张大妈，不支持代码块，这里就用分割线分割好了）</p>
+<hr>
+<p># 记录这里的 stok，即 {stok} 部分，然后统一替换</p>
+<p><a href="http://192.168.31.15/cgi-bin/luci/;stok=%7Bstok%7D/web/home#router" rel="nofollow">http://192.168.31.15/cgi-bin/luci/;stok={stok}/web/home#router</a></p>
+<p># 更改路由器的 crash 分区，使其进入到开发者模式</p>
+<p># 返回 {"code":0}，下同</p>
+<p><a href="http://192.168.31.1/cgi-bin/luci/;stok=%7Bstok%7D/api/misystem/set%5C_sys%5C_time?timezone=%20%27%20%3B%20zz%3D%24%28dd%20if%3D%2Fdev%2Fzero%20bs%3D1%20count%3D2%202%3E%2Fdev%2Fnull%29%20%3B%20printf%20%27%A5%5A%25c%25c%27%20%24zz%20%24zz%20%7C%20mtd%20write%20-%20crash%20%3B%20" rel="nofollow">http://192.168.31.1/cgi-bin/luci/;stok={stok}/api/misystem/set\_sys\_time?timezone=%20%27%20%3B%20zz%3D%24%28dd%20if%3D%2Fdev%2Fzero%20bs%3D1%20count%3D2%202%3E%2Fdev%2Fnull%29%20%3B%20printf%20%27%A5%5A%25c%25c%27%20%24zz%20%24zz%20%7C%20mtd%20write%20-%20crash%20%3B%20</a></p>
+<p># 特殊方法重启路由器</p>
+<p><a href="http://192.168.31.1/cgi-bin/luci/;stok=%7Bstok%7D/api/misystem/set%5C_sys%5C_time?timezone=%20%27%20%3b%20reboot%20%3b%20" rel="nofollow">http://192.168.31.1/cgi-bin/luci/;stok={stok}/api/misystem/set\_sys\_time?timezone=%20%27%20%3b%20reboot%20%3b%20</a></p>
+<p># 重启路由器后重新登录管理后台获取 stok</p>
+<p># 设置 Redmi AX6000的 Bdata 参数</p>
+<p># 设置参数 telnet_en、 ssh_en、uart_en</p>
+<p><a href="http://192.168.31.1/cgi-bin/luci/;stok=%7Bstok%7D/api/misystem/set%5C_sys%5C_time?timezone=%20%27%20%3B%20bdata%20set%20telnet%5C_en%3D1%20%3B%20bdata%20set%20ssh%5C_en%3D1%20%3B%20bdata%20set%20uart%5C_en%3D1%20%3B%20bdata%20commit%20%3B%20" rel="nofollow">http://192.168.31.1/cgi-bin/luci/;stok={stok}/api/misystem/set\_sys\_time?timezone=%20%27%20%3B%20bdata%20set%20telnet\_en%3D1%20%3B%20bdata%20set%20ssh\_en%3D1%20%3B%20bdata%20set%20uart\_en%3D1%20%3B%20bdata%20commit%20%3B%20</a></p>
+<p># 特殊方法重启路由器</p>
+<p><a href="http://192.168.31.1/cgi-bin/luci/;stok=%7Bstok%7D/api/misystem/set%5C_sys%5C_time?timezone=%20%27%20%3b%20reboot%20%3b%20" rel="nofollow">http://192.168.31.1/cgi-bin/luci/;stok={stok}/api/misystem/set\_sys\_time?timezone=%20%27%20%3b%20reboot%20%3b%20</a></p>
+<p># 通过 telnet 开启 ssh，进入【ARE U OK】的界面，表示telnet成功</p>
+<p>telnet 192.168.31.1</p>
+<p># 进 telnet 后，依次输入指令开启 ssh 并修改密码为 admin</p>
+<p>bdata set boot_wait=on</p>
+<p>bdata commit</p>
+<p>nvram set ssh_en=1</p>
+<p>nvram set telnet_en=1</p>
+<p>nvram set uart_en=1</p>
+<p>nvram set boot_wait=on</p>
+<p>nvram commit</p>
+<p>sed -i 's/channel=.*/channel="debug"/g' /etc/init.d/dropbear</p>
+<p>/etc/init.d/dropbear restart</p>
+<p>echo -e 'adminnadmin' | passwd root</p>
+<hr>
+<h3>备份并刷入 uboot</h3>
+<hr>
+<p># windows 使用这行连接 openwrt，密码为 admin</p>
+<p>ssh root@192.168.31.1</p>
+<p># mac 连接 openwrt</p>
+<p>ssh -oHostKeyAlgorithms=+ssh-rsa root@192.168.1.1</p>
+<p># 备份分区命令，后面使用 scp 之类的协议将文件拷贝下来</p>
+<p>dd if=/dev/mtd1 of=/tmp/mtd1_BL2.bin</p>
+<p>dd if=/dev/mtd2 of=/tmp/mtd2_Nvram.bin</p>
+<p>dd if=/dev/mtd3 of=/tmp/mtd3_Bdata.bin</p>
+<p>dd if=/dev/mtd4 of=/tmp/mtd4_Factory.bin</p>
+<p>dd if=/dev/mtd5 of=/tmp/mtd5_FIP.bin</p>
+<p>dd if=/dev/mtd8 of=/tmp/mtd8_ubi.bin</p>
+<p>dd if=/dev/mtd9 of=/tmp/mtd9_ubi1.bin</p>
+<p># 另外启一个命令行窗口，使用 scp 协议传输</p>
+<p># mac 使用 scp 将文件备份到电脑</p>
+<p>scp -O -oHostKeyAlgorithms=+ssh-rsa root@192.168.31.1:/tmp/mtd1_BL2.bin /Users/xxx/Desktop/红米ax6000/bat</p>
+<p>scp -O -oHostKeyAlgorithms=+ssh-rsa root@192.168.31.1:/tmp/mtd2_Nvram.bin /Users/xxx/Desktop/红米ax6000/bat</p>
+<p>scp -O -oHostKeyAlgorithms=+ssh-rsa root@192.168.31.1:/tmp/mtd3_Bdata.bin /Users/xxx/Desktop/红米ax6000/bat</p>
+<p>scp -O -oHostKeyAlgorithms=+ssh-rsa root@192.168.31.1:/tmp/mtd4_Factory.bin /Users/xxx/Desktop/红米ax6000/bat</p>
+<p>scp -O -oHostKeyAlgorithms=+ssh-rsa root@192.168.31.1:/tmp/mtd5_FIP.bin /Users/xxx/Desktop/红米ax6000/bat</p>
+<p>scp -O -oHostKeyAlgorithms=+ssh-rsa root@192.168.31.1:/tmp/mtd8_ubi.bin /Users/xxx/Desktop/红米ax6000/bat</p>
+<p>scp -O -oHostKeyAlgorithms=+ssh-rsa root@192.168.31.1:/tmp/mtd9_ubi1.bin /Users/xxx/Desktop/红米ax6000/bat</p>
+<p># mac 使用 scp 协议上传文件到路由器里</p>
+<p>scp -O -oHostKeyAlgorithms=+ssh-rsa /Users/xxx/Desktop/红米ax6000/mt7986_redmi_ax6000-fip-fixed-parts-multi-layout.bin root@192.168.31.1:/tmp/mt7986_redmi_ax6000-fip-fixed-parts-multi-layout.bin</p>
+<p># 回到 ssh 窗口，刷入 uboot</p>
+<p># 检查文件的 md5</p>
+<p>md5sum /tmp/mt7986_redmi_ax6000-fip-fixed-parts-multi-layout.bin</p>
+<p># 将 uboot 写入 FIP 分区</p>
+<p>mtd write /tmp/mt7986_redmi_ax6000-fip-fixed-parts-multi-layout.bin FIP</p>
+<p># 校验数据，输出 Success 说明刷入完成</p>
+<p>mtd verify /tmp/mt7986_redmi_ax6000-fip-fixed-parts-multi-layout.bin FIP</p>
+<p># 清除 crash 分区并重启</p>
+<p>mtd erase crash</p>
+<p>reboot</p>
+<hr>
+<p>其实重启不重启都OK，重启后进入管理界面后，拔掉电源即可</p>
+<p>切记刷入 uboot 过程中，不要去切短电源之类的。</p>
+<h3>进入 uboot webui，刷入 ImmortalWrt</h3>
+<ul>
+<li>
+<p>将电脑 IP 地址固定为 192.168.31.x（x 自己在 2～255 随便选个，我随便填了个 5）</p>
+</li>
+<li>
+<p>按住路由器的 RESET 按钮后通电开机</p>
+</li>
+<li>
+<p>等待 15 秒后松开 RESET（uboot 未支持 LED 指示灯，指示灯不会亮）</p>
+</li>
+<li>
+<p>打开 uboot webui 页面：192.168.31.1</p>
+</li>
+<li>
+<p>在 webui 页面选择 110MB 大分区固件</p>
+</li>
+<li>
+<p>然后选择自己下载的 custom U-Boot layout 版的 ImmortalWrt 固件：immortalwrt-23.05.2-mediatek-filogic-xiaomi_redmi-router-ax6000-squashfs-factory</p>
+</li>
+<li>
+<p>等待刷入完成后自动重启，重启后打开 192.168.1.1，默认密码为空</p>
+</li>
+</ul>
+<p>单手操作：进 uboot 其实不需要按住 RESET 按钮后才通电，只需要在通电后 5 秒内，按住 RESET 按钮等待10秒，再松开即可</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83cf0a90297abc879f4b2deb523006e4288adbe1e4ed48151ccfbe8fef9ccc51/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a334939503252717749334e666c4837784347414b5651756d68754a786a546961656b636c43776e6542756d6961586e613942715248337a672f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/83cf0a90297abc879f4b2deb523006e4288adbe1e4ed48151ccfbe8fef9ccc51/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a334939503252717749334e666c4837784347414b5651756d68754a786a546961656b636c43776e6542756d6961586e613942715248337a672f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/ZQhJYEicbwcyNzXUUnDcKjhJURxOoQvPZ3I9P2RqwI3NflH7xCGAKVQumhuJxjTiaekclCwneBumiaXna9BqRH3zg/640?wx_fmt=jpeg" style="max-width: 100%;"></a><br>
+选择 110m 大分区<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/98441e7976acbcd13c77f57cea8b76d21927168fde6146bfe8d3e0710683e606/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a4c514a727a6b774e5350436652346c4a326a494b4e6a315a7a6237316e493263564e4f55484c354573744d6961394934326151474946512f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/98441e7976acbcd13c77f57cea8b76d21927168fde6146bfe8d3e0710683e606/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a4c514a727a6b774e5350436652346c4a326a494b4e6a315a7a6237316e493263564e4f55484c354573744d6961394934326151474946512f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/ZQhJYEicbwcyNzXUUnDcKjhJURxOoQvPZLQJrzkwNSPCfR4lJ2jIKNj1Zzb71nI2cVNOUHL5EstMia9I42aQGIFQ/640?wx_fmt=jpeg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c7dcc6e4e19a41318d42fcdd815e0f7e03719b93800fea69866fb728d507af8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a754d32386a6d69623241344b34686f4b4e7575344c666d774d52696169624269624544424b4a576a635a484d775a6b44626963506f7a73664a73412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/0c7dcc6e4e19a41318d42fcdd815e0f7e03719b93800fea69866fb728d507af8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a754d32386a6d69623241344b34686f4b4e7575344c666d774d52696169624269624544424b4a576a635a484d775a6b44626963506f7a73664a73412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/ZQhJYEicbwcyNzXUUnDcKjhJURxOoQvPZuM28jmib2A4K4hoKNuu4LfmwMRiaibBibEDBKJWjcZHMwZkDbicPozsfJsA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>接下来就拨号上网啦，在 系统 - 软件包 里，先更新列表，过滤器搜索 argon，安装 luci-theme-argon 换个界面</p>
+<p>根据自己的需求安装插件即可</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a15f4019e4924b4226a385f87654168d70a9a96a74a267206da30f9c67930b1f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a5264683078435466634853573466654a446149454c5371776f4361347a5a545a776e4165686f306b566f48744672457672534c6b56672f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/a15f4019e4924b4226a385f87654168d70a9a96a74a267206da30f9c67930b1f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a51684a59456963627763794e7a5855556e44634b6a684a5552784f6f5176505a5264683078435466634853573466654a446149454c5371776f4361347a5a545a776e4165686f306b566f48744672457672534c6b56672f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/ZQhJYEicbwcyNzXUUnDcKjhJURxOoQvPZRdh0xCTfcHSW4feJDaIELSqwoCa4zZTZwnAeho0kVoHtFrEvrSLkVg/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p><a href="https://www.123865.com/s/RNlETd-S8m7d" rel="nofollow">https://www.123865.com/s/RNlETd-S8m7d</a></p>
+<p>刷机有风险 不提供技术支持</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

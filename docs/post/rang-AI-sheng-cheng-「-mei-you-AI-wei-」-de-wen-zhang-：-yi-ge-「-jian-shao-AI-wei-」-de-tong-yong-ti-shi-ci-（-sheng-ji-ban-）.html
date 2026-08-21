@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="之前写过一篇「减少AI味」的通用提示词：[让AI写出「没有AI味」的文章，一个「减少AI味」的通用提示词](http://mp.weixin.qq.com/s?__biz=MzIzMTEzMjQ1NQ==&mid=2648260323&idx=1&sn=4e8e55b0b7d7c9f97fa1d053487121d2&chksm=f08542abc7f2cbbd1f4131cc04abbe62e1af1a4dbe6fd5d23b56fcacedcf36312e8b083353e0&scene=21#wechat_redirect)
+
+今天我们再写一个，不能完全说是升级版本，两个提示词各有特色！  
+
+**先看提示词的生成效果（复制全文）：** 
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/wjItcr1EcRdciabNpKQUaYHibB72MiaHfCqGIUAuZff3Tibm4vPmRH1jR2F8cgHGHI7ZqxiaUb3mRL2PF81DQqDibgdA/640?wx_fmt=png&from=appmsg)
+
+嘿，你有没有发现，生活中总有些人，特别擅长在茶水间、走廊拐角，甚至是朋友圈的小角落里“开小会”？不是说八卦不好玩，毕竟谁不喜欢一点新鲜事儿来点缀平淡的日子呢？但是，咱们得聊聊那个老生常谈的话题——不要在背后议论他人。">
+<meta property="og:title" content="让AI生成「没有AI味」的文章：一个「减少AI味」的通用提示词（升级版）">
+<meta property="og:description" content="之前写过一篇「减少AI味」的通用提示词：[让AI写出「没有AI味」的文章，一个「减少AI味」的通用提示词](http://mp.weixin.qq.com/s?__biz=MzIzMTEzMjQ1NQ==&mid=2648260323&idx=1&sn=4e8e55b0b7d7c9f97fa1d053487121d2&chksm=f08542abc7f2cbbd1f4131cc04abbe62e1af1a4dbe6fd5d23b56fcacedcf36312e8b083353e0&scene=21#wechat_redirect)
+
+今天我们再写一个，不能完全说是升级版本，两个提示词各有特色！  
+
+**先看提示词的生成效果（复制全文）：** 
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/wjItcr1EcRdciabNpKQUaYHibB72MiaHfCqGIUAuZff3Tibm4vPmRH1jR2F8cgHGHI7ZqxiaUb3mRL2PF81DQqDibgdA/640?wx_fmt=png&from=appmsg)
+
+嘿，你有没有发现，生活中总有些人，特别擅长在茶水间、走廊拐角，甚至是朋友圈的小角落里“开小会”？不是说八卦不好玩，毕竟谁不喜欢一点新鲜事儿来点缀平淡的日子呢？但是，咱们得聊聊那个老生常谈的话题——不要在背后议论他人。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/rang-AI-sheng-cheng-%E3%80%8C-mei-you-AI-wei-%E3%80%8D-de-wen-zhang-%EF%BC%9A-yi-ge-%E3%80%8C-jian-shao-AI-wei-%E3%80%8D-de-tong-yong-ti-shi-ci-%EF%BC%88-sheng-ji-ban-%EF%BC%89.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>让AI生成「没有AI味」的文章：一个「减少AI味」的通用提示词（升级版）</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">让AI生成「没有AI味」的文章：一个「减少AI味」的通用提示词（升级版）</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/624" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>之前写过一篇「减少AI味」的通用提示词：<a href="http://mp.weixin.qq.com/s?__biz=MzIzMTEzMjQ1NQ==&amp;mid=2648260323&amp;idx=1&amp;sn=4e8e55b0b7d7c9f97fa1d053487121d2&amp;chksm=f08542abc7f2cbbd1f4131cc04abbe62e1af1a4dbe6fd5d23b56fcacedcf36312e8b083353e0&amp;scene=21#wechat_redirect" rel="nofollow">让AI写出「没有AI味」的文章，一个「减少AI味」的通用提示词</a></p>
+<p>今天我们再写一个，不能完全说是升级版本，两个提示词各有特色！</p>
+<p><strong>先看提示词的生成效果（复制全文）：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10fd22f088ae944c3b29ec6b62796a720189d70811881f6b0bbf6f737e5acdcf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f776a497463723145635264636961624e704b515561594869624237324d69614866437147495541755a6666335469626d3476506d5248316a52324638636748474849375a717869615562336d524c32504638314451714469626764412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/10fd22f088ae944c3b29ec6b62796a720189d70811881f6b0bbf6f737e5acdcf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f776a497463723145635264636961624e704b515561594869624237324d69614866437147495541755a6666335469626d3476506d5248316a52324638636748474849375a717869615562336d524c32504638314451714469626764412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/wjItcr1EcRdciabNpKQUaYHibB72MiaHfCqGIUAuZff3Tibm4vPmRH1jR2F8cgHGHI7ZqxiaUb3mRL2PF81DQqDibgdA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>嘿，你有没有发现，生活中总有些人，特别擅长在茶水间、走廊拐角，甚至是朋友圈的小角落里“开小会”？不是说八卦不好玩，毕竟谁不喜欢一点新鲜事儿来点缀平淡的日子呢？但是，咱们得聊聊那个老生常谈的话题——不要在背后议论他人。这事儿，真的没那么简单，对吧？</p>
+<p>首先，咱们得承认，人嘛，天生就有那么点好奇心和社交需求。听到点风吹草动，就像猫儿闻到了鱼腥味，忍不住想凑过去探个究竟。但转念一想，那些我们在背后嚼舌根的话，如果主角突然出现，是不是瞬间空气都能凝固成尴尬的冰块？那场面，想想都让人脚趾抠地。</p>
+<p>有时候，我们议论别人，可能是为了寻找共鸣，或者是想要通过贬低别人来抬高自己，心里那个小九九，可能连自己都没察觉。但这真的是提升自我价值的好方法吗？我觉得，未必。与其花时间在别人的剧本里当配角，不如多关心关心自己的人生大戏，努力成为自己的主角，你说呢？</p>
+<p>而且，你有没有注意到，那些喜欢在背后议论的人，往往也是最容易被议论的对象。这就像一个怪圈，你抛出去的每一个小道消息，最终都会以某种形式反弹回来。这世界就像一面巨大的回音壁，你给它什么，它就还你什么，能量守恒，因果循环，挺玄乎的，但也挺真实的。</p>
+<p>再说了，背后议论他人，很多时候只是基于片面的信息，甚至是误解。咱们都不是读心术大师，怎么就能断定别人的行为动机呢？可能你眼中的“绿茶操作”，其实是人家无奈之下的权宜之计。所以，别急着下结论，保留一点判断，多一点理解，生活或许会因此而美好许多。</p>
+<p>记得有一次，我差点也掉进了这个坑。有个同事，平时工作总是慢悠悠的，我跟几个小伙伴私下里嘀咕，说他是不是太懒了。结果，后来才知道，他家里出了大事，每天下班后还要照顾生病的家人。那一刻，我真是羞愧难当，原来我们以为的“懒惰”，其实是他默默承受的压力。那次之后，我学乖了，不再轻易评判他人，毕竟，每个人的生活都有不为人知的一面。</p>
+<p>还有个事儿挺逗的，有人说过，如果你想让上帝笑，就告诉他你的计划。这跟背后议论也有点相似，你永远不知道下一秒会发生什么，可能今天你议论的人，明天就成了你的救命稻草。生活啊，就是这么爱开玩笑。所以，还是少些议论，多些善意吧。</p>
+<p>最后，我想说的是，咱们都不是圣人，偶尔嘴上跑火车也是难免的。但是，意识到这一点，并且努力去改变，就已经是很大的进步了。下次，当你又忍不住要开启“八卦模式”时，不妨问问自己：“这事儿真的重要吗？说出来能帮到谁？会不会伤害到无辜？”如果答案模棱两可，那就让它随风去吧。</p>
+<p>总之，别在背后议论他人，不仅仅是一种礼貌，更是一种智慧。它让我们学会了尊重，学会了理解和包容，最重要的是，它保护了我们自己，免受那些无谓的是非之扰。在这个复杂的世界里，保持一颗干净的心，比什么都重要。好了，今天的碎碎念就到这里，希望你我都能成为更好的倾听者，而非无意义的传话筒。共勉！</p>
+<p>------</p>
+<p>怎么样？当然还是需要人工再稍加增减一些内容的。并不是说AI生成后就可以直接复制粘贴了......</p>
+<p>另外还是之前说的，今天的提示词只是一整个提示词中专门负责「减少AI味」的部分单独拎出来测试的，在实际应用中，要想发挥更好的效果，需要在提示词中有更多的限制。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5df974cb7ac66578c10c3743b8b024228cb571b8244e22512fbfcd2d2c0ad239/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f776a49746372314563526569616b65446f69626e4e6b31456e5435356d55384c743468583544786962416477416963376f43335636676962484d48756f676f72767861594a4d6d7a5539394653524470357672426c704361584f412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5df974cb7ac66578c10c3743b8b024228cb571b8244e22512fbfcd2d2c0ad239/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f776a49746372314563526569616b65446f69626e4e6b31456e5435356d55384c743468583544786962416477416963376f43335636676962484d48756f676f72767861594a4d6d7a5539394653524470357672426c704361584f412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/wjItcr1EcReiakeDoibnNk1EnT55mU8Lt4hX5DxibAdwAic7oC3V6gibHMHuogorvxaYJMmzU99FSRDp5vrBlpCaXOA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>提示词如下：</strong></p>
+<p>在生成文章时，请遵循以下指引：</p>
+<p>1. 使用自然、口语化的表达。加入日常用语、俚语或网络流行语，让文章更接地气。</p>
+<p>2. 打破完美的结构。允许思维跳跃，偶尔离题，然后再拉回主题。</p>
+<p>3. 加入独特或有争议的观点。不要害怕表达一些不太主流的想法，甚至可以自相矛盾。</p>
+<p>4. 展现不确定性和犹豫。使用词语如"可能"、"也许"、"我觉得"等，表现出思考和犹豫的过程。</p>
+<p>5. 增加具体的细节和场景描述。用生动的画面感来增强文章的真实性。</p>
+<p>6. 加入个人经历或虚构的故事。这些故事可以是半真半假，增加文章的趣味性。</p>
+<p>7. 使用多样的修辞手法，如比喻、夸张、拟人等，但不要过度使用。</p>
+<p>8. 在文章中展现情感波动。可以从一种情绪迅速转换到另一种情绪。</p>
+<p>9. 适当使用反问和设问，增加互动性。</p>
+<p>10. 在正式和随意之间切换语气。可以忽然变得严肃，然后又回到轻松的语调。</p>
+<p>11. 偶尔使用不完整的句子或口语化的表达，模仿人类的即兴发挥。</p>
+<p>12. 加入一些幽默元素或自嘲，展现人性化的一面。</p>
+<p>13. 允许文章有一些"不完美"，如重复、矛盾或稍微离题，这些都是人类写作的特点。</p>
+<p>记住，目标是创作一篇像由有个性的人类写的文章，而不是完美无瑕的AI生成内容。尝试让文章有独特的"声音"和风格。```</p>
+<p>现在，请你以【不要在背后议论他人】为主题，创作一篇1200字的文案</p>
+<p><strong>推荐阅读：</strong></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTEzMjQ1NQ==&amp;mid=2648259999&amp;idx=1&amp;sn=dcc3e88c0d4b330b26407e66575c6d7b&amp;chksm=f08541d7c7f2c8c17f8f306adbb4d6771d415e43fa3508a64158445b742af3c4c9686112e54e&amp;scene=21#wechat_redirect" rel="nofollow">1. AI入门到精深：AI自学与实战精品教程汇总！</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIzMTEzMjQ1NQ==&amp;mid=2648260257&amp;idx=1&amp;sn=f7926045d8c3408061bc19714b4e00be&amp;chksm=f08542e9c7f2cbffdeda71e3070ed5105ed43212dddae0c2ee3633e80e63b7baf0c40bf3ebd5&amp;scene=21#wechat_redirect" rel="nofollow">2. 教你轻松打造「简单高效的AI提示词prompt」</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c51d729f79b9378d9f85a5e3dac70889236df8d9b4b901cb4eae98431e27158/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f776a4974637231456352667a6274516c454c38786962377056523750594a785375376f474a726c436f426d5450714d75586a6732666b6a6d566332337475505a39494557766b69634f79526661366961764169616249525447672f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270"><img src="https://camo.githubusercontent.com/6c51d729f79b9378d9f85a5e3dac70889236df8d9b4b901cb4eae98431e27158/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f776a4974637231456352667a6274516c454c38786962377056523750594a785375376f474a726c436f426d5450714d75586a6732666b6a6d566332337475505a39494557766b69634f79526661366961764169616249525447672f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/wjItcr1EcRfzbtQlEL8xib7pVR7PYJxSu7oGJrlCoBmTPqMuXjg2fkjmVc23tuPZ9IEWvkicOyRfa6iavAiabIRTGg/640?wx_fmt=other&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp" style="max-width: 100%;"></a></p>
+<p>长按下方二维码</p>
+<p>备注：AI，加我微信</p>
+<p>不闲聊哦</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6832d9a40e132f268829f1444c77c53951b6d319d7e6ae5280bc254a2ee44ae7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f776a4974637231456352647254766237486d52543752687478335257316b6f6872455668445642437769616630426c7a69616f6465684b7745394b4d5a3573735534737a51764e52586270544f38696169634837565269635055772f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270"><img src="https://camo.githubusercontent.com/6832d9a40e132f268829f1444c77c53951b6d319d7e6ae5280bc254a2ee44ae7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f776a4974637231456352647254766237486d52543752687478335257316b6f6872455668445642437769616630426c7a69616f6465684b7745394b4d5a3573735534737a51764e52586270544f38696169634837565269635055772f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/wjItcr1EcRdrTvb7HmRT7Rhtx3RW1kohrEVhDVBCwiaf0BlziaodehKwE9KMZ5ssU4szQvNRXbpTO8iaicH7VRicPUw/640?wx_fmt=other&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

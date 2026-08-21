@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="我不知道大家，但是对我这样的写内容的人来说，一直有一个很头疼的痛点。">
+<meta property="og:title" content="我们花了3天，做了一个文章一键同步的插件，然后，免费送。">
+<meta property="og:description" content="我不知道大家，但是对我这样的写内容的人来说，一直有一个很头疼的痛点。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wo-men-hua-le-3-tian-%EF%BC%8C-zuo-le-yi-ge-wen-zhang-yi-jian-tong-bu-de-cha-jian-%EF%BC%8C-ran-hou-%EF%BC%8C-mian-fei-song-%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>我们花了3天，做了一个文章一键同步的插件，然后，免费送。</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我们花了3天，做了一个文章一键同步的插件，然后，免费送。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/713" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>我不知道大家，但是对我这样的写内容的人来说，一直有一个很头疼的痛点。</p>
+<p>就是把我在公众号上发的文章，同步到其他的文字内容平台上。</p>
+<p>比如知乎、微博、百家号、B站等等。</p>
+<p>之前都是人工同步，实在是痛不欲生。</p>
+<p>而且之前也去找过N多种同步的方法，比如新榜的小豆芽，还有一些同步插件啥的，但是都不太能解决我的痛点。</p>
+<p>比如我们曾经找的一款寄予厚望的Chrome插件，叫**“Wechatsync”**。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/328d99e444ecb37050d429265179953f4190c285c20b2e77dced8f679b9e19b5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236754474395765666730696278766d6f7a746e316a4b7a69614f59444b676d4864736577365a714d795443634e4f696271776538716b4d784f39772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/328d99e444ecb37050d429265179953f4190c285c20b2e77dced8f679b9e19b5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236754474395765666730696278766d6f7a746e316a4b7a69614f59444b676d4864736577365a714d795443634e4f696271776538716b4d784f39772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6uDt9Wefg0ibxvmoztn1jKziaOYDKgmHdsew6ZqMyTCcNOibqwe8qkMxO9w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>看着是不是很酷？</p>
+<p>支持国内23+个平台同步发布，最高速度解放生产力，一键同步。</p>
+<p>但是最大的问题，就是。</p>
+<p>它已经停更3年了。</p>
+<p>3年时间，起起伏伏，天地玄黄，宇宙鸿荒，这世间早就已经变了模样。这些支持的平台，自然也是几乎失效了个干净。</p>
+<p>在试了很多后，我也一度放弃了。</p>
+<p>直到最近，实在是不堪重负，每天早上9点多发完文章，要花将近半个小时时间，把我在公众号上发完的文章，复制粘贴到各个平台，还要注意排版、换行等等，实在是崩溃了。</p>
+<p>所以，我决定，又把这个“自动化文章同步”的想法给拾起来，每天手动同步文字，简直就是浪费时间浪费生命。</p>
+<p>而且我更是不知道，这花的半小时，到底有什么意义。</p>
+<p>决心已下。</p>
+<p>既然找不到，那我决定，就我们自己来魔改。</p>
+<p>而要改的底子，就是**“Wechatsync”**，毕竟已经有前辈为我们铺好了路，完全从0开始自己造，也是没有必要。</p>
+<p>我拉着我团队的开发小伙伴<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dongyi/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dongyi">@dongyi</a>，认真的把Wechatsync这个插件的逻辑看了一遍。</p>
+<p>这个插件逻辑大概是这样的，用户安装完插件后，这个插件会通过已登录平台账号的cookies来获取用户的登录信息（是安全的，不会让账号信息泄漏），就类似于你们已经在浏览器上登了微博，下次再登录这个网页就不会让你在输一遍账号密码，直接是登录状态，一个逻辑。</p>
+<p>然后就会在屏幕上出现插件的按钮，你点击后，就会在这篇文章的网页上进行正文提取，再把这篇文章的HTML代码和图片上传到其他平台去。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/955a1c0da44329f80a13c92f05bde249b217ae1c07f30e7fc5a48dd0ceb681ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236754679426d6366394d47596a4577534444656b59375958335a656c5169625a707a74744c4c344970797a4466736648637577686b4f6a67512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/955a1c0da44329f80a13c92f05bde249b217ae1c07f30e7fc5a48dd0ceb681ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236754679426d6366394d47596a4577534444656b59375958335a656c5169625a707a74744c4c344970797a4466736648637577686b4f6a67512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6uFyBmcf9MGYjEwSDDekY7YX3ZelQibZpzttLL4IpyzDfsfHcuwhkOjgQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后会在对应平台上，创建一个空白的草稿，把你的所有内容，填充进去，当你确认完成以后，就可以手动点击发布。</p>
+<p>不过因为太久没维护，BUG也很多。</p>
+<p>比如知乎还行，但是在微博和B站上，格式直接爆炸，完全没有换行。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9d7b0ecb5ae86c3c1d0a5d9ae17772f16576744bcd64a2a8436aa26739da5a1a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b7338564233723675614459484e6961696238754d747358696334313932747a484f306c42676963504b7a674759706a4570746157773571494565636a77667a7367772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9d7b0ecb5ae86c3c1d0a5d9ae17772f16576744bcd64a2a8436aa26739da5a1a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b7338564233723675614459484e6961696238754d747358696334313932747a484f306c42676963504b7a674759706a4570746157773571494565636a77667a7367772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6uaDYHNiaib8uMtsXic4192tzHO0lBgicPKzgGYpjEptaWw5qIEecjwfzsgw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>找了很久的解决办法，然后源代码跟天书一样堆在一起。</p>
+<p>最后发现是在微信里每行都是在一个section里，但B站和微博的编辑器不认这个section。。。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4fb371f76d5e66fd07345ed89777ae122297c14c8f2e518fca76880711d31c16/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b7338564233723675416471467375396a6a77757730487a6850667147654d5447675872674c7072393155554f6f52726d69634252346c64566e6c39417371412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4fb371f76d5e66fd07345ed89777ae122297c14c8f2e518fca76880711d31c16/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b7338564233723675416471467375396a6a77757730487a6850667147654d5447675872674c7072393155554f6f52726d69634252346c64566e6c39417371412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6uAdqFsu9jjwuw0HzhPfqGeMTGgXrgLpr91UUOoRrmicBR4ldVnl9AsqA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>最后通过代码给每行的section后面加<br>这个喜闻乐见的换行符实现。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/84ac9eae53c3d8bc4dd3dd5ed7e0bf9e8a77b93470906a4fcb093ab35cf2f2c9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236754d646961433173505a486341356752584c754b5a4652687952747a346645493459534b4e303675684f39696276355645546d306c4a484e412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/84ac9eae53c3d8bc4dd3dd5ed7e0bf9e8a77b93470906a4fcb093ab35cf2f2c9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236754d646961433173505a486341356752584c754b5a4652687952747a346645493459534b4e303675684f39696276355645546d306c4a484e412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6uMdiaC1sPZHcA5gRXLuKZFRhyRtz4fEI4YSKN06uhO9ibv5VETm0lJHNA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>还有百家号，更是痛苦之源。</p>
+<p>上传图片失败、保存草稿失败，直接痛苦面具戴上了。</p>
+<p>最后找了很久，才发现是API有变动，然后百家号的验证方法也有变化，磕巴半天终于改完了。</p>
+<p>又觉得原来的交互和按钮太丑，把前端小改了一下。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b993f66f2ea1a8954fe42986e9fd8e7c7cab1b32af1c140c63dd74edace7448b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b733856423372367544324750614d7467477a49504c4972385a59323469614e4e4472745059654452434151756f44657a4a44766551486736535935383465512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b993f66f2ea1a8954fe42986e9fd8e7c7cab1b32af1c140c63dd74edace7448b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b733856423372367544324750614d7467477a49504c4972385a59323469614e4e4472745059654452434151756f44657a4a44766551486736535935383465512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6uD2GPaMtgGzIPLIr8ZY24iaNNDrtPYeDRCAQuoDezJDveQHg6SY584eQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击这个同步该文章后，就会弹出一个小框。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/99fca97f9a9fdc557ab1f360b4ad30c32f969062451b86b60d0d5942963d0ddf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236756e42525259696241734c3157535167356d4651385a744d464a52426548354269626e456e766c47665770446d696334746f3052764b5a3570412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/99fca97f9a9fdc557ab1f360b4ad30c32f969062451b86b60d0d5942963d0ddf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236756e42525259696241734c3157535167356d4651385a744d464a52426548354269626e456e766c47665770446d696334746f3052764b5a3570412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6unBRRYibAsL1WSQg5mFQ8ZtMFJRBeH5BibnEnvlGfWpDmic4to0RvKZ5pA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>可同步账号就是你已经登录的，后面会显示你登录的ID名字，百家号和知乎就是我还没在浏览器上登录的平台，所以同步不过去。</p>
+<p>如果你把他们都登录完，就能看到全部亮起。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25cd31e61e3e3cdfef6f9d9072248166cb5c309921e6155edc9895bf4694a927/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236756f344137696262544e4a61456c6d3841734b787068577737464a73696247635075585a4b3532663544586a4b6b36446174487878374830512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/25cd31e61e3e3cdfef6f9d9072248166cb5c309921e6155edc9895bf4694a927/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236756f344137696262544e4a61456c6d3841734b787068577737464a73696247635075585a4b3532663544586a4b6b36446174487878374830512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6uo4A7ibbTNJaElm8AsKxphWw7FJsibGcPuXZK52f5DXjKk6DatHxx7H0Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击同步后，这个小插件就会开始嘟嘟嘟的同步了，同步完成的平台会给你一个查看草稿的按钮，可以直接跳转到对应的草稿箱。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/82d035411594969f51ce694dc2b67267fb011f7a2f16f3fe6ca460f9fa55c75d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b7338564233723675334131594e626844434c546c4256645a33557653306c3567654e51304e39556a707734675765457a706962654c6b465074616339507a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/82d035411594969f51ce694dc2b67267fb011f7a2f16f3fe6ca460f9fa55c75d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b7338564233723675334131594e626844434c546c4256645a33557653306c3567654e51304e39556a707734675765457a706962654c6b465074616339507a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6u3A1YNbhDCLTlBVdZ3UvS0l5geNQ0N9Ujpw4gWeEzpibeLkFPtac9Pzw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我们可以跳过去看一下。</p>
+<p>所有的样式，完美无暇。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/79ed3dc8e79dd6c450f42c37f5109ff66f7033479e47bf74124ca2fcb84b9ad1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236756778386f4c3441503861777167363769627144546531493643655341544c6c36366961387434313431306b4e77756c6c4a4b7435496445672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/79ed3dc8e79dd6c450f42c37f5109ff66f7033479e47bf74124ca2fcb84b9ad1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236756778386f4c3441503861777167363769627144546531493643655341544c6c36366961387434313431306b4e77756c6c4a4b7435496445672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6ugx8oL4AP8awqg67ibqDTe1I6CeSATLl66ia8t41410kNwullJKt5IdEg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5a370582ed131f111558d7ae665c070770478dfd5b70407797e92363a8b7059f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b733856423372367573526d6a43567765733451455237357a42324b427a3969637a454b544c59516467717555436c4a33446e576f617a4d735864754f7049772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5a370582ed131f111558d7ae665c070770478dfd5b70407797e92363a8b7059f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b733856423372367573526d6a43567765733451455237357a42324b427a3969637a454b544c59516467717555436c4a33446e576f617a4d735864754f7049772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6usRmjCVwes4QER75zB2KBz9iczEKTLYQdgquUClJ3DnWoazMsXduOpIw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>最后的最后，只需要你，手动点4下发布按钮就行。</p>
+<p>当然，还有一个我们无解的问题，就是当文章里面带有视频，这时候同步的时候会出BUG，只能把视频的一些信息用文字同步过去。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b4b5d7e8abbdc8472f74e3997a17ccddc919a871741ec1d6c6998bd2a1765810/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236756961624361596a566962616b446a4d6961416e463733484575726777566365447564584d3431536d43594544496873474b4264654b39714f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b4b5d7e8abbdc8472f74e3997a17ccddc919a871741ec1d6c6998bd2a1765810/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f73514a49417045526b624d4b6b73385642337236756961624361596a566962616b446a4d6961416e463733484575726777566365447564584d3431536d43594544496873474b4264654b39714f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURosQJIApERkbMKks8VB3r6uiabCaYjVibakDjMiaAnF73HEurgwVceDudXM41SmCYEDIhsGKBdeK9qOw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>但是视频这事，是真的无解。只能手动处理一下，然后手动上传到各大平台了。</p>
+<p>不过坦率的讲，我现在是能用gif就用gif，视频本身也不多，对于我自己倒是还好。</p>
+<p>最后的最后，我终于，再也不用靠人力，去跟拉磨的驴一样，每天苦唧唧的手动同步了。</p>
+<p>插件我直接放在后台了，<strong>直接对着公众号私信【同步】就有了</strong>，下载完成以后解压，然后进入Chrome浏览器的扩展程序管理界面，打开右上角的开发者模式，左上角加载解压完的文件夹就行。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/137669ffeaf7b0e4ce28094d62f69953b13d60abc3eac4067bb9b334ad69b7c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c5552705767534d47696258455045726a5731437666595975346275374a4f48326f33615a396e316d73746537735262745876577a514556344e34626d3330766567696251474a69614c6e6d77396b734c512f3634303f77785f666d743d6f746865722666726f6d3d6170706d73672674703d7765627026777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/137669ffeaf7b0e4ce28094d62f69953b13d60abc3eac4067bb9b334ad69b7c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c5552705767534d47696258455045726a5731437666595975346275374a4f48326f33615a396e316d73746537735262745876577a514556344e34626d3330766567696251474a69614c6e6d77396b734c512f3634303f77785f666d743d6f746865722666726f6d3d6170706d73672674703d7765627026777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURpWgSMGibXEPErjW1CvfYYu4bu7JOH2o3aZ9n1mste7sRbtXvWzQEV4N4bm30vegibQGJiaLnmw9ksLQ/640?wx_fmt=other&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a></p>
+<p>Chrome商店版本还在审核中，所以没法直接从商店下载，只能用本地包来安装了。</p>
+<p>最后，感谢原插件wechatsync的作者lljxx1，感谢他在几年前留下的这个底子。</p>
+<p>感谢dongyi的开发，熬了几天夜，把代码看了N遍，终于改成了完全体。</p>
+<p>我有一个觉得很有用的工作信条，这是李继刚告诉我的。</p>
+<p>就是，当一件事，如果需要毫无意义的重复3次以上。</p>
+<p>那就必须把这个流程，想尽一切办法自动化。</p>
+<p>无论是AI、是RPA、是开发插件等等，都可以。</p>
+<p>我们自己的精力是有限的，一定要把时间和精力，放在更有价值的事情上。</p>
+<p><strong>向来枉费推移力，此日中流自在行。</strong></p>
+<p>共勉。</p>
+<p><strong>以上，既然看到这里了，如果觉得不错，随手点个赞、在看、转发三连吧，如果想第一时间收到推送，也可以给我个星标⭐～谢谢你看我的文章，我们，下次再见。</strong></p>
+<p>&gt;/ 作者：卡兹克、dongyi</p>
+<p>&gt;/ 投稿或爆料，请联系邮箱：<a href="mailto:wzglyay@gmail.com">wzglyay@gmail.com</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

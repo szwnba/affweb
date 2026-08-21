@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="🍹 Insight Daily 🪺  
+
+##### Aitrainee | 公众号：AI进修生
+
+Hi，这里是Aitrainee，欢迎阅读本期新文章。">
+<meta property="og:title" content="每日AI：Vercel v0 太棒了！！MLE-Agent、专注RAG与工具调用优化的Command R+">
+<meta property="og:description" content="🍹 Insight Daily 🪺  
+
+##### Aitrainee | 公众号：AI进修生
+
+Hi，这里是Aitrainee，欢迎阅读本期新文章。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/mei-ri-AI%EF%BC%9AVercel%20v0%20-tai-bang-le-%EF%BC%81%EF%BC%81MLE-Agent%E3%80%81-zhuan-zhu-RAG-yu-gong-ju-diao-yong-you-hua-de-Command%20R%2B.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>每日AI：Vercel v0 太棒了！！MLE-Agent、专注RAG与工具调用优化的Command R+</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">每日AI：Vercel v0 太棒了！！MLE-Agent、专注RAG与工具调用优化的Command R+</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/670" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>🍹 Insight Daily 🪺</p>
+<h5>Aitrainee | 公众号：AI进修生</h5>
+<p>Hi，这里是Aitrainee，欢迎阅读本期新文章。</p>
+<p>本期为 Insight Daily ，日阅 · 新见 🪸。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3cd268e5e65fa26f26ebe20787fa64c270da0e9fc8373b5b0b0a6c164e95b928/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f3164774b64415a436257624d48684955357243786a4648656c575078305844314e69616d5a38536a334269626e4d6243774f6e44615a37412f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3cd268e5e65fa26f26ebe20787fa64c270da0e9fc8373b5b0b0a6c164e95b928/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f3164774b64415a436257624d48684955357243786a4648656c575078305844314e69616d5a38536a334269626e4d6243774f6e44615a37412f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygO1dwKdAZCbWbMHhIU5rCxjFHelWPx0XD1NiamZ8Sj3BibnMbCwOnDaZ7A/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>即时 UI 设计、迭代和发布，5分钟构建一个AI应用程序！</strong></p>
+<p>目前我体验来说最好用的 AI UI 生成工具之一，vercel平台v0升级版本，既然是vercel平台，它的生成产品可以直接托管部署，也就是从自然语言再到你的网站直接分享给朋友，所有的设计成就马上获得。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9d62b0dbf66328d8023a787c3297fa0e9d54c70bae3a26c8bd3012b45ef135c5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f7451364a49706a574a485a6751534d71765337313369636334736e31354d3969626c6449356b4c525043766264356a4a654f7835393866412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9d62b0dbf66328d8023a787c3297fa0e9d54c70bae3a26c8bd3012b45ef135c5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f7451364a49706a574a485a6751534d71765337313369636334736e31354d3969626c6449356b4c525043766264356a4a654f7835393866412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOtQ6JIpjWJHZgQSMqvS713icc4sn15M9ibldI5kLRPCvbd5jJeOx598fA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>过往我写过许多ai生成UI的开源项目：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkyMzY1NTM0Mw==&amp;mid=2247492728&amp;idx=2&amp;sn=2e3643ac762f665f38f7fdd4052f87b8&amp;chksm=c1e369b8f694e0ae75fd35dd2b4af8d88293a27ab01f3b9a5d0ffdb74d5ca8fe90c9eff98934&amp;scene=21#wechat_redirect" rel="nofollow">RapidPages：40秒生成AI网站！实时生成 UI 组件、比Open UI 更快 &amp; 开源</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkyMzY1NTM0Mw==&amp;mid=2247487804&amp;idx=1&amp;sn=0688f629b8f6eee73d4b85b1f2893ed1&amp;chksm=c1e09cfcf69715ea9166b3bf209da8ec61e70131bf9b2c70b11469a8e83859476eacdd9d227d&amp;scene=21#wechat_redirect" rel="nofollow">Draw-A-UI：你的前端可以直接用笔画出来！通过绘画创建 Web 应用 | 感觉就像魔术一样（附教程）</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkyMzY1NTM0Mw==&amp;mid=2247486498&amp;idx=2&amp;sn=4788942e83f0eb06c178911d514b15aa&amp;chksm=c1e081e2f69708f4a1f4a6c1e47c44427e6dd89ba0b44fc0ae22062b9fedf7df4d335dbb1369&amp;scene=21#wechat_redirect" rel="nofollow">12.3K Star！OpenUI：你的前端开发助手，从草图或描述生成 UI 组件，支持Ollama本地模型!（详细教程篇）</a></p>
+<p>但是v0这个更加端到端，是更贴近自然语言然后他智能体来帮你构建，操作没什么多说的，就是提示词类型的，</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f396e3d0c0b679600f67b2fbb7abd328e819ecea10e525d2c645f5ca53fff9ba/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f49563746336777566963763877676d474e566c6356326963794653426254515369626f696135337a755970464661627572745532696148426378512f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/f396e3d0c0b679600f67b2fbb7abd328e819ecea10e525d2c645f5ca53fff9ba/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f49563746336777566963763877676d474e566c6356326963794653426254515369626f696135337a755970464661627572745532696148426378512f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOIV7F3gwVicv8wgmGNVlcV2icyFSBbTQSiboia53zuYpFFaburtU2iaHBcxQ/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>网址放这里：**<a href="https://v0.dev/chat**%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%87%AA%E8%A1%8C%E4%BD%93%E9%AA%8C%EF%BC%8C%E4%B8%8B%E9%9D%A2%E6%94%BE%E6%88%91%E7%94%9F%E6%88%90%E7%9A%84demo" rel="nofollow">https://v0.dev/chat**，可以自行体验，下面放我生成的demo</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27846bdf081b6bfcdaf6bde1d4956c134bcacc4e76c189dbe3bb65495d2a4cee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962766578454c7569637a7469624a5070696279644544336b4972514646657745414d6245383671616832754e6d48744f66716776734f736f5167665162466e6963696236423136766b5a6f515332727542772f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/27846bdf081b6bfcdaf6bde1d4956c134bcacc4e76c189dbe3bb65495d2a4cee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962766578454c7569637a7469624a5070696279644544336b4972514646657745414d6245383671616832754e6d48744f66716776734f736f5167665162466e6963696236423136766b5a6f515332727542772f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Sn1tJhGWmibvexELuicztibJPpibydED3kIrQFFewEAMbE86qah2uNmHtOfqgvsOsoQgfQbFnicib6B16vkZoQS2ruBw/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>🎃Ideogram + v0.dev =  Ai做ui设计、 Ai将设计变成代码：</strong></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkyMzY1NTM0Mw==&amp;mid=2247492301&amp;idx=1&amp;sn=b894f63e6d5aa69ef7ad55de7a79be4a&amp;chksm=c1e36f0df694e61b4d526453e8922b5e6b75d85e23509549e8015523d828257bad92f49eb7e6&amp;scene=21#wechat_redirect" rel="nofollow">升级！！全新ideogram 2.0！营销海报、网页设计生成神器（击败Midjourney、Flux）</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/78bd4d381df43995d6e296749551d110bc664bb27b2604326defd0676e4064c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f59755243795a456f595845375651776277696134454f506877577769617335754f435546685a41627261654b353752734a477674756d74772f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/78bd4d381df43995d6e296749551d110bc664bb27b2604326defd0676e4064c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f59755243795a456f595845375651776277696134454f506877577769617335754f435546685a41627261654b353752734a477674756d74772f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOYuRCyZEoYXE7VQwbwia4EOPhwWwias5uOCUFhZAbraeK57RsJGvtumtw/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>LLM Web 交互</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bda162ea9e5e635a813e83d440f977120687a7e70e3de233315bbf5579d78770/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f6f6c7456457a3769616a5666434d4c565a6637504a3938624844686963656836574b4c48475234333667765a376275596b586f41656375512f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bda162ea9e5e635a813e83d440f977120687a7e70e3de233315bbf5579d78770/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f6f6c7456457a3769616a5666434d4c565a6637504a3938624844686963656836574b4c48475234333667765a376275596b586f41656375512f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOoltVEz7iajVfCMLVZf7PJ98bHDhiceh6WKLHGR436gvZ7buYkXoAecuQ/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>草坪交互</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/22aed129fa5f3fe4b47a8e83655085c6c85deccb2e00001a500b125f220bf213/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f72386264536c4c50666b34313635416e32495a72334162653546426174416c79494949417475586a66663779454f485975684a735a672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/22aed129fa5f3fe4b47a8e83655085c6c85deccb2e00001a500b125f220bf213/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f72386264536c4c50666b34313635416e32495a72334162653546426174416c79494949417475586a66663779454f485975684a735a672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOr8bdSlLPfk4165An2IZr3Abe5FBatAlyIIIAtuXjff7yEOHYuhJsZg/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>多步骤向导，以便在用户登录到SaaS产品时收集有关用户的信息。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b7170e36024f799c10bd523af52fbd4ead784c9e2dd86858be68d688cdc4a4fa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f52385256745a495767486c54426753513368764d593258696145706e5636716166364d4d575369624d665572796b667669616f674169637261672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b7170e36024f799c10bd523af52fbd4ead784c9e2dd86858be68d688cdc4a4fa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f52385256745a495767486c54426753513368764d593258696145706e5636716166364d4d575369624d665572796b667669616f674169637261672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOR8RVtZIWgHlTBgSQ3hvMY2XiaEpnV6qaf6MMWSibMfUrykfviaogAicrag/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6dc8ebc829227e602ad96e5073f8c3c6af6e8dae8f42e12d9e422ca291b97965/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f5763336268313836504753413169634d4b575145435056714236764c514b385171456a364950757963667751584736676c7a46557275772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6dc8ebc829227e602ad96e5073f8c3c6af6e8dae8f42e12d9e422ca291b97965/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f5763336268313836504753413169634d4b575145435056714236764c514b385171456a364950757963667751584736676c7a46557275772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOWc3bh186PGSA1icMKWQECPVqB6vLQK8QqEj6IPuycfwQXG6glzFUruw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h5><strong>🤖 MLE-Agent：无缝 AI 工程和研究的智能伴侣。</strong> 🔍 与 arxiv 和论文代码集成，提供更好的代码/研究计划🧰 支持 OpenAI、Ollama 等。🎆 Code RAG。</h5>
+<p>🧰 该工具支持 OpenAI 和 Ollama 等平台，并包含了 Code RAG 功能，用户可以通过该功能执行端到端的 AI 项目、规划 ML 工程任务、调试和修复错误，以及在本地或云端运行代码。</p>
+<p>🎆 它还具备交互式聊天模式，可以改进现有的 ML 项目，甚至提供 Kaggle 模式，自动完成 Kaggle 任务。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b1f4f10524a7afccac1194cce8c2dd700fbcf4fdb572c1c1a66b13da722692e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f6b363278636b7a6656584d43726f37584269635a754e7432656b6f327834417461494a6963466d4853336c53736e54414d4d4863533045512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2b1f4f10524a7afccac1194cce8c2dd700fbcf4fdb572c1c1a66b13da722692e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f6b363278636b7a6656584d43726f37584269635a754e7432656b6f327834417461494a6963466d4853336c53736e54414d4d4863533045512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOk62xckzfVXMCro7XBicZuNt2eko2x4AtaIJicFmHS3lSsnTAMMHcS0EQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>C4AI Command R+ 08-2024 1040 亿参数模型，具有非常先进的功能，包括检索增强生成 (RAG) 和用于自动执行复杂任务的工具。</p>
+<p>Command R+ 08-2024 的工具使用功能将对话作为输入（带有可选的用户系统前言），以及<strong>可用工具列表</strong>。然后，该模型将生成一个 JSON 格式的操作列表，以在这些工具的子集上执行。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/832f8c20dd83ed8e1a5a40a13169dda5d127aa9cd755a6125ad0e5e048a3b0f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f4f716f52384250764469637678374d365458436b5649696369616238796e736e4f38566f765753527251584369635845753266757a35344e43512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/832f8c20dd83ed8e1a5a40a13169dda5d127aa9cd755a6125ad0e5e048a3b0f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f4f716f52384250764469637678374d365458436b5649696369616238796e736e4f38566f765753527251584369635845753266757a35344e43512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOOqoR8BPvDicvx7M6TXCkVIiciab8ynsnO8VovWSRrQXCicXEu2fuz54NCQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>该模型已接受过识别特殊directly_answer工具的训练，它使用该方法来避免过多的工具调用。在多种情况下，例如问候用户或询问澄清问题时，避免调用特定工具的功能非常有用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce13e3aa0a4c6d606d2cd9c0d201358bb9ecf181ebb82b2e8aa1fd6b3281ae82/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f5565315957644d534f5930444e56625a7a4577745941414f4944466569636376466e49686d4b4c656d586d4a51486961734b4a53494f50672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ce13e3aa0a4c6d606d2cd9c0d201358bb9ecf181ebb82b2e8aa1fd6b3281ae82/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f5565315957644d534f5930444e56625a7a4577745941414f4944466569636376466e49686d4b4c656d586d4a51486961734b4a53494f50672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOUe1YWdMSOY0DNVbZzEwtYAAOIDFeiccvFnIhmKLemXmJQHiasKJSIOPg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>另一方面，小型配套型号是C4AI Command R 08-2024 则适合更简单的检索增强生成(RAG) 和单步工具使用任务，以及它提供更低的价格。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3d3f0377db17bf94828ce73097fae3ab162f6510914b33455af83a51efb80c30/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f32394d6e696259456e347677564c784734514f754a476f6963585a656c4f547642356f626e656c744f69616d426b546d58336d4764386332412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3d3f0377db17bf94828ce73097fae3ab162f6510914b33455af83a51efb80c30/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f32394d6e696259456e347677564c784734514f754a476f6963585a656c4f547642356f626e656c744f69616d426b546d58336d4764386332412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygO29MnibYEn4vwVLxG4QOuJGoicXZelOTvB5obneltOiamBkTmX3mGd8c2A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h5><strong>一款</strong>基于Flux架构的人像写真模型：****AWPortrait-FL 在 FLUX.1-dev 上进行了微调，使用了AWPortrait-XL的训练集和近 2000 张美学质量极高的时尚摄影照片。它在构图和细节方面有显著的改善，皮肤和文字更加细腻逼真。</h5>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ee45a67ec3958cd55f2151685fe346d19d119349fc0b2ddb99ae973697a8242e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f47456d4c76643250337169614130496a6a507a6d746961384541626f31504c774576354a3968523338756f4b51583437593831596b5438412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ee45a67ec3958cd55f2151685fe346d19d119349fc0b2ddb99ae973697a8242e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f47456d4c76643250337169614130496a6a507a6d746961384541626f31504c774576354a3968523338756f4b51583437593831596b5438412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygOGEmLvd2P3qiaA0IjjPzmtia8EAbo1PLwEv5J9hR38uoKQX47Y81YkT8A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>链接：<a href="https://huggingface.co/Shakker-Labs/AWPortrait-FL" rel="nofollow">https://huggingface.co/Shakker-Labs/AWPortrait-FL</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/407055f0e232fcd839e810bba8663e350798a763e252c135df3412627e68a0bd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f4e4268306c44366868756c79554d54567069614b646258596e38546456675353787a336e4b35736b4a4561426a36585746536a476d65672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/407055f0e232fcd839e810bba8663e350798a763e252c135df3412627e68a0bd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d6962736962324d5859576f46363250396b435161454e79674f4e4268306c44366868756c79554d54567069614b646258596e38546456675353787a336e4b35736b4a4561426a36585746536a476d65672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibsib2MXYWoF62P9kCQaENygONBh0lD6hhulyUMTVpiaKdbXYn8TdVgSSxz3nK5skJEaBj6XWFSjGmeg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>🌟希望这篇文章对你有帮助，感谢阅读！如果你喜欢这系列文章请以 <strong>点赞 / 分享 / 在看</strong>的方式告诉我，以便我用来评估创作方向。</p>
+<p><strong>知音难求，自我修炼亦艰</strong></p>
+<p>抓住前沿技术的机遇，与我们一起成为创新的超级个体</p>
+<p><strong>（把握AIGC时代的个人力量）</strong></p>
+<p><strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bc103086e6f2ac634895ca7f6a6ad43e5a5b233070abc38ebe260f7a2087fa64/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627344746f34657269614f647a574a4b74766b3775414851614e7145346478536132723261656963516f71436675724d317a48724857445942357159567554666e7974554576576665414f726451412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bc103086e6f2ac634895ca7f6a6ad43e5a5b233070abc38ebe260f7a2087fa64/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627344746f34657269614f647a574a4b74766b3775414851614e7145346478536132723261656963516f71436675724d317a48724857445942357159567554666e7974554576576665414f726451412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsDto4eriaOdzWJKtvk7uAHQaNqE4dxSa2r2aeicQoqCfurM1zHrHWDYB5qYVuTfnytUEvWfeAOrdQA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></strong></p>
+<p><strong>点这里👇关注我，记得标星哦～</strong></p>
+<p><strong>一键三连「分享」、「点赞」和「在看」</strong></p>
+<p>**科技前沿进展日日相见 ~**</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/30939681766de335cdd9d0d99ac90b35e6a4694a2d621841a63ff1e3d8aedd66/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f7376672f6739525169634d4430314d3074596f52515432634d51526d5053355a44797272667a656b7369617939304b61447a6c474248363169637148786d67464b667666587456757754485637343043444c41615855314c49665a796f4a4570594b6352496961452f3634303f77785f666d743d737667"><img src="https://camo.githubusercontent.com/30939681766de335cdd9d0d99ac90b35e6a4694a2d621841a63ff1e3d8aedd66/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f7376672f6739525169634d4430314d3074596f52515432634d51526d5053355a44797272667a656b7369617939304b61447a6c474248363169637148786d67464b667666587456757754485637343043444c41615855314c49665a796f4a4570594b6352496961452f3634303f77785f666d743d737667" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_svg/g9RQicMD01M0tYoRQT2cMQRmPS5ZDyrrfzeksiay90KaDzlGBH61icqHxmgFKfvfXtVuwTHV740CDLAaXU1LIfZyoJEpYKcRIiaE/640?wx_fmt=svg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

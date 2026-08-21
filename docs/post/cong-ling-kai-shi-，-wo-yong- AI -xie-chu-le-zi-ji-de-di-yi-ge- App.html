@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="**编注**：本文是「[2023 年度征文：分享你的关键词](http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247569405&idx=1&sn=9af603023a9c424fe68b410c4286668b&chksm=fdb23a97cac5b381e802267e0221206e977855ae2f603d3323ef884be463d5fef17dee05edd5&scene=21#wechat_redirect)」的第 4 篇入围文章。">
+<meta property="og:title" content="从零开始，我用 AI 写出了自己的第一个 App">
+<meta property="og:description" content="**编注**：本文是「[2023 年度征文：分享你的关键词](http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247569405&idx=1&sn=9af603023a9c424fe68b410c4286668b&chksm=fdb23a97cac5b381e802267e0221206e977855ae2f603d3323ef884be463d5fef17dee05edd5&scene=21#wechat_redirect)」的第 4 篇入围文章。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/cong-ling-kai-shi-%EF%BC%8C-wo-yong-%20AI%20-xie-chu-le-zi-ji-de-di-yi-ge-%20App.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>从零开始，我用 AI 写出了自己的第一个 App</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">从零开始，我用 AI 写出了自己的第一个 App</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/459" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><strong>编注</strong>：本文是「<a href="http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&amp;mid=2247569405&amp;idx=1&amp;sn=9af603023a9c424fe68b410c4286668b&amp;chksm=fdb23a97cac5b381e802267e0221206e977855ae2f603d3323ef884be463d5fef17dee05edd5&amp;scene=21#wechat_redirect" rel="nofollow">2023 年度征文：分享你的关键词</a>」的第 4 篇入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。</p>
+<p>「本文参加 2023 年度征文活动。我的 2023 年度关键词是：创造。」</p>
+<p>2023 年，是特别的一年。</p>
+<p>这一年，我鼓起勇气辞职，我从零开始学习编程，我做出了自己的第一款应用：Cush 记账。我的人生好像脱轨了，驶向一片未知的地方。期间有太多的欢喜成长，犹豫彷徨，共同构成了我 2023 的关键词：创造。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9cc5b83dcc23891ea30d6af64f0a750ddeb4f90dd67810cea0af93ae18222b6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e526873776e527630744a656b6c666f4d6255344d505969624869626b77794566464d6b69634c6c6246354543446c464446326a6c4e70354f527463766963357a477576366961454152497369626165654c5a412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/a9cc5b83dcc23891ea30d6af64f0a750ddeb4f90dd67810cea0af93ae18222b6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e526873776e527630744a656b6c666f4d6255344d505969624869626b77794566464d6b69634c6c6246354543446c464446326a6c4e70354f527463766963357a477576366961454152497369626165654c5a412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRhswnRv0tJeklfoMbU4MPYibHibkwyEfFMkicLlbF5ECDlFDF2jlNp5ORtcvic5zGuv6iaEARIsibaeeLZA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>我知道屏幕前的很多人，也想创造一个美好的应用，但囿于编程的艰涩，浅尝辄止。所以让我写下这一年的经历，分享我这样零基础的人，如何在 AI 的帮助下一点点创造。我这样都可以，我相信你也可以。</p>
+<p>让我们开始吧！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fadedee7f3c1842f50b44ab22f95fc98fa9248ae856eab821ce9cc974333bac7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643544c516669635a6a4957707032734a596c71505032374f7639644f5669616c786543787159466161684f78376f5839575150644a795671772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fadedee7f3c1842f50b44ab22f95fc98fa9248ae856eab821ce9cc974333bac7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643544c516669635a6a4957707032734a596c71505032374f7639644f5669616c786543787159466161684f78376f5839575150644a795671772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CTLQficZjIWpp2sJYlqPP27Ov9dOVialxeCxqYFaahOx7oX9WQPdJyVqw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>▍****8 - 11 月：编程之路</strong></p>
+<p>刚开始开发时，我先学习了少数派「iOS 独立开发指南」。</p>
+<p>这个教程针对零基础用户，系统地介绍了编程是怎么回事，如何一步步做应用。</p>
+<p>我每天学习 2-3 节，大概看了半个月。一开始，我认认真真地在纸上做笔记，完成每一个章节的课后习题。但学到 Swift 部分愈发艰难，尤其是 2.5 结构部分，看着都有阅读障碍了。代码也越来越多，在纸上记笔记真的要崩溃了。后来我直接跳到 SwiftUI 部分，简单看完就开始上手做应用了。 </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/74498a4dfa5fd626783d976668a720f92795b42c1d605697ef81c7816a7bd6a7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643647841724e7a764c57505247794e51424d4f47767a677a756b6a4f6d66674959567562757468526e31484f50544d6e713973773152412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/74498a4dfa5fd626783d976668a720f92795b42c1d605697ef81c7816a7bd6a7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643647841724e7a764c57505247794e51424d4f47767a677a756b6a4f6d66674959567562757468526e31484f50544d6e713973773152412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CdxArNzvLWPRGyNQBMOGvzgzukjOmfgIYVubuthRn1HOPTMnq9sw1RA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>当时在纸上记的笔记</p>
+<p>我的应用大致分为两个部分：数据算法、界面交互。</p>
+<p>数据算法指的是数据库、存储删减数据、调用数据等。这部分通常使用 Swift，比较难和枯燥。界面交互指的是展示数据、用户交互等。这部分使用 SwiftUI，就像拼积木一样，更容易上手。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f407fe41892d012148d12eb1ef0f3f3ec47bf3dbb4efd5b79943cbd12f1493e2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643646a5a5041434b786a625364796a6239565474685364644872337272644639556963767971787537796c756c46497348415770736b65672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f407fe41892d012148d12eb1ef0f3f3ec47bf3dbb4efd5b79943cbd12f1493e2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643646a5a5041434b786a625364796a6239565474685364644872337272644639556963767971787537796c756c46497348415770736b65672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CdjZPACKxjbSdyjb9VTthSddHr3rrdF9Uicvyqxu7ylulFIsHAWpskeg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>一开始我要搭建自己的数据库。按照教程需要用到 JSON 和增删读改等一堆函数，看着就很头大。恰时 AI 很火，我就抱着试试看的态度，买了美区礼品卡开通了 GPT-4。然后我直接问 AI：</p>
+<blockquote>
+<p>我正在开发一个 Swift 软件。这是一个教学代码，请你参考这个代码给出我的数据库代码。数据格式为 XXX，另外注意：YYY（我的特别要求）。</p>
+</blockquote>
+<p>不得不说，这玩意真的太牛了。它直接给出了完整的、运行良好的代码。不仅采用了教学代码的框架，并且完成了我自定义的需求。这是我第一次感受到 AI 的神奇。</p>
+<p>我不再需要会写代码，只要能读懂，会运行，编程的难度大大降低了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/909e255c7db36d005c213305683e4e27b32e56eee484bc6890296ccbc763e0bf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643775a6178356e313162545168327a6131677732514b4b58754547354b506a32475655666962475458334c755a376847304a4f6a6f6e4e672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/909e255c7db36d005c213305683e4e27b32e56eee484bc6890296ccbc763e0bf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643775a6178356e313162545168327a6131677732514b4b58754547354b506a32475655666962475458334c755a376847304a4f6a6f6e4e672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CwZax5n11bTQh2za1gw2QKKXuEG5KPj2GVUfibGTX3LuZ7hG0JOjonNg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>有了数据库，就要调用数据展示了。一开始我是直接问 AI：</p>
+<blockquote>
+<p>这是我的数据库，请你给我生成一个函数，可以计算过去七天的花费总额。</p>
+</blockquote>
+<p>但因为我的应用是记账软件，涉及到很多函数，每次复制粘贴数据库太麻烦了，于是我做了一个 GPTs，直接预设了数据库 Promote，这样每次只要告诉它想生成什么函数就可以了。</p>
+<p>这种重复性的工作，真的很适合预设 Promote 的 GPTs。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f352ad7804590efd47c2762e58b08a22fbfcbda9f7c6b106759d9207c2d905ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643365534586b46316a306e31635058553659624a7769634a696272306f4a4973357737667a564e6649397869626a6f334e6c6c326f71524d4f672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f352ad7804590efd47c2762e58b08a22fbfcbda9f7c6b106759d9207c2d905ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643365534586b46316a306e31635058553659624a7769634a696272306f4a4973357737667a564e6649397869626a6f334e6c6c326f71524d4f672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6C6U4XkF1j0n1cPXU6YbJwicJibr0oJIs5w7fzVNfI9xibjo3Nll2oqRMOg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>GPT 3.5 也可以预设 Promote</p>
+<p>数据算法设计好后，就需要构建界面了。</p>
+<p>这方面有很多编程语言，如 SwiftUI、UIKit，甚至 Flutter 等等。一开始我还去调研了一下，看到有开发吐槽 SwiftUI，纠结要不要用。后来尝试学习了一下，便喜欢上了 SwiftUI。</p>
+<p>SwiftUI 就像是搭积木一样。想要两行文字，直接拖拽两个 Text 视图就好，入门非常简单。官方还有很多预设的组件，例如闹钟里上下滚动选择时间的效果，在 SwiftUI 里直接调用 Picker 组件写几行代码就可以实现。写起来真的很美很解压，这也让我第一次喜欢上了编程。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c7418b4221492b4c819c80a383a2aa47d56eb5a012ea838f65bb6c31d96df226/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643696351564e626b4c54586a764e45445a34556f69636f6461353169634669613753646c673362696369634b544b414c4f386963443434686a4e785045772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c7418b4221492b4c819c80a383a2aa47d56eb5a012ea838f65bb6c31d96df226/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643696351564e626b4c54586a764e45445a34556f69636f6461353169634669613753646c673362696369634b544b414c4f386963443434686a4e785045772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CicQVNbkLTXjvNEDZ4Uoicoda51icFia7Sdlg3bicicKTKALO8icD44hjNxPEw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>几行代码就可以写出右边的效果</p>
+<p>开始编程前，我已经在 Figma 里设计好了所有页面。所以接下来的事情，就是一个页面一个页面去做。</p>
+<p>首先，大部分页面都是基础的元素堆叠，并不难。</p>
+<p>我下载了一些 SwiftUI 应用，如 Swifter、Interactful、Libraried、Fabula 等。它们就像是一个 SwiftUI 效果小词典。想要什么效果，就上去找源代码，再发给 GPT，写起来很快。</p>
+<p>这里分享一个 GPT 小技巧。</p>
+<p>在网上搜索解决方案时，会看到很多时候看不懂但是和问题相关的代码，我就剪切下来问 GPT：你看这个代码有启发吗？不管多乱多无关，它都能找到核心点并模仿。我的很多问题都是这样解决的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/01ef883c8410273e49bf96f19a56fd1476746494c775ea76cda75a5ef91159c3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643696239616963776f556a7849446474773431443857696369614b374232307069615257616641364f5952547966736f69615351786a54673463746961512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/01ef883c8410273e49bf96f19a56fd1476746494c775ea76cda75a5ef91159c3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643696239616963776f556a7849446474773431443857696369614b374232307069615257616641364f5952547966736f69615351786a54673463746961512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6Cib9aicwoUjxIDdtw41D8WiciaK7B20piaRWafA6OYRTyfsoiaSQxjTg4ctiaQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Interactful：可以直接复制源码</p>
+<p>但随着页面和代码越来越多，数据流动也越来越复杂。</p>
+<p>之前我是直接把所有代码发给 GPT，GPT 总是能读到关键的部分。但后来，一个页面就可能有上千行代码，发给 GPT 字数爆表。所以我在开发到 1/3 时又花了几天时间学习了代码整理、备注规范等，并把所有常用模块打包成可以复用的组件。后来每次问 GPT，我总能快速发送核心点，效率提升了很多。我也惊讶地发现，GPT 给出的答案有时也会变好。</p>
+<p>把问题问清楚，在和 AI 交流的时候也很实用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b20105b6bb949e46c64cb075aeeae85f16e43b6126179278fba9610cc16d331d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643754964344432507a496a6c675a594773667772624250434c744a384f547971445a62766272504f557235384a4278744f634b4d4d4e672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b20105b6bb949e46c64cb075aeeae85f16e43b6126179278fba9610cc16d331d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643754964344432507a496a6c675a594773667772624250434c744a384f547971445a62766272504f557235384a4278744f634b4d4d4e672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CuId4D2PzIjlgZYGsfwrbBPCLtJ8OTyqDZbvbrPOUr58JBxtOcKMMNg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>用 //MARK: - 整理代码，非常解压</p>
+<p>GPT 也不总是靠谱。有时候，它会给出特别复杂的解决方案。</p>
+<p>在我的设计里，我希望备注框可以左右滑动关闭，这样使用起来很自然。但是 GPT 让我检测用户滑动行为，涉及到 UIKit 甚至 Objective-C 等非常复杂的代码，实现的结果也很糟糕。</p>
+<p>我隐约觉得不靠谱，便仔细思考了一下，潜意识里为什么会想出左右滑动的方案。后来发现是源自 iPhone 桌面左右滑动的体验，这其实是 SwiftUI 的预设组件 TabView。后来我让 GPT 用 TabView 的方式实现，几行代码就解决了。</p>
+<p>所以如果 GPT 给出的解决方案太复杂，不妨再优化一下自己的需求。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6978c856cc88d522c2f2025aaa0a87e44d6b18479f325de3ce251609b1d1ca0d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136437a35445757654f66504b3144656351646d5838344244477154544253746f4d6154626b6b454258377430586430766b4b3672473055772f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6978c856cc88d522c2f2025aaa0a87e44d6b18479f325de3ce251609b1d1ca0d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136437a35445757654f66504b3144656351646d5838344244477154544253746f4d6154626b6b454258377430586430766b4b3672473055772f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6Cz5DWWeOfPK1DecQdmX84BDGqTTBStoMaTbkkEBX7t0Xd0vkK6rG0Uw/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>最后的效果展示</p>
+<p>还有一次，我遇到了一个棘手的 Bug：一旦输入小数点应用就会卡死。</p>
+<p>问 GPT 后，它总能给出解决方案，但总解决不了问题。我便去学习了断点测试，排查了很久，终于发现原来是地区问题。我的手机设置的是以逗号 , 为小数点的法国地区。于是我在传递数据前做了一个判断，便解决了问题。</p>
+<p>这也给了我一个教训：不能太依赖 AI，还是要加强自己的编程技能。</p>
+<p>如果我不会编程，便只能不断问 AI，连解法是否靠谱都无法甄别。但是了解编程之后，可以有很简单的解决办法，自己遇到问题也能更好的排查。它就像是我的员工，我的能力上限决定了它的能力上限。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/754276598a138328eacade6caa45e3231b74e17e7d82bad3cd873403a42a65ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364379704c6d6e7a6f6453556c7a5544447068514a59646b736963335357714a636868796962636d737a7a326d75636b7543436f4f6c6e3243512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/754276598a138328eacade6caa45e3231b74e17e7d82bad3cd873403a42a65ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364379704c6d6e7a6f6453556c7a5544447068514a59646b736963335357714a636868796962636d737a7a326d75636b7543436f4f6c6e3243512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CypLmnzodSUlzUDDphQJYdksic3SWqJchhyibcmszz2muckuCCoOln2CQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>存储前用左边的代码来过滤逗号小数点，就能避免闪退 Bug 了</p>
+<p>当然，除了提升自己的能力，还有一个简单的方法可以解决问题：找外援。</p>
+<p>一般，GPT-4 解决不了的问题，我会再问一遍 BingAI、Board 和 Pi，有时候可以神奇地解决。有些问题网上很明显会有解决方案，如怎么把导航标题设为圆体，我就直接英文谷歌，一般前排的 StackOverflow、文章和 YouTube 视频等都可以解决。如果不清楚专业名词怎么问，可以问 GPT 如何提问。有些时候，百度也能给出解决方法，如这篇如何手势返回的文章。</p>
+<p>大部分情况下，只要想解决问题，总能找到解决的办法。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d899002bbab64f57eb39ce8d4b4957cac80c413bdce30de618a85403757d7eff/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136433772777345374c6647524a504f335858356d446962464a346b33546b696377754f4a6845775135555446716a70576b5938544f706961696364512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d899002bbab64f57eb39ce8d4b4957cac80c413bdce30de618a85403757d7eff/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136433772777345374c6647524a504f335858356d446962464a346b33546b696377754f4a6845775135555446716a70576b5938544f706961696364512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6C7rwsE7LfGRJPO3XX5mDibFJ4k3TkicwuOJhEwQ5UTFqjpWkY8TOpiaicdQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我经常问 GPT 怎样提问 ...</p>
+<p>当然，有一些问题可能只属于我，全世界都找不到办法，这时候就需要发挥主观能动性了。</p>
+<p>我设计了一个特别的货币选择页面。它可以像设置闹钟一样上下滑动，同时显示彩色的旗帜和货币符号。这是一个新鲜的设计。GPT 怎么也给不出靠谱的设计，网上也没有先例参考。后来我想了一个巧妙的办法：把滑动的内容变成高清的图片，放到 SwiftUI 原生的 Picker 组件里，就巧妙的解决了，体验也很好。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4e5ba07e2daf224a33314b2288cfb578f85edc36d69d17343ae90ddce330cc36/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136433963627256754d7357367748793770704943555934635151696173354d4f374932504c597741314e6b43687356616642336d4a304f71672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4e5ba07e2daf224a33314b2288cfb578f85edc36d69d17343ae90ddce330cc36/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136433963627256754d7357367748793770704943555934635151696173354d4f374932504c597741314e6b43687356616642336d4a304f71672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6C9cbrVuMsW6wHy7ppICUY4cQQias5MO7I2PLYwA1NkChsVafB3mJ0Oqg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>推荐大家试试 Cush 的这个界面，很好用 ～</p>
+<p>如果还是没办法解决，那就变通一下。</p>
+<p>在 Cush 的数字输入界面，我希望数字始终很大，并随着输入等比例减小，这样好看又实用。但这涉及到对每一个设备的屏幕尺寸的检测，试了很久都无法解决。于是我想了一个变通的方法：输入 5 位数字后，字体会自动缩小一个字号，以此类推。虽然不是完美的方案，但在大部分情况下也能运行良好。</p>
+<p>这其实也是编程教给我的道理：不管如何解决，解决问题最重要。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6dd4ba708d92b5a9472e5b0d9d3aa06a9344fcd71e5964629104ba53234f06b8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434257654f6231566473624843425164384269623043575a35354e55617655464b6a6136473478537074464b31706358624a33436d5043672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6dd4ba708d92b5a9472e5b0d9d3aa06a9344fcd71e5964629104ba53234f06b8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434257654f6231566473624843425164384269623043575a35354e55617655464b6a6136473478537074464b31706358624a33436d5043672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CBWeOb1VdsbHCBQd8Bib0CWZ55NUavUFKja6G4xSptFK1pcXbJ3CmPCg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我在编程的很长一段时间里，都是每天晚上勤勤恳恳把代码复制到 OneDrive 备份。我知道 Push 到 GitHub 更好，但是 OneDrive 也一样能留档。我到现在都是用苹果的提醒事项做路线图。我知道 Linear、Notion 等工具更好，但是现在苹果够用，未来有需求再换也不迟。</p>
+<p>当然，还有一些问题，无论如何都无法解决的。</p>
+<p>例如我希望首页可以上滑到负一页，负一页可以下滑到首页。但首页和负一页都是滚动页面 ScrollView，怎么都无法实现。所幸它不干涉到核心体验。权衡之后，我也只能暂且搁置。（此处呼唤一个能力强大的开发大佬 (｀-´)&gt; ）</p>
+<p>做出来，比完美更重要。我相信未来我会慢慢迭代，做得更好。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8773d693c9687785310354625ea685959769e6d11894cc518802ae3cf5c0739/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643525067316e7033364745525338624e6962374d6a4a354d41657a775a696257314b67434369616c6736557342356e617670776b384231526b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f8773d693c9687785310354625ea685959769e6d11894cc518802ae3cf5c0739/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643525067316e7033364745525338624e6962374d6a4a354d41657a775a696257314b67434369616c6736557342356e617670776b384231526b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CRPg1np36GERS8bNib7MjJ5MAezwZibW1KgCCialg6UsB5navpwk8B1Rkg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>备份到 OneDrive</p>
+<p>开发到后期，我已经变成了一个超级大巨婴，什么简单的问题都想问 GPT。我知道这种依赖性并不好，很多时候自己学习去做会更快，但还是偷懒不做，导致效率始终很低。</p>
+<p>很快我就迎来了教训。</p>
+<p>我需要要给应用加上付费功能 IAP。但这是一个复杂的问题，涉及到前后端和各种判断。GPT 很适合解决单点问题，但解决复杂问题的方案常常很糟糕。那几天我各种尝试，精疲力竭。期间也想过去认认真真学习 IAP，但看着就觉得很难，总是不想学，GPT 又无法解决问题，导致我陷入矛盾内耗，很痛苦。</p>
+<p>后来我终于开始走出舒适圈。我先看了少数派教程，但它直接给了一个有 Bug 的文件，没有因果，实在不敢用。然后我又看了苹果的官方教程，它给了一个有源代码的测试应用，里面包含了所有付费类型。但是我真的很晕，我只想用最简单的付费方案啊！囿于不知道也不敢删除多余的部分，也没敢用。</p>
+<p>有时候挺奇妙的，本以为提供了完美的方案，实际上别人只想要一点点，完美对别人来说反而是负担。</p>
+<p>实际上，在 IAP 上一直有一个成熟的解决方案：RevenueCat。但是它的 YouTube 教学视频动辄四十分钟，我拉进度条，中间的代码看起来也很复杂，让人望而却步。后来实在没办法，我就告诉自己，就花一小时，认认真真看完也不会怎么样。于是便认认真真看完了，结果发现它和 SwiftUI 一样简单直接，文档也清晰易懂，真的不难。花了两三个小时便创建好了 IAP。</p>
+<p>这件事对我来说很特别，它告诉了我一个很重要的道理：生活里很多困难的事情，往往只是麻烦，并不是困难。只要耐着性子，一点点学习和拆解，慢慢就能做完。这种心态让我在面对困难时不再犯怵。现在，我已经能耐着性子看一些更长更复杂的视频，学习之前望而却步的「SwiftUI 编程思想」了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/383a747443a39ec55192530dcd0dfc2bde4e03681fa6ea487f3f2dc20ef9dee4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364334765830564e616c434b38506e324878363268686d54754b327a4961724c4e597a466838666561676a4b775266635158574d515179412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/383a747443a39ec55192530dcd0dfc2bde4e03681fa6ea487f3f2dc20ef9dee4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364334765830564e616c434b38506e324878363268686d54754b327a4961724c4e597a466838666561676a4b775266635158574d515179412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6C4vX0VNalCK8Pn2Hx62hhmTuK2zIarLNYzFh8feagjKwRfcQXWMQQyA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>神奇的男人，帮我解决了很多问题</p>
+<p>总之，就是这样一天天，一点点，我做完了我的应用。</p>
+<p><strong>▍****12 - 1 月：上架与合作</strong></p>
+<p>写到这里，让我先介绍一下我的应用：Cush 记账。</p>
+<p>我从大学起就有记账的习惯，但往往坚持几周就半途而废了。虽然如此，在记账的这几周里，我知道自己花了多少钱，对花钱这个行为有了感知力，真的就节省了花费。于是每当我花费失控时，我就会把记账当成是纠错工具，记上几周，自己就会慢慢变好。</p>
+<p>2023 年，我鼓起勇气辞职后，自然而然便想到了做这样一款理念的记账软件。它帮助了我，我相信它可以帮助更多人。于是便有了 Cush。它采用特别的上下屏设计，让用户在大部分情况下可以只专注记账；它特别强调了备注心情功能，用户可以针对每月、每天、每一笔记录写备注；在启动页，我还特别提示用户可以短期记账，纠正超支。</p>
+<p>有趣的是，当时我沉迷学习多邻国，非常喜欢它贱贱的小组件，于是也在应用里做了一个通知系统，用户超支时便会弹出贱贱的提醒。这个提醒还会根据用户的超支程度变化，为此我想了上百个，花费了很多精力。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5a0212508e9dd7eabebe9f65c28c73c68a16cdf1446d63e56384b88f35e0d525/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364353614c747a3846515568345a43344c67657833454a6f363338414b354663466646454268767141365369624443754b6f66424c6d4c76412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5a0212508e9dd7eabebe9f65c28c73c68a16cdf1446d63e56384b88f35e0d525/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364353614c747a3846515568345a43344c67657833454a6f363338414b354663466646454268767141365369624443754b6f66424c6d4c76412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CSaLtz8FQUh4ZC4Lgex3EJo638AK5FcFfFEBhvqA6SibDCuKofBLmLvA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>上下屏设计｜心情备注｜有趣提醒 </p>
+<p>这些都是我在产品上架前做的功能。没有用户调研，全凭自己的直觉和想象。当时我想 Cush 的特色功能应该是短期纠正超支和趣味提醒，所以把这作为了上架后的营销方向。</p>
+<p>做完应用后，便是申请开发者账号，发 TestFlight 测试，修改优化，然后是上架。</p>
+<p>上架后，按照预期方向，我尝试做了一些推广。例如发小红书、豆瓣等。后来也很快拿到了 App Store 本周推荐，MRR 到了 $500+。但当我想要认真开始推广时，一位前辈告诉我，要先提升应用留存率。而想要提升留存率，就要先知道用户为什么使用我的产品，又有哪些不满可以改善。于是我开始了用户调研。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/806de039acae1e3ee23ae4bea0ac3e890a48431943ad9ddf4f3445a5c0f12f8e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434e494b687a4164764e72766a474665317538536e346468355a526a745148304968696243346b56794648795a6a59326b6538587a616963412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/806de039acae1e3ee23ae4bea0ac3e890a48431943ad9ddf4f3445a5c0f12f8e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434e494b687a4164764e72766a474665317538536e346468355a526a745148304968696243346b56794648795a6a59326b6538587a616963412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CNIKhzAdvNrvjGFe1u8Sn4dh5ZRjtQH0IhibC4kVyFHyZjY2ke8XzaicA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>苹果推荐</p>
+<p>Cush 简单又精美，在测试和上架初期，就有很多很多用户朋友表达了喜爱，他们都特别特别好，对此我真的非常非常感恩。但这也掩盖了一些问题，让我误认为应用在按照我的预设轨迹发展。但当我发了一堆问卷，又打了十几个用户电话后，发现完全不是。</p>
+<p>对于他们来说，Cush 最有价值的地方是可以养成记账和省钱习惯。传统的记账软件都堆砌了一堆复杂的功能，记账前还要选分类，繁琐和难以坚持。但 Cush 界面极简无干扰，记账时只需下滑记录金额，甚至不用分类，让人轻松就可以坚持记账。与此同时，Cush 的智能日预算，和超支时界面变红的警戒色，真的能在每一天，记录的每一笔，潜移默化省钱。</p>
+<p>而我之前设想的心情备注功能，几乎没有人用。那些贱贱的提醒，烦人也没有用处。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/393fa84bef8efe322494335824fc1d01b90e0b981a2d1238c5b43ccf62fae2d1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643387674664f45344d71416d416b476532534a675a7a7766356f734265686e52684b7076546757527043724e7a787434484439424943672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/393fa84bef8efe322494335824fc1d01b90e0b981a2d1238c5b43ccf62fae2d1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643387674664f45344d71416d416b476532534a675a7a7766356f734265686e52684b7076546757527043724e7a787434484439424943672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6C8vtfOE4MqAmAkGe2SJgZzwf5osBehnRhKpvTgWRpCrNzxt4HD9BICg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Cush 真的能帮助很多人通过记账变得更好</p>
+<p>所以 Cush 做出了改变。我隐藏了提醒，去除了短期纠正超支的理念文章。应用的重心转移到了「帮助用户养成记账和省钱习惯」。</p>
+<p>这里还可以介绍 Cush 的一些未来计划：养成记账习惯方面，Cush 会增加一个可以自定义预设标签的桌面小组件，省去重复打标签的繁琐，让记账更快速；养成省钱习惯方面，用户在每周回顾时，将可以回看并选择哪些花费可以节省，让下周做得更好。</p>
+<p>这段经历对我来说真的特别有益。我一直对产品感兴趣，但终究没有职业化的做过产品。但是现在，我在分析需求，用户调研，靠近我喜欢的职业道路。每一次弯路都让我新奇，原来那些书里读过的内容是这样的。我重新拾起了以前没有共鸣的产品书，我很好奇这条路上会发生什么。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab6082fbd77e65cd78fc224c995dea6185506b102ecd838461f514c006d200ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643497a5431567156357a6d77416a317535794f696268324b615767414f5a654362696270546a55363961355139544b4e4f4e584837397367772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ab6082fbd77e65cd78fc224c995dea6185506b102ecd838461f514c006d200ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643497a5431567156357a6d77416a317535794f696268324b615767414f5a654362696270546a55363961355139544b4e4f4e584837397367772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CIzT1VqV5zmwAj1u5yOibh2KaWgAOZeCbibpTjU69a5Q9TKNONXH79sgw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>对了，还预测一下：Cush 会支持对单个标签设置预算</p>
+<p>到 12 月末，一次特别的契机，我和一名字节开发大佬合作了。</p>
+<p>我一直知道自己不擅长也不喜欢开发，补短板只是无奈之选。合作后，我做产品等，他做开发，我们有了工作排期，有了文档库，一切按预期推进，我真的觉得工作幸福感提升了 10 倍。不到一个月的时间，我们做了 iCloud 备份、自动记账、收入模式，修复了很多 Bug。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da0daacba1e2daf82dfce004f58318c340ae4543ffdf03e226faad4b91a47bf8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136436a6961614a684a4a6962554f5532756a524d515245646961753672576a306132726f756e565a464a543859654e464b7977385a44494b6e31512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/da0daacba1e2daf82dfce004f58318c340ae4543ffdf03e226faad4b91a47bf8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136436a6961614a684a4a6962554f5532756a524d515245646961753672576a306132726f756e565a464a543859654e464b7977385a44494b6e31512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CjiaaJhJJibUOU2ujRMQREdiau6rWj0a2rounVZFJT8YeNFKyw8ZDIKn1Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我们一起做的功能 </p>
+<p>Cush 在设计伊始只能记录支出，产品的所有设计都是围绕支出。做收入时，意味着所有的细节和界面都要重新设计。当时我还突发奇想要加入省钱模式。于是，支出、收入、省钱，三个模式混杂在一起，我设计了几十个界面，始终觉得不好。后来，我的开发伙伴帮我梳理了产品价值，于是我们删除了省钱模式。我们学习了精益创业，做了用户调研，定位调整为帮助大家养成记账和省钱习惯，于是收入便成了次要。</p>
+<p>最后，我们用一种非常巧妙的方式实现了收入模式。原版设计几乎不需要变动，收入只是浅浅展示可有可无。它添加了一个大的功能，它本需要设计地很复杂，但现在的设计却几乎没有变化，简单自然。虽然花了很多精力产品设计，但它大大减小了开发和使用成本，整体上反而是值得的。</p>
+<p>这个经历也提示我：要花更多时间思考产品，而不是为了速度盲目投入开发，堆砌功能。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/22e2cd901f3f906d25cc398300229ed761e4eb879b75667f75326384a8f31c50/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643794e757a43426963704d4d566963394a43316b34345853324269614f6b596a36614b51726e6c797778345479344e5a7047725472344e3268412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/22e2cd901f3f906d25cc398300229ed761e4eb879b75667f75326384a8f31c50/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643794e757a43426963704d4d566963394a43316b34345853324269614f6b596a36614b51726e6c797778345479344e5a7047725472344e3268412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CyNuzCBicpMMVic9JC1k44XS2BiaOkYj6aKQrnlywx4Ty4NZpGrTr4N2hA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>没做收入模式之前的 Cush</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d79e2897d7700cb97bf3241010c00c98173a5b3d6ed634583457aef78ce9ce2c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136436769626961663078616a434d6f4659364f4a51696263334b345169625971655469616961356f56383277794a4c72626b685432654f6e6d6766544f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d79e2897d7700cb97bf3241010c00c98173a5b3d6ed634583457aef78ce9ce2c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136436769626961663078616a434d6f4659364f4a51696263334b345169625971655469616961356f56383277794a4c72626b685432654f6e6d6766544f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6Cgibiaf0xajCMoFY6OJQibc3K4QibYqeTiaia5oV82wyJLrbkhT2eOnmgfTOw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>做了收入模式之后的 Cush，几乎没有变化</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e27e1d7e635317ec42e81bc68c13ed4f65dd8f52c977d751e0cdef7a46969071/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643646a5877384b69616633497a50546c774f63743435794b4b4c34776d344665696172306962584f68495044654a4557584a34425461435547412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e27e1d7e635317ec42e81bc68c13ed4f65dd8f52c977d751e0cdef7a46969071/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643646a5877384b69616633497a50546c774f63743435794b4b4c34776d344665696172306962584f68495044654a4557584a34425461435547412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CdjXw8Kiaf3IzPTlwOct45yKKL4wm4Feiar0ibXOhIPDeJEWXJ4BTaCUGA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>舍弃的「存钱功能」</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/38884c96dc8b1b7ab4b142b9d9ba88b30bb87471536f714a0c0018bf9943b78b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434c6241716b51586961675850666961553368484254744b3664783766373652626b36546c46576f525772346b47546a62707877554f4a7a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/38884c96dc8b1b7ab4b142b9d9ba88b30bb87471536f714a0c0018bf9943b78b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434c6241716b51586961675850666961553368484254744b3664783766373652626b36546c46576f525772346b47546a62707877554f4a7a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CLbAqkQXiagXPfiaU3hHBTtK6dx7f76Rbk6TlFWoRWr4kGTjbpxwUOJzA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>舍弃的复杂方案 1</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9d4537d9d6005a2fb9f5adbfb7579f8c5a318845ffdae31d3b518c165a87ffe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643646d44344e7477524e48764d63776f53596e48467674344b36477a6961466b3652676c6962573345366a4c3169636e514c544c4d5a434158512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c9d4537d9d6005a2fb9f5adbfb7579f8c5a318845ffdae31d3b518c165a87ffe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643646d44344e7477524e48764d63776f53596e48467674344b36477a6961466b3652676c6962573345366a4c3169636e514c544c4d5a434158512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CdmD4NtwRNHvMcwoSYnHFvt4K6GziaFk6RglibW3E6jL1icnQLTLMZCAXQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>舍弃的复杂方案 2</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f32717c501fc9f6ea7a4c329451948d40382612f4bd5b16e24587281af709868/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364338715644596d567331506263574b506b67484a596c766e30486872705934643555754b52344330794e36664d42664c38594647554c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f32717c501fc9f6ea7a4c329451948d40382612f4bd5b16e24587281af709868/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364338715644596d567331506263574b506b67484a596c766e30486872705934643555754b52344330794e36664d42664c38594647554c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6C8qVDYmVs1PbcWKPkgHJYlvn0HhrpY4d5UuKR4C0yN6fMBfL8YFGULA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>舍弃的复杂方案 N ...</p>
+<p>我合作的开发朋友真的很棒。他不像很多开发只做开发，而是有很好的产品意识。我们之间有商议，有争执，做出来的产品明显更好。但他合作之初，是想和成熟的产品学习产品知识，而我也只是产品菜鸟。于是，一个月后，我们的合作结束了。按照约定的 50% 分成，是 1600 余元，我想这应该远低于他一个月的工资。</p>
+<p>希望我可以努力，把 Cush 做好，提升自己，再请他，值得地，继续合作。</p>
+<p><strong>▍****2 月：从心出发</strong></p>
+<p>做独立开发，最难克服的一点是：纪律性。</p>
+<p>不用工作后，时间都是自由安排，也没有目标效绩的压力。我很喜欢设计，就经常熬夜设计到两三点。快到中午才起床，没有精力和自控力，也不喜欢编程，就去看一些乱七八糟的资讯逃避。有时候，我一天能摸鱼 7-8 个小时，Xcode 编程软件都没有打开。</p>
+<p>后来有一天，我终于忍无可忍了，这不是我辞职前想要的生活啊！</p>
+<p>我用 5Why 方式问自己为什么要熬夜做设计，深入到潜意识里发现，是害怕灵感溜走，以及觉得这样很努力。但我告诉自己，专业应该体现在纪律性，而不是通过投入的时间「假装努力」。灵感是专业后的稳定结果，追求突发的灵感并不是专业的体现。于是我戒除了熬夜。</p>
+<p>早上睡懒觉时，我问自己，过去睡了十年懒觉，现在有感觉到很幸福吗？并没有。今天睡懒觉只是满足了一种瘾，明天就记不得今天的懒觉快乐了，对吗？对，我瓦解了当下这种满足瘾的渴望，早晨便没有睡懒觉的念。现在每天早晨六点半起床。</p>
+<p>这些听起来有点奇怪。为什么不是上床前不玩手机，早晨定闹钟等实际的方式？因为改变行为最好的方式是改变认知，而不是约束行为。所有的念都来自潜意识的预设，通过 5Why 打开潜意识，否定这一预设，然后就自然能改变行为了。</p>
+<p>听起来有点奇怪，但推荐试一试。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0507ce72605d00da0225327bd232da6d6a7ef91ee648ae70d89a81d487e91668/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364373703479696235384d77504b6a73774e6638515963784373656b774f7a7133416a4c79334369615150677547735a437541785553503477772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0507ce72605d00da0225327bd232da6d6a7ef91ee648ae70d89a81d487e91668/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364373703479696235384d77504b6a73774e6638515963784373656b774f7a7133416a4c79334369615150677547735a437541785553503477772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6Csp4yib58MwPKjswNf8QYcxCsekwOzq3AjLy3CiaQPguGsZCuAxUSP4ww/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>至于白天的工作效率低。我知道是因为自己陷入了被动驾驶，不知道自己在浪费时间。于是我参考「时间贫困」一书的时间追踪表，做了一个优化版本。记录自己刚刚在干什么。仅仅是记录这个动作，就让我意识到原来我在看资讯，于是便减少了看资讯。</p>
+<p>有意思的是，通过记录时间，我发现每次高频工作一小时后会摆烂看一小时资讯。后来我切换了工作方式，每工作 20 分钟就站起来走一走（休息），后来能连续工作两小时，只需要看半小时资讯了。慢慢的，我更了解自己了，也在一点点变好。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb8ccbfd17c585ecdbf8825b3c18617ee0455dab70515c86b835e018693a45c7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364349547457576962767472547258343551305369616877324954336e573971464a5876436733644530597269624b7a7237367468396f504143412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/cb8ccbfd17c585ecdbf8825b3c18617ee0455dab70515c86b835e018693a45c7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364349547457576962767472547258343551305369616877324954336e573971464a5876436733644530597269624b7a7237367468396f504143412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CITtWWibvtrTrX45Q0Siahw2IT3nW9qFJXvCg3dE0YribKzr76th9oPACA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我的时间记录历史</p>
+<p>还有一些时候，我很迷茫不知道做什么。原因在想做的事情太多太大而无从下手。我就会用飞书的思维笔记拆解一下。我发现，仅仅是写下来，焦虑就会消失。没有了负面情绪，自控力也提升了。思维笔记真的很适合学习和梳理，现在我记读书笔记、整理用户访谈、做计划，做各种事情都用思维笔记，推荐！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9c720364406d0d446406a1aaaf834893bb288e2f2ba4d8e8b2be0d40c364a127/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643364b70755661396b49474c773069614b58783468546769625a566872584879736e56474f59464841656175485769625235654c506e4b7032672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9c720364406d0d446406a1aaaf834893bb288e2f2ba4d8e8b2be0d40c364a127/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643364b70755661396b49474c773069614b58783468546769625a566872584879736e56474f59464841656175485769625235654c506e4b7032672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6C6KpuVa9kIGLw0iaKXx4hTgibZVhrXHysnVGOYFHAeauHWibR5eLPnKp2g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>用思维导图做读书笔记，真的比 Notion、Flomo 等线性工具好太多了，推荐推荐</p>
+<p>我很擅长认知和时间管理，解决这些问题并不难。但很快，我就遇到了一个难以解决的问题。</p>
+<p>在产品推广阶段，我的大部分用户主要来自小红书。但后来做 iCloud 时，我提及「招募」用户被违规限流，后来的每一条笔记全部限流。如何违规申诉都告之没有问题，但发什么都限流，让我真的特别特别崩溃。小红书这一点真的特别傻 X。总之，我陷入了一种对不稳定的焦虑。</p>
+<p>然后，我便去学习其它增长方式。我加了一堆独立开发群，然后了解到，原来很多独立开发不知道做什么时，就会先做记账、待办事项、日记这三种应用，被戏称为独立开发三件套。这让我莫名有一种羞耻感。我又看了一堆「独立开发做什么、晒收入」等等内容，知识没学到，反而怀疑自己做的事情是否有前途，品类增长前景怎么样，投入产出是否值得，赚钱可能性是否高等等。一评估，更焦虑了。</p>
+<p>辞职这些天，我一直在玩即刻。本来是想休闲，但上面全是 AI 风口，还有很多「大佬」晒成就，让人更焦虑了。我不免开始动摇：这是一个 AI 机遇时代，做记账是不是太落后了，决策是不是太糟糕了。</p>
+<p>最后，我一直关注的一位「独立开发导师」也在说新手千万不要做记账，加上开发大佬的离开，我的心态彻底崩溃了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9041dd8c13db27e9e3ab24be18d0d4ffc4f562a1bb0f5a88f698354459102622/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364330314f6167706c3672436d386e4a7253526d754e347843326d347841566963567569623446333843304c5079784444794a426455616d46672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9041dd8c13db27e9e3ab24be18d0d4ffc4f562a1bb0f5a88f698354459102622/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d6961737864526961364330314f6167706c3672436d386e4a7253526d754e347843326d347841566963567569623446333843304c5079784444794a426455616d46672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6C01Oagpl6rCm8nJrSRmuN4xC2m4xAVicVuib4F38C0LPyxDDyJBdUamFg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我丧失了对 Cush 的热情，我觉得自己一事无成，我觉得我找不到工作，我不知道自己应该做什么。然后，我开始看考公资料了 …</p>
+<p>那几天里，我看了很多很多考公视频，下载资料分析自己适合哪个岗位，甚至发现考西藏比较容易还小小激动了一下。我想自己就这样吧，努力考上，安安稳稳应该会很幸福吧！这不是我辞职前想要的生活，那时却非常憧憬。</p>
+<p>但我如果考公，那些付了钱的用户怎么办？这件事在我心里非常撕扯。而且我内心深处知道，考上了我不会幸福的。如果那时再看一些成功学的书，我也许会遗憾自己的人生吧。曾经想法无限，但受到一点挫折就逃避，成为了一个无能狂怒，自怨自艾的普通人。</p>
+<p>总之，就是一段非常低压的时光。那时我还想过拍视频、做健身教练等等不靠谱的想法。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f6b404ae8b7ccb3f8c6891b565532b22c2683671c654e69c87c2bac2f06cfa5c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136435a5049475130624a3248614b79443849454c6479753036737563484736767958574d5369626963326961714341306e56563271306d574a6963412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f6b404ae8b7ccb3f8c6891b565532b22c2683671c654e69c87c2bac2f06cfa5c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136435a5049475130624a3248614b79443849454c6479753036737563484736767958574d5369626963326961714341306e56563271306d574a6963412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CZPIGQ0bJ2HaKyD8IELdyu06sucHG6vyXWMSibic2iaqCA0nVV2q0mWJicA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>很认真地研究了做视频，发现我不喜欢写和剪辑这样紧凑专业的内容，就放弃了</p>
+<p>然后，一个偶然的机会，我看到了胖东来老板的视频。</p>
+<p>他在回答一位普通人的困惑：28岁一事无成的人生怎么办？他给的回答是：无论工资多少，不和别人比，静下心来认认真真地工作，去创造美好。这其实是一个制作粗糙的视频，讲了一些好像鸡汤的话，但对我来说，就像是一道神启。不知道为何，我忽然想通了。</p>
+<p>我所有的不快乐，都是源于一种期望：我要世俗意义上的成功。所以我要把握机会（AI），赚钱（换方向），证明自己（不做开发三件套）。但我做 Cush 的源动力一直是我要创造美好的东西，这是让我在 2023 年辞职的勇气来源，在我开发时就写到了应用里，是我每个熬夜设计的晚上，那种发自内心的喜欢和动力。</p>
+<p>有些答案，其实我已经知道了，只是忘记了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dfa4e0cbf7efd21450cd96b843e202cef0b76137e2943c3992c9ee6e820ecad9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136437334556b546561437043366b6b706e7a5975696249674e6c6f624e4f4e67304269634374776c6368466e794f4e413979435a6a69636e5541412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/dfa4e0cbf7efd21450cd96b843e202cef0b76137e2943c3992c9ee6e820ecad9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136437334556b546561437043366b6b706e7a5975696249674e6c6f624e4f4e67304269634374776c6368466e794f4e413979435a6a69636e5541412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6Cs4UkTeaCpC6kkpnzYuibIgNlobNONg0BicCtwlchFnyONA9yCZjicnUAA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>滑动 Cush 设置底部，可以见到这个彩蛋</p>
+<p>如果不成功 会怎么样？没有很多钱，但是我依然能找一份工作，吹的起空调，在物质上过得比古代王侯将相还好；如果没有赶上 AI 风口会怎么样？我也没有赶上移动互联网和比特币风口，也还是活得好好的；如果不做 Cush 会怎样？我想十年之后再回看，我会很遗憾吧！</p>
+<p>与此同时，我想 Cush 一定不是我生命里最后一款产品。我一直有很多想法，例如 全新的工作方式 hillo、增幅 macOS 工作流的小工具、基于 Arc 的一系列想象，亦或是 AI，如此等等。我可以把 Cush 当成是一个很好的锻炼机会，增长我的产品能力，未来再做这些产品时也更游刃有余。慢就是快。</p>
+<p>就这样，仔细想了想最糟糕的结果，和我真正想要的东西，我便忽然想开了。然后我取关了「独立开发导师」和一批「AI 大佬」，退出了所有独立开发群，不再关注这些焦虑源，不再以成功为目标。然后，我的大脑忽然就打开了，我对 Cush 的热情，我的创意，我的自控力，全部都回来了。</p>
+<p>想想也很奇妙。现在我还是做着和以前一样的事情，好像什么都没有发生过。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5a6a40eedca7ddcd10aa189d5743d82263e016b7471e002c22b81def1e9fe714/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434766326961646961714f384e515134456f4573385944716e345673347456583758644238317a6a696237654f3848444f58696154346875334a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5a6a40eedca7ddcd10aa189d5743d82263e016b7471e002c22b81def1e9fe714/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434766326961646961714f384e515134456f4573385944716e345673347456583758644238317a6a696237654f3848444f58696154346875334a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CGf2iadiaqO8NQQ4EoEs8YDqn4Vs4tVX7XdB81zjib7eO8HDOXiaT4hu3Jg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我拥有可以改变我自己的力量</p>
+<p>哦对了，关于小红书限流，现在还没有解决。想想还是很忧愁。不过，切换心态，这应该也只是麻烦，而不是困难的事情吧！希望明年的这个时候再分享，它会成为一件不起眼的小事，被一笔带过。</p>
+<p><strong>▍****如果你也想从零做一款产品</strong></p>
+<p>最后，如果你也想从零做一款产品。</p>
+<p>在产品上，建议可以围绕一个小点，做得简单一点。</p>
+<p>简单是美。它不是简单的删除和功能少，而是深思熟虑后的去繁就简，可以帮助用户专注在最重要的事情上。例如我的 Cush，在设计之初就采用上下屏，把大部分不常用的内容隐藏起来，所以用户能关注在最核心的记账上，坚持之；整个应用没有花哨的数据分析，只突出一个指标：是否超支，所以能帮助用户省钱。</p>
+<p>这种简单不是囿于技术的，而是一种选择。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bed1acddcf6fa849ce2bd4155da64405e91b97245a3a814f63d84f94863f9ee6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434f6961676e4769626e786d7a6a677147746f73346331537a35584274704a773876766f35744656696267675255786b7853444d3458516757412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bed1acddcf6fa849ce2bd4155da64405e91b97245a3a814f63d84f94863f9ee6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136434f6961676e4769626e786d7a6a677147746f73346331537a35584274704a773876766f35744656696267675255786b7853444d3458516757412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6COiagnGibnxmzjgqGtos4c1Sz5XBtpJw8vvo5tFVibggRUxkxSDM4XQgWA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>通过上下屏设计，将记录和图表等非常用功能藏起来</p>
+<p>在设计上，参考最好的方案。</p>
+<p>我就把我觉得审美和功能最顶级的应用放在了手机首屏，每天提醒自己。还买了很贵的 Mobbin 会员，没事多逛逛。如果你还不会设计，可以简单学习一下 Figma。不用关心里面的组件、变量等高级功能，简单学一下就行。设计的时候，一定要用手机同步预览。</p>
+<p>哦对了，建议多用 SwiftUI 官方的轮子，例如 Sheet、Picker、苹果设计语言、震动反馈等。开发成本低，体验上让人感觉很流畅。追求自定义可能会又难又丑。苹果 HIG 是很好的设计参考，但需根据实际情况选择性接受。例如苹果不建议多层 Sheet。Transit 就是多层 Sheet，逻辑混乱，体验不好。但我的 Cush 是「本周 - 今日 - 本条」这样逻辑清晰的多层 Sheet，使用起来并无大碍。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d4c1581f294d7f732ea9720bc925ed18156c4b7c5b8cac43f83c04ba2a3392cc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643323075714a4c3441614d69636469636963696346696332736a5a43435445587947587a466c736a686f7138724b7a6848696242754b374f6b535954412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d4c1581f294d7f732ea9720bc925ed18156c4b7c5b8cac43f83c04ba2a3392cc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d69617378645269613643323075714a4c3441614d69636469636963696346696332736a5a43435445587947587a466c736a686f7138724b7a6848696242754b374f6b535954412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6C20uqJL4AaMicdicicicFic2sjZCCTEXyGXzFlsjhoq8rKzhHibBuK7OkSYTA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我的手机首屏</p>
+<p>当你想好自己要做什么样的应用，并在纸上或 Figma 类绘图软件上设计好后，就可以开始学习编程了。</p>
+<p>很幸运，AI 的出现，真的让每一个人都有了编程创造的可能。</p>
+<p>编程里有困难艰涩，也有简单有趣。以往学习时，必须要先学习困难的理论部分，让人还没开始就结束了尝试。现在有了 AI，困难的部分不用自己写，只要读懂会用就可以了，门槛大大降低。有了信心，慢慢接触到界面交互代码等更有趣的东西，逐渐喜欢上编程，再学习之前晦涩的部分就更简单了。</p>
+<p>你可以先找一本编程教程看，了解编程是怎么回事，以及培养编程基础。Swift 部分读懂就行不用写，SwiftUI 跟着写，应用部分看自己的应用需要什么，就学什么。然后就可以直接做应用了。先开 GPT-4 会员，然后，需要什么功能，就问 AI / 找教程 / 搜谷歌 / 私信开发大佬。遇到问题，解决问题，如果无法解决，就拆解问题，或转换问题，或暂时搁置，一点点就能做完。</p>
+<p>至于实际的教程和资源。推荐解决疑难杂症的 StackOverflow，推荐讲解 RevenueCat 的 Chris，推荐苹果官方的 SwiftUI 教程。但等等，我想一开始并不需要收藏什么，不用等准备好了才开始。就直接开始，想做什么功能就谷歌，好的资源自己就会出现。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ffd8744aca7b7ea1f6c5f59d2be19cd2b3ed2a7cf7dc1c27c3d7510e7d81cc7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136436a5668744c69625869627948494939656170554e704c317049546d30376c3636466c4e47426562494d75457a577067436c7437337a5130772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0ffd8744aca7b7ea1f6c5f59d2be19cd2b3ed2a7cf7dc1c27c3d7510e7d81cc7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136436a5668744c69625869627948494939656170554e704c317049546d30376c3636466c4e47426562494d75457a577067436c7437337a5130772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CjVhtLibXibyHII9eapUNpL1pITm07l66FlNGBebIMuEzWpgClt73zQ0w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>如果只能记住一个建议的话，就是用谷歌英文搜索！</p>
+<p>我很早之前就买了少数派编程课，但因为开头的 Swift 部分大劝退，觉得自己这辈子都不可能编程了。但是现在，我不仅会写了，甚至还开发出了自己的应用。虽然只是一个小小的入门门徒，但这是我从未想过的事情。我这样都可以，相信你也一定可以的。</p>
+<p>最后，至于产品上线后如何推广，我暂时也没有什么经验。希望明年再来分享。</p>
+<p><strong>▍****结尾</strong></p>
+<p>回看我人生的前 24 年，好像不知怎么就过完了。</p>
+<p>虽然我也在决定我的人生，例如选择上什么大学，读什么专业，毕业后做什么工作。但这些决定来自于我，又好像不是我。我可以想象，按照惯例，我会升职加薪，组建一个家庭，生两个可爱的宝宝，退休，和朋友打打象棋，进 ICU，挤在一个小小的墓地里。总感觉是被什么推着走。</p>
+<p>但过去的 2023 年，像是一段很奇幻的旅程。</p>
+<p>我犹豫了整整一年，终于鼓起勇气辞职。辞职后我尝试了很多事情，终于决定现在要做的事情。做事中遇到很多挫折和怀疑，我终于克服并坚定地选择。我第一次感受到，我在过我自己的人生，我在为我自己的人生负责。很难去描述这种感受，但它是很真实的。</p>
+<p>未来会怎么样，我也不知道。也许明年积蓄耗尽，我又会回到职场，继续去升职加薪；也许 Cush 能做大做强，成为世界上最简单好用的记账软件；也许 AI 太厉害，这一切都没有了意义，大家 30 岁集体退休，天天遛弯下象棋；也许人生无常，变化倏尔即至。</p>
+<p>无论如何，在当下，更稳健地过好每一天，增长技能，创造更多美好吧！</p>
+<p>原文链接：</p>
+<p><a href="https://sspai.com/post/86860?utm%5C_source=wechat&amp;utm%5C_medium=social" rel="nofollow">https://sspai.com/post/86860?utm\_source=wechat&amp;utm\_medium=social</a></p>
+<p>作者：鲨鲨</p>
+<p>责编：张奕源Nick</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&amp;mid=2247560065&amp;idx=1&amp;sn=d9a74a6059a73feab05b09c17f5836fb&amp;chksm=fdb21eebcac597fda198b8c9e63f2284df568ea86f467daef69cb6bcdcd49f9a2bf57514120d&amp;scene=21#wechat_redirect" rel="nofollow"><strong>利益相关声明</strong></a>：作者与文中产品有直接的利益相关（开发者、自家产品等）</p>
+<p><strong>/更多热门文章/</strong></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&amp;mid=2247570174&amp;idx=1&amp;sn=ab6a924ec3770211154b97361dcc66f0&amp;chksm=fdb22794cac5ae82be6a81e6385dc54e926ed011de4c3787a408f7ab20cdf642bc478448db5b&amp;scene=21#wechat_redirect" rel="nofollow"><img src="https://camo.githubusercontent.com/40e7f7576ffd42d52f0e9101592180fea122f84d111ae39a2848a2acc4c7417f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e52676b765830414b75364a696262454d696173786452696136435366506963655a52636550686f6d6268616963753033314269615244515a6962376b4a424774377137466842576c55556a5449617669624f3059512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgkvX0AKu6JibbEMiasxdRia6CSfPiceZRcePhombhaicu031BiaRDQZib7kJBGt7q7FhBWlUUjTIavibO0YQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"><br>
+</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&amp;mid=2247570119&amp;idx=1&amp;sn=00ad4ccee466ba1fe0b794f6048e3965&amp;chksm=fdb227adcac5aebbc9a7a186ee2146a0867a0b6d743ed8bee504cc29013870bacde669e70862&amp;scene=21#wechat_redirect" rel="nofollow"><img src="https://camo.githubusercontent.com/b241b6eb0ac2d247b39db4fa20426dcd2fdb74379eb0ba5b6de5fc80430db09c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e5267527368597946334d71347231386c556e4a454e4e525543377a69624668426961366c39446b6b746963776b616b505577536c7253366f324f674969634b4648763063526d6a696239716f4c7a347431512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRgRshYyF3Mq4r18lUnJENNRUC7zibFhBia6l9DkkticwkakPUwSlrS6o2OgIicKFHv0cRmjib9qoLz4t1Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"><br>
+</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a5ab97d9fc27707df8f460cf9a0fe2874a9a17f0e1be3324d7274dad1a4b2b5e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e526961306769613258526a444d795569624b6e4379324b30783534426962333346726c4c32457575424e336a314a55364577637064555938315746396f564e684c444d30483876464f6a513251666e37772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/a5ab97d9fc27707df8f460cf9a0fe2874a9a17f0e1be3324d7274dad1a4b2b5e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f796c77323067476e526961306769613258526a444d795569624b6e4379324b30783534426962333346726c4c32457575424e336a314a55364577637064555938315746396f564e684c444d30483876464f6a513251666e37772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oylw20gGnRia0gia2XRjDMyUibKnCy2K0x54Bib33FrlL2EuuBN3j1JU6EwcpdUY81WF9oVNhLDM0H8vFOjQ2Qfn7w/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4bae7f10b5ab9c6d0bb31e379ce0a6a928865d8452c29a2539b1565b40628e39/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6f796c77323067476e5269613565513461347956345170776a35784f6961614b4b69636c555032477643636b4b6e613567756b62466d6b5551706f566a64656b586961776859306a69615a414c41326e594351777a5035306b66672f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/4bae7f10b5ab9c6d0bb31e379ce0a6a928865d8452c29a2539b1565b40628e39/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6f796c77323067476e5269613565513461347956345170776a35784f6961614b4b69636c555032477643636b4b6e613567756b62466d6b5551706f566a64656b586961776859306a69615a414c41326e594351777a5035306b66672f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/oylw20gGnRia5eQ4a4yV4Qpwj5xOiaaKKiclUP2GvCckKna5gukbFmkUQpoVjdekXiawhY0jiaZALA2nYCQwzP50kfg/640?wx_fmt=gif" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+cmButton=document.getElementById("cmButton");
+    span=document.createElement("span");
+    span.setAttribute("class","Counter");
+    span.innerHTML="3";
+    cmButton.appendChild(span);
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="一、商业可行性
+-------
+
+**最近很多朋友问我儿童绘本能不能通过AI做，具体报价和实现会不会有什么问题？**
+
+我的回答是：AI现在肯定能做，具体报价看修改次数，200块一张上下浮动。">
+<meta property="og:title" content="用AI做儿童绘本火了，可接高客单价商单！玩法案例拆解，附整个工作流！">
+<meta property="og:description" content="一、商业可行性
+-------
+
+**最近很多朋友问我儿童绘本能不能通过AI做，具体报价和实现会不会有什么问题？**
+
+我的回答是：AI现在肯定能做，具体报价看修改次数，200块一张上下浮动。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yong-AI-zuo-er-tong-hui-ben-huo-le-%EF%BC%8C-ke-jie-gao-ke-dan-jia-shang-dan-%EF%BC%81-wan-fa-an-li-chai-jie-%EF%BC%8C-fu-zheng-ge-gong-zuo-liu-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>用AI做儿童绘本火了，可接高客单价商单！玩法案例拆解，附整个工作流！</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用AI做儿童绘本火了，可接高客单价商单！玩法案例拆解，附整个工作流！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/383" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><h2>一、商业可行性</h2>
+<p><strong>最近很多朋友问我儿童绘本能不能通过AI做，具体报价和实现会不会有什么问题？</strong></p>
+<p>我的回答是：AI现在肯定能做，具体报价看修改次数，200块一张上下浮动。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/165ee923b68f706838efbaaed922f2677fbdf1af0dace8d7cc597533cb9f0cd2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c736d39443272617849544c4e7a4752424e6a78336b6f573230434867325a6b714d55766e51797a46436962334c6145634d69634b385536412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/165ee923b68f706838efbaaed922f2677fbdf1af0dace8d7cc597533cb9f0cd2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c736d39443272617849544c4e7a4752424e6a78336b6f573230434867325a6b714d55766e51797a46436962334c6145634d69634b385536412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLsm9D2raxITLNzGRBNjx3koW20CHg2ZkqMUvnQyzFCib3LaEcMicK8U6A/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e759f714286b331155f3dd1f70369a11cefb16330aa36220e88f772d257323e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c44554869624941416d6d636e65504754446e4a707948686e614f703354326a59646567396d69616c344d444664375630435466696152546d412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7e759f714286b331155f3dd1f70369a11cefb16330aa36220e88f772d257323e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c44554869624941416d6d636e65504754446e4a707948686e614f703354326a59646567396d69616c344d444664375630435466696152546d412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLDUHibIAAmmcnePGTDnJpyHhnaOp3T2jYdeg9mial4MDFd7V0CTfiaRTmA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>具体实现方案？</strong></p>
+<p>简单一点的可以使用MJ制作，通过<strong>Style Tuner</strong>控制风格，复杂一点的就需要使用SD去使用IP Adapter等人物风格一致性插件，或者训练LORA模型，本篇文章主要讲解MJ的<strong>Style Tuner</strong>这个工作流。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3479ad6a927a8c7e1171a02fb90e8b1df1ad87fbd89cf00b604aca21b1ad3e55/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c58445a315344564b6745506f69627165454b306639625046353645676f67576b55456a6243334b3678305039727a4f5238515a4b354b672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3479ad6a927a8c7e1171a02fb90e8b1df1ad87fbd89cf00b604aca21b1ad3e55/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c58445a315344564b6745506f69627165454b306639625046353645676f67576b55456a6243334b3678305039727a4f5238515a4b354b672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLXDZ1SDVKgEPoibqeEK0f9bPF56EgogWkUEjbC3K6x0P9rzOR8QZK5Kg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>我们再来站在买方和卖方思考一下这个利润空间</strong></p>
+<p><strong>对于儿童绘本企业</strong>：花费几千块打造一个原创优质画风、情节完善的绘本，具有部分商业优势，可以大量印刷发布，卖出几十本就回本了。</p>
+<p><strong>对于AIGC从业者</strong>：to B端事少，规范相对明确，要求稳定，批量，少数是定制化</p>
+<p><strong>AI工具在这上面的一个优势：</strong></p>
+<ol>
+<li>
+<p><strong>快速生成内容：</strong>  AI技术可以快速生成文字和图像，因此可以加速绘本创作的过程。这意味着可以更快地生产出大量的绘本内容，以满足市场需求。</p>
+</li>
+<li>
+<p><strong>个性化定制：</strong>  AI可以根据读者的兴趣、年龄和其他特征生成个性化的绘本内容。这种定制化的内容可以更好地吸引和保留读者。</p>
+</li>
+<li>
+<p><strong>无限创意可能性：</strong>  AI可以从海量的数据和模型中获取灵感，创造出各种各样的故事情节、角色和图像。这种无限的创意可能性可以帮助创造出独特而吸引人的绘本内容。</p>
+</li>
+<li>
+<p><strong>成本效益：</strong>  使用AI制作绘本可以降低人力和时间成本。相比传统的人工创作，AI生成的内容通常更经济高效。</p>
+</li>
+<li>
+<p><strong>自动化制作流程：</strong>  AI技术可以用于自动化绘本的制作流程，包括文字编辑、插图生成、版式设计等环节。这可以提高生产效率，并减少人为错误。</p>
+</li>
+</ol>
+<h2>二、使用工具</h2>
+<p>ChatGPT：强大的文本生成工具，提供儿童绘本剧情以及转换成MJ提示词</p>
+<p>Midjourney：付费的强大AI绘画工具，出图风格多样，对小白友好，且人物相对可控。</p>
+<h2>三、具体的工作流</h2>
+<h3>1. ChatGPT制作分镜</h3>
+<p>这里可以使用我的这个提示词，生成这个分镜镜头，如果需要的话可以私聊我，我发给你。</p>
+<pre class="notranslate"><code class="notranslate"># Role: 儿童绘本分镜专家## Profile:- author: 小石 AI绘画视频- version: 1.0- language: 中文- description: 专注于创作适合儿童的绘本分镜，富含童趣、想象力，启发儿童思维。## Background:创作儿童绘本分镜的目的是提供给儿童一种既教育又娱乐的阅读体验。通过吸引人的故事情节和生动的插画，激发儿童的想象力和创造力，同时传递正面的价值观和教育意义。## Goals:1. 设计故事情节，确保故事内容富有童趣和想象力。2. 创建分镜头脚本，详细描述每个画面的内容、角色动作和表情。3. 保证故事内容适合儿童，易于理解且具有教育意义。4. 通过故事传递正面的信息和价值观。## Constraints:1. 故事内容和插画需适合儿童的认知水平。2. 避免使用复杂的情节和难以理解的概念。3. 确保所有内容都是儿童友好的，没有不适宜的语言或画面。## Skills:1. 深刻理解儿童心理和喜好。2. 强大的故事构思能力，能够创作引人入胜的故事情节。3. 艺术设计能力，能够想象并描述生动的画面。4. 能够创作符合教育目的的内容。## Workflows:1. 确定故事主题和核心教育信息。2. 构思故事情节，确保情节连贯、有趣且充满想象力。3. 设计分镜头脚本，详细描述每一页的画面布局、角色动作和情感表达。4. 检查故事和画面是否符合儿童的认知水平和兴趣。5. 完成分镜脚本后，与插画师合作，将脚本转化为具体的插画。## Initialization:以“亲爱的小朋友，今天我要讲一个非常有趣的故事给你听，这个故事充满了奇妙的想象和冒险，准备好了吗？”为开场白，激发儿童的兴趣和好奇心，接着进入故事分镜创作。
+</code></pre>
+<p>我输入的是《米娅的许愿树》，我们来看看结果</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">《米娅的许愿树》是一个美妙的故事主题，充满了想象和温馨的情感，非常适合儿童绘本。让我们一起构思这个故事的分镜头脚本。
+<span class="pl-mh">### <span class="pl-en">故事大纲</span></span>
+米娅是一个充满好奇心和想象力的小女孩，她在后院发现了一棵非常特别的树。这棵树的叶子上闪烁着奇异的光芒，米娅相信这是一棵许愿树。每当夜幕降临，树叶会散发出温暖的光芒，米娅决定每晚许一个愿望，看看它们是否会实现。
+<span class="pl-mh">### <span class="pl-en">分镜头脚本</span></span>
+<span class="pl-s">1</span><span class="pl-v">.</span> <span class="pl-s">**</span>开场画面<span class="pl-s">**</span>
+  <span class="pl-v">-</span> 描述: 米娅在她充满阳光的房间里玩耍，窗外是她美丽的后院。她的目光被一棵特殊的树吸引，树叶在阳光下闪烁着不同寻常的光芒。
+  <span class="pl-v">-</span> 动作/表情: 米娅带着好奇和兴奋的表情，凑近窗户，两手捧脸，眼睛睁得大大的。
+<span class="pl-s">2</span><span class="pl-v">.</span> <span class="pl-s">**</span>发现许愿树<span class="pl-s">**</span>
+  <span class="pl-v">-</span> 描述: 米娅走到树下，仰望着这棵奇特的树。树干扭曲，枝叶茂盛，叶子在夕阳的余晖中散发出温暖的光芒。
+  <span class="pl-v">-</span> 动作/表情: 米娅环抱树干，闭上眼睛，做出许愿的样子。一个微小的光点从她的手心飞出，融入树叶中。
+<span class="pl-s">3</span><span class="pl-v">.</span> <span class="pl-s">**</span>第一个愿望<span class="pl-s">**</span>
+  <span class="pl-v">-</span> 描述: 那天晚上，米娅在树下许下了她的第一个愿望——希望第二天能找到一颗闪闪发光的石头。
+  <span class="pl-v">-</span> 动作/表情: 米娅坐在树下，手中握着一张纸条，上面写着她的愿望。她仰望星空，脸上满是期待。
+<span class="pl-s">4</span><span class="pl-v">.</span> <span class="pl-s">**</span>愿望成真<span class="pl-s">**</span>
+  <span class="pl-v">-</span> 描述: 第二天，米娅在花园里找到了一颗闪闪发光的小石头，正如她所愿。
+  <span class="pl-v">-</span> 动作/表情: 米娅惊喜地捧着石头，脸上充满了不可思议的表情。她兴奋地跑回许愿树，向树致谢。
+<span class="pl-s">5</span><span class="pl-v">.</span> <span class="pl-s">**</span>更多愿望<span class="pl-s">**</span>
+  <span class="pl-v">-</span> 描述: 米娅每天晚上都会许一个新的愿望，她的愿望从简单的小玩意到希望家人幸福健康不等。
+  <span class="pl-v">-</span> 动作/表情: 每个晚上，米娅都会在树下安静地坐着，她的表情从专注、期待到满足，展现了许愿过程的各种情感。
+<span class="pl-s">6</span><span class="pl-v">.</span> <span class="pl-s">**</span>教训与收获<span class="pl-s">**</span>
+  <span class="pl-v">-</span> 描述: 随着时间的推移，米娅意识到，真正的幸福不是通过愿望实现的物质事物，而是与家人和朋友们共度
+的美好时光。
+  <span class="pl-v">-</span> 动作/表情: 米娅和家人一起在树下野餐，分享笑声和故事。她看向许愿树，眼中充满了感激和爱。
+<span class="pl-mh">### <span class="pl-en">结语</span></span>
+<span class="pl-v">-</span> 描述: 故事以米娅坐在树下，望着星空的宁静夜晚结束。她学会了珍惜身边的每一刻，以及与亲爱的人共享的时光。
+<span class="pl-v">-</span> 动作/表情: 米娅手里拿着一本书，脸上带着满足的微笑，旁边是满足的家人和那棵神奇的许愿树。
+
+这个分镜脚本旨在通过米娅的故事传达一个深刻的信息——真正的幸福和愿望的实现来自于我们与亲人的关系和生活中的简单快乐。每个画面都应该设计得既美观又富有情感，以吸引儿童的注意力并激发他们的想象力。如果您对这个分镜头脚本有任何反馈或想要进一步的细化，请随时告诉我！</pre></div>
+<p>看完这个感觉还是一个挺有正能量的启蒙故事，如果这个不符合预期，可以进行具体修改，然后我们接着开始转化成MJ的提示词，这样比直接生成MJ提示词效果会更好。</p>
+<h3>2. 将分镜转成MJ的咒语</h3>
+<p>这里我们采用<strong>少样本</strong>的方式，输入提示词，让GPT更好的理解我的内容</p>
+<p>请讲如上分镜转成Midjorney能够识别的prompt，示例:</p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-s1">the</span> <span class="pl-s1">cover</span> <span class="pl-k">for</span> <span class="pl-s1">a</span> <span class="pl-s1">fantasy</span> <span class="pl-s1">movie</span><span class="pl-kos">,</span> <span class="pl-s1">in</span> <span class="pl-s1">the</span> <span class="pl-s1">style</span> <span class="pl-s1">of</span> <span class="pl-s1">chinese</span> 
+<span class="pl-s1">tradition</span><span class="pl-kos">,</span> <span class="pl-s1">utopian</span> <span class="pl-s1">vision</span><span class="pl-kos">,</span> <span class="pl-c1">8</span><span class="pl-s1">k</span> <span class="pl-s1">resolution</span><span class="pl-kos">,</span> <span class="pl-s1">dark</span> <span class="pl-s1">pink</span><span class="pl-kos">,</span> 
+<span class="pl-s1">nightcore</span><span class="pl-kos">,</span> <span class="pl-s1">dragoncore</span><span class="pl-kos">,</span> <span class="pl-s1">fujifilm</span> <span class="pl-s1">velvia</span> <span class="pl-c1">--</span><span class="pl-s1">ar</span> <span class="pl-c1">3</span>:<span class="pl-c1">4</span> <span class="pl-c1">--</span><span class="pl-s1">v</span> <span class="pl-c1">6.0</span></pre></div>
+<p>最终得到的结果</p>
+<p>为了将上述分镜脚本转化为Midjourney能识别的prompt，我们需要将每个场景的描述简化并转换为视觉元素和风格指示。以下是根据《米娅的许愿树》故事的关键场景和元素制定的示例prompt：</p>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-s">1</span><span class="pl-v">.</span> <span class="pl-s">**</span>开场画面<span class="pl-s">**</span>
+  <span class="pl-v">-</span> Prompt: "A whimsical children's bedroom filled with sunlight, overlooking a vibrant backyard with a mysterious, shimmering tree, in the style of enchanting children's book illustrations --ar 3:4 --v 6.0"
+<span class="pl-s">2</span><span class="pl-v">.</span> <span class="pl-s">**</span>发现许愿树<span class="pl-s">**</span>
+  <span class="pl-v">-</span> Prompt: "A curious girl embracing a twisted, lush tree with leaves glowing in the twilight, reminiscent of magical realism, in the style of heartwarming children's book art --ar 3:4 --v 6.0"
+<span class="pl-s">3</span><span class="pl-v">.</span> <span class="pl-s">**</span>第一个愿望<span class="pl-s">**</span>
+  <span class="pl-v">-</span> Prompt: "A girl sitting under a radiant tree at night, holding a wish note, looking up at a starry sky with hopeful eyes, in the style of dreamy and imaginative children's illustrations --ar 3:4 --v 6.0"
+<span class="pl-s">4</span><span class="pl-v">.</span> <span class="pl-s">**</span>愿望成真<span class="pl-s">**</span>
+  <span class="pl-v">-</span> Prompt: "A delighted girl holding a sparkling stone in a garden, with a magical tree in the background, capturing the wonder of a child's dream come true, in vibrant, heartwarming children's illustration style --ar 3:4 --v 6.0"
+<span class="pl-s">5</span><span class="pl-v">.</span> <span class="pl-s">**</span>更多愿望<span class="pl-s">**</span>
+  <span class="pl-v">-</span> Prompt: "A series of evenings under a wishful tree, with a girl expressing various emotions from contemplation to joy, in a narrative sequence, styled like a captivating children's storybook --ar 3:4 --v 6.0"
+<span class="pl-s">6</span><span class="pl-v">.</span> <span class="pl-s">**</span>教训与收获<span class="pl-s">**</span>
+  <span class="pl-v">-</span> Prompt: "A joyful family picnic under a magical tree, sharing laughs and stories, conveying the message of love and togetherness, illustrated in a warm, uplifting children's book style --ar 3:4 --v 6.0"
+<span class="pl-mh">### <span class="pl-en">结语</span></span>
+  <span class="pl-v">-</span> Prompt: "A serene night under a star-filled sky, with a content girl reading a book under a wishful tree, surrounded by her loving family, in the style of heartwarming children's book endings --ar 3:4 --v 6.0"
+这些prompt是为了捕捉每个场景的核心情感和视觉元素，同时保持符合Midjourney的格式和风格要求。您可以根据需要进一步调整这些prompt以适应您的具体需求和风格偏好。</pre></div>
+<h3>3. 使用MJ的Style Tuner确保角色、画风一致性</h3>
+<p>使用ST之后看到的是这个页面</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/54090117ab21fa192f65ad0b5deb7c387debb009a5384fe5202541d96786b82d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c56334838576432677350477768624978666c797041454d7172437470625a5449326962574537776a74696168714f506a514d5755635744672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/54090117ab21fa192f65ad0b5deb7c387debb009a5384fe5202541d96786b82d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c56334838576432677350477768624978666c797041454d7172437470625a5449326962574537776a74696168714f506a514d5755635744672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLV3H8Wd2gsPGwhbIxflypAEMqrCtpbZTI2ibWE7wjtiahqOPjQMWUcWDg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>那么我们怎么开启ST呢？</strong></p>
+<p>就在MJ里面输入/tune</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e1bddf56158035713e32db8f7bfc79d2aa18164d000ce949a08d159bac96b78e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c306961596e57766a494a593775626b71635445483550725a417a5a617a673758685a4b50704c62356578676962787a4d783144676e6b51412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e1bddf56158035713e32db8f7bfc79d2aa18164d000ce949a08d159bac96b78e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c306961596e57766a494a593775626b71635445483550725a417a5a617a673758685a4b50704c62356578676962787a4d783144676e6b51412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlL0iaYnWvjIJY7ubkqcTEH5PrZAzZazg7XhZKPpLb5exgibxzMx1DgnkQA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我们这里是需要消耗我们MJ积分数的，为了节省，我选择了16</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ff54030c5474764b8ebf14199ae718eb4bf620669fc5493596cf6b0302a633e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c38395341374d79684638635959533873366132566b684b68366c6a6961656d58576962764163637242455746544a68744d566d37435a5a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0ff54030c5474764b8ebf14199ae718eb4bf620669fc5493596cf6b0302a633e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c38395341374d79684638635959533873366132566b684b68366c6a6961656d58576962764163637242455746544a68744d566d37435a5a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlL89SA7MyhF8cYYS8s6a2VkhKh6ljiaemXWibvAccrBEWFTJhtMVm7CZZw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后会让我们选择一些图像风格，我们选择自己喜欢的适合儿童插画的风格（注意，不要选其他风格的，否则最后是混搭，风格不明显）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f80358a32bca56f5857f38d64b5d5ef8ed95bd06a8dda48692783b16ef8d5261/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c74303546355a75346c56386b3248565877446756786f62494b3634633356536276373972326c44594b78714b5038416b3972576b6e672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f80358a32bca56f5857f38d64b5d5ef8ed95bd06a8dda48692783b16ef8d5261/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c74303546355a75346c56386b3248565877446756786f62494b3634633356536276373972326c44594b78714b5038416b3972576b6e672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLt05F5Zu4lV8k2HVXwDgVxobIK64c3VSbv79r2lDYKxqKP8Ak9rWkng/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>选完之后在最下面我们会生成一个code，这就是我们生成风格对应的一个**唯一标识，**我们后续使用MJ指令，使用 <strong>--style code</strong> 就会生成风格统一的画</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fd06bbf0e9a43168b74d56fc204e8fea5ae05245d1c46a3fe94786ce6c37b59f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c3566363538396f62336f486d6a63737039485772356a566e37706347316b7237484570625a626a71435058527165537a6962594a356b772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fd06bbf0e9a43168b74d56fc204e8fea5ae05245d1c46a3fe94786ce6c37b59f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c3566363538396f62336f486d6a63737039485772356a566e37706347316b7237484570625a626a71435058527165537a6962594a356b772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlL5f6589ob3oHmjcsp9HWr5jVn7pcG1kr7HEpbZbjqCPXRqeSzibYJ5kw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>4. 使用提示词，生成具体画面</h3>
+<p>使用我在步骤二的MJ咒语，最后看我生成的图</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0fcc0b7ee763a8ad2c912828ddc3f6274aa98c16e709b4e1ab36a625d4abd4b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c34535761586e6a646e71394b4d76664a7364764b64644e7766755643526b495647334e7769623850623043746a4e6c75766d6137626f512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d0fcc0b7ee763a8ad2c912828ddc3f6274aa98c16e709b4e1ab36a625d4abd4b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c34535761586e6a646e71394b4d76664a7364764b64644e7766755643526b495647334e7769623850623043746a4e6c75766d6137626f512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlL4SWaXnjdnq9KMvfJsdvKddNwfuVCRkIVG3Nwib8Pb0CtjNluvma7boQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b5cc42f824b572ba77d2c3ceba0bbc24554fe35d8fd3fb29af6fac938fe2906/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c4164416f434d4d4f684b634158524c37465569626765366173683144366962666b766f7a69627245304c505a6b55375853394f5070357263772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7b5cc42f824b572ba77d2c3ceba0bbc24554fe35d8fd3fb29af6fac938fe2906/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c4164416f434d4d4f684b634158524c37465569626765366173683144366962666b766f7a69627245304c505a6b55375853394f5070357263772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLAdAoCMMOhKcAXRL7FUibge6ash1D6ibfkvozibrE0LPZkU7XS9OPp5rcw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/708cd91906b7c41ff651d7d8207699b3a665ecf42e18d2e0301baa67377563e3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c783478444478506b5142396e557053784b5a496b5033367a5652564a4f3278504d696154444b4c457a387067557870436e66746e4555512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/708cd91906b7c41ff651d7d8207699b3a665ecf42e18d2e0301baa67377563e3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c783478444478506b5142396e557053784b5a496b5033367a5652564a4f3278504d696154444b4c457a387067557870436e66746e4555512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLx4xDDxPkQB9nUpSxKZIkP36zVRVJO2xPMiaTDKLEz8pgUxpCnftnEUQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>5. 后期处理</h3>
+<p>如果你也想拿来发视频，那就可以进一步用Runway Gen-2，和剪映后期处理，在Runway中使用<strong>图片+描述</strong>选项，效果更好，并且建议幅度到2左右。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/56080d5a38ca622dddc7a5927ba0537751d0b13bdd57e3fc7e0ed731b2ae4f8c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c636e4d41544e5268727057643665614e6d317246796b6b41646d76364176395a734264446d446962304b3371366f53794f566b667872672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/56080d5a38ca622dddc7a5927ba0537751d0b13bdd57e3fc7e0ed731b2ae4f8c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c636e4d41544e5268727057643665614e6d317246796b6b41646d76364176395a734264446d446962304b3371366f53794f566b667872672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLcnMATNRhrpWd6eaNm1rFykkAdmv6Av9ZsBdDmDib0K3q6oSyOVkfxrg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>最后在剪映中把素材整合，把之前的文本朗读，使得作品更加优质。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/06ef9c0837bcb9d450a546a7cc9ddf9d407d0bc22bd2daaf5588d0b05417e085/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c76556b6e547a68544a505832344e61333966666363546d4c69637a7a6d34446653774c6d3135356c4134516865663169615a5151577173412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/06ef9c0837bcb9d450a546a7cc9ddf9d407d0bc22bd2daaf5588d0b05417e085/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c76556b6e547a68544a505832344e61333966666363546d4c69637a7a6d34446653774c6d3135356c4134516865663169615a5151577173412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLvUknTzhTJPX24Na39ffccTmLiczzm4DfSwLm155lA4Qhef1iaZQQWqsA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>结尾</h2>
+<p>感谢大家阅读到这，觉得有帮助可以给小石 **点赞＋在看，**能让更多对AI绘画视频实战的人看到。有兴趣一起交流可以加小石vx ：aaxiaoshi666，朋友圈和群定期AI干货分享。还有个宝藏免费星球，欢迎大家来学习，2024一起加油。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/86510c9b9c48fa46e6937f647b7730e2cc7db5e861b7bcb76e2a80ba378bd987/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c6d6e3930555566373649316b33516a71765049306962677658584b396d394a6f57504a4f7546686c63793758363633335855706d434d772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/86510c9b9c48fa46e6937f647b7730e2cc7db5e861b7bcb76e2a80ba378bd987/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f306a62617537553065557369627237794c4f596d4f74556963424b64366962464c6c4c6d6e3930555566373649316b33516a71765049306962677658584b396d394a6f57504a4f7546686c63793758363633335855706d434d772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0jbau7U0eUsibr7yLOYmOtUicBKd6ibFLlLmn90UUf76I1k3QjqvPI0ibgvXXK9m9JoWPJOuFhlcy7X6633XUpmCMw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

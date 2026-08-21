@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="🍹 Insight Daily 🪺  
+
+##### Aitrainee | 公众号：AI进修生
+
+Hi，这里是Aitrainee，欢迎阅读本期新文章。">
+<meta property="og:title" content="NotebookLM +PodLM + F5：AI播客系列，个性化中英文播客（本地安装、Colab部署）">
+<meta property="og:description" content="🍹 Insight Daily 🪺  
+
+##### Aitrainee | 公众号：AI进修生
+
+Hi，这里是Aitrainee，欢迎阅读本期新文章。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/NotebookLM%20%2BPodLM%20%2B%20F5%EF%BC%9AAI-bo-ke-xi-lie-%EF%BC%8C-ge-xing-hua-zhong-ying-wen-bo-ke-%EF%BC%88-ben-di-an-zhuang-%E3%80%81Colab-bu-shu-%EF%BC%89.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>NotebookLM +PodLM + F5：AI播客系列，个性化中英文播客（本地安装、Colab部署）</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">NotebookLM +PodLM + F5：AI播客系列，个性化中英文播客（本地安装、Colab部署）</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/698" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>🍹 Insight Daily 🪺</p>
+<h5>Aitrainee | 公众号：AI进修生</h5>
+<p>Hi，这里是Aitrainee，欢迎阅读本期新文章。</p>
+<p>前段时间，NotebookLM 凭借其‘AI 播客’功能出圈了。它能将复杂材料转化为更接地气的语音访谈形式。虽然我们通常选择直接查看内容，但长时间使用同一种方式总会感到疲惫。此时，躺在床上或椅子上，把原材料丢进去，让 AI 生成一男一女的对话播客，确实让信息吸收变得轻松许多。</p>
+<p>以不同的方式处理相同内容，往往能提升我们的兴奋度。就好像休闲时，我们想听播客，工作时则更依赖文字效率。</p>
+<p>NotebookLM 生成的播客在流畅性和换气自然度上表现非常出色。例如，我上传了 Dify 开发者贡献指南（<a href="https://docs.dify.ai/community/docs-contribution%EF%BC%89%EF%BC%8C%E5%AE%83%E5%B0%B1%E7%94%9F%E6%88%90%E4%BA%86%E4%B8%80%E4%B8%AA%E8%B4%A8%E9%87%8F%E6%9E%81%E9%AB%98%E7%9A%84%E6%92%AD%E5%AE%A2%E3%80%82" rel="nofollow">https://docs.dify.ai/community/docs-contribution），它就生成了一个质量极高的播客。</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ca86ef36bb893731a1f75bccf41d5e770137bba9cacc5c8d7ba522952692e79/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c434f6f593567744a466c466a384c637972525254786f534f3845524373324e45355a69624b6f363053684f4d77596c393371354f7662772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3ca86ef36bb893731a1f75bccf41d5e770137bba9cacc5c8d7ba522952692e79/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c434f6f593567744a466c466a384c637972525254786f534f3845524373324e45355a69624b6f363053684f4d77596c393371354f7662772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibt5QVrjyicjd14R4icia5evxjLCOoY5gtJFlFj8LcyrRRTxoSO8ERCs2NE5ZibKo60ShOMwYl93q5Ovbw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>NotebookLM 在流畅性和自然度上表现优异，但可惜的是它不支持中文播客输出。接下来，我们将先介绍一下 NotebookLM，然后再转向 PodLM 和 F5，这两个为中文用户提供支持的播客解决方案。</p>
+<p>NotebookLM，支持多种文件格式的导入，包括 Google 文档、幻灯片、PDF、txt 和 Markdown 文件，甚至复制粘贴文本、分享网址和 YouTube 视频链接，或上传音频文件。每个来源上限为 50 万 tokens，上传文件的大小限制为 200 MB，而每个笔记本最多可容纳 50 个来源。这种灵活性让知识的获取与创作变得轻松而丰富。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab1109527c85515885bd5c512f78cfa2d302c98da60b09e5b5fbb23b245ca521/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a62657962666961416c6a453149743571377443307969634f65444d3638495235444d6d77346f6f637476375569616d745a4277626c3143414d62714b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ab1109527c85515885bd5c512f78cfa2d302c98da60b09e5b5fbb23b245ca521/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a62657962666961416c6a453149743571377443307969634f65444d3638495235444d6d77346f6f637476375569616d745a4277626c3143414d62714b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybfiaAljE1It5q7tC0yicOeDM68IR5DMmw4ooctv7UiamtZBwbl1CAMbqKQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/351f6ce2d2e7f058732169260834cb35e8931c69d2e04c27882e7f42f50b927e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579626369635175385a7765653475416a7a544963396c313665387a6d72713073463051584c4c413538676d3664696332616b7373477365366e512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/351f6ce2d2e7f058732169260834cb35e8931c69d2e04c27882e7f42f50b927e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579626369635175385a7765653475416a7a544963396c313665387a6d72713073463051584c4c413538676d3664696332616b7373477365366e512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybcicQu8Zwee4uAjzTIc9l16e8zmrq0sF0QXLLA58gm6dic2akssGse6nQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>在NotebookLM的主界面，我们可以看到三个核心功能：首先，上传的文档构成了我们的知识库，用户可以对其进行提问，获取精准答案；其次，点击ai播客它就会生成这些文档的播客内容；最后，还有五个快捷选项，帮助你便捷地生成所需内容。这一切，使得知识的获取与应用变得更加高效与直观。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1511f4e654eb52f5fc8755ca8c876252f5cf59ba2215156a4c41ff6c5c4af072/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a62657962683535647048466e79467652514c6131796456306c55307a63556b5a686457527a7372686c6d6c6e6e50513073494a724e35446444412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1511f4e654eb52f5fc8755ca8c876252f5cf59ba2215156a4c41ff6c5c4af072/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a62657962683535647048466e79467652514c6131796456306c55307a63556b5a686457527a7372686c6d6c6e6e50513073494a724e35446444412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybh55dpHFnyFvRQLa1ydV0lU0zcUkZhdWRzsrhlmlnnPQ0sIJrN5DdDA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>NotebookLM的第一个功能是RAG（Retrieval-Augmented Generation），允许用户对知识库进行提问，表现相当出色。每个空间最多可容纳50个文档，但用户可以创建更多空间。相比于Anythingllm，NotebookLM在这方面更具优势，使用的是免费的Gemini模型，操作也更加简便，唯一的挑战在于其界面基本上是全英文的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/985d1f5e8aa547a7624d811430666939cfa723613380ca67d444129bcc6ce5b9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579624344534e6962535734726963743278455166564978626f43776869616d66696279344e51496c63796b663148545a6f755156434b34546f6f30672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/985d1f5e8aa547a7624d811430666939cfa723613380ca67d444129bcc6ce5b9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579624344534e6962535734726963743278455166564978626f43776869616d66696279344e51496c63796b663148545a6f755156434b34546f6f30672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybCDSNibSW4rict2xEQfVIxboCwhiamfiby4NQIlcykf1HTZouQVCK4Too0g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这五个快捷选项挺有用的</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a75e20576b5d584cd298651181b461e4e65b4448b108a387cc3f29ced6d40214/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579627a6a69637452724d574b6f6a4e565871696143707943584476707a6d727464763153696257796f716963506a4962696251676d41416557733971412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a75e20576b5d584cd298651181b461e4e65b4448b108a387cc3f29ced6d40214/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579627a6a69637452724d574b6f6a4e565871696143707943584476707a6d727464763153696257796f716963506a4962696251676d41416557733971412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybzjictRrMWKojNVXqiaCpyCXDvpzmrtdv1SibWyoqicPjIbibQgmAAeWs9qA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>比如其中，大纲 ...</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bff1c3602fd418c51cdb9075f9fbcbafede3e6b4fa917cb0a9872668f053e803/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579624369615749444d6c594e32546b4a6447465330684b315636425878577a58696144554e6963546e7a69616a303768326963514759375752395979772f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bff1c3602fd418c51cdb9075f9fbcbafede3e6b4fa917cb0a9872668f053e803/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579624369615749444d6c594e32546b4a6447465330684b315636425878577a58696144554e6963546e7a69616a303768326963514759375752395979772f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybCiaWIDMlYN2TkJdGFS0hK1V6BXxWzXiaDUNicTnziaj07h2icQGY7WR9Yyw/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后时间线 ...</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab5b6203f11612ca2e8f94c2b884382935bd3bc25d6c51777fd61a1dbdf33d2a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a6265796262686e787a6256473855564f364172586961614f643041696347396849304b706172314657557a4d32487448594277664f5369633945315a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ab5b6203f11612ca2e8f94c2b884382935bd3bc25d6c51777fd61a1dbdf33d2a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a6265796262686e787a6256473855564f364172586961614f643041696347396849304b706172314657557a4d32487448594277664f5369633945315a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybbhnxzbVG8UVO6ArXiaaOd0AicG9hI0Kpar1FWUzM2HtHYBwfOSic9E1Zg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>NotebookLM可以作为研究型专家，支持用户导入多种研究材料，如论文、参考资料、视频（youtube 链接）和音频等，集中进行混合研究。通过其知识库功能，用户可以结合不同领域的信息，模拟主持人与专家之间的一问一答形式。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3e37b03ad0be62a8e71af5e911ff21e1eab6b155fd9b30c35e493b03fdb7909/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a62657962726c6963696163664f6638326f4f465745784c765358416e526963716f75586b484b39716f546f7a39644b656464314c514a567277516271412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d3e37b03ad0be62a8e71af5e911ff21e1eab6b155fd9b30c35e493b03fdb7909/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a62657962726c6963696163664f6638326f4f465745784c765358416e526963716f75586b484b39716f546f7a39644b656464314c514a567277516271412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybrliciacfOf82oOFWExLvSXAnRicqouXkHK9qoToz9dKedd1LQJVrwQbqA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>基本的功能我们介绍完了，那么，对于 NotebookLM 有没有一些好的实践？</p>
+<p>OpenAI的创始成员Andrej Karpathy对NotebookLM充满热情，认为它可能开启与大型语言模型产品交互的新范式，令人想起ChatGPT的影响。他花了两个小时制作了一个10集的历史主题播客系列，并上传至Spotify。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/258e1d38bb441cf05d9d8f82ba1e21c946938400eec2a68f02927cf7cd47bb51/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6550547a6570776f4e574d5564597166496b706155544448384b784b4f475061576a5551666e4e7939636962784f395267426962325443364a6e316156356650434157624b76706962744d6471317773594c78307a47696354672f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270"><img src="https://camo.githubusercontent.com/258e1d38bb441cf05d9d8f82ba1e21c946938400eec2a68f02927cf7cd47bb51/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6550547a6570776f4e574d5564597166496b706155544448384b784b4f475061576a5551666e4e7939636962784f395267426962325443364a6e316156356650434157624b76706962744d6471317773594c78307a47696354672f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePTzepwoNWMUdYqfIkpaUTDH8KxKOGPaWjUQfnNy9cibxO9RgBib2TC6Jn1aV5fPCAWbKvpibtMdq1wsYLx0zGicTg/640?wx_fmt=other&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp" style="max-width: 100%;"></a></p>
+<p>▲ 来源｜36氪</p>
+<p>其过程颇具启发性，可以总结为以下几步：</p>
+<p>1. 创意生成：使用ChatGPT、Claude和谷歌寻找有趣的话题。</p>
+<p>2. 内容创作：根据维基百科条目，让NotebookLM生成音频内容。</p>
+<p>3. 播客简介：用NotebookLM撰写播客描述。</p>
+<p>4. 封面艺术：使用Ideogram创建播客封面。</p>
+<p>另外想想，AI播客属于音频内容，那么利用数字人技术，或许可能将它转化为真正的访谈节目,比如 ...</p>
+<p>来源：<a href="https://www.youtube.com/watch?v=lFxu0mlOoWs" rel="nofollow">https://www.youtube.com/watch?v=lFxu0mlOoWs</a></p>
+<p>利用Heygen，我们通过中文音频生成虚拟数字人视频，它是能够根据音频内容对准口型的，并配合恰到好处的肢体动作和表情。</p>
+<p>只需将AI播客的音频上传即可。</p>
+<p>除了NotebookLM，我记得谷歌以前还有一个Illuminat — 专门 将论文转换成音频的产品。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/662d1369a81e0a037b87484b250c611032b9d12e384b0f5fa2630bba8870240d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a62657962356962655368796477627665386342765651506c616b705178766e744f45616962676f49433674766a6e5658504846383432384c36326961772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/662d1369a81e0a037b87484b250c611032b9d12e384b0f5fa2630bba8870240d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a62657962356962655368796477627665386342765651506c616b705178766e744f45616962676f49433674766a6e5658504846383432384c36326961772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeyb5ibeShydwbve8cBvVQPlakpQxvntOEaibgoIC6tvjnVXPHF8428L62iaw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>无论如何，NotebookLM并不支持中文，不过目前来讲，有一些开源平替：Open NotebookLM、文档生成播客的 Podial、PodLM ......</p>
+<p>还有，最近的 F5 TTS 也支持AI播客</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d4857df48ee4a82397834d6965c880130360cda5804bd298842a48236e89a6b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579626f6c66385a78426f525346345a69636c475342777a4b346b7839593075653030653741454a387769614c6749696344364e6962705671447141772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2d4857df48ee4a82397834d6965c880130360cda5804bd298842a48236e89a6b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579626f6c66385a78426f525346345a69636c475342777a4b346b7839593075653030653741454a387769614c6749696344364e6962705671447141772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybolf8ZxBoRSF4ZiclGSBwzK4kx9Y0ue00e7AEJ8wiaLgIicD6NibpVqDqAw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这个东西操作挺简单的，到这里<a href="https://podlm.ai/zh-CN%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E4%BD%93%E9%AA%8C%E4%B8%80%E5%AE%9A%E7%9A%84%E6%AC%A1%E6%95%B0%EF%BC%8C%E4%B8%8D%E8%BF%87%E4%BB%96%E4%B9%9F%E6%98%AF%E5%BC%80%E6%BA%90%E7%9A%84%EF%BC%8C%E4%BD%A0%E5%8F%AF%E4%BB%A5%E9%80%89%E6%8B%A9%E8%87%AA%E5%B7%B1%E9%83%A8%E7%BD%B2%E3%80%82" rel="nofollow">https://podlm.ai/zh-CN可以免费体验一定的次数，不过他也是开源的，你可以选择自己部署。</a></p>
+<p>现在下面是使用PodLM的一个例子</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1b40b1c4be0509eff11e64a2b898fef74ae8674462600839a18384e6893c49ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a6265796269616631494f7771354d62315a6d6c54524534796378486648354a6267746856553934596e4b6f7251466769636d4d333035436963525178772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1b40b1c4be0509eff11e64a2b898fef74ae8674462600839a18384e6893c49ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a6265796269616631494f7771354d62315a6d6c54524534796378486648354a6267746856553934596e4b6f7251466769636d4d333035436963525178772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybiaf1IOwq5Mb1ZmlTRE4ycxHfH5JbgthVU94YnKorQFgicmM305CicRQxw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击生成它就会按照你填入的内容，自动补内容，形成播客脚本，并生成音频</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e3e649d9d833440b5659b572d250efcfd30e0a312bd05f46b7b405a653a924b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579626d4f6d47684a656c506357745139754a315830586a696167394370546963497052584274684b696172746d696131643778686371494a463262512f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e3e649d9d833440b5659b572d250efcfd30e0a312bd05f46b7b405a653a924b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579626d4f6d47684a656c506357745139754a315830586a696167394370546963497052584274684b696172746d696131643778686371494a463262512f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybmOmGhJelPcWtQ9uJ1X0Xjiag9CpTicIpRXBthKiartmia1d7xhcqIJF2bQ/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这个音频就是用文章开头内容生成的AI播客，</p>
+<p>虽然不如NotebookLM生成英文播客那样流利顺畅，不过也做的挺不错的，而且它是开源的：<a href="https://github.com/lihuithe/podlm-public%E3%80%82">https://github.com/lihuithe/podlm-public。</a></p>
+<p>这是一个挺厉害的TTS项目</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/42a948db4ce81dcfe3cabbcc911e00a0ac4ab056aa35e0af4166df110b38f073/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579623154435179683658673164564e6c53763445584949704537584f316962736963554b457a49596f75626e577144316f435939696161426f50672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/42a948db4ce81dcfe3cabbcc911e00a0ac4ab056aa35e0af4166df110b38f073/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579623154435179683658673164564e6c53763445584949704537584f316962736963554b457a49596f75626e577144316f435939696161426f50672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeyb1TCQyh6Xg1dVNlSv4EXIIpE7XO1ibsicUKEzIYoubnWqD1oCY9iaaBoPg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我在Colab部署F5后生成了一个例子：</p>
+<p>由于F5官方（<a href="https://huggingface.co/spaces/mrfakename/E2-F5-TTS%EF%BC%89%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0%E4%BC%97%E5%A4%9A%EF%BC%8C%E7%BB%8F%E5%B8%B8%E5%87%BA%E7%8E%B0%E5%8D%A1%E9%A1%BF%EF%BC%8C%E5%9B%A0%E6%AD%A4%E6%8E%A8%E8%8D%90%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E3%80%82%E7%AC%AC%E4%B8%80%E7%A7%8D%E6%96%B9%E6%B3%95%E6%98%AF%E5%9C%A8%E6%88%91%E7%9A%84Windows%E7%94%B5%E8%84%91%E4%B8%8A%E9%83%A8%E7%BD%B2%EF%BC%8C%E4%BD%BF%E7%94%A84060%E6%98%BE%E5%8D%A1%EF%BC%888GB%E6%98%BE%E5%AD%98%EF%BC%89%EF%BC%8C%E7%94%9F%E6%88%9015%E4%B8%AA%E5%AD%97%E7%9A%84%E5%86%85%E5%AE%B9%E4%B9%9F%E9%9C%80%E8%A6%81%E6%AF%94%E8%BE%83%E4%B9%85%E7%9A%84%E6%97%B6%E9%97%B4%EF%BC%8C%E6%98%BE%E5%AD%98%E8%A6%81%E6%B1%82%E8%BE%83%E9%AB%98%E3%80%82" rel="nofollow">https://huggingface.co/spaces/mrfakename/E2-F5-TTS）访问人数众多，经常出现卡顿，因此推荐本地部署。第一种方法是在我的Windows电脑上部署，使用4060显卡（8GB显存），生成15个字的内容也需要比较久的时间，显存要求较高。</a></p>
+<p>如果你想要更便捷的体验，可以选择第二种方法，我已在谷歌Colab中调试好，只需连接到T4 GPU，速度比我本地的快得多。</p>
+<p>现在看看第一种方式：首先克隆仓库</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a977bc0318b628015f91b584673c2c6584332fcbd3c4358bf4b239d75d4d001e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274445768454a59763869613438313837626963696255595238754965566f6255324c7443345364494751416a444a69614b69624b7275714334374d6c69636169636d6f3076474669613273367358703063696245672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a977bc0318b628015f91b584673c2c6584332fcbd3c4358bf4b239d75d4d001e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274445768454a59763869613438313837626963696255595238754965566f6255324c7443345364494751416a444a69614b69624b7275714334374d6c69636169636d6f3076474669613273367358703063696245672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibtDWhEJYv8ia48187bicibUYR8uIeVobU2LtC4SdIGQAjDJiaKibKruqC47Mlicaicmo0vGFia2s6sXp0cibEg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>打开pycharm进入项目目录，pycharm提示自动按照requirements.txt创建虚拟环境，当然你也可以使用conda手动创建虚拟环境并安装依赖</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3c75dc64f37834642a4b4c6c60652297cec7bec251d7cb5c5216cbb7d34cb9c4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274445768454a59763869613438313837626963696255595238324d6f5a7369623033526a346963646a4e654e473555326a6e7266515253796d786c584a5742343543626962344a506638554d436d784452672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3c75dc64f37834642a4b4c6c60652297cec7bec251d7cb5c5216cbb7d34cb9c4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274445768454a59763869613438313837626963696255595238324d6f5a7369623033526a346963646a4e654e473555326a6e7266515253796d786c584a5742343543626962344a506638554d436d784452672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibtDWhEJYv8ia48187bicibUYR82MoZsib03Rj4icdjNeNG5U2jnrfQRSymxlXJWB45Cbib4JPf8UMCmxDRg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我们需要查看本机的Cuda版本，安装对应的torch与audio torch，我这里使用了一个上海交通大学的源，测试下来比较好，我的cuda是12.1的</p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-s1">pip</span> <span class="pl-s1">install</span> <span class="pl-s1">torch</span><span class="pl-c1">===</span><span class="pl-c1">2.3</span><span class="pl-c1">.0</span><span class="pl-c1">+</span><span class="pl-s1">cu121</span> <span class="pl-s1">torchaudio</span><span class="pl-c1">===</span><span class="pl-c1">2.3</span><span class="pl-c1">.0</span><span class="pl-c1">+</span><span class="pl-s1">cu121</span> <span class="pl-c1">-</span><span class="pl-s1">f</span><span class="pl-kos"></span> <span class="pl-s1">https</span>:</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/76e353be987eec34b13aa2fc70f3f9ff644474868d6dcdf8f6b8daae24459e36/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274445768454a597638696134383138376269636962555952386f4f62576f627033597a7a3873514e52365a59566962706e3358784d344b78657a6148534f6f57663934754573624a4f6d50654f726962412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/76e353be987eec34b13aa2fc70f3f9ff644474868d6dcdf8f6b8daae24459e36/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274445768454a597638696134383138376269636962555952386f4f62576f627033597a7a3873514e52365a59566962706e3358784d344b78657a6148534f6f57663934754573624a4f6d50654f726962412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibtDWhEJYv8ia48187bicibUYR8oObWobp3Yzz8sQNR6ZYVibpn3XxM4KxezaHSOoWf94uEsbJOmPeOribA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>安装依赖</p>
+<div class="highlight highlight-source-css"><pre class="notranslate"><span class="pl-ent">pip</span> <span class="pl-ent">install</span> <span class="pl-ent">-r</span> <span class="pl-ent">requirements</span>.<span class="pl-c1">txt</span></pre></div>
+<p>然后执行python gradio_app.py启动项目</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69e98cb6fd159b6d68936d9bcdba643dccca92b35947b363bb877d7b634243a4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d696274445768454a59763869613438313837626963696255595238456d3048357549597933796755385a7a6b6b365875666962465945454d456c616b794d754d4f6b6b62624b4437496263357131395461672f3634303f77785f666d743d6769662666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/69e98cb6fd159b6d68936d9bcdba643dccca92b35947b363bb877d7b634243a4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f536e31744a6847576d696274445768454a59763869613438313837626963696255595238456d3048357549597933796755385a7a6b6b365875666962465945454d456c616b794d754d4f6b6b62624b4437496263357131395461672f3634303f77785f666d743d6769662666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Sn1tJhGWmibtDWhEJYv8ia48187bicibUYR8Em0H5uIYy3ygU8Zzkk6XufibFYEEMElakyMuMOkkbbKD7Ibc5q19Tag/640?wx_fmt=gif&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击web界面的端口</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/61e29ad1901c7896731fc497212a27ebd5c9843751a777797196567123c0da48/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274445768454a59763869613438313837626963696255595238597243563075753632394d416e67664a473430777663376d4376634d4a7851386f5569626d347561674f664749784868645535547039772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/61e29ad1901c7896731fc497212a27ebd5c9843751a777797196567123c0da48/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274445768454a59763869613438313837626963696255595238597243563075753632394d416e67664a473430777663376d4376634d4a7851386f5569626d347561674f664749784868645535547039772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibtDWhEJYv8ia48187bicibUYR8YrCV0uu629MAngfJG40wvc7mCvcMJxQ8oUibm4uagOfGIxHhdU5Tp9w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>可以看到界面：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/792963ed52305e66cba32cd028121e27f17a924b8ea8b26ca240c2fda1a4b187/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c3776514a56484e325248794a4f427979516f6a65335868664a585937596358506f565532775a594c30325471764453516c68585164512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/792963ed52305e66cba32cd028121e27f17a924b8ea8b26ca240c2fda1a4b187/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c3776514a56484e325248794a4f427979516f6a65335868664a585937596358506f565532775a594c30325471764453516c68585164512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibt5QVrjyicjd14R4icia5evxjL7vQJVHN2RHyJOByyQoje3XhfJXY7YcXPoVU2wZYL02TqvDSQlhXQdQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>TTS功能是正常的，但是播客用不了，会报一个这样的错误</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5ed065d37c0aeb8a6018377b4b0c62ffafd8fb6bb146cc83b64458921446b33d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c3438333969636f4e5469626a496b786331655650484c6d7475585736574c4a6f5631316e496961696136637869625057584d536a4f53354d4337512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5ed065d37c0aeb8a6018377b4b0c62ffafd8fb6bb146cc83b64458921446b33d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c3438333969636f4e5469626a496b786331655650484c6d7475585736574c4a6f5631316e496961696136637869625057584d536a4f53354d4337512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibt5QVrjyicjd14R4icia5evxjL4839icoNTibjIkxc1eVPHLmtuXW6WLJoV11nIiaia6cxibPWXMSjOS5MC7Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>总之播客没有生成出来内容，我也不想花太多时间弄这个，网上也没有生成成功的例子，期待有人指明。并且，官网的播客也是一直处于生成错误的状态。</p>
+<p>此外，如果你的TTS也没有成功的话，他可能缺少ffmpeg，你需要安装它</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/57a90f3121644958187d021d33c1c58491e43cd464b339011c032c7c424fc9d7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c69624a6a48676f586a6c70396963733667774b4b4f4d32584c79574a476f4f4a38745638673153594855354e59574b626b4f5531626153412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/57a90f3121644958187d021d33c1c58491e43cd464b339011c032c7c424fc9d7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c69624a6a48676f586a6c70396963733667774b4b4f4d32584c79574a476f4f4a38745638673153594855354e59574b626b4f5531626153412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibt5QVrjyicjd14R4icia5evxjLibJjHgoXjlp9ics6gwKKOM2XLyWJGoOJ8tV8g1SYHU5NYWKbkOU1baSA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>安装这个东西的网址在这（有不同系统的）：</p>
+<p><a href="https://www.gyan.dev/ffmpeg/builds/" rel="nofollow">https://www.gyan.dev/ffmpeg/builds/</a></p>
+<p>Windows中记得把bin文件夹添加到环境变量中。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/af5cc6b3cd583d4808aea5fb49308e07ab95115ccd5ad9d5c10ceb36ad1811ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c4439414c636e6c5266545a6165453973637669624e646b756a496962506443505969634d537361353553636a57504949336e68504b496b65772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/af5cc6b3cd583d4808aea5fb49308e07ab95115ccd5ad9d5c10ceb36ad1811ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696274355156726a7969636a643134523469636961356576786a4c4439414c636e6c5266545a6165453973637669624e646b756a496962506443505969634d537361353553636a57504949336e68504b496b65772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibt5QVrjyicjd14R4icia5evxjLD9ALcnlRfTZaeE9scvibNdkujIibPdCPYicMSsa55ScjWPII3nhPKIkew/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>现在第二种：</strong> <strong>Colab部署</strong>**，**我解决了几个潜在的问题，Colab版本可以直接运行，笔记本在这：</p>
+<p><a href="https://colab.research.google.com/drive/1KoMvZQyxXiE3bw00%5C_InCyNDbD4WkPlNr#scrollTo=P9Sgtw-jBBRe" rel="nofollow">https://colab.research.google.com/drive/1KoMvZQyxXiE3bw00\_InCyNDbD4WkPlNr#scrollTo=P9Sgtw-jBBRe</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e6187d158dd43d03a9aa8ca609a8dfb07fc3ec63fb58ece070d477a73fc1545e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579625166504772303778546963725263544237734d714b706a37366b71593330615652556f567150336a334b69616d443157386679754c5a51512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e6187d158dd43d03a9aa8ca609a8dfb07fc3ec63fb58ece070d477a73fc1545e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579625166504772303778546963725263544237734d714b706a37366b71593330615652556f567150336a334b69616d443157386679754c5a51512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybQfPGr07xTicrRcTB7sMqKpj76kqY30aVRUoVqP3j3KiamD1W8fyuLZQQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>链接T4，然后点击最后一行，并“ctrl+F8”，它会执行所有代码。</p>
+<p>总的来说，就是这样，语音是人类最自然的交互模式之一，符合我们大脑的认知习惯。虽然我们有教科书，但依然需要老师讲课来帮助理解复杂内容。当我们能用口语解释概念、讲给别人听时，才真正掌握了它。AI播客 就是用简单的语言重新诠释书面概念，同时融入情绪和语气，带来了更自然的感官体验。</p>
+<p>传统媒体让你被动地听别人制作的内容，而现在，你可以主动制作个性化的音频。</p>
+<p>正如 OpenAI 研究主管 Karina Nguyen 所说，‘我心目中的终极 AGI 界面是一张空白画布（Canvas）’，它随着人类的偏好不断演变，自我变形，给予用户无限的创作空间和自由度，让交互方式更加个性化和丰富。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/23916c212ab506cc4fb0ed242d41c6947e5829701daa4e3f45575da2e8bafa65/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579627962713069634c397679747336495741654841567a425835344f454235574463634b576a4b75774745677a61614965533266376c5334772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/23916c212ab506cc4fb0ed242d41c6947e5829701daa4e3f45575da2e8bafa65/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d6962734b634b5458394567626a58393539364d5a626579627962713069634c397679747336495741654841567a425835344f454235574463634b576a4b75774745677a61614965533266376c5334772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibsKcKTX9EgbjX9596MZbeybybq0icL9vyts6IWAeHAVzBX54OEB5WDccKWjKuwGEgzaaIeS2f7lS4w/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>🌟希望这篇文章对你有帮助，感谢阅读！如果你喜欢这系列文章请以 <strong>点赞 / 分享 / 在看</strong>的方式告诉我，以便我用来评估创作方向。</p>
+<p>👽Submission：<a href="mailto:kristjahmez06@gmail.com">kristjahmez06@gmail.com</a></p>
+<p>参考链接：<br>
+[1] <a href="https://mp.weixin.qq.com/s/Jqf2eZZHSU0ax732xP5V5g" rel="nofollow">https://mp.weixin.qq.com/s/Jqf2eZZHSU0ax732xP5V5g</a><br>
+[2] <a href="https://www.youtube.com/watch?v=lFxu0mlOoWs" rel="nofollow">https://www.youtube.com/watch?v=lFxu0mlOoWs</a><br>
+[3] <a href="https://podlm.ai/zh-CN" rel="nofollow">https://podlm.ai/zh-CN</a></p>
+<p><strong>知音难求，自我修炼亦艰</strong></p>
+<p>抓住前沿技术的机遇，与我们一起成为创新的超级个体</p>
+<p><strong>（把握AIGC时代的个人力量）</strong></p>
+<p><strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd8556907a9cfc476c6fded73fef73696515773b757849a6a89b156884e9d702/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627667646232614a44776869626b66664b31744652787370566c3443716d414e4d57675163624f4d446c444b793569616b783235536d6a306f55746c687247374a356157717369624276656f655264412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/dd8556907a9cfc476c6fded73fef73696515773b757849a6a89b156884e9d702/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627667646232614a44776869626b66664b31744652787370566c3443716d414e4d57675163624f4d446c444b793569616b783235536d6a306f55746c687247374a356157717369624276656f655264412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibvgdb2aJDwhibkffK1tFRxspVl4CqmANMWgQcbOMDlDKy5iakx25Smj0oUtlhrG7J5aWqsibBveoeRdA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></strong></p>
+<p><strong>点这里👇关注我，记得标星哦～</strong></p>
+<p><strong>一键三连「分享」、「点赞」和「在看」</strong></p>
+<p>**科技前沿进展日日相见 ~**</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/30939681766de335cdd9d0d99ac90b35e6a4694a2d621841a63ff1e3d8aedd66/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f7376672f6739525169634d4430314d3074596f52515432634d51526d5053355a44797272667a656b7369617939304b61447a6c474248363169637148786d67464b667666587456757754485637343043444c41615855314c49665a796f4a4570594b6352496961452f3634303f77785f666d743d737667"><img src="https://camo.githubusercontent.com/30939681766de335cdd9d0d99ac90b35e6a4694a2d621841a63ff1e3d8aedd66/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f7376672f6739525169634d4430314d3074596f52515432634d51526d5053355a44797272667a656b7369617939304b61447a6c474248363169637148786d67464b667666587456757754485637343043444c41615855314c49665a796f4a4570594b6352496961452f3634303f77785f666d743d737667" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_svg/g9RQicMD01M0tYoRQT2cMQRmPS5ZDyrrfzeksiay90KaDzlGBH61icqHxmgFKfvfXtVuwTHV740CDLAaXU1LIfZyoJEpYKcRIiaE/640?wx_fmt=svg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

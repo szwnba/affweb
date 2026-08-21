@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="    7月份我在Telegram上发起了一个Build in public项目,如何从零开始构建一个Affiliate佣金网站(小报童专栏精选推荐)，这是一个全程免费的从0到1的项目构建分享过程。">
+<meta property="og:title" content="教你从零开始构建一个Affiliate佣金网站">
+<meta property="og:description" content="    7月份我在Telegram上发起了一个Build in public项目,如何从零开始构建一个Affiliate佣金网站(小报童专栏精选推荐)，这是一个全程免费的从0到1的项目构建分享过程。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/jiao-ni-cong-ling-kai-shi-gou-jian-yi-ge-Affiliate-yong-jin-wang-zhan.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>教你从零开始构建一个Affiliate佣金网站</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">教你从零开始构建一个Affiliate佣金网站</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/691" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>    7月份我在Telegram上发起了一个Build in public项目,如何从零开始构建一个Affiliate佣金网站(小报童专栏精选推荐)，这是一个全程免费的从0到1的项目构建分享过程。但telegram并非大多数国人的常规通讯工具，光合理使用网络就拦截了95%的人，因此我在这里将分享过程做个总结，旨在给大家提供个思路、触类旁通的启发和帮助。</p>
+<p>    一直以来我的Affiliate社群不管是技术上、经济上、成就上都在我之上的大牛比比皆是，因此Build in Public过程中难免纰漏，不足之处还望各位指正批评。</p>
+<p><strong>每个人都有自己做项目的基本原则，我的几点原则：轻资产、轻维护、轻售后</strong></p>
+<ol>
+<li>
+<p> 轻资产，就是成本不要投入太大，不管是时间上，还是资金上，所有的想法一开始都先把它当作一个MVP，先短时间内做一个"冠冕堂皇的垃圾产品"出来看看市场、用户的反应，做互联网项目不要过度的想象完美和长远，想的越多，考虑的越长远，门槛和困难就越大，除了成功把自己劝退之外，没有任何意义！</p>
+</li>
+<li>
+<p>轻维护，尽量不要让项目维护成本和门槛太高，被一个项目的售后绑在马车上无法脱身.要想它成为副业，成为被动收入，就要考虑好日后将怎么维护，如何实现自动化、规模化，人工维护部分占比多少.如果人工维护占比太大，大概率失败都会归咎于更新维护死。</p>
+</li>
+<li>
+<p>轻售后，互联网最典型的是电商的售后是最重的，卖服装的还积压库存、换季、退换货、纠纷，而做虚拟产品或服务类的售前售后都很轻，没有边际成本，会员服务、资源、软件类型的，很多都能标准化自动化，一本逐万利。</p>
+</li>
+</ol>
+<p> 一旦满足这几点轻原则，你在项目选择上就可以更精准明确.</p>
+<h3><strong>一，选项目</strong></h3>
+<p>    2024年初的时候我在星球里分享过一个知识付费的平台，小报童，当时我建议大家搞个佣金导航站，原因是它不像知识星球，只有你付费加入某个星球，才能去分享某个星球获佣金。而且affiliate佣金比例高达40%-60%，在业内相当的高了，甚至你比作者和平台赚的还多，而且你可以推广整个平台的专栏，该项目你的成本只是推广和分享，作者和平台负责维护和售后，完全符合以上说的轻资产、轻维护、轻售后原则，小报童的合伙人计划没有申请门槛，微信扫描登录即可复制链接或生成海报推广专栏。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/954a9856348ad71f7c9c7983468eadc089fdb9fe38c112b319e5f2db72b8c01a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e49696251624e4436334c4e586f52627557326768326c754a6d58775466516771434f416246496670456961416771724f6c597259366857512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/954a9856348ad71f7c9c7983468eadc089fdb9fe38c112b319e5f2db72b8c01a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e49696251624e4436334c4e586f52627557326768326c754a6d58775466516771434f416246496670456961416771724f6c597259366857512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/hfAPnEhDvPrqMZ3ReFM4Tz8Lcoc3RL1nIibQbND63LNXoRbuW2gh2luJmXwTfQgqCOAbFIfpEiaAgqrOlYrY6hWQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3><strong>二，注册域名</strong></h3>
+<p>    项目选定了之后，下一步就是注册域名了，我一般优先去选老域名，老域名的筛选原则有几点：</p>
+<ul>
+<li>
+<p>3年以上的老域名（域名年龄）</p>
+</li>
+<li>
+<p>com域名（域名类型）</p>
+</li>
+<li>
+<p>长度尽量短，不超过10位（域名长度）</p>
+</li>
+<li>
+<p>通过114查询域名有没有快照和收录，最好选有快照、收录多、有备案的</p>
+</li>
+<li>
+<p>查询历史快照，是否做过敏感词、违法词</p>
+</li>
+<li>
+<p>检查域名有没有被比较危险 被黑，被挂乱七八糟的东西</p>
+</li>
+<li>
+<p> 站内site，有权重索引</p>
+</li>
+</ul>
+<p>    老域名我是在ename.cn易名淘的，www.xiaobaozha.com(寓意:小报站/小爆炸/小报栈），跟官网名语意接近，这个三拼的5年老域名，入手才80块钱，现在.com域名新注册也是这个价.</p>
+<h3><strong>三，网站技术选型</strong></h3>
+<p>    如何构建这个小报童佣金站点，这是一个很考究个人经验的问题，10个人有10个不同的构建方法，常规的方式用现成的网站导航模版(现在有一些甚至是不需要服务器实现的导航网站模板)，wordpress，cms，自建站，这个完全取决于个人熟悉的领、技术能力、认知、对项目的理解。</p>
+<p>    不同的构建方式肯定是决定不同的维护方式。所以在构建之前就要考虑轻维护原则，我个人比较喜欢把网站所有的控制权和扩展能力掌握在自己手里的，基于此，构建这个站点，我用React开发前端，集成Prisma做数据库ORM，实现API接口。React+Prisma应该也算是国外的主流MVP构建站点的模式。</p>
+<p>    当然，React+Prisma都是我首次使用，数据库使用Mysql，因为所有的项目都有了AI的加持，所以大部分技术上的问题我都不担心。</p>
+<h3><strong>四，数据库设计</strong></h3>
+<p>    数据库表设计以及字段设计比较简单，直接拿小报童的API接口，COPY到POSTMAN就设计出来了</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90a17fec3af0a14e3cbedd5f34ed9b2c5c4fbad1f38522204f4f10350d2a2615/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e7565686b414a68463342537749385161347a4652617743306169616c536963434d4b50626a7a5252345364794a696270745a61474567634f412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/90a17fec3af0a14e3cbedd5f34ed9b2c5c4fbad1f38522204f4f10350d2a2615/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e7565686b414a68463342537749385161347a4652617743306169616c536963434d4b50626a7a5252345364794a696270745a61474567634f412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/hfAPnEhDvPrqMZ3ReFM4Tz8Lcoc3RL1nuehkAJhF3BSwI8Qa4zFRawC0aialSicCMKPbjzRR4SdyJibptZaGEgcOA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>    然后将设计好的表导入到Prisma中的schema.prisma<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/17cb1ee3a248a2539086f68ae7205649cfa694043833a7b1d865f34cf2a90595/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e65746962597a593350364869636c49696131316961627564495555696366565a4b4f6a4a5a37794b3642303277514a3741754566395877547959672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/17cb1ee3a248a2539086f68ae7205649cfa694043833a7b1d865f34cf2a90595/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e65746962597a593350364869636c49696131316961627564495555696366565a4b4f6a4a5a37794b3642303277514a3741754566395877547959672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/hfAPnEhDvPrqMZ3ReFM4Tz8Lcoc3RL1netibYzY3P6HiclIia11iabudIUUicfVZKOjJZ7yK6B02wQJ7AuEf9XwTyYg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3><strong>五，API接口设计</strong></h3>
+<p>    API接口设计，我大概罗列了几个，基本就可以让网站跑起来了。</p>
+<ol>
+<li>
+<p>获取全部栏目（按照最新排序/订阅数高低/创建时间/是否免费） GET /api/xbotall</p>
+</li>
+<li>
+<p>栏目分类列表（GET /api/categorylist）</p>
+</li>
+<li>
+<p>Tag列表（POST /api/tagslist）</p>
+</li>
+<li>
+<p>推荐列表（POST/api/recommendlist）</p>
+</li>
+<li>
+<p>栏目详情（POST/api/detail/{uuid}）</p>
+</li>
+<li>
+<p>全网统计（GET /api/statistic）</p>
+</li>
+<li>
+<p>提交栏目（POST /api/post）</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8ad111b09b25f60ecad80a8d19cffe26258d786a7f6c2a60f738fb9fa4f7d2ed/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e3874524d72726265754c3250336e4c7178555069636d756d4c686d3767376961624a5143336637684234633332586d764978545769634567412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8ad111b09b25f60ecad80a8d19cffe26258d786a7f6c2a60f738fb9fa4f7d2ed/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e3874524d72726265754c3250336e4c7178555069636d756d4c686d3767376961624a5143336637684234633332586d764978545769634567412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/hfAPnEhDvPrqMZ3ReFM4Tz8Lcoc3RL1n8tRMrrbeuL2P3nLqxUPicmumLhm7g7iabJQC3f7hB4c32XmvIxTWicEgA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3><strong>六，前端网站开发</strong></h3>
+<p>    前端网站，我用的是claude3.5的artifacts来完成网站的设计工作，前端的React框架，使用的是阿里巴巴开源的Umi，一套可扩展的企业级前端应用框架，很多繁杂的配置，例如本项目用到的RouteAPI生成器、Tailwind CSS，Antdesign，它都已经集成进去了，做到开箱即用，省去大量的前期配置工作。</p>
+<p>    记住，要搞钱，就不要做极客，为技术而技术，把时间花在那些看似重要却没意义的事上</p>
+<p><strong>最终前端开发的页面效果</strong>**：**</p>
+<p>    <strong>首页：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69f490e9ebf58250ad0a8cf93e0d8fa3b4d5e3fb976ef2aa98f29a5268d7fd28/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e42673469637635476664744b76377051586e305338796174446f69634831364438704c4a394b70654236424e7467397244335378344d37672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/69f490e9ebf58250ad0a8cf93e0d8fa3b4d5e3fb976ef2aa98f29a5268d7fd28/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e42673469637635476664744b76377051586e305338796174446f69634831364438704c4a394b70654236424e7467397244335378344d37672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/hfAPnEhDvPrqMZ3ReFM4Tz8Lcoc3RL1nBg4icv5GfdtKv7pQXn0S8yatDoicH16D8pLJ9KpeB6BNtg9rD3Sx4M7g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>     <strong>专栏详情页：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7c68d4f76d00f9c57ca850f58f8f5b01a476309ad9e649a303e10d159b3c5fb0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e6850514a53334b6766424f5a36445279355845597a527031324669635a7a7777306150686d4377626637667779577065364d556a4e37512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7c68d4f76d00f9c57ca850f58f8f5b01a476309ad9e649a303e10d159b3c5fb0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e6850514a53334b6766424f5a36445279355845597a527031324669635a7a7777306150686d4377626637667779577065364d556a4e37512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/hfAPnEhDvPrqMZ3ReFM4Tz8Lcoc3RL1nhPQJS3KgfBOZ6DRy5XEYzRp12FicZzww0aPhmCwbf7fwyWpe6MUjN7Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>      <strong>文章列表页：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1e79ac19be37281a7394fc95832b8e7ec469eb336f3e2f78c3fef25ef5138629/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e31687577636454423049666a38563632486c6830564a7453514a4a6b33576d4e573759444446303338395171345678454a5a356a39672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1e79ac19be37281a7394fc95832b8e7ec469eb336f3e2f78c3fef25ef5138629/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e31687577636454423049666a38563632486c6830564a7453514a4a6b33576d4e573759444446303338395171345678454a5a356a39672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/hfAPnEhDvPrqMZ3ReFM4Tz8Lcoc3RL1n1huwcdTB0Ifj8V62Hlh0VJtSQJJk3WmNW7YDDF0389Qq4VxEJZ5j9g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>也可以直接在电脑上打开浏览：<a href="https://www.xiaobaozha.com" rel="nofollow">https://www.xiaobaozha.com</a></strong></p>
+<h3><strong>七，数据入库</strong></h3>
+<p>    数据入库是一个重复且工作量巨大的维护环节，前面我们说了要轻维护，自然不能接受这种低效重复的工作。所以我用Scrapy写了一个脚本，脚本的功能主要是支持一键爬取某个栏目的所有数据（如：专栏介绍、专栏内容、免费试读、专栏统计等），脚本实现起来比较简单。</p>
+<p>    这里要注意一下，小报童官方会给每个用户的合伙人链接生成一个固定的推荐ID，类似这样refer=4182y546-d4fc-4b2f-894f-6ec1a1bd224e，其中4182y546-d4fc-4b2f-894f-6ec1a1bd224e即是你的推荐ID，分享链接的时候务必携带这个参数。</p>
+<p>    如果你也在使用scrapy，强烈推荐你使用在github开源的AyugeSpiderTools提升scrapy生产力工具，作者ayuge已经对scrapy封装了settings，items，middlewares，pipelines通用的方法，这样你只需要专注spider的脚本编写。</p>
+<p><strong>AyugeSpiderTools开源地址：</strong></p>
+<p><a href="https://github.com/shengchenyang/AyugeSpiderTools">https://github.com/shengchenyang/AyugeSpiderTools</a></p>
+<h3><strong>八，脚本部署</strong></h3>
+<p>    脚本部署我原来使用的是crawlab，但是由于它集成了mongodb数据库，为了节省服务器资源，后来我换成了scrapydweb，它使用的sqlite更轻量，同样支持自动部署、定时爬取任务、统计等。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aa6541c7dca48d9688c413d2f82a46a77f7e2837a4654702d9f2935d8acb3f2f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e3667747967756662646e66367132376f73376b64526d63717259583736346e6b73496765365539454170567a766a386a7377307854512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/aa6541c7dca48d9688c413d2f82a46a77f7e2837a4654702d9f2935d8acb3f2f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e3667747967756662646e66367132376f73376b64526d63717259583736346e6b73496765365539454170567a766a386a7377307854512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/hfAPnEhDvPrqMZ3ReFM4Tz8Lcoc3RL1n6gtygufbdnf6q27os7kdRmcqrYX764nksIge6U9EApVzvj8jsw0xTQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3><strong>九，网站部署上线</strong></h3>
+<p>    React+Prisma人工部署同样是重复些低效的任务，当你每次修改完代码之后，需要打包、上传、安装新依赖、生成Prisma、执行数据库合并、重启服务等等，所以我使用了Github Actions，通过deploy.yml脚本，当你提交代码即可完成了所有的这些部署环节。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfc05e372c4a1ffb8d0ca56a04f599308803fea350daedf86b3b975351326e9b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e3176534a467a54656961686f46386169636c4c68547a4b374d3650426a5a7369615844344554334b5969616e6f35326d68356e707250413468772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bfc05e372c4a1ffb8d0ca56a04f599308803fea350daedf86b3b975351326e9b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f686641506e456844765072714d5a335265464d34547a384c636f6333524c316e3176534a467a54656961686f46386169636c4c68547a4b374d3650426a5a7369615844344554334b5969616e6f35326d68356e707250413468772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/hfAPnEhDvPrqMZ3ReFM4Tz8Lcoc3RL1n1vSJFzTeiahoF8aiclLhTzK7M6PBjZsiaXD4ET3KYiano52mh5nprPA4hw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3><strong>十，写到最后</strong></h3>
+<p>    此Build in public项目分享主要根据轻资产、轻维护、轻售后原则选项目，通过ename购买老域名，前端使用umi+react，数据库orm使用prisma，数据库使用mysql，维护入库使用scrapy的封装库AyugeSpiderTools，脚本部署和任务执行：scrapydweb，代码版本管理和部署使用github+actions。</p>
+<ul>
+<li>
+<p><strong>时间成本：</strong> 一周时间(30小时左右)，其中AI完成了70%-80%的代码量</p>
+</li>
+<li>
+<p><strong>资金成本：</strong> 80元（购买域名） + 70元（claude3.5 AI/月租），其中服务器未采购,使用原有的服务器，总计150元.</p>
+</li>
+<li>
+<p><strong>维护成本：</strong> 无，(脚本实现)</p>
+</li>
+</ul>
+<p><strong>种一棵树最好的时间是十年前，其次是现在！</strong></p>
+<p>  选择半衰期长的行业，Affiliate不应该仅着眼于短期项目，而是要做长期主义，享受复利，这是最近在做的项目的一些心得理解，分享给各位。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="陆陆续续折腾软路由2年多了，越来越发现，软路由不单纯是一个路由器了，更多是一个**家用服务器**。">
+<meta property="og:title" content="软路由怎么选，看这一篇就够了">
+<meta property="og:description" content="陆陆续续折腾软路由2年多了，越来越发现，软路由不单纯是一个路由器了，更多是一个**家用服务器**。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/ruan-lu-you-zen-me-xuan-%EF%BC%8C-kan-zhe-yi-pian-jiu-gou-le.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>软路由怎么选，看这一篇就够了</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">软路由怎么选，看这一篇就够了</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/696" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>陆陆续续折腾软路由2年多了，越来越发现，软路由不单纯是一个路由器了，更多是一个<strong>家用服务器</strong>。之前写过一篇关于软路由能干啥的，其实很多都超出路由上网的范畴了。</p>
+<p>作为家用服务器这类，需要满足<strong>长期运行</strong>、<strong>网络灵活</strong>、<strong>性能满足要求</strong>等几个方面，所以大家都把目光注意到路由器上，才有软路由这一说。目前软路由的形态主要有如下几种</p>
+<ul>
+<li>
+<p>家用路由器，刷软路由固件，这个比较常见。</p>
+</li>
+<li>
+<p>虚拟机，可以是自己PC或者笔记本上的虚拟机。长期运行稳定性有所欠缺，电耗也大。</p>
+</li>
+<li>
+<p>一些专门的软路由硬件，有成品的小盒子机器，也有单纯板子自己组装。这个可能是最好的选择了。</p>
+</li>
+</ul>
+<p>不过对我们家庭用户来说，选择软路由的需要考虑什么，说下我的看法，考虑优先级从高到低分别如下：</p>
+<p>最基本的，需求驱动业务。明确你想要的是什么，如果单纯只是上网，那普通家用路由器就行了，完全不用软路由。如果你想研究一下下面的某一个或者多个场景</p>
+<ul>
+<li>
+<p>iptv融合</p>
+</li>
+<li>
+<p>vpn/科学上网</p>
+</li>
+<li>
+<p>异地组网</p>
+</li>
+<li>
+<p>NAS</p>
+</li>
+<li>
+<p>跑各类脚本，如青龙</p>
+</li>
+<li>
+<p>跑某些需要长期挂机的业务（python、php之类的脚本） 那可以考虑上软路由了。但是上什么样的软路由，可以继续往下看。</p>
+</li>
+</ul>
+<p>软路由灵活，所以很多东西都要靠人去折腾。这就对个人的动手能力和技术水平有要求。尽管很多软路由的固件（ikuai、iStoreOS等），都打包了很多多功能，但是这些功能，也需要一些技术基础才行。这里总结下一些基本的技术，如有不对，各位批评指正。</p>
+<ul>
+<li>
+<p>基本的网络知识，什么路由、交换机、防火墙技术等</p>
+</li>
+<li>
+<p>基本的linux系统知识，常见的命令，shell等。</p>
+</li>
+</ul>
+<p>当然，你以上技术都不具备，你有<strong>钞能力</strong>，哈哈哈，也行。现在淘宝，咸鱼、各种论坛，群都有这样的资源，可以直接找人来搞。</p>
+<p>选择软路由，需要考虑下家庭环境的网络布线，以及安装环境。如果你是工厂或者办公室一类有专门的弱电机房，当我没说。现在很多家庭的组网可能都是这样：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fee798c4101588c3c66ba146500c38c6003a037e61eb495059ca83b96ff2689f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f584d72396d4a6d435a76466e626737347a69624e556e4e6c4f4c3379417441696131443356536e45327a30536545444f567142426f777358634a645269623435574e336454725a544a79574572385078706654435252504d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fee798c4101588c3c66ba146500c38c6003a037e61eb495059ca83b96ff2689f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f584d72396d4a6d435a76466e626737347a69624e556e4e6c4f4c3379417441696131443356536e45327a30536545444f567142426f777358634a645269623435574e336454725a544a79574572385078706654435252504d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/XMr9mJmCZvFnbg74zibNUnNlOL3yAtAia1D3VSnE2z0SeEDOVqBBowsXcJdRib45WN3dTrZTJyWEr8PxpfTCRRPMA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>你上了软路由，考虑下安装在什么地方。如果在弱电箱，需要考虑弱电箱的散热问题。我之前就是在弱电箱放了一个光猫，加了一个rax3km的路由器，因为弱电箱的局限，导致路由器经常断流，丢包。如果放在客厅或者某一个房间，首先要考虑信号覆盖问题，另外就是后续软路由使用一系列的问题，比如你是用路由器拨号，还是光猫拨号，你是准备做主路由，还是做旁路路由，各个房间网络设备互访的问题等。</p>
+<blockquote>
+<p>说到这里，也给正在装修或者准备装修的同学一点建议， 今后智能家居越来越火，需要联网的终端也越来越多，建议<strong>1）：弱电箱到每一个房间</strong>尽量<strong>都留线，至少用那种好一点的6类线；2）尽量保证弱电箱通风条件，建议不要遮挡隐藏起来</strong>。</p>
+</blockquote>
+<p>软路由的可扩展性，主要体现在几个方面：<strong>网络</strong>、<strong>内存</strong>、<strong>硬盘</strong>。</p>
+<ul>
+<li>
+<p><strong>处理器</strong>（CPU） 在你选择板子或者型号的时候就定了，这里就不说了。</p>
+</li>
+<li>
+<p><strong>网络</strong>主要是网卡，考虑到路由器的尺寸，网卡都是集成到主板上的。所以这里尽量选择<strong>万兆</strong>或者<strong>25GE</strong>的，这应该是市面上目前最高的速率了。另外考虑下是<strong>否需要无线网卡</strong>（如果没有，那就只有后期加AP了）。另外<strong>网口数量</strong>也需要关注下，单网口基本啥也干不了，至少2个起，否则就是一台性能低下的主机了。</p>
+</li>
+<li>
+<p><strong>内存</strong>这里其实有个小坑，很多人认为我随便淘个二手的内存条加上去就行了，其实是有问题的，也是很多人买了内存点不亮的原因。这个是完全受限处理器的， 这里以最火的N100处理器举例，他支持的内存如下：框起来的部分，最大容量16G，这个没啥说的，不过集合其中Max # of Memory Channels表示最大支持几根内存条，1就是1根，所以这里如果加一根32G的内存条，估计也是点不亮的；支持内存条数这个在主板上也有体现，留了几个槽位给你，就支持几个。Memory Types这里表示支持的内存的类型，ddr4起，然后频率是3200MT/s， 所以你买个一个DDR4 2666MT/s的，大概率是点不亮的。想要加内存的时候，看下你的主板，以及处理器支持的情况，不要盲目选择。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/68058a57279270d940c7b53d63bd581ca99f8e123a4a3538e80ee166b8fdd73e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f584d72396d4a6d435a76466e626737347a69624e556e4e6c4f4c337941744169613169625769616f6132416a676962716362575646626131334c4845616d357372346b6f3961314c4c327a376432643469634b56537449704e4a53772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/68058a57279270d940c7b53d63bd581ca99f8e123a4a3538e80ee166b8fdd73e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f584d72396d4a6d435a76466e626737347a69624e556e4e6c4f4c337941744169613169625769616f6132416a676962716362575646626131334c4845616d357372346b6f3961314c4c327a376432643469634b56537449704e4a53772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/XMr9mJmCZvFnbg74zibNUnNlOL3yAtAia1ibWiaoa2AjgibqcbWVFba13LHEam5sr4ko9a1LL2z7d2d4icKVStIpNJSw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p><strong>硬盘</strong>增加硬盘，主要是想做NAS的同学考虑的了。这个直接看主板吧，给你留了几个接口，一般估计会有一个M.2的nmve，一个sata接口，具体根据主板来看吧。这里需要注意下支持的HDD硬盘的尺寸，一般可能都是2.5寸的。</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ee135f9db42959fb9af117cb0d7ca401da6333b03df73d0ecb2ea1bfc01cf2f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f584d72396d4a6d435a76466e626737347a69624e556e4e6c4f4c3379417441696131574b447038304345763673724279476650366c6c486162774b6b4b3573696272635941416961627738304267574645336c563367736e63412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ee135f9db42959fb9af117cb0d7ca401da6333b03df73d0ecb2ea1bfc01cf2f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f584d72396d4a6d435a76466e626737347a69624e556e4e6c4f4c3379417441696131574b447038304345763673724279476650366c6c486162774b6b4b3573696272635941416961627738304267574645336c563367736e63412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/XMr9mJmCZvFnbg74zibNUnNlOL3yAtAia1WKDp80CEv6srByGfP6llHabwKkK5sibrcYAAiabw80BgWFE3lV3gsncA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这里主要是说CPU的性能。基本上x86的（Intel和Amd）是强于Arm架构的。另外，就是同样的架构下，新一代的cpu应该是强于老一代的。以目前Intel的来举例，最新的12代的CPU里面，n100，是强于过往的4100，5105、4125这些的。另外就是基于你的需求，有些特性只有某一个CPU才有，比如玩NAS的需要的硬件解码，在一些新一代的cpu上才有。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e07bb8a82240a7ed9e7c8f48a944eebaee2ae6ff84528755b5417ae2c313a2f8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f584d72396d4a6d435a76466e626737347a69624e556e4e6c4f4c3379417441696131383931336961566f35335969626847474874496f6f386633545032696232696367723459674b6a44615344334a777772483865327a37616c6c512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e07bb8a82240a7ed9e7c8f48a944eebaee2ae6ff84528755b5417ae2c313a2f8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f584d72396d4a6d435a76466e626737347a69624e556e4e6c4f4c3379417441696131383931336961566f35335969626847474874496f6f386633545032696232696367723459674b6a44615344334a777772483865327a37616c6c512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/XMr9mJmCZvFnbg74zibNUnNlOL3yAtAia18913iaVo53YibhGGHtIoo8f3TP2ib2icgr4YgKjDaSD3JwwrH8e2z7allQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>以上就是我建议的购买软路由考虑的点，说了这么多，也分享下我怎么选择的吧，供大家参考。基于以上考虑，我一开始只想折腾iptv，我就二手市场淘了一个RAX3000M，从刷固件到融合配置，都很顺利。但是老的arm架构的处理器，256的内存，除了上网，干不了其他的。用了一段时间后，因为和光猫一起，夏天发热严重，丢包断流情况比较严重，然后就考虑换了。换的时候对比了下，综合考虑，买新不买旧，还是选了N100空壳版，600出头一点，带了4个2.5G的网卡。然后京东选了一个16G的内存，一个500G的M2.nvme。目前运行稳定，性能也完全够用了，安装的pve系统，上面跑了一个openwrt的软路由虚拟机，还有一个nas虚拟机，日常存放点照片以及短期要看的电视电影，以及一个ubuntu，跑了一些日常的python脚本。</p>
+<p>如果你赞同给我的观点，可以给我一个大拇指，如果不同意，欢迎留言讨论。</p>
+<p>- END -</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

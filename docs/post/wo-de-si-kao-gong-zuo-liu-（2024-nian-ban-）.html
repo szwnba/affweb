@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/mmbiz_png/yWXmuSFeCk34MjErlWiaM2lStcX5On9UHrRGdmgunpTkvx1ARQc2tn2IFAqKgS0o8DJlZEzzWdvWL3l6edAyMXA/640?wx_fmt=png&from=appmsg)
+
+  
+
+**本文编号 240111**
+
+**全文共有 4500 字**
+
+**如果觉得页面很长**
+
+**那是因为留言很多**
+
+去年底，我对自己的思考工作流程又做了一些优化和改进，把它变得更为简洁、清晰。">
+<meta property="og:title" content="我的思考工作流（2024年版）">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/mmbiz_png/yWXmuSFeCk34MjErlWiaM2lStcX5On9UHrRGdmgunpTkvx1ARQc2tn2IFAqKgS0o8DJlZEzzWdvWL3l6edAyMXA/640?wx_fmt=png&from=appmsg)
+
+  
+
+**本文编号 240111**
+
+**全文共有 4500 字**
+
+**如果觉得页面很长**
+
+**那是因为留言很多**
+
+去年底，我对自己的思考工作流程又做了一些优化和改进，把它变得更为简洁、清晰。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wo-de-si-kao-gong-zuo-liu-%EF%BC%882024-nian-ban-%EF%BC%89.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>我的思考工作流（2024年版）</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我的思考工作流（2024年版）</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/359" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e61adbcf8f61f0e53dcd99281667d56eb914bdfdb47d6820504d8c94f80213fd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33344d6a45726c5769614d326c53746358354f6e395548725247646d67756e70546b7678314152516332746e32494641714b6753306f38444a6c5a457a7a576476574c336c36656441794d58412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e61adbcf8f61f0e53dcd99281667d56eb914bdfdb47d6820504d8c94f80213fd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33344d6a45726c5769614d326c53746358354f6e395548725247646d67756e70546b7678314152516332746e32494641714b6753306f38444a6c5a457a7a576476574c336c36656441794d58412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/yWXmuSFeCk34MjErlWiaM2lStcX5On9UHrRGdmgunpTkvx1ARQc2tn2IFAqKgS0o8DJlZEzzWdvWL3l6edAyMXA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>本文编号 240111</strong></p>
+<p><strong>全文共有 4500 字</strong></p>
+<p><strong>如果觉得页面很长</strong></p>
+<p><strong>那是因为留言很多</strong></p>
+<p>去年底，我对自己的思考工作流程又做了一些优化和改进，把它变得更为简洁、清晰。</p>
+<p>因此，今天我想把它分享给大家，希望能给你一些启发。</p>
+<p>我的核心方法论依然是我自己提出的**「INKP知识管理法」**（参见《打开心智》第五章）。如果你也在践行这套方法，那这篇文章应该能给你一些指引。</p>
+<p>当然，如果你用的是别的方法，也不要紧，因为许多技巧其实都是通用的，你完全可以把它揉合到自己的实践里面。</p>
+<p>好的方式并不被具体的方法和工具所束缚，它应当是通用的。</p>
+<p>希望这篇文章，能够帮你完善和构建自己的思考工作流。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/yWXmuSFeCk3Bn6XzqGMbK9EcZjbGoRJytuR3H8jAgf62lEF7w9mrpUwibbjqDn42ETt37R6Yr2Oxr5ReyVxRiaoA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>1. 收集</strong></p>
+<p>一个经常被人忽略，但又至关重要的做法是：<strong>及时把你的想法记下来。</strong></p>
+<p>我们每天会有超过6000个想法。哪怕这些想法只有1%是有用的，那也有60个。只要这60个能够有10%为我们所用，也能创造不菲的价值了。</p>
+<p>但是，大多数想法都是转瞬即逝的 —— 它们往往存在于一瞬间的闪念里。可能是对阅读到的内容的联想，可能是对某件事项或任务的灵感，可能是对未来的一个计划……</p>
+<p>它们持续的时间非常短，可能只有几秒钟，随即就被新的想法、新的信息所吸引注意力。</p>
+<p>因此，维护一个能够及时记录想法的流程，就尤为重要。它只是一个最简单的步骤，但却是整个思考工作流的入口和第一环节。</p>
+<p>————</p>
+<p>我目前在电脑上的想法收集方式是：<strong>Quicker + QuickAdd（Obsidian 插件）+ Obsidian Web（Chrome 插件）</strong>。基本能够实现「无摩擦」的信息快速捕获。</p>
+<p>我在 Obsidian 中用 QuickAdd 插件设置了一个「速记」命令，指定一个快捷键（比如 Ctrl+0）。再在 Quicker 里创建一个动作，内容为：切换到 Obsidian，并按下 Ctrl+0。最后为这个 Quicker 动作设置快捷键 F2。</p>
+<p>于是，就实现了这样的效果：在任何一个软件里面，不论是读书、还是看网页，只要我产生了任何想法，随时按下F2，就能立刻在 Obsidian 中新建一页笔记，并储存到我指定的路径里面。</p>
+<p>如果我想保存网页文本，就选中欲保存的文本，按下浏览器插件栏的 Obsidian Web 按钮，就可以把网页的网址、标题和选中文本传递到 Obsidian 的新笔记里面，保存到我指定的路径。</p>
+<p>移动端上则更简单。我在 iOS 上写了个快捷指令，点一下，输入文字，就能把想法储存到指定位置了。</p>
+<p>以上这些信息都会储存到我在 Obsidian 里的「Inbox」文件夹里面。我在 Obsidian 里新建了一个主页，用 dataview 插件列出 Inbox 文件夹里的所有笔记。这样每次打开 Obsidian，我都能第一时间看到所有我添加进来的想法。</p>
+<p>————</p>
+<p>把所有的想法捕获起来之后，就需要抽空对它们进行整理。我一般会每周花三到四次，在有空的时候，花一点时间浏览一下近几天记录下来的新想法，看看如何发展和使用它们，如何「榨取」它们的价值。</p>
+<p>如果是一个可以立即去行动的想法，比如试用某某软件、尝试某某技巧……我会把它记录到滴答清单的「行动清单」里面，安排时间去执行。</p>
+<p>如果这个想法关乎一个陌生的新知识点，我会给它打上一个 #课题 的标签，亦即告诉自己「这是一个待学习的知识点」。然后在我安排好的学习时间，我会打开#课题 清单，随意挑选一个进行研究。</p>
+<p>如果它是一个灵感或点子，我会打上一个 #跟进 的标签，放入滴答清单的「跟进清单」里面。这样在我有空的时候，或者无事可做的碎片时间里，就可以打开这张清单，对里面的内容进行思考、考量，看能否发展成一个成型的项目。</p>
+<p>如果我觉得它很适合写成文章分享出来，我会打上一个 #选题 的标签。然后在我有空的时候，再想一想如何把它阐述出来、讲清楚。可能写成一篇短文，作为我的素材放入素材库，供以后使用；也可能分享到学员群里。等等。</p>
+<p>————</p>
+<p>这个过程是流动的、动态的。比如我收集到一个概念，叫作「思维链」，我对它很感兴趣，就打上一个 #课题 的标签。过两天我有空了，就打开 #课题 列表，找到「思维链」这个条目，对它进行主题研究，研究得到的信息和想法都记在这页笔记里面。</p>
+<p>经过几次研究，我觉得告一段落了，就再给它打上 #N 的标签，把它放入 N 里面，再在「人工智能」这个 K 里面引用它，把它放入我的知识体系里。</p>
+<p>进一步，我想用思维链的技巧尝试一下跟 ChatGPT 对话，就可以给它再打一个 #P 的标签，然后记录我使用它所得到的反馈、感受和心得。最后，我觉得可以把它写成一篇短文，总结我对它的理解和经验，那么再打上一个 #选题 的标签……</p>
+<p>所有的每一步都一清二楚。我想要做的，只是把它放在我需要的位置，再在安排好的时间里去发展它。就这样，一步步对一个又一个想法去处理，让它们扎根、生长，最终开花结果，成为我的收获。</p>
+<p>这就是一个「流动」的过程 —— 它也是我在 INKP 知识管理法里面多次强调的核心：<strong>「让知识流动起来」。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/yWXmuSFeCk3Bn6XzqGMbK9EcZjbGoRJytuR3H8jAgf62lEF7w9mrpUwibbjqDn42ETt37R6Yr2Oxr5ReyVxRiaoA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>2. 阅读</strong></p>
+<p>我讲过许多阅读的方法和技巧，如果要说哪一个是性价比最高、最容易入门的，我想，应该是**「提问式阅读」**了。</p>
+<p>什么是提问式阅读呢？简单来说，就是以问题为核心，用问题来驱动自己的阅读。一本书摆在你面前，你可以正着读，倒着读，跳着读，只读一部分，甚至不局限于这本书、可以去找其他资料来辅助学习，这些都无关紧要，你唯一要考虑的就是：<strong>它能如何解答我的问题？</strong></p>
+<p>简单分享一下我自己的操作流程。</p>
+<p>当我准备看一本书的时候，我会先看一下目录，大致了解这本书的篇章结构；然后快速翻一下每个章节，看一下前几段和后几段，大概了解这本书想讲什么，怎么讲。</p>
+<p>然后，我会针对这本书的内容，依照自己已有的知识背景和好奇心，提出若干个问题。这些问题就是我希望从这本书里得到的解答，也是它能够为我提供的收获。</p>
+<p>阅读的时候，我会以这几个问题为主，不局限于作者自己的篇章结构，而是以这几个问题为主线，去寻找一切能够解决问题的内容，并把它们写到笔记里面。</p>
+<p>————</p>
+<p>举个例子：</p>
+<p>比如我前段时间读 David Chalmers 的《Reality+》，我就提了这么一连串问题：</p>
+<ul>
+<li>
+<p>我们有多大的可能性生活在一个虚拟世界中？</p>
+</li>
+<li>
+<p>哲学家如何看待虚拟世界的问题？他们的视角和思考方式是什么？</p>
+</li>
+<li>
+<p>物理学家如何看待虚拟世界的问题？他们提出了什么方式来验证或证伪？</p>
+</li>
+<li>
+<p>我们是否有可能知道自己是否生活在一个虚拟世界中？如果有可能，可以通过什么方式来知道？</p>
+</li>
+<li>
+<p>有哪些知名学者持虚拟世界的观点？为什么？</p>
+</li>
+<li>
+<p>有哪些知名学者持反对观点？为什么？</p>
+</li>
+</ul>
+<p>……</p>
+<p>那么，在阅读的时候，这些问题就是优先级最高的内容。跟这些问题相关的，我会进一步去精读，并思考能否对回答我的问题起到帮助和作用。而跟这些问题无关的，那就是我暂时不感兴趣的内容，我可能会直接跳过，或者大致瞥一眼，但不会看得太细。</p>
+<p>一旦某个问题得到了比较满意的解答，我就会把它单独做成一页笔记，然后打上标签#N ，再把它放入对应的主题里面（按这个例子来讲，就是「虚拟世界」），作为我的一个思考成果。</p>
+<p>————</p>
+<p>所以，我其实很少「一字不落」地「读完一本书」，因为我读书往往是这样的：一本书可能会读好几遍，第一遍可能只读10%，第二遍可能再读10%……每一遍，我想从中「搜寻」的内容和问题都不一样。</p>
+<p>同样，我一般不会只读一本书，而是同时读好几本书。这几本书可能是同一个领域的，也可能属于不同领域，这并不重要。</p>
+<p>对我来说，「阅读」并不是一种仪式，也不是一件神圣的事情，它只是一种获取信息的方式，仅此而已。书是信息的载体，经验也是，人也是。天地之间一切都可以承载信息，而我要做的只是去经历它们，把它们拾掇起来，化为己用。</p>
+<p>这就是**「以我为主，为我所用」**，也是我一直在提倡和践行的学习理念。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/yWXmuSFeCk3Bn6XzqGMbK9EcZjbGoRJytuR3H8jAgf62lEF7w9mrpUwibbjqDn42ETt37R6Yr2Oxr5ReyVxRiaoA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>3. 观点</strong></p>
+<p>我在 INKP 知识管理法里讲到过：我的知识体系，都储存在主题K里面。<strong>一个主题就是一棵知识之树。</strong> 打开一个主题，里面储存的，就是我对这个话题所知道的、我认为有必要记录下来的信息。</p>
+<p>那么这些信息包含什么呢？大体上，可以分为两大类：<strong>一类是「概念」，另一类是「观点」。</strong></p>
+<p>这两者其实没有什么本质区别。唯一的区别在于：前者通常来说是我「学习到」的内容，是外在的、客观的；而后者是我思考加工之后得出的结论，属于「我的看法」。</p>
+<p>我在《打开心智》里面提到：<strong>阅读最重要的，并不是记住作者讲了什么，而是形成了自己的看法。这才是你从阅读中得到的真正收获。</strong></p>
+<p>简单来说：对于一个主题，你可能会获取到许多信息，这些信息可能涵盖许多方面，内容五花八门，那么，你如何总结它们？如何对这个主题形成一个整体的、凝练的看法和观点？</p>
+<p>再比如，这些信息可能并不一致，彼此有不同的观点和立场，那么你如何去统合它们？你如何判断哪个立场是更合理的，哪些观点是更有力的？你如何从更高的层次去看待这些争论，得出属于你自己的看法？</p>
+<p>这就是你对这个主题真正的思考成果，也是真正属于你的东西。</p>
+<p>————</p>
+<p>这些观点可大可小。举个小的例子：市面上对于「合适的睡眠时间」一直有很多说法，你可能会从不同的渠道得到不同的说法，那么如何把这些说法整合起来？你能不能用最简洁的语言告诉我，究竟最合适的睡眠时间是什么？</p>
+<p>这就是一个小的观点。它放在我的「睡眠」主题里面，是这个主题的一个重要的内容。</p>
+<p>再举个一个大一点的例子：比如意志力。近几十年以来，学术界对意志力一直莫衷一是，有着许许多多的说法。</p>
+<ul>
+<li>
+<p>有的认为意志力是一种「心理肌肉」，可以靠训练来加强；</p>
+</li>
+<li>
+<p>有的认为意志力是一种「心理能量」，是有限的，用完了就需要恢复；</p>
+</li>
+<li>
+<p>有的认为意志力跟某些生理因素密切相关，比如细胞的代谢物质累积；</p>
+</li>
+<li>
+<p>有的认为意志力是一个冗余的、不必要的概念，它只有当你自己认为「意志力有限」时才产生作用……</p>
+</li>
+</ul>
+<p>这些都是外在的、客观的讨论和研究。那么，读完这些研究，我的看法是什么？我又如何用逻辑和论据来支撑我的看法？</p>
+<p>比如：假如我认为「意志力无限」是对的，那么我可能需要回答这些问题：</p>
+<ul>
+<li>
+<p>我有没有实际证据、案例和经验来论证它？</p>
+</li>
+<li>
+<p>过往跟意志力相关的研究，实际上可能是别的什么因素在起作用？</p>
+</li>
+<li>
+<p>如果意志力是多余的，那么它可以被别的什么所解释？</p>
+</li>
+<li>
+<p>如果意志力是不必要的，那么有什么更好的模型/框架能替代它？</p>
+</li>
+<li>
+<p>从我的角度出发，更好、更全面看待意志力的角度是什么？</p>
+</li>
+</ul>
+<p>……</p>
+<p>————</p>
+<p>一旦我把这些问题思考清楚，把这些论据和逻辑补充清楚，并把它简明扼要地讲清楚，它就形成了一个观点 —— 也就是我对这个话题所学习和思考的最终成果。</p>
+<p>当然，观点不一定是永远正确的，它随时有可能被新的研究和信息所推翻或修正。因此，永远要保持开放的心态，<strong>永远不要忘了问一句话「倘若我错了，会怎么样？」</strong></p>
+<p>我们去学习和思考，其实就是要积累一个又一个的「观点」，并把它们放置在对应的主题里面，构建我们的知识体系。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/yWXmuSFeCk3Bn6XzqGMbK9EcZjbGoRJytuR3H8jAgf62lEF7w9mrpUwibbjqDn42ETt37R6Yr2Oxr5ReyVxRiaoA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>最后，聊一个要点。</p>
+<p>许多人最常见的问题可能是什么呢？<strong>只收集，但从来不整理。</strong></p>
+<p>这就导致了，收集到的信息永远是杂乱的、零散的，没有能够把它们转化成有效的知识，让它们发挥价值。</p>
+<p>这种现象也很好理解：收集能给我们一种获取新事物的新鲜刺激，会极大地促进多巴胺的产生，但整理不能。实际上，许多人可能一想到要整理，就觉得十分厌烦。宁可让信息在笔记里永久积灰，也不愿意去碰它们。</p>
+<p>怎么解决这个问题呢？我自己的做法是：<strong>从整理和输出里面获得反馈，把它们也变成一种乐趣。</strong></p>
+<p>比如：</p>
+<ul>
+<li>
+<p>回顾旧知识的时候，通过标题回忆内容进行测试，就可以成为一种乐趣；</p>
+</li>
+<li>
+<p>获取新知识时，回忆跟其相关的旧知识，进行联系、串联，也可以成为一种乐趣；</p>
+</li>
+<li>
+<p>以某个主题为核心，把跟主题相关的知识卡片/概念笔记整理进来，做成一个「集卡游戏」，也是一种乐趣；</p>
+</li>
+<li>
+<p>把一系列杂乱的信息梳理清楚，系统地呈现自己的观点和看法，把一个问题讲清楚，也是一种乐趣；</p>
+</li>
+<li>
+<p>把自己的观点写成文章发表出来，或者告诉朋友、跟朋友讨论，也是一种乐趣……</p>
+</li>
+</ul>
+<p>把这些看似枯燥无聊的事情变成乐趣，你就不会再去排斥它们。</p>
+<p>当然，这可能需要一些时间的习惯和适应，并不那么简单。但我希望，这能够成为每个人的习惯，让我们的思维最大化地开动起来，真正把知识化为己用。</p>
+<p>囤积的，只是资料；能用的，才是知识。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/8848fcbbfe9dfb3c3125b1dfaeaf0dfe9b04546c6c7e8583b8c028dd5ae6c650/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b33426e36587a71474d624b3945635a6a62476f524a797475523348386a41676636326c45463777396d727055776962626a71446e3432455474333752365972324f78723552657956785269616f412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/yWXmuSFeCk3Bn6XzqGMbK9EcZjbGoRJytuR3H8jAgf62lEF7w9mrpUwibbjqDn42ETt37R6Yr2Oxr5ReyVxRiaoA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>——  闲聊时刻  ——</strong></p>
+<p>这是我 2024 年的思考工作流。今年可能会继续做一些优化和调整，但应该不会很大了。后面有优化的话，再分享给大家。</p>
+<p>最后，分享一下我用到的软件工具：</p>
+<p>我的笔记工具是 Obsidian。其实什么工具都可以，Obsidian 只是因为它足够灵活和轻便。你也可以用 Notion、Onenote、印象笔记、Apple Note……顺手的就行。</p>
+<p>我的自动化工具是 Quicker。它可以设定一系列的动作，实现一键完成复杂的任务，对于需要多次重复操作的事项，可以节省不少时间。</p>
+<p>我的任务管理工具是滴答清单。同样，选择它是因为足够轻便灵活。你可以用任何自己喜欢的工具去替代它。</p>
+<p>具体关于工具，可以参阅：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzAxNTY0NjEzNg==&amp;mid=2247487884&amp;idx=1&amp;sn=9b20f0c9d2d7a781032856808aff0443&amp;chksm=9b81bd5bacf6344d7a27c4147c0ecaae2827869426f471d054b4088d7946832330eeff44fb27&amp;scene=21#wechat_redirect" rel="nofollow">分享我的工具库（2024年版）</a></p>
+<p>关于我的整个工作流程，可以参阅：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzAxNTY0NjEzNg==&amp;mid=2247487709&amp;idx=1&amp;sn=6b7c000dbb53907675f4ac833ab862f2&amp;chksm=9b81bc0aacf6351c6f82e51225573fc7aad3c971a8988d320aaf8bddb34c1555534024643631&amp;scene=21#wechat_redirect" rel="nofollow">分享我的 2023 版生活管理流程图</a></p>
+<p>祝大家开年一切顺利~</p>
+<p><strong>————</strong></p>
+<p><strong>这是近期的其他文章：</strong></p>
+<p><strong><a href="http://mp.weixin.qq.com/s?__biz=MzAxNTY0NjEzNg==&amp;mid=2247487930&amp;idx=1&amp;sn=10cb13e00eac71ac878387f797d9c81d&amp;chksm=9b81bd6dacf6347b6e0f6ade06faa0c36dd7baec423d3b3741ece2b4541c0d72857613c59050&amp;scene=21#wechat_redirect" rel="nofollow">2024年，我的一点小建议</a></strong></p>
+<p><strong><a href="http://mp.weixin.qq.com/s?__biz=MzAxNTY0NjEzNg==&amp;mid=2247487910&amp;idx=1&amp;sn=3251a61def836b63c329aa2203e20afb&amp;chksm=9b81bd71acf63467d3ca00e4944b63031c0255decea03ba21510315ed89a03d8dd5bf5cfd672&amp;scene=21#wechat_redirect" rel="nofollow">你不快乐的每一天，都不是你的</a></strong></p>
+<p><strong><a href="http://mp.weixin.qq.com/s?__biz=MzAxNTY0NjEzNg==&amp;mid=2247487904&amp;idx=1&amp;sn=493735c4e2a37cea344d9a786d1dbc2a&amp;chksm=9b81bd77acf63461a5c16fef5b1b8af0a500b7b25684b608b5ae067bb1c10715ed9596b73f89&amp;scene=21#wechat_redirect" rel="nofollow">心情不好时，请打开这份清单</a></strong></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzAxNTY0NjEzNg==&amp;mid=2247487877&amp;idx=1&amp;sn=941e46984c69ea8f1a819b92bd188484&amp;chksm=9b81bd52acf6344490684af277149e53329d68bb239862a0087f5899844e99bcaca00661ba65&amp;scene=21#wechat_redirect" rel="nofollow"><strong>别再习惯性逃避了</strong></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6ee5bd5e12631e6f95e892cc45eb70b3f279d03a8384e29236d9ec7a32469923/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7957586d75534665436b3269616d35764a593631466f396e766f593372447036696269617a58707a6961474c67577175626c7a3363314f6b4b6f326d57434a665844737436426b69614b41444433504b696375316a6d356d5a696236412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/6ee5bd5e12631e6f95e892cc45eb70b3f279d03a8384e29236d9ec7a32469923/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7957586d75534665436b3269616d35764a593631466f396e766f593372447036696269617a58707a6961474c67577175626c7a3363314f6b4b6f326d57434a665844737436426b69614b41444433504b696375316a6d356d5a696236412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/yWXmuSFeCk2iam5vJY61Fo9nvoY3rDp6ibiazXpziaGLgWqublz3c1OkKo2mWCJfXDst6BkiaKADD3PKicu1jm5mZib6A/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/327cb1bdac7100228facf438f8bd7db7563fcab3b57a6602db67729f77b8ef1a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b3269616d35764a593631466f396e766f59337244703669625a57706a545751415043627673445275684764474e544441426d3932627443316f3832424154735169634e5153345641476962706f6143772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/327cb1bdac7100228facf438f8bd7db7563fcab3b57a6602db67729f77b8ef1a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7957586d75534665436b3269616d35764a593631466f396e766f59337244703669625a57706a545751415043627673445275684764474e544441426d3932627443316f3832424154735169634e5153345641476962706f6143772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/yWXmuSFeCk2iam5vJY61Fo9nvoY3rDp6ibZWpjTWQAPCbvsDRuhGdGNTDABm92btC1o82BATsQicNQS4VAGibpoaCw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>THE END</p>
+<p>-  晚  安  -</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

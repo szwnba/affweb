@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="[Gmeek](https://github.com/Meekdai/Gmeek) 一个博客框架，超轻量级个人博客模板，完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`，可以称作`All in Github`。">
+<meta property="og:title" content="Gmeek快速上手">
+<meta property="og:description" content="[Gmeek](https://github.com/Meekdai/Gmeek) 一个博客框架，超轻量级个人博客模板，完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`，可以称作`All in Github`。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Gmeek-kuai-su-shang-shou.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Gmeek快速上手</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Gmeek快速上手</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/627" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a href="https://github.com/Meekdai/Gmeek">Gmeek</a> 一个博客框架，超轻量级个人博客模板，完全基于<code class="notranslate">Github Pages</code> 、 <code class="notranslate">Github Issues</code> 和 <code class="notranslate">Github Actions</code>，可以称作<code class="notranslate">All in Github</code>。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。</p>
+<h2>一、安装</h2>
+<p>Important</p>
+<p>安装及其简单，但是也要认真看下面的步骤，一步一步来。</p>
+<ol>
+<li>
+<p>【创建仓库】点击<a href="https://github.com/new?template_name=Gmeek-template&amp;template_owner=Meekdai">通过模板创建仓库</a>，建议仓库名称为<code class="notranslate">XXX.github.io</code>，其中<code class="notranslate">XXX</code>为你的github用户名。</p>
+</li>
+<li>
+<p>【启用Pages】在仓库的设置<code class="notranslate">Settings</code>中<code class="notranslate">Pages-&gt;Build and deployment-&gt;Source</code>下面选择<code class="notranslate">Github Actions</code>。</p>
+</li>
+<li>
+<p>【开始写作】打开一篇issue，开始写作，并且<strong>必须</strong>添加一个<code class="notranslate">标签Label</code>（至少添加一个），再保存issue后会自动创建博客内容，片刻后可通过<a href="https://xxx.github.io/" rel="nofollow">https://XXX.github.io</a> 访问（可进入Actions页面查看构建进度）。</p>
+</li>
+<li>
+<p>【手动全局生成】这个步骤只有在修改<code class="notranslate">config.json</code> 文件或者出现奇怪问题的时候，需要执行。</p>
+</li>
+</ol>
+<div class="highlight highlight-source-p4"><pre class="notranslate">通过<span class="pl-c1">Actions</span>-&gt;<span class="pl-c1">build</span> <span class="pl-c1">Gmeek</span>-&gt;<span class="pl-c1">Run</span> <span class="pl-c1">workflow</span>-&gt;里面的按钮全局重新生成一次</pre></div>
+<h2>二、配置文件</h2>
+<p>Tip</p>
+<p>按照安装步骤成功搭建好后，就可以阅读下面的内容修改配置文件啦。<br>
+注意修改配置文件后一定要手动全局生成一次，不然会报错。<br>
+如果对<code class="notranslate">json</code>格式不熟悉，建议先简单学习一下。</p>
+<p><code class="notranslate">config.json</code> 文件就是配置文件，在创建的仓库内可以找到，对应修改为自己的即可。</p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-kos">{</span>
+    <span class="pl-s">"title"</span>:<span class="pl-s">"Meekdai"</span><span class="pl-kos">,</span>
+    <span class="pl-s">"subTitle"</span>:<span class="pl-s">"童话是一种生活态度，仅此而已。"</span><span class="pl-kos">,</span>
+    <span class="pl-s">"avatarUrl"</span>:<span class="pl-s">"https://github.githubassets.com/favicons/favicon.svg"</span><span class="pl-kos">,</span>
+    <span class="pl-s">"GMEEK_VERSION"</span>:<span class="pl-s">"last"</span>
+<span class="pl-kos">}</span></pre></div>
+<p>以上是必须的字段，下面是可以自定义字段的描述，可以选择加入到<code class="notranslate">config.json</code>中。</p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-s">"displayTitle"</span>:<span class="pl-s">"Meekdai"</span><span class="pl-kos">,</span>
+<span class="pl-s">"homeUrl"</span>:<span class="pl-s">"http://blog.meekdai.com"</span><span class="pl-kos">,</span>
+<span class="pl-s">"faviconUrl"</span>:<span class="pl-s">"https://github.githubassets.com/favicons/favicon.svg"</span><span class="pl-kos">,</span>
+<span class="pl-s">"email"</span>:<span class="pl-s">"meekdai@163.com"</span><span class="pl-kos">,</span>
+<span class="pl-s">"startSite"</span>:<span class="pl-s">"02/16/2015"</span><span class="pl-kos">,</span>
+<span class="pl-s">"filingNum"</span>:<span class="pl-s">"浙ICP备20023628号"</span><span class="pl-kos">,</span>
+<span class="pl-s">"onePageListNum"</span>:<span class="pl-c1">15</span><span class="pl-kos">,</span>
+<span class="pl-s">"singlePage"</span>:<span class="pl-kos">[</span><span class="pl-s">"about"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+<span class="pl-s">"iconList"</span>:<span class="pl-kos">{</span><span class="pl-s">"music"</span>:<span class="pl-s">"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"</span><span class="pl-kos">}</span><span class="pl-kos">,</span>
+<span class="pl-s">"exlink"</span>:<span class="pl-kos">{</span><span class="pl-s">"music"</span>:<span class="pl-s">"https://music.meekdai.com"</span><span class="pl-kos">}</span><span class="pl-kos">,</span>
+<span class="pl-s">"commentLabelColor"</span>:<span class="pl-s">"#006b75"</span><span class="pl-kos">,</span>
+<span class="pl-s">"yearColorList"</span>:<span class="pl-kos">[</span><span class="pl-s">"#bc4c00"</span><span class="pl-kos">,</span> <span class="pl-s">"#0969da"</span><span class="pl-kos">,</span> <span class="pl-s">"#1f883d"</span><span class="pl-kos">,</span> <span class="pl-s">"#A333D0"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+<span class="pl-s">"i18n"</span>:<span class="pl-s">"CN"</span><span class="pl-kos">,</span>
+<span class="pl-s">"UTC"</span>:<span class="pl-c1">8</span><span class="pl-kos">,</span>
+<span class="pl-s">"themeMode"</span>:<span class="pl-s">"manual"</span><span class="pl-kos">,</span>
+<span class="pl-s">"dayTheme"</span>:<span class="pl-s">"light"</span><span class="pl-kos">,</span>
+<span class="pl-s">"nightTheme"</span>:<span class="pl-s">"dark_colorblind"</span><span class="pl-kos">,</span>
+<span class="pl-s">"urlMode"</span>:<span class="pl-s">"pinyin"</span><span class="pl-kos">,</span>
+<span class="pl-s">"style"</span>:<span class="pl-s">""</span><span class="pl-kos">,</span>
+<span class="pl-s">"script"</span>:<span class="pl-s">""</span><span class="pl-kos">,</span>
+<span class="pl-s">"indexStyle"</span>:<span class="pl-s">""</span><span class="pl-kos">,</span>
+<span class="pl-s">"indexScript"</span>:<span class="pl-s">""</span><span class="pl-kos">,</span>
+<span class="pl-s">"showPostSource"</span>:<span class="pl-c1">1</span><span class="pl-kos">,</span>
+<span class="pl-s">"rssSplit"</span>:<span class="pl-s">"sentence"</span><span class="pl-kos">,</span>
+<span class="pl-s">"bottomText"</span>:<span class="pl-s">"转载请注明出处"</span><span class="pl-kos">,</span>
+<span class="pl-s">"ogImage"</span>:<span class="pl-s">"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg"</span><span class="pl-kos">,</span>
+<span class="pl-s">"primerCSS"</span>:<span class="pl-s">"&lt;link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' /&gt;"</span><span class="pl-kos">,</span>
+<span class="pl-s">"needComment"</span>:<span class="pl-c1">0</span><span class="pl-kos">,</span></pre></div>
+<p>Caution</p>
+<p>最后一行配置末尾不需要逗号，其他行末尾都需要逗号（英文逗号）</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th><strong>配置参数</strong></th>
+<th><strong>说明</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>title</td>
+<td>【必填】博客标题</td>
+</tr>
+<tr>
+<td>subTitle</td>
+<td>【必填】博客描述&amp;自述</td>
+</tr>
+<tr>
+<td>avatarUrl</td>
+<td>【必填】博客头像</td>
+</tr>
+<tr>
+<td>GMEEK_VERSION</td>
+<td>【必填】Gmeek版本，一般写<code class="notranslate">last</code>也可以用具体tag版本</td>
+</tr>
+<tr>
+<td>displayTitle</td>
+<td>用于头像后面的标题展示，如果和<code class="notranslate">title</code>一致则不用添加</td>
+</tr>
+<tr>
+<td>homeUrl</td>
+<td>博客的主页地址，自定义域名时需要配置</td>
+</tr>
+<tr>
+<td>faviconUrl</td>
+<td>页面的favicon地址，如果和avatarUrl一致则不用添加</td>
+</tr>
+<tr>
+<td>email</td>
+<td>用于自动提交仓库时用，不添加也可以</td>
+</tr>
+<tr>
+<td>startSite</td>
+<td>用于页面底部显示网站运行天数</td>
+</tr>
+<tr>
+<td>filingNum</td>
+<td>用于页面底部显示备案信息</td>
+</tr>
+<tr>
+<td>onePageListNum</td>
+<td>用于首页每页展示的文章数量</td>
+</tr>
+<tr>
+<td>singlePage</td>
+<td>自定义独立页面，例如<code class="notranslate">about</code>或者<code class="notranslate">link</code>等</td>
+</tr>
+<tr>
+<td>iconList</td>
+<td>用于定义singlePage按钮展示的<a href="https://primer.style/foundations/icons/#16px" rel="nofollow">SVG图标</a> (16px)，<code class="notranslate">about</code>和<code class="notranslate">link</code>内置无需定义</td>
+</tr>
+<tr>
+<td>exlink</td>
+<td>用于自定义首页右上角圆形按钮到外部链接功能，按钮图标定义在iconList中</td>
+</tr>
+<tr>
+<td>commentLabelColor</td>
+<td>用于自定义显示评论数量标签的颜色</td>
+</tr>
+<tr>
+<td>yearColorList</td>
+<td>用于自定义显示不同年份标签的颜色</td>
+</tr>
+<tr>
+<td>i18n</td>
+<td>用于定义博客语言，目前支持<code class="notranslate">EN</code>/<code class="notranslate">CN</code>/<code class="notranslate">RU</code></td>
+</tr>
+<tr>
+<td>UTC</td>
+<td>用于定义<a href="https://en.wikipedia.org/wiki/List_of_UTC_offsets" rel="nofollow">时区</a></td>
+</tr>
+<tr>
+<td>themeMode</td>
+<td>用于定义主题模式，默认为<code class="notranslate">manual</code>，也可选择<code class="notranslate">fix</code><a href="https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91-liang-an-zhu-ti-pei-zhi-fang-shi.html" rel="nofollow">详细说明</a></td>
+</tr>
+<tr>
+<td>dayTheme</td>
+<td>用于定义<a href="https://github.com/settings/appearance">亮主题</a></td>
+</tr>
+<tr>
+<td>nightTheme</td>
+<td>用于定义<a href="https://github.com/settings/appearance">暗主题</a></td>
+</tr>
+<tr>
+<td>urlMode</td>
+<td>用于定义文章链接生成模式，目前支持<code class="notranslate">pinyin</code>/<code class="notranslate">issue</code>/<code class="notranslate">ru_translit</code></td>
+</tr>
+<tr>
+<td>style</td>
+<td>用于自定义文章页全局CSS</td>
+</tr>
+<tr>
+<td>script</td>
+<td>用于自定义文章页全局JavaScript</td>
+</tr>
+<tr>
+<td>indexStyle</td>
+<td>用于自定义首页CSS</td>
+</tr>
+<tr>
+<td>indexScript</td>
+<td>用于自定义首页JavaScript</td>
+</tr>
+<tr>
+<td>showPostSource</td>
+<td>设置为1则在文章页显示issue链接按钮，设置为0则不显示</td>
+</tr>
+<tr>
+<td>rssSplit</td>
+<td>设置RSS输出的截断符号，默认<code class="notranslate">sentence</code>为第一句话，可配置其他特殊符号</td>
+</tr>
+<tr>
+<td>bottomText</td>
+<td>用于设置文章页面右下角显示的内容</td>
+</tr>
+<tr>
+<td>ogImage</td>
+<td>用于设置Open Graph协议展示的图片</td>
+</tr>
+<tr>
+<td>primerCSS</td>
+<td>用于设置primer.css的CDN地址，默认使用<a href="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css" rel="nofollow">南科大</a></td>
+</tr>
+<tr>
+<td>needComment</td>
+<td>用于设置是否需要评论功能，1开启评论，0关闭</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<h2>三、常见问题</h2>
+<h3>1. 搭建不成功</h3>
+<p>多半是没有按照安装步骤来，其实搭建就这2步，不要自己乱点乱设置，就不会有问题。</p>
+<ul>
+<li>案例一：<a href="https://github.com/Meekdai/Gmeek/issues/14" data-hovercard-type="issue" data-hovercard-url="/Meekdai/Gmeek/issues/14/hovercard">Meekdai/Gmeek#14</a></li>
+<li>案例二：<a href="https://github.com/Meekdai/Gmeek/issues/18" data-hovercard-type="issue" data-hovercard-url="/Meekdai/Gmeek/issues/18/hovercard">Meekdai/Gmeek#18</a></li>
+<li>案例二：<a href="https://github.com/Meekdai/Gmeek/issues/20" data-hovercard-type="issue" data-hovercard-url="/Meekdai/Gmeek/issues/20/hovercard">Meekdai/Gmeek#20</a></li>
+</ul>
+<h3>2. Actions执行失败</h3>
+<p>修改了<code class="notranslate">config.json</code>配置文件后，需要全局生成。另外<code class="notranslate">label</code>标签没有打会出现这个问题。<br>
+建议通过Actions-&gt;build Gmeek-&gt;Run workflow-&gt;里面的按钮全局重新生成一次</p>
+<ul>
+<li>案例一：<a href="https://github.com/Meekdai/Gmeek/issues/1" data-hovercard-type="issue" data-hovercard-url="/Meekdai/Gmeek/issues/1/hovercard">Meekdai/Gmeek#1</a></li>
+<li>案例二：<a href="https://github.com/Meekdai/Gmeek/issues/10" data-hovercard-type="issue" data-hovercard-url="/Meekdai/Gmeek/issues/10/hovercard">Meekdai/Gmeek#10</a></li>
+</ul>
+<h3>3. 如果要导入以前的文章，如何设置发布时间呢？</h3>
+<p>如需修改发布时间，可以在文章最后一行添加如下代码。里面的时间是采用时间戳的形式，可以用如下<a href="https://tool.lu/timestamp" rel="nofollow">网站</a>转换。</p>
+<div class="highlight highlight-text-html-basic"><pre class="notranslate"><span class="pl-c">&lt;!-- ##{"timestamp":1490764800}## --&gt;</span></pre></div>
+<h3>4. 自定义单篇文章页面的<code class="notranslate">style</code>和<code class="notranslate">script</code></h3>
+<div class="highlight highlight-text-html-basic"><pre class="notranslate"><span class="pl-c">&lt;!-- ##{"style":"&lt;style&gt;#postBody{font-size:20px}&lt;/style&gt;"}## --&gt;</span></pre></div>
+<div class="highlight highlight-text-html-basic"><pre class="notranslate"><span class="pl-c">&lt;!-- ##{"script":"&lt;script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'&gt;&lt;/script&gt;"}## --&gt;</span></pre></div>
+<h3>5. 可同时一起添加多种自定义参数：</h3>
+<div class="highlight highlight-text-html-basic"><pre class="notranslate"><span class="pl-c">&lt;!-- ##{"script":"&lt;script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'&gt;&lt;/script&gt;","style":"&lt;style&gt;#postBody{font-size:20px}&lt;/style&gt;","timestamp":1490764800}## --&gt;</span></pre></div>
+<h3>6. 添加全局文章页面的<code class="notranslate">style</code>和<code class="notranslate">script</code></h3>
+<p>在<code class="notranslate">config.json</code>文件中添加</p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-s">"style"</span>:<span class="pl-s">"&lt;style&gt;#postBody{font-size:20px}&lt;/style&gt;"</span><span class="pl-kos">,</span>
+<span class="pl-s">"script"</span>:<span class="pl-s">"&lt;script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'&gt;&lt;/script&gt;"</span><span class="pl-kos">,</span></pre></div>
+<h3>7. 置顶博客文章,只需要<code class="notranslate">Pin issue</code>即可。</h3>
+<h3>8. 如果在评论里面登录后评论报错，可直接按照提示安装<code class="notranslate">utteranc app</code>即可</h3>
+<pre class="notranslate"><code class="notranslate">Error: utterances is not installed on xxx/xxx.github.io. If you own this repo, install the app. Read more about this change in the PR. 
+</code></pre>
+<h3>9. 如何删除一篇文章呢？</h3>
+<p>只需要<code class="notranslate">Close issue</code>或者<code class="notranslate">Delete issue</code>后，再手动全局生成一次即可。</p>
+<h2>四、进阶教程</h2>
+<p>Gmeek的可定制化功能非常高，下面的链接是一些更加高级的设置教程，还有插件的使用等。<br>
+<a href="https://meekdai.github.io/tag.html#Gmeek" rel="nofollow">https://meekdai.github.io/tag.html#Gmeek</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

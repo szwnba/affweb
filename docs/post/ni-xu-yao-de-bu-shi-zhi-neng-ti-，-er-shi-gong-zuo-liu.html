@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="大聪明：
+
+本篇内容由「宝玉」创作（欢迎文末打赏），非常有见地的洞察，适合每一个 AI 从业者来学习。">
+<meta property="og:title" content="你需要的不是智能体，而是工作流">
+<meta property="og:description" content="大聪明：
+
+本篇内容由「宝玉」创作（欢迎文末打赏），非常有见地的洞察，适合每一个 AI 从业者来学习。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/ni-xu-yao-de-bu-shi-zhi-neng-ti-%EF%BC%8C-er-shi-gong-zuo-liu.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>你需要的不是智能体，而是工作流</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">你需要的不是智能体，而是工作流</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/645" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>大聪明：</p>
+<p>本篇内容由「宝玉」创作（欢迎文末打赏），非常有见地的洞察，适合每一个 AI 从业者来学习。在落地产品的时候，<strong>核心是解决你的问题：至于是不是智能体，是不是大语言模型，是不是 AI 帮你决策，都不是最重要的。</strong></p>
+<p>现在 AI 智能体（AI Agent）的概念很火，似乎智能体是用 AI 解决问题的银弹，有了智能体就可以解决很多问题。但也有很多人有不同意见，认为智能体不过是噱头，并没有看到靠谱的应用场景。</p>
+<p>一个被提及很多的是吴恩达老师写的多智能体翻译的例子，简单来说就是用三个智能体：一个直译智能体、一个审查智能体、一个意译润色智能体，确实可以大幅提升翻译质量。但并非一定要三个智能体才能提升翻译质量，我以前也提出过基于 Prompt 的翻译方法，让 LLM 在翻译时，使用直译 + 反思 + 意译三个步骤输出，也可以得到高质量的翻译结果。</p>
+<p>本质上，使用大语言模型（LLM）来解决问题，思维链（COT, Chain of Thought）是一种有效提升生成质量的方法，也就是说，之所以<strong>翻译质量能提升，不是因为有了智能体，而是因为有了思维链</strong>。至于思维链的每个环节是用一个独立的智能体，还是输出的一个步骤，并没有太本质的差别。</p>
+<p>其实大部分 AI 应用场景都类似：<strong>要用 AI 解决问题，核心不在于智能体，而在于设计出一个适合 AI 的工作流。</strong></p>
+<p>那么怎么才能设计一个适合 AI 的工作流呢？我认为有几个因素需要考虑：</p>
+<p><strong>一、不要局限于人类现有方案</strong></p>
+<p>有时候我们过于将 AI 拟人化，会不自觉的用人类解决问题的方式来套用在 AI 上，有时候确实有效，但很多时候并不一定是最优解。就像专业的翻译员，他们并不需要直译反思意译三个步骤，他们可以一步到位，直接输出高质量的翻译结果，所以最开始让 AI 翻译，Prompt 都是直接一步输出翻译结果，而不是分步骤输出，结果翻译出来的比较生硬。而当我们发现思维链是大语言模型的一种有效提升方法后，就可以设计出更适合 AI 的工作流，分成几步来解决问题。</p>
+<p>包括我看到一些智能体项目，尝试模拟人类软件开发的分工，使用项目经理、产品经理、架构师、程序员、测试等等智能体角色去尝试解决复杂的软件项目，同样也是一个<strong>过于拟人化而不一定适合 AI 解决问题的思路，所以也只能出现在论文中，而无法在实际项目中落地</strong>。相反像 GitHub Copilot 这样辅助生成代码的工具倒是真正适合当前 AI 编程的工作流，能实实在在提升开发效率。</p>
+<p><strong>二、不必完全依赖 AI 做决策</strong></p>
+<p>去年有一个超级火爆的项目叫 AutoGPT，就是你输入一个任务，GPT-4 会将任务分解，制定计划，调用外部工具，比如 Google 搜索，甚至执行代码，最终完成任务。这也算是 AI 智能体的先驱项目之一，但现在已经很少有人提及了，因为以<strong>现在 AI 的智能程度，还不足以对开放性的任务做出靠谱的决策，最终除了帮 OpenAI 卖了大量的 Token 外，并没有解决什么实际问题</strong>。所以现在 AI 应用的主流是把 AI 当“副驾驶（Copilot）”，只是让 AI 辅助人类完成任务，主要还是人在做决策。</p>
+<p>另外就是自己设计工作流，让 AI 在工作流中完成一部分工作，并不过于依赖 AI 做决策，或者只需要做简单的决策。比如说商家借助 AI 处理差评的工作流：</p>
+<ol>
+<li>
+<p>程序抓取评论信息</p>
+</li>
+<li>
+<p>AI 分析每一条评论的情感，筛选出差评</p>
+</li>
+<li>
+<p>AI 生成回复（可能需要人工审核）</p>
+</li>
+</ol>
+<p>这是一个典型的设计好流程的适合 AI 的工作流，AI 只需要做简单的情感分析和回复生成，而不需要做复杂的决策，这样的工作流可以很好的提升效率，并且结果也相对靠谱。</p>
+<p><strong>三、可以结合多种 AI或工具</strong></p>
+<p>去年起 AI 大热，一个很重要的原因是大语言模型的出现，这些模型一方面确实能力强大，有一定的通用性，有简单的推理能力，另一方面使用也简单，无论是通过聊天机器人，还是通过 API 调用，都能很方便的使用。即使像我这样不是人工智能专业的人，也能很容易的使用这些模型。而在以前，人工智能相对来说是个高门槛的领域，需要筛选数据、需要训练，还需要调参，对于非专业人士来说是很难使用的。</p>
+<p>但这也导致一个问题，就是很多解决方案过于依赖大语言模型，而不知道或者不会使用其他领域的 AI 模型，但当你能够根据任务，<strong>将不同领域的 AI 模型或者工具结合起来，设计出合适的工作流，就能够得到更好的解决方案</strong>。</p>
+<p><strong>四、回归问题本质，AI 只是锤子</strong></p>
+<p>上面提的几点都是容易犯的一些错误，之所以容易犯这些错误，恰恰是因为<strong>我们有时候过于关注一些流行的概念或技术，而忽略了要解决的根本问题是什么，将 AI 变成了目的而不是手段</strong>。如果你有了解马斯克的第一性原理思维，其强调的就是回归事物最基本的条件，把其解构成各种要素进行分析，从而找到实现目标最优路径的方法。</p>
+<p>而运用第一性原理通常有三个步骤：</p>
+<ul>
+<li>
+<p>第 1 步：定义清楚你要解决的根本问题。</p>
+</li>
+<li>
+<p>第 2 步：拆解问题。</p>
+</li>
+<li>
+<p>第 3 步：从头开始创建解决方案。</p>
+</li>
+</ul>
+<p>而这也个思路也适用于我们去借助 AI 解决问题，设计出适合 AI 的工作流。</p>
+<p>举两个设计合适 AI 工作流解决问题的例子</p>
+<p><strong>一个例子是 PDF 转 Markdown</strong></p>
+<p>做过 PDF 翻译的有经验，要得到好的翻译结果，将 PDF 的内容整理成 Markdown，再让大语言翻译，效果是相当好的。但这个不好做，因为 PDF 是用来打印的格式，并不是结构化的数据，很难直接提取成 Markdown，再加上各种图表、表格等，更是复杂。</p>
+<p>最近看到一个项目叫 PDFGPT，它就做的很巧秒，本质上是基于 GPT-4o 和 PyMuPDF 设计了一个工作流：</p>
+<ol>
+<li>
+<p>用一个 PDF 操作库 PyMuPDF 检测 PDF 中的图片、图表、表格等，提取成图片并保存</p>
+</li>
+<li>
+<p>每一页 PDF 生成一张图片，将图片、图表、表格等位置用红框标记出来，并附上对应的图片名称</p>
+</li>
+<li>
+<p>借助 GPT-4o 的视觉能力，解析标注后的图片，生成对应的 Markdown</p>
+</li>
+</ol>
+<p>如果你纯粹依赖大语言模型，恐怕无法完成这样的任务，一方面受限于上下文窗口的长度限制，一次无法处理多页 PDF，另一方面对于图片、图表、表格等内容无法嵌入 Markdown 中。如果结合 PyMuPDF 这样的库和一个简单的工作流，就可以方便的实现 PDF 转 Markdown，生成的结果也挺不错。</p>
+<p><strong>另一个例子是漫画的翻译</strong></p>
+<p>有很多那种气泡文字的漫画，如果要翻译成其他语言，就需要将气泡文字提取出来，翻译后再放回去。漫画翻译的难点在于：</p>
+<ol>
+<li>
+<p>因为漫画的气泡文字位置不固定，有时候还会有重叠，不好提取；</p>
+</li>
+<li>
+<p>翻译的时候，如果只是把提取出来的文字按字面翻译，但不知道当前画面的内容，翻译的结果可能会不通顺；</p>
+</li>
+<li>
+<p>翻译后要对图片进行处理，抹掉原来的文字，将翻译后的文字放回到原来的位置。</p>
+</li>
+</ol>
+<p>如果人工做会怎么做？可能是读懂漫画，翻译，然后用 Photoshop 这个样的工具抹掉原来的文字，再放上翻译后的文字。可以想象这样的工作量还是不小的。</p>
+<p>有一个开源项目 comic-translate，就做的很好，它也是设计了一个适合漫画翻译的工作流：</p>
+<ol>
+<li>
+<p>用一个专业模型做气泡检测，找出文字气泡的位置<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/397c03a703bdf27d11a0658f95f9d77bf52b7c0ae8018f7ae2c75d932b120e45/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d633156424959714538696152374e32576471644e50346b39486e4c43666854464c53424c5871554847756650787a487552444570706351536c56376c357231304642346f6e5a7863417a37355346364f7445412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/397c03a703bdf27d11a0658f95f9d77bf52b7c0ae8018f7ae2c75d932b120e45/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d633156424959714538696152374e32576471644e50346b39486e4c43666854464c53424c5871554847756650787a487552444570706351536c56376c357231304642346f6e5a7863417a37355346364f7445412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2icSMc1VBIYqE8iaR7N2WdqdNP4k9HnLCfhTFLSBLXqUHGufPxzHuRDEppcQSlV7l5r10FB4onZxcAz75SF6OtEA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p>用 OCR 做气泡内文字的提取</p>
+</li>
+<li>
+<p>用一个专业模型移除气泡内的文字<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fde98558c8b39b9bb0896b7d99382e58b9cfb0da7936b06ae3f013780fb3ce69/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d633156424959714538696152374e32576471644e50346b39486e4c43664e546673736663635765624f586f597834556c3646646c38356d73334c76414f736962556b4561766f3651347566703970743169614254772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fde98558c8b39b9bb0896b7d99382e58b9cfb0da7936b06ae3f013780fb3ce69/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d633156424959714538696152374e32576471644e50346b39486e4c43664e546673736663635765624f586f597834556c3646646c38356d73334c76414f736962556b4561766f3651347566703970743169614254772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2icSMc1VBIYqE8iaR7N2WdqdNP4k9HnLCfNTfssfccWebOXoYx4Ul6Fdl85ms3LvAOsibUkEavo6Q4ufp9pt1iaBTw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p>借助 GPT-4o 的视觉能力，根据漫画内容，翻译气泡内的文字</p>
+</li>
+<li>
+<p>用程序将翻译后的文字绘制到原来的气泡位置</p>
+</li>
+</ol>
+<p>如果不考虑翻译质量的话，这几乎是一个全自动的工作流，效率相当高，成本也很低，最贵的部分是 GPT-4o 的 API，一页也才 $0.02 左右。就算加上人工审核对翻译结果和图片生成结果的处理，也是能比以前的人工翻译效率高很多。</p>
+<p>从上面的例子可以看出，真正要用好 AI，<strong>让 AI 发挥最大效能，核心是还是要基于你要解决的问题，重新设计一个适合 AI 的工作流，让 AI 在工作流中完成它最擅长的工作</strong>，至于是不是智能体，是不是大语言模型，是不是 AI 帮你决策，都不是最重要的。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

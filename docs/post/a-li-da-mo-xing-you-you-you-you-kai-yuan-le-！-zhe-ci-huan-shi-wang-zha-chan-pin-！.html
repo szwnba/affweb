@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJmXyjygs41VfQdSajBWTnicctTRB4Ds2w1MdEM5eyNaczh0ia3qiaFIFuw/640?wx_fmt=jpeg&from=appmsg)
+
+**阿里大模型又双叒叕开源了：刚刚，Qwen2 宣布开源！**  
+
+不到一年时间，阿里云通义千问先后开源近 10 款不同尺寸的大语言模型，之前开源的 Qwen 系列 72B、110B 模型就曾多次登顶 HuggingFace 的 Open LLM Leaderboard 开源模型榜单。">
+<meta property="og:title" content="阿里大模型又又又又开源了！这次还是王炸产品！">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJmXyjygs41VfQdSajBWTnicctTRB4Ds2w1MdEM5eyNaczh0ia3qiaFIFuw/640?wx_fmt=jpeg&from=appmsg)
+
+**阿里大模型又双叒叕开源了：刚刚，Qwen2 宣布开源！**  
+
+不到一年时间，阿里云通义千问先后开源近 10 款不同尺寸的大语言模型，之前开源的 Qwen 系列 72B、110B 模型就曾多次登顶 HuggingFace 的 Open LLM Leaderboard 开源模型榜单。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/a-li-da-mo-xing-you-you-you-you-kai-yuan-le-%EF%BC%81-zhe-ci-huan-shi-wang-zha-chan-pin-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>阿里大模型又又又又开源了！这次还是王炸产品！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">阿里大模型又又又又开源了！这次还是王炸产品！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/572" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/23393e3b43bdd0654cbd7b9f2d209fb1123737062281364670e9fe9ba30f6847/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f655077335a65475272757a6463393031696249594352765134744576496274464a6d58796a79677334315666516453616a4257546e696363745452423444733277314d64454d3565794e61637a683069613371696146494675772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/23393e3b43bdd0654cbd7b9f2d209fb1123737062281364670e9fe9ba30f6847/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f655077335a65475272757a6463393031696249594352765134744576496274464a6d58796a79677334315666516453616a4257546e696363745452423444733277314d64454d3565794e61637a683069613371696146494675772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJmXyjygs41VfQdSajBWTnicctTRB4Ds2w1MdEM5eyNaczh0ia3qiaFIFuw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>阿里大模型又双叒叕开源了：刚刚，Qwen2 宣布开源！</strong></p>
+<p>不到一年时间，阿里云通义千问先后开源近 10 款不同尺寸的大语言模型，之前开源的 Qwen 系列 72B、110B 模型就曾多次登顶 HuggingFace 的 Open LLM Leaderboard 开源模型榜单。</p>
+<p>今天，Qwen2 更是在发布后两个小时，就被 HuggingFace 联合创始人发推宣布: </p>
+<p><strong>Qwen2-72B 冲上 HuggingFace 开源大模型榜单 Open LLM Leaderboard 第一名，全球排名最高！</strong></p>
+<p>性能强劲、使用免费，我第一时间就去研究了技术报告，以及如何使用。本文<strong>将手把手教你如何在自己电脑本地上跑最新的 Qwen2 模型</strong>，Windows、MacOS 系统都支持。</p>
+<p><em><strong>01</strong></em><strong>这次开源了啥？</strong></p>
+<p>Qwen2 开源了多个不同尺寸的模型，包括 Qwen2-0.5B、Qwen2-1.5B、Qwen2-7B、Qwen2-57B-A14B 和 Qwen2-72B</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e182f8f4fb21a5fd17f86d0aca3fb90c842d3ab2ded49f486a5cac1c8f8ca6bf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a7531346a69614566755836483236493172516478737944557867634c4e6c3735317930477a495356516472577a6a546567334a516c57412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e182f8f4fb21a5fd17f86d0aca3fb90c842d3ab2ded49f486a5cac1c8f8ca6bf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a7531346a69614566755836483236493172516478737944557867634c4e6c3735317930477a495356516472577a6a546567334a516c57412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJu14jiaEfuX6H26I1rQdxsyDUxgcLNl751y0GzISVQdrWzjTeg3JQlWA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Qwen2-72B 在包括自然语言理解、知识、代码、数学及多语言等多项能力上<strong>均显著超越当前领先的模型，比如开源界的国际标杆 Llama-3-70B。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1692d6912769588e04f1f0cf7bdf18a588a877e3cc53a0281fec6801275945d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f655077335a65475272757a6463393031696249594352765134744576496274464a424959323379707973336a4843515a674172657442446963346f536d4659696271583678347037734e5a5232534b394d667346586c4d51512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c1692d6912769588e04f1f0cf7bdf18a588a877e3cc53a0281fec6801275945d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f655077335a65475272757a6463393031696249594352765134744576496274464a424959323379707973336a4843515a674172657442446963346f536d4659696271583678347037734e5a5232534b394d667346586c4d51512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJBIY23ypys3jHCQZgAretBDic4oSmFYibqX6x4p7sNZR2SK9MfsFXlMQQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>小模型方面，Qwen2 系列模型基本能够超越同等规模的最优开源模型甚至更大规模的模型。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d17e4148eb9807264ff70769f1c2f228068ef865c50de2827702eeff6efbf720/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f655077335a65475272757a6463393031696249594352765134744576496274464a355456594b66337543706d56764e727943596a756f716962756d4e6e336558706877686a5262385a36666c7949507a4a55755a394367412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d17e4148eb9807264ff70769f1c2f228068ef865c50de2827702eeff6efbf720/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f655077335a65475272757a6463393031696249594352765134744576496274464a355456594b66337543706d56764e727943596a756f716962756d4e6e336558706877686a5262385a36666c7949507a4a55755a394367412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJ5TVYKf3uCpmVvNryCYjuoqibumNn3eXphwhjRb8Z6flyIPzJUuZ9CgA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><em><strong>02</strong></em><strong>手把手教你部署 Qwen2</strong></p>
+<p>使用之前推荐过的开源工具：Ollama，这是一个用来本地部署和运行大模型的工具。看到 GitHub 上这么多开源的大模型，不要眼馋。使用 Ollama 就能实现在你的电脑本地上运行大模型。</p>
+<p><strong>如下分别是 MacOS 和 Windows 系统的部署最新阿里通义千问大模型的教程。</strong></p>
+<p><strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/74d8a803257cc86b1728a54db814023b0a209d850049f6d2ebeba6c5b1fa3f89/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a35717979617943645737466552436961536c764558524a6371636c6c414444416b6366346963385047394442524d6e774d3839596d4737412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/74d8a803257cc86b1728a54db814023b0a209d850049f6d2ebeba6c5b1fa3f89/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a35717979617943645737466552436961536c764558524a6371636c6c414444416b6366346963385047394442524d6e774d3839596d4737412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJ5qyyayCdW7FeRCiaSlvEXRJcqcllADDAkcf4ic8PG9DBRMnwM89YmG7A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+MacOS 部署 Qwen2 模型教程</strong></p>
+<ol>
+<li>官网搜索 Ollama ，然后下载对应你操作系统的版本</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/df7faa95b9c8586a28782e3019a3dfaa38c8a5e82a0bee0371f529e607aecf71/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a654752727579507564527169623135436a5a78744f4c4a53615267675356304c4a753531634973326963696230345143666671385131526d704f536744456c4a5645794a51564569634379746c30325166715262672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/df7faa95b9c8586a28782e3019a3dfaa38c8a5e82a0bee0371f529e607aecf71/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a654752727579507564527169623135436a5a78744f4c4a53615267675356304c4a753531634973326963696230345143666671385131526d704f536744456c4a5645794a51564569634379746c30325166715262672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruyPudRqib15CjZxtOLJSaRggSV0LJu51cIs2icib04QCffq8Q1RmpOSgDElJVEyJQVEicCytl02QfqRbg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>2. 安装后运行 Ollama，点击 install 即可</p>
+<p>3. 去打开你的终端 terminal ，输入如下命令，就可以下载并部署大模型了</p>
+<p>ollama run qwen2:1.5b</p>
+<p>注意，1.5b 是模型的尺寸，你可以替换成任何的开源尺寸。比如 qwen2:72b 就是参数量比较大的模型，只不过下载时间比较长。</p>
+<p>4. 输入命令后，模型开始下载：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/32b4231c7ece4906a3812eaf9250d6d2d54862579dba3f897fa90e122fa949f9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a4a5849724644346c33526d466f464f4c4a6e314f666669624d79716a745274515535624d706e7632315559687a6962563873574e483857512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/32b4231c7ece4906a3812eaf9250d6d2d54862579dba3f897fa90e122fa949f9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a4a5849724644346c33526d466f464f4c4a6e314f666669624d79716a745274515535624d706e7632315559687a6962563873574e483857512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJJXIrFD4l3RmFoFOLJn1OffibMyqjtRtQU5bMpnv21UYhzibV8sWNH8WQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>5. 模型下载部署完成：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8dd9038c0133e0d3887fbaeb440d4dce60c71ec348368ca2476c9aa7ceb06dd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a75726f4d4b7462546963484c49427a6963746652644153427773754636644e774644686d7769625133454638715942364152746963476b4131512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e8dd9038c0133e0d3887fbaeb440d4dce60c71ec348368ca2476c9aa7ceb06dd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a75726f4d4b7462546963484c49427a6963746652644153427773754636644e774644686d7769625133454638715942364152746963476b4131512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJuroMKtbTicHLIBzictfRdASBwsuF6dNwFDhmwibQ3EF8qYB6ARticGkA1Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>6. 开始使用大模型：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a1bb958c61dd090cfc1d7b26f94d3b116204ce299cffef875f0d216a5ab0026b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a554c6a72436f444e666477474e4371634f74357a4459716963376162634f366c354466417a4c576b6b6669625351316963443961566b7732512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a1bb958c61dd090cfc1d7b26f94d3b116204ce299cffef875f0d216a5ab0026b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a554c6a72436f444e666477474e4371634f74357a4459716963376162634f366c354466417a4c576b6b6669625351316963443961566b7732512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJULjrCoDNfdwGNCqcOt5zDYqic7abcO6l5DfAzLWkkfibSQ1icD9aVkw2Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>**<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/74d8a803257cc86b1728a54db814023b0a209d850049f6d2ebeba6c5b1fa3f89/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a35717979617943645737466552436961536c764558524a6371636c6c414444416b6366346963385047394442524d6e774d3839596d4737412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/74d8a803257cc86b1728a54db814023b0a209d850049f6d2ebeba6c5b1fa3f89/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a35717979617943645737466552436961536c764558524a6371636c6c414444416b6366346963385047394442524d6e774d3839596d4737412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJ5qyyayCdW7FeRCiaSlvEXRJcqcllADDAkcf4ic8PG9DBRMnwM89YmG7A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a>**<strong>Windows 操作系统部署 Qwen2 模型教程</strong></p>
+<p>1. 前往 Ollama 下载 Windows 版本安装文件</p>
+<p>2. 然后运行下载的 OllamaSetup.exe 文件</p>
+<p>3. 去下载部署最新的通义千问大模型</p>
+<p>你只需要 win键+R 输入 cmd 打开你的命令行，然后输入如下命令。就开始下载这个大模型了</p>
+<p>ollama run qwen2:72b</p>
+<p>你只需等待下载完成，进行安装部署。</p>
+<p><em><strong>03</strong></em><strong>测测 Qwen2 模型效果</strong></p>
+<p>1️⃣ 请用数学原理、公式、符号等为我创作一首数学情诗。必须包含如下关键词：π、love、996</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a18255438547d39507defafbd7b2598a99b7ff5b02658f1937b666a3744fe5e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f655077335a65475272757a6463393031696249594352765134744576496274464a414a4c41456d5337336a6e4241777851746d6555624433677778335a61656b4b754c7364587478346e475a6a4a3650666453496e30772f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/9a18255438547d39507defafbd7b2598a99b7ff5b02658f1937b666a3744fe5e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f655077335a65475272757a6463393031696249594352765134744576496274464a414a4c41456d5337336a6e4241777851746d6555624433677778335a61656b4b754c7364587478346e475a6a4a3650666453496e30772f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJAJLAEmS73jnBAwxQtmeUbD3gwx3ZaekKuLsdXtx4nGZjJ6PfdSIn0w/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>2️⃣ 将如下翻译成英文：谬赞、桃花源、献丑、发嗲、噱头、嘴替、显眼包、奥里给、躺赢、阴阳怪气、我裂开了</p>
+<p>推荐长按图片翻译，对比前后翻译结果。<strong>Qwen2 的翻译结果绝了，不仅输出了拼音，而且每一个词都翻译的很好。比如桃花源翻译成乌托邦；奥利给翻译成经常被用来表示赞同或鼓励。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6f09156b3c69180aab2cea8729a7d11ed89a8c6e7a0a4d332789cffd63b22f31/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a44696169636963515361696241696256336d756d4d383355315369626e6f625049456a30634e396962667436325a6c57414d786961594339767a4d7a4b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6f09156b3c69180aab2cea8729a7d11ed89a8c6e7a0a4d332789cffd63b22f31/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a44696169636963515361696241696256336d756d4d383355315369626e6f625049456a30634e396962667436325a6c57414d786961594339767a4d7a4b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJDiaicicQSaibAibV3mumM83U1SibnobPIEj0cN9ibft62ZlWAMxiaYC9vzMzKg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>3️⃣  <strong>推理问题</strong></p>
+<p>输入事件:医生告诉他不要担心。基本上没有病变严重。</p>
+<p>问题:请从下面选择输入事件的原因</p>
+<p>选项1:小名在回家的路上遇到了一个奥利里。</p>
+<p>选项2:小名的父亲被查出患有视网膜母细胞瘤。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8fb0ceaca863e1b86d14244c97def300a5ef81051a0f146f1fc89562502a396/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a574f716a484261393562775a65734765586961703269636f41696244586d54464d38565932617933487366743078655555734c5956794846672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e8fb0ceaca863e1b86d14244c97def300a5ef81051a0f146f1fc89562502a396/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757a6463393031696249594352765134744576496274464a574f716a484261393562775a65734765586961703269636f41696244586d54464d38565932617933487366743078655555734c5956794846672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRruzdc901ibIYCRvQ4tEvIbtFJWOqjHBa95bwZesGeXiap2icoAibDXmTFM8VY2ay3Hsft0xeUUsLYVyHFg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><em><strong>04</strong></em><strong>开源地址</strong></p>
+<p>现在，Qwen2 系列模型均已开源在 Hugging Face 和ModelScope上。后续，阿里云通义千问会把 Qwen2 扩展成多模态模型，融入视觉及语音的理解。<strong>期待住了！</strong></p>
+<p>开源地址：<a href="https://github.com/QwenLM/Qwen2">https://github.com/QwenLM/Qwen2</a><br>
+开源社区：<a href="https://huggingface.co/Qwen" rel="nofollow">https://huggingface.co/Qwen</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="这个是现在正筹备的项目中的具体一步骤，可以说是十分关键。">
+<meta property="og:title" content="教程 | 用 openai 开源模型 whisper 实现音频转文字">
+<meta property="og:description" content="这个是现在正筹备的项目中的具体一步骤，可以说是十分关键。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/jiao-cheng-%20-%20-yong-%20openai%20-kai-yuan-mo-xing-%20whisper%20-shi-xian-yin-pin-zhuan-wen-zi.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>教程 | 用 openai 开源模型 whisper 实现音频转文字</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">教程 | 用 openai 开源模型 whisper 实现音频转文字</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/596" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>这个是现在正筹备的项目中的具体一步骤，可以说是十分关键。</p>
+<p>废话不多说，直接来看操作步骤。</p>
+<p>如果暂时用不上，可以先关注收藏，我后面会慢慢把这个项目的具体步骤更新到公众号文章上。</p>
+<p><strong>01安装 python</strong></p>
+<p>需要先安装 python 配置，此处需注意，必须要3.10及以上才可以。</p>
+<p>打开 python 官网，安装 3.11 版本即可</p>
+<blockquote>
+<p><a href="https://www.python.org/downloads/windows/" rel="nofollow">https://www.python.org/downloads/windows/</a></p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/118f5d2fd5039e171be786c4d4ca158fb1c9bae58e83ef61566e98d9d2d15a67/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736375073675a324e4c6d48796a54373774615a70366b796f486d48716962673147636f5532514176555644783437586e3456425a354872696333696334635a396e59574a35334b7a683863645262466b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/118f5d2fd5039e171be786c4d4ca158fb1c9bae58e83ef61566e98d9d2d15a67/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736375073675a324e4c6d48796a54373774615a70366b796f486d48716962673147636f5532514176555644783437586e3456425a354872696333696334635a396e59574a35334b7a683863645262466b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767PsgZ2NLmHyjT77taZp6kyoHmHqibg1GcoU2QAvUVDx47Xn4VBZ5Hric3ic4cZ9nYWJ53Kzh8cdRbFkA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>注意，下载好安装时候，一定要勾选 add to path</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9d1ff71aab8885d995af2a0894e0eec3e0f6dc8419a90a6ae0d529b70a0b44d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736375073675a324e4c6d48796a54373774615a70366b796f59797a696238454441373255687264424d69635834305134305467776a5157366e6d44557a78335234746e614a696145764d76713472596b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b9d1ff71aab8885d995af2a0894e0eec3e0f6dc8419a90a6ae0d529b70a0b44d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736375073675a324e4c6d48796a54373774615a70366b796f59797a696238454441373255687264424d69635834305134305467776a5157366e6d44557a78335234746e614a696145764d76713472596b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767PsgZ2NLmHyjT77taZp6kyoYyzib8EDA72UhrdBMicX40Q40TgwjQW6nmDUzx3R4tnaJiaEvMvq4rYkA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>安装完毕可以，可以使用 win + R 快捷键，输入 cmd 后回车</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/78e8508963c832821ac96ab67e48b751e44ab6fcaae24731d97e651180c5ffa8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736375073675a324e4c6d48796a54373774615a70366b796f6639745035784b57586a66344a3067436672706b374f6c61425277327078696356635559653966707369616472615a386a445444484f53672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/78e8508963c832821ac96ab67e48b751e44ab6fcaae24731d97e651180c5ffa8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736375073675a324e4c6d48796a54373774615a70366b796f6639745035784b57586a66344a3067436672706b374f6c61425277327078696356635559653966707369616472615a386a445444484f53672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767PsgZ2NLmHyjT77taZp6kyof9tP5xKWXjf4J0gCfrpk7OlaBRw2pxicVcUYe9fpsiadraZ8jDTDHOSg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>在新窗口直接输入 python，如果出现以下界面，3.11 版本，就说明安装成功了，可以进行下一步</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c83868ab3717b6337fc366ac42219de21f8468eae180750897ba8612ff10694a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736375073675a324e4c6d48796a54373774615a70366b796f5058584d64666e576f48516d6d30436e71586b4e7a314a4f3858566b6d6e415a49563537654c696237316b6672625761497364355935672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c83868ab3717b6337fc366ac42219de21f8468eae180750897ba8612ff10694a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736375073675a324e4c6d48796a54373774615a70366b796f5058584d64666e576f48516d6d30436e71586b4e7a314a4f3858566b6d6e415a49563537654c696237316b6672625761497364355935672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767PsgZ2NLmHyjT77taZp6kyoPXXMdfnWoHQmm0CnqXkNz1JO8XVkmnAZIV57eLib71kfrbWaIsd5Y5g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我本身是用 Pycharm 来调用 python 程序代码，属于是个人习惯，用什么都可以。</p>
+<p>这里我先用 Pycharm 来实现，如果你用其他编译器，遇到问题直接问 AI 即可。</p>
+<p><strong>02 安装必要的东西--ffmpeg</strong></p>
+<p>首先安装 ffmpeg，用于视频剪辑的东西，是 moviepy 这个库需要用到，可以用于从视频中提取音频。</p>
+<p><a href="https://www.gyan.dev/ffmpeg/builds/" rel="nofollow">https://www.gyan.dev/ffmpeg/builds/</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ef8dfa0fa3ad9df87bdc3f179298868b42e0488961483fbbb2753ef376c0bf6a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446627a7436796865736d6b44313678487855626f5a705a6f7769636845696377545061534b7578476d44324a326c6c7172696269627848313872512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ef8dfa0fa3ad9df87bdc3f179298868b42e0488961483fbbb2753ef376c0bf6a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446627a7436796865736d6b44313678487855626f5a705a6f7769636845696377545061534b7578476d44324a326c6c7172696269627848313872512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767OdgiaxLnOMcXY9CsyTwMndFbzt6yhesmkD16xHxUboZpZowichEicwTPaSKuxGmD2J2llqribibxH18rQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>随便下载一个稳定版本即可，它是一个压缩包。</p>
+<p>解压到想要的路径下就好，还有用，一会儿要添加进 Path 环境变量。</p>
+<blockquote>
+<p>C:\Aster\package\ffmpeg-2024-06-21-git-d45e20c37b-essentials_build\bin</p>
+</blockquote>
+<p>打开解压后文件的 bin，然后复制路径。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bbc28a6c5f9818c770ce3e5c171806281b597c1a7034807f141dda5c48695414/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e64466961546156534d515279516b516c756a44636b4f634677596a594e366179577871696276306f6735696169613376595272555a4e7774554a65412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bbc28a6c5f9818c770ce3e5c171806281b597c1a7034807f141dda5c48695414/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e64466961546156534d515279516b516c756a44636b4f634677596a594e366179577871696276306f6735696169613376595272555a4e7774554a65412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767OdgiaxLnOMcXY9CsyTwMndFiaTaVSMQRyQkQlujDckOcFwYjYN6ayWxqibv0og5iaia3vYRrUZNwtUJeA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>按 win 键，搜索出编辑系统环境变量</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1213e2dc4bb9af121cf8a628ca1ca3170f3789049797fed33c28a99c8e8c8071/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446744c4e49646b5645336c415738657847725a39354547484565796f754148594e4d3743597045435a6e614468696374464a4666315165512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1213e2dc4bb9af121cf8a628ca1ca3170f3789049797fed33c28a99c8e8c8071/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446744c4e49646b5645336c415738657847725a39354547484565796f754148594e4d3743597045435a6e614468696374464a4666315165512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767OdgiaxLnOMcXY9CsyTwMndFtLNIdkVE3lAW8exGrZ95EGHEeyouAHYNM7CYpECZnaDhictFJFf1QeQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>按顺序找到 环境变量-Path，然后编辑-新建</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1510f35ea3dc5fc111d3e28418c6b306acdb0245cccacde51aec6a53eef6b06c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e64464e356f69616b69626a46504867456f6d6c784b344e4e674277434e47657079514a6b786d6b375942555a78704770386158363330343367412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1510f35ea3dc5fc111d3e28418c6b306acdb0245cccacde51aec6a53eef6b06c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e64464e356f69616b69626a46504867456f6d6c784b344e4e674277434e47657079514a6b786d6b375942555a78704770386158363330343367412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767OdgiaxLnOMcXY9CsyTwMndFN5oiakibjFPHgEomlxK4NNgBwCNGepyQJkxmk7YBUZxpGp8aX63043gA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>输入我们刚刚复制的 bin 路径，添加后点击确定即可。</p>
+<p>此时，win + R ，输入 cmd 回车，呼出窗口，输入 ffmpeg，如果出现下图界面，说明安装成功了</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/279e6a9646d8183db6c20b12d2686bac287a135e2071d040d6daa4678b62e544/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e64467966665853764d6679305a5145544b6f39324f5670386b71696347616f5a5a59684858585a4a3166634e4f6e47566f5231336e4c7345772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/279e6a9646d8183db6c20b12d2686bac287a135e2071d040d6daa4678b62e544/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e64467966665853764d6679305a5145544b6f39324f5670386b71696347616f5a5a59684858585a4a3166634e4f6e47566f5231336e4c7345772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767OdgiaxLnOMcXY9CsyTwMndFyffXSvMfy0ZQETKo92OVp8kqicGaoZZYhHXXZJ1fcNOnGVoR13nLsEw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>接下来我们需要安装 python 软件包</p>
+<blockquote>
+<p>pip install opencc openai-whisper</p>
+</blockquote>
+<p>注意，python 自带的 torch 可能会出问题，所以也需要先卸载再安装</p>
+<blockquote>
+<p>pip uninstall torch</p>
+</blockquote>
+<blockquote>
+<p>pip install torch</p>
+</blockquote>
+<p>而且有可能 2.0 版的 numpy 无法运行，所以也许先卸载再安装</p>
+<blockquote>
+<p>pip uninstall numpy</p>
+</blockquote>
+<blockquote>
+<p>pip install numpy==1.26.4</p>
+</blockquote>
+<p><strong>03 准备素材，开始音频转文字</strong></p>
+<p>安装完毕后，只需要准备一条素材即可，可以是 MP3，也可以是 wav 格式的。</p>
+<p>我准备的是 MP3 格式的素材</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db1b9963ad59ccd3f377af3ecdfed6e3d4bea6ce0efa8429ce66f06b7247641c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446755755796b4135654b773141584837646a6631614d444a6b596d61624a6d51393937627057696250754147636d4751446d3469626b5a58672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/db1b9963ad59ccd3f377af3ecdfed6e3d4bea6ce0efa8429ce66f06b7247641c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446755755796b4135654b773141584837646a6631614d444a6b596d61624a6d51393937627057696250754147636d4751446d3469626b5a58672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767OdgiaxLnOMcXY9CsyTwMndFuWUykA5eKw1AXH7djf1aMDJkYmabJmQ997bpWibPuAGcmGQDm4ibkZXg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-k">import</span> <span class="pl-s1">time</span>
+<span class="pl-k">import</span> <span class="pl-s1">whisper</span>
+<span class="pl-k">import</span> <span class="pl-s1">opencc</span>
+
+
+<span class="pl-k">def</span> <span class="pl-en">a2text</span>(<span class="pl-s1">model_type</span>, <span class="pl-s1">path</span>):
+    <span class="pl-s1">start_time</span> <span class="pl-c1">=</span> <span class="pl-s1">time</span>.<span class="pl-c1">time</span>()  
+    
+    <span class="pl-s1">model</span> <span class="pl-c1">=</span> <span class="pl-s1">whisper</span>.<span class="pl-c1">load_model</span>(<span class="pl-s1">model_type</span>)
+    
+    <span class="pl-s1">result</span> <span class="pl-c1">=</span> <span class="pl-s1">model</span>.<span class="pl-c1">transcribe</span>(<span class="pl-s1">path</span>)
+    <span class="pl-s1">cc</span> <span class="pl-c1">=</span> <span class="pl-s1">opencc</span>.<span class="pl-c1">OpenCC</span>(<span class="pl-s">"t2s"</span>)
+    <span class="pl-s1">res</span> <span class="pl-c1">=</span> <span class="pl-s1">cc</span>.<span class="pl-c1">convert</span>(<span class="pl-s1">result</span>[<span class="pl-s">'text'</span>])
+    <span class="pl-en">print</span>(<span class="pl-s1">res</span>)
+    <span class="pl-s1">end_time</span> <span class="pl-c1">=</span> <span class="pl-s1">time</span>.<span class="pl-c1">time</span>()  
+    <span class="pl-s1">execution_time</span> <span class="pl-c1">=</span> <span class="pl-s1">end_time</span> <span class="pl-c1">-</span> <span class="pl-s1">start_time</span>  
+    <span class="pl-en">print</span>(<span class="pl-s">f"总耗时：<span class="pl-s1"><span class="pl-kos">{</span><span class="pl-s1">execution_time</span><span class="pl-kos">}</span></span>"</span>)
+
+
+<span class="pl-s1">path</span> <span class="pl-c1">=</span> <span class="pl-s">"test.mp3"</span>
+<span class="pl-en">a2text</span>(<span class="pl-s">"tiny"</span>, <span class="pl-s1">path</span>)</pre></div>
+<p>注意，第一次运行时候，会联网下载该模型，可能需要一段时间。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9d7fdc3543d8a2e6e7d88a51115d4a1bdbbc4167beed7b2370186fa4a4819ef0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e644669634c326b745a5248636267756a594c43686f6347706c6b3275534869613162573561696362493764784c704a64596962625970524f57486961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9d7fdc3543d8a2e6e7d88a51115d4a1bdbbc4167beed7b2370186fa4a4819ef0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e644669634c326b745a5248636267756a594c43686f6347706c6b3275534869613162573561696362493764784c704a64596962625970524f57486961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767OdgiaxLnOMcXY9CsyTwMndFicL2ktZRHcbgujYLChocGplk2uSHia1bW5aicbI7dxLpJdYibbYpROWHiaA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>04 转化结果</p>
+<p>可以看到，用了最小的模型，只需要 1s 多就能识别 10s 左右的 MP3 音频。</p>
+<p>当然，由于是小模型，难免识别不准确，后面可以用大一点的模型来识别。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c28e988df5147ab6d275c0332c3977ebb4491b2d9a41d68acd69bc1349a4fbff/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446696367624934365268554d6357384a424f533333365a657a534e317535536d346962325731637a686368684e4e485a67315a7737643838672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c28e988df5147ab6d275c0332c3977ebb4491b2d9a41d68acd69bc1349a4fbff/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446696367624934365268554d6357384a424f533333365a657a534e317535536d346962325731637a686368684e4e485a67315a7737643838672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767OdgiaxLnOMcXY9CsyTwMndFicgbI46RhUMcW8JBOS336ZezSN1u5Sm4ib2W1czhchhNNHZg1Zw7d88g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>同时，也报错提醒我说，没有使用 GPU，所以精度低。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/61fed067945904d1823106b4004ac28de44e7fa5d0a0f1311a9e7c3905d6f0b3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446303145534569634e374746715161335a7a683549494e6e444d32747639565859484f6a764c7a53696239476961324f4f796d324446414f7a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/61fed067945904d1823106b4004ac28de44e7fa5d0a0f1311a9e7c3905d6f0b3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5a3667446e52723736374f64676961784c6e4f4d6358593943737954774d6e6446303145534569634e374746715161335a7a683549494e6e444d32747639565859484f6a764c7a53696239476961324f4f796d324446414f7a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Z6gDnRr767OdgiaxLnOMcXY9CsyTwMndF01ESEicN7GFqQa3Zzh5IINnDM2tv9VXYHOjvLzSib9Gia2OOym2DFAOzg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>后面再出教程，如何使用本地显卡来加速推理，毕竟，<a href="http://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQyNA==&amp;mid=2247484813&amp;idx=1&amp;sn=fbaa7538d1df62b497e93545ecc8ac7e&amp;chksm=c27b6ca2f50ce5b42d3d391c76dc268694d51357ac88218fbb90f5f1b80462898805505b706d&amp;scene=21#wechat_redirect" rel="nofollow">买的 4090D 可不能浪费了呀。</a></p>
+<p>关于不同模型的识别速度，后面再做一期评测~</p>
+<p><strong>04</strong></p>
+<p>openai 开源的 Whisper 模型，有多个版本，主要看你的电脑配置，配置需求从低到高分别是：</p>
+<p>也可以是 tiny、base、small、medium、large</p>
+<p>按需更改即可，当然，越好的模型，需要配置越高。</p>
+<p><strong>05</strong></p>
+<p>我是想象力AI，写过很多个有意思的自动化机器人，有小红书自动发图、抖音自动涨粉、和微信自动加好友拉群等等。</p>
+<p>如果你感兴趣的话，千万记得要加我 aiaiai2098，一起交流。</p>
+<p>往期文章：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQyNA==&amp;mid=2247484988&amp;idx=1&amp;sn=ae5438cc00424233a87b00d5607686ef&amp;chksm=c27b6f13f50ce6059bd8f5cb8af8bf14e4aa729dfd97bab651463a7649903d7d81d9b8b14a76&amp;scene=21#wechat_redirect" rel="nofollow">用 AI 帮忙养狗？Kimi 助我一臂之力，居然把小狗训练成了小机灵鬼</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQyNA==&amp;mid=2247484519&amp;idx=1&amp;sn=b74ea9431b03f909f0d52d1eee936ab6&amp;chksm=c27b6d48f50ce45e39d300215043a25590fc6ac5faf5fa2f32ae32d1e49497b9ecd95004ef58&amp;scene=21#wechat_redirect" rel="nofollow">盘点一下之前写过的AI、RPA机器人（内附使用教程）</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQyNA==&amp;mid=2247484779&amp;idx=1&amp;sn=d8cedc0fc303d8077ecd46f3e5806507&amp;chksm=c27b6c44f50ce5525744c4fc9fb0e30beb23738618991fc4033336f58abe311d743dd13f4ff1&amp;scene=21#wechat_redirect" rel="nofollow">当我把1340条笔记喂给kimi时，它比我还懂我自己。</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQyNA==&amp;mid=2247484264&amp;idx=1&amp;sn=07bc86e791afaaa2c762692e7fa6dcd4&amp;chksm=c27b6a47f50ce351fb64be9bd266b20a78e44ec847d79d239ddaf2884c4d36133729c280afd7&amp;scene=21#wechat_redirect" rel="nofollow">必看！RPA 自动化开发效率增加100%</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQyNA==&amp;mid=2247484433&amp;idx=1&amp;sn=5982c27ef45c00417f0e9f24e80b8624&amp;chksm=c27b6d3ef50ce428278b8207e007ae2a7b1f5eb27021dae61ba0be64908c67e1f10557d823e3&amp;scene=21#wechat_redirect" rel="nofollow">记录 | 学习实践 AI 一年，我赚了多少钱？</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/31a1fa14f627781b4a7884c50982b1824a9390e369d7d1caae192f20353b07e3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a3667446e52723736374e62335a4b39384d39555677315637346e34696341566f765a4b6a66774235314d34384c416555327949664b4a736f79796c7069627876454e3631794d533075527179506d5138553736724350412f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270"><img src="https://camo.githubusercontent.com/31a1fa14f627781b4a7884c50982b1824a9390e369d7d1caae192f20353b07e3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5a3667446e52723736374e62335a4b39384d39555677315637346e34696341566f765a4b6a66774235314d34384c416555327949664b4a736f79796c7069627876454e3631794d533075527179506d5138553736724350412f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6gDnRr767Nb3ZK98M9UVw1V74n4icAVovZKjfwB51M48LAeU2yIfKJsoyylpibxvEN61yMS0uRqyPmQ8U76rCPA/640?wx_fmt=other&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="进入网站 https://www.coze.cn/ 后，注册或者使用抖音账号登录，即可开启使用。">
+<meta property="og:title" content="前端智能化，扣子（coze.cn）能做什么？">
+<meta property="og:description" content="进入网站 https://www.coze.cn/ 后，注册或者使用抖音账号登录，即可开启使用。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/qian-duan-zhi-neng-hua-%EF%BC%8C-kou-zi-%EF%BC%88coze.cn%EF%BC%89-neng-zuo-shen-me-%EF%BC%9F.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>前端智能化，扣子（coze.cn）能做什么？</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">前端智能化，扣子（coze.cn）能做什么？</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/475" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>进入网站 <a href="https://www.coze.cn/" rel="nofollow">https://www.coze.cn/</a> 后，注册或者使用抖音账号登录，即可开启使用。</p>
+<p>进入主页面后，操作非常简单，类似 ChatGPT 式的交流形式即可快速、低门槛的搭建一个专属的 Chatbot，示例步骤如下：</p>
+<p><strong>「我：」</strong> 我想创建一个 Bot<br>
+<strong>「扣子：」</strong> 当然，我很乐意帮助你创建一个 Bot。首先，我需要知道这个 Bot 将被用来做什么？这将有助于我为它取一个合适的名字并提供一个描述。<br>
+<strong>「我：」</strong> 每天在微信订阅号自动抓取内容发布文章<br>
+<strong>「扣子：」</strong> 好的，我想我们可以为你的 Bot 取一个创意丰富的名字，例如“内容自动抓取器”。它的描述可以是“一个能够在微信订阅号上自动抓取内容并发布文章的 Bot”。这样的名字和描述是否满足你的需求？如果满足，我将为你创建这个 Bot，这大约需要 30 秒钟的时间。<br>
+<strong>「我：」</strong> 名称改一下，要有吸引力和专业性<br>
+<strong>「扣子：」</strong> balabalabala...<br>
+<strong>「我：」</strong> 还是算了吧，名称改成微信订阅号自动发布机器人<br>
+<strong>「扣子：」</strong> 好的，你的机器人的名字已经成功更改为“微信订阅号自动发布机器人”。你可以从这个链接访问你的机器人：微信订阅号自动发布机器人。希望它能为你的工作提供极大的帮助！</p>
+<p>好了，就这么简单，一个 Chatbot 即创建完成，总结体验过程中的优缺点：</p>
+<p><strong>「优点：」</strong></p>
+<ol>
+<li>
+<p>聊天回复速度快，对比国内的通义千问、文心一言其内容生成速率和展现速率有明显优势，非常接近 ChatGPT</p>
+</li>
+<li>
+<p>使用简洁，对新手友好，进入页面后没有任何阻碍，可以轻松上手</p>
+</li>
+<li>
+<p>界面友好，风格非常像 ChatGPT，蓝紫配色在视觉上也非常舒适，没有疲劳感</p>
+</li>
+</ol>
+<p><strong>「缺点：」</strong></p>
+<ol>
+<li>
+<p>最好不要问一些深度问题，有可能会得到非常奇怪的答案</p>
+</li>
+<li>
+<p>最后生成的链接，有概率无法访问，打开 chrome 控制台，发现 a 标签没有 href，应该是个 bug</p>
+</li>
+<li>
+<p>右上角的三个点很难被发现，在未点击的情况下并不能一眼知道是干什么的</p>
+</li>
+<li>
+<p>偶尔会把代码显示出来，比如：正在使用 <code class="notranslate">ts-bot_creator-bot_creator</code></p>
+</li>
+</ol>
+<h2>创建</h2>
+<p>按照以上步骤，以**「前端智能化科普为标题创建 Bot，创建完成之后即有一些默认设置，截图如下：」**</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bac7023f68ec1d77a85518e2c584e293a038f53199b1a727950943610347f206/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d42776c575234576e624e44664f58637a764e336e66657566455a796a566b6d7a62446533575273387076506f30696153427731596f4e71412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bac7023f68ec1d77a85518e2c584e293a038f53199b1a727950943610347f206/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d42776c575234576e624e44664f58637a764e336e66657566455a796a566b6d7a62446533575273387076506f30696153427731596f4e71412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMBwlWR4WnbNDfOXczvN3nfeufEZyjVkmzbDe3WRs8pvPo0iaSBw1YoNqA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>此时，已经是一个可用的 Bot 了，开场白文案和开场白预置问题都有默认设置，对于前端小智这个 Bot 来说，已经有以下功能：</p>
+<ol>
+<li>进入 Bot 时即可收到</li>
+</ol>
+<blockquote>
+<p>❝</p>
+<p>你好，我是一个能助你全面了解前端智能化的 AI ，很高兴能为你服务。</p>
+<p>❞</p>
+</blockquote>
+<ol start="2">
+<li>询问『如何实现前端智能化』，即可得到以下回答：</li>
+</ol>
+<blockquote>
+<p>❝</p>
+<p>实现前端智能化需要以下几个关键技术的支持：</p>
+<ol>
+<li>
+<p>数据预处理：将原始数据转换为适合机器学习的格式，例如清洗、去重、特征提取等。</p>
+</li>
+<li>
+<p>模型训练：使用机器学习算法对预处理后的数据进行训练，以获得能够进行预测或分类的模型。</p>
+</li>
+<li>
+<p>模型部署：将训练好的模型部署到前端应用程序中，以便在运行时进行实时预测或分类。</p>
+</li>
+<li>
+<p>反馈机制：收集用户的反馈数据，以不断改进和优化模型。</p>
+</li>
+</ol>
+<p>以下是一个使用前端智能化技术实现面部识别登录的示例：</p>
+<ol>
+<li>
+<p>数据预处理：使用图像处理技术对用户上传的照片进行预处理，例如裁剪、调整大小、灰度变换等。</p>
+</li>
+<li>
+<p>模型训练：使用深度学习算法对预处理后的数据进行训练，以获得能够进行面部识别的模型。</p>
+</li>
+<li>
+<p>模型部署：将训练好的模型部署到前端应用程序中，以便在运行时进行实时面部识别。</p>
+</li>
+<li>
+<p>反馈机制：收集用户的登录结果数据，以不断改进和优化模型。</p>
+</li>
+</ol>
+<p>通过以上几个步骤，就可以实现一个简单的前端智能化应用程序。</p>
+<p>❞</p>
+</blockquote>
+<h2>更多能力</h2>
+<p>可以通过知识库、数据库给 Bot 提供更多的能力，比如创建一个【科普文章】的【知识库】并且启用后，即可在 Bot 中添加，如下两图所示：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/525ac4e926d362dd7e6a125ead32363cb85bfcad295557639c38c4ddedac7bef/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d4243394d447861724955524b51784f306e63776461564c7461396753395a546e7362686961396a6a4b323178627a3035635a7951503761512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/525ac4e926d362dd7e6a125ead32363cb85bfcad295557639c38c4ddedac7bef/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d4243394d447861724955524b51784f306e63776461564c7461396753395a546e7362686961396a6a4b323178627a3035635a7951503761512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMBC9MDxarIURKQxO0ncwdaVLta9gS9ZTnsbhia9jjK21xbz05cZyQP7aQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43090aa527a42b50bc176625574249129519968d13e44cd5259c2d9cb66dc8df/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d4248646453696369624b5449357673546c75784b73796c53326a46496c6962766750667761444f79554171356861483378674946317a41474a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/43090aa527a42b50bc176625574249129519968d13e44cd5259c2d9cb66dc8df/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d4248646453696369624b5449357673546c75784b73796c53326a46496c6962766750667761444f79554171356861483378674946317a41474a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMBHddSicibKTI5vsTluxKsylS2jFIlibvgPfwaDOyUAq5haH3xgIF1zAGJw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>之后再次询问 Bot ：如何理解人工智能</p>
+<p>此时，Bot 会优先去知识库中搜索答案，如下图所示：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d442d6aa62409ed10cb2e4a7b2ce24fd63d0f9b962a974be1962c76a0ea8caa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d426f6c5a38357948344b6433557846323466454d6f364276585973467969634470637a4145436f39614c744d6645613649724978684d6961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5d442d6aa62409ed10cb2e4a7b2ce24fd63d0f9b962a974be1962c76a0ea8caa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d426f6c5a38357948344b6433557846323466454d6f364276585973467969634470637a4145436f39614c744d6645613649724978684d6961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMBolZ85yH4Kd3UxF24fEMo6BvXYsFyicDpczAECo9aLtMfEa6IrIxhMiaA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>此时展示的内容即为知识库《一个前端智能化的实战》中的内容：</p>
+<blockquote>
+<p>❝</p>
+<p>“人工智能”或许是迄今为止最神秘的编程方式。通过机器学习程序，在神经网络中总结出规律和模式，就可以推理出结果。用数学理论无法简单证明，用工具分析也难以理解，但是神经网络却工作的很好。在语音、图像识别等领域已经达到工业标准，识别准确率远超人类。不同以往、难以解释的编程方式，正在改进安检、支付等场景的效率和体验，这正是人工智能的神秘之处。</p>
+<p>❞</p>
+</blockquote>
+<p>再次询问：『如何定义前端智能化』<br>
+得到答案：</p>
+<blockquote>
+<p>❝</p>
+<p>从围棋的问题中可以看到，如果规则和运算不能解决，那么，这就是人工智能擅长解决的。在前端技术领域当然也会有规则和运算不能直接解决的问题，所以，这些问题就是前端智能化要解决的问题。前端智能化就是在复杂场景中，借助人工智能技术，解决规则和运算不能直接解决的复杂问题。</p>
+<p>❞</p>
+</blockquote>
+<p>可谓非常简单了，当你上传足够多的有关前端智能化的文章或者链接，你就拥有一个在前端智能化领域非常专业的 Bot 了。</p>
+<p>配合再配置一些插件、工作流，让你的 Bot 更加智能</p>
+<blockquote>
+<p>❝</p>
+<p>工作流：工作流支持通过可视化的方式，对插件、大语言模型、代码块等功能进行组合，从而实现复杂、稳定的业务流程编排，例如旅行规划、报告分析等。</p>
+<p>❞</p>
+</blockquote>
+<blockquote>
+<p>❝</p>
+<p>插件：插件能够让 Bot 调用外部 API，例如搜索信息、浏览网页、生成图片等，扩展 Bot 的能力和使用场景。</p>
+<p>❞</p>
+</blockquote>
+<p>之后就可以点击右上角的发布按钮了，这里必须填写发布记录和选择发布平台，目前仅能选择飞书、微信客服和微信公众号（服务号），如下图所示</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1e7f33da50201c089894af2663fa1782391988ae2f7057e2b869fe73a442e7f9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d42325755564f5679566266354676386b7550706f37375971364550435965587358496b3366624d7675543351465a716963744358767379512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1e7f33da50201c089894af2663fa1782391988ae2f7057e2b869fe73a442e7f9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d42325755564f5679566266354676386b7550706f37375971364550435965587358496b3366624d7675543351465a716963744358767379512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMB2WUVOVyVbf5Fv8kuPpo77Yq6EPCYeXsXIk3fbMvuT3QFZqictCXvsyQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>以飞书为例，首次进入为未授权状态，点击飞书图表后边的配置，进入配置页面，按照操作步骤完成授权，勾选飞书</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bcfecad43558779367e729bb205fbc0a164a6c812203891be8f67d3032559a97/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d424246624f736e3166473062417a63316d4f4945487976586a3436446576667462767838364369636b6265343947494c4f654379484c32672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bcfecad43558779367e729bb205fbc0a164a6c812203891be8f67d3032559a97/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d424246624f736e3166473062417a63316d4f4945487976586a3436446576667462767838364369636b6265343947494c4f654379484c32672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMBBFbOsn1fG0bAzc1mOIEHyvXj46Devftbvx86Cickbe49GILOeCyHL2g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击发布之后，会有一个官方的审核，目前审核都比较快，稍等过后刷新页面即可完成发布</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/15b067c187984542f3c53784d84722e91f2d1bc36fe01a50c2a0f4928341e501/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d42727739494536794b39714a71334d394f5466576f4b68466d3351507843696244766961793943536d7a3478574d31764b3342504e55637a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/15b067c187984542f3c53784d84722e91f2d1bc36fe01a50c2a0f4928341e501/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d42727739494536794b39714a71334d394f5466576f4b68466d3351507843696244766961793943536d7a3478574d31764b3342504e55637a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMBrw9IE6yK9qJq3M9OTfWoKhFm3QPxCibDviay9CSmz4xWM1vK3BPNUczA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>回到我的空间，即可看到成功发布的 Bot - 前端小智</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e1367ae26eb4a80abc5ed3eb45c8a5db124463824a485b0cb6cf558153b0f51/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d4261356a4937586769616c69624e6c34766e696130633874365a663139433243584b4641766d4a6a6654304b72425577437a4a6f6473583749772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5e1367ae26eb4a80abc5ed3eb45c8a5db124463824a485b0cb6cf558153b0f51/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d4261356a4937586769616c69624e6c34766e696130633874365a663139433243584b4641766d4a6a6654304b72425577437a4a6f6473583749772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMBa5jI7XgialibNl4vnia0c8t6Zf19C2CXKFAvmJjfT0KrBUwCzJodsX7Iw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>进入 Bot 后在浏览器地址栏即可看到 Bot ID 如下图所示</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28593205720e96ca0417933b8e57f60ebcba5cf78bfce6d07c753517da9a8d21/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d426d59374e505355593969627a696243786d7070424b50493538636a4369614251426b57423562413655306c53596962335974346e6a4e456873412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/28593205720e96ca0417933b8e57f60ebcba5cf78bfce6d07c753517da9a8d21/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d426d59374e505355593969627a696243786d7070424b50493538636a4369614251426b57423562413655306c53596962335974346e6a4e456873412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMBmY7NPSUY9ibzibCxmppBKPI58cjCiaBQBkWB5bA6U0lSYib3Yt4njNEhsA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>打开飞书，搜索【前端小智】，即可看到创建的机器人</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ef82ada4529298f902b52a29f0885a664fcbd0098d570bc7d958a8a868c728c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d4237625a41616b5061767669626a4d376d453263645165724378787a7279497254717278663934467837535a6e306473676d724c6f3071772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2ef82ada4529298f902b52a29f0885a664fcbd0098d570bc7d958a8a868c728c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d4237625a41616b5061767669626a4d376d453263645165724378787a7279497254717278663934467837535a6e306473676d724c6f3071772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMB7bZAakPavvibjM7mE2cdQerCxxzryIrTqrxf94Fx7SZn0dsgmrLo0qw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>在对话框窗口，随便提问一个问题，如【定义前端智能化】</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2c2a693a78d91a3bb9d2a0fa599360af32f2f7f5a3b805cabff1f20d1946e4a3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d423435756962793262446143564f376961334947516c523734563564326a6b5365475472506f4f736654577169636f49475a745a3030423175412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2c2a693a78d91a3bb9d2a0fa599360af32f2f7f5a3b805cabff1f20d1946e4a3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c43514c67303267746962734c637469614b4c4357734569635a787351573966504d423435756962793262446143564f376961334947516c523734563564326a6b5365475472506f4f736654577169636f49475a745a3030423175412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsLctiaKLCWsEicZxsQW9fPMB45uiby2bDaCVO7ia3IGQlR74V5d2jkSeGTrPoOsfTWqicoIGZtZ00B1uA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>好了，一个前端智能化的 Bot 就建立完毕， 总结一下：</p>
+<p>优势：</p>
+<ol>
+<li>
+<p>真的！真的！真的！如此简单，如此丝滑，如此快速，让人不得不感叹 AI 时代已经走进大众</p>
+</li>
+<li>
+<p>插件非常丰富，已经支持诸如搜索、图片、新闻等等，还支持自定义创建插件，只有想不到没有做不到</p>
+</li>
+<li>
+<p>对于构建某一个领域范围的专业机器人，可以说功能已经足够多，足够强大，优势明显，这个成本是我见过最低的</p>
+</li>
+</ol>
+<p>建议：</p>
+<ol>
+<li>
+<p>支持的发布平台很少，希望尽快支持更多平台</p>
+</li>
+<li>
+<p>希望开放插件市场，开发者可以获取一些收益</p>
+</li>
+</ol>
+<p>最后简单回顾一下 扣子创建 Bot 的过程</p>
+<ol>
+<li>
+<p><strong>「Bot设置：」</strong> 在创建Bot时，你可以设置其名称和描述，以及选择一个合适的图标作为Bot的标识。这些设置可以让你的Bot在使用过程中更加个性化和专业化。</p>
+</li>
+<li>
+<p><strong>「交互过程：」</strong> 通过交互式的对话，你可以告诉Bot你的需求，比如要创建一个用于微信订阅号自动发布文章的Bot。Bot会根据你的需求为你生成一个合适的Bot名称和描述，并在创建完成后展示给你。</p>
+</li>
+<li>
+<p><strong>「Bot名称修改：」</strong> 如果在创建过程中觉得Bot的名称不够吸引人或者不够专业，你可以随时修改它。在交互过程中，Bot会根据你的要求为你修改Bot的名称，并确保修改后的名称符合你的期望。</p>
+</li>
+<li>
+<p><strong>「访问链接：」</strong> 创建完成后，你会得到一个链接，通过这个链接可以访问你创建的Bot。这个链接可以在你的微信订阅号上使用，让你的Bot开始自动抓取内容并发布文章。</p>
+</li>
+</ol>
+<p>【前端小智】Bot 地址 <a href="https://www.coze.cn/space/7330538035702136882/bot/7330560334153056265" rel="nofollow">https://www.coze.cn/space/7330538035702136882/bot/7330560334153056265</a> 欢迎大家体验</p>
+<p>Bot ID：7330560334153056265</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

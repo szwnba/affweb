@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="安装Midjourney才半个多月，期间各种不适应，从基础指令开始一步步学，加上科学上网出图，那出图速度真叫一个慢啊，头痛~  
+
+算是好不容易，按教程自学出了基础指令的运用，**以教为学，一边学习一边写自己的学习笔记，于是有了这两篇基础指令的梳理：**   
+
+*   [80后副业必备收藏：亲测Midjourney指令合集，AI绘图入门保姆级秘籍（上）](http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&mid=2247483928&idx=1&sn=3bf377c27837ae9074cee90444110e33&chksm=c0871ea0f7f097b6e560a1fb9dbf23931b84450611303a0c183b3109f1eb6e547a8c544ccfb0&scene=21#wechat_redirect)  
+    
+*   [80后副业必备收藏：亲测Midjourney指令合集，AI绘图入门保姆级秘籍（下）](http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&mid=2247484013&idx=1&sn=ece09e5eaeef2fd85e0e8ae0fab8ec31&chksm=c0871ed5f7f097c3e9c32fbb9ab7e001281301c4b302b40d781a93a393ff89c9f4b6d4622b11&scene=21#wechat_redirect)
+    
+
+然后**继续摸索指令与提示词的配合操作**，特别是那一堆200多个风格的提示词，跟字典一样，真的是术业有专攻，外行真的需要给自己一点正反馈，才能继续学下去，于是给自己又整理了一篇：  
+
+*   [解锁AI插画技能：3套Midjourney公式与200+关键词，宫崎骏、皮克斯、印象派手到擒来](http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&mid=2247484212&idx=1&sn=875055a2bcd33c8954dd07779118deb6&chksm=c0871f8cf7f0969a274cf9ed2350d9776f664640ff29ff106fcb70a74ce3430b29262aa9c836&scene=21#wechat_redirect)
+    
+
+由于同时在学习知识星球AI破局小七姐的提示词课程，最近在工作上也在不停地跟KimiChat沟通中，觉得用会了模板真的很有效，可以提升日常工作效率。">
+<meta property="og:title" content="我太牛逼了，Kimi+Midjourney 自学半个多月，就能出这么天仙般的图文小故事（上）">
+<meta property="og:description" content="安装Midjourney才半个多月，期间各种不适应，从基础指令开始一步步学，加上科学上网出图，那出图速度真叫一个慢啊，头痛~  
+
+算是好不容易，按教程自学出了基础指令的运用，**以教为学，一边学习一边写自己的学习笔记，于是有了这两篇基础指令的梳理：**   
+
+*   [80后副业必备收藏：亲测Midjourney指令合集，AI绘图入门保姆级秘籍（上）](http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&mid=2247483928&idx=1&sn=3bf377c27837ae9074cee90444110e33&chksm=c0871ea0f7f097b6e560a1fb9dbf23931b84450611303a0c183b3109f1eb6e547a8c544ccfb0&scene=21#wechat_redirect)  
+    
+*   [80后副业必备收藏：亲测Midjourney指令合集，AI绘图入门保姆级秘籍（下）](http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&mid=2247484013&idx=1&sn=ece09e5eaeef2fd85e0e8ae0fab8ec31&chksm=c0871ed5f7f097c3e9c32fbb9ab7e001281301c4b302b40d781a93a393ff89c9f4b6d4622b11&scene=21#wechat_redirect)
+    
+
+然后**继续摸索指令与提示词的配合操作**，特别是那一堆200多个风格的提示词，跟字典一样，真的是术业有专攻，外行真的需要给自己一点正反馈，才能继续学下去，于是给自己又整理了一篇：  
+
+*   [解锁AI插画技能：3套Midjourney公式与200+关键词，宫崎骏、皮克斯、印象派手到擒来](http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&mid=2247484212&idx=1&sn=875055a2bcd33c8954dd07779118deb6&chksm=c0871f8cf7f0969a274cf9ed2350d9776f664640ff29ff106fcb70a74ce3430b29262aa9c836&scene=21#wechat_redirect)
+    
+
+由于同时在学习知识星球AI破局小七姐的提示词课程，最近在工作上也在不停地跟KimiChat沟通中，觉得用会了模板真的很有效，可以提升日常工作效率。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wo-tai-niu-bi-le-%EF%BC%8CKimi%2BMidjourney%20-zi-xue-ban-ge-duo-yue-%EF%BC%8C-jiu-neng-chu-zhe-me-tian-xian-ban-de-tu-wen-xiao-gu-shi-%EF%BC%88-shang-%EF%BC%89.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>我太牛逼了，Kimi+Midjourney 自学半个多月，就能出这么天仙般的图文小故事（上）</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我太牛逼了，Kimi+Midjourney 自学半个多月，就能出这么天仙般的图文小故事（上）</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/522" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>安装Midjourney才半个多月，期间各种不适应，从基础指令开始一步步学，加上科学上网出图，那出图速度真叫一个慢啊，头痛~</p>
+<p>算是好不容易，按教程自学出了基础指令的运用，<strong>以教为学，一边学习一边写自己的学习笔记，于是有了这两篇基础指令的梳理：</strong></p>
+<ul>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247483928&amp;idx=1&amp;sn=3bf377c27837ae9074cee90444110e33&amp;chksm=c0871ea0f7f097b6e560a1fb9dbf23931b84450611303a0c183b3109f1eb6e547a8c544ccfb0&amp;scene=21#wechat_redirect" rel="nofollow">80后副业必备收藏：亲测Midjourney指令合集，AI绘图入门保姆级秘籍（上）</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484013&amp;idx=1&amp;sn=ece09e5eaeef2fd85e0e8ae0fab8ec31&amp;chksm=c0871ed5f7f097c3e9c32fbb9ab7e001281301c4b302b40d781a93a393ff89c9f4b6d4622b11&amp;scene=21#wechat_redirect" rel="nofollow">80后副业必备收藏：亲测Midjourney指令合集，AI绘图入门保姆级秘籍（下）</a></p>
+</li>
+</ul>
+<p>然后<strong>继续摸索指令与提示词的配合操作</strong>，特别是那一堆200多个风格的提示词，跟字典一样，真的是术业有专攻，外行真的需要给自己一点正反馈，才能继续学下去，于是给自己又整理了一篇：</p>
+<ul>
+<li><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484212&amp;idx=1&amp;sn=875055a2bcd33c8954dd07779118deb6&amp;chksm=c0871f8cf7f0969a274cf9ed2350d9776f664640ff29ff106fcb70a74ce3430b29262aa9c836&amp;scene=21#wechat_redirect" rel="nofollow">解锁AI插画技能：3套Midjourney公式与200+关键词，宫崎骏、皮克斯、印象派手到擒来</a></li>
+</ul>
+<p>由于同时在学习知识星球AI破局小七姐的提示词课程，最近在工作上也在不停地跟KimiChat沟通中，觉得用会了模板真的很有效，可以提升日常工作效率。所以还梳理了KimiChat官方的秘籍提示词：</p>
+<ul>
+<li><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484102&amp;idx=1&amp;sn=23ba94808e29449a041ee0badcaf4618&amp;chksm=c0871e7ef7f0976873e1feef0531f2f6f6544698faaca5a55e58a2faee49b8d58c288011a0e7&amp;scene=21#wechat_redirect" rel="nofollow">解锁职场与自媒体新招：AI自动生成提示词，效率翻倍不是梦！领取KimiChat 12大官方秘籍，助力内容创作！</a></li>
+</ul>
+<p>于是乎，我突然意识到，<strong>其实可以用AI给自己定好一个设计绘画师的人设，然后为我的奇思妙想来写提示词。</strong> 那是前天晚上，那叫是一个兴奋啊，弄到半夜，让Midjourney给出了这么天仙般的小故事插图。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33e34d4e99b00b2855ed708b652642c44473ce8c6c8e77c15e0ba783ef091ad9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c384d6e62553047756b696241456c61667747716a444c3676465a676644376241486247444568505469634b44306843596962634436724f47772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/33e34d4e99b00b2855ed708b652642c44473ce8c6c8e77c15e0ba783ef091ad9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c384d6e62553047756b696241456c61667747716a444c3676465a676644376241486247444568505469634b44306843596962634436724f47772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQL8MnbU0GukibAElafwGqjDL6vFZgfD7bAHbGDEhPTicKD0hCYibcD6rOGw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6a9f8ced7362cc1c3045c9c050689164f7d1c81db099d9418296578be0aa70ee/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c6c486671317872414e76706251466d664b6466346267686f34545133716b6575744e4e566d55496d444573726b6b4b6963394a574531412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6a9f8ced7362cc1c3045c9c050689164f7d1c81db099d9418296578be0aa70ee/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c6c486671317872414e76706251466d664b6466346267686f34545133716b6575744e4e566d55496d444573726b6b4b6963394a574531412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLlHfq1xrANvpbQFmfKdf4bgho4TQ3qkeutNNVmUImDEsrkkKic9JWE1A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>太牛逼了哈<del>我说的是AI，还有稍微领悟一点点AI真谛的我，哈哈</del></strong></p>
+<p><strong>********</strong></p>
+<p><strong>所以来show一下，一个小女孩误入森林，遇见小飞仙，然后跟着小飞仙发现森林里另外一个平行时空的小故事。</strong> <strong>这些美图，以及跟图相关的提示词（中/英文）：</strong></p>
+<p>画面采用宫崎骏动画风格，小女孩站在森林边缘，背对光明，面向阴影，脸上带着混合着好奇与忧虑的表情。背景中的森林色彩丰富而深邃，阳光透过树叶洒下斑驳的光影，营造出一种神秘而温馨的氛围。画面以小女孩为中心，使用广角镜头捕捉整个场景，强调她与自然的对比和联系。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1a3a3c9b282cafa4655032fc02d2e7294b4e529fa2c000d7a4d8a9868b8541a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c656366316758565a657767633566533474685a5469637163357978725a794c4d5541576246564c3352474f33377a65626e4764386b6962672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c1a3a3c9b282cafa4655032fc02d2e7294b4e529fa2c000d7a4d8a9868b8541a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c656366316758565a657767633566533474685a5469637163357978725a794c4d5541576246564c3352474f33377a65626e4764386b6962672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLecf1gXVZewgc5fS4thZTicqc5yxrZyLMUAWbFVL3RGO37zebnGd8kibg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/180b09e4defdeb7d6702b5176b7edf819a2af225ff55bbea4a1e2cef5d0b2d05/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c50664d6f6d686135664e7962346e5845644a7668576c71713761673765617250367235616a3242456e6a6177764233666d6961483444412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/180b09e4defdeb7d6702b5176b7edf819a2af225ff55bbea4a1e2cef5d0b2d05/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c50664d6f6d686135664e7962346e5845644a7668576c71713761673765617250367235616a3242456e6a6177764233666d6961483444412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLPfMomha5fNyb4nXEdJvhWlqq7ag7earP6r5aj2BEnjawvB3fmiaH4DA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>特写镜头聚焦小女孩的面部，她的表情由紧张转为惊喜，眼中闪烁着对新环境的好奇和喜悦。背景中的森林细节逐渐模糊，聚焦点在小女孩的表情和肢体语言上，传递出她对这次冒险的积极态度。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/49316670df08335794cfcb01dc349f6b7139252616a88043c73d6cd140db8c2d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c536c38465776754142526434633251466b616a54625471476a424b6c6d67656b75323077507943626e5473366a4b7464476837596f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/49316670df08335794cfcb01dc349f6b7139252616a88043c73d6cd140db8c2d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c536c38465776754142526434633251466b616a54625471476a424b6c6d67656b75323077507943626e5473366a4b7464476837596f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLSl8FWvuABRd4c2QFkajTbTqGjBKlmgeku20wPyCbnTs6jKtdGh7Yow/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96b71e12555ed2e5cdbfbeb2307bd602e9699377bb4ab83903eef05281cb7934/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c54426245764239416962696374376f373439734a696357324d5a546c42517275626b66746d4e3751474b70667745777967625559333869624e412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/96b71e12555ed2e5cdbfbeb2307bd602e9699377bb4ab83903eef05281cb7934/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c54426245764239416962696374376f373439734a696357324d5a546c42517275626b66746d4e3751474b70667745777967625559333869624e412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLTBbEvB9Aibict7o749sJicW2MZTlBQrubkftmN7QGKpfwEwygbUY38ibNA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>画面以宫崎骏式的幻想风格呈现，小飞仙们围绕一朵盛开的花朵轻盈飞舞，她们的身影在光线中显得透明而梦幻。花朵的色彩鲜艳，与小飞仙的轻盈衣裳形成和谐的对比。画面采用逆光摄影，强调小飞仙们的光环和花朵的轮廓。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5c49fa1aca7522dad43c06a1bab2e8cc1645f9a28b16924ff03ba029e7b77df3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c566645325350486963494d4a63484b5330426c39437735457044575565534c303469624f464869635764574a744f63546d66627a6f416a41412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5c49fa1aca7522dad43c06a1bab2e8cc1645f9a28b16924ff03ba029e7b77df3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c566645325350486963494d4a63484b5330426c39437735457044575565534c303469624f464869635764574a744f63546d66627a6f416a41412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLVfE2SPHicIMJcHKS0Bl9Cw5EpDWUeSL04ibOFHicWdWJtOcTmfbzoAjAA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea0eec67f347307e1f7b03cb99ff594e3ee85ac198de218772b54f2200a3ee94/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4534753472576b303352556a78356a32586834747168783169636c616b59426331706e5039587833544b4b6469614b3554664670717142686234687a4c6b4c544c37644e33657041587837696174512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ea0eec67f347307e1f7b03cb99ff594e3ee85ac198de218772b54f2200a3ee94/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4534753472576b303352556a78356a32586834747168783169636c616b59426331706e5039587833544b4b6469614b3554664670717142686234687a4c6b4c544c37644e33657041587837696174512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjE4u4rWk03RUjx5j2Xh4tqhx1iclakYBc1pnP9Xx3TKKdiaK5TfFpqqBhb4hzLkLTL7dN3epAXx7iatQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>全景镜头展现小女孩与小飞仙们在花丛中的欢乐场景，她们在色彩斑斓的花丛中嬉戏，周围的环境充满了生机与活力。画面中的光线均匀而柔和，强调场景的和谐与美好。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a29c14351fe09a8730a3145c0ebf7fee45113f7f267bed2b4fd0183588624bdd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c307a64337644396f696274556530364c6c3074313176734a41696237413959545650336e4c587a726b634d58326155594142526962756d79772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a29c14351fe09a8730a3145c0ebf7fee45113f7f267bed2b4fd0183588624bdd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c307a64337644396f696274556530364c6c3074313176734a41696237413959545650336e4c587a726b634d58326155594142526962756d79772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQL0zd3vD9oibtUe06Ll0t11vsJAib7A9YTVP3nLXzrkcMX2aUYABRibumyw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc489737f84073ddca98aa885fd424d5b606323e954402b34ff0aa1929070bc2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c6a5371556c7458506f67425462446d6c397472616d6a696232465854556d704279496f3276386562464c67696276447962594d44515a31412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/cc489737f84073ddca98aa885fd424d5b606323e954402b34ff0aa1929070bc2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c6a5371556c7458506f67425462446d6c397472616d6a696232465854556d704279496f3276386562464c67696276447962594d44515a31412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLjSqUltXPogBTbDml9tramjib2FXTUmpByIo2v8ebFLgibvDybYMDQZ1A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>近景镜头捕捉小女孩与小飞仙的第一次接触，她们的眼神中流露出好奇与友好。背景中的森林被柔和的光线照亮，营造出一种温馨的氛围。焦点放在小女孩和小飞仙的面部，捕捉她们的表情和肢体语言，传递出一种温暖的情感交流。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0808fdd49ad033ae47ea1b0f69401c38212dcdd10401b6af551076d6b88425a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c6e32647265577069624a5a6261584457655a6d5132476d346d3444696257416d57756274774f7052424d716437546847335667686e6c76672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c0808fdd49ad033ae47ea1b0f69401c38212dcdd10401b6af551076d6b88425a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c6e32647265577069624a5a6261584457655a6d5132476d346d3444696257416d57756274774f7052424d716437546847335667686e6c76672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLn2dreWpibJZbaXDWeZmQ2Gm4m4DibWAmWubtwOpRBMqd7ThG3Vghnlvg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ffcf2823f63b5c18e648c79103b6bbb1229095d9b2950e51dd0e9771e8401712/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4534753472576b303352556a78356a32586834747168686c743151784e59493977756e5342754953704a69626478593564674c4f427942546d465a64684d466a576d344c6f61443732747843512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ffcf2823f63b5c18e648c79103b6bbb1229095d9b2950e51dd0e9771e8401712/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4534753472576b303352556a78356a32586834747168686c743151784e59493977756e5342754953704a69626478593564674c4f427942546d465a64684d466a576d344c6f61443732747843512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjE4u4rWk03RUjx5j2Xh4tqhhlt1QxNYI9wunSBuISpJibdxY5dgLOByBTmFZdhMFjWm4LoaD72txCQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>画面以宫崎骏动画中的神秘风格呈现，小女孩跟随着小飞仙穿过由树木构成的天然拱门。拱门的轮廓在光线的照射下显得神秘而庄严，周围的森林细节丰富，营造出一种深邃的空间感。画面采用低角度拍摄，强调拱门的高度和小女孩的勇敢。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/07418322f087e868092b41c7eee626ab93721d3dd3908f9d484f9288ef553e7c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c5145696235446470696379445a724e76366b68474f56685a4f756961516963504c54344847714a307a576b63344d50415875636f7a75366472412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/07418322f087e868092b41c7eee626ab93721d3dd3908f9d484f9288ef553e7c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c5145696235446470696379445a724e76366b68474f56685a4f756961516963504c54344847714a307a576b63344d50415875636f7a75366472412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLQEib5DdpicyDZrNv6khGOVhZOuiaQicPLT4HGqJ0zWkc4MPAXucozu6drA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/55bd48ed0c7ef413afe24c495fefa94b5d1351acf3519fd9434634c8ba5a3e26/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c69627467775a495448536f45515369624762766337696132746b4d763649534e6e386f46426d365462634b50304863713974465657505465512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/55bd48ed0c7ef413afe24c495fefa94b5d1351acf3519fd9434634c8ba5a3e26/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c69627467775a495448536f45515369624762766337696132746b4d763649534e6e386f46426d365462634b50304863713974465657505465512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLibtgwZITHSoEQSibGbvc7ia2tkMv6ISNn8oFBm6TbcKP0Hcq9tFVWPTeQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>中景镜头捕捉小飞仙们在空中飞舞的动态，她们的身影在雾气中若隐若现，增加了一种神秘和梦幻的感觉。背景中的森林被柔和的蓝色调光线照亮，营造出一种静谧的氛围。焦点放在小飞仙们的翅膀和飞行轨迹上，传递出她们的自由与快乐。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3df7a3810f8184a0fa3bbb97701533d5dbc6ff51b218ab2a3b38c079e65c9fb2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c643369636f7879766a364647306f7a3861306f703169624465696358463473554c6e774f55737877376f6c53683449516b4d74434d556444412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3df7a3810f8184a0fa3bbb97701533d5dbc6ff51b218ab2a3b38c079e65c9fb2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c643369636f7879766a364647306f7a3861306f703169624465696358463473554c6e774f55737877376f6c53683449516b4d74434d556444412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLd3icoxyvj6FG0oz8a0op1ibDeicXF4sULnwOUsxw7olSh4IQkMtCMUdDA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/af879cd3310b3ec2c813c4b9b4b9b8a5a9774a757889661ef573b41b2c458713/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4534753472576b303352556a78356a32586834747168566a6f624a4245564e4736686d6961596f446a624535595a4f4c72774d6d4b556b704d754f424d41544f416f38326f4d4f4c6e597978772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/af879cd3310b3ec2c813c4b9b4b9b8a5a9774a757889661ef573b41b2c458713/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4534753472576b303352556a78356a32586834747168566a6f624a4245564e4736686d6961596f446a624535595a4f4c72774d6d4b556b704d754f424d41544f416f38326f4d4f4c6e597978772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjE4u4rWk03RUjx5j2Xh4tqhVjobJBEVNG6hmiaYoDjbE5YZOLrwMmKUkpMuOBMATOAo82oMOLnYyxw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>特写镜头聚焦蘑菇圈和光芒四射的门户，门户中隐约可见另一个世界的景象，增加了一种神秘和期待的感觉。画面中的光线从中心向外辐射，强调门户的重要性和神奇。周围的小飞仙和小女孩的剪影增加了画面的层次感和动态感。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a39e2751fd4d1d0a85dfacc94463d38671f7d8e3d3053eeb12f72e252906722/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c7068696351664f35784e68765a62496e3873706f46627837696164615a414e59696250776467795a59667346326b47673756636b7369626734412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9a39e2751fd4d1d0a85dfacc94463d38671f7d8e3d3053eeb12f72e252906722/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4753754a475863656961456446636875776d4e526963514c7068696351664f35784e68765a62496e3873706f46627837696164615a414e59696250776467795a59667346326b47673756636b7369626734412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjGSuJGXceiaEdFchuwmNRicQLphicQfO5xNhvZbIn8spoFbx7iadaZANYibPwdgyZYfsF2kGg7Vcksibg4A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/805006cea4507c7a5d78c916ed61092ae0b5c3c11ed4209057f87c7900b8b0a9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4534753472576b303352556a78356a325868347471686f55305867787878476a6848696342634a546d706963747a7a4544466564475a7a4841306e386c646d3859696369614e537736424a444d5970772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/805006cea4507c7a5d78c916ed61092ae0b5c3c11ed4209057f87c7900b8b0a9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a4534753472576b303352556a78356a325868347471686f55305867787878476a6848696342634a546d706963747a7a4544466564475a7a4841306e386c646d3859696369614e537736424a444d5970772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjE4u4rWk03RUjx5j2Xh4tqhoU0XgxxxGjhHicBcJTmpictzzEDFedGZzHA0n8ldm8YiciaNSw6BJDMYpw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>下一篇我会告诉你，我是如何跟KimiChat来搞定这些分镜照片的提示词的，还有那些我没show完的天仙图，要看的等我哈。</p>
+<p>************</p>
+<p>**<strong>80后的你，想了解更多“快速入门AI工具的信息”，关注我的公众号，或+ConnykyAI ，分享我的亲测体验给你呀~</strong></p>
+<p><strong>“我都可以，你又有什么不可能呢？”</strong></p>
+<p><strong>#&lt;AI学习入门亲测指南&gt;链接#</strong></p>
+<p><strong>关于GPT：</strong></p>
+<ul>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247483918&amp;idx=1&amp;sn=c6401bdd42064a559802fc0cecdb5a48&amp;chksm=c0871eb6f7f097a0c97184c83b3464d9ea9656a6c6d55f73dc4f778db767036a8f88d72fd6db&amp;scene=21#wechat_redirect" rel="nofollow">GPT提示词的快速入门指南：4个基本法则2个实用技巧，帮你10倍提效！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484008&amp;idx=1&amp;sn=cd71de960f63923f325aa02fd4775b92&amp;chksm=c0871ed0f7f097c6be6739e46fbdda9cd844b24ebd825cc69a03603c7f84f7f1ea5c50f64782&amp;scene=21#wechat_redirect" rel="nofollow">5大步骤教会你，怎么学AI提示词！别再让GPT着急：“你要是想要的话，你就说话嘛！”</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247483890&amp;idx=1&amp;sn=38b3f4384e70705f0776a650cb627f6d&amp;chksm=c0871d4af7f0945ce573594c7425e2fc697abea98d474fc69247c4606ea167338f97ff27df92&amp;scene=21#wechat_redirect" rel="nofollow">ChatGPT3.5 还没用上吗？这个技巧助你马上破解！账号注册步骤，亲测有效！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247483976&amp;idx=1&amp;sn=179262f37e6633c6e9f3a6f63577eb10&amp;chksm=c0871ef0f7f097e63139eda31982ab95a5fd82b1885ebad32f6555e68e7e2027b2c65cf06891&amp;scene=21#wechat_redirect" rel="nofollow">ChatGPT 4.0 还没体验上？我来教你，这样就行！保姆级注册步骤，亲测有效！</a></p>
+</li>
+</ul>
+<p><strong>关于KimiChat：</strong></p>
+<ul>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484030&amp;idx=1&amp;sn=1368be60332418122b8429c0f6123da2&amp;chksm=c0871ec6f7f097d0e29d49aacce6bd13aedee4de053f78a96b60a9a1e5608270db56579c2f8f&amp;scene=21#wechat_redirect" rel="nofollow">AI智能当红炸子鸡 KimiChat，被互联网大厂围剿，何时能走上盈利模式？</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484102&amp;idx=1&amp;sn=23ba94808e29449a041ee0badcaf4618&amp;chksm=c0871e7ef7f0976873e1feef0531f2f6f6544698faaca5a55e58a2faee49b8d58c288011a0e7&amp;scene=21#wechat_redirect" rel="nofollow">解锁职场与自媒体新招：AI自动生成提示词，效率翻倍不是梦！领取KimiChat 12大官方秘籍，助力内容创作！</a></p>
+</li>
+</ul>
+<p><strong>关于Midjourney：</strong></p>
+<ul>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247483776&amp;idx=1&amp;sn=bde969f919dfbf238f06d70fcaebe675&amp;chksm=c0871d38f7f0942e573c59ee75856f113bfbe7d24c0e732cb33a213a7da38389d9ff831722f6&amp;scene=21#wechat_redirect" rel="nofollow">Midjourney注册步骤：80后必备的副业工具！</a><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247483776&amp;idx=1&amp;sn=bde969f919dfbf238f06d70fcaebe675&amp;chksm=c0871d38f7f0942e573c59ee75856f113bfbe7d24c0e732cb33a213a7da38389d9ff831722f6&amp;scene=21#wechat_redirect" rel="nofollow"></a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247483928&amp;idx=1&amp;sn=3bf377c27837ae9074cee90444110e33&amp;chksm=c0871ea0f7f097b6e560a1fb9dbf23931b84450611303a0c183b3109f1eb6e547a8c544ccfb0&amp;scene=21#wechat_redirect" rel="nofollow">80后副业必备收藏：亲测Midjourney指令合集，AI绘图入门保姆级秘籍（上）</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484013&amp;idx=1&amp;sn=ece09e5eaeef2fd85e0e8ae0fab8ec31&amp;chksm=c0871ed5f7f097c3e9c32fbb9ab7e001281301c4b302b40d781a93a393ff89c9f4b6d4622b11&amp;scene=21#wechat_redirect" rel="nofollow"></a><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484013&amp;idx=1&amp;sn=ece09e5eaeef2fd85e0e8ae0fab8ec31&amp;chksm=c0871ed5f7f097c3e9c32fbb9ab7e001281301c4b302b40d781a93a393ff89c9f4b6d4622b11&amp;scene=21#wechat_redirect" rel="nofollow">80后副业必备收藏：亲测Midjourney指令合集，AI绘图入门保姆级秘籍（下）</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484070&amp;idx=1&amp;sn=f1accc2f24aecf71a13c2c9e7274238c&amp;chksm=c0871e1ef7f09708dd5a0db5066050f98f720cf1db654ef444dfccc394ba0e9490de73ec761e&amp;scene=21#wechat_redirect" rel="nofollow">一次性说清楚 ，用Midjourney怎么做出角色一致或风格一致的图片：和指令你一定要学会！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484212&amp;idx=1&amp;sn=875055a2bcd33c8954dd07779118deb6&amp;chksm=c0871f8cf7f0969a274cf9ed2350d9776f664640ff29ff106fcb70a74ce3430b29262aa9c836&amp;scene=21#wechat_redirect" rel="nofollow">解锁AI插画技能：3套Midjourney公式与200+关键词，宫崎骏、皮克斯、印象派手到擒来</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484336&amp;idx=1&amp;sn=2a35260ae3c710bf86b89309426cbc4b&amp;chksm=c0871f08f7f0961ed87ddc1cf0c8099d9b9287be711945dfb462e0b870585f0bc873586bca9b&amp;scene=21#wechat_redirect" rel="nofollow">你的AI熊猫长这样：只需2个关键词 Midjourney帮你实现专属大熊猫自由！AI绘画真的太简单了！</a></p>
+</li>
+</ul>
+<p><strong>关于Prompt提示词：</strong></p>
+<ul>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247483918&amp;idx=1&amp;sn=c6401bdd42064a559802fc0cecdb5a48&amp;chksm=c0871eb6f7f097a0c97184c83b3464d9ea9656a6c6d55f73dc4f778db767036a8f88d72fd6db&amp;scene=21#wechat_redirect" rel="nofollow">GPT提示词的快速入门指南：4个基本法则2个实用技巧，帮你10倍提效！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484008&amp;idx=1&amp;sn=cd71de960f63923f325aa02fd4775b92&amp;chksm=c0871ed0f7f097c6be6739e46fbdda9cd844b24ebd825cc69a03603c7f84f7f1ea5c50f64782&amp;scene=21#wechat_redirect" rel="nofollow">5大步骤教会你，怎么学AI提示词！别再让GPT着急：“你要是想要的话，你就说话嘛！”</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484008&amp;idx=1&amp;sn=cd71de960f63923f325aa02fd4775b92&amp;chksm=c0871ed0f7f097c6be6739e46fbdda9cd844b24ebd825cc69a03603c7f84f7f1ea5c50f64782&amp;scene=21#wechat_redirect" rel="nofollow"></a><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484104&amp;idx=1&amp;sn=8ce14e611f468728d344b7fea3dea552&amp;chksm=c0871e70f7f09766e2e3ab6b139aee0cb2a75bc3026bc8354457fe5b775c7e6073739b5fcf53&amp;scene=21#wechat_redirect" rel="nofollow">职场效率翻倍秘诀：偷偷掌握这“沟通的四大象限”，用AI助力80后职场副业双升级！"</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484102&amp;idx=1&amp;sn=23ba94808e29449a041ee0badcaf4618&amp;chksm=c0871e7ef7f0976873e1feef0531f2f6f6544698faaca5a55e58a2faee49b8d58c288011a0e7&amp;scene=21#wechat_redirect" rel="nofollow">解锁职场与自媒体新招：AI自动生成提示词，效率翻倍不是梦！领取KimiChat 12大官方秘籍，助力内容创作！</a></p>
+</li>
+</ul>
+<p><strong>关于其他AI工具：</strong></p>
+<ul>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484101&amp;idx=1&amp;sn=558f91c1d4fd63d1f6daaea8c886bdb0&amp;chksm=c0871e7df7f0976b3870549845ceb2b2b9ede281c2e053d6ea725d3fcdc1cd57ba402e282d7b&amp;scene=21#wechat_redirect" rel="nofollow">到底真的假的？我收到侵权投诉了，中文AI出图工具&lt;悠船&gt;，确实不是Midjourney中文版</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484136&amp;idx=1&amp;sn=ef2ab35159469e561938e9a83baa0666&amp;chksm=c0871e50f7f09746240fec66f9ad1da66e9066a8947959e4f045ea233d494375765407c2bdd5&amp;scene=21#wechat_redirect" rel="nofollow">新手必看！免费AI学习基地：&lt;通往AGI之路&gt;，一站式 AI百科全书，轻松成为AI工具行家！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484300&amp;idx=1&amp;sn=5c74f7983eecb26dffcfc012b5d0f039&amp;chksm=c0871f34f7f09622ad55bc947721421c39846a8a51cb676b4f4bc509c3c4c4030d24ef937d64&amp;scene=21#wechat_redirect" rel="nofollow">追赶Sora的国内免费AI 文生视频工具PixVerse：简单3步就能做视频，还能图生视频，视频变脸！</a></p>
+</li>
+</ul></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

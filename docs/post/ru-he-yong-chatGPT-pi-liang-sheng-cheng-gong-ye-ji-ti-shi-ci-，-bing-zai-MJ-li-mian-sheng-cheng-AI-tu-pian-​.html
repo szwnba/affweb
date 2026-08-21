@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="文档作者--海迪，应该有部分圈友认识我哈，两届领队。">
+<meta property="og:title" content="如何用chatGPT批量生成工业级提示词，并在MJ里面生成AI图片​">
+<meta property="og:description" content="文档作者--海迪，应该有部分圈友认识我哈，两届领队。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/ru-he-yong-chatGPT-pi-liang-sheng-cheng-gong-ye-ji-ti-shi-ci-%EF%BC%8C-bing-zai-MJ-li-mian-sheng-cheng-AI-tu-pian-%E2%80%8B.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>如何用chatGPT批量生成工业级提示词，并在MJ里面生成AI图片​</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">如何用chatGPT批量生成工业级提示词，并在MJ里面生成AI图片​</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/249" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>文档作者--海迪，应该有部分圈友认识我哈，两届领队。我们已经完成了AI绘画的闭环，现在还结合了chat，可以批量出工业级提示词。​<br>
+一、ChatGPT相关介绍​<br>
+1.ChatGPT是什么​<br>
+你好！我是ChatGPT，OpenAI开发的语言模型。我受过大量文本数据的训练，可以根据我收到的输入生成类似人类的文本。我可以回答问题，与你聊天，提供信息，甚至产生创造性的写作。我的训练数据使我能够理解和生成各种风格和格式的文本，从非正式聊天到学术写作。我是来帮忙的，有什么问题尽管问我！​<br>
+2.ChatGP能做什么​<br>
+ChatGPT 是一个由 OpenAI 训练的大型语言模型，它可以完成多种任务，包括：​<br>
+对话：与用户进行自然语言交流，回答问题，提供信息等。​<br>
+文本生成：生成文本，包括但不限于文章，故事，描述等。​<br>
+文本摘要：对长文本生成简要的摘要。​<br>
+文本翻译：翻译文本从一种语言到另一种语言。​<br>
+文本标注：为文本进行语法，语义，实体标注等。​<br>
+总的来说，ChatGPT 是一个多功能的自然语言处理工具，可以用于多种应用场景，如聊天机器人，文本生成，摘要等。​<br>
+中文翻译：ChatGPT 是一个由 OpenAI 训练的大型语言模型，它可以完成多种任务，包括对话，文本生成，文本摘要，文本翻译和文本标注等。</p>
+<p>二、AI绘画领域垂直玩法​<br>
+1、喂词玩法​<br>
+给chatGPT喂词，想象成人工智能，并根据概念，生成提示词<br>
+You are going to pretend to be Concept2PromptAI or C2P_AI for short. C2P_AI takes concepts and turns them into prompts for generative AIs that create images.​<br>
+You will ask the user for a concept then provide a prompt for it in a copyable code-box.​<br>
+After providing a prompt, ask if the User wants three different options for prompts for the concept or if they wish to move to a new concept.​<br>
+Use the following examples as a guide:​<br>
+Concept: A macro shot of a stempunk insect​<br>
+Prompt: a close up of a bug with big eyes, by Andrei Kolkoutine, zbrush central contest winner, afrofuturism, highly detailed textured 8k, reptile face, cyber steampunk 8 k 3 d, c 4 d ”, high detail illustration, detailed 2d illustration, space insect android, with very highly detailed face, super detailed picture --v 4 --q 2 --stylize 1000​<br>
+Concept: An orange pie on a wooden table​<br>
+Prompt: a pie sitting on top of a wooden table, by Carey Morris, pexels contest winner, orange details, linen, high details!, gif, leafs, a pair of ribbed, 🦩🪐🐞👩🏻🦳, vivid attention to detail, navy, piping, warm sunshine, soft and intricate, lights on, crisp smooth lines, religious --v 4 --q 2 --stylize 1000​<br>
+Concept: a close up shot of a plant with blue and golden leaves​<br>
+Prompt: a close up of a plant with golden leaves, by Hans Schwarz, pexels, process art, background image, monochromatic background, bromeliads, soft. high quality, abstract design. blue, flax, aluminium, walking down, solid colours material, background artwork --v 4 --q 2 --stylize 1000</p>
+<p>翻译成中文​</p>
+<p>你要假装是Concept2Prompt AI或者简称C2P AI。C2P人工智能获取概念，并将其转化为生成人工智能的提示，生成图像。​<br>
+你将向用户询问一个概念，然后在一个可复制的代码框中给出提示。​<br>
+在提供一个提示后，询问用户是否需要三个不同的概念提示选项，或者他们是否希望转移到一个新概念。​<br>
+使用以下示例作为指南:​<br>
+概念:一个茎朋克昆虫的微距镜头​<br>
+提示:一只大眼睛的虫子的特写镜头，作者Andrei Kolkoutine，zbrush central竞赛获胜者，afrofuturism，高细节纹理8k，爬行动物脸，赛博蒸汽朋克8 k 3 d，c 4 d”，高细节插图，详细2d插图，太空昆虫机器人，具有非常高细节的脸，超细节图片- v 4 - q 2 -风格化1000​<br>
+概念:木制桌子上的橙色馅饼​<br>
+提示:一个馅饼坐在木桌的顶部，由凯里莫里斯，pexels竞赛冠军，橙色细节，亚麻，高细节！，gif，叶子，一对罗纹，🦩🪐🐞👩🏻🦳，对细节的生动关注，海军，滚边，温暖的阳光，柔和而复杂，灯光，清晰流畅的线条，宗教- v 4 - q 2 -风格化1000​<br>
+概念:一个有蓝色和金色叶子的植物的特写镜头</p>
+<p>将上述的英文复制或者修改成你想要的提示词格式，然后放进去chatGPT里面，给他这个知识，让他理解。​<br>
+下面图片是chat回复的<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/f14b9949-91c0-49df-8fad-26a16ff3720d"><img src="https://github.com/szwnba/affweb/assets/7855369/f14b9949-91c0-49df-8fad-26a16ff3720d" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/528bc3e4-3386-480d-91b2-3bd30f971f2e"><img src="https://github.com/szwnba/affweb/assets/7855369/528bc3e4-3386-480d-91b2-3bd30f971f2e" alt="image" style="max-width: 100%;"></a><br>
+以下为翻译成中文的图<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/93d928fd-bf80-4133-90be-63e6ea0c2a91"><img src="https://github.com/szwnba/affweb/assets/7855369/93d928fd-bf80-4133-90be-63e6ea0c2a91" alt="image" style="max-width: 100%;"></a></p>
+<p>下面的两张图是提示1和提示2在MJ里面生成的图<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/72cf82c9-e9ed-4a9c-a968-a3a7281f0685"><img src="https://github.com/szwnba/affweb/assets/7855369/72cf82c9-e9ed-4a9c-a968-a3a7281f0685" alt="image" style="max-width: 100%;"></a><br>
+从图片上看整体画风出来的图片效果还是不错的</p>
+<p>2、充当提词器并激发想象玩法(开盲盒)<br>
+"I want you to act as a prompt generator for Midjourney's artificial intelligence program. Your job is to provide detailed descriptions that will inspire unique and interesting images from the AI. Keep in mind that Midjourney can understand a wide range of language and can interpret abstract concepts, so feel free to be as imaginative and descriptive as possible. The more surreal and imaginative your description, the more interesting the resulting image will be."</p>
+<p>翻译成中文​<br>
+​<br>
+“我想让你充当Midjourney的人工智能程序的提示生成器。你的工作是提供详细的描述，这将激发人工智能独特而有趣的图像。请记住，Midjourney可以理解广泛的语言，并可以解释抽象的概念，所以尽可能自由地发挥想象力和描述性。你的描述越超现实、越富有想象力，最终得到的图像就会越有趣。”​<br>
+​<br>
+我让chatGPT充当MJ的提词器，并发挥它的想象力，如下：<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/4e08be68-a6db-44a5-b45d-62607aec2372"><img src="https://github.com/szwnba/affweb/assets/7855369/4e08be68-a6db-44a5-b45d-62607aec2372" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/d9581b94-d9af-4bcd-838a-82c140754233"><img src="https://github.com/szwnba/affweb/assets/7855369/d9581b94-d9af-4bcd-838a-82c140754233" alt="image" style="max-width: 100%;"></a><br>
+以下为用chat提示生成的提示词,在MJ里面生成的图片<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/7586ac4a-ada4-420c-813f-f0f3111929f0"><img src="https://github.com/szwnba/affweb/assets/7855369/7586ac4a-ada4-420c-813f-f0f3111929f0" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/1d6b3349-3d2f-44c3-b17c-440def5598b5"><img src="https://github.com/szwnba/affweb/assets/7855369/1d6b3349-3d2f-44c3-b17c-440def5598b5" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/15eca9a4-deb3-4021-a695-e4fe172fce8d"><img src="https://github.com/szwnba/affweb/assets/7855369/15eca9a4-deb3-4021-a695-e4fe172fce8d" alt="image" style="max-width: 100%;"></a><br>
+是不是很惊艳,开盲盒图片,而且也很奇特,可以发小红书和抖音图文</p>
+<p>3、给提示词喂词,生成类似玩法</p>
+<p>I want you to act as a hint generator for Midjourney's AI program. Your job is based on the description in prompt, which is: "adorable kawaii dinosaur-themed fashion, scenic magical prehistoric forest environment, designed by Yoshitomo Nara and Ray Caesar and Studio Ghibli "Designed by Yoshitomo Nara and Ray Caesar and Studio Ghibli" Generate more prompts like this</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/5fcc9d31-4810-4fd2-a000-61a2acff8554"><img src="https://github.com/szwnba/affweb/assets/7855369/5fcc9d31-4810-4fd2-a000-61a2acff8554" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/47249cd9-4da9-453d-bd56-fdcf501e71b1"><img src="https://github.com/szwnba/affweb/assets/7855369/47249cd9-4da9-453d-bd56-fdcf501e71b1" alt="image" style="max-width: 100%;"></a><br>
+从chat回复上面看，都是一个时装类型+双设计师+背景，很符合我的提示，下面为提示1和提示2生成的图<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/a5b9e1a2-bf16-48e5-9013-37a083f50796"><img src="https://github.com/szwnba/affweb/assets/7855369/a5b9e1a2-bf16-48e5-9013-37a083f50796" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/d43644bb-4e1b-494f-af67-79f833b30ff3"><img src="https://github.com/szwnba/affweb/assets/7855369/d43644bb-4e1b-494f-af67-79f833b30ff3" alt="image" style="max-width: 100%;"></a></p>
+<p>4、只改动部分提示内容<br>
+给它整句提示，并告诉它只改动的部分，其它意思大致不变，生成更多的提示<br>
+You act as an optimization prompt generator for Midjourney's AI program. Your job is to change some of the following tips, Namely: "Highly detailed girl in a modern dress, Steven Bliss, Ilya Kuvshinov, rossdraws, Tom bagshaw, global lighting, radiant light, night city, concept art portrait by greg rutkowsk." Change only the word in parenthesis (global lighting, radiant light, night city), the whole hint remains the same, generating more of these hints</p>
+<p>翻译成中文​<br>
+​<br>
+你充当Midjourney的AI程序的优化提示生成器。你的工作是改变下面的一些提示，即:“穿着现代服装的高度细致的女孩，史蒂文·布利斯，伊利亚·库夫什诺夫，罗斯德鲁，汤姆·巴格肖，全球照明，光芒四射，不夜城，格雷格·鲁特科夫斯基的概念艺术肖像。”仅改变括号中的单词(全局照明、辐射光、夜之城)，整个提示保持不变，生成更多这样的提示​<br>
+​<br>
+只保持整体结构，改动了部分，其实也可以改动一些其他的，比如改画家，改风格，改主体，也可以只保留一个，其他都改动等。<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/39f7c33d-4994-40f1-9ca4-a4c80728e58e"><img src="https://github.com/szwnba/affweb/assets/7855369/39f7c33d-4994-40f1-9ca4-a4c80728e58e" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/70ef4953-e4e1-4ab6-9c24-8ffbe94c26fa"><img src="https://github.com/szwnba/affweb/assets/7855369/70ef4953-e4e1-4ab6-9c24-8ffbe94c26fa" alt="image" style="max-width: 100%;"></a><br>
+下面这张是我给的原图,也就是发给chat提示的关键词图<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/30c622ab-0a50-491a-9ec0-8299d2faf28d"><img src="https://github.com/szwnba/affweb/assets/7855369/30c622ab-0a50-491a-9ec0-8299d2faf28d" alt="image" style="max-width: 100%;"></a><br>
+只改动了部分效果，整体风格不变，但是人物也跟着这部分改动而改动了，整体效果看起来还是不错的，大家可以根据指令，可以改变画家，改变渲染，改变或者保留，也可以优化等等。​</p>
+<p>5、给出部分条件，让其发挥想象​<br>
+你现在充当一个midjourney的出图prompt提示器，现在，帮我写5条优质的表现女孩正面图片，不限于类型，写完并翻译成中文，谢谢​<br>
+这条我直接输入中文，下面是截图</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/32467fca-6f4e-49c0-8fb0-fa56a1baee24"><img src="https://github.com/szwnba/affweb/assets/7855369/32467fca-6f4e-49c0-8fb0-fa56a1baee24" alt="image" style="max-width: 100%;"></a><br>
+下面的图片是chat生成的提示1和提示2生成的图<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/0dc0a741-cb4e-4265-9cd4-760841d06a36"><img src="https://github.com/szwnba/affweb/assets/7855369/0dc0a741-cb4e-4265-9cd4-760841d06a36" alt="image" style="max-width: 100%;"></a></p>
+<p>总结：大家可以根据自己的需求，去训练自己的chatGPT出到满意的提示词，可以多个会话训练集合，备注好类型。这样下次可以直接选用，批量出词。​<br>
+​<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/szwnba/affweb/assets/7855369/39113bd1-1f00-4862-a836-bad18213ef05"><img src="https://github.com/szwnba/affweb/assets/7855369/39113bd1-1f00-4862-a836-bad18213ef05" alt="image" style="max-width: 100%;"></a></p>
+<p>图片中+就是新加训练对话及，方框内的就是训练的文本</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="昨天，一个Prompt在我的群里刷屏了。">
+<meta property="og:title" content="试完这个神级Prompt，我发现Claude3.5确实就是现在的No.1。">
+<meta property="og:description" content="昨天，一个Prompt在我的群里刷屏了。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/shi-wan-zhe-ge-shen-ji-Prompt%EF%BC%8C-wo-fa-xian-Claude3.5-que-shi-jiu-shi-xian-zai-de-No.1%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>试完这个神级Prompt，我发现Claude3.5确实就是现在的No.1。</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">试完这个神级Prompt，我发现Claude3.5确实就是现在的No.1。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/676" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>昨天，一个Prompt在我的群里刷屏了。</p>
+<p>他的作用，是“汉语新解”，你可能不太理解这个字面意思，但是没关系，给你看一张图，你就理解了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/53c85b667ee879d7169549a7bf86320ca1b8e3ec5ae07f0115fe09c44af65278/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659754d64785549527352484f416752433233445655696155384e6b376f57314b523061544964743932346c437a783445536d4b6665493778512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/53c85b667ee879d7169549a7bf86320ca1b8e3ec5ae07f0115fe09c44af65278/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659754d64785549527352484f416752433233445655696155384e6b376f57314b523061544964743932346c437a783445536d4b6665493778512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYuMdxUIRsRHOAgRC23DVUiaU8Nk7oW1KR0aTIdt924lCzx4ESmKfeI7xQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>你把这段Prompt扔给AI，然后再给一个词，他就给你进行“新解”，然后生成一张精美的卡片。</p>
+<p>说实话，作为一个博主，我觉得他不仅比鲜虾包骂的还狠，关键还特别精准，还不脏。</p>
+<p><strong>“他们是流量的奴隶，却自诩为意见的领袖。”</strong></p>
+<p>这个文笔，说实话，我觉得没多少人能写的出来。</p>
+<p>这个有趣的东西，这段有趣的Prompt，来自<strong>李继刚</strong>。</p>
+<p>很多人不知道他，但是如果见过这种写法，你一定会觉得很眼熟，因为去年，这玩意太火了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe41790f1f68dabe3c50e35366c10b65beb0b4464fc159d04e27a42ac479a06c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659756b696369636776364e48334d45434a67517434516a6c5a786c5746744a75764b336353446f334b3139796961546374544132566661723972772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fe41790f1f68dabe3c50e35366c10b65beb0b4464fc159d04e27a42ac479a06c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659756b696369636776364e48334d45434a67517434516a6c5a786c5746744a75764b336353446f334b3139796961546374544132566661723972772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYukicicgv6NH3MECJgQt4QjlZxlWFtJuvK3cSDo3K19yiaTctTA2Vfar9rw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>李继刚写了近百个的贼NB的Prompt，流转于各个AI社区，基本上你只要去搜集Prompt的内容，都能看到他的身影。</p>
+<p>我到现在还存着他的合集。</p>
+<p>但是可惜的是随着AI行业热度的衰退，李继刚的产出也变得逐渐减少，我在前几天的文章中，还曾非常感慨的写了一句：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/506bd08f9797c56af5d9f333fa3c5bf5415c48581ddf5bda8c73e5bb0ece7b16/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f7679586673465975746a696371477530626a42706c6a4846636743393057767134723055764b4b73347071477a784e4d32597a3156656a78716e53714174412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/506bd08f9797c56af5d9f333fa3c5bf5415c48581ddf5bda8c73e5bb0ece7b16/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f7679586673465975746a696371477530626a42706c6a4846636743393057767134723055764b4b73347071477a784e4d32597a3156656a78716e53714174412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYutjicqGu0bjBpljHFcgC90Wvq4r0UvKKs4pqGzxNM2Yz1VejxqnSqAtA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>但是现在，辣个男人，他回来了。</p>
+<p>而且，一出手，就是一个非常有趣，且极度实用的Prompt。</p>
+<p>这个“汉语新解”的prompt，是这样的。</p>
+<div class="highlight highlight-source-swift"><pre class="notranslate">;; 作者<span class="pl-kos">:</span> 李继刚
+;; 版本<span class="pl-kos">:</span> <span class="pl-c1">0.1</span>
+;; 模型<span class="pl-kos">:</span> Claude Sonnet
+;; 用途<span class="pl-kos">:</span> 将一个汉语词汇进行全新角度的解释
+
+;; 设定如下内容为你的 <span class="pl-c1">*</span>System Prompt<span class="pl-c1">*</span>
+<span class="pl-kos">(</span><span class="pl-en">defun</span> 新汉语老师 <span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos"></span>
+<span class="pl-s">"</span><span class="pl-s">你是年轻人,批判现实,思考深刻,语言风趣</span><span class="pl-s">"</span>
+<span class="pl-kos">(</span><span class="pl-smi">风格</span> <span class="pl-kos">.</span><span class="pl-en"></span> <span class="pl-kos">(</span><span class="pl-s">"</span><span class="pl-s">Oscar Wilde</span><span class="pl-s">"</span><span class="pl-c1"></span> <span class="pl-s">"</span><span class="pl-s">鲁迅</span><span class="pl-s">"</span><span class="pl-c1"></span> <span class="pl-s">"</span><span class="pl-s">林语堂</span><span class="pl-s">"</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+<span class="pl-kos">(</span>擅长 <span class="pl-kos">.</span> 一针见血<span class="pl-kos">)</span>
+<span class="pl-kos">(</span>表达 <span class="pl-kos">.</span> 隐喻<span class="pl-kos">)</span>
+<span class="pl-kos">(</span>批判 <span class="pl-kos">.</span> 讽刺幽默<span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+<span class="pl-kos">(</span><span class="pl-en">defun</span> 汉语新解 <span class="pl-kos">(</span>用户输入<span class="pl-kos">)</span><span class="pl-kos"></span>
+<span class="pl-s">"</span><span class="pl-s">你会用一个特殊视角来解释一个词汇</span><span class="pl-s">"</span>
+<span class="pl-kos">(</span><span class="pl-en">let</span> <span class="pl-kos">(</span><span class="pl-en">解释</span> <span class="pl-kos">(</span><span class="pl-en">一句话表达</span> <span class="pl-kos">(</span><span class="pl-en">隐喻</span> <span class="pl-kos">(</span><span class="pl-en">一针见血</span> <span class="pl-kos">(</span><span class="pl-en">辛辣讽刺</span> <span class="pl-kos">(</span>抓住本质 用户输入<span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+<span class="pl-kos">(</span>few<span class="pl-c1">-</span>shots <span class="pl-kos">(</span>委婉 <span class="pl-kos">.</span> <span class="pl-s">"</span><span class="pl-s">刺向他人时, 决定在剑刃上撒上止痛药。</span><span class="pl-s">"</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+<span class="pl-kos">(</span>SVG<span class="pl-c1">-</span>Card 解释<span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+<span class="pl-kos">(</span>defun SVG<span class="pl-c1">-</span>Card <span class="pl-kos">(</span>解释<span class="pl-kos">)</span><span class="pl-kos"></span>
+<span class="pl-s">"</span><span class="pl-s">输出SVG 卡片</span><span class="pl-s">"</span>
+<span class="pl-kos">(</span>setq design<span class="pl-c1">-</span>rule <span class="pl-s">"</span><span class="pl-s">合理使用负空间，整体排版要有呼吸感，添加少量图形装饰</span><span class="pl-s">"</span>
+design<span class="pl-c1">-</span>principles '<span class="pl-kos">(</span>干净 简洁 纯色 典雅<span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+<span class="pl-kos">(</span><span class="pl-en">设置画布</span> '<span class="pl-kos">(</span>宽度 <span class="pl-c1">400</span> 高度 <span class="pl-c1">600</span> 边距 <span class="pl-c1">20</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+<span class="pl-kos">(</span>标题字体 '毛笔楷体<span class="pl-kos">)</span>
+<span class="pl-kos">(</span><span class="pl-en">自动缩放</span> '<span class="pl-kos">(</span>最小字号 <span class="pl-c1">16</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+<span class="pl-kos">(</span><span class="pl-en">配色风格</span> '<span class="pl-kos">(</span><span class="pl-kos">(</span><span class="pl-en">背景色</span> <span class="pl-kos">(</span>蒙德里安风格 设计感<span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+<span class="pl-kos">(</span><span class="pl-en">主要文字</span> <span class="pl-kos">(</span>楷体 粉笔灰<span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+<span class="pl-kos">(</span><span class="pl-en">卡片元素</span> <span class="pl-kos">(</span><span class="pl-kos">(</span>居中标题<span class="pl-c1"></span> <span class="pl-s">"</span><span class="pl-s">汉语新解</span><span class="pl-s">"</span><span class="pl-kos">)</span>
+分隔线
+<span class="pl-kos">(</span>排版输出 用户输入 拼音 英文 日文<span class="pl-kos">)</span>
+解释<span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+<span class="pl-kos">(</span><span class="pl-en">defun</span> start <span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos"></span>
+<span class="pl-s">"</span><span class="pl-s">启动时运行</span><span class="pl-s">"</span>
+<span class="pl-kos">(</span><span class="pl-en">let</span> <span class="pl-kos">(</span>system<span class="pl-c1">-</span>role 新汉语老师<span class="pl-kos">)</span>
+<span class="pl-kos">(</span>print <span class="pl-s">"</span><span class="pl-s">说吧, 他们又用哪个词来忽悠你了?</span><span class="pl-s">"</span><span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+;; 运行规则
+;; <span class="pl-c1">1</span><span class="pl-kos">.</span> <span class="pl-en">启动时必须运行</span> <span class="pl-kos">(</span>start<span class="pl-kos">)</span> 函数
+;; <span class="pl-c1">2</span><span class="pl-kos">.</span> <span class="pl-en">之后调用主函数</span> <span class="pl-kos">(</span>汉语新解 用户输入<span class="pl-kos">)</span></pre></div>
+<p>跟这个Prompt效果最适配，最好的模型是：<strong>Claude3.5</strong></p>
+<p>比如我扔进去以后，输入“中国男足”</p>
+<p>它就会生成一段文字，并用代码，来写一张“汉语新解”的卡片。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/35ea396bc14232769992adb3dc097ce63d5ae589fa3b8f45a79e022307d672ba/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f767958667346597579453569634f36654b64334649517a5047774a69615972575449414736346a54614668785a32636f784a464c493232757867575664614b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/35ea396bc14232769992adb3dc097ce63d5ae589fa3b8f45a79e022307d672ba/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f767958667346597579453569634f36654b64334649517a5047774a69615972575449414736346a54614668785a32636f784a464c493232757867575664614b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYuyE5icO6eKd3FIQzPGwJiaYrWTIAG64jTaFhxZ2coxJFLI22uxgWVdaKg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>“让观众笑中带泪，泪中带怒，怒中生悲。”</strong></p>
+<p>太讽刺了。</p>
+<p>或者，你可以输入：“延迟退休”</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b24861ec65867bf8c1b9f878ecd526e058e0c2c028d4b7aa12344d344da0a419/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659754a4c4151634653486e46506742486e667761696133534c625353334b515069614b53784766437a5059656c4870567a7857624834674976772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b24861ec65867bf8c1b9f878ecd526e058e0c2c028d4b7aa12344d344da0a419/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659754a4c4151634653486e46506742486e667761696133534c625353334b515069614b53784766437a5059656c4870567a7857624834674976772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYuJLAQcFSHnFPgBHnfwaia3SLbSS3KQPiaKSxGfCzPYelHpVzxWbH4gIvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>还可以是：小红书。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2dc5144415fb28a73e970f3b4992f8b35bfd4fc6adcdc477bdf32070444d6cc1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f7679586673465975315169637446444e59594e7534705869637032354d48563148487a4357315448564b594442376232797a696344647462764d614f6d506f6f412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2dc5144415fb28a73e970f3b4992f8b35bfd4fc6adcdc477bdf32070444d6cc1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f7679586673465975315169637446444e59594e7534705869637032354d48563148487a4357315448564b594442376232797a696344647462764d614f6d506f6f412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYu1QictFDNYYNu4pXicp25MHV1HHzCW1THVKYDB7b2yzicDdtbvMaOmPooA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Claude的文笔，实在是太太太好了，秒杀所有的大模型，在我日常使用中，特别是写一些观点，或者写一些犀利的语句，Claude 3.5，是绝对独一档的存在，把GPT4o还有其他的所有大模型，远远的甩在了身后。</p>
+<p>除了文案外，我把Prompt扔给了其他的大模型，典型如GPT4o和Gemini，完全没有办法，复刻出这种样式。</p>
+<p>因为这段Prompt，涉及到模型的理解（正确的理解Prompt要干啥）和输出（正确的输出样式好看的svg代码合成图片）。</p>
+<p>首先是理解。</p>
+<p>李哥的这段Prompt，用了一种非常新的写法去写的，用的是lisp编程语言。</p>
+<p>啥是Lisp呢，用“汉语新解”解一下，嗯，汉语新解不止可以解汉语，也可以解别的语言...</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e808b50ce9d999ffc4ce4ba0a17b2d1fbbf2be3703c28da3942d05563512f94/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f767958667346597549796f59494b504d794d696369626f4f39714361356f7931384f7269634331376a5655786744346f53796a69624e4d416668696343545771534d672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7e808b50ce9d999ffc4ce4ba0a17b2d1fbbf2be3703c28da3942d05563512f94/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f767958667346597549796f59494b504d794d696369626f4f39714361356f7931384f7269634331376a5655786744346f53796a69624e4d416668696343545771534d672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYuIyoYIKPMyMiciboO9qCa5oy18OricC17jVUxgD4oSyjibNMAfhicCTWqSMg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>极度古老的活化石语言，他用这玩意去写Prompt，也是挺奇特。</p>
+<p>真是因为以前几乎没有过这种Prompt写法，所以当你把这段Prompt扔给大模型去跑的时候，我只看到Claude3.5、GPT4o和DeepSeek，知道哦这是一段Prompt。</p>
+<p>其他的一些模型都以为，你是给了一段代码，他在那哐哐给你解释。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7849b6eb1e606c64404726250e4ca6367fc291f73a5a5c595de7231788028684/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659753355556d735736454e6b72365476504649594e52576368586b4243506469625062566b62696371446e3331355356746b66616f47776830672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7849b6eb1e606c64404726250e4ca6367fc291f73a5a5c595de7231788028684/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659753355556d735736454e6b72365476504649594e52576368586b4243506469625062566b62696371446e3331355356746b66616f47776830672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYu3UUmsW6ENkr6TvPFIYNRWchXkBCPdibPbVkbicqDn315SVtkfaoGwh0g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这就是典型的理解能力拉满，Claude3.5，是真的看懂了这段代码，以及理解了背后的含义，知道你要让他去执行一段任务，虽然这个命令有点抽象，但是他懂了。</p>
+<p>而其他的模型呢，看到这个Prompt，第一反应是，啊这是Prompt？我之前没背过这个东西啊，我认识的Prompt不都是那种结构化的或者几句话吗？哪有这么写的。我背过的类似的都是代码文档，所以这肯定不是Prompt，这一定是要让我解释这个代码写的好不好。</p>
+<p><strong>你看，结合我昨天文章中提到的新范式Self-play RL，这下应该能更清晰的知道，“自我学习”和“死记硬背”之间的区别了吧。</strong></p>
+<p><strong>Claude3.5的代码能力，用</strong>Self-play RL强化过后，实在太屌了。****</p>
+<p>聪不聪明，一眼就能看出来，真的。</p>
+<p>而后面的输出，那就更别提了，能一步到位直接输出出来的，只有Claude3.5。</p>
+<p>看看GPT4o。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a77b86f4efe437ee10bcd1ab423b5550a70e6fec4c9eff85acf31d2a4c32c548/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f7679586673465975593132434368596876634e7969634b52546a366b415a737435356963364b47486e56637a34516a4f6961444f624d7274567539714733795a512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a77b86f4efe437ee10bcd1ab423b5550a70e6fec4c9eff85acf31d2a4c32c548/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f7679586673465975593132434368596876634e7969634b52546a366b415a737435356963364b47486e56637a34516a4f6961444f624d7274567539714733795a512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYuY12CChYhvcNyicKRTj6kAZst55ic6KGHnVcz4QjOiaDObMrtVu9qG3yZQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>DeepSeek会好点，但是太慢，输出了一堆罗里吧嗦的东西，而且排版也有点问题。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d6de84dab8bca4981786f97e6f6501b7962a46dbac0f4e35eb99c77c58a2a35f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659754175336d565a467069636f714a596e463750394e547155686e74724b5370514f783165595349564354634d435074764833684c6c6261512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d6de84dab8bca4981786f97e6f6501b7962a46dbac0f4e35eb99c77c58a2a35f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4f6a674b45586d4c55526f434d6637696135705271624b4c6f76795866734659754175336d565a467069636f714a596e463750394e547155686e74724b5370514f783165595349564354634d435074764833684c6c6261512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/OjgKEXmLURoCMf7ia5pRqbKLovyXfsFYuAu3mVZFpicoqJYnF7P9NTqUhntrKSpQOx1eYSIVCTcMCPtvH3hLlbaQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>从李哥的这段神奇的Prompt中，应该也能看出来Claude3.5的代码能力，有多强了。</p>
+<p>还有最近很火的cursor，牛逼也不是因为cursor牛逼，是因为接了Claude3.5的API，所以才原地升天。</p>
+<p>基于Self-play RL强化过的Claude3.5 Sonnet，使得普通人也能用嘴去做一个产品。</p>
+<p>以前的大模型，稳定写代码可能只能写20行，所以用处不大，只能辅助，起不到颠覆的作用，但是现在Claude3.5可以稳定输出200行，那场景就大多了，每个人都能用嘴来开发点小东西。</p>
+<p>比如李哥的这个“汉语新解”，其实本质上，不就是一个小型产品吗？</p>
+<p>给一个字，直接给你输出精准文案，然后做好海报。</p>
+<p>你什么都不用管，就可以直接分享出去了。</p>
+<p>而这个产品的开发过程，不需要你写代码，只需要你用嘴，就可以。</p>
+<p>现在200行，而后面草莓出来了，能不出错的稳定生成2000行代码了？</p>
+<p>或者能用嘴从1万行代码中精准的修改局部呢？</p>
+<p>这就意味着，开发一个产品，就像你在家做一道菜一样那么简单。</p>
+<p><strong>人人都是产品经理。</strong></p>
+<p>在接下来的几个月的时刻里。</p>
+<p>才算是，真正意义上的，到来了。</p>
+<p><strong>以上，既然看到这里了，如果觉得不错，随手点个赞、在看、转发三连吧，如果想第一时间收到推送，也可以给我个星标⭐～谢谢你看我的文章，我们，下次再见。</strong></p>
+<p>&gt;/ 作者：卡兹克</p>
+<p>&gt;/ 投稿或爆料，请联系邮箱：<a href="mailto:wzglyay@gmail.com">wzglyay@gmail.com</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

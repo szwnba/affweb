@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="**大家好，****我是川哥。">
+<meta property="og:title" content="价值过万！ChatGPT指令开发工作流！详细教程！">
+<meta property="og:description" content="**大家好，****我是川哥。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/jia-zhi-guo-wan-%EF%BC%81ChatGPT-zhi-ling-kai-fa-gong-zuo-liu-%EF%BC%81-xiang-xi-jiao-cheng-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>价值过万！ChatGPT指令开发工作流！详细教程！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">价值过万！ChatGPT指令开发工作流！详细教程！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/379" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>**大家好，**<strong>我是川哥。</strong></p>
+<p>2月6号晚上8点，我在视频号上进行年前最后一次内部直播，主要分享几个AI应用、AI搞钱以及GPT相关玩法分享等，所有人务必预约点击卡片预约直播，错过无回放！！</p>
+<p><strong>点击预约，准时邀请你参加直播</strong></p>
+<p><strong>以下正文：</strong></p>
+<p>我在之前的文章中多次提到过合理利用ChatGPT可以极大程度上提升我们的工作效率。</p>
+<p>但是最近我却发现，很多人使用AI的时候陷入了一个严重的思维误区。</p>
+<p>ChatGPT是生产力工具没错，但<strong>不是一定所有的工作都必须要ChatGPT来做</strong>。</p>
+<p>有些明明人工效率更高的工作，偏偏要用AI来搞，这就有点本末倒置了。</p>
+<p>所以这篇文章川哥就来跟大家讲讲AI指令开发工作流的底层逻辑。</p>
+<p>内容比较干，但绝对值得兄弟们反复阅读。</p>
+<p>今天的核心其实就一个知识点：<strong>CETO框架</strong>。</p>
+<p>概念阶段（Concept）</p>
+<p>执行阶段（Execute）</p>
+<p>测试阶段（Test）</p>
+<p>优化阶段（Optimize）</p>
+<p>这也是OpenAI官方推崇的AI指令开发的工作流框架。</p>
+<p>基本上凡是ChatGPT可以应用到的工作，都可以基于这套框架去开发一套高效的提示词。</p>
+<p>接下来川哥就好好给兄弟们拆解一下这套指令开发框架。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1453933ce0f717a9a5ca3e82253a48f9243468253096cb8cce66f5031dad4e36/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f71674d58436d5a34716137437365583872595455484f4e41316c387349766664684938785a574869634133696257595036506961754f35696156536a6a7876596b4b6b6b31386f4d5843384f535878786d656b546f74794353412f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1453933ce0f717a9a5ca3e82253a48f9243468253096cb8cce66f5031dad4e36/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f71674d58436d5a34716137437365583872595455484f4e41316c387349766664684938785a574869634133696257595036506961754f35696156536a6a7876596b4b6b6b31386f4d5843384f535878786d656b546f74794353412f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qgMXCmZ4qa7CseX8rYTUHONA1l8sIvfdhI8xZWHicA3ibWYP6PiauO5iaVSjjxvYkKkk18oMXC8OSXxxmekTotyCSA/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>一、概念阶段（Concept）</strong></p>
+<p>概念阶段是整个AI开发过程的起点。</p>
+<p>这个阶段的核心目的是<strong>定义你想通过AI解决的具体问题</strong>。</p>
+<p>这一步的重点我们需要搞明白两个问题：</p>
+<ul>
+<li>
+<p>你的AI要解决一个什么样的问题</p>
+</li>
+<li>
+<p>这个问题值不值得你花时间去做一个AI应用</p>
+</li>
+</ul>
+<p>基于这两个问题，我们从下面这4个关键点入手：</p>
+<p><strong>1、问题识别：</strong></p>
+<p>你需要首先识别和定义一个明确的问题。</p>
+<p>这个问题应该是实际存在的，并且具有一定的复杂度，使用AI来解决它比传统方法更有效，或者能提供更好的解决方案。</p>
+<p><strong>2、价值评估：</strong></p>
+<p>接下来，评估解决这个问题的潜在价值。</p>
+<p>其实就是思考解决这个问题可以为用户或企业带来什么益处。</p>
+<p>比如提高效率、减少成本、提高用户满意度或创造新的收入来源等等……</p>
+<p><strong>3、可行性分析：</strong></p>
+<p>考虑使用AI解决这个问题的可行性。</p>
+<p>评估是否有足够的数据来训练AI，以及是否有现成的技术或工具可以支持开发之类的。</p>
+<p><strong>4、目标设定：</strong></p>
+<p>明确你希望通过AI解决方案实现的具体目标。</p>
+<p>这些目标应该是可量化的，以便在后续阶段评估AI应用的性能。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce4695dfd0ef29666bcb5e48bb0fd2e625af067000553e575d4606cbc64ada61/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716137437365583872595455484f4e41316c38734976666431656376706869624a696131437731767a69627437327a6647424a62724b396e43306b77365653574d623846344c4a53514871504f38674b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ce4695dfd0ef29666bcb5e48bb0fd2e625af067000553e575d4606cbc64ada61/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716137437365583872595455484f4e41316c38734976666431656376706869624a696131437731767a69627437327a6647424a62724b396e43306b77365653574d623846344c4a53514871504f38674b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa7CseX8rYTUHONA1l8sIvfd1ecvphibJia1Cw1vzibt72zfGBJbrK9nC0kw6VSWMb8F4LJSQHqPO8gKA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>单说这些可能过于抽象和枯燥，川哥举个例子，兄弟们应该就能理解了。</p>
+<p><strong>比如现在你是一家品牌的市场营销人员。</strong></p>
+<p><strong>你的任务是通过在小红书上发布吸引人的内容来提高品牌知名度和产品销量。</strong></p>
+<p><strong>但你发现手动编写高质量的文案既耗时又费力，特别是需要持续产出大量内容的时候。</strong></p>
+<p>于是你开始考虑使用AI来自动生成或辅助生成这些文案。</p>
+<p><strong>第一步：问题识别</strong></p>
+<p><strong>核心问题：</strong></p>
+<p>需要大量高质量的小红书文案来提升品牌曝光和互动，但手动编写效率低下，且难以保持内容的一致性和高质量。</p>
+<p><strong>第二步：价值评估</strong></p>
+<p><strong>潜在价值：</strong></p>
+<p>如果能自动化生成吸引人的小红书文案，将极大提升内容产出的效率，同时保持或提高文案的质量。</p>
+<p>不仅能增加品牌曝光度，还能以更经济、高效的方式驱动用户参与和产品销售。</p>
+<p><strong>第三步：可行性分析</strong></p>
+<p><strong>数据与技术：</strong></p>
+<p>评估是否有足够的优质文案样本来训练AI模型，以及是否有合适的AI工具和技术（比如GPT-4）能够生成具有创造性和针对性的营销文案。</p>
+<p><strong>资源考量：</strong></p>
+<p>考虑到成本、技术门槛和时间等因素，评估开发和维护一个AI文案生成器的可行性。</p>
+<p><strong>第四步：目标设定</strong></p>
+<p><strong>具体目标：</strong></p>
+<p>开发一套AI指令，能够基于给定的产品信息和关键词自动生成吸引人的小红书文案。</p>
+<p>期望这些文案能提升至少30%的用户互动率，并且减少50%的文案创作时间。</p>
+<p>在概念阶段，你需要做的就是进行市场和技术研究，收集和分析过往成功的小红书文案案例，以及确定AI文案生成所需的数据集。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/80fc4a16f871d4933b35e9df3e8eedc9f2399b6d433002bdefa2aa2a4e3ec756/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f71674d58436d5a34716137437365583872595455484f4e41316c387349766664676e663953643866466e6b6e7167473477425752414a67586373597341784e50587a6656734f78506a566961464b514a4c586b595479672f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/80fc4a16f871d4933b35e9df3e8eedc9f2399b6d433002bdefa2aa2a4e3ec756/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f71674d58436d5a34716137437365583872595455484f4e41316c387349766664676e663953643866466e6b6e7167473477425752414a67586373597341784e50587a6656734f78506a566961464b514a4c586b595479672f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qgMXCmZ4qa7CseX8rYTUHONA1l8sIvfdgnf9Sd8fFnknqgG4wBWRAJgXcsYsAxNPXzfVsOxPjViaFKQJLXkYTyg/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>二、执行阶段（Execute）</strong></p>
+<p>这一阶段的目标是<strong>将概念阶段定义的计划转化为实际操作</strong>。</p>
+<p>还是AI文案生成器这个例子，这一步我们要做的就是开发一个能够自动生成小红书文案的AI指令。</p>
+<p>总共分为4步。</p>
+<p><strong>第一步：学习和理解工作流</strong></p>
+<p>首先你需要深入理解生成小红书文案的整个工作流程。</p>
+<p>比如：</p>
+<p>文案的风格和类型（如故事讲述、产品介绍、用户评测等）。</p>
+<p>目标受众的偏好和行为。</p>
+<p>成功文案的共同特点，比如语言风格、话题选择、结构布局等等。</p>
+<p><strong>第二步：收集数据</strong></p>
+<p>这一步需要<strong>从小红书上收集高质量文案样本，用作训练数据</strong>。</p>
+<p>整理产品信息、关键卖点、用户评价等内容，这些都是生成文案时需要融入的元素。</p>
+<p><strong>第三步：编写指令</strong></p>
+<p><strong>根据收集的数据和确定的需求，设定AI文案生成的具体指令</strong>。</p>
+<p>比如怎么样根据不同的产品类型和文案风格调整生成策略。</p>
+<p>这个过程可能需要多次迭代，不断调整指令以提高文案的质量和相关性。</p>
+<p><strong>第四步：初步测试</strong></p>
+<p>在创建完指令之后，进行初步的测试。</p>
+<p>比如输入产品信息、关键字等信息，让AI输出文案草稿，检查AI生成的文案能不能达到预期的质量标准。</p>
+<p>这个阶段同意需要反复试验和调整，以确保最终的AI指令能够高效且准确地生成满足需求的文案。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dcb8de13a251e7ff5701f86676e89bd6fd2be0adf56d74a404d81002e70c88b9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716137437365583872595455484f4e41316c3873497666646961736961744e6469614c67466962766f36685269637765704d32545a3063795354327a42626377656459376d784843347152497a775031376f512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/dcb8de13a251e7ff5701f86676e89bd6fd2be0adf56d74a404d81002e70c88b9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716137437365583872595455484f4e41316c3873497666646961736961744e6469614c67466962766f36685269637765704d32545a3063795354327a42626377656459376d784843347152497a775031376f512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa7CseX8rYTUHONA1l8sIvfdiasiatNdiaLgFibvo6hRicwepM2TZ0cyST2zBbcwedY7mxHC4qRIzwP17oQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>三、测试阶段（Test）</strong></p>
+<p>这个阶段主要是<strong>确保我们开发的AI指令能不能生成符合预期的、高质量的文案，够不够吸引目标受众</strong>。</p>
+<p>主要分为3个关键步骤。</p>
+<p><strong>1）功能测试</strong></p>
+<p>确保<strong>AI指令能够按照要求接收输入（如产品信息、关键词等）并输出文案</strong>。</p>
+<p>并通过一系列预定的测试案例，验证能否稳定输出内容，输出的文案格式、长度等是否符合要求等等。</p>
+<p><strong>2）质量评估</strong></p>
+<p>评估AI生成的文案质量够不够达标。</p>
+<p>比如文案的创造性、语言流畅度、错误率、以及是否能够准确反映产品特点和吸引目标受众。</p>
+<p><strong>3）用户测试</strong></p>
+<p>收集目标用户群体对AI生成文案的反馈。</p>
+<p>测试这些文案是否真正吸引用户，并符合他们的阅读习惯和偏好。</p>
+<p>可以通过A/B测试（将AI生成的文案与人工编写的文案进行比较）或用户调研的方式收集反馈。</p>
+<p>重点关注用户的点击率、阅读时长、互动率（如点赞、评论、分享）等指标。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb75b64f9dbf2487f201269a922f8d51f845864216bd3b07a2b48dda7a5aca95/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716137437365583872595455484f4e41316c3873497666643456736136515a667365526a523232534d30486843555871623930394672654e7831724e6f5072546f324d467a55707a796458696232512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fb75b64f9dbf2487f201269a922f8d51f845864216bd3b07a2b48dda7a5aca95/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716137437365583872595455484f4e41316c3873497666643456736136515a667365526a523232534d30486843555871623930394672654e7831724e6f5072546f324d467a55707a796458696232512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa7CseX8rYTUHONA1l8sIvfd4Vsa6QZfseRjR22SM0HhCUXqb909FreNx1rNoPrTo2MFzUpzydXib2Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>四、优化阶段（Optimize）</strong></p>
+<p>最后就是优化阶段。</p>
+<p>这个阶段就是根据上一阶段收集的数据反馈不断进行迭代，每次迭代后都需要根据反馈对AI指令进行调整。</p>
+<p>整个过程分为三步：</p>
+<p><strong>1）分析测试结果</strong></p>
+<p>深入分析在测试阶段收集的所有数据。</p>
+<p>包括功能测试、质量评估、用户测试的结果。</p>
+<p>识别AI系统表现良好的方面，以及需要改进的地方。</p>
+<p><strong>确定优化的优先级和方向。</strong></p>
+<p>比如是否需要改善文案的创造性、提高语言的自然流畅度，或者是增强AI内容输出的稳定性。</p>
+<p><strong>2）调整AI指令</strong></p>
+<p>根据测试结果，对AI指令进行一系列的调整，</p>
+<p>比如用户测试发现某类产品的文案生成效果不佳，就回到数据收集阶段，增加这类产品的训练样本。</p>
+<p>或者如果发现生成的文案风格与品牌形象不一致，就调整提示词，以更好地捕捉和模仿品牌的语言风格。</p>
+<p>通过不断调整和改进AI指令，提高生成文案的质量，让AI生成的文案更吸引目标用户，同时保持内容的多样性和创新性。</p>
+<p><strong>3）持续监控和迭代</strong></p>
+<p>优化完之后，并没有结束，还是需要持续监控用户的反馈。</p>
+<p><strong>及时发现并解决新出现的问题，根据市场和用户需求的变化，不断迭代和优化AI指令。</strong></p>
+<p>比如，如果发现用户对某一类型的文案反响特别好。</p>
+<p>就可以进一步分析这些文案的共同特征，并调整指令以增加生成类似文案的概率。</p>
+<p>相反，如果某类文案的表现不佳。</p>
+<p>可能就需要减少这类文案的生成，或对相应的训练数据进行调整。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/29bf9592fc0961522d5d61888d1bfefeacf22acdcfc967f73fe0c386c05e6a97/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716137437365583872595455484f4e41316c387349766664686d7a634f6963656c69616c5a3133533047686b6469636756304b776b514269616343673465496c30637253724841486b7a6a4854304e4750412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/29bf9592fc0961522d5d61888d1bfefeacf22acdcfc967f73fe0c386c05e6a97/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a34716137437365583872595455484f4e41316c387349766664686d7a634f6963656c69616c5a3133533047686b6469636756304b776b514269616343673465496c30637253724841486b7a6a4854304e4750412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa7CseX8rYTUHONA1l8sIvfdhmzcOicelialZ13S0GhkdicgV0KwkQBiacCg4eIl0crSrHAHkzjHT0NGPA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>以上，就是CETO框架的完整流程。</p>
+<p>无论你是想从事AI提示词工程师还是把AI用于自己的工作流当中，这套框架都是必须要掌握的基础之一。</p>
+<p>所以建议先收藏起来，然后立马去实操，等遇到问题的时候再回来重新读一遍，你会有新的收获。</p>
+<p>ok，今天先说到这，老规矩，看完文章记得右下角给川哥点赞。</p>
+<p><strong>最后送给大家一个福利，我这里有一份搞副业的教程，这份教程里有100个搞钱小项目：</strong></p>
+<p>ChatGPT的玩法以及搞钱方法、抖音快手无人直播带货玩法、小红书虚拟资料引流、公众号运营变现等，现在扫码加我微信，即可领取这份副业教程。</p>
+<p><strong>添加时备注：</strong> <strong>副业</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/84e1d8688ba54549bb741ed1302d6a42bcd0f6acf98a9fb57502b5d570171ba9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a3471613534325772504f4b3479666e51536147696172424866495871523333785949324a7967544b323867764441794234375a66324c794e474f33476963757462426f75367867656f444e6f6447766963672f3634303f77785f666d743d706e6726777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/84e1d8688ba54549bb741ed1302d6a42bcd0f6acf98a9fb57502b5d570171ba9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f71674d58436d5a3471613534325772504f4b3479666e51536147696172424866495871523333785949324a7967544b323867764441794234375a66324c794e474f33476963757462426f75367867656f444e6f6447766963672f3634303f77785f666d743d706e6726777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qgMXCmZ4qa542WrPOK4yfnQSaGiarBHfIXqR33xYI2JygTK28gvDAyB47Zf2LyNGO3GicutbBou6xgeoDNodGvicg/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

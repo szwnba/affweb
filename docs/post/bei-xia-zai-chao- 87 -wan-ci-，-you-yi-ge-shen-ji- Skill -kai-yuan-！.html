@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="现在人人都可以 Vibe Coding，用自己熟悉的 Agent 编程工具手搓产品。">
+<meta property="og:title" content="被下载超 87 万次，又一个神级 Skill 开源！">
+<meta property="og:description" content="现在人人都可以 Vibe Coding，用自己熟悉的 Agent 编程工具手搓产品。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/bei-xia-zai-chao-%2087%20-wan-ci-%EF%BC%8C-you-yi-ge-shen-ji-%20Skill%20-kai-yuan-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>被下载超 87 万次，又一个神级 Skill 开源！</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">被下载超 87 万次，又一个神级 Skill 开源！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/735" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>现在人人都可以 Vibe Coding，用自己熟悉的 Agent 编程工具手搓产品。</p>
+<p>一句需求、一个想法丢给 AI 就开干，但通常做出来的效果，并不是我们想要的东西。</p>
+<p>往往推倒重来，白白浪费时间和 Token，这种场景，大家应该都经历不少。</p>
+<p>其实问题不在 AI，而是在我们自己没把需求想清楚，导致 AI 只能靠猜。</p>
+<p>最近偶然看到一个下载安装量超 87 万次的 Skill，名叫 <strong>grill-me</strong>，专治这个毛病。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/beee5cf166ff23bafc9051c09ef23604f171a765279a0bdce5f4afdf9ea115f7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b566c586f6d386963774354696171476f375158377672543131543043336677344e62325449687072737746336831785753496e54416230416c6b637637724d6359594234504368776b6142445a62696350344736766d636538657a574e6572786d56452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/beee5cf166ff23bafc9051c09ef23604f171a765279a0bdce5f4afdf9ea115f7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b566c586f6d386963774354696171476f375158377672543131543043336677344e62325449687072737746336831785753496e54416230416c6b637637724d6359594234504368776b6142445a62696350344736766d636538657a574e6572786d56452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQokVlXom8icwCTiaqGo7QX7vrT11T0C3fw4Nb2TIhprswF3h1xWSInTAb0Alkcv7rMcYYB4PChwkaBDZbicP4G6vmce8ezWNerxmVE/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>出自 TypeScript 圈大神 Matt Pocock 之手，它所在的仓库 skills 已有 22 万+ Star。</p>
+<p>打开 grill-me 的 SKILL.md，正文就几行字，当时愣了一下，还以为页面没加载完。</p>
+<p>grill 这个词在英文口语里是「拷问」的意思，连着 grill me，那就是「拷问我」。</p>
+<p>当输入<code class="notranslate">/grill-me</code>之后，AI 不会马上动手写代码，而是充当面试官开始盘问我们。</p>
+<p>顺着思路，一个决定接一个决定往下挖，把每个选择背后的连锁问题摆到台面上。</p>
+<p>每个问题基本都是选择题，并也附上它推荐的答案，大多数时候回一句「同意」就能继续。</p>
+<p>而且它自己会去查、去翻代码库落实情况，并不是一股脑来询问我们。</p>
+<p>更关键的一条，是在双方未确认达成共识之前，在没搞清楚需求前，不会写任何代码。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5ca4eb28c444c3edaeff80fd8510d9d1a9bc806eae5b0d79588484107f1cd3e4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b66546c4c534a6a386a4d51467852715735326d696168726f7249786e696355715952354d673546484b4a507a45314c744a565744314f565365446756425947356a4d307a556e67456635547879466962333574374f5062756167376843616736696268382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/5ca4eb28c444c3edaeff80fd8510d9d1a9bc806eae5b0d79588484107f1cd3e4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b66546c4c534a6a386a4d51467852715735326d696168726f7249786e696355715952354d673546484b4a507a45314c744a565744314f565365446756425947356a4d307a556e67456635547879466962333574374f5062756167376843616736696268382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQokfTlLSJj8jMQFxRqW52miahrorIxnicUqYR5Mg5FHKJPzE1LtJVWD1OVSeDgVBYG5jM0zUngEf5TxyFib35t7OPbuag7hCag6ibh8/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>就这么几行文字的 Skill，凭什么这么火？我认为，它管住了最容易被忽略的环节。</p>
+<p>从零做一个产品，会遇到几百个决定，报错怎么兜底、数据存哪、边界情况怎么办。</p>
+<p>若直接把模糊想法丢给 AI，如果它不主动跟我们对齐，而是自己猜测我们的意图，后面做出来的产品，大概率不是我们想要的。</p>
+<p>grill-me 正好解决了这极其重要一环，把决策权还给人，AI 负责挖盲点，我们负责拍板。</p>
+<p>具体效果如何？下面我们来看看，首先安装 grill-me 的命令如下：</p>
+<div class="highlight highlight-source-cs"><pre class="notranslate"><span class="pl-smi">npx</span> <span class="pl-s1">skills</span> add https<span class="pl-c1">:</span></pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8508655b86e3daa3ebc812fe8f467f0c489c257e1fa9a0e4aef9d1001f9725d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b5165325a78676e5a516b63794e50753462647869617136454e6b4c3554587736334361766549336a6269634470335077596c436f384c544f484e394633545859544953313544574c47456b7934666f544269636f616e556e4a61643144724b426f6f552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/e8508655b86e3daa3ebc812fe8f467f0c489c257e1fa9a0e4aef9d1001f9725d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b5165325a78676e5a516b63794e50753462647869617136454e6b4c3554587736334361766549336a6269634470335077596c436f384c544f484e394633545859544953313544574c47456b7934666f544269636f616e556e4a61643144724b426f6f552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQokQe2ZxgnZQkcyNPu4bdxiaq6ENkL5TXw63CaveI3jbicDp3PwYlCo8LTOHN9F3TXYTIS15DWLGEky4foTBicoanUnJad1DrKBooU/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>装完之后，便可以在对话框里使用它了。</p>
+<p>在写这篇文章的时候，看了下 DeepSeek Harness 已经破 14 万 Star。</p>
+<p>目前使用它只有 Web UI，安装它还得折腾 Node.js 环境，我就想着给它做个客户端。</p>
+<p>也正好试下 grill-me，故意发一句模糊需求：「给 DeepSeek Harness 做一个开箱即用的跨平台客户端」。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6849c58c15b0405d40cd919f0df8bb37a84a621ea7a6dfb793646554f74a5b35/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b6b63617044545069624c61474b516961786f4631784f4c664d325767614c7a5a74677235374679644642436250676359317269614e3663616962354a4867556576377866324138755044384173304e79785545724e754a626479435831674f5a646145382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/6849c58c15b0405d40cd919f0df8bb37a84a621ea7a6dfb793646554f74a5b35/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b6b63617044545069624c61474b516961786f4631784f4c664d325767614c7a5a74677235374679644642436250676359317269614e3663616962354a4867556576377866324138755044384173304e79785545724e754a626479435831674f5a646145382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQokkcapDTPibLaGKQiaxoF1xOLfM2WgaLzZtgr57FydFBCbPgcY1riaN6caib5JHgUev7xf2A8uPD8As0NyxUErNuJbdyCX1gOZdaE8/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>它没急着开干，而是把能自己查到的事实查清楚，再开始细问搞清楚我的真实需求。</p>
+<p>包括目标用户、覆盖平台、技术方案、首次引导、实现功能等 11 个关键决策点的对齐。</p>
+<p>一层接着一层问，基本都是一个问题，并附带两三个候选项，再给一个推荐选项及理由。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25df249cbd61e787fbfd2df3bd090b33080f8eb0e87c5b5088a854aad3b7e058/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6c696156664a6735696361384a357a5955655765696341416661593557424445526e6a474e42696175446961714278526c427655456647745a4d6e3467646961696232584848426349674a4e366e6d4a3263526d716962686c414f31666d69625758414843567844706f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/25df249cbd61e787fbfd2df3bd090b33080f8eb0e87c5b5088a854aad3b7e058/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6c696156664a6735696361384a357a5955655765696341416661593557424445526e6a474e42696175446961714278526c427655456647745a4d6e3467646961696232584848426349674a4e366e6d4a3263526d716962686c414f31666d69625758414843567844706f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQoliaVfJg5ica8J5zYUeWeicAAfaY5WBDERnjGNBiauDiaqBxRlBvUEfGtZMn4gdiaib2XHHBcIgJN6nmJ2cRmqibhlAO1fmibWXAHCVxDpo/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>说实话，这个过程里有很多问题，在我发送需求那句话的时候，压根是没想过的。</p>
+<p>当所有疑问都问完后，它会把定下来的东西汇总成一份设计共识，确认之后才开始动手。</p>
+<p>当然它也有代价，面对复杂需求真能问出几十个问题，没耐心的朋友可能会被问烦。</p>
+<p>这些对齐的共识它不会落进任何文件，除非你让它保存到本地，否则新开个会话就会丢失。</p>
+<p>那么这份共识该往哪放？这也是很多人纠结的地方，下一步该怎么办？</p>
+<p>这里不得不提一下 Superpowers，我相信大家的 Agent 编程工具里，基本都有安装它。</p>
+<p>从头脑风暴、写计划、执行到调试审查，一整套规程把开发过程全管起来，重而全。</p>
+<p>在我看来，grill-me 和 Superpowers 是一个互补关系，做需求前先用 grill-me 对齐需求。</p>
+<p>再让 Superpowers 的 writing-plans 把共识落成计划文档，executing-plans 分步实施。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5ce6235865c74f6d2b84b34fd0bc70629ee224afe41c7461488f8963d787bdaa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6b776f6c6a304a517a50506b35696268395949784b78624e58316d4c4534354e6375636b686e4a4b5735596a6f5841674b505362447a4f4b66533867696161475034696375473666727438787a395543785239766879553336726a5063414832356550592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/5ce6235865c74f6d2b84b34fd0bc70629ee224afe41c7461488f8963d787bdaa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6b776f6c6a304a517a50506b35696268395949784b78624e58316d4c4534354e6375636b686e4a4b5735596a6f5841674b505362447a4f4b66533867696161475034696375473666727438787a395543785239766879553336726a5063414832356550592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQokwolj0JQzPPk5ibh9YIxKxbNX1mLE45NcuckhnJKW5YjoXAgKPSbDzOKfS8giaaGP4icuG6frt8xz9UCxR9vhyU36rjPcAH25ePY/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>一个管「想清楚」，一个管「做到位」，在介入时机一前一后，正好接得上。</p>
+<p>这套流程在自己项目里也跑了一阵子，体感是进了实施阶段，基本不用再回头掰扯需求。</p>
+<h3>写在最后</h3>
+<p>这两年 Agent 的执行力肉眼可见地变强，一句话做个网站、做个小游戏都不算新鲜事了。</p>
+<p>但活干得再快，也不意味着做出来的效果好，一旦最初的方向就错了，后面维护成本越高。</p>
+<p>更有意思的是，Superpowers 用一整套规程管流程，grill-me 用几行字管流程开始。</p>
+<p>在我看来，这两个项目搭配起来使用，刚好可以把需求落地的质量提升一大截。</p>
+<p>对于模糊需求在动手前先盘问，或许往后，会变成各家 Agent 工具的内置动作。</p>
+<p>毕竟模型再强，也只能做对我们说清楚的事。</p>
+<p>GitHub 项目地址：<a href="https://github.com/mattpocock/skills">https://github.com/mattpocock/skills</a></p>
+<p>今天的分享到此结束，感谢大家抽空阅读，我们下期再见，Respect！</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

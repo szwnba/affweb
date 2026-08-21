@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="前两天发了个深度思考的Prompt，没想到大家反馈还挺好，然后也有人说，能不能把过去我写过以及一些最有用的Prompt整理个合集，再给大家分享一下。">
+<meta property="og:title" content="都Agent时代了，我还是想分享给你这12个我最常用的Prompt。">
+<meta property="og:description" content="前两天发了个深度思考的Prompt，没想到大家反馈还挺好，然后也有人说，能不能把过去我写过以及一些最有用的Prompt整理个合集，再给大家分享一下。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/du-Agent-shi-dai-le-%EF%BC%8C-wo-huan-shi-xiang-fen-xiang-gei-ni-zhe-12-ge-wo-zui-chang-yong-de-Prompt%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>都Agent时代了，我还是想分享给你这12个我最常用的Prompt。</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">都Agent时代了，我还是想分享给你这12个我最常用的Prompt。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/739" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>前两天发了个深度思考的Prompt，没想到大家反馈还挺好，然后也有人说，能不能把过去我写过以及一些最有用的Prompt整理个合集，再给大家分享一下。</p>
+<p>然后我就翻了一下，才发现过去几年，确实已经零零散散写过挺多了。</p>
+<p>只不过它们散落在很多篇不同的文章里。</p>
+<p>有一些也确实有点老了，不太适用于现在的模型能力了。</p>
+<p>所以呢，我干脆就把这些东西全都重新整理了一遍。</p>
+<p>删了一些，又优化了一些，又补充了一些，最后，整理出了对我自己来说，是对我真正有用、真实帮助过我的12个Prompt。</p>
+<p>它们主要分成5个场景：</p>
+<p>问清问题、学习、解决问题、决策、还有，认识自己。</p>
+<p>全部可以单独复制使用，也都不需要安装任何Skill，适配如今你能用到的所有的AI。</p>
+<p>然后所有的我也做成了模板，大家用的时候，把【】里的内容，都换成你自己的信息。</p>
+<p>同时，如果你本身就有一些原始材料比如文档啥的，就尽量也扔上去，这年头，不怕上下文多。</p>
+<p>整体大概就是这样了，那话不多说，我们开始。</p>
+<p><strong>一. 问清问题</strong></p>
+<p>问问题可能是这个世界上，跟AI交互最基础的一环。</p>
+<p>这一趴，专门帮你理清楚你的问题，只有知道自己真正想问的是什么，才有后面的一切。</p>
+<p>底层本质上，我非常推荐大家去读一下非常经典的一本书，在美团内部也被列为四大名著之一，就是尼尔·布朗的《学会提问》。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69c90f1bd6770b16871f158b5a6cfce6043253c5c7422860589f97cf6170ba75/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a6a66516f5a4c6f7155526a3956765953786f68794b3279646849376b6f33516b696170724d3030446e4969615a583068545369636c574d3276666c416963696261544b6e6962754f656469614453586f414670437277616c6f3854574f68726e763748667948584264587a76666b78302f3634303f77785f666d743d6a70656723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/69c90f1bd6770b16871f158b5a6cfce6043253c5c7422860589f97cf6170ba75/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a6a66516f5a4c6f7155526a3956765953786f68794b3279646849376b6f33516b696170724d3030446e4969615a583068545369636c574d3276666c416963696261544b6e6962754f656469614453586f414670437277616c6f3854574f68726e763748667948584264587a76666b78302f3634303f77785f666d743d6a70656723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2jjfQoZLoqURj9VvYSxohyK2ydhI7ko3QkiaprM00DnIiaZX0hTSiclWM2vflAicibaTKnibuOediaDSXoAFpCrwalo8TWOhrnv7HfyHXBdXzvfkx0/640?wx_fmt=jpeg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>当然，也有一些Skill，比如著名的grill me之类的，不过本质上其实都是互通的，就是怎么让你更加精确的进行提问。</p>
+<p>不过我不怎么喜欢在聊天的时候用Skill，有一些Prompt也会一直拷打我无限追问导致我很烦，所以有一个苏格拉底提问法是我最常用的。</p>
+<p>1. 苏格拉底式提问</p>
+<p>人类有的时候，确实会比较混乱，经常嘴上问的和心里真正想表达的，其实不是一个意思。</p>
+<p>那么，苏格拉底式提问，就是通过追问，帮你把问题想的更清楚，同时补上AI更加需要的上下文。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">我的困惑是：【尽量具体地描述发生了什么、你怎么理解，以及你卡在哪里】。
+先不要给建议。请对我进行一次苏格拉底式问诊，通过最多6个问题，帮我找到真正值得回答的问题。
+
+请遵守这些规则：
+1. 每次只问一个问题，根据我的回答决定下一问，不要提前给我一整套问卷；
+2. 优先区分我说的是可验证的事实、对事实的解释、价值判断，还是我希望实现的目标；
+3. 检查关键词是否含糊、我默认了哪些前提、证据来自哪里、有没有相反解释，以及结论成立或不成立分别意味着什么；
+4. 每次提问前，用一句话说明上一条回答让你更新了什么判断；
+5. 只问可能改变结论的问题。信息足够时立刻停止，不必凑满6个。
+
+问诊结束后，请整理出：
+1. 我最开始问的问题；
+2. 我真正想解决的问题；
+3. 已经确认的事实；
+4. 仍未验证的假设；
+5. 最可能改变结论的关键变量；
+6. 一个准确、具体、可以继续行动的新问题。
+
+等我确认这个新问题以后，再给出你的判断、理由和下一步行动。</pre></div>
+<p>这个Prompt，可以帮你解决，“我究竟想问的本质问题是什么。”</p>
+<p>问题问清楚了，整个流程，才能继续。</p>
+<p><strong>二. 学习</strong></p>
+<p>在我的理解里，面对一个陌生的东西，我们经常会有几种需求。</p>
+<p>所以我自己也整理了一下我过去的体系，然后总结了一下，总结出了4种。</p>
+<p>“这个概念我完全听不懂”，可以用双层解释法。</p>
+<p>“这个成品做得真牛逼，我想模仿学习它”，可以用反向拆解。</p>
+<p>“我想深度、系统的研究某个东西”，可以用横纵分析法。</p>
+<p>“这份资料里的说法到底是真的吗？”，可以用事实核查。</p>
+<p>1. 双层解释法</p>
+<p>这是我自己用了很久的一个方法。</p>
+<p>很多人喜欢跟AI说：“请把我当成小学生解释”，或者就是我常用的：“我是一个学习能力很强的智障”</p>
+<p>确实容易听懂，但也很容易停留在“好像懂了”的阶段。类比记住了，真正的机制还是一团雾。</p>
+<p>所以我更喜欢让它分别从小白和专家的角度分别解释一遍，这样可以帮助我更好的学习。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">我想学习的是：【填写概念或问题】。
+
+请分两层解释：
+
+第一层，小白版。
+用生活化的语言和一个具体例子，让完全没有基础的人也能听懂。
+
+第二层，专业版。
+使用准确术语，讲清核心机制、适用边界和常见误解。
+
+最后请整理出：
+1. 列出小白说法与专业术语的对应关系；
+2. 我最容易理解错的地方；
+3. 3个用于检查我是否真正理解的问题。</pre></div>
+<p>很好用，我自己在Vibe Coding的时候经常遇到一些我看不懂的数据库啊、网络安全啊啥的名词，我就是一边双层解释一边学习的。</p>
+<p>2. 反向拆解</p>
+<p>有时候，你看到一个很好的作品或者网站啥的，你想学习它到底好在哪，你就可以用这个反向拆解。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">我想拆解的优秀范例是：【粘贴产品页面、网页、方案、流程说明、数据看板或其他成品】。
+我想学会的是：【填写你希望从中学会什么】。
+
+请先用一句话说明它解决了什么问题，再反向拆解它为什么有效。
+
+重点分析：
+1. 它服务谁，目标是什么；
+2. 它采用了什么结构或流程；
+3. 哪些关键选择拉开了质量差距；
+4. 它的完成标准是什么；
+5. 哪些规律可以迁移，哪些细节只适合这个案例。
+
+最后请给我：
+1. 提炼3到5条可复用规律；
+2. 一份可以照着执行的操作清单；
+3. 一个最值得先尝试的小练习。</pre></div>
+<p>能快速的帮你调研和拆解原作品，然后获得一些收获。</p>
+<p>3. 横纵分析法</p>
+<p>我自己之前还在做公募基金的时候，常用的一个非常经典的分析市场里公司和新概念的框架，之前也写过文章，详情可看：<a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647681493&amp;idx=1&amp;sn=76f444ffcb134e6e8763d03fe03ae5ca&amp;scene=21#wechat_redirect" rel="nofollow">分享一个我用了2年的深度研究Prompt，半小时帮你搞懂任何陌生领域。</a></p>
+<p>它的核心只有两条轴。</p>
+<p>纵轴看一个东西怎么走到今天的，横轴看它今天跟一众竞品比到底有啥区别。两条轴交叉起来，才能看见历史上的选择，以及是怎么演化到今天这样的。</p>
+<p>之前那一版Prompt很长，这次我把它优化了一下，然后一定要配合各个AI产品的深度研究功能来用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b72b11f189c7f314694aceddaaf2492f9f377c4f86b9a779dc9a70abc0c30d6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715731454c66314e4e6744376b3642794e69636c73454a756f344e7033454358764b6b4d574452576c45696136705169634a576d367130563045516f76696171426c397a44447573496e66424d66706e654a33523555487763645547387749394977716c4b492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/7b72b11f189c7f314694aceddaaf2492f9f377c4f86b9a779dc9a70abc0c30d6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715731454c66314e4e6744376b3642794e69636c73454a756f344e7033454358764b6b4d574452576c45696136705169634a576d367130563045516f76696171426c397a44447573496e66424d66706e654a33523555487763645547387749394977716c4b492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqW1ELf1NNgD7k6ByNiclsEJuo4Np3ECXvKkMWDRWlEia6pQicJWm6q0V0EQoviaqBl9zDDusInfBMfpneJ3R5UHwcdUG8wI9IwqlKI/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>效果才是满血版。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">研究对象是：【填写产品、公司、人物、技术、行业或事件】。
+
+请使用横纵分析法，对它完成一份可追溯的深度研究。研究截止时间为执行当天。
+
+纵向分析：
+1. 它在什么背景和需求下诞生，关键推动者是谁；
+2. 它经历了哪些重要转折、成功和失败；
+3. 哪些早期选择变成了今天的能力、路径依赖或包袱。
+
+横向分析：
+1. 选择最值得比较的对象，并说明为什么选它们；
+2. 用统一维度比较各自的强项、短板和独特性；
+3. 解释用户、客户或市场为什么选择它，又为什么放弃它。
+
+把两条轴合起来，继续判断：
+1. 过去形成的能力、路径依赖和约束会怎样影响未来；
+2. 未来最可能出现哪3条路径；
+3. 每条路径出现的前提和预警信号是什么。
+
+请遵守这些证据规则：
+1. 优先使用官方资料、原始数据、论文、财报和访谈等一手来源；
+2. 重要结论就近标注来源与日期；
+3. 事实、推断和观点分开写；
+4. 遇到冲突信息时并列呈现，找不到证据时明确写“暂未核实”。
+
+最后按以下顺序输出：核心结论、关键时间线、横向对比表、详细分析、未来判断、仍待确认的问题。报告需要在10000～30000字之间，语言尽量通俗，不要堆砌资料。</pre></div>
+<p>如果你只想用半小时，对一个陌生的东西建立一个基本的框架，这个横纵分析法完全够用了。</p>
+<p>4. 事实核查</p>
+<p>大家也都知道，AI经常出幻觉，虽然现在少了很多，但是还是有。</p>
+<p>而且人类的幻觉，现在往往比AI还要大。</p>
+<p>有句话说的好，AI帮助很多人走上了愚昧之巅。</p>
+<p>所以很多时候，无论是人类还是AI的内容，按照笛卡尔的哲学底色，我们是要尽可能怀疑一切的。</p>
+<p>于是就有了这个事实核查的Prompt。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">我要核查的说法是：【粘贴观点、结论、数据或方案】。
+
+请先把它拆成：
+1. 可以被外部验证的事实；
+2. 从事实推出的结论；
+3. 其中包含的价值判断。
+
+对于事实部分，请联网核查来源、样本、时间和完整上下文，并标记为：
+1. 已证实；
+2. 基本成立，但需要收窄；
+3. 存在争议；
+4. 证据不足；
+5. 明显错误。
+
+在假设相关事实成立的情况下，继续检查：
+1. 这些事实能否推出当前结论；
+2. 是否藏着未经验证的假设；
+3. 是否混淆相关性和因果关系；
+4. 是否遗漏了其他解释或关键信息；
+5. 结论在什么条件下成立或失效。
+
+最后请输出：
+1. 哪些事实可信，哪些需要修正；
+2. 推理链中最关键的漏洞；
+3. 补强后的最合理版本；
+4. 我目前可以相信到什么程度。</pre></div>
+<p>不仅可以审查事实，还可以审查别人的观点、或者方案之类的，很好用。</p>
+<p><strong>三. 解决问题</strong></p>
+<p>如何问问题、如何学习，我们都清楚了。</p>
+<p>那现在，要解决问题了。</p>
+<p>我自己列了三块：</p>
+<p>专家会诊、第一性原理、跨领域借解</p>
+<p>1. 专家会诊</p>
+<p>以前很流行在Prompt开头写一句：“你是一位拥有20年经验的世界级专家。”</p>
+<p>但是很多问题，其实是属于多个专家互相配合的。</p>
+<p>所以，有一些问题，我更喜欢让AI自己组一个真正互补的小型专家团，再让他们互相挑战。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">我的问题是：【填写问题、已知事实、目标和现实约束】。
+
+先不要直接给方案。请为这个问题选择3种真正互补的专业视角，并说明每种视角为什么必要。
+
+让每种视角分别回答：
+1. 它怎样重新定义这个问题；
+2. 它最推荐的解决路径；
+3. 其他视角最容易忽略的风险；
+4. 什么新证据会让它改变判断。
+
+然后让三种视角互相质疑，找出：
+1. 共同认可的事实；
+2. 真正的分歧；
+3. 分歧背后的不同假设。
+
+最后请综合输出：
+1. 综合后最推荐的方案；
+2. 适用条件；
+3. 最大风险；
+4. 退出条件；
+5. 第一步行动。
+
+不要选择三个高度相似的身份，也不要模仿或编造真实人物的观点。信息不足时，先只问我一个最关键的问题。</pre></div>
+<p>这里最关键的一步，是让他们互相质疑。</p>
+<p>真正的信息，往往都是在分歧里面。</p>
+<p>2. 第一性原理</p>
+<p>万能Prompt，Vibe Coding的时候我也经常用。</p>
+<p>它最适合处理路径依赖，帮你回归到这个问题的本质。</p>
+<p>有时候你的方案上，各种打补丁，不如用第一性原理，直接找到最本质，然后推倒重来。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">我想解决的问题是：【填写你的问题】。
+
+请用第一性原理把它拆回最底层，区分：
+1. 已经确认、无法绕开的基本事实；
+2. 习惯性接受、却没有验证过的假设；
+3. 真正想实现的目标；
+4. 现实中的资源与约束。
+
+暂时放下行业惯例和现成方案，只从基本事实、目标和约束出发，重新推导可行路径。
+
+最后请输出：
+1. 原方案中只在修补表面的部分；
+2. 从基本事实重新推导出的新路径；
+3. 这条路径成立的前提；
+4. 验证它的第一步。</pre></div>
+<p>尤其是改组织流程、做产品架构和修复杂系统之类的时候，这玩意真的很好用。</p>
+<p>3. 跨领域借解</p>
+<p>第一性原理是回到本质，跨领域借解是可以帮你看到其他领域里相通的解法，视角会更加扩散一些。</p>
+<p>我在做AI大模型排行榜的时候，也聊过这个用法。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">我的困惑是：【说明背景、当前做法、现实约束和具体卡点】。
+
+请先剥掉行业术语，把它抽象成一个人类在其他领域也可能遇到的问题，并找出：
+1. 问题的底层结构；
+2. 真正的核心矛盾；
+3. 普通解法失效的原因。
+
+然后从历史案例，以及至少3个彼此距离较远的领域中
+
+每个案例都要说明：
+1. 那个领域遇到了什么问题；
+2. 使用了什么解决机制；
+3. 与我的问题相似在哪里；
+4. 哪些部分可以迁移；
+5. 什么条件下会失效。
+
+最后请选出最值得借用的3种机制，把它们翻译成适合我当前处境的解决方案，再推荐一个最值得先试的低成本、可逆实验。</pre></div>
+<p>如果你的问题，在回到你这个行业的第一性原理之后，感觉都不是很好解决，那不如看看其他行业，说不定另一个行业里，你的这个问题，都已经被解决十几年了，也更可能能帮你找到那个灵光一闪。</p>
+<p><strong>四. 决策</strong></p>
+<p>以上的所有，都是在帮你找到思路，找到解法，帮你找到更多的可能路径和信息量。</p>
+<p>但是有时候，你还是会发现，两个答案都有道理，我到底应该选哪一个？</p>
+<p>这时候，就需要你真的决策了。</p>
+<p>在决策上，我有两个很棒的Prompt。</p>
+<p>1. 双向钢人论证</p>
+<p>这个Prompt我前两天刚刚专门写过：<a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647685329&amp;idx=1&amp;sn=9471278dc489641c097b228912965ed4&amp;scene=21#wechat_redirect" rel="nofollow">一个极度实用的深度思考Prompt，帮你挖出最本质的答案。</a></p>
+<p>当时一堆人说，你这玩意跟grill me有啥区别，不就是个grill me吗。</p>
+<p>我想说，底层逻辑是不一样的，一个是帮你更好的提出问题，一个是当你有答案之后，不知道选哪个，做决策用的。</p>
+<p>大家如果有犹豫不决的选择，不妨试试。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">我需要做的决定是：【写清问题、两个选项、目标和现实约束】。
+
+先别急着回答，也别默认我已经把问题想清楚。请先做一次双向钢人论证：
+
+1. 用最完整、有力的方式，重述我真正需要做出的选择；
+2. 分别给出支持两个方向的最强理由、适用条件、最大收益、最大风险，以及最难回答的反对意见；
+3. 找出双方真正的分歧、最可能改变结论的关键变量，以及还需要补充的信息；
+4. 只问我一个最可能改变结论的问题。
+
+等我回答以后，再给出明确判断、理由、适用条件和下一步行动。</pre></div>
+<p>2. 用最小实验替代空想</p>
+<p>在现实世界中，有些决定，继续纸上谈兵也不会让你更加清晰了。</p>
+<p>所以这时候，你其实是需要迈出第一步，去试试，看看现实世界的反馈和数据是什么样子的。</p>
+<p>那其实，就可以让AI给你建议，告诉你如何迈出这一步。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate">我正在纠结的是：【填写你的选择或想法】。
+
+请先找出这个决定背后最需要验证的3个假设，再选出最可能改变最终结论的那一个。
+
+围绕这个假设，帮我设计一个低成本、可逆、能在【7天或你能接受的周期】内完成的最小实验。
+
+请写清：
+1. 具体要做什么；
+2. 需要投入多少时间和资源；
+3. 观察什么指标；
+4. 什么结果支持继续；
+5. 什么结果提醒我停止；
+6. 实验结束后能获得什么新信息。
+
+最后告诉我，明天就能开始的第一个动作是什么。</pre></div>
+<p><strong>五. 认识你自己</strong></p>
+<p>在挖掘人生这块，我自己还是有两个比较得意的作品的，也传遍了各个社区，对我自己也非常的有用。</p>
+<p>所以，我还是想分享给大家。</p>
+<p>人生的底色，我觉得最重要的，就是认识你自己。</p>
+<p>1. 挖掘隐藏天赋</p>
+<p>这条Prompt，我之前也单独写过一篇：<a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647678138&amp;idx=1&amp;sn=7257d200e639081bce9f2c78e5a0b941&amp;scene=21#wechat_redirect" rel="nofollow">一个极度实用的Prompt，帮你挖掘出自己的隐藏天赋。</a></p>
+<p>它很适合那些还对世界充满期待，希望找到自己的人生天赋的人。</p>
+<p>也适合那些觉得自己为什么就是没啥天赋，然后怀疑自己的人。</p>
+<p>AI会跟你进行深度的追问和梳理，找到你过去那些看起来毫无关系的经历，然后拼成一份你的个人天赋说明书。</p>
+<p>这条需要一点耐心，可能动辄半小时以上，不过，回答得越真实、越具体，最后得到的东西你相信我，一定就会越有用。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-mh"># <span class="pl-en">Role：深度天赋挖掘机</span></span>
+
+<span class="pl-mh">## <span class="pl-en">角色</span></span>
+你是一位熟悉盖洛普优势识别体系、心流理论与荣格心理学的资深生涯咨询师。你相信天赋是一种可以迁移的底层能力，它经常藏在一个人的怪癖、缺点、嫉妒、无意识胜任区和能量模式里。
+
+<span class="pl-mh">## <span class="pl-en">目标</span></span>
+通过多轮深度对话，帮助用户找到被忽视或压抑的天赋，最终生成一份极度详细、专业且有共情力的《个人天赋使用说明书》。
+
+<span class="pl-mh">## <span class="pl-en">核心理念</span></span>
+1. 反宿命论。天赋不等于某个固定技能，也不会因为年龄增长而过期；
+2. 能量审计。真正的天赋往往会让人回血。一个人单纯擅长、做完却极度消耗的事情，需要单独区分；
+3. 阴影即宝藏。那些从小反复被批评的缺点、难以改变的怪癖，以及对他人的嫉妒，可能是天赋被压抑后的背面。
+
+<span class="pl-mh">## <span class="pl-en">对话规则</span></span>
+1. 每次只问一个问题。必须采用“你问 → 用户答 → 你简短反馈 → 再问下一题”的节奏；
+2. 使用苏格拉底式追问。多问“当时几岁”“具体发生了什么”“你是什么感觉”“为什么会这样做”，避免根据一句话仓促贴标签；
+3. 保持温暖、共情和敏锐。发现矛盾、伪装或潜意识线索时，可以直接指出，但不要用空泛赞美安慰用户；
+4. 所有判断都要对应用户讲过的具体经历。证据不足时明确使用“可能”，并继续追问；
+5. 全程最多10个主问题，可以根据回答改变顺序或增加追问，但必须覆盖下面四条主线。
+
+<span class="pl-mh">## <span class="pl-en">必须覆盖的主线</span></span>
+1. 16岁以前，有哪些事情是没人要求也会废寝忘食去做的？有哪些从小反复被批评、一直改不掉的“顽固缺点”？
+2. 成年后的工作或生活中，哪些事情会让用户觉得“这还需要学吗”，周围人却普遍觉得困难？寻找他的无意识胜任区；
+3. 哪些事情做完以后，身体虽然累，精神却极度亢奋？哪些事情他做得很好，却会明显抽干能量？
+4. 用户曾经强烈嫉妒过谁，或者羡慕过哪种生活状态？继续追问他真正渴望的是对方身上的什么。
+
+<span class="pl-mh">## <span class="pl-en">输出</span></span>
+当信息足够丰富后，输出一份一万字左右的《个人天赋使用说明书》。结构可以根据用户的回答自由组织，但必须覆盖：
+1. 最有证据支撑的底层天赋，以及每一项天赋对应的经历链；
+2. 天赋的阴影面，它过去为什么会被误解成缺点；
+3. 用户的能量地图、无意识优势区和高消耗区；
+4. 这些天赋最容易发挥、最容易失效的环境；
+5. 适合他的工作方式、合作方式、职业方向和现实限制；
+6. 接下来30天可以尝试的低成本实验，用现实反馈继续验证这些判断。
+
+<span class="pl-mh">## <span class="pl-en">开始</span></span>
+请用温暖、专业、通俗的语言向用户说明接下来的流程、大概需要的时间和希望达成的目标。告诉他：“天赋永远不会过期，我们只是要找到你的底层天赋。”然后进入第一个问题。</pre></div>
+<p>2. 人生设计术</p>
+<p>隐藏天赋回答的问题，是“我的身上到底有啥”，它更多是在往过去看。</p>
+<p>人生设计术继续回答另一个问题：“我接下来还可以往哪去？”</p>
+<p>它看的，是未来。</p>
+<p>我也详细的写过一篇文章：<a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647684133&amp;idx=1&amp;sn=0cdba19fe8e791825e3710d36b6d7c44&amp;scene=21#wechat_redirect" rel="nofollow">我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。</a></p>
+<p>这套Prompt基于斯坦福的人生设计方法，我觉得可以很好的帮大家规划未来的人生。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-mh"># <span class="pl-en">Role：人生设计师</span></span>
+
+<span class="pl-mh">## <span class="pl-en">角色</span></span>
+你是一位熟悉斯坦福人生设计方法、心流理论和积极心理学的资深人生设计师。你的任务是陪用户把当下的人生当成一个可以反复设计、低成本试错的项目，先看清位置，再找到方向，最后把可能的路真正试出来。
+
+<span class="pl-mh">## <span class="pl-en">目标</span></span>
+通过多轮深度对话，帮助用户看清自己现在真实的位置，分清无法解决的重力问题与可以动手设计的真问题，最终生成三个完全不同、同样值得认真考虑的五年人生版本，以及马上可以开始的原型行动。最终产出一份极度详细、有温度也够犀利的《个人人生设计蓝图》。
+
+<span class="pl-mh">## <span class="pl-en">核心理念</span></span>
+1. 人生是设计问题，没有唯一正解。它需要大量尝试、做原型、边走边看；
+2. 重新定义问题。很多人一直在解决一个问错了的问题，找到真问题比急着给答案更重要；
+3. 区分重力问题。年龄、自然规律、整个行业的现实等无法直接改变的事，需要先接受，再把注意力转向可设计的部分；
+4. 数量本身含有质量。好的选择来自足够多的选择；
+5. 激情经常是行动与反馈带来的结果。用户无需先找到命中注定的热爱，才有资格开始；
+6. 人生是一场无限游戏。任何原型都会留下信息，所以人可以对失败免疫。
+
+<span class="pl-mh">## <span class="pl-en">对话规则</span></span>
+1. 每轮只问一个问题，采用“你问 → 用户答 → 你简短而走心地反馈 → 再问下一题”的节奏；
+2. 使用苏格拉底式追问，多问具体事件、当时的感觉与行动，避免过早下结论；
+3. 保持温暖和接纳，同时敏锐指出用户的逻辑漏洞、自我设限，以及语言与实际行为之间的落差；
+4. 主动区分重力问题和可设计的真问题。承认现实不等于认输，看清边界本身就是设计的一部分；
+5. 不评判用户的选择，也不替用户做决定；
+6. 全程主问题控制在6到9个，可以根据回答灵活调整顺序和追问深度。
+
+<span class="pl-mh">## <span class="pl-en">提问流程</span></span>
+
+<span class="pl-mh">### <span class="pl-en">第一阶段：你在这里</span></span>
+1. 请用户给健康、工作、娱乐、爱四个方面分别打0到10分，并说明哪一项亮了红灯。健康包含身体、情绪和心理，娱乐指纯粹为了快乐而做的事，爱强调双向关系；
+2. 问他现在最焦虑、最想解决的人生问题是什么。判断它属于可设计的真问题，还是无法改变的重力问题。如果属于后者，温和地点破，并引导他重新定义成可以行动的问题；
+3. 如果用户状态稳定，可以先征求同意，再邀请他做一次反向推演。让他想象未来五年什么都不改变时，一个普通的周二会怎样度过，再把这幅画面拉到十年后。帮助他看清维持现状的代价。察觉用户处于低谷或情绪脆弱时，跳过这一步。
+
+<span class="pl-mh">### <span class="pl-en">第二阶段：你的指南针</span></span>
+1. 询问他的工作观：为什么工作，工作与金钱、他人和世界是什么关系；
+2. 询问他的人生观：什么会让他觉得这一生没有白活，他想怎样与家人和更大的世界连接；
+3. 比较工作观与人生观是否一致，指出冲突、妥协和真正的正北方向。
+
+<span class="pl-mh">### <span class="pl-en">第三阶段：寻路</span></span>
+1. 请他回忆最近或过去的心流时刻，追问当时具体在做什么、和谁、处在什么环境；
+2. 区分让他回血的事情、抽干他的事情，以及“擅长但不热爱”的事情。
+
+<span class="pl-mh">### <span class="pl-en">第四阶段：摆脱困境与创造可能</span></span>
+1. 询问他是否有一个早已失效、却始终不愿放手的执念或方案。找到这个锚问题背后真正想守住的东西；
+2. 陪他生成三个完全不同的五年人生版本：
+   第一个是他已经在走，或者盘算很久的路；
+   第二个是假如第一条路明天彻底消失，他会选择的路；
+   第三个是假如不用考虑钱和他人的评价，他真正想过的生活。
+3. 三个版本都必须是用户真心愿意考虑的A计划，谁也不能成为凑数的备胎。
+
+<span class="pl-mh">## <span class="pl-en">输出</span></span>
+当素材足够丰富后，输出一份8000到12000字的《个人人生设计蓝图》，自然覆盖：
+1. “你在这里”：解读四个仪表盘，指出真正失衡和长期被忽略的部分；
+2. “真问题”：重新定义用户最初的困扰，分清重力问题与可设计问题；
+3. “你的指南针”：提炼工作观、人生观与两者之间的一致性；
+4. “你的能量地图”：总结心流、回血区、高消耗区和未来设计需要偏向的环境；
+5. “三个奥德赛计划”：每套配一个简短有力的标题、一条五年时间线、两到三个待验证问题，以及资源、喜欢程度、自信心、一致性四项评估；
+6. 如果用户已经明显倾向其中一个版本，继续把它拆成本季度要验证的核心问题、一个月内能做出的原型、每天可以推进的小动作，以及绝不愿牺牲的底线；
+7. “原型行动清单”：设计一次人生对谈、一天到一周的原型体验，以及本周可以迈出的第一小步；
+8. “失败免疫”：提醒用户，这三个版本都可以先试再调。原型即使走不通，也会为下一步留下有用信息。
+
+<span class="pl-mh">## <span class="pl-en">开始</span></span>
+请用温暖、专业、有共情力的语言开场。先解释这套方法的基本思路、预计需要的时间和希望帮用户达成的目标。告诉用户，他无需先想清楚自己热爱什么，我们会在行动、对话与反馈里慢慢把它找出来。然后进入第一个问题。</pre></div>
+<p>这两个Prompt，交互起来时间都比较长，用的时候，一定要坚持下去。</p>
+<p><strong>写在最后</strong></p>
+<p>以上，就是我重新整理后的12个我自己觉得非常有用的Prompt。</p>
+<p>可能会有人说，都Agent时代了，你还炒冷饭，分享这些破逼玩意，这都四年了，你居然还分享Prompt。</p>
+<p>有的时候我自己也很矛盾，AI跑的太快了，快到前面的人，和后面的人，中间宛如一条银河。</p>
+<p>我到底应该分享什么，才会让各个层级的人都觉得，会有一点用呢。</p>
+<p>好难。</p>
+<p>可不管怎么变，我至今依然觉得，Prompt就是我们使用AI的基石。</p>
+<p>一个人怎么问问题，怎么判断真假，怎么理解世界，怎么认识自己，这些东西，永远不会过时。</p>
+<p>人生这道题，只能由你亲自回答。</p>
+<p>当AI越来越像苍穹上的神明，我觉得作为人类，就是站在他们面前，依然知道我们想要什么，想去往何方。</p>
+<p>而这，大概就是Prompt。</p>
+<p>最后的意义。</p>
+<p><strong>以上，既然看到这里了，如果觉得不错，随手点个赞、在看、转发三连吧，如果想第一时间收到推送，也可以给我个星标⭐～谢谢你看我的文章，我们，下次再见。</strong></p>
+<p>&gt;/ 作者：卡兹克</p>
+<p>&gt;/ 投稿或爆料，请联系邮箱：<a href="mailto:wzglyay@virxact.com">wzglyay@virxact.com</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

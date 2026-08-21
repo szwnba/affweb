@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgial2gA884uCiaPzqxQtNorBdjon5RdZTHqpfK2CVRy9YtCw58aSCdtS81A/640?wx_fmt=jpeg)
+
+目前AI 在编写代码方面虽然已经非常出色，
+
+**但对于普通人来说，要创建一个应用还是有难度**，因为还需要设置开发环境、安装软件包、配置数据库。">
+<meta property="og:title" content="太疯狂了我花5分钟在手机上制作了一个应用——Claude助力Replit必将卷起应用的文艺复兴风暴">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgial2gA884uCiaPzqxQtNorBdjon5RdZTHqpfK2CVRy9YtCw58aSCdtS81A/640?wx_fmt=jpeg)
+
+目前AI 在编写代码方面虽然已经非常出色，
+
+**但对于普通人来说，要创建一个应用还是有难度**，因为还需要设置开发环境、安装软件包、配置数据库。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/tai-feng-kuang-le-wo-hua-5-fen-zhong-zai-shou-ji-shang-zhi-zuo-le-yi-ge-ying-yong-%E2%80%94%E2%80%94Claude-zhu-li-Replit-bi-jiang-juan-qi-ying-yong-de-wen-yi-fu-xing-feng-bao.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>太疯狂了我花5分钟在手机上制作了一个应用——Claude助力Replit必将卷起应用的文艺复兴风暴</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">太疯狂了我花5分钟在手机上制作了一个应用——Claude助力Replit必将卷起应用的文艺复兴风暴</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/673" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/800aa03569959b0914439d2a788b127ae39de5abaa2cead2bcac81a70d9a8280/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c32674138383475436961507a717851744e6f7242646a6f6e3552645a54487170664b3243565279395974437735386153436474533831412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/800aa03569959b0914439d2a788b127ae39de5abaa2cead2bcac81a70d9a8280/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c32674138383475436961507a717851744e6f7242646a6f6e3552645a54487170664b3243565279395974437735386153436474533831412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgial2gA884uCiaPzqxQtNorBdjon5RdZTHqpfK2CVRy9YtCw58aSCdtS81A/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>目前AI 在编写代码方面虽然已经非常出色，</p>
+<p><strong>但对于普通人来说，要创建一个应用还是有难度</strong>，因为还需要设置开发环境、安装软件包、配置数据库。</p>
+<p>然而<strong>Replit Agent 把这些流程都自动化了！</strong></p>
+<p>只需要说需求，自动建好文件和依赖和代码，直接一键部署网站。</p>
+<p>亲自体验了一番，要比cursor的composer要易用。</p>
+<p><strong>下面我会讲述一下自己亲测的例子来演示。</strong></p>
+<p><strong>（文末有惊喜）</strong></p>
+<p>在这之前先看看火爆全网的几个例子：</p>
+<p>设计师Aman Mathur仅仅花了4分钟就构建了一个带有 Waitlist 的登录页面，这不足以稀奇，但是这个登录页竟然还是连接了它的数据库的：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e848fd839c8404327046728f23bcdd3461aea60b3198ea032e14090f3a37fd5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c54386963717861514f33627a3879355849704d325a667267396178726331436469627a446b6963355936354b46324855786a68546269636178512f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/9e848fd839c8404327046728f23bcdd3461aea60b3198ea032e14090f3a37fd5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c54386963717861514f33627a3879355849704d325a667267396178726331436469627a446b6963355936354b46324855786a68546269636178512f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialT8icqxaQO3bz8y5XIpM2Zfrg9axrc1CdibzDkic5Y65KF2HUxjhTbicaxQ/640?wx_fmt=gif" style="max-width: 100%;"></a></p>
+<p>通过三个简单的提示得到了一个名为横向冒险游戏。这个游戏具有完全可编辑的代码和文件，并且可以通过点击一个按钮来托管：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e1691b09a68a813380dd023fdd62153e608cc286c8ae636c77a75d2818f761d3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c5469634f48483244656247304d357148566879714f746d587047647766614169627873764a696346327634475052765450687759725a7167512f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/e1691b09a68a813380dd023fdd62153e608cc286c8ae636c77a75d2818f761d3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c5469634f48483244656247304d357148566879714f746d587047647766614169627873764a696346327634475052765450687759725a7167512f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialTicOHH2DebG0M5qHVhyqOtmXpGdwfaAibxsvJicF2v4GPRvTPhwYrZqgQ/640?wx_fmt=gif" style="max-width: 100%;"></a></p>
+<p>花了 5 分钟创建了一个社交媒体广告生成器，使用 Flux 生成高质量的广告图片：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/61e0c8d0c947e44cc7f5a2a489559a7906702312ffdc20d0ab8f77d8c0ad3212/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c4d67433457396847646e755a506659436963474c447a304f5664756b696268796e56464e696375766c4562466147596a4e53724876526247412f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/61e0c8d0c947e44cc7f5a2a489559a7906702312ffdc20d0ab8f77d8c0ad3212/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c4d67433457396847646e755a506659436963474c447a304f5664756b696268796e56464e696375766c4562466147596a4e53724876526247412f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialMgC4W9hGdnuZPfYCicGLDz0OVdukibhynVFNicuvlEbFaGYjNSrHvRbGA/640?wx_fmt=gif" style="max-width: 100%;"></a></p>
+<p>目前Replit Agent功能需要付费用户才能体验，以年订阅的话需要120美元，但一次性付费900多RMB还是挺心疼的。</p>
+<p><strong>但作为一个AI自媒体作者，要不先尝新一下？</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca61d4267a168089d12c848b2d7cb551dacaf2c41b4114ab7632a21cc273fc15/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c53326a4e6e75444e78793434696355766c307337495646516962504934783249553578665a78514f4c63326265464469625759414d77696257412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ca61d4267a168089d12c848b2d7cb551dacaf2c41b4114ab7632a21cc273fc15/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c53326a4e6e75444e78793434696355766c307337495646516962504934783249553578665a78514f4c63326265464469625759414d77696257412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialS2jNnuDNxy44icUvl0s7IVFQibPI4x2IU5xfZxQOLc2beFDibWYAMwibWA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>滴，花完钱，开始测试。</strong></p>
+<p>首先去商店下载一个Replit，</p>
+<p><strong>点开Replit的手机APP应用，点击AI项目：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9f6883ee0edaa15b79b4778f8851231643401b8df7b1f7f2b4b10ca2aa203c7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c6d494f6c76544e49397677323757754469615738706a4d7163787453384356566963524e4a6645376e69614276386f4e377352415074546d772f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/b9f6883ee0edaa15b79b4778f8851231643401b8df7b1f7f2b4b10ca2aa203c7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c6d494f6c76544e49397677323757754469615738706a4d7163787453384356566963524e4a6645376e69614276386f4e377352415074546d772f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialmIOlvTNI9vw27WuDiaW8pjMqcxtS8CVVicRNJfE7niaBv8oN7sRAPtTmw/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p><strong>输入需求：</strong></p>
+<p>做一个文生图的网站，调用openai的dalle3：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf37972a8f42eac1faab2d79dfdde5c57d70812034bc2885b0370e4c0cd27605/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c6961453848636c4c456961686868485930574d57324f723838474c423159386a6b787350504369617169625837725648504e34566d374e6272772f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/bf37972a8f42eac1faab2d79dfdde5c57d70812034bc2885b0370e4c0cd27605/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c6961453848636c4c456961686868485930574d57324f723838474c423159386a6b787350504369617169625837725648504e34566d374e6272772f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialiaE8HclLEiahhhHY0WMW2Or88GLB1Y8jkxsPPCiaqibX7rVHPN4Vm7Nbrw/640?wx_fmt=gif" style="max-width: 100%;"></a></p>
+<p><strong>等待1分钟后，项目的文件全部自动写好：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5a4be9d03cd41b71c7581b4f38b22eefd8fc77ed92a114aa86d0dd2aad199a10/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c34546a334a6f326f684b304a4a6c5773333937345270517652704731344776715769636548476763454a51684b57584d6e3956686745412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/5a4be9d03cd41b71c7581b4f38b22eefd8fc77ed92a114aa86d0dd2aad199a10/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c34546a334a6f326f684b304a4a6c5773333937345270517652704731344776715769636548476763454a51684b57584d6e3956686745412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgial4Tj3Jo2ohK0JJlWs3974RpQvRpG14GvqWiceHGgcEJQhKWXMn9VhgEA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>当你还在担心不会调用openai的api怎么办？</p>
+<p><strong>你根本不用会。</strong></p>
+<p><strong>因为Replit会给出一个输入框让你填api-key：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6924217e5f0efd437c98ab6ba946ee1e0df0dadd9ca4ec86220aa6cffc8ee12f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c51534131654259796d6244397934396f556963506c634b696271497a554a5a57486b72583035645363696253425166726c65354665626778512f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/6924217e5f0efd437c98ab6ba946ee1e0df0dadd9ca4ec86220aa6cffc8ee12f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c51534131654259796d6244397934396f556963506c634b696271497a554a5a57486b72583035645363696253425166726c65354665626778512f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialQSA1eBYymbD9y49oUicPlcKibqIzUJZWHkrX05dScibSBQfrle5FebgxQ/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p><strong>输入apikey后，继续运行：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f48805502a5b5b95bf750fa3bb3122406c2270386f7a27c5dcefc2f972e65a5e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c41584c48476572414752794e6477543232685a6e4b72517a416961316c6f30325933633136355975796e79696139556355435a67446d30672f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/f48805502a5b5b95bf750fa3bb3122406c2270386f7a27c5dcefc2f972e65a5e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c41584c48476572414752794e6477543232685a6e4b72517a416961316c6f30325933633136355975796e79696139556355435a67446d30672f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialAXLHGerAGRyNdwT22hZnKrQzAia1lo02Y3c165Yuynyia9UcUCZgDm0g/640?wx_fmt=gif" style="max-width: 100%;"></a></p>
+<p>到这里，一个网页已经基本做出来了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d923c3191041f5b84fbc94ae5773f8e34f12bd652790f73c55f091484974912/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c34543835483772444a6255705373586e574e67623469617a7a7865633767345231577973625579636759645457776b317147614e346a772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/1d923c3191041f5b84fbc94ae5773f8e34f12bd652790f73c55f091484974912/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c34543835483772444a6255705373586e574e67623469617a7a7865633767345231577973625579636759645457776b317147614e346a772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgial4T85H7rDJbUpSsXnWNgb4iazzxec7g4R1WysbUycgYdTWwk1qGaN4jw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>现在测试一下网站的功能能不能正常使用：</p>
+<p><strong>让他做一个榴莲猫的头像：</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/86f9d8521af6e65c76641eeb4aeee12baed6554f2652c671b3dc3c0a3ca48920/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c336b55305876536a79516744397430546c6a79375a43346631563658705259516b4f57647365774e474e785774486d69634d79675973412f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/86f9d8521af6e65c76641eeb4aeee12baed6554f2652c671b3dc3c0a3ca48920/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c336b55305876536a79516744397430546c6a79375a43346631563658705259516b4f57647365774e474e785774486d69634d79675973412f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgial3kU0XvSjyQgD9t0Tljy7ZC4f1V6XpRYQkOWdsewNGNxWtHmicMygYsA/640?wx_fmt=gif" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f3f9b23ad6c4d84cf6738471fa28b9e269a9b8485b9aa405d15950c987d34e2f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c73645430754572584865424473557757387246653058496d725a4f696141386f545754323477736a306873786d56324757503637794d672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/f3f9b23ad6c4d84cf6738471fa28b9e269a9b8485b9aa405d15950c987d34e2f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c73645430754572584865424473557757387246653058496d725a4f696141386f545754323477736a306873786d56324757503637794d672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialsdT0uErXHeBDsUwW8rFe0XImrZOiaA8oTWT24wsj0hsxmV2GWP67yMg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>竟然真的成功了，实在是有点惊艳了。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/81a5fe718acc4a551e90c94284dc01c543c1e4fd534bdccf84b0100830e18431/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c70337a3535796a5331786443647350417441427035544c736b515652786a61686561736766386d444e42654b787a346f4534417649672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/81a5fe718acc4a551e90c94284dc01c543c1e4fd534bdccf84b0100830e18431/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c70337a3535796a5331786443647350417441427035544c736b515652786a61686561736766386d444e42654b787a346f4534417649672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialp3z55yjS1xdCdsPAtABp5TLskQVRxjaheasgf8mDNBeKxz4oE4AvIg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0b7d14b4c51606eb6a77bfc40b845a6f0d43a41b1616e09c2dd4dcb4c803308d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c6f76443674757233736b57505268386a6962336168325a6c54523044686b785a454e6e7a6d455563624775533033716f305a316d4b74672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/0b7d14b4c51606eb6a77bfc40b845a6f0d43a41b1616e09c2dd4dcb4c803308d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c6f76443674757233736b57505268386a6962336168325a6c54523044686b785a454e6e7a6d455563624775533033716f305a316d4b74672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialovD6tur3skWPRh8jib3ah2ZlTR0DhkxZENnzmEUcbGuS03qo0Z1mKtg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c40daf71a51b296f19ef9e88f81ed45d32b3b4d446a3e4f1eaf382d5d822563f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c514552536e6147617851567a4a5858735241664c495273614236424b63453544315a786d35334b7a696364776472576e6b5458584d53412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/c40daf71a51b296f19ef9e88f81ed45d32b3b4d446a3e4f1eaf382d5d822563f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c514552536e6147617851567a4a5858735241664c495273614236424b63453544315a786d35334b7a696364776472576e6b5458584d53412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialQERSnaGaxQVzJXXsRAfLIRsaB6BKcE5D1Zxm53KzicdwdrWnkTXXMSA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>非常简单地就完成了网站的上线。</p>
+<p>前后花了半小时吧，主要是不熟悉界面，欢迎大家去白嫖我的api，一共就几美刀，一天后我就关了。</p>
+<p>总结来说：</p>
+<p>Cursor目前的composer功能其实也能做到，照着复制粘贴就行，而手机上其实Claude的app版本也能用artifact。</p>
+<p>**但Replit Agent方便就在Replit 是一个可以部署的平台，**<strong>它的优势在于便捷的开发和部署流程，尤其是对于初学者和不太熟悉编程工具的用户。</strong></p>
+<p>所以接下来是不是：</p>
+<p>cursor+claude+replit=初创公司？</p>
+<p>最后讲下我自己运营的一个星球今天上线了。</p>
+<p><strong>平时自己喜欢收集各种渠道的信息，想着找个地方汇集起来，加上现在AI的发展迅速，希望能帮到更多的人一起学习，我也会把自己以后捣鼓的项目放上去。</strong></p>
+<ol>
+<li>
+<p>80篇AI产品增长策略和案例（日更）</p>
+</li>
+<li>
+<p>AI精选开源项目（日更）</p>
+</li>
+<li>
+<p>AI资讯日报（日更）</p>
+</li>
+<li>
+<p>AI杀手级应用追踪</p>
+</li>
+<li>
+<p>70个AI变现案例合集</p>
+</li>
+<li>
+<p>其他付费的网盘资源</p>
+</li>
+</ol>
+<p><strong>内容如上，至于价格一年就两杯星巴克的钱。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3004e5fc21a73714fdd99a30721a11e82b9849759d4cb591e9fa0969f0057c0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c436f49717148456963513756735a4c386b4f5954684377616b653135476e6a584a73615147596e55677948303231446b756e46656c6a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d3004e5fc21a73714fdd99a30721a11e82b9849759d4cb591e9fa0969f0057c0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f574372446c3442556a48794834585569614554796c494a59306b75564c766769616c436f49717148456963513756735a4c386b4f5954684377616b653135476e6a584a73615147596e55677948303231446b756e46656c6a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/WCrDl4BUjHyH4XUiaETylIJY0kuVLvgialCoIqqHEicQ7VsZL8kOYThCwake15GnjXJsaQGYnUgyH021DkunFeljw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><em>全文无广告，</em></p>
+<p><em>完。</em></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

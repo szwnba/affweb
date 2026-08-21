@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="**前言**
+
+很多平台都**能写博客还有创作激励****，****为什么我又要搭一个**？**为什么这次要选择用Hexo框架**？
+
+对应的原因是**流量自由和省钱**，第一个，很多平台能写但不是都有收益，而且平台有自身的规则，比如会屏蔽一些推广类信息。">
+<meta property="og:title" content="Hexo最新实战：（一）零成本搭建个人独立网站">
+<meta property="og:description" content="**前言**
+
+很多平台都**能写博客还有创作激励****，****为什么我又要搭一个**？**为什么这次要选择用Hexo框架**？
+
+对应的原因是**流量自由和省钱**，第一个，很多平台能写但不是都有收益，而且平台有自身的规则，比如会屏蔽一些推广类信息。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Hexo-zui-xin-shi-zhan-%EF%BC%9A%EF%BC%88-yi-%EF%BC%89-ling-cheng-ben-da-jian-ge-ren-du-li-wang-zhan.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Hexo最新实战：（一）零成本搭建个人独立网站</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Hexo最新实战：（一）零成本搭建个人独立网站</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/654" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><strong>前言</strong></p>
+<p>很多平台都**能写博客还有创作激励****，**<strong>为什么我又要搭一个</strong>？<strong>为什么这次要选择用Hexo框架</strong>？</p>
+<p>对应的原因是<strong>流量自由和省钱</strong>，第一个，很多平台能写但不是都有收益，而且平台有自身的规则，比如会屏蔽一些推广类信息。如果我哪天做了一产品，是没办法直接用平台博客的方式硬推的，至少放码和链接不行。第二个用<strong>Hexo</strong>把博客搭到<strong>GitHub</strong>上，服务器之类的费用省了，毕竟对于产品，我现在也没有什么好的想法。</p>
+<p>总之，有个<strong>独立博客</strong>，相比<strong>平台博客</strong>在内容约束性上更自由。有想法了就发出来，做了游戏什么的就放出来，写的md文章以后如果要备份收藏，可以<strong>直接转PDF</strong>，更方便地在<strong>副业</strong>的道路上<strong>轻装探索</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7370c91ac64f3b08234a6f8107f586405916589764373d74d78c498e0f777cdb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a6865636c396e69634232737031544c7069626838684e676b4e456963497a68514533526d424c3254726369634a787a7a4a76616962673847706c512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7370c91ac64f3b08234a6f8107f586405916589764373d74d78c498e0f777cdb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a6865636c396e69634232737031544c7069626838684e676b4e456963497a68514533526d424c3254726369634a787a7a4a76616962673847706c512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZhecl9nicB2sp1TLpibh8hNgkNEicIzhQE3RmBL2TrcicJxzzJvaibg8GplQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Hexo介绍</p>
+<p>Hexo是一款基于Node.js的开源静态博客框架，用于快速、简单且高效地搭建个人或团队的静态博客网站。说白了他是一个静态网站生成器，我们新增文章只需要添加并编辑md文件，通过运行命令最后生成像html的静态文件。</p>
+<p>其实我挺早听过Hexo，但一直没用，直到我 <a href="http://mp.weixin.qq.com/s?__biz=MzI4NzE1MDgxOQ==&amp;mid=2651505558&amp;idx=1&amp;sn=5e08b2f6e9964dda674fa8eb87adb34e&amp;chksm=f02c641ac75bed0cdf5483e706f754d6ad1f4a1bfe4c7e8c6a68e21bc92776b8ccc2cb278e28&amp;scene=21#wechat_redirect" rel="nofollow"><strong>CMS搭的博客被别人挂马</strong></a> 。索性我就关闭了网站并<strong>全面使用平台博客</strong>。但又经种种原因，最近又萌生了建独立博客的想法，并且打算要长期做下去，那么第一步就先记录<strong>Hexo的搭建过程</strong>吧，仅供参考。</p>
+<p>流程</p>
+<ul>
+<li>
+<p>本地构建Hexo</p>
+</li>
+<li>
+<p>配置 GitHub</p>
+</li>
+<li>
+<p>代码上传与备份</p>
+</li>
+<li>
+<p>个性化域名绑定</p>
+</li>
+</ul>
+<p><strong>环境搭建</strong></p>
+<hr>
+<p>环境比较简单，提前装好Node和Git，关于这两工具的安装这里就跳过了。但是要强调一下，运行Hexo命令最好在Git的GUI窗口里，不要用Windows的cmd，坑多，个人亲测。</p>
+<p>构建Hexo</p>
+<ul>
+<li>
+<h3>安装Hexo</h3>
+</li>
+</ul>
+<div class="highlight highlight-source-nginx"><pre class="notranslate">npm install -g hexo</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/74f505ffe59c08b2f3f36153a828a81cdbeaa7fc2d2cf24e42493b5814cafd89/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a3250516c7042473573446870326b6851634c76664a4565506f5a6e466845765a69616f537a5153677567714b59776c596f5854657751412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/74f505ffe59c08b2f3f36153a828a81cdbeaa7fc2d2cf24e42493b5814cafd89/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a3250516c7042473573446870326b6851634c76664a4565506f5a6e466845765a69616f537a5153677567714b59776c596f5854657751412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZ2PQlpBG5sDhp2khQcLvfJEePoZnFhEvZiaoSzQSgugqKYwlYoXTewQA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h3>检验Hexo是否安装</h3>
+</li>
+</ul>
+<div class="highlight highlight-source-nginx"><pre class="notranslate">hexo -v</pre></div>
+<ul>
+<li>
+<h3>项目构建</h3>
+</li>
+</ul>
+<div class="highlight highlight-source-ini"><pre class="notranslate"><span class="pl-c"><span class="pl-c">#</span> 创建一blog项目</span>
+hexo init blog
+
+<span class="pl-c"><span class="pl-c">#</span> 进入项目</span>
+cd blog
+
+<span class="pl-c"><span class="pl-c">#</span> 安装依赖包</span>
+npm install</pre></div>
+<ul>
+<li>
+<h3>其他操作</h3>
+</li>
+</ul>
+<div class="highlight highlight-source-ini"><pre class="notranslate">npm install hexo-deployer-git --save
+
+hexo _config.yml中文乱码问题
+用Notepad++等工具打开，选 “编码” -&gt; “转为UTF-8编码”</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3812c62a55e9d2246fc9b7735788168f926a9a7762639939291cc8e7cbe99d58/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a4e716d554a6a696359637651674a6e5a336352696139554762754d4e78706158784a676a47374632657535394a4e364f6d6d47764d4144412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3812c62a55e9d2246fc9b7735788168f926a9a7762639939291cc8e7cbe99d58/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a4e716d554a6a696359637651674a6e5a336352696139554762754d4e78706158784a676a47374632657535394a4e364f6d6d47764d4144412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZNqmUJjicYcvQgJnZ3cRia9UGbuMNxpaXxJgjG7F2eu59JN6OmmGvMADA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h3>项目预览</h3>
+</li>
+</ul>
+<div class="highlight highlight-source-ini"><pre class="notranslate">hexo clean
+
+
+hexo g
+
+
+hexo s</pre></div>
+<h3><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/82f8ae32f83285547633228ab3731ddabbb1ffa580fde5070e5a717793a9a277/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a75614169624e3369617048366269613650567669637466696374505558473276526c757673733557557571584f4c546e646d4c346c68664c7149412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/82f8ae32f83285547633228ab3731ddabbb1ffa580fde5070e5a717793a9a277/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a75614169624e3369617048366269613650567669637466696374505558473276526c757673733557557571584f4c546e646d4c346c68664c7149412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZuaAibN3iapH6bia6PVvictfictPUXG2vRluvss5WUuqXOLTndmL4lhfLqIA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/53837e980ad6bc17ec5d637c39b5929acf42cecd293ce4b7b36d9bf262e875b3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a656963384349466244323342706f4863477169624d7a4c77744874565662345846473634477a4f56315355374e43744b67796a71626156412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/53837e980ad6bc17ec5d637c39b5929acf42cecd293ce4b7b36d9bf262e875b3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a656963384349466244323342706f4863477169624d7a4c77744874565662345846473634477a4f56315355374e43744b67796a71626156412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZeic8CIFbD23BpoHcGqibMzLwtHtVVb4XFG64GzOV1SU7NCtKgyjqbaVA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<h2><strong>配置 GitHub</strong></h2>
+<p>这里虽然只是写的配置GitHub，其实包含了本地用Git生成SSH密钥对，和GitHub上公钥添加，提交Token的获取，以及Pages服务的开启。还有仓库名的建立也有讲究，下面就从这些点开始逐一展开。</p>
+<ul>
+<li>
+<h3><strong>建立仓库</strong></h3>
+</li>
+</ul>
+<p>仓库名是个什么讲究法呢？就是格式要保持 “github账号名.github.io”, 比如我的账户名是“z11r00”，那么仓库就要建成 “z11r00.github.io”。如果不这样，最后等用Hexo部署完毕后，初始的域名可能就是 “github账号名.github.io/仓库名”，会在后面多了一个路径，而且hexo的config没有设置好连css都加载不出来。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/475acf17ab6c759db3ba59e3961febf48a97be6a77965f4e611796e82262f015/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a564d69636e34506f58395467363451545158464562394141346a4938585a4954745a3065794862756c346836714f7746514859447835672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/475acf17ab6c759db3ba59e3961febf48a97be6a77965f4e611796e82262f015/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a564d69636e34506f58395467363451545158464562394141346a4938585a4954745a3065794862756c346836714f7746514859447835672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZVMicn4PoX9Tg64QTQXFEb9AA4jI8XZITtZ0eyHbul4h6qOwFQHYDx5g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h3>设置SSH</h3>
+</li>
+</ul>
+<p>GitHub 的 SSH（Secure Shell）主要用于安全地连接到 GitHub 服务器，其实就是平时Git常用的克隆、拉取、提交、推送等操作。而好处除了安全外，就是提交代码不用每次都要输入账号密码。如果安装了hexo-deployer-git的话，只需一个命令就可以完成项目从静态构建到自动部署。</p>
+<ul>
+<li>
+<h4>生成SSH密钥对</h4>
+</li>
+</ul>
+<p>打开Git面板，输入 “ssh-keygen -t rsa -C GitHub账户”, 这里的GitHUb账户是你登陆GitHub的邮箱等方式。生成后找到目录下的id_rsa.pub（公钥），用编辑器打开并复制。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19e36240035479f2f96e464becc7a7288d7acc3a8b4de61874fe76a4c5d255f3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a3955587845443062653133344f305862794a4d4f775849584a69634d46514b505142496f5646526d66795451686c3952586d4d325635672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/19e36240035479f2f96e464becc7a7288d7acc3a8b4de61874fe76a4c5d255f3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a3955587845443062653133344f305862794a4d4f775849584a69634d46514b505142496f5646526d66795451686c3952586d4d325635672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZ9UXxED0be134O0XbyJMOwXIXJicMFQKPQBIoVFRmfyTQhl9RXmM2V5g/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h4>GitHub中添加SSH公钥</h4>
+</li>
+</ul>
+<p>登陆GitHub网站，点击个人头像，找到 “Settings”-&gt;"SSH and GPG keys"后，点击 “New SSH keys”，最后将前面复制的很长的公钥字符串粘贴到Key文本框中。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dff35882fc95735c001924aa37ad58dbbdf1b8a88bfb59baeb638a3a9c02d824/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a7268474f4f714d53533053763441656335525133506b5830725a45517433434a575a78396c544b656963567772416e6c6963696163723466672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/dff35882fc95735c001924aa37ad58dbbdf1b8a88bfb59baeb638a3a9c02d824/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a7268474f4f714d53533053763441656335525133506b5830725a45517433434a575a78396c544b656963567772416e6c6963696163723466672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZrhGOOqMSS0Sv4Aec5RQ3PkX0rZEQt3CJWZx9lTKeicVwrAnliciacr4fg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/89e3722c2da07368995f5d65c99fc65258bf767b5ccac3d99ce58f9a389a6d7f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a69624d46515442384e4871366961585747566e5873766259624a6b7377656d6962696330674b6d4a447a625456786a69637a7872384e77307145412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/89e3722c2da07368995f5d65c99fc65258bf767b5ccac3d99ce58f9a389a6d7f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a69624d46515442384e4871366961585747566e5873766259624a6b7377656d6962696330674b6d4a447a625456786a69637a7872384e77307145412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZibMFQTB8NHq6iaXWGVnXsvbYbJkswemibic0gKmJDzbTVxjiczxr8Nw0qEA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3c723e6fb7a801f8814344a22ee3679415aadfee7d99569f7657be31721a9fc5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a777156426f48784c79743542504b6b755a6546334a52786c513578495577314c7937634d6459596f76587959753447426542644e32412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3c723e6fb7a801f8814344a22ee3679415aadfee7d99569f7657be31721a9fc5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a777156426f48784c79743542504b6b755a6546334a52786c513578495577314c7937634d6459596f76587959753447426542644e32412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZwqVBoHxLyt5BPKkuZeF3JRxlQ5xIUw1Ly7cMdYYovXyYu4GBeBdN2A/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h4>验证设备是否可连接</h4>
+</li>
+</ul>
+<p>通过 “ssh -T <a href="mailto:git@github.com">git@github.com</a>” 命令，验证当前的设备是否可以连接。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fbf47762b186650f6ac44d6152256dad3bfff7e3430457c64e90fdef38955f04/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a536e34594a354f39714341544c63614a334c6769626d4d43545969626f537646616e5675436277677539566852584b70686f696242684449672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fbf47762b186650f6ac44d6152256dad3bfff7e3430457c64e90fdef38955f04/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a536e34594a354f39714341544c63614a334c6769626d4d43545969626f537646616e5675436277677539566852584b70686f696242684449672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZSn4YJ5O9qCATLcaJ3LgibmMCTYiboSvFanVuCbwgu9VhRXKphoibBhDIg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h4>获取提交的token</h4>
+</li>
+</ul>
+<p>虽然说SSH连接不用一直登陆，但是初次还要要的。而且不光要输入账号密码还需要一个提交用的Token,没有这个，运行hexo d一直提示Logon failed, 这个后面会集中列出报错事故的。</p>
+<p>获取token，还是进入“Settins”，找到 “Developer settings”-&gt;“Personal access tokens”-&gt;“Tokens(classic)”, 然后设置备注和过期时间。最主要的权限要勾选 “workflow”、“gist”、“user”，点击 “Generate”按钮，生成的"ghp_"为前缀的就是token了，复制并保存下来。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0199e216f60cc0de6adb2475b1dbf9119b9020ec0e114662a6d91187e4f4e155/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a41324c79323345664243527756784a5a535851424e425567357749724c61337a326962444f6c4141687469636241487030667170653163512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0199e216f60cc0de6adb2475b1dbf9119b9020ec0e114662a6d91187e4f4e155/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a41324c79323345664243527756784a5a535851424e425567357749724c61337a326962444f6c4141687469636241487030667170653163512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZA2Ly23EfBCRwVxJZSXQBNBUg5wIrLa3z2ibDOlAAhticbAHp0fqpe1cQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c314e268ef4f4dee11c4478d92176a5f66622869cc10bce295af6bfab94c45d1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a6f536448336d52544c57576c333066696170487473713436555a6a7044506458334831357762723959455670696157613252624e587a55412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c314e268ef4f4dee11c4478d92176a5f66622869cc10bce295af6bfab94c45d1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a6f536448336d52544c57576c333066696170487473713436555a6a7044506458334831357762723959455670696157613252624e587a55412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZoSdH3mRTLWWl30fiapHtsq46UZjpDPdX3H15wbr9YEVpiaWa2RbNXzUA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/041c17d99e1f069ee861215d74247e1ca058c64ebb3e13e4aa00a6c171a9f44a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a616d71454c313459304c547454336546387431474e354d76474e783969616a74686f4c54684869615378696165354b537234704469634c7433412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/041c17d99e1f069ee861215d74247e1ca058c64ebb3e13e4aa00a6c171a9f44a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a616d71454c313459304c547454336546387431474e354d76474e783969616a74686f4c54684869615378696165354b537234704469634c7433412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZamqEL14Y0LTtT3eF8t1GN5MvGNx9iajthoLThHiaSxiae5KSr4pDicLt3A/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fa76c4aa597e4f23cec51385a53a36f6d15cceef28992c7f79dc670d101f0763/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a386e586b5a3335514d6c524d6b547a4d696273726637734b48534b69614f696359533679797558434f6c6d4a4457644e336f31696271306834412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fa76c4aa597e4f23cec51385a53a36f6d15cceef28992c7f79dc670d101f0763/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a386e586b5a3335514d6c524d6b547a4d696273726637734b48534b69614f696359533679797558434f6c6d4a4457644e336f31696271306834412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZ8nXkZ35QMlRMkTzMibsrf7sKHSKiaOicYS6yyuXCOlmJDWdN3o1ibq0h4A/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2><strong>项目部署</strong></h2>
+<p>项目部署的其实是将Hexo生成的静态文件提交到github上，后期添加文章也就是markdown文件，继续重新生成，重新部署。而项目的代码却在本地，虽然代码量不多，但是里面的package.json和_config.yml，以及用到的主题包，还是有必要保存一下。所以我这里的方法是，静态部署项目放在一个公有仓库，而项目源代码单独提交到一私有仓库下。</p>
+<ul>
+<li>
+<h3>修改配置</h3>
+</li>
+</ul>
+<p>打开项目根目录下的_config.yml，主要添加仓库的地址，其他的配置下篇再介绍。因为hexo很多玩法更多的是配置和各种依赖，比如可以添加统计、留言、修改主题、站内搜索、甚至广告位等等。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f74c872d684941b3fd7e5d4f29b7840dc51a6af0b008f6517a3a0e12890d4e6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a324d504d484e3852474652627270464870764f4a4d3374796e4c5a524f564b4c4877667957356e357a61727350584e6a6644357967512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9f74c872d684941b3fd7e5d4f29b7840dc51a6af0b008f6517a3a0e12890d4e6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a324d504d484e3852474652627270464870764f4a4d3374796e4c5a524f564b4c4877667957356e357a61727350584e6a6644357967512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZ2MPMHN8RGFRbrpFHpvOJM3tynLZROVKLHwfyW5n5zarsPXNjfD5ygQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h3>静态文件生成</h3>
+</li>
+</ul>
+<p>通过 “hexo clean” 先清理，然后执行 “hexo g” 重新生成。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e4713dddbf33471b5ab3493c19303d17babf2449384650bca4e20fa266bfe287/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a75504c543039337664567869617071493168395350726a6a496e5773626b536b5369614c44416666546667614c4c343277717353545346672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e4713dddbf33471b5ab3493c19303d17babf2449384650bca4e20fa266bfe287/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a75504c543039337664567869617071493168395350726a6a496e5773626b536b5369614c44416666546667614c4c343277717353545346672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZuPLT093vdVxiapqI1h9SPrjjInWsbkSkSiaLDAffTfgaLL42wqsSTSFg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h3>开始部署</h3>
+</li>
+</ul>
+<p>通过命令 “hexo d”，开始部署项目，如果第一次运行，就需要前面提到的输入github账号密码。确认Login后会再次弹一个窗口就是输入Token了，最后完成部署。这里需要注意一下的是，最好用Git面板运行命令，如果是cmd很有可能第二次的窗无法弹出，亲测坑点。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40036157b330537239fcfe33092e596c26f68d2751f240e98c29d24dba3186bd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a4a69636c635371574d6157534144507750546d6738335a37534442783233636963696261723969626963666c507169617269613635686c395a476748772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/40036157b330537239fcfe33092e596c26f68d2751f240e98c29d24dba3186bd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a4a69636c635371574d6157534144507750546d6738335a37534442783233636963696261723969626963666c507169617269613635686c395a476748772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZJiclcSqWMaWSADPwPTmg83Z7SDBx23cicibar9ibicflPqiaria65hl9ZGgHw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/edd719529867d642b96ae179045c397e86202b19a0f544baa17f253da0dc8d32/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a624c3273546439587246414f5073345335613155657274766963673257713270324842696364486267667334393954336f6c424e6961416d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/edd719529867d642b96ae179045c397e86202b19a0f544baa17f253da0dc8d32/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a624c3273546439587246414f5073345335613155657274766963673257713270324842696364486267667334393954336f6c424e6961416d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZbL2sTd9XrFAOPs4S5a1Uertvicg2Wq2p2HBicdHbgfs499T3olBNiaAmA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h3>访问测试</h3>
+</li>
+</ul>
+<p>部署完成就进入仓库下，除了查看提交的代码外，打开仓库下的 “Settings”，找到 “Pages”。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6efec0b5c7189a4273666a9c6e00028d3d7fbafe461a082224727acb040e6afa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a50364d7a4e51313249696357787962547433566237345741634a52537470574641576876475350515056586a6b69635566646d4c6f4557772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6efec0b5c7189a4273666a9c6e00028d3d7fbafe461a082224727acb040e6afa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a50364d7a4e51313249696357787962547433566237345741634a52537470574641576876475350515056586a6b69635566646d4c6f4557772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZP6MzNQ12IicWxybTt3Vb74WAcJRStpWFAWhvGSPQPVXjkicUfdmLoEWw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2><strong>个性化域名绑定</strong></h2>
+<p>有一个git域名其实也不错，为什么还要买一个去绑定呢？一个是我本身这域名就空在这里，第二个是可以给博客增加一点IP点，第三个是更利于某度的爬取。我看其他博主说国内一些搜索引擎屏蔽了github的pages博客，当然我没有验证过，下次也要做SEO相关的时候可以测试一下。</p>
+<ul>
+<li>
+<h3>获取IP地址</h3>
+</li>
+</ul>
+<p>要想知道当前项目部署的独立IP地址，只需要ping一下github分配的域名，比如我直接 “ping z11r00.github.io”就可以看到了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0f5c773633c275442976c0bf108801b5b897ffa0aa9981a4b346cd7af9e983bb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a35664e365a4e34454e54624957515372436961756e6f386456635541705948495561686731656f5a516b6f304459666961307152446e6c772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0f5c773633c275442976c0bf108801b5b897ffa0aa9981a4b346cd7af9e983bb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a35664e365a4e34454e54624957515372436961756e6f386456635541705948495561686731656f5a516b6f304459666961307152446e6c772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZ5fN6ZN4ENTbIWQSrCiauno8dVcUApYHIUahg1eoZQko0DYfia0qRDnlw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h3>域名解析</h3>
+</li>
+</ul>
+<p>进入购买的域名控制台，给自己的域名添加两个解析，一个指向旧域名，一个解析到前面获取到的IP地址。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d33b94eb2076c11f776cede166e46a745741cef80888e6426f8c5d54572b4e1c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a624262636331696374334f3269616e73554852597770735467326f517a6f64525a6e4b566d5936616873526b3265746264356e64303034512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d33b94eb2076c11f776cede166e46a745741cef80888e6426f8c5d54572b4e1c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a624262636331696374334f3269616e73554852597770735467326f517a6f64525a6e4b566d5936616873526b3265746264356e64303034512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZbBbcc1ict3O2iansUHRYwpsTg2oQzodRZnKVmY6ahsRk2etbd5nd004Q/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h3><strong>项目绑定域名</strong></h3>
+</li>
+</ul>
+<p>进入仓库的“Settings”下，点击 “Pages”，找到 “Custom domain”，将自己的域名粘贴进文本框保存。然后在项目的“source” 新建CNAME（没有后缀）, 打开文件粘贴域名，比如我的zerofc.cn，最后再重新部署项目访问。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5435c3d20f86a074a0f0f2a348f57169353e765d9dba5d33bc4afc669c02e9da/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a4676504d4648516350324a4761556b544a63574753666b52385853504e4a493048537a59486a55644b50736362447364524853617a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5435c3d20f86a074a0f0f2a348f57169353e765d9dba5d33bc4afc669c02e9da/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46384d397139437645663976306d6f6a46425669614b5a4676504d4648516350324a4761556b544a63574753666b52385853504e4a493048537a59486a55644b50736362447364524853617a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LF8M9q9CvEf9v0mojFBViaKZFvPMFHQcP2JGaUkTJcWGSfkR8XSPNJI0HSzYHjUdKPscbDsdRHSazA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2><strong>报错汇总</strong></h2>
+<ul>
+<li>extends includes/layout.pug block content include ./includes/mixins/post-ui.pug #recent-posts.recent-posts +postUI include includes/pagination.pug</li>
+</ul>
+<p>项目启动后报的这个，是因为缺失了一些依赖包，上面的是没有 pug 以及 stylus 的渲染器，解决方法就是安装对应的依赖。</p>
+<div class="highlight highlight-source-sql"><pre class="notranslate">npm install hexo<span class="pl-k">-</span>renderer<span class="pl-k">-</span>pug hexo<span class="pl-k">-</span>renderer<span class="pl-k">-</span>stylus </pre></div>
+<ul>
+<li>运行后打开hexo博客上的中文乱码</li>
+</ul>
+<p>解决方法是用Notepad++等编辑器打开，选择 “编码” -&gt; “转为UTF-8编码”。</p>
+<ul>
+<li>unable to access '<a href="https://githuxxxxxxxx.git/" rel="nofollow">https://githuxxxxxxxx.git/</a>': Empty reply from server</li>
+</ul>
+<p>出现这个报错的是项目初次部署时，原因就是没有设置Token，解决方法就是前面“配置 GitHub”的“提交Token获取”部分。</p>
+<ul>
+<li>unable to access '<a href="https://githuxxxx.git/" rel="nofollow">https://githuxxxx.git/</a>': The requested URL returned error: 403</li>
+</ul>
+<p>出现这个一般就是间接性打开GitHub网站，毕竟是国外网站，多刷新几下，多请求几下就可以了。</p>
+<h2><strong>写在后面</strong></h2>
+<p>既然博客已经搭起来了，后面再分两步走，凑成<strong>三部曲</strong>。第一个是<strong>Hexo的各种配置和插件的玩法</strong>，第二个是<strong>Hexo博客SEO相关内容</strong>，如果我那个<strong>小游戏软著</strong>下来了，可能博客的更新事情就会往后延一点了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/oneRjXnW5LGicNoMAdG2dAwnjwNTribzbVXOFf3GaN3UOJoIAiaNH2dG80QKUsgiaLYaGb03UHSZMBJeOWI6wH5OIA/640?wx_fmt=gif" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

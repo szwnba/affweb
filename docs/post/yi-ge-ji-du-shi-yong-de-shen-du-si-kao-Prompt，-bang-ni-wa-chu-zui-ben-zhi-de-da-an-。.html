@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="前几天，我在推特上刷到了一条很有意思的分享。">
+<meta property="og:title" content="一个极度实用的深度思考Prompt，帮你挖出最本质的答案。">
+<meta property="og:description" content="前几天，我在推特上刷到了一条很有意思的分享。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yi-ge-ji-du-shi-yong-de-shen-du-si-kao-Prompt%EF%BC%8C-bang-ni-wa-chu-zui-ben-zhi-de-da-an-%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>一个极度实用的深度思考Prompt，帮你挖出最本质的答案。</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">一个极度实用的深度思考Prompt，帮你挖出最本质的答案。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/736" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>前几天，我在推特上刷到了一条很有意思的分享。</p>
+<p>原文找不到了，只剩下了这张图。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8fbc57a54f516b3f2f46f5524466cc9a47e0e1cc30eb9eb5e041331b1b6ccaa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71584766665a6e4d53564471704b63496d4f696235653374526b6179515150556d5956526962593830456a764f5656376a4f6547426a5a36596f4278496963434f447777666e64564c364c6d516a39504b4f4868626569636b6f6d7654334673696346686d48412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/b8fbc57a54f516b3f2f46f5524466cc9a47e0e1cc30eb9eb5e041331b1b6ccaa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71584766665a6e4d53564471704b63496d4f696235653374526b6179515150556d5956526962593830456a764f5656376a4f6547426a5a36596f4278496963434f447777666e64564c364c6d516a39504b4f4868626569636b6f6d7654334673696346686d48412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqXGffZnMSVDqpKcImOib5e3tRkayQQPUmYVRibY80EjvOVV7jOeGBjZ6YoBxIicCODwwfndVL6LmQj9PKOHhbeickomvT3FsicFhmHA/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>大概意思就是，先不要让大模型直接回答，先进行一些深度思考，再给你回答。</p>
+<p>我顺手也试了一下，效果确实还不错。</p>
+<p>里面我觉得最有用的那句可能就是：</p>
+<p>“让最终答案真正对我有用，而不是给出一份谁都能套用的通用建议。”</p>
+<p>但是坦诚的讲，毕竟Prompt这玩意已经快3年半了，都比一坤年还多了一整年，这个Prompt在日常用的时候，确实还可以，但是我觉得还没有到能形成一个很棒的方法论的程度。</p>
+<p>于是我又去顺手找了一下上面帖子里面说的Reddit的原文，用AI搜索，很容易就找到了。</p>
+<p>结果发现，这篇原帖已经是五个月前发的了。</p>
+<p>原帖的标题大概是：“这是我找到的，能让Claude真正开始思考的最好用的方法。”</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d014876a40cc23ea80e4ab87660560cfbfa45fb7058b3fa5d00232adb027d0a8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715832736f31785a67303631654f6737314a6359395147494756566a6c52754130495a5a6b39666b37675974444d6a656a6d303856724141373567325345357a35514367714738524f72766670375875504a63506f5536424753574f4e70316b62632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/d014876a40cc23ea80e4ab87660560cfbfa45fb7058b3fa5d00232adb027d0a8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715832736f31785a67303631654f6737314a6359395147494756566a6c52754130495a5a6b39666b37675974444d6a656a6d303856724141373567325345357a35514367714738524f72766670375875504a63506f5536424753574f4e70316b62632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqX2so1xZg061eOg71JcY9QGIGVVjlRuA0IZZk9fk7gYtDMjejm08VrAA75g2SE5z5QCgqG8ROrvfp7XuPJcPoU6BGSWONp1kbc/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>而这个原文的开头，其实英语原句是：</p>
+<p>Stop asking it for answers. Ask it to steelman your problem first.</p>
+<p>我英语虽然很不好，但是最近几年因为看了太多AI的内容了，所以大多数英文单词还是认识的，但是这个steelman确实给我整懵了。</p>
+<p>直到往下翻评论区。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3b22900ea09fd61ec843766ee8ed9b3b3bcdc66586f58f5d683826e93e58d7d8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71563044544e313565556e7549654a6e33576c6d796e344c7556615266696259434e616453304b47366a45626d4c43654b3575774a57313577514f594c414743483278575579334538446c4d6a326b33483377787134447743653935587a6962655233412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/3b22900ea09fd61ec843766ee8ed9b3b3bcdc66586f58f5d683826e93e58d7d8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71563044544e313565556e7549654a6e33576c6d796e344c7556615266696259434e616453304b47366a45626d4c43654b3575774a57313577514f594c414743483278575579334538446c4d6a326b33483377787134447743653935587a6962655233412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqV0DTN15eUnuIeJn3Wlmyn4LuVaRfibYCNadS0KG6jEbmLCeK5uwJW15wQOYLAGCH2xWUy3E8DlMj2k3H3wxq4DwCe95XzibeR3A/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/814e5876712b0b1c70bd495d73b5d6bd1c35f777ad479505d456f7c25ce0b839/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156316d5434675776623269636f69626e4c5a4f6f6961496d513538383976467157765a46654e35387771707646684c72716f4b6b4f794357494657466e71636456627651366a4f4a7a773143394573394b764167323167524470593337487756776175382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/814e5876712b0b1c70bd495d73b5d6bd1c35f777ad479505d456f7c25ce0b839/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156316d5434675776623269636f69626e4c5a4f6f6961496d513538383976467157765a46654e35387771707646684c72716f4b6b4f794357494657466e71636456627651366a4f4a7a773143394573394b764167323167524470593337487756776175382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqV1mT4gWvb2icoibnLZOoiaImQ5889vFqWvZFeN58wqpvFhLrqoKkOyCWIFWFnqcdVbvQ6jOJzw1C9Es9KvAg21gRDpY37HwVwau8/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5fae59608cd1fba2973ddaeb3b665f3dcef19062311ba60f43990ca325205e09/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71574667463554706d6c653246313439434a6d454531416d3375645454776d6138567969636e4273696276516842796468505275374a4979674e7670454444615939656c4d566961665969636432344a736c575973753445633569636d747a3548596962696369626b382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/5fae59608cd1fba2973ddaeb3b665f3dcef19062311ba60f43990ca325205e09/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71574667463554706d6c653246313439434a6d454531416d3375645454776d6138567969636e4273696276516842796468505275374a4979674e7670454444615939656c4d566961665969636432344a736c575973753445633569636d747a3548596962696369626b382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqWFgF5Tpmle2F149CJmEE1Am3udTTwma8VyicnBsibvQhBydhPRu7JIygNvpEDDaY9elMViafYicd24JslWYsu4Ec5icmtz5HYibicibk8/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>不是，steelman这玩意被翻译成钢人法或者钢人论证？这是个啥？为啥都在下面说上面这个Prompt不是那么钢人论证？</p>
+<p>于是我立马去调研学习了一下，这才弄懂。</p>
+<p>但弄懂了之后，我想说，这玩意，确实是值得所有人跟AI对话时都值得使用的Prompt宝藏。</p>
+<p>steelman这个所谓的钢人论证，其实是从<strong>straw man</strong>这个词里硬生生造出来的。</p>
+<p>straw man是一个逻辑学里非常经典的观点，也是一个很有意思的辩论技巧，叫稻草人谬误。</p>
+<p>大概意思就是，两个人争论时，其中一个人故意把对方的观点说得特别蠢、特别极端、特别容易攻击，然后对着这个被篡改过的弱版本一顿输出。</p>
+<p>比如你说：“我觉得这台XX手机有点贵。”</p>
+<p>对方说：“哦，懂了，你看不起国产手机。”</p>
+<p>我相信大家日常生活里经常遇到到这样的人，这就是strawman，稻草人谬误，你真正的观点被削弱、扭曲了。</p>
+<p>后来英语里就出现了一个特别形象的反向说法：</p>
+<p><strong>steelman。</strong></p>
+<p>straw是稻草，软弱、一碰就倒。</p>
+<p>steel是钢铁，坚固、强壮、难以击败。</p>
+<p>于是，钢人论证法出现了，也就是steelman，它完全是稻草人谬误的反面，它要求你先替对方把论点补完整，把其中最合理、最难反驳的部分全部找出来，甚至说得比对方本人还好，然后再开始判断。</p>
+<p>这个东西的内核其实在历史上出现过很多次了。</p>
+<p>比如现代自由主义思想史上的殿堂级著作《论自由》第二章，就提过一句话：</p>
+<p>“He who knows only his own side of the case knows little of that.”</p>
+<p>翻译过来就是：</p>
+<p>“一个人如果只知道自己这一边的论点，那他对自己这一边其实也知之甚少。”</p>
+<p>所以，底下很多人对原帖的Prompt的批判我觉得是有道理的，因为确实没有把钢人论证表达的更加深入一些。</p>
+<p>真正的钢人论证，它会逼着AI暂时放下你的立场，把你最容易忽略、最不愿意面对的那一边，让你直面面对。</p>
+<p>因为所有人都知道，直到如今，AI最大的问题依然是谄媚，会不断的顺着你的观点说，即使强如Fable 5和GPT 5.6 Sol，依然如此。</p>
+<p>所以，我觉得，钢人论证法这个内核，实在对我们大家来说，太有用了，因为真的能最大程度避免模型的谄媚。</p>
+<p>于是，我自己花了一点时间，写了一个双向钢人Prompt：</p>
+<div class="highlight highlight-source-css"><pre class="notranslate">先别急着回答，也别默认我已经把问题想清楚。
+请先对这个问题做一次详细思考的“双向钢人论证”：
+1.用最完整、最有力的方式，重述我真正想解决的问题。
+2.使用钢人论证法分别给出支持我当前想法、以及反对它的最强论证。
+3.找出双方真正的分歧，以及最可能改变结论的关键变量。
+4.只问我一个最关键的问题。
+等我回答后，再给出明确判断、理由和下一步行动。
+
+我的问题是：
+[粘贴你的问题]</pre></div>
+<p>就这么长。</p>
+<p>但是我觉得足够了，在使用体验上也非常的舒适。</p>
+<p>之所以叫双向钢人化，本质上不是为了让AI充当什么钢人跟你辩论，而是有一个我自己的小巧思在。</p>
+<p><strong>AI = 执行钢人论证这个动作的人。</strong></p>
+<p><strong>你的观点 = 第一个被钢人论证强化的对象。</strong></p>
+<p><strong>反对你的观点 = 第二个被钢人论证强化的对象。</strong></p>
+<p>所以，最后AI手里会得到两个钢人强化后的最强版本。</p>
+<p>这样，我觉得能最大程度的，帮我们找到这个问题最本质的答案。</p>
+<p>整个Prompt一共做四件事。</p>
+<p>第一件事，是重写你的问题。</p>
+<p>因为这几年我其实发现一个现象，就是人这个物种啊，经常会把“自己嘴上问的”和“自己真正想解决的”混在一起。</p>
+<p>就比如有人问要不要辞职，他其实真正担心的可能是再干三年，自己还会不会有竞争力等等，诸如此类。</p>
+<p>所以当AI先把真实问题重述一遍，那样很多原本乱七八糟的东西，就已经清楚了大半了。</p>
+<p>第二件事，是给强化正反双方。</p>
+<p>就如同我上面所说，双向钢人论证会要求它把正反两边都推到最强。</p>
+<p>那么我们就能知道，支持这件事的人，能拿出的最好证据是什么？</p>
+<p>而反对这件事的人，最难回答的质疑又是什么？</p>
+<p>当两边都不能靠歪曲对方取胜，真正的冲突才会开始显露出来。</p>
+<p>第三件事，找出那个决定结论的变量。</p>
+<p>很多复杂问题看起来有十几个因素，最后真正能改变答案的，可能只有一两个。</p>
+<p>就比如我们工作的时候，预算是十万还是一百万，答案是一定会变的。</p>
+<p>就比如你在公司经营中，究竟想要短期收入还是长期品牌，那答案就更不一样了。</p>
+<p>所以，我希望这个Prompt在双向钢人论证之后，帮大家找到这个最核心的分歧和变量。</p>
+<p>第四件事，逼AI给出明确判断和行动。</p>
+<p>AI经常在最终的结论上会不粘锅，给出一堆模棱两可没啥屁用的结论。</p>
+<p>所以，最后，我要求它必须跟你提一个最关键的问题，然后，要求它必须给出判断、理由和下一步行动。</p>
+<p>我用我昨天真实的问题举个例子。</p>
+<p>就是我们昨天周一，下午公司几个核心的成员一起开周会，因为我们马上又要搬新办公室了，老的地方现在人完全坐不下了，所以在规划新办公室的装修的时候，大家突然想起一个事，我们公司，好像还没有所谓的司庆日。。。</p>
+<p>因为我是一个在日常生活中，几乎完全不咋在乎仪式感的人。</p>
+<p>然后我们公司我觉得又稍微有点特殊，有三个时间点，到底选哪个当司庆，我就脑壳疼了。</p>
+<p>于是，我就把这个问题，通过双向钢人论证这个Prompt，扔给的ChatGPT。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/99c2d089677dc3d8b1aa6d7eadb10002f2fdb4b331c33d077c863f1cafcd0f74/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71555530486d6a3642417372395269626c664e454274414f6431564d6f737a75626d42746c6741416d437a46683269624b35436f30545569616e7156454a747a516f5a3548344a3367734d6732696273726857614367717a7937637176686c6a70587274526b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/99c2d089677dc3d8b1aa6d7eadb10002f2fdb4b331c33d077c863f1cafcd0f74/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71555530486d6a3642417372395269626c664e454274414f6431564d6f737a75626d42746c6741416d437a46683269624b35436f30545569616e7156454a747a516f5a3548344a3367734d6732696273726857614367717a7937637176686c6a70587274526b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqUU0Hmj6BAsr9RiblfNEBtAOd1VMoszubmBtlgAAmCzFh2ibK5Co0TUianqVEJtzQoZ5H4J3gsMg2ibsrhWaCgqzy7cqvhljpXrtRk/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>它把我真正的问题，拆成了5个，我个人觉得，非常准确。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab0289a5e8bae56ade477b8fc80f77b4f15cb5bd15d211fb782e9192543be0a3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7157734e4b4a6962476e696174464333556452484570565a41536676514d4a4c43337576486269623642306e6c3278666343713033466c48456f547362724730723049336c716d4e7630636c43394d70524d7561544a777671734769625772726b6d396376552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/ab0289a5e8bae56ade477b8fc80f77b4f15cb5bd15d211fb782e9192543be0a3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7157734e4b4a6962476e696174464333556452484570565a41536676514d4a4c43337576486269623642306e6c3278666343713033466c48456f547362724730723049336c716d4e7630636c43394d70524d7561544a777671734769625772726b6d396376552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqWsNKJibGniatFC3UdRHEpVZASfvQMJLC3uvHbib6B0nl2xfcCq03FlHEoTsbrG0r0I3lqmNv0clC9MpRMuaTJwvqsGibWrrkm9cvU/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>再然后，他就开始强化了，先把支持2023年2月26号，我写文章的第一天作为司庆，进行了非常全面的钢人强化。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a031f2ec9b3585bd3a2a680ffbfac8ce79f7e096cd0653a3cdffcaaad8cb573/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7157786c66493757545069617330617178394e4163347169616962736c50456b42307a5a6d525a70594d58326233546c6f5957774e584b41516e30377869624e613379456e787763684f676f77655479486961706264737567344743316962343536465a4a77704d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/4a031f2ec9b3585bd3a2a680ffbfac8ce79f7e096cd0653a3cdffcaaad8cb573/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7157786c66493757545069617330617178394e4163347169616962736c50456b42307a5a6d525a70594d58326233546c6f5957774e584b41516e30377869624e613379456e787763684f676f77655479486961706264737567344743316962343536465a4a77704d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqWxlfI7WTPias0aqx9NAc4qiaibslPEkB0zZmRZpYMX2b3TloYWwNXKAQn07xibNa3yEnxwchOgoweTyHiapbdsug4GC1ib456FZJwpM/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>然后呢，又把2023年作为反面，又进行了一波钢人强化。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3a8ae052ff9931d30bb2efc7494f6ce54a7c105c37a41cd2150da568aff2650b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715652485472414d56674b374a5144474a6a70327668453366335972514d7570746963703251726962394f7969624239626e6a6e307331676f416962736b4e65626d5932523773307a515a32474568615a50394e4a6b5057484d69627058696156375336307877732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/3a8ae052ff9931d30bb2efc7494f6ce54a7c105c37a41cd2150da568aff2650b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715652485472414d56674b374a5144474a6a70327668453366335972514d7570746963703251726962394f7969624239626e6a6e307331676f416962736b4e65626d5932523773307a515a32474568615a50394e4a6b5057484d69627058696156375336307877732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqVRHTrAMVgK7JQDGJjp2vhE3f3YrQMupticp2Qrib9OyibB9bnjn0s1goAibskNebmY2R7s0zQZ2GEhaZP9NJkPWHMibpXiaV7S60xws/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>2023年的双向钢人强化之后，又把2024年IP公司正式成立、2025年2月目前最能规模化的也是绝大多数员工入职的虚实传媒成立这两个事件点，进行了双向一共四次的钢人强化。</p>
+<p>最后，给了我一个关键的核心变量和问题。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5388ea1061c0b68553d3fc3e37c24f7956325bd013c6fee6729cd83cb9206602/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7155416542315a51764f6a6251646d316e6b5247584a38555834726b6243346f75756a4a366474455a74766e665a5a4b584964367431784b35696349413436506176686961544a446554424e5977584e6b6e53766d6b363941546b696237386b4f675730512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/5388ea1061c0b68553d3fc3e37c24f7956325bd013c6fee6729cd83cb9206602/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7155416542315a51764f6a6251646d316e6b5247584a38555834726b6243346f75756a4a366474455a74766e665a5a4b584964367431784b35696349413436506176686961544a446554424e5977584e6b6e53766d6b363941546b696237386b4f675730512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqUAeB1ZQvOjbQdm1nkRGXJ8UX4rkbC4ouujJ6dtEZtvnfZZKXId6t1xK5icIA46PavhiaTJDeTBNYwXNknSvmk69ATkib78kOgW0Q/640?wx_fmt=png&amp;from=appmsg#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>“假设十年以后，公司已经有500个人，绝大多数人都没经历过你的公众号创业期。司庆那一天，你最希望他们共同纪念的是哪件事？他们到底在纪念什么？”</p>
+<p>这个问题很难回答，但是我一旦回答了，基本也就代表答案确立了。</p>
+<p>我把上面那些双向钢人强化的观点来来回回反反复复看了很多遍。</p>
+<p>最后，我给出的答案是：</p>
+<p>“我觉得我们现在做的所有事情都贯彻着我最开始的想法和理念，我觉得在AI时代，人和人的链接和真诚的交流才是像钻石一般珍贵的东西，所以，我、还有我们，一直想做的，都是想链接整个AI时代，我希望大家，纪念的也是这件事情。”</p>
+<p>最后，答案确立了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/558f9e53227891c83d8a06af140f8956e8e8284bbc0be7198d23782b851dad6f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71586c74565a74664b4267734d42744d714f4a7142395773646b44686961725376304b346b72426343427a49474957496b3761796a70317047744c64676d6a6a30434c6639327a69636963387458495451306747446e686372364f52684c4e6173317944302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/558f9e53227891c83d8a06af140f8956e8e8284bbc0be7198d23782b851dad6f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71586c74565a74664b4267734d42744d714f4a7142395773646b44686961725376304b346b72426343427a49474957496b3761796a70317047744c64676d6a6a30434c6639327a69636963387458495451306747446e686372364f52684c4e6173317944302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqXltVZtfKBgsMBtMqOJqB9WsdkDhiarSv0K4krBcCBzIGIWIk7ayjp1pGtLdgmjj0CLf92zicic8tXITQ0gGDnhcr6ORhLNas1yD0/640?wx_fmt=png&amp;from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>技术不断向前，人与人的真诚链接却永远珍贵。，、</p>
+<p>这就是双向钢人论证的美妙之处。</p>
+<p>相信我，他一定可以帮你找到。</p>
+<p>你内心里那个最真实、最准确的答案。</p>
+<p><strong>以上，既然看到这里了，如果觉得不错，随手点个赞、在看、转发三连吧，如果想第一时间收到推送，也可以给我个星标⭐～谢谢你看我的文章，我们，下次再见。</strong></p>
+<p>&gt;/ 作者：卡兹克</p>
+<p>&gt;/ 投稿或爆料，请联系邮箱：<a href="mailto:wzglyay@virxact.com">wzglyay@virxact.com</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

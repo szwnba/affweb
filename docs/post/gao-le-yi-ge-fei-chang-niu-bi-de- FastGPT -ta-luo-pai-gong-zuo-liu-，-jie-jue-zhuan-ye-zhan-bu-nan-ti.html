@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="你听说过塔罗牌吗？
+
+这是一种神奇的占卜工具，起源于 15 世纪的欧洲。">
+<meta property="og:title" content="搞了一个非常牛逼的 FastGPT 塔罗牌工作流，解决专业占卜难题">
+<meta property="og:description" content="你听说过塔罗牌吗？
+
+这是一种神奇的占卜工具，起源于 15 世纪的欧洲。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/gao-le-yi-ge-fei-chang-niu-bi-de-%20FastGPT%20-ta-luo-pai-gong-zuo-liu-%EF%BC%8C-jie-jue-zhuan-ye-zhan-bu-nan-ti.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>搞了一个非常牛逼的 FastGPT 塔罗牌工作流，解决专业占卜难题</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">搞了一个非常牛逼的 FastGPT 塔罗牌工作流，解决专业占卜难题</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/718" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>你听说过塔罗牌吗？</p>
+<p>这是一种神奇的占卜工具，起源于 15 世纪的欧洲。它由 78 张牌组成 - 22 张大阿尔卡纳和 56 张小阿尔卡纳。每张牌都藏着独特的寓意，能帮你探索生活中的困惑，窥探未来的可能。有趣的是，现在塔罗牌不仅仅可以用来占卜，很多人把它当作一面镜子，用来认识自己、探索内心。</p>
+<p>当然，科技在进步，我们可以把 AI 和传统塔罗牌结合在一起，让这门古老的智慧焕发新生。</p>
+<p>说实话，要搭建一个专业的塔罗牌咨询系统可不是件容易事。一般来说，一个团队得花好几个月才能搞定。不过，有了 FastGPT 的工作流就不一样了，只要简单拖拖拽拽，再配合 Sealos Devbox 开发一点服务，就能搭建出一个专业的塔罗牌咨询系统。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d19d23033b8c967fe0f267b35db9e7caca19da928688665689ae5c72e4a9d09/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274566658503762313763426c366c7076554859443346714b727537727334623062323064724e7356453845585644506961464853686165412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5d19d23033b8c967fe0f267b35db9e7caca19da928688665689ae5c72e4a9d09/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274566658503762313763426c366c7076554859443346714b727537727334623062323064724e7356453845585644506961464853686165412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tVfXP7b17cBl6lpvUHYD3FqKru7rs4b0b20drNsVE8EXVDPiaFHShaeA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>FastGPT 提供的可视化界面超级好用，它可以把复杂的塔罗牌解读变得简单直观。只需通过简单的节点连接就能实现专业级的塔罗牌咨询服务。来，让我们一起看看怎么用 FastGPT 打造一个智能塔罗牌系统吧！</p>
+<blockquote>
+<p>注意：本项目的塔罗牌插图来自于 <a href="https://github.com/LindseyB/tarot-api">https://github.com/LindseyB/tarot-api</a></p>
+</blockquote>
+<h3>信息咨询</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e9d531382397ae4844233380df6571e7c1043931e0bb696ff5284225a58d32f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274794f706961376d4a347979343135336a55753077456963473152475a67336a546254516b4c57434a366745505a545658796e7067453745412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e9d531382397ae4844233380df6571e7c1043931e0bb696ff5284225a58d32f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274794f706961376d4a347979343135336a55753077456963473152475a67336a546254516b4c57434a366745505a545658796e7067453745412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tyOpia7mJ4yy4153jUu0wEicG1RGZg3jTbTQkLWCJ6gEPZTVXynpgE7EA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>卡牌抽取</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9ebcc0154b68443ffde6ad094e64aa7fdf3cebc4ced0fe931f524505dc554a4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832743667617357784d6165326d786869613348744a7a4771696142545a70537535354674766f5141586235745a4b5542635943453262486232512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b9ebcc0154b68443ffde6ad094e64aa7fdf3cebc4ced0fe931f524505dc554a4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832743667617357784d6165326d786869613348744a7a4771696142545a70537535354674766f5141586235745a4b5542635943453262486232512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2t6gasWxMae2mxhia3HtJzGqiaBTZpSu55FtvoQAXb5tZKUBcYCE2bHb2Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>卡牌初分析</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/21f686825139ca4acdadee54641956d02faeb01ab1715925ab9875da06078f27/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832744d324c72696263354d4a747762613032355947564242734a7a31774f4f7541303852764e696141524950445a39426a725367646962354a4f672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/21f686825139ca4acdadee54641956d02faeb01ab1715925ab9875da06078f27/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832744d324c72696263354d4a747762613032355947564242734a7a31774f4f7541303852764e696141524950445a39426a725367646962354a4f672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tM2Lribc5MJtwba025YGVBBsJz1wOOuA08RvNiaARIPDZ9BjrSgdib5JOg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>结果细讨论</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fa85c53aa2a0d17a4ee02351f0fe757a5dcc872fee485c696c8dac95655569a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274444a446e56616b47344d524b4439466f57734c446a56566c7056733039315938573369614777493179585a50526a6c41423747375272412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fa85c53aa2a0d17a4ee02351f0fe757a5dcc872fee485c696c8dac95655569a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274444a446e56616b47344d524b4439466f57734c446a56566c7056733039315938573369614777493179585a50526a6c41423747375272412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tDJDnVakG4MRKD9FoWsLDjVVlpVs091Y8W3iaGwI1yXZPRjlAB7G7RrA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>为什么要做 AI 塔罗机器人？</h2>
+<p>在开发这个项目前，我深入调研了塔罗占卜市场，发现了三个核心痛点：</p>
+<ol>
+<li>
+<p>专业门槛高，优质服务稀缺 🎴<br>
+塔罗牌解读需要掌握 78 张牌的正逆位共 156 种含义，还要熟练运用 10+种经典牌阵，理解数百种牌面组合。同时还需要具备占星学、心理学等跨学科知识。这导致优质塔罗师极度稀缺，供不应求。</p>
+</li>
+<li>
+<p>使用体验不足 ⚡<br>
+预约热门塔罗师通常需要等待 1-2 周，单次占卜要花 30-60分钟。线下店铺少且营业时间有限，想要追问还得重新预约，极不便捷。</p>
+</li>
+<li>
+<p>互动性欠佳 🤝<br>
+一对一咨询容易产生压力，缺乏有效的反馈渠道。用户无法与他人交流经验，得到的建议也往往缺乏可执行性，后续服务体验割裂。</p>
+</li>
+</ol>
+<p>基于这些痛点，我们打造了基于 FastGPT 的 AI 塔罗机器人，带来三大突破：</p>
+<ol>
+<li>
+<p>在专业性方面<br>
+我们构建了完整的塔罗知识体系，通过标准化输出确保解读质量稳定可控，有效避免主观偏差。</p>
+</li>
+<li>
+<p>在便捷性方面 ⚡<br>
+我们提供 7×24 小时在线服务，支持多人同时占卜互动，秒级响应且支持深度追问对话。</p>
+</li>
+<li>
+<p>在普惠性方面 💝<br>
+我们提供完全免费且不限次数的咨询服务。用户可以在群内交流经验，激发集体智慧。</p>
+</li>
+</ol>
+<p>通过这些创新，我们让塔罗占卜服务变得更加专业可靠 (💫)、便捷高效 (⚡)、普惠共享 (💝)，让每个人都能便捷地获得优质的塔罗咨询服务。</p>
+<h2>FastGPT 工作流设计</h2>
+<p>让我们来看看如何使用 FastGPT 搭建一个专业的塔罗牌咨询系统。整个工作流程设计如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2a6a5169a946fe23527194eb863a08f063d87b88427e853ec317d96bc6838739/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e43696168327459387434615a764e634a73367255396e786c497a4831337a32757847396274557a3930434d667842574c5a584b734e4371705a3158512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2a6a5169a946fe23527194eb863a08f063d87b88427e853ec317d96bc6838739/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e43696168327459387434615a764e634a73367255396e786c497a4831337a32757847396274557a3930434d667842574c5a584b734e4371705a3158512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tY8t4aZvNcJs6rU9nxlIzH13z2uxG9btUz90CMfxBWLZXKsNCqpZ1XQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>主要工作流程 🔄</h3>
+<p>系统的工作流程分为以下几个主要阶段：</p>
+<p><strong>1、初始化阶段</strong></p>
+<p>首先是用户引导配置，系统会通过友好的对话引导用户进入正确的咨询流程：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d32803c3f5dbb08e968282718d45042332f5d408835cace23d23e69275ba34f8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e43696168327452797764464a54767365326446546d617052474269626961544276455331364b4e397255636f36756f61396e78344969615149635747336961672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d32803c3f5dbb08e968282718d45042332f5d408835cace23d23e69275ba34f8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e43696168327452797764464a54767365326446546d617052474269626961544276455331364b4e397255636f36756f61396e78344969615149635747336961672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tRywdFJTvse2dFTmapRGBibiaTBvES16KN9rUco6uoa9nx4IiaQIcWG3iag/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>2、问题类型判断</strong></p>
+<p>系统会智能判断用户的需求类型，分为三种情况：</p>
+<ul>
+<li>
+<p>继续已有的塔罗解读</p>
+</li>
+<li>
+<p>开始新的占卜流程</p>
+</li>
+<li>
+<p>提供塔罗知识介绍</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/152224d28d7972038a961e8b4ed8d1fdeed8333ec741c7688fb6b761d16b9056/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e43696168327431316b5369636b655072676867766a484b3479616961716b483078575935546a396d684f4a30596b32524b6963583369616175646753755965672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/152224d28d7972038a961e8b4ed8d1fdeed8333ec741c7688fb6b761d16b9056/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e43696168327431316b5369636b655072676867766a484b3479616961716b483078575935546a396d684f4a30596b32524b6963583369616175646753755965672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2t11kSickePrghgvjHK4yaiaqkH0xWY5Tj9mhOJ0Yk2RKicX3iaaudgSuYeg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>3、信息收集阶段</strong></p>
+<p>系统会仔细提取用户输入中的关键信息，确保准确理解用户的咨询需求：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/133f121133c37356b1d1c291ce8be8bb2d59c24a3c7157a8a7bd3a19d4e4ed13/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e43696168327478467741743562313739585872735152667942796f726d573756513130654231783236544f5777465156396963547976736564645063512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/133f121133c37356b1d1c291ce8be8bb2d59c24a3c7157a8a7bd3a19d4e4ed13/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e43696168327478467741743562313739585872735152667942796f726d573756513130654231783236544f5777465156396963547976736564645063512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2txFwAt5b179XXrsQRfyByormW7VQ10eB1x26TOWwFQV9icTyvseddPcQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>核心功能模块 🔧</h3>
+<p>系统包含以下核心功能模块：</p>
+<ul>
+<li>
+<p>1</p>
+</li>
+<li>
+<p>2</p>
+</li>
+<li>
+<p>3</p>
+</li>
+<li>
+<p>4</p>
+</li>
+<li>
+<p>5</p>
+</li>
+<li>
+<p>6</p>
+</li>
+</ul>
+<pre class="notranslate"><code class="notranslate">// 使用 AI 模型提取用户输入中的关键信息(该部分为工作流的解释)const contentExtract = {  model: "gpt-4o-mini",  inputs: ["userQuestion", "questionType", "timeFrame", "spreadType"],  confirmStatus: boolean}
+</code></pre>
+<p>塔罗牌抽取：</p>
+<blockquote>
+<p>HTTP 请求获取塔罗牌结果</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/09bf70c4b0c6c0e240c64ee50d83f943e48ff1cbe0ec659a05813bf934acec5e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274336e4e326c346e7174416c3432467939326f5846476a534a5152526b615257633342305a7a354d584c6961377065414b504632426b64772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/09bf70c4b0c6c0e240c64ee50d83f943e48ff1cbe0ec659a05813bf934acec5e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274336e4e326c346e7174416c3432467939326f5846476a534a5152526b615257633342305a7a354d584c6961377065414b504632426b64772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2t3nN2l4nqtAl42Fy92oXFGjSJQRRkaRWc3B0Zz5MXLia7peAKPF2Bkdw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>结果解读：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/757980b14d89b89110a4b72cca7f2e90f1125114afae85973678f10fa4f80924/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832747144683873636179314d644f6d437133506e334b68786c474e4f6a703850427638486c506349536e5168736c5a6e64773674637835672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/757980b14d89b89110a4b72cca7f2e90f1125114afae85973678f10fa4f80924/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832747144683873636179314d644f6d437133506e334b68786c474e4f6a703850427638486c506349536e5168736c5a6e64773674637835672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tqDh8scay1MdOmCq3Pn3KhxlGNOjp8PBv8HlPcISnQhslZndw6tcx5g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>状态管理与交互流程 📊</h3>
+<p>系统采用全局变量管理用户会话状态，并进行信息完整性检查：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca87b816b5806bcd928d695dd9b9fff9b237d21a8b791f4795bbd15758a65763/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274696259663548724c77746963755532797236696351646d536b6d30445772726e4641534334486b78537a5173396c7672656b316830497833772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ca87b816b5806bcd928d695dd9b9fff9b237d21a8b791f4795bbd15758a65763/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274696259663548724c77746963755532797236696351646d536b6d30445772726e4641534334486b78537a5173396c7672656b316830497833772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tibYf5HrLwticuU2yr6icQdmSkm0DWrrnFASC4HkxSzQs9lvrek1h0Ix3w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>整个交互过程包含以下步骤：</p>
+<ol>
+<li>
+<p>引导式对话 - 通过友好的对话引导用户表达需求</p>
+</li>
+<li>
+<p>信息收集与确认 - 收集并确认用户的咨询问题和相关信息</p>
+</li>
+<li>
+<p>塔罗牌抽取与展示 - 进行塔罗牌抽取并展示结果</p>
+</li>
+<li>
+<p>专业解读与建议 - 提供专业的塔罗牌解读和建议</p>
+</li>
+</ol>
+<h2>塔罗牌后端服务实现 🎴</h2>
+<h3>API 接口设计</h3>
+<h4>图片服务 /api/cards/[id]/image</h4>
+<ul>
+<li>
+<p>1</p>
+</li>
+<li>
+<p>2</p>
+</li>
+</ul>
+<pre class="notranslate"><code class="notranslate">// 获取塔罗牌图片GET /api/cards/{id}/image
+</code></pre>
+<h4>抽牌服务 /api/readings</h4>
+<ul>
+<li>
+<p>1</p>
+</li>
+<li>
+<p>2</p>
+</li>
+<li>
+<p>3</p>
+</li>
+<li>
+<p>4</p>
+</li>
+<li>
+<p>5</p>
+</li>
+<li>
+<p>6</p>
+</li>
+<li>
+<p>7</p>
+</li>
+<li>
+<p>8</p>
+</li>
+<li>
+<p>9</p>
+</li>
+<li>
+<p>10</p>
+</li>
+<li>
+<p>11</p>
+</li>
+<li>
+<p>12</p>
+</li>
+</ul>
+<pre class="notranslate"><code class="notranslate">// 创建新的塔罗牌阵POST /api/readingsRequest {  spreadType: "SINGLE" | "THREE_CARDS" | "CELTIC_CROSS" | "RELATIONSHIP",  question?: string}Response {  success: boolean,  spread: string,  cards: TarotCard[],  timestamp: string}
+</code></pre>
+<h3>核心数据结构 📊</h3>
+<h4>塔罗牌数据</h4>
+<ul>
+<li>
+<p>1</p>
+</li>
+<li>
+<p>2</p>
+</li>
+<li>
+<p>3</p>
+</li>
+<li>
+<p>4</p>
+</li>
+<li>
+<p>5</p>
+</li>
+<li>
+<p>6</p>
+</li>
+<li>
+<p>7</p>
+</li>
+<li>
+<p>8</p>
+</li>
+<li>
+<p>9</p>
+</li>
+<li>
+<p>10</p>
+</li>
+<li>
+<p>11</p>
+</li>
+<li>
+<p>12</p>
+</li>
+</ul>
+<pre class="notranslate"><code class="notranslate">interface TarotCard {  id: number;           // 卡牌ID  name: string;         // 中文名称  nameEn: string;       // 英文名称  type: 'major' | 'minor'; // 大阿卡纳或小阿卡纳  suit?: string;        // 牌组类型(权杖/圣杯/宝剑/金币)  description: string;  // 描述  uprightMeaning: string;   // 正位含义  reversedMeaning: string;  // 逆位含义  isReversed?: boolean;     // 是否逆位  position?: string;        // 在牌阵中的位置}
+</code></pre>
+<h4>牌阵类型</h4>
+<ul>
+<li>
+<p>1</p>
+</li>
+<li>
+<p>2</p>
+</li>
+<li>
+<p>3</p>
+</li>
+<li>
+<p>4</p>
+</li>
+<li>
+<p>5</p>
+</li>
+<li>
+<p>6</p>
+</li>
+</ul>
+<pre class="notranslate"><code class="notranslate">const SPREAD_TYPES = {  '单牌': 'SINGLE',  '三牌阵': 'THREE_CARDS',  '凯尔特十字阵': 'CELTIC_CROSS',  '关系牌阵': 'RELATIONSHIP'} as const;
+</code></pre>
+<h3>关键功能实现 🛠️</h3>
+<ul>
+<li>
+<p>1</p>
+</li>
+<li>
+<p>2</p>
+</li>
+<li>
+<p>3</p>
+</li>
+<li>
+<p>4</p>
+</li>
+<li>
+<p>5</p>
+</li>
+<li>
+<p>6</p>
+</li>
+<li>
+<p>7</p>
+</li>
+<li>
+<p>8</p>
+</li>
+<li>
+<p>9</p>
+</li>
+<li>
+<p>10</p>
+</li>
+<li>
+<p>11</p>
+</li>
+<li>
+<p>12</p>
+</li>
+</ul>
+<pre class="notranslate"><code class="notranslate">卡牌抽取逻辑async function drawCards(deck: TarotCard[], spreadType: string) {  // 根据牌阵类型确定抽牌数量  const count = SPREAD_CARDS_COUNT[spreadType];    // 随机抽取卡牌并添加位置信息  return shuffled.slice(0, count).map((card, index) =&gt; ({    ...card,    isReversed: Math.random() &gt; 0.5,    position: POSITION_MEANINGS[spreadType][index]  }));}
+</code></pre>
+<h4>图片处理</h4>
+<ul>
+<li>
+<p>1</p>
+</li>
+<li>
+<p>2</p>
+</li>
+<li>
+<p>3</p>
+</li>
+<li>
+<p>4</p>
+</li>
+<li>
+<p>5</p>
+</li>
+<li>
+<p>6</p>
+</li>
+<li>
+<p>7</p>
+</li>
+<li>
+<p>8</p>
+</li>
+<li>
+<p>9</p>
+</li>
+<li>
+<p>10</p>
+</li>
+<li>
+<p>11</p>
+</li>
+<li>
+<p>12</p>
+</li>
+<li>
+<p>13</p>
+</li>
+<li>
+<p>14</p>
+</li>
+<li>
+<p>15</p>
+</li>
+</ul>
+<pre class="notranslate"><code class="notranslate">// 构建图片文件路径const imagePath = path.join(  process.cwd(),   'data',   'tarot',   'cards',   `${fileName}.png`);// 返回图片数据return new NextResponse(imageBuffer, {  headers: {    'Content-Type': 'image/png',    'Cache-Control': 'public, max-age=31536000'  }});
+</code></pre>
+<p>完整后端代码可参考：<strong><a href="https://github.com/Jiangween/tarot-app">https://github.com/Jiangween/tarot-app</a></strong></p>
+<h2>再看一个感情问题的案例</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/193d3e8bc882498e464a377cf9bebcabbfd434e835efdcc66a9e0461740ba063/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274735869634a4f6c433273465651346a3379424c4e6f356842525a3866583954396b6a6746704c5973314b756d6962696139436c3139634739672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/193d3e8bc882498e464a377cf9bebcabbfd434e835efdcc66a9e0461740ba063/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274735869634a4f6c433273465651346a3379424c4e6f356842525a3866583954396b6a6746704c5973314b756d6962696139436c3139634739672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tsXicJOlC2sFVQ4j3yBLNo5hBRZ8fX9T9kjgFpLYs1Kumibia9Cl19cG9g/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/79966e8dd73a76e789e7b5d7e3150d658621a056e3d7773eedc8beb1aafcdd7f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274676538696138436c7949784344515635376e5a70524970435869624a71653069637369627a4d634b6c4d37724b5a6435396168724364316466512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/79966e8dd73a76e789e7b5d7e3150d658621a056e3d7773eedc8beb1aafcdd7f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274676538696138436c7949784344515635376e5a70524970435869624a71653069637369627a4d634b6c4d37724b5a6435396168724364316466512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tge8ia8ClyIxCDQV57nZpRIpCXibJqe0icsibzMcKlM7rKZd59ahrCd1dfQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e3bce929b7f168ab3a8607198b370175d108ddfc7b0aa537777dfc1c9910185d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832744e7370667a6b7a72534679696163413642716b386d7930674958774470374c5168455a6d6a52415369626e375073734b7a394876626670772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e3bce929b7f168ab3a8607198b370175d108ddfc7b0aa537777dfc1c9910185d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832744e7370667a6b7a72534679696163413642716b386d7930674958774470374c5168455a6d6a52415369626e375073734b7a394876626670772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tNspfzkzrSFyiacA6Bqk8my0gIXwDp7LQhEZmjRASibn7PssKz9Hvbfpw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我只能说：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/999192a49536d09d3f3fc6bce2ae0950896ed25d74a06ddb07f890fe4d548ec2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832746a4c4a6963324d70595868674e69635547493452494e4e4b52696248626c797769636b556d3979464f336f797a387779706b4774346d614734512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/999192a49536d09d3f3fc6bce2ae0950896ed25d74a06ddb07f890fe4d548ec2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413459554c4f52326f4f6961575330355269636f4e4369616832746a4c4a6963324d70595868674e69635547493452494e4e4b52696248626c797769636b556d3979464f336f797a387779706b4774346d614734512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2tjLJic2MpYXhgNicUGI4RINNKRibHblywickUm9yFO3oyz8wypkGt4maG4Q/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>总结</h2>
+<p>本文详细介绍了如何利用 FastGPT 打造一个专业的 AI 塔罗牌咨询系统。通过可视化的工作流设计，我们将复杂的塔罗牌解读流程变得简单直观。从信息咨询、卡牌抽取到结果分析，每个环节都经过精心设计，最终实现了一个专业、便捷且普惠的塔罗牌咨询服务。</p>
+<p>通过这个案例，我们可以看到 FastGPT 在处理复杂对话流程时的强大能力。同时也证明了 AI 技术与传统文化相结合可以创造出令人惊喜的创新应用。通过这种结合，我们让古老的塔罗牌焕发出新的生命力，让更多人能够便捷地获得优质的塔罗咨询服务。</p>
+<p>最后是福利时刻，想获取本文工作流的同学，只需要👇</p>
+<p>关注公众号</p>
+<p>后台回复「<strong>124</strong>」，限时免费领取！</p>
+<p>↓ ↓ ↓ ↓ ↓</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/418e23654e28c6751bef311e8518c7cecedb4132130ee5fa7727117578eca04d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f373369636e58766d4e37774f493072767467706341766f796d7a7758633447736e696358376e78556132314e6f5767324a34384a615a3935797377647a6963334d5a334861677a39376e357a645869614d746d37696333366f54412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/418e23654e28c6751bef311e8518c7cecedb4132130ee5fa7727117578eca04d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f373369636e58766d4e37774f493072767467706341766f796d7a7758633447736e696358376e78556132314e6f5767324a34384a615a3935797377647a6963334d5a334861677a39376e357a645869614d746d37696333366f54412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/73icnXvmN7wOI0rvtgpcAvoymzwXc4GsnicX7nxUa21NoWg2J48JaZ95yswdzic3MZ3Hagz97n5zdXiaMtm7ic36oTA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><strong>加入 FastGPT 开源社区</strong></p>
+<p>让 AI 更懂你的知识</p>
+<p><strong>🏠官网链接</strong></p>
+<p><a href="https://fastgpt.cn" rel="nofollow">https://fastgpt.cn</a></p>
+<p><strong>🐙GitHub 地址</strong></p>
+<p><a href="https://github.com/labring/FastGPT">https://github.com/labring/FastGPT</a></p>
+<p><strong>📑访问 Sealos 文档</strong></p>
+<p><a href="https://doc.fastgpt.cn/" rel="nofollow">https://doc.fastgpt.cn/</a></p>
+<p><strong>🏘️逛逛论坛</strong></p>
+<p><a href="https://forum.laf.run/" rel="nofollow">https://forum.laf.run/</a></p>
+<h3>往期推荐</h3>
+<p>[</p>
+<p>70 个群都来问我的 AI 日报，是这么做的。</p>
+<p>2024-11-14</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f83dcf4cd0861d1ad22877c8161aceb41a2ee62bef5d885c016105d3220b7f7f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413461524a523154454d4d3251595a777a75384142454e5968324c6262617a583867314b516b7638537a3777486c4e444a59486679737575457138715a7a5849477869614670317a37355a4d7842412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/f83dcf4cd0861d1ad22877c8161aceb41a2ee62bef5d885c016105d3220b7f7f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413461524a523154454d4d3251595a777a75384142454e5968324c6262617a583867314b516b7638537a3777486c4e444a59486679737575457138715a7a5849477869614670317a37355a4d7842412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qFG6mghhA4aRJR1TEMM2QYZwzu8ABENYh2LbbazX8g1KQkv8Sz7wHlNDJYHfysuuEq8qZzXIGxiaFp1z75ZMxBA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>](<a href="https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522963&amp;idx=1&amp;sn=416dd5da50ed23181c955af2d072dd4e&amp;scene=21#wechat_redirect" rel="nofollow">https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522963&amp;idx=1&amp;sn=416dd5da50ed23181c955af2d072dd4e&amp;scene=21#wechat_redirect</a>)</p>
+<p>[</p>
+<p>扔掉 Google 翻译！这个超强 AI 翻译工作流才是你的最佳选择</p>
+<p>2024-10-30</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0e70bf839b716182fdbb31abdb3ae8167ae725d51b55bd24faccb1a70fe67e90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d67686841345936664f554d37593769637663616752414a57516d644b33534e3067664739777a4e344d4350744e79716962374d76386a6b633666677a6b724c4d6b3731484352374468546962576e3868764358412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/0e70bf839b716182fdbb31abdb3ae8167ae725d51b55bd24faccb1a70fe67e90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d67686841345936664f554d37593769637663616752414a57516d644b33534e3067664739777a4e344d4350744e79716962374d76386a6b633666677a6b724c4d6b3731484352374468546962576e3868764358412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qFG6mghhA4Y6fOUM7Y7icvcagRAJWQmdK3SN0gfG9wzN4MCPtNyqib7Mv8jkc6fgzkrLMk71HCR7DhTibWn8hvCXA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>](<a href="https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522842&amp;idx=1&amp;sn=c3800f7acfebca62cb4226325c74499e&amp;scene=21#wechat_redirect" rel="nofollow">https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522842&amp;idx=1&amp;sn=c3800f7acfebca62cb4226325c74499e&amp;scene=21#wechat_redirect</a>)</p>
+<p>[</p>
+<p>AI 居然说我是牛马，还画出了我牛马的一生，我绷不住了...</p>
+<p>2024-10-25</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7efe51ea5e6f83fae8c39d8de827c6d5201c7cac7d6c58615162e665d7d91a01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d67686841345a627a696339557350394c6b367469627955414c326e6844474b4d6961614f75545a483148505863474d68734f4457466f46383372574b774556745651445169626963686a34766b4b68337844364f6a772f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/7efe51ea5e6f83fae8c39d8de827c6d5201c7cac7d6c58615162e665d7d91a01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d67686841345a627a696339557350394c6b367469627955414c326e6844474b4d6961614f75545a483148505863474d68734f4457466f46383372574b774556745651445169626963686a34766b4b68337844364f6a772f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qFG6mghhA4Zbzic9UsP9Lk6tibyUAL2nhDGKMiaaOuTZH1HPXcGMhsODWFoF83rWKwEVtVQDQibichj4vkKh3xD6Ojw/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>](<a href="https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522688&amp;idx=1&amp;sn=76212e602be952447ad6150c41692500&amp;scene=21#wechat_redirect" rel="nofollow">https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522688&amp;idx=1&amp;sn=76212e602be952447ad6150c41692500&amp;scene=21#wechat_redirect</a>)</p>
+<p>[</p>
+<p>别再手动处理数据了！FastGPT 这个新功能让你提前下班</p>
+<p>2024-11-05</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d506e8b3bb050cca7ce160dadbb5a79d753dfa065385feefbaf316c53c824fac/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413459585a67797469624853424f384e343264634a6b776b37544f4d74654d516962674663574e74756961617a3735353353566a504830305a4839746a6869624b61514e5446307576427978734c354d4c412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/d506e8b3bb050cca7ce160dadbb5a79d753dfa065385feefbaf316c53c824fac/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d676868413459585a67797469624853424f384e343264634a6b776b37544f4d74654d516962674663574e74756961617a3735353353566a504830305a4839746a6869624b61514e5446307576427978734c354d4c412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qFG6mghhA4YXZgytibHSBO8N42dcJkwk7TOMteMQibgFcWNtuiaaz7553SVjPH00ZH9tjhibKaQNTF0uvByxsL5MLA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>](<a href="https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522916&amp;idx=1&amp;sn=0210b30ca949fd34c2f5a58c01a11b14&amp;scene=21#wechat_redirect" rel="nofollow">https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522916&amp;idx=1&amp;sn=0210b30ca949fd34c2f5a58c01a11b14&amp;scene=21#wechat_redirect</a>)</p>
+<p>[</p>
+<p>不用写一行代码，使用 FastGPT 搭建 GitHub Issues 自动总结机器人</p>
+<p>2024-10-21</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7580663e8d7ae86674c0a8c7d3c64d33fde74d8ed73e53030a64bd2dd05ec5fb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d6768684134623463507a546379696257415a3469625a426a4c6445744f646639546a337349496b33355a544c6d7050497879696336564d4f643758486962534d4441704a61556a696148536f5454496e3478775262412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/7580663e8d7ae86674c0a8c7d3c64d33fde74d8ed73e53030a64bd2dd05ec5fb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f714647366d6768684134623463507a546379696257415a3469625a426a4c6445744f646639546a337349496b33355a544c6d7050497879696336564d4f643758486962534d4441704a61556a696148536f5454496e3478775262412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qFG6mghhA4b4cPzTcyibWAZ4ibZBjLdEtOdf9Tj3sIIk35ZTLmpPIxyic6VMOd7XHibSMDApJaUjiaHSoTTIn4xwRbA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>](<a href="https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522626&amp;idx=1&amp;sn=d321250235ab2729ec12932fba602d52&amp;scene=21#wechat_redirect" rel="nofollow">https://mp.weixin.qq.com/s?__biz=MzU1MzY4NzQ1OA==&amp;mid=2247522626&amp;idx=1&amp;sn=d321250235ab2729ec12932fba602d52&amp;scene=21#wechat_redirect</a>)</p>
+<h3>关于 FastGPT</h3>
+<p><strong>FastGPT 是一款基于 LLM 大模型的开源 AI 知识库构建平台。提供了开箱即用的数据处理、模型调用、RAG 检索、可视化 AI 工作流编排等能力，帮助您轻松构建复杂的 AI 应用。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a1ebcb563411ed587fc5ecd6a0b5c30f50725b0b2041933f0d7f1f311883c74/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274696355554e367a564e786d6d5269615562616c4a36566a6538675776485442687738514454656b704464744c506743706963497439554d77772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9a1ebcb563411ed587fc5ecd6a0b5c30f50725b0b2041933f0d7f1f311883c74/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f714647366d676868413459554c4f52326f4f6961575330355269636f4e436961683274696355554e367a564e786d6d5269615562616c4a36566a6538675776485442687738514454656b704464744c506743706963497439554d77772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/qFG6mghhA4YULOR2oOiaWS05RicoNCiah2ticUUN6zVNxmmRiaUbalJ6Vje8gWvHTBhw8QDTekpDdtLPgCpicIt9UMww/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+cmButton=document.getElementById("cmButton");
+    span=document.createElement("span");
+    span.setAttribute("class","Counter");
+    span.innerHTML="1";
+    cmButton.appendChild(span);
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

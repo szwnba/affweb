@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="上一篇文章在写关于AI收藏夹和知识库《[手把手教你用COZE制作AI收藏夹+个人知识库，好用~](http://mp.weixin.qq.com/s?__biz=MzA3MTU4NTAyMQ==&mid=2247484440&idx=1&sn=27feed24f5a0d2711c8200b827ea0f9b&chksm=9f2a198aa85d909c72f07f741a71db699d4bed2a48db1d1f3eab3f010b438d151fcb2c8bf613&scene=21#wechat_redirect)》的时候，就想自媒体是不是也可以做类似的应用。">
+<meta property="og:title" content="用COZE制作自媒体全流程应用，拆解文章+数据分析+素材提取+导入飞书表格+知识库+仿写+播客">
+<meta property="og:description" content="上一篇文章在写关于AI收藏夹和知识库《[手把手教你用COZE制作AI收藏夹+个人知识库，好用~](http://mp.weixin.qq.com/s?__biz=MzA3MTU4NTAyMQ==&mid=2247484440&idx=1&sn=27feed24f5a0d2711c8200b827ea0f9b&chksm=9f2a198aa85d909c72f07f741a71db699d4bed2a48db1d1f3eab3f010b438d151fcb2c8bf613&scene=21#wechat_redirect)》的时候，就想自媒体是不是也可以做类似的应用。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yong-COZE-zhi-zuo-zi-mei-ti-quan-liu-cheng-ying-yong-%EF%BC%8C-chai-jie-wen-zhang-%2B-shu-ju-fen-xi-%2B-su-cai-ti-qu-%2B-dao-ru-fei-shu-biao-ge-%2B-zhi-shi-ku-%2B-fang-xie-%2B-bo-ke.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>用COZE制作自媒体全流程应用，拆解文章+数据分析+素材提取+导入飞书表格+知识库+仿写+播客</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用COZE制作自媒体全流程应用，拆解文章+数据分析+素材提取+导入飞书表格+知识库+仿写+播客</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/706" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>上一篇文章在写关于AI收藏夹和知识库《<a href="http://mp.weixin.qq.com/s?__biz=MzA3MTU4NTAyMQ==&amp;mid=2247484440&amp;idx=1&amp;sn=27feed24f5a0d2711c8200b827ea0f9b&amp;chksm=9f2a198aa85d909c72f07f741a71db699d4bed2a48db1d1f3eab3f010b438d151fcb2c8bf613&amp;scene=21#wechat_redirect" rel="nofollow">手把手教你用COZE制作AI收藏夹+个人知识库，好用~</a>》的时候，就想自媒体是不是也可以做类似的应用。</p>
+<p>因为自媒体相当一部分工作就是找对标账号，然后进行如下这几步动作。</p>
+<p><strong>首先是进行****数据分析</strong>，找到各种榜单，什么周榜、月榜、什么低粉爆文榜，就是为了<strong>找出最具爆发潜力的文章</strong>。我也用到了一个<strong>数据分析的方法，找出优质文章</strong>，有兴趣请往后看。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cba727b04fb417cb2fc4e490444ea8a2fac67bdfd05cd5846cc066d6a72c75c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930453532427863566a623462696330354d613934784b373958696270775669616475594a74627a5636586c474970354e5541744c5746504b68327279633653446e6f5744325a634c6b3870617a6961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/cba727b04fb417cb2fc4e490444ea8a2fac67bdfd05cd5846cc066d6a72c75c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930453532427863566a623462696330354d613934784b373958696270775669616475594a74627a5636586c474970354e5541744c5746504b68327279633653446e6f5744325a634c6b3870617a6961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY0E52BxcVjb4bic05Ma94xK79XibpwViaduYJtbzV6XlGIp5NUAtLWFPKh2ryc6SDnoWD2ZcLk8paziaA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>然后对这样的文章****进行分析、拆解</strong>，什么<strong>标题拆解、文章框架拆解、开头拆解、结尾拆解、选题分析、用户画像分析、写作手法分析</strong>等等，方便在自己的文案中借鉴；</p>
+<p><strong>还有就是****记录文章中精彩的故事或案例</strong>，<strong>摘抄文章中的金句或优美的文字</strong>，并<strong>形成****自己的素材库，方便后期查询并调用</strong>。</p>
+<p>最后能<strong>让AI利用上面拆解的创作文章的框架、方法、手法、素材等，进行模仿创作</strong>。</p>
+<p>我制作的COZE应用**【公众号自媒体全流程工作室】** 就是<strong>完成以上所有功能</strong>。</p>
+<p>应用链接：<strong><a href="https://www.coze.cn/s/iSgAyopt/" rel="nofollow">https://www.coze.cn/s/iSgAyopt/</a></strong></p>
+<p>先看一下整体使用效果（上下滑动）：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a320cf00b3cf658910c5e5643eb84b403e93663e39533a90346477ef25339e83/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930696151666f4c6a76304a69624a4f4f46716d304d627a6a424e654a496b69624f5149546a616962646d4e75346c68577a644a4742494a5a6847376f434c6f387a316962533759525a566a7256757472512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a320cf00b3cf658910c5e5643eb84b403e93663e39533a90346477ef25339e83/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930696151666f4c6a76304a69624a4f4f46716d304d627a6a424e654a496b69624f5149546a616962646d4e75346c68577a644a4742494a5a6847376f434c6f387a316962533759525a566a7256757472512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY0iaQfoLjv0JibJOOFqm0MbzjBNeJIkibOQITjaibdmNu4lhWzdJGBIJZhG7oCLo8z1ibS7YRZVjrVutrQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>下面看一下应用的使用流程：</p>
+<p><strong>一、首先设置要导入的飞书表格链接</strong>。把下面的飞书表格**【公众号热门文章数据库模板】链接<strong>打开，点击</strong>“创建副本”**，<strong>生成自己的飞书表格（表格名称不要更改）</strong>，<strong>复制你自己的飞书表格链接</strong>。</p>
+<p><strong><a href="https://zrstx1ebls.feishu.cn/sheets/YB6rsrWFnhXJITtwAlscrp5Vnye" rel="nofollow">https://zrstx1ebls.feishu.cn/sheets/YB6rsrWFnhXJITtwAlscrp5Vnye</a></strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/55ee8bad8e24f7dd5c9351d0c2881f74da88ea8516db3167f2d64357dc784507/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a623476757a5a696248696364533634534162737036764830696137736f374e71703067696349476349446961733348466b443846316b4c57464d74655164672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/55ee8bad8e24f7dd5c9351d0c2881f74da88ea8516db3167f2d64357dc784507/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a623476757a5a696248696364533634534162737036764830696137736f374e71703067696349476349446961733348466b443846316b4c57464d74655164672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vuzZibHicdS64SAbsp6vH0ia7so7Nqp0gicIGcIDias3HFkD8F1kLWFMteQdg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>打开应用下面的快捷按键**“首先设置飞书表格链接”<strong>，将</strong>你自己的飞书表格链接输入进去**，<strong>看到成功修改提示</strong>，那么这一步就设置好了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/477a28ecbabc854c320954aa6e2ce0586f2b71dd2038b731e498b46365defff2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767577344b31696269626c5667303050344833373652656963416a4b50547833424f38323663626632483238415749793456787067363851336f672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/477a28ecbabc854c320954aa6e2ce0586f2b71dd2038b731e498b46365defff2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767577344b31696269626c5667303050344833373652656963416a4b50547833424f38323663626632483238415749793456787067363851336f672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vuw4K1ibiblVg00P4H376ReicAjKPTx3BO826cbf2H28AWIy4Vxpg68Q3og/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>二、对公众号文章的拆解、收藏+仿写</strong>，点击**“然后拆解、收藏并仿写文章”<strong>按钮将</strong>文章链接、文章阅读数、在看数、点赞数、转发数**输入进去。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/979b14f9f05125dd9b19083ca45ca98fc36cd5f315800e51f55c0c23bf25f338/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767567634f454743374152346658434536424835677a727267654b6f497337716c7a4a596962685946346458666963344342696354764f6b386e772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/979b14f9f05125dd9b19083ca45ca98fc36cd5f315800e51f55c0c23bf25f338/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767567634f454743374152346658434536424835677a727267654b6f497337716c7a4a596962685946346458666963344342696354764f6b386e772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vugcOEGC7AR4fXCE6BH5gzrrgeKoIs7qlzJYibhYF4dXfic4CBicTvOk8nw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/35928b79aa1c8e2787231a226fcfca97f7683b3f283beea81fa7944c918720d0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a62347675544b6b6a69626963335a56785a3255696179784343784e316d707677314d77394f35616769623948567579534651654b796e7a6962675931746963772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/35928b79aa1c8e2787231a226fcfca97f7683b3f283beea81fa7944c918720d0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a62347675544b6b6a69626963335a56785a3255696179784343784e316d707677314d77394f35616769623948567579534651654b796e7a6962675931746963772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vuTKkjibic3ZVxZ2UiayxCCxN1mpvw1Mw9O5agib9HVuySFQeKynzibgY1ticw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d172640c5a05b085f4a4ddc844bfe1caccf28107087f226f1bfd2b33aebfeab/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767549796f6963744a774d7a614b533479316961374845395539594c6f664d76714955597868374658714876573837736773394f767149634d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0d172640c5a05b085f4a4ddc844bfe1caccf28107087f226f1bfd2b33aebfeab/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767549796f6963744a774d7a614b533479316961374845395539594c6f664d76714955597868374658714876573837736773394f767149634d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vuIyoictJwMzaKS4y1ia7HE9U9YLofMvqIUYxh7FXqHvW87sgs9OvqIcMA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>出来之后是这样的，总共生成了<strong>25个项目，将一篇文章拆解的分析、拆解的非常的详细了</strong>，这里我就不做过多介绍了。</p>
+<p>这里只说其中有一个数据**“读赞比”<strong>，是我自己设计的，在</strong>同类文章里面，<strong>读赞比的数值越低</strong>，则代表这篇文章的传播属性越好**，是越值得去研究和仿写的。这样更加<strong>方便我们找出优质对标文章</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c4fb9e66fb5af48dc013f8c23aebb277cbf32a17a43eb61255c79e8cb286fee4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767562706146333569624e63387433303158377237727154696170324d7a616250683166675974556f6145556e7342725951366b69616a343436772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c4fb9e66fb5af48dc013f8c23aebb277cbf32a17a43eb61255c79e8cb286fee4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767562706146333569624e63387433303158377237727154696170324d7a616250683166675974556f6145556e7342725951366b69616a343436772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vubpaF35ibNc8t301X7r7rqTiap2MzabPh1fgYtUoaEUnsBrYQ6kiaj446w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>同时这些<strong>拆解的内容存入了刚才我们设置的飞书表格</strong>内，便于后面<strong>导入COZE知识库</strong>和我们后期在这些内容里面找到我们要<strong>借鉴的内容和写作素材</strong>。</p>
+<p>接下来点击**“仿写这篇文章”**进入下一步</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6890ccd7c9e03d9e035c2a39ea130547d6955d56e1a85778ada07c05e1adddbc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930696151666f4c6a76304a69624a4f4f46716d304d627a6a6a443750554369626833643173427953535669627848786b3361636c516e5a725a634d75664d655738757353424173597a4259756d6659412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6890ccd7c9e03d9e035c2a39ea130547d6955d56e1a85778ada07c05e1adddbc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930696151666f4c6a76304a69624a4f4f46716d304d627a6a6a443750554369626833643173427953535669627848786b3361636c516e5a725a634d75664d655738757353424173597a4259756d6659412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY0iaQfoLjv0JibJOOFqm0MbzjjD7PUCibh3d1sBySSVibxHxk3aclQnZrZcMufMeW8usSBAsYzBYumfYA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4b46b1c0fbbb5ce06d1c2be1b896776cccdc3c26a8b5dc077e7cf5c0a131d53c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930696151666f4c6a76304a69624a4f4f46716d304d627a6a4876794d4f55643142626369634f685a77535357676b746d69617578414f42493738567050584d514b575838644769627555707347644861772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4b46b1c0fbbb5ce06d1c2be1b896776cccdc3c26a8b5dc077e7cf5c0a131d53c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930696151666f4c6a76304a69624a4f4f46716d304d627a6a4876794d4f55643142626369634f685a77535357676b746d69617578414f42493738567050584d514b575838644769627555707347644861772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY0iaQfoLjv0JibJOOFqm0MbzjHvyMOUd1BbcicOhZwSSWgktmiauxAOBI78VpPXMQKWX8dGibuUpsGdHaw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>三、仿写对标文章</strong>。这里<strong>仿写prompt使用的是上一步拆解的内容</strong>（比如拆解标题、拆解文章框架、拆解开头、拆解结尾、写作手法等），这样理论上就保证了，不管是什么文章类型，都可以<strong>按照这篇文章的结构和手法模仿创作出来</strong>。这一部分是亮点，后面制作流程详细说。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/091b1f175dad52c66a4ae1727b82085b79e9e4e74b1806d3263b9f79743f3ce7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767568724d496961396f55746f5172765a487348486431515567564534696342374e6a624a7073774977614d786a4e69614f4443307a7372544b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/091b1f175dad52c66a4ae1727b82085b79e9e4e74b1806d3263b9f79743f3ce7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a6234767568724d496961396f55746f5172765a487348486431515567564534696342374e6a624a7073774977614d786a4e69614f4443307a7372544b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vuhrMIia9oUtoQrvZHsHHd1QUgVE4icB7NjbJpswIwaMxjNiaODC0zsrTKQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>文章末尾是<strong>选择一个bgm来生成播客</strong>，可以试听，这里的实现原理后面会讲到。</p>
+<p><strong>四、生成播客</strong>，根据仿写文章内容生成一个男女双人播客，同时会生成海报+播客mp3，方便下载。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/67ba8ae656e15898a41bc361ab2cbad22b1522c75cbfbc22a3bee3e06b05bef2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a623476753834686e4559526865463269624762796d65706f4e78495670586e70517232494371554761634f5464785477597341434b375a4a6c33772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/67ba8ae656e15898a41bc361ab2cbad22b1522c75cbfbc22a3bee3e06b05bef2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a623476753834686e4559526865463269624762796d65706f4e78495670586e70517232494371554761634f5464785477597341434b375a4a6c33772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vu84hnEYRheF2ibGbymepoNxIVpXnpQr2ICqUGacOTdxTwYsACK7ZJl3w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我对播客的效果还是比较满意的，可以点击下面音频听一下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f562220bac553604f7ede1c554e3d7634c2231d5445b8a016a16b249c601718/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a4356565265593152656f716a53675833614b71664a35644e4d4f657170383879616a545647634b4f37517664315a3355475a344541735644794352526433686f79416f62324d616f696243357853776f5864672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3f562220bac553604f7ede1c554e3d7634c2231d5445b8a016a16b249c601718/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a4356565265593152656f716a53675833614b71664a35644e4d4f657170383879616a545647634b4f37517664315a3355475a344541735644794352526433686f79416f62324d616f696243357853776f5864672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY1ReoqjSgX3aKqfJ5dNMOeqp88yajTVGcKO7Qvd1Z3UGZ4EAsVDyCRRd3hoyAob2MaoibC5xSwoXdg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/427ffb1433ef4d043d3467857b3745d3a32985a5c0d317fb33c22fbd069ae67d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a4356565265593152656f716a53675833614b71664a35644e4d4f657169616962616f6d466962616534504d34696143577959537732684975776c4c3550674b6c6a70474f65737662774d50684c584f666d6d72444a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/427ffb1433ef4d043d3467857b3745d3a32985a5c0d317fb33c22fbd069ae67d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a4356565265593152656f716a53675833614b71664a35644e4d4f657169616962616f6d466962616534504d34696143577959537732684975776c4c3550674b6c6a70474f65737662774d50684c584f666d6d72444a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY1ReoqjSgX3aKqfJ5dNMOeqiaibaomFibae4PM4iaCWyYSw2hIuwlL5PgKljpGOesvbwMPhLXOfmmrDJw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>五、查询文章素材知识库</strong>，点击应用内按钮**“最后查询知识库”<strong>，填入希望查询的内容，然后就会帮你</strong>查询到相关的内容。**</p>
+<p>注意：由于这里<strong>知识库绑定的是我的飞书表格链接的内容</strong>，所以只能查询到我的表格里面的内容.</p>
+<p><strong>如果希望拥有完整功能，可以到文章末尾查看如何购买</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4e2009fe3e3fd1b470614d6cac39fad815d63d0f81e2e72fd421508afff4d921/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a62347675664a7877655847387a774432696337513850447451506a4648576f64796b514a5935724c476f4b376d636c3055723250415066714852672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4e2009fe3e3fd1b470614d6cac39fad815d63d0f81e2e72fd421508afff4d921/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a62347675664a7877655847387a774432696337513850447451506a4648576f64796b514a5935724c476f4b376d636c3055723250415066714852672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vufJxweXG8zwD2ic7Q8PDtQPjFHWodykQJY5rLGoK7mcl0Ur2PAPfqHRg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2396ec0374c8ab8c02b1f2711ea77dc39d14dd71300dc68d263abfc414942c8e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a62347675706e416f38705279327a6869633063354a33456871654531454b7448377830394f3031696331474a52387a744f646c546c45507a4b4230412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2396ec0374c8ab8c02b1f2711ea77dc39d14dd71300dc68d263abfc414942c8e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a62347675706e416f38705279327a6869633063354a33456871654531454b7448377830394f3031696331474a52387a744f646c546c45507a4b4230412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vupnAo8pRy2zhic0c5J3EhqeE1EKtH7x09O01ic1GJR8ztOdlTlEPzKB0A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0caca73017f503d64c4be09e87003e08ccda99ddd2c0b47c6128d5e629e7081a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a623476754a31664d506961573430466e444c384a4c45505a6962696176345146784148356667536d6358614659656150624e4551626a66424136596b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0caca73017f503d64c4be09e87003e08ccda99ddd2c0b47c6128d5e629e7081a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559333869636f6354586d666e4654786a6e4d4a4a623476754a31664d506961573430466e444c384a4c45505a6962696176345146784148356667536d6358614659656150624e4551626a66424136596b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY38icocTXmfnFTxjnMJJb4vuJ1fMPiaW40FnDL8JLEPZibiav4QFxAH5fgSmcXaFYeaPbNEQbjfBA6YkA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>COZE商店链接：<strong><a href="https://www.coze.cn/s/iSQ7KchP/" rel="nofollow">https://www.coze.cn/s/iSQ7KchP/</a></strong></p>
+<p>飞书表格链接：</p>
+<p><strong><a href="https://zrstx1ebls.feishu.cn/sheets/CgXnssdW0hlC3Gtkw3Ecc4vOn66" rel="nofollow">https://zrstx1ebls.feishu.cn/sheets/CgXnssdW0hlC3Gtkw3Ecc4vOn66</a></strong></p>
+<p>下面介绍应用的制作，分为三个部分</p>
+<p>一、制作思路介绍</p>
+<p>二、制作流程介绍</p>
+<p>三、如何购买应用</p>
+<hr>
+<p><strong>一、制作思路介绍</strong></p>
+<p>1、下面是<strong>核心工作流wechat_data2table_imitation</strong>的业务流程图；</p>
+<p><strong>最下面工作链</strong>完成<strong>拆解文章、保存到飞书表格、生成仿写promot</strong>这三个事项；</p>
+<p><strong>中间工作链</strong>完成<strong>仿写文章事项</strong>；</p>
+<p><strong>最上面</strong>工作链完成<strong>生成播客</strong>事项；</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/30ab8e80369efca8cd62b5b6bb44b4764d6b0383bba4a14190f15c199a1df5c7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930696151666f4c6a76304a69624a4f4f46716d304d627a6a45683453426e50383234504b664f76616657505871526e3879594b6961516d7952356963706c63696346786746384e646b4769614b4c4b5363672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/30ab8e80369efca8cd62b5b6bb44b4764d6b0383bba4a14190f15c199a1df5c7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a43565652655930696151666f4c6a76304a69624a4f4f46716d304d627a6a45683453426e50383234504b664f76616657505871526e3879594b6961516d7952356963706c63696346786746384e646b4769614b4c4b5363672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY0iaQfoLjv0JibJOOFqm0MbzjEh4SBnP824PKfOvafWPXqRn8yYKiaQmyR5icplcicFxgF8NdkGiaKLKScg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>2、下面是<strong>生成播客工作流url2PodcastTwoPerson</strong>（在官方模板上做了修改）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8557ab982e98826421b5a0e9839501068573606cf91c5250ecbbd18f9d7ba00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954576b684a325a306c33427965766b42777670366b677a4b5439474734634636474a7549716a4b516331374e794a46324a6561684b63512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b8557ab982e98826421b5a0e9839501068573606cf91c5250ecbbd18f9d7ba00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954576b684a325a306c33427965766b42777670366b677a4b5439474734634636474a7549716a4b516331374e794a46324a6561684b63512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTWkhJ2Z0l3ByevkBwvp6kgzKT9GG4cF6GJuIqjKQc17NyJF2JeahKcQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>3、还有一个<strong>查询知识库工作流search_wechat_table</strong>，比较简单就不说了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94ed880b7d33644c2f3167f8cd42814b7a7ef6df1f31633c4bd9ed4fea1eac75/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479543068434d655249583169626a4b69634c51316a534e4a48766f6173634e55367852667259775a546d61304a78573961696369626d3375435153512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/94ed880b7d33644c2f3167f8cd42814b7a7ef6df1f31633c4bd9ed4fea1eac75/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479543068434d655249583169626a4b69634c51316a534e4a48766f6173634e55367852667259775a546d61304a78573961696369626d3375435153512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT0hCMeRIX1ibjKicLQ1jSNJHvoascNU6xRfrYwZTma0JxW9aicibm3uCQSQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>二、制作流程介绍</strong></p>
+<p>这里就只介绍主要的工作流<strong>wechat_data2table_imitation</strong>，下面是工作流截图</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff4d42f761b4005c391703fcd2e02fdd4ca518651e0b3d400b41b81d68719971/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479543452543573777a59586d6d5a714f79506963634e66577469624d5a527456676961514c39664f49385746463357367354334b626367636c6f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ff4d42f761b4005c391703fcd2e02fdd4ca518651e0b3d400b41b81d68719971/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479543452543573777a59586d6d5a714f79506963634e66577469624d5a527456676961514c39664f49385746463357367354334b626367636c6f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT4RT5swzYXmmZqOyPiccNfWtibMZRtVgiaQL9fOI8WFF3W6sT3Kbcgclow/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>1、最下面的业务链完成了<strong>拆解文章****、保存到飞书表格和****生成仿写prompt</strong>这三个事项。</p>
+<p><strong>（1）拆解文章：</strong> 由于总共<strong>拆解了25项内容</strong>，所以用了<strong>两个AI大模型</strong>来完成这个工作，我测试<strong>普通版COZE里面还是用kimi大模型更合适</strong>一些。</p>
+<p>特别说明的是，这里<strong>文章拆解prompt</strong>我是找了一些拆解文章的资料写出来的。<strong>这里的prompt对于后面生成仿写prompt的质量起到决定性影响</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/870e0c1f6c245102e2323c199ea3bd60f6dde57c081264f675c57571e308f091/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795430686342636d7832734a43725466414954644677475162384a687a4f32797562734f53504d6a62786556427263444c54467468696332772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/870e0c1f6c245102e2323c199ea3bd60f6dde57c081264f675c57571e308f091/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795430686342636d7832734a43725466414954644677475162384a687a4f32797562734f53504d6a62786556427263444c54467468696332772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT0hcBcmx2sJCrTfAITdFwGQb8JhzO2yubsOSPMjbxeVBrcDLTFthic2w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/72380dc38adfe8ba053514ca1acd954470bfe590dec2c3a3fc411eacb6806bc6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479547a5477485545536566374f38717168765a534331635635537943454e4b624579617378704172386f565a474c3074373046545a696254412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/72380dc38adfe8ba053514ca1acd954470bfe590dec2c3a3fc411eacb6806bc6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479547a5477485545536566374f38717168765a534331635635537943454e4b624579617378704172386f565a474c3074373046545a696254412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTzTwHUESef7O8qqhvZSC1cV5SyCENKbEyasxpAr8oVZGL0t70FTZibTA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>拆解之后进行格式转换，转换为飞书表格所要求的格式</strong>，将两个大模型所生成的25项内容，按照格式进行输出。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4e725da10e933e8e76b8000b5f9be97d126ac04aaa2c6877d97f9088d41361c3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954736c474b68384b535078474d4162324c546d4d795769636442534e747645345878417a5466504b426963347a644135796873675772364b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4e725da10e933e8e76b8000b5f9be97d126ac04aaa2c6877d97f9088d41361c3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954736c474b68384b535078474d4162324c546d4d795769636442534e747645345878417a5466504b426963347a644135796873675772364b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTslGKh8KSPxGMAb2LTmMyWicdBSNtvE4XxAzTfPKBic4zdA5yhsgWr6Kg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>（2）将格式转换的内容<strong>保存到飞书表格</strong>：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe2c93fa7b5e252e3be40e70124e2e09e995c6989abd82fd9d8b79c94cfb2ccf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795436617871686e78724b65774b417a7264445a4a6962654a744f616152397669637a3451786962706a486f375972327432577a7a5962345678412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fe2c93fa7b5e252e3be40e70124e2e09e995c6989abd82fd9d8b79c94cfb2ccf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795436617871686e78724b65774b417a7264445a4a6962654a744f616152397669637a3451786962706a486f375972327432577a7a5962345678412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT6axqhnxrKewKAzrdDZJibeJtOaaR9vicz4QxibpjHo7Yr2t2WzzYb4VxA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>（3）生成仿写prompt</strong>：根据拆解的内容，将一篇文章拆分为了：<strong>标题、开头、中间主题部分和结尾</strong>这四个部分，所以需要<strong>生成四个仿写prompt</strong>。</p>
+<p>下面以<strong>文章开头部分prompt</strong>为例，将前面拆解的<strong>文章选题分析、文章标题拆解、文章切入角度分析、文章用户画像分析、文章框架拆解、文章开头拆解</strong>置于<strong>开头prompt中</strong>，让AI<strong>根据这些内容来创作文章开头部分</strong>。</p>
+<div class="highlight highlight-text-md"><pre class="notranslate"><span class="pl-mh"># <span class="pl-en">Role 公众号爆款文章创作专家</span></span>
+<span class="pl-mh">## <span class="pl-en">Profile</span></span>
+<span class="pl-v">-</span> author: 王笑东
+<span class="pl-v">-</span> version: 1.0
+<span class="pl-v">-</span> LLM: kimi
+<span class="pl-v">-</span> language: 中文
+<span class="pl-v">-</span> description: 根据所给出的一些资料和素材，创作出公众号爆款文章。
+
+<span class="pl-mh">## <span class="pl-en">Background</span></span>
+<span class="pl-v">-</span> 一篇爆款10W+公众号文章，总共由以下四个部分组成：
+{
+<span class="pl-v">-</span> 标题
+<span class="pl-v">-</span> 文章开头
+<span class="pl-v">-</span> 中间主题部分
+<span class="pl-v">-</span> 文章结尾
+}
+<span class="pl-v">-</span> 这四个部分由四个AI分别创作，你来创作其中【文章开头】部分。
+<span class="pl-v">-</span> 请按照如下信息进行创作：
+1.文章选题{{String1}}。需要模仿的文章标题{{String2}}。对标题的拆解{{String3}}
+2.文章的切入角度：{{String4}}。文章的用户画像{{String5}}。
+3.文章框架的拆解{{String6}}，注意使用文章框架，让分工创作更加统一。
+4.文章开头的拆解{{String7}}
+
+<span class="pl-mh">## <span class="pl-en">Goals</span></span>
+<span class="pl-v">-</span> 根据以上信息，创作出文章的【开头】部分。
+<span class="pl-v">-</span> 通过阅读我们创作的公众号文章，激发读者的共鸣和思考。
+
+<span class="pl-mh">## <span class="pl-en">Skills</span></span>
+<span class="pl-v">-</span> 善于利用所给的素材和拆解的内容创作出一篇公众号爆款文章
+<span class="pl-v">-</span> 以一个真实人类作者的身份进行创作
+<span class="pl-v">-</span> 句与句之间自然过渡，不使用连接词
+<span class="pl-v">-</span> 加入更多个人观点和情感
+<span class="pl-v">-</span> 更加口语化的表达，不使用严肃的正式的表达
+
+<span class="pl-mh">## <span class="pl-en">Constraints</span></span>
+<span class="pl-s">1</span><span class="pl-v">.</span> 按照所给定的信息进行创作，特别是一定要使用文章框架，确保你们分工创作的文章更具统一、完整。
+2.直接输出文章内容，禁止输出与文章无关的内容，禁止输出类似，“【中间主题部分】”或“### 分论点01：”这样的标题文字。
+3.禁止强调逻辑性的连接词出现，比如“首先”、“然后”、“最后”、“第一”、“第二”、“因为”、“所以”等。
+
+<span class="pl-mh">## <span class="pl-en">Workflow</span></span>
+1.创作出文章开头并输出</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0af603894dbc0623725db1e53c61eb9bc353d688095b13221f6f5cec1a9daf1d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795431316f4d7541315172315475704c524a47346b4e62696331617569624a5336616962303437343262586f57595648305234796d47786d7834772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0af603894dbc0623725db1e53c61eb9bc353d688095b13221f6f5cec1a9daf1d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795431316f4d7541315172315475704c524a47346b4e62696331617569624a5336616962303437343262586f57595648305234796d47786d7834772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT11oMuA1Qr1TupLRJG4kNbic1auibJS6aib04742bXoWYVH0R4ymGxmx4w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后将<strong>4个prompt文本赋值给4个变量</strong>（prompt0、prompt1、prompt2、prompt3），便于后面调用。</p>
+<p>新建一个<strong>卡片</strong>，<strong>设置好变量和模版</strong>，然后与**“收藏消息”节点和里面的变量进行关联**。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/75f7fe5d66084a91e5950a0529c3d9e0184af73e4c363643ea54ee528415a8a3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954444f4a62304e7a5075324b75546b585174325a5131746654626e696145327a4d4f53536f326243313969634d3337325075655a4e504a53672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/75f7fe5d66084a91e5950a0529c3d9e0184af73e4c363643ea54ee528415a8a3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954444f4a62304e7a5075324b75546b585174325a5131746654626e696145327a4d4f53536f326243313969634d3337325075655a4e504a53672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTDOJb0NzPu2KuTkXQt2ZQ1tfTbniaE2zMOSSo2bC19icM372PueZNPJSg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/401fce9a53a8431919af2874bf401f6eec86e549bcac7502a1e37bbd973f47f2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954385469633977424f36666f364e76436961685634765a4b756a4e78754464624863745a365379786a4a69614b346962496556326c664338446b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/401fce9a53a8431919af2874bf401f6eec86e549bcac7502a1e37bbd973f47f2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954385469633977424f36666f364e76436961685634765a4b756a4e78754464624863745a365379786a4a69614b346962496556326c664338446b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT8Tic9wBO6fo6NvCiahV4vZKujNxuDdbHctZ6SyxjJiaK4ibIeV2lfC8DkA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a85a4170d8ef78497b55e41bf156a9d97f2ba1f654ccd369895716542ff86f6f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954547339484766534a6465774a75564362576c36347a3937747362745a7256686a576c676962744973796e337578347938466259454859512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a85a4170d8ef78497b55e41bf156a9d97f2ba1f654ccd369895716542ff86f6f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954547339484766534a6465774a75564362576c36347a3937747362745a7256686a576c676962744973796e337578347938466259454859512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTTs9HGfSJdewJuVCbWl64z97tsbtZrVhjWlgibtIsyn3ux4y8FbYEHYQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击拆解文章卡片末尾的<strong>按钮“仿写这篇文章”</strong>，弹出回复**“我要仿写这篇文章”**，进入下一业务链条。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b1e0d1c987cd6847463d2f05df529251946838ccdcfb96a5d779570cbc280482/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954746f69635a326d484a307033417a4e483757716f78347169624330336b53767261594e6861506e7a535462677446676e6863334d7a7977772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b1e0d1c987cd6847463d2f05df529251946838ccdcfb96a5d779570cbc280482/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954746f69635a326d484a307033417a4e483757716f78347169624330336b53767261594e6861506e7a535462677446676e6863334d7a7977772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTtoicZ2mHJ0p3AzNH7Wqox4qibC03kSvraYNhaPnzSTbgtFgnhc3Mzyww/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>2、中间的业务链完成<strong>仿写文章</strong>事项。</p>
+<p>选择器节点<strong>判断用户回复内容=“我要仿写这篇文章”</strong>，即进入这一业务链。</p>
+<p>首先提取<strong>4个变量</strong>（prompt0、prompt1、prompt2、prompt3），将这4个prompt直接作为4个大模型提示词。</p>
+<p>生成文本后，组合成完整文章。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/15c6aab57350366bb7fcd451fe738bba08740d9f0c64a0fe78d522d8d40e0f9d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954613638344f564d67696158385633696132794b4a565335346d6f6c74596d6c47426a5642556465696133306a314c63473963575358503056412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/15c6aab57350366bb7fcd451fe738bba08740d9f0c64a0fe78d522d8d40e0f9d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954613638344f564d67696158385633696132794b4a565335346d6f6c74596d6c47426a5642556465696133306a314c63473963575358503056412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTa684OVMgiaX8V3ia2yKJVS54moltYmlGBjVBUdeia30j1LcG9cWSXP0VA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f94da5a5522b3803fc44b0b24606bc10cff11e5a8e3d7fdb3db35dcd616128ec/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479546963347a53713244754632454d72734358557875524564474369624367356f6e434c6b4f307a764e61654a6c396f50646f664766393138672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f94da5a5522b3803fc44b0b24606bc10cff11e5a8e3d7fdb3db35dcd616128ec/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479546963347a53713244754632454d72734358557875524564474369624367356f6e434c6b4f307a764e61654a6c396f50646f664766393138672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTic4zSq2DuF2EMrsCXUxuREdGCibCg5onCLkO0zvNaeJl9oPdofGf918g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后新建一个<strong>卡片</strong>，<strong>设置好变量（title和content）</strong>。将<strong>选择好的5个bgm如下图设置到卡片上</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bb455a084c15c24bf597eb3bb61b84a889c7ddd3095751d65f33ca1d27b683a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795471767836424c5955696373785a487442656d33445576505a4d356368374d6c5577725136354b3467674d6b4f5348387569627971415170772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bb455a084c15c24bf597eb3bb61b84a889c7ddd3095751d65f33ca1d27b683a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795471767836424c5955696373785a487442656d33445576505a4d356368374d6c5577725136354b3467674d6b4f5348387569627971415170772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTqvx6BLYUicsxZHtBem3DUvPZM5ch7MlUwrQ65K4ggMkOSH8uibyqAQpw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>在bot界面，将这个卡片绑定在<strong>wechat_data2table_imitation-****消息仿写文章</strong>节点上。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d2a471005e03ace151a3a33bfcec5b06f3610e63177c5c86f2b78ef0055647b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479545768756962525a4139346f495068554439704f6d683677395a373957494f4d376d696265596e4a43306c437876334a676745456369614351512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1d2a471005e03ace151a3a33bfcec5b06f3610e63177c5c86f2b78ef0055647b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479545768756962525a4139346f495068554439704f6d683677395a373957494f4d376d696265596e4a43306c437876334a676745456369614351512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTWhuibRZA94oIPhUD9pOmh6w9Z79WIOM7mibeYnJC0lCxv3JggEEciaCQQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>最后不要忘了将生成的<strong>标题和文章</strong>分别赋值给变量<strong>title和content</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/584f2c246d5f51ef861ad9c75cde768237c1d0347d815b70897714b36001a026/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954495759707231487a7a42454c54524743523662726e596f4a753855396c4979456f6c564b77495368484230346d3532486532764346412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/584f2c246d5f51ef861ad9c75cde768237c1d0347d815b70897714b36001a026/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954495759707231487a7a42454c54524743523662726e596f4a753855396c4979456f6c564b77495368484230346d3532486532764346412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTIWYpr1HzzBELTRGCR6brnYoJu8U9lIyEolVKwIShHB04m52He2vCFA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>应用界面点击任意一个bgm，会<strong>自动弹出回复"制作博客，选择bgmX"</strong>，然后进入下一个业务链。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/70107ba2d38dacecaf8da614361a8ff89be527566876c48e26bea7d5221e50f0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954384a396c6f41384d4635505475767a5957736d4958664741564e4c6475725958346d34594b6b39593359457169636d63376659507647412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/70107ba2d38dacecaf8da614361a8ff89be527566876c48e26bea7d5221e50f0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954384a396c6f41384d4635505475767a5957736d4958664741564e4c6475725958346d34594b6b39593359457169636d63376659507647412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT8J9loA8MF5PTuvzYWsmIXfGAVNLdurYX4m4YKk9Y3YEqicmc7fYPvGA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>3、最上面的业务链完成<strong>生成播客</strong>事项。</p>
+<p>选择器节点<strong>判断用户回复内容=制作播客，选择bgmX，即进入5个被赋值不同网址的变量bgm上，然后提取变量bgm，这样这个变量bgm就是相应bgm的网址</strong>了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9ee751ff5bd5aa20a521a5d398ecc62054756702f5ce861a4b8c1ce3286fad2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479544a67416f594a776a473247743562384b51717455634350354f624b4a77514e494175456c5a46546b376169613946503866483550696146412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c9ee751ff5bd5aa20a521a5d398ecc62054756702f5ce861a4b8c1ce3286fad2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479544a67416f594a776a473247743562384b51717455634350354f624b4a77514e494175456c5a46546b376169613946503866483550696146412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTJgAoYJwjG2Gt5b8KQqtUcCP5ObKJwQNIAuElZFTk7aia9FP8fH5PiaFA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后提取变量title、content，再加上前面的bgm，将这三个变量导入生成播客工作流“<strong>url2PodcastTwoPerson</strong>”（下面图片介绍的很详细）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8a76d8bc54be332f49a2dc8b1e83b93d19554769c96e511b4952ea234e879a01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954546a7532736963474b4d7035636d6f53306e66377154544272475351636c617743517255575546477043766c43646f3548543043796f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8a76d8bc54be332f49a2dc8b1e83b93d19554769c96e511b4952ea234e879a01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954546a7532736963474b4d7035636d6f53306e66377154544272475351636c617743517255575546477043766c43646f3548543043796f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTTju2sicGKMp5cmoS0nf7qTTBrGSQclawCQrUWUFGpCvlCdo5HT0Cyow/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8557ab982e98826421b5a0e9839501068573606cf91c5250ecbbd18f9d7ba00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954576b684a325a306c33427965766b42777670366b677a4b5439474734634636474a7549716a4b516331374e794a46324a6561684b63512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b8557ab982e98826421b5a0e9839501068573606cf91c5250ecbbd18f9d7ba00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954576b684a325a306c33427965766b42777670366b677a4b5439474734634636474a7549716a4b516331374e794a46324a6561684b63512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTWkhJ2Z0l3ByevkBwvp6kgzKT9GG4cF6GJuIqjKQc17NyJF2JeahKcQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>至此，这个应用的介绍结束了。</p>
+<p><strong>三、如何购买应用</strong></p>
+<p>先说一下我为什么这个时候推出这个付费项目。</p>
+<p><strong>1、从市场角度来看</strong>：</p>
+<p>其实不少人一直问我应用怎么购买？我之前一直并没打算去做这个动作。是因为我觉得<strong>之前无论是技术还是在找场景方面都还不够成熟</strong>，做出来的应用更多给人一种新鲜感，类似玩具一样，<strong>并不具有真正的实用价值</strong>；</p>
+<p>所以我之前非但没有出售我做的应用，我还免费让大家加入到我的COZE团队，免费查看我做的应用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8086c5549aeac4cb05a098b737c7737f8dcaa9e47fbdbe7fe3391e9bfbbdf252/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954323365596b304a6774536464646d394937696341747935567158627648596567676a67614d77614144696246753373573430685a395136512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8086c5549aeac4cb05a098b737c7737f8dcaa9e47fbdbe7fe3391e9bfbbdf252/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954323365596b304a6774536464646d394937696341747935567158627648596567676a67614d77614144696246753373573430685a395136512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT23eYk0JgtSdddm9I7icAty5VqXbvHYeggjgaMwaADibFu3sW40hZ9Q6Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>但是现在不一样了，现在<strong>无论技术还是在应用场景方面，逐渐的走出了第一个初级阶段了</strong>。</p>
+<p>我做的应用也<strong>越来越偏向于实际业务场景</strong>了。</p>
+<p>而且还有一个原因是，<strong>只有付费的用户，才会认真的和我沟通需求问题</strong>。</p>
+<p>没有付费的用户，可能就不会认真的沟通需求，只是本着反正也不吃亏就问一问的态度，其实对双方都不好。</p>
+<p>现在市面上已经<strong>出现了各种AI应用产品</strong>了，虽然良莠不齐，需要认真的挑选。但是的确<strong>慢慢的开始应用于实际业务场景了</strong>。</p>
+<p>我这边也已经有客户完成了<strong>商务洽谈阶段，深度沟通了业务和技术需求，开始进入开发阶段了</strong>。</p>
+<p><strong>2、从用户角度来看</strong>：</p>
+<p>1、如果你是希望<strong>学习并跟进AI趋势，让自己成为超级个体，成立一人公司</strong>等等，那么<strong>学做AI应用是最好的方式，没有之一</strong>，因为做出AI应用你就<strong>必须了解最新的AI技术及趋势</strong>，并且<strong>思考如何将其与真实的业务场景相融合</strong>，在这个过程中你将<strong>最快最深入的进入到AI开发产品领域</strong>。</p>
+<p>未来一定是有<strong>产品思维+AI的加持</strong>，才能称得上是<strong>超级个体</strong>。</p>
+<p>2、如果你在工作、生活、学习中，需要<strong>用到AI为你提效或提质</strong>（比如我上一篇文章所作的**<a href="http://mp.weixin.qq.com/s?__biz=MzA3MTU4NTAyMQ==&amp;mid=2247484440&amp;idx=1&amp;sn=27feed24f5a0d2711c8200b827ea0f9b&amp;chksm=9f2a198aa85d909c72f07f741a71db699d4bed2a48db1d1f3eab3f010b438d151fcb2c8bf613&amp;scene=21#wechat_redirect" rel="nofollow">个人收藏夹+知识库</a>**就为个人提效）。</p>
+<p>现在为什么<strong>通用大模型不能满足大家的需求</strong>了呢？因为大家已经不希望AI仅仅是玩具了，需要它<strong>能真正的解决问题</strong>。这个时候的AI应用就不是通用的了，就只能<strong>解决一小部分人的一小部分需求</strong>，但却是<strong>真正的解决了需求</strong>。</p>
+<p>如果你能<strong>准确的提出好的需求</strong>，那么非常欢迎你加入，<strong>好的需求能得到****现金奖励</strong>（后面会说到）</p>
+<p>3、如果你是<strong>企业高管或负责人</strong>，你肯定也发现了AI<strong>好像也可以给自己公司的某些业务提效或提质，或者能够结合自己的业务顺便给自己的上下游企业用户提供AI产品及服务</strong>。将不同程度的<strong>提升自己的产品或服务的附加值</strong>，非常值得尝试。</p>
+<p>但是<strong>很可能投入成本不可控</strong>，<strong>找不到切入点</strong>，或<strong>没人能告诉你如何用AI与业务相结合</strong>，<strong>无法做出完整的业务流程图</strong>，也<strong>没有产品demo可以体验</strong>，<strong>更找不到合适的技术团队</strong>。</p>
+<p>那么也欢迎你的加入，我可以<strong>免费提供售前咨询</strong>并帮助你<strong>做出产品demo（用COZE做核心功能）或业务流程图</strong>（后面会说到）。</p>
+<p><strong>3、如何加入</strong>：</p>
+<p>我将以<strong>开通知识星球的方式</strong>提供我的价值，<strong>暂定价299元/年，先以99元/年的价格(10个名额)做最少一个月的测试</strong>。</p>
+<p>加入之后的权益如下：</p>
+<p>1、<strong>加入我的COZE团队，免费查看、复制所有AI应用及工作流</strong>等（加入后查看置顶贴，添加我的微信，备注知识星球会员，将COZE用户名发给我，我拉你加入）；</p>
+<p>点击链接查看并体验全部应用列表：<strong><a href="https://www.coze.cn/s/iSGU42fD/" rel="nofollow">https://www.coze.cn/s/iSGU42fD/</a></strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/468421208bff0328a3db96f281135ca85608bd02b408a114d186b80ab33880d0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954346b6c316e47565648624d51734d564c75546f4753534e79466a596f69623169613567554e4e546b356831734d566b32656a4e4568756c672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/468421208bff0328a3db96f281135ca85608bd02b408a114d186b80ab33880d0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d4366647954346b6c316e47565648624d51734d564c75546f4753534e79466a596f69623169613567554e4e546b356831734d566b32656a4e4568756c672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT4kl1nGVVHbMQsMVLuToGSSNyFjYoib1ia5gUNNTk5h1sMVk2ejNEhulg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p> 2、每个月可以在星球<strong>免费向我咨询20个AI相关的问题</strong>（微信里问我不一定能及时回复，可能会漏掉）；</p>
+<p> 3、我会<strong>持续不定期制作COZE应用（一个月1-2个应用）</strong>，可以<strong>向我提供你的应用需求</strong>，我会从中<strong>挑选优质的需求去制作</strong>，并会根据应用的价值，对<strong>提出优质需求的朋友进行现金奖励</strong>（优质的需求本身就值钱）；</p>
+<p> 4、我会经常<strong>分享我个人关于AI方面或产品方面的思考或见解</strong>；</p>
+<p> 5、有定制开发需求的朋友，可以私下联系我，我可以<strong>免费用COZE帮你做产品demo（核心功能）或画出业务流程图。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/150c2d49e1c55fc5825390d7c043b4287083c0fe43cc49ac49574b4591691459/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479546e396d477a79645a316c654344474a553969637a61716b473738426b49664268665633704f664b515441625549703236356d6a444b66772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/150c2d49e1c55fc5825390d7c043b4287083c0fe43cc49ac49574b4591691459/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d43666479546e396d477a79645a316c654344474a553969637a61716b473738426b49664268665633704f664b515441625549703236356d6a444b66772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyTn9mGzydZ1leCDGJU9iczaqkG78BkIfBhfV3pOfKQTAbUIp265mjDKfw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>有兴趣的同学扫码加入</p>
+<p>往期内容：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA3MTU4NTAyMQ==&amp;mid=2247484440&amp;idx=1&amp;sn=27feed24f5a0d2711c8200b827ea0f9b&amp;chksm=9f2a198aa85d909c72f07f741a71db699d4bed2a48db1d1f3eab3f010b438d151fcb2c8bf613&amp;scene=21#wechat_redirect" rel="nofollow">手把手教你用COZE制作AI收藏夹+个人知识库，好用~</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA3MTU4NTAyMQ==&amp;mid=2247484378&amp;idx=1&amp;sn=e3b1862cd4fbf705d60e1a4f3bf75c9e&amp;chksm=9f2a1e48a85d975eda50098945c2b4119510d9ae396521a0de072afcba206b1e7501a3a4eaf8&amp;scene=21#wechat_redirect" rel="nofollow">COZE全要素拆解+模仿10W+爆款文章</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA3MTU4NTAyMQ==&amp;mid=2247484356&amp;idx=1&amp;sn=cc108080f6c41b67b1218703cd7083c6&amp;chksm=9f2a1e56a85d974011290188046dd7435c93406e231c37477c58d379f8c4572b10e1bf6def35&amp;scene=21#wechat_redirect" rel="nofollow">2个案例 | 从产品思维看，将AI大模型“嵌入”到业务中</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA3MTU4NTAyMQ==&amp;mid=2247484274&amp;idx=1&amp;sn=f51c766a6f8981051b030f9e582b4179&amp;chksm=9f2a1ee0a85d97f6cb9f066ed7f07d66e06769a27fbac04de689d4d0173adab79b0bd856be6d&amp;scene=21#wechat_redirect" rel="nofollow">技术流，细节超多，手把手教你制作COZE工程级应用</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA3MTU4NTAyMQ==&amp;mid=2247484230&amp;idx=1&amp;sn=27180d8debd7c4d83f96dc2a342b86f9&amp;chksm=9f2a1ed4a85d97c26112304ed365e62b728f2e1ca6b5b77ce23362420c51b9e24234b5df47ef&amp;scene=21#wechat_redirect" rel="nofollow">COZE应用的灵魂，90+高质量prompt，一次带走</a></p>
+<p>欢迎<strong>点赞、转发、在看</strong>给我鼓励</p>
+<p>如果觉得本文有用请</p>
+<p>👇👇关注我👇👇</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6375d02967c429acb1b4fa82ab0f0d2c866e510e5caf19af1195a285c8f53c0f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795437626c6730683033456b4634556f34564f65655a7a78356f3051614f633273544f495175645357426e737762596b6536584f6962736962512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6375d02967c429acb1b4fa82ab0f0d2c866e510e5caf19af1195a285c8f53c0f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a397a435656526559325a4b6d4847756963704b7335314d33424d436664795437626c6730683033456b4634556f34564f65655a7a78356f3051614f633273544f495175645357426e737762596b6536584f6962736962512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2j9zCVVReY2ZKmHGuicpKs51M3BMCfdyT7blg0h03EkF4Uo4VOeeZzx5o0QaOc2sTOIQudSWBnswbYke6XOibsibQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>题图标题：《微缩火车进站》</p>
+<p>AI算法提供：FLUX</p>
+<p>mnjt,This photo is a very detailed and surreal picture of the ancient railway station in Guya. The central focus is a stylish and modern train with a black metal exterior. The train is placed on a set of train tracks that run diagonally through the image from the bottom left corner to the top right corner,creating a sense of depth and perspective. The train stopped on the platform,and two miniature figures dressed in early 20th century railway worker uniforms were talking. One person is standing on the platform,while the other is on the train. The background features a detailed micro urban landscape,including intricate buildings,streetlights,and lush green trees. These buildings are decorated with warm yellow orange lights,projecting a comfortable and enticing glow that contrasts sharply with the cool metallic tones of trains and tracks. The ground is covered with gravel,increasing the realism of the scene. The entire image is rich in details,with lifelike miniature characters and structures,and is well crafted. The overall atmosphere is peaceful and nostalgic,capturing moments of human interaction and connection in a carefully designed miniature world.,</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

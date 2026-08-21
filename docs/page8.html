@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容">
+<meta property="og:title" content="Johnson的备忘录">
+<meta property="og:description" content="这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容">
+<meta property="og:type" content="blog">
+<meta property="og:url" content="https://126.plus">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Johnson的备忘录</title>
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.avatar {transition: 0.8s;width:64px;height:64px;object-fit: cover;}
+.avatar:hover{transform: scale(1.15) rotate(360deg);}
+.title-left a{color:inherit;text-decoration:none;vertical-align: bottom;font-size:40px;font-weight: bold;font-family:Monaco;margin-left:8px;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right button{margin-right:8px;padding:16px;}
+.title-right .circle{padding: 14px 16px;}
+
+.SideNav{min-width: 360px;}
+.SideNav-icon{margin-right: 16px}
+.SideNav-item .Label{color: #fff;margin-left:4px;}
+.d-flex{min-width:0;}
+.listTitle{overflow:hidden;white-space:nowrap;text-overflow: ellipsis;max-width: 100%;}
+.listLabels{white-space:nowrap;display:flex;}
+.listLabels object{max-height:16px;max-width:24px;}
+
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .avatar {width:40px;height:40px;}
+    .blogTitle{display:none;}
+    #buttonRSS{display:none;}
+    .LabelTime{display:none;}
+}
+</style>
+
+
+
+<body>
+    <div id="header">
+<div class="title-left">
+    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">Johnson的备忘录</a></div>
+<div class="title-right">
+    <a href="https://126.plus/tag.html" id="buttonSearch" class="btn btn-invisible circle" title="搜索">
+        <svg class="octicon" width="16" height="16" >
+            <path id="pathSearch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    <a href="https://github.com/szwnba" class="btn btn-invisible circle" title="github" target="_blank">
+        <svg class="octicon" width="16" height="16" >
+            <path id="github" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    <a href="https://126.plus/about.html" class="btn btn-invisible circle" title="关于">
+        <svg class="octicon" width="16" height="16" >
+            <path id="关于" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    <a href="https://126.plus/rss.xml" target="_blank" id="buttonRSS" class="btn btn-invisible circle" title="RSS">
+        <svg class="octicon" width="16" height="16" >
+            <path id="pathRSS" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    <a class="btn btn-invisible circle" onclick="modeSwitch()" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+</div>
+</div>
+    <div id="content">
+<div style="margin-bottom: 16px;">这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</div>
+<nav class="SideNav border">
+<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/Gmeek-kuai-su-shang-shou.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">Gmeek快速上手</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#AAE0A7"><object><a style="color:#fff" href="tag.html#Devops">Devops</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-18</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/gong-zhong-hao-bao-kuan-wen-zhang-zen-me-cha-zhao.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">公众号爆款文章怎么查找</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#自媒体">自媒体</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-17</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/rang-AI-sheng-cheng-%E3%80%8C-mei-you-AI-wei-%E3%80%8D-de-wen-zhang-%EF%BC%9A-yi-ge-%E3%80%8C-jian-shao-AI-wei-%E3%80%8D-de-tong-yong-ti-shi-ci-%EF%BC%88-sheng-ji-ban-%EF%BC%89.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">让AI生成「没有AI味」的文章：一个「减少AI味」的通用提示词（升级版）</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#5319e7"><object><a style="color:#fff" href="tag.html#OpenAI">OpenAI</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-16</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/yi-pian-wen-zhang-zhuan-le-1000-yuan-%EF%BC%8C-xie-gong-zhong-hao-zhen-de-neng-zhuan-qian-%EF%BC%8C-teng-xun-cheng-bu-qi-wo.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">一篇文章赚了1000元，写公众号真的能赚钱，腾讯诚不欺我</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#自媒体">自媒体</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-16</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/wei-shen-me-ni-gong-zhong-hao-jian-chi-ri-geng-%EF%BC%8C-que-mei-liu-liang-%EF%BC%9F99%25-de-ren-du-gao-cuo-le.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">为什么你公众号坚持日更，却没流量？99%的人都搞错了</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#自媒体">自媒体</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-16</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/cheng-wei-ri-geng-de-gao-chan-xie-zuo-zhe-%EF%BC%9F-zhe-10-ge-su-cai-shou-ji-lai-yuan-yi-ding-bu-yao-cuo-guo-%EF%BC%81.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">成为日更的高产写作者？这10个素材收集来源一定不要错过！</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#自媒体">自媒体</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-16</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/2024-zuo-ge-zhuan-qian-de-wei-xin-gong-zhong-hao-%EF%BC%8C-quan-liu-cheng-%EF%BC%88-jian-yi-shou-cang-%EF%BC%89.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">2024做个赚钱的微信公众号，全流程（建议收藏）</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#自媒体">自媒体</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-16</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/81-nian-%EF%BC%8C43-sui-%EF%BC%8C-jin-tian-shou-ru-38.75-yuan-%EF%BC%8C-fen-xiang-yi-ge-ji-hao-de-bei-dong-fu-ye-shou-ru-guan-dao-%EF%BC%81.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">81年，43岁，今天收入38.75元，分享一个极好的被动副业收入管道！</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#自媒体">自媒体</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-16</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/yi-ge-ren-ru-he-zhu-ce-duo-ge-wei-xin-gong-zhong-hao-%EF%BC%9F%20-%20-hang-shi-xiong-%20-de-hui-da-%20-%20-zhi-hu.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">一个人如何注册多个微信公众号？ - 航师兄 的回答 - 知乎</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#自媒体">自媒体</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-16</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/AI-yuan-chuang-du-90%25%EF%BC%81-na-xie-10-wan-%2B-de-zuo-pin-yuan-lai-shi-pi-liang-sheng-cheng-de-%EF%BC%9F%EF%BC%88-han-shi-cao-liu-cheng-%EF%BC%89.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">AI原创度90%！那些10万+的作品原来是批量生成的？（含实操流程）</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#5319e7"><object><a style="color:#fff" href="tag.html#OpenAI">OpenAI</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-14</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/xia-ban-hou-%EF%BC%8C-si-ke-yi-ge-fu-ye-%EF%BC%8C-jiu-suan-shi-ye-ye-bu-pa-%EF%BC%81.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">下班后，死磕一个副业，就算失业也不怕！</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#项目">项目</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-13</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/sui-shi-shi-xiao-%EF%BC%81-ji-pin-AI-xiao-gong-ju-%EF%BC%81-yong-dao-shuang-%EF%BC%81.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">随时失效！极品AI小工具！用到爽！</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#5319e7"><object><a style="color:#fff" href="tag.html#OpenAI">OpenAI</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-12</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/zha-lie-%EF%BC%81-wen-zhang-fang-xie-%EF%BC%8C-yong-kimi-da-zao-zuo-bi-shen-qi-%EF%BC%81.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">炸裂！文章仿写，用kimi打造作弊神器！</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#5319e7"><object><a style="color:#fff" href="tag.html#OpenAI">OpenAI</a></object></span><span class="Label LabelName" style="background-color:#E6B022"><object><a style="color:#fff" href="tag.html#TODO">TODO</a></object></span><span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#自媒体">自媒体</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-12</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/gong-zhong-hao-po-wan-fen-le-%EF%BC%81-mei-yue-zi-dong-da-qian-%EF%BC%8C-fen-xiang-yi-ge-ji-hao-de-bei-dong-shou-ru-guan-dao-%EF%BC%81.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">公众号破万粉了！每月自动打钱，分享一个极好的被动收入管道！</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#006b75"><object><a style="color:#fff" href="tag.html#自媒体">自媒体</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-12</span>
+    </div>
+</a><a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/shou-fa-%EF%BC%81coze-gong-zuo-liu-jie-ru-claude%E3%80%81ollama-deng-zhong-duo-da-mo-xing-%EF%BC%8C-wan-mei-jie-jue-tai-gui-de-wen-ti-%E3%80%82.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="width:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">首发！coze工作流接入claude、ollama等众多大模型，完美解决太贵的问题。</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#5319e7"><object><a style="color:#fff" href="tag.html#OpenAI">OpenAI</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-11</span>
+    </div>
+</a>
+</nav><nav class="paginate-container" aria-label="Pagination">
+    <div class="pagination"><a class="previous_page" rel="previous" href="https://126.plus/page7.html" aria-label="Previous Page">上一页</a><a class="next_page" rel="next" href="https://126.plus/page9.html" aria-label="Next Page">下一页</a></div>
+</nav>
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'search': 'M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z', 'rss': 'M2.002 2.725a.75.75 0 0 1 .797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 0 1-1.497.098 10.502 10.502 0 0 0-9.776-9.776.747.747 0 0 1-.7-.798ZM2.84 7.05h-.002a7.002 7.002 0 0 1 6.113 6.111.75.75 0 0 1-1.49.178 5.503 5.503 0 0 0-4.8-4.8.75.75 0 0 1 .179-1.489ZM2 13a1 1 0 1 1 2 0 1 1 0 0 1-2 0Z', 'upload': 'M2.75 14A1.75 1.75 0 0 1 1 12.25v-2.5a.75.75 0 0 1 1.5 0v2.5c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25v-2.5a.75.75 0 0 1 1.5 0v2.5A1.75 1.75 0 0 1 13.25 14Z M11.78 4.72a.749.749 0 1 1-1.06 1.06L8.75 3.811V9.5a.75.75 0 0 1-1.5 0V3.811L5.28 5.78a.749.749 0 1 1-1.06-1.06l3.25-3.25a.749.749 0 0 1 1.06 0l3.25 3.25Z', 'post': 'M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25Zm1.75-.25a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25ZM3.5 6.25a.75.75 0 0 1 .75-.75h7a.75.75 0 0 1 0 1.5h-7a.75.75 0 0 1-.75-.75Zm.75 2.25h4a.75.75 0 0 1 0 1.5h-4a.75.75 0 0 1 0-1.5Z', 'about': 'M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathSearch").setAttribute("d",IconList["search"]);
+document.getElementById("pathRSS").setAttribute("d",IconList["rss"]);
+iconTOP=document.getElementsByClassName("svgTop1");
+iconPost=document.getElementsByClassName("svgTop0");
+for(var i=0;i<iconTOP.length;i++){
+    iconTOP[i].setAttribute("d",IconList["upload"]);
+    iconTOP[i].parentNode.style.color="red";
+}
+for(var i=0;i<iconPost.length;i++){
+    iconPost[i].setAttribute("d",IconList["post"]);
+}
+
+
+document.getElementById("github").setAttribute("d",value=IconList["github"]);
+
+document.getElementById("关于").setAttribute("d",value=IconList["about"]);
+</script>
+
+
+</html>

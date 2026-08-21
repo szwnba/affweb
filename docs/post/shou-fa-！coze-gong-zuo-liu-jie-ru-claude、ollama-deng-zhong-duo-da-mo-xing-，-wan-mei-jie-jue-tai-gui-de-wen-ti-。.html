@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/3WAfPxicpXckIOb8SplYOrrqOZ4S56CkDApVvMfPFky7xvoTjR1KfOqM7nn0mS82MYTUtGia4T6coOOL71L1pUZQ/640?wx_fmt=jpeg&from=appmsg)
+
+有人的地方就会有江湖，有需求的地方就会有商机。">
+<meta property="og:title" content="首发！coze工作流接入claude、ollama等众多大模型，完美解决太贵的问题。">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/3WAfPxicpXckIOb8SplYOrrqOZ4S56CkDApVvMfPFky7xvoTjR1KfOqM7nn0mS82MYTUtGia4T6coOOL71L1pUZQ/640?wx_fmt=jpeg&from=appmsg)
+
+有人的地方就会有江湖，有需求的地方就会有商机。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/shou-fa-%EF%BC%81coze-gong-zuo-liu-jie-ru-claude%E3%80%81ollama-deng-zhong-duo-da-mo-xing-%EF%BC%8C-wan-mei-jie-jue-tai-gui-de-wen-ti-%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>首发！coze工作流接入claude、ollama等众多大模型，完美解决太贵的问题。</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">首发！coze工作流接入claude、ollama等众多大模型，完美解决太贵的问题。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/612" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e9e36e55e0df16811dce2c3d5d782db700ae91cfbc7f9fdf48375bf53e17532d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b494f623853706c594f7272714f5a34533536436b44417056764d6650466b793778766f546a52314b664f714d376e6e306d5338324d59545574476961345436636f4f4f4c37314c3170555a512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e9e36e55e0df16811dce2c3d5d782db700ae91cfbc7f9fdf48375bf53e17532d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b494f623853706c594f7272714f5a34533536436b44417056764d6650466b793778766f546a52314b664f714d376e6e306d5338324d59545574476961345436636f4f4f4c37314c3170555a512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3WAfPxicpXckIOb8SplYOrrqOZ4S56CkDApVvMfPFky7xvoTjR1KfOqM7nn0mS82MYTUtGia4T6coOOL71L1pUZQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>有人的地方就会有江湖，有需求的地方就会有商机。</p>
+<p>你以为Coze是个大善人，免费让你用大模型，提供平台给你免费用，人家终究是要盈利的，最近Coze收费事件就在网上讨论的沸沸扬扬。</p>
+<p>作为资深白嫖党，即使我平时不怎么使用Coze，很多类似的开源项目都可以完美替代Coze。但不得不承认，Coze对技术小白太友好了，注册个账号，随便点几下就能体验AI带来的成就感。所以Coze的用户基数还是很大的，很多人都已经在上面创建了解决实际问题的工作流，换平台对于大多数人来说不是最好的选择。</p>
+<p>前几天在我的订阅专栏中发了一篇教程，将兼容openai接口的大模型接入coze工作流。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96c94efc0313c49f40e691a7c5c43970ff1e3ee4c83976bb4c604f1138b18e62/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b677447395172684b396d304642784147714f3169616c4861584632573034756c4c3869636169616d6577505852636d34306f3753374f47463575526e6b3451535a355130564c70367367794451672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/96c94efc0313c49f40e691a7c5c43970ff1e3ee4c83976bb4c604f1138b18e62/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f33574166507869637058636b677447395172684b396d304642784147714f3169616c4861584632573034756c4c3869636169616d6577505852636d34306f3753374f47463575526e6b3451535a355130564c70367367794451672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/3WAfPxicpXckgtG9QrhK9m0FBxAGqO1ialHaXF2W04ulL8icaiamewPXRcm40o7S7OGF5uRnk4QSZ5Q0VLp6sgyDQg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>大体思路就是单独保存一个工作流作为模型节点供其他工作流在过程中调用。</p>
+<p>经过测试完美运行，整个流程消耗coze 0 token，也就是0元购~~</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e41e8af9aff5a3feb3a161af0f16381b72855c7c0481f602fe1c82e53840d27d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636c68704c6b6550445a31586f55397743444779336e414d5277437a42744f417a797343357376584e64326d646b76674449774c6b4e5a46627269633742773277416d373169617458453369624b74512f3634303f77785f666d743d6a70656726777866726f6d3d33"><img src="https://camo.githubusercontent.com/e41e8af9aff5a3feb3a161af0f16381b72855c7c0481f602fe1c82e53840d27d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636c68704c6b6550445a31586f55397743444779336e414d5277437a42744f417a797343357376584e64326d646b76674449774c6b4e5a46627269633742773277416d373169617458453369624b74512f3634303f77785f666d743d6a70656726777866726f6d3d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3WAfPxicpXclhpLkePDZ1XoU9wCDGy3nAMRwCzBtOAzysC5svXNd2mdkvgDIwLkNZFbric7Bw2wAm71iatXE3ibKtQ/640?wx_fmt=jpeg&amp;wxfrom=3" style="max-width: 100%;"></a></p>
+<p>废话不多说，上代码</p>
+<div class="highlight highlight-source-js"><pre class="notranslate">async <span class="pl-k">function</span> <span class="pl-s1">main</span><span class="pl-kos">(</span><span class="pl-kos">{</span> params <span class="pl-kos">}</span>: <span class="pl-v">Args</span><span class="pl-kos">)</span>: <span class="pl-v">Promise</span><span class="pl-c1">&lt;</span><span class="pl-v">Output</span><span class="pl-c1">&gt;</span> <span class="pl-kos">{</span>
+
+const <span class="pl-s1">url</span> <span class="pl-c1">=</span> <span class="pl-s">'接口地址'</span><span class="pl-kos">;</span>
+
+<span class="pl-k">const</span> <span class="pl-s1">bearerToken</span> <span class="pl-c1">=</span> <span class="pl-s">'api key'</span><span class="pl-kos">;</span>
+
+<span class="pl-k">const</span> <span class="pl-s1">headers</span> <span class="pl-c1">=</span> <span class="pl-k">new</span> <span class="pl-v">Headers</span><span class="pl-kos">(</span><span class="pl-kos">{</span>
+  <span class="pl-s">'Content-Type'</span>: <span class="pl-s">'application/json'</span><span class="pl-kos">,</span>
+  <span class="pl-s">'Authorization'</span>: <span class="pl-s">`Bearer <span class="pl-s1"><span class="pl-kos">${</span><span class="pl-s1">bearerToken</span><span class="pl-kos">}</span></span>`</span> 
+<span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+
+<span class="pl-k">const</span> <span class="pl-s1">body</span> <span class="pl-c1">=</span> <span class="pl-c1">JSON</span><span class="pl-kos">.</span><span class="pl-en">stringify</span><span class="pl-kos">(</span><span class="pl-kos">{</span>
+  <span class="pl-s">"model"</span>: <span class="pl-s">"模型名称"</span><span class="pl-kos">,</span>
+  <span class="pl-s">"messages"</span>: <span class="pl-kos">[</span>
+    <span class="pl-kos">{</span>
+      <span class="pl-s">"role"</span>: <span class="pl-s">"user"</span><span class="pl-kos">,</span>
+      <span class="pl-s">"content"</span>: <span class="pl-s1">params</span><span class="pl-kos">.</span><span class="pl-c1">input</span>
+    <span class="pl-kos">}</span>
+  <span class="pl-kos">]</span><span class="pl-kos">,</span>
+  <span class="pl-s">"use_search"</span>: <span class="pl-c1">true</span>
+<span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+<span class="pl-k">try</span> <span class="pl-kos">{</span>
+
+  <span class="pl-k">const</span> <span class="pl-s1">response</span> <span class="pl-c1">=</span> <span class="pl-k">await</span> <span class="pl-en">fetch</span><span class="pl-kos">(</span><span class="pl-s1">url</span><span class="pl-kos">,</span> <span class="pl-kos">{</span>
+    <span class="pl-c1">method</span>: <span class="pl-s">'POST'</span><span class="pl-kos">,</span>
+    <span class="pl-c1">headers</span>: <span class="pl-s1">headers</span><span class="pl-kos">,</span>
+    <span class="pl-c1">body</span>: <span class="pl-s1">body</span><span class="pl-kos">,</span>
+    <span class="pl-c1">mode</span>: <span class="pl-s">'cors'</span><span class="pl-kos">,</span>
+    <span class="pl-c1">cache</span>: <span class="pl-s">'no-cache'</span><span class="pl-kos">,</span>
+    <span class="pl-c1">credentials</span>: <span class="pl-s">'same-origin'</span><span class="pl-kos">,</span>
+    <span class="pl-c1">redirect</span>: <span class="pl-s">'follow'</span><span class="pl-kos">,</span>
+    <span class="pl-c1">referrerPolicy</span>: <span class="pl-s">'no-referrer'</span><span class="pl-kos">,</span>
+  <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+  <span class="pl-k">if</span> <span class="pl-kos">(</span><span class="pl-c1">!</span><span class="pl-s1">response</span><span class="pl-kos">.</span><span class="pl-c1">ok</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+    <span class="pl-k">throw</span> <span class="pl-k">new</span> <span class="pl-v">Error</span><span class="pl-kos">(</span><span class="pl-s">'Network response was not ok'</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+  <span class="pl-kos">}</span>
+
+
+  <span class="pl-k">const</span> <span class="pl-s1">data</span> <span class="pl-c1">=</span> <span class="pl-k">await</span> <span class="pl-s1">response</span><span class="pl-kos">.</span><span class="pl-en">json</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+  <span class="pl-k">return</span> <span class="pl-s1">data</span><span class="pl-kos">.</span><span class="pl-c1">choices</span><span class="pl-kos">[</span><span class="pl-c1">0</span><span class="pl-kos">]</span><span class="pl-kos">.</span><span class="pl-c1">message</span><span class="pl-kos">.</span><span class="pl-c1">content</span><span class="pl-kos">;</span> 
+<span class="pl-kos">}</span> <span class="pl-k">catch</span> <span class="pl-kos">(</span><span class="pl-s1">error</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+  <span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">error</span><span class="pl-kos">(</span><span class="pl-s">'Error:'</span><span class="pl-kos">,</span> <span class="pl-s1">error</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+  <span class="pl-k">throw</span> <span class="pl-s1">error</span><span class="pl-kos">;</span> 
+<span class="pl-kos">}</span>
+<span class="pl-kos">}</span></pre></div>
+<p>以上代码替换接口地址，api key，模型名称</p>
+<p>如果你以为只是调用外部大模型那么简单就错了，这个应用最好的地方在于可以调用任何有接口的其他平台的服务。</p>
+<p>例如你可以在coze中调用dify执行，也可以在coze中调用自建的stable diffusion或者comfy UI，还可以远程指令启动异地办公室部署的PRA机器人，甚至是调用几乎所有抱脸上的项目。。。。。。</p>
+<p>更多可能留给脑洞大开的你们。</p>
+<p>这里是古哒哒研究所，擅长各种雕虫小技~~</p>
+<p>更多AI技巧请关注我的专栏，加入专栏读者群享免费答疑解惑</p>
+<p><strong>专栏下集预告：创建入门版claude3免费接口并接入微信</strong></p>
+<p><strong>专栏下下集预告：高级版claude3免费接口搭建，接入任意应用</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c224e986621a6a3cc18b019b6f493d9543d78593595eb59bd8544cfb66661c07/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b494f623853706c594f7272714f5a34533536436b444148716963313953625a6e686d4c49674f38434437686f4a5241587377627361754c61796f754f4772557a393752646e3233315a6e34672f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/c224e986621a6a3cc18b019b6f493d9543d78593595eb59bd8544cfb66661c07/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b494f623853706c594f7272714f5a34533536436b444148716963313953625a6e686d4c49674f38434437686f4a5241587377627361754c61796f754f4772557a393752646e3233315a6e34672f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3WAfPxicpXckIOb8SplYOrrqOZ4S56CkDAHqic19SbZnhmLIgO8CD7hoJRAXswbsauLayouOGrUz97Rdn231Zn4g/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247486017&amp;idx=1&amp;sn=702b185184d51693fd6942233b5a2b21&amp;chksm=97433e31a034b72721f777ef91b54081d9ba727fe8e58d73851aad921850611b7399c0a3e98b&amp;scene=21#wechat_redirect" rel="nofollow">快手AI革命：Kolors文生图大模型开源，开启艺术创作新纪元！</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485988&amp;idx=1&amp;sn=8c651a315f4f215636d73af8276f37aa&amp;chksm=97433e54a034b742759e9ebdada87efcdd9199877c46d362d1e2c2794e07bd7be7e4f8aac8a4&amp;scene=21#wechat_redirect" rel="nofollow">简单三步老照片动起来，让49.9的镰刀割不动你</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485975&amp;idx=1&amp;sn=eeafb3f609af7ac7570d1ed11dcad9e7&amp;chksm=97433e67a034b7718a5f130b6673c879e0eb5fc89e8a8404d5f14e89816768a08b6c16a732cd&amp;scene=21#wechat_redirect" rel="nofollow">无需本地部署！免费使用开源大模型API</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485956&amp;idx=1&amp;sn=7ce0efeafcca0b9414cf36cdd88e9d0d&amp;chksm=97433e74a034b762ff515ad605a2b83e7d0ff3639175e9583aecb1829bc26813cdc890857d9d&amp;scene=21#wechat_redirect" rel="nofollow">云端部署Stable Diffusion，价值8万元显卡免费用！</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485975&amp;idx=1&amp;sn=eeafb3f609af7ac7570d1ed11dcad9e7&amp;chksm=97433e67a034b7718a5f130b6673c879e0eb5fc89e8a8404d5f14e89816768a08b6c16a732cd&amp;scene=21#wechat_redirect" rel="nofollow">无需本地部署！免费使用开源大模型API</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485938&amp;idx=1&amp;sn=732f55b8d57f886c0d593b1e56c20c82&amp;chksm=97433d82a034b494074c7014c4bdcc464bb268fbdeb111614b3149da451f1c138839814e40a7&amp;scene=21#wechat_redirect" rel="nofollow">AI搜索引擎私有化部署：Gemma2+Perplexica，拉爆Llama3 Qwen2</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485918&amp;idx=1&amp;sn=88f6552dc4b0e3b14da01c57deb88557&amp;chksm=97433daea034b4b85ddf48ec1b4f71cd3336b99ac6206402fe007160040eceda7f7ee0de91b4&amp;scene=21#wechat_redirect" rel="nofollow">统一回复：别再问我微信能不能接入开源这个那个模型，能接入所有模型，云端的本地的。我说的~~</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485907&amp;idx=1&amp;sn=436fc53579d277bc97cf9abe5fea6d45&amp;chksm=97433da3a034b4b58d97a820523ec5895799243a570a446a4ebc523431d7c018650a4e6d4a79&amp;scene=21#wechat_redirect" rel="nofollow">一个简单的演示，开源项目免费部署云端，墙内可访问，带API接口，套路适用几乎所有AI项目，门票这就值了</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485876&amp;idx=1&amp;sn=d838455225c63be9afd8ff6bf5d155f9&amp;chksm=97433dc4a034b4d20d8bdf6ea5e64a56baeaadee5fdcb0dfb7cac834517e6f214bd0193c6d77&amp;scene=21#wechat_redirect" rel="nofollow">薅GPT4o羊毛，无需自建接口！完美闭环~~</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485795&amp;idx=1&amp;sn=3ef4c955fe3c54f6a13357d83a7d6e51&amp;chksm=97433d13a034b405e77bfa2a5c50ca7398403eb0a81346f6999d2ff03a1ea683a83ebedf6fd3&amp;scene=21#wechat_redirect" rel="nofollow">我的模型听我的~~破解大模型的审查机制，提升模型生成能力，探索无限可能！</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485728&amp;idx=1&amp;sn=0cb15118a28ccced63c0b42ec44de72c&amp;chksm=97433d50a034b446087577d8f006aa04a27dbba0a151872323b0b021022dd62d4667965d74fc&amp;scene=21#wechat_redirect" rel="nofollow">Coze接入个人微信，下载解压即用</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485713&amp;idx=1&amp;sn=43da81b11be5ec104dd4957a739727c7&amp;chksm=97433d61a034b477dbde748582f15b947d3d9778df058860a2d8e56a6b2d7fe2595cd0d8be31&amp;scene=21#wechat_redirect" rel="nofollow">Open GPT-4o可本地部署支持多模态</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485689&amp;idx=1&amp;sn=3f650629d2a21013ac38a315d91371a6&amp;chksm=97433c89a034b59f35fb60e756925d4b08359a4bda8f55572806681b54c8ba56290c4a96144c&amp;scene=21#wechat_redirect" rel="nofollow">Qwen2：免费翻译与数据分析的实用技巧</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485618&amp;idx=1&amp;sn=c8910decd51996d5907a127e3b9edb98&amp;chksm=97433cc2a034b5d46d17cdfae5c8fe3e35b2ad3f94a6d0b06e008d5950de026c3d4eaf154342&amp;scene=21#wechat_redirect" rel="nofollow">超越Llama3：快速体验本地部署glm-4-9b支持高并发请求</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485581&amp;idx=1&amp;sn=b8c283aa6bd86bb818b8703b4c0bbd7b&amp;chksm=97433cfda034b5eb7f9cb357e1087b449c991a91747248576ac2cf888cde720f464b870d7eb7&amp;scene=21#wechat_redirect" rel="nofollow">拒绝套壳山寨：原生GPT-4o免费接入个人微信，挂载本地知识库，不限次数，量大管饱</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485562&amp;idx=1&amp;sn=f79b2864fbf151268cf81d3703ab8768&amp;chksm=97433c0aa034b51c76df28ce77196244941eca730a020ae52b519439c009fed73e610eb2f147&amp;scene=21#wechat_redirect" rel="nofollow">影刀RPA演示：无限免费的GPT-4o</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485536&amp;idx=1&amp;sn=a101d038b4e214ccf697689f72ed184f&amp;chksm=97433c10a034b506637ae52a6f80f4e4e6e0a8dadde422e30de7b6e421f291467d8b3f4e2fd0&amp;scene=21#wechat_redirect" rel="nofollow">AutoGen Studio：构建多智能体工作流解决方案</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485467&amp;idx=1&amp;sn=b7e6c03f9ba3968fd00a43ac0c2e0caa&amp;chksm=97433c6ba034b57d11fb58c84740655cd29fdd1f4b146d74cf4fcb2d1f435d1419ad275a6682&amp;scene=21#wechat_redirect" rel="nofollow">挑战GPT4?？Kimi+Qwen多模型协作Agent</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485440&amp;idx=1&amp;sn=90ed6755567fecd1823ed491e8fa28fa&amp;chksm=97433c70a034b566ef5ed0f20129a9d4fd20d264e44f18daed7c13885f6d60c99830ae9b4f37&amp;scene=21#wechat_redirect" rel="nofollow">吊打Coze：原生Kimi接入个人微信，免费接入，打包下载解压即用</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIxMjY3MzgyMw==&amp;mid=2247485420&amp;idx=1&amp;sn=9d851b3860ccccbcc311781a336a0292&amp;chksm=9743339ca034ba8a693983c938a3d4f9f2e6aea44b1306ac091648b2a3ac81c679bc5dab1be9&amp;scene=21#wechat_redirect" rel="nofollow">so easy：月之暗面Kimi接入微信只要三分钟</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a807e82f7726b3ca08a4d086dce376b8f038ff24ceb1cdd4a871513356211917/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f33574166507869637058636e6b566d303865775058654d6f6444354f4f3342526f396b4f4c43686d64416d4f623848536d696162646963397a6f6f50655065706355665569624c507532716e7169634d6d6963776e66507770536d672f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270"><img src="https://camo.githubusercontent.com/a807e82f7726b3ca08a4d086dce376b8f038ff24ceb1cdd4a871513356211917/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f33574166507869637058636e6b566d303865775058654d6f6444354f4f3342526f396b4f4c43686d64416d4f623848536d696162646963397a6f6f50655065706355665569624c507532716e7169634d6d6963776e66507770536d672f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/3WAfPxicpXcnkVm08ewPXeModD5OO3BRo9kOLChmdAmOb8HSmiabdic9zooPePepcUfUibLPu2qnqicMmicwnfPwpSmg/640?wx_fmt=other&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe46f0a6dbe8b3c7c0452c4f8ae61645827751544fa6d5512b7a4cbf401a14a4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b483878386146546b54733769633873324d4358464958706e7a6e586c4e6832746a42644e6e7368784d6d67696359543462396b574d494b393969634b6962696236454a457557743239377668654770772f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270"><img src="https://camo.githubusercontent.com/fe46f0a6dbe8b3c7c0452c4f8ae61645827751544fa6d5512b7a4cbf401a14a4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f33574166507869637058636b483878386146546b54733769633873324d4358464958706e7a6e586c4e6832746a42644e6e7368784d6d67696359543462396b574d494b393969634b6962696236454a457557743239377668654770772f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3WAfPxicpXckH8x8aFTkTs7ic8s2MCXFIXpnznXlNh2tjBdNnshxMmgicYT4b9kWMIK99icKibib6EJEuWt297vheGpw/640?wx_fmt=other&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp" style="max-width: 100%;"></a></p>
+<h2><strong>加微信不失联</strong></h2>
+<p>分享Chat-GPT、Stable Diffusion等AI工具最新玩法和EXCEL、RPA自动化办公的高级应用</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

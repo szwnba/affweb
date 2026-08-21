@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> Aitrainee | 公众号：AI进修生
+
+> 🌟教你如何使用 Claude 3.5 Sonnet、Aider、Invoke、Udio 和 ElevenLabs 从头到尾创建专业的 AI 游戏。">
+<meta property="og:title" content="Aider + Claude + Invoke + Udio ：从头到尾使用 AI 创建游戏！（音乐、代码、动画）">
+<meta property="og:description" content="> Aitrainee | 公众号：AI进修生
+
+> 🌟教你如何使用 Claude 3.5 Sonnet、Aider、Invoke、Udio 和 ElevenLabs 从头到尾创建专业的 AI 游戏。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Aider%20%2B%20Claude%20%2B%20Invoke%20%2B%20Udio%20%EF%BC%9A-cong-tou-dao-wei-shi-yong-%20AI%20-chuang-jian-you-xi-%EF%BC%81%EF%BC%88-yin-le-%E3%80%81-dai-ma-%E3%80%81-dong-hua-%EF%BC%89.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Aider + Claude + Invoke + Udio ：从头到尾使用 AI 创建游戏！（音乐、代码、动画）</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Aider + Claude + Invoke + Udio ：从头到尾使用 AI 创建游戏！（音乐、代码、动画）</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/666" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>Aitrainee | 公众号：AI进修生</p>
+</blockquote>
+<blockquote>
+<p>🌟教你如何使用 Claude 3.5 Sonnet、Aider、Invoke、Udio 和 ElevenLabs 从头到尾创建专业的 AI 游戏。这将是一个完整的动手教程，解释如何在不编写任何代码的情况下免费创建 AI 游戏。</p>
+</blockquote>
+<p>Hi，这里是Aitrainee，欢迎阅读本期新文章。</p>
+<blockquote>
+<p>🌟我分别使用 Aider + Claude 3.5 Sonnet 生成游戏，使用 Invoke 生成精灵/图像，使用 Udio 和 Elevenlabs 生成音乐和音效。</p>
+</blockquote>
+<p>这是一个非常有趣的实验，可以看看 <strong>AI 在新的 LLM 和扩散模型下取得了多大的进展</strong>。你还可以将其与开源 LLM（如 DeepSeek-Coder-V2、Qwen2、Llama-3 和其他此类 LLM）一起使用。</p>
+<p>以前的文章也有介绍过AI制作游戏的，比如展示如何用一个文本提示就能用AI创建游戏和应用程序。一般来说，我会创建一些基础的东西，比如<strong>贪吃蛇游戏或待办事项应用程序</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/464ef788e19aad3d7aee674be4cfd9ba65354bb5facac275e557d6862bc27c42/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164465972786b36384f596b6a76384275787037476e69623456576a354251394e5659724a79797557586236634942327a75666b4a746d626963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/464ef788e19aad3d7aee674be4cfd9ba65354bb5facac275e557d6862bc27c42/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164465972786b36384f596b6a76384275787037476e69623456576a354251394e5659724a79797557586236634942327a75666b4a746d626963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFYrxk68OYkjv8Buxp7Gnib4VWj5BQ9NVYrJyyuWXb6cIB2zufkJtmbicQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然而，这次我要展示如何从头到尾制作一个完整的游戏，而不仅仅是简单的贪吃蛇。这次的游戏将包括开始界面、结束界面、精灵动画等内容，且全程无需接触任何代码文件。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed812cb5cee5ad6d2302b1b89b5ae1dcd855ed322d25c33374d748eca525ee2b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446546a6868596b4f6962736f42696357575a734c6348595851764e4956304b4c776d45334176475542696138394e6e5746447a564d3632536d772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ed812cb5cee5ad6d2302b1b89b5ae1dcd855ed322d25c33374d748eca525ee2b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446546a6868596b4f6962736f42696357575a734c6348595851764e4956304b4c776d45334176475542696138394e6e5746447a564d3632536d772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFTjhhYkOibsoBicWWZsLcHYXQvNIV0KLwmE3AvGUBia89NnWFDzVM62Smw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我将使用Claude 3.5 Sonnet模型，</p>
+<p>Claude API：<a href="https://github.com/topics/claude-api">https://github.com/topics/claude-api</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9c5b2bd7a9f58c177364ae47e725d2a125a17c876a12fdbf2f98afa2405e794a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644631674d5a52486b59494f754862574b6f55584868625866546a7952577a6a5457445559477972634d36336a384448614d775236626b772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9c5b2bd7a9f58c177364ae47e725d2a125a17c876a12fdbf2f98afa2405e794a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644631674d5a52486b59494f754862574b6f55584868625866546a7952577a6a5457445559477972634d36336a384448614d775236626b772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dF1gMZRHkYIOuHbWKoUXHhbXfTjyRWzjTWDUYGyrcM63j8DHaMwR6bkw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>它在大多数任务上表现出色，尤其擅长编写代码，这正是我们所需的。虽然我会用Claude AI模型，但不会使用Claude AI聊天界面，因为自己提示和组织结果非常麻烦，进行修改更是如此。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb66bbf449b893eec05c5a6a9b6995108c2142975cf7a7ed50a153987e889c12/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446444436556c486963447944356f6d767934725469627a56536f696375377a3945696359614e4532573847764f444e696166395841424e74596478772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fb66bbf449b893eec05c5a6a9b6995108c2142975cf7a7ed50a153987e889c12/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446444436556c486963447944356f6d767934725469627a56536f696375377a3945696359614e4532573847764f444e696166395841424e74596478772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFDD6UlHicDyD5omvy4rTibzVSoicu7z9EicYaNE2W8GvODNiaf9XABNtYdxw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>相反，我会使用AER（**公众号主页Aider介绍文章：<a href="https://github.com/paul-gauthier/aider**%EF%BC%89%EF%BC%8C%E5%AE%83%E5%83%8F%E6%98%AF%E4%B8%80%E4%B8%AA%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%8A%A8%E5%88%9B%E5%BB%BA%E5%92%8C%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E6%88%91%E4%BB%AC%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C%E4%BB%A3%E7%A0%81%E6%96%87%E4%BB%B6%E3%80%82">https://github.com/paul-gauthier/aider**），它像是一个编程助手，可以自动创建和修改文件，不需要我们直接操作代码文件。</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd6f66d6786e3a7258ff01d02dba1123cd4da255c9cbf47f90151553ff3fccbb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644652764e69616f587145696253795a334d4e6f306963385532765975434b494d334a584632417569615746596c6d68794a68683873795137786a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/dd6f66d6786e3a7258ff01d02dba1123cd4da255c9cbf47f90151553ff3fccbb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644652764e69616f587145696253795a334d4e6f306963385532765975434b494d334a584632417569615746596c6d68794a68683873795137786a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFRvNiaoXqEibSyZ3MNo0ic8U2vYuCKIM3JXF2AuiaWFYlmhyJhh8syQ7xjw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>此外，我还会用Invoke AI生成一些精灵和图片（<strong>或者你可以使用sd或者comfy ui</strong>），使整个游戏更加精美。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7c1e0bbd05d40814692bc043c4f06f7867c1d648783e47afb5f8c76405f51465/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446596c597138436f62696150317762736b46654d5955506962454233617842445576436c69616d354f784c51414d3942676e766a6f68424c66672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7c1e0bbd05d40814692bc043c4f06f7867c1d648783e47afb5f8c76405f51465/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446596c597138436f62696150317762736b46654d5955506962454233617842445576436c69616d354f784c51414d3942676e766a6f68424c66672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFYlYq8CobiaP1wbskFeMYUPibEB3axBDUvCliam5OxLQAM9BgnvjohBLfg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>为了让游戏更完整，我还会使用Udio和Eleven Labs生成音乐和音效（<strong>或者你可以使用suno、剪映的音乐素材</strong>）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3de95d9bad51ad8a7457eb13fc2ff5271bd7790242e4c127196aa769e224a531/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446454a46344672364c525974304f4a6f69616b42314c535572504a62696136614c486177634258306b497933316577784835507931585170412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3de95d9bad51ad8a7457eb13fc2ff5271bd7790242e4c127196aa769e224a531/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446454a46344672364c525974304f4a6f69616b42314c535572504a62696136614c486177634258306b497933316577784835507931585170412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFEJF4Fr6LRYt0OJoiakB1LSUrPJbia6aLHawcBX0kIy31ewxH5Py1XQpA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>那么，这次我要制作什么样的游戏呢？这是一个简单的游戏，名字叫“香蕉王”，玩家需要在一分钟内控制猴子收集15根香蕉。这只是一个概念验证，展示如何用文本提示创建游戏，无需编程知识。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/58ecd6176d16b95c70a8a913eb2c9ca27a785de2c5518959e93091c39d661c9f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644646687337496f77654843706f744a69614e616e69626a50724f5250546e6f304376795335646137566a554e4c6d314c7279564b664e6650772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/58ecd6176d16b95c70a8a913eb2c9ca27a785de2c5518959e93091c39d661c9f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644646687337496f77654843706f744a69614e616e69626a50724f5250546e6f304376795335646137566a554e4c6d314c7279564b664e6650772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFFhs7IoweHCpotJiaNanibjPrORPTno0CvyS5da7VjUNLm1LryVKfNfPw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我们首先安装AER，运行pip install AER即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c60fa4e2c554f95979dc80589293f4527f914d7bf59254e22a5b5276e0b033de/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644669624f3830544c4e786b72617759626169616365744e724343344f4847696335516c6963616961556b563664346963583065556b5535446961417967672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c60fa4e2c554f95979dc80589293f4527f914d7bf59254e22a5b5276e0b033de/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644669624f3830544c4e786b72617759626169616365744e724343344f4847696335516c6963616961556b563664346963583065556b5535446961417967672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFibO80TLNxkrawYbaiacetNrCC4OHGic5QlicaiaUkV6d4icX0eUkU5DiaAygg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后，我们需要在终端中导出你的Anthropic API密钥来使用Claude 3.5 Sonnet（Aider支持Ollama，没有api，你可以尝试其他的LLM供应商）。</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkyMzY1NTM0Mw==&amp;mid=2247489366&amp;idx=1&amp;sn=4e58697f15f4c8219485ef32ca1b5110&amp;chksm=c1e09a96f69713804125d4b313b85b04ad23fe5b2358ed9e8108cb7ef4a1c43eb0d09b157128&amp;scene=21#wechat_redirect" rel="nofollow"><strong>Aider + DeepSeek +  Claude 3.5 Sonnet：一次提示生成应用程序（使用 Ollama）</strong></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c03f50d11d54a7e3c1d6b09f9f891aed7828cabccf0adac21df910e5fdb37fe6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164464a4b7a6e496f6d784e747743417248355a4534584b6a725745304a41415969636a71344e6279714e435957336a454563727a61596e4b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c03f50d11d54a7e3c1d6b09f9f891aed7828cabccf0adac21df910e5fdb37fe6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164464a4b7a6e496f6d784e747743417248355a4534584b6a725745304a41415969636a71344e6279714e435957336a454563727a61596e4b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFJKznIomxNtwCArH5ZE4XKjrWE0JAAYicjq4NbyqNCYW3jEEcrzaYnKQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/654f9575cdfa7dd229734f9bb343592d6a5a9fdfa3a86987a29fab7df336b7f8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164466369626a57424d3030464d565a39504641696269636b786d36454944773075343569613038397651794749343767716a45724d48776961794c7a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/654f9575cdfa7dd229734f9bb343592d6a5a9fdfa3a86987a29fab7df336b7f8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164466369626a57424d3030464d565a39504641696269636b786d36454944773075343569613038397651794749343767716a45724d48776961794c7a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFcibjWBM00FMVZ9PFAibickxm6EIDw0u45ia089vQyGI47gqjErMHwiayLzg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>推荐在使用前初始化一个git仓库，这样可以更方便地管理生成的文件。我会用HTML、CSS和JS在网络界面上创建这个游戏，当然你也可以创建桌面应用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/064fa75a5092694ea417b2f06a1efd09f594bc37613ed855e9cefa66c090f625/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446476b684a6854664d377a724132706e6a4d774c5a4c6157663672336651436272517a496a4a4e614d4a676f53774357745165357659512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/064fa75a5092694ea417b2f06a1efd09f594bc37613ed855e9cefa66c090f625/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446476b684a6854664d377a724132706e6a4d774c5a4c6157663672336651436272517a496a4a4e614d4a676f53774357745165357659512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFGkhJhTfM7zrA2pnjMwLZLaWf6r3fQCbrQzIjJNaMJgoSwCWtQe5vYQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>接下来，我们提供详细的文本提示给AER，让它生成代码并列出任务。生成代码后，它会询问是否执行创建操作。确认后，AER会生成所需的文件。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/571904edc1904958572e12873f29c74fb2b2997391aebbe4a22d3eb2e0c78745/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164464d42374c6b64784362715530345836544e7949416567506c464d47344c594d524a696334557478683665384c4844724f4b6c306b4a4f412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/571904edc1904958572e12873f29c74fb2b2997391aebbe4a22d3eb2e0c78745/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164464d42374c6b64784362715530345836544e7949416567506c464d47344c594d524a696334557478683665384c4844724f4b6c306b4a4f412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFMB7LkdxCbqU04X6TNyIAegPlFMG4LYMRJic4Utxh6e8LHDrOKl0kJOA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>初步查看游戏，有一些问题，比如平台间距过大。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96b66514530ae01de81d2a94850830ee26163ac1b08b8cc21144e27028eadd17/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446446961303162357247326464436a30547775314c5a5073356963774a656e78317172764e4557366e5374537a31334b4239523043417954772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/96b66514530ae01de81d2a94850830ee26163ac1b08b8cc21144e27028eadd17/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446446961303162357247326464436a30547775314c5a5073356963774a656e78317172764e4557366e5374537a31334b4239523043417954772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFDia01b5rG2ddCj0Twu1LZPs5icwJenx1qrvNEW6nStSz13KB9R0CAyTw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>▲ 动画演示请观看上方视频</p>
+<p>通过多次调整，最终平台间距得到了优化。</p>
+<p>为了让游戏更具动态性，我还添加了逻辑，增加玩家收集香蕉数量后跳跃速度的变化。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e46ca3de499ef447d621a79d78b105b3b4aa2ca650f9c2e7b8f99be8e5afbe89/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446684458696365696234776454456458425855586f5a48696331376e4832524b62526a7a70704f5767413063473961596452384d623269636a47772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e46ca3de499ef447d621a79d78b105b3b4aa2ca650f9c2e7b8f99be8e5afbe89/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446684458696365696234776454456458425855586f5a48696331376e4832524b62526a7a70704f5767413063473961596452384d623269636a47772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFhDXiceib4wdTEdXBXUXoZHic17nH2RKbRjzppOWgA0cG9aYdR8Mb2icjGw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fefb39dbff51fa12ecc3b9a7350ef09add30fb8d196bc2bb41912245933e4ded/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446687142586739466f434a745670454131787532364e70344f3775725474667635313976313454394b50333254666f666c6c35485a64412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fefb39dbff51fa12ecc3b9a7350ef09add30fb8d196bc2bb41912245933e4ded/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446687142586739466f434a745670454131787532364e70344f3775725474667635313976313454394b50333254666f666c6c35485a64412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFhqBXg9FoCJtVpEA1xu26Np4O7urTtfv519v14T9KP32Tfofll5HZdA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>接着，我们需要一个开始界面，我让AER生成并添加了这个界面，看起来非常酷。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/803c18a9792011200a7daf5f482f8760c1963309e0db7e76097f8470849d5f6f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644645494d534b7147456d4d4a6e7762614d4f57446446675245505956514c7038746e6a746d44364c48543069624159326b666f6c597a42772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/803c18a9792011200a7daf5f482f8760c1963309e0db7e76097f8470849d5f6f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644645494d534b7147456d4d4a6e7762614d4f57446446675245505956514c7038746e6a746d44364c48543069624159326b666f6c597a42772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFEIMSKqGEmMJnwbaMOWDdFgREPYVQLp8tnjtmD6LHT0ibAY2kfolYzBw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ae546dd5b04e3cadaeb1b268bbbe39055680c2ebec31b06fb5be177613456ff9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164464b436b6e7a34784a4f6d3646476547393951433732685155583532316961414c76435950317468476c45364d58657334524d48675042512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ae546dd5b04e3cadaeb1b268bbbe39055680c2ebec31b06fb5be177613456ff9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164464b436b6e7a34784a4f6d3646476547393951433732685155583532316961414c76435950317468476c45364d58657334524d48675042512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFKCknz4xJOm6FGeG99QC72hQUX521iaALvCYP1thGlE6MXes4RMHgPBQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>为了让游戏更完善，我们还需要将图形替换为图片，并让AER生成所需的文件名和尺寸。通过Invoke AI生成了背景、平台和香蕉的图片，并放置在正确的文件夹中。游戏现在看起来非常棒。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/291b533ff70cde0d11ceabc9e314a79c358700d5eaa3c603467c8d93af36a551/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446525838596b4b35696333696131754a6c6652526f6b4f6e57426d475a346a6a675a6f6d5673364569614a5a726864736f754e63363777724e772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/291b533ff70cde0d11ceabc9e314a79c358700d5eaa3c603467c8d93af36a551/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446525838596b4b35696333696131754a6c6652526f6b4f6e57426d475a346a6a675a6f6d5673364569614a5a726864736f754e63363777724e772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFRX8YkK5ic3ia1uJlfRRokOnWBmGZ4jjgZomVs6EiaJZrhdsouNc67wrNw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/972ef666519f2a4b0028f6ec4efd656b3248afc510c83735930cdf9e07f71df3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164466e6748696353554d5772557a41744964344253696366414c794e4d6f674d706b6151354d78525a744f51736a6358346634504a4d675038412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/972ef666519f2a4b0028f6ec4efd656b3248afc510c83735930cdf9e07f71df3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164466e6748696353554d5772557a41744964344253696366414c794e4d6f674d706b6151354d78525a744f51736a6358346634504a4d675038412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFngHicSUMWrUzAtId4BSicfALyNMogMpkaQ5MxRZtOQsjcX4f4PJMgP8A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73ac2c7ac23508dec91ecfdde0ed6e81d92f6e49ad47cac92fa27f8289d80ddb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446583374774f73767a4a74396961684f6556763837746e4343756455516b475741495476334c61526e5349453341576258586c6375416963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/73ac2c7ac23508dec91ecfdde0ed6e81d92f6e49ad47cac92fa27f8289d80ddb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d5763547134434256696343316446583374774f73767a4a74396961684f6556763837746e4343756455516b475741495476334c61526e5349453341576258586c6375416963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFX3twOsvzJt9iahOeVv87tnCCudUQkGWAITv3LaRnSIE3AWbXXlcuAicQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ffbdbbe2c49746d1f895cc3879d6e540b2829ebdb000fe5651468cc0c198fbc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644646303461574e30704f366c69636c6961786a4768434f586d7578646c6550373072314e35433349446c596b57384a433041486251426345672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9ffbdbbe2c49746d1f895cc3879d6e540b2829ebdb000fe5651468cc0c198fbc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644646303461574e30704f366c69636c6961786a4768434f586d7578646c6550373072314e35433349446c596b57384a433041486251426345672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFF04aWN0pO6licliaxjGhCOXmuxdleP70r1N5C3IDlYkW8JC0AHbQBcEg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>为了增加游戏的沉浸感，我们还需要背景音乐和收集香蕉时的音效。我用Udio生成了两段音乐，选了一段合适的作为背景音乐。</p>
+<p>用Eleven Labs生成了收集香蕉的音效。把这些音乐和音效添加到文件夹后，让AER将其集成到游戏中，并添加了静音选项。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/380d4a25aac2e16a5233e2dd2c8278c2801460fe84b71051684878be3379ea1f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644646476b43524d577a5652654a44315a45324d366c42576e725462545a6150756f596f536d395539324374585161696372453775377245672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/380d4a25aac2e16a5233e2dd2c8278c2801460fe84b71051684878be3379ea1f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d576354713443425669634331644646476b43524d577a5652654a44315a45324d366c42576e725462545a6150756f596f536d395539324374585161696372453775377245672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFFGkCRMWzVReJD1ZE2M6lBWnrTbTZaPuoYoSm9U92CtXQaicrE7u7rEg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2fe98180bd087dc21eee22a0652143f0c1ff1b5b5e89b966adaccceb4fd4dffb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164464a666130747557334f4761576139347664447731644b6a5854546c536763587a47365a6f71574c5732324e62726961364d6147464c4a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2fe98180bd087dc21eee22a0652143f0c1ff1b5b5e89b966adaccceb4fd4dffb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164464a666130747557334f4761576139347664447731644b6a5854546c536763587a47365a6f71574c5732324e62726961364d6147464c4a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFJfa0tuW3OGaWa94vdDw1dKjXTTlSgcXzG6ZoqWLW22Nbria6MaGFLJw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>现在游戏完全制作完成了。让我带你们看看这个完全用AI文本提示制作的游戏。从开始界面可以看到游戏标题“香蕉王”和开始按钮。进入游戏后，有60秒时间收集散落在平台上的15根香蕉。</p>
+<p>如果在限定时间内收集完，就能获胜。虽然这不是一个非常复杂的游戏，但展示了AI模型的强大功能，任何人都能在一到两小时内创建这样的游戏。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/11806401fd41078c4d85f977d23d834445485bc1da3658744b0f81980c6d5116/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164465a714a77727363525630584831686d42383848637067546a75735a364d6850746e56785a69625576465a434b736a446f75563944664f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/11806401fd41078c4d85f977d23d834445485bc1da3658744b0f81980c6d5116/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627549554a744d59766d57635471344342566963433164465a714a77727363525630584831686d42383848637067546a75735a364d6850746e56785a69625576465a434b736a446f75563944664f772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuIUJtMYvmWcTq4CBVicC1dFZqJwrscRV0XH1hmB88HcpgTjusZ6MhPtnVxZibUvFZCKsjDouV9DfOw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>▲ 动画演示请观看上方视频</p>
+<p>如果你们对我用AI创建完整应用程序感兴趣，请到AI社群交流~</p>
+<p>希望这篇文章对你有帮助，感谢阅读！</p>
+<p>视频教程</p>
+<p><a href="https://www.youtube.com/watch?v=sOd2YYZFMUs" rel="nofollow">https://www.youtube.com/watch?v=sOd2YYZFMUs</a></p>
+<p>参考链接：<br>
+[Aider]<a href="https://aider.chat" rel="nofollow">https://aider.chat</a><br>
+[ElevenLabs] <a href="https://elevenlabs.io/sound-effects" rel="nofollow">https://elevenlabs.io/sound-effects</a><br>
+[Udio] <a href="https://elevenlabs.io/sound-effects" rel="nofollow">https://elevenlabs.io/sound-effects</a></p>
+<p><strong>知音难求，自我修炼亦艰</strong></p>
+<p>抓住前沿技术的机遇，与我们一起成为创新的超级个体</p>
+<p><strong>（把握AIGC时代的个人力量）</strong></p>
+<p><strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce7771295cb92441e05ce1bf40334bf3537f160a3913cac80fa1330a455a7672/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696273546c335969616f4e4f3758786a69634b377a43524e736d3834475653754f47636f72417170706b4d534656747331684569634a654d32506675546e69634a4d6a48704e69637749596a325271384678512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ce7771295cb92441e05ce1bf40334bf3537f160a3913cac80fa1330a455a7672/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d696273546c335969616f4e4f3758786a69634b377a43524e736d3834475653754f47636f72417170706b4d534656747331684569634a654d32506675546e69634a4d6a48704e69637749596a325271384678512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibsTl3YiaoNO7XxjicK7zCRNsm84GVSuOGcorAqppkMSFVts1hEicJeM2PfuTnicJMjHpNicwIYj2Rq8FxQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></strong></p>
+<p><strong>点这里👇关注我，记得标星哦～</strong></p>
+<p><strong>一键三连「分享」、「点赞」和「在看」</strong></p>
+<p>**科技前沿进展日日相见 ~**</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/30939681766de335cdd9d0d99ac90b35e6a4694a2d621841a63ff1e3d8aedd66/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f7376672f6739525169634d4430314d3074596f52515432634d51526d5053355a44797272667a656b7369617939304b61447a6c474248363169637148786d67464b667666587456757754485637343043444c41615855314c49665a796f4a4570594b6352496961452f3634303f77785f666d743d737667"><img src="https://camo.githubusercontent.com/30939681766de335cdd9d0d99ac90b35e6a4694a2d621841a63ff1e3d8aedd66/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f7376672f6739525169634d4430314d3074596f52515432634d51526d5053355a44797272667a656b7369617939304b61447a6c474248363169637148786d67464b667666587456757754485637343043444c41615855314c49665a796f4a4570594b6352496961452f3634303f77785f666d743d737667" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_svg/g9RQicMD01M0tYoRQT2cMQRmPS5ZDyrrfzeksiay90KaDzlGBH61icqHxmgFKfvfXtVuwTHV740CDLAaXU1LIfZyoJEpYKcRIiaE/640?wx_fmt=svg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

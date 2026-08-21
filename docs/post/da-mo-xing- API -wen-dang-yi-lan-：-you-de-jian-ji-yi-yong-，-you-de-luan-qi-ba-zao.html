@@ -1,0 +1,1299 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="这段时间
+
+在把我的 agent 迁用国产模型
+
+**困难重重**
+
+不光是上次提到的  
+
+[全军覆没：国产大模型，都没做好 OpenAI 兼容](http://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247489742&idx=1&sn=4355a46b32fa7d39b90999825dc6140f&chksm=c2bcd5c8f5cb5cde5a55f168b0000e7c5fe6e1bdcb766d38087350b4abf233cbeac8d87af223&scene=21#wechat_redirect)
+
+有的模型，甚至根本找不到文档  
+
+于是在这篇  
+
+我整理了下各家的接入方法
+
+**值得收藏**
+
+**开发省点时间**  
+
+顺便吐槽下...
+
+希望各厂负责人能看到
+
+以及
+
+**我组了场活动，在文末**
+
+**欢迎各位大佬参加**
+
+大致按模型首字母排序
+
+Baichuan / 百川
+-------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+清晰明确，所有内容均在同级菜单，找起来很方便
+
+_![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4dsKHcGnGqxI3GgrovibZZxIOw3CBb4baldIIWTo0pxib8mbnQb18kyew/640?wx_fmt=png&from=appmsg)
+_
+
+但这里也有些小瑕疵  
+
+比如：没有明确调用方法
+
+（拉到最后才发现支持OpenAI调用）  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4ZstLMGCVs6zf3GF0aZZwblhgibTib3B7sumfRTaTicHibxicFmictFiacG8pQ/640?wx_fmt=png&from=appmsg)
+
+**获取 key**
+
+https://platform.baichuan-ai.com/console/apikey
+
+**文档**  
+
+https://platform.baichuan-ai.com/docs/api
+
+**Playground**
+
+https://platform.baichuan-ai.com/playground
+
+**定价信息**  
+
+https://platform.baichuan-ai.com/price
+
+**OpenAI SDK**：支持
+
+DeepSeek / 深度求索
+---------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+感觉在文档里面，ds 的最为用心
+
+有细节在里面，比如
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn43MTTzFhR2g2XbdBCksUufdvKicQnzQYHgzv3N3QMHPhYmBria3y5ibMibw/640?wx_fmt=png&from=appmsg)
+
+对于可能疑惑的地方，指向对应地址（比如这里的 api key）
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4VvsQfPZhNahg4ictNTGibKKXHib8myY9xoPsBnmiaTvhlEQwtBYcxHI0gQ/640?wx_fmt=png&from=appmsg)
+
+在文档里，用各种语言展示了事例
+
+但也有点问题
+
+比如我没找到 playground
+
+以及...
+
+仅代表个人吐槽
+
+为什么邮箱注册的不送 credit!!!!
+
+害我充了 10 块钱  
+
+**获取 key**
+
+https://platform.deepseek.com/api_keys
+
+**文档**  
+
+https://platform.deepseek.com/api-docs/zh-cn/
+
+**Playground**
+
+木有
+
+**定价信息**  
+
+https://platform.deepseek.com/api-docs/zh-cn/pricing
+
+**OpenAI SDK**：支持
+
+GLM / 智谱
+--------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+网址很牛逼！大模特.cn  
+
+bigmodel.cn
+
+清晰易读很漂亮
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4ve6MPnyBrpETUQibeibgfDnhOVOvlDF8Sv6O3QiaZ7c7TDoCg9eDo88CQ/640?wx_fmt=png&from=appmsg)
+
+各种指引很棒！
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4Zwotl42S82SSyMFqsyM3ZeRzUag2O4GOp8eEHvzleDMBIykQbfCAMA/640?wx_fmt=png&from=appmsg)
+
+支持线上微调、Batch 任务等
+
+对齐 OpenAI  
+
+但在细节上有点问题
+
+比如
+
+开放接口的对应信息里
+
+没有请求事例
+
+得来回在 Doc 和 API Ref 里找材料
+
+**获取 key**
+
+https://bigmodel.cn/usercenter/apikeys
+
+**文档**  
+
+https://bigmodel.cn/dev/api
+
+**Playground**
+
+https://bigmodel.cn/trialcenter
+
+**定价信息**  
+
+https://open.bigmodel.cn/pricing
+
+**OpenAI SDK**：支持
+
+MiniMax
+-------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+信息都有，但排版好奇怪
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4kAEwZOXUibd6WibrsJXY2TJ6o5MObhMLIG9gH0SAKOeMTJz0SJ6lssTQ/640?wx_fmt=png&from=appmsg)
+
+各种字体...
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4LcvwickzN8rlujkX9fibekXaHaynUhicNoib2ribu3prgVv5Bg50z8OFtEg/640?wx_fmt=png&from=appmsg)
+
+然后文档里说支持 OpenAI 调用
+
+但我没调成功
+
+知道具体怎么调的朋友
+
+欢迎后台发我个 sample code
+
+**获取 key**
+
+https://platform.minimaxi.com/user-center/basic-information/interface-key
+
+**文档**  
+
+https://platform.minimaxi.com/document/notice
+
+**Playground**
+
+https://platform.minimaxi.com/examination-center/text-experience-center
+
+**定价信息**  
+
+https://platform.minimaxi.com/document/price
+
+**OpenAI SDK**
+
+据说支持（我没调通）
+
+Moonshot / 月之暗面
+---------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+很清晰，技术人员很友好
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4qgCzBhTxsUPKOCzm6Z7BZryeUicp1ooClpEfohh29zOIMrFYPnGDMcQ/640?wx_fmt=png&from=appmsg)
+
+看一眼就知道咋上手了
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4z4Ubib9g6tqVVm4E0FDuib5DuKXiageLHe3ExMVZPGWYs12aSicgljgLsQ/640?wx_fmt=png&from=appmsg)
+
+少有的附带 cookbook 的 文档
+
+但也有点小问题
+
+比如今天新上的
+
+[上下文缓存](https://mp.weixin.qq.com/s?__biz=MzkyNzY4NDEzNA==&mid=2247483721&idx=1&sn=ba9c803c554a085fc3542f21a56efd34&scene=21#wechat_redirect)  
+
+在长文本QA中，能省钱的功能
+
+省钱计算器是个图片...
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4NWJflPPYEicyWIOgXNtPXD8ibgQFMMtvYk3LZrf8vm80ANPrTiblgC07A/640?wx_fmt=png&from=appmsg)
+
+**获取 key**
+
+https://platform.moonshot.cn/console/api-keys
+
+**文档**  
+
+https://platform.moonshot.cn/docs
+
+**Playground**
+
+木有
+
+**定价信息**  
+
+https://platform.moonshot.cn/docs/price/chat
+
+**OpenAI SDK**：支持
+
+Qwen / 通义千问
+-----------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+哎...
+
+哎...
+
+哎...
+
+通义千问/ 灵积 / 阿里云 / 魔搭 /... 确实不知道从哪开始
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4Qq0SgA1dibJNXf6GQ9JDRzopN7uOnOtkYwVHUceEJ8hAKf2sfNkc1wg/640?wx_fmt=png&from=appmsg)
+
+我咋知道该点哪个？
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4yknyQCicxibUnd4sEpibZBFQHicsYrzcJ9UlChGbHOnOGaW2ichP4Bxe3Kg/640?wx_fmt=png&from=appmsg)
+
+所以，我的 key 在哪里？
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4BqDrmg11LMoxIgfunQJNgg3s1GJ8jLN8YkNlmOatBibYz9I7d4a0s4g/640?wx_fmt=png&from=appmsg)
+
+我在哪？我是谁？我该干什么？
+
+实际用下来，模型非常强
+
+但就是得花半小时找文档
+
+我都找到了，放在下面
+
+**获取 key**
+
+https://dashscope.console.aliyun.com/apiKey
+
+**文档**  
+
+https://help.aliyun.com/zh/dashscope/developer-reference
+
+**Playground**
+
+https://dashscope.console.aliyun.com/playground
+
+**定价信息**  
+
+https://dashscope.console.aliyun.com/billing
+
+**OpenAI SDK**：支持
+
+Spark / 讯飞星火
+------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+星火的 api 有点独特，文档很复杂
+
+由于产品线太多，所以得找一会儿
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4EtxHanKdyEnwnbTOBDDiaJsveuf7n8ngJa9Ucle02jd0HraN5j3VHMA/640?wx_fmt=png&from=appmsg)
+
+还好靠前
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn48kPaibxaTibsp6JkufFBWcTqSwT8hLneQWjbldHq8icPY7N3qZRhSVMYQ/640?wx_fmt=png&from=appmsg)
+
+key 是根据项目来的，所以稍微折腾下
+
+和 Qwen 一样
+
+文档不够友好
+
+以及我还没找到 OpenAI SDK 的调用方式
+
+**获取 key**
+
+先创建应用  
+
+https://console.xfyun.cn/app/myapp
+
+在应用里获取 key
+
+https://console.xfyun.cn/services/cbm
+
+**文档**  
+
+https://www.xfyun.cn/doc/spark/Web.html
+
+**Playground**
+
+https://console.xfyun.cn/services/sparkapiCenter
+
+**定价信息**  
+
+https://xinghuo.xfyun.cn/sparkapi
+
+打开链接后需要往下划
+
+**OpenAI SDK**：没找到
+
+Stepfun / 阶跃星辰
+--------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+评价  
+
+简介清晰，使用 OpenAI SDK
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4R3BWdZnTXXiaiaZTlSdq9HHP8uA2RvYjRBHGCjynFMT4KmiaXKnWKVpOQ/640?wx_fmt=png&from=appmsg)
+
+和 Kimi 一样，无缝切换
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4wUECibyvcJOyAaqQsOcJMJEaba1zDcTgr6kMEAFDmJrBuicy3xSoY83g/640?wx_fmt=png&from=appmsg)
+
+示例也很清晰
+
+吐槽：我总是打成「节约星尘」
+
+**获取 key**
+
+https://platform.stepfun.com/interface-key
+
+**文档**  
+
+https://platform.stepfun.com/docs/overview/concept
+
+**Playground**
+
+木有
+
+**定价信息**  
+
+https://platform.stepfun.com/docs/pricing/details
+
+**OpenAI SDK**：支持
+
+ERNIE / 文心一言
+------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**
+
+广告太多，不想评价
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4VJXK3M0LRpzMibCmRibgoKoqsnVl83YKRcEcQhGoQWic5icicPEyqhrvNqA/640?wx_fmt=png&from=appmsg)
+  
+
+  
+
+结论
+--
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+大模型新势力，在文档方面都还不错
+
+老牌大厂在这块就有所欠缺了
+
+其实国外也差不多
+
+OpenAI/Claude 的 API 都挺好接的
+
+Google 的 API 简直反人性
+
+以及
+--
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+咱公众号基本都是 AI 从业者
+
+很多人也会参加本次 WAIC 大会
+
+在会后，让我们约几场行业精酿局～
+
+分为：数据与训练/安全与对齐/产品与落地 三场  
+
+**报名原则**
+
+1.  必须是从业者，对等分享交流
+    
+2.  每个厂/组/实验室，最多来两人
+    
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4JbjiaQLoNWiccefMmE6JHtLUjaYM1O9qcVYdcFibicdTrqYVeKwGAMeIsw/640?wx_fmt=jpeg)。">
+<meta property="og:title" content="大模型 API 文档一览：有的简洁易用，有的乱七八糟">
+<meta property="og:description" content="这段时间
+
+在把我的 agent 迁用国产模型
+
+**困难重重**
+
+不光是上次提到的  
+
+[全军覆没：国产大模型，都没做好 OpenAI 兼容](http://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247489742&idx=1&sn=4355a46b32fa7d39b90999825dc6140f&chksm=c2bcd5c8f5cb5cde5a55f168b0000e7c5fe6e1bdcb766d38087350b4abf233cbeac8d87af223&scene=21#wechat_redirect)
+
+有的模型，甚至根本找不到文档  
+
+于是在这篇  
+
+我整理了下各家的接入方法
+
+**值得收藏**
+
+**开发省点时间**  
+
+顺便吐槽下...
+
+希望各厂负责人能看到
+
+以及
+
+**我组了场活动，在文末**
+
+**欢迎各位大佬参加**
+
+大致按模型首字母排序
+
+Baichuan / 百川
+-------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+清晰明确，所有内容均在同级菜单，找起来很方便
+
+_![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4dsKHcGnGqxI3GgrovibZZxIOw3CBb4baldIIWTo0pxib8mbnQb18kyew/640?wx_fmt=png&from=appmsg)
+_
+
+但这里也有些小瑕疵  
+
+比如：没有明确调用方法
+
+（拉到最后才发现支持OpenAI调用）  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4ZstLMGCVs6zf3GF0aZZwblhgibTib3B7sumfRTaTicHibxicFmictFiacG8pQ/640?wx_fmt=png&from=appmsg)
+
+**获取 key**
+
+https://platform.baichuan-ai.com/console/apikey
+
+**文档**  
+
+https://platform.baichuan-ai.com/docs/api
+
+**Playground**
+
+https://platform.baichuan-ai.com/playground
+
+**定价信息**  
+
+https://platform.baichuan-ai.com/price
+
+**OpenAI SDK**：支持
+
+DeepSeek / 深度求索
+---------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+感觉在文档里面，ds 的最为用心
+
+有细节在里面，比如
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn43MTTzFhR2g2XbdBCksUufdvKicQnzQYHgzv3N3QMHPhYmBria3y5ibMibw/640?wx_fmt=png&from=appmsg)
+
+对于可能疑惑的地方，指向对应地址（比如这里的 api key）
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4VvsQfPZhNahg4ictNTGibKKXHib8myY9xoPsBnmiaTvhlEQwtBYcxHI0gQ/640?wx_fmt=png&from=appmsg)
+
+在文档里，用各种语言展示了事例
+
+但也有点问题
+
+比如我没找到 playground
+
+以及...
+
+仅代表个人吐槽
+
+为什么邮箱注册的不送 credit!!!!
+
+害我充了 10 块钱  
+
+**获取 key**
+
+https://platform.deepseek.com/api_keys
+
+**文档**  
+
+https://platform.deepseek.com/api-docs/zh-cn/
+
+**Playground**
+
+木有
+
+**定价信息**  
+
+https://platform.deepseek.com/api-docs/zh-cn/pricing
+
+**OpenAI SDK**：支持
+
+GLM / 智谱
+--------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+网址很牛逼！大模特.cn  
+
+bigmodel.cn
+
+清晰易读很漂亮
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4ve6MPnyBrpETUQibeibgfDnhOVOvlDF8Sv6O3QiaZ7c7TDoCg9eDo88CQ/640?wx_fmt=png&from=appmsg)
+
+各种指引很棒！
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4Zwotl42S82SSyMFqsyM3ZeRzUag2O4GOp8eEHvzleDMBIykQbfCAMA/640?wx_fmt=png&from=appmsg)
+
+支持线上微调、Batch 任务等
+
+对齐 OpenAI  
+
+但在细节上有点问题
+
+比如
+
+开放接口的对应信息里
+
+没有请求事例
+
+得来回在 Doc 和 API Ref 里找材料
+
+**获取 key**
+
+https://bigmodel.cn/usercenter/apikeys
+
+**文档**  
+
+https://bigmodel.cn/dev/api
+
+**Playground**
+
+https://bigmodel.cn/trialcenter
+
+**定价信息**  
+
+https://open.bigmodel.cn/pricing
+
+**OpenAI SDK**：支持
+
+MiniMax
+-------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+信息都有，但排版好奇怪
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4kAEwZOXUibd6WibrsJXY2TJ6o5MObhMLIG9gH0SAKOeMTJz0SJ6lssTQ/640?wx_fmt=png&from=appmsg)
+
+各种字体...
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4LcvwickzN8rlujkX9fibekXaHaynUhicNoib2ribu3prgVv5Bg50z8OFtEg/640?wx_fmt=png&from=appmsg)
+
+然后文档里说支持 OpenAI 调用
+
+但我没调成功
+
+知道具体怎么调的朋友
+
+欢迎后台发我个 sample code
+
+**获取 key**
+
+https://platform.minimaxi.com/user-center/basic-information/interface-key
+
+**文档**  
+
+https://platform.minimaxi.com/document/notice
+
+**Playground**
+
+https://platform.minimaxi.com/examination-center/text-experience-center
+
+**定价信息**  
+
+https://platform.minimaxi.com/document/price
+
+**OpenAI SDK**
+
+据说支持（我没调通）
+
+Moonshot / 月之暗面
+---------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+很清晰，技术人员很友好
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4qgCzBhTxsUPKOCzm6Z7BZryeUicp1ooClpEfohh29zOIMrFYPnGDMcQ/640?wx_fmt=png&from=appmsg)
+
+看一眼就知道咋上手了
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4z4Ubib9g6tqVVm4E0FDuib5DuKXiageLHe3ExMVZPGWYs12aSicgljgLsQ/640?wx_fmt=png&from=appmsg)
+
+少有的附带 cookbook 的 文档
+
+但也有点小问题
+
+比如今天新上的
+
+[上下文缓存](https://mp.weixin.qq.com/s?__biz=MzkyNzY4NDEzNA==&mid=2247483721&idx=1&sn=ba9c803c554a085fc3542f21a56efd34&scene=21#wechat_redirect)  
+
+在长文本QA中，能省钱的功能
+
+省钱计算器是个图片...
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4NWJflPPYEicyWIOgXNtPXD8ibgQFMMtvYk3LZrf8vm80ANPrTiblgC07A/640?wx_fmt=png&from=appmsg)
+
+**获取 key**
+
+https://platform.moonshot.cn/console/api-keys
+
+**文档**  
+
+https://platform.moonshot.cn/docs
+
+**Playground**
+
+木有
+
+**定价信息**  
+
+https://platform.moonshot.cn/docs/price/chat
+
+**OpenAI SDK**：支持
+
+Qwen / 通义千问
+-----------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+哎...
+
+哎...
+
+哎...
+
+通义千问/ 灵积 / 阿里云 / 魔搭 /... 确实不知道从哪开始
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4Qq0SgA1dibJNXf6GQ9JDRzopN7uOnOtkYwVHUceEJ8hAKf2sfNkc1wg/640?wx_fmt=png&from=appmsg)
+
+我咋知道该点哪个？
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4yknyQCicxibUnd4sEpibZBFQHicsYrzcJ9UlChGbHOnOGaW2ichP4Bxe3Kg/640?wx_fmt=png&from=appmsg)
+
+所以，我的 key 在哪里？
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4BqDrmg11LMoxIgfunQJNgg3s1GJ8jLN8YkNlmOatBibYz9I7d4a0s4g/640?wx_fmt=png&from=appmsg)
+
+我在哪？我是谁？我该干什么？
+
+实际用下来，模型非常强
+
+但就是得花半小时找文档
+
+我都找到了，放在下面
+
+**获取 key**
+
+https://dashscope.console.aliyun.com/apiKey
+
+**文档**  
+
+https://help.aliyun.com/zh/dashscope/developer-reference
+
+**Playground**
+
+https://dashscope.console.aliyun.com/playground
+
+**定价信息**  
+
+https://dashscope.console.aliyun.com/billing
+
+**OpenAI SDK**：支持
+
+Spark / 讯飞星火
+------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**  
+
+星火的 api 有点独特，文档很复杂
+
+由于产品线太多，所以得找一会儿
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4EtxHanKdyEnwnbTOBDDiaJsveuf7n8ngJa9Ucle02jd0HraN5j3VHMA/640?wx_fmt=png&from=appmsg)
+
+还好靠前
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn48kPaibxaTibsp6JkufFBWcTqSwT8hLneQWjbldHq8icPY7N3qZRhSVMYQ/640?wx_fmt=png&from=appmsg)
+
+key 是根据项目来的，所以稍微折腾下
+
+和 Qwen 一样
+
+文档不够友好
+
+以及我还没找到 OpenAI SDK 的调用方式
+
+**获取 key**
+
+先创建应用  
+
+https://console.xfyun.cn/app/myapp
+
+在应用里获取 key
+
+https://console.xfyun.cn/services/cbm
+
+**文档**  
+
+https://www.xfyun.cn/doc/spark/Web.html
+
+**Playground**
+
+https://console.xfyun.cn/services/sparkapiCenter
+
+**定价信息**  
+
+https://xinghuo.xfyun.cn/sparkapi
+
+打开链接后需要往下划
+
+**OpenAI SDK**：没找到
+
+Stepfun / 阶跃星辰
+--------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+评价  
+
+简介清晰，使用 OpenAI SDK
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4R3BWdZnTXXiaiaZTlSdq9HHP8uA2RvYjRBHGCjynFMT4KmiaXKnWKVpOQ/640?wx_fmt=png&from=appmsg)
+
+和 Kimi 一样，无缝切换
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4wUECibyvcJOyAaqQsOcJMJEaba1zDcTgr6kMEAFDmJrBuicy3xSoY83g/640?wx_fmt=png&from=appmsg)
+
+示例也很清晰
+
+吐槽：我总是打成「节约星尘」
+
+**获取 key**
+
+https://platform.stepfun.com/interface-key
+
+**文档**  
+
+https://platform.stepfun.com/docs/overview/concept
+
+**Playground**
+
+木有
+
+**定价信息**  
+
+https://platform.stepfun.com/docs/pricing/details
+
+**OpenAI SDK**：支持
+
+ERNIE / 文心一言
+------------
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+**评价**
+
+广告太多，不想评价
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4VJXK3M0LRpzMibCmRibgoKoqsnVl83YKRcEcQhGoQWic5icicPEyqhrvNqA/640?wx_fmt=png&from=appmsg)
+  
+
+  
+
+结论
+--
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+大模型新势力，在文档方面都还不错
+
+老牌大厂在这块就有所欠缺了
+
+其实国外也差不多
+
+OpenAI/Claude 的 API 都挺好接的
+
+Google 的 API 简直反人性
+
+以及
+--
+
+![](https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&from=appmsg)
+
+咱公众号基本都是 AI 从业者
+
+很多人也会参加本次 WAIC 大会
+
+在会后，让我们约几场行业精酿局～
+
+分为：数据与训练/安全与对齐/产品与落地 三场  
+
+**报名原则**
+
+1.  必须是从业者，对等分享交流
+    
+2.  每个厂/组/实验室，最多来两人
+    
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4JbjiaQLoNWiccefMmE6JHtLUjaYM1O9qcVYdcFibicdTrqYVeKwGAMeIsw/640?wx_fmt=jpeg)。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/da-mo-xing-%20API%20-wen-dang-yi-lan-%EF%BC%9A-you-de-jian-ji-yi-yong-%EF%BC%8C-you-de-luan-qi-ba-zao.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>大模型 API 文档一览：有的简洁易用，有的乱七八糟</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">大模型 API 文档一览：有的简洁易用，有的乱七八糟</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/598" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>这段时间</p>
+<p>在把我的 agent 迁用国产模型</p>
+<p><strong>困难重重</strong></p>
+<p>不光是上次提到的</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&amp;mid=2247489742&amp;idx=1&amp;sn=4355a46b32fa7d39b90999825dc6140f&amp;chksm=c2bcd5c8f5cb5cde5a55f168b0000e7c5fe6e1bdcb766d38087350b4abf233cbeac8d87af223&amp;scene=21#wechat_redirect" rel="nofollow">全军覆没：国产大模型，都没做好 OpenAI 兼容</a></p>
+<p>有的模型，甚至根本找不到文档</p>
+<p>于是在这篇</p>
+<p>我整理了下各家的接入方法</p>
+<p><strong>值得收藏</strong></p>
+<p><strong>开发省点时间</strong></p>
+<p>顺便吐槽下...</p>
+<p>希望各厂负责人能看到</p>
+<p>以及</p>
+<p><strong>我组了场活动，在文末</strong></p>
+<p><strong>欢迎各位大佬参加</strong></p>
+<p>大致按模型首字母排序</p>
+<h2>Baichuan / 百川</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>评价</strong></p>
+<p>清晰明确，所有内容均在同级菜单，找起来很方便</p>
+<p>_<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/df6479d5bc8c27f59d22cf8762158309d4d0b0320b7181532fe67a5f68e4810d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e3464734b4863476e47717849334767726f7669625a5a78494f77334342623462616c64494957546f3070786962386d626e516231386b7965772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/df6479d5bc8c27f59d22cf8762158309d4d0b0320b7181532fe67a5f68e4810d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e3464734b4863476e47717849334767726f7669625a5a78494f77334342623462616c64494957546f3070786962386d626e516231386b7965772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4dsKHcGnGqxI3GgrovibZZxIOw3CBb4baldIIWTo0pxib8mbnQb18kyew/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+_</p>
+<p>但这里也有些小瑕疵</p>
+<p>比如：没有明确调用方法</p>
+<p>（拉到最后才发现支持OpenAI调用）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7298202f05f09414b491b4489902f4ccd8ff387ab41591a482986325924112ab/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e345a73744c4d47435673367a6633474630615a5a77626c6867696254696233423773756d66525461546963486962786963466d69637446696163473870512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7298202f05f09414b491b4489902f4ccd8ff387ab41591a482986325924112ab/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e345a73744c4d47435673367a6633474630615a5a77626c6867696254696233423773756d66525461546963486962786963466d69637446696163473870512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4ZstLMGCVs6zf3GF0aZZwblhgibTib3B7sumfRTaTicHibxicFmictFiacG8pQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>获取 key</strong></p>
+<p><a href="https://platform.baichuan-ai.com/console/apikey" rel="nofollow">https://platform.baichuan-ai.com/console/apikey</a></p>
+<p><strong>文档</strong></p>
+<p><a href="https://platform.baichuan-ai.com/docs/api" rel="nofollow">https://platform.baichuan-ai.com/docs/api</a></p>
+<p><strong>Playground</strong></p>
+<p><a href="https://platform.baichuan-ai.com/playground" rel="nofollow">https://platform.baichuan-ai.com/playground</a></p>
+<p><strong>定价信息</strong></p>
+<p><a href="https://platform.baichuan-ai.com/price" rel="nofollow">https://platform.baichuan-ai.com/price</a></p>
+<p><strong>OpenAI SDK</strong>：支持</p>
+<h2>DeepSeek / 深度求索</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>评价</strong></p>
+<p>感觉在文档里面，ds 的最为用心</p>
+<p>有细节在里面，比如</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/845eae2b6269f81e0b560342f1684ef593a62374818af6ed42e5118700101b13/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34334d54547a46685232673258626442436b7355756664764b6963516e7a515948677a76334e33514d485068596d4272696133793569624d6962772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/845eae2b6269f81e0b560342f1684ef593a62374818af6ed42e5118700101b13/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34334d54547a46685232673258626442436b7355756664764b6963516e7a515948677a76334e33514d485068596d4272696133793569624d6962772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn43MTTzFhR2g2XbdBCksUufdvKicQnzQYHgzv3N3QMHPhYmBria3y5ibMibw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>对于可能疑惑的地方，指向对应地址（比如这里的 api key）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1dec7321ea8288e1ab26abe2c57382d481fd3db2868ba15aba4969791fb2f73f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e345676735166505a684e616867346963744e544769624b4b58486962386d795939786f5073426e6d69615476686c455177744259637848493067512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1dec7321ea8288e1ab26abe2c57382d481fd3db2868ba15aba4969791fb2f73f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e345676735166505a684e616867346963744e544769624b4b58486962386d795939786f5073426e6d69615476686c455177744259637848493067512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4VvsQfPZhNahg4ictNTGibKKXHib8myY9xoPsBnmiaTvhlEQwtBYcxHI0gQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>在文档里，用各种语言展示了事例</p>
+<p>但也有点问题</p>
+<p>比如我没找到 playground</p>
+<p>以及...</p>
+<p>仅代表个人吐槽</p>
+<p>为什么邮箱注册的不送 credit!!!!</p>
+<p>害我充了 10 块钱</p>
+<p><strong>获取 key</strong></p>
+<p><a href="https://platform.deepseek.com/api_keys" rel="nofollow">https://platform.deepseek.com/api_keys</a></p>
+<p><strong>文档</strong></p>
+<p><a href="https://platform.deepseek.com/api-docs/zh-cn/" rel="nofollow">https://platform.deepseek.com/api-docs/zh-cn/</a></p>
+<p><strong>Playground</strong></p>
+<p>木有</p>
+<p><strong>定价信息</strong></p>
+<p><a href="https://platform.deepseek.com/api-docs/zh-cn/pricing" rel="nofollow">https://platform.deepseek.com/api-docs/zh-cn/pricing</a></p>
+<p><strong>OpenAI SDK</strong>：支持</p>
+<h2>GLM / 智谱</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>评价</strong></p>
+<p>网址很牛逼！大模特.cn</p>
+<p>bigmodel.cn</p>
+<p>清晰易读很漂亮</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a23680afe2f69b0260a454a14eaea62bcf6ad7b77ede88f3764412522f5ce26f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e347665364d506e794272704554555169626569626766446e684f564f766c4446385376364f335169615a37633754446f43673965446f383843512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a23680afe2f69b0260a454a14eaea62bcf6ad7b77ede88f3764412522f5ce26f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e347665364d506e794272704554555169626569626766446e684f564f766c4446385376364f335169615a37633754446f43673965446f383843512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4ve6MPnyBrpETUQibeibgfDnhOVOvlDF8Sv6O3QiaZ7c7TDoCg9eDo88CQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>各种指引很棒！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71d4d62fde9e28d0ae5112cba2b7155380debf3591f42eda4c2885e6487bd810/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e345a776f746c34325338325353794d467173794d335a65527a556167324f34474f7038654548767a6c65444d4249796b51626643414d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/71d4d62fde9e28d0ae5112cba2b7155380debf3591f42eda4c2885e6487bd810/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e345a776f746c34325338325353794d467173794d335a65527a556167324f34474f7038654548767a6c65444d4249796b51626643414d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4Zwotl42S82SSyMFqsyM3ZeRzUag2O4GOp8eEHvzleDMBIykQbfCAMA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>支持线上微调、Batch 任务等</p>
+<p>对齐 OpenAI</p>
+<p>但在细节上有点问题</p>
+<p>比如</p>
+<p>开放接口的对应信息里</p>
+<p>没有请求事例</p>
+<p>得来回在 Doc 和 API Ref 里找材料</p>
+<p><strong>获取 key</strong></p>
+<p><a href="https://bigmodel.cn/usercenter/apikeys" rel="nofollow">https://bigmodel.cn/usercenter/apikeys</a></p>
+<p><strong>文档</strong></p>
+<p><a href="https://bigmodel.cn/dev/api" rel="nofollow">https://bigmodel.cn/dev/api</a></p>
+<p><strong>Playground</strong></p>
+<p><a href="https://bigmodel.cn/trialcenter" rel="nofollow">https://bigmodel.cn/trialcenter</a></p>
+<p><strong>定价信息</strong></p>
+<p><a href="https://open.bigmodel.cn/pricing" rel="nofollow">https://open.bigmodel.cn/pricing</a></p>
+<p><strong>OpenAI SDK</strong>：支持</p>
+<h2>MiniMax</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>评价</strong></p>
+<p>信息都有，但排版好奇怪</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cf258a76a38d024dbb8f8fe5f64e1a2723a5fdb80c21a24ad768dc4d8a069766/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e346b4145775a4f58556962643657696272734a585932544a366f354d4f62684d4c49473967483053414b4f654d544a7a30534a366c737354512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/cf258a76a38d024dbb8f8fe5f64e1a2723a5fdb80c21a24ad768dc4d8a069766/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e346b4145775a4f58556962643657696272734a585932544a366f354d4f62684d4c49473967483053414b4f654d544a7a30534a366c737354512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4kAEwZOXUibd6WibrsJXY2TJ6o5MObhMLIG9gH0SAKOeMTJz0SJ6lssTQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>各种字体...</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e93f9e3efeb7edd74c5136d5f98ad90825a108c11b31c483310c1a0fdc6699ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e344c63767769636b7a4e38726c756a6b5839666962656b58614861796e556869634e6f6962327269627533707267567635426735307a384f467445672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e93f9e3efeb7edd74c5136d5f98ad90825a108c11b31c483310c1a0fdc6699ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e344c63767769636b7a4e38726c756a6b5839666962656b58614861796e556869634e6f6962327269627533707267567635426735307a384f467445672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4LcvwickzN8rlujkX9fibekXaHaynUhicNoib2ribu3prgVv5Bg50z8OFtEg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后文档里说支持 OpenAI 调用</p>
+<p>但我没调成功</p>
+<p>知道具体怎么调的朋友</p>
+<p>欢迎后台发我个 sample code</p>
+<p><strong>获取 key</strong></p>
+<p><a href="https://platform.minimaxi.com/user-center/basic-information/interface-key" rel="nofollow">https://platform.minimaxi.com/user-center/basic-information/interface-key</a></p>
+<p><strong>文档</strong></p>
+<p><a href="https://platform.minimaxi.com/document/notice" rel="nofollow">https://platform.minimaxi.com/document/notice</a></p>
+<p><strong>Playground</strong></p>
+<p><a href="https://platform.minimaxi.com/examination-center/text-experience-center" rel="nofollow">https://platform.minimaxi.com/examination-center/text-experience-center</a></p>
+<p><strong>定价信息</strong></p>
+<p><a href="https://platform.minimaxi.com/document/price" rel="nofollow">https://platform.minimaxi.com/document/price</a></p>
+<p><strong>OpenAI SDK</strong></p>
+<p>据说支持（我没调通）</p>
+<h2>Moonshot / 月之暗面</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>评价</strong></p>
+<p>很清晰，技术人员很友好</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e730467e6eb42d082153a50747892fb3bb779da65a7fa84fe7bd0dd39da2beef/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e347167437a426854787355504b4f437a6d365a37425a72796555696370316f6f436c7045666f686832397a4f494d724659506e47444d63512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e730467e6eb42d082153a50747892fb3bb779da65a7fa84fe7bd0dd39da2beef/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e347167437a426854787355504b4f437a6d365a37425a72796555696370316f6f436c7045666f686832397a4f494d724659506e47444d63512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4qgCzBhTxsUPKOCzm6Z7BZryeUicp1ooClpEfohh29zOIMrFYPnGDMcQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>看一眼就知道咋上手了</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24c0059e984f8aa5657df469bc0f2114d830bfc07d40f713f320ea88941e1266/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e347a3455626962396736747156566d34453046447569623544754b58696167654c48653345784d565a5047575973313261536963676c6a674c73512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/24c0059e984f8aa5657df469bc0f2114d830bfc07d40f713f320ea88941e1266/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e347a3455626962396736747156566d34453046447569623544754b58696167654c48653345784d565a5047575973313261536963676c6a674c73512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4z4Ubib9g6tqVVm4E0FDuib5DuKXiageLHe3ExMVZPGWYs12aSicgljgLsQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>少有的附带 cookbook 的 文档</p>
+<p>但也有点小问题</p>
+<p>比如今天新上的</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkyNzY4NDEzNA==&amp;mid=2247483721&amp;idx=1&amp;sn=ba9c803c554a085fc3542f21a56efd34&amp;scene=21#wechat_redirect" rel="nofollow">上下文缓存</a></p>
+<p>在长文本QA中，能省钱的功能</p>
+<p>省钱计算器是个图片...</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0b0cddb1967258499323aba889faede998d87e288107213250712b05c735f5ed/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e344e574a666c5050594569637957494f67584e745058443869626751464d4d7476596b334c5a726638766d3830414e50725469626c67433037412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0b0cddb1967258499323aba889faede998d87e288107213250712b05c735f5ed/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e344e574a666c5050594569637957494f67584e745058443869626751464d4d7476596b334c5a726638766d3830414e50725469626c67433037412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4NWJflPPYEicyWIOgXNtPXD8ibgQFMMtvYk3LZrf8vm80ANPrTiblgC07A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>获取 key</strong></p>
+<p><a href="https://platform.moonshot.cn/console/api-keys" rel="nofollow">https://platform.moonshot.cn/console/api-keys</a></p>
+<p><strong>文档</strong></p>
+<p><a href="https://platform.moonshot.cn/docs" rel="nofollow">https://platform.moonshot.cn/docs</a></p>
+<p><strong>Playground</strong></p>
+<p>木有</p>
+<p><strong>定价信息</strong></p>
+<p><a href="https://platform.moonshot.cn/docs/price/chat" rel="nofollow">https://platform.moonshot.cn/docs/price/chat</a></p>
+<p><strong>OpenAI SDK</strong>：支持</p>
+<h2>Qwen / 通义千问</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>评价</strong></p>
+<p>哎...</p>
+<p>哎...</p>
+<p>哎...</p>
+<p>通义千问/ 灵积 / 阿里云 / 魔搭 /... 确实不知道从哪开始</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c148ce3a42e48bd1a1554fcac536062302b0cf5bfa2493fb7bebc5fcf84683cc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34517130536741316469624a4e5866364751394a44527a6f704e37754f6e4f746b59775648556365454a3868414b663273664e6b633177672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c148ce3a42e48bd1a1554fcac536062302b0cf5bfa2493fb7bebc5fcf84683cc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34517130536741316469624a4e5866364751394a44527a6f704e37754f6e4f746b59775648556365454a3868414b663273664e6b633177672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4Qq0SgA1dibJNXf6GQ9JDRzopN7uOnOtkYwVHUceEJ8hAKf2sfNkc1wg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我咋知道该点哪个？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e44386488269c54797f2f0c9727ef73ba6e05d94a49ee7e0180925dc7f8a6454/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34796b6e7951436963786962556e643473457069625a4246514869637359727a634a39556c43684762484f6e4f476157326963685034427865334b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e44386488269c54797f2f0c9727ef73ba6e05d94a49ee7e0180925dc7f8a6454/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34796b6e7951436963786962556e643473457069625a4246514869637359727a634a39556c43684762484f6e4f476157326963685034427865334b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4yknyQCicxibUnd4sEpibZBFQHicsYrzcJ9UlChGbHOnOGaW2ichP4Bxe3Kg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>所以，我的 key 在哪里？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/128a9085dad7fb38f5b427c06968b8c580c964eb99f0ee30652c674b9ac35732/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34427144726d6731314c4d6f78496766756e514a4e6767337331474a386a4c4e38596b4e6c6d4f6174426962597a394937643461307334672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/128a9085dad7fb38f5b427c06968b8c580c964eb99f0ee30652c674b9ac35732/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34427144726d6731314c4d6f78496766756e514a4e6767337331474a386a4c4e38596b4e6c6d4f6174426962597a394937643461307334672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4BqDrmg11LMoxIgfunQJNgg3s1GJ8jLN8YkNlmOatBibYz9I7d4a0s4g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我在哪？我是谁？我该干什么？</p>
+<p>实际用下来，模型非常强</p>
+<p>但就是得花半小时找文档</p>
+<p>我都找到了，放在下面</p>
+<p><strong>获取 key</strong></p>
+<p><a href="https://dashscope.console.aliyun.com/apiKey" rel="nofollow">https://dashscope.console.aliyun.com/apiKey</a></p>
+<p><strong>文档</strong></p>
+<p><a href="https://help.aliyun.com/zh/dashscope/developer-reference" rel="nofollow">https://help.aliyun.com/zh/dashscope/developer-reference</a></p>
+<p><strong>Playground</strong></p>
+<p><a href="https://dashscope.console.aliyun.com/playground" rel="nofollow">https://dashscope.console.aliyun.com/playground</a></p>
+<p><strong>定价信息</strong></p>
+<p><a href="https://dashscope.console.aliyun.com/billing" rel="nofollow">https://dashscope.console.aliyun.com/billing</a></p>
+<p><strong>OpenAI SDK</strong>：支持</p>
+<h2>Spark / 讯飞星火</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>评价</strong></p>
+<p>星火的 api 有点独特，文档很复杂</p>
+<p>由于产品线太多，所以得找一会儿</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d02f7c590265e4ced84990e74ec36a62e702ca31af7bd0b255cdfd437e70c03d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e3445747848616e4b6479456e776e62544f42444469614a7376657566376e386e674a613955636c6530326a64304872614e356a3356484d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d02f7c590265e4ced84990e74ec36a62e702ca31af7bd0b255cdfd437e70c03d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e3445747848616e4b6479456e776e62544f42444469614a7376657566376e386e674a613955636c6530326a64304872614e356a3356484d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4EtxHanKdyEnwnbTOBDDiaJsveuf7n8ngJa9Ucle02jd0HraN5j3VHMA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>还好靠前</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0e496363f7e66a5a95d5c462c0daee3d61d33c40c859b99776ffcf2baa387c40/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34386b5061696278615469627370364a6b756646425763547153775438684c6e6551576a626c6448713869635059374e33715a526853564d59512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0e496363f7e66a5a95d5c462c0daee3d61d33c40c859b99776ffcf2baa387c40/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34386b5061696278615469627370364a6b756646425763547153775438684c6e6551576a626c6448713869635059374e33715a526853564d59512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn48kPaibxaTibsp6JkufFBWcTqSwT8hLneQWjbldHq8icPY7N3qZRhSVMYQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>key 是根据项目来的，所以稍微折腾下</p>
+<p>和 Qwen 一样</p>
+<p>文档不够友好</p>
+<p>以及我还没找到 OpenAI SDK 的调用方式</p>
+<p><strong>获取 key</strong></p>
+<p>先创建应用</p>
+<p><a href="https://console.xfyun.cn/app/myapp" rel="nofollow">https://console.xfyun.cn/app/myapp</a></p>
+<p>在应用里获取 key</p>
+<p><a href="https://console.xfyun.cn/services/cbm" rel="nofollow">https://console.xfyun.cn/services/cbm</a></p>
+<p><strong>文档</strong></p>
+<p><a href="https://www.xfyun.cn/doc/spark/Web.html" rel="nofollow">https://www.xfyun.cn/doc/spark/Web.html</a></p>
+<p><strong>Playground</strong></p>
+<p><a href="https://console.xfyun.cn/services/sparkapiCenter" rel="nofollow">https://console.xfyun.cn/services/sparkapiCenter</a></p>
+<p><strong>定价信息</strong></p>
+<p><a href="https://xinghuo.xfyun.cn/sparkapi" rel="nofollow">https://xinghuo.xfyun.cn/sparkapi</a></p>
+<p>打开链接后需要往下划</p>
+<p><strong>OpenAI SDK</strong>：没找到</p>
+<h2>Stepfun / 阶跃星辰</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>评价</p>
+<p>简介清晰，使用 OpenAI SDK</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1373f8c3d74458e478abb5efab377bb757c7d58cb1423ade4b738a0e7cf08a8c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e3452334257645a6e545858696169615a546c53647139484850387541325276596a52424847436a796e464d54344b6d6961584b6e574b56704f512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1373f8c3d74458e478abb5efab377bb757c7d58cb1423ade4b738a0e7cf08a8c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e3452334257645a6e545858696169615a546c53647139484850387541325276596a52424847436a796e464d54344b6d6961584b6e574b56704f512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4R3BWdZnTXXiaiaZTlSdq9HHP8uA2RvYjRBHGCjynFMT4KmiaXKnWKVpOQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>和 Kimi 一样，无缝切换</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/219686942228fe9a49bc64075f2218dfc1f0d412b7e4f17fe1e66916ed8a7e0f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e347755454369627976634a4f7941617151734f634a4d4a45616261317a4463546772366b4d454146446d4a7242756963793378536f593833672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/219686942228fe9a49bc64075f2218dfc1f0d412b7e4f17fe1e66916ed8a7e0f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e347755454369627976634a4f7941617151734f634a4d4a45616261317a4463546772366b4d454146446d4a7242756963793378536f593833672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4wUECibyvcJOyAaqQsOcJMJEaba1zDcTgr6kMEAFDmJrBuicy3xSoY83g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>示例也很清晰</p>
+<p>吐槽：我总是打成「节约星尘」</p>
+<p><strong>获取 key</strong></p>
+<p><a href="https://platform.stepfun.com/interface-key" rel="nofollow">https://platform.stepfun.com/interface-key</a></p>
+<p><strong>文档</strong></p>
+<p><a href="https://platform.stepfun.com/docs/overview/concept" rel="nofollow">https://platform.stepfun.com/docs/overview/concept</a></p>
+<p><strong>Playground</strong></p>
+<p>木有</p>
+<p><strong>定价信息</strong></p>
+<p><a href="https://platform.stepfun.com/docs/pricing/details" rel="nofollow">https://platform.stepfun.com/docs/pricing/details</a></p>
+<p><strong>OpenAI SDK</strong>：支持</p>
+<h2>ERNIE / 文心一言</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>评价</strong></p>
+<p>广告太多，不想评价</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f003a92025ebf58f4d9eda7164972118d81e962d50a80cbf0753a7c296f01f3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34564a584b334d304c52707a4d6962436d526962676f4b6f71736e566c3833594b526345635168476f515769633569636963504579716872764e71412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2f003a92025ebf58f4d9eda7164972118d81e962d50a80cbf0753a7c296f01f3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e34564a584b334d304c52707a4d6962436d526962676f4b6f71736e566c3833594b526345635168476f515769633569636963504579716872764e71412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4VJXK3M0LRpzMibCmRibgoKoqsnVl83YKRcEcQhGoQWic5icicPEyqhrvNqA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>结论</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>大模型新势力，在文档方面都还不错</p>
+<p>老牌大厂在这块就有所欠缺了</p>
+<p>其实国外也差不多</p>
+<p>OpenAI/Claude 的 API 都挺好接的</p>
+<p>Google 的 API 简直反人性</p>
+<h2>以及</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3dd205cc4c80ebaf49e120af39cf55eb3ed4886f3325b1a870cc037a0a9f4a31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d633156424959726c6f73696245446c335472624f6c4b52365879696237707a35574543646961394b61626d65615751494a385945354872785636565071496c7169625565595a4c626270696133357154477063716476772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrlosibEDl3TrbOlKR6Xyib7pz5WECdia9KabmeaWQIJ8YE5HrxV6VPqIlqibUeYZLbbpia35qTGpcqdvw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>咱公众号基本都是 AI 从业者</p>
+<p>很多人也会参加本次 WAIC 大会</p>
+<p>在会后，让我们约几场行业精酿局～</p>
+<p>分为：数据与训练/安全与对齐/产品与落地 三场</p>
+<p><strong>报名原则</strong></p>
+<ol>
+<li>
+<p>必须是从业者，对等分享交流</p>
+</li>
+<li>
+<p>每个厂/组/实验室，最多来两人</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2221f65f642768ecc7fc3f8f9546903bcc19f836b5b5f27d87ea2b5ee82e82ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e344a626a6961514c6f4e5769636365664d6d45364a48744c556a61594d314f397163565964634669626963645472715956654b7747414d654973772f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/2221f65f642768ecc7fc3f8f9546903bcc19f836b5b5f27d87ea2b5ee82e82ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d633156424959726436736a4f42584742714b4f53644e69637054436e344a626a6961514c6f4e5769636365664d6d45364a48744c556a61594d314f397163565964634669626963645472715956654b7747414d654973772f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2icSMc1VBIYrd6sjOBXGBqKOSdNicpTCn4JbjiaQLoNWiccefMmE6JHtLUjaYM1O9qcVYdcFibicdTrqYVeKwGAMeIsw/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

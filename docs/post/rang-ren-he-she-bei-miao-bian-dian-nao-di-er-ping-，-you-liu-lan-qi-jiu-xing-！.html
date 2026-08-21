@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="公众号关注 “GitHub 宝典”
+
+设为 “星标”，每天带你逛 GitHub！
+
+我们总是觉得一个显示屏不够用：办公想要更大显示空间，打游戏需要同步查看攻略，会议需要分享演示。">
+<meta property="og:title" content="让任何设备秒变电脑第二屏，有浏览器就行！">
+<meta property="og:description" content="公众号关注 “GitHub 宝典”
+
+设为 “星标”，每天带你逛 GitHub！
+
+我们总是觉得一个显示屏不够用：办公想要更大显示空间，打游戏需要同步查看攻略，会议需要分享演示。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/rang-ren-he-she-bei-miao-bian-dian-nao-di-er-ping-%EF%BC%8C-you-liu-lan-qi-jiu-xing-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>让任何设备秒变电脑第二屏，有浏览器就行！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">让任何设备秒变电脑第二屏，有浏览器就行！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/704" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>公众号关注 “GitHub 宝典”</p>
+<p>设为 “星标”，每天带你逛 GitHub！</p>
+<p>我们总是觉得一个显示屏不够用：办公想要更大显示空间，打游戏需要同步查看攻略，会议需要分享演示。</p>
+<p>这些场景都让我们不得不考虑增加屏幕，但当我们接了一个显示器时，往往还想接更多。</p>
+<p>而我常常看到家里的旧手机、平板在吃灰，总是在想，要是能把这些闲置设备变成电脑扩展屏那该多好。</p>
+<p>无独有偶，最近我在 GitHub 上发现了一款特别实用的开源工具：<strong>Deskreen</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/76aab8f8c7144d8f22a96a4bea3423efd7c379d5242d49c857c4c85ae7d71349/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d34724f324477736844796963795a696365575a47317a4a45785774726f594571494569634869634930644e516e51565673344f4956446764536b512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/76aab8f8c7144d8f22a96a4bea3423efd7c379d5242d49c857c4c85ae7d71349/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d34724f324477736844796963795a696365575a47317a4a45785774726f594571494569634869634930644e516e51565673344f4956446764536b512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/libMic1J2Kj4qPFRkDktCAZJwtzbmvjlM4rO2DwshDyicyZiceWZG1zJExWtroYEqIEicHicI0dNQnQVVs4OIVDgdSkQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>它不需要任何额外硬件，只要设备有浏览器就能秒变第二屏幕，完美解决了我们的多屏需求。</p>
+<h3>项目介绍</h3>
+<p>Deskreen 是一款桌面应用程序，最大的亮点在于简单易用，同时支持 Windows、Linux、macOS 系统。</p>
+<p>我们只需要确保设备连接在同一个 WiFi 网络下，就能实现：</p>
+<ul>
+<li>
+<p><strong>任意设备变身第二屏幕</strong>：只要有浏览器的设备，无论是手机、平板、笔记本还是智能电视，都能立即变身为电脑的扩展屏幕；</p>
+</li>
+<li>
+<p><strong>灵活的共享模式</strong>：可以选择分享整个桌面，也可以只分享单个应用窗口，保护隐私的同时提升工作效率；</p>
+</li>
+<li>
+<p><strong>一对多分享</strong>：支持同时分享给多个设备，非常适合会议演示或远程教学场景；</p>
+</li>
+<li>
+<p><strong>翻转屏幕功能</strong>：提供镜像翻转功能，完美解决视频博主对提词器的需求；</p>
+</li>
+<li>
+<p><strong>端到端加密传输</strong>：采用了安全的加密技术，保护数据传输的安全性。</p>
+</li>
+</ul>
+<h3>安装指南</h3>
+<p>安装 Deskreen 非常简单，只需要在其 GitHub 项目的 Releases 页面下载适合自己系统的安装包即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9c0eb92056d0e96b4ddcdbaf01575fb4b6ae2586354e87a9d15ff4ac6d4dfd67/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d3434416f4a37674959366154643430466c6556656871526e614656774e696135696277307330454b7861757933336d37464c70584f334546672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9c0eb92056d0e96b4ddcdbaf01575fb4b6ae2586354e87a9d15ff4ac6d4dfd67/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d3434416f4a37674959366154643430466c6556656871526e614656774e696135696277307330454b7861757933336d37464c70584f334546672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/libMic1J2Kj4qPFRkDktCAZJwtzbmvjlM44AoJ7gIY6aTd40FleVehqRnaFVwNia5ibw0s0EKxauy33m7FLpXO3EFg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>另外，在后台发送关键词 “<strong>Deskreen</strong>”，也可获得工具相关安装包，能够高速无障碍下载。</p>
+<h3>使用指南</h3>
+<p>要将任何带浏览器的设备（手机、平板、智能电视等）变成第二屏幕，我们只需要完成以下三个步骤：</p>
+<p><strong>1. 设备连接</strong></p>
+<ul>
+<li>
+<p>打开电脑端软件，会看到一个二维码和对应的网址</p>
+</li>
+<li>
+<p>用第二屏幕设备扫描二维码，或在浏览器中输入网址</p>
+</li>
+<li>
+<p>如果设备没有相机，可以点击二维码下方的蓝色按钮复制链接</p>
+</li>
+<li>
+<p>注意：确保两个设备都连接在同一个 WiFi 网络下</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e8a3b298a1639c3c99f85ea5c9ec69bc7e1ad072e10ffa79f328eda6495f73a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d347469613570346a4d4b4d684e334f535056467975325a6f504e6e5a384763364547594e56526e7851365a346251643463395331655a59512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5e8a3b298a1639c3c99f85ea5c9ec69bc7e1ad072e10ffa79f328eda6495f73a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d347469613570346a4d4b4d684e334f535056467975325a6f504e6e5a384763364547594e56526e7851365a346251643463395331655a59512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/libMic1J2Kj4qPFRkDktCAZJwtzbmvjlM4tia5p4jMKMhN3OSPVFyu2ZoPNnZ8Gc6EGYNVRnxQ6Z4bQd4c9S1eZYQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>2. 选择显示模式</strong></p>
+<ul>
+<li>
+<p>可以选择"共享整个屏幕"或"共享应用程序窗口"</p>
+</li>
+<li>
+<p>选择整个屏幕：适合需要镜像显示或扩展屏幕的场景</p>
+</li>
+<li>
+<p>选择应用窗口：可以只分享特定应用，保护隐私更安全</p>
+</li>
+<li>
+<p>选择后会显示预览画面，确认无误后进入下一步</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a4c8d2ef5ad894a8c6bc67781d47229bf97cdec1239bdaca25469d18cfc4a92d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d3452656f66316148484c69634a6256784474656c586a53617a6350706e7231435a30505a655a374c3476746d614741667a4f4d596d3638672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a4c8d2ef5ad894a8c6bc67781d47229bf97cdec1239bdaca25469d18cfc4a92d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d3452656f66316148484c69634a6256784474656c586a53617a6350706e7231435a30505a655a374c3476746d614741667a4f4d596d3638672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/libMic1J2Kj4qPFRkDktCAZJwtzbmvjlM4Reof1aHHLicJbVxDtelXjSazcPpnr1CZ0PZeZ7L4vtmaGAfzOMYm68g/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>3. 开始使用</strong></p>
+<ul>
+<li>
+<p>检查连接信息和共享内容是否符合需求</p>
+</li>
+<li>
+<p>点击确认按钮开始屏幕共享</p>
+</li>
+<li>
+<p>如需断开连接，点击顶部的"已连接"按钮，选择断开即可</p>
+</li>
+<li>
+<p>想要添加更多设备，重复以上步骤即可</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6a03aa2befbcffc89a8a6a1141b382e9e828c4b47c70df1010d25aca545133e9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d3439573174315a5a493132774a69614254386c74463770676175444b6e37636b6743514e6b4f4b38676e74764732454979583341395651512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6a03aa2befbcffc89a8a6a1141b382e9e828c4b47c70df1010d25aca545133e9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6c69624d6963314a324b6a34715046526b446b7443415a4a77747a626d766a6c4d3439573174315a5a493132774a69614254386c74463770676175444b6e37636b6743514e6b4f4b38676e74764732454979583341395651512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/libMic1J2Kj4qPFRkDktCAZJwtzbmvjlM49W1t1ZZI12wJiaBT8ltF7pgauDKn7ckgCQNkOK8gntvG2EIyX3A9VQQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>值得一提的是，软件支持中文界面，所有操作都有中文提示，非常方便国内用户使用。且得益于其简洁的设计，整个连接过程通常只需要不到一分钟就能完成。</p>
+<h3>写在最后</h3>
+<p>在这个提倡环保和高效办公的时代，能让闲置设备重获新生的工具确实让我们工作更加便利。</p>
+<p>通过这款工具，我们不仅省下了购买额外显示器的开支，更重要的是提高了工作效率，让多任务处理变得更加从容。</p>
+<p>如果你也在寻找类似的解决方案，不妨试试这款开源神器。</p>
+<p>GitHub 项目地址：<a href="https://github.com/pavlobu/deskreen">https://github.com/pavlobu/deskreen</a></p>
+<p>后台发送关键词 “<strong>Deskreen</strong>”，可获得高速无障碍的相关安装包下载。</p>
+<p>好了，今天的分享到此结束，感谢大家抽空阅读，我们下期再见，Respect！</p>
+<h3>往期热文</h3>
+<ul>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzg2MjUyNjM3Nw==&amp;mid=2247495819&amp;idx=1&amp;sn=24022216c1041e04594e7e9337655073&amp;chksm=ce043e4df973b75b0b66d8f62096fa44f55c91227475da4705d2e80bfb1abf304a7e9156832c&amp;scene=21#wechat_redirect" rel="nofollow">83.5k Star！开源手绘风格白板神器，大佬都爱的画图工具！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzg2MjUyNjM3Nw==&amp;mid=2247495798&amp;idx=1&amp;sn=d69aed5e3004d2f15dee7859d1c95be5&amp;chksm=ce043eb0f973b7a6ad7f71232a8e5d9c5338b90564ab1302d031b63afa1f345b9bafcbcbe6ef&amp;scene=21#wechat_redirect" rel="nofollow">16.5k Star！又一款跨平台的全能下载神器！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzg2MjUyNjM3Nw==&amp;mid=2247495769&amp;idx=1&amp;sn=322e2f3b80805a51ee8247cd10ca244a&amp;chksm=ce043e9ff973b7899497417e37dabc716bb0898c677833d13279ba3b361fc1cf464d829b0144&amp;scene=21#wechat_redirect" rel="nofollow">45.6k Star！全平台同步笔记神器，印象笔记、OneNote 开源平替！</a></p>
+</li>
+</ul></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

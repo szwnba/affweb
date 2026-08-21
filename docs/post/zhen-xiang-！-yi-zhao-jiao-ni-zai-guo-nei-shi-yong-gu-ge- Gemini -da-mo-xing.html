@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> 大家好，我是知白。">
+<meta property="og:title" content="真香！一招教你在国内使用谷歌 Gemini 大模型">
+<meta property="og:description" content="> 大家好，我是知白。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/zhen-xiang-%EF%BC%81-yi-zhao-jiao-ni-zai-guo-nei-shi-yong-gu-ge-%20Gemini%20-da-mo-xing.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>真香！一招教你在国内使用谷歌 Gemini 大模型</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">真香！一招教你在国内使用谷歌 Gemini 大模型</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/329" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>大家好，我是知白。一个专注于输出 AI +编程内容的大厂资深程序员，关注我一起进步。</p>
+</blockquote>
+<p>我上周写了篇文章，讲述了 Gemini 自称文心一言的故事。</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU2NTg3MjMwMg==&amp;mid=2247485058&amp;idx=1&amp;sn=9e44466d6cb831b913817400e39e0e03&amp;chksm=fcb45543cbc3dc5572730e3dc6ffdde1e990e590d2b31ef4b6df215de829ec1c5da9dc0113e1&amp;scene=21#wechat_redirect" rel="nofollow">谷歌 Gemini 自称文心一言？大公司互薅羊毛</a></p>
+<p>Gemini 确实在中文语料上使用了很多国内大模型的数据，谷歌已经做了紧急修复，测试不出来了。很多网友猜测其在英文语料上也有使用 ChatGPT 的，互联网上的人造数据毕竟是有限。</p>
+<p>对我们使用者来说，倒是没有啥影响。甚至很多读者在后台问我有没有 Gemini 部署到国内可以直接访问的教程，周末花了点时间，找到了国内的免费玩法。</p>
+<p>Gemini Pro 免费版每分钟支持60个查询，并且可以长期免费使用。相比于 ChatGPT-3.5 的 5 美元免费额度每分钟 3 个请求限制，确实香很多。</p>
+<p>需要注意，有两个前置条件：</p>
+<ol>
+<li>
+<p>需要先获取到 Gemini 的 API 密钥，这个需要大家自行解决。</p>
+</li>
+<li>
+<p>自己的独立域名，找个不常用的域名后缀一年只需要几块钱。</p>
+</li>
+</ol>
+<p>话不多说，直接奉上保姆级教程。</p>
+<p>Github 项目地址：<code class="notranslate">https://github.com/antergone/palm-proxy</code></p>
+<p>进入到上述网址，使用 Vercel 来进行快速部署。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf60a8e9318b89dd43ed42fed789bd5a4f534e0802740cf99fcc972ae4ccdd33/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d33345256664451574c48384959675933474a39516c6273673067784d51747031737a744270376c43544b59686b626e7834444875374957494d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bf60a8e9318b89dd43ed42fed789bd5a4f534e0802740cf99fcc972ae4ccdd33/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d33345256664451574c48384959675933474a39516c6273673067784d51747031737a744270376c43544b59686b626e7834444875374957494d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVfDQWLH8IYgY3GJ9Qlbsg0gxMQtp1sztBp7lCTKYhkbnx4DHu7IWIMQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>进入到 Vercel 中，可以直接使用默认项目名，点击创建。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/23cd53b9166373a4c14b1465a8015c2687360016656f7a49c4d04c77b293293b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452566b4c6f456647625045746a4a4441377164674433437168483432506a344851377a76796e636e4b6254537669616f737378366b575852412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/23cd53b9166373a4c14b1465a8015c2687360016656f7a49c4d04c77b293293b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452566b4c6f456647625045746a4a4441377164674433437168483432506a344851377a76796e636e4b6254537669616f737378366b575852412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVkLoEfGbPEtjJDA7qdgD3CqhH42Pj4HQ7zvyncnKbTSviaossx6kWXRA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>部署成功后，点击跳转到大盘。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b62860c345444efb4259f22b9637b126beb278e3f797db414936086a53253744/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d3334525669637539684662776b4638473070364379423058576146766d38415a6c6961527556516a6c564d797565484e4f36696369623251417a48587a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b62860c345444efb4259f22b9637b126beb278e3f797db414936086a53253744/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d3334525669637539684662776b4638473070364379423058576146766d38415a6c6961527556516a6c564d797565484e4f36696369623251417a48587a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVicu9hFbwkF8G0p6CyB0XWaFvm8AZliaRuVQjlVMyueHNO6icib2QAzHXzw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>复制这个代理链接，后面要用到。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2bf7b2c67fc11d84bec6e44740404a81bb406348d8e32975ca25605689bdd339/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d33345256326e6c5563427a5442346271344e54726c39516751676e54546c7541776636786c6b4436416657464a70734969633671456753396f79412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2bf7b2c67fc11d84bec6e44740404a81bb406348d8e32975ca25605689bdd339/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d33345256326e6c5563427a5442346271344e54726c39516751676e54546c7541776636786c6b4436416657464a70734969633671456753396f79412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RV2nlUcBzTB4bq4NTrl9QgQgnTTluAwf6xlkD6AfWFJpsIic6qEgS9oyA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Github 项目地址：<code class="notranslate">https://github.com/babaohuang/GeminiProChat</code></p>
+<p>再进入到上面这个项目地址，一样使用 Vercel 来部署。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e986567e6deb07dccc8c10c0e2d5241d695ca4cbf5df3b12636b37c5c870f9c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452564973657a4e6b56315a737557346f443054733476384d3555673262654845483954787a6871703269626a796e396f7845306133303858512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7e986567e6deb07dccc8c10c0e2d5241d695ca4cbf5df3b12636b37c5c870f9c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452564973657a4e6b56315a737557346f443054733476384d3555673262654845483954787a6871703269626a796e396f7845306133303858512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVIsezNkV1ZsuW4oD0Ts4v8M5Ug2beHEH9Txzhqp2ibjyn9oxE0a308XQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后同上面一样，随便输入一个姓名直接点击创建。在这里填入你申请到的 Gemini API 密钥后，点击部署。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da1208a088556be39e5f2825cb3cf6b889edc1b88ca29485bbd78d2697af4e50/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d33345256624152765a30336a67563054764f646c494159615a775a3876356148614241754e64547972434477714874456668706a4e65395a58512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/da1208a088556be39e5f2825cb3cf6b889edc1b88ca29485bbd78d2697af4e50/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d33345256624152765a30336a67563054764f646c494159615a775a3876356148614241754e64547972434477714874456668706a4e65395a58512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVbARvZ03jgV0TvOdlIAYaZwZ8v5aHaBAuNdTyrCDwqHtEfhpjNe9ZXQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>部署成功后跳转到面板，配置环境变量中的代理域名，Key 填入 <code class="notranslate">API_BASE_URL</code>，Value 填写你前面获取到的地址，记得加上 <code class="notranslate">https://</code> 前缀，最后点击保存即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/23c0c6ff6dd03934d3859146200a7aa294e20ac4037387486eb68c7cb46eaafe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452566530544d6f766f484655777a794b6e6c4765576c485563576561424d687849644a574f6569616e4878465745615358554b39457a546b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/23c0c6ff6dd03934d3859146200a7aa294e20ac4037387486eb68c7cb46eaafe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452566530544d6f766f484655777a794b6e6c4765576c485563576561424d687849644a574f6569616e4878465745615358554b39457a546b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVe0TMovoHFUwzyKnlGeWlHUcWeaBMhxIdJWOeianHxFWEaSXUK9EzTkQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>使用自己的域名也很简单，按照如图所示到 IP 控制台上进行配置即可。这里以腾讯云为例，选择添加记录，填充内容如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2618b471eda6f6d61c269cced21966d39daaab289303dd2332620248a307ba77/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d3334525630746d4b66375936734f4c7469617733634869637a5639774c76577a7a715972707441696162386875554233596e4c6b374f74707a6d7563512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2618b471eda6f6d61c269cced21966d39daaab289303dd2332620248a307ba77/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d3334525630746d4b66375936734f4c7469617733634869637a5639774c76577a7a715972707441696162386875554233596e4c6b374f74707a6d7563512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RV0tmKf7Y6sOLtiaw3cHiczV9wLvWzzqYrptAiab8huUB3YnLk7OtpzmucQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>填入你的域名，选择最后一个选项。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a5ca1f23d58cd104ca8a9f5959506833e11dcc9f569e8e7bfebc53a6f5fbf2c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d33345256444c48764d78634e6c7841736a487141726b43674937534b4a4838777031436c325a39537a666c3232346549474464636279306756772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9a5ca1f23d58cd104ca8a9f5959506833e11dcc9f569e8e7bfebc53a6f5fbf2c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d33345256444c48764d78634e6c7841736a487141726b43674937534b4a4838777031436c325a39537a666c3232346549474464636279306756772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVDLHvMxcNlxAsjHqArkCgI7SKJH8wp1Cl2Z9Szfl224eIGDdcby0gVw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>转到页面，点击重新部署即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/68fd791ca0dc4bea06010c55fa95058f472dc4116cab2e940f333eaa9dbdc614/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d3334525631426c576b35307164747576544f765076377143646864366a31723579734932323753636d356b6c4e766375686963337654595a5a56412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/68fd791ca0dc4bea06010c55fa95058f472dc4116cab2e940f333eaa9dbdc614/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d3334525631426c576b35307164747576544f765076377143646864366a31723579734932323753636d356b6c4e766375686963337654595a5a56412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RV1BlWk50qdtuvTOvPv7qCdhd6j1r5ysI227Scm5klNvcuhic3vTYZZVA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>最后我们来通过自己域名进行测试一下，可以成功访问。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca6f324e953f7f02681ee2c1fadcb4099e194d4cf3106fa27679bef65c1f4ef6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452565043507343696139567462313343445065584c3542344171753463776c4b4f70436b787133436371426a69624f3148326d5a69636c676151772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ca6f324e953f7f02681ee2c1fadcb4099e194d4cf3106fa27679bef65c1f4ef6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452565043507343696139567462313343445065584c3542344171753463776c4b4f70436b787133436371426a69624f3148326d5a69636c676151772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVPCPsCia9Vtb13CDPeXL5B4Aqu4cwlKOpCkxq3CcqBjibO1H2mZiclgaQw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>按照如上教程配置完成后我们就可以实现真正的畅玩 Gemini，长期白嫖。</p>
+<p>后面我们来讲讲，如何在代码里调用 Gemini Pro 的 API，从而可以实现自己的功能。</p>
+<p>欢迎加我微信，一起成为 AI 时代的弄潮儿~</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d41edfe3afb566ba4df0c0fded10df0499541412a8a70005a1cdb51449a6338/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452566f376a6d3367343056465353313250354648774c734846624a776744566132744450675869614c646b706a623074664a696256444b6438412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5d41edfe3afb566ba4df0c0fded10df0499541412a8a70005a1cdb51449a6338/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452566f376a6d3367343056465353313250354648774c734846624a776744566132744450675869614c646b706a623074664a696256444b6438412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVo7jm3g40VFSS12P5FHwLsHFbJwgDVa2tDPgXiaLdkpjb0tfJibVDKd8A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>关注我的星球，不定期赠送福利或 AI 资源，持续发布 AI 最新风向标。</p>
+<p>目前已有 500 多位 AI 爱好者在星球内一起探讨，沉淀 90+ 内容，快来加入我们！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a14b249115919706b81560c988181c1d49c4564439e000f343854460fefa08f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452564b6e783767426642525230696142756c4f526b62595337646e4a475a7169637156615a796d6c5a6c383744335154314641354238433350512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1a14b249115919706b81560c988181c1d49c4564439e000f343854460fefa08f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277735334446d4c73484c3073357a4d30725a4d333452564b6e783767426642525230696142756c4f526b62595337646e4a475a7169637156615a796d6c5a6c383744335154314641354238433350512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwsS4DmLsHL0s5zM0rZM34RVKnx7gBfBRR0iaBulORkbYS7dnJGZqicqVaZymlZl87D3QT1FA5B8C3PQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

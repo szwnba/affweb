@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="欢迎加入我的AI读者群，订阅[2024年度AI技术专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&action=getalbum&album_id=3206397423527428106&scene=21#wechat_redirect)！
+
+![](https://mmbiz.qpic.cn/mmbiz_png/6YuwSbqEwLvqT2B05w6nmbmtQRllodkPstdfme8SuYxq2ZegiaY28BEdPLETH66HiaUs8cZpiccJIsh3Z1dh0Q7iaA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CTAoicLWJucc5LLAAkpQNAI6e7OJA6ROnNKcLhFibYLD4iaxWdfxXSIwUw/640?wx_fmt=png&from=appmsg)
+
+随着人工智能技术的发展，AI创作工具如Midjourney正在改变我们创造视觉艺术的方式。">
+<meta property="og:title" content="提示语编写不求人｜如何使用Midjourney创造盗梦空间中的折叠城市？">
+<meta property="og:description" content="欢迎加入我的AI读者群，订阅[2024年度AI技术专栏](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&action=getalbum&album_id=3206397423527428106&scene=21#wechat_redirect)！
+
+![](https://mmbiz.qpic.cn/mmbiz_png/6YuwSbqEwLvqT2B05w6nmbmtQRllodkPstdfme8SuYxq2ZegiaY28BEdPLETH66HiaUs8cZpiccJIsh3Z1dh0Q7iaA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CTAoicLWJucc5LLAAkpQNAI6e7OJA6ROnNKcLhFibYLD4iaxWdfxXSIwUw/640?wx_fmt=png&from=appmsg)
+
+随着人工智能技术的发展，AI创作工具如Midjourney正在改变我们创造视觉艺术的方式。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/ti-shi-yu-bian-xie-bu-qiu-ren-%EF%BD%9C-ru-he-shi-yong-Midjourney-chuang-zao-dao-meng-kong-jian-zhong-de-zhe-die-cheng-shi-%EF%BC%9F.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>提示语编写不求人｜如何使用Midjourney创造盗梦空间中的折叠城市？</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">提示语编写不求人｜如何使用Midjourney创造盗梦空间中的折叠城市？</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/544" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>欢迎加入我的AI读者群，订阅<a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&amp;action=getalbum&amp;album_id=3206397423527428106&amp;scene=21#wechat_redirect" rel="nofollow">2024年度AI技术专栏</a>！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e865db2d6f5424215a864b5c1ef2019ba5d930213471b759dae254dafa5a6cc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3659757753627145774c7671543242303577366e6d626d7451526c6c6f646b50737464666d65385375597871325a65676961593238424564504c4554483636486961557338635a706963634a497368335a3164683051376961412f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270"><img src="https://camo.githubusercontent.com/8e865db2d6f5424215a864b5c1ef2019ba5d930213471b759dae254dafa5a6cc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3659757753627145774c7671543242303577366e6d626d7451526c6c6f646b50737464666d65385375597871325a65676961593238424564504c4554483636486961557338635a706963634a497368335a3164683051376961412f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d77656270" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/6YuwSbqEwLvqT2B05w6nmbmtQRllodkPstdfme8SuYxq2ZegiaY28BEdPLETH66HiaUs8cZpiccJIsh3Z1dh0Q7iaA/640?wx_fmt=other&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40e994ad249c29a4d5dd1d374bc6f0c15b46a143b2f69e89e8560177d4293486/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374354416f69634c574a756363354c4c41416b70514e41493665374f4a4136524f6e4e4b634c68466962594c4434696178576466785853497755772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/40e994ad249c29a4d5dd1d374bc6f0c15b46a143b2f69e89e8560177d4293486/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374354416f69634c574a756363354c4c41416b70514e41493665374f4a4136524f6e4e4b634c68466962594c4434696178576466785853497755772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CTAoicLWJucc5LLAAkpQNAI6e7OJA6ROnNKcLhFibYLD4iaxWdfxXSIwUw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>随着人工智能技术的发展，AI创作工具如Midjourney正在改变我们创造视觉艺术的方式。有些朋友可能看过我制作的几个盗梦空间中折叠城市风格的视频。</p>
+<p>经常有朋友留言要提示语的，实际上目前我们已经有了大量的手段可以帮助自己完成各类图像的提示语编写，不需要到处问人要。</p>
+<p>上面视频中大部分场景也不是一句提示语直接生成的，这种风格的图片我做了很多尝试，本文将详细介绍AI爱好者如何不求人，通过简单自学就能掌握生成各类风格图片的方法和流程，重点介绍的是思考方法和过程。</p>
+<p>文章包括如何使用Midjourney生成《盗梦空间》（Inception）风格的折叠城市场景，包括使用普通的提示语、使用图片反推描述、使用样式参考，以及利用摄影师Aydin Buyuktas的作品进行灵感借鉴等多种方法。希望看完这篇文章你不仅仅只记住几个提示语，而是掌握了类似的工作方法，以后都可以独立完成类似的工作。</p>
+<p><strong>一、编写提示语：</strong></p>
+<p>生成这类图片最简单的就是使用关键词“盗梦空间，折叠城市”</p>
+<p>在使用Midjourney时，提示语（prompt）的编写是生成高质量图像的关键。为了生成《盗梦空间》风格的折叠城市场景，我们可以使用以下关键词和细节描述：</p>
+<p>1. 基础关键词：</p>
+<p>   - Inception</p>
+<p>   - folding city</p>
+<p>   - surreal cityscape</p>
+<p>   - urban fold</p>
+<p>2. 补充细节：</p>
+<p>   - high-rise buildings</p>
+<p>   - skyscrapers</p>
+<p>   - bending streets</p>
+<p>   - mirrored skyline</p>
+<p>   - surreal perspective</p>
+<p>   - dreamlike</p>
+<p>   - night scene</p>
+<p>示例提示语：</p>
+<p>"Inception style, show a city street with cars and pedestrians. Then, gradually, street upwards, degree, buildings, street curve, surreal landscape, like the movie, city"</p>
+<p>这种提示语能够指导Midjourney快速生成类似于《盗梦空间》中城市折叠的视觉效果，但也许有时你会失望，因为并不一定每次都符合你的想法，还需要你仔细认真的描述你想要的场景，多次尝试不同的提示语。这里有个小技巧可以增加--c参数，例如20-30，增加图像之间的差异性，提高成功率和成功速度。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/66efb4b9f55e6d8cc55afe4a86b0764c1e382b8f49e1200c3b0309207fc43c4d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937436166466d30523772326a736145754958747476365645696353363169634d415965423677355137536b624f57497a35733559676f69623347412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/66efb4b9f55e6d8cc55afe4a86b0764c1e382b8f49e1200c3b0309207fc43c4d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937436166466d30523772326a736145754958747476365645696353363169634d415965423677355137536b624f57497a35733559676f69623347412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CafFm0R7r2jsaEuIXttv6VEicS61icMAYeB6w5Q7SkbOWIz5s5Ygoib3GA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>你还可以使用/short命令，让Midjourney分析这个提示语，找出影响因素最大的关键词。然后再考虑增加提高画面质量、色调、风格的其他关键词，改善画面的美感程度。</p>
+<p><strong>二、使用图片反推：</strong></p>
+<p>第二种方法是使用Midjourney的Describe命令，Midjourney的Describe命令可以通过上传图片反推出描述语，这对于生成特定风格的图像非常有用。以下是使用Describe命令的步骤：</p>
+<p>1. 找到合适的图片：选择一张《盗梦空间》中城市折叠的图片，或者其他风格相似的超现实城市景观图片。</p>
+<p>2. 上传图片：在Midjourney的Discord频道或网站中使用Describe命令上传图片。</p>
+<p>3. 获取描述语：Midjourney会返回一系列描述语，这些描述语可以用于指导生成类似风格的图像。</p>
+<p>通过这种方法，可以得到更精确的提示语，使生成的图像更加符合预期。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/632bab038aa86c69061236f856a186264832b73fe50a751fe08825b7818c37a2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937437177776b535349356876496961324154646c32696156504e7a44745a4f474356764b5969625a624373736b39716d755950364b3767703661772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/632bab038aa86c69061236f856a186264832b73fe50a751fe08825b7818c37a2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937437177776b535349356876496961324154646c32696156504e7a44745a4f474356764b5969625a624373736b39716d755950364b3767703661772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CqwwkSSI5hvIia2ATdl2iaVPNzDtZOGCVvKYibZbCssk9qmuYP6K7gp6aw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>三、使用Midjourney的样式参考：sref</strong></p>
+<p>Midjourney支持样式参考（style reference，简称sref），通过上传一张风格相似的图片，可以影响生成图像的风格和内容。以下是使用样式参考的步骤：</p>
+<p>1. 选择参考图片：例如，可以选择摄影师Aydin Buyuktas的折叠城市作品。</p>
+<p>2. 上传图片：在提示语中加入参考图片的URL，作为样式参考。</p>
+<p>3. 编写提示语：结合样式参考图片和文本提示，生成图像。</p>
+<p>示例提示语：</p>
+<p>"基础提示语 + --sref [图片URL] --sw 300"</p>
+<p>这种方法可以确保生成的图像风格与参考图片一致。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/08146681d1877fa60395bad394b5f77659c7c7e6bc431daf9be3f4d56be465c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a393743524269616c655332414967635937674d3638544f7a4172347537764f776c57664d584f364756566e557830443474497a373041555062672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/08146681d1877fa60395bad394b5f77659c7c7e6bc431daf9be3f4d56be465c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a393743524269616c655332414967635937674d3638544f7a4172347537764f776c57664d584f364756566e557830443474497a373041555062672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CRBialeS2AIgcY7gM68TOzAr4u7vOwlWfMXO6GVVnUx0D4tIz70AUPbg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>四、利用ChatGPT生成提示语</strong></p>
+<p>实际上我最初做这个系列并不是从盗梦空间开始，而是从土耳其摄影师Aydin Buyuktas的作品里找到了一些想法。Aydin Buyuktas是一位著名的超现实主义摄影师，以拍摄折叠城市景观而闻名。他的作品展示了令人难以置信的城市景象，通过巧妙的角度和后期处理技术，创造出仿佛城市在折叠和扭曲的视觉效果。Buyuktas的作品不仅仅是视觉上的冲击，更是对空间和现实的深刻探讨。利用他的作品作为灵感，可以帮助我们更好地理解和实现折叠城市的创作。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f6b8f44db8ad79713655c24e078281cc37867c7055aea1ab6fd0118e8c4baeeb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937434476725233393369627a6b7953654333335246706149686a596649514a747069625850596b4e5a655833766d47704f5951386367565154512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f6b8f44db8ad79713655c24e078281cc37867c7055aea1ab6fd0118e8c4baeeb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937434476725233393369627a6b7953654333335246706149686a596649514a747069625850596b4e5a655833766d47704f5951386367565154512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CDvrR393ibzkySeC33RFpaIhjYfIQJtpibXPYkNZeX3vmGpOYQ8cgVQTQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Aydın Büyüktaş拍摄的令人眼花缭乱的广阔城市景观照片让我们一睹大都市的规模、复杂性和几何形状，几乎提供了一个新的世界观。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ada696f9b1d89ee6947e72eec7f9aee7bc7b33fe43114ef6ee6b914561aec00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374373656469625672795630436f5753414d31426b4a6e4d327369634578746e696239556d7451714f49366d307141746b34394c413045436347412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1ada696f9b1d89ee6947e72eec7f9aee7bc7b33fe43114ef6ee6b914561aec00/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374373656469625672795630436f5753414d31426b4a6e4d327369634578746e696239556d7451714f49366d307141746b34394c413045436347412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CsedibVryV0CoWSAM1BkJnM2sicExtnib9UmtQqOI6m0qAtk49LA0ECcGA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>虽然 2010 年的大片《盗梦空间》可能会浮现在他的脑海中，但他的灵感更多来自 1884 年的讽刺小说《平面国》，该小说描绘了一个分为不同维度类别的世界（线国、平面国和空间国）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb3f54cc368f8f60190e7caae52eb331a36a9ea8e3a6b0cddeb131048a6c4fb1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937436d45444b516963564f6149334152684f4e687a6a6d386d41696253733463683555626c705035783333674d733669637a51516d696279397535772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fb3f54cc368f8f60190e7caae52eb331a36a9ea8e3a6b0cddeb131048a6c4fb1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937436d45444b516963564f6149334152684f4e687a6a6d386d41696253733463683555626c705035783333674d733669637a51516d696279397535772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CmEDKQicVOaI3ARhONhzjm8mAibSs4ch5UblpP5x33gMs6iczQQmiby9u5w/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>在书中，二维世界的主角与三维世界的球体接触，后来意识到存在更高维度的可能性，但他却因自己的想法而被囚禁。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a241bca3b7fb5a4bbb6d34cd5bc3128de998bba4b4295df37ac689d067fe376/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937435069615263307942756d3031744f5a427a4841576f57696169627a6a33485165455279333879346f676f4943596d6b73336346344455646962772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1a241bca3b7fb5a4bbb6d34cd5bc3128de998bba4b4295df37ac689d067fe376/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937435069615263307942756d3031744f5a427a4841576f57696169627a6a33485165455279333879346f676f4943596d6b73336346344455646962772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CPiaRc0yBum01tOZBzHAWoWiaibzj3HQeERy38y4ogoICYmks3cF4DUdibw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>也许 Büyüktaş 的作品以一种视觉方式提醒我们，我们的狭隘视角无法捕捉到各种可能性。下面看一下我是如何从上面这张图片开始，逐步进入这种风格的漩涡中。</p>
+<p>首先我打开ChatGPT，把上面这张图片拖进去：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/77087535336a9e912ed131e1c409a7b518915671b1c1712c5572068ae24f104f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374355636d736c726b393044315a615437755a35726474754a66557343457a30784d4b4755435279544a6533597541454d46706a455545672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/77087535336a9e912ed131e1c409a7b518915671b1c1712c5572068ae24f104f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374355636d736c726b393044315a615437755a35726474754a66557343457a30784d4b4755435279544a6533597541454d46706a455545672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CUcmslrk90D1ZaT7uZ5rdtuJfUsCEz0xMKGUCRyTJe3YuAEMFpjEUEg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8f94b05bb788ca50d9cba142e9744c6567f731d030f017a651acbeb58b56b68f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374359413852704731766c6674657737783970783258434c484b7379794341796b33384c7748776f466b51616f444a6161307751645668412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8f94b05bb788ca50d9cba142e9744c6567f731d030f017a651acbeb58b56b68f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374359413852704731766c6674657737783970783258434c484b7379794341796b33384c7748776f466b51616f444a6161307751645668412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CYA8RpG1vlftew7x9px2XCLHKsyyCAyk38LwHwoFkQaoDJaa0wQdVhA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>提示语范例：</p>
+<p>amazing quality, sci-fi, epic scene, film composition,A surreal scene depicting a tall, modern skyscraper standing upright in the center. The sky is replaced with various ground elements, including city streets, greenery, and buildings, creating an upside-down world illusion. The roads and highways twist and turn in the sky, with cars driving on them as if gravity has no effect. In the foreground, two people walk along a road with a parked white car nearby and trash bins adding a touch of reality. The entire scene evokes a sense of parallel universes and challenges normal visual perceptions, blending realism with fantastical elements. --no sky --ar 2:3 --s 550</p>
+<p>下面是生成的图像：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce3972524864b9cb13a387d63dbf1b0c7ddbf0e3a2b4bfbb75d664d0f6532a12/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937434c6962534f69636b737a6d424d425075696131546b6c7369636472366657564a49366d696157714132674479485a31747741366f366963356b4348772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ce3972524864b9cb13a387d63dbf1b0c7ddbf0e3a2b4bfbb75d664d0f6532a12/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937434c6962534f69636b737a6d424d425075696131546b6c7369636472366657564a49366d696157714132674479485a31747741366f366963356b4348772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CLibSOickszmBMBPuia1Tklsicdr6fWVJI6miaWqA2gDyHZ1twA6o6ic5kCHw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>如果你想让场景更压抑一些，还可以添加--no sky参数，让天空展示的范围更小。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2271e21c8e923db0f6e238ab1773c7a51d496e1e371e70c38dc3f412138f628b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374368474f4c52545032304d613155536d4956465168476b4f7167376a6b504f3975634e633778444c663231764c6369614b7663735a4b48772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2271e21c8e923db0f6e238ab1773c7a51d496e1e371e70c38dc3f412138f628b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374368474f4c52545032304d613155536d4956465168476b4f7167376a6b504f3975634e633778444c663231764c6369614b7663735a4b48772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97ChGOLRTP20Ma1USmIVFQhGkOqg7jkPO9ucNc7xDLf21vLciaKvcsZKHw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1eae09fa6b9f7c34cfa383422f10babbdd8eae5db22550423d847fdf9f1bb401/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f446963755237617442667939706c365a66746f6b70674842496963324932696346434851456a6f4b5543666c374d715675626a52464f3469624f4a775765514a4c485642547369627248653839776231664d7a4b344b47334971412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1eae09fa6b9f7c34cfa383422f10babbdd8eae5db22550423d847fdf9f1bb401/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f446963755237617442667939706c365a66746f6b70674842496963324932696346434851456a6f4b5543666c374d715675626a52464f3469624f4a775765514a4c485642547369627248653839776231664d7a4b344b47334971412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy9pl6ZftokpgHBIic2I2icFCHQEjoKUCfl7MqVubjRFO4ibOJwWeQJLHVBTsibrHe89wb1fMzK4KG3IqA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a2ebf2f7121286cfc0f6c93df3d8de9e3f65bfe6b1649471ec9a7daa0df7d525/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374369635974336c75664d79574b64466459365547685369624f4f3034766c4c4f7043755065797234344d646e543338496463426439376d61412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a2ebf2f7121286cfc0f6c93df3d8de9e3f65bfe6b1649471ec9a7daa0df7d525/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374369635974336c75664d79574b64466459365547685369624f4f3034766c4c4f7043755065797234344d646e543338496463426439376d61412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CicYt3lufMyWKdFdY6UGhSibOO04vlLOpCuPeyr44MdnT38IdcBd97maA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>以上几张仅仅是使用了摄影师Aydın Büyüktaş的一张图片作为参考，你还可以用他的其他作品做参考，挖掘更多非现实效果，并不局限于城市和街道。还可以往乡村、大自然景观方面尝试。</p>
+<p><strong>五、打造自动生成提示语的GPTs</strong></p>
+<p>为了提高创作效率，可以编写GPTs来自动生成相关的提示语。这些模型通过训练可以理解“折叠城市”或“盗梦空间风格”等概念，生成详细而准确的提示语，适用于Midjourney的图像生成。</p>
+<p>我将摄影师Aydın Büyüktaş的相关介绍，以及对他作品的分析等文本内容提交到我定制的GPTs中，制作了一个专门生成这种景观的GPTs。</p>
+<p>以下是定制GPTs的常规步骤：</p>
+<p>1. 训练模型：使用大量描述超现实城市景观的文本数据训练GPT模型。</p>
+<p>2. 生成提示语：输入简单描述，如“折叠城市”，模型生成详细提示语。</p>
+<p>3. 调整和优化：根据生成的图像效果，调整提示语以获得最佳结果。</p>
+<p>我只需输入想要生成的内容，如：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe3bc6ac296bae1ee1ef126bc34ee2bdd723a94b54ee0587fdde66a779048d71/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374337306c3373594b4933376f6c4e50304a534f376c764e586e654a6f526d74646f454a585752577a69624338596c314279466b585a5851672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fe3bc6ac296bae1ee1ef126bc34ee2bdd723a94b54ee0587fdde66a779048d71/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a39374337306c3373594b4933376f6c4e50304a534f376c764e586e654a6f526d74646f454a585752577a69624338596c314279466b585a5851672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97C70l3sYKI37olNP0JSO7lvNXneJoRmtdoEJXWRWzibC8Yl1ByFkXZXQg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>六、AI创作的工作流思考</strong></p>
+<p>看完全篇文章，你会发现这种风格确实不是一句提示语就能解决，即便这篇文章中给了几个范例提示语，但你要想生成不同风格内容的图像，还是需要自己不断练习，结合文章中的多种方法，不断迭代。当你习惯了这种思考流程，以后遇到想要实现的任何效果，其实都不必到处找人要提示语，自己也可以研究出来。</p>
+<p>这篇文章前面的提示语重点都在内容上，对画面质量、色调、风格没有多做介绍，后续我们还可以结合使用--sref 的风格迁移，实现更加鲜明的艺术效果，例如这篇文章中介绍的一些sref参数：《<a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247493805&amp;idx=1&amp;sn=550587811cd102606e43a2543e753aaf&amp;chksm=a64624f79131ade1f68e589754b64c6a0de509f0fa6aa9e673ff59705a333785932b8815787f&amp;scene=21#wechat_redirect" rel="nofollow">最适合Midjourney室内设计的10个样式代码！</a>》。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a375c84617ee5f8a799430b7336720a7014edea7e4624b42ce4df56d25b88900/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937436d57577644557569636d4a54396b6f4570497654766e3568745161747a584148766472734a337836455248633246617031736a356d6c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a375c84617ee5f8a799430b7336720a7014edea7e4624b42ce4df56d25b88900/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937436d57577644557569636d4a54396b6f4570497654766e3568745161747a584148766472734a337836455248633246617031736a356d6c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CmWWvDUuicmJT9koEpIvTvn5htQatzXAHvdrsJ3x6ERHc2Fap1sj5mlA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6446e44da225c2dec4a7b06b9730109133c582146e4821c6f7794c9e4be65e96/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937434254527072473151336b4d5a79764a63706463754d366c6142716f4377336c4c76647667643139696370617047536344706c53615134512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6446e44da225c2dec4a7b06b9730109133c582146e4821c6f7794c9e4be65e96/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f44696375523761744266793930766d49416c6776536163484f6d4d49765a3937434254527072473151336b4d5a79764a63706463754d366c6142716f4377336c4c76647667643139696370617047536344706c53615134512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy90vmIAlgvSacHOmMIvZ97CBTRprG1Q3kMZyvJcpdcuM6laBqoCw3lLvdvgd19icpapGScDplSaQ4Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9818ef9a3982d8168ae096e652fbcb96d3be4a29e6a086bcc468058913480973/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f446963755237617442667939706c365a66746f6b706748424969633249326963464348626433366e724e6639486673435a4e673031373255346e69636a757866315369636c416a7459796c4b69626e736d3364576c734a556963696177412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9818ef9a3982d8168ae096e652fbcb96d3be4a29e6a086bcc468058913480973/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f446963755237617442667939706c365a66746f6b706748424969633249326963464348626433366e724e6639486673435a4e673031373255346e69636a757866315369636c416a7459796c4b69626e736d3364576c734a556963696177412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/DicuR7atBfy9pl6ZftokpgHBIic2I2icFCHbd36nrNf9HfsCZNg0172U4nicjuxf1SiclAjtYylKibnsm3dWlsJUiciawA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>结论</strong></p>
+<p>利用Midjourney和其他AI创作工具，生成《盗梦空间》风格的折叠城市场景是一项令人兴奋的创作活动。通过精确编写提示语、使用图片反推描述、参考样式图片，以及借鉴超现实主义摄影师Aydin Buyuktas的作品，我们可以实现视觉上震撼的艺术创作。同时，结合自定义GPTs模型自动生成提示语，优化工作流，可以进一步提高创作效率和效果。希望本文提供的详细指南和创作思路，能为你的AI艺术创作之旅提供有价值的参考和帮助。</p>
+<p>想了解AI技术在各领域的更多应用，可以查看下方各月份导航。感兴趣也欢迎订阅并加入<a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&amp;action=getalbum&amp;album_id=3206397423527428106&amp;scene=21#wechat_redirect" rel="nofollow">我的专栏用户群</a>，共同学习探讨。</p>
+<p>公众号精选内容</p>
+<p><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&amp;action=getalbum&amp;album_id=2861626785156562947#wechat_redirect" rel="nofollow">基础入门</a> | <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&amp;action=getalbum&amp;album_id=2668769842375720965#wechat_redirect" rel="nofollow">建筑室内</a> | <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&amp;action=getalbum&amp;album_id=2797797717266694145#wechat_redirect" rel="nofollow">模型训练</a> | <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&amp;action=getalbum&amp;album_id=2755574132938932227#wechat_redirect" rel="nofollow">ChatGPT</a></p>
+<p><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&amp;action=getalbum&amp;album_id=2522130388924792834#wechat_redirect" rel="nofollow">StableDiffusion</a>  |  <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&amp;action=getalbum&amp;album_id=2431149277830807554#wechat_redirect" rel="nofollow">Midjourney</a>  |  <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MDQ1NzE0MQ==&amp;action=getalbum&amp;album_id=3206397423527428106&amp;scene=21#wechat_redirect" rel="nofollow">进阶专栏</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247492822&amp;idx=1&amp;sn=8bdc6f2185f9d1a0289c33508a43513e&amp;chksm=a646288c9131a19af61ac9e55fb16e2fd9d1674d94130c9b6e4dbe414672bf4172185ed467e4&amp;scene=21#wechat_redirect" rel="nofollow"></a><a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247492822&amp;idx=1&amp;sn=8bdc6f2185f9d1a0289c33508a43513e&amp;chksm=a646288c9131a19af61ac9e55fb16e2fd9d1674d94130c9b6e4dbe414672bf4172185ed467e4&amp;scene=21#wechat_redirect" rel="nofollow">2024.01</a>｜<a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247493332&amp;idx=1&amp;sn=854626cb81c82f6a5d4c66f006836240&amp;chksm=a6462a8e9131a398f4b10a4486172154fd1f37f7d9b10625c7ca57cc3f94835647fcb946906e&amp;scene=21#wechat_redirect" rel="nofollow">2024.03</a> ｜<a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247493625&amp;idx=1&amp;sn=ed65e35fd6b3e139caa6590a41d83fbe&amp;chksm=a6462ba39131a2b549dad484d8cab8e5cb7417a6370485d28d4fce4e2076e0c6c2d860a0d570&amp;scene=21#wechat_redirect" rel="nofollow">2024.04</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247492130&amp;idx=1&amp;sn=983b85028dc038bce8ec7e20db1589fc&amp;chksm=a6462e789131a76e30a8897a4f17cf4baf52ee273fda029e3c70dade84c7a0fd3f4500b20fce&amp;scene=21#wechat_redirect" rel="nofollow">23.12</a>｜<a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247491598&amp;idx=1&amp;sn=74eb4af6b3e1382a960969e0729493f2&amp;chksm=a6462c549131a542e4854906f89976d5f4d3b2bdcc8bdf0bd05b898222dd9e9a0709068171ea&amp;scene=21#wechat_redirect" rel="nofollow">23.11</a><a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247491180&amp;idx=1&amp;sn=73fa69da30b6ba36cf7b0205f8edf9bc&amp;chksm=a645d23691325b20888ffce89f342699420a30b98995bd9dda1fcd6aebe860be2858d8569d3f&amp;scene=21#wechat_redirect" rel="nofollow">｜</a><a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247491180&amp;idx=1&amp;sn=73fa69da30b6ba36cf7b0205f8edf9bc&amp;chksm=a645d23691325b20888ffce89f342699420a30b98995bd9dda1fcd6aebe860be2858d8569d3f&amp;scene=21#wechat_redirect" rel="nofollow">23.10</a> ｜ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247490667&amp;idx=1&amp;sn=7ae20fa53a62a925a6117f4c5f6007b1&amp;chksm=a645d0319132592729355f02914db41605a145f746a59f4503be578b802b91bb11d1d58ad182&amp;scene=21#wechat_redirect" rel="nofollow">23.09</a>｜<a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247490186&amp;idx=1&amp;sn=e82bf65ca48281d093372e860c6f5992&amp;chksm=a645d6d091325fc622d0b72586c8109b8753053a4eb8adbd6a24113206968e0725abe374aeec&amp;scene=21#wechat_redirect" rel="nofollow">23.08</a>｜<a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247489818&amp;idx=1&amp;sn=10d41d6631eb3be44d7e5d9ac0a5faed&amp;chksm=a645d54091325c56ca5491f1772e9a2e3f677f948ec75de74146a2747b09940b9aea626a5ff0&amp;scene=21#wechat_redirect" rel="nofollow">23.07</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247489411&amp;idx=1&amp;sn=46b7d8f707d12ae4e608aff30140a6be&amp;chksm=a645dbd9913252cf01521f8dfdfdca9a00300085bd5f44a04658db221a41d5af34fc96394b3d&amp;scene=21#wechat_redirect" rel="nofollow">23.06</a>｜ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247488938&amp;idx=1&amp;sn=f908d6af7fb0e70c49fedd3982d9e922&amp;chksm=a645d9f0913250e6ca824878c16aba9c6389e70c578fb3b0c1f4f20eb0c430c18d14b5e5ba1e&amp;scene=21#wechat_redirect" rel="nofollow">23.5</a> ｜ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247488338&amp;idx=1&amp;sn=614d95ded3ff4a431a02ea33028b161c&amp;chksm=a645df089132561e1db2847602bf43c7762d36f643251b1e40125766a9f7a402a1b7e4ae63b4&amp;scene=21#wechat_redirect" rel="nofollow">23.4</a> ｜ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247487707&amp;idx=1&amp;sn=fdd2a9708cc4324bee0dfe4efb4e264b&amp;chksm=a645dc8191325597869d9267f6f724c838e634069e71fd6c84da509d04f8b0b4e13c3b4ef794&amp;scene=21#wechat_redirect" rel="nofollow">23.03</a> ｜ <a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247486800&amp;idx=1&amp;sn=937ecaee35dec57573dc5ba663ba622f&amp;chksm=a645c10a9132481c84c5e178d4160c80c17f3ed1d08b3ac8e4ade35adec0c1fe5b95db951fa1&amp;scene=21#wechat_redirect" rel="nofollow">23.02</a> | <a href="http://mp.weixin.qq.com/s?__biz=MjM5MDQ1NzE0MQ==&amp;mid=2247485751&amp;idx=1&amp;sn=c7a56d44196429908ef07d00f8e01a12&amp;chksm=a645c56d91324c7b08b2acaee1384d5ddc5f4fea3e58668a85b061981f23f06037d7dddf45b9&amp;scene=21#wechat_redirect" rel="nofollow">2022</a></p>
+<p>☞三连击支持**点赞 +<strong>在看 **+ 分享</strong>👇</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

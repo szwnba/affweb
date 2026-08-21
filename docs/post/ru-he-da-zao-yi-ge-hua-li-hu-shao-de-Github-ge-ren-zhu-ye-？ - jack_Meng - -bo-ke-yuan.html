@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="*   1、介绍
+*   2、使用
+    *   2.1、创建一个同名仓库
+    *   2.2、引用模板
+    *   2.3、为内容添加有趣模块
+        *   2.3.1、徽章badge
+        *   2.3.2、waka 时间展示
+        *   2.3.3、展示 GitHub stars 等信息
+        *   2.3.4、GitHub contributions贪吃蛇游戏
+*   3、总结
+
+今天介绍下 `GitHub` 的一项特色功能 \- `GitHub profile`，以及一些列开源工具、项目来帮助打造自己特色的 `GitHub profile`。">
+<meta property="og:title" content="如何打造一个花里胡哨的Github个人主页？ - jack_Meng - 博客园">
+<meta property="og:description" content="*   1、介绍
+*   2、使用
+    *   2.1、创建一个同名仓库
+    *   2.2、引用模板
+    *   2.3、为内容添加有趣模块
+        *   2.3.1、徽章badge
+        *   2.3.2、waka 时间展示
+        *   2.3.3、展示 GitHub stars 等信息
+        *   2.3.4、GitHub contributions贪吃蛇游戏
+*   3、总结
+
+今天介绍下 `GitHub` 的一项特色功能 \- `GitHub profile`，以及一些列开源工具、项目来帮助打造自己特色的 `GitHub profile`。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/ru-he-da-zao-yi-ge-hua-li-hu-shao-de-Github-ge-ren-zhu-ye-%EF%BC%9F%20-%20jack_Meng%20-%20-bo-ke-yuan.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>如何打造一个花里胡哨的Github个人主页？ - jack_Meng - 博客园</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">如何打造一个花里胡哨的Github个人主页？ - jack_Meng - 博客园</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/633" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><ul>
+<li>1、介绍</li>
+<li>2、使用
+<ul>
+<li>2.1、创建一个同名仓库</li>
+<li>2.2、引用模板</li>
+<li>2.3、为内容添加有趣模块
+<ul>
+<li>2.3.1、徽章badge</li>
+<li>2.3.2、waka 时间展示</li>
+<li>2.3.3、展示 GitHub stars 等信息</li>
+<li>2.3.4、GitHub contributions贪吃蛇游戏</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>3、总结</li>
+</ul>
+<p>今天介绍下 <code class="notranslate">GitHub</code> 的一项特色功能 - <code class="notranslate">GitHub profile</code>，以及一些列开源工具、项目来帮助打造自己特色的 <code class="notranslate">GitHub profile</code>。</p>
+<p><code class="notranslate">GitHub profile</code> 也是最近两年 <code class="notranslate">GitHub</code> 才新加的功能，开发者可以通过编写 <code class="notranslate">README</code> 打造属于自己的个人 <code class="notranslate">GitHub</code> 首页。</p>
+<p>先贴一张我自己的</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/52fa5d368da6c04667809152cd804cb5144b4ad371d92f541fca1e8d048d74f9/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f37346333663935356335393334656463386536656439663164363335643337612e706e67"><img src="https://camo.githubusercontent.com/52fa5d368da6c04667809152cd804cb5144b4ad371d92f541fca1e8d048d74f9/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f37346333663935356335393334656463386536656439663164363335643337612e706e67" alt="" data-canonical-src="https://img-blog.csdnimg.cn/direct/74c3f955c5934edc8e6ed9f1d635d37a.png" style="max-width: 100%;"></a></p>
+<p>GitHub profile表示个人主页，但是Github近两年悄悄上线了profile仓库的功能，也就是说可以自由管理你profile的README</p>
+<p><strong>一句话总结：你可以通过README.md来自定义你Github首页</strong></p>
+<p>官方说明文档：<a href="https://docs.github.com/zh/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme">https://docs.github.com/zh/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme</a></p>
+<p>整体使用很简单，分以下几步</p>
+<ol>
+<li>创建一个同名仓库</li>
+<li>引用模板</li>
+<li>为内容添加有趣模块</li>
+</ol>
+<h2>2.1、创建一个同名仓库</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f65982f55701cc667e4f8f4e1a1a81cfd55260e48795c1b0ac0f21ccb05b462f/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f34336564633732613931633334643432393632333865643232623737366533302e706e67"><img src="https://camo.githubusercontent.com/f65982f55701cc667e4f8f4e1a1a81cfd55260e48795c1b0ac0f21ccb05b462f/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f34336564633732613931633334643432393632333865643232623737366533302e706e67" alt="" data-canonical-src="https://img-blog.csdnimg.cn/direct/43edc72a91c34d4296238ed22b776e30.png" style="max-width: 100%;"></a></p>
+<ol>
+<li>在任何页面的右上角，选择 ，然后单击“新建存储库”。</li>
+<li>在“Repository name（仓库名称）”下，输入与您的 GitHub 用户名匹配的仓库名称。 例如，如果您的用户名是 "octocat"，则仓库名称必须为 "octocat"。</li>
+<li>选择“Public”。</li>
+<li>选择“使用 README 初始化此存储库”。</li>
+</ol>
+<p>profile 属于彩蛋类功能，创建时在下方将会出现提示。如果勾选自动创建 README，将会创建一个特殊的 README 模版，长这样：</p>
+<pre lang="null" class="notranslate"><code class="notranslate">### Hi there 👋
+
+
+
+</code></pre>
+<p>默认创建的内容肯定不满足我们需求，接下来看看大佬们都怎么玩的~</p>
+<h2>2.2、引用模板</h2>
+<p>Github上有很多大神改造的模板</p>
+<p><strong>项目1：awesome-github-profile</strong></p>
+<p>地址：<a href="https://zzetao.github.io/awesome-github-profile" rel="nofollow">https://zzetao.github.io/awesome-github-profile</a></p>
+<p>该项目提供了丰富的模版，可以从中选择喜爱的模版进行二次开发。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff1c32fac373f15508b03f1947d58d40149f05d4fc5d241e8afa3d6e405a85b7/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f39333839353532633662656534643233393863323662353935643565323934352e706e67"><img src="https://camo.githubusercontent.com/ff1c32fac373f15508b03f1947d58d40149f05d4fc5d241e8afa3d6e405a85b7/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f39333839353532633662656534643233393863323662353935643565323934352e706e67" alt="" data-canonical-src="https://img-blog.csdnimg.cn/direct/9389552c6bee4d2398c26b595d5e2945.png" style="max-width: 100%;"></a></p>
+<p><strong>项目2：Awesome-Profile-README-templates</strong></p>
+<p>地址：<a href="https://github.com/kautukkundan/Awesome-Profile-README-templates">https://github.com/kautukkundan/Awesome-Profile-README-templates</a></p>
+<p>该仓库没有概览图，但是可以进入项目目录点击各 markdown 文件进行查看。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/becde7b0a0a215c60fe0723094deb3b98ef2bc219947c5f58236ffcbdbc9f96c/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f32313330363839356566393334636430383331656366666131636438383630662e706e67"><img src="https://camo.githubusercontent.com/becde7b0a0a215c60fe0723094deb3b98ef2bc219947c5f58236ffcbdbc9f96c/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f32313330363839356566393334636430383331656366666131636438383630662e706e67" alt="" data-canonical-src="https://img-blog.csdnimg.cn/direct/21306895ef934cd0831ecffa1cd8860f.png" style="max-width: 100%;"></a></p>
+<p><strong>项目3：gh-profile-readme-generator</strong></p>
+<p>地址：<a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" rel="nofollow">https://rahuldkjain.github.io/gh-profile-readme-generator/</a></p>
+<p>使用该网站可通过填写表单为你生成 profile，如果懒得二次定制可以使用该网站进行生成。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c0c7d5322660fad11e527bc0a4bbd1669ad2e085a09054263a32078b3471331b/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f38383839663563343764643334306462626235306637323839633739633836332e706e67"><img src="https://camo.githubusercontent.com/c0c7d5322660fad11e527bc0a4bbd1669ad2e085a09054263a32078b3471331b/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f38383839663563343764643334306462626235306637323839633739633836332e706e67" alt="" data-canonical-src="https://img-blog.csdnimg.cn/direct/8889f5c47dd340dbbb50f7289c79c863.png" style="max-width: 100%;"></a></p>
+<p>如果上面选择了一个有趣的模板后，则可以再为内容添加一些小部件</p>
+<h2>3.1、徽章badge</h2>
+<p>徽章我们见过很多，其实就是一个Markdown图片链接，借助shields.io来生成即可</p>
+<p>地址：<a href="https://shields.io/" rel="nofollow">https://shields.io/</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c862120644aa28ec587702923d892fb772b1eed5c6533f494f46e9710c3873c5/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f30313933396135646537363134333764626265393665636564633138643439372e706e67"><img src="https://camo.githubusercontent.com/c862120644aa28ec587702923d892fb772b1eed5c6533f494f46e9710c3873c5/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f30313933396135646537363134333764626265393665636564633138643439372e706e67" alt="" data-canonical-src="https://img-blog.csdnimg.cn/direct/01939a5de761437dbbe96ecedc18d497.png" style="max-width: 100%;"></a></p>
+<h2>3.2、waka 时间展示</h2>
+<p>地址：<a href="https://github.com/marketplace/actions/waka-readme">https://github.com/marketplace/actions/waka-readme</a></p>
+<p>该项目可以生成一个代码提交图等内容，详情可看官网介绍</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8d7a155732167ce65f0b23b6e0ec20f9d660e63f835bebb12d9a866c328af0d8/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f37353263336533643534343534663764616134313336303161633963633739332e706e67"><img src="https://camo.githubusercontent.com/8d7a155732167ce65f0b23b6e0ec20f9d660e63f835bebb12d9a866c328af0d8/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f37353263336533643534343534663764616134313336303161633963633739332e706e67" alt="" data-canonical-src="https://img-blog.csdnimg.cn/direct/752c3e3d54454f7daa413601ac9cc793.png" style="max-width: 100%;"></a></p>
+<h2>3.3、展示 GitHub stars 等信息</h2>
+<p>地址：<a href="https://github.com/anuraghazra/github-readme-stats">https://github.com/anuraghazra/github-readme-stats</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96f2b0fdcb401a32108d0a560c7c99b95dbc031c0829a15f13c11320768c9468/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f31333761643431333264623334626166393462333530356536346533616436372e706e67"><img src="https://camo.githubusercontent.com/96f2b0fdcb401a32108d0a560c7c99b95dbc031c0829a15f13c11320768c9468/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f31333761643431333264623334626166393462333530356536346533616436372e706e67" alt="" data-canonical-src="https://img-blog.csdnimg.cn/direct/137ad4132db34baf94b3505e64e3ad67.png" style="max-width: 100%;"></a></p>
+<h2>3.4、GitHub contributions贪吃蛇游戏</h2>
+<p>地址：<a href="https://github.com/Platane/snk">https://github.com/Platane/snk</a></p>
+<p>该项目可以根据你的贡献量生成贪吃蛇动画</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/66f5bcc6339502f88a952de33a320054d397b215b0165359d2366d0dcf28250e/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f61396139616162313363386434363962383230353934306232393037643963612e706e67"><img src="https://camo.githubusercontent.com/66f5bcc6339502f88a952de33a320054d397b215b0165359d2366d0dcf28250e/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f6469726563742f61396139616162313363386434363962383230353934306232393037643963612e706e67" alt="" data-canonical-src="https://img-blog.csdnimg.cn/direct/a9a9aab13c8d469b8205940b2907d9ca.png" style="max-width: 100%;"></a></p>
+<p>Github profile本质上就是对一个README.md文件的编辑，所以只要满足Markdown语法的内容都可以写进去~</p>
+<p>借助 GitHub profile 可以让我们打造自己个性化的 GitHub 首页，在全球最大男性交友网站中有特色的介绍自己 🐶。</p>
+<p>我的仓库地址：<a href="https://github.com/FearlessPeople">https://github.com/FearlessPeople</a></p>
+<p>最后祝大家都能打造出属于自己漂亮的 GitHub 首页<code class="notranslate">来吸引同志们</code>~~</p>
+<p>各位看官，如对你有帮助欢迎点赞，收藏，转发，关注公众号【Python魔法师】获取更多Python魔法~</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fa72a427d2494664e2dc76e099ebc6e0a60ac2eb579be0fef887cd25e63de65f/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f696d675f636f6e766572742f61396335356634353263306631306464393632666361613064333964333438322e6a706567"><img src="https://camo.githubusercontent.com/fa72a427d2494664e2dc76e099ebc6e0a60ac2eb579be0fef887cd25e63de65f/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f696d675f636f6e766572742f61396335356634353263306631306464393632666361613064333964333438322e6a706567" alt="" data-canonical-src="https://img-blog.csdnimg.cn/img_convert/a9c55f452c0f10dd962fcaa0d39d3482.jpeg" style="max-width: 100%;"></a></p>
+<p>=======================================================================================</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

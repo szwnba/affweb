@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="在上一篇文章中我们介绍到提供清晰明确的指令是大模型生成内容质量高低的关键。">
+<meta property="og:title" content="推荐一个万能提示词模板，附完整prompt - 知乎">
+<meta property="og:description" content="在上一篇文章中我们介绍到提供清晰明确的指令是大模型生成内容质量高低的关键。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/tui-jian-yi-ge-wan-neng-ti-shi-ci-mo-ban-%EF%BC%8C-fu-wan-zheng-prompt%20-%20-zhi-hu.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>推荐一个万能提示词模板，附完整prompt - 知乎</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">推荐一个万能提示词模板，附完整prompt - 知乎</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/591" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>在上一篇文章中我们介绍到提供清晰明确的指令是大模型生成内容质量高低的关键。现在已经有很多的提示词高手总结出来了一系列使我们的提示词 清晰且明确 的技巧。</p>
+<p>其中最基本的就是【指定任务】，也就是我们的诉求，我们就是让大模型帮我们干这个事的。</p>
+<p>其它的可以把它们归结为【上下文信息】，这个是让我们的任务 清晰且明确 的关键。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/710c7cfa86449ceb56787177cb64cb38cc4c983131e684ad6f90868bcda93ec7/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d62323962626133626662333863396437343031303736343466306334646666345f622e6a7067"><img src="https://camo.githubusercontent.com/710c7cfa86449ceb56787177cb64cb38cc4c983131e684ad6f90868bcda93ec7/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d62323962626133626662333863396437343031303736343466306334646666345f622e6a7067" alt="" data-canonical-src="https://pic1.zhimg.com/v2-b29bba3bfb38c9d740107644f0c4dff4_b.jpg" style="max-width: 100%;"></a></p>
+<p>接下来我们通过一个简单的场景来实践一下：制定英语学习计划</p>
+<p><strong>一、非结构化编写</strong></p>
+<p>执行效果图如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c6e780167ddd17f3bd088ac40981db216a7a48e056fd3700fbae413da0798cb0/68747470733a2f2f706963332e7a68696d672e636f6d2f76322d32393738383435383231303636386264393764623664663030336564666564615f622e6a7067"><img src="https://camo.githubusercontent.com/c6e780167ddd17f3bd088ac40981db216a7a48e056fd3700fbae413da0798cb0/68747470733a2f2f706963332e7a68696d672e636f6d2f76322d32393738383435383231303636386264393764623664663030336564666564615f622e6a7067" alt="" data-canonical-src="https://pic3.zhimg.com/v2-29788458210668bd97db6df003edfeda_b.jpg" style="max-width: 100%;"></a></p>
+<pre lang="text" class="notranslate"><code class="notranslate">请你帮我制定一个英语学习计划，我年龄28岁，性别男，职业是一名程序员
+</code></pre>
+<p>执行效果图如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a5b2290e3b1745056aa6e064d348bc6aca365fc0e1d722aff0bfb320f15a45dc/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d37346234343731353564326165636330663661323732393636373939386337345f622e6a7067"><img src="https://camo.githubusercontent.com/a5b2290e3b1745056aa6e064d348bc6aca365fc0e1d722aff0bfb320f15a45dc/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d37346234343731353564326165636330663661323732393636373939386337345f622e6a7067" alt="" data-canonical-src="https://pic1.zhimg.com/v2-74b447155d2aecc0f6a2729667998c74_b.jpg" style="max-width: 100%;"></a></p>
+<p>这个时候我们觉得背景信息太少了，不足以让大模型能针对我的具体情况给我制定英语学习计划，于是我们再多加一些背景信息，提示词如下：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">请你帮我制定一个英语学习计划，我年龄28岁，性别男，职业是一名程序员，我掌握的英语单词词汇量为3000，我的目标是在1个月内掌握词汇量达到5000，我在工作日投入的学习时间为每天1个小时，在周末投入的学习时间为每天4小时
+</code></pre>
+<p>执行效果图如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/143e2d326ee4872d02f53ea403e6e07a98c4c360edafdba24a87aac4379ac63f/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d61623261356363663635333031643532643135623536333036356262623535305f622e6a7067"><img src="https://camo.githubusercontent.com/143e2d326ee4872d02f53ea403e6e07a98c4c360edafdba24a87aac4379ac63f/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d61623261356363663635333031643532643135623536333036356262623535305f622e6a7067" alt="" data-canonical-src="https://pic1.zhimg.com/v2-ab2a5ccf65301d52d15b563065bbb550_b.jpg" style="max-width: 100%;"></a></p>
+<p>3、指定任务+背景信息描述+任务细节描述</p>
+<p>提示词如下：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">请你帮我制定一个英语学习计划，制定的学习计划中涉及到的在线学习平台一定是中国国内的平台，我年龄28岁，性别男，职业是一名程序员，我掌握的英语单词词汇量为3000，我的目标是在1个月内掌握词汇量达到5000，我在工作日投入的学习时间为每天1个小时，在周末投入的学习时间为每天4小时
+</code></pre>
+<p>执行效果图如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b01750d193e3f786d3b4e536b8d1b98c3a95e2f56249dfeebc742328ad94d5db/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d32353165313761643862633361636365633037653834343336316635353933355f622e6a7067"><img src="https://camo.githubusercontent.com/b01750d193e3f786d3b4e536b8d1b98c3a95e2f56249dfeebc742328ad94d5db/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d32353165313761643862633361636365633037653834343336316635353933355f622e6a7067" alt="" data-canonical-src="https://pic2.zhimg.com/v2-251e17ad8bc3accec07e844361f55935_b.jpg" style="max-width: 100%;"></a></p>
+<p>4、指定任务+背景信息描述+任务细节描述+指定角色</p>
+<p>提示词如下：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">你是一名成人英语教师，你具备以下能力：能够根据成人学习者的背景信息及学习需求制定有效的量化教学计划和教学内容。请你帮我制定一个英语学习计划，制定的学习计划中涉及到的在线学习平台一定是中国国内的平台，我年龄28岁，性别男，职业是一名程序员，我掌握的英语单词词汇量为3000，我的目标是在1个月内掌握词汇量达到5000，我在工作日投入的学习时间为每天1个小时，在周末投入的学习时间为每天4小时。
+</code></pre>
+<p>执行效果图如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3b6a081eb3e6adc83ed405591b2b516ef86da722098e1c331070e5d272183f84/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d35336637343266396464646235636530646630663765383237396433366633315f622e6a7067"><img src="https://camo.githubusercontent.com/3b6a081eb3e6adc83ed405591b2b516ef86da722098e1c331070e5d272183f84/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d35336637343266396464646235636530646630663765383237396433366633315f622e6a7067" alt="" data-canonical-src="https://pic2.zhimg.com/v2-53f742f9dddb5ce0df0f7e8279d36f31_b.jpg" style="max-width: 100%;"></a></p>
+<p>上边的 4 个步骤，刚开始我们只指定任务，发现 ChatGPT 的输出并不能达到我么想要的效果，本质上是我们提供的指令不够清晰和明确。</p>
+<p>所以为了让 ChatGPT 能够更好的理解我们的诉求，我们一步一步的添加上下文信息完善我们的指令，但是这也使得我们的提示词看起来越来越混乱。</p>
+<p>现在我们只是在提示词中添加了一些非常简单的信息，如果想要更好的完成任务后续还要添加非常多的信息，并且面对一些相对复杂的场景的时候，提示词中会包含非常非常多的信息。</p>
+<p>如果我们像上边那样把所有的信息都放在一堆，我们自己写着写着就乱了，也就导致 ChatGPT 回答的内容不符合我们的预期。</p>
+<p><strong>二、结构化编写</strong></p>
+<p>我们再来对上边那个提示词进行一下改造，把提示词中的信息进行分类归置：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">角色：你是一名成人英语教师
+能力：能够根据成人学习者的背景信息及学习需求制定有效的量化教学计划和教学内容。
+任务：帮我制定一个英语学习计划，制定的学习计划中涉及到的在线学习平台一定是中国国内的平台
+背景信息：我年龄28岁，性别男，职业是一名程序员，我掌握的英语单词词汇量为3000，我的目标是在1个月内掌握词汇量达到5000，我在工作日投入的学习时间为每天1个小时，在周末投入的学习时间为每天4小时。
+</code></pre>
+<p>执行效果：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/317d74397228b0b42502f8f6dc68e097e713851e12d621065077e665fc4071d6/68747470733a2f2f706963342e7a68696d672e636f6d2f76322d34623263626432363861643463393335636531626537323863396564386164665f622e6a7067"><img src="https://camo.githubusercontent.com/317d74397228b0b42502f8f6dc68e097e713851e12d621065077e665fc4071d6/68747470733a2f2f706963342e7a68696d672e636f6d2f76322d34623263626432363861643463393335636531626537323863396564386164665f622e6a7067" alt="" data-canonical-src="https://pic4.zhimg.com/v2-4b2cbd268ad4c935ce1be728c9ed8adf_b.jpg" style="max-width: 100%;"></a></p>
+<p>好了，一个结构化提示词就诞生了，这种提示词看起来是不是就更加清晰了，不像之前那么乱了。</p>
+<p>当然了，你可能会在网上看到过以下这种的结构化提示词：</p>
+<pre lang="text" class="notranslate"><code class="notranslate"># Role:
+
+# Profile:
+
+## Background:
+
+## Goals:
+
+## Constrains:
+
+## Skills:
+
+## Workflows:
+
+## Initialization:
+</code></pre>
+<p>或者下面这种：</p>
+<pre lang="text" class="notranslate"><code class="notranslate"># 角色:
+
+# 简介:
+
+## 背景:
+
+## 目标:
+
+## 限制:
+
+## 能力:
+
+## 流程:
+
+# 初始化:
+</code></pre>
+<p>上边两种都是用 markdown 语法来编写结构化提示词，是结构化提示词的一些非常流行的写法，还有一些用 json 、xml、伪代码来编写提示词的，这些结构化的方式比我们【制定英语学习计划】这个任务编写的结构化提示词要复杂。</p>
+<p>我们在编写提示词的时候也要谨记一个原则：<strong>如无必要，勿增实体</strong>—奥卡姆剃刀原理。能够在最小化的条件下实现我们的需求，那么它就是最好的，多一分信息就多一分不确定性，最合适的才是最好的。</p>
+<p><strong>无论是简单结构化，还是复杂结构化，都是手段，而不是目的。</strong> 目的都是为了能够清晰明确的表达我们的指令。一方面是让大模型“理解”我们的指令从而给出高质量的回答，另外一方面也提高可读、传阅性，让我们学习提示词的人能够很好的理解。</p>
+<p>markdown 语法格式的结构化提示词非常适合无编程经验的小伙伴学习，它最早是由 LangGPT 社区的创建者云中江树老师提出，后边我们也以 markdown 格式来讲解结构化提示词。</p>
+<p>1、Role（角色）</p>
+<p>通常是让大模型扮演的角色，本质上是为了缩小词向量查找范围，让大模型在自己的词向量坐标中找到和此角色更贴近的词汇。比如你让它扮演一个医生，它回答的时候就会展现医生的风格和专业。</p>
+<p>角色一般用第二人称【你】，比如我们上边【制定英语学习计划】中给大模型指定的角色：【你是一名成人英语教师】；</p>
+<p>指定大模型角色有时候也用第一人称【我】，我们只要保证整个提示词中出现的人称代词不混乱即可，就是不要在一个提示词中不要一个地方用【你】来表示大模型，一个地方用【我】来表示大模型。</p>
+<p>示例：</p>
+<p>2、Profile（简介）</p>
+<p>通常是介绍提示词的：作者、版本号等信息。</p>
+<p>示例：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">## Profile:
+- author: 冯帅
+- version: 1.0
+- language: 中文
+</code></pre>
+<p>3、Background（背景）</p>
+<p>任务的背景信息，目的也是为了让大模型更好的“理解”我们的任务。</p>
+<p>示例：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">## Background:
+你的目标用户在职场中一直承受着巨大压力，你的鼓励对他们来时至关重要
+</code></pre>
+<pre lang="text" class="notranslate"><code class="notranslate">## Goals:
+- 根据用户输入的信息，生成一篇小红书笔记
+</code></pre>
+<p>5、Constrains（限制）</p>
+<p>对大模型的输出内容做规范</p>
+<p>示例：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">## Constrains:
+- 不能有语气助词
+- 必须要考虑中国人的文化背景
+</code></pre>
+<p>6、Skills（能力）</p>
+<p>对角色的进一步补充，我们给大模型指定角色的时候，大模型扮演这个的这个角色需要具备哪些能力才能更好的完成我们的任务，需要具备的能力都在这里指定。</p>
+<p>示例：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">## Skills:
+- 批判性思维：能够批判性地分析自己的和他人的作品，识别并改进不足之处
+</code></pre>
+<p>7、Workflows（流程）</p>
+<p>大模型的工作流程，大模型会根据这里指定的流程，一步一步来往下执行。</p>
+<p>示例：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">## Workflows:
+1. 向用户介绍自己
+2. 引导用户输入基本信息
+3. 根据用户输入的信息
+</code></pre>
+<p>8、Initialization（初始化）</p>
+<p>初始化内容，一般在这里设置大模型和用户打招呼的内容。</p>
+<p>示例：</p>
+<pre lang="text" class="notranslate"><code class="notranslate">## Initialization:
+开场白：“hello～我是你的小助理，请问有什么需要帮助的么”
+</code></pre>
+<p>看到这里是不是有点懵，有种这么多概念记不住的感觉。这些概念都不需要刻意的去记，我们平常在场景中多用，多练习就自然而然的掌握这些概念性的东西了。</p>
+<p>光说不练假把式，接下来我们来看一个实操案例，看冯帅是如何在一个真实场景下一步一步迭代出来可用的提示词的。</p>
+<p><strong>四、实操案例：夸赞大师</strong></p>
+<p>我们的传统文化相对来说一直偏含蓄一些，我们平时在生活和职场可能不会听到太多的夸赞话语，并且由于内卷我们可能听到更多的是打压式、pua式的话语。</p>
+<p>接下来咱们来编写一个专门夸赞人的提示词，一方面学习在一个相对复杂点的场景下如何从 0 到 1 编写一个结构化提示词，另外一方面学会了之后小伙伴们也可以自己去写一个，在日常工作生活中用它，让 AI 来夸夸自己，给自己的生活解解压。</p>
+<p>在开始编写提示词之前，我们先思考几个问题：<strong>我的这个提示词最终想要达到什么样的效果？达到这样的效果需要具备什么样的能力？这个提示词的工作流程大致是什么样的？</strong></p>
+<p>这几个问题解决之后，我们的提示词也就自然的写出来了，接下来我们逐一解决这些问题。</p>
+<p><strong>一）分析需求</strong></p>
+<p>这个步骤解决的是【这个提示词想要达到什么样的效果】这个问题。</p>
+<p>这是分析需求的部分，我们刚刚说的想要写一个专门用来夸赞人的提示词，只是灵光一现的初步想法。我们要落实一下更加详细的需求。比如说：我们想要 AI 生成的夸赞内容，是什么样的语气，是更加专业的语气还是更加口语化的语气呢？</p>
+<p>如果这个提示词自己用的话，根据自己的意愿和感觉来就行。如果是给到其他人用，那么需要考虑一下其他人的意愿和习惯，这里冯帅直接跟着自己的感觉来。</p>
+<p>需求如下：</p>
+<p>无论用户给它输入什么内容（正能量、负能量、废话），它都能根据我输入的内容来夸赞我，而不是说假大空脱离用户输入内容的夸赞。</p>
+<p>输出的内容是用幽默的口语化语气，并且不要夸张，要温和。</p>
+<p><strong>二）满足需求需要的能力</strong></p>
+<p>这个步骤解决的是【达到这样的效果需要具备什么样的能力】这个问题。</p>
+<p>在前文部分，我们介绍了结构化提示词的基本结构，里边涉及到了 Role（角色）和 Skills（能力）这两个标签，这两个标签就是为了解决这个能力问题的。</p>
+<p>最关键的是 Skills（能力）这部分的内容，为什么呢？</p>
+<p>回顾文章最开始介绍的大模型的训练和生成原理，大模型本身是不会记忆用来训练它的语料库数据的，而是对训练它对数据集压缩，抽象出特定的规则，从而形成学习和推理能力。</p>
+<p>我们写的提示词其实就是利用大模型的学习和推理能力，让它**【现学现卖】**</p>
+<p>所以我们在设计提示词的时候，将完成当前需求需要具备的能力放在提示词中就至关重要。</p>
+<p>那么，<strong>我们怎样了解完成一个需求所需要具备的能力呢？ 直接问 AI</strong></p>
+<p>如下图：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e6fe0dcf77e9eaa9fdd360606753770a30e6f7a92244fbee54a1625c800e8280/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d64383533643366613032393935386338656235313539613838343664383865635f622e6a7067"><img src="https://camo.githubusercontent.com/e6fe0dcf77e9eaa9fdd360606753770a30e6f7a92244fbee54a1625c800e8280/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d64383533643366613032393935386338656235313539613838343664383865635f622e6a7067" alt="" data-canonical-src="https://pic1.zhimg.com/v2-d853d3fa029958c8eb5159a8846d88ec_b.jpg" style="max-width: 100%;"></a></p>
+<p>把 ChatGPT 回答所需要具备的能力直接拿过来用即可。</p>
+<pre lang="text" class="notranslate"><code class="notranslate">1. 观察力：锻炼你的观察力，注意他人的行为、特长、努力或成就，这将为你提供夸赞的具体内容。
+
+2. 同理心：发展同理心能让你更好地理解他人的情感和经历，从而使你的赞美更具针对性和深度。
+
+3. 真诚性：确保你的赞美发自内心，真诚的夸赞更容易被人接受，并产生积极的效果。
+
+4. 适度性：学习掌握赞美的分寸，避免过度或不足，使你的赞美既恰到好处又感人。
+
+5. 表达能力：提升你的语言表达能力，选择合适的词汇和表达方式，让你的赞美更加生动和感人。
+
+6. 倾听技巧：通过倾听来更好地了解对方的需求和情绪，这将帮助你提供更加个性化和恰当的赞美。
+
+7. 文化敏感性：了解不同文化背景中的交流习惯和敏感点，这有助于你的赞美在不同文化环境中都能得到恰当的理解和接受。
+</code></pre>
+<p><strong>三）设计流程</strong></p>
+<p>这个步骤解决的是【<strong>这个提示词的工作流程大致是什么样的</strong>】问题。</p>
+<p>设计用户和 ChatGPT 交互的流程：ChatGPT 拿到用户的输入之后，它先做什么，再做什么的步骤。</p>
+<p>这个场景的流程很简单，让用户随便输入内容，然后 ChatGPT 根据用户输入的内容夸赞用户。</p>
+<p><strong>四）编写提示词</strong></p>
+<p>以上问题都得到解决之后，提示词基本上也就写出来了：</p>
+<pre lang="text" class="notranslate"><code class="notranslate"># Role: 夸赞师
+
+## Goals:
+当写社会中的职场打工人面临工作和生活的双重压力，他/她们非常迫切的需要别人的赞美和鼓励，你要根据他/她们输入的内容写出夸赞语句，使被夸赞者开心。
+
+## Constrains:
+- 禁止使用一切负能量的词汇
+- 禁止使用夸张的语气
+- 禁止脱离用户输入的内容来夸赞
+
+## Skills:
+1. 观察力：锻炼你的观察力，注意他人的行为、特长、努力或成就，这将为你提供夸赞的具体内容。
+2. 同理心：发展同理心能让你更好地理解他人的情感和经历，从而使你的赞美更具针对性和深度。
+3. 真诚性：确保你的赞美发自内心，真诚的夸赞更容易被人接受，并产生积极的效果。
+4. 适度性：学习掌握赞美的分寸，避免过度或不足，使你的赞美既恰到好处又感人。
+5. 表达能力：提升你的语言表达能力，选择合适的词汇和表达方式，让你的赞美更加生动和感人。
+6. 倾听技巧：通过倾听来更好地了解对方的需求和情绪，这将帮助你提供更加个性化和恰当的赞美。
+7. 文化敏感性：了解不同文化背景中的交流习惯和敏感点，这有助于你的赞美在不同文化环境中都能得到恰当的理解和接受。
+
+## Workflows:
+1. 引导用户输入内容
+2. 根据用户输入的内容生成夸赞语句
+
+## Initialization:
+作为[Role]，时刻记住要完成[Goals]，严格遵守[Constrains]，以[Workflows]的顺序和用户对话
+</code></pre>
+<p>执行效果图如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7387bd4975085879ad6abf08a10e4f7b4fa37d67d6ac7a0cfc1f724481f1204f/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d32656665333136386564613562636564386563303631623931383566373839645f622e6a7067"><img src="https://camo.githubusercontent.com/7387bd4975085879ad6abf08a10e4f7b4fa37d67d6ac7a0cfc1f724481f1204f/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d32656665333136386564613562636564386563303631623931383566373839645f622e6a7067" alt="" data-canonical-src="https://pic2.zhimg.com/v2-2efe3168eda5bced8ec061b9185f789d_b.jpg" style="max-width: 100%;"></a></p>
+<p>五）迭代</p>
+<p>提示词编写完之后，拿到 ChatGPT 或者其它大模型里边去测试，如果发现它生成的内容不符合我们预期，那我们就要对提示词进行修修补补，也就是要持续的迭代，直到达到我们满意的效果为止。</p>
+<p>这里需要注意的一点是，在对提示词修改迭代的时候，不要一下子修改太多地方，尽量每次只修改一处，然后拿修改前和修改后的效果做对比，这样才可以判断修改的是否正确。如果在第一次执行之后发现哪哪都不对，需要修改的地方非常多，那一定是在前边设计提示词的时候出了问题，就要回过头去重新梳理设计。</p>
+<p>比如我想要 ChatGPT 夸人的时候更加幽默一些，我在 Skills 里面再加一个【幽默力】，修改后的提示词如下：</p>
+<pre lang="text" class="notranslate"><code class="notranslate"># Role: 夸赞师
+
+## Goals:
+当写社会中的职场打工人面临工作和生活的双重压力，他/她们非常迫切的需要别人的赞美和鼓励，你要根据他/她们输入的内容写出夸赞语句，使被夸赞者开心。
+
+## Constrains:
+- 禁止使用一切负能量的词汇
+- 禁止使用夸张的语气
+- 禁止脱离用户输入的内容来夸赞
+
+## Skills:
+1. 观察力：锻炼你的观察力，注意他人的行为、特长、努力或成就，这将为你提供夸赞的具体内容。
+2. 同理心：发展同理心能让你更好地理解他人的情感和经历，从而使你的赞美更具针对性和深度。
+3. 幽默力：以一种聪明而有趣的方式夸赞他人，这有助于你的赞美让他人信任和接受。
+4. 真诚性：确保你的赞美发自内心，真诚的夸赞更容易被人接受，并产生积极的效果。
+5. 适度性：学习掌握赞美的分寸，避免过度或不足，使你的赞美既恰到好处又感人。
+6. 表达能力：提升你的语言表达能力，选择合适的词汇和表达方式，让你的赞美更加生动和感人。
+7. 倾听技巧：通过倾听来更好地了解对方的需求和情绪，这将帮助你提供更加个性化和恰当的赞美。
+8. 文化敏感性：了解不同文化背景中的交流习惯和敏感点，这有助于你的赞美在不同文化环境中都能得到恰当的理解和接受。
+
+## Workflows:
+1. 引导用户输入内容
+2. 根据用户输入的内容生成夸赞语句
+
+## Initialization:
+作为[Role]，时刻记住要完成[Goals]，严格遵守[Constrains]，以[Workflows]的顺序和用户对话
+</code></pre>
+<p>执行效果如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d93d06dc2fa779cef2a50d8fbe62cb2e08374b2be0f103e817120899556bb9df/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d39646566626333633264633337386132646431353037393663356631336339355f622e6a7067"><img src="https://camo.githubusercontent.com/d93d06dc2fa779cef2a50d8fbe62cb2e08374b2be0f103e817120899556bb9df/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d39646566626333633264633337386132646431353037393663356631336339355f622e6a7067" alt="" data-canonical-src="https://pic2.zhimg.com/v2-9defbc3c2dc378a2dd150796c5f13c95_b.jpg" style="max-width: 100%;"></a></p>
+<p>执行之后我们发现 ChatGPT 生成的内容并不幽默，于是我们在 Constrains 中再添加一个限制，让它每句话都用幽默的方式来说。</p>
+<p>提示词修改如下：</p>
+<pre lang="text" class="notranslate"><code class="notranslate"># Role: 夸赞师
+
+## Goals:
+当写社会中的职场打工人面临工作和生活的双重压力，他/她们非常迫切的需要别人的赞美和鼓励，你要根据他/她们输入的内容写出夸赞语句，使被夸赞者开心。
+
+## Constrains:
+- 每句话都要用幽默的方式夸赞
+- 禁止使用一切负能量的词汇
+- 禁止使用夸张的语气
+- 禁止脱离用户输入的内容来夸赞
+
+## Skills:
+1. 观察力：锻炼你的观察力，注意他人的行为、特长、努力或成就，这将为你提供夸赞的具体内容。
+2. 同理心：发展同理心能让你更好地理解他人的情感和经历，从而使你的赞美更具针对性和深度。
+3. 幽默力：以一种聪明而有趣的方式夸赞他人，这有助于你的赞美让他人信任和接受。
+4. 真诚性：确保你的赞美发自内心，真诚的夸赞更容易被人接受，并产生积极的效果。
+5. 适度性：学习掌握赞美的分寸，避免过度或不足，使你的赞美既恰到好处又感人。
+6. 表达能力：提升你的语言表达能力，选择合适的词汇和表达方式，让你的赞美更加生动和感人。
+7. 倾听技巧：通过倾听来更好地了解对方的需求和情绪，这将帮助你提供更加个性化和恰当的赞美。
+8. 文化敏感性：了解不同文化背景中的交流习惯和敏感点，这有助于你的赞美在不同文化环境中都能得到恰当的理解和接受。
+
+## Workflows:
+1. 引导用户输入内容
+2. 根据用户输入的内容生成夸赞语句
+
+## Initialization:
+作为[Role]，时刻记住要完成[Goals]，严格遵守[Constrains]，以[Workflows]的顺序和用户对话
+</code></pre>
+<p>执行效果如下图，观察下图的结果，我们发现 ChatGPT 已经比较幽默了，只不过这幽默有点低级。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/970fb159b239dd9d6676c93829d6cf835cc4926e3e7c189be18e7eb534d90ab1/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d35656539313662666136633535353861363434356433643235616437623561355f622e6a7067"><img src="https://camo.githubusercontent.com/970fb159b239dd9d6676c93829d6cf835cc4926e3e7c189be18e7eb534d90ab1/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d35656539313662666136633535353861363434356433643235616437623561355f622e6a7067" alt="" data-canonical-src="https://pic2.zhimg.com/v2-5ee916bfa6c5558a6445d3d25ad7b5a5_b.jpg" style="max-width: 100%;"></a></p>
+<p><strong>六）总结</strong></p>
+<p>最后我们可以总结出来一套编写结构化提示词的流程，如下图：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d48bb15fd3607e6023801c52cc116825ea84f9b7cd51e0026a9e4b9d59ac192/68747470733a2f2f706963342e7a68696d672e636f6d2f76322d61373664656461353562616265633261323830343463346664643030313963625f622e6a7067"><img src="https://camo.githubusercontent.com/6d48bb15fd3607e6023801c52cc116825ea84f9b7cd51e0026a9e4b9d59ac192/68747470733a2f2f706963342e7a68696d672e636f6d2f76322d61373664656461353562616265633261323830343463346664643030313963625f622e6a7067" alt="" data-canonical-src="https://pic4.zhimg.com/v2-a76deda55babec2a28044c4fdd0019cb_b.jpg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

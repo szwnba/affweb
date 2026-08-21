@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="前言
+--
+
+上次介绍了通过Hexo+GitHub Pages，零成本搭建一个专属自己的独立博客网站。">
+<meta property="og:title" content="hexo实战：（二）个人独立博客豪华装修合集">
+<meta property="og:description" content="前言
+--
+
+上次介绍了通过Hexo+GitHub Pages，零成本搭建一个专属自己的独立博客网站。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/hexo-shi-zhan-%EF%BC%9A%EF%BC%88-er-%EF%BC%89-ge-ren-du-li-bo-ke-hao-hua-zhuang-xiu-he-ji.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>hexo实战：（二）个人独立博客豪华装修合集</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">hexo实战：（二）个人独立博客豪华装修合集</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/655" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><h2>前言</h2>
+<p>上次介绍了通过Hexo+GitHub Pages，零成本搭建一个专属自己的独立博客网站。我觉得那篇文章是没有入门门槛的，不管你是什么行业，只要想打造个人IP，又不太想受博客平台的约束，那么读完后动手操作一下也能轻松完成。</p>
+<p>而这次呢，上篇说了Hexo篇会有三部曲，现在来到第二阶段，就要在前者基础上做进一步升级，将完成下面七个主要的博客指标。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/oneRjXnW5LGicNoMAdG2dAwnjwNTribzbVXOFf3GaN3UOJoIAiaNH2dG80QKUsgiaLYaGb03UHSZMBJeOWI6wH5OIA/640?wx_fmt=gif" style="max-width: 100%;"></a></p>
+<h2>指标</h2>
+<ul>
+<li>
+<p>Hexo如何<strong>安装Butterfly主题并配置</strong>？</p>
+</li>
+<li>
+<p>Hexo如何<strong>创建页面和添加文章</strong>？</p>
+</li>
+<li>
+<p>Hexo如何<strong>添加第三方评论系统</strong>？</p>
+</li>
+<li>
+<p>Butterfly主题如何<strong>添加站内搜索</strong>？</p>
+</li>
+<li>
+<p>Butterfly主题如何<strong>添加百度统计</strong>？</p>
+</li>
+<li>
+<p>Butterfly主题如何<strong>添加文章置顶功能</strong>？</p>
+</li>
+<li>
+<p>Butterfly主题如何<strong>配置RSS和404页面</strong>？</p>
+</li>
+<li>
+<p>如何<strong>配合Typora</strong>完成md的同步与本地备份？</p>
+</li>
+</ul>
+<h2>主题添加与配置</h2>
+<p>Hexo官网专门有一个栏目的主题列表，这里我选的 “butterfly”，首先拉取主题代码到themes目录下，然后在Hexo的配置中启动主题。</p>
+<ul>
+<li>
+<h4>拉取主题包</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-nginx"><pre class="notranslate">git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly</pre></div>
+<ul>
+<li>
+<h4>启动主题</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-httpspec"><pre class="notranslate"><span class="pl-s"><span class="pl-v">theme:</span> butterfly</span></pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40f7ae0215b1ee490734099dde487c2b4e483cf94268718a52f0581e2f2de32d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69625033644255384e6962344f517a4d4b4e353452534e696169623561453670647967553939765938544d37614a61356233324b6963504e6c7432512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/40f7ae0215b1ee490734099dde487c2b4e483cf94268718a52f0581e2f2de32d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69625033644255384e6962344f517a4d4b4e353452534e696169623561453670647967553939765938544d37614a61356233324b6963504e6c7432512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibP3dBU8Nib4OQzMKN54RSNiaib5aE6pdygU99vY8TM7aJa5b32KicPNlt2Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>基础配置</h2>
+<p>基础配置主要是设置网站的标题、描述、SEO、菜单等项，下面我就列出hexo的config（根目录下_config.yml），和主题Butterfly的config（themes的Butterfly下_config.yml），并注释相关项的简介仅供参考。</p>
+<ul>
+<li>
+<h4>hexo_config.yml</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-httpspec"><pre class="notranslate"><span class="pl-s"><span class="pl-v">title:</span> ZERO开发                           #网站标题</span>
+<span class="pl-s"><span class="pl-v">subtitle:</span> 一个独立开发者的博客               #网站副标题</span>
+<span class="pl-s"><span class="pl-v">description:</span> 公众号：ZERO开发               #网站描述</span>
+<span class="pl-s"><span class="pl-v">keywords:</span> 技术博客、独立开发者、PHP开发、Pthon开发、人工智能</span>
+<span class="pl-s"><span class="pl-v">author:</span> 北桥苏             #您的名字</span>
+<span class="pl-s"><span class="pl-v">language:</span> zh-CN           #网站使用的语言</span>
+<span class="pl-s"><span class="pl-v">timezone:</span>              #网站时区。Hexo 默认使用您电脑的时区</span>
+
+<span class="pl-ii"># URL 网址</span>
+<span class="pl-ii">## 如果您的网站存放在子目录中，</span>
+<span class="pl-ii">## 例如 http://yoursite.com/blog，则请将您的 url</span>
+<span class="pl-ii">## 设为 http://yoursite.com/blog 并把 root 设为 /blog/。</span>
+<span class="pl-s"><span class="pl-v">url:</span> http://z11r00.github.io</span>
+<span class="pl-s"><span class="pl-v">root:</span> /</span>
+<span class="pl-s"><span class="pl-v">permalink:</span> :year/:month/:day/:title/</span>
+<span class="pl-s"><span class="pl-v">permalink_defaults:</span></span>
+
+<span class="pl-ii"># Directory 目录配置</span>
+<span class="pl-s"><span class="pl-v">source_dir:</span> source       #源文件夹，这个文件夹用来存放内容。</span>
+<span class="pl-s"><span class="pl-v">public_dir:</span> public       #公共文件夹，这个文件夹用于存放生成的站点文件。</span>
+<span class="pl-s"><span class="pl-v">tag_dir:</span> tags           #标签文件夹</span>
+<span class="pl-s"><span class="pl-v">archive_dir:</span> archives   #归档文件夹</span>
+<span class="pl-s"><span class="pl-v">category_dir:</span> categories #分类文件夹</span>
+<span class="pl-s"><span class="pl-v">code_dir:</span> downloads/code #nclude code 文件夹</span>
+<span class="pl-s"><span class="pl-v">i18n_dir:</span> :lang         #国际化（i18n）文件夹</span>
+<span class="pl-s"><span class="pl-v">skip_render:</span>             #跳过指定文件的渲染，您可使用 glob 表达式来匹配路径。</span>
+
+<span class="pl-ii"># Writing 文章</span>
+<span class="pl-s"><span class="pl-v">new_post_name:</span> :title.md # 新建文章默认文件名</span>
+<span class="pl-s"><span class="pl-v">default_layout:</span> post     # 默认布局</span>
+<span class="pl-s"><span class="pl-v">titlecase:</span> false # Transform title into titlecase</span>
+<span class="pl-s"><span class="pl-v">external_link:</span> true # 在新标签中打开一个外部链接，默认为true</span>
+<span class="pl-s"><span class="pl-v">filename_case:</span> 0   #转换文件名，1代表小写；2代表大写；默认为0，意思就是创建文章的时候，是否自动帮你转换文件名，默认就行，意义不大。</span>
+<span class="pl-s"><span class="pl-v">render_drafts:</span> false #是否渲染_drafts目录下的文章，默认为false</span>
+<span class="pl-s"><span class="pl-v">post_asset_folder:</span> false #启动 Asset 文件夹</span>
+<span class="pl-s"><span class="pl-v">relative_link:</span> false   #把链接改为与根目录的相对位址，默认false</span>
+<span class="pl-s"><span class="pl-v">future:</span> true       #显示未来的文章，默认false</span>
+<span class="pl-s"><span class="pl-v">syntax_highlighter:</span> highlight.js</span>
+<span class="pl-s"><span class="pl-v">highlight:</span>   #代码块的设置</span>
+<span class="pl-s"><span class="pl-v">enable:</span> true</span>
+<span class="pl-s"><span class="pl-v">line_number:</span> true</span>
+<span class="pl-s"><span class="pl-v">auto_detect:</span> false</span>
+<span class="pl-s"><span class="pl-v">tab_replace:</span></span>
+<span class="pl-s"><span class="pl-v">prismjs:</span></span>
+<span class="pl-s"><span class="pl-v">preprocess:</span> true</span>
+<span class="pl-s"><span class="pl-v">line_number:</span> true</span>
+<span class="pl-s"><span class="pl-v">tab_replace:</span> ''</span>
+
+<span class="pl-ii"># Category &amp; Tag 分类和标签的设置</span>
+<span class="pl-s"><span class="pl-v">default_category:</span> uncategorized       #默认分类</span>
+<span class="pl-s"><span class="pl-v">category_map:</span>                         #分类别名</span>
+<span class="pl-s"><span class="pl-v">tag_map:</span>                               #标签别名</span>
+
+<span class="pl-ii"># 全局日期格式化</span>
+<span class="pl-s"><span class="pl-v">date_format:</span> YYYY-MM-DD</span>
+<span class="pl-s"><span class="pl-v">time_format:</span> HH:mm:ss</span>
+<span class="pl-s"><span class="pl-v">updated_option:</span> 'mtime'</span>
+<span class="pl-s"><span class="pl-v">pagination_dir:</span> page   #分页目录</span>
+
+<span class="pl-ii">## 插件index，用于显示分页和排序配置</span>
+<span class="pl-s"><span class="pl-v">index_generator:</span></span>
+<span class="pl-s"><span class="pl-v">path:</span> ''</span>
+<span class="pl-s"><span class="pl-v">per_page:</span> 5# 0.关闭分页功能 &gt;0.每页条数</span>
+<span class="pl-s"><span class="pl-v">order_by:</span></span>
+  <span class="pl-ii">top: -1# 置顶排序：-1.倒序 1.正序</span>
+  <span class="pl-ii">date: -1# 日期排序：-1.倒序 1.正序</span>
+
+<span class="pl-ii"># 主题启动配置</span>
+<span class="pl-s"><span class="pl-v">theme:</span> butterfly</span>
+
+<span class="pl-ii"># Deployment github部署配置</span>
+<span class="pl-s"><span class="pl-v">deploy:</span></span>
+<span class="pl-s"><span class="pl-v">type:</span> git</span>
+<span class="pl-s"><span class="pl-v">repository:</span> https://github.com/z11r00/z11r00.github.io</span>
+<span class="pl-s"><span class="pl-v">branch:</span> main</span>
+
+<span class="pl-ii">##hexo-generator-search搜索插件配置</span>
+<span class="pl-s"><span class="pl-v">search:</span></span>
+<span class="pl-s"><span class="pl-v">path:</span> search.xml</span>
+<span class="pl-s"><span class="pl-v">field:</span> post</span>
+<span class="pl-s"><span class="pl-v">format:</span> html</span>
+<span class="pl-s"><span class="pl-v">limit:</span> 10000</span>
+
+<span class="pl-ii">## rss配置</span>
+<span class="pl-s"><span class="pl-v">feed:</span></span>
+<span class="pl-s"><span class="pl-v">type:</span> atom</span>
+<span class="pl-s"><span class="pl-v">path:</span> atom.xml</span>
+<span class="pl-s"><span class="pl-v">limit:</span> 20</span>
+
+<span class="pl-ii">## rss位置</span>
+<span class="pl-s"><span class="pl-v">rss:</span> /atom.xml</span></pre></div>
+<ul>
+<li>
+<h4>hexo_butterfly_config.yml</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-ini"><pre class="notranslate">nav:
+logo: /img/logo.png <span class="pl-c"><span class="pl-c">#</span> 导航栏左侧LOGO</span>
+display_title: true
+fixed: true <span class="pl-c"><span class="pl-c">#</span> 是否置顶导航栏</span>
+
+
+Home: / || fas fa-home
+Archives: /archives/ || fas fa-archive
+Tags: /tags/ || fas fa-tags
+Categories: /categories/ || fas fa-folder-open
+List||fas fa-list:
+Music: /music/ || fas fa-music
+Movie: /movies/ || fas fa-video
+Link: /link/ || fas fa-link
+About: /about/ || fas fa-heart
+
+
+menu:
+首页: / || fas fa-home
+时间轴: /archives/ || fas fa-archive
+标签: /tags/ || fas fa-tags
+分类: /categories/ || fas fa-folder-open
+
+
+
+
+友链: /link/ || fas fa-link
+关于: /about/ || fas fa-heart
+
+
+
+highlight_theme: light <span class="pl-c"><span class="pl-c">#</span> darker / pale night / light / ocean / mac / mac light / false</span>
+highlight_copy: true <span class="pl-c"><span class="pl-c">#</span> copy button</span>
+highlight_lang: true <span class="pl-c"><span class="pl-c">#</span> show the code language</span>
+highlight_shrink: false <span class="pl-c"><span class="pl-c">#</span> true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button</span>
+highlight_height_limit: false <span class="pl-c"><span class="pl-c">#</span> unit: px</span>
+code_word_wrap: false   <span class="pl-c"><span class="pl-c">#</span> 代码是否自动换行</span>
+
+
+social:
+fab fa-github: https://github.com/z11r00 || Github || <span class="pl-s"><span class="pl-pds">'</span>#24292e<span class="pl-pds">'</span></span>
+fas fa-envelope: 2652364582@qq.com || Email || <span class="pl-s"><span class="pl-pds">'</span>#4a7dbe<span class="pl-pds">'</span></span>
+fas fa-rss: /atom.xml || RSS
+
+
+
+
+
+
+favicon: /img/favicon.png
+
+
+avatar:
+img: /img/avatar.png
+effect: false
+
+
+disable_top_img: true
+
+
+index_img: /img/index_img.jpg
+
+
+default_top_img: /img/default_top_img.jpeg
+
+
+archive_img: /img/archive_img.jpg
+
+
+tag_img:
+
+
+
+
+tag_per_img:
+
+
+category_img:
+
+
+
+
+category_per_img:
+
+
+cover:
+
+index_enable: true
+aside_enable: true
+archives_enable: true
+
+
+position: both
+(當沒有設置cover時，默認的封面顯示)
+default_cover:
+  - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+
+
+error_img:
+flink: /img/friend_404.gif
+post_page: /img/404.jpg
+
+
+error_404:
+enable: true
+subtitle: <span class="pl-s"><span class="pl-pds">'</span>Page Not Found<span class="pl-pds">'</span></span>
+background: /img/404.jpg
+
+
+post_meta:
+page: <span class="pl-c"><span class="pl-c">#</span> Home Page</span>
+  date_type: created <span class="pl-c"><span class="pl-c">#</span> created or updated or both 主頁文章日期是創建日或者更新日或都顯示</span>
+  date_format: date <span class="pl-c"><span class="pl-c">#</span> date/relative 顯示日期還是相對日期</span>
+  categories: true <span class="pl-c"><span class="pl-c">#</span> true or false 主頁是否顯示分類</span>
+  tags: false <span class="pl-c"><span class="pl-c">#</span> true or false 主頁是否顯示標籤</span>
+  label: true <span class="pl-c"><span class="pl-c">#</span> true or false 顯示描述性文字</span>
+post:
+  date_type: both <span class="pl-c"><span class="pl-c">#</span> created or updated or both 文章頁日期是創建日或者更新日或都顯示</span>
+  date_format: date <span class="pl-c"><span class="pl-c">#</span> date/relative 顯示日期還是相對日期</span>
+  categories: true <span class="pl-c"><span class="pl-c">#</span> true or false 文章頁是否顯示分類</span>
+  tags: true <span class="pl-c"><span class="pl-c">#</span> true or false 文章頁是否顯示標籤</span>
+  label: true <span class="pl-c"><span class="pl-c">#</span> true or false 顯示描述性文字</span>
+
+
+anchor:
+
+auto_update: false
+
+click_to_scroll: false
+
+
+photofigcaption: false
+
+
+
+copy:
+enable: true     <span class="pl-c"><span class="pl-c">#</span> 是否开启网站复制权限</span>
+copyright:
+  enable: false   <span class="pl-c"><span class="pl-c">#</span> 是否开启复制版权信息添加</span>
+  limit_count: 50 <span class="pl-c"><span class="pl-c">#</span> 字数限制，当复制文字大于这个字数限制时，将在复制的内容后面加上版权信息</span>
+
+
+
+
+
+toc:
+post: true
+page: false
+number: true
+expand: false
+style_simple: false
+scroll_percent: true
+
+
+post_copyright:
+enable: true
+decode: false
+author_href:
+license: CC BY-NC-SA 4.0
+license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+reward:
+enable: true
+text: 打赏一下~
+QR_code:
+  - img: /img/qrcode/wechat_trade.jpg
+    link:
+    text: 微信
+  - img: /img/qrcode/alipay_trade.jpg
+    link:
+    text: 支付宝
+
+
+
+post_edit:
+enable: false
+
+
+url:
+
+
+related_post:
+enable: true
+limit: 6 <span class="pl-c"><span class="pl-c">#</span> Number of posts displayed</span>
+date_type: created <span class="pl-c"><span class="pl-c">#</span> or created or updated 文章日期顯示創建日或者更新日</span>
+
+
+
+
+
+
+post_pagination: 1
+
+
+noticeOutdate:
+enable: false
+style: flat <span class="pl-c"><span class="pl-c">#</span> style: simple/flat</span>
+limit_day: 500 <span class="pl-c"><span class="pl-c">#</span> When will it be shown</span>
+position: top <span class="pl-c"><span class="pl-c">#</span> position: top/bottom</span>
+message_prev: It has been
+message_next: days since the last update, the content of the article may be outdated.
+
+
+
+footer:
+owner:
+  enable: true
+  since: 2017
+custom_text: Copyright© ZERO开发-独立开发者的日常总结&lt;br/&gt;&lt;a <span class="pl-k">href</span>=<span class="pl-s"><span class="pl-pds">"</span>https://beian.miit.gov.cn/<span class="pl-pds">"</span></span> <span class="pl-k">target</span>=<span class="pl-s"><span class="pl-pds">"</span>_blank<span class="pl-pds">"</span></span>&gt;赣ICP备16002525号-1&lt;/a&gt;
+
+copyright: false
+
+
+
+
+
+aside:
+enable: true
+hide: false
+button: true
+mobile: true <span class="pl-c"><span class="pl-c">#</span> display on mobile</span>
+position: left <span class="pl-c"><span class="pl-c">#</span> left or right</span>
+display:
+  archive: true
+  tag: true
+  category: true
+card_author:
+  enable: true
+  description:
+  button:
+    enable: true
+    icon: fas fa-video
+    text: 关注我
+    link: https://space.bilibili.com/286666708/
+card_announcement:
+  enable: true
+  content: 微信公众号：ZERO开发，致力于为猿友们提供有价值的内容
+card_recent_post:
+  enable: true
+  limit: 5 <span class="pl-c"><span class="pl-c">#</span> if set 0 will show all</span>
+  sort: date <span class="pl-c"><span class="pl-c">#</span> date or updated</span>
+  sort_order: <span class="pl-c"><span class="pl-c">#</span> Don't modify the setting unless you know how it works</span>
+card_categories:
+  enable: true
+  limit: 8 <span class="pl-c"><span class="pl-c">#</span> if set 0 will show all</span>
+  expand: none <span class="pl-c"><span class="pl-c">#</span> none/true/false</span>
+  sort_order: <span class="pl-c"><span class="pl-c">#</span> Don't modify the setting unless you know how it works</span>
+card_tags:
+  enable: true
+  limit: 40 <span class="pl-c"><span class="pl-c">#</span> if set 0 will show all</span>
+  color: false
+  orderby: random <span class="pl-c"><span class="pl-c">#</span> Order of tags, random/name/length</span>
+  order: 1 <span class="pl-c"><span class="pl-c">#</span> Sort of order. 1, asc for ascending; -1, desc for descending</span>
+  sort_order: <span class="pl-c"><span class="pl-c">#</span> Don't modify the setting unless you know how it works</span>
+card_archives:
+  enable: true
+  type: monthly <span class="pl-c"><span class="pl-c">#</span> yearly or monthly</span>
+  format: MMMM YYYY <span class="pl-c"><span class="pl-c">#</span> eg: YYYY年MM月</span>
+  order: -1 <span class="pl-c"><span class="pl-c">#</span> Sort of order. 1, asc for ascending; -1, desc for descending</span>
+  limit: 8 <span class="pl-c"><span class="pl-c">#</span> if set 0 will show all</span>
+  sort_order: <span class="pl-c"><span class="pl-c">#</span> Don't modify the setting unless you know how it works</span>
+card_webinfo:
+  enable: true
+  post_count: true
+  last_push_date: true
+  sort_order: <span class="pl-c"><span class="pl-c">#</span> Don't modify the setting unless you know how it works</span>
+card_post_series:
+  enable: true
+  series_title: false <span class="pl-c"><span class="pl-c">#</span> The title shows the series name</span>
+  orderBy: <span class="pl-s"><span class="pl-pds">'</span>date<span class="pl-pds">'</span></span> <span class="pl-c"><span class="pl-c">#</span> Order by title or date</span>
+  order: -1 <span class="pl-c"><span class="pl-c">#</span> Sort of order. 1, asc for ascending; -1, desc for descending</span>
+
+
+
+busuanzi:
+site_uv: true
+site_pv: true
+page_pv: true
+
+
+
+runtimeshow:
+enable: false
+publish_date:
+
+
+newest_comments:
+enable: true
+sort_order: <span class="pl-c"><span class="pl-c">#</span> Don't modify the setting unless you know how it works</span>
+limit: 6
+storage: 10 <span class="pl-c"><span class="pl-c">#</span> unit: mins, save data to localStorage</span>
+avatar: true
+
+
+
+
+
+translate:
+enable: false
+
+default: 繁
+
+defaultEncoding: 2
+
+translateDelay: 0
+
+msgToTraditionalChinese: <span class="pl-s"><span class="pl-pds">'</span>繁<span class="pl-pds">'</span></span>
+
+msgToSimplifiedChinese: <span class="pl-s"><span class="pl-pds">'</span>簡<span class="pl-pds">'</span></span>
+
+
+readmode: true
+
+
+local_search:
+enable: true
+
+preload: false
+
+top_n_per_article: 1
+
+unescape: false
+CDN:
+
+
+docsearch:
+enable: false
+appId:
+apiKey:
+indexName:
+option:
+
+
+
+
+
+sharejs:
+enable: true
+sites: weibo,wechat,qq,facebook,twitter
+
+
+
+addtoany:
+enable: false
+item: facebook,twitter,wechat,sina_weibo,facebook_messenger,email,copy_link
+
+
+
+
+comments:
+
+
+use: gitalk <span class="pl-c"><span class="pl-c">#</span> Valine,Disqus</span>
+text: true <span class="pl-c"><span class="pl-c">#</span> Display the comment name next to the button</span>
+
+
+lazyload: true
+count: false <span class="pl-c"><span class="pl-c">#</span> Display comment count in post's top_img</span>
+card_post_count: false <span class="pl-c"><span class="pl-c">#</span> Display comment count in Home Page</span>
+
+
+
+disqus:
+shortname:
+apikey: <span class="pl-c"><span class="pl-c">#</span> For newest comments widget</span>
+
+
+
+
+disqusjs:
+shortname:
+apikey:
+option:
+
+
+
+livere:
+uid:
+
+
+
+gitalk:
+client_id: Ov23…………1C6fM
+client_secret: 4304…………44433f77352
+repo: z11r00.github.io
+owner: z11r00
+admin: z11r00
+option:
+
+
+
+
+
+
+baidu_analytics: 74270…………………………………………
+
+
+
+
+
+google_adsense:
+enable: false
+auto_ads: true
+js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+client:
+enable_page_level_ads: true
+
+
+
+
+site_verification:
+
+
+
+</pre></div>
+<ul>
+<li>
+<h4>创建菜单页面</h4>
+</li>
+</ul>
+<p>页面包括标签页（tags）、分类页（categories）、友链页（link）、关于页（about），当然也可以自行添加，比如音乐电影之类。不过添加这种页面方式都大同小异，以下以标签页举例。</p>
+<ul>
+<li>
+<h4>运行命令</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-s1">hexo</span> <span class="pl-k">new</span> <span class="pl-s1">page</span> <span class="pl-s1">tags</span></pre></div>
+<ul>
+<li>
+<h4>编辑MD</h4>
+</li>
+</ul>
+<p>运行命令后，会在source下根据butterfly模板生成对应的md文件，tags就是tags，不过要将md文件的type修改为对应的类型，类型见上。</p>
+<div class="highlight highlight-source-httpspec"><pre class="notranslate"><span class="pl-s"><span class="pl-v">title:</span> 标签页</span>
+<span class="pl-s"><span class="pl-v">date:</span> 2024-05-02 21:01:24</span>
+<span class="pl-s"><span class="pl-v">type:</span> "tags"</span></pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc041c0049b8a95fcb01739a3a09045c92ff87c8aff68eda9c01dec5e2a0d648/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69625a78664e4f754774624732674541504444634e5a4c64653955536268707969637a36326b44656d69637a5566557872576a745162686e46412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/cc041c0049b8a95fcb01739a3a09045c92ff87c8aff68eda9c01dec5e2a0d648/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69625a78664e4f754774624732674541504444634e5a4c64653955536268707969637a36326b44656d69637a5566557872576a745162686e46412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibZxfNOuGtbG2gEAPDDcNZLde9USbhpyicz62kDemiczUfUxrWjtQbhnFA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h4>Page（页面）front-matter</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-httpspec"><pre class="notranslate"><span class="pl-s"><span class="pl-v">title:</span> 页面名称</span>
+<span class="pl-s"><span class="pl-v">date:</span> 创建日期</span>
+<span class="pl-s"><span class="pl-v">type:</span> （tags,link,categories这三个页面需要配置）</span>
+<span class="pl-s"><span class="pl-v">comments:</span> (是否需要显示评论，默认true)</span>
+<span class="pl-s"><span class="pl-v">description:</span> 用于SEO优化</span>
+<span class="pl-s"><span class="pl-v">top_img:</span> (设置顶部图)</span>
+<span class="pl-s"><span class="pl-v">mathjax:</span> (数学公式显示是否支持)</span>
+<span class="pl-s"><span class="pl-v">katex:</span>   (Tex公式显示是否支持)</span></pre></div>
+<h2>创建文章</h2>
+<p>写文章，可以通过命令创建，也可以在source/_posts目录下，自行新建markedown文件，因为命令也是在_posts文件夹下新建。</p>
+<ul>
+<li>
+<h4>运行命令</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-s1">hexo</span> <span class="pl-k">new</span> <span class="pl-s">"文章的大标题"</span></pre></div>
+<ul>
+<li>
+<h4>Post（文章）front-matter</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-makefile"><pre class="notranslate"><span class="pl-en">title</span>: CentOS7下Tomcat启动慢的原因及解决方案
+<span class="pl-en">date</span>: 2017-12-02 21:01:24
+description：文章描述，用于做SEO优化的
+<span class="pl-en">keywords</span>: 文章SEO关键词
+<span class="pl-en">top_img</span>: 文章顶部图
+<span class="pl-en">cover</span>: 文章缩略图（封面图）
+<span class="pl-en">toc</span>: true (是否显示文章目录)
+<span class="pl-en">toc_number</span>: true (是否显示文章目录的标识数字)
+<span class="pl-en">copyright</span>: true (是否显示版权)
+<span class="pl-en">mathjax</span>: (数学公式显示是否支持)
+<span class="pl-en">katex</span>:   (Tex公式显示是否支持)
+<span class="pl-en">hide</span>: false (是否隐藏当前文章)
+<span class="pl-en">comments</span>: true <span class="pl-c"><span class="pl-c">#</span>是否可评论</span>
+<span class="pl-en">toc</span>: true <span class="pl-c"><span class="pl-c">#</span>是否显示文章目录</span>
+<span class="pl-en">categories</span>: "云服务器" <span class="pl-c"><span class="pl-c">#</span>分类</span>
+<span class="pl-en">tags</span>:   <span class="pl-c"><span class="pl-c">#</span>标签</span>
+- centOS
+- tomcat</pre></div>
+<h2>站内搜索添加</h2>
+<p>站内搜索，我是采用的hexo-generator-search插件解决方案，安装完插件，然后配置一下，最后用hexo清理再生成一下全站静态，同时在根目录也会生成一个search.xml，用于做字符串模糊匹配的。</p>
+<ul>
+<li>
+<h4>插件安装</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-sql"><pre class="notranslate">npm install hexo<span class="pl-k">-</span>generator<span class="pl-k">-</span>search <span class="pl-c"><span class="pl-c">--</span>save</span></pre></div>
+<ul>
+<li>
+<h4>添加或配置</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-makefile"><pre class="notranslate">-config（hexo配置）
+
+<span class="pl-en">search</span>:
+<span class="pl-en">path</span>: search.xml
+<span class="pl-en">field</span>: post
+<span class="pl-en">format</span>: html
+<span class="pl-en">limit</span>: 10000
+
+-butterfly-config（butterfly主题配置）
+
+<span class="pl-en">local_search</span>:
+<span class="pl-en">enable</span>: true
+<span class="pl-en">preload</span>: false
+<span class="pl-en">CDN</span>:</pre></div>
+<ul>
+<li>
+<h4>清理与生成</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-nginx"><pre class="notranslate">hexo clean &amp;&amp; hexo g</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1dae69c1c9eecb17ff73597b72292ba3f9706a9018dd62569e90cac50c73bf8c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a6962354b474155684975536177323561356e37565a4563556c77614e66344c4441445a5769637269634c4f3554517842476432337356706f51512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1dae69c1c9eecb17ff73597b72292ba3f9706a9018dd62569e90cac50c73bf8c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a6962354b474155684975536177323561356e37565a4563556c77614e66344c4441445a5769637269634c4f3554517842476432337356706f51512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjib5KGAUhIuSaw25a5n7VZEcUlwaNf4LDADZWicricLO5TQxBGd23sVpoQQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>评论系统添加</h2>
+<p>第三方评论系统我这里使用的是Gitalk ，Gitalk 是一个基于 GitHub Issue 和 Preact 开发的<code class="notranslate">评论插件</code>。使用GitHub登陆，能支持多国语言，至于他的原理，其他博主有介绍。这里就不展开了，如果有时间以后可能会整体介绍一下常用的第三方评论系统，因为我还是希望评论能支持多种方式登陆的，目前没有找到合适的就先选择Gitalk。</p>
+<ul>
+<li>
+<h4>注册应用账号</h4>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/876935df8a32d322700fa9f31a96f7292f064d82d1a2e9ea40efe87569292287/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a6962346a4575337a584c68376a50734f62736d7774584d4e57615359747238495765696345303269635330355436546376785474705a764253512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/876935df8a32d322700fa9f31a96f7292f064d82d1a2e9ea40efe87569292287/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a6962346a4575337a584c68376a50734f62736d7774584d4e57615359747238495765696345303269635330355436546376785474705a764253512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjib4jEu3zXLh7jPsObsmwtXMNWaSYtr8IWeicE02icS05T6TcvxTtpZvBSQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h4>获取参数</h4>
+</li>
+</ul>
+<p>注册成功后拿到 “Client ID” 和 “Client secrets”（点击生成再复制），其中注意的是Homepage URL 要设置为 用户名.github.io精确到https的地址。Authorization callback URL 填写注册的域名，如果绑定了个性化域名就填自己的域名，也是要精确到https的位置。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/06ac0bab4e2e62cec720f0c08e905818aa5600e7ffccab66e491b7c11abf8e01/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69626b58554148363241706e69615552485572324c353839626866726f71594b4965336535666e31424d706c384153576c6961673042517749412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/06ac0bab4e2e62cec720f0c08e905818aa5600e7ffccab66e491b7c11abf8e01/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69626b58554148363241706e69615552485572324c353839626866726f71594b4965336535666e31424d706c384153576c6961673042517749412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibkXUAH62ApniaURHUr2L589bhfroqYKIe3e5fn1BMpl8ASWliag0BQwIA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h4>修改Butterfly配置</h4>
+</li>
+</ul>
+<p>打开butterfly主题的配置文件，第一个找到 “gitalk” 项，将上面复制的client id 和 client secrets粘贴。</p>
+<p>第二个找到 “comments”，将use配置为 "gitalk"，当然也可以用valine、Disqus之类的第三方评论系统。</p>
+<div class="highlight highlight-source-sql"><pre class="notranslate">comments:
+use: <span class="pl-c"><span class="pl-c">#</span> 使用的第三方评论系统名称</span>
+<span class="pl-k">text</span>: true <span class="pl-c"><span class="pl-c">#</span> 是否在按钮旁显示评论名称</span>
+<span class="pl-c"><span class="pl-c">#</span> If you set it to true, the comment count will be invalid</span>
+lazyload: false <span class="pl-c"><span class="pl-c">#</span> 是否设置评论窗为懒加载</span>
+count: true <span class="pl-c"><span class="pl-c">#</span> 是否设置评论数统计</span>
+card_post_count: true <span class="pl-c"><span class="pl-c">#</span> 是否将评论数显示到首页</span>
+
+gitalk:
+client_id: <span class="pl-c"><span class="pl-c">#</span> github应用ID</span>
+client_secret: <span class="pl-c"><span class="pl-c">#</span> github应用密钥</span>
+repo: 用户名.<span class="pl-c1">github</span>.<span class="pl-c1">io</span>
+owner: 用户名
+admin: 用户名</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8fe4fe78d1cb3f877fc0ff3a6812cbdbc1a0af9162e2a458dbe2ae9e551cda8b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a6962655456526b4c314d4569637847795a476962373035646b7a5146676c7874554252546443556d6963794264665159676b50315969616e6962684b772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8fe4fe78d1cb3f877fc0ff3a6812cbdbc1a0af9162e2a458dbe2ae9e551cda8b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a6962655456526b4c314d4569637847795a476962373035646b7a5146676c7874554252546443556d6963794264665159676b50315969616e6962684b772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibeTVRkL1MEicxGyZGib705dkzQFglxtUBRTdCUmicyBdfQYgkP1YianibhKw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h4>博客仓库设置</h4>
+</li>
+</ul>
+<p>进入仓库，点击 “Settings”，找到 “Features”， 将 “Issues” 勾选。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a3c1ce33487d29cfda570c6d356491ccf94e1322d63f77d861892afdad9d279b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69626b69636e6e6b45786549595579345a696266584132436b4c683153764e38674e3830726842646963726e5a63453756666630444c7543676a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a3c1ce33487d29cfda570c6d356491ccf94e1322d63f77d861892afdad9d279b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69626b69636e6e6b45786549595579345a696266584132436b4c683153764e38674e3830726842646963726e5a63453756666630444c7543676a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibkicnnkExeIYUy4ZibfXA2CkLh1SvN8gN80rhBdicrnZcE7Vff0DLuCgjw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>文章置顶功能添加</h2>
+<p>打开hexo配置文件 _config.yml，如果前面有per_page的关闭，使用的是hexo-generator-index插件排序，可以自定义序号和日期排序。</p>
+<p>如何要置顶文章，只需在文章md的front-matter里添加一个top参数，数值自定。文章列表会出现一个钉子图标，要看到效果则要hexo先清理再生成。</p>
+<ul>
+<li>
+<h4>添加配置</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-makefile"><pre class="notranslate"><span class="pl-en">index_generator</span>:
+<span class="pl-en">path</span>: ''
+<span class="pl-en">per_page</span>: 5 <span class="pl-c"><span class="pl-c">#</span> 每页条数</span>
+<span class="pl-en">order_by</span>:  
+  <span class="pl-en">top</span>: -1   <span class="pl-c"><span class="pl-c">#</span> 置顶：-1.倒序 1.顺序</span>
+  <span class="pl-en">date</span>: -1   <span class="pl-c"><span class="pl-c">#</span> 日期：-1.倒序 1.顺序</span></pre></div>
+<ul>
+<li>
+<h4>md文章设置</h4>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f953c960f0bde02eb9eed1178293f009af3b3f2b32854e399b2e82d0b41b31bb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69626e4e38696369617170596e5355633865664d674458414e61764e4567545841586f71454c6e68653339575859535842614c674f556d5a57672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f953c960f0bde02eb9eed1178293f009af3b3f2b32854e399b2e82d0b41b31bb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69626e4e38696369617170596e5355633865664d674458414e61764e4567545841586f71454c6e68653339575859535842614c674f556d5a57672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibnN8iciaqpYnSUc8efMgDXANavNEgTXAXoqELnhe39WXYSXBaLgOUmZWg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h4>清理与生成</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-nginx"><pre class="notranslate">hexo clean &amp;&amp; hexo g</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3c63d42584934186c99fa0338e2c3a6adf53687c6776c9533259e6c4d3736972/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a696269624a4f534769615a3834506e394734567375624d6e46307933704673304a48774f56646d4850626259696355634c764754356745736a51512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3c63d42584934186c99fa0338e2c3a6adf53687c6776c9533259e6c4d3736972/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a696269624a4f534769615a3834506e394734567375624d6e46307933704673304a48774f56646d4850626259696355634c764754356745736a51512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibibJOSGiaZ84Pn9G4VsubMnF0y3pFs0JHwOVdmHPbbYicUcLvGT5gEsjQQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>RSS配置</h2>
+<p>对于RSS输出功能，需要安装 hexo-generator-feed 插件。最后使用hexo清理再生成，博客根目录就会生成atom.xml</p>
+<ul>
+<li>
+<h4>插件安装</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-sql"><pre class="notranslate">npm install hexo<span class="pl-k">-</span>generator<span class="pl-k">-</span>feed <span class="pl-c"><span class="pl-c">--</span>save</span></pre></div>
+<ul>
+<li>
+<h4>添加配置</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-makefile"><pre class="notranslate"><span class="pl-en">feed</span>:
+<span class="pl-en">type</span>: atom
+<span class="pl-en">path</span>: atom.xml
+<span class="pl-en">limit</span>: 20</pre></div>
+<ul>
+<li>
+<h4>设置RSS地址</h4>
+</li>
+</ul>
+<div class="highlight highlight-source-httpspec"><pre class="notranslate"><span class="pl-s"><span class="pl-v">rss:</span> /atom.xml</span></pre></div>
+<h2>设置404页面</h2>
+<p>在hexo的_config.yml找到或添加error_404，设置开启，分别添加标题和背景图。</p>
+<div class="highlight highlight-source-makefile"><pre class="notranslate"><span class="pl-en">error_404</span>:
+<span class="pl-en">enable</span>: true
+<span class="pl-en">subtitle</span>: 'Page Not Found'
+<span class="pl-en">background</span>: /img/404.jpg</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad8e621a8a384c74793354430b7c50360522bad84ec98bc62a48cac9807f9782/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69624f476571534455796478787745593842744d686c356d38677637357a55786246664f705048506f476962534e577663546f4e3053446e412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ad8e621a8a384c74793354430b7c50360522bad84ec98bc62a48cac9807f9782/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69624f476571534455796478787745593842744d686c356d38677637357a55786246664f705048506f476962534e577663546f4e3053446e412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibOGeqSDUydxxwEY8BtMhl5m8gv75zUxbFfOpPHPoGibSNWvcToN0SDnA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>添加百度统计</h2>
+<p>先登陆或注册百度统计平台，找到 “使用设置” -&gt; “代码获取” -&gt; “新版统计代码获取”，然后会看到一段js代码，只需要复制如下的一个32位长度的字符串。最后将该字符串粘贴到butterfly的config.yml中的baidu_analytics中，部署后一天就可以在后台查看统计报表了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9482c2d8aba6c69ad92954d5beb6b78b236c16fde0db94b631f5f2673055e010/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69626a626b48327748393931574361383639444b6961504179574f5341516e6442356c6963327874784d4f583444696332454657706766503156772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9482c2d8aba6c69ad92954d5beb6b78b236c16fde0db94b631f5f2673055e010/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69626a626b48327748393931574361383639444b6961504179574f5341516e6442356c6963327874784d4f583444696332454657706766503156772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibjbkH2wH991WCa869DKiaPAyWOSAQndB5lic2xtxMOX4Dic2EFWpgfP1Vw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>MarketDown用法</h2>
+<p>关于新建的文章，我希望本地能备份一份，有md文件和图片，方便上传到其他平台博客。那要怎么做呢，这里我用一个免费的md工具——Typora为例。</p>
+<ul>
+<li>
+<h4>创建文件和文件夹</h4>
+</li>
+</ul>
+<p>创建一个以文章标题的文件夹，里面再分别创建一img文件夹和同文章标题的md文件，img下再创建一个与文章标题同名的文件夹。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/31e6d15c6db50ff40e53b1a969b5771653c2e97add3821cc39dce8a6e3f7685e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a696269636962534664696139335a4c69613752776169626c54736252763473686251586a5058434e6f7843745a7463626b685a314e507469616d544242772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/31e6d15c6db50ff40e53b1a969b5771653c2e97add3821cc39dce8a6e3f7685e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a696269636962534664696139335a4c69613752776169626c54736252763473686251586a5058434e6f7843745a7463626b685a314e507469616d544242772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibicibSFdia93ZLia7RwaiblTsbRv4shbQXjPXCNoxCtZtcbkhZ1NPtiamTBBw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>
+<h4>Typora设置</h4>
+</li>
+</ul>
+<p>依次找到 “文件” -&gt; “偏好设置” -&gt; "图像" , 将插入图片时的下拉选中 “复制到指定路径”，填入下面的值。</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">./img/<span class="pl-smi">${filename}</span>/</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26e8c9820806656eb58a63f510f13a709fc44bc2ea633379383644f6b67cfa43/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69624a364f745631715039784c6962754b70316c717447726141564b766f475957784873306f34626961696231317a45416d7646336b52396241412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/26e8c9820806656eb58a63f510f13a709fc44bc2ea633379383644f6b67cfa43/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69624a364f745631715039784c6962754b70316c717447726141564b766f475957784873306f34626961696231317a45416d7646336b52396241412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibJ6OtV1qP9xLibuKp1lqtGraAVKvoGYWxHs0o4biaib11zEAmvF3kR9bAA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>第二步找到 “格式” -&gt; "图像" -&gt; “设置图片根目录”，选择markdown文件同级的目录，最后复制图片时就会复制到img下的文章同名目录下。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bdd745b0e640b2b899ec108bb30507422e4c7fe3bab1245cd64c1076ae3f2d6a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69627447304c696175656e4171786963364d696365344e6b496d6c61733249736b386837704c336d344644436b453862414a7247433439786f64672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bdd745b0e640b2b899ec108bb30507422e4c7fe3bab1245cd64c1076ae3f2d6a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a69627447304c696175656e4171786963364d696365344e6b496d6c61733249736b386837704c336d344644436b453862414a7247433439786f64672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibtG0LiauenAqxic6Mice4NkImlas2Isk8h7pL3m4FDCkE8bAJrGC49xodg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>为什么要这样设置？因为Hexo的图片在打包前都是在主题包/source/img里，而为了方便本地能按文章存储，也方便将本地的文章图片直接丢到img下，然后md文件放到_post中。打包之后就能以仓库图片展示，而且按文章分类存储，以后删除起来也一目了然。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/74df1becd7f2f916615f8c65cda07bc7dd6071366a553d6574667ca08ddb7712/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a6962514a355961665352485673534c6338394b394a7a6433503051514e705547727652536a306e4d3047536e6b754e4143636a73455239672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/74df1becd7f2f916615f8c65cda07bc7dd6071366a553d6574667ca08ddb7712/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c4559776c74644351384c327a6651353269635971716a6962514a355961665352485673534c6338394b394a7a6433503051514e705547727652536a306e4d3047536e6b754e4143636a73455239672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LEYwltdCQ8L2zfQ52icYqqjibQJ5YafSRHVsSLc89K9Jzd3P0QQNpUGrvRSj0nM0GSnkuNACcjsER9g/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>写在最后</h2>
+<p>这次的优化看起来好像是面面俱到了，但其实关于Hexo主题还有更细节的处理。比如可以添加博客看板精灵，酷炫的动态大背景，还有鼠标跟随或点击特效等等。</p>
+<p>但是目前我这博客定位以内容为主，所以暂时就不演示了，当然，如果有用户喜欢也可以马上加上去的。</p>
+<p>最后呢，就是三部曲的第二篇结束了，下次就进入Hexo章最后一篇。现在是计划介绍一下怎么让博客被各大搜索引擎收录，以及一些推广心得等等。</p>
+<p>具体的更新时间也还不知道，因为在等我那个小游戏的软著下来，下来后我一定要好好写一篇软著申请避坑的文章，可实在是太难等了！</p>
+<p>（<strong>我是一个持续摸索个人副业的普通程序员，关注我，和你一起探索更多可能。——ZERO开发</strong>）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/oneRjXnW5LGicNoMAdG2dAwnjwNTribzbVXOFf3GaN3UOJoIAiaNH2dG80QKUsgiaLYaGb03UHSZMBJeOWI6wH5OIA/640?wx_fmt=gif" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

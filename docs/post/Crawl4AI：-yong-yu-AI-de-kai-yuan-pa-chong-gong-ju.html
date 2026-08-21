@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="_关注 **AI 技能**，开启智能生活！__![](https://mmbiz.qpic.cn/mmbiz_png/b96CibCt70iaajvl7fD4ZCicMcjhXMp1v6UibM134tIsO1j5yqHyNhh9arj090oAL7zGhRJRq6cFqFOlDZMleLl4pw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+_
+
+pCrawl4AI v0.2.0 🕷️🤖
+
+项目概述
+----
+
+*   **背景**：在信息化时代，网络数据的采集和处理变得尤为重要。">
+<meta property="og:title" content="Crawl4AI：用于AI的开源爬虫工具">
+<meta property="og:description" content="_关注 **AI 技能**，开启智能生活！__![](https://mmbiz.qpic.cn/mmbiz_png/b96CibCt70iaajvl7fD4ZCicMcjhXMp1v6UibM134tIsO1j5yqHyNhh9arj090oAL7zGhRJRq6cFqFOlDZMleLl4pw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+_
+
+pCrawl4AI v0.2.0 🕷️🤖
+
+项目概述
+----
+
+*   **背景**：在信息化时代，网络数据的采集和处理变得尤为重要。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Crawl4AI%EF%BC%9A-yong-yu-AI-de-kai-yuan-pa-chong-gong-ju.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Crawl4AI：用于AI的开源爬虫工具</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Crawl4AI：用于AI的开源爬虫工具</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/586" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>_关注 <strong>AI 技能</strong>，开启智能生活！__<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/abd4c658d36e32307b88541a5a67d04d0d117d7a4ce0574e7b599d62e8c1ace7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f623936436962437437306961616a766c376644345a4369634d636a68584d703176365569624d3133347449734f316a35797148794e68683961726a3039306f414c377a4768524a527136634671464f6c445a4d6c654c6c3470772f3634303f77785f666d743d706e6726777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/abd4c658d36e32307b88541a5a67d04d0d117d7a4ce0574e7b599d62e8c1ace7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f623936436962437437306961616a766c376644345a4369634d636a68584d703176365569624d3133347449734f316a35797148794e68683961726a3039306f414c377a4768524a527136634671464f6c445a4d6c654c6c3470772f3634303f77785f666d743d706e6726777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/b96CibCt70iaajvl7fD4ZCicMcjhXMp1v6UibM134tIsO1j5yqHyNhh9arj090oAL7zGhRJRq6cFqFOlDZMleLl4pw/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a><br>
+_</p>
+<p>pCrawl4AI v0.2.0 🕷️🤖</p>
+<h2>项目概述</h2>
+<ul>
+<li>
+<p><strong>背景</strong>：在信息化时代，网络数据的采集和处理变得尤为重要。Crawl4AI 应运而生，旨在简化网页爬取过程，并从中提取有用信息，使其易于供大型语言模型（LLMs）和其他AI应用使用。</p>
+</li>
+<li>
+<p><strong>目标</strong>：本项目的主要目标是提高网络爬虫的效率和效果，实现高效率、高质量的数据提取，并支持多种数据处理策略。</p>
+</li>
+<li>
+<p><strong>项目简介</strong>：Crawl4AI 能够将语义标记的数据块提取成 JSON 格式，提供干净的 HTML 和 Markdown 文件，这些都是为了支持检索增强生成（RAG）、模型微调以及 AI 聊天机器人的开发而设计。通过其强大的爬取功能和对多 URL 的支持，Crawl4AI 可以轻松地集成为库或服务器，并提供 Docker 容器来简化设置流程。</p>
+</li>
+<li>
+<p><strong>主要功能</strong>：</p>
+</li>
+<li>
+<p><strong>高效的网页爬取</strong>：支持同时对多个URL进行爬取，快速提取数据。</p>
+</li>
+<li>
+<p><strong>执行自定义JavaScript</strong>：在爬取前执行JS脚本，如点击加载更多按钮。</p>
+</li>
+<li>
+<p><strong>支持多种内容提取策略</strong>：包括基于主题、正则表达式、句子等的分块策略；余弦聚类、LLM等提取策略。</p>
+</li>
+<li>
+<p><strong>CSS选择器支持</strong>：可指定CSS选择器来提取特定内容。</p>
+</li>
+<li>
+<p><strong>传递指令/关键词以细化提取</strong>：允许用户定义特定指令或关键词优化内容提取结果。</p>
+</li>
+<li>
+<p><strong>数据格式化输出</strong>：将提取的数据块转换成 JSON，提供清洁的 HTML 和 Markdown 文件，方便进一步处理和使用。</p>
+</li>
+<li>
+<p><strong>替换媒体标签</strong>：在抓取的内容中用 ALT 文本替换图像等媒体标签，以提升内容的可访问性和解析度。</p>
+</li>
+<li>
+<p><strong>特点</strong>：</p>
+</li>
+</ul>
+<ol>
+<li>
+<p><strong>高效且提取有价值的数据</strong>：Crawl4AI设计用于快速而有效地提取网页中的关键信息。</p>
+</li>
+<li>
+<p><strong>适合LLM的输出格式</strong>：支持JSON、清理后的 HTML 和 Markdown等格式，适合语言模型和其他 AI 应用。</p>
+</li>
+<li>
+<p><strong>支持同时多个 URL</strong>：能够处理多个网址的数据抓取，大幅提高工作效率。</p>
+</li>
+<li>
+<p><strong>用 ALT 替换媒体标签</strong>：增强了对非文本内容的处理，使得最终的数据更加完整和有用。</p>
+</li>
+</ol>
+<h2>安装与配置</h2>
+<h3>开始 🚀</h3>
+<p>要开始使用 Crawl4AI，只需访问我们的 Web 应用程序 crawl4ai.uccode.io（即将准备就绪）并输入您要抓取的 URL。该应用程序将处理 URL 并为您提供各种格式的提取数据。</p>
+<h3>安装 💻</h3>
+<p>有两种方法可以使用 Crawl4AI：作为 Python 项目中的库或作为独立的本地服务器。</p>
+<h4>使用 Crawl4AI 作为库 📚</h4>
+<p>若要将 Crawl4AI 安装为库，请按照下列步骤操作：</p>
+<ol>
+<li>从 GitHub 安装包：</li>
+</ol>
+<pre class="notranslate"><code class="notranslate">pip install git+https://github.com/unclecode/crawl4ai.git
+</code></pre>
+<p>或者，您可以克隆存储库并在本地安装软件包：</p>
+<pre class="notranslate"><code class="notranslate">virtualenv venvsource venv/bin/activategit clone https://github.com/unclecode/crawl4ai.gitcd crawl4aipip install -e .
+</code></pre>
+<ol start="2">
+<li>在 Python 脚本中导入必要的模块：</li>
+</ol>
+<pre class="notranslate"><code class="notranslate">from crawl4ai.web_crawler import WebCrawlerfrom crawl4ai.models import UrlModelimport os
+</code></pre>
+<ol start="3">
+<li>创建 WebCrawler 实例并指定数据库路径：</li>
+</ol>
+<pre class="notranslate"><code class="notranslate">crawler = WebCrawler(db_path='crawler_data.db')
+</code></pre>
+<ol start="4">
+<li>执行单页爬取或多页爬取，并传递相应的参数：</li>
+</ol>
+<pre class="notranslate"><code class="notranslate"># 单页爬取single_url = UrlModel(url='https://kidocode.com', forced=False)result = crawl4ai.fetch_page(    single_url,     provider= "openai/gpt-3.5-turbo",     api_token = os.getenv('OPENAI_API_KEY'),     extract_blocks_flag=True,    word_count_threshold=5 # 最小字数阈值，用于判断 HTML 标签是否为值得提取的块)# 多页爬取urls = [    UrlModel(url='http://example.com', forced=False),    UrlModel(url='http://example.org', forced=False)]results = crawl4ai.fetch_pages(    urls,     provider= "openai/gpt-3.5-turbo",     api_token = os.getenv('OPENAI_API_KEY'),     extract_blocks_flag=True,     word_count_threshold=5)for res in results:    print(res.model_dump())
+</code></pre>
+<p>首次运行将下载适用于 Selenium 的 Chrome 驱动程序，并在当前目录中创建一个 SQLite 数据库文件 <code class="notranslate">crawler_data.db</code> 以存储已爬网数据。</p>
+<h4>将 Crawl4AI 作为本地服务器🚀运行</h4>
+<p>若要将 Crawl4AI 作为独立的本地服务器运行，请按照下列步骤操作：</p>
+<ol>
+<li>克隆存储库：</li>
+</ol>
+<pre class="notranslate"><code class="notranslate">git clone https://github.com/unclecode/crawl4ai.git
+</code></pre>
+<ol start="2">
+<li>导航到项目目录：</li>
+</ol>
+<pre class="notranslate"><code class="notranslate">cd crawl4ai
+</code></pre>
+<ol start="3">
+<li>
+<p>打开 <code class="notranslate">crawler/config.py</code> 并设置您喜欢的 LLM 提供程序和 API 令牌。</p>
+</li>
+<li>
+<p>构建 Docker 镜像：</p>
+</li>
+</ol>
+<pre class="notranslate"><code class="notranslate">docker build -t crawl4ai .
+</code></pre>
+<p>对于 Mac 用户，请改用以下命令：</p>
+<pre class="notranslate"><code class="notranslate">docker build --platform linux/amd64 -t crawl4ai .
+</code></pre>
+<ol start="5">
+<li>运行 Docker 容器：</li>
+</ol>
+<pre class="notranslate"><code class="notranslate">docker run -d -p 8000:80 crawl4ai
+</code></pre>
+<ol start="6">
+<li>访问应用程序 <a href="http://localhost:8000%E3%80%82" rel="nofollow">http://localhost:8000。</a></li>
+</ol>
+<p>此代码向 localhost 上运行的 Crawl4AI 服务器发送 POST 请求，指定目标 URL （ <a href="https://example.com" rel="nofollow">https://example.com</a> ） 和所需的选项 （ groq_api_token ， include_raw_html ， 和 forced ）。服务器处理请求并以 JSON 格式返回已爬网数据。</p>
+<p>选择最适合您需求的方法。如果您想将 Crawl4AI 集成到您现有的 Python 项目中，请将其安装为库。如果您希望将 Crawl4AI 作为独立服务运行并通过 API 端点与之交互，建议使用 Docker 将其作为本地服务器运行。</p>
+<p>请务必检查以设置所需的环境变量 <code class="notranslate">config.py</code>。</p>
+<h3>配置说明</h3>
+<ul>
+<li>
+<p>配置文件通常位于项目根目录下的 <code class="notranslate">config.json</code>，可配置项包括API端点、日志级别等。</p>
+</li>
+<li>
+<p>环境变量如 <code class="notranslate">OPENAI_API_KEY</code> 需在系统环境中设置以使用特定的服务。</p>
+</li>
+</ul>
+<h2>使用指南</h2>
+<h3>基本使用</h3>
+<ul>
+<li>
+<p><strong>启动爬虫</strong>：</p>
+<pre class="notranslate"><code class="notranslate">from crawl4ai import WebCrawlercrawler = WebCrawler()result = crawler.run(url="https://www.example.com")
+</code></pre>
+</li>
+<li>
+<p><strong>停止和监控项目</strong>：使用命令行工具或日志文件来监控爬虫的运行状态和性能。</p>
+</li>
+</ul>
+<h3>示例代码</h3>
+<ul>
+<li>
+<p><strong>执行自定义JavaScript并提取内容</strong>：</p>
+<pre class="notranslate"><code class="notranslate">from crawl4ai import WebCrawler, LocalSeleniumCrawlerStrategyjs_code = "document.querySelector('button.load-more').click();"strategy = LocalSeleniumCrawlerStrategy(js_code=js_code)crawler = WebCrawler(strategy=strategy)result = crawler.run(url="https://www.example.com")
+</code></pre>
+</li>
+</ul>
+<h3>常见问题</h3>
+<ul>
+<li>
+<p><strong>Q: 如何处理爬虫在特定网站上的反爬措施？</strong></p>
+</li>
+<li>
+<p><strong>A</strong>: 使用自定义用户代理或IP代理池，以及适当的访问频率控制。</p>
+</li>
+</ul>
+<h2>文档与资源</h2>
+<h3>API文档</h3>
+<ul>
+<li>访问 Crawl4AI API 文档 了解每个API的详细描述和用法。</li>
+</ul>
+<h3>参考资源</h3>
+<ul>
+<li>
+<p>Crawl4AI GitHub 仓库</p>
+</li>
+<li>
+<p>Python 网络爬虫教程</p>
+</li>
+</ul>
+<h2>授权协议</h2>
+<ul>
+<li>本项目采用 Apache 2.0 License。点击查看完整的许可证文本。</li>
+</ul>
+<blockquote>
+<p>注：本文内容仅供参考，具体项目特性请参照官方 GitHub 页面的最新说明。</p>
+<p><a href="https://github.com/unclecode/crawl4ai">https://github.com/unclecode/crawl4ai</a></p>
+</blockquote>
+<p>如喜欢本文，请点击右上角，把文章分享到朋友圈<br>
+如有想了解学习的技术点，请留言给若飞安排分享</p>
+<p><strong>·END·</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25dcdb0b63d4565f97d05e7832db99cf14d6ef794082960037c04d78d911bb30/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6454786b6d715136537a6e696378647078554b62424c6f4a7a536c70764e66796665476e38504942315778356b536268454345436e6962447745596651726b79796a516962536f317a4d555835734a6f344b7a636962463947512f3634303f77785f666d743d67696626777866726f6d3d352677785f6c617a793d31"><img src="https://camo.githubusercontent.com/25dcdb0b63d4565f97d05e7832db99cf14d6ef794082960037c04d78d911bb30/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6454786b6d715136537a6e696378647078554b62424c6f4a7a536c70764e66796665476e38504942315778356b536268454345436e6962447745596651726b79796a516962536f317a4d555835734a6f344b7a636962463947512f3634303f77785f666d743d67696626777866726f6d3d352677785f6c617a793d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/dTxkmqQ6SznicxdpxUKbBLoJzSlpvNfyfeGn8PIB1Wx5kSbhECECnibDwEYfQrkyyjQibSo1zMUX5sJo4KzcibF9GQ/640?wx_fmt=gif&amp;wxfrom=5&amp;wx_lazy=1" style="max-width: 100%;"></a></p>
+<p><strong>因公众号更改推送规则，请点“在看”并加“星标”第一时间获取精彩技术分享</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb7b0e4b481a0326fd933198c7bd541441cc6a0a307118039e8e3e58cdfba311/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f717a5144704748587065536a707234594271363858454b4c596b576962544d6b44767164356744384730397370547158444e533142474369634f67506747304854797632486962356d78756d6d334c507a5169634350586130672f3634303f77785f666d743d6a70656726777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/eb7b0e4b481a0326fd933198c7bd541441cc6a0a307118039e8e3e58cdfba311/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f717a5144704748587065536a707234594271363858454b4c596b576962544d6b44767164356744384730397370547158444e533142474369634f67506747304854797632486962356d78756d6d334c507a5169634350586130672f3634303f77785f666d743d6a70656726777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/qzQDpGHXpeSjpr4YBq68XEKLYkWibTMkDvqd5gD8G09spTqXDNS1BGCicOgPgG0HTyv2Hib5mxumm3LPzQicCPXa0g/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a></p>
+<p>进ChatGPT群请加若飞，暗号 “gpt”</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

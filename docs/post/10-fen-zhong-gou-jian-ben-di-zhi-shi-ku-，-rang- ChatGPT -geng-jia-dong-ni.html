@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> 大家好，我是知白。">
+<meta property="og:title" content="10分钟构建本地知识库，让 ChatGPT 更加懂你">
+<meta property="og:description" content="> 大家好，我是知白。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/10-fen-zhong-gou-jian-ben-di-zhi-shi-ku-%EF%BC%8C-rang-%20ChatGPT%20-geng-jia-dong-ni.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>10分钟构建本地知识库，让 ChatGPT 更加懂你</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">10分钟构建本地知识库，让 ChatGPT 更加懂你</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/325" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>大家好，我是知白。一个专注于输出 AI+ 编程内容的大厂资深程序员，全国最大付费社群 AI 破局初创合伙人，关注我一起进步。</p>
+</blockquote>
+<p>本文将从零开始构建本地知识库，从而辅助 ChatGPT 基于知识库内容生成回答。</p>
+<p>对向量检索相关内容可以查看之前的文章：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU2NTg3MjMwMg==&amp;mid=2247484416&amp;idx=1&amp;sn=c68bbf7f25662e027314be9366266f72&amp;chksm=fcb457c1cbc3ded7f2b27a13070ff9e16901bf52177f1b92a8a85a6f01e982fc57fced9a8cc6&amp;scene=21#wechat_redirect" rel="nofollow">初识 Embedding，为何大家都基于它搭建私人智能客服？</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU2NTg3MjMwMg==&amp;mid=2247484447&amp;idx=1&amp;sn=027a96036ba3aa6831a4794cf767c8db&amp;chksm=fcb457decbc3dec8b21437ead66fbb1c7ea89530ae3e05e93fcff67587bcb53b62601e3cdf82&amp;scene=21#wechat_redirect" rel="nofollow">搭建 Embedding 向量数据库，手把手教你创造自己的私人智能助理</a></p>
+<p>这里再重复下部分核心观点：</p>
+<ol>
+<li>
+<p>向量：将人类的语言（文字、图片、视频等）转换为计算机可识别的语言（数组）。</p>
+</li>
+<li>
+<p>向量相似度：计算两个向量之间的相似度，表示两种语言的相似程度。</p>
+</li>
+<li>
+<p>语言大模型的特性：上下文理解、总结和推理。</p>
+</li>
+</ol>
+<p>这三个概念结合起来，就构成了 "向量搜索 + 大模型 = 知识库问答" 的公式。</p>
+<h2>1.介绍</h2>
+<p><strong>FastGPT 是目前 Prompt 串接做的最好的项目</strong>，知识库核心流程图如下:</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe767579cbfe235e7e30254acdd6c0d8b0780eb2d4c21932761a31091a52156e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a6c62544542597a714b5a324936327934554a66524d336c34314166396c4d4e52467a464b334f424677474a7a7844696249497069625252672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fe767579cbfe235e7e30254acdd6c0d8b0780eb2d4c21932761a31091a52156e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a6c62544542597a714b5a324936327934554a66524d336c34314166396c4d4e52467a464b334f424677474a7a7844696249497069625252672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwjlbTEBYzqKZ2I62y4UJfRM3l41Af9lMNRFzFK3OBFwGJzxDibIIpibRRg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>从官方简介也可以看出很牛逼：</p>
+<blockquote>
+<p><strong>FastGPT 是一个基于 LLM 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的问答场景！</strong></p>
+</blockquote>
+<p>FastGPT 官网地址：<a href="https://doc.fastgpt.in/docs/intro/" rel="nofollow">https://doc.fastgpt.in/docs/intro/</a></p>
+<p>FastGPT 在线体验：<a href="https://fastgpt.run" rel="nofollow">https://fastgpt.run</a></p>
+<h2>2. 安装 Docker</h2>
+<p>话不多说直接开干，首选需要我们安装 Docker 应用，这里以 Windows 安装为例（其他系统可自行百度解决）。</p>
+<p>Docker 官网 ：<a href="https://www.docker.com/get-started/" rel="nofollow">https://www.docker.com/get-started/</a></p>
+<p>进入官网双击下载的 Docker for Windows Installer 安装文件，一路 Next，点击 Finish 完成安装。</p>
+<p>安装完成后，Docker 会自动启动。通知栏上会出现个小鲸鱼的图标，这表示 Docker 正在运行。</p>
+<p>我装的 docker-desktop 自带了 docker-compose，如果未安装可以去官网进行下载。</p>
+<p>Docker-Compose 官网：<a href="https://docs.docker.com/desktop/install/windows-install/" rel="nofollow">https://docs.docker.com/desktop/install/windows-install/</a></p>
+<p>安装 Docker 还是比较简单，如果遇到大家可直接百度解决，网上这类文章很多。</p>
+<h2>3. 配置文件</h2>
+<p>先创建一个文件夹</p>
+<p>`# 创建文件夹<br>
+mkdir fastgpt</p>
+<p># 进入文件夹<br>
+cd fastgpt</p>
+<p>`</p>
+<p>创建 config.json，内容如下：</p>
+<pre class="notranslate"><code class="notranslate">{  "FeConfig": {    "show_emptyChat": false,    "show_contact": false,    "show_git": false,    "show_doc": true,    "systemTitle": "个人知识库",    "limit": {      "exportLimitMinutes": 0    },    "scripts": []  },  "SystemParams": {    "vectorMaxProcess": 15,    "qaMaxProcess": 15,    "pgIvfflatProbe": 20  },  "ChatModels": [    {      "model": "gpt-3.5-turbo",      "name": "GPT35-4k",      "contextMaxToken": 4000,      "quoteMaxToken": 2000,      "maxTemperature": 1.2,      "price": 0,      "defaultSystem": ""    },    {      "model": "gpt-3.5-turbo-16k",      "name": "GPT35-16k",      "contextMaxToken": 16000,      "quoteMaxToken": 8000,      "maxTemperature": 1.2,      "price": 0,      "defaultSystem": ""    },    {      "model": "gpt-4",      "name": "GPT4-8k",      "contextMaxToken": 8000,      "quoteMaxToken": 4000,      "maxTemperature": 1.2,      "price": 0,      "defaultSystem": ""    }  ],  "VectorModels": [    {      "model": "text-embedding-ada-002",      "name": "Embedding-2",      "price": 0,      "defaultToken": 500,      "maxToken": 3000    }  ],  "QAModel": {    "model": "gpt-3.5-turbo-16k",    "name": "GPT35-16k",    "maxToken": 16000,    "price": 0  },  "ExtractModel": {    "model": "gpt-3.5-turbo-16k",    "functionCall": true,    "name": "GPT35-16k",    "maxToken": 16000,    "price": 0,    "prompt": ""  },  "CQModel": {    "model": "gpt-3.5-turbo-16k",    "functionCall": true,    "name": "GPT35-16k",    "maxToken": 16000,    "price": 0,    "prompt": ""  },  "QGModel": {    "model": "gpt-3.5-turbo",    "name": "GPT35-4k",    "maxToken": 4000,    "price": 0,    "prompt": "",    "functionCall": false  }}
+</code></pre>
+<p>再创建 docker-compose.yml 文件，内容如下：</p>
+<p>`# 非 host 版本, 不使用本机代理<br>
+version: '3.3'</p>
+<p>services:<br>
+  pg:<br>
+    # 使用阿里云的 pgvector 镜像<br>
+    image: registry.cn-hangzhou.aliyuncs.com/fastgpt/pgvector:v0.4.2<br>
+    container_name: pg<br>
+    restart: always<br>
+    # 生产环境建议不要暴露端口<br>
+    ports:<br>
+      - "5432:5432"<br>
+    networks:<br>
+      - fastgpt<br>
+    # 环境变量配置，首次运行生效，修改后需删除持久化数据再重启<br>
+    environment:<br>
+      - POSTGRES_USER=username<br>
+      - POSTGRES_PASSWORD=password<br>
+      - POSTGRES_DB=fastgpt<br>
+    # 卷挂载，包括初始化脚本和数据持久化<br>
+    volumes:<br>
+      - ./pg/init.sql:/docker-entrypoint-initdb.d/init.sh<br>
+      - ./pg/data:/var/lib/postgresql/data</p>
+<p>  mongo:<br>
+    # 使用阿里云的 mongo 镜像<br>
+    image: registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18<br>
+    container_name: mongo<br>
+    restart: always<br>
+    # 生产环境建议不要暴露端口<br>
+    ports:<br>
+      - "27017:27017"<br>
+    networks:<br>
+      - fastgpt<br>
+    # 环境变量配置，首次运行生效，修改后需删除持久化数据再重启<br>
+    environment:<br>
+      - MONGO_INITDB_ROOT_USERNAME=username<br>
+      - MONGO_INITDB_ROOT_PASSWORD=password<br>
+    # 卷挂载，包括数据和日志<br>
+    volumes:<br>
+      - ./mongo/data:/data/db<br>
+      - ./mongo/logs:/var/log/mongodb</p>
+<p>  fastgpt:<br>
+    container_name: fastgpt<br>
+    # 使用阿里云的 fastgpt 镜像<br>
+    image: registry.cn-hangzhou.aliyuncs.com/david_wang/fastgpt:latest<br>
+    ports:<br>
+      - "3000:3000"<br>
+    networks:<br>
+      - fastgpt<br>
+    # 确保在 mongo 和 pg 服务启动后再启动 fastgpt<br>
+    depends_on:<br>
+      - mongo<br>
+      - pg<br>
+    restart: always<br>
+    # 可配置的环境变量<br>
+    environment:<br>
+      - DEFAULT_ROOT_PSW=123456<br>
+      - OPENAI_BASE_URL=<a href="https://api.openai.com/v1" rel="nofollow">https://api.openai.com/v1</a><br>
+      - CHAT_API_KEY=sk-*****<br>
+      - DB_MAX_LINK=5<br>
+      - TOKEN_KEY=wenwenai<br>
+      - ROOT_KEY=wenwenai<br>
+      - FILE_TOKEN_KEY=filetoken<br>
+      - MONGODB_URI=mongodb://username:password@mongo:27017/fastgpt?authSource=admin<br>
+      - PG_URL=postgresql://username:password@pg:5432/fastgpt<br>
+    # 配置文件的卷挂载<br>
+    volumes:<br>
+      - ./config.json:/app/data/config.json</p>
+<p># 定义使用的网络<br>
+networks:<br>
+  fastgpt:</p>
+<p>`</p>
+<p><strong>注意修改 docker-compose.yml 中的 CHAT_API_KEY 为你的 OpenAI Key 即可。</strong></p>
+<h2>4. 启动</h2>
+<p>执行命令启动本地知识库：</p>
+<p><code class="notranslate"># 在 docker-compose.yml 同级目录下执行   docker-compose pull   docker-compose up -d   </code></p>
+<p>执行完成后就可以在浏览器上通过 <a href="http://localhost:3000/" rel="nofollow">http://localhost:3000/</a> 网址来访问个人知识库了。</p>
+<p>基于上述操作我们已经成功访问到个人知识库页面，接下来带大家创建导入个人数据进行访问。</p>
+<p>登录用户名为  root，密码为 docker-compose.yml 环境变量里设置的 DEFAULT_ROOT_PSW。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8305bac6464d0e5e148d5914ef05e68ebc037a61849169aff686cb1769f1594e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a426a73696373677579594c513354586961487559547352484c7175515478535369626450566b704f5a7130746a39416569626859654d6569624c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8305bac6464d0e5e148d5914ef05e68ebc037a61849169aff686cb1769f1594e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a426a73696373677579594c513354586961487559547352484c7175515478535369626450566b704f5a7130746a39416569626859654d6569624c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwjBjsicsguyYLQ3TXiaHuYTsRHLquQTxSSibdPVkpOZq0tj9AeibhYeMeibLA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>1. 创建知识库</h2>
+<p>成功登录后，新建一个知识库，这里将我的个人经历导入，所以取名为<code class="notranslate">知白个人经历</code>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d2c4c0be87feffa131917d78a65ff7fc7929272833bdc045847b1897eabf5818/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a5741336e6c5336355865546d49647853394c536466784845467754514b4c58514b69617a52306b6537667a734f494969616f767469623453672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d2c4c0be87feffa131917d78a65ff7fc7929272833bdc045847b1897eabf5818/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a5741336e6c5336355865546d49647853394c536466784845467754514b4c58514b69617a52306b6537667a734f494969616f767469623453672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwjWA3nlS65XeTmIdxS9LSdfxHEFwTQKLXQKiazR0ke7fzsOIIiaovtib4Sg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>通过文件将个人经历导入到知识库中。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f90bd6beed84f7c728d0459d9870dff31f2e7f9c97f51c043c88a1e033526bdd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a6c6b5335705731696250586d764969627a42776c385542773455614e4c58536c4e657a455441726c4d5355545377746c386a394c396247672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f90bd6beed84f7c728d0459d9870dff31f2e7f9c97f51c043c88a1e033526bdd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a6c6b5335705731696250586d764969627a42776c385542773455614e4c58536c4e657a455441726c4d5355545377746c386a394c396247672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwjlkS5pW1ibPXmvIibzBwl8UBw4UaNLXSlNezETArlMSUTSwtl8j9L9bGg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>确认后就开始将当前数据转化为向量数据。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fc5907cb2a97f2175b9b15bb1bc095ae7b78e83b0b2390425119215a6db65a5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a646a4e754f594f476250764d69616c563244384f5134724d703449326478486c43446869614a696279754161476c54786e676b6f6963517748512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9fc5907cb2a97f2175b9b15bb1bc095ae7b78e83b0b2390425119215a6db65a5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a646a4e754f594f476250764d69616c563244384f5134724d703449326478486c43446869614a696279754161476c54786e676b6f6963517748512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwjdjNuOYOGbPvMialV2D8OQ4rMp4I2dxHlCDhiaJibyuAaGlTxngkoicQwHQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>全文大约2300多字，大概3~5分钟就导入完成了。由于文本限制问题，按照固定字数拆分为了8个数据集。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe706ef9316dd67c12ae467259007665c33413107300f50eec19f044e601b5be/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a6c4e62316135774644766a785848384e384d733155366a4a73525569636961684233525a366633396c7049503753515031584e6d704946672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fe706ef9316dd67c12ae467259007665c33413107300f50eec19f044e601b5be/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a6c4e62316135774644766a785848384e384d733155366a4a73525569636961684233525a366633396c7049503753515031584e6d704946672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwjlNb1a5wFDvjxXH8N8Ms1U6jJsRUiciahB3RZ6f39lpIP7SQP1XNmpIFg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>至此，我们的个人知识库已经建好了。我们尝试进行问答，这里的 0.7881 就是向量相似度，相似度越高的越靠前。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/df41df40a30ee6146634721dc745a6272415e9b8ba6f3ec4ac90fa7e43462cfc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a38503065683555594d4c56374b346962696345475854676370737870644f354f6f725837684d33637077746763327974534e7741644141672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/df41df40a30ee6146634721dc745a6272415e9b8ba6f3ec4ac90fa7e43462cfc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a38503065683555594d4c56374b346962696345475854676370737870644f354f6f725837684d33637077746763327974534e7741644141672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwj8P0eh5UYMLV7K4ibicEGXTgcpsxpdO5OorX7hM3cpwtgc2ytSNwAdAAg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>2. 使用知识库</h2>
+<p>创建一个应用来使用知识库。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3400482a9f405ee601f64b26181ba69c88d1b046bec52e868e0817fa6860bcc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a4c7638764234734a49526e306a37493575644454376b6c4f6237377368514f32376838594e79335a75393644494931546153496648672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b3400482a9f405ee601f64b26181ba69c88d1b046bec52e868e0817fa6860bcc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a4c7638764234734a49526e306a37493575644454376b6c4f6237377368514f32376838594e79335a75393644494931546153496648672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwjLv8vB4sJIRn0j7I5udDT7klOb77shQO27h8YNy3Zu96DII1TaSIfHg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这里简单设置了一下开场白，选择并绑定对应知识库。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8aee3bd45ed3673e610b2c8c44b59cb2a41028acd4ae2e6d5521f6b8e21422c1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a586c6435524f78585769634d69616e69634d54794b52557332326d594a4e4f6249575142556f68587a6b68306f5a68706135537a6962354433672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8aee3bd45ed3673e610b2c8c44b59cb2a41028acd4ae2e6d5521f6b8e21422c1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a586c6435524f78585769634d69616e69634d54794b52557332326d594a4e4f6249575142556f68587a6b68306f5a68706135537a6962354433672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwjXld5ROxXWicMianicMTyKRUs22mYJNObIWQBUohXzkh0oZhpa5Szib5D3g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>开始对话，效果展示如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f3fb031d2d95f07a5af3f5c006aa267a9d11a0955bd49be8ab545d60bcf0842/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a764138746e64416d47504a754a4776477445506567386542593376615738416256375a6a515667326473766a4356696170746962487374412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2f3fb031d2d95f07a5af3f5c006aa267a9d11a0955bd49be8ab545d60bcf0842/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6962316c726c58574d696277764d6d6b47374d344b354a6f374462516d757558776a764138746e64416d47504a754a4776477445506567386542593376615738416256375a6a515667326473766a4356696170746962487374412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ib1lrlXWMibwvMmkG7M4K5Jo7DbQmuuXwjvA8tndAmGPJuJGvGtEPeg8eBY3vaW8AbV7ZjQVg2dsvjCViaptibHstA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>我们从零到一完成了本地个人知识库的搭建，整体花费时间也较短，刨除安装 Docker 的时间预计在10分钟左右。</p>
+<p>后续对召回内容从多方面进行详细分析，从而使回答内容更加符合我们的预期。</p>
+<p>关注我</p>
+<p>一起做AI时代的弄潮儿！</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

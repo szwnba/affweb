@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="背景
+--
+
+在学习本地构建RAG的过程中，embeding是不可避免的一步。">
+<meta property="og:title" content="langchain下如何加载embeding模型_langchain embedding-CSDN博客">
+<meta property="og:description" content="背景
+--
+
+在学习本地构建RAG的过程中，embeding是不可避免的一步。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/langchain-xia-ru-he-jia-zai-embeding-mo-xing-_langchain%20embedding-CSDN-bo-ke.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>langchain下如何加载embeding模型_langchain embedding-CSDN博客</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">langchain下如何加载embeding模型_langchain embedding-CSDN博客</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/648" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><h2>背景</h2>
+<p>在学习本地构建RAG的过程中，embeding是不可避免的一步。在官方的示例文档中，使用的是openAI的embeding模型，这意味着需要先获取openAI key，并且这个过程中会产生计费。对于我们学习研究来说不太友好。因此，考虑下载预训练的模型到本地，然后使用本地的模型来进行embeding，从而避免产生额外费用。</p>
+<p>本篇文章主要描述如何下载embeding模型并在langchain下使用embeding模型。</p>
+<h2>模型选择</h2>
+<p>目前主流的embeding模型项目包括FlagEmbedding, Ember, GTE and E5。这里我们选择FlagEmbedding作为示例，其他的类似。FlagEmbedding专注于检索增强llm领域，目前包括以下项目:</p>
+<ul>
+<li><strong>Long-Context LLM</strong>: Activation Beacon, LongLLM QLoRA</li>
+<li><strong>Fine-tuning of LM</strong> : LM-Cocktail</li>
+<li><strong>Embedding Model</strong>: Visualized-BGE, BGE-M3, LLM Embedder, BGE Embedding</li>
+<li><strong>Reranker Model</strong>: llm rerankers, BGE Reranker</li>
+<li><strong>Benchmark</strong>: C-MTEB</li>
+</ul>
+<p>现阶段，我们只需要用到其中的Embedding Model。现有的模型包括：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19693b4e681bf869b2c24f83349c547a1ad43613d85ffbbdb0f813c67331d978/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f6469726563742f38643135306333653666393034326233616335636563313030336366663361392e6a706567"><img src="https://camo.githubusercontent.com/19693b4e681bf869b2c24f83349c547a1ad43613d85ffbbdb0f813c67331d978/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f6469726563742f38643135306333653666393034326233616335636563313030336366663361392e6a706567" alt="" data-canonical-src="https://i-blog.csdnimg.cn/direct/8d150c3e6f9042b3ac5cec1003cff3a9.jpeg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e44ad88e60735609086dbe699cf4ca04fa96c9ab398f22aa23545bbafba4dd3/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f6469726563742f37663336306165363933343534353230613163343235303738353861323436612e6a706567"><img src="https://camo.githubusercontent.com/9e44ad88e60735609086dbe699cf4ca04fa96c9ab398f22aa23545bbafba4dd3/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f6469726563742f37663336306165363933343534353230613163343235303738353861323436612e6a706567" alt="" data-canonical-src="https://i-blog.csdnimg.cn/direct/7f360ae693454520a1c42507858a246a.jpeg" style="max-width: 100%;"></a></p>
+<p>在这里我们选择bge-small-zh-v1.5为例，来进行后续的流程。</p>
+<h2>模型下载</h2>
+<p>这里介绍两种模型下载的方法。</p>
+<h3>AutoModel.from_pretrained</h3>
+<p>使用<code class="notranslate">transformers</code>库中的<code class="notranslate">AutoModel.from_pretrained</code>方法来下载模型。下面是如何下载<code class="notranslate">bge-small-zh-v1.5</code>模型的代码示例：</p>
+<pre class="notranslate"><code class="notranslate">`ini
+ 代码解读
+from transformers import AutoModel, AutoTokenizer
+model_name = "BAAI/bge-small-zh-v1.5"
+# 下载模型
+model = AutoModel.from_pretrained(model_name)
+# 下载分词器
+tokenizer = AutoTokenizer.from_pretrained(model_name)` 
+
+*   1
+*   2
+*   3
+*   4
+*   5
+*   6
+*   7
+*   8
+
+*   1
+*   2
+*   3
+*   4
+*   5
+*   6
+*   7
+*   8
+
+
+</code></pre>
+<p>模型的下载可能会花费一些时间和网络流量，具体取决于你的网络速度和模型的大小。模型一旦下载，通常会被缓存在<code class="notranslate">~/.cache/huggingface/transformers</code>目录下，这样在未来的调用中可以快速加载。如果想要自定义安装下载路径，可以</p>
+<pre class="notranslate"><code class="notranslate">`ini
+ 代码解读
+model = AutoModel.from_pretrained(model_name, cache_dir="/path/to/your/cache/directory")` 
+
+*   1
+*   2
+*   3
+
+*   1
+*   2
+*   3
+
+
+</code></pre>
+<p>可能的问题：<strong>ConnectionError</strong>: (ProtocolError(‘Connection aborted.’, ConnectionResetError(10054, ‘远程主机强迫关闭了一个现有的连接。’。 这种情况一般是因为网络原因无法下载。只能尝试离线手动下载。</p>
+<h3>官网下载</h3>
+<p>官网下载的方式需要我们去huggingface的官网去进行下载，国内可以去hf-mirror.com 镜像网站去下载，以上述模型为例。搜索到相应模型后，切换到第二个tab，然后点击下载按钮进行下载。<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/231685b6b7d6d134437d9e9f6f30c1e781df0802064b560813b217aa4556853c/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f6469726563742f66643230356464343332393034323563623866663635386334613836356261632e6a706567"><img src="https://camo.githubusercontent.com/231685b6b7d6d134437d9e9f6f30c1e781df0802064b560813b217aa4556853c/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f6469726563742f66643230356464343332393034323563623866663635386334613836356261632e6a706567" alt="" data-canonical-src="https://i-blog.csdnimg.cn/direct/fd205dd43290425cb8ff658c4a865bac.jpeg" style="max-width: 100%;"></a></p>
+<p>下载完成后将相关文件放到同一个目录下。以我的电脑为例，将下载的文件放置到D:\model\embeding\bge-small-zh-v1.5目录下，之后在构建向量数据库的时候通过下面方式进行引用</p>
+<pre class="notranslate"><code class="notranslate">`ini
+ 代码解读
+vectorstore = Chroma.from_documents(documents=splits, embedding=HuggingFaceEmbeddings(model_name='D:\model\embeding\bge-small-zh-v1.5'))` 
+
+*   1
+*   2
+*   3
+
+*   1
+*   2
+*   3
+
+
+</code></pre>
+<h3>如何系统的去学习AI大模型LLM ？</h3>
+<p>作为一名热心肠的互联网老兵，我意识到有很多经验和知识值得分享给大家，也可以通过我们的能力和经验解答大家在人工智能学习中的很多困惑，所以在工作繁忙的情况下还是坚持各种整理和分享。</p>
+<p>但苦于知识传播途径有限，很多互联网行业朋友无法获得正确的资料得到学习提升，故此将并将<strong>重要的 <code class="notranslate">AI大模型资料</code> 包括AI大模型入门学习思维导图、精品AI大模型学习书籍手册、视频教程、实战学习等录播视频免费分享出来</strong>。</p>
+<p>所有资料 ⚡️ ，朋友们如果有需要全套 《<strong>LLM大模型入门+进阶学习资源包</strong>》，<strong>扫码获取~</strong></p>
+<blockquote>
+<p>👉CSDN大礼包🎁：全网最全《LLM大模型入门+进阶学习资源包》免费分享**（安全链接，放心点击）**👈</p>
+</blockquote>
+<p>​<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b801f17b0fb921f3e9d2d9facfb9ef177eb901628bd6006f73688c76b84fbd6/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f61633566353561343364363238656630623834353733323564346564663935362e6a706567"><img src="https://camo.githubusercontent.com/2b801f17b0fb921f3e9d2d9facfb9ef177eb901628bd6006f73688c76b84fbd6/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f61633566353561343364363238656630623834353733323564346564663935362e6a706567" alt="" data-canonical-src="https://i-blog.csdnimg.cn/blog_migrate/ac5f55a43d628ef0b8457325d4edf956.jpeg" style="max-width: 100%;"></a></p>
+<h3>一、全套AGI大模型学习路线</h3>
+<p><strong>AI大模型时代的学习之旅：从基础到前沿，掌握人工智能的核心技能！</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d05123a052bbf5df6c6b2d7e37852f3c627a053705d02389b5e99d0f89f1d628/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f38383336343734356132313635356266636433376630323763313830373966352e706e67"><img src="https://camo.githubusercontent.com/d05123a052bbf5df6c6b2d7e37852f3c627a053705d02389b5e99d0f89f1d628/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f38383336343734356132313635356266636433376630323763313830373966352e706e67" alt="" data-canonical-src="https://i-blog.csdnimg.cn/blog_migrate/88364745a21655bfcd37f027c18079f5.png" style="max-width: 100%;"></a></p>
+<h3>二、640套AI大模型报告合集</h3>
+<p>这套包含640份报告的合集，涵盖了AI大模型的理论研究、技术实现、行业应用等多个方面。无论您是科研人员、工程师，还是对AI大模型感兴趣的爱好者，这套报告合集都将为您提供宝贵的信息和启示。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0b73cfddfab7ab7af4cbc278c6fb9a0b54cfaabcfc8d293938cd09bde8b9cc21/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f36356238643461323435366437653837303931646433306464373762393530362e706e67"><img src="https://camo.githubusercontent.com/0b73cfddfab7ab7af4cbc278c6fb9a0b54cfaabcfc8d293938cd09bde8b9cc21/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f36356238643461323435366437653837303931646433306464373762393530362e706e67" alt="" data-canonical-src="https://i-blog.csdnimg.cn/blog_migrate/65b8d4a2456d7e87091dd30dd77b9506.png" style="max-width: 100%;"></a></p>
+<h3>三、AI大模型经典PDF籍</h3>
+<p>随着人工智能技术的飞速发展，AI大模型已经成为了当今科技领域的一大热点。这些大型预训练模型，如GPT-3、BERT、XLNet等，以其强大的语言理解和生成能力，正在改变我们对人工智能的认识。 那以下这些PDF籍就是非常不错的学习资源。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0cedafeace8985c45cf2d6e2fa4c6d3e2cf73d6c0098b41012866ca438e8818/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f66323438333536343131323566643835313463613934373231336365623337362e706e67"><img src="https://camo.githubusercontent.com/d0cedafeace8985c45cf2d6e2fa4c6d3e2cf73d6c0098b41012866ca438e8818/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f66323438333536343131323566643835313463613934373231336365623337362e706e67" alt="" data-canonical-src="https://i-blog.csdnimg.cn/blog_migrate/f24835641125fd8514ca947213ceb376.png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/05df10b8d95509aea1d41791f6334ede94790379b023bd9f6f25c612483a3364/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f30376164363336333533656136376631623432356266346265636665343862332e6a706567"><img src="https://camo.githubusercontent.com/05df10b8d95509aea1d41791f6334ede94790379b023bd9f6f25c612483a3364/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f30376164363336333533656136376631623432356266346265636665343862332e6a706567" alt="" data-canonical-src="https://i-blog.csdnimg.cn/blog_migrate/07ad636353ea67f1b425bf4becfe48b3.jpeg" style="max-width: 100%;"></a></p>
+<h4>四、AI大模型商业化落地方案</h4>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/642ab13919546fef773219577faa840a08ce6659f640ffda446dfc5232f8fc41/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f66306633613664303664336630356330333761663535346139353530343165652e706e67"><img src="https://camo.githubusercontent.com/642ab13919546fef773219577faa840a08ce6659f640ffda446dfc5232f8fc41/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f66306633613664303664336630356330333761663535346139353530343165652e706e67" alt="" data-canonical-src="https://i-blog.csdnimg.cn/blog_migrate/f0f3a6d06d3f05c037af554a955041ee.png" style="max-width: 100%;"></a></p>
+<h4>阶段1：AI大模型时代的基础理解</h4>
+<ul>
+<li><strong>目标</strong>：了解AI大模型的基本概念、发展历程和核心原理。</li>
+<li><strong>内容</strong>：
+<ul>
+<li>L1.1 人工智能简述与大模型起源</li>
+<li>L1.2 大模型与通用人工智能</li>
+<li>L1.3 GPT模型的发展历程</li>
+<li>L1.4 模型工程<br>
+- L1.4.1 知识大模型<br>
+- L1.4.2 生产大模型<br>
+- L1.4.3 模型工程方法论<br>
+- L1.4.4 模型工程实践</li>
+<li>L1.5 GPT应用案例</li>
+</ul>
+</li>
+</ul>
+<h4>阶段2：AI大模型API应用开发工程</h4>
+<ul>
+<li><strong>目标</strong>：掌握AI大模型API的使用和开发，以及相关的编程技能。</li>
+<li><strong>内容</strong>：
+<ul>
+<li>L2.1 API接口<br>
+- L2.1.1 OpenAI API接口<br>
+- L2.1.2 Python接口接入<br>
+- L2.1.3 BOT工具类框架<br>
+- L2.1.4 代码示例</li>
+<li>L2.2 Prompt框架<br>
+- L2.2.1 什么是Prompt<br>
+- L2.2.2 Prompt框架应用现状<br>
+- L2.2.3 基于GPTAS的Prompt框架<br>
+- L2.2.4 Prompt框架与Thought<br>
+- L2.2.5 Prompt框架与提示词</li>
+<li>L2.3 流水线工程<br>
+- L2.3.1 流水线工程的概念<br>
+- L2.3.2 流水线工程的优点<br>
+- L2.3.3 流水线工程的应用</li>
+<li>L2.4 总结与展望</li>
+</ul>
+</li>
+</ul>
+<h4>阶段3：AI大模型应用架构实践</h4>
+<ul>
+<li><strong>目标</strong>：深入理解AI大模型的应用架构，并能够进行私有化部署。</li>
+<li><strong>内容</strong>：
+<ul>
+<li>L3.1 Agent模型框架<br>
+- L3.1.1 Agent模型框架的设计理念<br>
+- L3.1.2 Agent模型框架的核心组件<br>
+- L3.1.3 Agent模型框架的实现细节</li>
+<li>L3.2 MetaGPT<br>
+- L3.2.1 MetaGPT的基本概念<br>
+- L3.2.2 MetaGPT的工作原理<br>
+- L3.2.3 MetaGPT的应用场景</li>
+<li>L3.3 ChatGLM<br>
+- L3.3.1 ChatGLM的特点<br>
+- L3.3.2 ChatGLM的开发环境<br>
+- L3.3.3 ChatGLM的使用示例</li>
+<li>L3.4 LLAMA<br>
+- L3.4.1 LLAMA的特点<br>
+- L3.4.2 LLAMA的开发环境<br>
+- L3.4.3 LLAMA的使用示例</li>
+<li>L3.5 其他大模型介绍</li>
+</ul>
+</li>
+</ul>
+<h4>阶段4：AI大模型私有化部署</h4>
+<ul>
+<li><strong>目标</strong>：掌握多种AI大模型的私有化部署，包括多模态和特定领域模型。</li>
+<li><strong>内容</strong>：
+<ul>
+<li>L4.1 模型私有化部署概述</li>
+<li>L4.2 模型私有化部署的关键技术</li>
+<li>L4.3 模型私有化部署的实施步骤</li>
+<li>L4.4 模型私有化部署的应用场景</li>
+</ul>
+</li>
+</ul>
+<h4>学习计划：</h4>
+<ul>
+<li><strong>阶段1</strong>：1-2个月，建立AI大模型的基础知识体系。</li>
+<li><strong>阶段2</strong>：2-3个月，专注于API应用开发能力的提升。</li>
+<li><strong>阶段3</strong>：3-4个月，深入实践AI大模型的应用架构和私有化部署。</li>
+<li><strong>阶段4</strong>：4-5个月，专注于高级模型的应用和部署。</li>
+</ul>
+<h6>这份完整版的所有 ⚡️ 大模型 LLM 学习资料已经上传CSDN，朋友们如果需要可以微信扫描下方CSDN官方认证二维码免费领取【<code class="notranslate">保证100%免费</code>】</h6>
+<p>全套 《<strong>LLM大模型入门+进阶学习资源包</strong>》<strong>↓↓↓</strong> <strong>获取~</strong></p>
+<blockquote>
+<p>👉CSDN大礼包🎁：全网最全《LLM大模型入门+进阶学习资源包》免费分享**（安全链接，放心点击）**👈</p>
+</blockquote>
+<p>​<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b801f17b0fb921f3e9d2d9facfb9ef177eb901628bd6006f73688c76b84fbd6/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f61633566353561343364363238656630623834353733323564346564663935362e6a706567"><img src="https://camo.githubusercontent.com/2b801f17b0fb921f3e9d2d9facfb9ef177eb901628bd6006f73688c76b84fbd6/68747470733a2f2f692d626c6f672e6373646e696d672e636e2f626c6f675f6d6967726174652f61633566353561343364363238656630623834353733323564346564663935362e6a706567" alt="" data-canonical-src="https://i-blog.csdnimg.cn/blog_migrate/ac5f55a43d628ef0b8457325d4edf956.jpeg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

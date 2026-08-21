@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="工作流到底是个啥？这周末把自己学得云里雾里的。">
+<meta property="og:title" content="用扣子做智能体：10步打造私人知识库！">
+<meta property="og:description" content="工作流到底是个啥？这周末把自己学得云里雾里的。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yong-kou-zi-zuo-zhi-neng-ti-%EF%BC%9A10-bu-da-zao-si-ren-zhi-shi-ku-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>用扣子做智能体：10步打造私人知识库！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用扣子做智能体：10步打造私人知识库！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/635" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>工作流到底是个啥？这周末把自己学得云里雾里的。思维导图对Conny姐来说更亲民，要我画了流程图也不难，<strong>但搭建工作流，的确还是需要点编程思路，yes or no，箭头往哪根线路走。</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f3ba6034eaee3c584f1811f6cbb300c54bbf5cdb25ad1dca4335f4818670c7e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3667726c4678526a6e6a454169626f34417166616b49716e7869626962456357517773633434696141543844577673553366673641476b5468546b59743662535538364f4e727749463355713655504c6d4949376449485844672f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/5f3ba6034eaee3c584f1811f6cbb300c54bbf5cdb25ad1dca4335f4818670c7e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3667726c4678526a6e6a454169626f34417166616b49716e7869626962456357517773633434696141543844577673553366673641476b5468546b59743662535538364f4e727749463355713655504c6d4949376449485844672f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsc44iaAT8DWvsU3fg6AGkThTkYt6bSU86ONrwIF3Uq6UPLmII7dIHXDg/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>于是，印证教练的话，<strong>其实如果能学会怎么用好提示词，也就是按照Markdown逻辑，来指导AI工具的workflow，其实也是一样一样的。</strong></p>
+<p>比如以下这样的一个工作流程workflow：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/692f37c29e2172adfb0df0eb1010254243be8fc19af4ecc72b433cd40a72f80e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177734c4a42616f4a69627564446c54536636476d426f70656c564f696368777969625875394765376c7a4f49465a41507138684276544269617a79512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/692f37c29e2172adfb0df0eb1010254243be8fc19af4ecc72b433cd40a72f80e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177734c4a42616f4a69627564446c54536636476d426f70656c564f696368777969625875394765376c7a4f49465a41507138684276544269617a79512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsLJBaoJibudDlTSf6GmBopelVOichwyibXu9Ge7lzOIFZAPq8hBvTBiazyQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>所以我打算，在有能力创建复杂工作流前，<strong>还是做点简化的智能体Agent，比如在Coze扣子平台上，来做个自己的文档知识库，随时可调用的Bot。</strong></p>
+<p><strong>在“个人空间”怎么来做自己的文档【知识库】呢？</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a3243712291ec65151d7ced7b301a579331c8bf35ba81da8e4c68506390b32dc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177734e4b415536784a576270424c4e7a784a6b6a70684677776a614d4d4c4851496961656961434541514177696267494e6a546d546769626a3266412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a3243712291ec65151d7ced7b301a579331c8bf35ba81da8e4c68506390b32dc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177734e4b415536784a576270424c4e7a784a6b6a70684677776a614d4d4c4851496961656961434541514177696267494e6a546d546769626a3266412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsNKAU6xJWbpBLNzxJkjphFwwjaMMLHQIiaeiaCEAQAwibgINjTmTgibj2fA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>1. 点击创建，**并导入“飞书”文档，**上传知识库的图片标识，然后进行“下一步”：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/af909763a83bb510b2d9bf67067e65b5303641d6fe47e3b9959be855f6a3ca93/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736c6539315646313255485a595850737546755a4d366b6453326734484247744a6e67523673735467754c35747631686443307a4847772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/af909763a83bb510b2d9bf67067e65b5303641d6fe47e3b9959be855f6a3ca93/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736c6539315646313255485a595850737546755a4d366b6453326734484247744a6e67523673735467754c35747631686443307a4847772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsle91VF12UHZYXPsuFuZM6kdS2g4HBGtJngR6ssTguL5tv1hdC0zHGw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>2. 需要进行飞书的授权：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ef1f08aec1f0e51ec96d0db56ea78b7d9825c9263e7fd24d207eb3d7f073f80c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736c4133665647464d6c6261646779776963316445324c717a7555414f7433514a505752434176624a476b7473474a563249616f584a6b772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ef1f08aec1f0e51ec96d0db56ea78b7d9825c9263e7fd24d207eb3d7f073f80c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736c4133665647464d6c6261646779776963316445324c717a7555414f7433514a505752434176624a476b7473474a563249616f584a6b772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwslA3fVGFMlbadgywic1dE2LqzuUAOt3QJPWRCAvbJGktsGJV2IaoXJkw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/36591ec9b590d52ea7c0117a821fb2d91533252debe6df2262e394c134eb2947/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736851576a726e687a4c424e3364795369634850494545664f57656631764a554f67464f587879614a674d41744a66714456366c643564512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/36591ec9b590d52ea7c0117a821fb2d91533252debe6df2262e394c134eb2947/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736851576a726e687a4c424e3364795369634850494545664f57656631764a554f67464f587879614a674d41744a66714456366c643564512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwshQWjrnhzLBN3dySicHPIEEfOWef1vJUOgFOXxyaJgMAtJfqDV6ld5dQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>3. 授权后，飞书中 “我的空间”里的内容，就能在Coze扣子平台上看到了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/51cb470e1082818954371cddae07cbd81d361107048ea193ec22ce90ebe5ff45/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177737a794b4f364751576455793946584938397864674d416a544f5266726a5573644d6361543047544b334b686d6649696266324e51466d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/51cb470e1082818954371cddae07cbd81d361107048ea193ec22ce90ebe5ff45/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177737a794b4f364751576455793946584938397864674d416a544f5266726a5573644d6361543047544b334b686d6649696266324e51466d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwszyKO6GQWdUy9FXI89xdgMAjTORfrjUsdMcaT0GTK3KhmfIibf2NQFmA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ol start="4">
+<li>开始上传你需要上传的文档内容：</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff341ed08868ea2b44d78fab863b48e7e4e362cc2d5d81527651d3361d46c276/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736853466b42486c68696354507371496b347669635a73497448395a5947576135504e316d5548445541787635596450454a364136764344672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ff341ed08868ea2b44d78fab863b48e7e4e362cc2d5d81527651d3361d46c276/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736853466b42486c68696354507371496b347669635a73497448395a5947576135504e316d5548445541787635596450454a364136764344672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwshSFkBHlhicTPsqIk4vicZsItH9ZYGWa5PN1mUHDUAxv5YdPEJ6A6vCDg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>5. 选择“自动分段于清洗”功能来整理：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8474b82c420ef980a2c85f0451d4bb8784fa948b699dab53d50c33f0c04b2e8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177737236755549536667665a51316c514630686362354d4e4c574b6e6d6b4c6e434e4c6d5a766c33325a383139577854696350435871696271772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f8474b82c420ef980a2c85f0451d4bb8784fa948b699dab53d50c33f0c04b2e8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177737236755549536667665a51316c514630686362354d4e4c574b6e6d6b4c6e434e4c6d5a766c33325a383139577854696350435871696271772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsr6uUISfgfZQ1lQF0hcb5MNLWKnmkLnCNLmZvl32Z819WxTicPCXqibqw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f347068d7820a567a0fe9120f02241c98ee0ae0388de59b25e97ec68711f248/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e786962696245635751777348696256467533456737474d33616d307569624633636851616d797a73674a6b6f375a696333376339696148685936507a525039384d50476963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5f347068d7820a567a0fe9120f02241c98ee0ae0388de59b25e97ec68711f248/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e786962696245635751777348696256467533456737474d33616d307569624633636851616d797a73674a6b6f375a696333376339696148685936507a525039384d50476963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsHibVFu3Eg7GM3am0uibF3chQamyzsgJko7Zic37c9iaHhY6PzRP98MPGicQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>6. 知识库建立完毕后，可以直接开启“创建Bot”，方便通过Bot来调取相关知识内容：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4992b90ac6a0461b0f0bee38ed9edc85c9298422eba91a0fb494bf562631eb62/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e786962696245635751777358496849706e4a4f7052704b6731316e43463965654c6e74704c7162533054444a5069626b4b49727a714c5073323834417a32547a70512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4992b90ac6a0461b0f0bee38ed9edc85c9298422eba91a0fb494bf562631eb62/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e786962696245635751777358496849706e4a4f7052704b6731316e43463965654c6e74704c7162533054444a5069626b4b49727a714c5073323834417a32547a70512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsXIhIpnJOpRpKg11nCF9eeLntpLqbS0TDJPibkKIrzqLPs284Az2TzpQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>7. 然后再以下“知识文本”模块里，添加已经设置好的“Conny姐的AI知识合集”：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c14dff3ca7c9595d9cc351fb6eb6cd1bc87b5d5f10fe4f248d252fee0785fccb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177733445337a49356b6e746b696349634b61666155336676725a4c3567566961334d584459394a3447523669613968674732496963537543534e5a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c14dff3ca7c9595d9cc351fb6eb6cd1bc87b5d5f10fe4f248d252fee0785fccb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177733445337a49356b6e746b696349634b61666155336676725a4c3567566961334d584459394a3447523669613968674732496963537543534e5a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQws4E3zI5kntkicIcKafaU3fvrZL5gVia3MXDY9J4GR6ia9hgG2IicSuCSNZg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d5828417dc687bb48f7c2bb139963c67c0eb8241000ea309582b4d3d3416b4c0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177733076774e415a333464473158655739316b664c58717678395531446a6c7a454455766a386e31637551474d62784f6c7169637534456c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d5828417dc687bb48f7c2bb139963c67c0eb8241000ea309582b4d3d3416b4c0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177733076774e415a333464473158655739316b664c58717678395531446a6c7a454455766a386e31637551474d62784f6c7169637534456c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQws0vwNAZ34dG1XeW91kfLXqvx9U1DjlzEDUvj8n1cuQGMbxOlqicu4ElA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>8. 设置“人设与回复逻辑”，可以用Kimi【提示词专家】来协同：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/449e7a41b3f7ce8edb21531d3ecf465f71fde61e1bb2609c8ca7605a2ef1c803/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736d6c7236634737376146616d734535357a3269635331544c43397a67706132594d6c4a6855396962564152465479584a31684f62377a6963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/449e7a41b3f7ce8edb21531d3ecf465f71fde61e1bb2609c8ca7605a2ef1c803/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736d6c7236634737376146616d734535357a3269635331544c43397a67706132594d6c4a6855396962564152465479584a31684f62377a6963512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsmlr6cG77aFamsE55z2icS1TLC9zgpa2YMlJhU9ibVARFTyXJ1hOb7zicQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>9. 再适当地增加插件协同，设置好开场白：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/706d7b796a099cb50a4e033c9bfc9ab0f8830e7e45cf971cdc6077003751ad7e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736961384b3454347345684f5a69626f466f7338535149595571657932577a64464e33354e7670396838354d373077556477535855327563772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/706d7b796a099cb50a4e033c9bfc9ab0f8830e7e45cf971cdc6077003751ad7e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e78696269624563575177736961384b3454347345684f5a69626f466f7338535149595571657932577a64464e33354e7670396838354d373077556477535855327563772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsia8K4T4sEhOZiboFos8SQIYUqey2WzdFN35Nvp9h85M70wUdwSXU2ucw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e706cbda85594ab1e407b928d6525cdd6d0d2cff8000982cdf7e244d7af63b9a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e786962696245635751777332456c456f5a6830734f6d4b763473696274675336766456706a48397877413966666a67724d6b6e3775347a37324f4a427848346e6c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e706cbda85594ab1e407b928d6525cdd6d0d2cff8000982cdf7e244d7af63b9a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e786962696245635751777332456c456f5a6830734f6d4b763473696274675336766456706a48397877413966666a67724d6b6e3775347a37324f4a427848346e6c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQws2ElEoZh0sOmKv4sibtgS6vdVpjH9xwA9ffjgrMkn7u4z72OJBxH4nlA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>10. 在界面的右侧进行“预览和调试”，看下这个知识库智能体的反馈如何：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c3571bfac7f2b47b5fe2b2823c71055c4006691cf48d13f7a1e5f3febae93f8a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e786962696245635751777357706a4151703668463638755a6d6b386255366d546743616d6a6664443357557544583978696354434d506548466f58746b45656867772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c3571bfac7f2b47b5fe2b2823c71055c4006691cf48d13f7a1e5f3febae93f8a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e786962696245635751777357706a4151703668463638755a6d6b386255366d546743616d6a6664443357557544583978696354434d506548466f58746b45656867772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwsWpjAQp6hF68uZmk8bU6mTgCamjfdD3WUuDX9xicTCMPeHFoXtkEehgw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/351ebdb3911d0e5f9fa6c69ccca84ce66f35ced4406d9d64ca094b0e133ff348/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e7869626962456357517773743375337932666f516c58706269617777696342504545664365546e4568616874557844785a4f346f587a3037386f344e4761444e6d4c672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/351ebdb3911d0e5f9fa6c69ccca84ce66f35ced4406d9d64ca094b0e133ff348/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a454169626f34417166616b49716e7869626962456357517773743375337932666f516c58706269617777696342504545664365546e4568616874557844785a4f346f587a3037386f344e4761444e6d4c672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjEAibo4AqfakIqnxibibEcWQwst3u3y2foQlXpbiawwicBPEEfCeTnEhahtUxDxZO4oXz078o4NGaDNmLg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>然后就可以正式发布了啦！</strong></p>
+<p>好啦，这周末我补齐这周应该上的智能体课程，<strong>下次我们继续聊智能体怎么学噢！</strong></p>
+<p>********</p>
+<p>如果你觉得，我分享的AI内容是你也可以尝试的新机会，Conny姐已经整理好了<strong>这两个月来我的</strong>【<strong>十****大主题AI亲测体验知识合集】。</strong></p>
+<p>如果需要，扫下图或 <strong>+ConnykyAI</strong> <strong>来联络我哦。Conny姐公众号粉丝</strong>已破9500****+🥳 不间断更新AI新认知，记得关注我噢~****</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e9e3f067a979bd3b4cb08e11a8d4a8c54bf55c5699a9964c058519dbb8fba2c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3667726c4678526a6e6a48543872316b43674f454a7367335454326b30706d6d4e446c306e653841713973797154646d4b6f4b6f594e53546630396a5674524831563255435272546f4d30455651474a3455593557512f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/6e9e3f067a979bd3b4cb08e11a8d4a8c54bf55c5699a9964c058519dbb8fba2c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3667726c4678526a6e6a48543872316b43674f454a7367335454326b30706d6d4e446c306e653841713973797154646d4b6f4b6f594e53546630396a5674524831563255435272546f4d30455651474a3455593557512f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/6grlFxRjnjHT8r1kCgOEJsg3TT2k0pmmNDl0ne8Aq9syqTdmKoKoYNSTf09jVtRH1V2UCRrToM0EVQGJ4UY5WQ/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p><strong>********</strong></p>
+<p><strong>跟我一样80后的你，想了解更多“快速入门AI工具的信息”，****跟Conny姐的朋友们</strong>一******起学习AI，坚持复利，**也欢迎你直接加入我正在自学的AI破局星球，这里有太多AI大咖的教学分享手册（扫码直接入噢）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0364d0609165c82ec8fdd9995be31110ee191d4e6e144034ed0fa54703e96856/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a48465575576b6f4f65786170386e474f4a566856346e64536e4d4c6f31654735536d6130455034624c7132486b31773238566e65704357577673446e666963464c336f4d38435a50746d5830412f3634303f77785f666d743d6f746865722666726f6d3d6170706d73672674703d7765627026777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/0364d0609165c82ec8fdd9995be31110ee191d4e6e144034ed0fa54703e96856/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3667726c4678526a6e6a48465575576b6f4f65786170386e474f4a566856346e64536e4d4c6f31654735536d6130455034624c7132486b31773238566e65704357577673446e666963464c336f4d38435a50746d5830412f3634303f77785f666d743d6f746865722666726f6d3d6170706d73672674703d7765627026777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6grlFxRjnjHFUuWkoOexap8nGOJVhV4ndSnMLo1eG5Sma0EP4bLq2Hk1w28VnepCWWvsDnficFL3oM8CZPtmX0A/640?wx_fmt=other&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a></p>
+<p><strong>#关于在AI破局星球上能学到什么，可以点击这里看介绍噢：</strong></p>
+<ul>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247485072&amp;idx=1&amp;sn=2be9f770a5f5f77810ec2bdd296c1b6e&amp;chksm=c0871a28f7f0933e2b7543837fc480cf4b835da2bcb3672c2b452ab0293515a3658a2a09328c&amp;scene=21#wechat_redirect" rel="nofollow">你敢信吗？9000万浏览量程序员挑战AI圈：立誓打造1000个IP，目标AI界MCN大佬！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484938&amp;idx=1&amp;sn=a7cb2cdd3fd743a6da321af04571f410&amp;chksm=c0871ab2f7f093a4e0c2125d9e1dcfa50eaa859686104a88b0d77ee52463778b5f0e4aa13dfe&amp;scene=21#wechat_redirect" rel="nofollow">看得下去吗？从门外汉到专业级：30天的AI工具自学挑战，我的实战经验分享，绝对干货！</a></p>
+</li>
+</ul>
+<p><strong>“我都可以，你又有什么不可能呢？”</strong></p>
+<p><strong>#&lt;AI入门亲测指南&gt;精彩链接#</strong></p>
+<p><strong>关于GPT 和 Kimi：</strong></p>
+<ol>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247483918&amp;idx=1&amp;sn=c6401bdd42064a559802fc0cecdb5a48&amp;chksm=c0871eb6f7f097a0c97184c83b3464d9ea9656a6c6d55f73dc4f778db767036a8f88d72fd6db&amp;scene=21#wechat_redirect" rel="nofollow">GPT提示词的快速入门指南：4个基本法则2个实用技巧，帮你10倍提效！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484102&amp;idx=1&amp;sn=23ba94808e29449a041ee0badcaf4618&amp;chksm=c0871e7ef7f0976873e1feef0531f2f6f6544698faaca5a55e58a2faee49b8d58c288011a0e7&amp;scene=21#wechat_redirect" rel="nofollow">解锁职场与自媒体新招：AI自动生成提示词，效率翻倍不是梦！领取KimiChat 12大官方秘籍，助力内容创作！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484751&amp;idx=1&amp;sn=aff45abeebc84a573fd44ed17396779e&amp;chksm=c08719f7f7f090e1d28e3f9363a35676a31553af30de2ca79c7b459da6a7cc43e5ebc9862305&amp;scene=21#wechat_redirect" rel="nofollow">速查攻略！Kimi内置提示词究竟藏在哪里？别捉急，保姆级指南带你马上找！</a></p>
+</li>
+</ol>
+<p><strong>关于Midjourney：</strong></p>
+<ol>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484486&amp;idx=1&amp;sn=c7fef88391b7977cd9b7300d63467ca0&amp;chksm=c08718fef7f091e88c11b940091ca5f83d1052383c331f9095e1c8335e23c79b41ee9dd466d3&amp;scene=21#wechat_redirect" rel="nofollow">相当好用的Midjourney官配提词器，全中文操作，自动出英文提示词，点点鼠标就搞定！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484358&amp;idx=1&amp;sn=6cccb41c8cd5d5e81fc9519a604091ea&amp;chksm=c0871f7ef7f0966852b08f4755a96008b86ea0bea77f16320cfffad294e670f3d42489331f84&amp;scene=21#wechat_redirect" rel="nofollow">我太牛逼了，Kimi+Midjourney 自学半个多月，就能出这么天仙般的图文小故事（上）</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484483&amp;idx=1&amp;sn=277ba8abd62bd5cec5c597c5f6116502&amp;chksm=c08718fbf7f091ede2c495ce58e8b44481a59b77efc14254ee88bf763402303ae8e32b250860&amp;scene=21#wechat_redirect" rel="nofollow"></a><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484483&amp;idx=1&amp;sn=277ba8abd62bd5cec5c597c5f6116502&amp;chksm=c08718fbf7f091ede2c495ce58e8b44481a59b77efc14254ee88bf763402303ae8e32b250860&amp;scene=21#wechat_redirect" rel="nofollow">（接上集爆文）我太牛逼了，自学Kimi +Midjourney 半个多月，就能出这么天仙般的图文小故事</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247485104&amp;idx=1&amp;sn=bfb843668cd075038d9e028e49a0dd3c&amp;chksm=c0871a08f7f0931ec49931c0b40becdf252b6162bd2b1b8cb4c4a96ec732eb5dc51f99a7fb77&amp;scene=21#wechat_redirect" rel="nofollow">李蠕蠕变装视频又爆了，粘土滤镜疯狂传播，变脸变装心理背后的亿万商机！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247485371&amp;idx=1&amp;sn=882c901f68dac177905fae6aeb6ca68b&amp;chksm=c0871b03f7f09215372322e925404e90338ba8a4ce74405cecd4f6134b00ac53f1113db84c67&amp;scene=21#wechat_redirect" rel="nofollow">快速上手：用Midjourney打造专属家族化形象IP图的5个专业技巧！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247485541&amp;idx=1&amp;sn=663520a0ca70433cb1f5ac325289cd41&amp;chksm=c08714ddf7f09dcbdb6549f0d2a96a365a406514747ad0d30b1262fdd5701d2e288337afc4fb&amp;scene=21#wechat_redirect" rel="nofollow">仅需这行提示词，解锁你的专属Midjourney完整动画分镜，角色一致性从未如此简单！</a></p>
+</li>
+</ol>
+<p><strong>关于AI视频：</strong></p>
+<ol>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484136&amp;idx=1&amp;sn=ef2ab35159469e561938e9a83baa0666&amp;chksm=c0871e50f7f09746240fec66f9ad1da66e9066a8947959e4f045ea233d494375765407c2bdd5&amp;scene=21#wechat_redirect" rel="nofollow"></a><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484274&amp;idx=1&amp;sn=fe2a26ae8c3911d66d084b9ef8f225d6&amp;chksm=c0871fcaf7f096dc7e72a0f756cdaabde1bfd771f498451a88d24e1f72294da50c27ef8d78d4&amp;scene=21#wechat_redirect" rel="nofollow">支持国内公司的免费视频工具PixVerse：简单3步文生视频，图生视频，还能视频变脸！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484877&amp;idx=1&amp;sn=1e83c2605a4ba147087b8a56406f0d53&amp;chksm=c0871975f7f09063461811673c0ae90487b21b733794b20267ded360af964a504f0843d6a6b9&amp;scene=21#wechat_redirect" rel="nofollow">广告大片导演的AI创作秘籍：Midjourney、Runway、剪映，一下午速成你的AI电影作品！"</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247486213&amp;idx=1&amp;sn=015d8fe77fb98719922e7c2d250b4f82&amp;chksm=c08717bdf7f09eab8d9106094cb54397f5ef672e7832470b0a84c225d5ba52c464b726ca21fa&amp;scene=21#wechat_redirect" rel="nofollow">AI视频转动画，又升级了，庆余年粘土风？DomoAI和艺映AI，喜欢哪个？</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247486303&amp;idx=1&amp;sn=e2372c4cb484aca68e3086235fbe3f14&amp;chksm=c08717e7f7f09ef12dc8417c0f27bfd4e122e92efa8ca567c2e7b87a1defc927a9f0052273ee&amp;scene=21#wechat_redirect" rel="nofollow">文生视频亲测：“中国风”哪家强？可灵AI、LumaAI，艺映AI，即梦Dreamina？</a></p>
+</li>
+</ol>
+<p><strong>关于做公众号：</strong></p>
+<ol>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484514&amp;idx=1&amp;sn=6184eeae19bfc0a1f611b2678f56275f&amp;chksm=c08718daf7f091cc39e6ac8acfad8c15023c794bbe774f43d8ff8ffbbaf9968516cb7487398e&amp;scene=21#wechat_redirect" rel="nofollow">我是真牛逼了：&lt;复盘&gt;做AI公众号1个月，一篇文1000+关注，我干了什么？一切从BRTR开始！</a></p>
+</li>
+<li>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwNDQ4MjI2Mw==&amp;mid=2247484545&amp;idx=1&amp;sn=440008548cf7409bbadda9c81e8fd8a6&amp;chksm=c0871839f7f0912fe0783a8ada1929e5dcf8b116c4d2fda8cc7a9da830f5c389d4e038df11c5&amp;scene=21#wechat_redirect" rel="nofollow">做公众号增粉秘籍：一月涨粉2000+！Kimi+Midjourney，打造爆款原创图文！</a></p>
+</li>
+</ol></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

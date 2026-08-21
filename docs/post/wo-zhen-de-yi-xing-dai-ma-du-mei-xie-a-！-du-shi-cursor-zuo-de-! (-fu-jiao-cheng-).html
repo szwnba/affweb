@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="这几天，我在做一个小工具，功能是分析一个网站，然后生成一个这个网站的介绍页(其实就是导航站的收录网站的介绍页)。">
+<meta property="og:title" content="我真的一行代码都没写啊！都是cursor做的! (附教程)">
+<meta property="og:description" content="这几天，我在做一个小工具，功能是分析一个网站，然后生成一个这个网站的介绍页(其实就是导航站的收录网站的介绍页)。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wo-zhen-de-yi-xing-dai-ma-du-mei-xie-a-%EF%BC%81-du-shi-cursor-zuo-de-%21%20%28-fu-jiao-cheng-%29.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>我真的一行代码都没写啊！都是cursor做的! (附教程)</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我真的一行代码都没写啊！都是cursor做的! (附教程)</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/665" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>这几天，我在做一个小工具，功能是分析一个网站，然后生成一个这个网站的介绍页(其实就是导航站的收录网站的介绍页)。</p>
+<p>这个小工具很简单，主要的功能我没花多长时间就做出来了。但是，怎么把结果友好、美观地展示出来难倒了我。。。</p>
+<p>幸运的是，有个AI编程工具---cursor，圈内的用过的朋友都说好！我抱着试一试的心态，玩了下，结果，超出了我的预期。</p>
+<p>下面的这个网页，是我的小工具其中一个页面，全部是由cursor写的，我真的一行代码都没有写！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a34e2d8f80fafbe47be98a6b8c121fd8f5d87282575e4dd41c8c4f460f59fca7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871454e43347855576d4871373763486962666a6d44786771756870596267344143385368556e786e324e796e624476736c74544a34657a53672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/a34e2d8f80fafbe47be98a6b8c121fd8f5d87282575e4dd41c8c4f460f59fca7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871454e43347855576d4871373763486962666a6d44786771756870596267344143385368556e786e324e796e624476736c74544a34657a53672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qENC4xUWmHq77cHibfjmDxgquhpYbg4AC8ShUnxn2NynbDvsltTJ4ezSg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>没有吹牛的成分，cursor的体验和效果，碾压了全世界的AI编程工具，包括github copilot(这货我今天退订了)。</p>
+<p>cursor最让我佩服的地方是，它能让一个完全不懂编程的人，只需要通过语言描述，就可以做出很专业的网页。    </p>
+<p>我这篇教程， 偏向于实战，主要讲解怎么从零开始生成一个漂亮而且专业的网页。</p>
+<p>如果你有很多想法，但是苦于没有技术能力，那么这篇文章肯定适合你。通过这篇文档的学习，你也可以在10分钟内生成一个专业而且漂亮的网页。</p>
+<p>本篇教程分为三部分：</p>
+<p>1、cursor安装，注册</p>
+<p>2、零基础用cursor生成网页</p>
+<p>接下来，我就开始讲讲怎么下载、安装和注册cursor</p>
+<p>一、cursor安装、注册</p>
+<p>1、cursor安装</p>
+<p>我们需要到cursor下载cursor安装包，cursor的官网就在下方</p>
+<p>cursor官网: cursor.com</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e58e1b7cf883e0f104086786efd899f669fae2a0fde8f024873c1d8e5aca812/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871456f724346334b47766f6963777869636168306b5747687a4f487155507a664673535a546836737155644d3378456650785a366253476867512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/8e58e1b7cf883e0f104086786efd899f669fae2a0fde8f024873c1d8e5aca812/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871456f724346334b47766f6963777869636168306b5747687a4f487155507a664673535a546836737155644d3378456650785a366253476867512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qEorCF3KGvoicwxicah0kWGhzOHqUPzfFsSZTh6sqUdM3xEfPxZ6bSGhgQ/640?wx_fmt=png" style="max-width: 100%;"></a><br>
+   </p>
+<p>在下载cursor后，点击安装，苹果电脑上，应该会看到下面的图标</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dae8e74b50a846712543cef8acf6f0576fb8df19210e5c248eb237f60ce527ed/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714534324c7534765264614a696141665569617265395841453642366d78536f4b534e54415452376d6a4e69626b6a6a637366454c554556774a772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/dae8e74b50a846712543cef8acf6f0576fb8df19210e5c248eb237f60ce527ed/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714534324c7534765264614a696141665569617265395841453642366d78536f4b534e54415452376d6a4e69626b6a6a637366454c554556774a772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qE42Lu4vRdaJiaAfUiare9XAE6B6mxSoKSNTATR7mjNibkjjcsfELUEVwJw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>点击后，就可以打开我们的cursor页面了（可能需要预先安装vs code，百度查找如何安装即可）。</p>
+<p>2、cursor注册</p>
+<p>cursor不是免费完全免费的软件，Pro用户需要20$一个月，和ChatGPT plus一样。不过幸运的是，对于新用户，都是可以免费使用14天的。所以，我们只要多注册账号，可以说就能无限使用了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/beabd0e9e92a5ea52e9094407767ac693cf2a9b88e9bb83c614b0c44b08d29e8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f4566703857416853577836566446387145734a315235597865367a3839465262425a6d6b53634e656c766d6d75684e4b54706b47735866556d357169614a65464c4a77455a7471772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/beabd0e9e92a5ea52e9094407767ac693cf2a9b88e9bb83c614b0c44b08d29e8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f4566703857416853577836566446387145734a315235597865367a3839465262425a6d6b53634e656c766d6d75684e4b54706b47735866556d357169614a65464c4a77455a7471772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qEsJ1R5Yxe6z89FRbBZmkScNelvmmuhNKTpkGsXfUm5qiaJeFLJwEZtqw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>cursor支持2种账号登陆，github和gmail    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/65ee5a4738d45a743f3776a6c08e59c0560cdd8d8322363d11956f50e0c24d19/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871457844554151334d78416d3133665a6f336a394543566646586c38646e64774573717a4a3752307836554d64716b6963666c4361364e55772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/65ee5a4738d45a743f3776a6c08e59c0560cdd8d8322363d11956f50e0c24d19/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871457844554151334d78416d3133665a6f336a394543566646586c38646e64774573717a4a3752307836554d64716b6963666c4361364e55772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qExDUAQ3MxAm13fZo3j9ECVfFXl8dndwEsqzJ7R0x6UMdqkicflCa6NUw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>github帐号和gmail帐号注册，网上有不少教程，这儿就不多说了。</p>
+<p>在注册了gmail邮箱或者github帐号之后，我们就可以登陆cursor，开始AI编程啦～</p>
+<p>二、零基础AI生成专业漂亮的网页</p>
+<p>在开始生成网页前，我们得先了解，我们要做的是什么网站，确定网站类型后，就可以让cursor生成大概的框架。</p>
+<p>接下来，按照这个思路，我们先让cursor帮我们生成一个框架，就以个人博客为例吧    </p>
+<p>1、根据网站类型，生成框架</p>
+<p>我们先打开cursor，然后点击新建，根据提示，可以把我们的新建的网页保存到指定的路径</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ee1cccfaa00774e8bf0d9b9ce5823b4fa413849b7fd9a180a433bde3ef0a467/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f4566703857416853577836566446387145547244325a665736626961515a6a6d39554b48775769625866374d686348445369636a73595a414a6279714c426d75667864323662774744412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/0ee1cccfaa00774e8bf0d9b9ce5823b4fa413849b7fd9a180a433bde3ef0a467/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f4566703857416853577836566446387145547244325a665736626961515a6a6d39554b48775769625866374d686348445369636a73595a414a6279714c426d75667864323662774744412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qETrD2ZfW6biaQZjm9UKHwWibXf7MhcHDSicjsYZAJbyqLBmufxd26bwGDA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>在最后一步，需要设置我们的文件名，我们可以设置为「index.html」，注意，后缀名一定要是.html</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5bb4b57919c2cef8badeb1e7de6783d2e5eee00a7c1c32d5a333d6198a362c26/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714555765530434e6961353163384a30786263366b67716f69636238696351756d33524f36377652464f716770536f374a6373794869636479495a672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/5bb4b57919c2cef8badeb1e7de6783d2e5eee00a7c1c32d5a333d6198a362c26/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714555765530434e6961353163384a30786263366b67716f69636238696351756d33524f36377652464f716770536f374a6373794869636479495a672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qEUvU0CNia51c8J0xbc6kgqoicb8icQum3RO67vRFOqgpSo7JcsyHicdyIZg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>完成了文件创建后，使用指令「command」 + L 打开对话窗口，如下图所示</p>
+<p>把我们的提示词贴进去，然后按回车键，就可以让cursor帮我们生成网页了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f00ebecb5f32a91b78a33312aeedcb1e491b48c4e1474d6e21ec91faf1e2c010/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871453168494676653130596c54365a35485757536c7050753157476e636e6b69614f506a4263584a73336643536238506566484861416d73412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/f00ebecb5f32a91b78a33312aeedcb1e491b48c4e1474d6e21ec91faf1e2c010/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871453168494676653130596c54365a35485757536c7050753157476e636e6b69614f506a4263584a73336643536238506566484861416d73412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qE1hIFve10YlT6Z5HWWSlpPu1WGncnkiaOPjBcXJs3fCSb8PefHHaAmsA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>在代码生成后，点击红框中的「Apply」按钮    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7ebc772e756577e5e9197b3bb84a89e812529893d605fbc90ccbd9253303af5c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871456f6c523369636e725476534845564f6b7a753278696236706f48734f775a326c336b72706271764968566962796962767a547168596e6a5046672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/7ebc772e756577e5e9197b3bb84a89e812529893d605fbc90ccbd9253303af5c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871456f6c523369636e725476534845564f6b7a753278696236706f48734f775a326c336b72706271764968566962796962767a547168596e6a5046672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qEolR3icnrTvSHEVOkzu2xib6poHsOwZ2l3krpbqvIhVibyibvzTqhYnjPFg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>点击完成后，代码会自动的显示在我们编辑器的左侧，如下图所示：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3734e27b4e4e870439b7153a5b058affcdde88036446497390190127fe183fc0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714553696166487851576b43777161716963644f35527a5a6f316b4e674836644f6e5a394a7031414c556a65363432564a7a506e354e36506c512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/3734e27b4e4e870439b7153a5b058affcdde88036446497390190127fe183fc0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714553696166487851576b43777161716963644f35527a5a6f316b4e674836644f6e5a394a7031414c556a65363432564a7a506e354e36506c512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qESiafHxQWkCwqaqicdO5RzZo1kNgH6dOnZ9Jp1ALUje642VJzPn5N6PlQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>点击「Accept」，我们就可以使用AI生成的代码啦～</p>
+<p>保存之后，找到index.html，点击打开，可以看到下面的效果    </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/21fbad19b6db44e5ab11ce71f1a1cd1ba33428af47ce87c8db574de3fe498c48/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f4566703857416853577836566446387145726669624f3350676d7a4a696278797a6961706e4d5063366c545531415235696338665a756d6b576e4f6a4a696134584d7352384357564c7165412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/21fbad19b6db44e5ab11ce71f1a1cd1ba33428af47ce87c8db574de3fe498c48/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f4566703857416853577836566446387145726669624f3350676d7a4a696278797a6961706e4d5063366c545531415235696338665a756d6b576e4f6a4a696134584d7352384357564c7165412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qErfibO3PgmzJibxyziapnMPc6lTU1AR5ic8fZumkWnOjJia4XMsR8CWVLqeA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>这个页面，看起来很素，也很难看，像是上个世纪的网页，不过没关系，这也是一个网页的框架了。我们在接下来的过程中，逐步丰富，逐步美化。</p>
+<p>小结：对于某些类型的网页，不知道有哪些部分组成，可以指定主题，让AI罗列内容，然后在美化。</p>
+<p>2、美化网页</p>
+<p>在前面，我们已经生成了一个博客网页，不过这个网页实在太丑了，我们现在就用cursor美化一下</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d9546eb4fc01e5213adec983a324911a1add06fea0c9f11ec2595156e03b1e8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f4566703857416853577836566446387145493073443636637775616649775a38453864306c55586e77485969623931306f514b6c366b6f52566a367054495934436c5751704255772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/6d9546eb4fc01e5213adec983a324911a1add06fea0c9f11ec2595156e03b1e8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f4566703857416853577836566446387145493073443636637775616649775a38453864306c55586e77485969623931306f514b6c366b6f52566a367054495934436c5751704255772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qEI0sD66cwuafIwZ8E8d0lUXnwHYib910oQKl6koRVj6pTIY4ClWQpBUw/640?wx_fmt=png" style="max-width: 100%;"></a><br>
+   </p>
+<p>通过这个提示词，我们的相对来说美观了不少。</p>
+<p>当然，我们还可以也可以试试别的风格</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e394015c2b41c5cec079b92770174e4e7c32d9079cfa8939788fa49d6406cd7b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871453165373132494e55534f413573334544654a784452663969626d6234376c4531475776506833565a727653684f474d6c6e61336b4330672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/e394015c2b41c5cec079b92770174e4e7c32d9079cfa8939788fa49d6406cd7b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871453165373132494e55534f413573334544654a784452663969626d6234376c4531475776506833565a727653684f474d6c6e61336b4330672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qE1e712INUSOA5s3EDeJxDRf9ibmb47lE1GWvPh3VZrvShOGMlna3kC0g/640?wx_fmt=png" style="max-width: 100%;"></a><br>
+   </p>
+<p>cursor很快把我们网页的主题切换成另外一个风格了，整个过程不到10秒</p>
+<p>小结：网页好不好看和风格有关，用AI可以很快切换风格</p>
+<p>3、调整布局</p>
+<p>我们在前面的过程中，调整了网页的风格，设置了科技风，同时又切换为清新风格。</p>
+<p>不过，我们网页的布局看起来还是不好看。</p>
+<p>博客的标题居中，但是内容却靠左，显得非常不和谐。我们也可以让Cursor进行调整。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e7a8de8e90f15505d08988805b83505bdbe42421306c7327f114b44eb7ebca8f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871454b6b39677574366f69615a425544315259636b31696251794f6c3357327364556257476a764534437550336439754e636d553232584134412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/e7a8de8e90f15505d08988805b83505bdbe42421306c7327f114b44eb7ebca8f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871454b6b39677574366f69615a425544315259636b31696251794f6c3357327364556257476a764534437550336439754e636d553232584134412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qEKk9gut6oiaZBUD1RYck1ibQyOl3W2sdUbWGjvE4CuP3d9uNcmU22XA4A/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>网页的布局相对前一个来说，已经有所改观了，但是还是不好看，那么我们可以在调整。</p>
+<p>当前布局仍然不好看，右侧的区域太空旷了，整体不协调,请继续调整。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c9efefec6f80e2b000feb2a8a5c54de345986bef3934ef81d0b1a56dfc92cd5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714534394142696169617277716749764956624d32326b464e4a4f617844584f536d4332676a5069614876597932526f36705468644730674871672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/0c9efefec6f80e2b000feb2a8a5c54de345986bef3934ef81d0b1a56dfc92cd5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714534394142696169617277716749764956624d32326b464e4a4f617844584f536d4332676a5069614876597932526f36705468644730674871672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qE49ABiaiarwqgIvIVbM22kFNJOaxDXOSmC2gjPiaHvYy2Ro6pThdG0gHqg/640?wx_fmt=png" style="max-width: 100%;"></a><br>
+   </p>
+<p>经过一轮调整后，整体协调了很多，当然了，如果觉得不好看，还可以让cursor继续调整</p>
+<p>小结：布局调整时，不用明确调整哪些布局，让AI帮你选择好看的布局。</p>
+<p>4、添加内容</p>
+<p>我们已经完成了整个网页的布局和主题了，如果我们想在网页上再增加新的内容该咋办呢？</p>
+<p>还得是看AI，比如，我想在网页中增加个人介绍，我们也可以让AI帮忙加。</p>
+<p>请帮我加上个人介绍，要求有头像，有年龄介绍、职业介绍、邮箱</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/509f95acb884edef624073cc683578868b79244b1caead9385f14ff65c5d02ca/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714572674e4c4758437a437958565276764e49454b47416534496e45794b30427a456e366b3932433469614a6f51464e6961577639534e396e772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/509f95acb884edef624073cc683578868b79244b1caead9385f14ff65c5d02ca/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f456670385741685357783656644638714572674e4c4758437a437958565276764e49454b47416534496e45794b30427a456e366b3932433469614a6f51464e6961577639534e396e772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qErgNLGXCzCyXVRvvNIEKGAe4InEyK0BzEn6k92C4iaJoQFNiaWv9SN9nw/640?wx_fmt=png" style="max-width: 100%;"></a><br>
+   </p>
+<p>cursor很快帮我们添加了头像模块，不过。。整体看起来不好看，我们可以要求再次调整</p>
+<p>请帮我调整个人介绍模块，要求美化，并且调整位置和布局，让整体美观</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/210d138c78cabd354643a5e199b537de92975ac437b294ead1eccd1b017910ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871454d615a544d5a726a505036304e696347504e3730737463304f31724e726b3863414b69634a74754e44634239756963634565744271563452512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/210d138c78cabd354643a5e199b537de92975ac437b294ead1eccd1b017910ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f346b696134524553633044784575624f45667038574168535778365664463871454d615a544d5a726a505036304e696347504e3730737463304f31724e726b3863414b69634a74754e44634239756963634565744271563452512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4kia4RESc0DxEubOEfp8WAhSWx6VdF8qEMaZTMZrjPP60NicGPN70stc0O1rNrk8cAKicJtuNDcB9uiccEetBqV4RQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>调整之后，整体美观了很多。</p>
+<p>由于时间原因，本次的分享到此结束啦，后续，我将再次手把手教大家用Cursor写一个有用的chrome插件，感谢阅读～</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

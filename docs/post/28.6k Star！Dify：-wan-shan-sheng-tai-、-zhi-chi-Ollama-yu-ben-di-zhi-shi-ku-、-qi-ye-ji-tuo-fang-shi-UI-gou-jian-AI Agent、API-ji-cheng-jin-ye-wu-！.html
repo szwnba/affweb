@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> Aitrainee | 公众号：AI进修生
+
+> 🌟Dify 是一款开源的大语言模型(LLM) 应用开发平台，它融合了后端即服务和 LLMOps 的理念，使开发者可以快速搭建生产级的生成式 AI 应用。">
+<meta property="og:title" content="28.6k Star！Dify：完善生态、支持Ollama与本地知识库、企业级拖放式UI构建AI Agent、API集成进业务！">
+<meta property="og:description" content="> Aitrainee | 公众号：AI进修生
+
+> 🌟Dify 是一款开源的大语言模型(LLM) 应用开发平台，它融合了后端即服务和 LLMOps 的理念，使开发者可以快速搭建生产级的生成式 AI 应用。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/28.6k%20Star%EF%BC%81Dify%EF%BC%9A-wan-shan-sheng-tai-%E3%80%81-zhi-chi-Ollama-yu-ben-di-zhi-shi-ku-%E3%80%81-qi-ye-ji-tuo-fang-shi-UI-gou-jian-AI%20Agent%E3%80%81API-ji-cheng-jin-ye-wu-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>28.6k Star！Dify：完善生态、支持Ollama与本地知识库、企业级拖放式UI构建AI Agent、API集成进业务！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">28.6k Star！Dify：完善生态、支持Ollama与本地知识库、企业级拖放式UI构建AI Agent、API集成进业务！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/583" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>Aitrainee | 公众号：AI进修生</p>
+</blockquote>
+<blockquote>
+<p>🌟Dify 是一款开源的大语言模型(LLM) 应用开发平台，它融合了后端即服务和 LLMOps 的理念，使开发者可以快速搭建生产级的生成式 AI 应用。</p>
+<p>即使你是非技术人员，也能参与到 AI 应用的定义和数据运营过程中，使用拖放式 UI 构建 AI 应用程序和 RAG 工作流程！</p>
+</blockquote>
+<h3>体验地址：<a href="https://cloud.dify.ai/apps" rel="nofollow">https://cloud.dify.ai/apps</a></h3>
+<h3>为什么使用 Dify？</h3>
+<p>你或许可以把 LangChain 这类的开发库（Library）想象为有着锤子、钉子的工具箱。与之相比，Dify 提供了更接近生产需要的完整方案，Dify 好比是一套脚手架，并且经过了精良的工程设计和软件测试。</p>
+<p>在可视化画布上构建和测试强大的 AI 工作流程，利用以下所有功能及其他功能。</p>
+<blockquote>
+<p>我们的社区用户对 Dify 的产品评价可以归结为简单、克制、迭代迅速。——路宇，Dify.AI CEO</p>
+</blockquote>
+<h3>Dify 能做什么？</h3>
+<p>Dify 一词源自 Define + Modify，意指定义并且持续的改进你的 AI 应用，它是为你而做的（Do it for you）。</p>
+<p>创业，快速的将你的 AI 应用创意变成现实，无论成功和失败都需要加速。在真实世界，已经有几十个团队通过 Dify 构建 MVP（最小可用产品）获得投资，或通过 POC（概念验证）赢得了客户的订单。</p>
+<p>将 LLM 集成至已有业务，通过引入 LLM 增强现有应用的能力，接入 Dify 的 RESTful API 从而实现 Prompt 与业务代码的解耦，在 Dify 的管理界面是跟踪数据、成本和用量，持续改进应用效果。</p>
+<p>作为企业级 LLM 基础设施，一些银行和大型互联网公司正在将 Dify 部署为企业内的 LLM 网关，加速 GenAI 技术在企业内的推广，并实现中心化的监管。</p>
+<p>探索 LLM 的能力边界，即使你是一个技术爱好者，通过 Dify 也可以轻松的实践 Prompt 工程和 Agent 技术，在 GPTs 推出以前就已经有超过 60,000 开发者在 Dify 上创建了自己的第一个应用。</p>
+<h3>知识库</h3>
+<h4>从 Notion 导入数据</h4>
+<p>Dify 数据集支持从 Notion 导入，并设置 同步 使得数据在 Notion 更新后便自动同步到 Dify。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/768b73a398113ff566076648a051a22c34a428d0dc395ea456fe5c18e7f6a4a9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b77785165703277355379756a5469633241573437466831507a5a64566172355134384a626b53327a3751696231547571364752495a5a4b444e6f772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/768b73a398113ff566076648a051a22c34a428d0dc395ea456fe5c18e7f6a4a9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b77785165703277355379756a5469633241573437466831507a5a64566172355134384a626b53327a3751696231547571364752495a5a4b444e6f772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQep2w5SyujTic2AW47Fh1PzZdVar5Q48JbkS2z7Qib1Tuq6GRIZZKDNow/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Dify中存在知识库数据集的单独API，这与他的服务api不同，你可以单独的使用数据集的API：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d6568e076222602822a6bc0ff8090974314e088d3dfbdcfcf5770781e9892ed/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851796962386a31523659786b627056757757676669637046673069625530425a57636961424b62437958575a684139425268554b727273534334672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2d6568e076222602822a6bc0ff8090974314e088d3dfbdcfcf5770781e9892ed/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851796962386a31523659786b627056757757676669637046673069625530425a57636961424b62437958575a684139425268554b727273534334672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQyib8j1R6YxkbpVuwWgficpFg0ibU0BZWciaBKbCyXWZhA9BRhUKrrsSC4g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>工作流</h3>
+<p>工作流通过将复杂的任务分解成较小的步骤，提高了 LLM 应用面向复杂任务的性能。</p>
+<p>Dify 工作流按应用情景划分为两种类型：</p>
+<p>    • Chatflow：面向多步逻辑的对话式应用程序。</p>
+<ul>
+<li>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0393f47dc7dc35a08cbc9a6651ae85490d0b87195c9cfdfba7b93db963a09bcb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b7778513630416963724a6f58486c4c7942786e6546537657795653525a654166745a304149566b766866334544696263566d39766e7569624d7776412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0393f47dc7dc35a08cbc9a6651ae85490d0b87195c9cfdfba7b93db963a09bcb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b7778513630416963724a6f58486c4c7942786e6546537657795653525a654166745a304149566b766866334544696263566d39766e7569624d7776412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQ60AicrJoXHlLyBxneFSvWyVSRZeAftZ0AIVkvhf3EDibcVm9vnuibMwvA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p>• Workflow：面向自动化和批处理情景，适合高质量翻译、数据分析、内容生成、电子邮件自动化等应用程序。</p>
+</li>
+<li>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c22835de039484b47627cb237b2eb1d10d3a2bbfdc4d5af69833ed5bd829bf1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851463632354c4f7861577130784c36374a3466615255786633424469616e4550383664637954476747343956497a4a4b666e726a6c716961672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4c22835de039484b47627cb237b2eb1d10d3a2bbfdc4d5af69833ed5bd829bf1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851463632354c4f7861577130784c36374a3466615255786633424469616e4550383664637954476747343956497a4a4b666e726a6c716961672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQF625LOxaWq0xL67J4faRUxf3BDianEP86dcyTGgG49VIzJKfnrjlqiag/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+</li>
+</ul>
+<p>    • 常见案例：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b1d1dc507eb8dc57309aa6d988e32d156f1e8b3b980e85f565b5cdd0b25c2309/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b77785169627946566a314e6f4e6e56646c6636456c5473326c7455566e79515a765565336671334e62696170584b4e69636961635150705339306362412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b1d1dc507eb8dc57309aa6d988e32d156f1e8b3b980e85f565b5cdd0b25c2309/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b77785169627946566a314e6f4e6e56646c6636456c5473326c7455566e79515a765565336671334e62696170584b4e69636961635150705339306362412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQibyFVj1NoNnVdlf6ElTs2ltUVnyQZvUe3fq3NbiapXKNiciacQPpS90cbA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>官方文档中详细的介绍了各种使用的节点，以及最终形成的工作流是支持导出的，方便我们团队协作。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/958890070fdcffdeb7255db687709ad451dbfa816b3ca57bbf1981ccafc5e529/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851745775454961554a76735a486e4636704130576a6a5566796c6d6a42385749564741735a574b4a784b7a4d5034536d533069624f6672772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/958890070fdcffdeb7255db687709ad451dbfa816b3ca57bbf1981ccafc5e529/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851745775454961554a76735a486e4636704130576a6a5566796c6d6a42385749564741735a574b4a784b7a4d5034536d533069624f6672772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQtWuEIaUJvsZHnF6pA0WjjUfylmjB8WIVGAsZWKJxKzMP4SmS0ibOfrw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>接入众多LLM</h3>
+<p>Dify 目前已支持主流的模型供应商，例如 OpenAI 的 GPT 系列、Anthropic 的 Claude 系列等。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43c8a97809700f6e4d89e86054fa936b03d98b1ce675292d76708d09fd9df2d2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962744f3958723537597376585a4e6537374637346a3438356b35366e446539337a677662366548577767386a596f514d6b6962546a54556b78767549334371445876446c59324d313962726745512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/43c8a97809700f6e4d89e86054fa936b03d98b1ce675292d76708d09fd9df2d2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962744f3958723537597376585a4e6537374637346a3438356b35366e446539337a677662366548577767386a596f514d6b6962546a54556b78767549334371445876446c59324d313962726745512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibtO9Xr57YsvXZNe77F74j485k56nDe93zgvb6eHWwg8jYoQMkibTjTUkxvuI3CqDXvDlY2M19brgEQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><em>模型配置教程：<a href="https://docs.dify.ai/v/zh-hans/guides/model-configuration" rel="nofollow">https://docs.dify.ai/v/zh-hans/guides/model-configuration</a></em></p>
+<p><em>请查看公众号往期文章（有关于免费OpenAI API调用的介绍、部署项目的时候如何进行API配置）</em></p>
+<p>在 Dify 的 设置 &gt; 模型供应商 中设置要接入的模型。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3774e3aa0948689e4f94d749a8cbd588da730dbdb71f53f10dc623dadac4735b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b77785163585564625633464d4c496a3775504554635351446336544e6e78415754785a513566393768466731514c796f3057315554626730412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3774e3aa0948689e4f94d749a8cbd588da730dbdb71f53f10dc623dadac4735b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b77785163585564625633464d4c496a3775504554635351446336544e6e78415754785a513566393768466731514c796f3057315554626730412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQcXUdbV3FMLIj7uPETcSQDc6TNnxAWTxZQ5f97hFg1QLyo0W1UTbg0A/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>配置完模型后，就可以在应用中使用这些模型了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bd22f4b1af1f8766c32f41907c2972f1156fa6440300e997b04d93bf514ae62a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851336963696136673066696146426c6d6d356344684969626962465938586569616761557357384d5273775a36464a6962396d543061703847736d576c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bd22f4b1af1f8766c32f41907c2972f1156fa6440300e997b04d93bf514ae62a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851336963696136673066696146426c6d6d356344684969626962465938586569616761557357384d5273775a36464a6962396d543061703847736d576c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQ3icia6g0fiaFBlmm5cDhIibibFY8XeiagaUsW8MRswZ6FJib9mT0ap8GsmWlA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>除此以外，Dify对于各种基础LLM，进行强大的兼容支持，支持各种本地如ollama以及第三方的模型，甚至支持你自定义的模型（需要自己重写类，和编写配置yaml）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/933396abe8e2f82a78de4c801fea0700445a8d65b9ac399c17011510239ecd72/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962744f3958723537597376585a4e6537374637346a3438496469636963435869625339546851555753524f6233346a3645524a4c726e6e574b516e506470724b69634f544d4562696136474b4a79504579672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/933396abe8e2f82a78de4c801fea0700445a8d65b9ac399c17011510239ecd72/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962744f3958723537597376585a4e6537374637346a3438496469636963435869625339546851555753524f6233346a3645524a4c726e6e574b516e506470724b69634f544d4562696136474b4a79504579672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibtO9Xr57YsvXZNe77F74j48IdicicCXibS9ThQUWSROb34j6ERJLrnnWKQnPdprKicOTMEbia6GKJyPEyg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>发布你的应用</h3>
+<p>Dify还挺给力，用它创建AI应用，几分钟就能弄出一个Web应用，用户直接用，多方便。</p>
+<p><strong>发布AI站点</strong>：</p>
+<ul>
+<li>
+<p>• 不管你是自己部署还是用云服务，比如Udify.app，都能快速上线。</p>
+</li>
+<li>
+<p>• 在应用概览页里，找到那个AI站点（WebApp）的卡片，开启访问，就有链接可以分享了。</p>
+</li>
+<li>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f1d414ca95b23600cc8a25784e1dde73406ee08c1f36bb6fff8787ef39277b35/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851343866366b4b4f4e696347765541444946596e696337784256647a32584750313669636b534e69614450524e6b3666684e5a786962624e74594e412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f1d414ca95b23600cc8a25784e1dde73406ee08c1f36bb6fff8787ef39277b35/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851343866366b4b4f4e696347765541444946596e696337784256647a32584750313669636b534e69614450524e6b3666684e5a786962624e74594e412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQ48f6kKONicGvUADIFYnic7xBVdz2XGP16ickSNiaDPRNk6fhNZxibbNtYNA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+</li>
+</ul>
+<p><strong>分享应用</strong>：</p>
+<ul>
+<li>• 无论是文本生成还是对话型应用，Dify都提供了好看的WebApp界面。就像是应用的脸，看起来得漂亮。</li>
+</ul>
+<p><strong>设置你的AI站点</strong>：</p>
+<ul>
+<li>• 点击WebApp卡片上的设置，可以弄一些东西，比如图标、名称、应用描述、界面语言、版权信息，还有隐私政策链接。这些都是最终用户会看到的。</li>
+</ul>
+<p><strong>嵌入你的AI站点</strong>：</p>
+<ul>
+<li>
+<p>• Dify支持把你的AI应用嵌入到你的商业网站里。比如想做个AI客服或者问答系统，只要点击WebApp的嵌入按钮，复制那个嵌入代码，然后粘贴到你网站的合适位置。</p>
+</li>
+<li>
+<p>• 用<code class="notranslate">iframe</code>标签，把代码放到网站的<code class="notranslate">&lt;div&gt;</code>、<code class="notranslate">&lt;section&gt;</code>这样的地方。</p>
+</li>
+<li>
+<p>• 或者用<code class="notranslate">script</code>标签，复制代码到网站的<code class="notranslate">&lt;head&gt;</code>或<code class="notranslate">&lt;body&gt;</code>中。</p>
+</li>
+<li>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5aebe00fec7a54d962987c979e5ba5b448d0e90107fc7b51c7b1fa03cc6113b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851436468564868656e43376664474f36346746424b76506a61726746487036696130673246506c72324a6961416e6c676643726236417063772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5aebe00fec7a54d962987c979e5ba5b448d0e90107fc7b51c7b1fa03cc6113b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851436468564868656e43376664474f36346746424b76506a61726746487036696130673246506c72324a6961416e6c676643726236417063772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQCdhVHhenC7fdGO64gFBKvPjargFHp6ia0g2FPlr2JiaAnlgfCrb6Apcw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+</li>
+</ul>
+<p>比如说，你把script代码粘贴到官网的<code class="notranslate">&lt;body&gt;</code>里，这样就能有个官网AI机器人了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a72b20e36b6e6602fd1f6f65ae7302984968e55ae7b2e2e5f6c716d145d774d1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b7778514d455130554976756561344b58306b52347062696364754c32344d6a7478314d574f5468437a4365416576764969613450384767545046672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a72b20e36b6e6602fd1f6f65ae7302984968e55ae7b2e2e5f6c716d145d774d1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b7778514d455130554976756561344b58306b52347062696364754c32344d6a7478314d574f5468437a4365416576764969613450384767545046672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQMEQ0UIvuea4KX0kR4pbicduL24Mjtx1MWOThCzCeAevvIia4P8GgTPFg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Dify API基于“后端即服务”的理念，它让所有应用开发者都能轻松把大型语言模型的能力塞到前端应用里。想象一下，不用搞复杂的后端架构，直接在前端搞定一切。</p>
+<p>这Dify API的好处多着呢：</p>
+<ul>
+<li>
+<p>• 直接在前端安全调用LLM，免去一堆后端开发麻烦。</p>
+</li>
+<li>
+<p>• 设计应用时候，你看到的可视化界面，改啥都能实时反馈到所有客户端。</p>
+</li>
+<li>
+<p>• 管理LLM供应商和密钥？都帮你封装得妥妥的，想换就换。</p>
+</li>
+<li>
+<p>• 还有工具、插件、数据集持续更新，保证你的应用总是跟得上步伐。</p>
+</li>
+</ul>
+<p>怎么用呢？简单得很：</p>
+<ol>
+<li>
+<p>1. 在应用的左侧导航找到“API Access”。</p>
+</li>
+<li>
+<p>2. 看看Dify提供的API文档，管理下你的API凭证。</p>
+</li>
+<li>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d5f6859bce7a50cdc85752f976e3f0bde51bb2d4bb00ee1f3eaa9725cc435744/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851455938476e4548686b5077635162783353575954675a4b4a4f6d7a41767a6d375769626b626e45564862576961696167333171576e734377772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/d5f6859bce7a50cdc85752f976e3f0bde51bb2d4bb00ee1f3eaa9725cc435744/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f536e31744a6847576d69627569627548765154676c423030477069613870596b777851455938476e4548686b5077635162783353575954675a4b4a4f6d7a41767a6d375769626b626e45564862576961696167333171576e734377772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQEY8GnEHhkPwcQbx3SWYTgZKJOmzAvzm7WibkbnEVHbWiaiag31qWnsCww/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+</li>
+</ol>
+<p>想具体操作看看吗？比如你是开发部的，要用公司的数据库给终端用户提供AI能力，但你又不想外人摸清你的数据和AI逻辑。这时候，API密钥得后端调用，保证安全，防止被滥用。</p>
+<p>搞文本生成型应用？调用<code class="notranslate">completion-messages</code>接口，输入点什么，文本结果就出来了。下面是个调用示例：</p>
+<p><code class="notranslate">curl --location --request POST 'https://api.dify.ai/v1/completion-messages' \   --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \   --header 'Content-Type: application/json' \   --data-raw '{       "inputs": {},       "response_mode": "streaming",       "user": "abc-123"   }'</code></p>
+<p>或者是对话型应用，采用一问一答模式，持续对话的那种。启动对话的API调用看这里：</p>
+<p><code class="notranslate">curl --location --request POST 'https://api.dify.ai/v1/chat-messages' \   --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \   --header 'Content-Type: application/json' \   --data-raw '{       "inputs": {},       "query": "eh",       "response_mode": "streaming",       "conversation_id": "1c7e55fb-1ba2-4e10-81b5-30addcea2276"       "user": "abc-123"   }'</code></p>
+<p>下面提供Dify官方的<strong>文档介绍、相关资源、部署教程</strong>等，进一步支撑你的行动，以提升本文的帮助力。</p>
+<p>Dify 是一个开源的 LLM 应用开发平台。其直观的界面结合了 AI 工作流、RAG 管道、Agent、模型管理、可观测性功能等，让您可以快速从原型到生产。以下是其核心功能列表：</p>
+<p><strong>1. 工作流</strong>: 在画布上构建和测试功能强大的 AI 工作流程，利用以下所有功能以及更多功能。</p>
+<p><a href="https://github.com/langgenius/dify/assets/13230914/356df23e-1604-483d-80a6-9517ece318aa">https://github.com/langgenius/dify/assets/13230914/356df23e-1604-483d-80a6-9517ece318aa</a></p>
+<p><strong>2. 全面的模型支持</strong>: 与数百种专有/开源 LLMs 以及数十种推理提供商和自托管解决方案无缝集成，涵盖 GPT、Mistral、Llama3 以及任何与 OpenAI API 兼容的模型。完整的支持模型提供商列表可在此处找到。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfbdbd76b7f1f39f8ecddab3c5d9d1e1d79a65433c0821ef66bec303284e6c4a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b77785179784d61776275776571704b45634b3563357242385939696155783261354f4459476d6766317474705a61563234696248515472455149412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bfbdbd76b7f1f39f8ecddab3c5d9d1e1d79a65433c0821ef66bec303284e6c4a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d69627569627548765154676c423030477069613870596b77785179784d61776275776571704b45634b3563357242385939696155783261354f4459476d6766317474705a61563234696248515472455149412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibuibuHvQTglB00Gpia8pYkwxQyxMawbuweqpKEcK5c5rB8Y9iaUx2a5ODYGmgf1ttpZaV24ibHQTrEQIA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>3. Prompt IDE</strong>: 用于制作提示、比较模型性能以及向基于聊天的应用程序添加其他功能（如文本转语音）的直观界面。</p>
+<p><strong>4. RAG Pipeline</strong>: 广泛的 RAG 功能，涵盖从文档摄入到检索的所有内容，支持从 PDF、PPT 和其他常见文档格式中提取文本的开箱即用的支持。</p>
+<p><strong>5. Agent 智能体</strong>: 您可以基于 LLM 函数调用或 ReAct 定义 Agent，并为 Agent 添加预构建或自定义工具。Dify 为 AI Agent 提供了50多种内置工具，如谷歌搜索、DELL·E、Stable Diffusion 和 WolframAlpha 等。</p>
+<p><strong>6. LLMOps</strong>: 随时间监视和分析应用程序日志和性能。您可以根据生产数据和标注持续改进提示、数据集和模型。</p>
+<p><strong>7. 后端即服务</strong>: 所有 Dify 的功能都带有相应的 API，因此您可以轻松地将 Dify 集成到自己的业务逻辑中。</p>
+<h2>使用 Dify</h2>
+<ul>
+<li>
+<p>• <strong>云</strong>我们提供[ Dify 云服务]:(<a href="https://dify.ai)%EF%BC%8C%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E5%8F%AF%E4%BB%A5%E9%9B%B6%E8%AE%BE%E7%BD%AE%E5%B0%9D%E8%AF%95%E3%80%82%E5%AE%83%E6%8F%90%E4%BE%9B%E4%BA%86%E8%87%AA%E9%83%A8%E7%BD%B2%E7%89%88%E6%9C%AC%E7%9A%84%E6%89%80%E6%9C%89%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%B9%B6%E5%9C%A8%E6%B2%99%E7%9B%92%E8%AE%A1%E5%88%92%E4%B8%AD%E5%8C%85%E5%90%AB" rel="nofollow">https://dify.ai)，任何人都可以零设置尝试。它提供了自部署版本的所有功能，并在沙盒计划中包含</a> 200 次免费的 GPT-4 调用。</p>
+</li>
+<li>
+<p>• <strong>自托管 Dify 社区版</strong>使用这个入门指南快速在您的环境中运行 Dify。使用我们的[文档]:(<a href="https://docs.dify.ai)%E8%BF%9B%E8%A1%8C%E8%BF%9B%E4%B8%80%E6%AD%A5%E7%9A%84%E5%8F%82%E8%80%83%E5%92%8C%E6%9B%B4%E6%B7%B1%E5%85%A5%E7%9A%84%E8%AF%B4%E6%98%8E%E3%80%82" rel="nofollow">https://docs.dify.ai)进行进一步的参考和更深入的说明。</a></p>
+</li>
+<li>
+<p>• <strong>面向企业/组织的 Dify</strong>我们提供额外的面向企业的功能。与我们安排会议或给我们发送电子邮件讨论企业需求。</p>
+</li>
+</ul>
+<blockquote>
+<p>对于使用 AWS 的初创公司和中小型企业，请查看 AWS Marketplace 上的 Dify 高级版，并使用一键部署到您自己的 AWS VPC。它是一个价格实惠的 AMI 产品，提供了使用自定义徽标和品牌创建应用程序的选项。</p>
+</blockquote>
+<h2>安装社区版</h2>
+<h3>系统要求</h3>
+<p>在安装 Dify 之前，请确保您的机器满足以下最低系统要求：</p>
+<ul>
+<li>
+<p>• CPU &gt;= 2 Core</p>
+</li>
+<li>
+<p>• RAM &gt;= 4GB</p>
+</li>
+</ul>
+<h3>快速启动</h3>
+<p>启动 Dify 服务器的最简单方法是运行我们的 docker-compose.yml 文件。在运行安装命令之前，请确保您的机器上安装了 Docker 和 Docker Compose：</p>
+<p><code class="notranslate">cd docker   docker compose up -d</code></p>
+<p>运行后，可以在浏览器上访问 <a href="http://localhost/install" rel="nofollow">http://localhost/install</a> 进入 Dify 控制台并开始初始化安装操作。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f542540fb02acb29454ad0a7c3394b4b21b49715e69c0df83fa3baac84763b2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962744f3958723537597376585a4e6537374637346a3438334e72495243584e6d4a4c544c4a775162355847306b44306962335063656b356e5574636877703466614f674a50476c46314479696249672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4f542540fb02acb29454ad0a7c3394b4b21b49715e69c0df83fa3baac84763b2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962744f3958723537597376585a4e6537374637346a3438334e72495243584e6d4a4c544c4a775162355847306b44306962335063656b356e5574636877703466614f674a50476c46314479696249672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibtO9Xr57YsvXZNe77F74j483NrIRCXNmJLTLJwQb5XG0kD0ib3Pcek5nUtchwp4faOgJPGlF1DyibIg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h4>使用 Helm Chart 部署</h4>
+<p>使用 Helm Chart 版本，可以在 Kubernetes 上部署 Dify。</p>
+<ul>
+<li>
+<p>• Helm Chart by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/LeoQuote/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/LeoQuote">@LeoQuote</a></p>
+</li>
+<li>
+<p>• Helm Chart by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/BorisPolonsky/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/BorisPolonsky">@BorisPolonsky</a></p>
+</li>
+</ul>
+<h3>配置</h3>
+<p>如果您需要自定义配置，请参考我们的 docker-compose.yml 文件中的注释，并手动设置环境配置。更改后，请再次运行 <code class="notranslate">docker-compose up -d</code>。您可以在我们的文档中查看所有环境变量的完整列表。</p>
+<p>参考链接：</p>
+<p>[1]<a href="https://github.com/langgenius/dify/">https://github.com/langgenius/dify/</a><br>
+[2]<a href="https://cloud.dify.ai/apps" rel="nofollow">https://cloud.dify.ai/apps</a><br>
+[3]<a href="https://docs.dify.ai/v/zh-hans/getting-started/" rel="nofollow">https://docs.dify.ai/v/zh-hans/getting-started/</a></p>
+<p><strong>知音难求，自我修炼亦艰</strong></p>
+<p>抓住前沿技术的机遇，与我们一起成为创新的超级个体</p>
+<p><strong>（把握AIGC时代的个人力量）</strong></p>
+<p><strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/46f7d11d5a16b7736da242188f75bb4f44d5dec07e8d1ebcc57aba15c221292d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962744f3958723537597376585a4e6537374637346a3438663565795762544762596d73355671696274616f6e74777169626c6c69625875774c68454739383170757672434536334f6d506d6a434e46512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/46f7d11d5a16b7736da242188f75bb4f44d5dec07e8d1ebcc57aba15c221292d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f536e31744a6847576d6962744f3958723537597376585a4e6537374637346a3438663565795762544762596d73355671696274616f6e74777169626c6c69625875774c68454739383170757672434536334f6d506d6a434e46512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/Sn1tJhGWmibtO9Xr57YsvXZNe77F74j48f5eyWbTGbYms5VqibtaontwqibllibXuwLhEG981puvrCE63OmPmjCNFQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></strong></p>
+<p>— <strong>完</strong> —</p>
+<p><strong>点这里👇关注我，记得标星哦～</strong></p>
+<p><strong>一键三连「分享」、「点赞」和「在看」</strong></p>
+<p>**科技前沿进展日日相见 ~**</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d3f8bbaea0c17e8a2644e05df8f000be1aa1da5a5f56a461b599a2dfd27d347/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f7376672f6739525169634d4430314d3074596f52515432634d51526d5053355a44797272667a656b7369617939304b61447a6c474248363169637148786d67464b667666587456757754485637343043444c41615855314c49665a796f4a4570594b6352496961452f3634303f77785f666d743d7376672674703d7765627026777866726f6d3d352677785f6c617a793d312677785f636f3d31"><img src="https://camo.githubusercontent.com/2d3f8bbaea0c17e8a2644e05df8f000be1aa1da5a5f56a461b599a2dfd27d347/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f7376672f6739525169634d4430314d3074596f52515432634d51526d5053355a44797272667a656b7369617939304b61447a6c474248363169637148786d67464b667666587456757754485637343043444c41615855314c49665a796f4a4570594b6352496961452f3634303f77785f666d743d7376672674703d7765627026777866726f6d3d352677785f6c617a793d312677785f636f3d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_svg/g9RQicMD01M0tYoRQT2cMQRmPS5ZDyrrfzeksiay90KaDzlGBH61icqHxmgFKfvfXtVuwTHV740CDLAaXU1LIfZyoJEpYKcRIiaE/640?wx_fmt=svg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

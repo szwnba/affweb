@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="前面也说了，通过 **GitHub Pages+GitHub Actions 只是解决了动态数据的展示**，但是要**零成本**完成将用户信息存储下来，并实现数据交互呢？
+
+也就是**对数据进行增删改查**，方法有三：**云文档**，需要对接接口麻烦；**Vercel自身也有storage**方案但不敏捷；**Vercel+Railway 组合**，可以将现成的源码部署上去，就他吧！
+
+虽然网上也有很多人介绍这俩平台的玩法，但都是 2024 年以前的文章，**并且******Railway**平台有最新的修改，和自己踩到的坑而别人没提到的细节**，所以我还是记录一下。">
+<meta property="og:title" content="零成本搭建个人 APP 和小程序后台">
+<meta property="og:description" content="前面也说了，通过 **GitHub Pages+GitHub Actions 只是解决了动态数据的展示**，但是要**零成本**完成将用户信息存储下来，并实现数据交互呢？
+
+也就是**对数据进行增删改查**，方法有三：**云文档**，需要对接接口麻烦；**Vercel自身也有storage**方案但不敏捷；**Vercel+Railway 组合**，可以将现成的源码部署上去，就他吧！
+
+虽然网上也有很多人介绍这俩平台的玩法，但都是 2024 年以前的文章，**并且******Railway**平台有最新的修改，和自己踩到的坑而别人没提到的细节**，所以我还是记录一下。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/ling-cheng-ben-da-jian-ge-ren-%20APP%20-he-xiao-cheng-xu-hou-tai.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>零成本搭建个人 APP 和小程序后台</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">零成本搭建个人 APP 和小程序后台</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/650" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>前面也说了，通过 <strong>GitHub Pages+GitHub Actions 只是解决了动态数据的展示</strong>，但是要<strong>零成本</strong>完成将用户信息存储下来，并实现数据交互呢？</p>
+<p>也就是<strong>对数据进行增删改查</strong>，方法有三：<strong>云文档</strong>，需要对接接口麻烦；<strong>Vercel自身也有storage</strong>方案但不敏捷；<strong>Vercel+Railway 组合</strong>，可以将现成的源码部署上去，就他吧！</p>
+<p>虽然网上也有很多人介绍这俩平台的玩法，但都是 2024 年以前的文章，<strong>并且</strong><strong>Railway平台有最新的修改，和自己踩到的坑而别人没提到的细节</strong>，所以我还是记录一下。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/374da835c7c79e1dc11b4f149b92c167c39d544303bd9dd0959ae75372b3b695/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794f6c664e6963663554547337315a7a3349366963363079495830713369633545457253483279756b3272434c7a4265454c7665794d68726962772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/374da835c7c79e1dc11b4f149b92c167c39d544303bd9dd0959ae75372b3b695/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794f6c664e6963663554547337315a7a3349366963363079495830713369633545457253483279756b3272434c7a4265454c7665794d68726962772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyOlfNicf5TTs71Zz3I6ic60yIX0q3ic5EErSH2yuk2rCLzBeELveyMhribw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>坑点</p>
+<ol>
+<li>
+<p>域名已经解析成功了，但是一直无法访问 Vercel 上的页面。</p>
+</li>
+<li>
+<p>Vercel-php 版本和 Vercel 上的 NodeJs 版本冲突，和一些配置问题。</p>
+</li>
+<li>
+<p>代码提交推送后，Vercel 没有完成自动部署等等。</p>
+</li>
+</ol>
+<p>准备</p>
+<ul>
+<li>
+<p>Vercel：   略过详细介绍，暂且把他理解成云服务器，入门配置免费。</p>
+</li>
+<li>
+<p>Railway： 同样略过详细介绍，暂且把他理解成云数据库，几乎免费。</p>
+</li>
+<li>
+<p>GitHub：  先创建存放程序的仓库，也几乎完全免费，需要注册登陆。</p>
+</li>
+<li>
+<p>Typecho：博客程序 (用其他的也行)，开源免费，下载或自行编写。</p>
+</li>
+</ul>
+<p>Vercel 配置</p>
+<p>进入 vercel 官网，推荐使用 GitHub 账号登陆，配置主要完成仓库的代码导入，域名解析绑定，项目部署和相关参数设置。</p>
+<ul>
+<li>代码导入</li>
+</ul>
+<p>登陆后点击 “Import Git Repository”，然后选择仓库安装并设置权限，接着是 Configure Project，Congratulations 都可以直接下一步进入到 Production Deployment，可参考下图。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a1d175d90e61f39a521fac4dcac9afb680891b566638f34cff63a16d913fa9b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e79776f6c357478557669615450363555735567316d65487a58465162486657355a424545526d476d796a766243494772506c484f727a55672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9a1d175d90e61f39a521fac4dcac9afb680891b566638f34cff63a16d913fa9b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e79776f6c357478557669615450363555735567316d65487a58465162486657355a424545526d476d796a766243494772506c484f727a55672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nywol5txUviaTP65UsUg1meHzXFQbHfW5ZBEERmGmyjvbCIGrPlHOrzUg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a4a8d87884ee6f82dfa8674c993df0b69a3ed66e158f92a68b11cf895b58aafe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794350716a555052355746356d51786e6a4e4454596a72524677787a4c7056776c69614c5a4d6e4d6c757a78514976556e566466344d57412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a4a8d87884ee6f82dfa8674c993df0b69a3ed66e158f92a68b11cf895b58aafe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794350716a555052355746356d51786e6a4e4454596a72524677787a4c7056776c69614c5a4d6e4d6c757a78514976556e566466344d57412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyCPqjUPR5WF5mQxnjNDTYjrRFwxzLpVwliaLZMnMluzxQIvUnVdf4MWA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7c37ee4702e24979a7f8a96d86d1718a309aff2924c35f27843673f3c0886356/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794a5130556330646c7255696274754c30464153746f433261504f554f314d337949363378433562306c37584e7641564b726561524b46772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7c37ee4702e24979a7f8a96d86d1718a309aff2924c35f27843673f3c0886356/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794a5130556330646c7255696274754c30464153746f433261504f554f314d337949363378433562306c37584e7641564b726561524b46772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyJQ0Uc0dlrUibtuL0FAStoC2aPOUO1M3yI63xC5b0l7XNvAVKreaRKFw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9292a503fef20e167cb6a52b350657ba10fab79e3041bd1f993650a830728433/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794369626a42633661456f644967717a67644d6d324868556d56545053306e4d4a64415a3947386962565a796a736236495461766a776a64412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9292a503fef20e167cb6a52b350657ba10fab79e3041bd1f993650a830728433/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794369626a42633661456f644967717a67644d6d324868556d56545053306e4d4a64415a3947386962565a796a736236495461766a776a64412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyCibjBc6aEodIgqzgdMm2HhUmVTPS0nMJdAZ9G8ibVZyjsb6ITavjwjdA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>域名解析绑定</li>
+</ul>
+<p>进入到 “Production Deployment” 时，我们可以看到项目已经创建成功。不但可以看到 source 源仓库分支和提交信息，还能看到 Domains 分配的域名，但是该域名被墙无法访问。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a7980342fb6cf96ecf777c87a1a8798cc416d1b62d8ea726356f437def412fb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e795039425a5a52336c4453655564703973464c4e6d77717a55366d643746765861327848457979517a3877546e3349466f637246746a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4a7980342fb6cf96ecf777c87a1a8798cc416d1b62d8ea726356f437def412fb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e795039425a5a52336c4453655564703973464c4e6d77717a55366d643746765861327848457979517a3877546e3349466f637246746a772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyP9BZZR3lDSeUdp9sFLNmwqzU6md7FvXa2xHEyyQz8wTn3IFocrFtjw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击上面的 “Domains” 按钮（在 Visit 左边），输入即将要解析过来的域名，系统会展示需要用 CNAM 类型被解析的域名，复制该 value 去到自己的域名服务商控制台，添加一条 CNAME 解析记录。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4b55fdb4c1ff562a7865b9b38ac9fc4339a94115a22b2f0866d12cb84f47edde/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e79755135506541474270506872726e6e554835696371347642696258506354486963696339715777726f706b62727954616d457a475361623149772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4b55fdb4c1ff562a7865b9b38ac9fc4339a94115a22b2f0866d12cb84f47edde/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e79755135506541474270506872726e6e554835696371347642696258506354486963696339715777726f706b62727954616d457a475361623149772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyuQ5PeAGBpPhrrnnUH5icq4vBibXPcTHicic9qWwropkbryTamEzGSab1Iw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d66bdb3e019e6e2134086b9cf2eaf969e0e030849d41507cbb4eed1df4ef7c2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7955396a637962743032574669624d69614f375a6555724d696369624a6b69634d764248685266614d4b5879505a35413332686e3079766a4b7a70672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5d66bdb3e019e6e2134086b9cf2eaf969e0e030849d41507cbb4eed1df4ef7c2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7955396a637962743032574669624d69614f375a6555724d696369624a6b69634d764248685266614d4b5879505a35413332686e3079766a4b7a70672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyU9jcybt02WFibMiaO7ZeUrMicibJkicMvBHhRfaMKXyPZ5A32hn0yvjKzpg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>如果说服务商那边解析成功了，并且 Vercel 平台也显示域名验证成功，也就是前面提到的坑点一。这种一般是 DNS 缓存原因，可以换一台电脑或用手机访问测试，如果能就等待一下，直到能 ping 通。</p>
+<p>还有 Vercel 会自动办法 SSL 证书，所以后面只需要留意日期就可以，下图我暂时放了一个 index.html 页面，动态程序演示要放到 Railway 后。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10769a9d6f882fa41ebd301fcd01884b81357d19814ef91513648d1cd873ac47/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7948784d5461357043686a6b34306e7532753845355a36454d6963436b685a6335696358754f6b655a437a455552374c5066454f4557386961772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/10769a9d6f882fa41ebd301fcd01884b81357d19814ef91513648d1cd873ac47/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7948784d5461357043686a6b34306e7532753845355a36454d6963436b685a6335696358754f6b655a437a455552374c5066454f4557386961772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyHxMTa5pChjk40nu2u8E5Z6EMicCkhZc5icXuOkeZCzEUR7LPfEOEW8iaw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d328a4e05534d0bfb54d8daa663264b93d6026af4cfa3709ce64c5c52fbb003/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7963394c596962704739316857374248337865673744565169614b796c763949746157766b4472497465667454376645765068734a4b5470772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5d328a4e05534d0bfb54d8daa663264b93d6026af4cfa3709ce64c5c52fbb003/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7963394c596962704739316857374248337865673744565169614b796c763949746157766b4472497465667454376645765068734a4b5470772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyc9LYibpG91hW7BH3xeg7DVQiaKylv9ItaWvkDrIteftT7fEvPhsJKTpw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Railway 配置</p>
+<p>进入 Railway 官网，同样推荐 GitHub 账号登陆，进来后选择 “MySQL” 类型，直接按默认后进入到 production，最主要的是我们需要分配给他的 Host，账号和密码，数据库名等等。</p>
+<p>需要注意的是 Railway 每个月只有 5 刀的限额，需要提前备份数据库。超过限额后没有备份的数据就没了，需要删掉账户重新注册才可以。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c854ab1fb12ff2e3e0da49ce5b8f8e1449019b5cf106eb0f42f0d3bddbc4e02f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794f414d53363163664d31786963746b6469626c6f68576b50645438366d546a737a656c6e446349466f5438496e547141794569623369627058412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c854ab1fb12ff2e3e0da49ce5b8f8e1449019b5cf106eb0f42f0d3bddbc4e02f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e794f414d53363163664d31786963746b6469626c6f68576b50645438366d546a737a656c6e446349466f5438496e547141794569623369627058412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyOAMS61cfM1xictkdiblohWkPdT86mTjszelnDcIFoT8InTqAyEib3ibpXA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>打开 Data，选择 “Connect” -&gt; “Public Network”，Connection URL 就是该产品对外的连接 Host，用户密码，端口等信息。只需要复制下来，用于在程序中连接配置，Navicat for MySQL 图形化工具连接失败，我试过了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fcffa450ba656f0a4ea683e479c620cc64e0334697ffdca2cca417eddddae9d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7957794c6e71707049454a34617a30487141586962395a43314d707a586175683756764c334d347668386c6479373864696251445467444d412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9fcffa450ba656f0a4ea683e479c620cc64e0334697ffdca2cca417eddddae9d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7957794c6e71707049454a34617a30487141586962395a43314d707a586175683756764c334d347668386c6479373864696251445467444d412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyWyLnqppIEJ4az0HqAXib9ZC1MpzXauh7VvL3M4vh8ldy78dibQDTgDMA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>后端程序部署</p>
+<p>以下简单介绍 php 和 python 两种语言的 hello world，和有数据库连接的博客程序，第一步是后端入口文件都不能放在项目的根目录下，放在新建文件夹的 api 中，并添加 vercel.json（用于配置路由和分配内存等信息）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e820e6aaa669162621c4e6e2e9000a6a71ca8e71d1f338e19c5e5d800288d34/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e79585a7a757a70346c696237625033664a5257646d3971333472745659496e4e454e75446f424e70496f7465454871504865764e78336962772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7e820e6aaa669162621c4e6e2e9000a6a71ca8e71d1f338e19c5e5d800288d34/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e79585a7a757a70346c696237625033664a5257646d3971333472745659496e4e454e75446f424e70496f7465454871504865764e78336962772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyXZzuzp4lib7bP3fJRWdm9q34rtVYInNENuDoBNpIoteEHqPHevNx3ibw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>Python 的 Hello World</li>
+</ul>
+<p>新建 vercel.json 文件，和用于打印的 py 文件，最后访问自定义的域名。</p>
+<pre class="notranslate"><code class="notranslate">{    "rewrites": [        { "source": "/(.*)", "destination": "/api/index" }    ]}
+</code></pre>
+<ul>
+<li>PHP 的 Hello World</li>
+</ul>
+<p>需要注意的是部署 php 项目要用到 vercel-php，而 vercel-php 又与 NodeJs 版本有一定对应关系。目前 2024 年 8 月 vercel 平台默认 Node 版本是 20.x，我下面演示的是 vercel-php@0.6.0，所以再部署前需要先将 Node 版本切换为 18.x，如下图。（以下有两种情况的报错都要 node 和 vercel-php 版本相关）</p>
+<pre class="notranslate"><code class="notranslate">部署后报错合集1. PHP Built-In Server HTTP error: Error: connect ECONNREFUSED 127.0.0.1:80002. The following Serverless Functions contain an invalid "runtime": - api/index (nodejs18.x)
+</code></pre>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/078319fa3017e22c8ead917711396f05afab4ebad4b2333263949e783a126456/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7968634e486c434a72355876483646367068657634596962663236413032516f4464775a3151324357644579476a37506a483872516b34412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/078319fa3017e22c8ead917711396f05afab4ebad4b2333263949e783a126456/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7968634e486c434a72355876483646367068657634596962663236413032516f4464775a3151324357644579476a37506a483872516b34412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyhcNHlCJr5XvH6F6phev4Yibf26A02QoDdwZ1Q2CWdEyGj7PjH8rQk4A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<ul>
+<li>Typecho 安装</li>
+</ul>
+<p>从官网下载源码后，找到 config.inc.php 文件，将数据库的参数修改为 Railway 复制过来的配置。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ef53abd0b5ce0a89799d38922ba33d5dcea5a43525412c6e54441c76cff5b955/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e795349494c486f616437777732504e5761666b4c4b4c50655a6963737a4b583878765873696252744d3159744155363042696130634b746552512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ef53abd0b5ce0a89799d38922ba33d5dcea5a43525412c6e54441c76cff5b955/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e795349494c486f616437777732504e5761666b4c4b4c50655a6963737a4b583878765873696252744d3159744155363042696130634b746552512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nySIILHoad7ww2PNWafkLKLPeZicszKX8xvXsibRtM1YtAU60Bia0cKteRQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后通过 Git 提交代码到仓库，如果发现没有部署成功，可以进入 vercel 平台的 Deployments 查看部署记录，有报错的根据信息修改。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b6bfcb9aae698c42aea716e466bdb1b03d6f83a6495db0365929eeece97b02cd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7957636961794258664c726b64557868566d476961556d33564362584842483269615836677878597551334746514d7044486962345232526a47412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b6bfcb9aae698c42aea716e466bdb1b03d6f83a6495db0365929eeece97b02cd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e7957636961794258664c726b64557868566d476961556d33564362584842483269615836677878597551334746514d7044486962345232526a47412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyWciayBXfLrkdUxhVmGiaUm3VCbXHBH2iaX6gxxYuQ3GFQMpDHib4R2RjGA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>提交并成功部署后，输入自定义域名，并带上 install.php 进行安装，然后用 pdo 方式安装数据库，上面的 railway 参数就再输入一遍。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5b9ba5ab5f76ac0e58f4b6a2f4ece7b807bdd047161f68e2d94e7e3eb6514e5b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e79446e663679687a446a746570724e5638564f636168357659386a577758766b75624230746143326f73574846523150576961795a376962512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5b9ba5ab5f76ac0e58f4b6a2f4ece7b807bdd047161f68e2d94e7e3eb6514e5b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e79446e663679687a446a746570724e5638564f636168357659386a577758766b75624230746143326f73574846523150576961795a376962512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyDnf6yhzDjteprNV8VOcah5vY8jWwXvkubB0taC2osWHFR1PWiayZ7ibQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>安装成功后，可以到 Railway 查看到新增的表格，这就表示全部都能正常使用了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f543b2a979d60cdae2e86416f5d39f7bf9bc1e6569074fe5734c37e98feaa62/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e796961526962696252594734336b66456963747169614e515a4869637774774e5356344a783469626771575a416c33344a784c53645738556963775a5433512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4f543b2a979d60cdae2e86416f5d39f7bf9bc1e6569074fe5734c37e98feaa62/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c477a6a644330656a417a757877785041557079356e796961526962696252594734336b66456963747169614e515a4869637774774e5356344a783469626771575a416c33344a784c53645738556963775a5433512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LGzjdC0ejAzuxwxPAUpy5nyiaRibibRYG43kfEictqiaNQZHicwtwNSV4Jx4ibgqWZAl34JxLSdW8UicwZT3Q/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>写在后面</p>
+<p>当然 Vercel 也不只是可以用来部署动静态网站或 API，也能搭一些国外工具的镜像，像 npm 之类的，以及自带各种主流 AI 应用。</p>
+<p>还有一种场景是，比如国外有一些很好用还免费的 API，你在小程序上调用时，当在后台进行域名配置时，提示没有国内的备案信息无法添加。</p>
+<p>这时候就可以用自己备案过的域名在 Vercel 中搭一个中转，小程序请求自己的域名，而部署的程序请求别人的地址就可以，那么更多玩法待后续更新了……</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/oneRjXnW5LGicNoMAdG2dAwnjwNTribzbVXOFf3GaN3UOJoIAiaNH2dG80QKUsgiaLYaGb03UHSZMBJeOWI6wH5OIA/640?wx_fmt=gif" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aaf77fdb716ed64b48185e025e5b30548bffec41f5a112870cc5974e3f80752d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d564b5a594d7048624435574674776c4f456c746d6e7657503069626963677649796130696131435a376830316d3530655549355a594743704a512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/aaf77fdb716ed64b48185e025e5b30548bffec41f5a112870cc5974e3f80752d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d564b5a594d7048624435574674776c4f456c746d6e7657503069626963677649796130696131435a376830316d3530655549355a594743704a512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVKZYMpHbD5WFtwlOEltmnvWP0ibicgvIya0ia1CZ7h01m50eUI5ZYGCpJQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

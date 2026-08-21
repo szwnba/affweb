@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="❤️ 点击上方蓝字关注我 👆 解锁更多 AI 干货知识 😎 
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/df5PYxpmUmFL75W0Dpwvr5Kz8bYGFy10tv5micxSvuNdteZYEH9KVkMw5ZGGWiby0KiaoMicmRwv3mzufZTuUVPicmw/640?wx_fmt=png&from=appmsg)
+
+本文正文字数约 3300 字，阅读时间 10 分钟。">
+<meta property="og:title" content="RAG 入门指南：从零开始构建一个 RAG 系统">
+<meta property="og:description" content="❤️ 点击上方蓝字关注我 👆 解锁更多 AI 干货知识 😎 
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/df5PYxpmUmFL75W0Dpwvr5Kz8bYGFy10tv5micxSvuNdteZYEH9KVkMw5ZGGWiby0KiaoMicmRwv3mzufZTuUVPicmw/640?wx_fmt=png&from=appmsg)
+
+本文正文字数约 3300 字，阅读时间 10 分钟。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/RAG%20-ru-men-zhi-nan-%EF%BC%9A-cong-ling-kai-shi-gou-jian-yi-ge-%20RAG%20-xi-tong.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>RAG 入门指南：从零开始构建一个 RAG 系统</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">RAG 入门指南：从零开始构建一个 RAG 系统</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/639" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>❤️ 点击上方蓝字关注我 👆 解锁更多 AI 干货知识 😎 </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/caab101c1c5e796cb298b2e9cc2ab648e9e084fc054df6034303f689f219e1fa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931307476356d6963785376754e6474655a594548394b566b4d77355a474757696279304b69616f4d69636d527776336d7a75665a547555565069636d772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/caab101c1c5e796cb298b2e9cc2ab648e9e084fc054df6034303f689f219e1fa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931307476356d6963785376754e6474655a594548394b566b4d77355a474757696279304b69616f4d69636d527776336d7a75665a547555565069636d772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/df5PYxpmUmFL75W0Dpwvr5Kz8bYGFy10tv5micxSvuNdteZYEH9KVkMw5ZGGWiby0KiaoMicmRwv3mzufZTuUVPicmw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>本文正文字数约 3300 字，阅读时间 10 分钟。</p>
+<p>从零开始构建一个应用可以让我们快速理解应用的各个部分。</p>
+<p>这个方法其实非常适用于 RAG。</p>
+<p>我在以前的文章中有介绍过 RAG 的概念、原理以及应用等，但其实，亲自动手来构建一个 RAG 系统或许能够让我们更快速的理解 RAG 到底是什么。</p>
+<blockquote>
+<p>有关于 RAG 的介绍的相关文章可翻阅：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIwNDIwMTIxNQ==&amp;mid=2653451638&amp;idx=1&amp;sn=67ac885cd61ea7e2bc810f6303462727&amp;chksm=8d1f18e6ba6891f075d40d471963a510fbc2083f86f75594c47dceb7861011411e42f66f5b18&amp;scene=21#wechat_redirect" rel="nofollow">一文读懂 RAG：它是如何重新定义 AI 的未来？</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIwNDIwMTIxNQ==&amp;mid=2653452000&amp;idx=1&amp;sn=58a7ce6bd89e6d4cb411cc71b966d680&amp;chksm=8d1f1b70ba689266da3e6b986822818fb9ea640646a73a01a8fa3af522e8b093f3ac8daf8c58&amp;scene=21#wechat_redirect" rel="nofollow">更高级的 RAG 架构：提升 AI 大模型回答准确性的前沿技术</a></p>
+</blockquote>
+<p>本文将为读者提供一个从零开始搭建一个 RAG 应用的入门教程。</p>
+<blockquote>
+<p>本文涉及一部分 Python 代码，需要一定的编程基础。你可以在我的 GitHub 上获取到本文所有代码：<a href="https://github.com/Erichain/ai-application-demos/blob/main/create-rag-from-scratch.py">https://github.com/Erichain/ai-application-demos/blob/main/create-rag-from-scratch.py</a></p>
+</blockquote>
+<h2>RAG 简介</h2>
+<p>在开始之前，我还是打算再次简要的介绍一下 RAG。</p>
+<p>在 Meta 的官方 Blog 上有这样一段话：</p>
+<blockquote>
+<p>Building a model that researches and contextualizes is more challenging, but it's essential for future advancements. We recently made substantial progress in this realm with our Retrieval Augmented Generation (RAG) architecture, an end-to-end differentiable model that combines an information retrieval component (Facebook AI’s dense-passage retrieval system) with a seq2seq generator (our Bidirectional and Auto-Regressive Transformers BART model). RAG can be fine-tuned on knowledge-intensive downstream tasks to achieve state-of-the-art results compared with even the largest pretrained seq2seq language models. And unlike these pretrained models, RAG’s internal knowledge can be easily altered or even supplemented on the fly, enabling researchers and engineers to control what RAG knows and doesn’t know without wasting time or compute power retraining the entire model.</p>
+</blockquote>
+<p>这段话主要讲述了一个新的模型架构，也就是 <strong>RAG (检索增强生成)</strong> 的重要性和优势。可以概括为以下几点：</p>
+<ol>
+<li>
+<p>1. 构建一个能够进行研究和上下文分析的模型虽然更具挑战性，但对未来的技术进步非常关键；</p>
+</li>
+<li>
+<p>2. 通过在知识密集的下游任务上微调，RAG 可以实现最先进的结果，比现有的最大的预训练序列到序列语言模型还要好；</p>
+</li>
+<li>
+<p>3. 与传统的预训练模型不同，RAG 的内部知识可以轻松地动态更改或补充。也就是说，研究人员和工程师可以控制 RAG 知道和不知道的内容，而不需要浪费时间或计算资源重新训练整个模型。</p>
+</li>
+</ol>
+<p>这段话信息量很大，但是作为初学者，简而言之：</p>
+<p><strong>RAG 的本质是在传递给 LLM 的提示语中，通过一个检索工具来添加自己的数据。</strong></p>
+<p>接下来，我们就要开始准备我们的 RAG 应用了。</p>
+<h2>RAG 系统的高层组件</h2>
+<ul>
+<li>
+<p>• 一组文档，正式说法为语料库</p>
+</li>
+<li>
+<p>• 用户输入</p>
+</li>
+<li>
+<p>• 语料库和用户输入之间的相似性度量</p>
+</li>
+</ul>
+<p>这是简化版的 RAG 组件系统，我们不需要考虑向量存储，甚至目前还不需要 LLM。</p>
+<p>以下是一篇 RAG 论文中的系统概述：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71ede6de9de1c47f28ba43b0a0f0febaa40f6575a9875c49cf37964036ed7ac7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a3862594746793130523130756559315571754141613456714e566a6c56455667623344336c344567766c3555537954716b61574737454a456f6961417862672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/71ede6de9de1c47f28ba43b0a0f0febaa40f6575a9875c49cf37964036ed7ac7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a3862594746793130523130756559315571754141613456714e566a6c56455667623344336c344567766c3555537954716b61574737454a456f6961417862672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/df5PYxpmUmFL75W0Dpwvr5Kz8bYGFy10R10ueY1UquAAa4VqNVjlVEVgb3D3l4Egvl5USyTqkaWG7EJEoiaAxbg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>它假设了很多背景信息，比我们预设的简化版要复杂的多。</p>
+<p>对于想要深入研究的人来说，这篇论文很有价值，但是对于我们想要入门的人来说，通过一步一步构建自己的 RAG 系统来学习才更适合。</p>
+<h2>RAG 系统的查询步骤</h2>
+<ol>
+<li>
+<p>1. 查询用户输入</p>
+</li>
+<li>
+<p>2. 进行相似性度量</p>
+</li>
+<li>
+<p>3. 对用户输入和检索到的文档进行后处理</p>
+</li>
+</ol>
+<p>这里的后处理即将检索到的文档和用户输入发送给 LLM 进行处理，最终生成回答。</p>
+<blockquote>
+<p>相似性度量是指用来评估两个对象之间相似程度的方法。在文本处理和信息检索中，相似性度量可以帮助我们确定两个文本之间的相似度。在 RAG 系统中，我们可以使用这些相似性度量方法之一来比较用户输入和文档集合中的每个文档，从而找到最相关的文档。</p>
+</blockquote>
+<h2>从零开始构建 RAG 系统</h2>
+<p>现在，我们将以一个具体的案例从零开始来构建一个 RAG 系统。</p>
+<p>以下是简化版的流程图。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/caab101c1c5e796cb298b2e9cc2ab648e9e084fc054df6034303f689f219e1fa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931307476356d6963785376754e6474655a594548394b566b4d77355a474757696279304b69616f4d69636d527776336d7a75665a547555565069636d772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/caab101c1c5e796cb298b2e9cc2ab648e9e084fc054df6034303f689f219e1fa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931307476356d6963785376754e6474655a594548394b566b4d77355a474757696279304b69616f4d69636d527776336d7a75665a547555565069636d772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/df5PYxpmUmFL75W0Dpwvr5Kz8bYGFy10tv5micxSvuNdteZYEH9KVkMw5ZGGWiby0KiaoMicmRwv3mzufZTuUVPicmw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>以下是具体步骤。</p>
+<h3>获取文档集合</h3>
+<p>我们首先定义一个简单的文档语料库。</p>
+<p><code class="notranslate">corpus_of_documents = [       "Take a leisurely walk in the park and enjoy the fresh air.",       "Visit a local museum and discover something new.",       "Attend a live music concert and feel the rhythm.",       "Go for a hike and admire the natural scenery.",       "Have a picnic with friends and share some laughs.",       "Explore a new cuisine by dining at an ethnic restaurant.",       "Take a yoga class and stretch your body and mind.",       "Join a local sports league and enjoy some friendly competition.",       "Attend a workshop or lecture on a topic you're interested in.",       "Visit an amusement park and ride the roller coasters."   ]</code></p>
+<h3>定义和执行相似性度量</h3>
+<p>现在我们需要一种方法来衡量我们将要接收的用户输入与我们组织的文档集合之间的相似性。</p>
+<p>可以说，最简单的相似性度量是杰卡德相似性。</p>
+<blockquote>
+<p>杰卡德相似性（Jaccard Similarity）是一种衡量两个集合相似程度的简单方法。它计算两个集合的交集和并集的比例，用于比较两个文本之间的相似性。简而言之就是，杰卡德相似性看两个集合中共同元素的数量占所有元素的总数量的比例。</p>
+</blockquote>
+<h3>对语料库进行预处理</h3>
+<p>由于我们需要进行相似性度量，所以需要将字符串处理成集合。</p>
+<p>我们可以使用最简单的方式来进行预处理，也就是将字符串转换为小写并按照空格分割。</p>
+<p><code class="notranslate"># 将语料库字符串按照空格分割，并返回杰卡德相似性的结果   def jaccard_similarity(query, document):       query = query.lower().split(" ")       document = document.lower().split(" ")       intersection = set(query).intersection(set(document))       union = set(query).union(set(document))       return len(intersection)/len(union)</code></p>
+<p>然后，我们需要定义一个函数，该函数接受用户的精确查询和我们的语料库，并根据相似性的结果将最匹配的文档返回给用户。</p>
+<p><code class="notranslate">def return_response(query, corpus):       similarities = []       for doc in corpus:           similarity = jaccard_similarity(user_input, doc)           similarities.append(similarity)       return corpus_of_documents[similarities.index(max(similarities))]</code></p>
+<p>现在，我们可以试着运行一下。</p>
+<p>定义用户查询输入。</p>
+<p><code class="notranslate">user_input = "I like to hike"</code></p>
+<p>将输出的结果打印出来。</p>
+<p><code class="notranslate">print(return_response(user_input, corpus_of_documents))</code></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6f9331afaf03e77cc25f02d17d95bc989f92a66b615cf9e743b487a02a44b16b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931304c72716675655150326a496d304b5a4d49356e524d69617a4368446d7756336369626e446f716c54355a334c6d67614355565a41733366672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6f9331afaf03e77cc25f02d17d95bc989f92a66b615cf9e743b487a02a44b16b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931304c72716675655150326a496d304b5a4d49356e524d69617a4368446d7756336369626e446f716c54355a334c6d67614355565a41733366672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/df5PYxpmUmFL75W0Dpwvr5Kz8bYGFy10LrqfueQP2jIm0KZMI5nRMiazChDmwV3cibnDoqlT5Z3LmgaCUVZAs3fg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<blockquote>
+<p>如果不想在自己电脑上配置 Python 环境，可以直接使用线上的 Python 编辑器，比如：<a href="https://www.programiz.com/python-programming/online-compiler/" rel="nofollow">https://www.programiz.com/python-programming/online-compiler/</a></p>
+</blockquote>
+<p>至此，我们已经构建出了一个最基本的 RAG 系统。</p>
+<h3>相似性问题</h3>
+<p>由于我们选择了一个非常简单的相似性度量方法来学习，所以会带来一些问题。</p>
+<p>它没有语义概念，只是简单地看两个文档中有哪些词，然后进行对比。</p>
+<p>也就是说，只要我们提供的用户输入里包含这些词，那么我们就会得到相同的结果，因为那就是最接近的文档。</p>
+<p>比如，我将用户输入换成了 <code class="notranslate">user_input = "I don't like to hike"</code>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab92caa0ae50dfa999193d4072606d0941a419e20997eb1513823191f9b0271c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931306c455461356653514d4e6e5648337a6c4772754b387155687138324a79536a4c43775638574b69634f6833374a384157715269634a7a73672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ab92caa0ae50dfa999193d4072606d0941a419e20997eb1513823191f9b0271c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931306c455461356653514d4e6e5648337a6c4772754b387155687138324a79536a4c43775638574b69634f6833374a384157715269634a7a73672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/df5PYxpmUmFL75W0Dpwvr5Kz8bYGFy10lETa5fSQMNnVH3zlGruK8qUhq82JySjLCwV8WKicOh37J8AWqRicJzsg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>输出结果和上文的输出结果一样。</p>
+<p>这是一个在 RAG 中会经常遇到的话题，我们会在后面解决这个问题。</p>
+<p>目前，我们还没有对我们检索到的文档进行任何后处理。只是实现了 RAG 的「检索」功能。</p>
+<p>下一步是通过结合 LLM 来增强生成。</p>
+<h3>添加 LLM</h3>
+<p>要方便快捷的添加 LLM，我们可以直接在本地机器上运行一个开源的 LLM。</p>
+<p>这里，我将使用 Ollama 的 Llama 3.1 模型。当然，你也可以使用 OpenAI 的 GPT-4 或 Anthropic 的 Claude 或者其他 LLM。</p>
+<blockquote>
+<p>可以到 ollama 官网下载安装自己想要的 LLM：<a href="https://ollama.com/" rel="nofollow">https://ollama.com/</a></p>
+</blockquote>
+<p>现在，我们需要对代码做些修改了。</p>
+<blockquote>
+<p>如果是在本地运行 LLM，那么，你需要在自己电脑上配置好 Python 相关的环境，这样在后续步骤中，才能将代码运行起来。</p>
+</blockquote>
+<p>现在，需要引入一些库。</p>
+<p><code class="notranslate">import requests   import json</code></p>
+<p>我们的步骤会有所变化：</p>
+<ol>
+<li>
+<p>1. 获取用户输入；</p>
+</li>
+<li>
+<p>2. 获取最相似的文档（通过我们的相似性度量来衡量）；</p>
+</li>
+<li>
+<p>3. 将这个文档作为提示语传递给 LLM；</p>
+</li>
+<li>
+<p>4. 最后将结果返回给用户。</p>
+</li>
+</ol>
+<p>`user_input = "I like to hike"<br>
+relevant_document = return_response(user_input, corpus_of_documents)<br>
+full_response = []</p>
+<p>prompt = """<br>
+You are a bot that makes recommendations for activities. You answer in very short sentences and do not include extra information.<br>
+This is the recommended activity: {relevant_document}<br>
+The user input is: {user_input}<br>
+Compile a recommendation to the user based on the recommended activity and the user input.<br>
+"""</p>
+<p>`</p>
+<p>定义好以上步骤之后，我们现在来调用 Ollama 的 API。</p>
+<p>在编辑此代码之前，你需要先运行 LLM 在后台，直接在命令行里输入 <code class="notranslate">ollama serve</code> 即可。</p>
+<p>`url = '<a href="http://localhost:11434/api/generate" rel="nofollow">http://localhost:11434/api/generate</a>'<br>
+data = {<br>
+    "model": "llama3.1",<br>
+    "prompt": prompt.format(user_input=user_input, relevant_document=relevant_document)<br>
+}<br>
+headers = {'Content-Type': 'application/json'}<br>
+response = requests.post(url, data=json.dumps(data), headers=headers, stream=True)<br>
+try:<br>
+    count = 0<br>
+    for line in response.iter_lines():<br>
+        if line:<br>
+            decoded_line = json.loads(line.decode('utf-8'))</p>
+<p>                        full_response.append(decoded_line['response'])<br>
+finally:<br>
+    response.close()</p>
+<p>print(''.join(full_response))</p>
+<p>`</p>
+<p>运行以上代码，即可看到结果。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f69004a07555b3180365f69bcc38c1b5796cf304f00971155cbc6264feee345/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a386259474679313069636f715456596c416961674a6c51455170456a55456535447168424e4d615573537153427035776248385a55413752533468446e4350412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3f69004a07555b3180365f69bcc38c1b5796cf304f00971155cbc6264feee345/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a386259474679313069636f715456596c416961674a6c51455170456a55456535447168424e4d615573537153427035776248385a55413752533468446e4350412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/df5PYxpmUmFL75W0Dpwvr5Kz8bYGFy10icoqTVYlAiagJlQEQpEjUEe5DqhBNMaUsSqSBp5wbH8ZUA7RS4hDnCPA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>现在我们已经从零开始构建了一个完整的 RAG 系统。</p>
+<p>现在 LLM 就可以直接帮我们处理上文提到的相似性问题。如果把用户输入改成 <code class="notranslate">I don't like to hike.</code>，那么我们会得到以下这样的回答。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33a9f60aa1cbf78d5cb8cc7dbbdb531bc77130e6f5c55213c90f1c243d1dbcf2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931304554483431526a42756b6245734e38785551705869616d456b446e6e6f494e6536343155434d6a744b75534c6f44336d583236654250772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/33a9f60aa1cbf78d5cb8cc7dbbdb531bc77130e6f5c55213c90f1c243d1dbcf2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f646635505978706d556d464c373557304470777672354b7a38625947467931304554483431526a42756b6245734e38785551705869616d456b446e6e6f494e6536343155434d6a744b75534c6f44336d583236654250772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/df5PYxpmUmFL75W0Dpwvr5Kz8bYGFy10ETH41RjBukbEsN8xUQpXiamEkDnnoINe641UCMjtKuSLoD3mX26eBPw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>总结以及改进点</h2>
+<p>尽管我们已经搭建出了一个完整的 RAG 系统，但是，真实场景下的 RAG 系统也许会更加复杂，涉及向量数据库（Vector Database）、嵌入（Embedding）和提示语工程（Prompt Engineering）等。</p>
+<p>如果想要更加深入的学习 RAG，你也许需要在此基础之上考虑以下的一些改进点。</p>
+<ol>
+<li>
+<p>1. <strong>文档数量</strong>：更多的文档可能意味着更多的推荐，目前，我们只给 LLM 提供一个文档。我们可以输入多个文档作为“上下文”，让模型根据用户输入提供更个性化的推荐。</p>
+</li>
+<li>
+<p>2. <strong>文档的深度/大小</strong>：更高质量的内容和包含更多信息的长文档可能更好。</p>
+</li>
+<li>
+<p>3. <strong>提供给 LLM 的文档部分</strong>：如果我们有更大或更全面的文档，我们可能只想添加这些文档的部分内容，或者多个文档的部分内容，或一些变体。在词汇中，这称为分块（chunking）。</p>
+</li>
+<li>
+<p>4. <strong>文档存储工具</strong>：我们可能会以不同的方式或不同的数据库存储文档。特别是如果我们有大量文档，可能会考虑将它们存储在向量存储中。</p>
+</li>
+<li>
+<p>5. <strong>相似性度量</strong>：我们如何衡量相似性是至关重要的，我们可能需要在性能和全面性之间权衡。</p>
+</li>
+<li>
+<p>6. <strong>文档和用户输入的预处理</strong>：我们可以在将用户输入传递给相似性度量之前进行一些额外的预处理或增强。例如，我们可以使用嵌入将输入转换为向量。</p>
+</li>
+<li>
+<p>7. <strong>提示语</strong>：我们可以对 LLM/模型使用不同的提示语，并根据我们想要的输出进行调整，以获得我们想要的结果。</p>
+</li>
+</ol>
+<blockquote>
+<p>你可以在我的 GitHub 上获取到本文所有代码：<a href="https://github.com/Erichain/ai-application-demos/blob/main/create-rag-from-scratch.py">https://github.com/Erichain/ai-application-demos/blob/main/create-rag-from-scratch.py</a></p>
+</blockquote>
+<hr>
+<p>您的在看和点赞是我前进的动力 ❤️</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

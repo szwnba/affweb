@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="大聪明：
+
+「李继刚」老师整了个大活：「**输入一个汉语词，生成一个贼棒的解读，以及一个贼漂亮的卡片**」  
+大家都惊呆了。">
+<meta property="og:title" content="原理解析：李继刚老师的「汉语新解」">
+<meta property="og:description" content="大聪明：
+
+「李继刚」老师整了个大活：「**输入一个汉语词，生成一个贼棒的解读，以及一个贼漂亮的卡片**」  
+大家都惊呆了。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yuan-li-jie-xi-%EF%BC%9A-li-ji-gang-lao-shi-de-%E3%80%8C-han-yu-xin-jie-%E3%80%8D.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>原理解析：李继刚老师的「汉语新解」</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">原理解析：李继刚老师的「汉语新解」</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/677" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>大聪明：</p>
+<p>「李继刚」老师整了个大活：「<strong>输入一个汉语词，生成一个贼棒的解读，以及一个贼漂亮的卡片</strong>」<br>
+大家都惊呆了。然后，「宝玉」老师对该提示词做了一份原理解读，也就是本篇。此外，<strong>继刚老师刚刚又更新了一版提示词「沉思者」，蒙德里安的设计风格。我把该提示词和掩饰放在最后，欢迎阅读</strong></p>
+<p>李继刚写的汉语新解，输入任意汉语，就可以生成一副卡片，不仅文案写的好，而且生成的卡片美观大方，一段几百字的提示词顶得上几千行代码写出来的应用程序效果，将伪代码和 Claude 的能力结合的绝到好处，真的是了不起👍佩服佩服！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/22215d8dda3a8d093f85bb2b4479e43b3c47dc5e752cff199411eb0dc9b0f3ac/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a6347575669623964784244784b485373423956745451574a36705154434d756d5164793150644d366a55395066585a72696258626277746a676133796a79772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/22215d8dda3a8d093f85bb2b4479e43b3c47dc5e752cff199411eb0dc9b0f3ac/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a6347575669623964784244784b485373423956745451574a36705154434d756d5164793150644d366a55395066585a72696258626277746a676133796a79772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dxBDxKHSsB9VtTQWJ6pQTCMumQdy1PdM6jU9PfXZribXbbwtjga3yjyw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>一键中译中：「提示词工程师」</p>
+<p>对应的提示词，是这个：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c87c12c6ee304ffbe44fae1187cd2f1db4d50c0c4d8f145d5948064a086cfcd4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a6347575669623964546d3346345832496a6369626c4f46474637714478537a4e644d69626c7754554d4e375267696164706962577949677a4a43304f754b595336772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c87c12c6ee304ffbe44fae1187cd2f1db4d50c0c4d8f145d5948064a086cfcd4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a6347575669623964546d3346345832496a6369626c4f46474637714478537a4e644d69626c7754554d4e375267696164706962577949677a4a43304f754b595336772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dTm3F4X2IjciblOFGF7qDxSzNdMiblwTUMN7RgiadpibWyIgzJC0OuKYS6w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>汉语新解提示词</p>
+<h2><strong>提示词解析</strong></h2>
+<p>鉴于很多人不太理解伪代码和如何用伪代码写 Prompt，我将这段经典的 Prompt 拆解并结合一个例子解释一下。</p>
+<p>在用 Claude 运行这段 Prompt 时，我需要分两次输入，第一次输入完整提示词，第二次输入我要解释的词汇。</p>
+<p>我画了一张详细的图解释了这两次输入的执行过程，可以结合图2看效果，上半部分就是第一次输入提示词的过程，下半部分就是第二次输入词汇的执行过程。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7cf4c57dda9b90ac786d67de45afd6cd49703e311e4fee439435368a171c2258/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396476557771734e67744b6637307773704e52384d3256324e696156775655786b7733324d6439696273556648756639704972354641316574512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7cf4c57dda9b90ac786d67de45afd6cd49703e311e4fee439435368a171c2258/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396476557771734e67744b6637307773704e52384d3256324e696156775655786b7733324d6439696273556648756639704972354641316574512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dvUwqsNgtKf70wspNR8M2V2NiaVwVUxkw32Md9ibsUfHuf9pIr5FA1etQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>一键中译中：「提示词工程师」</p>
+<h2><strong>具体来讲</strong></h2>
+<p><strong>第一次输入完整提示词</strong></p>
+<p>如果把这段提示词看成一段代码，那么其中包含了注释（前四行）、函数定义（defun 区块）和入口（最后三行）。</p>
+<p>在看代码时，一开始不需要看函数定义，只要大致了解有哪些函数定义即可，当成黑盒子，重点是找到入口点。</p>
+<p>如果我们跳过注释和函数定义，可以很容易找到这个伪代码的入口，也就是最后3行：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/77bb381a1170dd24babb7735a1b360e217a2ba63837bebfeb030edae64946408/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a63475756696239647a5837616d4551614738367568624c6a59425069614f4b71496876674d55674b526e73585752585961616c5379634137544c7072696144512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/77bb381a1170dd24babb7735a1b360e217a2ba63837bebfeb030edae64946408/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a63475756696239647a5837616d4551614738367568624c6a59425069614f4b71496876674d55674b526e73585752585961616c5379634137544c7072696144512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dzX7amEQaG86uhbLjYBPiaOKqIhvgMUgKRnsXWRXYaalSycA7TLpriaDQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>它说明了需要先启动start函数，启动后，等有用户输入后，调用“汉语新解”这个函数，并且将用户输入的词汇传入函数。</p>
+<p>这时候我们就可以开始看看 “start”函数做了什么</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e7b9fb279ad192c911d5a65a444e19262ee2f2b23f92fc4c17c30aa0033486de/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a63475756696239644849747733424a6961573935314e3773554469616636696146776f6174654a6b614d68643567344b6e4268496a44753478436f4361484d37512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e7b9fb279ad192c911d5a65a444e19262ee2f2b23f92fc4c17c30aa0033486de/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a63475756696239644849747733424a6961573935314e3773554469616636696146776f6174654a6b614d68643567344b6e4268496a44753478436f4361484d37512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dHItw3BJiaW951N7sUDiaf6iaFwoateJkaMhd5g4KnBhIjDu4xCoCaHM7Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>很简单，就是设定 AI 的角色为“新汉语老师”，并且具体内容在“新汉语老师”这个函数中定义了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4da6f54b0aa1d6f37e963a6c499a78dfa2aacb36b217cda4259825cb7da955c8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a63475756696239644248686267753345464b567756325a3170514358386334696142574d43584d41636248696169635831496963755750747336566f6962387269626962772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4da6f54b0aa1d6f37e963a6c499a78dfa2aacb36b217cda4259825cb7da955c8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a63475756696239644248686267753345464b567756325a3170514358386334696142574d43584d41636248696169635831496963755750747336566f6962387269626962772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dBHhbgu3EFKVwV2Z1pQCX8c4iaBWMCXMAcbHiaicX1IicuWPts6Voib8ribibw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>设定好后，输出 "说吧, 他们又用哪个词来忽悠你了?"，让用户知道可以输入词汇。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b30c1cc7cc47feadbb1ac633554fae0e3c519951c375ecab385b136ffb8d5965/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396447514478565239653935544b68786e704a7530496b5a4c4835765955303633657166566873724f505768476f4c474c564b75653348412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b30c1cc7cc47feadbb1ac633554fae0e3c519951c375ecab385b136ffb8d5965/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396447514478565239653935544b68786e704a7530496b5a4c4835765955303633657166566873724f505768476f4c474c564b75653348412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dGQDxVR9e95TKhxnpJu0IkZLH5vYU063eqfVhsrOPWhGoLGLVKue3HA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>这就是第一次发送系统提示词后发生的事情。至于其他注释和函数，这时候只是被存储起来了，因为没有调用并没有作用。</p>
+<p><strong>输入词汇后的过程</strong></p>
+<p>当用户输入词汇，例如“提示词工程师”，按照入口点定义的要求，要去调用“汉语新解”这个函数。这个函数并不复杂：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ba3ff14b42e360c9e52bf295658921a1fbdce3f486b3e53318ec365dcd7b2c01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396459416b4a386636517948386962624a4c3846676c58534646664e66526962384b687a783639725046415a337542457848473849456a3550772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ba3ff14b42e360c9e52bf295658921a1fbdce3f486b3e53318ec365dcd7b2c01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396459416b4a386636517948386962624a4c3846676c58534646664e66526962384b687a783639725046415a337542457848473849456a3550772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dYAkJ8f6QyH8ibbJL8FglXSFFfNfRib8Khzx69rPFAZ3uBExHG8IEj5Pw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>实际上是两个步骤，用到了 CoT（Chain of Thought）取得更好的效果。</p>
+<p><strong>第一步：解释词汇并输出。</strong></p>
+<p>隐喻、一针见血、辛辣讽刺、抓住本质的解释这个词汇，并且提供了一个简单的示例，如果输入的是“委婉”这个词汇，那么输出可以是"刺向他人时, 决定在剑刃上撒上止痛药。"</p>
+<p>注意这个输出很关键，让 LLM 先输出一些相关的、高质量的内容，有助于更好的生成最终结果。</p>
+<p><strong>第二步：根据解释的内容用SVG画一张卡片</strong></p>
+<p>这里就需要调用另一个专门画 SVG 的函数来画卡片了。</p>
+<p>这个函数充分借助了 Claude 的编程能力，以及它能实时显示生成好的 SVG 能力，函数中让它生成一个 SVG 定义的卡片，并给出了详细的参数：高度、宽度、边距、字体、字体大小、根据用户输入的词汇和前面的解释显示的内容（中日英三语标题、解释、总结等等）等</p>
+<p>另外给了 AI 一些自主发挥的空间，比如“合理使用负空间”、“整体排版要有呼吸感”、”干净典雅“等。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a13b02ca14eb50715c16142c773cb797d9ed346937f950cbf64e8b715235f75b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396447536d38464c3266495048626c794337666e6f6f346233696269636961687344675552585a7a6153634c667a426c4755614c446b42303177412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a13b02ca14eb50715c16142c773cb797d9ed346937f950cbf64e8b715235f75b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396447536d38464c3266495048626c794337666e6f6f346233696269636961687344675552585a7a6153634c667a426c4755614c446b42303177412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dGSm8FL2fIPHblyC7fnoo4b3ibiciahsDgURXZzaScLfzBlGUaLDkB01wA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>基本上这就是完整的Prompt了，很精巧，但极其强大，有很大发挥空间，你也可以基于这套提示词衍生出更多有意思的作品。</p>
+<h2><strong>沉思者</strong></h2>
+<p>提示词如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/367efbc12885ec9d36276f0ded4c6f3c53e6bd7da5de2750414d1f93a52b43ae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396455345467436961417a6b43505a5068385258584535336b59706b506352544c5473716c4d584b6c665574664a4d6c42754b6f736e6374412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/367efbc12885ec9d36276f0ded4c6f3c53e6bd7da5de2750414d1f93a52b43ae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326963534d63315642495972516739374562524a454c5138507a634757566962396455345467436961417a6b43505a5068385258584535336b59706b506352544c5473716c4d584b6c665574664a4d6c42754b6f736e6374412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dU4TgCiaAzkCPZPh8RXXE53kYpkPcRTLTsqlMXKlfUtfJMlBuKosnctA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>效果示例：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/baaf16966482cb6e3f3f0d63c11cd6394a3ba919668f618a229de6f06efec675/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d63315642495972516739374562524a454c5138507a63475756696239646469626b656e6431646b716d4f5a39555438394d566c42753349613978557a455968645a49656f69636f6c6c516845396f674357636847412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/baaf16966482cb6e3f3f0d63c11cd6394a3ba919668f618a229de6f06efec675/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d63315642495972516739374562524a454c5138507a63475756696239646469626b656e6431646b716d4f5a39555438394d566c42753349613978557a455968645a49656f69636f6c6c516845396f674357636847412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9ddibkend1dkqmOZ9UT89MVlBu3Ia9xUzEYhdZIeoicollQhE9ogCWchGA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1711bdcbaf6ef6c3e3df898f6be38ccae7d4f7e9ba29091177c2f4cab336c7fe/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d63315642495972516739374562524a454c5138507a6347575669623964636b50506e4f774e764c37385355344b46734b757775584341585763796b72774b62564f3839473663376b5a32687669634b5035575a672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1711bdcbaf6ef6c3e3df898f6be38ccae7d4f7e9ba29091177c2f4cab336c7fe/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326963534d63315642495972516739374562524a454c5138507a6347575669623964636b50506e4f774e764c37385355344b46734b757775584341585763796b72774b62564f3839473663376b5a32687669634b5035575a672f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2icSMc1VBIYrQg97EbRJELQ8PzcGWVib9dckPPnOwNvL78SU4KFsKuwuXCAXWcykrwKbVO89G6c7kZ2hvicKP5WZg/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

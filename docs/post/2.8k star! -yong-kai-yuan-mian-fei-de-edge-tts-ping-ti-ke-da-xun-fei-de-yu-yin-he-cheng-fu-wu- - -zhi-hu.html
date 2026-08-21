@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="edge-tts是github上的一个开源项目，可以免费将文本转为语音，别看它只有2.8k star，替代科大讯飞的收费TTS服务完全没问题，因为这个项目实际是调用的微软edge的在线语音合成服务，支持40多种语言，300多种声音，效果毋容置疑。">
+<meta property="og:title" content="2.8k star! 用开源免费的edge-tts平替科大讯飞的语音合成服务 - 知乎">
+<meta property="og:description" content="edge-tts是github上的一个开源项目，可以免费将文本转为语音，别看它只有2.8k star，替代科大讯飞的收费TTS服务完全没问题，因为这个项目实际是调用的微软edge的在线语音合成服务，支持40多种语言，300多种声音，效果毋容置疑。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/2.8k%20star%21%20-yong-kai-yuan-mian-fei-de-edge-tts-ping-ti-ke-da-xun-fei-de-yu-yin-he-cheng-fu-wu-%20-%20-zhi-hu.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>2.8k star! 用开源免费的edge-tts平替科大讯飞的语音合成服务 - 知乎</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">2.8k star! 用开源免费的edge-tts平替科大讯飞的语音合成服务 - 知乎</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/520" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>edge-tts是github上的一个开源项目，可以免费将文本转为语音，别看它只有2.8k star，替代科大讯飞的收费TTS服务完全没问题，因为这个项目实际是调用的微软edge的在线语音合成服务，支持40多种语言，300多种声音，效果毋容置疑。</p>
+<p>下面开始实战。edge-tts项目地址：<a href="https://link.zhihu.com/?target=https%3A//github.com/rany2/edge-tts" rel="nofollow">https://github.com/rany2/edge-tts</a></p>
+<h2><strong>1.安装部署</strong></h2>
+<p>在cmd中运行以下命令安装edge-tts</p>
+<p>pip install edge-tts速度非常快，几秒钟就安装完成了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d2d1de27933a4334ae33ef2bb4ede1de21a6972d8d6f48684bc207a10e1adc8/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d63666562396437663835353231656232383366323534386139323135356564345f622e6a7067"><img src="https://camo.githubusercontent.com/5d2d1de27933a4334ae33ef2bb4ede1de21a6972d8d6f48684bc207a10e1adc8/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d63666562396437663835353231656232383366323534386139323135356564345f622e6a7067" alt="" data-canonical-src="https://pic1.zhimg.com/v2-cfeb9d7f85521eb283f2548a92155ed4_b.jpg" style="max-width: 100%;"></a></p>
+<h2><strong>2.文本转语音</strong></h2>
+<p>输入以下命令，将一段英文转为音频。</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --text "Hello, welcome to subscribe my wechat official account: AI technology practice" --write-media hello.mp3
+</code></pre>
+<p>--text 参数为要转换的文本。</p>
+<p>--write-media 参数为转换后要保存的音频文件名。</p>
+<p>如下图所示：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/674d9079004bd357f8a73c8cdabe676cf136a089e317333b1aede4a53f05adb6/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d63373362616432653933326265306535346330623739376433373835353763355f622e6a7067"><img src="https://camo.githubusercontent.com/674d9079004bd357f8a73c8cdabe676cf136a089e317333b1aede4a53f05adb6/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d63373362616432653933326265306535346330623739376433373835353763355f622e6a7067" alt="" data-canonical-src="https://pic2.zhimg.com/v2-c73bad2e932be0e54c0b797d378557c5_b.jpg" style="max-width: 100%;"></a></p>
+<p>转换完成后，在运行命令的目录中(上面例子中的运行目录为c:/Users/liliang)会多出一个hello.mp3，这个mp3就是转换后的音频。</p>
+<h2><strong>3.支持的语言和音色</strong></h2>
+<p>edge-tts支持英语、汉语、日语、韩语、法语等40多种语言，共300多种可选声音，执行以下命令查询：</p>
+<p>如下图所示：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9174a7660e478f7a8fa54ddb91512f954a0fd3f9e2d36f410642b74af30e4b7d/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d61366635333538306235313431623936643636663237626134386130613764645f622e6a7067"><img src="https://camo.githubusercontent.com/9174a7660e478f7a8fa54ddb91512f954a0fd3f9e2d36f410642b74af30e4b7d/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d61366635333538306235313431623936643636663237626134386130613764645f622e6a7067" alt="" data-canonical-src="https://pic2.zhimg.com/v2-a6f53580b5141b96d66f27ba48a0a7dd_b.jpg" style="max-width: 100%;"></a></p>
+<p>查询结果中的Gender为声音的性别，Name为声音的名字，如zh-CN-YunjianNeural，其中zh表示语言，CN表示国家或地区，可以根据需求选择不同的声音。</p>
+<p>使用--voice参数来指定声音名称，下面我使用zh-CN-YunyangNeural声音来合成一个中文音频。</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --voice zh-CN-YunyangNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<p>合成陕西方言的女声</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --voice zh-CN-shaanxi-XiaoniNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在 这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<p>合成台湾口音</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --voice zh-TW-HsiaoYuNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<p>合成东北口音</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --voice zh-CN-liaoning-XiaobeiNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<p>合成粤语</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --voice zh-HK-WanLungNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<h2><strong>4.修改语速、音量、频率</strong></h2>
+<h3><strong>4.1 使用--rate参数修改语速</strong></h3>
+<p>将速度减慢30%</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --rate=-30% --voice zh-CN-YunyangNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<p>将速度加快30%</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --rate=+30% --voice zh-CN-YunyangNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<h3><strong>4.2 使用--volume参数修改音量</strong></h3>
+<p>将音量降低70%</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --volume=-70% --voice zh-CN-YunyangNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<p>将音量调高70%</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --volume=+70% --voice zh-CN-YunyangNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<h3><strong>4.3 使用--pitch参数修改频率</strong></h3>
+<p>频率减少50hz</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --pitch=-50Hz --voice zh-CN-YunyangNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<p>频率增加50hz</p>
+<pre lang="text" class="notranslate"><code class="notranslate">edge-tts --pitch=+50Hz --voice zh-CN-YunyangNeural --text "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。" --write-media hello_in_cn.mp3
+</code></pre>
+<h2><strong>5.使用代码转换</strong></h2>
+<p>上面都是用命令转换，我们也可以写代码调用，开发http接口来提供语音合成服务。</p>
+<p>以下是一个代码示例，将代码保存到一个文件中，如tts.py。</p>
+<pre lang="text" class="notranslate"><code class="notranslate">#!/usr/bin/env python3
+
+"""
+Basic example of edge_tts usage.
+"""
+
+import asyncio
+
+import edge_tts
+
+TEXT = "大家好，欢迎关注我的微信公众号：AI技术实战，我会在这里分享各种AI技术、AI教程、AI开源项目。"
+VOICE = "zh-CN-YunyangNeural"
+OUTPUT_FILE = "d:/test.mp3"
+
+
+async def amain() -&gt; None:
+    """Main function"""
+    communicate = edge_tts.Communicate(TEXT, VOICE)
+    await communicate.save(OUTPUT_FILE)
+
+
+if __name__ == "__main__":
+    loop = asyncio.get_event_loop_policy().get_event_loop()
+    try:
+        loop.run_until_complete(amain())
+    finally:
+        loop.close()
+</code></pre>
+<p>运行python tts.py，稍等即可在d盘生成合成后的音频test.mp3。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cf497e44e15e24adc9a6fde7b68a1fd2ee10593412e5d41eb3ceeabc26248f85/68747470733a2f2f706963342e7a68696d672e636f6d2f76322d31306165393331306534633365353732366636636162646131373361353335625f622e6a7067"><img src="https://camo.githubusercontent.com/cf497e44e15e24adc9a6fde7b68a1fd2ee10593412e5d41eb3ceeabc26248f85/68747470733a2f2f706963342e7a68696d672e636f6d2f76322d31306165393331306534633365353732366636636162646131373361353335625f622e6a7067" alt="" data-canonical-src="https://pic4.zhimg.com/v2-10ae9310e4c3e5726f6cabda173a535b_b.jpg" style="max-width: 100%;"></a></p>
+<h2><strong>6.实现原理</strong></h2>
+<p>原理非常简单，就是调用了微软的在线语音合成服务，看一下源码中的constants.py和communicate.py便可猜出大概，语音合成是用的websocket服务，获取声音列表是用的https接口，但是作者不知道这个TrustedClientToken是怎样得到的，也没有搜到官方的api文档，猜测是抓包edge浏览器中的朗读所选内容得到的，应该算是免费薅羊毛。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3cc3aace17b05a7eec1ab28af2ec3f4027279f0f6771652fdfc4783864e31782/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d32633632616238643664323637643464333938646130616634376239646563385f622e6a7067"><img src="https://camo.githubusercontent.com/3cc3aace17b05a7eec1ab28af2ec3f4027279f0f6771652fdfc4783864e31782/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d32633632616238643664323637643464333938646130616634376239646563385f622e6a7067" alt="" data-canonical-src="https://pic1.zhimg.com/v2-2c62ab8d6d267d4d398da0af47b9dec8_b.jpg" style="max-width: 100%;"></a></p>
+<p>communicate.py，建立websocket连接，收发数据。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8550d2ad49564522656774c61d1822022552b6b0cf2984a659e0e0646975ca70/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d30336363393464326334356539323862306564353233343137336332653666345f622e6a7067"><img src="https://camo.githubusercontent.com/8550d2ad49564522656774c61d1822022552b6b0cf2984a659e0e0646975ca70/68747470733a2f2f706963312e7a68696d672e636f6d2f76322d30336363393464326334356539323862306564353233343137336332653666345f622e6a7067" alt="" data-canonical-src="https://pic1.zhimg.com/v2-03cc94d2c45e928b0ed5234173c2e6f4_b.jpg" style="max-width: 100%;"></a></p>
+<p>文章来源于AI技术实战，作者AI李良</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

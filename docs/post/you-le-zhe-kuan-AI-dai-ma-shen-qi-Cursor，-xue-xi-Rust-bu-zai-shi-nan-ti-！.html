@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="大家好，我是渔夫。">
+<meta property="og:title" content="有了这款AI代码神器Cursor，学习Rust不再是难题！">
+<meta property="og:description" content="大家好，我是渔夫。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/you-le-zhe-kuan-AI-dai-ma-shen-qi-Cursor%EF%BC%8C-xue-xi-Rust-bu-zai-shi-nan-ti-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>有了这款AI代码神器Cursor，学习Rust不再是难题！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">有了这款AI代码神器Cursor，学习Rust不再是难题！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/672" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>大家好，我是渔夫。</p>
+<p>工欲善其事，必先利其器。AI 是未来十年生产力的核心工具，要让 AI 真正转化为生产力，而不仅仅是围观一时的热潮。</p>
+<p>今天来聊聊最近又火爆AI圈的AI代码神器 Cursor，它其实是一款 VS Code 的一个分支，然而 Cursor 主要是专注让你如何使用 AI 进行编码，以AI自然语言驱动的编辑器，目前很多国外程序员宣布停止对 Github Copilot 的付费，转向 Cursor。</p>
+<p>今天，还分享 Cursor 集成到本地部署 Ollama 模型。</p>
+<blockquote>
+<p>安装</p>
+</blockquote>
+<p>首先，进入官网下载对应的系统版本。</p>
+<p>下载地址：<a href="https://www.cursor.com/" rel="nofollow">https://www.cursor.com/</a></p>
+<p>安装完后打开，进入到这样页面，可以跟着我的步骤进行选择，然后选择继续。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/583f881468c476d31488a42c8b9da1c166a51e57b18eaa2611128fa8c01f7b96/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456258706b3242584434664945586c3751394742333078363256784e3161567a57534176656232576962546c396153337166737552673446772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/583f881468c476d31488a42c8b9da1c166a51e57b18eaa2611128fa8c01f7b96/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456258706b3242584434664945586c3751394742333078363256784e3161567a57534176656232576962546c396153337166737552673446772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbXpk2BXD4fIEXl7Q9GB30x62VxN1aVzWSAveb2WibTl9aS3qfsuRg4Fw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>相关设置可以到这里来相应设置</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7654fe67a3093d67e24378ac7b3f31704dce6c72fd522a09dc1a9618285be78e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456249654a66546e39496a56543633636a7a6b79446d61426a69616e48364147395a344e4669626848555a676f5663696158456e4b3544715878412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7654fe67a3093d67e24378ac7b3f31704dce6c72fd522a09dc1a9618285be78e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456249654a66546e39496a56543633636a7a6b79446d61426a69616e48364147395a344e4669626848555a676f5663696158456e4b3544715878412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbIeJfTn9IjVT63cjzkyDmaBjianH6AG9Z4NFibhHUZgoVciaXEnK5DqXxA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<blockquote>
+<p>快速体验</p>
+</blockquote>
+<p>新建一个 Rust 文件，然后我们使用自然语言让AI帮写这样的案例，假如没有写过项目，对前端也一无所知，以小白形式去使用它。</p>
+<p>打开 cursor 后，随便新建 lib.rs ，然后打开 AI Chat ，复制下面例子。</p>
+<p><code class="notranslate">前端实现图片或文件上传功能，使用Rust语言，要求   1. 文件上传的大小限制 10M   2. 文件上传的类型限制(支持pdf、doc、xlsx、ppt、txt、图片等）</code></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f7b864cbca3d052724bf416fc076fa72c46766074ee054b02770dbc9cb89eb1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456244766e6674355372526461696271506177474f55556c374b573264575344663644755066774976565253796b4f795444637776626749512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1f7b864cbca3d052724bf416fc076fa72c46766074ee054b02770dbc9cb89eb1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456244766e6674355372526461696271506177474f55556c374b573264575344663644755066774976565253796b4f795444637776626749512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbDvnft5SrRdaibqPawGOUUl7KW2dWSDf6DuPfwIvVRSykOyTDcwvbgIQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后，将采用 AI 写的这些代码，处理这些代码完成后，直接运行 cargo run。</p>
+<p>报错了，我们直接按住 command + k 直接提问，让AI自行去解决，报错一致提问，直到解决问题为止。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0e2eaceff9587d48477a53241e5c80c444a503e73ac1aefda9dac92cc54ac84e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a5378784845626c42384671734c696154574538387255653453756b7a325a5832467536305831626e757a4f7a4369636f75426d73367349665a3969616c54412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0e2eaceff9587d48477a53241e5c80c444a503e73ac1aefda9dac92cc54ac84e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a5378784845626c42384671734c696154574538387255653453756b7a325a5832467536305831626e757a4f7a4369636f75426d73367349665a3969616c54412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEblB8FqsLiaTWE88rUe4Sukz2ZX2Fu60X1bnuzOzCicouBms6sIfZ9ialTA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>很幸运，问了3次问题就解决完成了，并成功启动。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/82d45d4c45fbe8007d911c44f275ee02e4dbb2ee11bf7e5097f93ac79a624ff2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a5378784845624769616a7573696253706a4d78703548713642316963756f485565627775636b62794f75754550733575324576456961487274705372487742412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/82d45d4c45fbe8007d911c44f275ee02e4dbb2ee11bf7e5097f93ac79a624ff2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a5378784845624769616a7573696253706a4d78703548713642316963756f485565627775636b62794f75754550733575324576456961487274705372487742412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbGiajusibSpjMxp5Hq6B1icuoHUebwuckbyOuuEPs5u2EvEiaHrtpSrHwBA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>下载浏览器访问：<a href="http://localhost:8000/" rel="nofollow">http://localhost:8000/</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c990624375f21b50e874f7671e0376dacae59ffbf7505203206941055e09bffc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a537878484562733264434e696173717a747948436f67626a544e724774626474497a416d6371696267335838656e767455547746576f62536735416257512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c990624375f21b50e874f7671e0376dacae59ffbf7505203206941055e09bffc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a537878484562733264434e696173717a747948436f67626a544e724774626474497a416d6371696267335838656e767455547746576f62536735416257512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbs2dCNiasqztyHCogbjTNrGtbdtIzAmcqibg3X8envtUTwFWobSg5AbWQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>未来学习编程，小白也能轻松开发自己的应用程序，只要你熟悉使用工具，在熟悉点基础皮毛的，都可以很轻松构建自己应用。</p>
+<blockquote>
+<p>接入本地部署 ollama 模型</p>
+</blockquote>
+<p>首先，安装 CodeGPT: Chat &amp; AI Agents 这个插件。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed4c1a079954bc8f7cd0a48bb901e069c55f595081c0093dfccc610e031474a5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a537878484562696344566872376e596963354178787371385869626b6753674e67546148325a58507369634c6b68776d577445504a663465515744344c7a33512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ed4c1a079954bc8f7cd0a48bb901e069c55f595081c0093dfccc610e031474a5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a537878484562696344566872376e596963354178787371385869626b6753674e67546148325a58507369634c6b68776d577445504a663465515744344c7a33512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbicDVhr7nYic5Axxsq8XibkgSgNgTaH2ZXPsicLkhwmWtEPJf4eQWD4Lz3Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后，我们来配置</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f5865e8c32f94e6406fa36f521ba3862b5603413a0b7f0301bbac372d797c937/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456238564d636c324c46554f577a334767474c7475666961364c76684d556a32715658316f4e477a4a6d4a596e474e7464524a354a77476963672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f5865e8c32f94e6406fa36f521ba3862b5603413a0b7f0301bbac372d797c937/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456238564d636c324c46554f577a334767474c7475666961364c76684d556a32715658316f4e477a4a6d4a596e474e7464524a354a77476963672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEb8VMcl2LFUOWz3GgGLtufia6LvhMUj2qVX1oNGzJmJYnGNtdRJ5JwGicg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>配置的前提，你本地需要跑ollama，可以到官网下载。</p>
+<p>地址<a href="https://ollama.com/" rel="nofollow">https://ollama.com/</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/32993f827d99e7643f931cb439dc4a6016e05100bb0139388490d5c33f943eec/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a5378784845626d6c516566596c71517a376e6b78644542506963576d667661496833564a447933313769614647393132646145354672306a4150365545772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/32993f827d99e7643f931cb439dc4a6016e05100bb0139388490d5c33f943eec/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a5378784845626d6c516566596c71517a376e6b78644542506963576d667661496833564a447933313769614647393132646145354672306a4150365545772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbmlQefYlqQz7nkxdEBPicWmfvaIh3VJDy317iaFG912daE5Fr0jAP6UEw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>随后，下载 llama3.1</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c6afb4bee722e785374456badb64a06486cdf93f533c77165abb8a447b57e8ec/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456241487a4b6e4872775851696156514e37416d7837544649484134656963366735645150584a7942334b425277564839714e614165307558772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c6afb4bee722e785374456badb64a06486cdf93f533c77165abb8a447b57e8ec/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a53787848456241487a4b6e4872775851696156514e37416d7837544649484134656963366735645150584a7942334b425277564839714e614165307558772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbAHzKnHrwXQiaVQN7Amx7TFIHA4eic6g5dQPXJyB3KBRwVH9qNaAe0uXw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>检查自己是否已经搞定了</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f6ff885912b72915aba434144d35cfc8325ab3f0076983e2d30273756f9084da/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a537878484562576638367639314f6962786c55613456756169624e4e3369635431365762613142566b413132777655537841763278794a43494235465962412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f6ff885912b72915aba434144d35cfc8325ab3f0076983e2d30273756f9084da/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a537878484562576638367639314f6962786c55613456756169624e4e3369635431365762613142566b413132777655537841763278794a43494235465962412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbWf86v91OibxlUa4VuaibNN3icT16Wba1BVkA12wvUSxAv2xyJCIB5FYbA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>配置后，我们就可以使用本地llama进行对话了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f09915f361852699568b5c98379e4526a9979378235c518039ed98d63eb8eae5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a5378784845624b3456506c504d4e4235376961364f334d32795942766f594b413948447662447747687245684c4b62347838493631317a453274736d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f09915f361852699568b5c98379e4526a9979378235c518039ed98d63eb8eae5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f62527a4c47684e485835677469636d326a5378784845624b3456506c504d4e4235376961364f334d32795942766f594b413948447662447747687245684c4b62347838493631317a453274736d412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObRzLGhNHX5gticm2jSxxHEbK4VPlPMNB57ia6O3M2yYBvoYKA9HDvbDwGhrEhLKb4x8I611zE2tsmA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>参考资料：</p>
+<ul>
+<li><a href="https://github.com/getcursor/cursor">https://github.com/getcursor/cursor</a></li>
+</ul>
+<p>推荐阅读：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247485970&amp;idx=1&amp;sn=2c7278974faa5931c20e69936bd08fbe&amp;chksm=fa6bc7becd1c4ea8403e39df1238e3de6fb8e2c1ac2e8403dccdcf6b69ebcb639f9fb53ca5d8&amp;scene=21#wechat_redirect" rel="nofollow">AI大模型下，Rust 一定要学？</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzUyODgxNzM0Nw==&amp;mid=2247485890&amp;idx=1&amp;sn=2a154076488580fd152491213140215b&amp;chksm=fa6bc46ecd1c4d78cf280517634dfb23a9b0560aaba1b4577e86ce2687f97a54186503358367&amp;scene=21#wechat_redirect" rel="nofollow">封神了，Rust 的大学课程。</a></p>
+<blockquote>
+<p>我是渔夫，是一名程序员，现已 All in AI，努力探索小而美的AI商业模式、包括AI副业、个人IP、分享技术、非科班转码经验等相关文章，欢迎关注，和渔夫一起成长。</p>
+</blockquote>
+<p>另外，想和我一起拥抱AI能的伙伴，要记得加我vx。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9098f9504e0e78428414402915a83a4d573cb98262db84d1ff924808f22b0fd1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f6256766c6250786f356a7245514558543875525a4374315856396131436573385a7764484d514e49565259454a736f564b6745707867564b3630736b6c4a3851537379596259445869627173512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9098f9504e0e78428414402915a83a4d573cb98262db84d1ff924808f22b0fd1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f49326d4c66454752344f6256766c6250786f356a7245514558543875525a4374315856396131436573385a7764484d514e49565259454a736f564b6745707867564b3630736b6c4a3851537379596259445869627173512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/I2mLfEGR4ObVvlbPxo5jrEQEXT8uRZCt1XV9a1Ces8ZwdHMQNIVRYEJsoVKgEpxgVK60sklJ8QSsyYbYDXibqsQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

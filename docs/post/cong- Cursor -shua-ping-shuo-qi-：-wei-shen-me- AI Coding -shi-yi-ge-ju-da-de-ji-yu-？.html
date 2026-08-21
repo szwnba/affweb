@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="💡 写在前面：最近 Cursor 刷屏，周日的早上，被 **@泛函** 激发，我用 Cursor 在 10 分钟写了一个「Emoji 的 AI 翻译器」，（10分钟还包括了注册硅基流动，用它的 API 调 Llama）。">
+<meta property="og:title" content="从 Cursor 刷屏说起：为什么 AI Coding 是一个巨大的机遇？">
+<meta property="og:description" content="💡 写在前面：最近 Cursor 刷屏，周日的早上，被 **@泛函** 激发，我用 Cursor 在 10 分钟写了一个「Emoji 的 AI 翻译器」，（10分钟还包括了注册硅基流动，用它的 API 调 Llama）。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/cong-%20Cursor%20-shua-ping-shuo-qi-%EF%BC%9A-wei-shen-me-%20AI%20Coding%20-shi-yi-ge-ju-da-de-ji-yu-%EF%BC%9F.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>从 Cursor 刷屏说起：为什么 AI Coding 是一个巨大的机遇？</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">从 Cursor 刷屏说起：为什么 AI Coding 是一个巨大的机遇？</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/675" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>💡 写在前面：最近 Cursor 刷屏，周日的早上，被 <strong>@泛函</strong> 激发，我用 Cursor 在 10 分钟写了一个「Emoji 的 AI 翻译器」，（10分钟还包括了注册硅基流动，用它的 API 调 Llama）。无比感叹！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90dd869e6fb529bb2dc151f3741cf374832cfd6386c7cb581c630e809ebb944b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4646634e536f51334b6963766d58434c7677465669625866476b6961435075716963786c734f56563169626658534b7a626e535a4c5646616d684232594178324b644d4e6f414471507a3535674d66515277696130586f54395155512f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/90dd869e6fb529bb2dc151f3741cf374832cfd6386c7cb581c630e809ebb944b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4646634e536f51334b6963766d58434c7677465669625866476b6961435075716963786c734f56563169626658534b7a626e535a4c5646616d684232594178324b644d4e6f414471507a3535674d66515277696130586f54395155512f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/FFcNSoQ3KicvmXCLvwFVibXfGkiaCPuqicxlsOVV1ibfXSKzbnSZLVFamhB2YAx2KdMNoADqPz55gMfQRwia0XoT9QUQ/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>整个过程中，我能强烈感觉到 Cursor 是一个 Day 0 开始就思考如何成为 AI Native 的 IDE，思路和交互都很丝滑。</p>
+<p>接下来，要成为牛逼程序员，恐怕最重要的不再是「不断学习的能力」，而是「克服对代码恐惧的能力」。</p>
+<p>greylock 在5月写过一篇非常好的讲 AI Coding 的综述文章。感谢 @庄明浩 转发分享，「十字路口」编译分享给大家。</p>
+<p>前提是：创造出高保真、可靠的 AI ，使之用于代码生成和工程工作流。</p>
+<p>编程等工程任务非常适合 AI 增强或替代，原因如下：</p>
+<ul>
+<li>
+<p>(i) 编码本质上要求工程师将问题分解成更小、更易管理的任务；</p>
+</li>
+<li>
+<p>(ii) 有大量现有的训练数据；</p>
+</li>
+<li>
+<p>(iii) 任务需要判断力和基于规则的工作相结合；</p>
+</li>
+<li>
+<p>(iv) 解决方案利用可组合的模块（开源软件库等）；</p>
+</li>
+<li>
+<p>(v) 在某些情况下，工作成果可以通过经验测试其正确性。这意味着可靠准确的 AI 编码工具可以提供可量化的价值。</p>
+</li>
+</ul>
+<p>鉴于这些因素，仅在过去一年里，AI  Coding 工具的尝试就呈爆炸式增长。但仍有许多悬而未决的问题，关于必须解决哪些技术难题才能制造出在生产环境中与人类工程师一样好（或更好）的编码工具。</p>
+<p>在这篇文章中，我将阐述我们看到的创业生态系统中的三种方法，以及这些工具面临的三个开放性挑战：</p>
+<ol>
+<li>
+<p>我们如何创造更强大的上下文感知能力？</p>
+</li>
+<li>
+<p>我们如何让AI agents在端到端编码任务中表现得更好？</p>
+</li>
+<li>
+<p>拥有特定于代码的模型是否会带来长期的差异化？</p>
+</li>
+</ol>
+<p>在过去的一年里，我们看到创业公司采取了三种方法：</p>
+<ol>
+<li>
+<p>AI copilots 和 chat 界面，与工程师在工具中并肩工作。</p>
+</li>
+<li>
+<p>能够替代工程工作流程的 AI agents，通过 end-to-end 端到端执行工程任务。</p>
+</li>
+<li>
+<p>特定代码的基础模型。这些是用代码特定数据训练的定制模型，并与面向用户的应用程序垂直整合。</p>
+</li>
+</ol>
+<p>即使在回答这些首要问题之前，我们相信上述每种方法都能在短期内带来有意义的影响。让我们仔细看看行业地图：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6f2ec5f3ee8e911ba78cedc39db1d3ee0cd800ccf5840538cd83276e40ed94ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4646634e536f51334b6963766d58434c7677465669625866476b6961435075716963786c5a6446636e573143744d4a31554237574b4f42354e4f6279526235347043315462746559573932496f48343358644c523130567556412f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6f2ec5f3ee8e911ba78cedc39db1d3ee0cd800ccf5840538cd83276e40ed94ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4646634e536f51334b6963766d58434c7677465669625866476b6961435075716963786c5a6446636e573143744d4a31554237574b4f42354e4f6279526235347043315462746559573932496f48343358644c523130567556412f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/FFcNSoQ3KicvmXCLvwFVibXfGkiaCPuqicxlZdFcnW1CtMJ1UB7WKOB5NObyRb54pC1TbteYW92IoH43XdLR10VuVA/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<blockquote>
+<p>如今，绝大多数 AI coding Startup 都采用IDE内的 copilot 或 chat 界面的形式来增强工程工作流程。</p>
+</blockquote>
+<p>虽然像Tabnine这样的公司多年来一直在开发代码助手，但 AI coding 工具的重大时刻是在2021年GitHub Copilot发布时到来的。从那时起，我们看到了大量针对工程师各种工作的创业公司涌现。</p>
+<p>找到市场的创业公司正在针对围绕代码生成或代码测试的工作流程。这是因为：</p>
+<ul>
+<li>
+<p>它们是工程师工作的核心部分</p>
+</li>
+<li>
+<p>它们可能只需要相对较少的上下文就能足够有用</p>
+</li>
+<li>
+<p>在大多数情况下，它们可以在单一平台内捆绑</p>
+</li>
+<li>
+<p>在可靠性稀缺的世界里，将输出直接放在用户面前（即在IDE中）允许他们对任何需要的修正负责</p>
+</li>
+</ul>
+<p>房间里的大象是挑战GitHub Copilot的难题，后者已经拥有相当大的分发和心智份额（恭喜**Devin[1]**刚刚获得了与微软的合作）。创业公司正在通过寻找差异化的切入点来解决这个问题。例如，Codeium采取企业优先的方法，而Codium则从代码测试和审查开始，并从那里扩展。</p>
+<p>我们也相信，针对代码重构、代码审查和软件架构等任务的工具有很大的机会。这些可能更复杂，因为它们不仅需要在代码内更大范围的理解，还需要理解不同文件之间的知识图谱、对外部库的了解、对业务背景的理解、软件的最终使用模式，以及复杂的工具选择。</p>
+<p>无论切入点如何，我们在这一层面看到的一个反复出现的挑战是如何获取相关上下文来解决公司代码库中更广泛的任务。具体如何做到这一点是一个开放的问题，我们将在本文最后一节探讨。</p>
+<p>如果增强工程工作流程是有价值的，那么更大的机会是弄清楚哪些工作流程可以完全被取代。</p>
+<p>能够端到端执行工程任务的 AI Coding 产品 - 可以在人类工程师做其他事情时在后台工作 - 将创造全新水平的生产力和创新。远远超越 AI copilots， AI copilots 可以将我们从销售工具的领域带入销售劳动力的领域。在编码 agents 变得非常优秀的世界里，你可以让一个人类同时监督多个" AI 工程师"。</p>
+<p>AI agents 的基本能力不仅仅是预测代码行中的下一个词。它需要将这种能力与执行复杂任务的能力结合起来，这些任务可能涉及数十个步骤，并且像工程师一样从用户的角度思考产品。例如，如果被要求修复一个bug，它需要知道bug的位置、问题的性质、它如何影响产品、修复bug可能导致的任何下游变化，以及更多信息，然后才能采取第一个行动。上下文必须来自诸如摄取Jira票据、更大块的代码库和其他信息源等方面。能够编写详细的代码规范和准确的代码规划将成为采用 AI 工程师的核心。</p>
+<p>我们在这个领域看到的公司和项目包括（但不限于）Devin、Factory、CodeGen、SWE-Agent、OpenDevin、AutoCodeRover、Trunk等。</p>
+<p>那么问题是：需要做什么才能让 agents 能够端到端完成更大比例的任务？这个问题在我的开放性问题部分得到了解答。</p>
+<p>一些创始人认为，为了在代码应用层面建立长期的差异化，你需要拥有一个支持它的特定于代码的模型。</p>
+<p>这不是一个不合理的建议，但似乎有一些开放性问题使其他创业公司远离这种资本密集型方法 - 主要是不清楚特定于代码的模型是否会被基础模型层的改进所超越。我将在开放性问题部分进一步讨论这个话题。</p>
+<p>首先，让我们回顾一下，大多数基础LLM并不是专门在代码上训练的，许多现有的特定于代码的模型，如CodeLlama和AlphaCode，是通过取一个LLM基础模型，给它数百万个公开可用的代码点，然后针对编程需求进行微调而创建的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9260780ae19bbad78470f2e2a7164c38ce1f842e0b15c3fa1bd91440d01d451a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4646634e536f51334b6963766d58434c7677465669625866476b6961435075716963786c44506d6e4a73303234634f394f564630315542656245357146644b395974377a4a41724c4948477748567433466963554d514a6b4e44512f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9260780ae19bbad78470f2e2a7164c38ce1f842e0b15c3fa1bd91440d01d451a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4646634e536f51334b6963766d58434c7677465669625866476b6961435075716963786c44506d6e4a73303234634f394f564630315542656245357146644b395974377a4a41724c4948477748567433466963554d514a6b4e44512f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/FFcNSoQ3KicvmXCLvwFVibXfGkiaCPuqicxlDPmnJs024cO9OVF01UBebE5qFdK9Yt7zJArLIHGwHVt3FicUMQJkNDQ/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>注：时间线仅显示部分特定于代码的模型和被广泛用于编码用例的LLM</p>
+<p>如今，像Magic、Poolside和Augment这样的创业公司正试图更进一步，通过生成自己的代码数据并使用人类对编码示例的反馈来训练自己的特定于代码的模型（Poolside称之为"<strong>基于代码执行反馈的强化学习[2]</strong>"）。这个理论是，这样做将导致更好的输出，减少对GPT-4或其他LLM的依赖，并最终创造最持久的护城河。</p>
+<p>这里的核心问题是一个新团队是否能超越前沿模型的改进速度。基础模型领域发展如此之快，如果你尝试深入研究特定于代码的模型，你就面临着在你的新模型完成训练之前，一个更好的基础模型出现并超越你的风险。考虑到模型训练的资本密集性，如果你在这个问题上判断错误，就会有大量的时间和金钱风险。</p>
+<p>我知道一些团队正在采取（非常吸引人的）方法，即在基础模型之上对特定任务进行特定于代码的微调，这样可以受益于基础模型的进步，同时提高代码任务的性能 - 我将在开放性问题3中详细讨论这一点。</p>
+<p>无论采取哪种方法，都需要解决一些技术挑战，以解锁具有低延迟和良好用户体验的可靠代码生成工具：</p>
+<ul>
+<li>
+<p>我们如何创造更强大的上下文感知能力(context awareness)？</p>
+</li>
+<li>
+<p>我们如何让AI agents在端到端(E2E)编码任务中表现得更好？</p>
+</li>
+<li>
+<p>拥有模型和模型基础设施是否会导致长期的差异化产品？</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c4fef83b84c63d2e875d5798e22626725e13dcb4957866437054195b3c259d0d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4646634e536f51334b6963766d58434c7677465669625866476b6961435075716963786c7a6338706f5942465935494b4238523375427a52623976575353514d64634d696270663461324731386f626735724e6169615a35614c4a412f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c4fef83b84c63d2e875d5798e22626725e13dcb4957866437054195b3c259d0d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4646634e536f51334b6963766d58434c7677465669625866476b6961435075716963786c7a6338706f5942465935494b4238523375427a52623976575353514d64634d696270663461324731386f626735724e6169615a35614c4a412f3634303f77785f666d743d6f746865722666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/FFcNSoQ3KicvmXCLvwFVibXfGkiaCPuqicxlzc8poYBFY5IKB8R3uBzRb9vWSSQMdcMibpf4a2G18obg5rNaiaZ5aLJA/640?wx_fmt=other&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>开放性问题1：我们如何创造更强大的上下文感知能力？</h3>
+<p>上下文问题的核心在于某些编码任务需要工程师正在工作的开放文件之外的信息和上下文，这些信息和上下文不能简单地通过增加上下文窗口大小来访问。</p>
+<p>从代码库的不同部分（甚至是外部）检索这些信息不仅具有挑战性，还可能增加延迟，这在即时自动完成的世界中是致命的。</p>
+<p>这为那些能够准确和安全地找到并摄取编码任务所需上下文的创业公司提供了巨大的机会。</p>
+<p>目前，有两种方法来做到这一点：</p>
+<ul>
+<li>
+<p>持续微调：我听客户说过"我希望一家公司能在我的代码库上安全地微调他们的模型"。虽然理论上对自己的代码库进行模型调整可能有意义，但实际上有一个问题：一旦你调整了模型，它就变成静态的，除非你在进行持续的预训练（这是昂贵的，并可能有延续现有偏见的效果）。没有这个，它可能在有限的时间内表现得很好，但它实际上并没有随着代码库的演变而学习。话虽如此，微调正变得越来越容易，所以定期对你的代码库进行模型微调可能是可行的 - 例如，Codeium**声明[3]**他们确实提供"客户特定的微调"，但他们明确表示应该谨慎使用，因为最佳方法是上下文感知RAG。</p>
+</li>
+<li>
+<p>上下文感知RAG：RAG可能是目前提高上下文的最佳可用方法，通过检索代码库的相关片段。这里的挑战是在非常大的代码库中的检索排名问题是非平凡的。像Agentic RAG和RAG微调这样的概念正在获得普及，可能是更好地利用上下文的有力方法。例如，Codeium在一篇**博客文章[4]**中分享了他们如何使用教科书式的RAG，并辅以更复杂的检索逻辑，爬取导入和目录结构，并将用户意图（如您过去打开的文件等）作为上下文。能够在检索中使用这种细粒度的细节可能成为初创公司的重要护城河。</p>
+</li>
+</ul>
+<h3>开放问题2：我们如何让AI agents 在端到端编码任务中表现得更好？</h3>
+<p>虽然我们距离完美的AI工程师还有一段路要走，但像Cognition、Factory、Codegen、SWE-Agent、OpenDevin和AutoCodeRover这样的少数公司和项目正在取得有意义的进展。</p>
+<p>SWEBench评估显示，大多数基础模型只能修复<strong>4%[5]的问题，SWE-Agent可以达到12%[6]</strong>，据报道Cognition可达<strong>14%[7]</strong>，OpenDevin最高可达<strong>21%[8]</strong>。一个有趣的想法（由Andrej Karpathy在**这里[9]**重申）是围绕流程工程的概念，它超越了单一提示或思维链提示，专注于代码的迭代生成和测试。诚然，提示工程是一种无需训练模型就能提高性能的好方法，但目前尚不清楚这对一家公司来说在长期内能否构成多大的护城河。</p>
+<ul>
+<li>注意，这种测量方式存在一些局限性：就上下文而言，SWE-bench由GitHub上的问题和拉取请求配对组成，所以当模型在其上进行测试时，它们只会得到代码仓库的一小部分（这是一种提示，同时也引入了偏差），而不是给予整个仓库并让它们自行解决。尽管如此，我认为SWE-Bench在当前阶段是一个良好的基准，可以开始理解这些 agents 。</li>
+</ul>
+<p>代码规划将在AI agents 中扮演核心角色，我很期待看到更多公司专注于生成代码规范，这些规范可以帮助 agents 构建目标、规划功能并定义其实现和架构。多步骤 agents 推理仍然是一个广泛未解决的问题，据传闻这是OpenAI下一个模型的重点关注领域。事实上，一些人（如Jim Fan在**这篇文章[10]**中）会认为，AI编码 agents 的护城河实际上并不源于"包装器"，而是来自LLM本身及其"解决现实世界软件工程问题的能力，具有人类级别的工具访问能力... 搜索StackOverflow、阅读文档、自我反思、自我纠正，并执行长期一致的计划"。</p>
+<p>这就引出了我们最后一个——可能也是最大的——开放问题。</p>
+<h3>开放问题3：拥有模型和模型基础设施是否能带来长期的差异化产品？</h3>
+<p>这个价值十亿美元的问题是，一家初创公司是应该依赖现有模型（无论是直接调用GPT/Claude模型还是微调基础模型），还是经历资本密集型的过程来构建自己的特定于代码的模型——即使用高质量的编码数据专门为代码预训练模型。我们实际上并不知道一个特定于代码的模型是否会比下一套大型语言模型有更好的结果。</p>
+<p>这个问题归结为几个基本的未知因素：</p>
+<ul>
+<li>
+<p>一个较小的代码模型能否胜过一个大得多的基础模型？</p>
+</li>
+<li>
+<p>模型需要在多大程度上预训练代码数据才能看到显著改进？</p>
+</li>
+<li>
+<p>是否有足够的高质量代码数据可供训练？</p>
+</li>
+<li>
+<p>基础模型的大规模推理能力是否胜过一切？</p>
+</li>
+</ul>
+<p>Poolside、Magic和Augment的假设是，拥有底层模型并在代码上训练它可以显著决定代码生成质量。考虑到竞争对手，这种潜在优势是有道理的：据我所知，GitHub Copilot并没有一个完全从头训练的模型，而是运行在一个较小的、经过大量代码微调的GPT模型上。我猜这些公司不会试图构建一个基础级大小的模型，而是一个更小、更专业的模型。根据我与这个新兴领域工作的人的交谈，我的结论是，在结果发布之前，我们仍然不知道这种方法会带来多大规模的改进。</p>
+<blockquote>
+<p>对代码模型方法的一个反驳来自于这样一个事实：现有成功的编码助手，如Cursor和Devin，已知是建立在GPT模型之上的，而不是特定于代码的模型。</p>
+</blockquote>
+<p>而且据<strong>报道[11]</strong>，DBRX Instruct的表现优于专门训练的CodeLLaMA-70B。如果用编码数据训练有助于推理，那么前沿模型肯定会在未来的模型中包含代码执行反馈，从而使它们更适合代码生成。与此同时，主要在语言上训练的大型模型可能拥有足够的上下文信息，使其推理能力胜过对代码数据的需求——毕竟，这就是人类的工作方式。</p>
+<p>这里的关键问题是，基础模型的改进速度是否大于特定于代码的模型随时间推移的性能提升。我认为，大多数助手公司可能会开始采用前沿模型并在自己的数据上进行微调——例如，使用Llama3-8b并在其基础上通过代码执行反馈进行强化学习——这允许公司从基础模型的发展中受益，同时以非常高效的方式使模型偏向代码性能。</p>
+<blockquote>
+<p>构建用于代码生成和工程工作流程的AI工具，是我们今天看到的最令人兴奋和有价值的事业之一。</p>
+</blockquote>
+<p>提升甚至最终完全自动化工程工作的能力，开启了一个远大于我们历史上所见的开发者工具市场。虽然存在需要克服的技术障碍，但这个市场的上升空间是无限的。</p>
+<p>我们认为这个领域足够大，可以让许多公司开发专门的 agents 、助手和模型方法。</p>
+<p>Source: <strong>greylock[12]</strong></p>
+<h3>参考资料</h3>
+<p>[1]</p>
+<p>Devin: <em><a href="https://x.com/cognition%5C_labs/status/1792988218750603764" rel="nofollow">https://x.com/cognition\_labs/status/1792988218750603764</a></em></p>
+<p>[2]</p>
+<p>基于代码执行反馈的强化学习: <em><a href="https://www.poolside.ai/" rel="nofollow">https://www.poolside.ai/</a></em></p>
+<p>[3]</p>
+<p>声明: <em><a href="https://codeium.com/blog/personalization-context-awareness-vs-customer-specific-finetuning" rel="nofollow">https://codeium.com/blog/personalization-context-awareness-vs-customer-specific-finetuning</a></em></p>
+<p>[4]</p>
+<p>博客文章: <em><a href="https://codeium.com/blog/personalization-context-awareness-vs-customer-specific-finetuning" rel="nofollow">https://codeium.com/blog/personalization-context-awareness-vs-customer-specific-finetuning</a></em></p>
+<p>[5]</p>
+<p>4%: <em><a href="https://swe-agent.com/" rel="nofollow">https://swe-agent.com/</a></em></p>
+<p>[6]</p>
+<p>12%: <em><a href="https://swe-agent.com/" rel="nofollow">https://swe-agent.com/</a></em></p>
+<p>[7]</p>
+<p>14%: <em><a href="https://www.cognition.ai/blog/swe-bench-technical-report" rel="nofollow">https://www.cognition.ai/blog/swe-bench-technical-report</a></em></p>
+<p>[8]</p>
+<p>21%: <em><a href="https://xwang.dev/blog/2024/opendevin-codeact-1.0-swebench/" rel="nofollow">https://xwang.dev/blog/2024/opendevin-codeact-1.0-swebench/</a></em></p>
+<p>[9]</p>
+<p>这里: <em><a href="https://x.com/karpathy/status/1748043513156272416" rel="nofollow">https://x.com/karpathy/status/1748043513156272416</a></em></p>
+<p>[10]</p>
+<p>这篇文章: <em><a href="https://x.com/DrJimFan/status/1778105360685080644" rel="nofollow">https://x.com/DrJimFan/status/1778105360685080644</a></em></p>
+<p>[11]</p>
+<p>报道: <em><a href="https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm?utm%5C_source=tldrai" rel="nofollow">https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm?utm\_source=tldrai</a></em></p>
+<p>[12]</p>
+<p>greylock: <em><a href="https://greylock.com/greymatter/code-smarter-not-harder/" rel="nofollow">https://greylock.com/greymatter/code-smarter-not-harder/</a></em></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

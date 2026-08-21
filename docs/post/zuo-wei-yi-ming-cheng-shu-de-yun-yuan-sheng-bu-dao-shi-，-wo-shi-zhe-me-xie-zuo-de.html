@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEWuJdI9rloBbrgVCo7p0ka6V79qrj5PibvgicMx4oKxwlHA1psMpzPsUgOrXO8yTLPxd4eTYFs0nbbg/640?wx_fmt=png)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhbve1I77zUtPVQX6MicDdJP4d0M41VKrky1ltOY7LaeRiath6jxwm4IgQ/640?wx_fmt=png)
+
+技术写作的价值
+-------
+
+写作并不是一件轻松的事情，特别是技术内容创作，它不仅需要兴趣来驱动，而且需要耐心，所以写作这个活动注定不适合所有人。">
+<meta property="og:title" content="作为一名成熟的云原生布道师，我是这么写作的">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEWuJdI9rloBbrgVCo7p0ka6V79qrj5PibvgicMx4oKxwlHA1psMpzPsUgOrXO8yTLPxd4eTYFs0nbbg/640?wx_fmt=png)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhbve1I77zUtPVQX6MicDdJP4d0M41VKrky1ltOY7LaeRiath6jxwm4IgQ/640?wx_fmt=png)
+
+技术写作的价值
+-------
+
+写作并不是一件轻松的事情，特别是技术内容创作，它不仅需要兴趣来驱动，而且需要耐心，所以写作这个活动注定不适合所有人。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/zuo-wei-yi-ming-cheng-shu-de-yun-yuan-sheng-bu-dao-shi-%EF%BC%8C-wo-shi-zhe-me-xie-zuo-de.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>作为一名成熟的云原生布道师，我是这么写作的</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">作为一名成熟的云原生布道师，我是这么写作的</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/653" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6383e7553bc7f5d2e2849223f9d46ef00087a3e9a70ffa3814f3e764f229bcf3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f753550696276374163734557754a644939726c6f4262726756436f3770306b613656373971726a35506962766769634d78346f4b78776c48413170734d707a507355674f72584f3879544c507864346554594673306e6262672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/6383e7553bc7f5d2e2849223f9d46ef00087a3e9a70ffa3814f3e764f229bcf3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f753550696276374163734557754a644939726c6f4262726756436f3770306b613656373971726a35506962766769634d78346f4b78776c48413170734d707a507355674f72584f3879544c507864346554594673306e6262672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEWuJdI9rloBbrgVCo7p0ka6V79qrj5PibvgicMx4oKxwlHA1psMpzPsUgOrXO8yTLPxd4eTYFs0nbbg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bb23d6e6acd3aaa4c154b73ee6fd1e1872e7296f0680ed297d02cee1a380ad71/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568627665314937377a557450565158364d696344644a503464304d3431564b726b79316c744f59374c61655269617468366a78776d344967512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/bb23d6e6acd3aaa4c154b73ee6fd1e1872e7296f0680ed297d02cee1a380ad71/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568627665314937377a557450565158364d696344644a503464304d3431564b726b79316c744f59374c61655269617468366a78776d344967512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhbve1I77zUtPVQX6MicDdJP4d0M41VKrky1ltOY7LaeRiath6jxwm4IgQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<h2>技术写作的价值</h2>
+<p>写作并不是一件轻松的事情，特别是技术内容创作，它不仅需要兴趣来驱动，而且需要耐心，所以写作这个活动注定不适合所有人。我想无论是写作、演讲，还是录制视频，除了利益驱动无可厚非之外，大家肯定<strong>都有一个额外的共同目的：分享</strong>。</p>
+<p>至于分享之后为了得到什么，那都不重要，比如我就是为了满足自己的虚荣心，说白了就是装x，看着自己的文章被越来越多的人阅读，越来越多的人认识我，加我微信好友的人越来越多，自己在圈内越来越出名，虚荣心得到了极大的满足。既满足了自己的虚荣心，又造福了广大读者，有何不可呢？</p>
+<p>除了我说的这些，写作还有没有其他价值呢？还是拿我亲身经历举例子，我的一部分文章给我带来了全新的工作机会；还有一部分文章吸引了很多社区和团队的目光，主动来和我合作；所有的这一切让我结识了更多志同道合的朋友；当然，获取到大量关注后也给我带来了更多的收入，这个不必避讳。</p>
+<p>听了我的描述后，如果你决定开始尝试写点东西，或者已经开始尝试一段时间，但还是没有明确的思路，这篇文章就是为你们准备的。</p>
+<blockquote>
+<p>声明：虽然今天这篇文章是教大家如何写云原生领域的文章，但实际上是通用的，并不局限于云原生，只要你想写作，这篇文章都有一定的参考价值。</p>
+</blockquote>
+<h2>写作工具</h2>
+<p>工欲善其事，必先利其器。既然决定了进入“写作”这个战场，首当其冲的就是选一件称手的兵器，对于写作来说，这个兵器就是“写作工具”。选工具之前，先要明确一下自己偏好的排版格式，目前有两种主流的排版格式：</p>
+<ul>
+<li>
+<p><strong>富文本</strong>：富文本格式（Rich Text Format, 一般简称为 RTF）是由微软公司开发的跨平台文档格式。最大的特点是：<strong>所见即所得</strong>，你把格式调整成什么样子，就会直接显示出什么样的效果。这一点和 Word 类似。目前微信公众号文章就是通过富文本来编辑的。</p>
+</li>
+<li>
+<p><strong>Markdown</strong>：Markdown 是一种轻量的标记语法，你可以理解为一种伪编程语言，和 HTML 有点像，只不过是专门为写作准备的极简格式。Markdown 的语法很简单，只有一些简单的符号，我们只需学习这几个简单的符号，然后插入到写作内容中，不用关心排版。</p>
+</li>
+</ul>
+<p>程序员大多都不喜欢使用 Word 这类富文本编辑器，因为不可控因素太多，各种形式、用法和风格，而且花样繁多，强依赖于编辑器，换个编辑器用法又不一样了。</p>
+<p>众望所归的选择还是 Markdown，排版都是可复制的，文字的排版只是多打几个符号而已，最终产出的只是一个纯文本，非常利于传播和迁移。所以 Markdown 才是程序员的最爱。</p>
+<p>目前市面上比较流行的 Markdown 编辑器琳琅满目，本文也无法为大家一一介绍，这里只推荐几个我认为最最最优秀的。</p>
+<h3>Typora</h3>
+<p>Typora[1] 最吸引人的特性就是它的即时渲染，也就是所谓的<strong>所见即所得</strong>。一般的 Markdown 编辑器都分为编辑栏和预览栏，Typora 将其合二为一，实时预览，只要你敲入相应的标记符号就立马为你转换为对应的样式，就像写 Word 一样流畅自如。这是本文在 Typora 中的排版样式：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/17879d50ba48008db6f8486c2d4b55efa087dff080457cd6397f2581515291e5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568326638664b71316962706d3869627564325433655067556879725062663943696141663773794f5866646f715637703169624b63337859564d772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/17879d50ba48008db6f8486c2d4b55efa087dff080457cd6397f2581515291e5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568326638664b71316962706d3869627564325433655067556879725062663943696141663773794f5866646f715637703169624b63337859564d772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUh2f8fKq1ibpm8ibud2T3ePgUhyrPbf9CiaAf7syOXfdoqV7p1ibKc3xYVMw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>遗憾的是 Typora 目前已经开始收费，但这是合理的，之前 Typora 发布的都是测试版，免费供大家使用，现在正式版开始取消免费，毕竟开发也需要付出，我们要尊重开发者，优质的产品值得付费。我们可以选择不用 Typora，但不必对其收费行为冷嘲热讽。</p>
+<h3>VS Code</h3>
+<p>VS Code[2] 虽然是一个代码编辑器，但由于它的功能过于强大，插件过于丰富，扩展性极强，所以人们也常常用它来写作。</p>
+<blockquote>
+<p>Visual Studio Code（简称 VS Code）是一个由微软开发，同时支持 Windows 、 Linux 和 macOS  等操作系统且开放源代码的代码编辑器，它支持测试，并内置了 Git 版本控制功能，同时也具有开发环境功能，例如代码补全（类似于  IntelliSense）、代码片段和代码重构等。该编辑器支持用户个性化配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，同时还在编辑器中内置了扩展程序管理的功能。——维基百科</p>
+</blockquote>
+<p>VS Code 借助插件的力量可以实现和 Typora 旗鼓相当的能力。VS Code 默认情况下内置了 Markdown 的预览功能，效果如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0af6aa2e01a7275db6bd1202b060f093407c5b55d335e7118f94b4812c90b16a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a556843373669634650696173356651333252465255544d554c35444f335a4f567038447a504a766369626962755555614c336963416543793250787a512f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/0af6aa2e01a7275db6bd1202b060f093407c5b55d335e7118f94b4812c90b16a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a556843373669634650696173356651333252465255544d554c35444f335a4f567038447a504a766369626962755555614c336963416543793250787a512f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhC76icFPias5fQ32RFRUTMUL5DO3ZOVp8DzPJvcibibuUUaL3icAeCy2PxzQ/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>要想实现即时预览的能力，就需要借助一款强大的插件：<strong>Office Viewer</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94d37723eea3ee02243d75aa5323e765bdd1771038aa8e3c1656d1dda19c5d52/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55686c30724c6c4844584a79425433507a4e78436645464b50466b4b32624a72334c6d7731304c736963506961574d7a32696239475a796b3446512f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/94d37723eea3ee02243d75aa5323e765bdd1771038aa8e3c1656d1dda19c5d52/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55686c30724c6c4844584a79425433507a4e78436645464b50466b4b32624a72334c6d7731304c736963506961574d7a32696239475a796b3446512f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhl0rLlHDXJyBT3PzNxCfEFKPFkK2bJr3Lmw10LsicPiaWMz2ib9GZyk4FQ/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p><strong>这货不但可以实时预览编辑 Markdown，还能显示 PDF 文档和 Excel 表格，简直就是简直了。</strong></p>
+<p>装好该插件后，需要在内置文件浏览器里依次<strong>右键</strong> --&gt; <strong>打开方式</strong>，</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cdc47c4509e4542400829d0b7c4e9154594c72b0939c10b36394853e1586a343/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568504175634f6b553633546c42314848394d4a343735446e6e59586d614266795744486c506d4135324b4f6b55515a334f616e75464d412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/cdc47c4509e4542400829d0b7c4e9154594c72b0939c10b36394853e1586a343/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568504175634f6b553633546c42314848394d4a343735446e6e59586d614266795744486c506d4135324b4f6b55515a334f616e75464d412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhPAucOkU63TlB1HH9MJ475DnnYXmaBfyWDHlPmA52KOkUQZ3OanuFMA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>然后在弹出的面板中选择 Office Viewer。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ba808b243ab9f5415bd7ea0e72400dc83fe6647ab7c7f3506523b1da6c90bda6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a556841564339784f594e526a6c5538687864643243584f46626963465a765346514b304e743263463371444b324a46614c63585141765233772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/ba808b243ab9f5415bd7ea0e72400dc83fe6647ab7c7f3506523b1da6c90bda6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a556841564339784f594e526a6c5538687864643243584f46626963465a765346514b304e743263463371444b324a46614c63585141765233772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhAVC9xOYNRjlU8hxdd2CXOFbicFZvSFQK0Nt2cF3qDK2JFaLcXQAvR3w/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>最终效果如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/818ed0879252468d1bc2e942774f49b574350e8e26e36476acfbd9212196c20b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568477662346d77434f576e747a544a30735a493174504945504d526a523443383653746473424a69626c69623374774a7656374d6673646962672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/818ed0879252468d1bc2e942774f49b574350e8e26e36476acfbd9212196c20b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568477662346d77434f576e747a544a30735a493174504945504d526a523443383653746473424a69626c69623374774a7656374d6673646962672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhGvb4mwCOWntzTJ0sZI1tPIEPMRjR4C86StdsBJiblib3twJvV7Mfsdibg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<h3>Obsidian</h3>
+<p>Obsidian[3] 是一个支持双向链接的笔记管理软件，但我们用它来写 Markdown 也是极好的！Obsidian 最新版本也实现了即时预览功能，只需在编辑器设置中将默认的编辑模式改为即时预览即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e2d9d961f0e5179dcce52d1b74c86e861b8a23e18beddb337644362425f4cdab/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55685937756f7a696165317073706468696153776d5a707746784e546a747a6a69616e475a4d64423645477a74527156774a6f3733374c47426963512f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/e2d9d961f0e5179dcce52d1b74c86e861b8a23e18beddb337644362425f4cdab/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55685937756f7a696165317073706468696153776d5a707746784e546a747a6a69616e475a4d64423645477a74527156774a6f3733374c47426963512f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhY7uoziae1pspdhiaSwmZpwFxNTjtzjianGZMdB6EGztRqVwJo737LGBicQ/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>最终呈现的效果如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dcda314b2fb3d4e8ed825cd30e46f6c68f24025e9e48a7b4510d5bc0fbac638/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568767568776b5033346169634838504d6961327075316c364a746963776348746d52316d47526b496174586436416f544f457844635958736a512f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/3dcda314b2fb3d4e8ed825cd30e46f6c68f24025e9e48a7b4510d5bc0fbac638/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568767568776b5033346169634838504d6961327075316c364a746963776348746d52316d47526b496174586436416f544f457844635958736a512f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhvuhwkP34aicH8PMia2pu1l6JticwcHtmR1mGRkIatXd6AoTOExDcYXsjQ/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>可以看到其实时预览功能目前还有一些小缺陷，比如引用的样式渲染不太理想，不过后续这些问题都会被修复的，现在只是开始。</p>
+<p>关于 Obsidian 作为笔记管理软件本身的强大功能，本文不作过多介绍，感兴趣的可以自己研究。</p>
+<h3>Hackmd</h3>
+<p>除了个人创作外，有时我们也需要多人协作编辑 Markdown。即使是个人创作，有时也需要请多人帮忙提出改进建议。如果有这方面的需求，可以使用 Hackmd[4] 来协作。在 Hackmd 中，正在编辑这篇文章的人可以同时看见其他协作者正在编辑的位置，编辑一段文字后还可以看见这段文字是谁写的，不同作者用不同颜色表示在这段文字的左边或者下面。还可以对选中的内容通过留言的形式提出改进的建议。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5be15f3366c333f2016a9964b07e7edeeab7ecb5b6389666cfca6e11fa0a9bc6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568746c306961664c6a426e374c6b495455723352655674457876795a39454c3736564d6b6e434532614c3966304d414a39596853754b53772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/5be15f3366c333f2016a9964b07e7edeeab7ecb5b6389666cfca6e11fa0a9bc6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568746c306961664c6a426e374c6b495455723352655674457876795a39454c3736564d6b6e434532614c3966304d414a39596853754b53772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhtl0iafLjBn7LkITUr3ReVtExvyZ9EL76VMknCE2aL9f0MAJ9YhSuKSw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<h2>写作类型</h2>
+<p>笔者目前工作的领域是云原生，更宽泛一点则是基础架构领域，这个领域的技术内容创作类型大概可以分为以下几类：</p>
+<ul>
+<li>
+<p><strong>问题解决类</strong>：该类文章以问题为切入点，整篇文章都是围绕着如何解决这个问题，包括问题的前因后果、问题的解决思路与步骤、避坑方法等。比如这篇：<a href="https://mp.weixin.qq.com/s?__biz=Mzg4NTU0MzEyMg==&amp;mid=2247493225&amp;idx=1&amp;sn=5f65300c7ba0e7135f29d0472fb3fe74&amp;scene=21#wechat_redirect" rel="nofollow">👉凌晨 12 点突发 Istio 生产事故！一顿操作猛如虎解决了</a>。</p>
+</li>
+<li>
+<p><strong>安装部署类</strong>：这一类文章比较容易理解，就是记录某个开源项目的安装部署过程。例如这篇：<a href="https://mp.weixin.qq.com/s?__biz=Mzg4NTU0MzEyMg==&amp;mid=2247497768&amp;idx=1&amp;sn=78cf286f2679c7f4650d9db957fc0aca&amp;scene=21#wechat_redirect" rel="nofollow">👉使用 KubeKey 快速离线部署 KubeSphere 集群</a>。</p>
+</li>
+<li>
+<p><strong>最佳实践类</strong>：比安装部署类的文章更加深入，涉及到实际业务的落地，需要根据实际业务来规划架构，众多因素都要考虑在内，比如高可用、弹性伸缩、故障检测、保持连接等等。例如这篇：<a href="https://mp.weixin.qq.com/s?__biz=Mzg4NTU0MzEyMg==&amp;mid=2247498622&amp;idx=1&amp;sn=4605e987614e019f82402dff5d5e995a&amp;scene=21#wechat_redirect" rel="nofollow">👉去哪儿网业务大规模容器化最佳实践</a>。</p>
+</li>
+<li>
+<p><strong>技术分享类</strong>：这类文章纯粹就是为了分享自己学习某个技术的心得体会，比如这篇：<a href="https://mp.weixin.qq.com/s?__biz=Mzg4NTU0MzEyMg==&amp;mid=2247492544&amp;idx=1&amp;sn=e30cc7ba0eb1f714618a004896e1414e&amp;scene=21#wechat_redirect" rel="nofollow">👉KubeSphere 核心架构浅析</a>。</p>
+</li>
+<li>
+<p><strong>行业趋势观点类</strong>：这类文章主要是发表一些个人观点，比如这篇：<a href="https://mp.weixin.qq.com/s?__biz=Mzg4NTU0MzEyMg==&amp;mid=2247484312&amp;idx=1&amp;sn=950fe14a140d1d367e8616f981bd61a4&amp;scene=21#wechat_redirect" rel="nofollow">👉云原生的 WebAssembly 能取代 Docker 吗？。</a></p>
+</li>
+</ul>
+<p>还有一些其他的类型我就不列举了，主要就是上面这几类。</p>
+<h2>写作流程</h2>
+<p>确定好写作方向后，就可以构思写作内容了。当然了，首先得确定文章主题才能构思内容，没确定文章主题之前是没法提笔就写的。</p>
+<h3>构思</h3>
+<p>一篇好的文章主题需要一个好的 Idea，好的 Idea 需要持续积累。我会根据自己平时关注的资讯、读到的文章来确定近期准备写的原创文章主题，如果我读到比较优秀的英文文章，也会把它纳入到翻译的计划之内。俗话说得好，好记性不如烂笔头，不管是原创还是翻译，这些文章主题都要靠记录才能积累下来，你可以记到纸上，也可以记到笔记软件里。我自己就在使用 Obsidian 记录平时积累的写作主题：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6b0d5f5d2e913d4982ff340e6b10db65418780564b2724b8410e6e96d4f147db/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568506f6a5752427a424b434b746f4635506c446b6962316f4c69634e426e574535423948375a37313777717a43466b724f6450795a634466412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/6b0d5f5d2e913d4982ff340e6b10db65418780564b2724b8410e6e96d4f147db/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a5568506f6a5752427a424b434b746f4635506c446b6962316f4c69634e426e574535423948375a37313777717a43466b724f6450795a634466412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhPojWRBzBKCKtoF5PlDkib1oLicNBnWE5B9H7Z717wqzCFkrOdPyZcDfA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<h3>大纲</h3>
+<p>当你决定开始根据某个文章主题动笔写作之前，还有一件重要的事情要做，那就是列出文章的大纲。先列出文章的大纲会让你的写作事半功倍，有了大纲就有了清晰的脉络，层次分明，不会像无头苍蝇一样想到哪写到哪。我一般都是用思维导图的形式来呈现文章的大纲，VS Code 有专门的插件（markmap[5]）可以帮助我们将文章的多级标题转化为思维导图的形式。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e26f8c66e13b2e8bf66764ca186e6fa1315ef331d7b5dac65c532a7a50c03562/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55686e4a5163316263423674525348437a32313871627a444e6b6d6b4531305058674a5a6176696378764f565061724f7a5577524269614434672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/e26f8c66e13b2e8bf66764ca186e6fa1315ef331d7b5dac65c532a7a50c03562/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55686e4a5163316263423674525348437a32313871627a444e6b6d6b4531305058674a5a6176696378764f565061724f7a5577524269614434672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhnJQc1bcB6tRSHCz218qbzDNkmkE10PXgJZavicxvOVParOzUwRBiaD4g/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>或者你也可以直接使用专门的思维导图工具来疏理大纲，比如我使用的是在线版的 processon[6]：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/834fb21f1ebd018fbfa68525d26a0c5c4f68e538447882ef7624543a3424896e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55686b71363058684c7a4d336d5969624263596e667578666a47314f37316d465a496c42384b7a6e6e726c6d6a386878626150644c79364a672f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/834fb21f1ebd018fbfa68525d26a0c5c4f68e538447882ef7624543a3424896e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55686b71363058684c7a4d336d5969624263596e667578666a47314f37316d465a496c42384b7a6e6e726c6d6a386878626150644c79364a672f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhkq60XhLzM3mYibBcYnfuxfjG1O71mFZIlB8Kznnrlmj8hxbaPdLy6Jg/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>大纲同时也是文章的多级标题，比如我这篇文章的大纲就包含了二级标题和三级标题，一般不建议使用四级标题，除非实在有必要。</p>
+<h2>文章排版</h2>
+<p>技术文章的排版有很多需要注意的规范，本文就不一一说明了，感兴趣的可以参考阮一峰的中文技术文档写作规范[7]。</p>
+<p>本文只强调几个需要重点注意的事项：</p>
+<ul>
+<li>
+<p>Markdown 的标记语法有多种表示形式，比如无序列表既可以使用 '+' 号，也可以使用 '-'、'*' 等符号，大家在写作时尽量统一自己的标记语法，如果你想使用 '+' 号，就全部使用 '+' 号，不然看起来会很混乱。</p>
+</li>
+<li>
+<p>每一个段落之间隔一个<strong>空行</strong>，尽量避免冗长的段落，如果你的段落内容很长，想办法把它拆分成更多的段落。</p>
+</li>
+<li>
+<p>中英文混排时需要在中英文之间插入一个空格，比如：</p>
+<p><code class="notranslate">错误：KubeSphere集群   正确：KubeSphere 集群   </code></p>
+<p>为了省去自己手动㪣空格的麻烦，可以借助一些第三方工具来完成。如果你有自己的个人博客，可以使用 『赫蹏[8]』这个库，他是专为中文内容展示设计的排版样式增强，基于通行的中文排版规范而来，可自动为你的中英文之间加空格。如果你想在写作时就解决空格的烦恼，搜狗输入法也可以帮你自动加空格，具体的配置方法自己去搜一下，我电脑上没有搜狗输入法，不方便演示。</p>
+</li>
+</ul>
+<h2>辅助工具</h2>
+<p>真正动笔写作的时候，你会发现有很多地方需要借助第三方工具来辅助自己，比如画架构图、截图等等，如果不选择合适的工具来完成这些操作，你可能会举步维艰。</p>
+<h3>截图</h3>
+<p>macOS 从 10.14 开始便自带截图 App，只需要按下 Shift-Command-5（或使用启动台）以打开“截屏”就能显示该工具。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e875e447782f63099d70780e6eb074f83c2a0961ee2fc2076ce48ae8825355d6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55684b49654b566632594d4748307a4c69635466537469636a623048636a6e393878316963763150336f455742733074384d317451364e4e4d41512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/e875e447782f63099d70780e6eb074f83c2a0961ee2fc2076ce48ae8825355d6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55684b49654b566632594d4748307a4c69635466537469636a623048636a6e393878316963763150336f455742733074384d317451364e4e4d41512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhKIeKVf2YMGH0zLicTfSticjb0Hcjn98x1icv1P3oEWBs0t8M1tQ6NNMAQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+<p>功能非常丰富，既可以捕捉整个屏幕，也可以捕捉屏幕的一部分或者之间捕捉特定的窗口，除此之外还可以录制屏幕。</p>
+<p>除了自带的截图工具，还有一些第三方的截图工具也很优秀，这里只推荐两个我认为最最最优秀的：</p>
+<ul>
+<li>
+<p>Shottr[9] : 这个截图工具只有 3.2M，运行速度非常快，包含了智能测距、滚动截图、元素智能删除、OCR 文本识别、距离标注等很多别的工具需要付费才提供的功能，支持 Windows。墙裂推荐！</p>
+</li>
+<li>
+<p>iShot[10] : 和 Shottr 类似，也很强大，比 Shottr 强的地方在于可以手动控制滚动截屏的速度。</p>
+</li>
+</ul>
+<h3>文章配图</h3>
+<p>俗话说得好：<strong>一图胜千言</strong>。没有配图的文章是枯燥乏味的，尤其是技术文章。好的配图可以帮助读者更轻松地理解文章的内容，增强文章的可读性。大家写技术文章画的最多的配图应该就是架构图了，这方面的画图工具有很多可供选择，还是按照之前的惯例，我只推荐几个特别优秀的。</p>
+<ul>
+<li>
+<p>Omnigraffle[11] : 这是一款非常专业的画图软件，可以画出非常精美的架构图，如果你对架构图的审美要求比较高，推荐使用这个工具。这是我画的关于<a href="https://mp.weixin.qq.com/s?__biz=Mzg4NTU0MzEyMg==&amp;mid=2247492590&amp;idx=1&amp;sn=e0c1e79d8ce99047ca3e103f00cfe44f&amp;scene=21#wechat_redirect" rel="nofollow">👉以 Serverless 的方式实现 Kubernetes 日志告警</a>的架构图：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f6ab54f4edaa48f0c203a1bae9fc662c00beadec31cc333b83b694e7fd35d7a4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55684c5967746867634b30637352575769636b42633963664170584d555855797339474870324d33746c6638303751433849396770676f6c412f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/f6ab54f4edaa48f0c203a1bae9fc662c00beadec31cc333b83b694e7fd35d7a4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55684c5967746867634b30637352575769636b42633963664170584d555855797339474870324d33746c6638303751433849396770676f6c412f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhLYgthgcK0csRWWickBc9cfApXMUXUys9GHp2M3tlf807QC8I9gpgolA/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>遗憾的是该软件只有 macOS 版本，Windows 用户只能另寻他路了。</p>
+</li>
+<li>
+<p>diagrams.net[12] : 之前叫 draw.io，现在改名了。这是一个在线的画图工具，非常强大，内置了各种常用的元素和图标。除了网页版之外，还有一个开源的桌面客户端，支持 macOS、Windows 和 Linux 平台，客户端项目地址：**<a href="https://github.com/jgraph/drawio-desktop**%E3%80%82">https://github.com/jgraph/drawio-desktop**。</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f46c0bea6dfca88a8fbeca6974886f3bd69d3eea32649c99c0e8fa4a7e651563/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55683959696347345a516c7a686b54305474686b306963696367356674706e4e397677725836566c42734963454a794b38634251393448396171412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/f46c0bea6dfca88a8fbeca6974886f3bd69d3eea32649c99c0e8fa4a7e651563/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55683959696347345a516c7a686b54305474686b306963696367356674706e4e397677725836566c42734963454a794b38634251393448396171412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUh9YicG4ZQlzhkT0Tthk0icicg5ftpnN9vwrX6VlBsIcEJyK8cBQ94H9aqA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p>Cloudcraft[13] : 如果你更倾向于炫酷的三维架构图，可以选择使用 Cloudcraft，只不过内置的三维图标有点少哦。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b0aa3e2558d3a339190722076529ef2247260b5525e4db1530e582576d00d4f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55687a324c794a674c6b36686a346c69624b3776706636496b4d6832756a3637366961506667753369614344354364363169626a6154594e6d6c51412f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/2b0aa3e2558d3a339190722076529ef2247260b5525e4db1530e582576d00d4f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55687a324c794a674c6b36686a346c69624b3776706636496b4d6832756a3637366961506667753369614344354364363169626a6154594e6d6c51412f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhz2LyJgLk6hj4libK7vpf6IkMh2uj676iaPfgu3iaCD5Cd61ibjaTYNmlQA/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+</li>
+</ul>
+<h3>图床</h3>
+<p>无论是截图还是自己画的图，最终都要上传到某个地方然后提供一个外网可以直接访问的链接，这个用来存图片的地方就叫做『<strong>图床</strong>』。</p>
+<p>目前网上免费的图床太多了，最知名的应该就是 sm.ms[14] 了，登录用户有 5GB 的免费空间，个人用几年足矣。不过服务器不在国内，访问速度不太行。</p>
+<p>除了免费的图床之外，还有一些本身不是图床的平台也可以拿来当图床用，比如 GitHub。。新建个专门的仓库用来存图片，简直不要太香。如果嫌速度慢，可以使用著名的 CDN jsDelivr[15] 来反代，到国内速度贼快，国内线路走的是 CDN 提供商网宿[16]。推荐使用这个 Github 增强油猴脚本[17]，可以直接显示 GitHub 文件的各个加速 CDN 的链接。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c073d25dbbe6d716cf8f988343cf3f3fba2f81fcce2ee440bc895175f20f686f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55684f55705a78446e76696146334956755575567536743675746963576b48456d304c30584b744456464e36784f717a7a797468355531416962512f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/c073d25dbbe6d716cf8f988343cf3f3fba2f81fcce2ee440bc895175f20f686f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55684f55705a78446e76696146334956755575567536743675746963576b48456d304c30584b744456464e36784f717a7a797468355531416962512f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhOUpZxDnviaF3IVuUuVu6t6uticWkHEm0L0XKtDVFN6xOqzzyth5U1AibQ/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<p>但是很遗憾，去年年底 jsDelivr 在国内的域名备案被吊销了，导致国内 CDN 提供商网宿移除了 jsDelivr 的账号，就是因为滥用的人太多，羊毛薅得太狠了。现在 jsDelivr 到国内的速度也没啥优势了，比 GitHub 也没强多少。</p>
+<p>最靠谱的方式还是得花钱，把图片存到对象存储中，比如阿里的 OSS 之类的，也花不了几个钱。</p>
+<h3>图片管理</h3>
+<p>选择了适合自己的图床后，还要考虑到『上传和管理图片』这个老大难问题。你想想，假设我使用 GitHub 作为图床，我要上传一张图片，就需要先 commit，然后 push，然后再打开仓库复制这张图片的链接，最后再插入到 Markdown 中，想想都能吐血。</p>
+<p>能不能快一点，从上传图片开始到最后将图片插入到 Markdown 中不超过 5 秒钟，能不能做到？当然可以，前辈们早就想到了这个问题，并产出了优秀的图片上传管理工具。这里只推荐两款：</p>
+<ul>
+<li>
+<p>PicGo[18] : PicGo 支持全平台，开源且免费，支持丰富的插件系统，推荐使用。使用 PicGo 上传图片的流程是这样的：先复制图片，然后通过一个快捷键上传图片到对应的图床（并直接返回一个该图片的直链到你的系统剪切板），此时你只需到你的 Markdown 内容中粘贴就完事了，整个过程不超过 5 秒钟。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3b1c56ae6ac162e52d50b912dcb6ace30828cbb3c28246daa76f72432b1b250/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55685463674579453247594d726b3946377031576c6f637032526230336a456a556c6e4b6963564b7569636962556d37547152473769617a6e516b512f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/b3b1c56ae6ac162e52d50b912dcb6ace30828cbb3c28246daa76f72432b1b250/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55685463674579453247594d726b3946377031576c6f637032526230336a456a556c6e4b6963564b7569636962556d37547152473769617a6e516b512f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhTcgEyE2GYMrk9F7p1Wlocp2Rb03jEjUlnKicVKuicibUm7TqRG7iaznQkQ/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p>uPic[19] : uPic 只支持 macOS 平台，使用体验比 PicGo 更好，推荐 macOS 用户使用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eeb34515f1a45b4a74edb19d50eae59329e24942175c0362641c020a4e18215c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a556846696349696154594b3139514876613734514e6d773744566962755252737369636b44573862696163307249576e4174526264596b4944385678772f3634303f77785f666d743d706e67"><img src="https://camo.githubusercontent.com/eeb34515f1a45b4a74edb19d50eae59329e24942175c0362641c020a4e18215c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a556846696349696154594b3139514876613734514e6d773744566962755252737369636b44573862696163307249576e4174526264596b4944385678772f3634303f77785f666d743d706e67" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhFicIiaTYK19QHva74QNmw7DVibuRRssickDW8biac0rIWnAtRbdYkID8Vxw/640?wx_fmt=png" style="max-width: 100%;"></a></p>
+</li>
+</ul>
+<h3>文章格式化</h3>
+<p>如果文章写完后你发现有很多中英文之间没加空格，你是不是还得回过头去一个一个加空格？别担心，这个问题也有专门的工具来解决。先推荐一款开源的优化排版工具 HeySpace[20]，这是一个使用 Go 语言编写的命令行工具，核心功能是在中英文之间添加空格，除此之外还可以去除连续两个以上的空行，感兴趣可以自己试用。</p>
+<p>再推荐一款公众号在线排版网站墨滴[21]，可以将 Markdown 转换为富文本，然后直接粘贴到公众号的编辑器中。虽然这是一款公众号排版工具，但我们可以利用它的部分功能来实现格式化的目的，只需将 Markdown 内容粘贴到编辑器中，然后点击『格式化文档』即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b650923075ee81ebc9db46ff083b2051f6bc2531be53a64155db9eed14dfdd72/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55684a5a4c6961616878716d705a6b72476b445a6851795043626372554573716130696374626f457066376837464c456961367672634a505276772f3634303f77785f666d743d6a706567"><img src="https://camo.githubusercontent.com/b650923075ee81ebc9db46ff083b2051f6bc2531be53a64155db9eed14dfdd72/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7535506962763741637345567063786c716f3464387a7a62664e486a58444a55684a5a4c6961616878716d705a6b72476b445a6851795043626372554573716130696374626f457066376837464c456961367672634a505276772f3634303f77785f666d743d6a706567" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/u5Pibv7AcsEVpcxlqo4d8zzbfNHjXDJUhJZLiaahxqmpZkrGkDZhQyPCbcrUEsqa0ictboEpf7h7FLEia6vrcJPRvw/640?wx_fmt=jpeg" style="max-width: 100%;"></a></p>
+<h2>写在最后</h2>
+<p>以上就是我关于如何进行技术内容创作的经验之谈，从写作对个人的价值谈到技术内容的创作选型，再到文章的排版和辅助工具，希望能帮助大家开启自己的技术内容创作之路。当然，其中肯定有考虑不周之处，望海涵，也欢迎补充更好的建议。</p>
+<h3>引用链接</h3>
+<p>[1]</p>
+<p>Typora: <em><a href="https://www.typora.io/" rel="nofollow">https://www.typora.io/</a></em></p>
+<p>[2]</p>
+<p>VS Code: <em><a href="https://code.visualstudio.com/" rel="nofollow">https://code.visualstudio.com/</a></em></p>
+<p>[3]</p>
+<p>Obsidian: <em><a href="https://obsidian.md/" rel="nofollow">https://obsidian.md/</a></em></p>
+<p>[4]</p>
+<p>Hackmd: <em><a href="https://hackmd.io/" rel="nofollow">https://hackmd.io/</a></em></p>
+<p>[5]</p>
+<p>markmap: <em><a href="https://github.com/gera2ld/markmap-vscode">https://github.com/gera2ld/markmap-vscode</a></em></p>
+<p>[6]</p>
+<p>processon: <em><a href="https://www.processon.com/i/564c654de4b02cebc6408721" rel="nofollow">https://www.processon.com/i/564c654de4b02cebc6408721</a></em></p>
+<p>[7]</p>
+<p>中文技术文档写作规范: <em><a href="https://github.com/ruanyf/document-style-guide">https://github.com/ruanyf/document-style-guide</a></em></p>
+<p>[8]</p>
+<p>赫蹏: <em><a href="https://github.com/sivan/heti">https://github.com/sivan/heti</a></em></p>
+<p>[9]</p>
+<p>Shottr: <em><a href="https://shottr.cc/" rel="nofollow">https://shottr.cc/</a></em></p>
+<p>[10]</p>
+<p>iShot: <em><a href="https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094" rel="nofollow">https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094</a></em></p>
+<p>[11]</p>
+<p>Omnigraffle: <em><a href="https://www.omnigroup.com/omnigraffle" rel="nofollow">https://www.omnigroup.com/omnigraffle</a></em></p>
+<p>[12]</p>
+<p>diagrams.net: <em><a href="https://app.diagrams.net" rel="nofollow">https://app.diagrams.net</a></em></p>
+<p>[13]</p>
+<p>Cloudcraft: <em><a href="https://app.cloudcraft.co" rel="nofollow">https://app.cloudcraft.co</a></em></p>
+<p>[14]</p>
+<p>sm.ms: <em><a href="https://sm.ms/" rel="nofollow">https://sm.ms/</a></em></p>
+<p>[15]</p>
+<p>jsDelivr: <em><a href="https://www.jsdelivr.com" rel="nofollow">https://www.jsdelivr.com</a></em></p>
+<p>[16]</p>
+<p>网宿: <em><a href="https://www.wangsu.com/" rel="nofollow">https://www.wangsu.com/</a></em></p>
+<p>[17]</p>
+<p>Github 增强油猴脚本: <em><a href="https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD" rel="nofollow">https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD</a></em></p>
+<p>[18]</p>
+<p>PicGo: <em><a href="https://github.com/Molunerfinn/PicGo/">https://github.com/Molunerfinn/PicGo/</a></em></p>
+<p>[19]</p>
+<p>uPic: <em><a href="https://github.com/gee1k/uPic">https://github.com/gee1k/uPic</a></em></p>
+<p>[20]</p>
+<p>HeySpace: <em><a href="https://github.com/louisun/HeySpace">https://github.com/louisun/HeySpace</a></em></p>
+<p>[21]</p>
+<p>墨滴: <em><a href="https://www.mdnice.com/" rel="nofollow">https://www.mdnice.com/</a></em></p>
+<hr>
+<p><a href="http://mp.weixin.qq.com/s?__biz=Mzg4NTU0MzEyMg==&amp;mid=2247499784&amp;idx=1&amp;sn=e6f1e7610183321878a080631206c781&amp;chksm=cfa5d9b5f8d250a35cfd386a66bfe08244ec6f9d9603a7ce47dbdfa1b6ed0cf850cd6cbf3e44&amp;scene=21#wechat_redirect" rel="nofollow">关于 KubeSphere</a></p>
+<p>KubeSphere （<a href="https://kubesphere.io%EF%BC%89%E6%98%AF%E5%9C%A8" rel="nofollow">https://kubesphere.io）是在</a> Kubernetes 之上构建的<strong>开源容器混合云</strong>，提供全栈的 IT 自动化运维的能力，简化企业的 DevOps 工作流。</p>
+<p>KubeSphere 已被 <strong>Aqara 智能家居、爱立信、本来生活、东软、华云、新浪、三一重工、华夏银行、四川航空、国药集团、微众银行、杭州数跑科技、紫金保险、去哪儿网、中通、中国人民银行、中国银行、中国人保寿险、中国太平保险、中国移动、中国联通、中国电信、天翼云、中移金科、Radore、ZaloPay</strong> 等海内外数千家企业采用。KubeSphere 提供了开发者友好的向导式操作界面和丰富的企业级功能，包括 <strong>Kubernetes</strong> <strong>多云与多集群管理、DevOps (CI/CD)、应用生命周期管理、边缘计算、微服务治理 (Service Mesh)、多租户管理、可观测性、存储与网络管理、GPU support</strong> 等功能，帮助企业快速构建一个强大和功能丰富的容器云平台。</p>
+<p><strong>✨ GitHub</strong>：<a href="https://github.com/kubesphere">https://github.com/kubesphere</a></p>
+<p><strong>💻 官网（中国站）</strong>：<a href="https://kubesphere.com.cn" rel="nofollow">https://kubesphere.com.cn</a></p>
+<p> 👨‍💻‍ <strong>微信群：</strong> 请搜索添加群助手微信号 <strong>kubesphere</strong></p>
+<p><strong>🔗 企业服务</strong>：****<a href="https://kubesphere.cloud" rel="nofollow">https://kubesphere.cloud</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8c7f9c60d042297ab696a43872dfe8844636536726e5f74306d6cde1162f1eb5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f753550696276374163734557314a5034547369616d304e6e4f69616d306466667569616a4650367965376f69623947724a486e3068456c77656b4c414f6d6d30484539503038657941766837756962723752376a4c6962667479786963772f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/8c7f9c60d042297ab696a43872dfe8844636536726e5f74306d6cde1162f1eb5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f753550696276374163734557314a5034547369616d304e6e4f69616d306466667569616a4650367965376f69623947724a486e3068456c77656b4c414f6d6d30484539503038657941766837756962723752376a4c6962667479786963772f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/u5Pibv7AcsEW1JP4Tsiam0NnOiam0dffuiajFP6ye7oib9GrJHn0hElwekLAOmm0HE9P08eyAvh7uibr7R7jLibftyxicw/640?wx_fmt=gif" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

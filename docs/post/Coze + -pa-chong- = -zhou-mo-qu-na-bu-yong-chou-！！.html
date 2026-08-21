@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="1\. 灵感乍现的瞬间
+-----------
+
+上节《💁‍♂️Coze国内版插件汇总-By油猴》（https://juejin.cn/post/7338229082923122703）中通过 **「油猴 \+ Python」** 扒了官方提供 **「68个插件工具」** 生成了汇总表，方便大伙在写Bot时能快速检索到心仪的插件。">
+<meta property="og:title" content="Coze + 爬虫 = 周末去哪不用愁！！">
+<meta property="og:description" content="1\. 灵感乍现的瞬间
+-----------
+
+上节《💁‍♂️Coze国内版插件汇总-By油猴》（https://juejin.cn/post/7338229082923122703）中通过 **「油猴 \+ Python」** 扒了官方提供 **「68个插件工具」** 生成了汇总表，方便大伙在写Bot时能快速检索到心仪的插件。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Coze%20%2B%20-pa-chong-%20%3D%20-zhou-mo-qu-na-bu-yong-chou-%EF%BC%81%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Coze + 爬虫 = 周末去哪不用愁！！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Coze + 爬虫 = 周末去哪不用愁！！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/467" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><h2>1. 灵感乍现的瞬间</h2>
+<p>上节《💁‍♂️Coze国内版插件汇总-By油猴》（<a href="https://juejin.cn/post/7338229082923122703%EF%BC%89%E4%B8%AD%E9%80%9A%E8%BF%87" rel="nofollow">https://juejin.cn/post/7338229082923122703）中通过</a> <strong>「油猴 + Python」</strong> 扒了官方提供 <strong>「68个插件工具」</strong> 生成了汇总表，方便大伙在写Bot时能快速检索到心仪的插件。</p>
+<p>😳 深度使用下来发现：Coze搭Bot的玩法很简单，难点是 <strong>「Bot的创意」</strong>，即 <strong>「应用场景」</strong>，你打算用它来解决什么问题？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f62e1e8bfcf7a6f3ad6ded7bea16c280edff98faf4e3718e5e0e7af2c3f41d79/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617559525552696253396a32555736706a6c77376b6b5757426843785775547749446e5a714144537130435337636e4b793271335447727a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f62e1e8bfcf7a6f3ad6ded7bea16c280edff98faf4e3718e5e0e7af2c3f41d79/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617559525552696253396a32555736706a6c77376b6b5757426843785775547749446e5a714144537130435337636e4b793271335447727a672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauYRURibS9j2UW6pjlw7kkWWBhCxWuTwIDnZqADSq0CS7cnKy2q3TGrzg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>😂 昨晚和老婆闲聊，她又问了那个每周必问的问题：<strong>「周末去哪呢」</strong>？如果不找地方去的话：</p>
+<ul>
+<li>
+<p>会被叨叨：😡 你都不带我出去玩的，就知道宅在家里打游戏！！！</p>
+</li>
+<li>
+<p>我内心OS：😟 当了一周的 <strong>「帕鲁」</strong>，难得休息，宅在家里摊着不香吗？？？</p>
+</li>
+<li>
+<p>🙂 当然，为了 <strong>「缓和夫妻矛盾，维持家庭稳定」</strong>，这肯定是不能说的...</p>
+</li>
+<li>
+<p>😣 只能在周五晚，不太情愿地打开小红书、抖音、微信工号搜索 "<strong>「深圳周末好去处」</strong>"，然后重复执行 <strong>「点开-看-关」</strong>，最后仓促决定要去哪里玩...</p>
+</li>
+</ul>
+<p>💡 咦，这灵感不就来了吗？用Coze搭个 <strong>「提供周末好去处建议的Bot」</strong>，解决这个长期问题~</p>
+<h2>2. 随手建Bot</h2>
+<p>试下 <strong>「仅通过提示词」</strong>，能否实现我们的需求，新建Bot，随手写下功能介绍，<strong>「Dreamina」</strong> 生成一个1:1的靓妹图标：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f0ee15fb04cf09965603f3e604dc49effdca1a50f4fa47558e01c9940a96a42/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754d434a78614f4d47525a4f446d796962536963594552776230385a3570484d465445656d594c6e364477696136527168676f584141553667512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2f0ee15fb04cf09965603f3e604dc49effdca1a50f4fa47558e01c9940a96a42/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754d434a78614f4d47525a4f446d796962536963594552776230385a3570484d465445656d594c6e364477696136527168676f584141553667512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauMCJxaOMGRZODmyibSicYERwb08Z5pHMFTEemYLn6Dwia6RqhgoXAAU6gQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>简单写下提示词：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/777394aa84cb9279c1bc3784bd6282a8d0034ff3eaef954d6e3e94af09e74642/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617549667062313771764944527275506c436e506a46585a3776774f39676e31544a4668365254696336776831513177506a4b536c653568672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/777394aa84cb9279c1bc3784bd6282a8d0034ff3eaef954d6e3e94af09e74642/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617549667062313771764944527275506c436e506a46585a3776774f39676e31544a4668365254696336776831513177506a4b536c653568672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauIfpb17qvIDRruPlCnPjFXZ7vwO9gn1TJFh6RTic6wh1Q1wPjKSle5hg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>让AI优化下提示词：</p>
+<p>`# 角色<br>
+你是一个周末活动推荐官，能根据用户提供的城市和区，推荐一些好去处，包括但不限于：景点、展览、音乐、戏剧、电影等。</p>
+<p>## 技能<br>
+- 根据用户提供的信息，在周末活动推荐平台上搜索相关活动，并按类型整理好。<br>
+- 从搜索结果中筛选出适合用户的活动，如：距离用户较近、评价较好、用户可能感兴趣的活动。<br>
+- 将筛选出的活动推荐给用户，并提供活动的基本信息，如：时间、地点、费用等。</p>
+<p>## 限制<br>
+- 只能推荐周末的活动。<br>
+- 只接受用户提供的城市和区信息，不接受其他信息。</p>
+<p>`</p>
+<p>开场白也自动生成下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8a0db7e44647423d918fc307a3ad724ab03de24610288c0f90ed505afeb8fe54/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617563507045483766696269616962696346433143734a6742473534696363574a786b6e7a5550597a6630744b51426961563144375630333841376536772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8a0db7e44647423d918fc307a3ad724ab03de24610288c0f90ed505afeb8fe54/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617563507045483766696269616962696346433143734a6742473534696363574a786b6e7a5550597a6630744b51426961563144375630333841376536772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gaucPpEH7fibiaibicFC1CsJgBG54iccWJxknzUPYzf0tKQBiaV1D7V038A7e6w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>随便聊一句：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c4585bf286afaff0bddd1eacdab2adb166876272a9e607252b21456deebee9ee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175594e545568626e433871413263734c634a74444a7841653352466d326b7953594f664b686441574d6a48346b5a7056573559457832672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/c4585bf286afaff0bddd1eacdab2adb166876272a9e607252b21456deebee9ee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175594e545568626e433871413263734c634a74444a7841653352466d326b7953594f664b686441574d6a48346b5a7056573559457832672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauYNTUhbnC8qA2csLcJtDJxAe3RFm2kySYOfKhdAWMjH4kZpVW5YEx2g/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>😳 2333，一如既往的不靠谱，接着问下有什么展可以看：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/70b553dc11ec111bed2d0b868f4ca2589dfe3e51d34eaa1c5b7313f014dc9c31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175313143775064435452557a5454653433446f6e545761637159377462387969617a37484a4357394e564233334e786d376963617762365a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/70b553dc11ec111bed2d0b868f4ca2589dfe3e51d34eaa1c5b7313f014dc9c31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175313143775064435452557a5454653433446f6e545761637159377462387969617a37484a4357394e564233334e786d376963617762365a772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gau11CwPdCTRUzTTe43DonTWacqY7tb8yiaz7HJCW9NVB33Nxm7icawb6Zw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>😁 笑死，也不知道调的啥插件，单纯靠提示词来实现这个Bot明显不太行，还是的自己做下定制~</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/38536bfa1bb4fd73c273e54e27021ab68ace674a753468a4d36a9fa463b2f63a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756a6535426961707742326963613778696234484f69634d526b716b6e384e5770616c6b536569626e587357734e6963307369624d4c6961706c5555526961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/38536bfa1bb4fd73c273e54e27021ab68ace674a753468a4d36a9fa463b2f63a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756a6535426961707742326963613778696234484f69634d526b716b6e384e5770616c6b536569626e587357734e6963307369624d4c6961706c5555526961412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauje5BiapwB2ica7xib4HOicMRkqkn8NWpalkSeibnXsWsNic0sibMLiaplUURiaA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>先捋下大概的期望：</p>
+<blockquote>
+<p>❝</p>
+<p>发送 <strong>「城市+区+类型(景点、展览、音乐、话剧等)」</strong> ，Bot输出对应区域的 <strong>「周末活动信息」</strong>，如：深圳市南山区-景点，Bot输出景点列表：【景点名称】景点地址；深圳市南山区-展览，Bot输出这周末的展览信息列表：【展名称】时间|票价|地点。</p>
+<p>❞</p>
+</blockquote>
+<p>🤔 其实这种问答，本质上就是 <strong>「数据源的检索」</strong> 而已，细分下我们这里的数据源，可以划分为两类：</p>
+<ul>
+<li>
+<p><strong>「景点」</strong>：很长一段时间不会改变，可以把这部分数据看成 <strong>「不变」</strong> 的，比如：深圳湾公园这个景点几十年都不会变。</p>
+</li>
+<li>
+<p><strong>「周末同城活动」</strong>：这部分则是 <strong>「动态变化」</strong> 的，需要 <strong>「实时获取」</strong>，比如：这周六有阿猫的演唱会，下周六有阿狗的脱口秀。</p>
+</li>
+</ul>
+<p>🤔 接着是写Bot时 <strong>「数据源的获取思路」</strong>：</p>
+<ul>
+<li>
+<p>如果自己有相关的数据源，可以上传下 <strong>「知识库」</strong>。</p>
+</li>
+<li>
+<p>没有的话，可以看下 <strong>「官方/商店是否提供了相关插件」</strong>，输入参数和输出结果是否能满足我们的诉求。</p>
+</li>
+<li>
+<p>如果都没有或者都不满足，就需要自己捣鼓了，去哪里搞？无非这三个渠道：<strong>「开源/免费接口」</strong>、<strong>「付费接口」</strong>、<strong>「爬虫获取」</strong> (扣子里可以通过 <strong>「自定义插件」</strong> 或 <strong>「代码节点中使用request_async库」</strong> 来模拟请求获取数据。当然，如果想做得隐秘一些，可以将爬虫脚本部署到服务器上，把数据存到数据库中，暴露一个数据查询的API，写个Coze插件供Bot调用)。</p>
+</li>
+</ul>
+<p>😏 思路有了，接着就该捣鼓捣鼓，如何获得中意的数据源了~</p>
+<h2>3. 景点信息源获取</h2>
+<p>新建工作流，简单设置下形成和描述：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f9fb328376f33628921298d48f651aeb04a60dbcf3301104a7ea8cf57e2cd02/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175696357756b434a4a62303876556242335835736d7a324a5932623330464866466d62517561413550485655383956787531696157413673672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9f9fb328376f33628921298d48f651aeb04a60dbcf3301104a7ea8cf57e2cd02/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175696357756b434a4a62303876556242335835736d7a324a5932623330464866466d62517561413550485655383956787531696157413673672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauicWukCJJb08vUbB3X5smz2JY2b30FHfFmbQuaA5PHVU89Vxu1iaWA6sg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h3>3.1. 官方插件工具能否满足需求？</h3>
+<p>在上节插件工具的汇总表搜下 "<strong>「地图」</strong>"：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bea84966d35fcddfdeb89f13c644774f7acd70e478f2cffb769863a42a3c3918/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617569616d333966425734566a75597879483953784d316d78496b47585532396237366169626b687954744e4472494a5269616c48344f5a6f76772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bea84966d35fcddfdeb89f13c644774f7acd70e478f2cffb769863a42a3c3918/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617569616d333966425734566a75597879483953784d316d78496b47585532396237366169626b687954744e4472494a5269616c48344f5a6f76772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauiam39fBW4VjuYxyH9SxM1mxIkGXU29b76aibkhyTtNDrIJRialH4OZovw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>试试 <strong>「searchLocation」</strong> 这个插件工具，打开看看输入参数：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/efba16c88acce8f5c567b155d8337a3bb09604ece77d13db2a08356500849b3a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617572525361344647796769626c7356546d54565070417765375753586b4843437063747852367438796961684539344749426d614276746b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/efba16c88acce8f5c567b155d8337a3bb09604ece77d13db2a08356500849b3a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617572525361344647796769626c7356546d54565070417765375753586b4843437063747852367438796961684539344749426d614276746b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gaurRSa4FGygiblsVTmTVPpAwe7WSXkHCCpctxR6t8yiahE94GIBmaBvtkg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>😳 咦，没提供 <strong>「分页参数」</strong>？该不会只有10条数据吧？工作流中添加下这个插件，试运行输入 "<strong>「深圳南山」</strong>" 看看：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a2dcbceb6c2dd5d4f5a3ba493655c6e7a75f5b43cc212327d92f57431e4925cf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756a49506142617852686962734d396e637246454d4a63716439714c427242683559646a5a6f5152674e4e7a746b72716b6f504f344570772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/a2dcbceb6c2dd5d4f5a3ba493655c6e7a75f5b43cc212327d92f57431e4925cf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756a49506142617852686962734d396e637246454d4a63716439714c427242683559646a5a6f5152674e4e7a746b72716b6f504f344570772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gaujIPaBaxRhibsM9ncrFEMJcqd9qLBrBh5YdjZoQRgNNztkrqkoPO4Epw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+果然，只返回了10条数据，不过是我们心仪的数据 (景点名称+地址)，只是数据量有点少，得想办法搞到更多的数据。</p>
+<blockquote>
+<p>❝</p>
+<p>🤔️ 其中一个思路就是：让 <strong>「地址的粒度更细些」</strong>，<strong>「城市-区」</strong> 往下是 <strong>「街道/乡镇级别」</strong>，先通过大模型获取所有某个区下所有的街道/乡镇，然后searchLocation插件执行批处理，最后写代码做下整合。</p>
+<p>❞</p>
+</blockquote>
+<h4>3.1.1. 大模型结点获得所有街道/乡镇</h4>
+<p>工作流中添加大模型结点，添加下述提示词：</p>
+<p>`提取{{input}}中的城市、区，然后检索&lt;城市区&gt;由哪些街道/乡镇组成，要全，不要遗漏任何一个。</p>
+<p>约束：<br>
+严格按照这样的json格式输出：<br>
+{<br>
+  "city": &lt;城市，需要以市结尾&gt;,<br>
+  "district":&lt;区，需要以区结尾&gt;,<br>
+  "streeOrTown": &lt;街道/乡镇列表&gt;<br>
+}</p>
+<p>`</p>
+<p>试运行，输入 <strong>「"珠海拱北"」</strong> 试试：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3236fad858a0696f74f893c99ba3612e39991f41e55d65e7888f3095363c32f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175434752793073564e5262656a6d7341395254374e393354576355337a474b5753736b374657416a3069636e4b5966557671736d347267672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3236fad858a0696f74f893c99ba3612e39991f41e55d65e7888f3095363c32f4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175434752793073564e5262656a6d7341395254374e393354576355337a474b5753736b374657416a3069636e4b5966557671736d347267672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauCGRy0sVNRbejmsA9RT7N93TWcU3zGKWSsk7FWAj0icnKYfUvqsm4rgg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>😆 可以，难得云雀大模型正确理解了我们的意图，并按照我们预设的约束进行回复。</p>
+<h4>3.1.2. 选择器节点 + **「searchLocation」**批处理</h4>
+<p>上面的返回的街道/乡镇字段数据有14条，而批处理最多执行10次，所以需要 <strong>「判断下结果长度」</strong>，超过10个，<strong>「拆成调用两个searchLocation工具」</strong>。这里做下简化处理，只要数据超过2条，就拆成两组，理想中的执行流程：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5b1bfbcedbf32b1bb0a64613f2ae09fe25b75a816f6f3469ae4efe8bccd32ed7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756961517a6179366467786c43585635374f6b696369624b3946416846646b377a50565352486f747144464d59565a35717a6249716961536151412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5b1bfbcedbf32b1bb0a64613f2ae09fe25b75a816f6f3469ae4efe8bccd32ed7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756961517a6179366467786c43585635374f6b696369624b3946416846646b377a50565352486f747144464d59565a35717a6249716961536151412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauiaQzay6dgxlCXV57OkicibK9FAhFdk7zPVSRHotqDFMYVZ5qzbIqiaSaQA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>照着流程堆节点，但是运行结果并不符合预期，先是选择器节点的判定：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8612fdbdb655d3e247d05829eac947f82614f225b73e3e278be750040e7b285/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754d3867674f5a337145696373385942326b397950696268574f69614a7a3969613463756b49654948306864716464314b457869635a4a566f69636e512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f8612fdbdb655d3e247d05829eac947f82614f225b73e3e278be750040e7b285/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754d3867674f5a337145696373385942326b397950696268574f69614a7a3969613463756b49654948306864716464314b457869635a4a566f69636e512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauM8ggOZ3qEics8YB2k9yPibhWOiaJz9ia4cukIeIH0hdqdd1KExicZJVoicnQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>明明 <strong>「数组长度&gt;0」</strong>，还是走的else？？？没懂这里的长度具体指的啥... 行吧，只能把选择条件为改成了 <strong>「不为空」</strong>，测了下能跑通，就先这样吧，然后补全下节点：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8ad956981771e020c296d0f87105e05d8845dc7f05d0569bb019ee8966ecd24/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761757a725565345630625070696268675276346469636f55634f42334834376f74416b5058767835364b6b497a544a7976467a44436e325751412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e8ad956981771e020c296d0f87105e05d8845dc7f05d0569bb019ee8966ecd24/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761757a725565345630625070696268675276346469636f55634f42334834376f74416b5058767835364b6b497a544a7976467a44436e325751412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauzrUe4V0bPpibhgRv4dicoUcOB3H47otAkPXvx56KkIzTJyvFzDCn2WQA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>看下结果节点的输入数据：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/02ce1d5ae28654e4acf4d7f061d31fbb8297d9242cd539c7cb059420e959c6da/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617542576f575876325467347a7a696270366545684e5a6e537670347a6a50387658596557775443474d4772597073456151675036536f4b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/02ce1d5ae28654e4acf4d7f061d31fbb8297d9242cd539c7cb059420e959c6da/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617542576f575876325467347a7a696270366545684e5a6e537670347a6a50387658596557775443474d4772597073456151675036536f4b512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauBWoWXv2Tg4zzibp6eEhNZnSvp4zjP8vXYeWwTCGMGrYpsEaQgP6SoKQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>行吧，数据都拿到了，前面再加个代码节点，做下数据合并去重，并格式化输出：</p>
+<p><code class="notranslate">async def main(args: Args) -&gt; Output:       params = args.params       if_condition_result1 = params["ifConditionResult1"]       if_condition_result2 = params["ifConditionResult1"]       else_condition_result1 = params["elseConditionResult"]       # 利用字典key的可以去重，遍历三个结果合并       result_dict = {}       if if_condition_result1 and len(if_condition_result1) &gt; 0:           for condition_result in if_condition_result1:               for place in condition_result["places"]:                   result_dict[place["name"]] = {"name": place["name"], "address": place["address"]}       if if_condition_result2 and len(if_condition_result2) &gt; 0:           for condition_result in if_condition_result2:               for place in condition_result["places"]:                   result_dict[place["name"]] = {"name": place["name"], "address": place["address"]}       if else_condition_result1 and len(else_condition_result1) &gt; 0:           for condition_result in else_condition_result1:               for place in condition_result["places"]:                   result_dict[place["name"]] = {"name": place["name"], "address": place["address"]}            ret: Output = {           "result": list(result_dict.values())       }       return ret   </code></p>
+<p>运行后 <strong>「选择器节点」</strong> 又抽风了，我真的是裂开了🙃...</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/32aee0f056f36aa84ce8b099625bfdc793ebe2c65b5618179f864ac93263d328/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761753954484241336c6c466963657270554757716e7568664f554e4f354d385a56446c477754597a39535231426e67324a4c6c4757523249672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/32aee0f056f36aa84ce8b099625bfdc793ebe2c65b5618179f864ac93263d328/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761753954484241336c6c466963657270554757716e7568664f554e4f354d385a56446c477754597a39535231426e67324a4c6c4757523249672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gau9THBA3llFicerpUGWqnuhfOUNO5M8ZVDlGwTYz9SR1Bng2JLlGWR2Ig/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>算了，放弃选择器节点，默认使用两个searchLocation插件，反正做了去重，不用的担心数据重复问题，改下代码：</p>
+<p>`import json</p>
+<p>async def main(args: Args) -&gt; Output:<br>
+    params = args.params<br>
+    input_json = json.loads(params["input"])<br>
+    stree_or_town_list = input_json['streeOrTown']<br>
+    list_len = int(len(stree_or_town_list))<br>
+    first_stree_or_town_List = []<br>
+    second_stree_or_town_List = []<br>
+    # 如果长度大于2，拆分成两组<br>
+    if list_len &gt; 2:<br>
+        center_pos = int(list_len /2)<br>
+        first_stree_or_town_List = stree_or_town_list[:center_pos]<br>
+        second_stree_or_town_List = stree_or_town_list[center_pos:]<br>
+    # 只有一条的话，两个列表都进行赋值<br>
+    else:<br>
+        first_stree_or_town_List = stree_or_town_list<br>
+        second_stree_or_town_List = first_stree_or_town_List<br>
+    ret: Output = {<br>
+        'city': input_json['city'],<br>
+        'district': input_json['district'],<br>
+        'cityDistrict': input_json['city'] + input_json['district'],<br>
+        'firstStreeOrTownList': first_stree_or_town_List,<br>
+        'secondStreeOrTownList': second_stree_or_town_List,<br>
+    }<br>
+    return ret</p>
+<p>`</p>
+<p>运行输出结果：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8f3be7cb2b7b46e5a1787e80f4026b0a78044d20963c22d895b63ff1d7964807/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761755665415434477167414c366c6567785677454e4a4e3737467945335559466764774d69634b41376e6963377636423832736372656e305a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8f3be7cb2b7b46e5a1787e80f4026b0a78044d20963c22d895b63ff1d7964807/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761755665415434477167414c366c6567785677454e4a4e3737467945335559466764774d69634b41376e6963377636423832736372656e305a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauVeAT4GqgAL6legxVwENJN77FyE3UYFgdwMicKA7nic7v6B82scren0ZA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>接着回到 <strong>「编排-人设与回复逻辑」</strong>，调用下工作流，然后随便发送：城市+区：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfff6413415f31b9a65d6e1caf4ea967dcd11dbda5439d93c5ef3401299dc952/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175564f6254466369634a46746963754a38314151685951756961696167754d616b4974414b586f4932644d79367431586b72744779507557314c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/bfff6413415f31b9a65d6e1caf4ea967dcd11dbda5439d93c5ef3401299dc952/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175564f6254466369634a46746963754a38314151685951756961696167754d616b4974414b586f4932644d79367431586b72744779507557314c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauVObTFcicJFticuJ81AQhYQuiaiaguMakItAKXoI2dMy6t1XkrtGyPuW1LA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>Bot就会给我们回复对应城市区的所有景点信息啦。不过昨天早上是好的，下午想再试试，地图插件却一直报错，批处理、单词调用，人设与回复逻辑处通过提示词自动调用，都是报错：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8589e0903335d8771ec03f57afff899a8e31518ffb75ead77152fa1f8cda1331/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756f31786263305a52704d5946627659425a717839525061646e586d5657756961696176566564337a6d62486f364b79516c627179364d39512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8589e0903335d8771ec03f57afff899a8e31518ffb75ead77152fa1f8cda1331/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756f31786263305a52704d5946627659425a717839525061646e586d5657756961696176566564337a6d62486f364b79516c627179364d39512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauo1xbc0ZRpMYFbvYBZqx9RPadnXmVWuiaiavVed3zmbHo6KyQlbqy6M9Q/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+😒 感觉跟昨天下午平台允许提交插件有关，唉，还是做下兜底，自己采集下数据，<strong>「搞个城市景点的知识库」</strong>，未雨绸缪嘛~</p>
+<h3>3.2. 自己采集数据弄知识库</h3>
+<p>😏 网上看了一圈没有提供景点查询的相关接口，那就只能自己写爬虫采集咯，去哪采？答：<strong>「地图站点/软件」</strong>。以某地图为例，搜下"<strong>「深圳市南山区景点」</strong>"，可以看到相关的景点，做了分页，一页10个：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ee6e47c07c0da516e6cf6691ad2d72ee596194c63e16c718d58ab3275cb8d137/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175696353386c5a744b615439787264627244685a516f436b4157506754754a6848795264793054715473696369634f57466162546557787279512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ee6e47c07c0da516e6cf6691ad2d72ee596194c63e16c718d58ab3275cb8d137/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175696353386c5a744b615439787264627244685a516f436b4157506754754a6848795264793054715473696369634f57466162546557787279512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauicS8lZtKaT9xrdbrDhZQoCkAWPgTuJhHyRdy0TqTsicicOWFabTeWxryQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>F12抓包，搜索 "<strong>「南山公园」</strong>" 定位到加载数据XHR，URL中包含了下述字符串：</p>
+<blockquote>
+<p>❝</p>
+<p>newmap=1&amp;reqflag=pcmap&amp;biz=1&amp;from=webmap&amp;da_par=direct&amp;pcevaname=pc4.1&amp;qt=con&amp;from=webmap</p>
+<p>❞</p>
+</blockquote>
+<p>稍微改下上节写的油猴脚本，手动点下一页，直到最后一页，爬取后的json文件：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f505543cc50e5304d387b694cf77ce7e70b818cff99eb1f2d440e850191b4e57/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175765230494a45446e714d476961503074676346325a4841784b4b44634b6d53327839386e36773339706130674e36356c6c4c5a797555412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f505543cc50e5304d387b694cf77ce7e70b818cff99eb1f2d440e850191b4e57/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175765230494a45446e714d476961503074676346325a4841784b4b44634b6d53327839386e36773339706130674e36356c6c4c5a797555412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauvR0IJEDnqMGiaP0tgcF2ZHAxKKDcKmS2x98n6w39pa0gN65llLZyuUA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>用Python写下处理脚本：过滤非景点或公园的数据，提取下景点名称、标签和地址，做下去重，最后保存为**「csv文件」**，具体代码如下：</p>
+<p><code class="notranslate"># 提取城市_区所有景点信息列表   def fetch_attractions_info_list(city_county):       json_dir = "{}{}{}{}{}".format(os.getcwd(), os.sep, "baidu_jd", os.sep, city_county, os.sep)       attractions_info_dict = {}  # 地址为key，过滤重复景点，如（深圳野生动物园-豪猪、深圳野生动物园-北极狐）       json_file_list = search_all_file(json_dir, ".json")       for json_file in json_file_list:           data_list = json.loads(read_file_text_content(json_file))['content']           for data in data_list:               attractions_name = data['name']  # 景点名称               attractions_tag = data['std_tag']  # 景点标签               attractions_addr = data['addr']  # 景点地址               # 过滤垃圾数据               if attractions_tag:                   if "景点" in attractions_tag or "公园" in attractions_tag:                       # 景点记录                       attractions_dict = {"景点名称": attractions_name, "景点标签": attractions_tag,                                           "景点地址": attractions_addr}                       if attractions_addr in attractions_info_dict:                           cur_attractions_name = attractions_info_dict[attractions_addr]['景点名称']                           # 取景点名称较短的那一个                           if len(attractions_name) &lt; len(cur_attractions_name):                               attractions_info_dict[attractions_addr] = attractions_dict                       else:                           attractions_info_dict[attractions_addr] = attractions_dict           # 保存为csv文件           with open(os.path.join(output_dir, "{}.csv".format(city_county)), 'w+', newline='', encoding='utf-8') as f:               writer = csv.DictWriter(f, fieldnames=['景点名称', "景点标签", "景点地址"])               writer.writeheader()               for item in list(attractions_info_dict.values()):                   writer.writerow(item)   </code></p>
+<p>其它城市-区也是如法炮制，接着打开Coze的知识库 → <strong>「新建知识库」</strong>：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f03e1b6445b08eda3e630255f232b56e8337611c7e72d23a1f46a2c13a5d0a9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617550525157544663306b754257344d6f39726656725a6e57573769613173506962704e5972446463305452436a6a65573569627936687a4544512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2f03e1b6445b08eda3e630255f232b56e8337611c7e72d23a1f46a2c13a5d0a9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617550525157544663306b754257344d6f39726656725a6e57573769613173506962704e5972446463305452436a6a65573569627936687a4544512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauPRQWTFc0kuBW4Mo9rfVrZnWW7ia1sPibpNYrDdc0TRCjjeW5iby6hzEDQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>然后上传每个csv，依次点击：<strong>「新增单元」</strong> → <strong>「表格格式」</strong> → <strong>「本地文档」</strong> → <strong>「上传上面生成的csv文件」</strong> → <strong>「下一步」</strong> → <strong>「选择景点地址作为索引」</strong> (用于提高知识库召回的准确率)：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea4f74e5ad2ededae47af04b51c0018334259ef26d88e4537f9b13b438a9f440/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617562316c784f48564b3038414b45685959465656535935676344386e505a71344e6a63785a3375674d3669624e4b6231344263336e6e52512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ea4f74e5ad2ededae47af04b51c0018334259ef26d88e4537f9b13b438a9f440/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617562316c784f48564b3038414b45685959465656535935676344386e505a71344e6a63785a3375674d3669624e4b6231344263336e6e52512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gaub1lxOHVK08AKEhYYFVVSY5gcD8nPZq4NjcxZ3ugM6ibNKb14Bc3nnRQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a><br>
+、</p>
+<p><strong>「下一步」</strong> → <strong>「等待数据处理完成」</strong>，然后可以打开看下生成的单元了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3473bd9f8ab45e81d11dde3d0a4c000aaa7e48bfbb0f06a215e5fefce34207ef/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175636b4d374f6961707267614b443533686963476438786d6d6a73594d4535563664796c30785774336d6272396242334e43726d3031594c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3473bd9f8ab45e81d11dde3d0a4c000aaa7e48bfbb0f06a215e5fefce34207ef/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175636b4d374f6961707267614b443533686963476438786d6d6a73594d4535563664796c30785774336d6272396242334e43726d3031594c412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauckM7OiaprgaKD53hicGd8xmmjsYME5V6dyl0xWt3mbr9bB3NCrm01YLA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>知识库准备就绪，接着新建一个工作流 (search_city_attraction_info)，添加 <strong>「知识库节点」</strong>：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7ec7f8d50d78b951ae78cc78c26ee08a8dc79a25fd5349fdec34279d266a2562/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761757769633173597736647a615a38347765716273413466536e733033386c69614d46706d6a6f6f6d46504866686345743573625848327851672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7ec7f8d50d78b951ae78cc78c26ee08a8dc79a25fd5349fdec34279d266a2562/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761757769633173597736647a615a38347765716273413466536e733033386c69614d46706d6a6f6f6d46504866686345743573625848327851672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauwic1sYw6dzaZ84weqbsA4fSns038liaMFpmjoomFPHfhcEt5sbXH2xQg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>知识库节点最多召回10条数据，这点数据量肯定是不够的，而且这个节点不支持批处理。那就靠数量来凑吧，直接CV五个知识库节点，然后试下加上分页查询，连接好的节点图如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e12c98dcd8da3f031e7408118727db098e50ad7a11c16880a772d766c4e7d19/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761755372636341594f446c484276565933756b4a583033495444684a376634316e696344696161464d6f6f6a4d477a6961306961676d6c48623677672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/7e12c98dcd8da3f031e7408118727db098e50ad7a11c16880a772d766c4e7d19/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761755372636341594f446c484276565933756b4a583033495444684a376634316e696344696161464d6f6f6a4d477a6961306961676d6c48623677672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauSrccAYODlHBvVY3ukJX03ITDhJ7f41nicDiaaFMoojMGzia0iagmlHb6wg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>前面的代码节点用于生成分页Query字符串：</p>
+<p><code class="notranslate">async def main(args: Args) -&gt; Output:       params = args.params       city_district = params['cityDistrict']       ret: Output = {           'firstQuery': '{}的第1-10条数据'.format(city_district),           'SecondQuery': '{}的第11-20条数据'.format(city_district),           'ThirdQuery': '{}的第21-30条数据'.format(city_district),           'ForthQuery': '{}的第31-40条数据'.format(city_district),           'FifthQuery': '{}的第41-50条数据'.format(city_district)       }       return ret   </code></p>
+<p>后面的代码节点用于景点数据合并：</p>
+<p>`import json</p>
+<p># 合并列表的函数<br>
+def merge_list(input_param, origin_set):<br>
+    for data in input_param:<br>
+        data_json = json.loads(data['output'])<br>
+        origin_set.add("-【{}】{}".format(data_json['景点名称'], data_json['景点地址']))</p>
+<p>async def main(args: Args) -&gt; Output:<br>
+    params = args.params<br>
+    sum_set = set()<br>
+    result = ''<br>
+    merge_list(params["input1"], sum_set)<br>
+    merge_list(params["input2"], sum_set)<br>
+    merge_list(params["input3"], sum_set)<br>
+    merge_list(params["input4"], sum_set)<br>
+    merge_list(params["input5"], sum_set)<br>
+    for data in sum_set:<br>
+        result += data  + "\n"<br>
+    ret: Output = {<br>
+        "result": result,<br>
+    }<br>
+    return ret</p>
+<p>`</p>
+<p>运行输出结果如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2bfb204da168846fbf08b794291438ec94e1e3019ded589c5df41501dfa3b29e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175704a53506758446d5758366364747369624b534c6961344c69634b6a774c6244326a63444d58534d77696369626f46707335763331346b62696176672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/2bfb204da168846fbf08b794291438ec94e1e3019ded589c5df41501dfa3b29e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175704a53506758446d5758366364747369624b534c6961344c69634b6a774c6244326a63444d58534d77696369626f46707335763331346b62696176672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gaupJSPgXDmWX6cdtsibKSLia4LicKjwLbD2jcDMXSMwiciboFps5v314kbiavg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>😳 怎么才这点数据？知识库里深圳南山区的景点数据可是有68条的，看了下数据合并代码节点的输入参数，发现很多数据是重复的，看来是知识库不支持分页Query。em... 试下给每条记录添加一个 <strong>「景点序号」</strong> 的列吧。配置表结构只支持删除列，不支持新增列，直接删掉重新导下csv吧，选择景点序号作为索引：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/246201a97f85e691af03ffaebbb3bade81032f1dd219b0e52eaa41515ab46217/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756d583047696266523148615074577a374c457a57716a736e55354858696169637a6961777953594449476352526e61663234466f4b31764f54672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/246201a97f85e691af03ffaebbb3bade81032f1dd219b0e52eaa41515ab46217/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756d583047696266523148615074577a374c457a57716a736e55354858696169637a6961777953594449476352526e61663234466f4b31764f54672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gaumX0GibfR1HaPtWz7LEzWqjsnU5HXiaicziawySYDIGcRRnaf24FoK1vOTg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>改了下Query生成的字符串：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e87384d0bda1b0ae4fe5a12bd25a156187053d43c24b742b2e325a5b16986f3a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754e6438496961447869637a59586a4249356778386a6d7130466c79585264494e5269617a3279684f4559537843496f7979774a5468764833772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/e87384d0bda1b0ae4fe5a12bd25a156187053d43c24b742b2e325a5b16986f3a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754e6438496961447869637a59586a4249356778386a6d7130466c79585264494e5269617a3279684f4559537843496f7979774a5468764833772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauNd8IiaDxiczYXjBI5gx8jmq0FlyXRdINRiaz2yhOEYSxCIoyywJThvH3w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>😶 结果并没什么卵用，而且一个"深圳市_南山区"的数据都没命中，感觉也可能跟缓存有关...</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/75a95919a58a49f41797978ca88ff6ce9528c9d87ca529fee2cbe91f4da2f6c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617563465150467751376762383747636b31765a41424d6d6c48696136504764596b43614952716e7669627369624a7162394d39526d785a506e672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/75a95919a58a49f41797978ca88ff6ce9528c9d87ca529fee2cbe91f4da2f6c2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617563465150467751376762383747636b31765a41424d6d6c48696136504764596b43614952716e7669627369624a7162394d39526d785a506e672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gaucFQPFwQ7gb87Gck1vZABMmlHia6PGdYkCaIRqnvibsibJqb9M9RmxZPng/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>😶 算了，直接使出最后一招吧，把景点数据输出为txt文件：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b28e136155f2416a14759f623fad23531eda20f40bc34f1481c50bba8e56706f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175774754416845424a6a5463696261667a646a4f38476a6463386e517a4d445a57624471304365574552696369614d68317373516c48774561512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/b28e136155f2416a14759f623fad23531eda20f40bc34f1481c50bba8e56706f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175774754416845424a6a5463696261667a646a4f38476a6463386e517a4d445a57624471304365574552696369614d68317373516c48774561512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauwGTAhEBJjTcibafzdjO8Gjdc8nQzMDZWbDq0CeWERiciaMh1ssQlHwEaQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>点击 <strong>「新增单元」</strong>，选中 <strong>「文本格式-本地文档」</strong>：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5b240c931bfb02b924b911a0042ad2a9843f922efc3a0545aa4ede90586164df/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761753378455a6443424f326d696144446963326962304f37716451656f657a485036503950716962425764354c69626f4e584175466431357269613267772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5b240c931bfb02b924b911a0042ad2a9843f922efc3a0545aa4ede90586164df/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761753378455a6443424f326d696144446963326962304f37716451656f657a485036503950716962425764354c69626f4e584175466431357269613267772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gau3xEZdCBO2miaDDic2ib0O7qdQeoezHP6P9PqibBWd5LiboNXAuFd15ria2gw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>以为数据结构比较简单，<strong>「分段设置」</strong> 这里直接选 <strong>「自动分段与清洗」</strong> 就好了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a53c99ab003044382d2e6baa26dfe4781bd91b70a9ff6b5733f49d47ef7e586/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761755750774a7732366f4935716c6e6d647a69616b77415062696232595830796878796b355538586d583932355269616579377230425a36494d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4a53c99ab003044382d2e6baa26dfe4781bd91b70a9ff6b5733f49d47ef7e586/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761755750774a7732366f4935716c6e6d647a69616b77415062696232595830796878796b355538586d583932355269616579377230425a36494d512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauWPwJw26oI5qlnmdziakwAPbib2YX0yhxyk5U8XmX925Riaey7r0BZ6IMQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>确定后等它处理完，再次打开我们新建的 <strong>「单元」</strong>，可以看到数据被自动拆分成3个 <strong>「分段」</strong>：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/84582d14a91ffc2baa7b6000561432977fa0f861de5e9b3c561c4dd8476f83b5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175427942706a4332654d714c6f39354c687876336245786667344b7257464f69616b5674677166684c6b6266314d676b794d686b726f6e512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/84582d14a91ffc2baa7b6000561432977fa0f861de5e9b3c561c4dd8476f83b5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175427942706a4332654d714c6f39354c687876336245786667344b7257464f69616b5674677166684c6b6266314d676b794d686b726f6e512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauByBpjC2eMqLo95Lhxv3bExfg4KrWFOiakVtgqfhLkbf1MgkyMhkronQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>吼，那就不需要 <strong>「5个知识库节点」</strong> 了，一个就够了，后面添加一个代码节点用于输出结果格式化：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/013a0d434c8f71269f3b5a044d14f7022c61ac750b5ac119439ab6ddebfb6710/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175776479684b4572644264447961524c3266427143534f72343861364d71383049376744634261764e4b5a536c7a7235506a52386647412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/013a0d434c8f71269f3b5a044d14f7022c61ac750b5ac119439ab6ddebfb6710/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175776479684b4572644264447961524c3266427143534f72343861364d71383049376744634261764e4b5a536c7a7235506a52386647412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauwdyhKErdBdDyaRL2fBqCSOr48a6Mq80I7gDcBavNKZSlzr5PjR8fGA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>格式化代码如下：</p>
+<p><code class="notranslate">async def main(args: Args) -&gt; Output:       params = args.params       input_param = params["inputArray"]       city_district = params["cityDistrict"]       result_str = "【{}】有如下景点：\n".format(city_district)       for param in input_param:           info_list = param["output"].split("\n")           for info in info_list:               result_str += "- {}\n".format(info)       ret: Output = {           "result_str": result_str,       }       return ret   </code></p>
+<p>试运行输入：<strong>「深圳南山」</strong>，输出结果：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ecd6272304595776d445e3b170629c63a3d420e85d323fe27dfe4e43b7416413/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617531704e58624f7062717656514f4a5a51564354466c59536963687277696139586b754745704b47477047696141394e69625752384c556e356963672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ecd6272304595776d445e3b170629c63a3d420e85d323fe27dfe4e43b7416413/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617531704e58624f7062717656514f4a5a51564354466c59536963687277696139586b754745704b47477047696141394e69625752384c556e356963672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gau1pNXbOpbqvVQOJZQVCTFlYSichrwia9XkuGEpKGGpGiaA9NibWR8LUn5icg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>发布下工作流，然后 <strong>「人设与回复逻辑」</strong> 调用下，输出结果如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d39fe78a7cf1546b37cc007c6bfae8f809b99bf595f166febbd8f6e8619840f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617573775545326a66704c526b6c3133306b31615a7a58555241346c734531556f506963615972413070375a726f726e374436434769637a77412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/6d39fe78a7cf1546b37cc007c6bfae8f809b99bf595f166febbd8f6e8619840f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617573775545326a66704c526b6c3133306b31615a7a58555241346c734531556f506963615972413070375a726f726e374436434769637a77412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauswUE2jfpLRkl130k1aZzXURA4lsE1UoPicaYrA0p7Zrorn7D6CGiczwA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>输出结果和官方插件工具返回的基本一致，当然，速度会快很多，毕竟是基于已有数据的检索。行吧，景点信息源获取这块就折腾到这，接着搞下周末同城数据的获取。</p>
+<h2>4. 周末同城活动数据源获取</h2>
+<p>😏 同样没找着接口，那就写爬虫爬吧，以 <strong>「XX同城」</strong> 为例，F12打开抓包，请求页面发现数据直接返回了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/489a966c10a6f69e86a9744ed4e35bac00b2c3a44a09571ffc87f9cef6ebb0ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175336e3263544a6d6a79326b434d5345356663696348476f6672516f76793348427069626267626f6178494a7051736b7a336251644469636e412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/489a966c10a6f69e86a9744ed4e35bac00b2c3a44a09571ffc87f9cef6ebb0ca/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175336e3263544a6d6a79326b434d5345356663696348476f6672516f76793348427069626267626f6178494a7051736b7a336251644469636e412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gau3n2cTJmjy2kCMSE5fcicHGofrQovy3HBpibbgboaxIJpQskz3bQdDicnA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>本地写了段Python代码，设置了User-Agent请求头，请求url，发现页面代码都有返回。行吧，试下创建 <strong>「自定义插件」</strong> 请求能否行得通，然而在调试时就报错了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8cf98978fc7f107670708396dda4dc2627da681a967f0b47b8c228f2a6c8aca7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175714c6e6a4f3034506f726962546231486b71707138725a663854456362336266724a725155396738595236346961365749414839346534772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/8cf98978fc7f107670708396dda4dc2627da681a967f0b47b8c228f2a6c8aca7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175714c6e6a4f3034506f726962546231486b71707138725a663854456362336266724a725155396738595236346961365749414839346534772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauqLnjO04PoribTb1Hkqpq8rZf8TEcb3bfrJrQU9g8YR64ia6WIAH94e4w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>em... 貌似插件 <strong>「只支持json格式的返回数据」</strong>，那就只能在代码节点编写代码来模拟请求了，新建下工作流：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3b7167fd24880244285038e8c7121a7258a124a0e9e340369997431114d1494d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754e326c4f58566f45756d5256337a69625942424f506b47534471516876644b45556630454d43577a546454374f447941444b4a544a41512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/3b7167fd24880244285038e8c7121a7258a124a0e9e340369997431114d1494d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754e326c4f58566f45756d5256337a69625942424f506b47534471516876644b45556630454d43577a546454374f447941444b4a544a41512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauN2lOXVoEumRV3zibYBBOPkGSDqQhvdKEUf0EMCWzTdT7ODyADKJTJAQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>新建一个代码结点，代码模拟请求下：</p>
+<blockquote>
+<p>❝</p>
+<p><a href="https://www.xxx.com/location/shenzhen/events/weekend-exhibition" rel="nofollow">https://www.xxx.com/location/shenzhen/events/weekend-exhibition</a></p>
+<p>❞</p>
+</blockquote>
+<p>运行后输出结果如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9635dedcadaacfa4228697b4a92ed7705e71cb0644788235a4d07b0ebb2acae1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175696249474b4e696335396b69626f466c4959746962726c54796c36643148634e774b4157466674306e5934484b78676c3868736e77396963454b772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9635dedcadaacfa4228697b4a92ed7705e71cb0644788235a4d07b0ebb2acae1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175696249474b4e696335396b69626f466c4959746962726c54796c36643148634e774b4157466674306e5934484b78676c3868736e77396963454b772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauibIGKNic59kiboFlIYtibrlTyl6d1HcNwKAWFft0nY4HKxgl8hsnw9icEKw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>复制保存下响应数据，本地写下 <strong>「提取活动名称、时间、地点、费用的正则」</strong>，提取一波数据：</p>
+<p>`import re</p>
+<p>from util.file_util import read_file_text_content</p>
+<p>activity_pattern = re.compile(<br>
+    r'temprop="summary"&gt;(.<em>?)&lt;.</em>?时间：(.<em>?)&lt;.</em>?</p><li title="(.*?)">.<em>?地点：&lt;.</em>?费用：(.*?)', re.S)<p></p>
+<p>if <strong>name</strong> == '<strong>main</strong>':<br>
+    content = read_file_text_content("test.html")<br>
+    match_results = activity_pattern.findall(content)<br>
+    result_str = ""<br>
+    for result in match_results:<br>
+        activity_name = result[0].replace("\n", "").strip() if result[0] else "暂无数据"<br>
+        activity_time = result[1].replace("\n", "").strip() if result[1] else "暂无数据"<br>
+        activity_address = result[2].replace("\n", "").strip() if result[3] else "暂无数据"<br>
+        activity_cost = result[3].replace("\n", "").strip().replace("<strong>", "") if result[3] else "暂无数据"<br>
+        result_str += "-【{}】| {} | {} | {}\n".format(activity_name, activity_cost, activity_time, activity_address)<br>
+    print(result_str)</strong></p><strong>
+<p>`</p>
+<p>运行输出结果如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ebfe44dd23bede1bcda36583ad2609e1a63062bd5023aba4059a0361e58167d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754c475141574a6b6c634c65684a42566b7445597650384d6461675066514a6d4f61727a505a59645047614f6d557353596e62333132412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/1ebfe44dd23bede1bcda36583ad2609e1a63062bd5023aba4059a0361e58167d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761754c475141574a6b6c634c65684a42566b7445597650384d6461675066514a6d4f61727a505a59645047614f6d557353596e62333132412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauLGQAWJklcLehJBVktEYvP8MdagPfQJmOarzPZYdPGaOmUsSYnb312A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>行吧，数据能提取到，接着就是匹配请求参数，拼接url了，比较简单，直接给出爬取代码：</p>
+<p>`import json<br>
+import requests_async<br>
+import re<br>
+import time</p>
+<p># 提取活动信息的正则<br>
+activity_pattern = re.compile(<br>
+    r'temprop="summary"&gt;(.<em>?)&lt;.</em>?时间：(.<em>?)&lt;.</em>?</p></strong></li><li title="(.*?)"><strong>.<em>?地点：&lt;.</em>?费用：(.*?)</strong>', re.S)<p></p>
+<p># 城市和区的Bean<br>
+class City:<br>
+    def <strong>init</strong>(self, name_cn, name_req_param, district_dict):<br>
+        self.name_cn = name_cn<br>
+        self.name_req_param = name_req_param<br>
+        self.district_dict = district_dict</p>
+<p># 发起请求<br>
+async def send_request(url):<br>
+    headers = {<br>
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",<br>
+        "Host": "www.douban.com",<br>
+        "Refer": url<br>
+    }<br>
+    # 请求响应结果<br>
+    response_data = await requests_async.get(url, headers=headers)<br>
+    # 提取响应结果中的活动信息<br>
+    match_results = activity_pattern.findall(response_data.text)<br>
+    result_str = ""<br>
+    for result in match_results:<br>
+        activity_name = result[0].replace("\n", "").strip() if result[0] else "暂无数据"<br>
+        activity_time = result[1].replace("\n", "").strip() if result[1] else "暂无数据"<br>
+        activity_address = result[2].replace("\n", "").strip() if result[3] else "暂无数据"<br>
+        activity_cost = result[3].replace("\n", "").strip().replace("<strong>", "") if result[3] else "暂无数据"<br>
+        result_str += "-【{}】| {} | {} | {}\n".format(activity_name, activity_cost, activity_time, activity_address)<br>
+    return result_str</strong></p><strong>
+<p>async def main(args: Args) -&gt; Output:<br>
+    # 城市和区的请求参数<br>
+    city_list = [<br>
+        City("深圳市", "shenzhen", {<br>
+            "罗湖区": 130288, "福田区": 130289, "南山区": 130290, "宝安区": 130291, "龙岗区": 130292,<br>
+            "盐田区": 130293, "坪山区": 131682, "龙华区": 131683, "光明区": 131691,<br>
+        }), City("广州市", "guangzhou", {<br>
+            "从化": 130277, "荔湾区": 130266, "越秀区": 130267, "海珠区": 130268, "天河区": 130269, "白云区": 130270,<br>
+            "黄埔区": 130271, "番禺区": 130272, "花都区": 130273, "南沙区": 130274, "萝岗区": 130275, "增城区": 130276<br>
+        }), City("上海市", "shanghai", {<br>
+            "黄浦区": 129242, "徐汇区": 129244, "长宁区": 129245, "静安区": 129246, "普陀区": 129247,<br>
+            "闸北区": 129248, "虹口区": 129249, "杨浦区": 129250, "闵行区": 129251, "宝山区": 129252,<br>
+            "嘉定区": 129253, "浦东新区": 129254, "金山区": 129255, "松江区": 129256, "青浦区": 129257,<br>
+            "奉贤区": 129259, "崇明县": 129260<br>
+        }), City("北京市", "beijing", {<br>
+            "东城区": 128519, "西城区": 128520, "朝阳区": 128523, "丰台区": 128524, "石景山区": 128525,<br>
+            "海淀区": 128526, "门头沟区": 128527, "房山区": 128528, "通州区": 128529, "顺义区": 128530,<br>
+            "昌平区": 128531, "大兴区": 128532, "怀柔区": 128533, "平谷区": 128534, "密云县": 128535, "延庆县": 128536<br>
+        })<br>
+    ]<br>
+    # 活动类型参数<br>
+    category_dict = {<br>
+        "音乐": "music", "戏剧": "drama", "讲座": "salon", "聚会": "party", "电影": "film",<br>
+        "展览": "exhibition", "运动": "sports", "公益": "commonweal", "旅行": "travel",<br>
+        "赛事": "competition", "课程": "course", "亲子": "kids", "其它": "others"<br>
+    }<br>
+    params = args.params<br>
+    input_json = json.loads(params["input"])<br>
+    request_url = "<a href="https://www.xxx.com/location/%7B%7D/events/weekend" rel="nofollow">https://www.xxx.com/location/{}/events/weekend</a>"<br>
+    for city in city_list:<br>
+        if city.name_cn == input_json['city']:<br>
+            # 拼接城市参数<br>
+            request_url = request_url.format(city.name_req_param)<br>
+            # 拼接活动类型参数<br>
+            if input_json['category'] is not None and len(input_json['category']) &gt; 0:<br>
+                categoty_req_param = category_dict[input_json['category']]<br>
+                if category_dict:<br>
+                    categoty_req_param = categoty_req_param<br>
+                else:<br>
+                    categoty_req_param = "all"<br>
+            else:<br>
+                categoty_req_param = "all"<br>
+            request_url += "-{}".format(categoty_req_param)<br>
+            # 拼接区<br>
+            district = city.district_dict.get(input_json['district'])<br>
+            if district:<br>
+                request_url += "-{}".format(district)</p>
+<p>    result_str = "为您检索到【{}-{}-{}】的周末活动信息：\n".format(<br>
+        input_json['city'], input_json['district'],<br>
+        input_json['category'] if len(input_json['category']) &gt; 0 else "全部"<br>
+    )<br>
+    # 请求三次接口获取前三页数据，休眠0.5秒防封<br>
+    r1 = await send_request(request_url)<br>
+    time.sleep(0.5)<br>
+    r2 = await send_request(request_url + "?start=10")<br>
+    time.sleep(0.5)<br>
+    r3 = await send_request(request_url + "?start=20")<br>
+    result_str += r1<br>
+    result_str += r2<br>
+    result_str += r3<br>
+    ret: Output = {<br>
+        "result": result_str,<br>
+        "request_url": request_url,<br>
+        'r1': r1,<br>
+        'r2': r2,<br>
+        'r3': r3,<br>
+    }<br>
+    return ret</p>
+<p>`</p>
+<p>这里设置r1、r2、r3只是想看下请求的数据是否正常，实际使用可以干掉，测试代码那里粘贴下输入参数：</p>
+<p><code class="notranslate">{     "input": "{"category":"","city":"深圳市","district":"福田区"}"   }   </code></p>
+<p>运行后，看下输出结果：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fad85bec834f2a8c0e2e526789e19218b4dc8f770f10e0ff9a41c29986a06e86/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756833625747664971787232756c377769626c67713047336a796a4d356962436f64623230436845613074313934385544786a4d6962346b75672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/fad85bec834f2a8c0e2e526789e19218b4dc8f770f10e0ff9a41c29986a06e86/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b50366761756833625747664971787232756c377769626c67713047336a796a4d356962436f64623230436845613074313934385544786a4d6962346b75672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauh3bWGfIqxr2ul7wiblgq0G3jyjM5ibCodb20ChEa0t1948UDxjMib4kug/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>可以，输出结果符合我们的预期，接着在爬虫代码节点前加个大数据节点，提取下城市、区和活动类型，提示词：</p>
+<p>`提取{{input}}中的城市、区，活动类别 (非必要，可选值：音乐、戏剧、讲座、聚会、电影、展览、运动、公益、旅行、赛事、课程、亲子、其它)</p>
+<p>约束：<br>
+严格按照这样的json格式输出：<br>
+{<br>
+  "city": &lt;城市，需要以市结尾&gt;,<br>
+  "district":&lt;区，需要以区结尾&gt;,<br>
+  "category": &lt;活动类别，没有的话显示空字符串&gt;<br>
+}</p>
+<p>`</p>
+<p>发布下工作流，然后Bot添加下这个工作流，修改下 <strong>「人设与回复逻辑」</strong> 的提示词，调用对应的工作流：</p>
+<p>`# 角色</p>
+<p>你是一个周末活动推荐官，如果识别到用户发送的信息里有城市和区，调用技能1，否则根据上下文回复一句带有颜文字的话。</p>
+<p># 技能<br>
+## 技能1：周末好去处<br>
+判断用户发送的信息中是否包含"景点"这个字符串：<br>
+- 如果包含，调用search_city_attraction_info工作流。<br>
+- 如果不包含，调用weekend_go_good_places工作流。</p>
+<p># 约束</p>
+<p>- 信息中必须包含"景点"两个字才调用search_city_attraction_info工作流。</p>
+<p>`</p>
+<p>手敲下 <strong>「开场白文案」</strong>：</p>
+<p>`😘 你好！我是一名周末活动推荐官，能为你推荐一些城市区的景点和周末同城活动信息。查询指令示例：</p>
+<p>- 景点 → "深圳市南山区景点"<br>
+- 同城活动 → "深圳市南山区音乐"，后面跟着的音乐是活动类型，不设置默认是全部，可选值有：音乐、戏剧、讲座、聚会、电影、展览、运动、公益、旅行、赛事、课程、亲子、其它。</p>
+<p>🥰 赶紧试试吧~</p>
+<p>`</p>
+<p>自定义几个 <strong>「开场白预置问题」</strong>：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/061776f36820d0e7350589550dc2b3df9759da0a7b095798d3030cc41db9c1ea/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617570774b42393369634736554967415058504d46347147656d306d57626c37674230666d374f4a6571587636474f374b71666569616a4b39412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/061776f36820d0e7350589550dc2b3df9759da0a7b095798d3030cc41db9c1ea/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b503667617570774b42393369634736554967415058504d46347147656d306d57626c37674230666d374f4a6571587636474f374b71666569616a4b39412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gaupwKB93icG6UIgAPXPMF4qGem0mWbl7gB0fm7OJeqXv6GO7KqfeiajK9A/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>顺带选个蛙蛙甜妹的 <strong>「音色」</strong>：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f21512d41d90f204c49fd03098f45f3b1b1d93e67df5934b14539b023e1ffc99/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175596d67724247504b57627762795736795276566f7130465871634931504c5668324c63696265307432437650346962544f4538574e6b6b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f21512d41d90f204c49fd03098f45f3b1b1d93e67df5934b14539b023e1ffc99/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175596d67724247504b57627762795736795276566f7130465871634931504c5668324c63696265307432437650346962544f4538574e6b6b672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauYmgrBGPKWbwbyW6yRvVoq0FXqcI1PLVh2Lcibe0t2CvP4ibTOE8WNkkg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>预览和调试随便输入一个城市区，如 "<strong>「北京朝阳区」</strong>"：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9084aaccef4be8b6e45e9f5c119645529d5e0b7ffa584533c028aeab62f7a635/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175706f4a6a33594e4c41636569624169614c654b636962484b4f377a79345463416364397433596963516961646c455a796571366e30474952314a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/9084aaccef4be8b6e45e9f5c119645529d5e0b7ffa584533c028aeab62f7a635/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175706f4a6a33594e4c41636569624169614c654b636962484b4f377a79345463416364397433596963516961646c455a796571366e30474952314a412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gaupoJj3YNLAceibAiaLeKcibHKO7zy4TcAcd9t3YicQiadlEZyeq6n0GIR1JA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>行吧，查询景点也能正确返回，发布下Bot：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/058391886f7576d171b9fe073ee94a4977dd734bac91461cefbbc9103d4a85be/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175464962547748774443763936393430794e4d6e6c775872414152526b675877715637366962665a457a614175325255705036314d3974772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/058391886f7576d171b9fe073ee94a4977dd734bac91461cefbbc9103d4a85be/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175464962547748774443763936393430794e4d6e6c775872414152526b675877715637366962665a457a614175325255705036314d3974772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauFIbTwHwDCv96940yNMnlwXrAARRkgXwqV76ibfZEzaAu2RUpP61M9tw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>5. Bot效果</h2>
+<p>发布到豆包后，就等审核了，期间自个是可以偷着乐的，发起聊天试试：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db8dd28f9b11135932599cbb93fc0b6e5be09fa1055c6b4f39a0bf6c28a0e2ee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175457464756f415754584c745833696331437a39484e656e7a484869624e35367175355734456f4968446632666f4f73676554336963304d50772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/db8dd28f9b11135932599cbb93fc0b6e5be09fa1055c6b4f39a0bf6c28a0e2ee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6c43514c67303267746962764535766655544a7848656568396b5a4b5036676175457464756f415754584c745833696331437a39484e656e7a484869624e35367175355734456f4968446632666f4f73676554336963304d50772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/lCQLg02gtibvE5vfUTJxHeeh9kZKP6gauEtduoAWTXLtX3ic1Cz9HNenzHHibN56qu5W4EoIhDf2foOsgeT3ic0MPw/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>😁 哇塞~ 效果是真不戳啊！！！信息是真的全，当然，美中不足的地方可能是 <strong>「排版」</strong> 了，后续可以美化下数据的输出格式。最后，关于 <strong>「扣子里写爬虫」</strong> 说一嘴：</p>
+<blockquote>
+<p>❝</p>
+<p>虽然上面使用了休眠，但多次调用后站点大概率还是会 <strong>「短暂封IP」</strong>，2333，只是封的扣子服务器的IP，不是我们自己的IP🤣，建议还是设置下 <strong>「Cookie字段」</strong>，让用户设置下，通过扣子提供的数据库进行关联。当然，更好的方式是，自己整个 <strong>「云服务器部署爬虫脚本」</strong>，定时爬数据存数据库，提供API接口给Bot调用。这种方式有一定的技术门槛，读者也可以试试 <strong>「云存储方案 (如使用Bmob，通过API方式对云数据库进行增删改差)」</strong> ，<strong>「Mock API + 写死返回数据 (如使用」****「Apifox」</strong> <strong>「)」</strong> 等，实现形式有很多种，自己怎么方便怎么来。</p>
+<p>❞</p>
+</blockquote>
+<p><strong>「BotID：」</strong> 7337619854435876876</p>
+<p>扣子商店链接：<a href="https://www.coze.cn/store/bot/7338728599152951346" rel="nofollow">https://www.coze.cn/store/bot/7338728599152951346</a></p></strong></li></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

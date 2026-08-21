@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="图床服务器是一种用于存储和管理图片的服务器，可以给我们提供图片上传后能让外部访问浏览的服务。">
+<meta property="og:title" content="零成本搭建个人图床服务器">
+<meta property="og:description" content="图床服务器是一种用于存储和管理图片的服务器，可以给我们提供图片上传后能让外部访问浏览的服务。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/ling-cheng-ben-da-jian-ge-ren-tu-chuang-fu-wu-qi.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>零成本搭建个人图床服务器</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">零成本搭建个人图床服务器</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/652" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>图床服务器是一种用于存储和管理图片的服务器，可以给我们提供图片上传后能让外部访问浏览的服务。这样我们在写文章时插入的说明图片，就可以集中放到图床里，既方便多平台文章发布，又能统一管理和备份。</p>
+<p>当然下面的方法是通过在 GitHub 上搭建图床，<strong>不光零成本，而且还能上传视频和音乐</strong>。操作方法和以前在 GitHub 上搭建静态博客类似，但是中间会多一些工具介绍和技巧。说到工具，我也会<strong>在文末安利我最新上架的一个神器小程序****，工具齐全而且后续还会不断迭代~</strong></p>
+<p>流程</p>
+<p>* 创建仓库</p>
+<p>* 设置仓库</p>
+<p>* 连接仓库</p>
+<p>* 应用 Typora</p>
+<p>创建仓库</p>
+<p>创建仓库和平时的代码托管一样，添加一个 public 权限仓库，用默认的 main 分支。当然也可以提前创建一个目录，但是根目录最好有一个 index.html。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4ebabc9d76a7946aa1cd3ce9e8989efafb1adcba50070471483acf3a139af1be/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d564c5259696369617952546a786c75566a6d4e76734454517759584132753136665839363243386c7046635a7473395a783270696352544175412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/4ebabc9d76a7946aa1cd3ce9e8989efafb1adcba50070471483acf3a139af1be/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d564c5259696369617952546a786c75566a6d4e76734454517759584132753136665839363243386c7046635a7473395a783270696352544175412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVLRYiciayRTjxluVjmNvsDTQwYXA2u16fX962C8lpFcZts9Zx2picRTAuA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>设置仓库</p>
+<p>设置仓库主要是添加提交 Token，和配置 GitHub Pages 参数。而这两小步的设置，在前面文章 "Hexo 博客搭建" 有比较详细介绍，所以这里就稍微文字带过了。</p>
+<h3>Token 生成</h3>
+<p>登陆 GitHub -&gt; Settings -&gt; Developer settings -&gt; Personal access tokens -&gt; Tokens (classic)，然后点击 "Generate new token"，填写备注和过期时间，权限主要勾选 "repo"、"workflow"、"user"。最后生成 "ghp_" 前缀的字符串就是 Token 了，复制并保存下来。</p>
+<h3>GitHub Pages 配置</h3>
+<p>进入仓库页 -&gt; Settings -&gt; Pages，设置 Branch，指定仓库的分支和分支根目录，Source 选择 "Deploy from a branch"，最后刷新或者重新进入，把访问链接地址复制保存下来。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5528d0ec33c02d8a7a8d4d9796c2f8757634a2f8c7649031dae32b412bfc254e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d564a35374a4b7346534f6962656542466e4d317571326132327538796361486566674a4b7432347536636d434b3371345a7057484b6166512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/5528d0ec33c02d8a7a8d4d9796c2f8757634a2f8c7649031dae32b412bfc254e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d564a35374a4b7346534f6962656542466e4d317571326132327538796361486566674a4b7432347536636d434b3371345a7057484b6166512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVJ57JKsFSOibeeBFnM1uq2a22u8ycaHefgJKt24u6cmCK3q4ZpWHKafQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>连接仓库</p>
+<p>连接可以除了 API 方式，也可以用第三方的工具，比如 "PicGo"。工具位置自行搜索哈，下面以他为例，演示工具的连接配置、文件上传和访问测试。</p>
+<h3>连接配置</h3>
+<p>找到 "图床设置" -&gt; "GitHub"，下面主要填写仓库名（需带上账户名），分支名（默认 main 即可），Token（上面生成保存下来的），存储路径（后带斜杠）可以填写已存在，如果不存在则在仓库根目录下新建。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/030d0302903773ea263a248d1c26bcfb1950ac99aa1f52a863f75869b58ec88d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d566a4238746a4359556c78696161487555424164457a386568344e314f4371344275435531466561566655375a4a327745684c3653696136772f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/030d0302903773ea263a248d1c26bcfb1950ac99aa1f52a863f75869b58ec88d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d566a4238746a4359556c78696161487555424164457a386568344e314f4371344275435531466561566655375a4a327745684c3653696136772f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVjB8tjCYUlxiaaHuUBAdEz8eh4N1OCq4BuCU1FeaVfU7ZJ2wEhL6Sia6w/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>文件上传</p>
+<p>文件格式除了下面指定的如 Markdown、HTML、URL 外，还能上传图片音乐视频等（亲测有效）。点击 "上传区"，将文件直接拖动到该窗口，提示上传成功后，进入 GitHub 仓库下查看是否存在。 </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dcc43c6a89ba9551500443c6461a698e4b64106294976ed29d46404fcd3c484a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d565175474d4f4968735a4d4a70526963794d6963687a48304a6c32527769637572623368357643513854313452333658465146434d72763241412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/dcc43c6a89ba9551500443c6461a698e4b64106294976ed29d46404fcd3c484a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d565175474d4f4968735a4d4a70526963794d6963687a48304a6c32527769637572623368357643513854313452333658465146434d72763241412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVQuGMOIhsZMJpRicyMichzH0Jl2Rwicurb3h5vCQ8T14R36XFQFCMrv2AA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>访问测试</p>
+<p>访问就是能将仓库里的图片或视频以外链的方式展示，就像将文件放在云平台的存储桶一样。将前面 GitHub Pages 开启的链接复制下来，然后拼接存储路径和文件名就可以访问了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ecd097ec7e07c5616e8faeede29610d0f2dbcd525d94b94ebb673da24cec8d9f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d566769626962423973573834415671624c3278675962584f675237395355727933426e50496358506b6c61644a5a6d5674363346745a69624b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ecd097ec7e07c5616e8faeede29610d0f2dbcd525d94b94ebb673da24cec8d9f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d566769626962423973573834415671624c3278675962584f675237395355727933426e50496358506b6c61644a5a6d5674363346745a69624b412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVgibibB9sW84AVqbL2xgYbXOgR79SUry3BnPIcXPkladJZmVt63FtZibKA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>应用 Typora</p>
+<p>Typora 通过 PicGo 软件自动上传图片到 GitHub 仓库中。打开 Typora 的文件 -&gt; 偏好设置 -&gt; 图像 -&gt; 上传图片 -&gt; 配置 PicGo 路径，然后指定一下 PicGo 的安装位置。 </p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8ab421b511ecbc4cb9ea9883b7e0c9bd19b2113e750e0abc318c27518c5d7ca/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d566535437256394863624c5049337534696277334f3477466c78783678534233726f6544586963656d62536879674f7a4453536c6963754e73412f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f8ab421b511ecbc4cb9ea9883b7e0c9bd19b2113e750e0abc318c27518c5d7ca/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d566535437256394863624c5049337534696277334f3477466c78783678534233726f6544586963656d62536879674f7a4453536c6963754e73412f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVe5CrV9HcbLPI3u4ibw3O4wFlxx6xSB3roeDXicembShygOzDSSlicuNsA/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p>开始使用</p>
+<p>可以点击 "验证图片上传选项"，验证成功就代表已经将 Typora 的图标上传到仓库，也可以直接将图片复制到当前 md 文档位置。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8c0d5559fcf86e933b637d3090ba44c2ebf29f07e75feb07b0375f01e3ee609/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d56336c5171526961496d645670676c75556a59767a6d615a6f6d786d5576784e7946527a554d36685378426e6f5373654e49314a564d78672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/f8c0d5559fcf86e933b637d3090ba44c2ebf29f07e75feb07b0375f01e3ee609/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d56336c5171526961496d645670676c75556a59767a6d615a6f6d786d5576784e7946527a554d36685378426e6f5373654e49314a564d78672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMV3lQqRiaImdVpgluUjYvzmaZomxmUvxNyFRzUM6hSxBnoSseNI1JVMxg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<pre class="notranslate"><code class="notranslate">![image-20240608145607117](https://raw.githubusercontent.com/z11r00/zd_image_bed/main/img/image-20240608145607117.png)
+</code></pre>
+<p>上传成功后会将返回一个如上面的远程链接，并且无法打开和显示，这是就要在 PicGo 工具的图床设置中。将自己 GitHUb 上的域名设定为自定义域名，格式 "域名 / 仓库名", 在 Typora 上传图片后重启就可展示了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/08783e9c1ca425c65355f42fa70e543a229ed1507ebf797964efcdb1bcaa1408/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d56485a73744e5155654d63776b7362576961416e414e57326b4c72645a696242314e4b61757869626255424c6f544743655169615a4e77715274512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/08783e9c1ca425c65355f42fa70e543a229ed1507ebf797964efcdb1bcaa1408/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d56485a73744e5155654d63776b7362576961416e414e57326b4c72645a696242314e4b61757869626255424c6f544743655169615a4e77715274512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVHZstNQUeMcwksbWiaAnANW2kLrdZibB1NKauxibbUBLoTGCeQiaZNwqRtQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>神器小程序安利</strong></p>
+<p>这是一款集合了信息查询、图片处理、测算，娱乐等常用工具的实用型小程序，如：文本加密解密、二维码生成与识别、九宫格切图、图片拼接、国旗头像生成、房贷和BMI计算器等等，如同瑞士军刀一样方便好用。</p>
+<p>目前还是第一版，重要的是后续迭代，如果大家日常中还需要其他功能，可以留言哈，小程序目前还未开通搜索，所以找不到了可以扫码后把它加入“我的小程序”，我也会在公众号菜单专门新建一个栏目放我最近上架的小程序、小游戏……</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aaf77fdb716ed64b48185e025e5b30548bffec41f5a112870cc5974e3f80752d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d564b5a594d7048624435574674776c4f456c746d6e7657503069626963677649796130696131435a376830316d3530655549355a594743704a512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/aaf77fdb716ed64b48185e025e5b30548bffec41f5a112870cc5974e3f80752d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d564b5a594d7048624435574674776c4f456c746d6e7657503069626963677649796130696131435a376830316d3530655549355a594743704a512f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVKZYMpHbD5WFtwlOEltmnvWP0ibicgvIya0ia1CZ7h01m50eUI5ZYGCpJQ/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ead00b222fcf1f1bcab7e33cf5bdf76c6dd4061023ef085ec4b955567b5388d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d5674354258543862375678305153464a704562554d436863696359364b786b594c5138437a50776c45624b6430673776687364696134456962512f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/0ead00b222fcf1f1bcab7e33cf5bdf76c6dd4061023ef085ec4b955567b5388d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f6e65526a586e57354c46486362537231634637746a4c62587a685033684d5674354258543862375678305153464a704562554d436863696359364b786b594c5138437a50776c45624b6430673776687364696134456962512f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oneRjXnW5LFHcbSr1cF7tjLbXzhP3hMVt5BXT8b7Vx0QSFJpEbUMChcicY6KxkYLQ8CzPwlEbKd0g7vhsdia4EibQ/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966"><img src="https://camo.githubusercontent.com/2514cd8c5772f416026e0f13da133c57a598ba8d1cb284ef8d2d2444f55ec28e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f6f6e65526a586e57354c4769634e6f4d416447326441776e6a774e547269627a6256584f46663347614e33554f4a6f494169614e483264473830514b55736769614c5961476230335548535a4d424a654f5749367748354f49412f3634303f77785f666d743d676966" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/oneRjXnW5LGicNoMAdG2dAwnjwNTribzbVXOFf3GaN3UOJoIAiaNH2dG80QKUsgiaLYaGb03UHSZMBJeOWI6wH5OIA/640?wx_fmt=gif" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>

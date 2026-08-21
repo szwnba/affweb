@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="你是否曾想过，如果有一个工具，能够理解你的意图并自动执行复杂的网络数据抓取任务，那会怎样？ScrapeGraphAI\[1\] 就是这样一个工具，它利用最新的人工智能技术，让数据提取变得前所未有地简单。">
+<meta property="og:title" content="当 AI 遇上爬虫：让数据提取变得前所未有地简单！">
+<meta property="og:description" content="你是否曾想过，如果有一个工具，能够理解你的意图并自动执行复杂的网络数据抓取任务，那会怎样？ScrapeGraphAI\[1\] 就是这样一个工具，它利用最新的人工智能技术，让数据提取变得前所未有地简单。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/dang-%20AI%20-yu-shang-pa-chong-%EF%BC%9A-rang-shu-ju-ti-qu-bian-de-qian-suo-wei-you-di-jian-dan-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>当 AI 遇上爬虫：让数据提取变得前所未有地简单！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">当 AI 遇上爬虫：让数据提取变得前所未有地简单！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/530" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>你是否曾想过，如果有一个工具，能够理解你的意图并自动执行复杂的网络数据抓取任务，那会怎样？ScrapeGraphAI[1] 就是这样一个工具，它利用最新的人工智能技术，让数据提取变得前所未有地简单。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/61b47754629d21ab64424d6d3cecaeab3601eebd5349267d61c64d8eb4b4af05/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f61633076774831516b78416e4b427665753954794733786c704942696170595564625952563145756e6a3041496630494142446d734372716576666662343447666e62756f647a6d32416e6d76424d4449584f78696343412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/61b47754629d21ab64424d6d3cecaeab3601eebd5349267d61c64d8eb4b4af05/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f61633076774831516b78416e4b427665753954794733786c704942696170595564625952563145756e6a3041496630494142446d734372716576666662343447666e62756f647a6d32416e6d76424d4449584f78696343412f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ac0vwH1QkxAnKBveu9TyG3xlpIBiapYUdbYRV1Eunj0AIf0IABDmsCrqevffb44Gfnbuodzm2AnmvBMDIXOxicCA/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>ScrapeGraphAI</strong> 是一个用于网络抓取 Python 库，它使用大语言模型（LLM）和直接图为网站、文档和 XML 文件创建抓取管道。只需说出您想要提取哪些信息，它就会为您完成！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ac8ae67cde83248562a2765aafa8b3fd552e5c22bd9ee608073596a8a750b420/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f61633076774831516b78416e4b427665753954794733786c704942696170595564376961314632557737756e6c696157627156486963724d504c733835666c417a4f4d7a38425956376a653068315a31484f754c3233576f52772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/ac8ae67cde83248562a2765aafa8b3fd552e5c22bd9ee608073596a8a750b420/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f61633076774831516b78416e4b427665753954794733786c704942696170595564376961314632557737756e6c696157627156486963724d504c733835666c417a4f4d7a38425956376a653068315a31484f754c3233576f52772f3634303f77785f666d743d6a7065672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ac0vwH1QkxAnKBveu9TyG3xlpIBiapYUd7ia1F2Uw7unliaWbqVHicrMPLs85flAzOMz8BYV7je0h1Z1HOuL23WoRw/640?wx_fmt=jpeg&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<h2>工具特点</h2>
+<ul>
+<li>
+<p>简单易用：只需输入 API 密钥，您就可以在几秒钟内抓取数千个网页！</p>
+</li>
+<li>
+<p>开发便捷：你只需要实现几行代码，工作就完成了。</p>
+</li>
+<li>
+<p>专注业务：有了这个库，您可以节省数小时的时间，因为您只需要设置项目，人工智能就会为您完成一切。</p>
+</li>
+</ul>
+<h2>快速开始</h2>
+<h3>在线示例</h3>
+<p><strong>1.官方 Streamlit</strong></p>
+<blockquote>
+<p><a href="https://scrapegraph-ai-demo.streamlit.app/" rel="nofollow">https://scrapegraph-ai-demo.streamlit.app/</a></p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/17dc10214b3b9d88dfe503604878f26db6382c7e84fa14ab3bceb194d388c923/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f61633076774831516b78416e4b427665753954794733786c7049426961705955643071536c5a564945377a6e5854326a4e306245495054584f6e38655138587541364576736a7a4c44676254735a35716e6a49463052672f3634303f77785f666d743d706e672666726f6d3d6170706d7367"><img src="https://camo.githubusercontent.com/17dc10214b3b9d88dfe503604878f26db6382c7e84fa14ab3bceb194d388c923/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f61633076774831516b78416e4b427665753954794733786c7049426961705955643071536c5a564945377a6e5854326a4e306245495054584f6e38655138587541364576736a7a4c44676254735a35716e6a49463052672f3634303f77785f666d743d706e672666726f6d3d6170706d7367" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ac0vwH1QkxAnKBveu9TyG3xlpIBiapYUd0qSlZVIE7znXT2jN0bEIPTXOn8eQ8XuA6EvsjzLDgbTsZ5qnjIF0Rg/640?wx_fmt=png&amp;from=appmsg" style="max-width: 100%;"></a></p>
+<p><strong>2.Google Colab</strong></p>
+<blockquote>
+<p><a href="https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd" rel="nofollow">https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd</a></p>
+</blockquote>
+<h3>本地安装</h3>
+<p>使用 pip 安装 scrapegraphai：</p>
+<p><code class="notranslate">pip install scrapegraphai   </code></p>
+<p>此外，您还需要安装 Playwright[2] 抓取客户端渲染（由 JavaScript 动态渲染）的网页：</p>
+<p><code class="notranslate">playwright install   </code></p>
+<blockquote>
+<p>Playwright 是一个强大的 Python 库，仅用一个 API 即可自动执行 Chromium、Firefox、WebKit 等主流浏览器自动化操作。</p>
+</blockquote>
+<h2>使用示例</h2>
+<p>ScrapeGraphAI 支持通过 API 使用不同的 LLM，例如 OpenAI、Groq、Azure 和 Gemini，或使用 Ollama 的本地模型。</p>
+<p>ScrapeGraphAI 内置了 3 种网页爬取流程：</p>
+<ul>
+<li>
+<p><code class="notranslate">SmartScraperGraph</code>：仅需要用户提示词和输入源的单页抓取工具；</p>
+</li>
+<li>
+<p><code class="notranslate">SearchGraph</code>：多页抓取工具，从搜索引擎的前 n 个搜索结果中提取信息；</p>
+</li>
+<li>
+<p><code class="notranslate">SpeechGraph</code>：单页抓取工具，从网站提取信息并生成音频文件。</p>
+</li>
+</ul>
+<h3>示例一：使用 Ollama API 提取信息</h3>
+<p>`from scrapegraphai.graphs import SmartScraperGraph</p>
+<p>graph_config = {<br>
+    "llm": {<br>
+        "model": "ollama/mistral",<br>
+        "temperature": 0,<br>
+        "format": "json",  # Ollama needs the format to be specified explicitly<br>
+        "base_url": "<a href="http://localhost:11434%22,%C2%A0%C2%A0#%C2%A0set%C2%A0Ollama%C2%A0URL" rel="nofollow">http://localhost:11434",  # set Ollama URL</a><br>
+    },<br>
+    "embeddings": {<br>
+        "model": "ollama/nomic-embed-text",<br>
+        "base_url": "<a href="http://localhost:11434%22,%C2%A0%C2%A0#%C2%A0set%C2%A0Ollama%C2%A0URL" rel="nofollow">http://localhost:11434",  # set Ollama URL</a><br>
+    }<br>
+}</p>
+<p>smart_scraper_graph = SmartScraperGraph(<br>
+    prompt="List me all the articles",<br>
+    # also accepts a string with the already downloaded HTML code<br>
+    source="<a href="https://perinim.github.io/projects" rel="nofollow">https://perinim.github.io/projects</a>",<br>
+    config=graph_config<br>
+)</p>
+<p>result = smart_scraper_graph.run()<br>
+print(result)</p>
+<p>`</p>
+<h3>示例二：使用 ChatGPT API 提取信息</h3>
+<p>`from scrapegraphai.graphs import SmartScraperGraph<br>
+OPENAI_API_KEY = "YOUR_API_KEY"</p>
+<p>graph_config = {<br>
+    "llm": {<br>
+        "api_key": OPENAI_API_KEY,<br>
+        "model": "gpt-3.5-turbo",<br>
+    },<br>
+}</p>
+<p>smart_scraper_graph = SmartScraperGraph(<br>
+    prompt="List me all the articles",<br>
+    # also accepts a string with the already downloaded HTML code<br>
+    source="<a href="https://perinim.github.io/projects" rel="nofollow">https://perinim.github.io/projects</a>",<br>
+    config=graph_config<br>
+)</p>
+<p>result = smart_scraper_graph.run()<br>
+print(result)</p>
+<p>`</p>
+<h3>示例三：使用 Groq API 提取信息</h3>
+<p>`from scrapegraphai.graphs import SmartScraperGraph<br>
+from scrapegraphai.utils import prettify_exec_info</p>
+<p>groq_key = os.getenv("GROQ_APIKEY")</p>
+<p>graph_config = {<br>
+    "llm": {<br>
+        "model": "groq/gemma-7b-it",<br>
+        "api_key": groq_key,<br>
+        "temperature": 0<br>
+    },<br>
+    "embeddings": {<br>
+        "model": "ollama/nomic-embed-text",<br>
+        "temperature": 0,<br>
+        "base_url": "<a href="http://localhost:11434%22,%C2%A0" rel="nofollow">http://localhost:11434", </a><br>
+    },<br>
+    "headless": False<br>
+}</p>
+<p>smart_scraper_graph = SmartScraperGraph(<br>
+    prompt="List me all the projects with their description and the author.",<br>
+    source="<a href="https://perinim.github.io/projects" rel="nofollow">https://perinim.github.io/projects</a>",<br>
+    config=graph_config<br>
+)</p>
+<p>result = smart_scraper_graph.run()<br>
+print(result)</p>
+<p>`</p>
+<h3>示例四：使用 Gemini API 提取信息</h3>
+<p>`from scrapegraphai.graphs import SmartScraperGraph<br>
+GOOGLE_APIKEY = "YOUR_API_KEY"</p>
+<p># Define the configuration for the graph<br>
+graph_config = {<br>
+    "llm": {<br>
+        "api_key": GOOGLE_APIKEY,<br>
+        "model": "gemini-pro",<br>
+    },<br>
+}</p>
+<p># Create the SmartScraperGraph instance<br>
+smart_scraper_graph = SmartScraperGraph(<br>
+    prompt="List me all the articles",<br>
+    source="<a href="https://perinim.github.io/projects" rel="nofollow">https://perinim.github.io/projects</a>",<br>
+    config=graph_config<br>
+)</p>
+<p>result = smart_scraper_graph.run()<br>
+print(result)</p>
+<p>`</p>
+<h3>示例五、使用 Docker 提取信息</h3>
+<p>注意：使用本地模型之前记得创建 docker 容器！</p>
+<p><code class="notranslate">docker-compose up -d   docker exec -it ollama ollama pull stablelm-zephyr   </code></p>
+<p>您可以使用 Ollama 上可用的模型或您自己的模型来代替 stablelm-zephyr</p>
+<p>`from scrapegraphai.graphs import SmartScraperGraph。</p>
+<p>graph_config = {<br>
+    "llm": {<br>
+        "model": "ollama/mistral",<br>
+        "temperature": 0,<br>
+        "format": "json",  # Ollama needs the format to be specified explicitly<br>
+        # "model_tokens": 2000, # set context length arbitrarily<br>
+    },<br>
+}</p>
+<p>smart_scraper_graph = SmartScraperGraph(<br>
+    prompt="List me all the articles",<br>
+    # also accepts a string with the already downloaded HTML code<br>
+    source="<a href="https://perinim.github.io/projects%22,%C2%A0%C2%A0" rel="nofollow">https://perinim.github.io/projects",  </a><br>
+    config=graph_config<br>
+)</p>
+<p>result = smart_scraper_graph.run()<br>
+print(result)</p>
+<p>`</p>
+<p>随着 AI 技术的不断发展，将会为传统工具带来很大的机遇和挑战，后续会不断涌现出更多智能化的工具。</p>
+<p>参考资料</p>
+<p>[1] </p>
+<p>ScrapeGraphAI: <em><a href="https://scrapegraph-doc.onrender.com/" rel="nofollow">https://scrapegraph-doc.onrender.com/</a></em></p>
+<p>[2] </p>
+<p>Playwright: <em><a href="https://playwright.dev/" rel="nofollow">https://playwright.dev/</a></em></p>
+<h2>往期文章</h2>
+<ul>
+<li>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA5NDMwMTU3OA==&amp;mid=2247483978&amp;idx=1&amp;sn=c319cfa8a398f1d29012a9b60139c5e7&amp;scene=21#wechat_redirect" rel="nofollow">告别传统客服：支持十几个平台的 AI “懒人客服” 来了！</a></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA5NDMwMTU3OA==&amp;mid=2247483962&amp;idx=1&amp;sn=b6d48f613bc801e2f25cd773ca78f37c&amp;scene=21#wechat_redirect" rel="nofollow">卖货主播大模型开源了，让销冠触手可及！</a></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA5NDMwMTU3OA==&amp;mid=2247483932&amp;idx=1&amp;sn=f031c79afb9e8b2905b176650d10add1&amp;scene=21#wechat_redirect" rel="nofollow">Kimi+麦肯锡，5 秒摸透一个行业！</a></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA5NDMwMTU3OA==&amp;mid=2247483922&amp;idx=1&amp;sn=4c2f114087b45bcad854fb51eeeee28b&amp;scene=21#wechat_redirect" rel="nofollow">Kimi 10 秒生成流程图，别再手动绘图了！</a></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA5NDMwMTU3OA==&amp;mid=2247483953&amp;idx=1&amp;sn=61d881b1a7c5823a3e948806904786f5&amp;scene=21#wechat_redirect" rel="nofollow">万字长文秒变精华！Kimi 的超强提示词秘籍</a></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA5NDMwMTU3OA==&amp;mid=2247483913&amp;idx=1&amp;sn=39227e516f8b7a7e1c49b33b5f668274&amp;scene=21#wechat_redirect" rel="nofollow">阿里开源的自动化视频剪辑工具，太好用了！</a></p>
+</li>
+<li>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA5NDMwMTU3OA==&amp;mid=2247483971&amp;idx=1&amp;sn=557653df19f2b6e95f3815a7e3081c84&amp;scene=21#wechat_redirect" rel="nofollow">开源，11K Star！一个主题或关键词就能自动生成一条高清的短视频，无侵权风险！</a></p>
+</li>
+</ul>
+<p>关注 AI 真好玩，带你玩转各类 AI 工具，掌控数字未来！</p>
+<p>如果这篇文章对您有所帮助，请点赞、关注，并分享给您的朋友。感谢您的支持！</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
