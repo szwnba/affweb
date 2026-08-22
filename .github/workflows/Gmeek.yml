@@ -44,22 +44,32 @@ jobs:
           python3 - <<'EOF'
           p='/opt/Gmeek/Gmeek.py'
           s=open(p, encoding='utf-8').read()
-          old='''            response = requests.post("https://api.github.com/markdown", json=payload, headers=headers)
-                      response.raise_for_status()  # Raises an exception if status code is not 200'''
-          new='''            for attempt in range(5):
-                          response = requests.post("https://api.github.com/markdown", json=payload, headers=headers)
-                          if response.status_code == 200:
-                              break
-                          if response.status_code in (403, 429) and attempt < 4:
-                              time.sleep(20 * (attempt + 1))
-                              continue
-                          response.raise_for_status()
-                      response.raise_for_status()'''
-          if old in s:
-              open(p,'w',encoding='utf-8').write(s.replace(old,new))
-              print('patched markdown2html with retry')
-          else:
-              print('WARNING: upstream Gmeek.py changed, retry patch skipped')
+          applied=[]
+          oldA='''            response = requests.post("https://api.github.com/markdown", json=payload, headers=headers)
+          response.raise_for_status()  # Raises an exception if status code is not 200'''
+          newA='''            for attempt in range(5):
+              response = requests.post("https://api.github.com/markdown", json=payload, headers=headers)
+              if response.status_code == 200:
+                  break
+              if response.status_code in (403, 429) and attempt < 4:
+                  time.sleep(20 * (attempt + 1))
+                  continue
+              response.raise_for_status()
+          response.raise_for_status()'''
+          if oldA in s:
+              s=s.replace(oldA,newA); applied.append('markdown-retry')
+          oldB='''        if len(issue.labels)>=1:
+              if issue.labels[0].name in self.blogBase["singlePage"]:'''
+          newB='''        if True:
+              if len(issue.labels)>=1 and issue.labels[0].name in self.blogBase["singlePage"]:'''
+          if oldB in s:
+              s=s.replace(oldB,newB); applied.append('unlabeled-gate')
+          oldC='self.blogBase[listJsonName][postNum]["labels"]=[label.name for label in issue.labels]'
+          newC='self.blogBase[listJsonName][postNum]["labels"]=[label.name for label in issue.labels] or ["随笔"]'
+          if oldC in s:
+              s=s.replace(oldC,newC); applied.append('default-label')
+          open(p,'w',encoding='utf-8').write(s)
+          print('patched:', applied)
           EOF
 
       - name: Install dependencies
