@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="你好呀，我是五竹。">
+<meta property="og:title" content="我用WorkBuddy搭了一条公众号流水线，从选题到发布全程不碰编辑器！">
+<meta property="og:description" content="你好呀，我是五竹。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wo-yong-WorkBuddy-da-le-yi-tiao-gong-zhong-hao-liu-shui-xian-%EF%BC%8C-cong-xuan-ti-dao-fa-bu-quan-cheng-bu-peng-bian-ji-qi-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>我用WorkBuddy搭了一条公众号流水线，从选题到发布全程不碰编辑器！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我用WorkBuddy搭了一条公众号流水线，从选题到发布全程不碰编辑器！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/742" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>你好呀，我是五竹。</p>
+<p>上周有个朋友问我，你同时做3个公众号，是怎么做到的，是有小伙伴帮忙吗？</p>
+<p>我说没有。</p>
+<p>是我搭了一条流水线。</p>
+<p>从选题、写稿、配图到排版，四个环节，每个环节都有对应的AI工具在跑。我只负责在关键节点做判断和微调。</p>
+<p>听起来很唬人对吧。其实搭完之后回头看，每个环节都不复杂。复杂的是把它们串起来的那个思路。</p>
+<p>今天就聊聊这条流水线是怎么搭出来的。</p>
+<p>其实也没什么多牛逼的技术，就是和WorkBuddy一步步聊出来的。</p>
+<p>提示词：</p>
+<blockquote>
+<p>我是一位公众号作者，文章以分享AI热门工具为主，热门AI工具（比如workbuddy、codex DeepSeekHarned等），应用实战（AI做公众号，做小红书，等），开源的AI工具（比如开源的skill，工作流，mcp服务等）等。我想让你帮我设计一个文章创作的工作流，先根据关键词进行搜索热门文章确定选题 （设计成skill，避免不要通过爬虫实现的，容易风控，我想改成模拟浏览器），然后写文章配图（设计成创作skill和配图skill），然后排版（html可视化排版可以一键复制，也设计成skill）。你明白了吗，我们可以一步步来搭建这个工作流和相关的skill。你如果有更好的方案也可以交流</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cfff2be729f0dafc33e64de415dfe38d9752e9177a63b3ec3555644508f93d2a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a696341507166393748583645326a7543477a587839446d766134723039547355364b38574574785658624763664f617a426c696275617242306c573172664e62416d393569616a476961504c724a7650336961795065484c61705862737a715876764e736c725a71523830574b44512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/cfff2be729f0dafc33e64de415dfe38d9752e9177a63b3ec3555644508f93d2a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a696341507166393748583645326a7543477a587839446d766134723039547355364b38574574785658624763664f617a426c696275617242306c573172664e62416d393569616a476961504c724a7650336961795065484c61705862737a715876764e736c725a71523830574b44512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zicAPqf97HX6E2juCGzXx9Dmva4r09TsU6K8WEtxVXbGcfOazBlibuarB0lW1rfNbAm95iajGiaPLrJvP3iayPeHLapXbszqXvvNslrZqR80WKDQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>下面看看整个实现思路</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d28ea1240b02272c18b778eae4135ebfcffc679b6f7de5ec680255808dcfca9e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a69634150716639374858347964737249734d42676d783377624269633747636d5a536e66304e7435634b72484a6242715a6e574b553154796b4b5270744c3879566961566652624a55516961423346455969614269616d6d7538776745347a4e34684a6b37555a6e57423647347a63342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/d28ea1240b02272c18b778eae4135ebfcffc679b6f7de5ec680255808dcfca9e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a69634150716639374858347964737249734d42676d783377624269633747636d5a536e66304e7435634b72484a6242715a6e574b553154796b4b5270744c3879566961566652624a55516961423346455969614269616d6d7538776745347a4e34684a6b37555a6e57423647347a63342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zicAPqf97HX4ydsrIsMBgmx3wbBic7GcmZSnf0Nt5cKrHJbBqZnWKU1TykKRptL8yViaVfRbJUQiaB3FEYiaBiammu8wgE4zN4hJk7UZnWB6G4zc4/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<hr>
+<p>先说痛点。</p>
+<p>我之前写公众号的流程是这样的：刷各种群和热点找选题，找到了之后打开文档开始写，写完了去 Canva 做封面图，做完了复制到公众号编辑器手动排版，排完了预览、修改、再预览。</p>
+<p>整个过程平均4小时一篇。</p>
+<p>其中真正在"写"的时间，可能只有1个多小时。剩下的时间都在干嘛？</p>
+<p>找选题1小时，排版调格式1小时，做图半小时，各种琐碎切换半小时。</p>
+<p>我当时就在想，这里面有没有哪些环节是可以让AI代劳的？</p>
+<p>答案是：除了"最终判断"这个动作，几乎全部可以。</p>
+<hr>
+<p>第一个环节：选题。</p>
+<p>以前找选题靠什么？刷朋友圈、刷群、搜微信搜一搜。</p>
+<p>但这个过程有个问题——你看到的信息是碎片化的。你不知道同行们最近在写什么角度，不知道哪些话题已经写烂了，不知道全网热度到底有多高。</p>
+<p>所以我做了个东西，叫选题雷达。</p>
+<p>它做的事情很简单：给它一组关键词，它用浏览器去搜狗微信搜索页搜一遍，把同行文章的标题、摘要、公众号名、发布时间全部整理下来。然后再去微博、知乎、百度、掘金等平台查一遍最近的热度。</p>
+<p>两路数据汇到一起，我就能快速判断：这个话题，公众号同行写了几篇？主要什么角度？全网热不热？有没有切入的空间？</p>
+<p>比如上周我想写 WorkBuddy，跑一下选题雷达，发现公众号那边已经有20多篇了，但全是"入门教程"和"10分钟跑通"这种套路。</p>
+<p>那我的切入点就很清楚了：不写入门，写工作流。写别人没写过的东西。</p>
+<p>这个选题判断从原来的1小时，缩短到了10分钟。</p>
+<hr>
+<p>第二个环节：写稿。</p>
+<p>这个环节我没用WorkBuddy，我用的是一个写作SOP的Skill。</p>
+<p>你可以理解为，我把自己写了几十篇文章之后总结出来的写作习惯、风格偏好、标题公式、开头模式、金句句式，全部提炼成了一份"方法论手册"，然后让AI按照这份手册来写。</p>
+<p>它不是随便生成一篇通用文章。它知道我喜欢用口语化的语气，知道我习惯一句话一段，知道我的开头一般是个人经历切入，知道我结尾喜欢反思而不是喊口号。</p>
+<p>效果嘛，说实话不可能一遍就完美。但出来的初稿能用，我改改细节、加点真实案例就行。</p>
+<p>从"对着空白文档发呆"到"在初稿上修修补补"，这个体验差距很大。</p>
+<hr>
+<p>第三个环节：配图。</p>
+<p>我的文章配图主要是截图——工具界面截图、代码运行截图、操作步骤截图。</p>
+<p>以前我得自己一个个截，然后从文件夹里找对应的图。</p>
+<p>现在我的做法是：写完文章确定需要什么图之后，用一个脚本去对应的文章里把图片链接提取出来。微信文章的图片都是CDN链接，公开可访问，排版的时候直接引用就行。</p>
+<p>不需要下载，不需要存文件，不需要上传。一条链接搞定。</p>
+<p>当然，如果是我自己的实操截图，那还是得自己截。但至少"从别的文章里找参考图"这个步骤，自动化了。</p>
+<hr>
+<p>第四个环节：排版。</p>
+<p>这是我最烦的环节。</p>
+<p>公众号编辑器不支持Markdown，每次都要手动调字号、调行高、调间距、调引用块样式。</p>
+<p>我的解决方案是写了一个Markdown转HTML的脚本。它把我的Markdown文章转成带inline style的HTML，然后生成一个网页文件，浏览器打开之后有个"一键复制"按钮，点一下，粘贴到公众号编辑器——格式全部保留。</p>
+<p>段落间距、引用块绿色条、代码块深色背景、图片居中、标题层级，全部不用手动调。</p>
+<p>这个环节从30分钟缩短到了30秒。</p>
+<hr>
+<p>说说踩过的坑。</p>
+<p>第一个坑：搜狗微信的反爬。</p>
+<p>一开始我用的是Python requests直接请求搜狗微信搜索页。跑了两三次就被验证码拦住了。</p>
+<p>后来改用Playwright模拟真实浏览器，加了随机延迟、User-Agent轮换、Cookie持久化这些反风控策略，就稳了。偶尔触发验证码的时候，开个浏览器窗口手动点一下就行。</p>
+<p>第二个坑：图片链接的获取。</p>
+<p>搜狗的跳转链接在无头浏览器里会被拦截。所以配图环节我不走搜狗跳转，而是直接传微信文章的原始链接。手动在微信里打开文章、复制链接、传给脚本——这个步骤目前还是手动的。</p>
+<p>第三个坑：排版复制到公众号后样式丢失。</p>
+<p>一开始我用的是class + CSS，粘贴过去全丢了。后来发现公众号编辑器只认inline style，改成纯inline之后就正常了。</p>
+<hr>
+<p>现在我的工作流是这样的：</p>
+<ol>
+<li>
+<p>脑子里冒出一个方向或者看到一个热点</p>
+</li>
+<li>
+<p>跑一下选题雷达，5分钟看完同行表达和全网热度</p>
+</li>
+<li>
+<p>确定角度和切入点</p>
+</li>
+<li>
+<p>让写作Skill出初稿，我在上面改</p>
+</li>
+<li>
+<p>确定需要什么配图，提取图片链接或自己截图</p>
+</li>
+<li>
+<p>一键排版，复制粘贴到公众号编辑器</p>
+</li>
+<li>
+<p>预览、微调、发布</p>
+</li>
+</ol>
+<p>整个过程从4小时压缩到了1.5小时左右。而且最关键的是——我的精力集中在了"判断"和"修改"上，而不是"执行"上。</p>
+<p>我觉得这才是AI工具的正确用法。</p>
+<p>不是让它替你写，是让它替你跑腿。你负责方向和品控，它负责搬砖和跑路。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a105930e150a1c9a1638e14fe72a86669db29c7e246bcf461f964f39ce5821b4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a69634150716639374858357270645369634e716264306961755a79744f39464379315661535555576e555656524d7353516374614c4b304d35486461654a436e5642574631554852565761366b486961646e45616d5335774f46485952696351755066517559316844504a6530716f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/a105930e150a1c9a1638e14fe72a86669db29c7e246bcf461f964f39ce5821b4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a69634150716639374858357270645369634e716264306961755a79744f39464379315661535555576e555656524d7353516374614c4b304d35486461654a436e5642574631554852565761366b486961646e45616d5335774f46485952696351755066517559316844504a6530716f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zicAPqf97HX5rpdSicNqbd0iauZytO9FCy1VaSUUWnUVVRMsSQctaLK0M5HdaeJCnVBWF1UHRVWa6kHiadnEamS5wOFHYRicQuPfQuY1hDPJe0qo/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<hr>
+<p>最后说一下，这套东西目前还很粗糙。</p>
+<p>选题雷达偶尔会被验证码卡住，配图环节还不够自动化，写作Skill出来的初稿有时候质感不够需要大改。</p>
+<p>但它已经解决了我最大的痛点：让我不再被琐碎的执行动作消耗精力。</p>
+<p>如果你也在做公众号，也被"选题-写稿-配图-排版"这个循环折磨过，可以试试把每个环节拆开来想——哪些是需要你亲自判断的，哪些是可以交给工具跑的。</p>
+<p>如果你还是不明白，就直接把这篇文章投喂给WorkBuddy!</p>
+<p>把判断和执行分开。</p>
+<p>这可能是AI时代做内容最重要的一个认知。</p>
+<hr>
+<p>最后给大家准备了一个福利！👇</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3947a23f56e188108d3854166a5dcdecbbc9e3f3405bd7e9630e4acb6a73398/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6d5942676762696266556e31794657386d6a41443664476e50584a3246696359733148536e414c457a5559434e424369636d7139696250654b5555795670696169626a4575624f4668525a4475506459567a654b73315a6568696271766963596961493232483075696351676454734f446a4c66552f3634303f77785f666d743d6a7065672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d37"><img src="https://camo.githubusercontent.com/d3947a23f56e188108d3854166a5dcdecbbc9e3f3405bd7e9630e4acb6a73398/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6d5942676762696266556e31794657386d6a41443664476e50584a3246696359733148536e414c457a5559434e424369636d7139696250654b5555795670696169626a4575624f4668525a4475506459567a654b73315a6568696271766963596961493232483075696351676454734f446a4c66552f3634303f77785f666d743d6a7065672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mYBggbibfUn1yFW8mjAD6dGnPXJ2FicYs1HSnALEzUYCNBCicmq9ibPeKUUyVpiaibjEubOFhRZDuPdYVzeKs1ZehibqvicYiaI22H0uicQgdTsODjLfU/640?wx_fmt=jpeg&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=7" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
