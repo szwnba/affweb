@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="真正做过 UI 自动化测试的同学都知道，脚本写完只是自动化测试的第一步，真正的痛苦往往是从「跑测试」开始。">
+<meta property="og:title" content="AI 测试 ｜ 把 UI 自动化测试执行固化成五步流程，这套AI Skill 思路可以直接抄！">
+<meta property="og:description" content="真正做过 UI 自动化测试的同学都知道，脚本写完只是自动化测试的第一步，真正的痛苦往往是从「跑测试」开始。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/AI%20-ce-shi-%20%EF%BD%9C%20-ba-%20UI%20-zi-dong-hua-ce-shi-zhi-xing-gu-hua-cheng-wu-bu-liu-cheng-%EF%BC%8C-zhe-tao-AI%20Skill%20-si-lu-ke-yi-zhi-jie-chao-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>AI 测试 ｜ 把 UI 自动化测试执行固化成五步流程，这套AI Skill 思路可以直接抄！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">AI 测试 ｜ 把 UI 自动化测试执行固化成五步流程，这套AI Skill 思路可以直接抄！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/743" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>真正做过 UI 自动化测试的同学都知道，脚本写完只是自动化测试的第一步，真正的痛苦往往是从「跑测试」开始。</p>
+<p>我见过不少团队，脚本攒了几百上千条，最后倒在执行这一环。要么环境跑不起来，要么跑起来收不了场。</p>
+<h2>一、开头说两句</h2>
+<p>这个系列一直在做一件事，用 Agent Skill 把 UI 自动化测试的各个环节逐个自动化。</p>
+<p>前面几篇解决的是「脚本怎么来」。页面元素解析、测试脚本生成、脚本健壮性增强，一路走下来，脚本能稳定跑通了。</p>
+<p>接下来就轮到「脚本怎么跑」。</p>
+<p>按传统做法，这一步就是把 pytest 命令敲进终端，然后人守在旁边看结果。听着简单，实际是整个 UI 自动化里翻车率最高、也最消耗人的环节。</p>
+<p>所以在这个位置，我专门做了一个 Skill，<code class="notranslate">ui-test-executor</code>，一个 WEB UI 测试的智能执行调度引擎。触发执行、浏览器环境管理、用例筛选、并发调度、过程监控、结果收集，这些活全部交给它。</p>
+<p>本篇就聚焦这个 Skill，从它面对的问题讲起，到它怎么解决，再到实战跑一遍。</p>
+<h2>二、传统执行方式存在什么问题</h2>
+<p>把执行环节的账摊开算，问题往往集中在几个主要地方。</p>
+<p><strong>1、环境问题防不胜防。</strong></p>
+<p>浏览器版本、驱动匹配、Playwright 装没装、无头模式支不支持，每一项都可能让任务卡住。一句「我本地明明能跑」，成了 CI 环境里最经典的开场白。排查半小时，最后发现只是某台机器没装 Edge。</p>
+<p><strong>2、等待时机不固定，过不过全靠运气。</strong></p>
+<p>页面加载、接口返回、动画收尾，每一处都有时间差。很多脚本用写死的 sleep 等 3 秒，环境快了白白等 3 秒，环境慢了 3 秒后又把还没加载完的页面当成失败。同一个用例今天过、明天挂，时好时坏全看缘分。</p>
+<p><strong>3、用例不独立，每次全量跑就出幺蛾子。</strong></p>
+<p>上一条用例注册了账号没清理，下一条用同一个手机号注册就挂了。单独跑能过，放进全量跑就挂，排查半天发现是别人的脏数据。共享的缓存、文件、数据库，都是雷区。</p>
+<p><strong>4、失败现场是一次性的。</strong></p>
+<p>用例跑挂了，没截图、没录屏、没 Trace，明明三分钟前它就发生在眼前，你却拿不出任何证据。重跑一遍想复现，居然又过了。挂了不知道为什么挂，过了不知道为什么过。写失败分析，一半时间花在翻文件找线索上。</p>
+<p><strong>5、跑哪些用例，全靠手拼命令。</strong></p>
+<p>想只跑登录模块的 P0 冒烟，得先翻文档查 <code class="notranslate">pytest -m</code> 表达式怎么写。标签拼错一个字母，全量几百条用例跑飞，一等等半小时。会写的人觉得没什么，不会写的人每次都要重新查一遍。</p>
+<p><strong>6、并行、跨浏览器、重试，样样自己搭。</strong></p>
+<p>想多浏览器跑一轮兼容矩阵，想并行加速，想偶发失败自动重试，每一样都是一轮配置折腾。搭好了是这个项目的，下个项目再来一遍。</p>
+<p>这几件事有个共同点。它们规则明确、重复劳动、人工极容易遗漏，而这些工作，恰恰是 AI 最擅长接手的那类活。</p>
+<blockquote>
+<p>那能不能让 AI 把「执行调度」这一步彻底接管？</p>
+</blockquote>
+<p>答案是，<strong>可以</strong>。而且经过我的项目实测，效果比预期想象中还要更好。</p>
+<h2>三、ui-test-executor Skill 它是怎么解决的</h2>
+<p><code class="notranslate">ui-test-executor</code> 是一个专门负责测试执行的 Agent Skill。它将已编写好的 <code class="notranslate">Playwright + Pytest</code> UI 测试脚本真正跑起来，形成「标签筛选 → 环境检测 → 执行调度 → artifact 采集 → 报告产出」的完整执行闭环。</p>
+<p><strong>适用场景：</strong></p>
+<ul>
+<li>
+<p>触发执行 UI 测试、按标签/模块/优先级筛选</p>
+</li>
+<li>
+<p>跨浏览器矩阵执行、并行加速、失败重试</p>
+</li>
+<li>
+<p>自动采集失败截图、录屏、Trace、Console 日志、Page Source</p>
+</li>
+<li>
+<p>生成 JUnit XML / HTML / JSON 多格式报告，便于 CI 集成</p>
+</li>
+</ul>
+<p>它的整个设计遵循两条原则。</p>
+<p><strong>只读，不写。</strong>  它只读你的测试目录，只在执行层面做调度，一个字都不改你的测试脚本。脚本该怎么写还是脚本的事，执行归它管。这条边界划清楚，才敢放心把它放进 CI。</p>
+<p><strong>执行前先亮牌，执行后留证据。</strong>  开跑之前，先让你看清楚这次用什么跑、跑哪些；跑完之后，失败用例的现场证据一样不落。中间的过程，尽量不需要人盯。</p>
+<p>落到执行流程上，它固化成一套五步流程。</p>
+<p><strong>标签筛选 → 环境检测 → 执行调度 → 现场采集 → 报告产出</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ca56efdd2af251c60dca8e1ec5218a3ba7a1b43a1c8eb42eca70cdb4d4c0736/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654626962324b57616b63486d3373527163776576673746624a3150554f344763394a4559386d487a776d6755675945774d7452756b533565726962345375746d367865386c4141757161316745453355714c71374576635730436137433476446e64772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/0ca56efdd2af251c60dca8e1ec5218a3ba7a1b43a1c8eb42eca70cdb4d4c0736/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654626962324b57616b63486d3373527163776576673746624a3150554f344763394a4559386d487a776d6755675945774d7452756b533565726962345375746d367865386c4141757161316745453355714c71374576635730436137433476446e64772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvTbib2KWakcHm3sRqcwevg7FbJ1PUO4Gc9JEY8mHzwmgUgYEwMtRukS5erib4Sutm6xe8lAAuqa1gEE3UqLq7EvcW0Ca7C4vDndw/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>对着前面这几个问题，一步一步看它是怎么拆的。</p>
+<h3>1. 环境问题，先检测后执行</h3>
+<p>正式开跑前，它会先打印一份浏览器环境清单。本机装了哪些浏览器（Playwright 内置的加系统装的）、版本号、支不支持无头模式，逐项列出来。没装的也会列出来，后面直接附上安装命令。</p>
+<p>扫一眼这张表，环境有没有坑、该选哪个浏览器，心里基本就有数了。</p>
+<h3>2. 用例选择，说人话就行</h3>
+<p>不需要翻文档拼 <code class="notranslate">pytest -m</code> 表达式，直接说人话。</p>
+<pre class="notranslate"><code class="notranslate">/ui-test-executor 只跑购物车模块的 P0 冒烟用例，Chrome 无头模式
+</code></pre>
+<p>AI 会把这句话翻译成 marker 表达式。</p>
+<p>翻译完还不急着跑。它会先打印一份待执行用例清单，按「文件名、测试类、用例名」逐条列出本次命中的用例，连参数化展开都显示出来。比如同一条搜索用例展开成手机、小米、手表三个参数，一眼能看到。</p>
+<p>配合 <code class="notranslate">--dry-run</code> 参数，只打印构建出的完整 pytest 命令，不实际执行。调度逻辑对不对，一眼可验，「参数拼错全量跑飞」这种事故从根上堵住了。</p>
+<h3>3. 失败现场，六类证据自动采集</h3>
+<p>这是这个 Skill 最值钱的能力。用例一旦失败，现场自动保住。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8d44b79ddecb086938e876b3e834837cb0d5f24458ac31053c9685f6a0b39d40/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e76536e6370776963783364724d4341744d3633745949633432507a574a6962354734646d6536654a4e3266784a5264516a6a526430307869614f3645444d6766663457775877706c745174647141593249546e59696168356a6a7834756a764c6e77624c46492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/8d44b79ddecb086938e876b3e834837cb0d5f24458ac31053c9685f6a0b39d40/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e76536e6370776963783364724d4341744d3633745949633432507a574a6962354734646d6536654a4e3266784a5264516a6a526430307869614f3645444d6766663457775877706c745174647141593249546e59696168356a6a7834756a764c6e77624c46492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvSncpwicx3drMCAtM63tYIc42PzWJib5G4dme6eJN2fxJRdQjjRd00xiaO6EDMgff4WwXwpltQtdqAY2ITnYiah5jjx4ujvLnwbLFI/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>六类证据一次保全，<strong>截图 / 录屏 / Trace / 日志 / 源码 / 网络</strong> 覆盖失败现场全维度，追溯零盲区。</p>
+<ul>
+<li>
+<p><strong>截图。</strong>  视口截图加全页截图，各来一张。</p>
+</li>
+<li>
+<p><strong>录屏。</strong>  失败用例的完整操作视频，从头看到尾。</p>
+</li>
+<li>
+<p><strong>Trace。</strong>  Playwright 运行轨迹，可以逐步回放每一步操作前后的页面状态。</p>
+</li>
+<li>
+<p><strong>控制台日志。</strong>  五段合并，页面错误、Console 报错、警告、网络请求摘要、性能指标，一份文件看全。</p>
+</li>
+<li>
+<p><strong>页面源码。</strong>  失败时刻的完整 HTML 快照。</p>
+</li>
+<li>
+<p><strong>网络请求摘要。</strong>  URL、状态码、资源类型，九成的接口追溯场景够用了。</p>
+</li>
+</ul>
+<p>而且有一条铁律。<strong>只在失败时采集并保留完整执行过程证据链，通过的用例只保留执行结果信息。</strong></p>
+<p>以前是失败了什么都没有，现在是失败了什么都有。写失败分析从翻文件夹拼线索，变成打开一份归档好的证据包。</p>
+<h3>4. 并行、矩阵、重试，说话就行</h3>
+<p>这一块最容易让人想到一堆参数，但在 ui-test-executor 这里，你只需要把要求说出来。</p>
+<pre class="notranslate"><code class="notranslate">「全部用例并行跑，开 4 个进程，越快越好」「登录模块，用 Chrome、Firefox、WebKit 三个浏览器各跑一遍」「有偶发失败的用例，自动重试一次」
+</code></pre>
+<p>三句话，对应执行里的三件事，快、全、稳。</p>
+<p><strong>要快。</strong>  一句「并行跑」，几百条用例从串行一小时压到十几分钟。中午吃饭前说一声，回来报告已经躺好了。进程怎么开、任务怎么分发，AI 在底下自己安排，不用你操心。</p>
+<p><strong>要全。</strong>  一句「三个浏览器各跑一遍」，用例自动展开成矩阵，一条用例乘三个引擎，就是三条执行记录。有些兼容性问题，在 Chromium 上一片祥和，到 Firefox 上原形毕露，不跑一轮根本看不见。</p>
+<p><strong>要稳。</strong>  一句「偶发失败自动重试」，网络抖一下、CI 机器资源挤一下导致的失败，自动再跑，不用人守着重跑。但有一条要说清楚，确定性失败（定位器失效、DOM 结构变了）重试一百次也是挂，重试只兜偶发，不治本。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/67a52f1d1d66f14eded87e94877a2621581d7b64d1f51089aa1f071bb2648a7d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654314130584e6a3646554353636861506f573469634765676743684a497341566863337634374438464471534d434574654c4b375a5a61474639375675674b5269617933724e726c4e4a44373479484b38786476567346375542696352496d37503832632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/67a52f1d1d66f14eded87e94877a2621581d7b64d1f51089aa1f071bb2648a7d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654314130584e6a3646554353636861506f573469634765676743684a497341566863337634374438464471534d434574654c4b375a5a61474639375675674b5269617933724e726c4e4a44373479484b38786476567346375542696352496d37503832632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvT1A0XNj6FUCSchaPoW4icGeggChJIsAVhc3v47D8FDqSMCEteLK7ZZaGF97VugKRiay3rNrlNJD74yHK8xdvVsF7UBicRIm7P82c/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>分发策略这种更深的细节，它也按项目情况自己选。POM 项目默认同一类的用例在同一个进程里跑，避免 fixture 重复初始化和状态污染，顺带压住了前面说的脏数据互相干扰。这些原本要自己踩坑才摸得出来的经验，全部做成了默认行为。</p>
+<p>前面说的偶发失败，这里也接住了。时序抖出来的失败，重试先兜住这一轮，让结果不被偶发因素污染；真要排查，配合 Trace 回放看每一步操作的时间线，到底哪一步等少了，一眼定位。</p>
+<p>至于 CI 环境里不方便对话的场景，它底层封装了完整的执行脚本，直接传参数调用就行，同一套能力的另一个入口。</p>
+<h3>5. 报告五件套，一次跑完全产出</h3>
+<p>|</p>
+<p>产出</p>
+<p>|</p>
+<p>用途</p>
+<p>|<br>
+| --- | --- |<br>
+| <code class="notranslate">report.json</code> |</p>
+<p>结构化数据，CI/CD 和看板直接消费</p>
+<p>|<br>
+| <code class="notranslate">report.html</code> |</p>
+<p>可视化报告，浏览器直接打开</p>
+<p>|<br>
+| <code class="notranslate">report.xml</code> |</p>
+<p>JUnit 标准，Jenkins 和 GitLab CI 原生支持</p>
+<p>|<br>
+| <code class="notranslate">summary.md</code> |</p>
+<p>人读的 Markdown 摘要</p>
+<p>|<br>
+| <code class="notranslate">summary.txt</code> |</p>
+<p>单行摘要，CI 流水线直接抓作 build description</p>
+<p>|</p>
+<p>只要有一条失败，还会自动追加一份 <code class="notranslate">failure_analysis.md</code> 深度分析报告。</p>
+<p>每条失败用例还会展开七个小节，判定规则、断言原文、预期与实际、页面元素校验、失败截图路径、录屏与 Trace 复现命令、其他诊断材料。</p>
+<p>跑完之后再补一句「打开最新失败那条的 Trace」，它自动定位 trace.zip 并启动 Trace Viewer，还支持中文用例名匹配。以前要去目录里一个个翻的事，现在一句话的事。</p>
+<h2>四、Skill 实战演练</h2>
+<p>将技能安装好，在技能列表中选择 <code class="notranslate">ui-test-executor</code>，输入一句指令。</p>
+<pre class="notranslate"><code class="notranslate">跑一下 shop-lab-ui-test 的 P0 冒烟用例。
+</code></pre>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4ff15ca868d2781711906e92d57dcbe4fb53f5b5216b6732e1fc7a5e7a654f0c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654624532617a446a497447696255436279785462796648576353594a4857426963794164454134424f447046337762336c6c514b4367393753696362554e58465a4a4178444f66354e44384e7659737139357154336962754e744635757859366b7272766f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/4ff15ca868d2781711906e92d57dcbe4fb53f5b5216b6732e1fc7a5e7a654f0c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654624532617a446a497447696255436279785462796648576353594a4857426963794164454134424f447046337762336c6c514b4367393753696362554e58465a4a4178444f66354e44384e7659737139357154336962754e744635757859366b7272766f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvTbE2azDjItGibUCbyxTbyfHWcSYJHWBicyAdEA4BODpF3wb3llQKCg97SicbUNXFZJAxDOf5ND8NvYsq95qT3ibuNtF5uxY6krrvo/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>接下来，Skill 自动完成四件事。</p>
+<p><strong>第一，用例清单确认。</strong>  主筛选集命中 8 条用例，逐条列出「文件名、测试类、用例名」，参数化展开也在内。确认无误，开跑。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/688e876c30bc3b2f334e539259b16353b87aa1d0afa74b5fdc6cd9b39c3ea653/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765345683274524632526f3177474c5353787a32463761744253397a31687753334e41734e7568735477696145754331625758666676774f6632795a684968574e664658565965386c31727853785a5957624c464c6b635869626e49446b43394344556b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/688e876c30bc3b2f334e539259b16353b87aa1d0afa74b5fdc6cd9b39c3ea653/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765345683274524632526f3177474c5353787a32463761744253397a31687753334e41734e7568735477696145754331625758666676774f6632795a684968574e664658565965386c31727853785a5957624c464c6b635869626e49446b43394344556b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvSEh2tRF2Ro1wGLSSxz2F7atBS9z1hwS3NAsNuhsTwiaEuC1bWXffvwOf2yZhIhWNfFXVYe8l1rxSxZYWbLFLkcXibnIDkC9CDUk/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p><strong>第二，环境自检。</strong>  打印本机浏览器环境清单，检测到 4 个可用浏览器（Chromium、Chrome、Edge、Safari），附版本号和 Headless 支持情况。没装的 Firefox 后面跟了一条安装命令。本次执行选用 Chromium。</p>
+<p><strong>第三，执行与现场采集。</strong>  实时流式输出执行进度。失败的用例自动完成六类证据采集，全部归档到 <code class="notranslate">test-results/artifacts/</code> 下的标准目录。</p>
+<blockquote>
+<p>技能开发调试期间，通常建议默认采用有头模式打开浏览器，方便观察操作，正式投产或者后续接入CICD时，可再改为无头模式运行。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f1f52065b0e44766646c6621efcbcca871b1b3e63357ba653af5790899b2b500/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7652686777354f7076696141476b696350385a396b42444177706b363967653538756469616963626961616a5450507454774d64786e6b73686e76627a6961466961494a33494a69627733576138385879566251376e4a6845696330546255786565384c64715555474d302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/f1f52065b0e44766646c6621efcbcca871b1b3e63357ba653af5790899b2b500/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7652686777354f7076696141476b696350385a396b42444177706b363967653538756469616963626961616a5450507454774d64786e6b73686e76627a6961466961494a33494a69627733576138385879566251376e4a6845696330546255786565384c64715555474d302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvRhgw5OpviaAGkicP8Z9kBDAwpk69ge58udiaicbiaajTPPtTwMdxnkshnvbziaFiaIJ3IJibw3Wa88XyVbQ7nJhEic0TbUxee8LdqUUGM0/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>等待所有P0冒烟用例执行完成。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f52241fd7645ee8bac224435ec04cff1fc3ad3f89a60d60e56a150be0701b2ee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765435465169636d76667a446f7a5a536963434730304548356847386a6732756a7063617462706c5946334e586236463462467a53506b517856394441764169636f7376594b61394a56387a53665a446f59336870574c485a333034426961786d35444573552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/f52241fd7645ee8bac224435ec04cff1fc3ad3f89a60d60e56a150be0701b2ee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765435465169636d76667a446f7a5a536963434730304548356847386a6732756a7063617462706c5946334e586236463462467a53506b517856394441764169636f7376594b61394a56387a53665a446f59336870574c485a333034426961786d35444573552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvT5FQicmvfzDozZSicCG00EH5hG8jg2ujpcatbplYF3NXb6F4bFzSPkQxV9DAvAicosvYKa9JV8zSfZDoY3hpWLHZ304Biaxm5DEsU/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p><strong>第四，报告产出。</strong>  执行结束，报告五件套加失败深度分析一次性生成，并给出下一步建议；有失败则直接给出 Trace 复现命令。</p>
+<p>最终拿到的产出长这样。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d2bdaad9a49bca817c8df6391f37270fe28028dc29fa244d0efc7214581eb35f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e76526b6b73784e744f4f78436a5642386b69626a434b457a3247586c4c366761506962516b393748724a64684346504a6b6638574157685462674d644c646c717a43754b777a6830716157354f544977494f4d454a7233767861475935316b39783863492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/d2bdaad9a49bca817c8df6391f37270fe28028dc29fa244d0efc7214581eb35f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e76526b6b73784e744f4f78436a5642386b69626a434b457a3247586c4c366761506962516b393748724a64684346504a6b6638574157685462674d644c646c717a43754b777a6830716157354f544977494f4d454a7233767861475935316b39783863492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvRkksxNtOOxCjVB8kibjCKEz2GXlL6gaPibQk97HrJdhCFPJkf8WAWhTbgMdLdlqzCuKwzh0qaW5OTIwIOMEJr3vxaGY51k9x8cI/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<pre class="notranslate"><code class="notranslate">test-results/├── report.json               # 结构化报告├── report.html               # 可视化报告├── report.xml                # JUnit XML（CI 标准）├── summary.md                # Markdown 摘要├── summary.txt               # 单行 CI 摘要├── failure_analysis.md       # 失败深度分析（全过则不生成）└── artifacts/    ├── screenshots/          # 失败截图（视口 + 全页）    ├── page-source/          # 失败时 HTML 快照    ├── console-logs/         # 失败时五段合并日志    └── pytest-raw/           # 录屏 video.webm + trace.zip
+</code></pre>
+<p>当用例执行出现失败时，会在<code class="notranslate">test-results</code>目录下，自动生成一份failure_analysis.md （失败用例故障分析报告）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26732b71611f7a6edd1a53493c5b624511f8bd68cff6dc92c03e2abfff37e386/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7651777333516d747068504f5844596e4c6963467575696155536d4166494945596846396b4f6d4d327559377a51747048726871433662453268784a6e585176713766316339624c306753744d366e576868585551596673386a36794264655a504f33672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38"><img src="https://camo.githubusercontent.com/26732b71611f7a6edd1a53493c5b624511f8bd68cff6dc92c03e2abfff37e386/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7651777333516d747068504f5844596e4c6963467575696155536d4166494945596846396b4f6d4d327559377a51747048726871433662453268784a6e585176713766316339624c306753744d366e576868585551596673386a36794264655a504f33672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvQws3QmtphPOXDYnLicFuuiaUSmAfIIEYhF9kOmM2uY7zQtpHrhqC6bE2hxJnXQvq7f1c9bL0gStM6nWhhXUQYfs8j6yBdeZPO3g/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>在失败用例故障分析报告中，会以失败用例为单位，详细列出失败的判定规则、失败截图、失败录屏与Trace等信息。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/04dbae17473568ed3df6b46266eaea6749ba3337cdf64277986b662166123d3e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e76524341466962616241335053473763436f564336666236706f527361686554324e4f7639646961696269613732613363584e4462797939496241546257584c714b496a31586b6e686d477a78644d4c72615975374336533974477358764c4e7a52545731512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39"><img src="https://camo.githubusercontent.com/04dbae17473568ed3df6b46266eaea6749ba3337cdf64277986b662166123d3e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e76524341466962616241335053473763436f564336666236706f527361686554324e4f7639646961696269613732613363584e4462797939496241546257584c714b496a31586b6e686d477a78644d4c72615975374336533974477358764c4e7a52545731512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvRCAFibabA3PSG7cCoVC6fb6poRsaheT2NOv9diaibia72a3cXNDbyy9IbATbWXLqKIj1XknhmGzxdMLraYu7C6S9tGsXvLNzRTW1Q/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>进入到<code class="notranslate">test-results</code>-&gt; <code class="notranslate">pytest-raw</code>目录，查看是否有生成失败截图（png格式）、录屏（webm格式）、trace.zip等文件。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fd48c44a251feda1202f2978c7295f6eaeee6b0df9f2a0d7b2eeb97bc6780c7a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e76546157443477797243545a43716642575a596b656e314342727859696366597974496364456d6961397035775435794b70386a3575316d33796d5178636c544e5861687061756b56696333797278486a746d6962384876464a6c6d545a6f794f31495944632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/fd48c44a251feda1202f2978c7295f6eaeee6b0df9f2a0d7b2eeb97bc6780c7a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e76546157443477797243545a43716642575a596b656e314342727859696366597974496364456d6961397035775435794b70386a3575316d33796d5178636c544e5861687061756b56696333797278486a746d6962384876464a6c6d545a6f794f31495944632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvTaWD4wyrCTZCqfBWZYken1CBrxYicfYytIcdEmia9p5wT5yKp8j5u1m3ymQxclTNXahpaukVic3yrxHjtmib8HvFJlmTZoyO1IYDc/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>查看失败录屏文件：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b7288cdac80c04d1b332702b595ba0da7cd52fcc0e20dec4e769a167c80d572b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7652374659794e6e4e72336e596256477761744e303846316962476b5743555048323966347a5a394563566c7566304b72514e596b3450494d4b564d396478696250397531506a6452584b4d466962376e637767664c646a684c614452366c433938696168732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/b7288cdac80c04d1b332702b595ba0da7cd52fcc0e20dec4e769a167c80d572b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7652374659794e6e4e72336e596256477761744e303846316962476b5743555048323966347a5a394563566c7566304b72514e596b3450494d4b564d396478696250397531506a6452584b4d466962376e637767664c646a684c614452366c433938696168732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvR7FYyNnNr3nYbVGwatN08F1ibGkWCUPH29f4zZ9EcVluf0KrQNYk4PIMKVM9dxibP9u1PjdRXKMFib7ncwgfLdjhLaDR6lC98iahs/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=11" style="max-width: 100%;"></a></p>
+<p>如果你想查看<code class="notranslate">trace.zip</code>文件详细内容，可以直接问AI:  <code class="notranslate">查看失败用例的trace</code></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/29ca2ef57cb9700174ef2fb0450f79bb2983f649dd432bc9e53c869ee5f55beb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7651333047357463774b4939464f4f416962366e45754441715a754f4131644d5133696348477a7579374f464b7571347259346574787254494b776a447a6555516d594645496843644a564d425159465267447a7064484f39456a426475473674696279672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/29ca2ef57cb9700174ef2fb0450f79bb2983f649dd432bc9e53c869ee5f55beb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7651333047357463774b4939464f4f416962366e45754441715a754f4131644d5133696348477a7579374f464b7571347259346574787254494b776a447a6555516d594645496843644a564d425159465267447a7064484f39456a426475473674696279672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvQ30G5tcwKI9FOOAib6nEuDAqZuOA1dMQ3icHGzuy7OFKuq4rY4etxrTIKwjDzeUQmYFEIhCdJVMBQYFRgDzpdHO9EjBduG6tibyg/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>整个过程人只需要像日常对话一样自然语言、口语化沟通即可。</p>
+<h2>五、最后再补充说两点</h2>
+<p>有一个问题需要说清楚。AI 把测试跑完，测试工作没有结束。</p>
+<p><code class="notranslate">ui-test-executor</code> 接管的是「执行加采集」这些规则明确的活，把环境检测、命令拼装、证据归档从几小时压缩到几分钟。但下面这些事，仍然需要人来把关。</p>
+<p>|</p>
+<p>AI 负责的事</p>
+<p>|</p>
+<p>人负责的事</p>
+<p>|<br>
+| --- | --- |<br>
+|</p>
+<p>浏览器环境检测与选择</p>
+<p>|</p>
+<p>确认浏览器范围是否符合测试策略</p>
+<p>|<br>
+|</p>
+<p>自然语言翻译成用例筛选</p>
+<p>|</p>
+<p>确认筛选范围覆盖本次迭代的风险点</p>
+<p>|<br>
+|</p>
+<p>并行调度与失败重试</p>
+<p>|</p>
+<p>判断失败是环境抖动还是真实缺陷</p>
+<p>|<br>
+|</p>
+<p>六类失败证据自动采集</p>
+<p>|</p>
+<p>看截图、看 Trace，判定缺陷归属</p>
+<p>|<br>
+|</p>
+<p>报告五件套自动产出</p>
+<p>|</p>
+<p>基于报告做出发布决策</p>
+<p>|</p>
+<p><strong>特别提醒一句</strong>。重试通过不代表没问题。偶发失败的用例，往往藏着时序问题或资源竞争，值得单独拎出来排查。看到「重试后全绿」就放心发布，这个懒偷不得。</p>
+<p>回顾一下整个过程。</p>
+<p><strong>痛点。</strong>  环境翻车靠玄学，等待时序靠缘分，脏数据靠人肉排查，失败现场一次性，用例筛选靠翻文档，并行重试自己搭。</p>
+<p><strong>方案。</strong>  ui-test-executor 把执行固化成「标签筛选、环境检测、执行调度、现场采集、报告产出」的五步流程。执行前先亮牌，两份清单让你看清跑什么、用什么跑；执行后留证据，六类现场材料自动归档，报告五件套一次产出。</p>
+<p><strong>效果。</strong>  以前跑一轮测试要人盯着，失败了满世界找现场，写报告靠翻文件夹。现在一句自然语言指令启动，环境、范围、证据、报告全部自动到位，直接可以对接 CI/CD。</p>
+<p><strong>边界。</strong>  AI 负责调度和采集，人负责决策和复盘。</p>
+<p>大家可以自己根据本文提供的思路开发 skill，如果需要现成的教程和 skill，也可以加入「<strong><a href="https://mp.weixin.qq.com/s?__biz=MzA4NDUyNzA0Ng==&amp;mid=2247509152&amp;idx=1&amp;sn=c4dd7c8cb5832998405d02b2c6979419&amp;scene=21#wechat_redirect" rel="nofollow">狂师 . AI 进化社</a></strong>」获取，里面有各类 AI 技术落地保姆级图文教程、视频教程，包括 AI 测试全流程的实战教程保姆级手把手喂饭教程，跟着步骤操作，零基础也能快速上手。</p>
+<blockquote>
+<p>温馨提醒，「AI 测试」只是 AI 进化社八大技能版块之一。</p>
+</blockquote>
+<p>执行这个环节理顺之后，手里握着的就不再是一堆跑挂了的用例，而是一份证据齐全的失败档案。怎么让 AI 顺着这些证据自动分析失败原因、定位根因、给出修复建议，我们后面的文章接着聊。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
