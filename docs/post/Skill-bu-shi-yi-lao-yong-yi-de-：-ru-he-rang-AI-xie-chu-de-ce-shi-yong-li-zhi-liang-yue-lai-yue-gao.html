@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="后台收到一条留言：'我按你说的写了Skill，AI生成了52条用例，看着挺像那么回事。">
+<meta property="og:title" content="Skill不是一劳永逸的：如何让AI写出的测试用例质量越来越高">
+<meta property="og:description" content="后台收到一条留言：'我按你说的写了Skill，AI生成了52条用例，看着挺像那么回事。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Skill-bu-shi-yi-lao-yong-yi-de-%EF%BC%9A-ru-he-rang-AI-xie-chu-de-ce-shi-yong-li-zhi-liang-yue-lai-yue-gao.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Skill不是一劳永逸的：如何让AI写出的测试用例质量越来越高</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Skill不是一劳永逸的：如何让AI写出的测试用例质量越来越高</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/744" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>后台收到一条留言："我按你说的写了Skill，AI生成了52条用例，看着挺像那么回事。结果一执行，一半跑不通。"</p>
+<p>答案是：<strong>Skill是起点，不是终点。</strong></p>
+<p>没有经过迭代优化的Skill，生成的用例"看起来对但执行不了"——结构完整、字段齐全、数量到位，但仔细一看，步骤是PRD原文复述、前置条件缺上游链路、用例放错了模块。</p>
+<p>这不是AI"不行"，是Skill的约束还不够。</p>
+<p>今天这篇文章，不讲怎么写Skill（之前写过），讲的是<strong>怎么让Skill越来越好</strong>。</p>
+<hr>
+<h2>一个真实的迭代案例</h2>
+<p>先说场景。</p>
+<p>一次中等复杂度的迭代：6个前端页面 + 5个后端模块 + 消息通知卡片交互 + 多步骤业务流程（异常检测→消息推送→数据修改→操作回退→状态刷新）。AI一次性生成了52条用例。</p>
+<p>看结构：有功能模块、有子模块、有步骤、有预期结果、有前置条件。数量合理，覆盖面看着也够。</p>
+<p>看起来很成功。</p>
+<p>然后我开始逐条审核。</p>
+<p>第3条就发现问题了——步骤写的是"检查配置方案选取"，预期写的是"优先取在线状态的配置作为比对基准"。</p>
+<p>这是PRD原文，不是测试步骤。</p>
+<p>继续往下审，问题一个接一个冒出来。最终52条用例里，发现了6类质量问题。</p>
+<p>每发现一个问题，我的处理流程是：</p>
+<p><strong>发现 → 修复当前用例 → 分析根因 → 写入Skill规则 → 验证下一轮不再犯</strong></p>
+<p>这个循环，就是Skill迭代的核心。</p>
+<hr>
+<h2>优化循环：五步法</h2>
+<p>很多人以为Skill写完就完事了。实际上，Skill的质量是"喂"出来的——你喂给它多少真实问题，它就长出多少防御能力。</p>
+<p>具体怎么做？五步：</p>
+<p><strong>第一步：人工审核</strong></p>
+<p>AI生成 ≠ 可用。这一步不能跳过。</p>
+<p>审核的视角不是"结构对不对"，而是"能不能执行"。步骤写了"检查XX"——具体怎么检查？在哪个页面？点哪个按钮？预期结果写了"正常显示"——正常是什么样？有哪些字段？</p>
+<p><strong>第二步：定位问题</strong></p>
+<p>不是笼统说"质量不好"，要精确到：哪条用例、哪个字段、具体什么问题。</p>
+<p>"TC-015的步骤[1]只写了'检查XX'，没有具体操作"——这才是可定位的问题。后面实战部分会详细展开。</p>
+<p><strong>第三步：分析根因</strong></p>
+<p>偶尔犯一次是粗心，同一类问题反复出现，说明是Skill缺少约束。</p>
+<p>比如发现3条用例的步骤都是"检查XX"，根因就不是"AI偶尔偷懒"，而是Skill没有明确要求步骤必须包含具体操作。</p>
+<p><strong>第四步：写入规则</strong></p>
+<p>规则要具体到可执行。</p>
+<p>❌ "注意用例质量"——废话，AI不知道什么叫质量。 ✅ "每条步骤必须包含具体操作+具体验证点，禁止以'检查/验证/确认'作为步骤全部内容"——AI拿到这条规则，能直接判断自己的输出合不合格。</p>
+<p><strong>第五步：验证效果</strong></p>
+<p>下一轮生成时，看同类问题是否消失。如果还在，说明规则不够严，或者根因分析偏了，回到第三步。连续两轮未出现同类问题，才算验证通过。</p>
+<p><strong>这个循环不是跑一次就结束，是每轮迭代都在跑。</strong>  每发现一类问题，就在质量自检清单里加一条。后面会看到，清单从最初的16条扩展到了26条，每一条都是这个循环跑出来的。</p>
+<hr>
+<h2>实战：三个典型陷阱的完整闭环</h2>
+<p>光讲方法论太抽象。下面用三个真实案例，展示"发现问题→分析根因→写入规则→验证效果"的完整过程。</p>
+<h3>陷阱一：步骤复述PRD</h3>
+<p><strong>发现问题：</strong></p>
+<p>审核到TC-015，步骤写的是：</p>
+<p><code class="notranslate">步骤：[1]检查配置方案选取   预期：[1]优先取在线状态的配置作为比对基准   </code></p>
+<p>这就是把PRD需求复述了一遍，不是可执行的测试步骤。测试人员拿到这条用例，不知道该在哪里看、怎么操作、验证什么。</p>
+<p>继续审，发现同类问题还有好几条——"检查告警推送"、"确认变更记录"、"验证复原逻辑"，全是这种"检查XX"的写法。</p>
+<p><strong>分析根因：</strong></p>
+<p>AI倾向于"翻译"PRD文字，而不是站在测试执行角度思考。PRD写"优先取在线状态的配置"，AI就直接把这句话搬过来当预期结果。它不理解"测试步骤"和"需求描述"的区别。</p>
+<p><strong>写入规则：</strong></p>
+<blockquote>
+<p>每条步骤必须包含「具体操作」+「具体验证点」。 禁止以"检查/验证/确认"作为步骤的全部内容。 自检：如果你把这条步骤交给一个不熟悉需求的测试人员，他能直接执行吗？</p>
+</blockquote>
+<p><strong>修复后的用例：</strong></p>
+<p>`TC-015 在线配置优先作为比对基准</p>
+<p>前置条件：</p>
+<ol>
+<li>设备A存在"在线"状态的配置V2.1</li>
+<li>同时存在"待生效"状态的配置V2.0</li>
+<li>设备A处于运行状态</li>
+</ol>
+<p>步骤：<br>
+[1]打开系统监控后台日志，筛选设备A<br>
+[2]等待下一个任务完成触发比对<br>
+[3]在日志中搜索"基准配置"关键词<br>
+[4]确认日志中记录的基准配置版本号</p>
+<p>预期：<br>
+[1]日志可查看，筛选结果正确<br>
+[2]比对逻辑触发<br>
+[3]日志记录基准配置为V2.1（在线状态）<br>
+[4]未降级到V2.0（待生效状态）</p>
+<p>`</p>
+<p><strong>验证效果：</strong>  下一轮生成，同类问题从11条降到0条。</p>
+<hr>
+<h3>陷阱二：前置条件缺少上游链路</h3>
+<p><strong>发现问题：</strong></p>
+<p>TC-023，验证"回退确认页展示"功能：</p>
+<p><code class="notranslate">前置条件：1. 回退确认页已展示   </code></p>
+<p>这条用例验证的是回退确认页的展示逻辑，但前置条件只写了"回退确认页已展示"——回退确认页是怎么来的？要先有异常检测→消息推送→用户提交修改→用户点击回退，才能看到回退确认页。</p>
+<p>如果测试人员拿到这条用例，第一步就要问：回退确认页在哪？怎么触发？</p>
+<p><strong>分析根因：</strong></p>
+<p>AI写前置条件时只写了"直接前置"（回退确认页已展示），没有追溯"间接前置"（上游步骤的完成状态）。它不理解业务是有链路的，每一步都依赖前面的步骤。</p>
+<p><strong>写入规则：</strong></p>
+<blockquote>
+<p>每条用例的前置条件必须包含业务链路中上游步骤的完成状态。 自检：这个前置条件描述的状态，是怎么来的？如果回答不了，就缺上游。</p>
+</blockquote>
+<p><strong>修复后的用例：</strong></p>
+<p>`TC-023 回退页面原始值由系统预填</p>
+<p>前置条件：</p>
+<ol>
+<li>用户已通过消息通知端提交临时修改（Step 02完成）</li>
+<li>用户点击回退按钮，回退确认页已展示（Step 03触发）</li>
+</ol>
+<p>`</p>
+<p><strong>验证效果：</strong>  同类问题从9条降到0条。</p>
+<hr>
+<h3>陷阱三：脑补PRD未涉及的功能</h3>
+<p><strong>发现问题：</strong></p>
+<p>TC-031，验证折线图功能：</p>
+<p><code class="notranslate">TC-031 折线图支持导出功能   步骤：[1]查找导出按钮 → [2]点击导出   </code></p>
+<p>我翻遍了PRD，图表交互列表里没有"导出"这个功能。问AI为什么写了这条用例，它的理由是"折线图一般都有导出功能"。</p>
+<p><strong>分析根因：</strong></p>
+<p>AI会根据"常见功能"假设系统有某些能力。它见过太多带导出功能的折线图，就默认你的也有。这不是推理，是脑补。</p>
+<p><strong>写入规则：</strong></p>
+<blockquote>
+<p>每个功能点必须有PRD/画板/评审会议的明确依据。 禁止基于"常见功能"、"一般都有"、"通常会支持"等假设补充用例。 无依据的功能点，标记为"待确认"，而不是默认包含。 自检：这条用例的功能点，在PRD/画板/评审纪要的哪一页？</p>
+</blockquote>
+<p><strong>验证效果：</strong>  同类问题从1条降到0条。</p>
+<hr>
+<p>除了上面三个，这次迭代还发现了另外三类问题，这里列一下，不展开：</p>
+<ul>
+<li>
+<p><strong>术语与PRD文字不一致：</strong></p>
+<p> UI稿写的"在线修改"，PRD写的"临时修改"，AI直接用了PRD的。规则：UI稿 &gt; 画板 &gt; PRD文字，PRD可能是早期草稿。</p>
+</li>
+<li>
+<p><strong>用例放错了模块/功能模块：</strong></p>
+<p> "回退确认页展示"的用例被放在了"异常通知"模块下，但实际属于"页面状态刷新"。规则：用例归属取决于PRD流程步骤，不取决于"看起来相关"。</p>
+</li>
+<li>
+<p><strong>缺少回归用例：</strong></p>
+<p> 新增"在线修改"功能时，没有验证原有"正式修改"功能是否正常的用例。规则：每次新增功能，至少1条回归用例验证旧功能不受影响。</p>
+</li>
+</ul>
+<hr>
+<h2>什么时候改规则，什么时候改结构</h2>
+<p>上面三个例子，都是"加一条规则"就解决了。但我踩过的坑告诉我，有些问题加规则不管用——得改Skill的结构。</p>
+<p>怎么判断？</p>
+<p><strong>改规则（大多数情况）：</strong></p>
+<p>问题出在某类用例的写法上。比如步骤复述PRD、前置条件缺上游——这是AI"偷懒"，加条规则约束它就行。</p>
+<p><strong>改Skill结构（少数情况）：</strong></p>
+<p>问题出在AI的信息获取方式上。规则再严，AI没拿到正确信息，也写不出正确用例。</p>
+<p>举个真实例子：AI给配置详情页写了"修改人"字段，但页面探查知识库（我维护的一个记录页面实际元素结构的知识库）里实际没有这个字段——AI凭PRD文字脑补了页面元素。加一条"禁止脑补"规则有用吗？没用，因为AI根本没读知识库。</p>
+<p>真正要改的是Skill的执行流程：在生成用例之前，强制加入"读取页面探查知识库"这一步。让AI先看实际页面结构，再写用例。</p>
+<p>类似的情况还有：AI不读画板/原型图。PRD里有7个画板，AI只记录了标题，没读内容，导致用例缺少具体的UI元素和交互流程。解决方案不是加规则说"要读画板"，而是在Skill的分析阶段强制加入画板读取步骤。</p>
+<p><strong>判断标准：</strong>  如果同一个根因反复出现，不是规则不够严，是Skill的执行流程有漏洞。</p>
+<hr>
+<h2>效果数据</h2>
+<p>经过6轮迭代优化后的数据：</p>
+<p>|</p>
+<p>指标</p>
+<p>|</p>
+<p>优化前</p>
+<p>|</p>
+<p>优化后</p>
+<p>|<br>
+| --- | --- | --- |<br>
+|</p>
+<p>步骤模糊用例</p>
+<p>|</p>
+<p>11条</p>
+<p>|</p>
+<p>0条</p>
+<p>|<br>
+|</p>
+<p>脑补用例</p>
+<p>|</p>
+<p>1条</p>
+<p>|</p>
+<p>0条</p>
+<p>|<br>
+|</p>
+<p>放错位置用例</p>
+<p>|</p>
+<p>3条</p>
+<p>|</p>
+<p>0条</p>
+<p>|<br>
+|</p>
+<p>前置条件缺上游</p>
+<p>|</p>
+<p>9条</p>
+<p>|</p>
+<p>0条</p>
+<p>|<br>
+|</p>
+<p>质量自检条目</p>
+<p>|</p>
+<p>16条</p>
+<p>|</p>
+<p>26条</p>
+<p>|<br>
+|</p>
+<p>总用例</p>
+<p>|</p>
+<p>52条</p>
+<p>|</p>
+<p>52条（质量提升，数量不变）</p>
+<p>|</p>
+<p>注意最后一行：<strong>用例数量没变，变的是质量。</strong>  这就是Skill迭代的价值——不是让AI生成更多用例，而是让生成的每条用例都能直接执行。</p>
+<p>10条新增规则主要来自4类高频问题（步骤复述PRD、前置条件缺上游、放错位置、脑补功能），其中"步骤复述PRD"和"前置条件缺上游"贡献了最多规则增量，因为这两类问题出现频率最高，且根因需要多条规则从不同角度约束。</p>
+<hr>
+<h2>AI写用例的质量上限，取决于Skill的约束下限</h2>
+<p>没有规则约束的AI，会走捷径：复述PRD、脑补功能、跳过画板、忽略上游链路。它不是故意偷懒，是没有人告诉它"这样不行"。</p>
+<p>每发现一个问题，就加一条规则，让AI下次不再犯。</p>
+<p><strong>Skill不是写完就能用的工具，是一个需要持续喂养、持续进化的系统。</strong>  你喂给它多少真实问题，它就长出多少防御能力。</p>
+<p>所以回到开头的问题：有了Skill，AI写的用例质量还是不行？</p>
+<p>不是Skill不行，是你还没把它喂够。</p>
+<p>下次生成完用例，别急着用。先审一轮，把问题记下来，写进规则，再生成一轮。三轮之后，你会发现Skill的防御能力越来越细密——那些规则都是你一条条加的，但合在一起产生了你当初没预料到的整体效果。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
