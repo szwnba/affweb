@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="用 AI 越多，和 Markdown 打交道的次数也越多。">
+<meta property="og:title" content="AI 时代 Markdown 又火了，7 款 GitHub 高赞开源编辑器。">
+<meta property="og:description" content="用 AI 越多，和 Markdown 打交道的次数也越多。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/AI%20-shi-dai-%20Markdown%20-you-huo-le-%EF%BC%8C7%20-kuan-%20GitHub%20-gao-zan-kai-yuan-bian-ji-qi-%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>AI 时代 Markdown 又火了，7 款 GitHub 高赞开源编辑器。</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">AI 时代 Markdown 又火了，7 款 GitHub 高赞开源编辑器。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/748" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>用 AI 越多，和 Markdown 打交道的次数也越多。</p>
+<p>很多 Agent 也会通过 AGENTS.md、CLAUDE.md 这类文件读取项目规则。</p>
+<p>原因很实际。 Markdown 是纯文本，体积小，方便搜索和版本管理。人能读懂，AI 也容易解析。</p>
+<p>内容可以继续渲染成网页、PDF、公众号文章和 PPT，相对比较灵活。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e085a9c2901c9b5329d3745b9fae69fcc9cb0ea8cd5fd35b2bb594782ae037d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d64454355334869626733574c33576f4834513045716a4f4672686d50613354433364755565464c36753650615368466c50717138497a776b4c543358356f6f3252747233423159394b6d5574457964494a4547544c727149633531674a48676b3774633144492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/6e085a9c2901c9b5329d3745b9fae69fcc9cb0ea8cd5fd35b2bb594782ae037d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d64454355334869626733574c33576f4834513045716a4f4672686d50613354433364755565464c36753650615368466c50717138497a776b4c543358356f6f3252747233423159394b6d5574457964494a4547544c727149633531674a48676b3774633144492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/M2ibDBMdECU3Hibg3WL3WoH4Q0EqjOFrhmPa3TC3duUeFL6u6PaShFlPqq8IzwkLT3X5oo2Rtr3B1Y9KmUtEydIJEGTLrqIc51gJHgk7tc1DI/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>之前 Markdown 更像程序员和极客的小众工具。</p>
+<p>进入 AI 时代，它正在成为人和 AI 交换长内容时最顺手的格式之一。</p>
+<p>下面是 7 个 GitHub 开源的 Markdown 编辑器。</p>
+<p>感兴趣的可以去试试，哪个最顺手。</p>
+<p>**01</p>
+<p><strong>ColaMD：专门为 Agent 准备的 Markdown 编辑器</strong>**</p>
+<p>关注逛逛的，估计都习惯让 Claude Code、Codex 帮写文档了吧。</p>
+<p>但是用起来会有一个小麻烦。</p>
+<p>Agent 改文件，你在编辑器里看效果。文件一更新，又得重新加载一下子。</p>
+<p>人和 AI 同时围着一篇文档工作时，这种来回切换很影响节奏。</p>
+<p>ColaMD 会实时监听已经打开的 .md 文件。AI Agent 在外部完成修改后，内容会同步出现在编辑器里。</p>
+<p>标题栏还有一个状态提示点，用来显示 Agent 正在写入或已经结束。</p>
+<p>它本身采用所见即所得的编辑方式，不需要长期盯着左右分栏。</p>
+<p>需要检查原始 Markdown 时，也能切换到源码模式。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f7aad43306f2aba9a631cb37996d327fe0e19f7e5c1b856cc6a21557e7ae4f1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d6445435532344469626e454a4b386a47623436796b6f37696156665777764a7530503136667142463548437965433170767165726c6c453031527148726a7948416f794a73724c5846725831545a577a6962716365734f3832766f6469634769616f35786c614b626e342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/1f7aad43306f2aba9a631cb37996d327fe0e19f7e5c1b856cc6a21557e7ae4f1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d6445435532344469626e454a4b386a47623436796b6f37696156665777764a7530503136667142463548437965433170767165726c6c453031527148726a7948416f794a73724c5846725831545a577a6962716365734f3832766f6469634769616f35786c614b626e342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/M2ibDBMdECU24DibnEJK8jGb46yko7iaVfWwvJu0P16fqBF5HCyeC1pvqerllE01RqHrjyHAoyJsrLXFrX1TZWzibqcesO82vodicGiao5xlaKbn4/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c434db375c6dfacf74e138f4f2d9e442d53e9f603ebf472e1d8858acfd0f5a6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d6445435530696371625375746f51656d4e45487073376157516e6d6d4f733632497750754549703348354e4371774b485863577451655a4e33577a69616f687a626851567464503747476f6f5443316258707041444d62696242575737544546614b666a647548302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/4c434db375c6dfacf74e138f4f2d9e442d53e9f603ebf472e1d8858acfd0f5a6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d6445435530696371625375746f51656d4e45487073376157516e6d6d4f733632497750754549703348354e4371774b485863577451655a4e33577a69616f687a626851567464503747476f6f5443316258707041444d62696242575737544546614b666a647548302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/M2ibDBMdECU0icqbSutoQemNEHps7aWQnmmOs62IwPuEIp3H5NCqwKHXcWtQeZN3WziaohzbhQVtdP7GGooTC1bXppADMbibBWW7TEFaKfjduH0/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a><br>
+文件面板会读取当前文件夹及其子目录，Agent 新建或删除文件后，列表会跟着刷新。</p>
+<p>ColaMD 还支持任务列表、LaTeX、搜索、自定义 CSS 主题、PDF 和 HTML 导出。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d17b64d75bd0a7bd46ee5a8bfdb3896d9e6955bf652c23ff4d67158ac57009c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d6445435532506e6768756730374761486c696348745a4a69617a7641494d5864744c784e686f717035374c35314e69624f4850484e6b596d70466854786769614b4659696144446c354d765355513163736e4841354d6746687a6963616e6346786961307869633966733467512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/d17b64d75bd0a7bd46ee5a8bfdb3896d9e6955bf652c23ff4d67158ac57009c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d6445435532506e6768756730374761486c696348745a4a69617a7641494d5864744c784e686f717035374c35314e69624f4850484e6b596d70466854786769614b4659696144446c354d765355513163736e4841354d6746687a6963616e6346786961307869633966733467512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/M2ibDBMdECU2Pnghug07GaHlicHtZJiazvAIMXdtLxNhoqp57L51NibOHPHNkYmpFhTxgiaKFYiaDDl5MvSUQ1csnHA5MgFhzicancFxia0xic9fs4gQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>写完之后可以复制为富文本，粘贴到微信或邮件里继续排版。</p>
+<p>目前提供 macOS、Windows 和 Linux 版本。</p>
+<p>它没有内置 AI，也不做云同步和插件系统，主要任务就是把人和 Agent 共用的 Markdown 文件显示好、编辑好。</p>
+<p>如果你的文档已经有一半交给 AI 来写，ColaMD 很值得体验。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5ac8618067c5bedcfc989a8d54e37bf237eec8ba9a507552126d8ed5a8019643/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d6445435533494a3056415954577457727673686962396e746d38777349716158626373674c464241756a78577038346b6d55656f486a3631547132696372617676666f77394832374543783247363272654b47776e5478334c6270466d734a3051716963463672672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/5ac8618067c5bedcfc989a8d54e37bf237eec8ba9a507552126d8ed5a8019643/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d6445435533494a3056415954577457727673686962396e746d38777349716158626373674c464241756a78577038346b6d55656f486a3631547132696372617676666f77394832374543783247363272654b47776e5478334c6270466d734a3051716963463672672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/M2ibDBMdECU3IJ0VAYTWtWrvshib9ntm8wsIqaXbcsgLFBAujxWp84kmUeoHj61Tq2icravvfow9H27ECx2G62reKGwnTx3LbpFmsJ0QqicF6rg/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<div class="highlight highlight-source-js"><pre class="notranslate">开源地址：https:<span class="pl-kos"></span></pre></div>
+<p>**02</p>
+<p><strong>接近 Typora 体验的免费开源选择</strong>**</p>
+<p>很多人第一次喜欢上 Markdown，是因为所见即所得编辑器消除了源码和预览之间的割裂感。</p>
+<p>输入 ##，当前行会变成标题。</p>
+<p>插入图片、公式和表格时，页面会马上呈现排版效果。你仍然在写 Markdown，手感却更接近普通文档软件。</p>
+<p>MarkText 就是类似的体验，已经在 GitHub 上拿到 5.9 万多个 Star。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a621fc97863065e866e5ee44aaf606288d92e389b8a202eda54a7df273f8c081/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d64454355304b566f514b6e4b677962354e4b7462636b756c774d6d7a6e4f76634664666353586c44625052455a344f3330707242666e454d6c755866746833654a584962666e624b39724a686d776d594b69633777445676526963684169633335766a386c6a4e492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/a621fc97863065e866e5ee44aaf606288d92e389b8a202eda54a7df273f8c081/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d64454355304b566f514b6e4b677962354e4b7462636b756c774d6d7a6e4f76634664666353586c44625052455a344f3330707242666e454d6c755866746833654a584962666e624b39724a686d776d594b69633777445676526963684169633335766a386c6a4e492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/M2ibDBMdECU0KVoQKnKgyb5NKtbckulwMmznOvcFdfcSXlDbPREZ4O30prBfnEMluXfth3eJXIbfnbK9rJhmwmYKic7wDVvRichAic35vj8ljNI/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>它的界面干净，支持 CommonMark、GitHub Flavored Markdown，以及部分 Pandoc Markdown。</p>
+<p>数学公式用 KaTeX 渲染，Front Matter、Emoji、代码块和剪贴板粘贴图片也都照顾到了。</p>
+<p>写作时可以切换源码模式、打字机模式和专注模式。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5a1f20eed161deb6c405e3f916b7c755a8c9055f7df5dfff9880b24ba32a01c2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d644543553065516d4d65564f3648786c3344503245326963696139597670667171376d78587a516c72766963576e4c6f764430696349727757524b75656e6963486a6666576f497a7734436961654b786d7578667a655833625a58713059753357365234535357506962774d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/5a1f20eed161deb6c405e3f916b7c755a8c9055f7df5dfff9880b24ba32a01c2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d644543553065516d4d65564f3648786c3344503245326963696139597670667171376d78587a516c72766963576e4c6f764430696349727757524b75656e6963486a6666576f497a7734436961654b786d7578667a655833625a58713059753357365234535357506962774d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/M2ibDBMdECU0eQmMeVO6Hxl3DP2E2icia9Yvpfqq7mxXzQlrvicWnLovD0icIrwWRKuenicHjffWoIzw4CiaeKxmuxfzeX3bZXq0Yu3W6R4SSWPibwM/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>完成后能导出 HTML 或 PDF。软件覆盖 macOS、Windows 和 Linux，MIT 许可证也足够宽松。</p>
+<p>如果你喜欢 Typora 一类编辑器的写作方式，又希望工具免费、开源、跨平台，MarkText 是这份清单里最容易上手的一款。</p>
+<div class="highlight highlight-source-js"><pre class="notranslate">开源地址：https:<span class="pl-kos"></span></pre></div>
+<p>**03</p>
+<p><strong>Joplin：把 Markdown 做成完整的私人知识库</strong>**</p>
+<p>Joplin 已经是开源笔记领域的老牌项目，在 GitHub 上有 5.5 万多个 Star。</p>
+<p>它支持 Windows、macOS、Linux、Android 和 iOS，桌面与手机都能用。</p>
+<p>但是说实话，我不喜欢它的 UI。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce9917948f6f2fc0f9ceb908d095195342570e825013503c1ff672590b8871db/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d6445435531614f507933746549373854636f474a724f5165493379696158414b56514c69616b304570374a7330304e4a6f654174664248706a673871743441564f4656326d57755169613230685a44474c633669614f777266415a757a653068507838384169636961384d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/ce9917948f6f2fc0f9ceb908d095195342570e825013503c1ff672590b8871db/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d6445435531614f507933746549373854636f474a724f5165493379696158414b56514c69616b304570374a7330304e4a6f654174664248706a673871743441564f4656326d57755169613230685a44474c633669614f777266415a757a653068507838384169636961384d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/M2ibDBMdECU1aOPy3teI78TcoGJrOQeI3yiaXAKVQLiak0Ep7Js00NJoeAtfBHpjg8qt4AVOFV2mWuQia20hZDGLc6iaOwrfAZuze0hPx88Aicia8M/640?wx_fmt=png&amp;from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>笔记内容采用 Markdown，可以放进笔记本，添加标签和待办事项，再通过全文搜索快速找回。</p>
+<p>它还提供网页剪藏扩展，浏览器里的文章和截图可以收进自己的资料库。</p>
+<p>以前积累在 Evernote 里的内容，也能连同附件和部分元数据一起导入。</p>
+<p>Joplin 很重视数据控制。</p>
+<p>应用采用离线优先设计，没有网络时照常读取和编辑。</p>
+<p>需要多端同步时，可以选择 Nextcloud、Dropbox、OneDrive 或 Joplin Cloud，并启用端到端加密。</p>
+<p>插件和主题系统也给后续折腾留下了空间。</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">开源地址：https://github.com/laurent22/joplin</pre></div>
+<p>**04</p>
+<p><strong>Zettlr：论文、研究和出版工作流更顺手</strong>**</p>
+<p>Zettlr 目前在 GitHub 上有 1.3 万多个 Star。</p>
+<p>它对研究者、学生、记者和长文写作者尤其友好。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/163fce71bd5bc42645d3bc8792fbb365c99feffd36f149eab96c977fc8f6e54c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d64454355316961755245444a62527a433276696269624a324668707678304f6b7351373555454e704571524e6963484478674e35685578696146536e784f365939534455344d796c666c597175377a4a4c33544953696139314c7554714337616d4a52517a384a30777a382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/163fce71bd5bc42645d3bc8792fbb365c99feffd36f149eab96c977fc8f6e54c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d64454355316961755245444a62527a433276696269624a324668707678304f6b7351373555454e704571524e6963484478674e35685578696146536e784f365939534455344d796c666c597175377a4a4c33544953696139314c7554714337616d4a52517a384a30777a382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/M2ibDBMdECU1iauREDJbRzC2vibibJ2Fhpvx0OksQ75UENpEqRNicHDxgN5hUxiaFSnxO6Y9SDU4MylflYqu7zJL3TISia91LuTqC7amJRQz8J0wz8/640?wx_fmt=png&amp;from=appmsg#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>软件能和 Zotero、JabRef 等文献管理工具配合，处理引用与参考文献。</p>
+<p>导出部分建立在 Pandoc 之上，并支持 LaTeX、Word 模板和 Textbundle。</p>
+<p>学校或出版社对交付格式有要求时，Markdown 初稿可以继续进入后面的出版流程。</p>
+<p>它也支持 Zettelkasten 卡片笔记方法、全文搜索、代码高亮、片段模板、自定义 CSS 和多语言界面。</p>
+<p>大量零散资料可以通过搜索和链接慢慢组织起来，最后再汇总成长文。</p>
+<p>如果你的目标是论文、书稿、调研报告或带有大量引用的文章，Zettlr 的优势会比普通编辑器明显很多。</p>
+<div class="highlight highlight-source-js"><pre class="notranslate">开源地址：https:<span class="pl-kos"></span></pre></div>
+<p>**05</p>
+<p><strong>原生 C++ 打造的重度笔记平台</strong>**</p>
+<p>有些人喜欢轻巧的单文件编辑器，也有人需要目录、标签、搜索、任务和大纲都放在一个窗口里。</p>
+<p>VNote 属于都放在一个窗口里的。</p>
+<p>它基于 Qt 和 C++ 开发，在 GitHub 上有 1.2 万多个 Star，支持 Windows、macOS 和 Linux。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d2fed9d0d2751c37ed162f325995348209ca4c81fb0330ed11aa926beb36ce55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4d32696244424d64454355337266726d71347447586a49635750496772795a794673776c43666f33796e4b696369614648534562534f33757332545a37307a69636543675a675476314c69636f774469624f387042547866634c566374534f3948716762536e39363759367145665479492f3634303f77785f666d743d6f746865722666726f6d3d6170706d736723696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/d2fed9d0d2751c37ed162f325995348209ca4c81fb0330ed11aa926beb36ce55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4d32696244424d64454355337266726d71347447586a49635750496772795a794673776c43666f33796e4b696369614648534562534f33757332545a37307a69636543675a675476314c69636f774469624f387042547866634c566374534f3948716762536e39363759367145665479492f3634303f77785f666d743d6f746865722666726f6d3d6170706d736723696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3rfrmq4tGXjIcWPIgryZyFswlCfo3ynKiciaFHSEbSO3us2TZ70ziceCgZgTv1LicowDibO8pBTxfcLVctSO9HqgbSn967Y6qEfTyI/640?wx_fmt=other&amp;from=appmsg#imgIndex=14" style="max-width: 100%;"></a></p>
+<p>项目强调笔记管理和编辑体验，适合维护体量较大的本地 Markdown 资料库。</p>
+<p>写作过程中，它可以把富文本解析成 Markdown 再粘贴，图片也能按需保存到本地。</p>
+<p>复制内容时可以转成富文本，发到其他编辑器里继续使用。</p>
+<p>笔记本、文件夹和笔记的层级管理也比临时打开一个 .md 文件更完整。</p>
+<p>VNote 对技术内容支持得很细。</p>
+<p>Mermaid、Flowchart.js、WaveDrom、PlantUML、Graphviz、MathJax、任务列表、脚注和标记语法都在支持范围内。</p>
+<p>写开发文档、架构说明和带公式的技术笔记时会比较省事儿。</p>
+<div class="highlight highlight-source-js"><pre class="notranslate">开源地址：https:<span class="pl-kos"></span></pre></div>
+<p>**06</p>
+<p><strong>macOS 上很有气质的原生写作工具</strong>**</p>
+<p>妙言是基于 Swift 6 开发的哦，专心服务 macOS。</p>
+<p>它在 GitHub 上有 8500 多个 Star，界面采用三栏布局，支持深色模式和专注写作。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5df824b9d9e1bc06c59358b843a3eccae2e3b8f4ac3dc6addd2ffad6c5b46c8b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d6445435533414d6961525135634c6d576e7a5545585a716c3043784a774f624d674f4c3357354153654a6d787465356c36797379726256447478324d36544e7a68696273344f7655526561666e594556466534724b6b7368494b6145764c6a786d364876476f732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136"><img src="https://camo.githubusercontent.com/5df824b9d9e1bc06c59358b843a3eccae2e3b8f4ac3dc6addd2ffad6c5b46c8b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d6445435533414d6961525135634c6d576e7a5545585a716c3043784a774f624d674f4c3357354153654a6d787465356c36797379726256447478324d36544e7a68696273344f7655526561666e594556466534724b6b7368494b6145764c6a786d364876476f732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/M2ibDBMdECU3AMiaRQ5cLmWnzUEXZql0CxJwObMgOL3W5ASeJmxte5l6ysyrbVDtx2M6TNzhibs4OvUReafnYEVFe4rKkshIKaEvLjxm6HvGos/640?wx_fmt=png&amp;from=appmsg#imgIndex=16" style="max-width: 100%;"></a></p>
+<p>应用坚持本地优先，不收集数据。</p>
+<p>笔记就放在你指定的文件夹里，想跨设备使用，可以交给 iCloud Drive、坚果云、Dropbox 等云盘客户端同步。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce9223efa4bef6fc9f69c72665a763bed0ba8bbc7227744de6b22149e4d4c45d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f4d32696244424d64454355324e6862636b6e544446333669624673634e676e4b5a6c306b543935796e6963647830326e7768374a67586f6b7667566962345238514e754e6b3866713943536641396f49773936386a6963765975596f4151744743556b5077796543767a59686963656b592f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3137"><img src="https://camo.githubusercontent.com/ce9223efa4bef6fc9f69c72665a763bed0ba8bbc7227744de6b22149e4d4c45d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f4d32696244424d64454355324e6862636b6e544446333669624673634e676e4b5a6c306b543935796e6963647830326e7768374a67586f6b7667566962345238514e754e6b3866713943536641396f49773936386a6963765975596f4151744743556b5077796543767a59686963656b592f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3137" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/M2ibDBMdECU2NhbcknTDF36ibFscNgnKZl0kT95ynicdx02nwh7JgXokvgVib4R8QNuNk8fq9CSfA9oIw968jicvYuYoAQtGCUkPwyeCvzYhicekY/640?wx_fmt=gif&amp;from=appmsg#imgIndex=17" style="max-width: 100%;"></a></p>
+<p>妙言没有追求 Typora 式所见即所得，当前提供编辑区和预览区并排的分栏模式，并支持双向滚动同步。</p>
+<p>Wikilink 双向链接、LaTeX、Mermaid、PPT 演示、版本历史和自动排版也都具备。</p>
+<p>最近它还加入了命令行工具，可以在终端里新建、搜索、打开和读取笔记。</p>
+<p>项目同时提供官方 Agent Skill，让 AI 了解妙言的语法、附件、演示文稿和 CLI 工作流。</p>
+<p>这一点也很贴合今天的 AI 写作环境。</p>
+<div class="highlight highlight-source-js"><pre class="notranslate">开源地址：https:<span class="pl-kos"></span></pre></div>
+<p>**07</p>
+<p><strong>Yank Note：能写文章，也能跑代码的 Markdown 工作台</strong>**</p>
+<p>Yank Note 项目在 GitHub 上有 6700 多个 Star，编辑器使用 Monaco 内核，操作习惯和 VS Code 接近。</p>
+<p>它支持版本回溯、文件加密、全文搜索、内置终端、代码运行、插件和宏替换。</p>
+<p>文档里可以嵌入 PlantUML、Drawio、ECharts、Mermaid、Luckysheet 和 HTML 小工具，嵌套列表还能显示成脑图。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10e4e541b8984fafbdbab6fdb39a6a6916c8133d900550768a452ba96f12623d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d644543553346314a585439696343666a31514d774c7349544a6539517769636961554f4a466e356b325173784334535749757636536a566f4478654a69614b6e696246335969636963455a4c79666d7a335159796c5575683873396459415642446441346962796a32773173412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3138"><img src="https://camo.githubusercontent.com/10e4e541b8984fafbdbab6fdb39a6a6916c8133d900550768a452ba96f12623d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d32696244424d644543553346314a585439696343666a31514d774c7349544a6539517769636961554f4a466e356b325173784334535749757636536a566f4478654a69614b6e696246335969636963455a4c79666d7a335159796c5575683873396459415642446441346962796a32773173412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3138" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/M2ibDBMdECU3F1JXT9icCfj1QMwLsITJe9QwiciaUOJFn5k2QsxC4SWIuv6SjVoDxeJiaKnibF3YicicEZLyfmz3QYylUuh8s9dYAVBDdA4ibyj2w1sA/640?wx_fmt=png&amp;from=appmsg#imgIndex=18" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dfc568c260510b46d7baa0cc78b1ae9b2558ffb062008561f2000d05e665554a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d6445435530453968646b4a4b4139504e584433574d3962456a5634763656436a69625764413652743034535036445362324778464b4a7743595a6d46317653434e626749656762386e4f30556364494f35486733467666537077434454725630754679396c492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3230"><img src="https://camo.githubusercontent.com/dfc568c260510b46d7baa0cc78b1ae9b2558ffb062008561f2000d05e665554a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d6445435530453968646b4a4b4139504e584433574d3962456a5634763656436a69625764413652743034535036445362324778464b4a7743595a6d46317653434e626749656762386e4f30556364494f35486733467666537077434454725630754679396c492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3230" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/M2ibDBMdECU0E9hdkJKA9PNXD3WM9bEjV4v6VCjibWdA6Rt04SP6DSb2GxFKJwCYZmF1vSCNbgIegb8nO0UcdIO5Hg3FvfSpwCDTrV0uFy9lI/640?wx_fmt=png&amp;from=appmsg#imgIndex=20" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d68c90ea4e611da1a76b74b9ba126588e2636168f1f8ba023de7cd861edaaf14/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d64454355306869615361773436764e654d346347476d5548723331365a3766784f314c497a754f6c6f367453784f336645337544634e794f675148663455624a386354724f37434b396a69636e4a584b43785370566b41394d345669615437637458334f7656746f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3231"><img src="https://camo.githubusercontent.com/d68c90ea4e611da1a76b74b9ba126588e2636168f1f8ba023de7cd861edaaf14/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d64454355306869615361773436764e654d346347476d5548723331365a3766784f314c497a754f6c6f367453784f336645337544634e794f675148663455624a386354724f37434b396a69636e4a584b43785370566b41394d345669615437637458334f7656746f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3231" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/M2ibDBMdECU0hiaSaw46vNeM4cGGmUHr316Z7fxO1LIzuOlo6tSxO3fE3uDcNyOgQHf4UbJ8cTrO7CK9jicnJXKCxSpVkA9M4ViaT7ctX3OvVto/640?wx_fmt=png&amp;from=appmsg#imgIndex=21" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/75fb481f030009d7734c535530f10083e9ba572f24c948a477ee33cb29b27b90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d644543553054533265654d776c4c466d4c6d644b6637696378716836696272484671414c686e6432546f4f34416f7066324a6f63635069626d756e75366f534434763665324e764b7836655151676a59443847426230696369626a576869614a33734b4a67586963356b46452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3232"><img src="https://camo.githubusercontent.com/75fb481f030009d7734c535530f10083e9ba572f24c948a477ee33cb29b27b90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d32696244424d644543553054533265654d776c4c466d4c6d644b6637696378716836696272484671414c686e6432546f4f34416f7066324a6f63635069626d756e75366f534434763665324e764b7836655151676a59443847426230696369626a576869614a33734b4a67586963356b46452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3232" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/M2ibDBMdECU0TS2eeMwlLFmLmdKf7icxqh6ibrHFqALhnd2ToO4Aopf2JoccPibmunu6oSD4v6e2NvKx6eQQgjYD8GBb0icibjWhiaJ3sKJgXic5kFE/640?wx_fmt=png&amp;from=appmsg#imgIndex=22" style="max-width: 100%;"></a></p>
+<div class="highlight highlight-source-js"><pre class="notranslate">开源地址：https:<span class="pl-kos"></span></pre></div>
+<p>JavaScript、PHP、Node.js、Python 和 Bash 代码块可以在应用里运行。</p>
+<p>做技术笔记、可执行教程或数据展示时，玩法很多。</p>
+<p>Yank Note 也在积极接入 AI。</p>
+<p>它的 AI Copilot 支持文本补全、内容生成和图片生成，可以连接 OpenAI、Ollama、Gemini、Kimi、通义千问等服务，还支持 OpenCode AI Agent。</p>
+<p>功能强也意味着权限更大。</p>
+<p>项目 README 明确提醒，Yank Note 支持命令执行和任意文件读写，打开来自陌生人的 Markdown 文件前要确认内容可信。加密文件的密码也必须妥善保存。</p>
+<p>如果你想要一个高度可扩展的 Markdown 工作台，希望把编辑器、终端、图表、代码和 AI 放在一起，Yank Note 会很有吸引力。</p>
+<p>08</p>
+<p><strong>点击下方卡片，关注逛逛 GitHub</strong></p>
+<p>这个公众号历史发布过很多有趣的开源项目，如果你懒得翻文章一个个找，你直接关注微信公众号：逛逛 GitHub ，后台对话聊天就行了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/463d3daf57992634a85cd45b7d00af5aacad1c52ea6b4508ab019066a042f828/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757832735278774a7a6d6665316c4b38696333335876745650734950434d5637686a69636d536369627478495a314e736a58784e6f564e4d62337a4c793332416c3750537066625641747241435971512f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d7765627023696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/463d3daf57992634a85cd45b7d00af5aacad1c52ea6b4508ab019066a042f828/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f655077335a65475272757832735278774a7a6d6665316c4b38696333335876745650734950434d5637686a69636d536369627478495a314e736a58784e6f564e4d62337a4c793332416c3750537066625641747241435971512f3634303f77785f666d743d6f746865722666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d7765627023696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ePw3ZeGRrux2sRxwJzmfe1lK8ic33XvtVPsIPCMV7hjicmScibtxIZ1NsjXxNoVNMb3zLy32Al7PSpfbVAtrACYqQ/640?wx_fmt=other&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp#imgIndex=11" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
