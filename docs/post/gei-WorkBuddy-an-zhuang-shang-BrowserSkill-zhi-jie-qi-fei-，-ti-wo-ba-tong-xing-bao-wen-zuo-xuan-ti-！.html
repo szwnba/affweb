@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="你好呀，我是五竹。">
+<meta property="og:title" content="给WorkBuddy安装上BrowserSkill直接起飞，替我扒同行爆文做选题！">
+<meta property="og:description" content="你好呀，我是五竹。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/gei-WorkBuddy-an-zhuang-shang-BrowserSkill-zhi-jie-qi-fei-%EF%BC%8C-ti-wo-ba-tong-xing-bao-wen-zuo-xuan-ti-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>给WorkBuddy安装上BrowserSkill直接起飞，替我扒同行爆文做选题！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">给WorkBuddy安装上BrowserSkill直接起飞，替我扒同行爆文做选题！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/749" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>你好呀，我是五竹。</p>
+<p>我写公众号有一套自己的流程，其中最花时间的一步是选题。</p>
+<p>具体说就是：写之前，我得去看看同行最近都在写什么、什么角度写烂了、有没有我能切进去的空间。</p>
+<p>以前这一步全靠手工。打开搜狗微信搜索，输关键词，一页页翻，把标题和摘要抄下来，再点进那些看着不错的文章读全文。</p>
+<p>一个话题看下来，半小时起步。</p>
+<p>更烦的是搜狗的验证码。翻不了几页就弹一个，让你点选文字，点完接着翻，翻几页又弹。</p>
+<p>后来我用BrowserSkill把这一步改造了。现在AI替我扒同行文章，全程不用我点验证码。</p>
+<hr>
+<p>先说清楚BrowserSkill是什么。</p>
+<p>它是腾讯开源的一个工具，项目地址：</p>
+<p><a href="https://github.com/Tencent/BrowserSkill">https://github.com/Tencent/BrowserSkill</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/782d61a668fe3e1535b0da998a7056975f1f43f61d2b7d1c01bcc80610200e66/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6963415071663937485834424935474b4e70763656776271506e774d366a6c4c583245423835557132654369626962366a47675a7155446963594f5973634e69626843376b4b597474464342726c456f6d4e623138357632786e31504c4459487a354165475672474f46796a3853552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/782d61a668fe3e1535b0da998a7056975f1f43f61d2b7d1c01bcc80610200e66/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6963415071663937485834424935474b4e70763656776271506e774d366a6c4c583245423835557132654369626962366a47675a7155446963594f5973634e69626843376b4b597474464342726c456f6d4e623138357632786e31504c4459487a354165475672474f46796a3853552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zicAPqf97HX4BI5GKNpv6VwbqPnwM6jlLX2EB85Uq2eCibib6jGgZqUDicYOYscNibhC7kKYttFCBrlEomNb185v2xn1PLDYHz5AeGVrGOFyj8SU/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>作用是让AI能操作你<strong>已经登录</strong>的浏览器。</p>
+<p>关键就在"已经登录"这四个字。</p>
+<p>以前让AI去抓网页，它开的是一个全新的空白浏览器，没有你的登录状态。搜狗对这种匿名访问查得特别严，动不动就弹验证码。</p>
+<p>BrowserSkill不一样。它用的是你平时在用的、已经登录的浏览器。对搜狗来说，你就是个正常登录的用户，验证码自然就少了。</p>
+<p>而且它不挑AI工具。官方说了，只要能调用命令行的AI——Cursor、Claude Code、WorkBuddy这些——都能接上用。</p>
+<hr>
+<p>装起来分三步，我自己刚走过一遍，给你说清楚。</p>
+<p><strong>第一步：装命令行工具</strong></p>
+<p>Windows打开PowerShell，粘贴这行回车：</p>
+<pre class="notranslate"><code class="notranslate">irm https://raw.githubusercontent.com/Tencent/BrowserSkill/main/install.ps1 | iex
+</code></pre>
+<p>Mac或Linux在终端粘贴：</p>
+<pre class="notranslate"><code class="notranslate">curl -fsSL https://raw.githubusercontent.com/Tencent/BrowserSkill/main/install.sh | sh
+</code></pre>
+<p>装完运行 <code class="notranslate">bsk --version</code>，能看到版本号就成了。</p>
+<p>这里我踩了个坑：如果报"unsupported architecture"这种架构识别错误，是安装脚本读环境变量出了岔子。解决办法是去项目的Releases页面手动下对应系统的压缩包，解压出bsk.exe放到一个目录，把目录加进PATH就行。</p>
+<p><strong>第二步：装浏览器扩展</strong></p>
+<p>这一步只能你自己动手。在Chrome或Edge的扩展商店搜"BrowserSkill"，安装。装完它会自动连上刚才的命令行工具。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f6765747b0fa15a8780fa4eb1bda4648b45fdb030fa6d789ea4f595ab07226a2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a69634150716639374858357a6961674e61343543483852426e3966386b7a315239424b76513972374e4c65526e65696158476d676f766130624d34394d7341325145443469636a6961545a53486d59467652373672356e70457a473838786c6679426b41524633324b504c544371772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/f6765747b0fa15a8780fa4eb1bda4648b45fdb030fa6d789ea4f595ab07226a2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a69634150716639374858357a6961674e61343543483852426e3966386b7a315239424b76513972374e4c65526e65696158476d676f766130624d34394d7341325145443469636a6961545a53486d59467652373672356e70457a473838786c6679426b41524633324b504c544371772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zicAPqf97HX5ziagNa45CH8RBn9f8kz1R9BKvQ9r7NLeRneiaXGmgova0bM49MsA2QED4icjiaTZSHmYFvR76r5npEzG88xlfyBkARF32KPLTCqw/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><strong>第三步：验证</strong></p>
+<p>运行 <code class="notranslate">bsk doctor</code>，它会一项项检查。全部打勾、看到"extension connected"是绿的，就通了。</p>
+<p>如果扩展那项是红的，把浏览器打开、确认扩展启用，再跑一次。</p>
+<hr>
+<p>装好之后，我是怎么用它做选题的？</p>
+<p>说白了就两件事，都是<strong>只读</strong>——只看不改。</p>
+<p><strong>第一件：扒同行文章列表</strong></p>
+<p>我让AI打开搜狗微信搜索，输入我要研究的关键词，一页页把搜索结果读下来——标题、摘要、公众号名、发布时间，整理成一个表格。</p>
+<p>以前我手工翻好几页、还要跟验证码斗智斗勇的活，现在AI几十秒读完，直接给我一份结构化的同行文章清单。</p>
+<p><strong>第二件：读同行原文提取素材</strong></p>
+<p>光看标题和摘要不够，写之前我得挑几篇最相关的读全文。</p>
+<p>以前点进搜狗跳转链接，又是验证码。现在AI直接打开原文，把正文内容读出来给我。</p>
+<p>我拿到这些原文，就能看出同行的真实角度、他们踩过的坑、举过的例子，然后避开重复的、找到自己的切入点。</p>
+<p>整个选题环节，从原来的半小时手工翻页，变成了AI跑一遍、我做判断。</p>
+<hr>
+<p>有几点我要说清楚，免得你误会。</p>
+<p>我用BrowserSkill只做<strong>只读</strong>的事——打开页面、读内容、整理成表格。</p>
+<p>我没有让它自动复制别人的文章，没有让它自动发布，没有让它去操作任何后台提交东西。</p>
+<p>它就是替我做了"翻页看同行"这个纯浏览的动作。读回来的东西是我判断选题的参考，不是拿去洗稿或者搬运。</p>
+<p>这条边界我一直守着。工具能力再强，也不该用来干抄袭和自动搬运的事。</p>
+<hr>
+<p>其实这几年大家都在聊AI Agent。</p>
+<p>但我觉得判断一个工具有没有用，标准很朴素：它能不能帮你把最枯燥的那部分活接走，让你专心做只有人能做的判断。</p>
+<p>选题这件事，"翻页看同行"是枯燥的体力活，"判断该写什么角度"是需要人脑的判断活。</p>
+<p>BrowserSkill帮我接走了前面那半，把后面那半留给我。</p>
+<p>这就够了。</p>
+<p>今晚花十分钟按上面的步骤装一个，先让它替你扒一次同行文章，你就知道差别在哪了。</p>
+<p>我是五竹，下次见。</p>
+<hr>
+<p>分享一下，我用AI开发的两个产品</p>
+<p>1.我用一年时间吃透1000篇咪蒙和其它自媒体顶流博主的文章，用她们的底层逻辑，打造了一个「AI爆文写作知识库」：<a href="https://mp.weixin.qq.com/s?__biz=MzkyMTc1NDE0NA==&amp;mid=2247485252&amp;idx=1&amp;sn=06b003bf839067d928c3b5ed9e34951a&amp;scene=21#wechat_redirect" rel="nofollow">我用一年时间吃透1000篇咪蒙文章，打造了一套爆文创作skill！</a>需要的👉wuzhuv2</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/488c3f3d2acebc4552a48edd57fc3bebf5c404d31880eb53eb7f65e113d43e3c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6d5942676762696266556e303965674a69616d44597630443572714a764d4a5941766d4b74366c6f50717871583069626849446867335a6734304144776b6862373948387732496833475569626a6b696138334c3463576333395a6962444176787549617369626853796a795a6d4f72676f2f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/488c3f3d2acebc4552a48edd57fc3bebf5c404d31880eb53eb7f65e113d43e3c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6d5942676762696266556e303965674a69616d44597630443572714a764d4a5941766d4b74366c6f50717871583069626849446867335a6734304144776b6862373948387732496833475569626a6b696138334c3463576333395a6962444176787549617369626853796a795a6d4f72676f2f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/mYBggbibfUn09egJiamDYv0D5rqJvMJYAvmKt6loPqxqX0ibhIDhg3Zg40ADwkhb79H8w2Ih3GUibjkia83L4cWc39ZibDAvxuIasibhSyjyZmOrgo/640?wx_fmt=png&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=14" style="max-width: 100%;"></a></p>
+<h3>2.一款小程序：拆号鸭，可以把任意个公众号和小红书博主蒸馏成一个skill 👉<a href="https://mp.weixin.qq.com/s?__biz=MzI1NjUyMzcyNQ==&amp;mid=2247501642&amp;idx=1&amp;sn=21f6da7533cd5edd0af783419bc34977&amp;scene=21#wechat_redirect" rel="nofollow">做爆文3年，我终于找到了比"洗稿"高级一万倍的方法！</a></h3>
+<p>点击↑↑↑↑立即体验</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
