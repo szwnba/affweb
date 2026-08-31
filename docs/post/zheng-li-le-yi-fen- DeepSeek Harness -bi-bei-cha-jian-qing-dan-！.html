@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="8 月 14 号 DeepSeek Harness 刚发布那几天，我写过一篇保姆级安装教程。">
+<meta property="og:title" content="整理了一份 DeepSeek Harness 必备插件清单！">
+<meta property="og:description" content="8 月 14 号 DeepSeek Harness 刚发布那几天，我写过一篇保姆级安装教程。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/zheng-li-le-yi-fen-%20DeepSeek%20Harness%20-bi-bei-cha-jian-qing-dan-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>整理了一份 DeepSeek Harness 必备插件清单！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">整理了一份 DeepSeek Harness 必备插件清单！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/752" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>8 月 14 号 DeepSeek Harness 刚发布那几天，我写过一篇保姆级安装教程。</p>
+<p>那时候它刚出来不久。能聊天，能干活，但界面基本等于毛坯房。</p>
+<p>半个多月过去，情况完全变了。</p>
+<p>社区插件生态起来了，还有许多博主做了实测横评，把市面上的插件排了个名。我对照榜单把前 10 名挨个用了一遍，整理成这份清单。</p>
+<p>下面逐个说。每个插件干什么用、适合什么人，一次讲清楚。</p>
+<h2>0101 dsh-market，生态入口</h2>
+<p>这个插件排在第一位是有道理的，它是整个生态的入口。</p>
+<p>安装命令：</p>
+<p><code class="notranslate">dsh plugin --profile web add dshmarket</code></p>
+<p>装了它，重启 <code class="notranslate">dsh web</code>，打开 <strong>设置 → 插件市场</strong>。你就可以在设置里直接搜索、一键安装社区插件和主题，还能备份还原配置。后面要讲的 9 个插件，大部分都能从这里装。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/784792a0906014351cd5e9f208fed13c975a6e7a06fbf71927235cd90fbd53b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765269615a6a5468706a324868564e325a6963383547734541664e6255615072557867534a32726f4a616b41675a6e79586963485a656a626a6763666758416962487a735578356842676c6f68507a7a706962734c386d56396a3349754a3639514443633853592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/784792a0906014351cd5e9f208fed13c975a6e7a06fbf71927235cd90fbd53b6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765269615a6a5468706a324868564e325a6963383547734541664e6255615072557867534a32726f4a616b41675a6e79586963485a656a626a6763666758416962487a735578356842676c6f68507a7a706962734c386d56396a3349754a3639514443633853592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvRiaZjThpj2HhVN2Zic85GsEAfNbUaPrUxgSJ2roJakAgZnyXicHZejbjgcfgXAibHzsUx5hBglohPzzpibsL8mV9j3IuJ69QDCc8SY/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>相当于先给系统装了个应用商店。所以无论你后面想装什么，第一步都是先把它装上。</p>
+<p>仓库地址:  <code class="notranslate">https://github.com/dsh-market/dsh-market</code></p>
+<h2>0202 modlens，给模型装上眼睛</h2>
+<p>公认最强的视觉扩展。</p>
+<p>DeepSeek 的主力模型是纯文本的，你丢一张截图过去，它看不到。modlens 补的就是这块。装上之后，直接在输入框粘贴图片，它自动输出 OCR 文字，外加版面布局分析。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec28773ddafd97c6f45350ef57183da6a01c933336d313900f0c3e95cd94799c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654534d663577684b323350456436783769616768306961734b31496b3442346a356558534e3132336b4a30714b45434c4a47796c546961345936726466586462444549563837486b426b696259304269625a46357a554871685256466a684c69627a696251706963492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/ec28773ddafd97c6f45350ef57183da6a01c933336d313900f0c3e95cd94799c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654534d663577684b323350456436783769616768306961734b31496b3442346a356558534e3132336b4a30714b45434c4a47796c546961345936726466586462444549563837486b426b696259304269625a46357a554871685256466a684c69627a696251706963492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvTSMf5whK23PEd6x7iagh0iasK1Ik4B4j5eXSN123kJ0qKECLJGylTia4Y6rdfXdbDEIV87HkBkibY0BibZF5zUHqhRVFjhLibzibQpicI/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>表格截图、论文截图、报错信息截图，以后统统不用手打了，粘进去就行。</p>
+<p>安装命令：</p>
+<p><code class="notranslate">npx -y @deepseek-ai/dsh plugin --profile web add @liustack/modlens@3.25.2</code></p>
+<p>仓库地址 <code class="notranslate">https://github.com/liustack/modlens</code> ，3.7k star，整个生态里最火的视觉插件。</p>
+<h2>0303 dsh-web-ui，界面全家桶</h2>
+<p>任务看板、Git 图谱、Token 实时统计，甚至还有桌面宠物。</p>
+<p>它把那个极简聊天框直接升级成了全功能控制台。你能看到任务跑到哪一步、代码仓库长什么样、Token 烧了多少。</p>
+<p>喜欢盯着界面干活的人，装它。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e5662e877293aa801b686a716eaa5f7c769d486a5d52a7f437204af26001f7bf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7653307769636e73317471705545364849384472646378445a784e72734168696131465853554c6a5a44696337566771726c586f50394d6164707433375365446e764f57777265626334636c73517931326b69636961544a4141537438754578306f69637652536f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/e5662e877293aa801b686a716eaa5f7c769d486a5d52a7f437204af26001f7bf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7653307769636e73317471705545364849384472646378445a784e72734168696131465853554c6a5a44696337566771726c586f50394d6164707433375365446e764f57777265626334636c73517931326b69636961544a4141537438754578306f69637652536f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvS0wicns1tqpUE6HI8DrdcxDZxNrsAhia1FXSULjZDic7VgqrlXoP9Madpt37SeDnvOWwrebc4clsQy12kiciaTJAASt8uEx0oicvRSo/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>image.png</p>
+<p>安装命令：</p>
+<p><code class="notranslate">dsh plugin --profile web add @linxin666/dsh-web-all@latest</code></p>
+<p>仓库地址 <code class="notranslate">https://github.com/zhu1090093659/dsh-web</code> ，6.4k star，目前 DSH 插件生态里星数最高的项目。</p>
+<h2>0404 DSH-better-sidebar，侧边工作台</h2>
+<p>这个是给写代码的人准备的。</p>
+<p>它还原了 VS Code 那套体验，完整侧边栏，内置文件树、真实终端，还有子代理状态监控。你在 Harness 里派出去的子代理现在跑到哪一步，侧边栏一眼就能看到。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e527c74d59a66a1332cdf61101a1c12e647d9c33bcf9ffaabd62b8f4f5fa4f4e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765474753551364942326961547676674f6f57424655564450633853764763477a71764c736f764a7941696155394f3557627152473856343434337377745967574b6135766d625031784838377938724e36665871755943447733477a7333306530626f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/e527c74d59a66a1332cdf61101a1c12e647d9c33bcf9ffaabd62b8f4f5fa4f4e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765474753551364942326961547676674f6f57424655564450633853764763477a71764c736f764a7941696155394f3557627152473856343434337377745967574b6135766d625031784838377938724e36665871755943447733477a7333306530626f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvTtu5Q6IB2iaTvvgOoWBFUVDPc8SvGcGzqvLsovJyAiaU9O5WbqRG8V4443swtYgWKa5vmbP1xH87y8rN6fXquYCDw3Gzs30e0bo/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>和 03 二选一，或者一起装，看个人口味。</p>
+<p>安装命令：</p>
+<p><code class="notranslate">dsh plugin --profile web add dsh-better-sidebar@latest   # 首次会因 pnpm 11 拦截 node-pty 构建脚本而失败（依赖已写入）   cd ~/.dsh/profiles/web &amp;&amp; pnpm approve-builds --all      # 放行构建脚本（自动重跑安装）   dsh plugin --profile web add dsh-better-sidebar@latest   # 重跑即成功</code></p>
+<p>仓库地址 <code class="notranslate">https://github.com/omdsh-dev/DSH-better-sidebar</code> ，3.1k star。</p>
+<h2>0505 dsh-at-file，快速引用</h2>
+<p>解决一个高频痛点。</p>
+<p>以前想让模型看你本地的某个文件，得开文件、全选、复制、粘贴一大段进来。装了它，输入框直接打 @，模糊搜索本地文件和目录，回车就引用进上下文。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab506455c39469535847f086371006e62ee660eee0d494e0e89d12f66e64a72a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e76537035676c6b6b44706a4734724f426a74443278357a5949706c4d615063354c484d78366c486570784c516e354f5869615571426d3043746e5a69624653366748696368366962596f53313035654e30447144436d717655784470777345486f384e4c55382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/ab506455c39469535847f086371006e62ee660eee0d494e0e89d12f66e64a72a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e76537035676c6b6b44706a4734724f426a74443278357a5949706c4d615063354c484d78366c486570784c516e354f5869615571426d3043746e5a69624653366748696368366962596f53313035654e30447144436d717655784470777345486f384e4c55382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvSp5glkkDpjG4rOBjtD2x5zYIplMaPc5LHMx6lHepxLQn5OXiaUqBm0CtnZibFS6gHich6ibYoS105eN0DqDCmqvUxDpwsEHo8NLU8/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>用过飞书或者钉钉 @ 功能的人，秒懂。</p>
+<p>安装命令：</p>
+<p><code class="notranslate">dsh plugin --profile web add https://github.com/omdsh-dev/dsh-at-file/archive/refs/tags/v0.6.8.tar.gz</code></p>
+<p>仓库地址 <code class="notranslate">https://github.com/FSMargoo/dsh-at-file</code></p>
+<h2>0606 deepseek-harness-desktop，原生桌面端</h2>
+<p>DeepSeek Harness 官方 Web UI 的桌面客户端</p>
+<p>下载安装即可使用，不用自己起 <code class="notranslate">dsh web</code></p>
+<p>免配置 Node.js 环境，Windows 和 Mac 双端下载即用，装完在系统托盘常驻，要用点开就行。</p>
+<p>当初装环境折腾过的人，这个直接帮你跳过那一步。</p>
+<p>仓库地址 <code class="notranslate">https://github.com/ChisaAlter/Deepseek-Harness-Desktop</code></p>
+<h2>0707 dsh-web-search-pro，增强多源搜索</h2>
+<p>默认的搜索能力有限。这个插件把 DeepSeek、Bing、Exa 多个引擎聚合到一起，还支持对小红书、知乎、B 站这些平台定向爬取，结果可以本地缓存。</p>
+<p>做调研、找资料、写稿子的人，这个能省大量时间。</p>
+<p>仓库地址 <code class="notranslate">https://github.com/anweat/dsh-web-search-pro</code></p>
+<h2>0808 OpenViking，跨会话记忆</h2>
+<p>默认情况下，每个会话是孤立的。关掉窗口，聊过的东西就没了。</p>
+<p>OpenViking 做了一个自进化的上下文数据库，把碎片对话变成长期记忆和知识 RAG，模型越聊越懂你。你上周跟它讨论过的项目背景，这周接着聊，它还记得。</p>
+<p>引擎本体在 <code class="notranslate">https://github.com/volcengine/OpenViking</code> 。DSH 这边的接入插件，社区用得比较多的是 <code class="notranslate">https://github.com/Rxiain/dsh-openviking</code></p>
+<h2>0909 dsh-cost-meter，费用看板</h2>
+<p>这个插件出现得非常是时候。</p>
+<p>8 月 17 号 DeepSeek 那轮涨价大家还有印象，缓存命中的价格从 2 分 5 涨到高峰时段 3 毛，一下 12 倍。现在跑 Harness，不看费用等于裸奔。</p>
+<p>dsh-cost-meter 实时统计会话花费和当日预算。最实用的功能是，DeepSeek 峰谷电价切换之前它会自动提醒你。踩着优惠时段跑任务，一个月下来能省不少。</p>
+<p>仓库地址 <code class="notranslate">https://github.com/Han-1413141/dsh-cost-meter</code></p>
+<h2>1010 dsh-session-library，知识库与精读</h2>
+<p>最后一位，管的是知识管理。</p>
+<p>本地文档混合检索，加长文精读。它能把一份很长的 PDF 自动拆解成主张和证据链，读论文、读报告的人会非常喜欢。</p>
+<p>配合 08 的记忆系统，就是把 Harness 用成个人知识工作台的组合。</p>
+<p>这个要单独说明一下。dsh-session-library 这个名字，我在 GitHub 上没有搜到对应仓库，可能作者后来改了名。功能最接近的是 <code class="notranslate">https://github.com/1-CellBio/dsh-okf</code> ，同样是把研究 PDF 拆成可检索的知识库。也可以打开 dsh-market 直接搜 session library。</p>
+<h2>11最后，新手怎么起步</h2>
+<p>最后，不要一口气装十个。</p>
+<p>三步走。第一步，先装 01 市场和 02 视觉。第二步，装 03 或 04 其中一个界面插件。到这一步，基础体验已经和毛坯版完全两个东西了。第三步，再看自己用得多的是搜索还是记忆，按需补齐后面的。</p>
+<p>这份清单建议先收藏。DeepSeek Harness 的生态现在是一周一变，今天的前 10，下个月可能就换血一半。但最核心的那几个，市场、视觉、界面，大概率会一直稳着。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
