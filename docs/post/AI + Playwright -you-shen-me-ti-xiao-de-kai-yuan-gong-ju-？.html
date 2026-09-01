@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="AI + 自动化测试的项目越来越多。">
+<meta property="og:title" content="AI + Playwright 有什么提效的开源工具？">
+<meta property="og:description" content="AI + 自动化测试的项目越来越多。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/AI%20%2B%20Playwright%20-you-shen-me-ti-xiao-de-kai-yuan-gong-ju-%EF%BC%9F.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>AI + Playwright 有什么提效的开源工具？</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">AI + Playwright 有什么提效的开源工具？</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/754" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>AI + 自动化测试的项目越来越多。</p>
+<p>自然语言写 Case、AI 生成 Playwright、AI 操作浏览器……</p>
+<p>第一次看的时候都挺惊艳。</p>
+<p>但如果真的做过几年 UI 自动化，应该知道一个很现实的问题：</p>
+<p><strong>自动化最痛苦的，很多时候不是“写出来”，而是“养下去”。</strong></p>
+<p>今天页面还是：</p>
+<pre class="notranslate"><code class="notranslate">Login
+</code></pre>
+<p>明天产品改版：</p>
+<pre class="notranslate"><code class="notranslate">Sign in
+</code></pre>
+<p>原来的 Locator 挂了。</p>
+<p>今天：</p>
+<pre class="notranslate"><code class="notranslate">#submit
+</code></pre>
+<p>下个版本前端重构：</p>
+<pre class="notranslate"><code class="notranslate">[data-testid="login-button"]
+</code></pre>
+<p>又挂了。</p>
+<p>于是每天 CI 里面一片红。</p>
+<p>你开始排查：</p>
+<p>到底是 Bug？</p>
+<p>还是环境问题？</p>
+<p>还是数据问题？</p>
+<p>还是 UI 改了？</p>
+<p>还是 Selector 又失效了？</p>
+<p>最后发现：</p>
+<p><strong>业务一点问题都没有，只是按钮换了个地方。</strong></p>
+<p>这也是为什么很多公司自动化刚开始做的时候轰轰烈烈，半年以后就没人愿意维护了。</p>
+<p>最近看到一个挺有意思的开源项目：</p>
+<p><strong>Passmark。</strong></p>
+<p>GitHub：bug0inc/passmark</p>
+<p>目前已经有 1K+ Star。</p>
+<p>它想解决的问题，刚好就是：</p>
+<blockquote>
+<p>“</p>
+<p><strong>能不能让 AI 不只是帮我们“写自动化”，还帮我们“养自动化”？</strong></p>
+</blockquote>
+<hr>
+<h2>一、先看看普通 Playwright 为什么容易变成维护地狱</h2>
+<p>比如我们要测试一个商城购物流程。</p>
+<p>传统 Playwright 可能是：</p>
+<pre class="notranslate"><code class="notranslate">await page.goto('/products');await page  .getByText('Acme Circles T-Shirt')  .click();await page  .getByLabel('Color')  .selectOption('White');await page  .getByLabel('Size')  .selectOption('S');await page  .getByRole('button', {    name: 'Add to cart'  })  .click();
+</code></pre>
+<p>第一次写的时候其实没什么问题。</p>
+<p>真正的问题发生在几个月以后。</p>
+<p>前端：</p>
+<blockquote>
+<p>“</p>
+<p>我改了下页面。</p>
+</blockquote>
+<p>测试：</p>
+<blockquote>
+<p>“</p>
+<p>改了什么？</p>
+</blockquote>
+<p>前端：</p>
+<blockquote>
+<p>“</p>
+<p>没什么，就重构了一下。</p>
+</blockquote>
+<p>然后 CI：</p>
+<pre class="notranslate"><code class="notranslate">FAILEDElement not found
+</code></pre>
+<p>你：</p>
+<p>……</p>
+<p>于是开始打开页面。</p>
+<p>F12。</p>
+<p>找元素。</p>
+<p>改 Locator。</p>
+<p>重新运行。</p>
+<p>提交代码。</p>
+<p>CI 再跑。</p>
+<p>如果只有 10 条自动化还好。</p>
+<p>如果是：</p>
+<pre class="notranslate"><code class="notranslate">500 条1000 条3000 条
+</code></pre>
+<p>这种维护成本就开始变得很难受了。</p>
+<p>所以 UI 自动化真正贵的地方，从来不只是：</p>
+<p><strong>第一次写脚本。</strong></p>
+<p>而是：</p>
+<p><strong>后面每一次页面变化，都可能需要有人继续维护。</strong></p>
+<hr>
+<p>Passmark 还是建立在 Playwright 上。</p>
+<p>但写测试的时候，可以不用先写一堆 Selector。</p>
+<p>例如测试一个购物车。</p>
+<p>可以直接描述：</p>
+<pre class="notranslate"><code class="notranslate">打开商城点击 Acme Circles T-Shirt选择 White选择 S加入购物车检查购物车里出现这件商品
+</code></pre>
+<p>Passmark 提供的 <code class="notranslate">runSteps()</code> 会把这些自然语言步骤交给 AI，再通过 Playwright 操作浏览器。</p>
+<p>整个流程可以简单理解成：</p>
+<pre class="notranslate"><code class="notranslate">自然语言测试步骤        ↓       AI        ↓理解页面结构        ↓生成实际操作        ↓    Playwright        ↓     Browser
+</code></pre>
+<p>所以测试人员写的东西开始从：</p>
+<pre class="notranslate"><code class="notranslate">怎么找到这个按钮？
+</code></pre>
+<p>慢慢变成：</p>
+<pre class="notranslate"><code class="notranslate">我要测试什么？
+</code></pre>
+<p>比如：</p>
+<pre class="notranslate"><code class="notranslate">steps: [  { description: "Click Acme Circles T-Shirt" },  { description: "Select color", data: { value: "White" } },  { description: "Select size", data: { value: "S" } },  { description: "Add to cart" }]
+</code></pre>
+<p>代码一下就简单很多。</p>
+<p>不过如果 Passmark 只是做到这里，我觉得其实没什么特别值得写的。</p>
+<p>现在能做“自然语言 → 浏览器操作”的项目已经不少了。</p>
+<p>真正让我觉得有意思的是后面。</p>
+<hr>
+<p>这是我看到 AI 自动化时最先想到的问题。</p>
+<p>假设：</p>
+<pre class="notranslate"><code class="notranslate">1000 条自动化
+</code></pre>
+<p>每天跑：</p>
+<pre class="notranslate"><code class="notranslate">5 次
+</code></pre>
+<p>每一个步骤都：</p>
+<pre class="notranslate"><code class="notranslate">页面 ↓AI ↓分析 ↓操作
+</code></pre>
+<p>那问题马上来了。</p>
+<p>第一：</p>
+<p><strong>Token 不要钱吗？</strong></p>
+<p>第二：</p>
+<p><strong>模型调用不要时间吗？</strong></p>
+<p>第三：</p>
+<p><strong>模型每次结果一定一样吗？</strong></p>
+<p>如果传统 Playwright：</p>
+<pre class="notranslate"><code class="notranslate">几十毫秒↓找到元素↓点击
+</code></pre>
+<p>现在变成：</p>
+<pre class="notranslate"><code class="notranslate">获取页面↓调用模型↓等待模型↓模型分析↓返回操作↓Playwright 执行
+</code></pre>
+<p>那自动化可能反而越做越慢。</p>
+<p>所以 Passmark 加了一个我觉得非常重要的东西：</p>
+<p><strong>Step Cache。</strong></p>
+<hr>
+<p>假设第一次执行：</p>
+<pre class="notranslate"><code class="notranslate">点击 Login
+</code></pre>
+<p>AI 分析页面。</p>
+<p>找到正确操作。</p>
+<p>Playwright 执行成功。</p>
+<p>Passmark 会把成功的 Step 缓存起来。</p>
+<p>下一次再跑：</p>
+<pre class="notranslate"><code class="notranslate">点击 Login
+</code></pre>
+<p>就不需要重新问 AI 了。</p>
+<p>而是：</p>
+<pre class="notranslate"><code class="notranslate">Step ↓检查 Cache ↓找到之前成功的操作 ↓Playwright ↓直接执行
+</code></pre>
+<p>也就是：</p>
+<pre class="notranslate"><code class="notranslate">第一次自然语言 ↓AI ↓找到操作 ↓Playwright ↓成功 ↓Cache以后自然语言 ↓Cache ↓Playwright
+</code></pre>
+<p>AI 退出。</p>
+<p>这点其实非常重要。</p>
+<p>因为 AI 自动化如果真的想进入 CI/CD，就不能：</p>
+<p><strong>每一个步骤、每一次回归，都让大模型重新思考。</strong></p>
+<p>稳定的东西应该尽可能缓存下来。</p>
+<hr>
+<p>这就到了 Passmark 最有意思的部分：</p>
+<p><strong>Auto-Healing。</strong></p>
+<p>比如之前：</p>
+<pre class="notranslate"><code class="notranslate">Add to cart
+</code></pre>
+<p>这个步骤已经缓存。</p>
+<p>每天直接执行。</p>
+<p>突然某天前端改版。</p>
+<p>原来的操作失效了。</p>
+<p>传统自动化：</p>
+<pre class="notranslate"><code class="notranslate">Cache / Locator     ↓   执行     ↓   FAILED     ↓测试人员收到通知     ↓打开页面     ↓重新找元素     ↓修改代码     ↓重新提交
+</code></pre>
+<p>Passmark 想做的是：</p>
+<pre class="notranslate"><code class="notranslate">Cache  ↓执行  ↓失败  ↓AI 重新分析当前页面  ↓找到新的操作方式  ↓重新执行  ↓成功  ↓更新 Cache
+</code></pre>
+<p>这就是所谓：</p>
+<p><strong>Self-Healing。</strong></p>
+<p>说得简单一点：</p>
+<blockquote>
+<p>“</p>
+<p><strong>旧路走不通了，让 AI 自己重新找一条路。</strong></p>
+</blockquote>
+<hr>
+<p>以前大家讨论 AI + 自动化，经常关注：</p>
+<blockquote>
+<p>“</p>
+<p>AI 能不能帮我写代码？</p>
+</blockquote>
+<p>但我越来越觉得：</p>
+<p>这可能不是最有价值的问题。</p>
+<p>因为一个稍微熟悉 Playwright 的测试工程师，写：</p>
+<pre class="notranslate"><code class="notranslate">await page.getByRole('button').click();
+</code></pre>
+<p>真的没有多难。</p>
+<p>真正让测试人员头疼的是：</p>
+<p><strong>半年以后，这几千行代码谁来维护？</strong></p>
+<p>如果 AI 能做到：</p>
+<pre class="notranslate"><code class="notranslate">页面小改版↓原操作失效↓AI 自动重新定位↓验证成功↓缓存新操作↓继续跑
+</code></pre>
+<p>那么它解决的是：</p>
+<p><strong>自动化维护成本。</strong></p>
+<p>这比“帮我少写几行 Locator”有价值得多。</p>
+<hr>
+<p>做测试最终绕不开一个问题：</p>
+<p><strong>怎么判断 PASS / FAIL？</strong></p>
+<p>传统自动化一般是：</p>
+<pre class="notranslate"><code class="notranslate">expect(text).toBe("Success");
+</code></pre>
+<p>非常确定。</p>
+<p>但如果我们开始用 AI 判断页面：</p>
+<pre class="notranslate"><code class="notranslate">“这个订单是不是创建成功了？”
+</code></pre>
+<p>问题来了：</p>
+<p>AI 会不会看错？</p>
+<p>如果只有一个模型：</p>
+<pre class="notranslate"><code class="notranslate">Claude：PASS
+</code></pre>
+<p>测试就通过？</p>
+<p>Passmark 的做法比较有意思。</p>
+<p>它可以同时让：</p>
+<pre class="notranslate"><code class="notranslate">Claude+Gemini
+</code></pre>
+<p>判断。</p>
+<p>如果：</p>
+<pre class="notranslate"><code class="notranslate">Claude：PASSGemini：PASS
+</code></pre>
+<p>那比较简单。</p>
+<p>如果：</p>
+<pre class="notranslate"><code class="notranslate">Claude：PASSGemini：FAIL
+</code></pre>
+<p>怎么办？</p>
+<p>再让第三个模型当裁判。</p>
+<p>也可以直接配置成：</p>
+<pre class="notranslate"><code class="notranslate">两个模型意见不一致↓直接 FAIL↓交给人看
+</code></pre>
+<p>这个设计我挺喜欢。</p>
+<p>因为 AI 测试真正麻烦的地方并不是：</p>
+<p><strong>AI 会不会操作页面。</strong></p>
+<p>而是：</p>
+<p><strong>AI 判断错了怎么办？</strong></p>
+<p>让多个模型互相验证，至少比“一个模型说了算”靠谱一些。</p>
+<hr>
+<p>这个功能我觉得挺有意思。</p>
+<p>比如点击：</p>
+<pre class="notranslate"><code class="notranslate">保存
+</code></pre>
+<p>页面弹出：</p>
+<pre class="notranslate"><code class="notranslate">保存成功
+</code></pre>
+<p>1 秒以后消失。</p>
+<p>这种 Toast、Snackbar、临时 Banner，在 UI 自动化里面经常比较烦。</p>
+<p>因为你截图的时候：</p>
+<p>没了。</p>
+<p>你做 AI 页面判断的时候：</p>
+<p>也没了。</p>
+<p>Passmark 提供了：</p>
+<p><strong>Video Assertion。</strong></p>
+<p>简单理解就是：</p>
+<pre class="notranslate"><code class="notranslate">开始执行 ↓录制页面 ↓点击保存 ↓Toast 出现 ↓Toast 消失 ↓执行结束 ↓把整段视频交给模型 ↓判断：“刚才有没有出现保存成功？”
+</code></pre>
+<p>这样 AI 判断的不是：</p>
+<p><strong>最后一帧。</strong></p>
+<p>而是：</p>
+<p><strong>刚才整个过程中发生过什么。</strong></p>
+<p>对于：</p>
+<pre class="notranslate"><code class="notranslate">ToastSnackbarLoading短暂动画一闪而过的错误提示
+</code></pre>
+<p>这种东西确实挺有用。</p>
+<hr>
+<p>Passmark 默认还是通过页面的 Accessibility / ARIA 信息理解 Web 页面。</p>
+<p>但现在它还支持 Computer Use 模式。</p>
+<p>简单理解：</p>
+<p>传统方式：</p>
+<pre class="notranslate"><code class="notranslate">DOM / ARIA ↓AI ↓Playwright
+</code></pre>
+<p>Computer Use：</p>
+<pre class="notranslate"><code class="notranslate">页面截图 ↓AI 看屏幕 ↓判断按钮在哪里 ↓通过坐标操作
+</code></pre>
+<p>这就意味着以后某些：</p>
+<pre class="notranslate"><code class="notranslate">Canvas复杂可视化页面拖拽SliderDOM 不友好的页面
+</code></pre>
+<p>也可以尝试让视觉模型处理。</p>
+<p>当然，这种方式成本和稳定性目前肯定还是需要实际验证。</p>
+<p>但方向已经比较明显了：</p>
+<p><strong>规则明确的页面，用结构化信息。</strong></p>
+<p><strong>实在不好操作的页面，再让 AI 看屏幕。</strong></p>
+<p>没必要什么东西都上最贵的 AI。</p>
+<hr>
+<p>我觉得千万不要把它理解成：</p>
+<blockquote>
+<p>“</p>
+<p>Passmark 要替代 Playwright。</p>
+</blockquote>
+<p>恰恰相反。</p>
+<p>它底层还是 Playwright。</p>
+<p>可以简单理解：</p>
+<pre class="notranslate"><code class="notranslate">            测试人员                ↓          自然语言 Test                ↓            Passmark                ↓        ┌───────┴────────┐        ↓                ↓      Cache              AI        ↓                ↓        └───────┬────────┘                ↓           Playwright                ↓             Browser
+</code></pre>
+<p>Playwright 负责：</p>
+<p><strong>稳定执行浏览器操作。</strong></p>
+<p>AI 负责：</p>
+<p><strong>那些不稳定、需要理解页面的地方。</strong></p>
+<p>Cache 负责：</p>
+<p><strong>能不用 AI 的时候就别用 AI。</strong></p>
+<p>我觉得这个分工其实挺合理。</p>
+<hr>
+<p>这里还是得泼点冷水。</p>
+<p>Self-Healing 最大的问题就是：</p>
+<p><strong>它修好了，到底是不是好事？</strong></p>
+<p>比如以前按钮叫：</p>
+<pre class="notranslate"><code class="notranslate">Submit Order
+</code></pre>
+<p>后来页面改成：</p>
+<pre class="notranslate"><code class="notranslate">Cancel Order
+</code></pre>
+<p>如果 AI：</p>
+<p>“原来的按钮找不到了。”</p>
+<p>然后聪明地找到了另外一个按钮。</p>
+<p>点击。</p>
+<p>执行成功。</p>
+<p>……</p>
+<p>这反而可能是事故。</p>
+<p>所以 Self-Healing 最重要的问题从来不是：</p>
+<p><strong>能不能找到新的元素。</strong></p>
+<p>而是：</p>
+<p><strong>它找到的新元素，还是不是原来业务上那个东西？</strong></p>
+<p>这也是为什么 AI 自动修复不能完全没有边界。</p>
+<p>对于：</p>
+<pre class="notranslate"><code class="notranslate">按钮换位置DOM 重构class 变化Selector 变化
+</code></pre>
+<p>Self-Healing 很适合。</p>
+<p>但如果：</p>
+<pre class="notranslate"><code class="notranslate">业务流程变化交互逻辑变化产品规则变化
+</code></pre>
+<p>最好还是让测试人员确认。</p>
+<p>否则：</p>
+<p><strong>测试脚本倒是绿了，业务已经测偏了。</strong></p>
+<hr>
+<p>而是它给出了一种比较现实的组合：</p>
+<pre class="notranslate"><code class="notranslate">自然语言+AI+Cache+Self-Healing+Multi-Model Assertion+Playwright
+</code></pre>
+<p>每一个东西负责不同的问题。</p>
+<p>AI：</p>
+<p><strong>第一次理解页面。</strong></p>
+<p>Cache：</p>
+<p><strong>别每次都浪费 Token。</strong></p>
+<p>Playwright：</p>
+<p><strong>稳定执行。</strong></p>
+<p>Self-Healing：</p>
+<p><strong>页面小变化以后自己恢复。</strong></p>
+<p>Multi-Model：</p>
+<p><strong>降低 AI 判断错误的风险。</strong></p>
+<p>Video：</p>
+<p><strong>补充截图看不到的瞬时 UI。</strong></p>
+<p>这比一句：</p>
+<blockquote>
+<p>“</p>
+<p>“AI 自动生成 Playwright 脚本。”</p>
+</blockquote>
+<p>完整得多。</p>
+<hr>
+<p>我以前一直觉得，AI 对 UI 自动化最大的价值是：</p>
+<p><strong>降低写脚本的门槛。</strong></p>
+<p>但看完 Passmark 这类项目之后，我现在更关注另外一个问题：</p>
+<p><strong>AI 能不能降低维护自动化的成本？</strong></p>
+<p>因为写一条自动化，只发生一次。</p>
+<p>维护一条自动化，却可能发生：</p>
+<p>10 次、20 次、50 次。</p>
+<p>如果 AI 只是帮我们：</p>
+<pre class="notranslate"><code class="notranslate">100 行代码↓变成20 行代码
+</code></pre>
+<p>确实有帮助。</p>
+<p>但真正改变测试工作方式的，可能是：</p>
+<pre class="notranslate"><code class="notranslate">页面改了↓测试挂了↓不用马上找测试人员↓AI 尝试修复↓确认业务语义没变↓继续回归
+</code></pre>
+<p>如果这条路最后真的能跑通，那么未来 UI 自动化的重点可能也会慢慢发生变化。</p>
+<p>测试人员不用天天跟 Locator 较劲。</p>
+<p>而是把时间放在：</p>
+<p><strong>到底测什么。</strong></p>
+<p><strong>什么结果才算正确。</strong></p>
+<p><strong>哪些场景绝对不能出问题。</strong></p>
+<p><strong>AI 自动修复以后，到底有没有把测试修歪。</strong></p>
+<p>这可能才是 AI 真正进入自动化测试以后，更值得关注的变化。</p>
+<p>下一步我准备实际把 Passmark 跑起来。</p>
+<p>不用特别复杂的系统。</p>
+<p>就拿一个普通商城，做一个：</p>
+<p><strong>登录 → 搜索商品 → 加购物车 → 验证结果</strong></p>
+<p>先跑第一次，让 AI 建立 Cache。</p>
+<p>然后故意修改页面元素。</p>
+<p>再跑第二次。</p>
+<p>看看它所谓的 Self-Healing 到底能不能真的把自动化救回来。</p>
+<p>如果最后只是 Demo 看着漂亮，那也没什么不好。</p>
+<p>至少我们能知道：</p>
+<p><strong>AI 自动化到底走到哪一步了。</strong></p>
+<p>这里有一点我建议你保留：<strong>不要把 Self-Healing 写成“页面怎么变都不用维护”</strong>。Passmark 官方实际机制是成功步骤缓存在 Redis 中，后续优先走缓存；缓存步骤失效时才回退到 AI 重新解析并更新缓存。缓存目前也有适用范围，并不是所有复杂多步骤 Flow 都能无条件缓存。</p>
+<p>另外它的多模型 Assertion 目前确实是 Claude + Gemini 并行判断，意见不一致时可以调用第三个模型裁决，或者配置为直接失败；Video Assertion 则是录制完整步骤后交给 Gemini 判断瞬时 UI。</p>
+<p>Passmark GitHub 项目<a href="https://github.com/bug0inc/passmark?utm%5C_source=chatgpt.com">https://github.com/bug0inc/passmark?utm\_source=chatgpt.com</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
