@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="深夜，屏幕的冷光照在脸上，你盯着满屏的红绿K线，手指在键盘上悬停，却迟迟无法按下“买入”或“卖出”。">
+<meta property="og:title" content="【开源】一条命令，让你的AI拥有华尔街之眼：Vibe-Trading 智能体全解析">
+<meta property="og:description" content="深夜，屏幕的冷光照在脸上，你盯着满屏的红绿K线，手指在键盘上悬停，却迟迟无法按下“买入”或“卖出”。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/%E3%80%90-kai-yuan-%E3%80%91-yi-tiao-ming-ling-%EF%BC%8C-rang-ni-de-AI-yong-you-hua-er-jie-zhi-yan-%EF%BC%9AVibe-Trading%20-zhi-neng-ti-quan-jie-xi.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>【开源】一条命令，让你的AI拥有华尔街之眼：Vibe-Trading 智能体全解析</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">【开源】一条命令，让你的AI拥有华尔街之眼：Vibe-Trading 智能体全解析</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/756" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>深夜，屏幕的冷光照在脸上，你盯着满屏的红绿K线，手指在键盘上悬停，却迟迟无法按下“买入”或“卖出”。</p>
+<p>你是不是也经历过这样的时刻——</p>
+<p>想交易，但不知道该看什么数据；</p>
+<p>看了一堆研报，却越看越迷茫；</p>
+<p>好不容易理出头绪，行情已经走完了……</p>
+<p>如果你也有过这种无力感，那么今天要聊的这个东西，可能会彻底改变你的交易方式。</p>
+<p>Vibe-Trading。</p>
+<p>三个词概括它：一条命令，完整研究，你的智能体。</p>
+<hr>
+<p>简单来说，Vibe-Trading 是一个个人交易智能体框架。</p>
+<p>你不需要懂量化编程，不需要会写复杂的策略代码，甚至不需要知道 API 怎么调用。你只需要做一件事——</p>
+<p>给它下一条命令。</p>
+<p>然后，你的智能体就会自动完成从数据获取、市场分析、风险评估到交易建议的完整研究闭环。</p>
+<p>就像你身边多了一个不知疲倦的、精通金融的 AI 助手，24小时替你盯市场、做研究、出方案。</p>
+<hr>
+<p>举个例子，你只需要对智能体说：</p>
+<blockquote>
+<p>"帮我研究一下当前 BTC 的走势，结合宏观情绪和链上数据，给我一个本周的操作建议。"</p>
+</blockquote>
+<p>然后——</p>
+<p>第一步，数据采集。智能体自动拉取 BTC 的 K线数据、链上大额转账记录、期货资金费率、社交媒体情绪指数、宏观新闻……所有你能想到的数据源，它一次性搞定。</p>
+<p>第二步，多维分析。技术面、基本面、情绪面、资金面——四个维度的交叉验证，不是单一指标拍脑袋，而是立体化的市场研判。</p>
+<p>第三步，风险评估。给出具体的入场区间、止损位、仓位建议，以及不同情景下的应对策略。</p>
+<p>第四步，研究报告。输出一份结构化的研究摘要，重点信息一目了然，你只需要做最后的决策。</p>
+<p>整个过程，从你按下回车到拿到完整报告，可能只需要几十秒。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/163bf4ad2568e8aee69e1bf6035f40875dc2d0628daa80bccbd1f68d610c1a60/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f36774570626a5a6848517952736b4561616c445469635a633947774d586a62704337426469614154716f74764b456f69616f4149417176344a42724b4c3866677231633046585666523431545137343263673659506d53635978784a4e416b74454f7a4c4230525769634444584b6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/163bf4ad2568e8aee69e1bf6035f40875dc2d0628daa80bccbd1f68d610c1a60/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f36774570626a5a6848517952736b4561616c445469635a633947774d586a62704337426469614154716f74764b456f69616f4149417176344a42724b4c3866677231633046585666523431545137343263673659506d53635978784a4e416b74454f7a4c4230525769634444584b6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/6wEpbjZhHQyRskEaalDTicZc9GwMXjbpC7BdiaATqotvKEoiaoAIAqv4JBrKL8fgr1c0FXVfR41TQ742cg6YPmScYxxJNAktEOzLB0RWicDDXKk/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<hr>
+<p>Vibe-Trading 的名字里有个"Vibe"，这不是随便起的。</p>
+<p>传统的量化交易是什么？写代码、回测、调参数、过拟合、再回测……门槛高、周期长、容错率低。</p>
+<p>而 Vibe-Trading 的理念完全不同——</p>
+<p>你只需要"感受"市场，研究交给智能体。</p>
+<p>你负责提出想法、判断方向、做最终决策；智能体负责把你的想法变成一份扎实的研究报告。</p>
+<p>这种"人机协作"的模式，才是 AI 时代交易的正确打开方式。</p>
+<hr>
+<p>说实话，不管你是哪种类型的交易者，Vibe-Trading 都能帮你省下大量时间：</p>
+<ul>
+<li>
+<p>新手交易者：</p>
+</li>
+<li>
+<p>不知道从哪入手？让智能体帮你建立研究框架，边用边学。</p>
+</li>
+<li>
+<p>忙碌的上班族：</p>
+</li>
+<li>
+<p>没时间盯盘？一条命令丢给智能体，下班回来看报告。</p>
+</li>
+<li>
+<p>资深交易者：</p>
+</li>
+<li>
+<p>想快速验证想法？让智能体帮你做数据交叉验证，提高效率。</p>
+</li>
+<li>
+<p>研究者/分析师：</p>
+</li>
+<li>
+<p>需要快速生成报告？智能体帮你完成80%的基础工作。</p>
+</li>
+</ul>
+<hr>
+<p>部署 Vibe-Trading 的过程极其简单，这也是它最"反差"的地方——</p>
+<p>一个功能如此强大的交易智能体，部署只需要一条命令。</p>
+<p>不需要配置复杂的环境，不需要安装一堆依赖，不需要写一行代码。</p>
+<p>按照官方文档，复制粘贴，回车，搞定。</p>
+<p>你的个人交易智能体，就这样上线了。</p>
+<hr>
+<p>交易这件事，说到底拼的不是谁更勤奋，而是谁信息更全、分析更准、决策更快。</p>
+<p>Vibe-Trading 不替你做交易，但它替你完成了交易中最耗时的那部分——研究。</p>
+<p>把时间还给思考，把执行交给工具。</p>
+<p>这，就是 Vibe-Trading 想做的事。</p>
+<hr>
+<p>一条命令，让你的智能体具备完整交易研究能力。</p>
+<p>Vibe-Trading，你的个人交易智能体。</p>
+<p>开源地址</p>
+<div class="highlight highlight-source-js"><pre class="notranslate">https:<span class="pl-kos"></span></pre></div>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI3MTQyNDc5MA==&amp;mid=2247504934&amp;idx=1&amp;sn=d781838f7483fbdf5292f17c22f54c50&amp;scene=21#wechat_redirect" rel="nofollow">8元解锁820+优质项目！别再瞎找资料了！AI、低代码、Agent实战教程一网打尽，永久更新！</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/efb89eab44840b5f6e965242c4f4bb93f0c7af82f8817b7359706d036f8e38ef/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f36774570626a5a6848517a74303938637757595431765a665245447469624a39673944435961327a3168444c324b4a665248507145387055614753776638506962724e795563554b7336486554496b474730324456705878683676696269636541395a42725039455a5069615a4644452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/efb89eab44840b5f6e965242c4f4bb93f0c7af82f8817b7359706d036f8e38ef/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f36774570626a5a6848517a74303938637757595431765a665245447469624a39673944435961327a3168444c324b4a665248507145387055614753776638506962724e795563554b7336486554496b474730324456705878683676696269636541395a42725039455a5069615a4644452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/6wEpbjZhHQzt098cwWYT1vZfREDtibJ9g9DCYa2z1hDL2KJfRHPqE8pUaGSwf8PibrNyUcUKs6HeTIkGG02DVpXxh6vibiceA9ZBrP9EZPiaZFDE/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<hr></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
