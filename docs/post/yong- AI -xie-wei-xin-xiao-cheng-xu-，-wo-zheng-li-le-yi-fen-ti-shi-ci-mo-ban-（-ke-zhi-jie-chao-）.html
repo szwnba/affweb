@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="前几篇讲了上线流程、提审避坑、用AI 做出第一版，还有我踩过的 7 个坑。">
+<meta property="og:title" content="用 AI 写微信小程序，我整理了一份提示词模板（可直接抄）">
+<meta property="og:description" content="前几篇讲了上线流程、提审避坑、用AI 做出第一版，还有我踩过的 7 个坑。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yong-%20AI%20-xie-wei-xin-xiao-cheng-xu-%EF%BC%8C-wo-zheng-li-le-yi-fen-ti-shi-ci-mo-ban-%EF%BC%88-ke-zhi-jie-chao-%EF%BC%89.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>用 AI 写微信小程序，我整理了一份提示词模板（可直接抄）</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用 AI 写微信小程序，我整理了一份提示词模板（可直接抄）</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/758" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>前几篇讲了上线流程、提审避坑、用AI 做出第一版，还有我踩过的 7 个坑。</p>
+<p>很多人问：提示词到底怎么写？下面这6 类模板，是我现在固定会用的——按开发顺序排列，复制后把 [ ] 换成你的内容即可。</p>
+<ol>
+<li>
+<p>一次只让 AI 做一件事（拆需求、做一页、修一个 bug 分开问）</p>
+</li>
+<li>
+<p>明确技术栈：微信小程序原生 / 是否用云开发</p>
+</li>
+<li>
+<p>每条都加：不要编造不存在的微信API，不确定请标注</p>
+</li>
+</ol>
+<p>适用场景：只有一个模糊想法，还没想清楚页面和功能，就要AI 开始写代码。</p>
+<p>模板（可直接抄）：</p>
+<p>我要做一个微信小程序，请先帮我做需求拆解，不要写代码。</p>
+<p>【项目信息】<br>
+- 项目名称：[项目名称]<br>
+- 目标用户：[谁会用]<br>
+- 核心问题：[解决什么问题]<br>
+- 主体类型：个人<br>
+- 技术栈：微信小程序原生</p>
+<p>【请你输出】<br>
+1. 3～5 个核心功能（按优先级排序）<br>
+2. 页面清单（页面路径 + 每个页面做什么）<br>
+3. MVP 版本建议（第一版只做哪些）<br>
+4. 个人主体可能受限的功能提醒<br>
+5. 我需要补充确认的问题（最多 5 个）</p>
+<p>要求：不要编造不存在的微信 API；不确定的地方请标注。</p>
+<p>填好后的示例：</p>
+<p>我要做一个微信小程序，请先帮我做需求拆解，不要写代码。</p>
+<p>【项目信息】<br>
+- 项目名称：随手记一笔<br>
+- 目标用户：想快速记录日常开支的个人用户<br>
+- 核心问题：记账太麻烦，希望 3 秒内记完一笔<br>
+- 主体类型：个人<br>
+- 技术栈：微信小程序原生</p>
+<p>【请你输出】<br>
+1. 3～5 个核心功能（按优先级排序）<br>
+2. 页面清单（页面路径 + 每个页面做什么）<br>
+3. MVP 版本建议（第一版只做哪些）<br>
+4. 个人主体可能受限的功能提醒<br>
+5. 我需要补充确认的问题（最多 5 个）</p>
+<p>要求：不要编造不存在的微信 API；不确定的地方请标注。</p>
+<p>注意：别一上来就说「帮我做小程序」——越模糊，AI 越容易乱猜（对应 7 坑之「提示词太糊」）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/09d12f36faf5814c12ebb45778b7835042bf90ba086266e6a1291f433461290c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4a346c6c3170337653747769616b4b776251747a496961526a7433645641493879633171395a6962654e33417539426e37696133533173315569634977425265544d6a6378445049527731397549723669634d76564d327a327038444b397868517436497347766d47336769637172726f6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/09d12f36faf5814c12ebb45778b7835042bf90ba086266e6a1291f433461290c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4a346c6c3170337653747769616b4b776251747a496961526a7433645641493879633171395a6962654e33417539426e37696133533173315569634977425265544d6a6378445049527731397549723669634d76564d327a327038444b397868517436497347766d47336769637172726f6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/J4ll1p3vStwiakKwbQtzIiaRjt3dVAI8yc1q9ZibeN3Au9Bn7ia3S1s1UicIwBReTMjcxDPIRw19uIr6icMvVM2z2p8DK9xhQt6IsGvmG3gicqrrok/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>适用场景：需求定了，要先搭页面骨架，再填功能和样式。</p>
+<p>模板（可直接抄）：</p>
+<p>请为微信小程序设计页面结构，先不要写复杂业务逻辑。</p>
+<p>【页面】<br>
+- 路径：[pages/xxx/xxx]<br>
+- 页面名称：[页面名]<br>
+- 页面目标：[用户进来要完成什么]</p>
+<p>【请你输出】<br>
+1. wxml 结构（区块划分：头部/列表/按钮等）<br>
+2. 需要的数据字段（js data 里放什么）<br>
+3. 需要的交互（点击、跳转、输入）<br>
+4. 关联页面（从哪来、跳去哪）<br>
+5. 验收标准（怎样算这个页面完成）</p>
+<p>约束：<br>
+- 只改这一个页面相关文件<br>
+- 不编造 wx API<br>
+- 风格简洁，适合个人工具类小程序</p>
+<p>填好后的示例：</p>
+<p>请为微信小程序设计页面结构，先不要写复杂业务逻辑。</p>
+<p>【页面】<br>
+- 路径：pages/index/index<br>
+- 页面名称：记账首页<br>
+- 页面目标：展示今日/本月支出汇总，并快速新增一笔</p>
+<p>【请你输出】<br>
+1. wxml 结构（区块划分：头部/列表/按钮等）<br>
+2. 需要的数据字段（js data 里放什么）<br>
+3. 需要的交互（点击、跳转、输入）<br>
+4. 关联页面（从哪来、跳去哪）<br>
+5. 验收标准（怎样算这个页面完成）</p>
+<p>约束：<br>
+- 只改这一个页面相关文件<br>
+- 不编造 wx API<br>
+- 风格简洁，适合个人工具类小程序</p>
+<p>注意：一次只做一个页面，别让它同时改app.json + 三个页面（对应 7 坑之「一次改太多文件」）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9393bc7d088ca571a8ed51e95893c05c620fa6dedc99464c129a0164e586f379/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4a346c6c3170337653747a37706f5377435637414d39374b6c4a4b51755a4d3359566f323435536a45635a786f533170376d627957726b577a596b69633846483766786274644759775841484872396a31486961435a55317875706251744e50383746524d424f6e534c4b786f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/9393bc7d088ca571a8ed51e95893c05c620fa6dedc99464c129a0164e586f379/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4a346c6c3170337653747a37706f5377435637414d39374b6c4a4b51755a4d3359566f323435536a45635a786f533170376d627957726b577a596b69633846483766786274644759775841484872396a31486961435a55317875706251744e50383746524d424f6e534c4b786f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/J4ll1p3vStz7poSwCV7AM97KlJKQuZM3YVo245SjEcZxoS1p7mbyWrkWzYkic8FH7fxbtdGYwXAHHr9j1HiaCZU1xupbQtNP87FRMBOnSLKxo/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>适用场景：页面结构有了，要实现某一个具体功能（如「新增一笔」「删除记录」）。</p>
+<p>模板（可直接抄）：</p>
+<p>请在现有微信小程序项目中实现【单一功能】。</p>
+<p>【功能】<br>
+- 功能名称：[功能名]<br>
+- 所在页面：[pages/xxx/xxx]<br>
+- 用户操作：[用户点什么/输入什么]<br>
+- 期望结果：[完成后看到什么]</p>
+<p>【验收标准】<br>
+1. 主路径可走通<br>
+2. 异常情况有提示（如输入为空）<br>
+3. 不破坏已有功能<br>
+4. 代码改动范围尽量小</p>
+<p>【约束】<br>
+- 只实现这一功能，不要顺手重构其他页面<br>
+- 不要编造不存在的 wx API<br>
+- 如需新增字段，说明原因</p>
+<p>完成后请告诉我：改了哪些文件、如何自测。</p>
+<p>填好后的示例：</p>
+<p>请在现有微信小程序项目中实现【单一功能】。</p>
+<p>【功能】<br>
+- 功能名称：新增一笔支出<br>
+- 所在页面：pages/add/add<br>
+- 用户操作：输入金额和备注，点击保存<br>
+- 期望结果：保存成功并返回首页，首页列表出现新记录</p>
+<p>【验收标准】<br>
+1. 主路径可走通<br>
+2. 异常情况有提示（如金额为空）<br>
+3. 不破坏已有功能<br>
+4. 代码改动范围尽量小</p>
+<p>【约束】<br>
+- 只实现这一功能，不要顺手重构其他页面<br>
+- 不要编造不存在的 wx API<br>
+- 如需本地存储，优先 wx.setStorageSync（请确认用法）</p>
+<p>完成后请告诉我：改了哪些文件、如何自测。</p>
+<p>注意：每条提示词末尾加「验收标准」，AI 输出会更可用；你要当 QA 自己点一遍。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c45e922cd66794c835f4edb942dac13c3845ddf0879483f032d9cce234dfb17c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4a346c6c31703376537479447434796c733776675066325943647137514e6b62636c58384b5a374a684a7259377174766134324e534d734b575169614b564c696271734c3771454850545149794b62654f56425451654d6c4b6e51784b7245377570676e7761335154534b32492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/c45e922cd66794c835f4edb942dac13c3845ddf0879483f032d9cce234dfb17c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4a346c6c31703376537479447434796c733776675066325943647137514e6b62636c58384b5a374a684a7259377174766134324e534d734b575169614b564c696271734c3771454850545149794b62654f56425451654d6c4b6e51784b7245377570676e7761335154534b32492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/J4ll1p3vStyDt4yls7vgPf2YCdq7QNkbclX8KZ7JhJrY7qtva42NSMsKWQiaKVLibqsL7qEHPTQIyKbeOVBTQeMlKnQxKrE7upgnwa3QTSK2I/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>适用场景：运行报错、按钮无效、真机和模拟器表现不一致。</p>
+<p>模板（可直接抄）：</p>
+<p>我的微信小程序有一个 Bug，请帮我定位并修复。</p>
+<p>【问题描述】<br>
+- 现象：[看到了什么]<br>
+- 期望：[应该怎样]<br>
+- 复现步骤：<br>
+  1. [步骤1]<br>
+  2. [步骤2]<br>
+  3. [步骤3]</p>
+<p>【环境】<br>
+- 微信开发者工具 / 真机：[哪个有问题]<br>
+- 基础库版本：[如有]<br>
+- 报错信息（完整粘贴）：<br>
+[粘贴报错]</p>
+<p>【约束】<br>
+- 最小改动修复，不要重写整个项目<br>
+- 不要编造 wx API<br>
+- 修复后说明根因 + 我如何验证</p>
+<p>如果信息不足，先列出还需要我提供什么，不要猜。</p>
+<p>填好后的示例：</p>
+<p>我的微信小程序有一个 Bug，请帮我定位并修复。</p>
+<p>【问题描述】<br>
+- 现象：点击「保存」后没有任何反应<br>
+- 期望：保存成功并返回首页<br>
+- 复现步骤：<br>
+  1. 打开新增页<br>
+  2. 输入金额 20<br>
+  3. 点击保存</p>
+<p>【环境】<br>
+- 真机有问题，模拟器正常<br>
+- 报错信息（完整粘贴）：<br>
+TypeError: Cannot read property 'amount' of undefined</p>
+<p>【约束】<br>
+- 最小改动修复，不要重写整个项目<br>
+- 不要编造 wx API<br>
+- 修复后说明根因 + 我如何验证</p>
+<p>注意：报错信息、复现步骤越完整越好；别只说「坏了帮我修」（对应7 坑之幻觉 API）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43290d286803fa14728102349f6f0d37751674da788d292c8d5ca219f8a47fb4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4a346c6c3170337653747777364279306c6961657450426149433563794157484d736b6b555a35496c7537584b57435968373246724369616468584773323562506d316e376963696173344938774f4b47536d6961686e4850443769627a56504e69637a61657871664b6d37714e6b726d6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/43290d286803fa14728102349f6f0d37751674da788d292c8d5ca219f8a47fb4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4a346c6c3170337653747777364279306c6961657450426149433563794157484d736b6b555a35496c7537584b57435968373246724369616468584773323562506d316e376963696173344938774f4b47536d6961686e4850443769627a56504e69637a61657871664b6d37714e6b726d6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/J4ll1p3vStww6By0liaetPBaIC5cyAWHMskkUZ5Ilu7XKWCYh72FrCiadhXGs25bPm1n7icias4I8wOKGSmiahnHPD7ibzVPNiczaexqfKm7qNkrmk/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>适用场景：功能差不多做完了，提审前检查隐私、授权、类目、个人主体限制。</p>
+<p>模板（可直接抄）：</p>
+<p>请对我的微信小程序做合规检查（个人主体），先不要大改代码，先出检查报告。</p>
+<p>【项目信息】<br>
+- 名称：[小程序名]<br>
+- 简介：[简介]<br>
+- 类目：[已选类目]<br>
+- 主体：个人</p>
+<p>【当前功能概述】<br>
+[简述做了什么]</p>
+<p>【请你检查并输出】<br>
+1. 类目与实际功能是否一致<br>
+2. 个人主体是否有明显受限功能（社交/金融/电商等）<br>
+3. 是否使用用户数据/权限（昵称、手机号、位置等）<br>
+4. 是否缺少隐私政策/用户协议/授权说明<br>
+5. 是否有「开发中」占位或不可用按钮<br>
+6. 提审前必须修改项（按优先级排序）</p>
+<p>要求：结合微信个人小程序常见审核点；不确定的标注「需查官方文档」。</p>
+<p>填好后的示例：</p>
+<p>请对我的微信小程序做合规检查（个人主体），先不要大改代码，先出检查报告。</p>
+<p>【项目信息】<br>
+- 名称：随手记一笔<br>
+- 简介：个人日常开支快速记录工具<br>
+- 类目：工具-记账<br>
+- 主体：个人</p>
+<p>【当前功能概述】<br>
+用户可新增/查看/删除本地记账记录，无社交、无支付。</p>
+<p>【请你检查并输出】<br>
+1. 类目与实际功能是否一致<br>
+2. 个人主体是否有明显受限功能<br>
+3. 是否使用用户数据/权限<br>
+4. 是否缺少隐私政策/用户协议/授权说明<br>
+5. 是否有「开发中」占位或不可用按钮<br>
+6. 提审前必须修改项（按优先级排序）</p>
+<p>要求：结合微信个人小程序常见审核点；不确定的标注「需查官方文档」。</p>
+<p>注意：AI 很少主动补隐私页；这篇检查项要你自己过一遍（对应提审被拒高频坑）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8cc0a32348856fd43ec79eb4b418a8740c84da7cdbc720c17bb08d6581265c8c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4a346c6c317033765374784b6961554742754b7850763049766961414f644e4c6c696247567678345972714c3846495031796178636e573262426e316962335456687573356e4b333469637955315449674e6f35386e566963327a584e494e4e574a414d7469615765414c57386963494968552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/8cc0a32348856fd43ec79eb4b418a8740c84da7cdbc720c17bb08d6581265c8c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4a346c6c317033765374784b6961554742754b7850763049766961414f644e4c6c696247567678345972714c3846495031796178636e573262426e316962335456687573356e4b333469637955315449674e6f35386e566963327a584e494e4e574a414d7469615765414c57386963494968552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/J4ll1p3vStxKiaUGBuKxPv0IviaAOdNLlibGVvx4YrqL8FIP1yaxcnW2bBn1ib3TVhus5nK34icyU1TIgNo58nVic2zXNINNWJAMtiaWeALW8icIIhU/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>适用场景：准备上传代码、提交审核前的最后一轮检查。</p>
+<p>模板（可直接抄）：</p>
+<p>我要提交微信小程序审核，请按提审标准帮我做最后一轮自查。</p>
+<p>【项目】<br>
+- 名称：[小程序名]<br>
+- 主体：个人<br>
+- 核心路径：[进入→操作→结果]</p>
+<p>【请你输出 checklist】<br>
+请逐项判断：通过 / 风险 / 需修改，并给出修改建议：<br>
+1. 主功能是否可用（无死按钮、无占位页）<br>
+2. 名称/简介是否如实描述<br>
+3. 类目是否匹配<br>
+4. 隐私与授权是否齐全<br>
+5. 真机测试建议（我应点哪些路径）<br>
+6. 是否建议删减功能以提高通过率</p>
+<p>最后给：提审前 10 分钟行动清单（按顺序）。</p>
+<p>填好后的示例：</p>
+<p>我要提交微信小程序审核，请按提审标准帮我做最后一轮自查。</p>
+<p>【项目】<br>
+- 名称：随手记一笔<br>
+- 主体：个人<br>
+- 核心路径：打开首页 → 新增一笔 → 保存 → 首页看到记录 → 删除记录</p>
+<p>【请你输出 checklist】<br>
+请逐项判断：通过 / 风险 / 需修改，并给出修改建议：<br>
+1. 主功能是否可用<br>
+2. 名称/简介是否如实描述<br>
+3. 类目是否匹配<br>
+4. 隐私与授权是否齐全<br>
+5. 真机测试建议<br>
+6. 是否建议删减功能</p>
+<p>最后给：提审前 10 分钟行动清单（按顺序）。</p>
+<p>注意：模板不能代替真机自测——清单打勾后，自己再用手机走 3 遍主路径。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/18523cb958eee6f9c88d347e81c02b8ff8a01645dac4f200d01c6cf11596ea3b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4a346c6c317033765374796c51576733396f69635256745179416b6961687a38436a42706c436d6c67437250714e5141644c3354756e4343335a4459574c69634b7a3236684d333755496c72704339517750344b6962424e6b7441486b68576b3357686143655674794f41564b33492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/18523cb958eee6f9c88d347e81c02b8ff8a01645dac4f200d01c6cf11596ea3b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4a346c6c317033765374796c51576733396f69635256745179416b6961687a38436a42706c436d6c67437250714e5141644c3354756e4343335a4459574c69634b7a3236684d333755496c72704339517750344b6962424e6b7441486b68576b3357686143655674794f41564b33492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/J4ll1p3vStylQWg39oicRVtQyAkiahz8CjBplCmlgCrPqNQAdL3TunCC3ZDYWLicKz26hM37UIlrpC9QwP4KibBNktAHkhWk3WhaCeVtyOAVK3I/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>好提示词= 说清楚目标 + 写清约束 + 给出验收标准。AI 负责加速，你负责方向和验收。</p>
+<p>你常用哪类提示词？留言分享，或者把你的模板也贴在评论区～</p>
+<p>有兴趣的话，也可以到本公众号菜单栏，看看我自己做的小程序～</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
