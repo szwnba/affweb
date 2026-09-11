@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="做 AI 视频的朋友应该都有体会，现在的视频模型基本都是按秒计费，点一次生成就是一笔钱。">
+<meta property="og:title" content="无限量免费用，AI 短剧随便生成！">
+<meta property="og:description" content="做 AI 视频的朋友应该都有体会，现在的视频模型基本都是按秒计费，点一次生成就是一笔钱。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wu-xian-liang-mian-fei-yong-%EF%BC%8CAI%20-duan-ju-sui-bian-sheng-cheng-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>无限量免费用，AI 短剧随便生成！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">无限量免费用，AI 短剧随便生成！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/761" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>做 AI 视频的朋友应该都有体会，现在的视频模型基本都是按秒计费，点一次生成就是一笔钱。</p>
+<p>一条镜头不满意，改改提示词再来一次，几轮抽卡下来，账单比视频先出来。</p>
+<p>做 AI 短剧的就更难受了，几十个镜头每个都要反复抽卡，制作一集成本可能都要几百上千。</p>
+<p>最近发现 Agnes AI，把它最新的视频模型 <strong>Agnes Video 2.5</strong> 系列，上线到 AI 短剧制作平台 <strong>Pavo</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dc43f4f6e21cd7ae78be5b5781fab99623e1c10870b43a4f36792df5597fc88f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b49665942417575696171684b4c73356b644e71526a4c58426470696379754a67724f3961466247796f7176386f58675a4e584a324a4a3335724776696264705a4b43514d6469614d46353637646a35434e37714e5777446c6241584a495752305069614d592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/dc43f4f6e21cd7ae78be5b5781fab99623e1c10870b43a4f36792df5597fc88f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b49665942417575696171684b4c73356b644e71526a4c58426470696379754a67724f3961466247796f7176386f58675a4e584a324a4a3335724776696264705a4b43514d6469614d46353637646a35434e37714e5777446c6241584a495752305069614d592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQokIfYBAuuiaqhKLs5kdNqRjLXBdpicyuJgrO9aFbGyoqv8oXgZNXJ2JJ35rGvibdpZKCQMdiaMF567dj5CN7qNWwDlbAXJIWR0PiaMY/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>重要的是，<strong>Agnes Video 2.5 Flash 能免费不限量的用，还支持多图参考和首尾帧生视频</strong>。</p>
+<p>至于正式版 Agnes Video 2.5，首次注册就送 200 积分，之后每天都能免费领取积分。</p>
+<p>也就是说，<strong>现在我们可以在 Pavo 上免费生成各种各样的视频，甚至零成本制作一部 AI 短剧</strong>。</p>
+<p>下面这段视频，就是我在 Pavo 上用它的「无限画布」功能制作出来的，教程会在下面讲到。</p>
+<p>话不多说，对于免费的模型，到底能不能拿来做内容，先带大家一起上手实测一下。</p>
+<h3>上手实测 Agnes Video 2.5</h3>
+<p>打开浏览器访问 <a href="https://app.pavo-ai.cn%EF%BC%8C%E5%B9%B6%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%EF%BC%8C%E9%80%89%E6%8B%A9" rel="nofollow">https://app.pavo-ai.cn，并注册登录，选择</a> Agnes Video 2.5 Flash 模型。</p>
+<p>生成的视频支持 9:16、3:4、1:1 等常见的尺寸，时长最高可生成 12s，以及 720P 分辨率。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9cec70e211de2ad394cd8a002e66894e541e98ba24714e67a06bc28e72d22cd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6b42367138514b4456594f6341696173704e69634d734f68736e6b75496e48536963636f5944736f355649314b67614d4e704d3838494e776451386a654736476962536b757946496731374f744e696343316545786174657a61774f686858514553614862732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/c9cec70e211de2ad394cd8a002e66894e541e98ba24714e67a06bc28e72d22cd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6b42367138514b4456594f6341696173704e69634d734f68736e6b75496e48536963636f5944736f355649314b67614d4e704d3838494e776451386a654736476962536b757946496731374f744e696343316545786174657a61774f686858514553614862732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQokB6q8QKDVYOcAiaspNicMsOhsnkuInHSiccoYDso5VI1KgaMNpM88INwdQ8jeG6GibSkuyFIg17OtNicC1eExatezawOhhXQESaHbs/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>先来看下 Agnes Video 2.5 Flash 模型，首先测试多人物和运镜的效果，发送提示词如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fc7a63a15c6b4b1f2b944334f11369a981d7f17fa64458528f39023323380c1d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d39613238397a77795a366742343563585563635a346341565a6c7a4d62434f39516b36576152624959363342616b61725578674e696168727859514e69626963426857513632553153596e446d6b546b4a746a714d367248495348434e454e46696374592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/fc7a63a15c6b4b1f2b944334f11369a981d7f17fa64458528f39023323380c1d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d39613238397a77795a366742343563585563635a346341565a6c7a4d62434f39516b36576152624959363342616b61725578674e696168727859514e69626963426857513632553153596e446d6b546b4a746a714d367248495348434e454e46696374592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQom9a289zwyZ6gB45cXUccZ4cAVZlzMbCO9Qk6WaRbIY63BakarUxgNiahrxYQNibicBhWQ62U1SYnDmkTkJtjqM6rHISHCNENFictY/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>生成的视频与提示词描述一致，镜头一路往前推，路上来往的行人各走各没有穿模。</p>
+<p>再加上配的雨声和人物吃面发出的声音，氛围感直接拉满，免费模型能有这效果还真不错。</p>
+<p>想生成一些复杂运动场景，比如一辆跑车在山路上漂移，镜头一直跟拍着，同样也可以。</p>
+<p>赛车转弯漂移动作自然，而且配音跟画面还对齐，另外空中直升飞机贴着跟拍镜头也还行。</p>
+<p>再来看下真人的表情表现如何，这次换成 Agnes Video 2.5 模型，发送如下提示词：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19f6f1f357053e797ae17a4711b7fdaea1be7121699143cdb4341295f2468bcd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d707473716b624d46706c6d7938637a454c396a776f6a47714a6d48564d544363316961554d7966716d454956526875335564534878776a544b7432737469625a37656b5137666670726d347845373178776b42626e5063796962526a647a366b6b4f342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/19f6f1f357053e797ae17a4711b7fdaea1be7121699143cdb4341295f2468bcd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d707473716b624d46706c6d7938637a454c396a776f6a47714a6d48564d544363316961554d7966716d454956526875335564534878776a544b7432737469625a37656b5137666670726d347845373178776b42626e5063796962526a647a366b6b4f342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQomptsqkbMFplmy8czEL9jwojGqJmHVMTCc1iaUMyfqmEIVRhu3UdSHxwjTKt2stibZ7ekQ7ffprm4xE71xwkBbnPcyibRjdz6kkO4/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>出来的效果着实被惊艳到了，女主那哭泣、眼泪流下的悲伤表情超级真实，男主说话也带情绪。</p>
+<p>画面是写实短片分镜，背后的男主虚化，镜头聚焦在女主，与电影胶片画面差不多。</p>
+<p>除了能驾驭真人场景外，对于其他风格也是可以的，比如我测试的日系动画电影风格。</p>
+<p>画面带有淡淡的胶片颗粒，镜头从后面跟拍，切到低机位，生成的动漫人物和动物也很好看。</p>
+<p>从上面的测试，可以看到 Agnes Video 2.5 两个模型生成的视频效果的确不错。</p>
+<p>多人物、复杂运动，运镜切换、真人短剧、人物表情、动画风格等方面都能驾驭。</p>
+<p>最重要的是，我们可以在 Pavo 上免费使用它们制作视频，这才是最香的。</p>
+<p>再搭配 Pavo 平台的「无限画布」、「AI 短剧」功能，可以尽情免费制作各种各样视频或短剧。</p>
+<p>下面就来跟大家介绍一下，这两大功能。</p>
+<h3>Pavo 无限画布</h3>
+<p>在这里，我们可以添加文本、图片、视频、音频等各种类型的节点，也可以生成素材。</p>
+<p>每一个节点之间都可以链接，任意中间节点继续生成，同一素材还可以拉出多条不同分支。</p>
+<p>就有点类似于 Dify、n8n 这些 AI 工作流工具，只不过 Pavo 的画布是面向视频工作流的制作。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9ca2682854c591b4a157040a138bdec4dd64c0182308abf45897ede253f53aa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6e334e436a66674d766668596b5158503636346b4e4938594c71374669615a386f566961745a586279646b544a6e4f7259664b34477956676b77434439644b7a3473644858483932486f4230536265746661725776696251505058484365417968304d412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/a9ca2682854c591b4a157040a138bdec4dd64c0182308abf45897ede253f53aa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6e334e436a66674d766668596b5158503636346b4e4938594c71374669615a386f566961745a586279646b544a6e4f7259664b34477956676b77434439644b7a3473644858483932486f4230536265746661725776696251505058484365417968304d412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQon3NCjfgMvfhYkQXP664kNI8YLq7FiaZ8oViatZXbydkTJnOrYfK4GyVgkwCD9dKz4sdHXH92HoB0SbetfarWvibQPPXHCeAyh0MA/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>跟大家演示一下制作一条视频的流程。比如我们先添加一个图片节点，为视频生成一张人物参考图：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e858d04e7ae7121ec0648bf8c9a31e85e27ac93f206ecfaa979a2d253be9467/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6e696239696170556c35376775647632634d484635547944557a794c7676546c6b465256414d5134424b6f436e596648687545575437316e774e45754a7557797652597037763847436e487938645741496b38716a4d716a5a5a536732394444546e772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/2e858d04e7ae7121ec0648bf8c9a31e85e27ac93f206ecfaa979a2d253be9467/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6e696239696170556c35376775647632634d484635547944557a794c7676546c6b465256414d5134424b6f436e596648687545575437316e774e45754a7557797652597037763847436e487938645741496b38716a4d716a5a5a536732394444546e772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQonib9iapUl57gudv2cMHF5TyDUzyLvvTlkFRVAMQ4BKoCnYfHhuEWT71nwNEuJuWyvRYp7v8GCnHy8dWAIk8qjMqjZZSg29DDTnw/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>有了这张人物图，后面生成的视频人物均可以拿它作为参考，保证几段视频人物的一致性。</p>
+<p>接下来生成同个人物不同动作的视频，部分提示词重复用的提示词，可以放到文本节点里。</p>
+<p>每段视频只需要引用它们，无需重复写，就像下图这样，连接着视频节点，分别生成三段视频：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aac55a410cf73c8de7e5b61d2ed25b661ab088055c71039a0f9d21e4c8799ac6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6e7a4842615134594c686e4872345235556b536e7a625755366b69614845486868507234534d49436c75314247557567357a4a7248323342724c553338644c6e7a6d7238414c6b625663675438446962716730384d656961534957743070477868696167512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/aac55a410cf73c8de7e5b61d2ed25b661ab088055c71039a0f9d21e4c8799ac6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6e7a4842615134594c686e4872345235556b536e7a625755366b69614845486868507234534d49436c75314247557567357a4a7248323342724c553338644c6e7a6d7238414c6b625663675438446962716730384d656961534957743070477868696167512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQonzHBaQ4YLhnHr4R5UkSnzbWU6kiaHEHhhPr4SMIClu1BGUug5zJrH23BrLU38dLnzmr8ALkbVcgT8Dibqg08MeiaSIWt0pGxhiagQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>下面将这三条视频，合并成一段动作连贯的视频，在 Pavo 平台上还可以使用其他视频模型。</p>
+<p>目前支持 MiniMax H3、Seedance 2.5、Wan 2.7 等主流的视频生成模型。</p>
+<p>这里我选择了用 Seedance 2.5，生成 30 秒、1080P 分辨率视频，再加入一些提示词描述。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/67e2dcd3ac96a5dff3d4ac0929006f83898df0f39d057ac8896e8c5c0b54ce11/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6b4c3453614c684875587245476f72786742584d634d34385a753833733334754c6a645534594d485633354c4775766c714c636869624e56374c5165556a4b67374c434f4355446e584463333969615642626961696164644450383751675a59584b6e676f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/67e2dcd3ac96a5dff3d4ac0929006f83898df0f39d057ac8896e8c5c0b54ce11/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6b4c3453614c684875587245476f72786742584d634d34385a753833733334754c6a645534594d485633354c4775766c714c636869624e56374c5165556a4b67374c434f4355446e584463333969615642626961696164644450383751675a59584b6e676f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQokL4SaLhHuXrEGorxgBXMcM48Zu83s34uLjdU4YMHV35LGuvlqLchibNV7LQeUjKg7LCOCUDnXDc39iaVBbiaiaddDP87QgZYXKngo/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>完整的视频制作工作流如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f8473ac4a3feb151754d54255dc7e3c99d12f516cca178b2532acd7d875e460a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6d41627230346635794543316478766d39646e4f55706d43496b754d6e456b58475669634f68744f7a474342786e6f3677434e66445a47783444663362645530485554616846763948775039366c6b56394742476638343031536e767142754a54302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/f8473ac4a3feb151754d54255dc7e3c99d12f516cca178b2532acd7d875e460a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6d41627230346635794543316478766d39646e4f55706d43496b754d6e456b58475669634f68744f7a474342786e6f3677434e66445a47783444663362645530485554616846763948775039366c6b56394742476638343031536e767142754a54302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQomAbr04f5yEC1dxvm9dnOUpmCIkuMnEkXGVicOhtOzGCBxno6wCNfDZGx4Df3bdU0HUTahFv9HwP96lkV9GBGf8401SnvqBuJT0/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>最后再看一下完整视频，人物全程保持一致性、动作流畅、配音还卡点，超级炫酷。</p>
+<p>这种工作流的视频制作方式，比一条复杂的长提示词直出的效果好太多。</p>
+<p>另外我觉得 Pavo 的画布功能也非常适合用来制作 AI 短剧，一步一步的按照剧情生成素材。</p>
+<h3>AI 短剧</h3>
+<p>Pavo 还提供「短剧」制作功能，可以完成从想法到剧本、人物场景、分镜、成片的整个流程。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/389f81447292ca6588cd351a6e1dbe0793b4a17cab77c297e119a3221c2fe3ee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d4248795a7762616c556b534a746639566b4a6e3350703371686b457662624135774672667078705935524379326c705774706c6962706f4c58446c664d5a78544636464a4b536c366869627269627a753656637332426f524d4f6e72723356463346452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/389f81447292ca6588cd351a6e1dbe0793b4a17cab77c297e119a3221c2fe3ee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d4248795a7762616c556b534a746639566b4a6e3350703371686b457662624135774672667078705935524379326c705774706c6962706f4c58446c664d5a78544636464a4b536c366869627269627a753656637332426f524d4f6e72723356463346452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQomBHyZwbalUkSJtf9VkJn3Pp3qhkEvbbA5wFrfpxpY5RCy2lpWtplibpoLXDlfMZxTF6FJKSl6hibribzu6Vcs2BoRMOnrr3VF3FE/640?wx_fmt=png&amp;from=appmsg#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>使用非常简单，只需要按着它的制作流程来走就行，过程可以不断修改脚本、图片和视频。</p>
+<p>也可以选择不同风格、模型来制作，按着界面的引导来走，即便是新手也能制作出一部短剧。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6abbfa4e5d78dce5aa62b27ddfa0e0b2a5cb7ac135f0d6637c955794086a7365/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6d4154574f634231674b4752323274637768587764717673567953654f32646176464634466e414a4b496566307559393569616d4261696256677277714b314d6d376777573230454a354d543869636a6d69613953776e6c526156656c793664746e6f68732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/6abbfa4e5d78dce5aa62b27ddfa0e0b2a5cb7ac135f0d6637c955794086a7365/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6d4154574f634231674b4752323274637768587764717673567953654f32646176464634466e414a4b496566307559393569616d4261696256677277714b314d6d376777573230454a354d543869636a6d69613953776e6c526156656c793664746e6f68732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQomATWOcB1gKGR22tcwhXwdqvsVySeO2davFF4FnAJKIef0uY95iamBaibVgrwqK1Mm7gwW20EJ5MT8icjmia9SwnlRaVely6dtnohs/640?wx_fmt=png&amp;from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>下面是我在 Pavo 制作的一集关于一位老程序员与产品经理的围绕着一个需求展开的对话。</p>
+<p>制作过程生成的剧本、场景、人物、环境、视频全部一次性出，没有特意精细化调整。</p>
+<p>生成的效果，已经不错了，人物的表情、动作还挺到位的，连配音、字幕也是有的。</p>
+<h3>写在最后</h3>
+<p>说实话，这次实测下来 Agnes Video 2.5 两个模型的表现，比我预想中的要好。</p>
+<p>以前做 AI 视频最怕的就是花费，现在 Flash 免费不限量，而且效果也不错。</p>
+<p>想追求更长、更清晰、更好的视频效果，可以用 Agnes Video 2.5，每秒只消耗 2 积分。</p>
+<p>而且，现在每天还能免费领取 200 积分，足够生成时长在一分半左右的视频了。</p>
+<p>再加上 Pavo 提供的无限画布和短剧功能，可以说实打实地，把做 AI 短剧的门槛打了下来。</p>
+<p>往后制作 AI 短剧这条赛道上，拼的也许不再是谁的积分多，而是谁的故事讲得好。</p>
+<p>想做 AI 短剧的朋友，可以到 Pavo 上使用免费模型体验看看。</p>
+<p>地址：<a href="https://app.pavo-ai.cn" rel="nofollow">https://app.pavo-ai.cn</a></p>
+<p>今天的分享到此结束，感谢大家抽空阅读，我们下期再见，Respect！</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
