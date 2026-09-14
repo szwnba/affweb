@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="阿虚同学  
+
+读完需要
+
+4
+
+分钟
+
+速读仅需 2 分钟
+
+点击头像即可关注
+
+之前评论区简单征集过下大家对「公众号文章采集」的需求👇
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUDUhQpuXjyWX7FDoWkEDoIMET67BemvbI1ZWJiaE5LPibb1sicgXQG90eEmxHHBq4cMuwpUiblhBL7GRH7gGDc13mMW0Yf3dvwaPfo/640?wx_fmt=png&from=appmsg#imgIndex=0)
+
+点赞人数很多，看得出还是很多人都需要一个**公众号转 AI 知识库**的工具
+
+1
+
+**公众号历史文章全量采集软件**
+
+所以阿虚折腾与测试了很多天，终于把这个工具开发好了（也支持 Mac 电脑）![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUAClM2ZtSTMjmJrNnxOyibb5v9dG6rN2H43pzO1aZ3HDhZIwcnXj9Ly6zUiapEgUzoMvBJbwffuAibjjMEPEniaoFtapicpFqcTdcJA/640?wx_fmt=png&from=appmsg#imgIndex=1)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUAqlrpBxJBjg0okCPX7U4yyUKaKNHicPjeFAPlb20NtHbl4upTGJcZ3LeyCRYn0bNZoXgemqcLv9Ug9kxLmmIv5gZgadYF0W2JU/640?wx_fmt=png&from=appmsg#imgIndex=2)
+
+使用的话极其简单，通过「某公众号的任意一篇文章链接」即可在软件左下角完成公众号添加
+
+然后先点击左上角的「扫码登录」登录好你的**微信读书**，这里有一个关键的注意事项
+
+很多时候你点击登录，会发现其实浏览器上已经登录了账号的，但左上角还是显示**登录已失效**——其实这时已经触发了微信的风控
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCWia7o7ngpMyMCCuJibPDZu8vTjbQiaaf2elv0Jmjo2Xa5qlI3t3YsfTBp7rGM02DiaG82T3HzQNIS4t3DzicaMSnu135Lluic8gt48/640?wx_fmt=png&from=appmsg#imgIndex=3)
+
+只是在微信读书主页是不会显示人机验证的![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCOu7J9eFnkT2KJRLiaGkG9iareFUSH4BibxJAY8Run5G0LQn87lYOtiaTZxg9pdgFQwOr5CK0mP4ENtOgKu2gl13ACiaMHbL2CdFUU/640?wx_fmt=png&from=appmsg#imgIndex=4)
+
+所以我们就需要**主动点进任意已订阅公众号的文章，触发人机验证的弹窗**，然后手动解决人机验证
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUC1wGI2gfiacQZ4ad26UhnKandvCRWhrRwExj0YZexTabhtnxsnqHlRicnTc5xhYTEJ41E8ZvFgnkWMgeON37aDS2JDn222qjyBU/640?wx_fmt=png&from=appmsg#imgIndex=5)
+▲主动点击某篇文章才能触发
+
+过了人机验证，软件就会自动刷新微信读书凭证
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUApqvFWdalpia2QFNWx1NvZZqAxNowDWO2YO1zKBaouz7NuYtF4DPI59XwrHKokt0T7hsicaLhTxTAKia6dSrYxhU2EUp7dicfqWyU/640?wx_fmt=png&from=appmsg#imgIndex=6)
+
+最后就可以勾选公众号，点击右上角开始采集了![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCHXPUgL46TJdsFPEa8ibFJftb5zMdovL1Mu9SQTjFoSwH76QBfPqOk6iaslrethicVtykwnEkXhHeKKCJVgg56WKqUf6jCXe6BEc/640?wx_fmt=png&from=appmsg#imgIndex=7)
+
+软件区分首次全量采集和后续的增量采集：
+
+1.  全量采集：软件限制只能单个账号单个账号跑，且视你需要采集的公众号历史文章数量，不建议一天全量采集太多账号，极容易触发账号级风控
+    
+2.  增量采集：因为一次可以拉取最新的 20 篇文章链接，且会自动补采到上次文章的位置，所以没必要每天运行，可能半个月跑一次足够。">
+<meta property="og:title" content="我开发了个小工具，可以把任意公众号变成你的 AI 知识库！">
+<meta property="og:description" content="阿虚同学  
+
+读完需要
+
+4
+
+分钟
+
+速读仅需 2 分钟
+
+点击头像即可关注
+
+之前评论区简单征集过下大家对「公众号文章采集」的需求👇
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUDUhQpuXjyWX7FDoWkEDoIMET67BemvbI1ZWJiaE5LPibb1sicgXQG90eEmxHHBq4cMuwpUiblhBL7GRH7gGDc13mMW0Yf3dvwaPfo/640?wx_fmt=png&from=appmsg#imgIndex=0)
+
+点赞人数很多，看得出还是很多人都需要一个**公众号转 AI 知识库**的工具
+
+1
+
+**公众号历史文章全量采集软件**
+
+所以阿虚折腾与测试了很多天，终于把这个工具开发好了（也支持 Mac 电脑）![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUAClM2ZtSTMjmJrNnxOyibb5v9dG6rN2H43pzO1aZ3HDhZIwcnXj9Ly6zUiapEgUzoMvBJbwffuAibjjMEPEniaoFtapicpFqcTdcJA/640?wx_fmt=png&from=appmsg#imgIndex=1)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUAqlrpBxJBjg0okCPX7U4yyUKaKNHicPjeFAPlb20NtHbl4upTGJcZ3LeyCRYn0bNZoXgemqcLv9Ug9kxLmmIv5gZgadYF0W2JU/640?wx_fmt=png&from=appmsg#imgIndex=2)
+
+使用的话极其简单，通过「某公众号的任意一篇文章链接」即可在软件左下角完成公众号添加
+
+然后先点击左上角的「扫码登录」登录好你的**微信读书**，这里有一个关键的注意事项
+
+很多时候你点击登录，会发现其实浏览器上已经登录了账号的，但左上角还是显示**登录已失效**——其实这时已经触发了微信的风控
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCWia7o7ngpMyMCCuJibPDZu8vTjbQiaaf2elv0Jmjo2Xa5qlI3t3YsfTBp7rGM02DiaG82T3HzQNIS4t3DzicaMSnu135Lluic8gt48/640?wx_fmt=png&from=appmsg#imgIndex=3)
+
+只是在微信读书主页是不会显示人机验证的![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCOu7J9eFnkT2KJRLiaGkG9iareFUSH4BibxJAY8Run5G0LQn87lYOtiaTZxg9pdgFQwOr5CK0mP4ENtOgKu2gl13ACiaMHbL2CdFUU/640?wx_fmt=png&from=appmsg#imgIndex=4)
+
+所以我们就需要**主动点进任意已订阅公众号的文章，触发人机验证的弹窗**，然后手动解决人机验证
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUC1wGI2gfiacQZ4ad26UhnKandvCRWhrRwExj0YZexTabhtnxsnqHlRicnTc5xhYTEJ41E8ZvFgnkWMgeON37aDS2JDn222qjyBU/640?wx_fmt=png&from=appmsg#imgIndex=5)
+▲主动点击某篇文章才能触发
+
+过了人机验证，软件就会自动刷新微信读书凭证
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUApqvFWdalpia2QFNWx1NvZZqAxNowDWO2YO1zKBaouz7NuYtF4DPI59XwrHKokt0T7hsicaLhTxTAKia6dSrYxhU2EUp7dicfqWyU/640?wx_fmt=png&from=appmsg#imgIndex=6)
+
+最后就可以勾选公众号，点击右上角开始采集了![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCHXPUgL46TJdsFPEa8ibFJftb5zMdovL1Mu9SQTjFoSwH76QBfPqOk6iaslrethicVtykwnEkXhHeKKCJVgg56WKqUf6jCXe6BEc/640?wx_fmt=png&from=appmsg#imgIndex=7)
+
+软件区分首次全量采集和后续的增量采集：
+
+1.  全量采集：软件限制只能单个账号单个账号跑，且视你需要采集的公众号历史文章数量，不建议一天全量采集太多账号，极容易触发账号级风控
+    
+2.  增量采集：因为一次可以拉取最新的 20 篇文章链接，且会自动补采到上次文章的位置，所以没必要每天运行，可能半个月跑一次足够。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wo-kai-fa-le-ge-xiao-gong-ju-%EF%BC%8C-ke-yi-ba-ren-yi-gong-zhong-hao-bian-cheng-ni-de-%20AI%20-zhi-shi-ku-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>我开发了个小工具，可以把任意公众号变成你的 AI 知识库！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我开发了个小工具，可以把任意公众号变成你的 AI 知识库！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/764" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>阿虚同学</p>
+<p>读完需要</p>
+<p>4</p>
+<p>分钟</p>
+<p>速读仅需 2 分钟</p>
+<p>点击头像即可关注</p>
+<p>之前评论区简单征集过下大家对「公众号文章采集」的需求👇</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f872c91953219af97d82a077b8966b6604342dc4ea715a21c48a985609c17d9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b7855445568517075586a7957583746446f576b45446f494d4554363742656d766249315a574a696145354c506962623173696367585147393065456d784848427134634d7577705569626c68424c37475248376747446331336d4d57305966336476776150666f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/5f872c91953219af97d82a077b8966b6604342dc4ea715a21c48a985609c17d9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b7855445568517075586a7957583746446f576b45446f494d4554363742656d766249315a574a696145354c506962623173696367585147393065456d784848427134634d7577705569626c68424c37475248376747446331336d4d57305966336476776150666f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUDUhQpuXjyWX7FDoWkEDoIMET67BemvbI1ZWJiaE5LPibb1sicgXQG90eEmxHHBq4cMuwpUiblhBL7GRH7gGDc13mMW0Yf3dvwaPfo/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>点赞人数很多，看得出还是很多人都需要一个<strong>公众号转 AI 知识库</strong>的工具</p>
+<p>1</p>
+<p><strong>公众号历史文章全量采集软件</strong></p>
+<p>所以阿虚折腾与测试了很多天，终于把这个工具开发好了（也支持 Mac 电脑）<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c5523942a82da9f30a80a83651f5bc425d47e9f7983a74dae1dc11114eb2aaee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785541436c4d325a7453544d6a6d4a724e6e784f79696262357639644736724e32483433707a4f31615a334844685a4977636e586a394c79367a556961704567557a6f4d76424a62776666754169626a6a4d4550456e69616f467461706963704671635464634a412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/c5523942a82da9f30a80a83651f5bc425d47e9f7983a74dae1dc11114eb2aaee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785541436c4d325a7453544d6a6d4a724e6e784f79696262357639644736724e32483433707a4f31615a334844685a4977636e586a394c79367a556961704567557a6f4d76424a62776666754169626a6a4d4550456e69616f467461706963704671635464634a412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUAClM2ZtSTMjmJrNnxOyibb5v9dG6rN2H43pzO1aZ3HDhZIwcnXj9Ly6zUiapEgUzoMvBJbwffuAibjjMEPEniaoFtapicpFqcTdcJA/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/047163775de897e5bbeaa882848d56391949810d55ae89aa85e81195fc0eacf7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785541716c727042784a426a67306f6b4350583755347979554b614b4e486963506a654641506c6232304e7448626c34757054474a635a334c65794352596e30624e5a6f5867656d71634c76395567396b784c6d6d497635675a67616459463057324a552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/047163775de897e5bbeaa882848d56391949810d55ae89aa85e81195fc0eacf7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785541716c727042784a426a67306f6b4350583755347979554b614b4e486963506a654641506c6232304e7448626c34757054474a635a334c65794352596e30624e5a6f5867656d71634c76395567396b784c6d6d497635675a67616459463057324a552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUAqlrpBxJBjg0okCPX7U4yyUKaKNHicPjeFAPlb20NtHbl4upTGJcZ3LeyCRYn0bNZoXgemqcLv9Ug9kxLmmIv5gZgadYF0W2JU/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>使用的话极其简单，通过「某公众号的任意一篇文章链接」即可在软件左下角完成公众号添加</p>
+<p>然后先点击左上角的「扫码登录」登录好你的<strong>微信读书</strong>，这里有一个关键的注意事项</p>
+<p>很多时候你点击登录，会发现其实浏览器上已经登录了账号的，但左上角还是显示<strong>登录已失效</strong>——其实这时已经触发了微信的风控</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea87d97655499e4ef66a5805a816ce25dce2d20a2577d3b0b571915fb78a1800/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785543576961376f376e67704d794d4343754a696250445a753876546a62516961616632656c76304a6d6a6f32586135716c493374335973665442703772474d30324469614738325433487a514e4953347433447a6963614d536e753133354c6c75696338677434382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/ea87d97655499e4ef66a5805a816ce25dce2d20a2577d3b0b571915fb78a1800/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785543576961376f376e67704d794d4343754a696250445a753876546a62516961616632656c76304a6d6a6f32586135716c493374335973665442703772474d30324469614738325433487a514e4953347433447a6963614d536e753133354c6c75696338677434382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCWia7o7ngpMyMCCuJibPDZu8vTjbQiaaf2elv0Jmjo2Xa5qlI3t3YsfTBp7rGM02DiaG82T3HzQNIS4t3DzicaMSnu135Lluic8gt48/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>只是在微信读书主页是不会显示人机验证的<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/283da6ed7d92e33a7d2a5f77a7ba0860f1fb5b6539ca6dc292947d0ef01df9dd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b7855434f75374a3965466e6b54324b4a524c6961476b4739696172654655534834426962784a41593852756e3547304c516e38376c594f746961545a7867397064674651774f7235434b306d5034454e744f674b7532676c3133414369614d48624c3243644655552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/283da6ed7d92e33a7d2a5f77a7ba0860f1fb5b6539ca6dc292947d0ef01df9dd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b7855434f75374a3965466e6b54324b4a524c6961476b4739696172654655534834426962784a41593852756e3547304c516e38376c594f746961545a7867397064674651774f7235434b306d5034454e744f674b7532676c3133414369614d48624c3243644655552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCOu7J9eFnkT2KJRLiaGkG9iareFUSH4BibxJAY8Run5G0LQn87lYOtiaTZxg9pdgFQwOr5CK0mP4ENtOgKu2gl13ACiaMHbL2CdFUU/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>所以我们就需要<strong>主动点进任意已订阅公众号的文章，触发人机验证的弹窗</strong>，然后手动解决人机验证</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f9c43fea16799d86117a5f4018036f4c13b28eb92fac3bb5989f39b2fc27375/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b78554331774749326766696163515a346164323655686e4b616e64764352576872527745786a30595a657854616268746e78736e71486c5269636e54633578685954454a343145385a7646676e6b574d67654f4e3337614453324a446e323232716a7942552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/3f9c43fea16799d86117a5f4018036f4c13b28eb92fac3bb5989f39b2fc27375/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b78554331774749326766696163515a346164323655686e4b616e64764352576872527745786a30595a657854616268746e78736e71486c5269636e54633578685954454a343145385a7646676e6b574d67654f4e3337614453324a446e323232716a7942552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUC1wGI2gfiacQZ4ad26UhnKandvCRWhrRwExj0YZexTabhtnxsnqHlRicnTc5xhYTEJ41E8ZvFgnkWMgeON37aDS2JDn222qjyBU/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a><br>
+▲主动点击某篇文章才能触发</p>
+<p>过了人机验证，软件就会自动刷新微信读书凭证</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c6bcd75fab1fee46535f055c66678b3ca2aff2395379ffa8af198c5fcf0467d1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785541707176465764616c7069613251464e5778314e765a5a7141784e6f7744574f32594f317a4b42616f757a374e75597446344450493539587772484b6f6b7430543768736963614c68547854414b69613664537259786855324555703764696366715779552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/c6bcd75fab1fee46535f055c66678b3ca2aff2395379ffa8af198c5fcf0467d1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785541707176465764616c7069613251464e5778314e765a5a7141784e6f7744574f32594f317a4b42616f757a374e75597446344450493539587772484b6f6b7430543768736963614c68547854414b69613664537259786855324555703764696366715779552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUApqvFWdalpia2QFNWx1NvZZqAxNowDWO2YO1zKBaouz7NuYtF4DPI59XwrHKokt0T7hsicaLhTxTAKia6dSrYxhU2EUp7dicfqWyU/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>最后就可以勾选公众号，点击右上角开始采集了<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/77894e868eca098e9ad357222657418defc8323a9188b22f55a70dce21a8bf42/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b78554348585055674c3436544a647346504561386962464a667462357a4d646f764c314d75395351546a466f537748373651426650714f6b366961736c7265746869635674796b776e456b586848654b4b434a5667673536574b715566366a435865364245632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/77894e868eca098e9ad357222657418defc8323a9188b22f55a70dce21a8bf42/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b78554348585055674c3436544a647346504561386962464a667462357a4d646f764c314d75395351546a466f537748373651426650714f6b366961736c7265746869635674796b776e456b586848654b4b434a5667673536574b715566366a435865364245632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCHXPUgL46TJdsFPEa8ibFJftb5zMdovL1Mu9SQTjFoSwH76QBfPqOk6iaslrethicVtykwnEkXhHeKKCJVgg56WKqUf6jCXe6BEc/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>软件区分首次全量采集和后续的增量采集：</p>
+<ol>
+<li>
+<p>全量采集：软件限制只能单个账号单个账号跑，且视你需要采集的公众号历史文章数量，不建议一天全量采集太多账号，极容易触发账号级风控</p>
+</li>
+<li>
+<p>增量采集：因为一次可以拉取最新的 20 篇文章链接，且会自动补采到上次文章的位置，所以没必要每天运行，可能半个月跑一次足够。增量采集的话可以同时多个账号，实测几十个账号都没问题</p>
+</li>
+</ol>
+<p>最后就是如果全量采集的过程中触发了账号级风控，<strong>可能需要 1－2 天才能恢复正常</strong>，目前软件的设计上来说是可以从上次中断的地方续采的</p>
+<p>像某些几千篇历史文章的公众号，大概率会触发风控</p>
+<p>但因为阿虚没专门测试到这个极端情况，有需要的话只能各位自己实测了<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19110b6c72d0b36676f776777956cbe5246af62d560443d5c42bdd408aeea684/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b7855436d43347a76696169615a514b6f63674343365348626d6361334633715368706c6f513056616b7073744a337358656f55614a61646e635a645a57447466377776596b5a78394863304e4f36727a69634271556c364771536b754f574b5a53564a7473672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/19110b6c72d0b36676f776777956cbe5246af62d560443d5c42bdd408aeea684/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b7855436d43347a76696169615a514b6f63674343365348626d6361334633715368706c6f513056616b7073744a337358656f55614a61646e635a645a57447466377776596b5a78394863304e4f36727a69634271556c364771536b754f574b5a53564a7473672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUCmC4zviaiaZQKocgCC6SHbmca3F3qShploQ0VakpstJ3sXeoUaJadncZdZWDtf7wvYkZx9Hc0NO6rzicBqUl6GqSkuOWKZSVJtsg/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>至少来说我测试采集了几百篇历史文章的账号是没有问题的（单天采集 1 个）</p>
+<p>2</p>
+<p><strong>导入 ima 知识库</strong></p>
+<p>最后来说下怎么把获取到的文章数据导入到腾讯 ima</p>
+<p>在软件选中账号后点击导出数据，你会获得一份 JSON 格式的 txt 文件</p>
+<p>为什么不是 Excel 表格？因为其实 JSON 格式对 AI 来说才更友好更易读取</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6172713bb87c2ed10407c6cff8213755fa4d7e00ce23cc4c0538fdc487e719bb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b7855444d49437058784478454c75724159486b6963616744383647664f41643659555244395a533547423553565a734b777565417658696173393863754a30754a57674967336743414d4f6e30764d48795767314b47367a5769614f7634744d307a335975412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/6172713bb87c2ed10407c6cff8213755fa4d7e00ce23cc4c0538fdc487e719bb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b7855444d49437058784478454c75724159486b6963616744383647664f41643659555244395a533547423553565a734b777565417658696173393863754a30754a57674967336743414d4f6e30764d48795767314b47367a5769614f7634744d307a335975412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUDMICpXxDxELurAYHkicagD86GfOAd6YURD9ZS5GB5SVZsKwueAvXias98cuJ0uJWgIg3gCAMOn0vMHyWg1KG6zWiaOv4tM0z3YuA/640?wx_fmt=png&amp;from=appmsg#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>接着我们打开 ima 知识库 ➔ 我的 copilot ➔ 页面右上角齿轮，这里可以<strong>免费领取每日算力</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d7ef3a8a4ba49a72bffb5b802faaab90e3d765e8e22bf9e6b66d4cee62b08f2d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b78554469636b444f515231794271583866685274786b734f677555344c675179494f5a4469636350477945736b69616f6a7277314a445875316f7a436963587668384e765a4841563750343931424b7746696269623243416a46667170324a47696162464a33384a4a412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/d7ef3a8a4ba49a72bffb5b802faaab90e3d765e8e22bf9e6b66d4cee62b08f2d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b78554469636b444f515231794271583866685274786b734f677555344c675179494f5a4469636350477945736b69616f6a7277314a445875316f7a436963587668384e765a4841563750343931424b7746696269623243416a46667170324a47696162464a33384a4a412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUDickDOQR1yBqX8fhRtxksOguU4LgQyIOZDiccPGyEskiaojrw1JDXu1ozCicXvh8NvZHAV7P491BKwFibib2CAjFfqp2JGiabFJ38JJA/640?wx_fmt=png&amp;from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>是的，没错</p>
+<p>导入过程我们借助 AI 就可以了，不需要搞什么自动化之类的。阿虚研究分析一阵发现这就是最简单的办法<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/12187b30c45261ed6d4f013509ab90f5f7eabd7e57b0baca643d7acd4a22e21e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b7855426e575a665a494a5453386c344b787a7049646457596a3249386463736432387469633632534f7837665470356f724a3573436b696264556630364e7354696365543066666c6d3273596133655a4c423679316556616b364a53615262615a4444696367512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/12187b30c45261ed6d4f013509ab90f5f7eabd7e57b0baca643d7acd4a22e21e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b7855426e575a665a494a5453386c344b787a7049646457596a3249386463736432387469633632534f7837665470356f724a3573436b696264556630364e7354696365543066666c6d3273596133655a4c423679316556616b364a53615262615a4444696367512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUBnWZfZIJTS8l4KxzpIddWYj2I8dcsd28tic62SOx7fTp5orJ5sCkibdUf06NsTiceT0fflm2sYa3eZLB6y1eVak6JSaRbaZDDicgQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=11" style="max-width: 100%;"></a></p>
+<p>模型的话就选 GLM-5.3-Flash、DeepSeek-v4-Flash 这样算力消耗低的模型，完全够处理这个导入任务</p>
+<p><g-emoji class="g-emoji" alias="warning">⚠️</g-emoji> 注意</p>
+<p>别去瓜兮兮的选什么 4 倍消耗的 K3，2.2 倍消耗的 GLM-5.3 模型，根本没必要，太过于浪费算力了</p>
+<p>2.1</p>
+<p><strong>第一次全量导入</strong></p>
+<p>我们把导出的数据 txt 文件上传上去，大致这样要求 AI 即可：<strong>将 txt 中所有的文章链接添加到「XXX」知识库中的「XXX」文件夹</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/de027d01a1c1e1c06ba95a19624cefeac2bf1424d4813f975c055180be28dadd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b785542347a79584442344f38736c326848353474666731506e635164626d6a45547639794e6e725a6c4e4e38685448776e7071374d637a5551503441376148354279686e6e596748676377475978696237367455684d54646b4167334c6f486169615a506b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/de027d01a1c1e1c06ba95a19624cefeac2bf1424d4813f975c055180be28dadd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b785542347a79584442344f38736c326848353474666731506e635164626d6a45547639794e6e725a6c4e4e38685448776e7071374d637a5551503441376148354279686e6e596748676377475978696237367455684d54646b4167334c6f486169615a506b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUB4zyXDB4O8sl2hH54tfg1PncQdbmjETv9yNnrZlNN8hTHwnpq7MczUQP4A7aH5ByhnnYgHgcwGYxib76tUhMTdkAg3LoHaiaZPk/640?wx_fmt=png&amp;from=appmsg#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>当然，如果你<strong>专门建个知识库</strong>存某个账号的所有文件，提示词可以更简单点：将 txt 中所有的文章链接添加到「XXX」知识库</p>
+<p>之后就耐心等待 Copilot 开始跑任务即可，AI 会自动分批替你导入所有采集到的文章链接</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec90570999ad434eeefd96f8e6cb55925e9315a73dac6caf3107a41c97e6d53f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785543674366333246757070745070556b77706c746f424759716961626b786f776f5449757072556d4370484971373733437a635a36476961765059415a47306843516c4d6b564935546a684b61785566566b744e6537493152786b446336616a446553672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133"><img src="https://camo.githubusercontent.com/ec90570999ad434eeefd96f8e6cb55925e9315a73dac6caf3107a41c97e6d53f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785543674366333246757070745070556b77706c746f424759716961626b786f776f5449757072556d4370484971373733437a635a36476961765059415a47306843516c4d6b564935546a684b61785566566b744e6537493152786b446336616a446553672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCgCf32FupptPpUkwpltoBGYqiabkxowoTIuprUmCpHIq773CzcZ6GiavPYAZG0hCQlMkVI5TjhKaxUfVktNe7I1RxkDc6ajDeSg/640?wx_fmt=png&amp;from=appmsg#imgIndex=13" style="max-width: 100%;"></a></p>
+<p>然后由于添加的链接巨多，ima 知识库需要花很长时间才来解析所有文章内容，这一步呢就需要耐心等待了</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aedd028ce8f3785b95ae7faa293e31a77db5a84786e284c4990e94465726fc17/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b785544797a3749696334455658364b3277376467384e4154784172434952524b443169615739366a6838787931696369624c674648566469633658356252496a486a4b4b55665761366e58336d37524a486961534e456e7469636269634a447759337955725678566872342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/aedd028ce8f3785b95ae7faa293e31a77db5a84786e284c4990e94465726fc17/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b785544797a3749696334455658364b3277376467384e4154784172434952524b443169615739366a6838787931696369624c674648566469633658356252496a486a4b4b55665761366e58336d37524a486961534e456e7469636269634a447759337955725678566872342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUDyz7Iic4EVX6K2w7dg8NATxArCIRRKD1iaW96jh8xy1icibLgFHVdic6X5bRIjHjKKUfWa6nX3m7RJHiaSNEnticbicJDwY3yUrVxVhr4/640?wx_fmt=png&amp;from=appmsg#imgIndex=14" style="max-width: 100%;"></a></p>
+<p>关键是由于 ima 的问题，添加大量链接时，你极大概率会遇到很多链接都显示解析失败</p>
+<p>倒也不用自己挨着去点击 ↻ 重新解析链接</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d370e25f05159f9ba3ede0a551830725be241eb77663e945950069fb9a87a5c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b78554369636a38516c5837424c4135324e6e547a4d32686b43723463777269613874696358396a6b4d5034535539696279696356456d7043516149456d74784d696135517469614d7553316f44663743777146796b325256555a596c58596178676f7a634e565a3849512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135"><img src="https://camo.githubusercontent.com/5d370e25f05159f9ba3ede0a551830725be241eb77663e945950069fb9a87a5c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b78554369636a38516c5837424c4135324e6e547a4d32686b43723463777269613874696358396a6b4d5034535539696279696356456d7043516149456d74784d696135517469614d7553316f44663743777146796b325256555a596c58596178676f7a634e565a3849512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUCicj8QlX7BLA52NnTzM2hkCr4cwria8ticX9jkMP4SU9ibyicVEmpCQaIEmtxMia5QtiaMuS1oDf7CwqFyk2RVUZYlXYaxgozcNVZ8IQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=15" style="max-width: 100%;"></a></p>
+<p>这事儿也可以交给 AI 来处理，只需要让它帮你把这些失败的链接重新解析即可</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3bec455ca90ba999c23a551c057ed2468661f75b0005764d1bbb3180dfd6c84d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b78554462355069614f765353667373434c6e68634c623669626a39664d494f70396b6868363364725655683032717a396c4a445751546f61326c42656d684a38576a4a61676446727253493742774c393563735a366961313172696145676f446a6a36464c61412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136"><img src="https://camo.githubusercontent.com/3bec455ca90ba999c23a551c057ed2468661f75b0005764d1bbb3180dfd6c84d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b78554462355069614f765353667373434c6e68634c623669626a39664d494f70396b6868363364725655683032717a396c4a445751546f61326c42656d684a38576a4a61676446727253493742774c393563735a366961313172696145676f446a6a36464c61412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUDb5PiaOvSSfssCLnhcLb6ibj9fMIOp9khh63drVUh02qz9lJDWQToa2lBemhJ8WjJagdFrrSI7BwL95csZ6ia11riaEgoDjj6FLaA/640?wx_fmt=png&amp;from=appmsg#imgIndex=16" style="max-width: 100%;"></a></p>
+<p>只不过重试解析这件事又需要耐心等待，由于 ima 对于公众号长链接的解析不稳定，整个过程可能会耗费几十分钟甚至数小时</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a36173bf3058fcb37886de619fed788a8fcff87b3760aa25d66b0962560ad427/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b7855434746516d39734461646e315a566d5839654d4c76355172593469636c4467793178356961377344786961744f5a464b514a4b4b564d486b7445414863736963545a4630314d33374e564669636c5a576d7a314e516f6a594436473343364837614d543730552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3137"><img src="https://camo.githubusercontent.com/a36173bf3058fcb37886de619fed788a8fcff87b3760aa25d66b0962560ad427/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b7855434746516d39734461646e315a566d5839654d4c76355172593469636c4467793178356961377344786961744f5a464b514a4b4b564d486b7445414863736963545a4630314d33374e564669636c5a576d7a314e516f6a594436473343364837614d543730552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3137" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUCGFQm9sDadn1ZVmX9eMLv5QrY4iclDgy1x5ia7sDxiatOZFKQJKKVMHktEAHcsicTZF01M37NVFiclZWmz1NQojYD6G3C6H7aMT70U/640?wx_fmt=png&amp;from=appmsg#imgIndex=17" style="max-width: 100%;"></a></p>
+<p>是有时候会残留一些解析失败的长链接，这个就只能你<strong>手动按名称排序</strong>之后删除一下了（copilot 没有删除链接的权限）</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d30220461be3d765ec830d614b3e1f4f50d19c9905985e58c3fa4412b3b50b1c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f3472447a5634534b7855445a6963524c50344369637268354f4f69616f415031424c696279743531424c734f7672327662677178486e35446c696352395362774744377854574b346962677230546c7965526d3068506b6d6f4954386d71684c32706a6a345353426c633974497432766b2f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3138"><img src="https://camo.githubusercontent.com/d30220461be3d765ec830d614b3e1f4f50d19c9905985e58c3fa4412b3b50b1c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f3472447a5634534b7855445a6963524c50344369637268354f4f69616f415031424c696279743531424c734f7672327662677178486e35446c696352395362774744377854574b346962677230546c7965526d3068506b6d6f4954386d71684c32706a6a345353426c633974497432766b2f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3138" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/4rDzV4SKxUDZicRLP4Cicrh5OOiaoAP1BLibyt51BLsOvr2vbgqxHn5DlicR9SbwGD7xTWK4ibgr0TlyeRm0hPkmoIT8mqhL2pjj4SSBlc9tIt2vk/640?wx_fmt=gif&amp;from=appmsg#imgIndex=18" style="max-width: 100%;"></a></p>
+<p><strong>删除之后，再让 Copilot 尝试重新导入链接解析</strong>。记得需要自己先手动删除，再让 AI 导入（因为 ima 有链接去重机制，已经导入的链接会无法导入）</p>
+<p>2.2</p>
+<p><strong>后续新增导入</strong></p>
+<p>至于后续新增文章导入起来也比较简单，就在提示词上加一句**「跳过已导入的文章」**即可，比如像下面这样写命令</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5dfd7fa0e5a134fd5982ebc13076b1c18fa9059191eddc3c9798ef1c19837d90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785544426c5a5a473261506a71566b31573078394457525a767375597352354c444a4764475357456d69625467777734486769617858316e6b4d517a484843554659654a69624756304736656a6379747951765a55763063516f757266714e704653714867342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3139"><img src="https://camo.githubusercontent.com/5dfd7fa0e5a134fd5982ebc13076b1c18fa9059191eddc3c9798ef1c19837d90/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f3472447a5634534b785544426c5a5a473261506a71566b31573078394457525a767375597352354c444a4764475357456d69625467777734486769617858316e6b4d517a484843554659654a69624756304736656a6379747951765a55763063516f757266714e704653714867342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3139" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUDBlZZG2aPjqVk1W0x9DWRZvsuYsR5LDJGdGSWEmibTgww4HgiaxX1nkMQzHHCUFYeJibGV0G6ejcytyQvZUv0cQourfqNpFSqHg4/640?wx_fmt=png&amp;from=appmsg#imgIndex=19" style="max-width: 100%;"></a></p>
+<p>因为软件导出的数据中有文章标题，Copilot 就可以根据表来跳过已经导入的文章</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/85f2e513f48dfef041f24894aaea7b623c93bdc7762136ea9a494510f0be5c06/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b785544464d6474775146624c69634b4b656b4b5530776b70766f3534307557423841446d4a753035484d537a69616962334e30377369617051323448754c7939354b3238425a4832495245745a67454d41545a3147736e736e6d506869636274574747315666656f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3230"><img src="https://camo.githubusercontent.com/85f2e513f48dfef041f24894aaea7b623c93bdc7762136ea9a494510f0be5c06/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f3472447a5634534b785544464d6474775146624c69634b4b656b4b5530776b70766f3534307557423841446d4a753035484d537a69616962334e30377369617051323448754c7939354b3238425a4832495245745a67454d41545a3147736e736e6d506869636274574747315666656f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3230" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUDFMdtwQFbLicKKekKU0wkpvo540uWB8ADmJu05HMSziaib3N07siapQ24HuLy95K28BZH2IREtZgEMATZ1GsnsnmPhicbtWGG1Vfeo/640?wx_fmt=png&amp;from=appmsg#imgIndex=20" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a0811acb17150786f724f06acdc8566509076b118d9fa2a2ad86134c321d136/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f3472447a5634534b7855413138614e674f79713243396f7a4a3363654f696157323651425756696259314b397a497234515a566f54636a6962656e42394a5671624a6646676d736f6e7071457543476b303858656961566962696179436546696149613750327278636448506a384a64516f2f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3231"><img src="https://camo.githubusercontent.com/9a0811acb17150786f724f06acdc8566509076b118d9fa2a2ad86134c321d136/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f3472447a5634534b7855413138614e674f79713243396f7a4a3363654f696157323651425756696259314b397a497234515a566f54636a6962656e42394a5671624a6646676d736f6e7071457543476b303858656961566962696179436546696149613750327278636448506a384a64516f2f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3231" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/4rDzV4SKxUA18aNgOyq2C9ozJ3ceOiaW26QBWVibY1K9zIr4QZVoTcjibenB9JVqbJfFgmsonpqEuCGk08XeiaVibiayCeFiaIa7P2rxcdHPj8JdQo/640?wx_fmt=gif&amp;from=appmsg#imgIndex=21" style="max-width: 100%;"></a></p>
+<p>最后说一下，软件仅采集文章链接，没有下载文章全文功能。如果需要下载文章内容，可以用现成的软件：github.com/qiye45/wechatDownload，让 AI 把导出的数据提取为一行行链接后，就可以用他这个软件批量下载文章了</p>
+<p>需要阿虚这款软件的话，可以在公众号后台回复以下关键词获取下载链接（也可以后续看文章置顶留言获取）</p>
+<p>“</p>
+<p>公众号转 AI 知识库</p>
+<p>”</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c7548eff550288c4f71014a0d065677a99761498c4df2d6765eed175b9e0b4ae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f3472447a5634534b785542636139577978313350674841376636586f6f4b3165484845717466616f4257383634684b7a6e69615a7579386963526f69626e6962576169625367534e51644b58566d6b673758636f6a654858346152594d7747756145314853416f4e6e536a526851306f2f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3232"><img src="https://camo.githubusercontent.com/c7548eff550288c4f71014a0d065677a99761498c4df2d6765eed175b9e0b4ae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f3472447a5634534b785542636139577978313350674841376636586f6f4b3165484845717466616f4257383634684b7a6e69615a7579386963526f69626e6962576169625367534e51644b58566d6b673758636f6a654858346152594d7747756145314853416f4e6e536a526851306f2f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3232" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/4rDzV4SKxUBca9Wyx13PgHA7f6XooK1eHHEqtfaoBW864hKzniaZuy8icRoibnibWaibSgSNQdKXVmkg7XcojeHX4aRYMwGuaE1HSAoNnSjRhQ0o/640?wx_fmt=gif&amp;from=appmsg#imgIndex=22" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83d3e6dacb2a04183db9a945cb0c3126edc96f8f751a0e0ad7323eae3af141d6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f3472447a5634534b78554158586d635961313569616c4d593549536d756e4658727659346f33456e48545a6c305a523469626a5262586d634d7741437a4e7449714f356a656c63675a49395a7544397233554a5046386b48755754354a70504845526962525941684b584c4f4c512f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3233"><img src="https://camo.githubusercontent.com/83d3e6dacb2a04183db9a945cb0c3126edc96f8f751a0e0ad7323eae3af141d6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f3472447a5634534b78554158586d635961313569616c4d593549536d756e4658727659346f33456e48545a6c305a523469626a5262586d634d7741437a4e7449714f356a656c63675a49395a7544397233554a5046386b48755754354a70504845526962525941684b584c4f4c512f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d3233" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/4rDzV4SKxUAXXmcYa15ialMY5ISmunFXrvY4o3EnHTZl0ZR4ibjRbXmcMwACzNtIqO5jelcgZI9ZuD9r3UJPF8kHuWT5JpPHERibRYAhKXLOLQ/640?wx_fmt=gif&amp;from=appmsg#imgIndex=23" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

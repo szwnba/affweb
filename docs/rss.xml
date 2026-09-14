@@ -1,5 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Johnson的备忘录</title><link>https://126.plus</link><description>这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</description><copyright>Johnson的备忘录</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png</url><title>avatar</title><link>https://126.plus</link></image><lastBuildDate>Mon, 14 Sep 2026 04:39:06 +0000</lastBuildDate><managingEditor>Johnson的备忘录</managingEditor><ttl>60</ttl><webMaster>Johnson的备忘录</webMaster><item><title>终于跑通了WorkBuddy的自动浏览器操作，免费版也可以让很多岗位滚蛋了</title><link>https://126.plus/post/zhong-yu-pao-tong-le-WorkBuddy-de-zi-dong-liu-lan-qi-cao-zuo-%EF%BC%8C-mian-fei-ban-ye-ke-yi-rang-hen-duo-gang-wei-gun-dan-le.html</link><description>**⬆️戳蓝字关**注我，**解锁500强英语干货******
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Johnson的备忘录</title><link>https://126.plus</link><description>这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</description><copyright>Johnson的备忘录</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png</url><title>avatar</title><link>https://126.plus</link></image><lastBuildDate>Mon, 14 Sep 2026 11:49:17 +0000</lastBuildDate><managingEditor>Johnson的备忘录</managingEditor><ttl>60</ttl><webMaster>Johnson的备忘录</webMaster><item><title>我开发了个小工具，可以把任意公众号变成你的 AI 知识库！</title><link>https://126.plus/post/wo-kai-fa-le-ge-xiao-gong-ju-%EF%BC%8C-ke-yi-ba-ren-yi-gong-zhong-hao-bian-cheng-ni-de-%20AI%20-zhi-shi-ku-%EF%BC%81.html</link><description>阿虚同学  
+
+读完需要
+
+4
+
+分钟
+
+速读仅需 2 分钟
+
+点击头像即可关注
+
+之前评论区简单征集过下大家对「公众号文章采集」的需求👇
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUDUhQpuXjyWX7FDoWkEDoIMET67BemvbI1ZWJiaE5LPibb1sicgXQG90eEmxHHBq4cMuwpUiblhBL7GRH7gGDc13mMW0Yf3dvwaPfo/640?wx_fmt=png&amp;from=appmsg#imgIndex=0)
+
+点赞人数很多，看得出还是很多人都需要一个**公众号转 AI 知识库**的工具
+
+1
+
+**公众号历史文章全量采集软件**
+
+所以阿虚折腾与测试了很多天，终于把这个工具开发好了（也支持 Mac 电脑）![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUAClM2ZtSTMjmJrNnxOyibb5v9dG6rN2H43pzO1aZ3HDhZIwcnXj9Ly6zUiapEgUzoMvBJbwffuAibjjMEPEniaoFtapicpFqcTdcJA/640?wx_fmt=png&amp;from=appmsg#imgIndex=1)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUAqlrpBxJBjg0okCPX7U4yyUKaKNHicPjeFAPlb20NtHbl4upTGJcZ3LeyCRYn0bNZoXgemqcLv9Ug9kxLmmIv5gZgadYF0W2JU/640?wx_fmt=png&amp;from=appmsg#imgIndex=2)
+
+使用的话极其简单，通过「某公众号的任意一篇文章链接」即可在软件左下角完成公众号添加
+
+然后先点击左上角的「扫码登录」登录好你的**微信读书**，这里有一个关键的注意事项
+
+很多时候你点击登录，会发现其实浏览器上已经登录了账号的，但左上角还是显示**登录已失效**——其实这时已经触发了微信的风控
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCWia7o7ngpMyMCCuJibPDZu8vTjbQiaaf2elv0Jmjo2Xa5qlI3t3YsfTBp7rGM02DiaG82T3HzQNIS4t3DzicaMSnu135Lluic8gt48/640?wx_fmt=png&amp;from=appmsg#imgIndex=3)
+
+只是在微信读书主页是不会显示人机验证的![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCOu7J9eFnkT2KJRLiaGkG9iareFUSH4BibxJAY8Run5G0LQn87lYOtiaTZxg9pdgFQwOr5CK0mP4ENtOgKu2gl13ACiaMHbL2CdFUU/640?wx_fmt=png&amp;from=appmsg#imgIndex=4)
+
+所以我们就需要**主动点进任意已订阅公众号的文章，触发人机验证的弹窗**，然后手动解决人机验证
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/4rDzV4SKxUC1wGI2gfiacQZ4ad26UhnKandvCRWhrRwExj0YZexTabhtnxsnqHlRicnTc5xhYTEJ41E8ZvFgnkWMgeON37aDS2JDn222qjyBU/640?wx_fmt=png&amp;from=appmsg#imgIndex=5)
+▲主动点击某篇文章才能触发
+
+过了人机验证，软件就会自动刷新微信读书凭证
+
+![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUApqvFWdalpia2QFNWx1NvZZqAxNowDWO2YO1zKBaouz7NuYtF4DPI59XwrHKokt0T7hsicaLhTxTAKia6dSrYxhU2EUp7dicfqWyU/640?wx_fmt=png&amp;from=appmsg#imgIndex=6)
+
+最后就可以勾选公众号，点击右上角开始采集了![](https://mmbiz.qpic.cn/mmbiz_png/4rDzV4SKxUCHXPUgL46TJdsFPEa8ibFJftb5zMdovL1Mu9SQTjFoSwH76QBfPqOk6iaslrethicVtykwnEkXhHeKKCJVgg56WKqUf6jCXe6BEc/640?wx_fmt=png&amp;from=appmsg#imgIndex=7)
+
+软件区分首次全量采集和后续的增量采集：
+
+1.  全量采集：软件限制只能单个账号单个账号跑，且视你需要采集的公众号历史文章数量，不建议一天全量采集太多账号，极容易触发账号级风控
+    
+2.  增量采集：因为一次可以拉取最新的 20 篇文章链接，且会自动补采到上次文章的位置，所以没必要每天运行，可能半个月跑一次足够。</description><guid isPermaLink="true">https://126.plus/post/wo-kai-fa-le-ge-xiao-gong-ju-%EF%BC%8C-ke-yi-ba-ren-yi-gong-zhong-hao-bian-cheng-ni-de-%20AI%20-zhi-shi-ku-%EF%BC%81.html</guid><pubDate>Mon, 14 Sep 2026 11:48:45 +0000</pubDate></item><item><title>终于跑通了WorkBuddy的自动浏览器操作，免费版也可以让很多岗位滚蛋了</title><link>https://126.plus/post/zhong-yu-pao-tong-le-WorkBuddy-de-zi-dong-liu-lan-qi-cao-zuo-%EF%BC%8C-mian-fei-ban-ye-ke-yi-rang-hen-duo-gang-wei-gun-dan-le.html</link><description>**⬆️戳蓝字关**注我，**解锁500强英语干货******
 
 先发一个直播预告，今晚上视频号和大家分享如何用WorkBuddy操作浏览器，帮我们完成非常浪费时间的重复的上传、下载、填表工作，千万不要让老板知道了！（错过直播可以看文末说明）
 
