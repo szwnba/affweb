@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="最近两年，OPC的概念非常火，它的核心是借助AI工具来实现业务流传，比如很多互联网产品经理ta有自己的idea，但是自己不会编程，导致想法无法实现，而现在有了AI，它可以让很多之前不会代码编程，但有想法的人开发自己的产品。">
+<meta property="og:title" content="我用AI开发了一个小程序，已经开始挣钱了">
+<meta property="og:description" content="最近两年，OPC的概念非常火，它的核心是借助AI工具来实现业务流传，比如很多互联网产品经理ta有自己的idea，但是自己不会编程，导致想法无法实现，而现在有了AI，它可以让很多之前不会代码编程，但有想法的人开发自己的产品。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wo-yong-AI-kai-fa-le-yi-ge-xiao-cheng-xu-%EF%BC%8C-yi-jing-kai-shi-zheng-qian-le.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>我用AI开发了一个小程序，已经开始挣钱了</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我用AI开发了一个小程序，已经开始挣钱了</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/765" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>最近两年，OPC的概念非常火，它的核心是借助AI工具来实现业务流传，比如很多互联网产品经理ta有自己的idea，但是自己不会编程，导致想法无法实现，而现在有了AI，它可以让很多之前不会代码编程，但有想法的人开发自己的产品。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f16f719d54dd5e22007660272f5357896760494af218501bb8e3779bfd9fbce/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f704854356b486e30534a6669625853696366314f544a59316a487a775776563869623735565a6e3230386a5272674237556d3851626f4b5171475555735269627a3265426d714e35496962675557525249584c7066624f6e566b4a6a4b4a4c54776c74764b696164744732716434696275632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/9f16f719d54dd5e22007660272f5357896760494af218501bb8e3779bfd9fbce/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f704854356b486e30534a6669625853696366314f544a59316a487a775776563869623735565a6e3230386a5272674237556d3851626f4b5171475555735269627a3265426d714e35496962675557525249584c7066624f6e566b4a6a4b4a4c54776c74764b696164744732716434696275632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/pHT5kHn0SJfibXSicf1OTJY1jHzwWvV8ib75VZn208jRrgB7Um8QboKQqGUUsRibz2eBmqN5IibgUWRRIXLpfbOnVkJjKJLTwltvKiadtG2qd4ibuc/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>但是产品呈现的方式还是有很多种，有网页、app、小程序等等，大家可以根据自己的需求进行开发，当然也可以多端应用，但如果你是一个小白，牛哥建议大家先搞一个MVP版本，来测试一下市场反应，产品形式选择网页或者小程序，因为这两种不需要分系统，比如安卓软件或者iOS软件。</p>
+<p>下面，牛哥以最近自己开发的一个小程序案例来给大家全流程演示一下，让大家可以真实感受到，小白/零基础也可以直接搞一个产品来，而且还可以挣钱。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2488fd6c47469665f00c249c31da05bb2a28d297a3d08b7276ee072760003e89/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f704854356b486e30534a6661464b4a6744746748437278523134316d5a34504f524168364b6d4a6a49707032655979624d517038485074546267485a4a723677676a6351785030735a707638484f4f43687063726e6c6676776f744238356156354e64374b72336c7647552f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/2488fd6c47469665f00c249c31da05bb2a28d297a3d08b7276ee072760003e89/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f704854356b486e30534a6661464b4a6744746748437278523134316d5a34504f524168364b6d4a6a49707032655979624d517038485074546267485a4a723677676a6351785030735a707638484f4f43687063726e6c6676776f744238356156354e64374b72336c7647552f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/pHT5kHn0SJfaFKJgDtgHCrxR141mZ4PORAh6KmJjIpp2eYybMQp8HPtTbgHZJr6wgjcQxP0sZpv8HOOChpcrnlfvwotB85aV5Nd7Kr3lvGU/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>第一步：注册微信小程序</p>
+<p>这一步相信大家都会，没有太多讲的，直接按照要求填写信息，然后下一步就可以了，如果实在不会的小伙伴可以查看微信小程序注册教程<a href="https://developers.weixin.qq.com/miniprogram/introduction/" rel="nofollow">https://developers.weixin.qq.com/miniprogram/introduction/</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a2deba8f18cca00ccbc3f530a07afba9a5e071110769a2eab4f3e4f2a32a309/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f704854356b486e30534a6365566d4a634f677556724a39734e75714f4a32696144496a714d765751676f465833586d45734a4b696162385948533737527269636e74486341615437716b6359557751696139746d345556415a70714859444b3973507159717669615a306e46376457592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/1a2deba8f18cca00ccbc3f530a07afba9a5e071110769a2eab4f3e4f2a32a309/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f704854356b486e30534a6365566d4a634f677556724a39734e75714f4a32696144496a714d765751676f465833586d45734a4b696162385948533737527269636e74486341615437716b6359557751696139746d345556415a70714859444b3973507159717669615a306e46376457592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/pHT5kHn0SJceVmJcOguVrJ9sNuqOJ2iaDIjqMvWQgoFX3XmEsJKiab8YHS77RricntHcAaT7qkcYUwQia9tm4UVAZpqHYDK9sPqYqviaZ0nF7dWY/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>第二步：产品设计</p>
+<p>这步非常关键，它关系到你的小程序用户是什么样的，如果你已经有了idea那就按照你的想法去设计，如果你没有想法，那就去挖掘一下市场需求，看看用户需要什么，比如大学生需要的产品，宝妈需要的产品，拍照爱好这需要的产品等等。</p>
+<p>如果你实在不知道搞什么产品，牛哥建议去找那些比较多人用的产品，中文叫借鉴，英文叫copy。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24b929a3349bf0d3f0b948d4129d14b0c46a602a6fa02cd97b482f9f31460b59/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f704854356b486e30534a6379666665517831313459384d734b5a5073464a6962656349346a4e42734f46744d5a557657454139514c47744a696253623261506537566d69616f565668434e724e6369623467566963306273733347656962724e4a366961324b46794e753130376f325435632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/24b929a3349bf0d3f0b948d4129d14b0c46a602a6fa02cd97b482f9f31460b59/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f704854356b486e30534a6379666665517831313459384d734b5a5073464a6962656349346a4e42734f46744d5a557657454139514c47744a696253623261506537566d69616f565668434e724e6369623467566963306273733347656962724e4a366961324b46794e753130376f325435632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/pHT5kHn0SJcyffeQx114Y8MsKZPsFJibecI4jNBsOFtMZUvWEA9QLGtJibSb2aPe7VmiaoVVhCNrNcib4gVic0bss3GeibrNJ6ia2KFyNu107o2T5c/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>看到这产品后，你可以比参考的产品更完善，做出差异化，比如UI更好看，功能更齐全，别人要付费你搞免费等等。</p>
+<p>想好了产品还没结束，还有几个东西我们需要想：</p>
+<p>1、小程序的名字，一方面要好记，另一方面容易搜索，最好把搜索词加进去。</p>
+<p>2、小程序头像，根据产品用ai生成即可。</p>
+<p>3、好不好实现，虽然有ai，但是ai不是万能的，有些需求它也实现不了，或者说它需要很多资源才可以，所以在开始前先问问ai是否可行。</p>
+<p>4、能不能做，个人小程序并不是什么类目都可以做，即便你开发出来了也会驳回不允许上线。</p>
+<p>第三步：开发小程序</p>
+<p>目前ai开发工具非常多，有字节的trae，腾讯codebuddy，阿里的qoder等等，找一个免费的就行了。</p>
+<p>然后在ai开发工具里创建一个项目，把你的需求告诉它［帮我开发一个微信小程序，功能有xxxx，UI设计采用xxxx］，它就会帮你开发出一个小程序。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e9832e48f9ddaf533d4410dad9b9d0192137a5f7839bd87ec0b1ef4c5c0fa878/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f704854356b486e30534a64704a776366334d69614e5a4358525642526d6b624f3735676f6c7156466b624a707a587162614c414365456f65333737433630706962724b62374346556a4653556e66614677346b333548394e48426367564b71716a68566e4254727844537144512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/e9832e48f9ddaf533d4410dad9b9d0192137a5f7839bd87ec0b1ef4c5c0fa878/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f704854356b486e30534a64704a776366334d69614e5a4358525642526d6b624f3735676f6c7156466b624a707a587162614c414365456f65333737433630706962724b62374346556a4653556e66614677346b333548394e48426367564b71716a68566e4254727844537144512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/pHT5kHn0SJdpJwcf3MiaNZCXRVBRmkbO75golqVFkbJpzXqbaLACeEoe377C60pibrKb7CFUjFSUnfaFw4k35H9NHBcgVKqqjhVnBTrxDSqDQ/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>接着将这个项目导入到微信开发者工具（下载地址<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html%EF%BC%89%E9%87%8C%E8%BF%90%E8%A1%8C%EF%BC%8C%E7%9C%8B%E7%9C%8B%E6%95%88%E6%9E%9C%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%8D%E6%BB%A1%E6%84%8F%E7%9A%84%E5%9C%B0%E6%96%B9%E6%88%96%E8%80%85bug%E5%B0%B1%E8%AE%A9ai%E4%BF%AE%E6%94%B9%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%88%B0%E4%BD%A0%E6%BB%A1%E6%84%8F%E4%B8%BA%E6%AD%A2%E3%80%82" rel="nofollow">https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html）里运行，看看效果怎么样，如果有不满意的地方或者bug就让ai修改，修改到你满意为止。</a></p>
+<p>到了这里，你可能会发现一个问题，那就是ai开发的都是小程序前端代码，除非你的小程序功能就是本地处理，要不然它就需要可能需要后端处理，这里牛哥教大家一个方法，使用supabase做后端。</p>
+<p>你先去注册一个supabase的账号，然后在ai开发工具里配置好supabase的mcp，然后告诉ai你要用supabase做后端，它就会调用mcp帮你处理好，如果处理的内容不是很多的话，免费的supabase足够维持MVP阶段的日活。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb3b9f75d7189d19d8837b4e900248aa1be99401e620cc390411abfe4432d6bf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f704854356b486e30534a656c685a334d696165303272525357543947794255654c75743479366d434d705641616c4f6873386234494877555274336a5a4f696154627165474778447a6c5169624c64476f64597249373237783752435a43655052716358716d4d6b7554754e38552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/cb3b9f75d7189d19d8837b4e900248aa1be99401e620cc390411abfe4432d6bf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f704854356b486e30534a656c685a334d696165303272525357543947794255654c75743479366d434d705641616c4f6873386234494877555274336a5a4f696154627165474778447a6c5169624c64476f64597249373237783752435a43655052716358716d4d6b7554754e38552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/pHT5kHn0SJelhZ3Miae02rRSWT9GyBUeLut4y6mCMpVAalOhs8b4IHwURt3jZOiaTbqeGGxDzlQibLdGodYrI727x7RCZCePRqcXqmMkuTuN8U/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>除了后端问题，还有一些需要注意的地方坑牛哥帮你提前预告一下：</p>
+<p>1、凡是涉及到用户自主上传或者输入的内容它都要进行审核，比如你的小程序涉及用户上传照片/视频或者提交文字，你需要找一个内容风险审核接口，对这些内容进行审核，要不然你上架后也会提示你整改。</p>
+<p>2、不要搞一个空小程序，里面就搞一个跳转到其他小程序或者其他地方，这个也不行。</p>
+<p>3、不能搞诱导提示和功能，要不然会让你整改。</p>
+<p>四、上线小程序</p>
+<p>当你全部测试完，就可以提交代码并审核，等微信审核通过后才可以发布上线。</p>
+<p>这里同样又有几个注意事项：</p>
+<p>1、你的微信小程序需要认证，认证费30块钱，如果不认证就会被限制一些功能，比如搜索和分享功能。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cdc8a6d0e877a3ed3abd5ebac03b0dc834fd7e3a112fce472cc1389da7567d7e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f704854356b486e30534a65456963614c3746363574595369634c4e6a754a6e6b4458377077384747614670626b7466494e74643643495043427976716c52677343647946346f515a41596b64736e3879446d46714f543158686a4f7361363644376c6d435831373074705470592f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/cdc8a6d0e877a3ed3abd5ebac03b0dc834fd7e3a112fce472cc1389da7567d7e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f704854356b486e30534a65456963614c3746363574595369634c4e6a754a6e6b4458377077384747614670626b7466494e74643643495043427976716c52677343647946346f515a41596b64736e3879446d46714f543158686a4f7361363644376c6d435831373074705470592f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/pHT5kHn0SJeEicaL7F65tYSicLNjuJnkDX7pw8GGaFpbktfINtd6CIPCByvqlRgsCdyF4oQZAYkdsn8yDmFqOT1XhjOsa66D7lmCX170tpTpY/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>2、你的微信小程序还要备案，这个提交资料审核就好了，不需要费用。</p>
+<p>搞完这些就可以线上运营了。</p>
+<p>五、小程序变现</p>
+<p>微信小程序目前变现方式有多种，比如流量主，它现在都不需要我们手动开发，等微信小程序上线后，可以通过智能广告添加，非常方便，但是要激励广告还是要自主开发的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7252bec2a7ed7f609929312a8bec3a47de6c72a8d5c69f7a0b3158adceb7cf23/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f704854356b486e30534a656e545765645a7647784f5a36675a7430474434416d486e37547751763944517250593236624f35485750526e33304977756470423949486d584f69624b587962696170696241796141386f7a4544596a59364e4a6e79454b4f53384c524c4b444d4e6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/7252bec2a7ed7f609929312a8bec3a47de6c72a8d5c69f7a0b3158adceb7cf23/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f704854356b486e30534a656e545765645a7647784f5a36675a7430474434416d486e37547751763944517250593236624f35485750526e33304977756470423949486d584f69624b587962696170696241796141386f7a4544596a59364e4a6e79454b4f53384c524c4b444d4e6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/pHT5kHn0SJenTWedZvGxOZ6gZt0GD4AmHn7TwQv9DQrPY26bO5HWPRn30IwudpB9IHmXOibKXybiapibAyaA8ozEDYjY6NJnyEKOS8LRLKDMNk/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>另外，最近小程序开放了个人小程序的虚拟支付功能，如果你的小程序有VIP服务，那就可以通过这个来赚钱了，它是支持支付的，以前是没有的，但是它一个月只能收款10万元，不过对于个人来讲够了。</p>
+<p>六、推广小程序</p>
+<p>这个环节是最难的，有太多的独立开发者表示开发容易推广难，确实如此，你开发的小程序再好，如果没有人用也是白搭，流量主广告是根据曝光量和点击来计费的，没有用户就没有收益。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2baf010c7645eebd67bcc2fa71f841d1507c368f0d0d1b386fafc89684ed6c83/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f704854356b486e30534a644b4b504c75746c48365943436962354845675073475567524f774a455a6b35497738566d745559536a33306b61654f74427a6d573155524f49566962307774496a35615077696238634f736330436d4738756d526b517458524f4559566138764247382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38"><img src="https://camo.githubusercontent.com/2baf010c7645eebd67bcc2fa71f841d1507c368f0d0d1b386fafc89684ed6c83/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f704854356b486e30534a644b4b504c75746c48365943436962354845675073475567524f774a455a6b35497738566d745559536a33306b61654f74427a6d573155524f49566962307774496a35615077696238634f736330436d4738756d526b517458524f4559566138764247382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/pHT5kHn0SJdKKPLutlH6YCCib5HEgPsGUgROwJEZk5Iw8VmtUYSj30kaeOtBzmW1UROIVib0wtIj5aPwib8cOsc0CmG8umRkQtXROEYVa8vBG8/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>同理，就算你开通了小程序的虚拟支付，它也没人购买你的VIP，所以推广小程序非常关键，这一块内容非常多，一篇文章写不完，等下次专门写一篇怎么推广微信小程序的干货。</p>
+<p>如果上述内容有哪个环节不懂的，可以评论留言，牛哥给大家解答。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
