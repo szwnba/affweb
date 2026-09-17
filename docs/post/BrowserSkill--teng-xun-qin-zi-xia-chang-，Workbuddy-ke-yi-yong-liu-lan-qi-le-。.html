@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/B7Jh706CbS1FucGkITw35ia0pp6ia6uS9ljysW09hIauM9wF1ov0clicdr4YvvCE45UcLPonr1g8lCTNvLjbdLTC2nObrmFCt95zrB5oGibyYOI/640?wx_fmt=png&from=appmsg#imgIndex=0)
+
+图 1｜BrowserSkill 官方项目横幅。">
+<meta property="og:title" content="BrowserSkill-腾讯亲自下场，Workbuddy可以用浏览器了。">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/B7Jh706CbS1FucGkITw35ia0pp6ia6uS9ljysW09hIauM9wF1ov0clicdr4YvvCE45UcLPonr1g8lCTNvLjbdLTC2nObrmFCt95zrB5oGibyYOI/640?wx_fmt=png&from=appmsg#imgIndex=0)
+
+图 1｜BrowserSkill 官方项目横幅。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/BrowserSkill--teng-xun-qin-zi-xia-chang-%EF%BC%8CWorkbuddy-ke-yi-yong-liu-lan-qi-le-%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>BrowserSkill-腾讯亲自下场，Workbuddy可以用浏览器了。</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">BrowserSkill-腾讯亲自下场，Workbuddy可以用浏览器了。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/768" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/107caee050d4ca9ff34e4fa6917c3a35c4a471a8b9fb694588d08f4a6d4db1ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f42374a6837303643625331467563476b49547733356961307070366961367553396c6a7973573039684961754d397746316f7630636c69636472345976764345343555634c506f6e723167386c43544e764c6a62644c5443326e4f62726d46437439357a7242356f47696279594f492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/107caee050d4ca9ff34e4fa6917c3a35c4a471a8b9fb694588d08f4a6d4db1ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f42374a6837303643625331467563476b49547733356961307070366961367553396c6a7973573039684961754d397746316f7630636c69636472345976764345343555634c506f6e723167386c43544e764c6a62644c5443326e4f62726d46437439357a7242356f47696279594f492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/B7Jh706CbS1FucGkITw35ia0pp6ia6uS9ljysW09hIauM9wF1ov0clicdr4YvvCE45UcLPonr1g8lCTNvLjbdLTC2nObrmFCt95zrB5oGibyYOI/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>图 1｜BrowserSkill 官方项目横幅。来源：Tencent/BrowserSkill 官方 GitHub 仓库。</p>
+<p>从安装、连接扩展到 `bsk doctor` 验收，按步骤跑通第一个网页任务</p>
+<p>这篇教程会教你：在 WorkBuddy 中装好 BrowserSkill，让 AI 打开一个公开网页、读取内容并返回结果。</p>
+<h2>01安装成功标准</h2>
+<p>要同时满足下面四项：</p>
+<ol>
+<li>
+<p>WorkBuddy 能执行 <code class="notranslate">bsk --version</code>，并返回版本信息。</p>
+</li>
+<li>
+<p>BrowserSkill 浏览器扩展已启用，扩展弹窗显示绿色连接状态。</p>
+</li>
+<li>
+<p><code class="notranslate">bsk doctor</code></p>
+<p> 的每一项检查都是 <code class="notranslate">ok</code> 或 <code class="notranslate">na</code>。</p>
+</li>
+<li>
+<p>新建 WorkBuddy 会话后，AI 能打开独立的 Agent Window，访问网页并返回内容。</p>
+</li>
+</ol>
+<p>前三项只是安装成功，第四项才说明整条执行链路真正可用。如果 AI 只回复“已经安装完成”，请让它贴出 <code class="notranslate">bsk doctor</code> 的完整结果再判断。</p>
+<h2>02准备工作：浏览器、WorkBuddy 和一个公开测试页</h2>
+<p>开始前准备好：</p>
+<ul>
+<li>
+<p>一个能执行本机 Shell 命令的 WorkBuddy 环境。</p>
+</li>
+<li>
+<p>Chrome 或 Edge 浏览器。BrowserSkill 官方明确支持这两种浏览器。</p>
+</li>
+<li>
+<p>安装浏览器扩展的权限。扩展必须由用户亲自确认安装，AI 不能代替。</p>
+</li>
+<li>
+<p>一个公开测试页面。本文使用 <code class="notranslate">https://example.com</code> 和 BrowserSkill 官方中文 README。</p>
+</li>
+</ul>
+<p>BrowserSkill 官方仓库把 WorkBuddy 列在支持的 Agent 中。它的基本链路是：WorkBuddy 调用 <code class="notranslate">bsk</code>，<code class="notranslate">bsk</code> 连接本机浏览器扩展，扩展再打开独立的 Agent Window 执行网页任务。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d12719841c6477e135e5a864f91a4d354a26f99e38ed0e8c7691f4e5f5875a19/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a6837303643625333657a423332634d3274734d4a4c76435a5951766562565653626f4535786d416d3374366451445769625864654e4a39455462383331564469615344535830727355685758536f70776b49666277763763516f6d6b484f444e42385733464f4f496963302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/d12719841c6477e135e5a864f91a4d354a26f99e38ed0e8c7691f4e5f5875a19/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a6837303643625333657a423332634d3274734d4a4c76435a5951766562565653626f4535786d416d3374366451445769625864654e4a39455462383331564469615344535830727355685758536f70776b49666277763763516f6d6b484f444e42385733464f4f496963302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/B7Jh706CbS3ezB32cM2tsMJLvCZYQvebVVSboE5xmAm3t6dQDWibXdeNJ9ETb831VDiaSDSX0rsUhWXSopwkIfbwv7cQomkHODNB8W3FOOIic0/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>图 2｜腾讯云 WorkBuddy 官方页面中的 Agent 工作流示意。图中展示的是 WorkBuddy 的通用工作方式。</p>
+<h2>03第一步：让 WorkBuddy 自动安装 BrowserSkill</h2>
+<p>在 WorkBuddy 新建一个任务，把下面整段提示词复制进去：</p>
+<pre class="notranslate"><code class="notranslate">请按照下面这份 BrowserSkill 官方安装说明，在本机完成安装和配置：https://raw.githubusercontent.com/Tencent/BrowserSkill/main/AGENT_INSTALL.md要求：1. 安装 bsk CLI 和 browser-skill；2. 不要使用 sudo；3. 执行 bsk --version；4. 执行 bsk doctor；5. 把完整检查结果告诉我；6. 如果需要安装浏览器扩展，请打开官方商店页面后停下来让我操作。
+</code></pre>
+<p>这段地址来自 Tencent/BrowserSkill 官方仓库。WorkBuddy 会按照说明安装 CLI 和 Skill，然后运行诊断。</p>
+<p>如果诊断结果只有 <code class="notranslate">extension connected</code> 一项失败，并提示 <code class="notranslate">0 browsers connected</code>，通常说明 CLI 已经装好，只差浏览器扩展。官方安装说明把这种情况列为首次安装时的正常中间状态。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7cca1a44c390d59a975459be137363b1ec99d9446cf9b5f28f38eb91d08b87b7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f42374a68373036436253304748696169626a4a52766e735a6639356871636b524a696278684e69626d4350316e414f493662656d5936666b66784d72314279536a6d7932696244706963696155684a6962554f3274556e52446f6a69616962786b78397956436b6a5a326f4151754c4373595752342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/7cca1a44c390d59a975459be137363b1ec99d9446cf9b5f28f38eb91d08b87b7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f42374a68373036436253304748696169626a4a52766e735a6639356871636b524a696278684e69626d4350316e414f493662656d5936666b66784d72314279536a6d7932696244706963696155684a6962554f3274556e52446f6a69616962786b78397956436b6a5a326f4151754c4373595752342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/B7Jh706CbS0GHiaibjJRvnsZf95hqckRJibxhNibmCP1nAOI6bemY6fkfxMr1BySjmy2ibDpiciaUhJibUO2tUnRDojiaibxkx9yVCkjZ2oAQuLCsYWR4/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>图 3｜WorkBuddy 官方技能市场真实界面。技能入口和页面布局可能随版本更新。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/68ca92802d92b13b9969a80504e9f391a07bb62579f7ce7162c6f1131b53c7cc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f42374a683730364362533172726962334f71764a3557743255557169616c64706363644d58574566594f796e7a4368624f4e304477327a554e327447683470346f69634c59696146657769614d674c517669615377417848433339617a6e4c46615267596a5a684f536b5a56504c52514d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/68ca92802d92b13b9969a80504e9f391a07bb62579f7ce7162c6f1131b53c7cc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f42374a683730364362533172726962334f71764a3557743255557169616c64706363644d58574566594f796e7a4368624f4e304477327a554e327447683470346f69634c59696146657769614d674c517669615377417848433339617a6e4c46615267596a5a684f536b5a56504c52514d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/B7Jh706CbS1rrib3OqvJ5Wt2UUqialdpccdMXWEfYOynzChbON0Dw2zUN2tGh4p4oicLYiaFewiaMgLQviaSwAxHC39aznLFaRgYjZhOSkZVPLRQM/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>图 4｜WorkBuddy 官方文档展示了用自然语言查找并自动安装 Skill 的方式。本教程使用的是 BrowserSkill 官方安装说明链接。</p>
+<h2>04第二步：安装扩展，让 <code class="notranslate">bsk doctor</code> 全部通过</h2>
+<p>WorkBuddy 应当打开 BrowserSkill 的 Chrome Web Store 页面。如果没有自动打开，可以手动访问：</p>
+<p><code class="notranslate">https://chromewebstore.google.com/detail/hhcmgoofomhgciiibhipgmgkgnoenaoi</code></p>
+<p>接着按顺序操作：</p>
+<ol>
+<li>
+<p>点击“添加至 Chrome”或浏览器显示的同类按钮。</p>
+</li>
+<li>
+<p>在确认框中允许安装扩展。</p>
+</li>
+<li>
+<p>打开 BrowserSkill 扩展弹窗，等待连接状态变成绿色。</p>
+</li>
+<li>
+<p>回到 WorkBuddy，发送：“扩展已经安装并显示绿色，请再次执行 <code class="notranslate">bsk doctor</code>，把完整结果发给我。”</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3c58fc4a525756429020c2d281ec9ff64ad8030ccb202977af4c4756f9f454a8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a68373036436253337161637942444e685665777143713442683338625a49763945733574696148655a334c57385144776c6448753867784c6f50535276496735497767644e69634862703551753758563873396f686c5679507662356439745a494b4b576f696269625a51772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/3c58fc4a525756429020c2d281ec9ff64ad8030ccb202977af4c4756f9f454a8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a68373036436253337161637942444e685665777143713442683338625a49763945733574696148655a334c57385144776c6448753867784c6f50535276496735497767644e69634862703551753758563873396f686c5679507662356439745a494b4b576f696269625a51772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/B7Jh706CbS3qacyBDNhVewqCq4Bh38bZIv9Es5tiaHeZ3LW8QDwldHu8gxLoPSRvIg5IwgdNicHbp5Qu7XV8s9ohlVyPvb5d9tZIKKWoibibZQw/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>图 5｜BrowserSkill 官方 Chrome Web Store 截图。商店按钮文字可能因浏览器版本和语言不同而变化。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cad78d5aee749b8619ca77c6863a191df22ae614e5d7377f6904995a73ea1edb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a68373036436253336f514e696170656d503042565a52315378756e69616b344d6570794b70394f39654a58696139594a546a6a3741727836414f67514e4456383851586a5544666262595155577278594869623275534f5670476467387a33706c5571775972475857696144492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/cad78d5aee749b8619ca77c6863a191df22ae614e5d7377f6904995a73ea1edb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a68373036436253336f514e696170656d503042565a52315378756e69616b344d6570794b70394f39654a58696139594a546a6a3741727836414f67514e4456383851586a5544666262595155577278594869623275534f5670476467387a33706c5571775972475857696144492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/B7Jh706CbS3oQNiapemP0BVZR1Sxuniak4MepyKp9O9eJXia9YJTjj7Arx6AOgQNDV88QXjUDfbbYQUWrxYHib2uSOVpGdg8z3plUqwYrGXWiaDI/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>图 6｜BrowserSkill 官方演示视频中的扩展真实界面。扩展连接成功后应显示绿色状态。</p>
+<p>验收时不要只看最后一句话，要检查每一行。官方定义的完成口径是：<code class="notranslate">bsk doctor</code> 所有检查项都为 <code class="notranslate">ok</code> 或 <code class="notranslate">na</code>。只要还有 <code class="notranslate">fail</code>，就让 WorkBuddy 按照该行的 <code class="notranslate">hint</code> 处理，再运行一次诊断。</p>
+<h2>05第三步：新开会话，跑通第一个只读任务</h2>
+<p>Skill 安装完成后，新建一个 WorkBuddy 会话。BrowserSkill 官方 README 也要求在新 Agent 会话中开始使用。</p>
+<p>复制下面这段提示词：</p>
+<pre class="notranslate"><code class="notranslate">请使用 browser-skill 打开 https://example.com。读取网页标题和正文，整理成 3 条中文摘要。只允许读取页面，不登录、不填写表单、不点击提交按钮。完成后关闭 browser-skill session，并告诉我任务是否成功。
+</code></pre>
+<p>正常情况下，你会看到一个独立的 Agent Window。AI 在这个窗口里打开网页、读取内容，然后回到 WorkBuddy 输出摘要。任务结束后，Agent Window 应当关闭。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/64c5d8cdf7e7062c0a9794285cbd16949ebe4aef474cd31c7235fe40f8652fa1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a6837303643625332786641313445467073664f70533457717977703542696246324f524765646d663244317771466159414f767031355541563073356d427069624764687a556f7169624f315871665332716366496a6962334231325a4351785953675a5857433851696173592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/64c5d8cdf7e7062c0a9794285cbd16949ebe4aef474cd31c7235fe40f8652fa1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a6837303643625332786641313445467073664f70533457717977703542696246324f524765646d663244317771466159414f767031355541563073356d427069624764687a556f7169624f315871665332716366496a6962334231325a4351785953675a5857433851696173592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/B7Jh706CbS2xfA14EFpsfOpS4Wqywp5BibF2ORGedmf2D1wqFaYAOvp15UAV0s5mBpibGdhzUoqibO1XqfS2qcfIjib3B12ZCQxYSgZXWC8QiasY/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>图 7｜BrowserSkill 官方演示视频真实截帧。左侧为终端操作，右侧为独立的 Agent Window。</p>
+<p>这一关的成功标准很简单：网页确实打开，摘要与页面内容一致，任务结束后会话被关闭。如果只得到一段没有打开网页的泛泛介绍，可以明确补一句：“必须调用 browser-skill 完成，不要只根据已有知识回答。”</p>
+<h2>06第四步：测试长页面，确认它会滚动和整理</h2>
+<p>公开短页面跑通后，再用 BrowserSkill 官方中文 README 测一次长页面：</p>
+<pre class="notranslate"><code class="notranslate">请使用 browser-skill 打开下面的公开页面：https://github.com/Tencent/BrowserSkill/blob/main/README.zh-CN.md完整阅读页面，必要时滚动和展开内容。请输出：1. BrowserSkill 的用途；2. 安装流程；3. 支持的浏览器和 Agent；4. 使用时需要注意的 5 条安全边界；5. 原始页面链接。只读取页面，不登录，不修改任何内容。遇到验证码或权限提示时停止并告诉我。完成后关闭 session。
+</code></pre>
+<p>这个任务能检查三件事：是否真的读取长页面，是否会根据页面变化继续观察，是否按指定结构交付结果。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/76d0a2d7544c9de7adb91682cfa661ca01b30409a390f57a05259a2622226229/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a68373036436253315a4352434a68353431516b673170536c643069615475554457696134527476484c64496439436848777073696163676e4e57533238376e5269625a564a4674696161736370756738374c396963715233513230664175584f67346d566961466e3745687a3164512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/76d0a2d7544c9de7adb91682cfa661ca01b30409a390f57a05259a2622226229/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a68373036436253315a4352434a68353431516b673170536c643069615475554457696134527476484c64496439436848777073696163676e4e57533238376e5269625a564a4674696161736370756738374c396963715233513230664175584f67346d566961466e3745687a3164512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/B7Jh706CbS1ZCRCJh541Qkg1pSld0iaTuUDWia4RtvHLdId9ChHwpsiacgnNWS287nRibZVJFtiaascpug87L9icqR3Q20fAuXOg4mViaFn7Ehz1dQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>图 8｜WorkBuddy 官方 Agent Browser 文档中的网页执行界面。Agent Browser 与 BrowserSkill 是不同工具，此图仅展示同类浏览器 Skill 的操作形态。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/99235f94b20874aedc8563b496699f93eaee3a2f31b860b1a450335858f38502/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a6837303643625331756d325369633530756d615973696341334271526b41696359564c536743556861746a346d676469616e33636f69625a5a736962743759466f75537236777a6354594756783464344e69626835734c6c6c684b76596b533936644d6963637a4e37794839434945672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/99235f94b20874aedc8563b496699f93eaee3a2f31b860b1a450335858f38502/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f42374a6837303643625331756d325369633530756d615973696341334271526b41696359564c536743556861746a346d676469616e33636f69625a5a736962743759466f75537236777a6354594756783464344e69626835734c6c6c684b76596b533936644d6963637a4e37794839434945672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/B7Jh706CbS1um2Sic50umaYsicA3BqRkAicYVLSgCUhatj4mgdian3coibZZsibt7YFouSr6wzcTYGVx4d4Nibh5sLllhKvYkS96dMicczN7yH9CIEg/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>图 9｜WorkBuddy 官方 Agent Browser 文档中的结果界面。它不是 BrowserSkill 的运行截图，也不代表 BrowserSkill 的实测结果。</p>
+<h2>07第五步：再尝试已经登录的网站</h2>
+<p>BrowserSkill 可以在当前浏览器配置文件中使用已有登录状态。建议先手动登录目标网站，再让 AI 执行一个只读查询任务。</p>
+<p>可以套用下面的模板：</p>
+<pre class="notranslate"><code class="notranslate">请使用 browser-skill 打开我已经登录的【网站或后台名称】。任务目标：【要查找的具体内容】。只允许读取、搜索、翻页和截图，不得修改、删除、发送或提交任何内容。如果必须使用我当前已经打开的标签页，请先向我申请借用。遇到登录、验证码、短信验证码或确认按钮时，立刻暂停并让我接管。输出格式：【表格 / 要点 / Markdown】。完成后归还借用的标签页并关闭 session。
+</code></pre>
+<p>BrowserSkill 默认在独立的 Agent Window 中操作。用户原来打开的标签页受到保护；要操作已有标签页，Agent 必须先显式借用，并在任务完成后归还。第一次测试登录态时，仍建议从低权限账号和只读任务开始。</p>
+<h2>08三套可以直接复制的实用提示词</h2>
+<h3>模板一：采集一篇长文章</h3>
+<pre class="notranslate"><code class="notranslate">请使用 browser-skill 打开【文章链接】。完整阅读正文，必要时滚动和展开折叠内容。提取标题、作者、发布日期、核心观点、关键数据和原始链接。把事实与作者观点分开，无法确认的内容标注“待核实”。只读取和截图，不登录，不发表评论。完成后关闭 session。
+</code></pre>
+<h3>模板二：对比多个公开页面</h3>
+<pre class="notranslate"><code class="notranslate">请使用 browser-skill 依次打开下面 3 个公开页面：【链接 1】【链接 2】【链接 3】按“页面标题、发布日期、核心结论、数据口径、原始链接”整理成表格。发现页面相互矛盾时分别列出，不要自行编造统一答案。只读取页面，不下载可执行文件，不登录账号。完成后关闭 session。
+</code></pre>
+<h3>模板三：填写草稿，停在提交前</h3>
+<pre class="notranslate"><code class="notranslate">请使用 browser-skill 打开我已经登录的【后台名称】。把下面内容填写到新建草稿中：【正文内容】。允许新建和编辑草稿，但禁止点击发布、提交、发送或确认按钮。填写完成后截图并暂停，等待我人工检查。遇到登录、验证码、权限申请或任何付费步骤时立刻停止。
+</code></pre>
+<p>提示词至少写清五件事：目标页面、允许动作、禁止动作、输出格式、停止条件。任务边界越具体，越容易检查结果。</p>
+<h2>09安装失败时，按这个顺序排查</h2>
+<h3>1. 提示 <code class="notranslate">bsk: command not found</code></h3>
+<p>先新开一个 WorkBuddy 会话，再执行 <code class="notranslate">bsk --version</code>。如果仍然失败，让 WorkBuddy 检查安装输出和 PATH。</p>
+<p>也可以按官方命令手动安装。运行前先确认链接域名是 <code class="notranslate">raw.githubusercontent.com</code>，仓库路径是 <code class="notranslate">Tencent/BrowserSkill</code>。</p>
+<p>macOS 或 Linux：</p>
+<pre class="notranslate"><code class="notranslate">curl -fsSL https://raw.githubusercontent.com/Tencent/BrowserSkill/main/install.sh | shbsk install-skill --yesbsk doctor
+</code></pre>
+<p>Windows PowerShell：</p>
+<pre class="notranslate"><code class="notranslate">irm https://raw.githubusercontent.com/Tencent/BrowserSkill/main/install.ps1 | iexbsk install-skill --yesbsk doctor
+</code></pre>
+<h3>2. <code class="notranslate">extension connected</code> 仍然失败</h3>
+<p>确认扩展已经安装且处于启用状态，打开扩展弹窗等待绿色连接状态，再运行 <code class="notranslate">bsk doctor</code>。公司网络或浏览器策略禁止扩展时，需要联系管理员处理。</p>
+<h3>3. WorkBuddy 没有触发 BrowserSkill</h3>
+<p>执行 <code class="notranslate">bsk install-skill</code>，确认安装目标包含 WorkBuddy，然后新建 Agent 会话。在提示词第一句明确写“请使用 browser-skill”。</p>
+<h3>4. 打开了错误的浏览器</h3>
+<p>让 Agent 执行 <code class="notranslate">bsk browsers</code> 查看已经连接的浏览器，再指定正确的浏览器启动任务。</p>
+<h3>5. 页面要求登录、验证码或短信验证</h3>
+<p>让 Agent 暂停并请求人工接管。不要连续重试验证码，也不要把密码、验证码或 Cookie 粘贴给 AI。人工完成后，再让 Agent 重新观察页面并继续。</p>
+<h3>6. 页面点击两次仍没有进展</h3>
+<p>停止继续点击，让 Agent 重新读取页面状态并说明阻塞点。BrowserSkill 官方 Skill 也要求，连续失败且没有进展时，应请求人工帮助，不能盲目重试。</p>
+<h2>10正式使用前，再做一次安全检查</h2>
+<p>BrowserSkill 扩展本身只通过本机 <code class="notranslate">127.0.0.1</code> 与本地服务通信，不会自行调用远程大模型。不过，上层的 WorkBuddy 或模型服务可能接收网页正文、截图和表单内容。两者的数据边界要分开看。</p>
+<p>正式使用前，建议逐项确认：</p>
+<ol>
+<li>
+<p>尽量使用单独的浏览器配置文件，只保留任务需要的登录状态。</p>
+</li>
+<li>
+<p>先做公开页面和只读任务，再逐步增加权限。</p>
+</li>
+<li>
+<p>发布、删除、购买、转账、发送和权限修改必须保留人工确认。</p>
+</li>
+<li>
+<p>不要让 AI 提取 Cookie、Token、密码或其他认证信息。</p>
+</li>
+<li>
+<p>只从官方仓库安装 BrowserSkill，第三方 Skill 先审查来源和权限。</p>
+</li>
+<li>
+<p>每个任务都写清停止条件，完成后关闭 session，借用的标签页要归还。</p>
+</li>
+</ol>
+<p>最后用一分钟验收：扩展显示绿色，<code class="notranslate">bsk doctor</code> 全部为 <code class="notranslate">ok</code> 或 <code class="notranslate">na</code>，公开网页任务能返回正确结果，任务结束后 Agent Window 正常关闭。四项都满足，再把 BrowserSkill 用到更复杂的工作里。</p>
+<hr></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
