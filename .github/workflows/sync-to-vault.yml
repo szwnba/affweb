@@ -1,0 +1,95 @@
+name: sync-to-vault
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      issue-number:
+        description: issue 编号（手动重放/测试用）
+        required: true
+        default: '772'
+concurrency:
+  group: sync-to-vault
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout obsidian vault
+        uses: actions/checkout@v4
+        with:
+          repository: szwnba/obsidian
+          ssh-key: ${{ secrets.OBSIDIAN_DEPLOY_KEY }}
+          fetch-depth: 1
+      - name: Write issue to raw
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISPATCH_NUMBER: ${{ github.event.inputs.issue-number }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, re, glob, datetime, urllib.request
+
+          VAULT = os.environ.get('GITHUB_WORKSPACE', '.')
+          DEST = os.path.join(VAULT, 'raw/articles/affweb')
+
+          disp = os.environ.get('DISPATCH_NUMBER', '').strip()
+          if disp:
+              req = urllib.request.Request(
+                  'https://api.github.com/repos/szwnba/affweb/issues/' + disp,
+                  headers={'Authorization': 'Bearer ' + os.environ['GH_TOKEN'], 'User-Agent': 'sync'})
+              issue = json.load(urllib.request.urlopen(req))
+          else:
+              issue = json.load(open(os.environ['GITHUB_EVENT_PATH']))['issue']
+          if 'pull_request' in issue:
+              print('是 PR，跳过'); raise SystemExit(0)
+
+          n = issue['number']
+          if glob.glob(os.path.join(DEST, '%03d-*.md' % n)):
+              print('#%d 已存在，跳过' % n); raise SystemExit(0)
+
+          def mask(t):
+              for pat, rep in [
+                  (r'sk-[A-Za-z0-9_\-]{16,}', 'sk-[已脱敏]'),
+                  (r'(ghp_|github_pat_)[A-Za-z0-9_]{16,}', '\\1[已脱敏]'),
+                  (r'secret_[A-Za-z0-9]{16,}', 'secret_[已脱敏]'),
+                  (r'org-[A-Za-z0-9]{16,}', 'org-[已脱敏]'),
+                  (r'https?://\S*?(exportkey|pass_ticket)=\S+', '[已脱敏:微信会话链接]'),
+                  (r'([?&](access_)?token=)[A-Za-z0-9_%\-]{16,}', '\\1[已脱敏]'),
+              ]:
+                  t = re.sub(pat, rep, t)
+              return t
+
+          def sanitize(t):
+              t = re.sub(r'[/\\:*?"<>|#^\[\]]', ' ', t or '')
+              return re.sub(r'\s+', ' ', t).strip()[:60] or 'untitled'
+
+          title = (issue.get('title') or '').strip()
+          fn = '%03d-%s.md' % (n, sanitize(title))
+          body = mask(issue.get('body') or '')
+          labels = ', '.join(l['name'] for l in issue.get('labels', []))
+          front = (
+              '---\n'
+              'tags: [affweb]\n'
+              'issue: %d\n' % n
+              + 'title: "' + title.replace('"', "'") + '"\n'
+              + 'labels: "[' + labels + ']"\n'
+              + 'state: ' + issue['state'] + '\n'
+              + 'source: https://github.com/szwnba/affweb/issues/%d\n' % n
+              + 'created: ' + issue['created_at'][:10] + '\n'
+              + 'imported: ' + datetime.date.today().isoformat() + '\n'
+              + '---\n\n'
+          )
+          with open(os.path.join(DEST, fn), 'w', encoding='utf-8') as f:
+              f.write(front + (body if body.strip() else '（原文为空：仅图片或链接的剪藏）') + '\n')
+          with open(os.path.join(VAULT, 'log.md'), 'a', encoding='utf-8') as f:
+              ts = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
+              f.write('[%s] 整理｜affweb 实时桥自动导入 #%d 至 raw/articles/affweb/（已脱敏）｜待分拣\n' % (ts, n))
+          print('已写入 #%d %s' % (n, title[:40]))
+          PYEOF
+      - name: Commit and push
+        run: |
+          git config user.name "affweb-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "无新增内容"; exit 0; fi
+          git commit -m "sync: affweb #${{ github.event.issue.number || github.event.inputs.issue-number }} 自动入库"
+          git push
