@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="这是苍何的第 576 篇原创！
+
+大家好，我是苍何。">
+<meta property="og:title" content="用 WorkBuddy / Codex + Obsidian 搭建自生长的个人知识库实战">
+<meta property="og:description" content="这是苍何的第 576 篇原创！
+
+大家好，我是苍何。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yong-%20WorkBuddy%20-%20Codex%20%2B%20Obsidian%20-da-jian-zi-sheng-chang-de-ge-ren-zhi-shi-ku-shi-zhan.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>用 WorkBuddy / Codex + Obsidian 搭建自生长的个人知识库实战</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用 WorkBuddy / Codex + Obsidian 搭建自生长的个人知识库实战</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/772" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>这是苍何的第 576 篇原创！</p>
+<p>大家好，我是苍何。</p>
+<p>和朋友半开玩笑的说，如果没有 AI，我最想做的是知识管理博主。</p>
+<p>但老实说，卢曼卡片盒、PARA 分类法、双链笔记，这些方法论，分享起来也没那么有意思。</p>
+<p>而且，最痛苦的你会发现，一套操作下来：知识整理比学习还累。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e29235f137e400b4d883ea021f1c12404ac1419d12f413f1449ab1e8cc2644c8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361426759666b6f6c6f5157567150725269634270567374514d655363446238594e3639586e5a4135473249575739635950454e69633764543769636f374c51736c31464a5348787a38616a486370556c51425a6a5a4d74673369625163576c303967476c46512f3634303f66726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/e29235f137e400b4d883ea021f1c12404ac1419d12f413f1449ab1e8cc2644c8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361426759666b6f6c6f5157567150725269634270567374514d655363446238594e3639586e5a4135473249575739635950454e69633764543769636f374c51736c31464a5348787a38616a486370556c51425a6a5a4d74673369625163576c303967476c46512f3634303f66726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaBgYfkoloQWVqPrRicBpVstQMeScDb8YN69XnZA5G2IWW9cYPENic7dT7ico7LQsl1FJSHxz8ajHcpUlQBZjZMtg3ibQcWl09gGlFQ/640?from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>于是，很长一段时间，我都在研究如何用 AI 更好的做知识管理。</p>
+<p>最近，基于 Karpathy 公开的 LLM wiki 知识库构建方法和架构，我做了一些实践。</p>
+<p>用 WorkBuddy / Codex + LLM wiki + Obsidian 构建了一套能够自生长的个人知识库。</p>
+<p>它能够将剪藏的文章、AI 对话、随手记的灵感，通过 WorkBuddy / Codex 把知识持续沉淀成可进化的知识大脑。</p>
+<p>这篇文章主要分以下几大部分，为大家拆解这套系统的核心搭建思路，以及实操步骤。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/17be1316509954d9ea0496ff955b5011ba186bf8892f8dc072d453bec5925eee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a48735653614269636150794157304c67536b366c3243696256483269633269614b31554f45466b59667957434e557956435769613154764f48537061674d7970503069624d51676545797162357a647769626a6b7369624a48526749524e6961514663456b666e69614c7337454855492f3634303f66726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/17be1316509954d9ea0496ff955b5011ba186bf8892f8dc072d453bec5925eee/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a48735653614269636150794157304c67536b366c3243696256483269633269614b31554f45466b59667957434e557956435769613154764f48537061674d7970503069624d51676545797162357a647769626a6b7369624a48526749524e6961514663456b666e69614c7337454855492f3634303f66726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaBicaPyAW0LgSk6l2CibVH2ic2iaK1UOEFkYfyWCNUyVCWia1TvOHSpagMypP0ibMQgeEyqb5zdwibjksibJHRgIRNiaQFcEkfniaLs7EHUI/640?from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<blockquote>
+<p>内容会有些长，可以点赞收藏后丢给你的 Agent 放进你自己的个人知识库系统。</p>
+</blockquote>
+<p>要理解 LLM wiki，得先搞清楚它到底要解决什么问题。</p>
+<p>现在主流的玩法，不管是 RAG 系统，还是 NotebookLM、GPT 的文件上传，本质都是同一套流程：你先上传资料，提问时模型召回相关知识片段，再临时综合出一个答案。</p>
+<p>听着挺智能，但问题很明显。</p>
+<p>每次提问，模型都在从碎片里重新拼答案，答完就散。同样的问题问一百遍，它就重新拼一百遍，知识本身没有任何积累。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fd55fa9cb2b6fd39418b20358be05d6e1741fa351f163147b4c6a852bb963d8b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614357656b753654395870796f56355433555161515554645a44684b43735a5338464664753369616b354a6279445843325066536c596a57443262797869633478563359486171466f4b6339726961635a6f46527533436a7278644a6d63523349436376772f3634303f66726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/fd55fa9cb2b6fd39418b20358be05d6e1741fa351f163147b4c6a852bb963d8b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614357656b753654395870796f56355433555161515554645a44684b43735a5338464664753369616b354a6279445843325066536c596a57443262797869633478563359486171466f4b6339726961635a6f46527533436a7278644a6d63523349436376772f3634303f66726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaCWeku6T9XpyoV5T3UQaQUTdZDhKCsZS8FFdu3iak5JbyDXC2PfSlYjWD2byxic4xV3YHaqFoKc9riacZoFRu3CjrxdJmcR3ICcvw/640?from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>Karpathy 提出的 LLM wiki，可以理解成给 AI 安排了一份长期工作：持续维护知识库。</p>
+<p>每加入一份资料，Agent 都会先查看现有页面。已有内容会被补充，新概念会单独建页；遇到不同观点，则把来源、时间和适用范围一起留下。知识的分歧因此有迹可循，也不会被一段看似完整的总结悄悄抹掉。</p>
+<p>我觉得，“自生长”的关键就在这里：AI 处理完资料后，知识库必须留下变化。它可能新增一个概念、补上一条关联，也可能暴露一个暂时没有答案的问题。一次次变化累积起来，才会形成真正属于自己的知识体系。</p>
+<p>为了让这个过程可控，整套系统分成三层：Raw 层保存文章、论文、聊天记录等原始资料；Wiki 层沉淀 AI 整理出的概念、实体和主题；Schema 层规定 AI 如何归档、更新、引用，以及怎么处理冲突。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73cd3f35c4dd337838dfb1b3df7fce661692f06994f09b80a8fffdfaa02e439f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361425a7a6963595154344261483079395a55396e4656594733794d656c5758514c674345454a50354b58687566325a4a74617050584962566771554b4b49436130455044363753533356655a4f56703462467175696347496963546962696168434d46304773632f3634303f66726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/73cd3f35c4dd337838dfb1b3df7fce661692f06994f09b80a8fffdfaa02e439f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361425a7a6963595154344261483079395a55396e4656594733794d656c5758514c674345454a50354b58687566325a4a74617050584962566771554b4b49436130455044363753533356655a4f56703462467175696347496963546962696168434d46304773632f3634303f66726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaBZzicYQT4BaH0y9ZU9nFVYG3yMelWXQLgCEEJP5KXhuf2ZJtapPXIbVgqUKKICa0EPD67SS3VeZOVp4bFquicGIicTibiahCMF0Gsc/640?from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>简单说，Raw 保存证据，Wiki 记录理解，Schema 负责定规则。后面的实战，就是让这三层真正运转起来。</p>
+<p>这套系统用到了 Obsidian，那为什么不直接用 Notion、Ima、NotebookLM 呢？</p>
+<p>首先 Obsidian 是完全本地化和数据自主的。一个 Vault 就是电脑上的普通文件夹，笔记以 Markdown 纯文本保存，不依赖某个平台的页面数据库。</p>
+<p>聊天记录、会议纪要等私人资料可以留在自己的设备上，是否同步、同步到哪里，都由自己决定。说得直白一点，工具可以换，知识不用跟着搬家。</p>
+<p>这种文件形态也很适合 Agent 工作。WorkBuddy / Codex 可以直接读取目录、创建页面、修改链接和维护索引，每次变化都能定位到具体文件，还可以通过 Git 留下记录。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/691d6df759212e1993c269c9fd3b5bcc49a2dea519d04a91ceb74cbcb6a7a87e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614352794469626269634838335850617468785737617169615534773671436b737434516f314b784d5772346963554965394577696362415252576c5466416a7637696145654a3864483751635231365869625958374378576963303065744277345749445151676963672f3634303f66726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/691d6df759212e1993c269c9fd3b5bcc49a2dea519d04a91ceb74cbcb6a7a87e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614352794469626269634838335850617468785737617169615534773671436b737434516f314b784d5772346963554965394577696362415252576c5466416a7637696145654a3864483751635231365869625958374378576963303065744277345749445151676963672f3634303f66726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaCRyDibbicH83XPathxW7aqiaU4w6qCkst4Qo1KxMWr4icUIe9EwicbARRWlTfAjv7iaEeJ8dH7QcR16XibYX7CxWic00etBw4WIDQQgicg/640?from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>Obsidian 的双链、反向链接和知识图谱，则把概念、人物、工具和主题连接起来，帮助我发现核心节点、孤立页面和新的关联。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a85db7a541fe4f7b5b20f7cdd516c0d7bf4c6d75b033837c5a26ff5e21a40f5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361426c357663447147584e465542647638466963737a77783841796b66537a326f6e794d76444c6d683837656846496274334e6779714e4649664c4d394a7a7239346773374d48387143776b70326c466963666143344233355a515a4152466b5062734d2f3634303f66726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/1a85db7a541fe4f7b5b20f7cdd516c0d7bf4c6d75b033837c5a26ff5e21a40f5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361426c357663447147584e465542647638466963737a77783841796b66537a326f6e794d76444c6d683837656846496274334e6779714e4649664c4d394a7a7239346773374d48387143776b70326c466963666143344233355a515a4152466b5062734d2f3634303f66726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaBl5vcDqGXNFUBdv8Ficszwx8AykfSz2onyMvDLmh87ehFIbt3NgyqNFIfLM9Jzr94gs7MH8qCwkp2lFicfaC4B35ZQZARFkPbsM/640?from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>而且 Obsidian 的插件生态进一步提供了扩展空间，从模板、查询、版本管理到发布和可视化，都可以按需添加。</p>
+<p>在整套系统中，Obsidian 同时承担存储底座、人机操作界面和知识观察窗口三种角色；</p>
+<p>WorkBuddy / Codex 负责执行，Obsidian 负责保存、连接和呈现结果。对于一套需要长期使用的个人知识库，本地自主、结构开放、变更可追踪和能力可扩展，已经足够构成选择它的理由。</p>
+<p>在这套系统里，WorkBuddy / Codex 承担的是 Agent 执行层。它们可以直接读取 Obsidian Vault 里的目录和 Markdown 文件，调用搜索、脚本和命令完成批量处理，并按照 <code class="notranslate">AGENTS.md</code> 中约定的规则工作。</p>
+<p>简单说，Obsidian 提供工作空间，LLM Wiki 提供知识结构，WorkBuddy / Codex 负责让这套结构真正运转起来。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e6882b5757b61f699a3c96604a9f57f993e1c058228173b1b19ee37239148448/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a4873565361444237504763685a474564654d4a4b4c644763764730624a4e544c376762394e534675524a37716c705778654149306e376b635555696272365846634e73374d39416b3930524b6d4577624e5473647a39443769624c3161566961663561696269614d4b55672f3634303f66726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/e6882b5757b61f699a3c96604a9f57f993e1c058228173b1b19ee37239148448/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a4873565361444237504763685a474564654d4a4b4c644763764730624a4e544c376762394e534675524a37716c705778654149306e376b635555696272365846634e73374d39416b3930524b6d4577624e5473647a39443769624c3161566961663561696269614d4b55672f3634303f66726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaDB7PGchZGEdeMJKLdGcvG0bJNTL7gb9NSFuRJ7qlpWxeAI0n7kcUUibr6XFcNs7M9Ak90RKmEwbNTsdz9D7ibL1aViaf5aibiaMKUg/640?from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>当新资料进入 Raw 层后，Agent 会先理解内容，识别其中的概念、实体和主题，再与现有 Wiki 进行对照。已有知识会被补充，新内容会创建页面，相关知识会建立链接；遇到不同说法时，它还要保留来源、时间和适用范围，并同步更新索引与变更记录。整个过程都属于增量维护，不需要反复重建整套知识库。</p>
+<p>到了查询和日常维护阶段，Agent 还会负责检索相关页面、整理答案、追溯来源，并批量检查失效链接、缺失字段和长期没有更新的内容。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7fdfbc45ae91e48a7153a5737fb3d7ce85e74aa86f193a62ba385a5215853989/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361444761665a6e7449474f3764516f494c31446f5a775957673058336b6962464a45673755577839437745353070547842557841654c72794c6d72593459563447787036364b535a6961347a703565656f784c72434f6631314d5869626a57424b667552672f3634303f66726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/7fdfbc45ae91e48a7153a5737fb3d7ce85e74aa86f193a62ba385a5215853989/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361444761665a6e7449474f3764516f494c31446f5a775957673058336b6962464a45673755577839437745353070547842557841654c72794c6d72593459563447787036364b535a6961347a703565656f784c72434f6631314d5869626a57424b667552672f3634303f66726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaDGafZntIGO7dQoIL1DoZwYWg0X3kibFJEg7UWx9CwE50pTxBUxAeLryLmrY4YV4Gxp66KSZia4zp5eeoxLrCOf11MXibjWBKfuRg/640?from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>它在系统中承担执行与编排，人负责设定规则、检查结果和处理关键判断。这样一来，知识管理从大量手工整理，逐渐变成一套人机协作的持续维护流程。</p>
+<p>接下来，进入实战环节，这里的 Agent 选择你可以用 Codex、Claude Code，也可以用 WorkBuddy，模型的话建议选择上下文长一些的模型。</p>
+<p>在模型这里，如果追求极致的性价比，目前来说 DeepSeek V4 Flash 是个不错的选择，但可惜的是不支持多模态。</p>
+<blockquote>
+<p>我非常不建议你用 Codex 里的 GPT 5.6 Sol，因为用量真的太猛了。</p>
+</blockquote>
+<p>当然，如果使用国内模型，也可以选择 Kimi K3 这类原生多模态模型，或 Doubao-Seed-Evolving 这类面向 Agent 与长程任务优化而且是动态永续进化的模型。</p>
+<p>到了长链路、多轮任务里，模型需要持续读取文档和图片、调用工具、维护上下文，并根据中间结果不断调整后续动作，因此上下文容量、工具调用稳定性、指令遵循和结构化输出能力，都会直接影响整套流程能否稳定运行。</p>
+<p>实际选型时，建议用自己的真实资料跑一遍完整任务，重点观察上下文是否丢失、工具调用是否稳定、输出格式是否漂移，以及单次任务的时间和成本。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e7f74d12006402a0588e6438c662337ef418393530a49112f828b3fb9745907/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a48735653614473376361564c5172383464314e74546c75506861444f645a6556797151454d6d38755a45767a5559696362774e46346b5852304e434469626f7657304f6963456963714f434443674a6c79656b37465347796b364f5757536174424869637a61344e6f4a732f3634303f66726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/2e7f74d12006402a0588e6438c662337ef418393530a49112f828b3fb9745907/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a48735653614473376361564c5172383464314e74546c75506861444f645a6556797151454d6d38755a45767a5559696362774e46346b5852304e434469626f7657304f6963456963714f434443674a6c79656b37465347796b364f5757536174424869637a61344e6f4a732f3634303f66726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaDs7caVLQr84d1NtTluPhaDOdZeVyqQEMm8uZEvzUYicbwNF4kXR0NCDibovW0OicEicqOCDCgJlyek7FSGyk6OWWSatBHicza4NoJs/640?from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<h2>准备工作</h2>
+<p>要搭建这样一套知识系统，需要提前准备一下工具及环境。</p>
+<p>首先是 Obsidian，在 obsidian. md 免费下载后，新建一个 Vault（仓库）：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d99db4d19f5e95103b989151b6bfa042a0fc97b7d864bac07189ee29b8ae3537/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a48735653614161744d76476231626345685a77384b30636a65324843764a696167623935757a394469626d77746b554f4a7975423959623971574f4779426961526470333556323071775775776961746961436830737769634d536e614a79584642727658674d385a696259452f3634303f66726f6d3d6170706d736723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/d99db4d19f5e95103b989151b6bfa042a0fc97b7d864bac07189ee29b8ae3537/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a48735653614161744d76476231626345685a77384b30636a65324843764a696167623935757a394469626d77746b554f4a7975423959623971574f4779426961526470333556323071775775776961746961436830737769634d536e614a79584642727658674d385a696259452f3634303f66726f6d3d6170706d736723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaAatMvGb1bcEhZw8K0cje2HCvJiagb95uz9DibmwtkUOJyuB9Yb9qWOGyBiaRdp35V20qwWuwiatiaCh0swicMSnaJyXFBrvXgM8ZibYE/640?from=appmsg#imgIndex=9" style="max-width: 100%;"></a></p>
+<blockquote>
+<p>全程记得开代理，特别是访问插件市场的时候。</p>
+</blockquote>
+<p>这里先抛一个彩蛋，下载完 Obsidian 后，你到插件市场再下载一下 WeSight 插件，也可以更丝滑的搭建这套知识大脑。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c3e68d5b596a5cc7213aa3e1e76988142ef822b1363fd86e886e31fb32ace63e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a487356536141797734394f42726963766e476a764d555639664c6a5663654e396a4e38304a48496d4f5a6c59506e7334786136444a574c3346566961443341754349775642456e744a657944735941616232586c687569634f54596f7a323338714b32646b553148452f3634303f66726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/c3e68d5b596a5cc7213aa3e1e76988142ef822b1363fd86e886e31fb32ace63e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a487356536141797734394f42726963766e476a764d555639664c6a5663654e396a4e38304a48496d4f5a6c59506e7334786136444a574c3346566961443341754349775642456e744a657944735941616232586c687569634f54596f7a323338714b32646b553148452f3634303f66726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaAyw49OBricvnGjvMUV9fLjVceN9jN80JHImOZlYPns4xa6DJWL3FViaD3AuCIwVBEntJeyDsYAab2XlhuicOTYoz238qK2dkU1HE/640?from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>如果你感兴趣，可以在文章后面看更为简单和丝滑的搭建方法。</p>
+<p>有了 Obsidian 后，你还需要准备 WorkBuddy 或者 Codex。这里就不细讲如何下载和使用了，也可以直接去我们开源的蓝皮书上看教程。</p>
+<blockquote>
+<p>WorkBuddy：workbuddy.homes<br>
+ Codex：codexguide.ai</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e1bd0691a737eb6f30834099d7ff0cd785820947db29bb6a964a46bc8459fea1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536143696337786b5557526d666962644436696170696269614f576b336f556a575749394c7570577279724d704d774936415a4158666842454c444649594b71454a4e413969624e533643577666654c514f6a5354424f397069613173554851637434434d424c7067552f3634303f66726f6d3d6170706d736723696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/e1bd0691a737eb6f30834099d7ff0cd785820947db29bb6a964a46bc8459fea1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536143696337786b5557526d666962644436696170696269614f576b336f556a575749394c7570577279724d704d774936415a4158666842454c444649594b71454a4e413969624e533643577666654c514f6a5354424f397069613173554851637434434d424c7067552f3634303f66726f6d3d6170706d736723696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaCic7xkUWRmfibdD6iapibiaOWk3oUjWWI9LupWryrMpMwI6AZAXfhBELDFIYKqEJNA9ibNS6CWvfeLQOjSTBO9pia1sUHQct4CMBLpgU/640?from=appmsg#imgIndex=11" style="max-width: 100%;"></a></p>
+<p>当然了，当前文章也会同时同步到蓝皮书上。</p>
+<h2> LLM Wiki 三层架构</h2>
+<p> LLM wiki 理论整体的三层架构，你可以按照自身需求再自定义，也可以复用我的这个模板：</p>
+<p>●●●</p>
+<p><code class="notranslate">📦 my-wiki/``├── AGENTS. md          ← Schema 规范层：给 AI 的工作说明书（核心）``├── index. md           ← 全局索引/站点地图（AI 定位知识的入口，导航目录）``├── log. md             ← 变更日志（只追加，谁改了什么一目了然）``│``├── raw/                   ← 原始资料层（只读，AI 不许改）``│   ├── articles/          ← 剪藏的文章、网页``│   ├── papers/            ← 论文、报告``│   ├── books/             ← 书籍、划线、笔记``│   ├── chats/             ← 有价值的 AI 对话记录（File Back 回填的）``│   └── notes/             ← 自己随手记的灵感碎片``│   └── meetings/          ← 会议纪要转写``│``└── wiki/                  ← Wiki 层（AI 全权维护）``    ├── sources/           ← 来源摘要页：一份 raw 资料对应一页``    ├── concepts/          ← 概念页：解释方法论、理论、模式``    ├── entities/          ← 实体页：人物、公司、产品、工具``    └── topics/            ← 主题综述页：某个领域的综合对比分析</code></p>
+<h2>如何搭建</h2>
+<p>搭建这套系统，我亲身实践下来一共有三种方法，我认为是比较友好的，对大多数人来说也相对简单。</p>
+<p>下面就以上手难易程度分别介绍，最简单的方式我放到最后一个方法中做说明。</p>
+<p><strong>方法一：直接搭建法</strong></p>
+<p>第一种是根据三层架构模板，直接让 WorkBuddy 或 Codex 来搭建。</p>
+<p>可以在 WorkBuddy 中打开刚刚新建的 Obsidian Vault，进入这个目录：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4bfbb3ca67443aecada9e605d2d6ebedcc83450efb8d34b23c8d06d44f2a0ccf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536142776b3757486b6270375241677055505378574f466748744532325552364f734c41643476644a724a376a57704d4d6961746547424f7072326c544d6d6b726e625a444e73424155614c436465453077574d454f49473551794343754b4357446e302f3634303f66726f6d3d6170706d736723696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/4bfbb3ca67443aecada9e605d2d6ebedcc83450efb8d34b23c8d06d44f2a0ccf/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536142776b3757486b6270375241677055505378574f466748744532325552364f734c41643476644a724a376a57704d4d6961746547424f7072326c544d6d6b726e625a444e73424155614c436465453077574d454f49473551794343754b4357446e302f3634303f66726f6d3d6170706d736723696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaBwk7WHkbp7RAgpUPSxWOFgHtE22UR6OsLAd4vdJrJ7jWpMMiateGBOpr2lTMmkrnbZDNsBAUaLCdeE0wWMEOIG5QyCCuKCWDn0/640?from=appmsg#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>选择「日常办公」，然后输入以下提示词：</p>
+<p>●●●</p>
+<p><code class="notranslate">你现在是这套个人知识库的搭建与维护 Agent。请在当前 Obsidian Vault 根目录中，搭建一套可长期增量维护的 LLM Wiki。``## 目标``建立 Raw、Wiki、Schema 三层结构：``- Raw 层保存原始资料，只允许读取，不修改原文。``- Wiki 层保存 AI 整理后的结构化知识，由 Agent 增量维护。```- Schema 层通过根目录下的 </code>AGENTS.md<code class="notranslate">定义归档、更新、引用和冲突处理规则。```## 需要创建的结构```-</code>AGENTS.md<code class="notranslate">：Agent 的长期工作规范````- </code>index.md<code class="notranslate">：全局索引和知识导航入口````- </code>log.md<code class="notranslate">：变更日志，只追加新记录````- </code>raw/articles/<code class="notranslate">：文章和网页剪藏````- </code>raw/papers/<code class="notranslate">：论文和报告````- </code>raw/books/<code class="notranslate">：书籍、划线和读书笔记````- </code>raw/chats/<code class="notranslate">：有价值的 AI 对话````- </code>raw/notes/<code class="notranslate">：灵感与随手记录````- </code>raw/meetings/<code class="notranslate">：会议纪要与转写````- </code>wiki/sources/<code class="notranslate">：原始资料对应的来源摘要页````- </code>wiki/concepts/<code class="notranslate">：概念、理论和方法页````- </code>wiki/entities/<code class="notranslate">：人物、公司、产品和工具页````- </code>wiki/topics/<code class="notranslate">：跨来源的主题综述页```## AGENTS.md 必须包含的规则```1. 处理新资料前，先搜索 </code>wiki/<code class="notranslate">中已有的相关页面，判断需要补充旧页面还是创建新页面。````2.</code>raw/<code class="notranslate">是事实来源，禁止改写、删除或移动其中的文件。````3. 每份 Raw 资料在</code>wiki/sources/<code class="notranslate"> 中建立对应的来源摘要页，并保留原始文件链接。```4. 概念、实体和主题使用独立页面，通过 Obsidian 双链建立关系，避免把所有信息堆在一篇笔记中。``5. 所有事实性内容都要标注来源；无法确认的内容明确写为“待核实”。``6. 新旧资料出现分歧时，同时保留不同说法及其来源、时间和适用范围，不直接覆盖旧结论。```7. 每次只更新受影响的页面，并同步维护相关双链、</code>index.md<code class="notranslate">和</code>log.md<code class="notranslate">。````8. </code>log.md<code class="notranslate">采用只追加方式，记录日期、资料来源、新建页面、更新页面和待人工确认事项。```9. 不擅自删除现有文件；同名文件已经存在时，先读取并合并必要规则，保留原内容。``10. 信息不足或判断可能影响整体结构时，暂停执行并向我提问。``## 页面模板```请分别在</code>wiki/sources/<code class="notranslate">、</code>wiki/concepts/<code class="notranslate">、</code>wiki/entities/<code class="notranslate">和</code>wiki/topics/<code class="notranslate">中创建</code>_template.md<code class="notranslate">。模板使用 Obsidian 兼容的 YAML 属性，至少包含：</code>title<code class="notranslate">、</code>type<code class="notranslate">、</code>aliases<code class="notranslate">、</code>tags<code class="notranslate">、</code>sources<code class="notranslate">、</code>created<code class="notranslate">、</code>updated<code class="notranslate">。正文预留摘要、核心内容、相关页面、来源与待核实问题等区域。```## 执行与验收``执行前先检查当前目录，确认这里是 Obsidian Vault；如果无法确认，请先询问我。随后创建缺失的目录和文件，不覆盖已有内容。``完成后请进行一次自检，并向我汇报：``- 新建了哪些目录和文件``- 哪些文件因已存在而被保留或合并```- </code>AGENTS.md<code class="notranslate"> 中最重要的维护规则```- 当前结构是否通过检查``- 下一步应该把第一份测试资料放到哪个目录</code></p>
+<p>可以看到 Agent 就会按照规则创建目标文件和目录，以及定义 AGENT. md</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/55cdda012f95c045ea323c556b76cdcd0d21945c9191d8efcb36e38474cb5148/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536144305a6c4d68686a4169615a516e4d4541387776696233563775696167374a68674231696361335843734275336f615361434c69637669636a3275545959355273636e724a735255696157704a70524c78764f735a754547494b4638554d32314675696355743937512f3634303f66726f6d3d6170706d736723696d67496e6465783d3133"><img src="https://camo.githubusercontent.com/55cdda012f95c045ea323c556b76cdcd0d21945c9191d8efcb36e38474cb5148/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536144305a6c4d68686a4169615a516e4d4541387776696233563775696167374a68674231696361335843734275336f615361434c69637669636a3275545959355273636e724a735255696157704a70524c78764f735a754547494b4638554d32314675696355743937512f3634303f66726f6d3d6170706d736723696d67496e6465783d3133" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaD0ZlMhhjAiaZQnMEA8wvib3V7uiag7JhgB1ica3XCsBu3oaSaCLicvicj2uTYY5RscnrJsRUiaWpJpRLxvOsZuEGIKF8UM21FuicUt97Q/640?from=appmsg#imgIndex=13" style="max-width: 100%;"></a></p>
+<p>Agent 会自动按照要求建好相关结构。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/063b57ecd251e7f775dddacf0cc904658cf9e566120cf1dbe6651dd4602360c4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614246666b5054634442594e566c793967624b7657663445443157687465666a4e6569624c6537486752495334724a434644334f6e6c4f6c4a4b6962757559776536696169634a33646b783444745a75677a526a6754516e6c4c787a3673464242673954784d2f3634303f66726f6d3d6170706d736723696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/063b57ecd251e7f775dddacf0cc904658cf9e566120cf1dbe6651dd4602360c4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614246666b5054634442594e566c793967624b7657663445443157687465666a4e6569624c6537486752495334724a434644334f6e6c4f6c4a4b6962757559776536696169634a33646b783444745a75677a526a6754516e6c4c787a3673464242673954784d2f3634303f66726f6d3d6170706d736723696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaBFfkPTcDBYNVly9gbKvWf4ED1WhtefjNeibLe7HgRIS4rJCFD3OnlOlJKibuuYwe6iaicJ3dkx4DtZugzRjgTQnlLxz6sFBBg9TxM/640?from=appmsg#imgIndex=14" style="max-width: 100%;"></a></p>
+<p>这个时候，你打开 Obsidian 就能看到对应的结构已经建好了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e1eb277105e95b4569582bcce43f0fa24a8bc6fcceb107a5fc9de397aff6c80/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361415a4b36756b38396c723050425130636f7431554b4b65696161506674396f656b665a4651496141595679664b4334496c36346c684570353170466f74396153624635323259416b3270797245375a5435646274327570686e5132454261684c6f632f3634303f66726f6d3d6170706d736723696d67496e6465783d3135"><img src="https://camo.githubusercontent.com/9e1eb277105e95b4569582bcce43f0fa24a8bc6fcceb107a5fc9de397aff6c80/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361415a4b36756b38396c723050425130636f7431554b4b65696161506674396f656b665a4651496141595679664b4334496c36346c684570353170466f74396153624635323259416b3270797245375a5435646274327570686e5132454261684c6f632f3634303f66726f6d3d6170706d736723696d67496e6465783d3135" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaAZK6uk89lr0PBQ0cot1UKKeiaaPft9oekfZFQIaAYVyfKC4Il64lhEp51pFot9aSbF522YAk2pyrE7ZT5dbt2uphnQ2EBahLoc/640?from=appmsg#imgIndex=15" style="max-width: 100%;"></a></p>
+<p>然后收藏一篇文章来做下验证，这里就借助一个叫 Obsidian Web Clipper 的浏览器插件，可以把网页文章一键剪藏到 Obsidian 中。</p>
+<p>这里在实际目录选择的时候选择我们刚建好的 raw/articles目录</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d129d1d56c93ca8275e27a3b61bbdb085258dbfd67b8eba7c3030c2d9cd3e645/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536143685933637469627442504b374c32684c55564d684331756e6e306e356e4e6b48384a666e5658743065774f62526f4f5636507532686a696378546773653952463567744e753273426963366769626961554e7659384d4e4c78446963666e30467237643776552f3634303f66726f6d3d6170706d736723696d67496e6465783d3136"><img src="https://camo.githubusercontent.com/d129d1d56c93ca8275e27a3b61bbdb085258dbfd67b8eba7c3030c2d9cd3e645/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536143685933637469627442504b374c32684c55564d684331756e6e306e356e4e6b48384a666e5658743065774f62526f4f5636507532686a696378546773653952463567744e753273426963366769626961554e7659384d4e4c78446963666e30467237643776552f3634303f66726f6d3d6170706d736723696d67496e6465783d3136" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaChY3ctibtBPK7L2hLUVMhC1unn0n5nNkH8JfnVXt0ewObRoOV6Pu2hjicxTgse9RF5gtNu2sBic6gibiaUNvY8MNLxDicfn0Fr7d7vU/640?from=appmsg#imgIndex=16" style="max-width: 100%;"></a></p>
+<p>然后你就能看到在 Obsidian 中对应目录下已经把这个文章同步过来了，非常的方便：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a3cd3019ef7aeb2cf582f621edae85414e4ab59f941ba5a2345d52b80cae42bd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536144497573637a7930477669636270506732625739545776563646306d6c567a6f47534b5433526b535572336459725a49344b5755613445786963746c6c4c53637851787075777a62696274396852363643644465727a656362375744316c7a72686962666f2f3634303f66726f6d3d6170706d736723696d67496e6465783d3137"><img src="https://camo.githubusercontent.com/a3cd3019ef7aeb2cf582f621edae85414e4ab59f941ba5a2345d52b80cae42bd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536144497573637a7930477669636270506732625739545776563646306d6c567a6f47534b5433526b535572336459725a49344b5755613445786963746c6c4c53637851787075777a62696274396852363643644465727a656362375744316c7a72686962666f2f3634303f66726f6d3d6170706d736723696d67496e6465783d3137" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaDIusczy0GvicbpPg2bW9TWvV6F0mlVzoGSKT3RkSUr3dYrZI4KWUa4ExictllLScxQxpuwzbibt9hR66CdDerzecb7WD1lzrhibfo/640?from=appmsg#imgIndex=17" style="max-width: 100%;"></a></p>
+<p>然后接着在 WorkBuddy 或 Codex 中建 wiki，可以参考以下提示词：</p>
+<p>●●●</p>
+<p><code class="notranslate">请读取 `raw/articles/` 中新增的文章，并严格按照 `AGENTS.md` 的规则增量维护 Wiki。````处理前先检索现有页面：为文章创建来源摘要，提取其中的概念、实体和主题；已有内容补充到原页面，新内容创建页面，不同观点保留来源、时间和适用范围。随后建立相关双链，并更新 `index.md` 与 `log.md`。````不要修改 `raw/` 中的原始文件。完成后告诉我新建、更新了哪些页面，以及有哪些内容需要人工确认。</code></p>
+<p>agent 会按照在 AGENTS. md 来建实体、概念、来源摘要、主题等 wiki。这里可以看到 WorkBuddy 已经帮我们新建了 9 个页面。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ae603535cbeaaa3930e4c5a314fb202f7535b1422e2ad4dc5ef8fdbf7934bfec/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361414c4573696132654e43326f674c59597433664d566e30464d726e7634573941584e30543333757478494a696352784a69625a55664a727a5679667042446872504f45573767554343504a6e43556f484538554f327952486e50757a55707052435251512f3634303f66726f6d3d6170706d736723696d67496e6465783d3138"><img src="https://camo.githubusercontent.com/ae603535cbeaaa3930e4c5a314fb202f7535b1422e2ad4dc5ef8fdbf7934bfec/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361414c4573696132654e43326f674c59597433664d566e30464d726e7634573941584e30543333757478494a696352784a69625a55664a727a5679667042446872504f45573767554343504a6e43556f484538554f327952486e50757a55707052435251512f3634303f66726f6d3d6170706d736723696d67496e6465783d3138" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaALEsia2eNC2ogLYYt3fMVn0FMrnv4W9AXN0T33utxIJicRxJibZUfJrzVyfpBDhrPOEW7gUCCPJnCUoHE8UO2yRHnPuzUppRCRQQ/640?from=appmsg#imgIndex=18" style="max-width: 100%;"></a></p>
+<p>去 Obsidian 中也能看到新建的 wiki 页面信息：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1fdc2876f044823652597cdb5dfdf92e3c47c8fcda141e999c0b506f20d4bd1d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361426b675277776d69635a4a3859306d7850735173647033534576456c367a336d525669637a72374164566369613338766a663465736e7a41636961784e7966764435546c53696277324e6f556f46785456306b71684b6e56425730427662724c6648674e6f672f3634303f66726f6d3d6170706d736723696d67496e6465783d3139"><img src="https://camo.githubusercontent.com/1fdc2876f044823652597cdb5dfdf92e3c47c8fcda141e999c0b506f20d4bd1d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361426b675277776d69635a4a3859306d7850735173647033534576456c367a336d525669637a72374164566369613338766a663465736e7a41636961784e7966764435546c53696277324e6f556f46785456306b71684b6e56425730427662724c6648674e6f672f3634303f66726f6d3d6170706d736723696d67496e6465783d3139" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaBkgRwwmicZJ8Y0mxPsQsdp3SEvEl6z3mRViczr7AdVcia38vjf4esnzAciaxNyfvD5TlSibw2NoUoFxTV0kqhKnVBW0BvbrLfHgNog/640?from=appmsg#imgIndex=19" style="max-width: 100%;"></a></p>
+<p>这些 Wiki 页面当然可以直接阅读，但它更重要的价值，是成为 Agent 的长期检索层和推理底座。经过结构化整理后，原本分散在文章里的概念、实体、主题和来源关系，都变成了可以直接定位、交叉引用和持续更新的知识节点。</p>
+<p>当我们再次提问时，Agent 可以优先检索已经沉淀的 Wiki 页面，再沿着双链回到相关资料，快速组织出有依据、可追溯的回答。随着处理的资料越来越多，这层可复用的中间知识会持续积累，后续查询和维护也会越来越高效。</p>
+<p>比如我在 WorkBuddy 中提问：</p>
+<blockquote>
+<p>请基于刚刚入库的文章和现有 Wiki，回答三个问题：文章提出了哪些核心观点？涉及的概念、实体和主题之间有什么关系？哪些结论可以转化为可执行的行动建议？</p>
+<p>回答时请标注引用的 Wiki 页面和 Raw 原文路径；如果资料中存在不同观点、信息缺口或待核实内容，也请单独列出。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/35ccd6bc785467384d1e97237ce13efdb70d1e2ca59c1132e50b88495208f399/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361446a49786573563944646a4b53304769614c7670767642516d56594d35327a51736866557566347050776778537134364f45364769636c3355666c5954587a7932706d56706962336e7872446433305076686963585230416457415664797831326a536962492f3634303f66726f6d3d6170706d736723696d67496e6465783d3230"><img src="https://camo.githubusercontent.com/35ccd6bc785467384d1e97237ce13efdb70d1e2ca59c1132e50b88495208f399/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361446a49786573563944646a4b53304769614c7670767642516d56594d35327a51736866557566347050776778537134364f45364769636c3355666c5954587a7932706d56706962336e7872446433305076686963585230416457415664797831326a536962492f3634303f66726f6d3d6170706d736723696d67496e6465783d3230" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaDjIxesV9DdjKS0GiaLvpvvBQmVYM52zQshfUuf4pPwgxSq46OE6Gicl3UflYTXzy2pmVpib3nxrDd30PvhicXR0AdWAVdyx12jSibI/640?from=appmsg#imgIndex=20" style="max-width: 100%;"></a></p>
+<p>可以看到，Agent 会先从 Wiki 中定位相关知识节点，再沿着页面之间的双链关系完成交叉检索与综合，并将关键结论追溯到对应的 Raw 原文；整个回答过程因此具备更高的检索效率、上下文一致性和事实可核验性。</p>
+<p>以上方法一，比较粗暴，对提示词及工程化理解要很到位，而且 AGENTS. md 要不断调整以适应自身知识库搭建需求。</p>
+<p><strong>方式二：claude-obsidian 插件</strong></p>
+<p>下面介绍下方法二，有大佬已经基于 LLM wiki 这套理论实践出了工程化落地较好的开源项目，叫 claude-obsidian。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fdc69c809495f2ab37e8a16b538d02f2b2632dcc61846c23763b1a712e8dda92/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a4873565361435a45716e3253596963696363347337507969616378317a69634848696375724842765832456d30526b4a5561364777574352684d6843464e3769637a6b51696332336d79645765666d4c4f493344796653713764774e64626a69616e656772677a69614844645635552f3634303f66726f6d3d6170706d736723696d67496e6465783d3231"><img src="https://camo.githubusercontent.com/fdc69c809495f2ab37e8a16b538d02f2b2632dcc61846c23763b1a712e8dda92/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a4873565361435a45716e3253596963696363347337507969616378317a69634848696375724842765832456d30526b4a5561364777574352684d6843464e3769637a6b51696332336d79645765666d4c4f493344796653713764774e64626a69616e656772677a69614844645635552f3634303f66726f6d3d6170706d736723696d67496e6465783d3231" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaCZEqn2SYicicc4s7Pyiacx1zicHHicurHBvX2Em0RkJUa6GwWCRhMhCFN7iczkQic23mydWefmLOI3DyfSq7dwNdbjianegrgziaHDdV5U/640?from=appmsg#imgIndex=21" style="max-width: 100%;"></a></p>
+<p>它把常用的方法封装成了插件及 Agent Skill，比如可以初始化知识库，将笔记保存到 wiki，自动索引和链接等。</p>
+<p>你不需要再通过提示词及自定义指令来实现 LLM wiki 的能力，你只需要借助该项目，就能搭建一套属于你的个人自生长知识库。</p>
+<p>这种方式相对上一种更为简单，你只需要在 WorkBuddy / Codex 中安装该项目：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9d9f4b376ad73ff402ddc5789913b332dabb58281e112710a6c3474162c5edc2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361436133637135457266506c69614d586a6e50684e665a486d6f6962756e5330384a78646232794851356d345557504e777679504d5276776a4b70564e6f567259484d394f644e58304b4568703356346b5366796961336b436e5835696258667a49677766492f3634303f66726f6d3d6170706d736723696d67496e6465783d3232"><img src="https://camo.githubusercontent.com/9d9f4b376ad73ff402ddc5789913b332dabb58281e112710a6c3474162c5edc2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361436133637135457266506c69614d586a6e50684e665a486d6f6962756e5330384a78646232794851356d345557504e777679504d5276776a4b70564e6f567259484d394f644e58304b4568703356346b5366796961336b436e5835696258667a49677766492f3634303f66726f6d3d6170706d736723696d67496e6465783d3232" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaCa3cq5ErfPliaMXjnPhNfZHmoibunS08Jxdb2yHQ5m4UWPNwvyPMRvwjKpVNoVrYHM9OdNX0KEhp3V4kSfyia3kCnX5ibXfzIgwfI/640?from=appmsg#imgIndex=22" style="max-width: 100%;"></a></p>
+<p>当前 Vault 就会自动创建好结构，只需要简单：ngest 一下，就能把新素材同步 wiki：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34ced995fdde5e100916371d896a6d83ccd585e06df5df41ba258e70c7a678ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536142486f734f466138755366644166526f6e5549796a765a346961614e6962557a584a5943667a69623347426f68546b355a4d4b556a57397251716f5171626a314d445155624b6f73733862696247746361306578466f4f706e366c624a65736e42496735382f3634303f66726f6d3d6170706d736723696d67496e6465783d3233"><img src="https://camo.githubusercontent.com/34ced995fdde5e100916371d896a6d83ccd585e06df5df41ba258e70c7a678ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536142486f734f466138755366644166526f6e5549796a765a346961614e6962557a584a5943667a69623347426f68546b355a4d4b556a57397251716f5171626a314d445155624b6f73733862696247746361306578466f4f706e366c624a65736e42496735382f3634303f66726f6d3d6170706d736723696d67496e6465783d3233" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaBHosOFa8uSfdAfRonUIyjvZ4iaaNibUzXJYCfzib3GBohTk5ZMKUjW9rQqoQqbj1MDQUbKoss8bibGtca0exFoOpn6lbJesnBIg58/640?from=appmsg#imgIndex=23" style="max-width: 100%;"></a></p>
+<p>用 retrieve 来从知识库中快速查询结果：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/194ff77867c242f11edf7e7cd6e67fff9bbf9bec14bacbf4003ef539c91258d1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614347465a506963444342445746783632395968356962654e64346d487733716f7a4a7a7979334347796a656272626d324666544b696159537278614f6d67617371676766307a6b6a6269614c6961474c466c533332307a56796566436b4c5965564b36426f492f3634303f66726f6d3d6170706d736723696d67496e6465783d3234"><img src="https://camo.githubusercontent.com/194ff77867c242f11edf7e7cd6e67fff9bbf9bec14bacbf4003ef539c91258d1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614347465a506963444342445746783632395968356962654e64346d487733716f7a4a7a7979334347796a656272626d324666544b696159537278614f6d67617371676766307a6b6a6269614c6961474c466c533332307a56796566436b4c5965564b36426f492f3634303f66726f6d3d6170706d736723696d67496e6465783d3234" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaCGFZPicDCBDWFx629Yh5ibeNd4mHw3qozJzyy3CGyjebrbm2FfTKiaYSrxaOmgasqggf0zkjbiaLiaGLFlS320zVyefCkLYeVK6BoI/640?from=appmsg#imgIndex=24" style="max-width: 100%;"></a></p>
+<p>你甚至不用显式指定 retrieve，Agent 会命中知识库中的 wiki 来快速检索：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e5fd2c7a6271dc488e6d648064271e51c1d023f1e286311ea93f26273c0c8c6e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536142536455323268706764724833615530385057776c4554775968747a70637a61506f365150797759586263584a6b794e6e78306f374548336e57496d664f5536776e70696234494b57456f42546272564b79444e667732425a38684b5a76524c55412f3634303f66726f6d3d6170706d736723696d67496e6465783d3235"><img src="https://camo.githubusercontent.com/e5fd2c7a6271dc488e6d648064271e51c1d023f1e286311ea93f26273c0c8c6e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536142536455323268706764724833615530385057776c4554775968747a70637a61506f365150797759586263584a6b794e6e78306f374548336e57496d664f5536776e70696234494b57456f42546272564b79444e667732425a38684b5a76524c55412f3634303f66726f6d3d6170706d736723696d67496e6465783d3235" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaBSdU22hpgdrH3aU08PWwlETwYhtzpczaPo6QPywYXbcXJkyNnx0o7EH3nWImfOU6wnpib4IKWEoBTbrVKyDNfw2BZ8hKZvRLUA/640?from=appmsg#imgIndex=25" style="max-width: 100%;"></a></p>
+<p>方式二比方式一更进一步：项目将初始化、入库、索引和检索封装成可复用的 Agent Skill，省去了反复编写提示词和维护复杂规则的工作。</p>
+<p>不过，主要操作仍然发生在 WorkBuddy / Codex 中，用户需要理解并调用 <code class="notranslate">ingest</code>、<code class="notranslate">retrieve</code> 等指令；Obsidian 更多承担文件存储和结果浏览，任务状态、执行过程与知识变化缺少直观的可视化反馈。对第一次接触这套架构的用户来说，使用门槛依然存在。</p>
+<p>要让这套知识库真正融入 Obsidian，操作入口也需要进入 Vault。于是就有了第三种方式：</p>
+<p><strong>方式三：WeSight 知识大脑</strong></p>
+<p>WeSight 插件把知识库初始化、资料入库、Wiki 更新和智能检索整合到 Obsidian 内部，让用户在熟悉的笔记界面中完成整个流程，同时由后台 Agent 负责结构维护与持续更新。</p>
+<p>这样一来，人看到的是清晰可视的操作和结果，Agent 处理的是复杂的知识编排，两者最终形成一套完整的人机协作闭环。</p>
+<p>你现在仅需要开启「知识大脑」能力，WeSight 会自动为你当前 Vault 配置好环境及结构。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4bd57bea6e1cbfba5da0d3ed08cec301c0e81f229fc51e3cd33b59b2d119ac01/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536144656639484c517271763379387a44316961523857716f685337535650735a6962664d6e303731706b69634a7466646c6c5738304b6f525641366961657743764f726e71396c376b7568506a4c48774e66514869636f4f6f7875704e6c37495561726d67346b2f3634303f66726f6d3d6170706d736723696d67496e6465783d3236"><img src="https://camo.githubusercontent.com/4bd57bea6e1cbfba5da0d3ed08cec301c0e81f229fc51e3cd33b59b2d119ac01/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a487356536144656639484c517271763379387a44316961523857716f685337535650735a6962664d6e303731706b69634a7466646c6c5738304b6f525641366961657743764f726e71396c376b7568506a4c48774e66514869636f4f6f7875704e6c37495561726d67346b2f3634303f66726f6d3d6170706d736723696d67496e6465783d3236" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaDef9HLQrqv3y8zD1iaR8WqohS7SVPsZibfMn071pkicJtfdllW80KoRVA6iaewCvOrnq9l7kuhPjLHwNfQHicoOoxupNl7IUarmg4k/640?from=appmsg#imgIndex=26" style="max-width: 100%;"></a></p>
+<p>可以一键将当前笔记加入到知识大脑对应的 wiki：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a54c2c6c6c7c789aef268eee02972bc99d704ce55ed084aee9f48c8d328efe36/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614144614a507a6e6e6f657668433467353463496962416a5349424731584e564266684a3471384868505a6573334c44496b4656696232545032746d366e3030683879486f434b527864334637574a6f755a647647766469624671676d6e57543151344e4d2f3634303f66726f6d3d6170706d736723696d67496e6465783d3237"><img src="https://camo.githubusercontent.com/a54c2c6c6c7c789aef268eee02972bc99d704ce55ed084aee9f48c8d328efe36/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a48735653614144614a507a6e6e6f657668433467353463496962416a5349424731584e564266684a3471384868505a6573334c44496b4656696232545032746d366e3030683879486f434b527864334637574a6f755a647647766469624671676d6e57543151344e4d2f3634303f66726f6d3d6170706d736723696d67496e6465783d3237" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaADaJPznnoevhC4g54cIibAjSIBG1XNVBfhJ4q8HhPZes3LDIkFVib2TP2tm6n00h8yHoCKRxd3F7WJouZdvGvdibFqgmnWT1Q4NM/640?from=appmsg#imgIndex=27" style="max-width: 100%;"></a></p>
+<p>Chat 时选择「基于知识库」模式，WeSight 会优先检索 Vault 中已经沉淀的 Wiki 页面，并沿着双链定位相关概念、实体和原始来源，再基于这些上下文组织回答。整个检索、引用与上下文装配过程都会自动完成，无需手动指定目录或调用命令。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bd818085c12a7d8d4d8c10af631dc983d96f88d2b10bffe5d267f885556d057d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361416a5542706f707256317977414462457462716472317859734f544161426d505451344a785264686b553745664179613639366658477a6a6d526d464d7342754c485949733477786755634762317a515850425a364b7570655941744d5a4e58672f3634303f66726f6d3d6170706d736723696d67496e6465783d3238"><img src="https://camo.githubusercontent.com/bd818085c12a7d8d4d8c10af631dc983d96f88d2b10bffe5d267f885556d057d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361416a5542706f707256317977414462457462716472317859734f544161426d505451344a785264686b553745664179613639366658477a6a6d526d464d7342754c485949733477786755634762317a515850425a364b7570655941744d5a4e58672f3634303f66726f6d3d6170706d736723696d67496e6465783d3238" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaAjUBpoprV1ywADbEtbqdr1xYsOTAaBmPTQ4JxRdhkU7EfAya696fXGzjmRmFMsBuLHYIs4wxgUcGb1zQXPBZ6KupeYAtMZNXg/640?from=appmsg#imgIndex=28" style="max-width: 100%;"></a></p>
+<p>而且还可以将与 Claude Code、Codex 的聊天记录一键保存到知识大脑，方便后续检索、关联和复用，让有价值的对话继续沉淀为长期知识资产。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26a62fefd96de1b64ab4517bdc6fa4b4b92d7efc30c1eee1af3a5e845fcba6fb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a487356536143704b5a44754a306d6533393437593968526139426962496352525a6c676c3038416d684b5273757951715279394e346b334169624475495470507a7a5235784669617a3079474750474a4f564c745773624a317843524349754570765a4e68584d754d2f3634303f66726f6d3d6170706d736723696d67496e6465783d3239"><img src="https://camo.githubusercontent.com/26a62fefd96de1b64ab4517bdc6fa4b4b92d7efc30c1eee1af3a5e845fcba6fb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a487356536143704b5a44754a306d6533393437593968526139426962496352525a6c676c3038416d684b5273757951715279394e346b334169624475495470507a7a5235784669617a3079474750474a4f564c745773624a317843524349754570765a4e68584d754d2f3634303f66726f6d3d6170706d736723696d67496e6465783d3239" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaCpKZDuJ0me3947Y9hRa9BibIcRRZlgl08AmhKRsuyQqRy9N4k3AibDuITpPzzR5xFiaz0yGGPGJOVLtWsbJ1xCRCIuEpvZNhXMuM/640?from=appmsg#imgIndex=29" style="max-width: 100%;"></a></p>
+<blockquote>
+<p>不过当前 WeSight 知识大脑功能仅对会员少量开放内测，欢迎大家体验。</p>
+</blockquote>
+<p>这套组合的“自生长”，来自知识结构的持续增量更新。每当新资料进入 Raw 层，Agent 都会按照 Schema 检索现有 Wiki，补充已有页面、创建新节点、建立双链，并记录来源与观点冲突。每次处理都会留下可复用的结构化结果，知识库也会随着输入不断演化。</p>
+<p>Obsidian 提供稳定的本地载体和可视化界面，WorkBuddy / Codex 提供理解、判断与编排能力，WeSight 则把入库、更新和查询进一步整合进日常笔记流程。人负责输入高价值资料和完成关键判断，Agent 承担重复维护，数据、规则与执行由此形成闭环。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b5cde8675230dc6d1cc1a6bee23b7232cd6badca1f7cf82025ccc9786cfd278f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361426873664e316d7a6f57784776696154304d5a36794c645a53336467374a45393554433036696344354546426961503748683277687044645a6739736d3052457431343364343664797676426d75616b5538326b4f4845664750344d50524d6e68386963412f3634303f66726f6d3d6170706d736723696d67496e6465783d3330"><img src="https://camo.githubusercontent.com/b5cde8675230dc6d1cc1a6bee23b7232cd6badca1f7cf82025ccc9786cfd278f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a7738625a4873565361426873664e316d7a6f57784776696154304d5a36794c645a53336467374a45393554433036696344354546426961503748683277687044645a6739736d3052457431343364343664797676426d75616b5538326b4f4845664750344d50524d6e68386963412f3634303f66726f6d3d6170706d736723696d67496e6465783d3330" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zw8bZHsVSaBhsfN1mzoWxGviaT0MZ6yLdZS3dg7JE95TC06icD5EFBiaP7Hh2whpDdZg9sm0REt143d46dyvvBmuakU82kOHEfGP4MPRMnh8icA/640?from=appmsg#imgIndex=30" style="max-width: 100%;"></a></p>
+<p>对于资料的搜集，如果是手机上可以配合 ima 或者其他剪藏工具来进行搜集，甚至直接可以借助 WorkBuddy 小程序快速搜集文章及灵感：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/752448e4da906a023d9becc738979b2ef8cb55f974e229d302d6c10917595da3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a4873565361413169623038753072655a4657553669633137753169627550716a54555030626963377a59547055654a4e586e6c3142424c496470595279434f313861564f7952746963685648676963377379676d336832436d7a31715a4a5545737053376b69626f6e4e7658772f3634303f66726f6d3d6170706d736723696d67496e6465783d3331"><img src="https://camo.githubusercontent.com/752448e4da906a023d9becc738979b2ef8cb55f974e229d302d6c10917595da3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a7738625a4873565361413169623038753072655a4657553669633137753169627550716a54555030626963377a59547055654a4e586e6c3142424c496470595279434f313861564f7952746963685648676963377379676d336832436d7a31715a4a5545737053376b69626f6e4e7658772f3634303f66726f6d3d6170706d736723696d67496e6465783d3331" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zw8bZHsVSaA1ib08u0reZFWU6ic17u1ibuPqjTUP0bic7zYTpUeJNXnl1BBLIdpYRyCO18aVOyRtichVHgic7sygm3h2Cmz1qZJUEspS7kibonNvXw/640?from=appmsg#imgIndex=31" style="max-width: 100%;"></a></p>
+<p>对于电脑文章搜集可直接使用 Obsidian Web Clipper 的浏览器插件一键剪藏。</p>
+<p>其他散落在各处的比如飞书文档啊，也可以借助 Agent 快速的收藏近知识库中来。</p>
+<p>回过头看，这套系统带来的最大变化，是让知识管理从一次性的手工整理，变成一套可以持续运行的维护机制。文章、笔记、对话和灵感进入 Raw 后，Agent 按照规则完成归档、关联和更新，Obsidian 负责长期保存与呈现，零散资料也就逐步长成了属于自己的知识网络。</p>
+<p>当然，自生长并不意味着完全自动化。哪些资料值得保留、规则如何设定、关键结论能否成立，仍然需要人的判断；AI 更适合承担重复、耗时且结构化的维护工作。人和 Agent 各自处理擅长的部分，知识管理才有机会长期坚持下去。</p>
+<p>如果你也想试试，不需要一开始就搭出一套完美系统。先建好三层目录，放入一篇真实资料，让 Agent 完成第一次增量更新，再根据实际使用不断调整 Schema。只要每次输入都能留下可复用的结果，你的知识库就已经开始生长了。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
