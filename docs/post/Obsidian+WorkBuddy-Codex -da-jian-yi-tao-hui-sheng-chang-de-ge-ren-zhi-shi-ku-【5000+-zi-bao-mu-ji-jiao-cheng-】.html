@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="这是「泽安不加班」的第 10 篇原创。">
+<meta property="og:title" content="Obsidian+WorkBuddy/Codex 搭建一套会生长的个人知识库【5000+字保姆级教程】">
+<meta property="og:description" content="这是「泽安不加班」的第 10 篇原创。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Obsidian%2BWorkBuddy-Codex%20-da-jian-yi-tao-hui-sheng-chang-de-ge-ren-zhi-shi-ku-%E3%80%905000%2B-zi-bao-mu-ji-jiao-cheng-%E3%80%91.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Obsidian+WorkBuddy/Codex 搭建一套会生长的个人知识库【5000+字保姆级教程】</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Obsidian+WorkBuddy/Codex 搭建一套会生长的个人知识库【5000+字保姆级教程】</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/770" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>这是「泽安不加班」的第 10 篇原创。</p>
+<p>大家好，我是泽安，见字如面～</p>
+<p>我为了找半年前存的一条 AI 提效笔记，在我那个两千多篇的 Obsidian 库里翻了四十分钟。</p>
+<p>翻到了，顺手看了眼创建时间：去年 11 月。也就是说，这条我当初觉得「太有用了必须存下来」的笔记，安安静静吃了十个月的灰。</p>
+<p>我不是个例。我敢打赌，屏幕前用 Obsidian、Notion 或者任何笔记软件的你，库里八成也是这个状态：存的时候感动自己，找的时候像在考古。</p>
+<p>这事的根子不在你懒。卢曼卡片盒、PARA等方法论你肯定都看过，看完觉得有道理，实操三天就散架。原因很简单：这些方法全都默认一件事，整理靠人。而人的时间是有限的，你上班已经够牛马了，下班还得给自己的知识库打工，图什么。</p>
+<p>所以这一个月我干了件事：把 AI 接进我的 Obsidian 库，让它当管理员，我当甩手掌柜。库还是那个库，但性质变了，从「坟场」变成了「会自己长的东西」。</p>
+<h3>一、先说清楚：什么叫「会自己长」</h3>
+<p>以前的知识库流程是这样的：你看到好东西，存进去，结束。知识库的唯一动作是「收」，没有「理」和「用」。三个月后它就是一个更大的坟场。</p>
+<p>我这次借的是最近圈内很火的一个思路，源头是 Karpathy 提的 LLM wiki 概念。说人话就是：别再让 AI 每次提问都从零开始翻资料，而是给它安排一个长期岗位，专职维护你的知识库。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb0ec52b408f2f38d4ebc6177d34fa3fcc4ae0690b15aa6c97504a189f13b9d0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a475434324b4d69635754726a5249474854636962596876774e4e76565163446d43743857554e6d69625648687155344a5153376f685168623879586e6c3457734b62756b47684e675770556962434f504e4146737a44675164696371357074504d59534436643579732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/cb0ec52b408f2f38d4ebc6177d34fa3fcc4ae0690b15aa6c97504a189f13b9d0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a475434324b4d69635754726a5249474854636962596876774e4e76565163446d43743857554e6d69625648687155344a5153376f685168623879586e6c3457734b62756b47684e675770556962434f504e4146737a44675164696371357074504d59534436643579732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/PDQ5TeJGT42KMicWTrjRIGHTcibYhvwNNvVQcDmCt8WUNmibVHhqU4JQS7ohQhb8yXnl4WsKbukGhNgWpUibCOPNAFszDgQdicq5ptPMYSD6d5ys/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>具体运转起来是三条铁律：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8ebf11efeed1fcf517aafa0ce9ee436323ba8bf8ce8f06c4563a1ca5220f59b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a475434336869616962704b737a76353474304c586963626b747746385672524c4474636279776c48386e54364c734a4c586555486a71764776594d6962794c57774e3076714461334c5a6a37495565614e493869636a73317131777a4967683169613378386242744b772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/b8ebf11efeed1fcf517aafa0ce9ee436323ba8bf8ce8f06c4563a1ca5220f59b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a475434336869616962704b737a76353474304c586963626b747746385672524c4474636279776c48386e54364c734a4c586555486a71764776594d6962794c57774e3076714461334c5a6a37495565614e493869636a73317131777a4967683169613378386242744b772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/PDQ5TeJGT43hiaibpKszv54t0LXicbktwF8VrRLDtcbywlH8nT6LsJLXeUHjqvGvYMibyLWwN0vqDa3LZj7IUeaNI8icjs1q1wzIgh1ia3x8bBtKw/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>1、新资料进来，AI 先查库里有没有。已有的，往原笔记里补充；没有的，新建页面；</p>
+<p>2、遇到互相矛盾的说法，不悄悄抹掉，把来源、时间、适用范围都留下来，让分歧有迹可循；</p>
+<p>3、每处理完一份资料，库里必须留下变化。可能是新增一个概念，可能是补上一条关联，也可能是暴露一个没答案的问题。</p>
+<p>说实话，第三条才是灵魂。以前 AI 帮你总结，答完就散，什么都没留下。现在每一次「喂料」都在给库添砖，库才谈得上「生长」。</p>
+<h3>二、为什么是 Obsidian，而不是 Notion、ima</h3>
+<p>Obsidian 是一款基于 Markdown 的本地知识管理软件。既能用来写笔记，也能通过内部链接，把不同笔记之间的内容关联起来，逐渐搭建成一个属于自己的个人知识库。</p>
+<p>所有笔记都可以直接保存在电脑本地，用户自己拥有和控制这些数据。</p>
+<p>先交代分工：Obsidian 负责存，AI（我用的 WorkBuddy，用 Codex 或者别的 Agent 同理）负责干活，我负责动嘴和拍板。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/426d4562d7834edf334984bc1c0175418670b22d73ebc4d65e4c4e73b4416b26/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5044513554654a47543432655346546b32546d4d7669626c616d4f5056435a7666514c435a75525a706d51554e5a4f714e6e4a376769614f7669623678574c346a586b70486d555241794b69616b61755634395969626e73313752666c51487847314255374d54345a4d4548736554772f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/426d4562d7834edf334984bc1c0175418670b22d73ebc4d65e4c4e73b4416b26/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f5044513554654a47543432655346546b32546d4d7669626c616d4f5056435a7666514c435a75525a706d51554e5a4f714e6e4a376769614f7669623678574c346a586b70486d555241794b69616b61755634395969626e73313752666c51487847314255374d54345a4d4548736554772f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/PDQ5TeJGT42eSFTk2TmMviblamOPVCZvfQLCZuRZpmQUNZOqNnJ7giaOvib6xWL4jXkpHmURAyKiakauV49Yibns17RflQHxG1BU7MT4ZMEHseTw/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>选 Obsidian 不是情怀，是三个很实际的理由：</p>
+<p>1、它就是电脑上的一个文件夹。 笔记全是 Markdown 纯文本，不存在某个平台的私有数据库。说得直白点，AI 工具哪天不想用了，换一个，知识不用搬家。</p>
+<p>2、这个形态天生适合 AI 干活。 Agent 直接读写目录里的文件就行，每次改动都能定位到具体哪个文件，错了也能回滚。Notion 那种套壳数据库，AI 想动手还得先过 API 这道坎。</p>
+<p>3、本地存储，数据在你自己手里。 一些私有数据，不适合放到云端的陌生服务器上。</p>
+<p>ima、NotebookLM 这些云端方案不是不好，检索也确实方便，但「资料必须传到别人服务器」这一步，就够我把私人内容排除了。同样定位也不一样：云端那套适合查资料，做共享，本地这套更适合养知识。</p>
+<p>WorkBuddy / Codex 负责执行，Obsidian 负责保存、连接和呈现结果。对于一套需要长期使用的个人知识库，本地自主、结构开放、变更可追踪和能力可扩展，已经足够构成选择它的理由。</p>
+<h3>三、实操：搭一个专为写公众号服务的库</h3>
+<p>先说清楚，这个库不是通用知识库，它只有一个客户：我的公众号。库里每一样东西，最终都要能变成选题、变成稿子、变成数据，不然就是占地方。</p>
+<p>第一步，创建知识库，并把 AI 的工作空间指到你的库里。</p>
+<p>要搭建一套知识系统，先通过 Obsidian 新建一个 Vault（仓库）：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/af53d771bee4d0ccc2bda3d807f714ec689f229c15b2627ff12ca32c60c293fc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a47543432583748437032383070526757703163323655614859793650553643453238745737335445396d62414d597a657775594e7573516e775232747030737334734b4c7430675442354953495441746154305a48476f45356c79684d7339536a32364d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/af53d771bee4d0ccc2bda3d807f714ec689f229c15b2627ff12ca32c60c293fc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a47543432583748437032383070526757703163323655614859793650553643453238745737335445396d62414d597a657775594e7573516e775232747030737334734b4c7430675442354953495441746154305a48476f45356c79684d7339536a32364d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/PDQ5TeJGT42X7HCp280pRgWp1c26UaHYy6PU6CE28tW73TE9mbAMYzewuYNusQnwR2tp0ss4sKLt0gTB5ISITAtaT0ZHGoE5lyhMs9Sj26M/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>WorkBuddy 新建会话的时候，工作空间直接选 Obsidian 的 vault 文件夹。这一步不需要任何插件，零门槛。</p>
+<p>第二步，建目录，围绕公众号来分。直接在 WorkBuddy 里跟它讲：</p>
+<pre class="notranslate"><code class="notranslate">你现在是我的个人内容知识库搭建与维护 Agent。请在当前 Obsidian Vault 根目录中，搭建一套以 LLM 自生长 为核心的知识库，主要服务于公众号 AI 工具测评、内容创作，并为未来写书和自动化内容生产预留空间。核心结构：建立 Raw、Wiki、Schema 三层：Raw：原始素材层。保存对标文章、网页资料、截图、评论、后台数据、AI 对话、灵感等原始信息，只读取，不修改。Wiki：知识弹药库。保存 AI 从 Raw 中提炼出的可复用知识，例如对标账号、爆款拆解、标题模式、选题、写作结构、AI 工具、读者需求和写作经验。Schema：Agent 工作规则。统一写在根目录 AGENTS.md，所有 Agent 工作前必须先读取。请创建：/├── AGENTS.md├── index.md├── log.md├── raw/│   ├── articles/│   ├── screenshots/│   ├── comments/│   ├── data/│   ├── chats/│   └── inbox/├── wiki/│   ├── accounts/│   ├── articles/│   ├── titles/│   ├── topics/│   ├── structures/│   ├── tools/│   ├── audience/│   └── writing/└── backup/AGENTS.md 核心规则：1. 先搜索，再创建。 新资料进入后，先搜索 Wiki，优先更新已有知识，避免重复页面。2. Raw 永远保留原始内容，禁止擅自修改、删除或覆盖。3. Wiki 不是资料摘要，而是可复用知识。 一份 Raw 可以同时更新标题、选题、结构、工具、读者需求等多个页面。4. 重要事实和爆款拆解必须保留原始来源、链接和发布日期；无法确认的信息标记“待核实”。5. 新建对标账号、工具、概念等页面前，必须检查是否已经存在。6. 引用评论和用户反馈时匿名处理。7. 修改已有 Wiki 笔记前，先备份到 backup/。8. 使用 Obsidian [[双链]] 连接相关知识，避免形成孤立笔记。9. log.md 只追加，记录重要的新建、更新、合并和待确认事项。10. 不擅自删除文件；涉及知识库结构或核心规则变化时，先询问我。自生长原则：不要采用“一个 Raw → 一个摘要”的方式。应该采用：新素材 → 搜索已有知识 → 提取新增信息 → 更新相关 Wiki → 建立双链 → 记录变更。随着资料增加，自动发现重复出现的标题模式、文章结构、选题方向、读者痛点、工具信息和写作规律，并逐渐沉淀成独立知识页面。只有某类内容明显增多时才建议新增目录或规则，不要一开始过度设计。未来公众号写作、写书、爆款拆解、对标监控、写作风格和自动生成初稿等 Agent/Skill，都应优先调用这套 Wiki。执行前先确认当前目录是 Obsidian Vault，不覆盖已有内容。完成后展示最终目录树，并简要告诉我新建、保留或合并了哪些内容，以及下一步应该把第一份测试素材放在哪里。
+</code></pre>
+<p>创建后的Obsidian 库目录结构总览：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/79bc4ed80bb3b6a1522332ed3b0812790de69f1ad46e4612573f70ff3292c668/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a4754343169624e73566b4e74494a34363342667434374d567437565337425a51676e6f6b465437414931333876767978453639534c766d3137474b76754c45655578456963796a4e3865566f617270733445626962794466614b6f424a4e42343866555a6572452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/79bc4ed80bb3b6a1522332ed3b0812790de69f1ad46e4612573f70ff3292c668/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a4754343169624e73566b4e74494a34363342667434374d567437565337425a51676e6f6b465437414931333876767978453639534c766d3137474b76754c45655578456963796a4e3865566f617270733445626962794466614b6f424a4e42343866555a6572452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/PDQ5TeJGT41ibNsVkNtIJ463Bft47MVt7VS7BZQgnokFT7AI138vvyxE69SLvm17GKvuLEeUxEicyjN8eVoarps4EbibyDfaKoBJNB48fUZerE/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<ul>
+<li>Raw 层（素材收发室）：刷到的对标文章、爆款标题截图、评论区里读者的真实吐槽、自己后台的数据截图——不用整理，扔进去就算完成；</li>
+<li>Wiki 层（弹药库）：AI 消化后的成品。对标账号档案页、爆款标题库、选题池、结构拆解页，每一页都是能直接拿来干活的；</li>
+<li>Schema 层（写给 AI 的规矩）：就一个文件。规定它怎么归档、怎么命名、怎么拆一篇爆款的结构、动笔前要先备份什么。</li>
+</ul>
+<p>重点说 Schema 这个文件，这是整套系统的地基。规矩要根据公众号场景来定，比如「新建对标账号档案前，必须先搜库内是否已有该账号」「拆解爆款必须带原文链接和发布日期，方便溯源」「引用读者评论要匿名处理」「修改任何笔记前先复制一份到 backup 文件夹」。规矩写得越细，它干活越省心。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6b7d4eb85024bf807fd859b9e1120520cc23d15434ee1a159145c8d0f99f4f5c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a4754343070347650504161706750466a335239466c545079744e75355061756c5247696264725a7032526843696378546b7057733833516a774a3464504c30424a58667648727034655568586851687a30466c6b4f336b4571424571575561444e4c4d646e382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/6b7d4eb85024bf807fd859b9e1120520cc23d15434ee1a159145c8d0f99f4f5c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a4754343070347650504161706750466a335239466c545079744e75355061756c5247696264725a7032526843696378546b7057733833516a774a3464504c30424a58667648727034655568586851687a30466c6b4f336b4571424571575561444e4c4d646e382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/PDQ5TeJGT40p4vPPAapgPFj3R9FlTPytNu5PaulRGibdrZp2RhCicxTkpWs83QjwJ4dPL0BJXfvHrp4eUhXhQhz0FlkO3kEqBEqWUaDNLMdn8/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>第三步，喂第一批料，让它拆对标。</p>
+<p>文章怎么进库？我用的 Obsidian 官方剪藏插件（Web Clipper），打开浏览器的扩展商店，搜 Obsidian Web Clipper，点获取就行。</p>
+<p>安装完成后，刷到喜欢的文章顺手剪进 Raw 层，目标目录直接选 raw/articles，正文和原文出处一起带走；</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/988c31df0c9a1f04bc5d08fd8d5e3129be5f5aa0c0bb529ecf6a3b58f2170789/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5044513554654a475434313350354956687074766f67474271723338745874336f674b34526571453061324d5155734f4f334367775977593959773730466b6c434b42477269626b48416272424d7a41596e4f79395941396e4d356a6a306779547a614330317957683557302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/988c31df0c9a1f04bc5d08fd8d5e3129be5f5aa0c0bb529ecf6a3b58f2170789/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5044513554654a475434313350354956687074766f67474271723338745874336f674b34526571453061324d5155734f4f334367775977593959773730466b6c434b42477269626b48416272424d7a41596e4f79395941396e4d356a6a306779547a614330317957683557302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/PDQ5TeJGT413P5IVhptvogGBqr38tXt3ogK4ReqE0a2MQUsOO3CgwYwY9Yw70FklCKBGribkHAbrBMzAYnOy9YA9nM5jj0gyTzaC01yWh5W0/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>这样就能看到在 Obsidian 中对应目录下已经把这个文章同步过来了</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/81efaebcdecaef0d30ef2f5d34ce159a0c0ad6f73f45b16979c7493767c38863/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5044513554654a47543431706962764f4a4c62584c4a37535656654945326a6b696153774559454d56595950586a4568536e6d5a535472674948706b5472474a5355734d7a4e37456e6963546777316e53683578796f4f74315463797952765a6e624f5559557a766c6b3239546f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/81efaebcdecaef0d30ef2f5d34ce159a0c0ad6f73f45b16979c7493767c38863/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5044513554654a47543431706962764f4a4c62584c4a37535656654945326a6b696153774559454d56595950586a4568536e6d5a535472674948706b5472474a5355734d7a4e37456e6963546777316e53683578796f4f74315463797952765a6e624f5559557a766c6b3239546f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/PDQ5TeJGT41pibvOJLbXLJ7SVVeIE2jkiaSwEYEMVYYPXjEhSnmZSTrgIHpkTrGJSUsMzN7EnicTgw1nSh5xyoOt1TcyyRvZnbOUYUzvlk29To/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>第四步，让 AI 自己整理分类。可以参考以下提示词：</p>
+<pre class="notranslate"><code class="notranslate">请先读取并遵守 AGENTS.md，然后处理 raw/ 中本次新增的资料，增量维护整个知识库。处理原则：1. 先检索 wiki/ 已有内容，再处理新资料；已有相关知识优先补充更新，没有合适页面且内容具有长期复用价值时再新建，避免重复和过度拆分。2. 不要简单把 Raw 做成摘要。重点提取未来对内容创作、公众号写作、选题、爆款分析、AI 工具研究以及写书有复用价值的信息，并更新到对应 Wiki。3. 一份 Raw 可以同时影响多个已有页面；主动建立或补充相关 [[双链]]，让知识之间形成关系。4. 新旧资料存在不同观点或信息变化时，不直接覆盖旧结论，保留来源、时间和适用范围；无法确认的标记为“待核实”。5. 严禁修改 raw/ 中的原始资料。6. 完成后同步维护 index.md 和 log.md。不要为了整理而整理，也不要为了完整而创建大量低价值页面。判断标准是：这条信息以后写文章、写书、研究工具或产生新选题时，是否可能再次用到？如果有长期复用价值，就沉淀；如果只是一次性信息，保留在 Raw 即可。完成后简要汇报：本次读取了哪些新资料、新建/更新了哪些 Wiki、发现了哪些值得继续积累的知识，以及有哪些内容需要我人工确认。
+</code></pre>
+<p>WorkBuddy、Codex 这类工具，会根据 AGENTS.md 和我输入的提示词来拆解，拆出标题、工具、文章结构这些信息。这次 WorkBuddy 给建了 7 个页面：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/454ee98a5fe3dd347927d9fb8ee16216d0a7ac893280a9ddde2e732a82ef3075/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5044513554654a475434316961307731783641525478563458524f47587352476a31336f646631357353437245314a674e6d424f4c506a436a48634d6336383549426b424d79493253594155517a427059475867534a556c4c324830544b4a42596962366d73464f6963447643672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38"><img src="https://camo.githubusercontent.com/454ee98a5fe3dd347927d9fb8ee16216d0a7ac893280a9ddde2e732a82ef3075/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5044513554654a475434316961307731783641525478563458524f47587352476a31336f646631357353437245314a674e6d424f4c506a436a48634d6336383549426b424d79493253594155517a427059475867534a556c4c324830544b4a42596962366d73464f6963447643672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/PDQ5TeJGT41ia0w1x6ARTxV4XROGXsRGj13odf15sSCrE1JgNmBOLPjCjHcMc685IBkBMyI2SYAUQzBpYGXgSJUlL2H0TKJBYib6msFOicDvCg/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>执行完成后，obsidian里面的拆解完成后的目录与内容</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb503d9e6902a0715875c556038410b6ca3d7c88db4af6e557e4f6c90d12e477/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5044513554654a4754343269614a35346e41506962556267466963797271497066426e6f456169615554304656425548453042306669626175683658527669617079394d6e49306c564538576264435533703979683549784830454a7a53434e6251425a6530717153707a6d7042616f592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39"><img src="https://camo.githubusercontent.com/cb503d9e6902a0715875c556038410b6ca3d7c88db4af6e557e4f6c90d12e477/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5044513554654a4754343269614a35346e41506962556267466963797271497066426e6f456169615554304656425548453042306669626175683658527669617079394d6e49306c564538576264435533703979683549784830454a7a53434e6251425a6530717153707a6d7042616f592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/PDQ5TeJGT42iaJ54nAPibUbgFicyrqIpfBnoEaiaUT0FVBUHE0B0fibauh6XRviapy9MnI0lVE8WbdCU3p9yh5IxH0EJzSCNbQBZe0qqSpzmpBaoY/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>如果两篇笔记存在关联，它会自动用上 Obsidian 的双链功能，打开关系图谱就能看到它们之间的联系</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6ad09d71416d0b59a03f1abe334f6dc108980fa4025a292d2f53c1df58dab8fa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a47543431376d6f734d75446b7643304d7770706862685138503458744b525765524c3033696331584b384b4557395835365643776e45464a43656961307858786962515371327a377552584d413139464c77696336366963506963574a4470594369617a6c394c346646592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/6ad09d71416d0b59a03f1abe334f6dc108980fa4025a292d2f53c1df58dab8fa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a47543431376d6f734d75446b7643304d7770706862685138503458744b525765524c3033696331584b384b4557395835365643776e45464a43656961307858786962515371327a377552584d413139464c77696336366963506963574a4470594369617a6c394c346646592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/PDQ5TeJGT417mosMuDkvC0MwpphbhQ8P4XtKRWeRL03ic1XK8KEW9X56VCwnEFJCeia0xXxibQSq2z7uRXMA19FLwic66icPicWJDpYCiazl9L4fFY/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>这个库最有价值的点，不是笔记能在 wiki 里直接读，而是它成了 AI 公众号创作的长期检索池。</p>
+<p>第五步，问库</p>
+<pre class="notranslate"><code class="notranslate">根据刚刚入库的文章，阅读raw里面的内容，请问qwen3.8-27b私有化部署的方案以及案例分别是什么？
+</code></pre>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e034aed0dfd09453f2e42ef6208a21e926c11ff2c047c6baacde5a8eaa6254de/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a47543431634f32384e454966497872433030684271566b7336776e307977745a733659673552384c35477076637a5a45386f6961756169616a35356c383568553164566962506e7165624533534863464e6a39464d78696374474f526269636963417a756961374b6535512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/e034aed0dfd09453f2e42ef6208a21e926c11ff2c047c6baacde5a8eaa6254de/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a47543431634f32384e454966497872433030684271566b7336776e307977745a733659673552384c35477076637a5a45386f6961756169616a35356c383568553164566962506e7165624533534863464e6a39464d78696374474f526269636963417a756961374b6535512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/PDQ5TeJGT41cO28NEIfIxrC00hBqVks6wn0ywtZs6Yg5R8L5GpvczZE8oiauaiaj55l85hU1dVibPnqebE3SHcFNj9FMxictGORbicicAzuia7Ke5Q/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=11" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7d956c3c458321717b42236f86d031b40b224d1fe2adc10cb35ab643cce51016/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a47543431636568714b6862423844554c38787635376467386b5759344b69616a39314b496b6b4a657966337345325a4b5771686639635377696335375376543452636266446d33324748674955785a4c315174446963566963774857696235683972656c733166396b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/7d956c3c458321717b42236f86d031b40b224d1fe2adc10cb35ab643cce51016/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f5044513554654a47543431636568714b6862423844554c38787635376467386b5759344b69616a39314b496b6b4a657966337345325a4b5771686639635377696335375376543452636266446d33324748674955785a4c315174446963566963774857696235683972656c733166396b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/PDQ5TeJGT41cehqKhbB8DUL8xv57dg8kWY4Kiaj91KIkkJeyf3sE2ZKWqhf9cSwic57SvT4RcbfDm32GHgIUxZL1QtDicVicwHWib5h9rels1f9k/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>从回答的问题来看，是做到了很高的质量的。</p>
+<h3>四、库怎么分，怎么养，以及它怎么长</h3>
+<p>做知识库这两年，我被问最多的问题就是：知识库怎么划分？</p>
+<p>我当初纠结的就很具体：主业和副业，要不要合成一个库？AI 工具测评和 AI 编程这两摊，要不要放一起？</p>
+<p>我实践下来就一条原则：看交集。两个领域经常互相引用、素材能串着用，就合进一个库——让 AI 跨领域找关联，才是它最值钱的地方；反过来，几乎老死不相往来，就拆开。库不是越大越好，是越「常被一起用」越好。</p>
+<p>但分完库不等于结束。一个库跑上两三个月不维护，照样会乱——失效的双链、谁也不连的孤立页面、同一个话题两篇笔记观点打架。搁以前，这基本就是这个库弃坑的开始。</p>
+<p>这事现在可以全权交给 WorkBuddy：它有定时任务功能，让 AI 隔一段时间自动体检一次。检查的提示词我放在这里，复制就能用：</p>
+<pre class="notranslate"><code class="notranslate">请按照 AGENTS.md 的规则，对整个知识库进行一次定期健康检查。重点检查：1. 是否存在失效或错误的 [[双链]]2. 是否存在长期没有关联的孤立 Wiki 页面3. 是否存在重复、内容高度相似或适合合并的页面4. 不同知识页之间是否存在明显冲突、过时信息或结论不一致5. 是否有 Raw 中已经出现、但尚未沉淀到 Wiki 的高价值知识6. 是否有多个案例反复出现，已经值得抽象成新的标题模式、写作结构、选题方向、读者需求或其他可复用知识7. index.md 是否仍能准确反映当前知识库的重要内容和结构8. 当前目录和知识分类是否仍然合理，是否出现需要拆分、合并或调整的趋势不要为了整理而整理，也不要因为单个案例就创建新的知识分类。只有出现明显重复模式或长期复用价值时，才提出结构调整建议。发现问题后，先生成检查报告，不要直接修改 Wiki、目录结构或 AGENTS.md。报告按照「问题 → 涉及页面 → 建议处理方式 → 原因」说明，并区分：需要处理 / 建议优化 / 暂时观察。等我确认后再执行修改。修改完成后重新检查相关双链和索引，并将本次实际变更追加记录到 log.md。
+</code></pre>
+<p>频次按自己的使用强度调，库小两周一次，库大每天进料多就勤快点，没有硬性要求。</p>
+<p>这里提醒下：涉及观点冲突的内容，别让 AI 自己做最终决定。两篇资料说法不同，不代表其中一篇一定是错的，可能是时间不同、场景不同。让 AI 负责发现问题就够了，保留哪个，你自己拍板。</p>
+<p>体检之外，再配一个日常自动整理任务：</p>
+<pre class="notranslate"><code class="notranslate">每天检查一次 raw/。如果没有新增资料，则结束本次任务。如果有新增资料，请先读取并遵守 AGENTS.md，然后增量维护整个知识库。处理过程中遵循以下原则：1. 优先更新已有知识，必要时再创建新页面。2. raw/ 永远作为原始事实来源，不进行修改。3. 提炼具有长期复用价值的知识，而不是简单整理或摘要。4. 主动维护相关 [[双链]]，保持知识之间的关联。5. 对存在冲突或无法确认的信息保留来源，并标记为「待核实」。6. 完成后同步更新 index.md 和 log.md。最后简要汇报：本次处理了哪些资料、更新了哪些知识、有哪些内容需要我确认。
+</code></pre>
+<p>这两个任务设好之后，你就进入「低维护」状态了：平时只干一件事，看到值得存的文章、PDF、笔记，往 raw/ 里一扔。</p>
+<p>到这里，整套系统其实已经能正常转了。但它还有更大的想象空间。</p>
+<p>你回头看这套系统：Obsidian 库本质就是一堆 Markdown 文件加一份规矩文件，AI 的工作空间指过来就能读写。这意味着任何技能都能往这套底座上挂。</p>
+<p>最重要的是，它不是一个静态的笔记库，而是一个会持续成长的知识系统。以后不管增加什么能力，Skill、Agent、自动化也好，都围绕这一个库展开。能力越来越丰富，但核心始终只有一个：让知识不断积累、不断复用，真正服务于创作。</p>
+<p>你只需要记住这个结构：库是底座，规矩是接口，技能是插件，你是唯一的审核员。想明白这一层，你后面学的每一个新技能，都有地方安放。</p>
+<h3>一点暴论，不怕打脸</h3>
+<p>我一直觉得，这两年「第二大脑」这个概念被讲烂了，是因为大家都把重点放在「存」上，好像存得越多、分得越细，人就越有知识。</p>
+<p>方向错了。存是这个时代最不值钱的动作，大模型什么都存着呢。值钱的是让存下来的东西发生关系、长出结构、在你需要的时候自己跳出来。这个活，人干不动，刚好是 AI 的主场。</p>
+<p>所以我的预测是：三年内，笔记软件的核心卖点不再是编辑器和双链，而是「谁家的 AI 管家更会养库」。库不再是你的死资产，而是一个你雇了 AI 帮你打理的活资产。到那时候，你现在积累的每一篇笔记，都不是在吃灰，是在给未来的 AI 打底子。</p>
+<p>先立这，flag 在这，欢迎三年后回来打我的脸。</p>
+<p>我是泽安，一个专门在真实工作里折腾 AI 工具、努力早点下班的博主。我们下期见～</p>
+<p>能看到这里，咱们已经是自己人了。先谢谢你耐心读完！</p>
+<p>如果这篇文章哪怕对你只有一丁点帮助，欢迎留个赞、点个在看、转发，让更多需要的人看到～</p>
+<p>想第一时间收到更新，给「泽安不加班」加个星标就行⭐</p>
+<p>最后祝咱们这些职场牛马：用好 AI，少走弯路，早点下班～</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
