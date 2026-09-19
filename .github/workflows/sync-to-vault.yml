@@ -46,25 +46,13 @@ jobs:
           if glob.glob(os.path.join(DEST, '%03d-*.md' % n)):
               print('#%d 已存在，跳过' % n); raise SystemExit(0)
 
-          def mask(t):
-              for pat, rep in [
-                  (r'sk-[A-Za-z0-9_\-]{16,}', 'sk-[已脱敏]'),
-                  (r'(ghp_|github_pat_)[A-Za-z0-9_]{16,}', '\\1[已脱敏]'),
-                  (r'secret_[A-Za-z0-9]{16,}', 'secret_[已脱敏]'),
-                  (r'org-[A-Za-z0-9]{16,}', 'org-[已脱敏]'),
-                  (r'https?://\S*?(exportkey|pass_ticket)=\S+', '[已脱敏:微信会话链接]'),
-                  (r'([?&](access_)?token=)[A-Za-z0-9_%\-]{16,}', '\\1[已脱敏]'),
-              ]:
-                  t = re.sub(pat, rep, t)
-              return t
-
           def sanitize(t):
               t = re.sub(r'[/\\:*?"<>|#^\[\]]', ' ', t or '')
               return re.sub(r'\s+', ' ', t).strip()[:60] or 'untitled'
 
           title = (issue.get('title') or '').strip()
           fn = '%03d-%s.md' % (n, sanitize(title))
-          body = mask(issue.get('body') or '')
+          body = issue.get('body') or ''
           labels = ', '.join(l['name'] for l in issue.get('labels', []))
           front = (
               '---\n'
