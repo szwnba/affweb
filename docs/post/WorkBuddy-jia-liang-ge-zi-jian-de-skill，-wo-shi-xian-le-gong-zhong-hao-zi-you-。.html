@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="大家好，我是萝卜~
+
+上次写 **WorkBuddy 加飞书跑公众号内容飞轮** 那篇，后台好几个朋友来问，能不能把“文章写完到进草稿箱”这一段单独拆开讲讲。">
+<meta property="og:title" content="WorkBuddy加两个自建的skill，我实现了公众号自由。">
+<meta property="og:description" content="大家好，我是萝卜~
+
+上次写 **WorkBuddy 加飞书跑公众号内容飞轮** 那篇，后台好几个朋友来问，能不能把“文章写完到进草稿箱”这一段单独拆开讲讲。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/WorkBuddy-jia-liang-ge-zi-jian-de-skill%EF%BC%8C-wo-shi-xian-le-gong-zhong-hao-zi-you-%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>WorkBuddy加两个自建的skill，我实现了公众号自由。</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">WorkBuddy加两个自建的skill，我实现了公众号自由。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/773" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>大家好，我是萝卜~</p>
+<p>上次写 <strong>WorkBuddy 加飞书跑公众号内容飞轮</strong> 那篇，后台好几个朋友来问，能不能把“文章写完到进草稿箱”这一段单独拆开讲讲。</p>
+<p>以前我发一篇文章，排版、封面、配图这几步加起来要花起码大几十分钟。现在这一块我基本不碰了，文章丢给 WorkBuddy，过几分钟它就排好版、配好图，然后直接就在草稿箱里了。</p>
+<p><strong>文章交给 WorkBuddy，排版、配图、封面和草稿创建都可以自动完成。</strong></p>
+<p>靠的是 WorkBuddy 加上我自己做的两个 skill：</p>
+<p>•一个负责文章排版</p>
+<p>•一个负责文章视觉</p>
+<p>•两个 skill 都已经上架 WorkBuddy 开放平台</p>
+<p>今天从头到尾跑一遍，照着做就能用上。</p>
+<p>如果你对于 WorkBuddy 和飞书还不太了解，可以先看看这篇文章：</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkwMzc1MzI0NA==&amp;mid=2247500974&amp;idx=1&amp;sn=7ca8c40a6b46d517c2342c342df0650a&amp;scene=21#wechat_redirect" rel="nofollow">用 WorkBuddy + 飞书，手把手教你搭一条公众号内容「自动飞轮」</a></p>
+<p>01准备工作先完成公众号接口配置</p>
+<p>首先需要先获取自己公众号的开发者信息。</p>
+<p>这是公众号平台官方提供的能力，<strong>属于正常的接口调用，不存在违规行为</strong>。</p>
+<p>01先看懂完整流程</p>
+<p>我们整个流程大致是这样的：</p>
+<p><strong>手工写完文章（或者自动生成文章）<br>
+→ 使用 WorkBuddy 的 skill 配图和生成封面<br>
+→ 使用 WorkBuddy 的 skill 排版<br>
+→ WorkBuddy 调用接口创建草稿<br>
+→ 打开公众号后台检查<br>
+→ 确认无误后手动点击发布</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dcb5bd89db4f4ea8cb71bb1e15df89ed878625b6db91a965e51aa45d8b46e621/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427a71306d74696279724638676f54716f6961536d30394d58564478516c6b457a53537a6a764b63574c4171684878796265476c5343514a6249446a327a7749396f336a7869624d645351365353696165636c796265724f31656854436c42563338683038512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/dcb5bd89db4f4ea8cb71bb1e15df89ed878625b6db91a965e51aa45d8b46e621/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427a71306d74696279724638676f54716f6961536d30394d58564478516c6b457a53537a6a764b63574c4171684878796265476c5343514a6249446a327a7749396f336a7869624d645351365353696165636c796265724f31656854436c42563338683038512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4Bzq0mtibyrF8goTqoiaSm09MXVDxQlkEzSSzjvKcWLAqhHxybeGlSCQJbIDj2zwI9o3jxibMdSQ6SSiaeclyberO1ehTClBV38h08Q/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>02登录微信开发者平台</p>
+<p>先登录微信开发者平台，扫码登录即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab79905e08e58d1c88a26b8c78f46ec20f116e6544f76e82e8883990af57e15b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d50683442785069634d5a55545579724e7763506d39437936624e3579696241414d46347664394167346c473661387930586a6a6d494b56776369634a376a5747486f417a52673132617665426642353353324f53554264536961734b7970647541703873344b6f716b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/ab79905e08e58d1c88a26b8c78f46ec20f116e6544f76e82e8883990af57e15b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d50683442785069634d5a55545579724e7763506d39437936624e3579696241414d46347664394167346c473661387930586a6a6d494b56776369634a376a5747486f417a52673132617665426642353353324f53554264536961734b7970647541703873344b6f716b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4BxPicMZUTUyrNwcPm9Cy6bN5yibAAMF4vd9Ag4lG6a8y0XjjmIKVwcicJ7jWGHoAzRg12aveBfB53S2OSUBdSiasKypduAp8s4Koqk/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>登录之后，到“我的业务”里面点击“公众号”。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a3ed713401bd94a792a39e0366482c9468d4359c7331379e8e1b04a1ccf950c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427947665a5478314b6142415739596961725a6b4f31636e655161443439476f4a36316336746b5149466145664d7133704c393646436b3762596435416e426d4a79653031637337677443424269636962746463474b314b63326766724831443472696344342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/a3ed713401bd94a792a39e0366482c9468d4359c7331379e8e1b04a1ccf950c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427947665a5478314b6142415739596961725a6b4f31636e655161443439476f4a36316336746b5149466145664d7133704c393646436b3762596435416e426d4a79653031637337677443424269636962746463474b314b63326766724831443472696344342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4ByGfZTx1KaBAW9YiarZkO1cneQaD49GoJ61c6tkQIFaEfMq3pL96FCk7bYd5AnBmJye01cs7gtCBBicibtdcGK1Kc2gfrH1D4ricD4/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>03获取 AppID 和 AppSecret</p>
+<p>进入公众号配置页面后，就能看到对应的 AppID 和 AppSecret。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e0cb4c327a358b43fc73f3a45f91aedcd9f13532a11820ae019a1485815c5a3a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427a584c354c6c4f7650583467576f6e7362556d727533786961725037363262797a6175626b484b5674743851354a6e69634236426a574f4f564c3030534f533934414c6d734e4564444565384a4c685949436842546d69637158475537454b433757614d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/e0cb4c327a358b43fc73f3a45f91aedcd9f13532a11820ae019a1485815c5a3a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427a584c354c6c4f7650583467576f6e7362556d727533786961725037363262797a6175626b484b5674743851354a6e69634236426a574f4f564c3030534f533934414c6d734e4564444565384a4c685949436842546d69637158475537454b433757614d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4BzXL5LlOvPX4gWonsbUmru3xiarP762byzaubkHKVtt8Q5JnicB6BjWOOVL00SOS94ALmsNEdDEe8JLhYIChBTmicqXGU7EKC7WaM/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>安全提醒：<strong>AppSecret 非常重要，千万不要在公开场合暴露出去。<br>
+无论是截图、文章、聊天记录，还是公开发布的配置文件，都不要包含完整的 AppSecret。</strong></p>
+<p>04配置 API IP 白名单</p>
+<p>公众号接口还需要设置 API IP 白名单。</p>
+<p>一般来说，可以在百度搜索“我的 IP”，获取当前使用的公网 IP 地址，然后将它填入公众号后台的 IP 白名单中。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28bfa24fad3c9cb65e73502aaed0fef653e6f5fa889c4a228a43d896e9dc8a58/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d5068344278784c4a71744850425159753239766c375372696174576d7a4e42614457594a35767a5943676559677a554a5275465139353550437a58437438346c58776469616446773238636f45565873576e634a73526663724c384f48377243384865466239492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/28bfa24fad3c9cb65e73502aaed0fef653e6f5fa889c4a228a43d896e9dc8a58/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d5068344278784c4a71744850425159753239766c375372696174576d7a4e42614457594a35767a5943676559677a554a5275465139353550437a58437438346c58776469616446773238636f45565873576e634a73526663724c384f48377243384865466239492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4BxxLJqtHPBQYu29vl7SriatWmzNBaDWYJ5vzYCgeYgzUJRuFQ955PCzXCt84lXwdiadFw28coEVXsWncJsRfcrL8OH7rC8HeFb9I/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>到这里，准备工作基本完成了。</p>
+<p>02让 WorkBuddy 完成一切先跑通接口流程</p>
+<p>下面的事情，其实都可以交给 WorkBuddy。</p>
+<p>我把相关提示词发送给 WorkBuddy 后，它就会一步步帮我完成后面的配置和测试。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2c2f78da6f670805c08094a76ac62f8b4061bdf6572b03af9311f0d04204dd8d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d5068344278464f4f6553506b776f495639696154517a7833513546384a65567471636c59754d723874536434364b345a443069625163663951656d4a5057464643545439535a51434a334148726f5a65696247327067654f3657467777705071684868644a774c6f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/2c2f78da6f670805c08094a76ac62f8b4061bdf6572b03af9311f0d04204dd8d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d5068344278464f4f6553506b776f495639696154517a7833513546384a65567471636c59754d723874536434364b345a443069625163663951656d4a5057464643545439535a51434a334148726f5a65696247327067654f3657467777705071684868644a774c6f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4BxFOOeSPkwoIV9iaTQzx3Q5F8JeVtqclYuMr8tSd46K4ZD0ibQcf9QemJPWFFCTT9SZQCJ3AHroZeibG2pgeO6WFwwpPqhHhdJwLo/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>很快，WorkBuddy 就帮我测试好了，一切都没有问题。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c032dcb0ada8116441010c1a12479258c291ba3256a5e2e2cdc1122dddb4158c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d5068344277435a696363474a6d6d5150534b7569614b68384a476d4569634e776e43534169626464396d696276676c584f644469634a534c69626458457a64774f563372466b306e483045354366773474397a6c48724b6f7736514b5a4256546b7150704e684252667639592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/c032dcb0ada8116441010c1a12479258c291ba3256a5e2e2cdc1122dddb4158c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d5068344277435a696363474a6d6d5150534b7569614b68384a476d4569634e776e43534169626464396d696276676c584f644469634a534c69626458457a64774f563372466b306e483045354366773474397a6c48724b6f7736514b5a4256546b7150704e684252667639592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4BwCZiccGJmmQPSKuiaKh8JGmEicNwnCSAibdd9mibvglXOdDicJSLibdXEzdwOV3rFk0nH0E5Cfw4t9zlHrKow6QKZBVTkqPpNhBRfv9Y/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>已经可以在草稿箱看到这篇测试文章了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d5e917cbbcee29250b118dac8213de22406652ebfb7f2efca4316be7e5ce6262/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427769636a79504f5069614a68464e48676f6962614d6d4435414e4669614b754a485449714b6d66554b6744336761674e6c6432416961364e4e4b795437784568566f337353364532696242795158516c4b4c6b706961745834365966666e43375937306f696337746f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/d5e917cbbcee29250b118dac8213de22406652ebfb7f2efca4316be7e5ce6262/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427769636a79504f5069614a68464e48676f6962614d6d4435414e4669614b754a485449714b6d66554b6744336761674e6c6432416961364e4e4b795437784568566f337353364532696242795158516c4b4c6b706961745834365966666e43375937306f696337746f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4BwicjyPOPiaJhFNHgoibaMmD5ANFiaKuJHTIqKmfUKgD3gagNld2Aia6NNKyT7xEhVo3sS6E2ibByQXQlKLkpiatX46YffnC7Y70oic7to/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>流程跑通之后，就可以让 WorkBuddy 把这个过程做成一个 skill。</p>
+<p>这样以后就不需要每次都手工提供 AppID 和 AppSecret 了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20b44cad88ba92818240a4c18f8c563f08a71fa5fbf28d9871b01213f5adb5b6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427a3970437869626c6d375a74676c4f446f786d594c72574e753372676479494f5a6b67526e6a584170446e727a76687853725359674c4749617165425369614d7459507673636c59644f327046374a314a72526569614c6373794936545569636f687956672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/20b44cad88ba92818240a4c18f8c563f08a71fa5fbf28d9871b01213f5adb5b6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427a3970437869626c6d375a74676c4f446f786d594c72574e753372676479494f5a6b67526e6a584170446e727a76687853725359674c4749617165425369614d7459507673636c59644f327046374a314a72526569614c6373794936545569636f687956672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4Bz9pCxiblm7ZtglODoxmYLrWNu3rgdyIOZkgRnjXApDnrzvhxSrSYgLGIaqeBSiaMtYPvsclYdO2pF7J1JrReiaLcsyI6TUicohyVg/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p><strong>建议先用一篇测试文章跑通完整流程，再将它封装成 skill。</strong></p>
+<p>03两个自建 skill文章排版与文章视觉</p>
+<p>下面再来说说两个自建 skill。</p>
+<p>这两个 skill 都是我开发的，用来辅助公众号日常运营</p>
+<p>•文章排版</p>
+<p>•文章视觉</p>
+<p>我已经将它们上架到 WorkBuddy 开放平台，目前已经审批通过，大家在 WorkBuddy 的 skill 页面就能搜索到。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0e88394e69f05f3b45afc7800e3cc465fbd093b8a6987809bda305ea62c5db6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d50683442773065527a56326e7962497637385742366c73794b716e506962595853573333645174696273744f325258613776504a30384c53696361747863704d32563058707675634f6d7070696171565278626961764a69616736396647377031357246477242423446732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/d0e88394e69f05f3b45afc7800e3cc465fbd093b8a6987809bda305ea62c5db6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d50683442773065527a56326e7962497637385742366c73794b716e506962595853573333645174696273744f325258613776504a30384c53696361747863704d32563058707675634f6d7070696171565278626961764a69616736396647377031357246477242423446732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4Bw0eRzV2nybIv78WB6lsyKqnPibYXSW33dQtibstO2RXa7vPJ08LSicatxcpM2V0XpvucOmppiaqVRxbiavJiag69fG7p15rFGrBB4Fs/640?wx_fmt=png&amp;from=appmsg#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>直接在 skill 广场搜索即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cba381d19a6392bf1fac9b0769caa5f31c89683d27bf19c8ccf8c71127fa4202/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427765416c59364a646961306876583678746a46737872773968346b396353394d7a6e744952773259715937444158485944696174436278495169633576496d4b667546733541546859725165486669616154506e34696230456f4b4832353742347666785a512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/cba381d19a6392bf1fac9b0769caa5f31c89683d27bf19c8ccf8c71127fa4202/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427765416c59364a646961306876583678746a46737872773968346b396353394d7a6e744952773259715937444158485944696174436278495169633576496d4b667546733541546859725165486669616154506e34696230456f4b4832353742347666785a512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4BweAlY6Jdia0hvX6xtjFsxrw9h4k9cS9MzntIRw2YqY7DAXHYDiatCbxIQic5vImKfuFs5AThYrQeHfiaaTPn4ib0EoKH257B4vfxZQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3635bf01bb751ca5bb9162ef9e40da9f0a7f8ea06bc7552527b175fd340853e4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427846525931305831453249446277574e435166363052637045734b446f696345316e6d3244493450356b3678325577794344637a7953554e64666161433648596833344d657269616e636963666c42426f3136534d4444504447536d57665951747966772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/3635bf01bb751ca5bb9162ef9e40da9f0a7f8ea06bc7552527b175fd340853e4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427846525931305831453249446277574e435166363052637045734b446f696345316e6d3244493450356b3678325577794344637a7953554e64666161433648596833344d657269616e636963666c42426f3136534d4444504447536d57665951747966772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4BxFRY10X1E2IDbwWNCQf60RcpEsKDoicE1nm2DI4P5k6x2UwyCDczySUNdfaaC6HYh34MeriancicflBBo16SMDDPDGSmWfYQtyfw/640?wx_fmt=png&amp;from=appmsg#imgIndex=11" style="max-width: 100%;"></a></p>
+<p>使用上面两个 skill，可以极大地缩短公众号的写作流程，真的值得去试一试。</p>
+<p>04跑一遍完整流程从飞书文档到公众号草稿箱</p>
+<p>比如我飞书文档上有这样一篇文章。</p>
+<p>如果是以前，我会先下载为 Markdown 文件，再复制到排版工具里面进行排版；封面和配图则会放到 ChatGPT 里面生成。</p>
+<p>一整套下来，纯纯是在耗费时间。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d5fabdb38496553dc913686ee45c5c848c9de4926a89dcf2fdcdd647dd2ef628/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d5068344277326350366d31624e793051785a546f675439496343305a4b6462766e6669624a305369623255494d3055597058566e5a63426e485369614b463932443164384b554f725335366744334135764358646a627a41494d547358456e57576f34717a4a47552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/d5fabdb38496553dc913686ee45c5c848c9de4926a89dcf2fdcdd647dd2ef628/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d5068344277326350366d31624e793051785a546f675439496343305a4b6462766e6669624a305369623255494d3055597058566e5a63426e485369614b463932443164384b554f725335366744334135764358646a627a41494d547358456e57576f34717a4a47552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4Bw2cP6m1bNy0QxZTogT9IcC0ZKdbvnfibJ0Sib2UIM0UYpXVnZcBnHSiaKF92D1d8KUOrS56gD3A5vCXdjbzAIMTsXEnWWo4qzJGU/640?wx_fmt=png&amp;from=appmsg#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>现在直接交给 WorkBuddy 和相关 skill 就完事了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/08339efd0228b55804dba43934c029aa13ef04759eea153301014383e03dafd9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427a6962746e4833654f696167347637486372563944476963387a63386b76783370567477497574354e4956684d46393265696369626c68654c784d4949536963446174487377504d54664369616d56664c47796e6f6a6b464756704d3267706b7555507a596b41412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133"><img src="https://camo.githubusercontent.com/08339efd0228b55804dba43934c029aa13ef04759eea153301014383e03dafd9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427a6962746e4833654f696167347637486372563944476963387a63386b76783370567477497574354e4956684d46393265696369626c68654c784d4949536963446174487377504d54664369616d56664c47796e6f6a6b464756704d3267706b7555507a596b41412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4BzibtnH3eOiag4v7HcrV9DGic8zc8kvx3pVtwIut5NIVhMF92eiciblheLxMIISicDatHswPMTfCiamVfLGynojkFGVpM2gpkuUPzYkAA/640?wx_fmt=png&amp;from=appmsg#imgIndex=13" style="max-width: 100%;"></a></p>
+<p>很快，我们就能得到想要的产物了，包括：</p>
+<p>•已经排好版、可以一键复制的 HTML 页面</p>
+<p>•公众号封面图片</p>
+<p>•文章内文配图</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/31383143f99b987b49cd15e0472b3b3277955f5efb6918220c20aee41980c19e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427a6f4d756632574b65777569616a463257773935684c7a4e68526a3971665a6d7376424f6c767664516963504c646b65617775696349494f4a6f4a6c47724a5877686d68324d706738714852516963645059756c61724859354a3045485032696241424866632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/31383143f99b987b49cd15e0472b3b3277955f5efb6918220c20aee41980c19e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427a6f4d756632574b65777569616a463257773935684c7a4e68526a3971665a6d7376424f6c767664516963504c646b65617775696349494f4a6f4a6c47724a5877686d68324d706738714852516963645059756c61724859354a3045485032696241424866632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4BzoMuf2WKewuiajF2Ww95hLzNhRj9qfZmsvBOlvvdQicPLdkeawuicIIOJoJlGrJXwhmh2Mpg8qHRQicdPYularHY5J0EHP2ibABHfc/640?wx_fmt=png&amp;from=appmsg#imgIndex=14" style="max-width: 100%;"></a></p>
+<p>文章也安静地躺在草稿箱里了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ac4732755e98d50017f3a51f92b67d16c356f45129349d1a3ab8d5d4c4f6de3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427a543552796e79617a5644456347747836377a7577634d3472684c383974434776774e416238683866507955524d656e33696362453969636a50426c7056346554746e6f716963346d6a415666437252516f79584f5044364f64797477316677484737552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135"><img src="https://camo.githubusercontent.com/0ac4732755e98d50017f3a51f92b67d16c356f45129349d1a3ab8d5d4c4f6de3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427a543552796e79617a5644456347747836377a7577634d3472684c383974434776774e416238683866507955524d656e33696362453969636a50426c7056346554746e6f716963346d6a415666437252516f79584f5044364f64797477316677484737552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4BzT5RynyazVDEcGtx67zuwcM4rhL89tCGvwNAb8h8fPyURMen3icbE9icjPBlpV4eTtnoqic4mjAVfCrRQoyXOPD6Odytw1fwHG7U/640?wx_fmt=png&amp;from=appmsg#imgIndex=15" style="max-width: 100%;"></a></p>
+<p>05让 AI 自动写文章先打底，再人工修改</p>
+<p>当然，肯定还有朋友想要更进一步，<strong>连文章也不想写。</strong></p>
+<p>下面再演示一下，怎么让 WorkBuddy 自动写文章。</p>
+<p>其实我自己的感觉是，对于偏理论的内容，让 AI 自动写文章还是可以的，偏教程类的文章就算了，因为教程需要个人感受和大量截图、视频才真实，纯 AI 写出来的教程，读者很难真正信服。</p>
+<p>情感类、时事类等赛道，也可以让 AI 先打底，但最能打动读者的，肯定还是你的个人特色。</p>
+<p>所以这里展示的自动写文章，只是展示一下 AI 目前所能达到的能力，<strong>不代表你可以什么都不管。</strong></p>
+<p>01使用提示词生成文章</p>
+<p>Plain Text</p>
+<p>以飞书文档中“OpenAI”目录下的文章为写作风格，写一篇介绍AI基础概念的公众号文章，包括不限于skill，mcp，Agent，Prompt，Context，Tool，Memory / RAG， Workflow，Evals等等。并使用 skill 进行去AI味处理。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/05055699aa9ce9f3828728567d0457d7414f16999cbe18894917698481c0fba6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d5068344277616d52464431796a46617a6346333670396133485350584d3467325244334355596f394e39456765744e53474f6872686c4e5a795234436a4d39737434613836366f7559675378543771505266475772785a3672504a465039493452395975342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136"><img src="https://camo.githubusercontent.com/05055699aa9ce9f3828728567d0457d7414f16999cbe18894917698481c0fba6/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d5068344277616d52464431796a46617a6346333670396133485350584d3467325244334355596f394e39456765744e53474f6872686c4e5a795234436a4d39737434613836366f7559675378543771505266475772785a3672504a465039493452395975342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4BwamRFD1yjFazcF36p9a3HSPXM4g2RD3CUYo9N9EgetNSGOhrhlNZyR4CjM9st4a866ouYgSxT7qPRfGWrxZ6rPJFP9I4R9Yu4/640?wx_fmt=png&amp;from=appmsg#imgIndex=16" style="max-width: 100%;"></a></p>
+<p>细心的朋友可能看到了，我这里的“去 AI 味”提到了一个 skill。</p>
+<p>这是网上一位大佬开源的 skill，据说是从 <strong>283 万字的语料</strong> 中整理得出的。我用过，确实比一般的去 AI 味工具要好很多，推荐给大家。</p>
+<p>后台回复“去AI”获取。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9d8914dc0101ac217d62fb8d8ecef7f910f1572dd2f5970fa234ff22939c3057/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427966623947324a39684f736c6e64754f356b4930625674785a50376c4c744865374c415937776e78356f63484a4953646d44594a51353277315678484f74514a564862796551314242775953427a7a6372775758766a6c486f46646135336e634d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3137"><img src="https://camo.githubusercontent.com/9d8914dc0101ac217d62fb8d8ecef7f910f1572dd2f5970fa234ff22939c3057/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d506834427966623947324a39684f736c6e64754f356b4930625674785a50376c4c744865374c415937776e78356f63484a4953646d44594a51353277315678484f74514a564862796551314242775953427a7a6372775758766a6c486f46646135336e634d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3137" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4Byfb9G2J9hOslnduO5kI0bVtxZP7lLtHe7LAY7wnx5ocHJISdmDYJQ52w1VxHOtQJVHbyeQ1BBwYSBzzcrwWXvjlHoFda53ncM/640?wx_fmt=png&amp;from=appmsg#imgIndex=17" style="max-width: 100%;"></a></p>
+<p>很快，我们就能得到一篇不错的 AI 科普文章。</p>
+<p>因为我没有要求配图和发布到草稿箱，所以 WorkBuddy 只生成了文章。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2c1035e504891686ffe8bb348133abbe567d7fc825ede98bd42fcbf854f88aa1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d5068344278696161517a5a37556d6c4e6961487342487276366658796c506f4279624451515272486f4c366f656e7a66303578674d6f6e616d3659524e4f6c4964696254696361456f336d745a7774754b6c4a5632753142683735574279614b357169633274596254382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3138"><img src="https://camo.githubusercontent.com/2c1035e504891686ffe8bb348133abbe567d7fc825ede98bd42fcbf854f88aa1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a6f7677574d5068344278696161517a5a37556d6c4e6961487342487276366658796c506f4279624451515272486f4c366f656e7a66303578674d6f6e616d3659524e4f6c4964696254696361456f336d745a7774754b6c4a5632753142683735574279614b357169633274596254382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3138" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zovwWMPh4BxiaaQzZ7UmlNiaHsBHrv6fXylPoBybDQQRrHoL6oenzf05xgMonam6YRNOlIdibTicaEo3mtZwtuKlJV2u1Bh75WByaK5qic2tYbT8/640?wx_fmt=png&amp;from=appmsg#imgIndex=18" style="max-width: 100%;"></a></p>
+<p>02继续让 WorkBuddy 配图并创建草稿</p>
+<p>如果还想配图和发布到草稿箱，只需要继续说一句话</p>
+<p>Plain Text</p>
+<p>为上面的文章配图并生成封面，并发布到草稿箱</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/654e19066964afc272a02c3ac4cb6a09b6038e967bed14889c3118ea5f80c274/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427944696343645776434d4441514277617131756e3962387950414b73327731586546517a78554e6963735449714d626d335365556d68414c30736565716242344f53337133474e6b70703832716d557039704846703569635633467a324a6b4c487175342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3139"><img src="https://camo.githubusercontent.com/654e19066964afc272a02c3ac4cb6a09b6038e967bed14889c3118ea5f80c274/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a6f7677574d506834427944696343645776434d4441514277617131756e3962387950414b73327731586546517a78554e6963735449714d626d335365556d68414c30736565716242344f53337133474e6b70703832716d557039704846703569635633467a324a6b4c487175342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3139" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zovwWMPh4ByDicCdWvCMDAQBwaq1un9b8yPAKs2w1XeFQzxUNicsTIqMbm3SeUmhAL0seeqbB4OS3q3GNkpp82qmUp9pHFp5icV3Fz2JkLHqu4/640?wx_fmt=png&amp;from=appmsg#imgIndex=19" style="max-width: 100%;"></a></p>
+<p>看到没有，还是太方便了。</p>
+<p>06写在最后自动化不是替你负责</p>
+<p>看到“公众号自由”四个字，很多人会以为从写到发全都能甩手。</p>
+<p>但我这套流程省掉的，其实主要是</p>
+<p>•排版</p>
+<p>•配图</p>
+<p>•制作封面</p>
+<p>•上传草稿</p>
+<p>•其他重复性的体力活</p>
+<p><strong>自动发布我是绝对不碰的。</strong></p>
+<p>AI 把稿子送进草稿箱就行了，之后我会打开后台从头看一遍，确认无误后再手动点击发送。</p>
+<p>至于写什么、截哪张图、踩过哪些坑，这部分还得你自己来。</p>
+<p>对我来说，公众号自由就是</p>
+<p><strong>把时间从重复操作里省出来，多留给选题和文章本身。</strong></p>
+<p>你也可以先去 Skill 广场搜索“文章排版”和“文章视觉”，拿一篇自己的文章试试，看看它能替你省下多少时间。</p>
+<hr>
+<p>以上就是今天的分享，觉得有帮助，帮请帮一键三连：<strong>点赞、转发，再看</strong>和<strong>留言</strong>，你的反馈对我很重要！</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
