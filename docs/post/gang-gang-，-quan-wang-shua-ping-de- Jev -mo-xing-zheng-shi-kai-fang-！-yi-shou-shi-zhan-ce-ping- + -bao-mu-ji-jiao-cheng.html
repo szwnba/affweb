@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="大家好，我是程序员鱼皮。">
+<meta property="og:title" content="刚刚，全网刷屏的 Jev 模型正式开放！一手实战测评 + 保姆级教程">
+<meta property="og:description" content="大家好，我是程序员鱼皮。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/gang-gang-%EF%BC%8C-quan-wang-shua-ping-de-%20Jev%20-mo-xing-zheng-shi-kai-fang-%EF%BC%81-yi-shou-shi-zhan-ce-ping-%20%2B%20-bao-mu-ji-jiao-cheng.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>刚刚，全网刷屏的 Jev 模型正式开放！一手实战测评 + 保姆级教程</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">刚刚，全网刷屏的 Jev 模型正式开放！一手实战测评 + 保姆级教程</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/779" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>大家好，我是程序员鱼皮。</p>
+<p>过去几年，不管是 ChatGPT、Claude 还是 DeepSeek，AI 大模型的目标一直都是「跟人聊天」和「帮人干活」。</p>
+<p>但最近有个模型突然火了，它有点儿特别，<strong>不说人话、不能跟人聊天</strong>。</p>
+<p>它叫 Jev，由前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI 发布，这哥们是 ChatGPT 的共同发明人之一！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/95095e50eca8bb0c6a43aceaa75ebf8a7577211b75dec65cb91217065fad2586/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a314851717169634b58766163653930626961564254447464744b76326f456d42537177745952363345474d6a5571347831713854383068736c416b577362357a654663756758516c506d58444d6c69626b69626963584b416c3437666b587a724b366e69636b63342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/95095e50eca8bb0c6a43aceaa75ebf8a7577211b75dec65cb91217065fad2586/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a314851717169634b58766163653930626961564254447464744b76326f456d42537177745952363345474d6a5571347831713854383068736c416b577362357a654663756758516c506d58444d6c69626b69626963584b416c3437666b587a724b366e69636b63342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1HQqqicKXvace90biaVBTDtdtKv2oEmBSqwtYR63EGMjUq4x1q8T80hslAkWsb5zeFcugXQlPmXDMlibkibicXKAl47fkXzrK6nickc4/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>我刚看到的反应是：一个不说人话的 AI，能有什么用？又是噱头吧？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d467b47ab0bdc65b5b76aed77b7a3d07f92fc49726a489598216134a3a44c6ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a314530355869635654546a5158544f434765506353464253646358555a714c396d4454635a426f4773457a64577769613677736c37706a30523857485a4657323842577442377574706961675349394f45746c57736b33644d6962726b5a5669633676427145452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/d467b47ab0bdc65b5b76aed77b7a3d07f92fc49726a489598216134a3a44c6ae/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a314530355869635654546a5158544f434765506353464253646358555a714c396d4454635a426f4773457a64577769613677736c37706a30523857485a4657323842577442377574706961675349394f45746c57736b33644d6962726b5a5669633676427145452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1E05XicVTTjQXTOCGePcSFBSdcXUZqL9mDTcZBoGsEzdWwia6wsl7pj0R8WHZFW28BWtB7utpiagSI9OEtlWsk3dMibrkZVic6vBqEE/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><strong>了解之后发现，还真有点东西！</strong></p>
+<p>这篇文章我就从零开始，带大家搞懂 Jev 到底是什么、怎么用、到底好不好用。没有任何技术基础的小白也能看懂，看完还能直接上手体验。</p>
+<h2>一、Jev 入门介绍</h2>
+<h3>Jev 是什么？</h3>
+<p>传统的大模型主要是跟人对话的，你问它一个问题，它回你一段话。</p>
+<p>但这就带来一个问题，比如你想让它帮你判断一下「这封邮件紧急吗」，它不会直接告诉你「是」或者「否」，而是先给你写一大段分析，然后才给出结论。不仅速度慢、烧 Tokens，还需要你自己从回答里把答案抠出来。</p>
+<p>Jev 就完全不一样了。你问它「这封邮件紧急吗」，它就直接告诉你「是，概率 95%」。</p>
+<p>模型返回的是一段结构化的 JSON 数据，你的程序可以直接拿来用：</p>
+<pre class="notranslate"><code class="notranslate">{  "is_urgent": {    "noul": 0.95  }}
+</code></pre>
+<p>可以说，没有任何 AI 比它更直接、更不绕弯子。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3486fda307d767a52275e9563629a5632cb5bd5778c9587c997893668e6605bb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31476e576b505473465a336c7554654e6e674c4e55677073644742453031646447383754794c4e73776e5073363169614a665375467346364147417061613646726345567a525a687832624a436d544633666d6d794755776a676748487755445631492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/3486fda307d767a52275e9563629a5632cb5bd5778c9587c997893668e6605bb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31476e576b505473465a336c7554654e6e674c4e55677073644742453031646447383754794c4e73776e5073363169614a665375467346364147417061613646726345567a525a687832624a436d544633666d6d794755776a676748487755445631492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1GnWkPTsFZ3luTeNngLNUgpsdGBE01ddG87TyLNswnPs61iaJfSuFsF6AGApaa6FrcEVzRZhx2bJCmTF3fmmyGUwjggHHwUDV1I/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>TypeSafe AI 管这种模型叫 <strong>System One Model（系统一模型）</strong>，灵感来自诺贝尔奖得主 Daniel Kahneman 的《思考，快与慢》。系统一是人类大脑里负责快速直觉判断的部分，比如你一眼就能看出「这个人在生气」；系统二是负责深度推理的，比如「算一下 17 × 24」。</p>
+<p>传统 LLM 更像系统二，Jev 就是系统一。</p>
+<p>根据 TypeSafe 官方自测的数据，两者的差距还挺夸张的：</p>
+<p>|  |</p>
+<p>传统 LLM（如 GPT-5.6）</p>
+<p>|</p>
+<p>Jev</p>
+<p>|<br>
+| --- | --- | --- |<br>
+|</p>
+<p>输出方式</p>
+<p>|</p>
+<p>生成文字，需要解析</p>
+<p>|</p>
+<p>直接返回结构化决策结果</p>
+<p>|<br>
+|</p>
+<p>响应速度</p>
+<p>|</p>
+<p>3 - 329 秒</p>
+<p>|</p>
+<p>70 - 500 毫秒</p>
+<p>|<br>
+|</p>
+<p>输入价格</p>
+<p>|</p>
+<p>10 / 百万 token</p>
+<p>|</p>
+<p>$0.042 / 百万 token</p>
+<p>|<br>
+|</p>
+<p>输出价格</p>
+<p>|</p>
+<p>约输入价的 5 倍</p>
+<p>|</p>
+<p>免费</p>
+<p>|<br>
+|</p>
+<p>结构化输出错误率</p>
+<p>|</p>
+<p>0.58% - 45.5%</p>
+<p>|</p>
+<p>0%（数学保证）</p>
+<p>|</p>
+<p>响应速度最高快了将近 200 倍，输入价格便宜了几十倍到上百倍，输出还不要钱，而且结构化输出零错误。这也太香了吧！</p>
+<p>那 Jev 到底是怎么用的？为什么能这么快？下面一个一个来讲。</p>
+<h3>Jev 能回答什么类型的问题？</h3>
+<p>Jev 的调用方式非常简单，你给它两样东西，一个是 <strong>state 状态</strong>，就是你想让它分析的上下文信息；另一个是 <strong>questions 问题</strong>，就是你想让它回答的问题。然后它就直接返回结构化的答案。</p>
+<p>Jev 支持回答 3 种类型的问题，TypeSafe 官方把它们叫做「AI 原语」。</p>
+<h4>1、Noul 是或否</h4>
+<p>简单来说，就是让 AI 做判断题，问一个「是不是」的问题，返回 0 到 1 之间的概率值。</p>
+<p>比如你收到一封客户邮件，想判断是否紧急，就把邮件内容作为 state 传给 Jev，再加上一个 Noul 类型的问题：</p>
+<pre class="notranslate"><code class="notranslate">{  "state": "我连续 3 天无法连接 Stripe 账户，正在丢失销售额，请尽快处理！",  "questions": {    "is_urgent": {      "type": "noul",      "instructions": "这条消息是否传达了紧急性或时效性"    }  }}
+</code></pre>
+<p>Jev 返回的结果长这样：</p>
+<pre class="notranslate"><code class="notranslate">{  "is_urgent": {    "type": "noul",    "noul": 0.95  }}
+</code></pre>
+<p>0.95 意味着有 95% 的把握认为这条消息是紧急的。你在代码里直接 <code class="notranslate">if noul &gt; 0.8</code> 就可以触发告警了。</p>
+<h4>2、Choice 多选一</h4>
+<p>这个就像让 AI 做选择题，从你预设的选项里选一个，并告诉你每个选项的概率分布。</p>
+<p>比如判断一个工单该分给哪个部门，你可以把部门选项列在 criteria 里让 Jev 来选：</p>
+<pre class="notranslate"><code class="notranslate">{  "questions": {    "department": {      "type": "choice",      "instructions": "这个工单应该分配给哪个团队处理",      "criteria": {        "billing": "付款、发票、退款相关问题",        "technical": "Bug、系统故障、集成问题",        "sales": "定价、账户咨询"      }    }  }}
+</code></pre>
+<p>返回：</p>
+<pre class="notranslate"><code class="notranslate">{  "department": {    "type": "choice",    "choice": "billing",    "confidence": 0.8,    "probabilities": {      "billing": 0.87,      "sales": 0,      "technical": 0.13    }  }}
+</code></pre>
+<p>不光告诉你选了 billing，还把每个选项的概率都算出来了。目前 Choice 最多支持 255 个选项。</p>
+<h4>3、Score 评分</h4>
+<p>这个就像让 AI 做打分题，在你自定义的量表上打分，分数可以落在两个等级之间。</p>
+<p>比如判断无法登录的客户有多沮丧，你可以定义从「冷静」到「愤怒」的几个等级，让 Jev 来打分：</p>
+<pre class="notranslate"><code class="notranslate">{  "questions": {    "frustration": {      "type": "score",      "instructions": "客户看起来有多沮丧",      "criteria": [        "冷静，只是在陈述事实",        "不满但还算礼貌",        "非常愤怒，言辞激烈"      ]    }  }}
+</code></pre>
+<p>返回：</p>
+<pre class="notranslate"><code class="notranslate">{  "frustration": {    "type": "score",    "score": 1.04,    "confidence": 0.94,    "probabilities": { "0": 0, "1": 0.96, "2": 0.04 }  }}
+</code></pre>
+<p>Score 1.04 表示介于第 1 级（不满但礼貌）和第 2 级（非常愤怒）之间，偏向不满。这里我定义了 3 个等级，实际使用时你可以根据需要定义 2 到 10 个等级，等级越多，评分的粒度就越细。</p>
+<h3>Jev 有什么特别的？</h3>
+<p>看到这里，可能有接触过 AI 应用开发的朋友会想：我之前在提示词里引导 AI 输出 JSON，或者用大模型自带的结构化输出功能，也能让 AI 返回固定格式的结果啊…… Jev 跟它们有什么区别？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/68f4e6fc5367cf771ea210395d51169a86c051654900cf5a7c8b7a61d860ccf7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31456c4f365476764672797057636b42396f424f324953735667536d3772737a6a6b4a43524e456476643773585376456f3245656453445666477237416b7269637030705745376961486961724255785848546671725178453031346b5a6e3249484f54452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/68f4e6fc5367cf771ea210395d51169a86c051654900cf5a7c8b7a61d860ccf7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31456c4f365476764672797057636b42396f424f324953735667536d3772737a6a6b4a43524e456476643773585376456f3245656453445666477237416b7269637030705745376961486961724255785848546671725178453031346b5a6e3249484f54452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1ElO6TvvFrypWckB9oBO2ISsVgSm7rszjkJCRNEdvd7sXSvEo2EedSDVfGr7Akricp0pWE7iaHiarBUxXHTfqrQxE014kZn2IHOTE/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>你别说，区别还真挺大的！</p>
+<p>首先，传统 LLM 做结构化输出，底层还是一个 token 一个 token 地「写字」，写完再校验格式。就好比让一个作文高手去做选择题，他还是会先在脑子里打一遍草稿，然后再从里面挑答案，自然就慢。而且写着写着格式就可能出错。</p>
+<p>Jev 的做法完全不一样，它用的是 <strong>并行采样</strong>，不像传统 LLM 那样逐字生成文本，而是直接在预定义好的选项上输出概率分布。也就是说，前面提到的 3 种问题可以在一次请求里同时问，问 1 个和问 10 个问题的响应时间几乎没差别。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/045b04de442ddd5858f13be9428bfc8c533214ae7d98a9f1ac1a3821d80cecbe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a3148574e35415137325632503377696347356656597436794a5a554b715a4836723364736c6c53516c5645584f4636595057747676785765794a696345466961565a49466673433453317657526d4e4842394e743936644e5131626c754d596c5a515a45772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/045b04de442ddd5858f13be9428bfc8c533214ae7d98a9f1ac1a3821d80cecbe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a3148574e35415137325632503377696347356656597436794a5a554b715a4836723364736c6c53516c5645584f4636595057747676785765794a696345466961565a49466673433453317657526d4e4842394e743936644e5131626c754d596c5a515a45772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1HWN5AQ72V2P3wicG5fVYt6yJZUKqZH6r3dsllSQlVEXOF6YPWtvvxWeyJicEFiaVZIFfsC4S1vWRmNHB9Nt96dNQ1bluMYlZQZEw/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>此外，Jev 的训练方式也跟传统模型不同。传统 LLM 用 RLHF 人类反馈强化学习，优化目标是让回答读起来通顺，让人类满意；推理模型用 RLVR 可验证奖励强化学习，优化目标是让那些有标准答案的问题做对，比如数学证明能不能验证通过、生成的代码能不能编译运行。</p>
+<p>而 Jev 用的是 TypeSafe 自研的 <strong>RLCD 校准决策强化学习</strong>，优化目标是让模型「说到做到」，如果 AI 说有 90% 的把握，那在大量预测中这类判断确实有约 90% 是对的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a01c15191730667d6422ac9df0bb63b34e528a822fab894eaefa8b4647c0e21b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31464d61615650765a506876326c4a32645a3555536555524e48644c4e686e7967727a6832486f7776624a58554a7076416a6963316271304c7347456f754e6661506d55397646524c564f486f476e644f424264753173416f54674b4c444c726839632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/a01c15191730667d6422ac9df0bb63b34e528a822fab894eaefa8b4647c0e21b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31464d61615650765a506876326c4a32645a3555536555524e48644c4e686e7967727a6832486f7776624a58554a7076416a6963316271304c7347456f754e6661506d55397646524c564f486f476e644f424264753173416f54674b4c444c726839632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1FMaaVPvZPhv2lJ2dZ5USeURNHdLNhnygrzh2HowvbJXUJpvAjic1bq0LsGEouNfaPmU9vFRLVOHoGndOBBdu1sAoTgKLDLrh9c/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>理解了这些原理，前面表格里那些夸张的数据就好解释了。</p>
+<p>Jev 不用一个字一个字地写回答，直接并行输出所有概率分布，所以速度能快上百倍。</p>
+<p>它也不需要生成任何输出文字，成本自然就低了。</p>
+<p>而且输出结构在数学上就是确定的，所以结构化错误率是 0%。</p>
+<p>更重要的是，因为 Jev 的概率是校准过的，你的程序可以直接拿这个概率来做自动化决策，比如概率高于 0.8 就让 AI 自动处理，低于 0.5 就转人工。</p>
+<h3>Jev 能用来干嘛？</h3>
+<p>虽然 Jev 不能聊天，但是它的适用场景还真不少，这也是它能火起来的原因之一。</p>
+<p>TypeSafe 官方建议把 Jev 当成一个「智能的 if 语句」，所有需要做判断和决策的场景，都可以用 Jev。</p>
+<p>我看了网上大家的玩法，总结了几个比较典型的场景。</p>
+<p>1）工单和消息分类</p>
+<p>比如客服系统收到用户消息，一次性判断该分给哪个部门、是否紧急、情绪如何。社区里有人拿 Jev 给 1018 篇论文做分类，分类部分只花了 0.08 刀。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e7f10f38dacc740ddad0f208a466a1f8b13d88282eac733896a6a2dcf14c395f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a3147534a4b4f6f3767624f4b4141356246315442346e4a4f3568366f7a6f69634e55596f41334666696342554b586d4e69614e724569613347746263535958536a3867746c69624e766472325a6a65466961546d515961703974374e77664d3646635468493652772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/e7f10f38dacc740ddad0f208a466a1f8b13d88282eac733896a6a2dcf14c395f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a3147534a4b4f6f3767624f4b4141356246315442346e4a4f3568366f7a6f69634e55596f41334666696342554b586d4e69614e724569613347746263535958536a3867746c69624e766472325a6a65466961546d515961703974374e77664d3646635468493652772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1GSJKOo7gbOKAA5bF1TB4nJO5h6ozoicNUYoA3FficBUKXmNiaNrEia3GtbcSYXSj8gtlibNvdr2ZjeFiaTmQYap9t7NwfM6FcThI6Rw/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>2）AI Agent 的决策中间层</p>
+<p>比如 Codex 等 Harness 里的 Agent 每一步都要做判断，可以让 Jev 先快速决定该调哪个工具、这个操作有没有风险，只有需要写代码的时候才让传统的 LLM 上。</p>
+<p>有人用这个思路做了 浏览器自动化 Agent，7.1 秒就在 Google Flights 上搜索完一次航班，成本只有 0.0039 刀。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71fce9c6fad21abe6d5e921595101756f46c1196aed2b7875308e33f2e5f63a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a3145615038486a765337546d36653371434954566d6c306e547344674354424d7967735158546e7369613553417878626c6a6f65585769624b335672506f45746f7762326b6659304f7258464e4c5439656962543163365576726d62796364656e51756961382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/71fce9c6fad21abe6d5e921595101756f46c1196aed2b7875308e33f2e5f63a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a3145615038486a765337546d36653371434954566d6c306e547344674354424d7967735158546e7369613553417878626c6a6f65585769624b335672506f45746f7762326b6659304f7258464e4c5439656962543163365576726d62796364656e51756961382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1EaP8HjvS7Tm6e3qCITVml0nTsDgCTBMygsQXTnsia5SAxxbljoeXWibK3VrPoEtowb2kfY0OrXFNLT9eibT1c6UvrmbycdenQuia8/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>3）内容审核和风控：比如一次性判断这条评论是否违规、属于哪种违规类型、风险等级多高，每条消息的判断成本不到 0.001 刀。</p>
+<p>4）给 LLM 输出做质检</p>
+<p>比如 LLM 生成了一段回答，用 Jev 快速检查有没有跑题、质量打几分，用便宜的 AI 检查贵的 AI。社区里有人做了一个多阶段代码审查工具，用 Jev 先做风险评估再逐文件打分。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1c31e4f5d7532464c853f8dd951686f5c238bae777bcbcd89229fd818f761f1b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31474154347643666d506b673373316d396961594e6d3779654a4d596b67734736446f64597a784e4d654549716b6f4a4f35376530783730456b444c3734726250634f50446f6f716469624e446271414e6c724c6963436b6564466571454a34664562426b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/1c31e4f5d7532464c853f8dd951686f5c238bae777bcbcd89229fd818f761f1b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31474154347643666d506b673373316d396961594e6d3779654a4d596b67734736446f64597a784e4d654549716b6f4a4f35376530783730456b444c3734726250634f50446f6f716469624e446271414e6c724c6963436b6564466571454a34664562426b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1GAT4vCfmPkg3s1m9iaYNm7yeJMYkgsG6DodYzxNMeEIqkoJO57e0x70EkDL74rbPcOPDooqdibNDbqANlrLicCkedFeqEJ4fEbBk/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>5）实时游戏决策</p>
+<p>有人用 Jev 玩地铁跑酷游戏，操作速度超过人类；有人用 Jev 控制超级马里奥，甚至还有人打通了《星际争霸》第一关！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0822e6544821bffa91c94d9205646ce24fd2a42e0bc62fe615e1edc13ca546d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31483358786c755462676961384b624e6433743279674e455950335950545662366963665a70384d62775841366233306f7761746a353547676961396a445a70514258377743613871737a7663624e453132615961654a6b3954356961756f696135663737324d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/d0822e6544821bffa91c94d9205646ce24fd2a42e0bc62fe615e1edc13ca546d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31483358786c755462676961384b624e6433743279674e455950335950545662366963665a70384d62775841366233306f7761746a353547676961396a445a70514258377743613871737a7663624e453132615961654a6b3954356961756f696135663737324d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1H3XxluTbgia8KbNd3t2ygNEYP3YPTVb6icfZp8MbwXA6b30owatj55Ggia9jDZpQBX7wCa8qszvcbNE12aYaeJk9T5iauoia5f772M/640?wx_fmt=png&amp;from=appmsg#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>这类对响应速度要求极高的场景，以前用传统的 LLM 根本不可能做到。</p>
+<p>之后，<strong>需要生成文字的场景用传统 LLM，需要快速做判断的场景用 Jev</strong>，两者互补，可以让任务完成速度又快又准。</p>
+<h2>二、Jev 实战体验</h2>
+<p>了解了 Jev 是什么之后，接下来看看怎么实际用上它。</p>
+<h3>怎么使用 Jev？</h3>
+<p>Jev 现在已经正式开放注册了，直接用邮箱在 TypeSafe 官网 注册登录就行。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/52977826696e98a1cc94ebcc1b9a31be7895fea94e16b0d05e897f4c3396364a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a3148645447475a5353793253326963696244476e69636275744b704443394f6d6a52344d55796c4c66394c313266507034424d69634478306e4d583432704262586963374462344e69636b45745a703275746c6b7779474a4c517a4d6e6669636961424c4953324a46452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/52977826696e98a1cc94ebcc1b9a31be7895fea94e16b0d05e897f4c3396364a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a3148645447475a5353793253326963696244476e69636275744b704443394f6d6a52344d55796c4c66394c313266507034424d69634478306e4d583432704262586963374462344e69636b45745a703275746c6b7779474a4c517a4d6e6669636961424c4953324a46452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1HdTGGZSSy2S2icibDGnicbutKpDC9OmjR4MUylLf9L12fPp4BMicDx0nMX42pBbXic7Db4NickEtZp2utlkwyGJLQzMnficiaBLIS2JFE/640?wx_fmt=png&amp;from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>注册之后，最简单的使用方式就是直接在官方 Playground 里体验，也可以通过 API 和 SDK 接入到自己的项目里。另外也可以通过 Vercel、Cloudflare 这些第三方平台来调用 Jev。</p>
+<h4>方式一、官方 Playground</h4>
+<p>最简单的使用方式就是打开 官方的在线 Playground，左边填写提供给 AI 的上下文和想让 AI 分析的问题，点击运行就能在右侧看到结果。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ea86f6be5bbb59d67b6540d55e161d345bc318ab3b33a099ebfa42444f6fd01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31466776696337537a4e776371344544636456396741306b6871667653546b427a53616f774b6961766d43367a5358563430715161353469635a304d314f6963535245424338433434524432715a3650707368393931706c69625367356c33587956734f3968302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/0ea86f6be5bbb59d67b6540d55e161d345bc318ab3b33a099ebfa42444f6fd01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31466776696337537a4e776371344544636456396741306b6871667653546b427a53616f774b6961766d43367a5358563430715161353469635a304d314f6963535245424338433434524432715a3650707368393931706c69625367356c33587956734f3968302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1Fgvic7SzNwcq4EDcdV9gA0khqfvSTkBzSaowKiavmC6zSXV40qQa54icZ0M1OicSREBC8C44RD2qZ6Ppsh991plibSg5l3XyVsO9h0/640?wx_fmt=png&amp;from=appmsg#imgIndex=11" style="max-width: 100%;"></a></p>
+<h4>方式二、调用官方 API 和 SDK</h4>
+<p>登录之后，可以到 TypeSafe 的控制台 中创建 API Key。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7c9e7d3a9eb8ffd164c61e923664a8b75d9e8bee3935a10eee9c2e70f0c3cf69/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31456e37726157494f64754567775a5463527473546963566c7a727337674f31663271396e376f3873736266496962757932657555775336784e6f30384b794b576963536a424447426c44545a546b7438415273577a4644367a737661576135414f31554d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/7c9e7d3a9eb8ffd164c61e923664a8b75d9e8bee3935a10eee9c2e70f0c3cf69/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31456e37726157494f64754567775a5463527473546963566c7a727337674f31663271396e376f3873736266496962757932657555775336784e6f30384b794b576963536a424447426c44545a546b7438415273577a4644367a737661576135414f31554d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1En7raWIOduEgwZTcRtsTicVlzrs7gO1f2q9n7o8ssbfIibuy2euUwS6xNo08KyKWicSjBDGBlDTZTkt8ARsWzFD6zsvaWa5AO1UM/640?wx_fmt=png&amp;from=appmsg#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>TypeSafe 提供了 Python SDK 和 JavaScript SDK，方便开发者在自己的项目里直接调用 Jev，也可以通过 HTTP API 调用。官方文档的 Quick Start 页面 有完整的示例代码。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ddc085c8b8f890751985e2dc6bd0bf50599f662c3f7aa1d1723caf41c490336/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31475048734e69626f57494832653535364763324e34616c65526f46333759554f355a6465796662377962466961536a4e714e386c677265644e3854574459476b3964387873416f334843574442423550495679316156557969636e774f69623639346642492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133"><img src="https://camo.githubusercontent.com/3ddc085c8b8f890751985e2dc6bd0bf50599f662c3f7aa1d1723caf41c490336/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31475048734e69626f57494832653535364763324e34616c65526f46333759554f355a6465796662377962466961536a4e714e386c677265644e3854574459476b3964387873416f334843574442423550495679316156557969636e774f69623639346642492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1GPHsNiboWIH2e556Gc2N4aleRoF37YUO5Zdeyfb7ybFiaSjNqN8lgredN8TWDYGk9d8xsAo3HCWDBB5PIVy1aVUyicnwOib694fBI/640?wx_fmt=png&amp;from=appmsg#imgIndex=13" style="max-width: 100%;"></a></p>
+<p>以 Python 为例，安装 SDK 之后几行代码就能跑：</p>
+<pre class="notranslate"><code class="notranslate"># pip install typesafe-sdkfrom typesafe_sdk import Choice, Noul, Score, TypeSafeClientclient = TypeSafeClient()  # 自动读取环境变量 TYPESAFE_API_KEYresponse = client.system_one(    state="客户说：我被重复扣款了，订单号 A-104，请退款。",    questions={        "department": Choice(            instructions="这个工单应该分配给哪个团队处理",            criteria={                "billing": "付款、发票、退款相关",                "technical": "Bug、系统故障、集成问题",                "sales": "定价、账户咨询",            },        ),        "is_urgent": Noul(            instructions="这条消息是否传达了紧急性或时效性",        ),    },)print(response.answers["department"].choice)  # "billing"print(response.answers["is_urgent"].noul)      # 0.95
+</code></pre>
+<p>当然，现在用 AI 编程，这些代码都不用自己写，后面会讲到怎么让 AI 工具直接帮你调用 Jev。</p>
+<h4>方式三、通过第三方平台调用</h4>
+<p>除了 TypeSafe 官方的 API，Vercel AI Gateway 和 Cloudflare Workers AI 这些第三方平台也已经支持了 Jev，可以直接在这些平台上调用。</p>
+<p>以 Vercel 为例，它的 AI SDK 专门新增了一个 <code class="notranslate">experimental_evaluate</code> 接口来对接 Jev 这类决策模型，详细教程可以查看 Vercel 官方文档。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/390b7c55d97163b9628cce0b7a14eee693e362665b7cb5eae8f883f03fce325c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31466e36553258306963366277475069626875516963696336615341734f636c326b5874444f6769626532646e51426d35645463577356487154386371756c6149527535516a396258614e56446330513976354e7058626b584d7934716735734a4c49306779342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/390b7c55d97163b9628cce0b7a14eee693e362665b7cb5eae8f883f03fce325c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31466e36553258306963366277475069626875516963696336615341734f636c326b5874444f6769626532646e51426d35645463577356487154386371756c6149527535516a396258614e56446330513976354e7058626b584d7934716735734a4c49306779342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1Fn6U2X0ic6bwGPibhuQicic6aSAsOcl2kXtDOgibe2dnQBm5dTcWsVHqT8cqulaIRu5Qj9bXaNVDc0Q9v5NpXbkXMy4qg5sJLI0gy4/640?wx_fmt=png&amp;from=appmsg#imgIndex=14" style="max-width: 100%;"></a></p>
+<p>我这里还用 AI 接入 Vercel AI Gateway 做了一个 <strong>中文版的 Jev 调试广场</strong>，可以直接在网页上体验 Jev 的三种回复方式。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f09768e8aaf52a4ef7945dac025b5a3bd177ff4f26ec6b2faf34ed66de279af/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31467774516d4c5133654a724f4b464a5a625251696341616a384d6a4c6a304f39686b703673666a4244677a61745148774c65484d453946677435613845484b774c5169626e45386d32704c625a36757864454c4f71456e4f37645a337966714e3938412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135"><img src="https://camo.githubusercontent.com/3f09768e8aaf52a4ef7945dac025b5a3bd177ff4f26ec6b2faf34ed66de279af/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31467774516d4c5133654a724f4b464a5a625251696341616a384d6a4c6a304f39686b703673666a4244677a61745148774c65484d453946677435613845484b774c5169626e45386d32704c625a36757864454c4f71456e4f37645a337966714e3938412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1FwtQmLQ3eJrOKFJZbRQicAaj8MjLj0O9hkp6sfjBDgzatQHwLeHME9Fgt5a8EHKwLQibnE8m2pLbZ6uxdELOqEnO7dZ3yfqN98A/640?wx_fmt=png&amp;from=appmsg#imgIndex=15" style="max-width: 100%;"></a></p>
+<p>点击「运行」之后，就能直接看到 Jev 返回的决策结果和原始 JSON 数据。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40d175c2a6ee60854fbb1aa35baeaca26f00786e2b7a4eae7e1c57e101ab4175/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31463854344b69626e7579346b57617a4e616e69635762676669637573726d4478454d3458583069625a567239764b6b59664d68735057546731677739746b435236576e7a5647786f7a527a615951625572756a4d69636c6d6146744b625933655870794964552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136"><img src="https://camo.githubusercontent.com/40d175c2a6ee60854fbb1aa35baeaca26f00786e2b7a4eae7e1c57e101ab4175/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31463854344b69626e7579346b57617a4e616e69635762676669637573726d4478454d3458583069625a567239764b6b59664d68735057546731677739746b435236576e7a5647786f7a527a615951625572756a4d69636c6d6146744b625933655870794964552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1F8T4Kibnuy4kWazNanicWbgficusrmDxEM4XX0ibZVr9vKkYfMhsPWTg1gw9tkCR6WnzVGxozRzaYQbUrujMiclmaFtKbY3eXpyIdU/640?wx_fmt=png&amp;from=appmsg#imgIndex=16" style="max-width: 100%;"></a></p>
+<h3>接入 AI 工具</h3>
+<p>上面几种方式都需要你自己写代码调用 Jev，那有没有更简单的方式呢？</p>
+<p>其实日常大家还是用 GPT、Claude、DeepSeek 这些大模型，Jev 更适合作为一个扩展能力来搭配使用。</p>
+<p>TypeSafe 官方提供了一个通用的 Skills 技能包，简单理解就是一份配置文件，告诉 AI 编程工具 Jev 是什么、怎么调用、参数怎么传，这样 AI 工具就知道怎么帮你调用 Jev 了。只要安装了 Skills 技能包，所有主流的 AI 编程工具都能用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9afe37e1e074f2571862455cb42816b03995810ffff7ca88c6e6d99b68a5392/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31477a766839577838696333564771725074676c33443534537550383546457172627235553572746c4d384b4159786e6d7956676d58664979594a544e76485a6a37755068416c795a6b786e5044594b4550743574553667523030326d5946394573672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3137"><img src="https://camo.githubusercontent.com/a9afe37e1e074f2571862455cb42816b03995810ffff7ca88c6e6d99b68a5392/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31477a766839577838696333564771725074676c33443534537550383546457172627235553572746c4d384b4159786e6d7956676d58664979594a544e76485a6a37755068416c795a6b786e5044594b4550743574553667523030326d5946394573672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3137" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1Gzvh9Wx8ic3VGqrPtgl3D54SuP85FEqrbr5U5rtlM8KAYxnmyVgmXfIyYJTNvHZj7uPhAlyZkxnPDYKEPt5tU6gR002mYF9Esg/640?wx_fmt=png&amp;from=appmsg#imgIndex=17" style="max-width: 100%;"></a></p>
+<p>安装方法非常简单，官方提供了一段 现成的提示词，可以让 AI 帮你把技能安装到你用的 AI 工具里。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce7438630a5af1f3312b92d80c95bdc1d7db80d7def0dbc5aee3eb5deceaddbb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31484e45354a4a5453524863716e4f55325a686d4b72313373745349596b784448544f6e396731344f386c55727237545035524d31794d69624b59706f69617233685159524c4958386857324c446439336252686779314b6f78454c765779554a4f67632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3138"><img src="https://camo.githubusercontent.com/ce7438630a5af1f3312b92d80c95bdc1d7db80d7def0dbc5aee3eb5deceaddbb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31484e45354a4a5453524863716e4f55325a686d4b72313373745349596b784448544f6e396731344f386c55727237545035524d31794d69624b59706f69617233685159524c4958386857324c446439336252686779314b6f78454c765779554a4f67632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3138" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1HNE5JJTSRHcqnOU2ZhmKr13stSIYkxDHTOn9g14O8lUrr7TP5RM1yMibKYpoiar3hQYRLIX8hW2LDd93bRhgy1KoxELvWyUJOgc/640?wx_fmt=png&amp;from=appmsg#imgIndex=18" style="max-width: 100%;"></a></p>
+<p>不过官方的提示词默认只在当前项目下安装。我把提示词翻译成中文并改为了全局安装的版本，这样所有项目都能用：</p>
+<pre class="notranslate"><code class="notranslate">全局安装 TypeSafe 技能。如果你是 Codex（Claude Code），请执行 `claude plugin marketplace add typesafe-ai/skills`，然后执行 `claude plugin install typesafe@typesafe-ai`。如果你是其他 Agent，请执行 `npx skills add typesafe-ai/skills --skill typesafe-ai -g` 并选择你的 Agent。只需使用一种安装方式即可。技能文件可以在这里查看：https://github.com/typesafe-ai/skills/blob/main/skills/typesafe-ai/SKILL.md
+</code></pre>
+<p>比如我在 Codex 中执行这段提示词。它的原理就是根据你用的 AI 工具，执行对应的命令把技能文件从 GitHub 仓库拉取下来。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/126bbf491eda5471269a1c77d850684add5652c13408d370a39e49afd7b4f3c9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31453369623548326258707450366961706a5472636b374b7176556b78585363546d6c326a71766871614f6f56493476794663454f5a637150634257666361674270384d696342364256586749755a476e6f614961364c7a654c525a374c4f554b304445772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3139"><img src="https://camo.githubusercontent.com/126bbf491eda5471269a1c77d850684add5652c13408d370a39e49afd7b4f3c9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31453369623548326258707450366961706a5472636b374b7176556b78585363546d6c326a71766871614f6f56493476794663454f5a637150634257666361674270384d696342364256586749755a476e6f614961364c7a654c525a374c4f554b304445772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3139" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1E3ib5H2bXptP6iapjTrck7KqvUkxXScTml2jqvhqaOoVI4vyFcEOZcqPcBWfcagBp8MicB6BVXgIuZGnoaIa6LzeLRZ7LOUK0DEw/640?wx_fmt=png&amp;from=appmsg#imgIndex=19" style="max-width: 100%;"></a></p>
+<p>安装完成之后，还需要在环境变量里配置好 TypeSafe 的 API Key，AI 工具才能帮你调用 Jev。</p>
+<p>直接让 AI 帮你配置就好：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10db403076d72a22f4bf8088fa17903264512d1332b613dd1f55a7e338183e26/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a3147724e7167424674756a34326e653046696144424e66317232726e714c3563576b6f744c6f355279444e546e696273635a6e32544677577154344c777277474f6d35447269615459665a75764d616a6c6d4f715868696238576e51353154526259354b5a552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3230"><img src="https://camo.githubusercontent.com/10db403076d72a22f4bf8088fa17903264512d1332b613dd1f55a7e338183e26/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a3147724e7167424674756a34326e653046696144424e66317232726e714c3563576b6f744c6f355279444e546e696273635a6e32544677577154344c777277474f6d35447269615459665a75764d616a6c6d4f715868696238576e51353154526259354b5a552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3230" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1GrNqgBFtuj42ne0FiaDBNf1r2rnqL5cWkotLo5RyDNTnibscZn2TFwWqT4LwrwGOm5DriaTYfZuvMajlmOqXhib8WnQ51TRbY5KZU/640?wx_fmt=png&amp;from=appmsg#imgIndex=20" style="max-width: 100%;"></a></p>
+<p>配好之后，你就可以在 AI 编程工具里直接使用斜杠命令 <code class="notranslate">/typesafe-ai</code> 来触发技能，AI 会自动帮你调用 Jev 来完成判断和决策。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5a012d13b374e4a8b49ecd3a7865dc8446c2eff55c4c72aa6daa86574e847b9f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31486961645369614d59474d624b35624c46586f744f424d41647a656251426f3247444b5769624979677342646e71727145653145566463743056534b393033667364345a44324d7a66747a58484c495a6d6e626d764a5174626134496963305749436232672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3231"><img src="https://camo.githubusercontent.com/5a012d13b374e4a8b49ecd3a7865dc8446c2eff55c4c72aa6daa86574e847b9f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31486961645369614d59474d624b35624c46586f744f424d41647a656251426f3247444b5769624979677342646e71727145653145566463743056534b393033667364345a44324d7a66747a58484c495a6d6e626d764a5174626134496963305749436232672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3231" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1HiadSiaMYGMbK5bLFXotOBMAdzebQBo2GDKWibIygsBdnqrqEe1EVdct0VSK903fsd4ZD2MzftzXHLIZmnbmvJQtba4Iic0WICb2g/640?wx_fmt=png&amp;from=appmsg#imgIndex=21" style="max-width: 100%;"></a></p>
+<p>你也可以在对话中直接告诉 AI「用 Jev 来帮我做判断」，AI 同样会自动加载 TypeSafe 技能并调用 Jev 的接口：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e29883be2436b21287c8c9d634047a06e25de041e9a2ed87d6a3b43a4154a207/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31484b6b65755337544d69625542747064364a6478747670757953417339473874696167436f665676686e574e4137444a44317953486d4f42747169634957655362514e4658493245345a647256375469637a41317a7a6a6962314237654a6e4b5a6a6962696158412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3232"><img src="https://camo.githubusercontent.com/e29883be2436b21287c8c9d634047a06e25de041e9a2ed87d6a3b43a4154a207/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31484b6b65755337544d69625542747064364a6478747670757953417339473874696167436f665676686e574e4137444a44317953486d4f42747169634957655362514e4658493245345a647256375469637a41317a7a6a6962314237654a6e4b5a6a6962696158412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3232" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1HKkeuS7TMibUBtpd6JdxtvpuySAs9G8tiagCofVvhnWNA7DJD1ySHmOBtqicIWeSbQNFXI2E4ZdrV7TiczA1zzjib1B7eJnKZjibiaXA/640?wx_fmt=png&amp;from=appmsg#imgIndex=22" style="max-width: 100%;"></a></p>
+<h3>Jev API 实战测评</h3>
+<p>学会了怎么使用 Jev 之后，咱们来通过实际的测试来看看 Jev 的表现到底怎么样。</p>
+<p>我分别用 Jev 和 DeepSeek V4.1 Flash 来完成同一个任务，对比两者的速度、价格和准确度。</p>
+<h4>1、用 Jev 实时玩数字华容道</h4>
+<p>数字华容道是一个经典的滑块拼图游戏，4 × 4 的棋盘上有 15 个数字方块和 1 个空位，目标是把所有数字按顺序排列好。</p>
+<p>每一步 Jev 需要判断「空位应该往哪个方向移动」，这对决策能力的要求很高。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb1a73e17ea61d22026980fad0321976d56399a8e29dd1657b590be5d9e4852b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31485249696176714645535a41363065664f723572556f425a6a76775353716b42314c69614d6c356470634355584f41696169634d6a314a47526333764a786d6d53316a6567426962673543566362633756767a4c7135344b63715a4f6f644a36305644535a592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3233"><img src="https://camo.githubusercontent.com/cb1a73e17ea61d22026980fad0321976d56399a8e29dd1657b590be5d9e4852b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31485249696176714645535a41363065664f723572556f425a6a76775353716b42314c69614d6c356470634355584f41696169634d6a314a47526333764a786d6d53316a6567426962673543566362633756767a4c7135344b63715a4f6f644a36305644535a592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3233" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1HRIiavqFESZA60efOr5rUoBZjvwSSqkB1LiaMl5dpcCUXOAiaicMj1JGRc3vJxmmS1jegBibg5CVcbc7VvzLq54KcqZOodJ60VDSZY/640?wx_fmt=png&amp;from=appmsg#imgIndex=23" style="max-width: 100%;"></a></p>
+<p>开始测试，左边是 Jev，右边是 DeepSeek V4.1 Flash，两边同时开始，实时展示每一步的决策时间、累计消耗的 token 数和价格。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2c25898e2b63949c8d1e8d08522ad9bbbe1acecb5ec1d85093ee2a80e251db29/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31476c4353386e7a6444644f6b6962374d496d4742566b3253587064754b4e456576476a7451666f69637078484571743577506e534135464a70497955413668696249734d7443696169636a6d39485152716c42794d566273676731336466515764714f4579342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3234"><img src="https://camo.githubusercontent.com/2c25898e2b63949c8d1e8d08522ad9bbbe1acecb5ec1d85093ee2a80e251db29/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31476c4353386e7a6444644f6b6962374d496d4742566b3253587064754b4e456576476a7451666f69637078484571743577506e534135464a70497955413668696249734d7443696169636a6d39485152716c42794d566273676731336466515764714f4579342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3234" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1GlCS8nzdDdOkib7MImGBVk2SXpduKNEevGjtQfoicpxHEqt5wPnSA5FJpIyUA6hibIsMtCiaicjm9HQRqlByMVbsgg13dfQWdqOEy4/640?wx_fmt=png&amp;from=appmsg#imgIndex=24" style="max-width: 100%;"></a></p>
+<p>最终，Jev 在完成速度上遥遥领先 DeepSeek V4.1 Flash，而且输入 token 和累计价格也更低。</p>
+<h4>2、用 Jev 批量分类 1000 封邮件</h4>
+<p>第二个测试更贴近实际业务场景。假设你公司的邮箱每天会收到大量邮件，需要快速判断每封邮件的优先级、紧急程度和该转给哪个部门处理，这个任务就可以交给 AI。</p>
+<p>我模拟了 1000 封不同内容的邮件，让 Jev 和 DeepSeek V4.1 Flash 分别对每封邮件做优先级分类、紧急程度判断和部门路由，两边拿到的邮件列表完全一样。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/46b0d61614e25a012e274b225b9d30305aeddcecbfba28594e799c335c99ca52/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a314846646b7553517872754b476834506b41623862366e5871716b4b696344664b3346497735526d324248683049423435773165497251446f475274506d73797279345a54566a7968334b395966496534316961336962354b4b6c38457756585634636a6b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3235"><img src="https://camo.githubusercontent.com/46b0d61614e25a012e274b225b9d30305aeddcecbfba28594e799c335c99ca52/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a314846646b7553517872754b476834506b41623862366e5871716b4b696344664b3346497735526d324248683049423435773165497251446f475274506d73797279345a54566a7968334b395966496534316961336962354b4b6c38457756585634636a6b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3235" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1HFdkuSQxruKGh4PkAb8b6nXqqkKicDfK3FIw5Rm2BHh0IB45w1eIrQDoGRtPmsyry4ZTVjyh3K9YfIe41ia3ib5KKl8EwVXV4cjk/640?wx_fmt=png&amp;from=appmsg#imgIndex=25" style="max-width: 100%;"></a></p>
+<p>最终结果，Jev 用了 15.6 秒处理完 1000 封邮件，平均每秒处理 64 封，累计花费 0.0177 刀；而 DeepSeek V4.1 Flash 用了 48.9 秒，平均每秒 20 封，累计花费 0.0207 刀。</p>
+<p>Jev 在速度上快了接近 2 倍，价格也略低一些。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b4bf2fcfc84438be100b33bbb53430e7d905c5b0f68a8ea4a1ed309ce970c32a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a314743486c4a6546746137726c4d6248646961686a6b7a677133786a7676746f3434574769614d573472724551466f454334566b383774346b79486c6961575766696366576731584634436c493841717665716262466c783276746a7659537652793438626f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3236"><img src="https://camo.githubusercontent.com/b4bf2fcfc84438be100b33bbb53430e7d905c5b0f68a8ea4a1ed309ce970c32a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a314743486c4a6546746137726c4d6248646961686a6b7a677133786a7676746f3434574769614d573472724551466f454334566b383774346b79486c6961575766696366576731584634436c493841717665716262466c783276746a7659537652793438626f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3236" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1GCHlJeFta7rlMbHdiahjkzgq3xjvvto44WGiaMW4rrEQFoEC4Vk87t4kyHliaWWficfWg1XF4ClI8AqveqbbFlx2vtjvYSvRy48bo/640?wx_fmt=png&amp;from=appmsg#imgIndex=26" style="max-width: 100%;"></a></p>
+<h3>AI 工具 + Jev 实战测评</h3>
+<p>除了直接调用 API，我还试了一下把 Jev 接入 AI 工具之后的使用效果。</p>
+<p>这次我用的是 Codex 工具 + GPT 模型，装好 TypeSafe 技能之后直接让 AI 干活。</p>
+<h4>1、用 Jev 玩连连看</h4>
+<p>连连看大家都玩过吧？</p>
+<p>这次我用 Jev 来玩连连看，可以测试它在实时决策场景下的反应速度和判断准确度，游戏逻辑用代码处理，每一步选哪对方块消除的决策交给 Jev。</p>
+<p>在 Codex 中使用 <code class="notranslate">/typesafe-ai</code> 技能，然后跟它说：</p>
+<pre class="notranslate"><code class="notranslate">/typesafe-ai 帮我用 Jev 模型玩连连看游戏
+</code></pre>
+<p>Codex 加载了 TypeSafe 技能之后，会自动分析页面结构，识别出方块的位置和图案，然后调用 Jev 来做每一步「选哪对方块消除」的决策，最后操作页面完成消除。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/53eca8fa4cd4d5fc9071cbe64cd6fde9032e3a387acf73178307f8855d17709a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31474476384f65337563766e304f636475543656764b774276567a374b6b774c6e6c6d62394d776256454758444b44627452314a766a7052314c69635a714e73763036786e395a6e316f396764666d494231626a325865746961463752586a657a494c592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3237"><img src="https://camo.githubusercontent.com/53eca8fa4cd4d5fc9071cbe64cd6fde9032e3a387acf73178307f8855d17709a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31474476384f65337563766e304f636475543656764b774276567a374b6b774c6e6c6d62394d776256454758444b44627452314a766a7052314c69635a714e73763036786e395a6e316f396764666d494231626a325865746961463752586a657a494c592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3237" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1GDv8Oe3ucvn0OcduT6VvKwBvVz7KkwLnlmb9MwbVEGXDKDbtR1JvjpR1LicZqNsv06xn9Zn1o9gdfmIB1bj2XetiaF7RXjezILY/640?wx_fmt=png&amp;from=appmsg#imgIndex=27" style="max-width: 100%;"></a></p>
+<p>虽然 AI 顺利通关了游戏，但是我觉得执行速度没有达到预期。快的时候可以 2 秒消除 1 个，但经常消除几个之后会卡一会儿。</p>
+<p>总共花了 5 分钟左右才完成了整局游戏的消除。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0b98e61745785a5e6b6d352ce1b6b66fda0f2cfadc6b0327a844eed2003bfa7b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a3145597a377a644445577a38566f43554d444662334a6175337a774734726961426f514a69626d4173456a773859797151357446696250573131315832344572696374614963314c36584a4b4b42684765646e354149586d39664f45466b6a70706c537a4b4d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3238"><img src="https://camo.githubusercontent.com/0b98e61745785a5e6b6d352ce1b6b66fda0f2cfadc6b0327a844eed2003bfa7b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a3145597a377a644445577a38566f43554d444662334a6175337a774734726961426f514a69626d4173456a773859797151357446696250573131315832344572696374614963314c36584a4b4b42684765646e354149586d39664f45466b6a70706c537a4b4d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3238" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1EYz7zdDEWz8VoCUMDFb3Jau3zwG4riaBoQJibmAsEjw8YyqQ5tFibPW111X24ErictaIc1L6XJKKBhGedn5AIXm9fOEFkjpplSzKM/640?wx_fmt=png&amp;from=appmsg#imgIndex=28" style="max-width: 100%;"></a></p>
+<p>虽然 Jev 的决策速度确实很快，但问题出在「看」这个环节。Jev 只能处理文本和 JSON 数据，没办法直接「看到」网页上方块的位置和图案。这次测试我用的是本地的连连看网页版，Codex 可以直接解析到原始的 HTML 和 DOM 结构，所以还能跑起来。但如果你让它去玩那些用 Canvas 渲染的网页游戏，如果 DOM 里获取不到足够的信息，效果会更差。</p>
+<p>其实社区里那些用 Jev 玩游戏的博主，思路基本都是一样的，就是先用代码把游戏画面转成结构化的数据（比如读取游戏内存），然后再把数据喂给 Jev 做判断，而不是让 Jev 直接看截图。</p>
+<h4>2、用 Jev 给开源教程文章打标签</h4>
+<p>前面的连连看游戏主要考察的是 Jev 的实时决策速度，这次换个方向，考察一下 Jev 对文本内容的分类和打分能力。</p>
+<p>我让 Codex 用 Jev 模型给自己 《AI 编程教程》 中的每篇文章自动打标签，包括判断文章属于什么主题、适合什么水平的读者、难度打几分。</p>
+<p>提示词如下：</p>
+<pre class="notranslate"><code class="notranslate">/typesafe-ai 读取 ai-guide 仓库里的文章列表，用 Jev 给每篇文章打标签。1. 主题分类（AI 基础/提示词工程/AI 编程实战/工具推荐/行业趋势）2. 适合的读者水平（零基础/有编程基础/有 AI 经验）3. 内容难度打分（入门/进阶/高级）不改动原始文章，只是最后输出一份报告。
+</code></pre>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43d3f494e24e9c6f99dfbd8c79748d90422712fbad00d3f80cbb362b0e1eba7c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31466963364577454c424447364a47426e54374e6e6961654834376246343535363752387469615169626f706c6c70735a797a4c5771504434445a457036316d6a336b6c4a4e39437162553138454d7a58327738336962643074444455684a4b633168663178772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3239"><img src="https://camo.githubusercontent.com/43d3f494e24e9c6f99dfbd8c79748d90422712fbad00d3f80cbb362b0e1eba7c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31466963364577454c424447364a47426e54374e6e6961654834376246343535363752387469615169626f706c6c70735a797a4c5771504434445a457036316d6a336b6c4a4e39437162553138454d7a58327738336962643074444455684a4b633168663178772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3239" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1Fic6EwELBDG6JGBnT7NniaeH47bF45567R8tiaQibopllpsZyzLWqPD4DZEp61mj3klJN9CqbU18EMzX2w83ibd0tDDUhJKc1hf1xw/640?wx_fmt=png&amp;from=appmsg#imgIndex=29" style="max-width: 100%;"></a></p>
+<p>Codex 会先盘点文章范围、数量和篇幅，再按上下文限制设计可靠的批处理，批量调用 Jev 模型来判断文章的标签。</p>
+<p>最终只用了几分钟，就完成了 697 篇长文章的标签分类！这个速度真的非常快了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/724a194f9502c1d9cb5f8af5408ebace6bc5facc6db4ca766a82f4202a69bf52/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31463253364a4a496d70465a594f504246666d6c4a3861696374316a376c4a686a39555a685a6961466a66534b566869614e4d34476275306a517645567a69626b594b6b7a733177784a6a615341684174685a6d676f37664349485134794a6e6c565a4971732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3330"><img src="https://camo.githubusercontent.com/724a194f9502c1d9cb5f8af5408ebace6bc5facc6db4ca766a82f4202a69bf52/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a31463253364a4a496d70465a594f504246666d6c4a3861696374316a376c4a686a39555a685a6961466a66534b566869614e4d34476275306a517645567a69626b594b6b7a733177784a6a615341684174685a6d676f37664349485134794a6e6c565a4971732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3330" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1F2S6JJImpFZYOPBFfmlJ8aict1j7lJhj9UZhZiaFjfSKVhiaNM4Gbu0jQvEVzibkYKkzs1wxJjaSAhAthZmgo7fCIHQ4yJnlVZIqs/640?wx_fmt=png&amp;from=appmsg#imgIndex=30" style="max-width: 100%;"></a></p>
+<p>这类批量分类打标签的场景特别适合 Jev，因为每篇文章的判断逻辑是一样的，只是输入内容不同，可以批量并行处理。而且分类结果是结构化的，拿到之后可以直接用来生成目录、做筛选功能。</p>
+<h2>三、Jev 使用感受</h2>
+<p>最后说说我使用 Jev 的感受。</p>
+<p>如果把 Jev 作为决策模型直接接入到自己的应用里（比如客服分类、内容审核、数据打标签），体验是非常好的，速度快、价格低、结果准确。做了上面这么多任务，总共也才花了不到 2 块钱。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ef24fe45f8e3ad22c9ae3202c959e1ad664c2b95cdb4c876a94954c2af59d59/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a314778354c72573833616e69623849316b4c47786962736e3137685844736a3675696250314d76614a7a6a664d574548716138344e78684759426f516962524b564934736a6772595a447855304269616677726538437073733533706771315073324d597843552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3331"><img src="https://camo.githubusercontent.com/2ef24fe45f8e3ad22c9ae3202c959e1ad664c2b95cdb4c876a94954c2af59d59/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4c6c53514f4b49784a314778354c72573833616e69623849316b4c47786962736e3137685844736a3675696250314d76614a7a6a664d574548716138344e78684759426f516962524b564934736a6772595a447855304269616677726538437073733533706771315073324d597843552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3331" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1Gx5LrW83anib8I1kLGxibsn17hXDsj6uibP1MvaJzjfMWEHqa84NxhGYBoQibRKVI4sjgrYZDxU0Biafwre8Cpss53pgq1Ps2MYxCU/640?wx_fmt=png&amp;from=appmsg#imgIndex=31" style="max-width: 100%;"></a></p>
+<p>但如果是通过 AI 工具来间接使用 Jev，目前的体验还有不少提升空间，主要瓶颈在于 AI 工具对网页内容的感知能力还不够强，很多场景下没办法给 Jev 提供足够准确的输入数据。</p>
+<p>而且 Jev 的能力有明确的边界，不能生成文字、不能做算术推理、日期比较也不靠谱。</p>
+<p>如果你在做 AI 应用开发，想要把分类、路由、审核这类判断逻辑的成本和延迟降下来，Jev 是值得一试的。一定要确保你能给 Jev 提供足够准确的结构化输入数据，它判断得准不准，取决于你喂给它的信息质量。</p>
+<p>我个人比较看好 Jev 在 AI Agent 决策层的应用。现在 Agent 每一步操作都要调一次大模型来判断，如果把这类快速判断交给 Jev，整体效率应该会有一个质的提升。</p>
+<p>OK 就分享到这儿，本文会收录到我免费开源的 <a href="https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&amp;mid=2247588403&amp;idx=2&amp;sn=91ab9714bff9eb6e26d5c03081ec765f&amp;scene=21#wechat_redirect" rel="nofollow">《AI 编程零基础入门教程》</a>，上千张图、几十万字，带你从 0 开始快速学会 AI 编程，做出自己的产品、跑通变现全流程，一次拿捏。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cdca1630e66bb59c07930c70f94cd8c5f780a44d5ec6a0e07fa24f7556619b60/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31484a674b6b396c43427a6a37573845795867376646377545624775446962656a506b563839696332484d43687339696264786778786f4c365165535373696239565278326e3444366d5836656557786255444b704c754d3458734f394952413576743964592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3332"><img src="https://camo.githubusercontent.com/cdca1630e66bb59c07930c70f94cd8c5f780a44d5ec6a0e07fa24f7556619b60/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4c6c53514f4b49784a31484a674b6b396c43427a6a37573845795867376646377545624775446962656a506b563839696332484d43687339696264786778786f4c365165535373696239565278326e3444366d5836656557786255444b704c754d3458734f394952413576743964592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3332" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1HJgKk9lCBzj7W8EyXg7fF7uEbGuDibejPkV89ic2HMChs9ibdxgxxoL6QeSSsib9VRx2n4D6mX6eeWxbUDKpLuM4XsO9IRA5vt9dY/640?wx_fmt=png&amp;from=appmsg#imgIndex=32" style="max-width: 100%;"></a></p>
+<p>鱼皮的 AI 编程教程</p>
+<p>我是鱼皮，持续分享 AI 编程干货。觉得有用的话记得点赞收藏和关注~</p>
+<p>也欢迎在评论区聊聊：你有用过 Jev 模型么？你看好它的发展么？</p>
+<p>往期推荐</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&amp;mid=2247592926&amp;idx=1&amp;sn=d5631f2eb447a2e460c3171fd83a44b3&amp;scene=21#wechat_redirect" rel="nofollow">AI 桌面换装视频火了，1 分钟教你复刻！傻子可懂</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&amp;mid=2247592753&amp;idx=1&amp;sn=f88d2d3738a4c63541bb29f9e4471be8&amp;scene=21#wechat_redirect" rel="nofollow">又一个新项目完结，全栈 AI 修图 Agent！</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&amp;mid=2247591041&amp;idx=2&amp;sn=a2b1f7143f27d342bb44049e19bdc097&amp;scene=21#wechat_redirect" rel="nofollow">新项目完结！AI 智能 PPT 生成 Agent</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&amp;mid=2247590662&amp;idx=1&amp;sn=a8da98ba7bd212dd4f17c0371b26c597&amp;scene=21#wechat_redirect" rel="nofollow">字节搞了一种全新的面试玩法，看完我崩不住了。。</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&amp;mid=2247589708&amp;idx=1&amp;sn=2cb6852d0faba977c076d178a887f5a7&amp;scene=21#wechat_redirect" rel="nofollow">又一个新项目完结，用 DeepSeek 搞了个微信小程序！</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&amp;mid=2247589780&amp;idx=2&amp;sn=c296549f9ed8e7fa1f8daf2914f619fb&amp;scene=21#wechat_redirect" rel="nofollow">27 届秋招面试，90% 的原题在这里。。</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&amp;mid=2247589394&amp;idx=2&amp;sn=a59d4b73fbbebe3086b3390e27a4302e&amp;scene=21#wechat_redirect" rel="nofollow">出成果了，继续扩招！</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&amp;mid=2247589269&amp;idx=2&amp;sn=75d5668f83eb0428999bb44e72d3405d&amp;scene=21#wechat_redirect" rel="nofollow">用这个简历，字节当天打电话约面试了！</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
