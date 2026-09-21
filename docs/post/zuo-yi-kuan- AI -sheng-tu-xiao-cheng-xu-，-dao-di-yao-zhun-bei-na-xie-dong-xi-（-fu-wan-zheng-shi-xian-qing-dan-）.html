@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="做AI生图类小程序，从服务器到上线，核心要准备1道资质前提+7样技术准备，再按6个模块实现。">
+<meta property="og:title" content="做一款 AI 生图小程序，到底要准备哪些东西（附完整实现清单）">
+<meta property="og:description" content="做AI生图类小程序，从服务器到上线，核心要准备1道资质前提+7样技术准备，再按6个模块实现。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/zuo-yi-kuan-%20AI%20-sheng-tu-xiao-cheng-xu-%EF%BC%8C-dao-di-yao-zhun-bei-na-xie-dong-xi-%EF%BC%88-fu-wan-zheng-shi-xian-qing-dan-%EF%BC%89.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>做一款 AI 生图小程序，到底要准备哪些东西（附完整实现清单）</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">做一款 AI 生图小程序，到底要准备哪些东西（附完整实现清单）</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/775" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>做AI生图类小程序，从服务器到上线，核心要准备1道资质前提+7样技术准备，再按6个模块实现。</p>
+<p>下面用我今天刚迭代的「灵感旅迹」为例，把清单和实现过程一次列清，照着抄能少踩很多坑。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bea56962c5f40f42f12fa5cbe83877b13f2c5d9d5323612b2d12a0c00d582baf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4c6632514977636466454d466467416a5354526a664374574446664b5273674f3043596354776c69624b39725466344549495147504576397267387a78336a794255756c395a6961786477494253684b576271514662346f4d616a4b417a7564564d4e6e354a6343344e4356342f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/bea56962c5f40f42f12fa5cbe83877b13f2c5d9d5323612b2d12a0c00d582baf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4c6632514977636466454d466467416a5354526a664374574446664b5273674f3043596354776c69624b39725466344549495147504576397267387a78336a794255756c395a6961786477494253684b576271514662346f4d616a4b417a7564564d4e6e354a6343344e4356342f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Lf2QIwcdfEMFdgAjSTRjfCtWDFfKRsgO0CYcTwlibK9rTf4EIIQGPEv9rg8zx3jyBUul9ZiaxdwIBShKWbqQFb4oMajKAzudVMNn5JcC4NCV4/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>一、上线前必须准备好的东西</p>
+<p>前提（最重要，没有它AI类小程序根本无法上架）：深度合成资质。</p>
+<p>AI生图、视频、文案这类应用，微信小程序统一归入"深度合成"管理。上架前必须完成三件事：</p>
+<p>主体资质：通常需要企业/个体工商户营业执照（个人主体基本申请不下来），在微信公众平台选择"深度合成"相关类目并提交。</p>
+<p>具体如何申请稍微有点复杂，不做细说</p>
+<p>这是上架前提，资质没过，后面技术做得再好也发不出去。</p>
+<p>下面7样是技术侧准备：</p>
+<p>云服务器（国内）</p>
+<p>微信小程序要求request合法域名是已备案的HTTPS域名，服务器必须放在国内。我用阿里云ECS（2核4G起步够用），上面跑Node.js + MariaDB。小程序的所有请求都走你自己的服务器域名，不直接连第三方。</p>
+<p>已备案域名 + SSL证书</p>
+<p>域名要在国内备案（小程序硬性要求）。我用zbaby03.cn，Nginx反代 + certbot签免费Let's Encrypt证书，crontab每天检查自动续期，不用手动管。</p>
+<p>小程序账号和密钥</p>
+<p>微信公众平台注册小程序，拿到两个值：</p>
+<p>AppID（公开的）</p>
+<p>AppSecret（只在后端用，绝不进代码库、绝不写死在前端）</p>
+<p>微信支付商户号</p>
+<p>小程序内购（充值"点数"）需要开通微信支付，准备：</p>
+<p>商户号MCHID</p>
+<p>APIv2密钥（商户平台设置）</p>
+<p>支付结果回调地址</p>
+<p>密钥一律服务端.env配置，不要进代码仓库。</p>
+<p>第三方生图API</p>
+<p>生图能力不需要自己训练模型，直接接第三方。我接的是国内中转的API（gpt-image-2.0系列模型），准备一个API Key，后端持有。支持两种模式：传图生图、纯文生图。</p>
+<p>内容安全接口</p>
+<p>微信要求对用户上传图和文生图文案做内容审核，不然容易被下架。用官方提供的img_sec_check（图片）和msg_sec_check（文本）。</p>
+<p>流量主广告位</p>
+<p>用户量达标后开通流量主，建激励视频广告位（adUnitId）。我用"看视频得积分"任务承接，建议建3个广告位轮换，避免并发串号。</p>
+<p>二、整体架构</p>
+<p>小程序（原生开发）</p>
+<p>↓</p>
+<p>HTTPS Nginx（反代 + HTTPS）</p>
+<p>↓</p>
+<p>后端Express（Node ESM，pm2守护，端口3000）</p>
+<p>↓</p>
+<p>MariaDB（用户、订单、任务、流水）</p>
+<p>生图API（异步任务）</p>
+<p>生图是异步的：后端调API建任务→轮询任务状态→成功则下载结果图落盘→返回三档图（列表缩略图/点开预览图/原图），前端不直连原图，避免真机转圈。</p>
+<p>三、6个关键实现模块</p>
+<p>用户体系：一个微信 = 一个账号</p>
+<p>wx.login拿code→后端code2Session换openid→用openid派生稳定user_key。这样清缓存、换设备、重装都归到同一个账号，记录不丢。</p>
+<p>这里踩过坑：最早用客户端随机key，清缓存就像登录了新号、充值记录全没。改成openid派生稳定key后根治。</p>
+<p>点数体系</p>
+<p>生图消耗"点数"，来源两条：</p>
+<p>充值：微信支付得点数（1元 = 10点）</p>
+<p>每日任务：打卡1分、分享好友3分、看视频每段2分</p>
+<p>每次点数变动都写流水表，后台可查每一笔来源。</p>
+<p>微信支付（APIv2）</p>
+<p>统一下单→前端拉起支付→微信回调notify→验签→标记订单已付→加点数。</p>
+<p>回调必须做幂等：同一订单只加一次，不然微信重复通知会重复加点数。</p>
+<p>生图流程</p>
+<p>上传图/填文案→后端先做内容审核→扣点数建任务→轮询任务状态→成功下载三档图。</p>
+<p>重点：失败或超时（包括第三方返回error而非failed的状态）必须退回点数，不然用户白扣。</p>
+<p>内容审核</p>
+<p>上传图走img_sec_check，文生图文案走msg_sec_check + 本地敏感词表。只拦截微信明确判违规的状态码（87014），其它错误放行并记日志，避免误杀正常图。</p>
+<p>流量主任务</p>
+<p>激励视频广告一个页面建多个实例，会有"关一个广告触发所有实例onClose"的已知坑，要用"当前任务key"标记只结算那一个；领完后延迟从服务端拉一次权威状态，不然按钮不跟着变"已领"。</p>
+<p>四、成本结构</p>
+<p>固定成本：服务器99 + 域名15 + 证书（证书免费）</p>
+<p>变动成本：生图按第三方API调用量计费（gpt-image-2.0偏贵，建议控制出图尺寸和并发）</p>
+<p>手续费：微信支付约0.6%</p>
+<p>收入端：客户会员充值，流量主激励视频广告</p>
+<p>做这类小程序，最难的不是生图本身，而是"身份稳定 + 点数幂等 + 失败退点 + 审核兜底"这几条链路做扎实。这几处不稳，用户一清缓存或一遇生图失败就会来找你。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/936ece29ffa58307686237a3aa95414d040822bbfc898415613da0a3fcdea7e3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4c663251497763646645504d49393535667769625232516753696147595471685a705a72457056375a6e39523469636f7845636f79784173506e6e416155586257396275584157396962764877395264696345446a5848623378426c4d6658796e554566394a4d4c68584e55615137512f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/936ece29ffa58307686237a3aa95414d040822bbfc898415613da0a3fcdea7e3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f4c663251497763646645504d49393535667769625232516753696147595471685a705a72457056375a6e39523469636f7845636f79784173506e6e416155586257396275584157396962764877395264696345446a5848623378426c4d6658796e554566394a4d4c68584e55615137512f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/Lf2QIwcdfEPMI955fwibR2QgSiaGYTqhZpZrEpV7Zn9R4icoxEcoyxAsPnnAaUXbW9buXAW9ibvHw9RdicEDjXHb3xBlMfXynUEf9JMLhXNUaQ7Q/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>（美女镇楼）</p>
+<p>附小程序体验链接：</p>
+<p>灵感旅迹 （新版暂未上线，审核中）</p>
+<p>攒股收息</p>
+<p>测颜值打分神器</p>
+<p>认识一下大熊</p>
+<p>10 年运营人，2024 年辞职后开始自由职业</p>
+<p>数字游民｜小红书代运营｜AI小程序开发者</p>
+<p>不上班的真实记录，AI一人公司的实操复盘</p>
+<p>2026，带100个人一起做小程序。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
