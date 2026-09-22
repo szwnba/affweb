@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="⭐ 设为星标 · 第一时间收到推送
+
+![](https://mmbiz.qpic.cn/mmbiz_png/TkWsojtosvTIxzf5mQGyYRk4TQaBRzfVywicev5EzqptUHnP8FGzOmB8Uia7jIibRfnZpZGrukiauQKlqtcIEQ2VKVP9LRrk2Ux8Ch70f5NzKkc/640?from=appmsg&watermark=1#imgIndex=0)
+
+石臻说AI编辑：石臻
+
+**导读：**  一个浏览器 Agent，用一句自然语言在 Google Flights 里完成苏黎世到伦敦的单程航班搜索，**7.073 秒**结束。">
+<meta property="og:title" content="4天破万 Star，这个Jev浏览器 Agent 带来极速新体验">
+<meta property="og:description" content="⭐ 设为星标 · 第一时间收到推送
+
+![](https://mmbiz.qpic.cn/mmbiz_png/TkWsojtosvTIxzf5mQGyYRk4TQaBRzfVywicev5EzqptUHnP8FGzOmB8Uia7jIibRfnZpZGrukiauQKlqtcIEQ2VKVP9LRrk2Ux8Ch70f5NzKkc/640?from=appmsg&watermark=1#imgIndex=0)
+
+石臻说AI编辑：石臻
+
+**导读：**  一个浏览器 Agent，用一句自然语言在 Google Flights 里完成苏黎世到伦敦的单程航班搜索，**7.073 秒**结束。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/4-tian-po-wan-%20Star%EF%BC%8C-zhe-ge-Jev-liu-lan-qi-%20Agent%20-dai-lai-ji-su-xin-ti-yan.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>4天破万 Star，这个Jev浏览器 Agent 带来极速新体验</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">4天破万 Star，这个Jev浏览器 Agent 带来极速新体验</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/781" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>⭐ 设为星标 · 第一时间收到推送</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ac0a0325d9d2faeed8576ea8b255ac55ae0bf9127663059d213f4dd706707410/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f546b57736f6a746f73765449787a66356d51477959526b3454516142527a665679776963657635457a71707455486e503846477a4f6d4238556961376a49696252666e5a705a4772756b696175514b6c71746349455132564b5650394c52726b325578384368373066354e7a4b6b632f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/ac0a0325d9d2faeed8576ea8b255ac55ae0bf9127663059d213f4dd706707410/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f546b57736f6a746f73765449787a66356d51477959526b3454516142527a665679776963657635457a71707455486e503846477a4f6d4238556961376a49696252666e5a705a4772756b696175514b6c71746349455132564b5650394c52726b325578384368373066354e7a4b6b632f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/TkWsojtosvTIxzf5mQGyYRk4TQaBRzfVywicev5EzqptUHnP8FGzOmB8Uia7jIibRfnZpZGrukiauQKlqtcIEQ2VKVP9LRrk2Ux8Ch70f5NzKkc/640?from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>石臻说AI编辑：石臻</p>
+<p><strong>导读：</strong>  一个浏览器 Agent，用一句自然语言在 Google Flights 里完成苏黎世到伦敦的单程航班搜索，<strong>7.073 秒</strong>结束。我又把它接到 OpenRouter Jev，在 12306 实测了一次北京南到上海虹桥的余票查询。结果很有意思：核心决策确实快，但原版在真实国内网站上连撞了三个兼容问题。</p>
+<h2>4 天破万 Star，它到底做了什么</h2>
+<p>Jev Ultrafast 是 Browser Use 与 TypeSafe Jev 组合出来的一个极小型浏览器 Agent。输入仍然是一句完整目标，但执行方式和常见的视觉 Agent 不太一样：它默认不把截图丢给模型，也不让模型现场编 CSS 选择器、坐标或 JavaScript。</p>
+<p>截至 2026 年 9 月 20 日，这个仓库已经拿到 <strong>10,665 Star、642 Fork</strong>。项目刚创建 4 天，主分支只有 3 次提交，没有正式 Release，核心 Python 与快照脚本合计约 850 行。热度很高，成熟度却还在 MVP 阶段，这两件事要同时看。</p>
+<p>Jev Ultrafast GitHub 仓库，4 天突破 1 万 Star</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8d23b05df2c770d84e2f2aa9f072c5d514f9c02f499996564dc03e55e9ed3c6d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f546b57736f6a746f7376536a6b69615a427452745a33774a72765a7a39343278554f4c73677535444f306145683975376e4441464c4a6b71794b3548657645484477473043445a35307272424a516237504c6f4f3135717752487a637669634c6e676b42696130786878496155512f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/8d23b05df2c770d84e2f2aa9f072c5d514f9c02f499996564dc03e55e9ed3c6d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f546b57736f6a746f7376536a6b69615a427452745a33774a72765a7a39343278554f4c73677535444f306145683975376e4441464c4a6b71794b3548657645484477473043445a35307272424a516237504c6f4f3135717752487a637669634c6e676b42696130786878496155512f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/TkWsojtosvSjkiaZBtRtZ3wJrvZz942xUOLsgu5DO0aEh9u7nDAFLJkqyK5HevEHDwG0CDZ50rrBJQb7PLoO15qwRHzcvicLngkBia0xhxIaUQ/640?from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>演示任务也很具体：把 Google Flights 改成单程，填入 Zurich 和 London，选择 2026 年 9 月 20 日，点击搜索，等到航班结果出现。录屏是 1× 速度，不是后期加速。</p>
+<p>|</p>
+<p>项目</p>
+<p>|</p>
+<p>当前信息</p>
+<p>|<br>
+| --- | --- |<br>
+|</p>
+<p>开源协议</p>
+<p>|</p>
+<p>MIT</p>
+<p>|<br>
+|</p>
+<p>语言与环境</p>
+<p>|</p>
+<p>Python 3.12+、Chrome、uv</p>
+<p>|<br>
+|</p>
+<p>决策模型</p>
+<p>|</p>
+<p>TypeSafe Jev；OpenRouter 已提供 Jev 1.13</p>
+<p>|<br>
+|</p>
+<p>文本模型</p>
+<p>|</p>
+<p>默认示例为 Inception Mercury 2.5</p>
+<p>|<br>
+|</p>
+<p>公开演示</p>
+<p>|</p>
+<p>Google Flights 7.073 秒</p>
+<p>|<br>
+|</p>
+<p>项目状态</p>
+<p>|</p>
+<p>0.1.0，MVP，尚无正式 Release</p>
+<p>|</p>
+<h2>它为什么快：把网页变成一张动作表</h2>
+<p>Jev Ultrafast 每次观察页面时，会读取当前可见的 HTML 和 ARIA 控件，把按钮、输入框、下拉选项等整理成一张动态索引表：</p>
+<pre class="notranslate"><code class="notranslate">[1] button    Change ticket type · Round trip [2] combobox  Where from?        · San Francisco [3] combobox  Where to?          · empty 
+</code></pre>
+<p>每个真实 DOM 节点拿到一个由代码维护的编号。模型只能在当前页面已经观察到的元素和受支持动作里选择，不能凭空生成选择器、坐标、Shell 命令或可执行 JavaScript。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b18560d4a4feb7ae05ff25d5271aa338df7c7e545b18db88197005e676b68e6a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f546b57736f6a746f73765453513955734278764b52756650456470614d44723464375278617a3037576634336f723161434949685350304649385a635069617866496d5571696237383264776a55683036544931314b484658346b4268534a4a355a775979476c536c34316f302f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/b18560d4a4feb7ae05ff25d5271aa338df7c7e545b18db88197005e676b68e6a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f546b57736f6a746f73765453513955734278764b52756650456470614d44723464375278617a3037576634336f723161434949685350304649385a635069617866496d5571696237383264776a55683036544931314b484658346b4268534a4a355a775979476c536c34316f302f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/TkWsojtosvTSQ9UsBxvKRufPEdpaMDr4d7Rxaz07Wf43or1aCIIhSP0FI8ZcPiaxfImUqib782dwjUh06TI11KHFX4kBhSJJ5ZwYyGlSl41o0/640?from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>Jev Ultrafast 的动态动作空间：页面先变成元素表，再选择操作与目标</p>
+<p>它支持的操作包括 <code class="notranslate">CLICK</code>、<code class="notranslate">TYPE_TEXT</code>、<code class="notranslate">SELECT</code>、上下滚动、<code class="notranslate">WAIT</code>、<code class="notranslate">DONE</code> 和 <code class="notranslate">BLOCKED</code>。关键点在于：<strong>“下一步做什么”和“不同动作该选哪个元素”会在同一次 TypeSafe 请求里并行回答。</strong></p>
+<p>比如页面上同时有点击目标、输入目标和下拉目标，系统会一次提出多组问题。最后如果操作答案是 <code class="notranslate">CLICK</code>，代码只消费 <code class="notranslate">click_target</code>；其他推测结果直接丢弃。两次判断被压进一次网络往返，这就是 TypeSafe 所说的 speculative fan-out。</p>
+<h2>只有需要打字时，才叫小模型来写</h2>
+<p>动作选择和文字生成被拆开了。绝大多数步骤只做有限选项判断；只有决定执行 <code class="notranslate">TYPE_TEXT</code> 时，才调用一个小型 OpenAI 兼容模型，根据原始目标、字段含义、页面上下文和最近动作生成要输入的文字。</p>
+<p>这次航班演示里，小模型只调用了两次：生成 Zurich 用了 581 毫秒，生成 London 用了 346 毫秒。返回值必须是只有一个 <code class="notranslate">text</code> 字段的 JSON，解析不通过就不会输入。</p>
+<p>7.073 秒 Google Flights 演示，录屏保持 1× 速度</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f8a06e5dcdc4d060502637980e8773c5959a3574d27b3f5c5a55159e537972b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f546b57736f6a746f737652675842496f4262637a39766763656658336763787252797447696251424c4d726e76484b6373696363696153644c566a336c435375514f763779547855616d764b544f4f544a6a544f6e42726a696279614c344d7438617646764f5467696269636b563656632f3634303f66726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/2f8a06e5dcdc4d060502637980e8773c5959a3574d27b3f5c5a55159e537972b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f546b57736f6a746f737652675842496f4262637a39766763656658336763787252797447696251424c4d726e76484b6373696363696153644c566a336c435375514f763779547855616d764b544f4f544a6a544f6e42726a696279614c344d7438617646764f5467696269636b563656632f3634303f66726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/TkWsojtosvRgXBIoBbcz9vgcefX3gcxrRytGibQBLMrnvHKcsicciaSdLVj3lCSuQOv7yTxUamvKTOOTJjTOnBrjibyaL4Mt8avFvOTgibickV6Vc/640?from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>浏览器侧也做了几处很实际的减法：一次浏览器调用完成 DOM 快照；默认只发送当前视口里的可见文字；输入联想最多等 200 毫秒；其他交互最多等两个动画帧或 50 毫秒。执行前还会重新检查页面状态、目标是否仍可见、是否被遮挡，避免模型拿着过期页面继续点击。</p>
+<p>这套设计更像一个“选择器”，而不是一个边看截图边自由发挥的通用 Agent。它牺牲了一部分网页覆盖面，换来更小的状态、更少的浏览器往返和更快的单步决策。</p>
+<h2>7 秒是真的，但别把它当成通用跑分</h2>
+<p>项目公开的测量比推文严谨得多。7.073 秒从首次预测开始，到 Agent 接受 <code class="notranslate">DONE</code> 为止，包含模型调用、文字生成、浏览器操作、过期决策和页面加载；不包含浏览器初始化、第一次打开页面，以及结束后的独立结果校验。</p>
+<p>Google Flights 搜索完成后的真实结果页</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ec9039d2a146010b8cd40c980db1040146ed438bf5229ee21077c96e96498e2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f546b57736f6a746f73765165464e38563559327330484964654b536d6a44623362367a7073524269633877554d41387554566a673152386961696352764944445070483432706963554e7534763143636f664a747a765779464a414e366a52543349676e346e674a69626b616c44714d2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/1ec9039d2a146010b8cd40c980db1040146ed438bf5229ee21077c96e96498e2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f546b57736f6a746f73765165464e38563559327330484964654b536d6a44623362367a7073524269633877554d41387554566a673152386961696352764944445070483432706963554e7534763143636f664a747a765779464a414e366a52543349676e346e674a69626b616c44714d2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/TkWsojtosvQeFN8V5Y2s0HIdeKSmjDb3b6zpsRBic8wUMA8uTVjg1R8iaicRvIDDPpH42picUNu4v1CcofJtzvWyFJAN6jRT3Ign4ngJibkalDqM/640?from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>仓库还做了 3 组交替对照：原始版本和优化版本都通过 3/3，任务中位时间从 <strong>9.450 秒降到 7.092 秒</strong>，下降 25%；浏览器协议调用中位数从 <strong>1,092 次降到 101 次</strong>。不过只有一个任务、一个浏览器配置和 3 组重复，项目作者也明确写着：这不是通用可靠性基准。</p>
+<p>推文称单次任务成本是 <strong>0.0039 美元</strong>。公开测量文件能确认的只有两次文本模型调用合计 0.00006272 美元；TypeSafe 响应记录了 token 数，却没有公开完整美元账单，浏览器成本也未计入。所以 0.0039 美元可以作为作者口径引用，不能当成已由仓库数据完整复算的成本。</p>
+<h2>怎么跑：官方版要两个 Key，也可以改成只用 OpenRouter</h2>
+<p>它不是下载后完全离线运行的项目。官方代码仍默认使用两个凭据：<code class="notranslate">TYPESAFE_API_KEY</code> 负责动作决策，<code class="notranslate">TEXT_MODEL_API_KEY</code> 负责输入文字。示例配置走 OpenRouter 的 <code class="notranslate">inception/mercury-2.5</code>，并关闭 reasoning。</p>
+<p>命令不复杂。复制配置文件后，在 <code class="notranslate">.env</code> 中填写 <code class="notranslate">TYPESAFE_API_KEY</code> 和 <code class="notranslate">TEXT_MODEL_API_KEY</code>：</p>
+<pre class="notranslate"><code class="notranslate">git clone https://github.com/browser-use/jev-ultrafast.git cd jev-ultrafast uv sync cp .env.example .env uv run jev 
+</code></pre>
+<p>然后打开 <code class="notranslate">http://127.0.0.1:8766</code>，点击 <code class="notranslate">Start demo</code> 和 <code class="notranslate">Run automatically</code>。本地 Inspector 会显示元素编号、操作概率、目标概率和实际执行动作。</p>
+<p>本地 Inspector 会展示元素、动作概率和每一步执行记录</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2afceb3e575c3fb3eb33e89f141c804c91ef2e9339c8561e3db03c9c396417bc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f546b57736f6a746f737653517a64336c4e61437a64373144476e69627073344939375a6438335731723938334b764446345a66384465484e39465332306d46527469634e4c717465324430427976375a6962596c48696134686131494470754c69637163396a3467384b686b4b446963302f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/2afceb3e575c3fb3eb33e89f141c804c91ef2e9339c8561e3db03c9c396417bc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f546b57736f6a746f737653517a64336c4e61437a64373144476e69627073344939375a6438335731723938334b764446345a66384465484e39465332306d46527469634e4c717465324430427976375a6962596c48696134686131494470754c69637163396a3467384b686b4b446963302f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/TkWsojtosvSQzd3lNaCzd71DGnibps4I97Zd83W1r983KvDF4Zf8DeHN9FS20mFRticNLqte2D0Byv7ZibYlHia4ha1IDpuLicqc9j4g8KhkKDic0/640?from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>它也能当作库调用，传入网址和完整目标后遍历执行状态。Google Flights 只是演示，不是写死的站点脚本；仓库还给了 Wikipedia 和本地酒店筛选任务。项目地址：</p>
+<p><a href="https://github.com/browser-use/jev-ultrafast">https://github.com/browser-use/jev-ultrafast</a></p>
+<p>如果注册不了 TypeSafe，还有另一条路。OpenRouter 已经提供 <code class="notranslate">typesafe/jev-1.13</code>，走单独的 Decisions Alpha API。当前仓库把 TypeSafe 地址写死了，我在本地加了一层提供方配置，让动作决策和文字输入共用同一把 OpenRouter Key：</p>
+<pre class="notranslate"><code class="notranslate">JEV_PROVIDER=openrouter OPENROUTER_API_KEY=sk-or-... JEV_BASE_URL=https://openrouter.ai/api/alpha/decisions JEV_MODEL=typesafe/jev-1.13  TEXT_MODEL_API_KEY=sk-or-... TEXT_MODEL_BASE_URL=https://openrouter.ai/api/v1 TEXT_MODEL=~openai/gpt-luna-latest 
+</code></pre>
+<p>最小 API 测试成功返回了 <code class="notranslate">typesafe/jev-1.13-20260917</code>。Jev 决策请求和文字模型请求都能正常计费，不再需要 TypeSafe 账号。不过 Decisions API 仍是 Alpha，接口格式以后可能变化。</p>
+<h2>我拿 12306 跑了一次，原版先卡了三次</h2>
+<p>实测任务是查询 <strong>2026 年 9 月 21 日，北京南到上海虹桥</strong> 的车票，只看余票，不点击预订、候补或任何下单按钮。最终版本用了 7 个实际操作、20.391 秒，进入余票查询页；程序又独立检查了 URL、出发站、到达站和日期，四项都通过。</p>
+<p>|</p>
+<p>项目</p>
+<p>|</p>
+<p>12306 实测结果</p>
+<p>|<br>
+| --- | --- |<br>
+|</p>
+<p>动作模型</p>
+<p>|</p>
+<p>OpenRouter <code class="notranslate">typesafe/jev-1.13</code></p>
+<p>|<br>
+|</p>
+<p>文字模型</p>
+<p>|</p>
+<p>OpenRouter <code class="notranslate">~openai/gpt-luna-latest</code></p>
+<p>|<br>
+|</p>
+<p>实际操作</p>
+<p>|</p>
+<p>7 次</p>
+<p>|<br>
+|</p>
+<p>总耗时</p>
+<p>|</p>
+<p>20.391 秒</p>
+<p>|<br>
+|</p>
+<p>页面变化恢复</p>
+<p>|</p>
+<p>1 次，旧决策被拒绝后重新观察</p>
+<p>|<br>
+|</p>
+<p>最终校验</p>
+<p>|</p>
+<p>北京南、上海虹桥、2026-09-21、余票页 URL 全部通过</p>
+<p>|<br>
+|</p>
+<p>安全边界</p>
+<p>|</p>
+<p>没有点击预订、候补、提交订单或支付</p>
+<p>|</p>
+<p>动图演示：Jev Ultrafast 在 12306 填写车站、选择日期并进入余票页</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5b16c377a9d5f2798586a712b4ec4bb113bf7d6c46e0f6391595a77b8948a420/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f546b57736f6a746f7376544a6d6868366a663951696261454770665258656d71536e6236424251725167635548384f5070633969633752337a7236646a36436f58664c7033494d673135777063347949457a726d6c71585863483045637954346542494a6742625171364d69624d2f3634303f66726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/5b16c377a9d5f2798586a712b4ec4bb113bf7d6c46e0f6391595a77b8948a420/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f546b57736f6a746f7376544a6d6868366a663951696261454770665258656d71536e6236424251725167635548384f5070633969633752337a7236646a36436f58664c7033494d673135777063347949457a726d6c71585863483045637954346542494a6742625171364d69624d2f3634303f66726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/TkWsojtosvTJmhh6jf9QibaEGpfRXemqSnb6BBQrQgcUH8OPpc9ic7R3zr6dj6CoXfLp3IMg15wpc4yIEzrmlqXXcH0EcyT4eBIJgBbQq6MibM/640?from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>这次并不是一遍过。原版先后卡在三个地方：</p>
+<ul>
+<li>
+<p>12306 的车站联想依赖逐键事件。一次性写入文字后，输入框有内容，候选列表却不更新。</p>
+</li>
+<li>
+<p>“北京南”“上海虹桥”候选项是自定义 <code class="notranslate">div</code>，只有 <code class="notranslate">cursor:pointer</code>，没有标准按钮、链接或 ARIA 角色，原快照器看得见文字，却不能把它当成可执行目标。</p>
+</li>
+<li>
+<p>点击“查询”会打开新标签页。原浏览器驱动仍盯着旧首页，模型一度在错误页面上宣布完成。</p>
+</li>
+</ul>
+<p>我没有写 12306 专用选择器，而是补了三项通用能力：逐字符派发真实键盘事件；把可见、短文本、顶层 <code class="notranslate">cursor:pointer</code> 元素纳入受控动作空间；跟随当前页面打开的新结果标签页。修改后，离线测试、代码检查和 <strong>23 项浏览器防护回归</strong>全部通过。</p>
+<p>12306 余票结果页：北京南到上海虹桥，日期为 2026-09-21；账户栏已裁掉</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/204dc0183706b1a4b54b6a91ea5cd9704d9770a31a376d5a5211afac3734a9d0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f546b57736f6a746f73765165647547437165315442704f4753465559355a36734769623242383856726e6f3149346963597a36764d524855676d696273386e435174684c724e4f6c655074555156557465414a6b594a6d7338644b64363466483554725636684e4c3462507a4b302f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/204dc0183706b1a4b54b6a91ea5cd9704d9770a31a376d5a5211afac3734a9d0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f546b57736f6a746f73765165647547437165315442704f4753465559355a36734769623242383856726e6f3149346963597a36764d524855676d696273386e435174684c724e4f6c655074555156557465414a6b594a6d7338644b64363466483554725636684e4c3462507a4b302f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/TkWsojtosvQeduGCqe1TBpOGSFUY5Z6sGib2B88Vrno1I4icYz6vMRHUgmibs8nCQthLrNOlePtUQVUteAJkYJms8dKd64fH5TrV6hNL4bPzK0/640?from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>这个结果比“又跑通一个网站”更有参考价值。Jev 的有限选择很快，真正拖住它的是网页工程细节：键盘事件、非标准控件和多标签页。修完这些通用能力后，模型不需要知道 12306 的 CSS 选择器，也能完成查询。</p>
+<h2>它的边界，在 DOM 之外</h2>
+<p>Jev Ultrafast 官方版本支持常见 HTML 和 ARIA 控件，但还没有完整实现浏览器的 accessible-name 规范。Shadow DOM、iframe、Canvas、文件上传、新标签页、嵌套滚动和复杂键盘组件都可能卡住它。最多 60 个动作、120 次决策请求，候选动作超过 250 个也会截断。上面的 12306 能力来自本地通用补丁，尚未进入上游仓库。</p>
+<p>项目 README 主动列出的性能证据与 MVP 限制</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/885fc7be235ac52312ae10e188084438a24b8a2349b98df32eb78841b4729781/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f546b57736f6a746f7376533259636a364f385a6d495434444142376f69634361656275353470557059546e767130616961374a465a6b5452516b63727131747951316961544f435638344b7531513669636e77754c714b514b55717a3069633946516e6e3342467131616873643567592f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38"><img src="https://camo.githubusercontent.com/885fc7be235ac52312ae10e188084438a24b8a2349b98df32eb78841b4729781/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f546b57736f6a746f7376533259636a364f385a6d495434444142376f69634361656275353470557059546e767130616961374a465a6b5452516b63727131747951316961544f435638344b7531513669636e77754c714b514b55717a3069633946516e6e3342467131616873643567592f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/TkWsojtosvS2Ycj6O8ZmIT4DAB7oicCaebu54pUpYTnvq0aia7JFZkTRQkcrq1tyQ1iaTOCV84Ku1Q6icnwuLqKQKUqz0ic9FQnn3BFq1ahsd5gY/640?from=appmsg&amp;watermark=1#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>模型说 <code class="notranslate">DONE</code> 不等于任务真的成功。演示会另外检查单程、出发地、目的地、日期和结果页是否都正确。代码也会在点击前重新读取几何位置并做遮挡检查，尽量避免“模型觉得点到了，页面其实没反应”。</p>
+<p>本地修改后的版本跑过 <strong>32 个 pytest 测试、23 项浏览器防护回归、Ruff 和两份 JavaScript 语法检查</strong>，随后才执行 12306 在线任务。一次成功仍不能证明它能稳定覆盖整个 12306，更不能直接用于抢票或下单；但这次已经把“模型决策能否落到真实国内网站”从演示视频变成了可复现测试。</p>
+<p>Jev Ultrafast 的工程选择很克制：<strong>能让模型做有限选择，就不要让它自由生成；能一次并行问完，就不要串行多跑一轮。</strong>  对结构清晰、DOM 友好的搜索和表单任务，这条路很有潜力；复杂网页和生产流程，现在还不适合直接交给它托管。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
