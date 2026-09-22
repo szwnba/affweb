@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/oERWrZhYomqHw7NFHfgwdTcWwVTIWWopichPEBvleJxH3yWXiaMPpiaOjZg1DDdKicV3dP0vncqeWUmZsaq9zI001ianYecYIoX7OJNPRHTv7P68/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+今天例行打开 OpenCode 官网看更新，发现首页跟上周完全不一样了。">
+<meta property="og:title" content="OpenCode 2.0 正式版来了：等了 4 个月，它转正了">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/oERWrZhYomqHw7NFHfgwdTcWwVTIWWopichPEBvleJxH3yWXiaMPpiaOjZg1DDdKicV3dP0vncqeWUmZsaq9zI001ianYecYIoX7OJNPRHTv7P68/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+今天例行打开 OpenCode 官网看更新，发现首页跟上周完全不一样了。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/OpenCode%202.0%20-zheng-shi-ban-lai-le-%EF%BC%9A-deng-le-%204%20-ge-yue-%EF%BC%8C-ta-zhuan-zheng-le.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>OpenCode 2.0 正式版来了：等了 4 个月，它转正了</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">OpenCode 2.0 正式版来了：等了 4 个月，它转正了</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/780" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/58a60a9edc14bf9ff095f12eb506859c1557435b6ddfd18de1d4c2a3247801ff/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f455257725a68596f6d714877374e4648666777645463577756544957576f70696368504542766c654a78483379575869614d507069614f6a5a67314444644b69635633645030766e63716557556d5a736171397a4930303169616e59656359496f58374f4a4e5052485476375036382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/58a60a9edc14bf9ff095f12eb506859c1557435b6ddfd18de1d4c2a3247801ff/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f455257725a68596f6d714877374e4648666777645463577756544957576f70696368504542766c654a78483379575869614d507069614f6a5a67314444644b69635633645030766e63716557556d5a736171397a4930303169616e59656359496f58374f4a4e5052485476375036382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oERWrZhYomqHw7NFHfgwdTcWwVTIWWopichPEBvleJxH3yWXiaMPpiaOjZg1DDdKicV3dP0vncqeWUmZsaq9zI001ianYecYIoX7OJNPRHTv7P68/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>今天例行打开 OpenCode 官网看更新，发现首页跟上周完全不一样了。</p>
+<p>顶部挂了一条横幅：<strong>New OpenCode v2 is now available</strong>→<br>
+安装命令从 <code class="notranslate">/install</code>变成了 <code class="notranslate">/v2/install</code>，<br>
+GitHub 链接也统一换到了 v2 分支。</p>
+<p>我第一反应：它终于转正了？</p>
+<p>7 月那波 beta 动静不小——16 万 star 的仓库彻底重写，Bun 换 Node、桌面端 Tauri 换 Electron、多标签并行会话。但「测试版」帽子戴了快 4 个月，很多人跟我一样，装了也不敢放正经项目里。</p>
+<p>现在官网全线切到 v2，该升了吗？升了会不会翻车？我把官方迁移文档从头翻了一遍，这份升级答案给你。</p>
+<h2>先说结论：转正了，但长得不太像</h2>
+<p>v2 确实是好东西：多标签并行会话、Electron 桌面端、内存占用降了、服务常驻跨设备能连。但 beta 意味着「随时可能清数据、改配置」，所以多数人选择继续蹲 v1.18.x 等转正。</p>
+<p>官网这波切换，就是那个「正式」的信号。但你要注意，它长得不像传统意义的「正式版发布」：</p>
+<p>• changelog 页面还是空的，v2 线的更新记录没挂上来<br>
+• GitHub releases 主页最新一条还是 <strong>v1.18.31</strong>（9/14）<br>
+• 安装命令换成了新包 <code class="notranslate">@opencode/cli</code></p>
+<p>转正了，但官方没敲锣打鼓。所以很多人反而懵了：现在到底是啥状态？怎么升才不翻车？下面拆开讲。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b9f52dd6204ca228f935db8ddbb5332a98948274f59ea08cb9d961e4a0a669ef/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f455257725a68596f6d6f485178336b58476c6730594562646a6e4846586863696238424247474a5a76724c3853393876385a31757354595946734659796541576c586c487a3273776454566570486a41526c79416574364739667769635949363346673734667a6d7776424d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/b9f52dd6204ca228f935db8ddbb5332a98948274f59ea08cb9d961e4a0a669ef/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f455257725a68596f6d6f485178336b58476c6730594562646a6e4846586863696238424247474a5a76724c3853393876385a31757354595946734659796541576c586c487a3273776454566570486a41526c79416574364739667769635949363346673734667a6d7776424d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oERWrZhYomoHQx3kXGlg0YEbdjnHFXhcib8BBGGJZvrL8S98v8Z1usTYYFsFYyeAWlXlHz2swdTVepHjARlyAet6G9fwicYI63Fg74fzmwvBM/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<h2>转正怎么看：官网 3 个信号 + 版本线佐证</h2>
+<p>判断「转正」别听社区传言，盯官网和 GitHub 就够，三个信号全亮了：</p>
+<p>• <strong>首页横幅</strong>：New OpenCode v2 is now available →<br>
+• <strong>安装入口</strong>：全站安装命令换成 <code class="notranslate">curl -fsSL https://opencode.ai/v2/install</code><br>
+• <strong>仓库指向</strong>：官网 GitHub 链接全部指向 <code class="notranslate">v2</code>分支，主仓库已 <strong>209K star</strong>/ 950+ contributors / 1600 万+ 月活开发者</p>
+<p>版本线更实锤。GitHub tags 页里，v2.0.x 已经跑出了完整迭代节奏：</p>
+<p>• <strong>v2.0.2</strong>（9/12）→ <strong>v2.0.10</strong>（9/19），一周 9 个小版本<br>
+• 同时 <strong>v1.18.31</strong>（9/14）还在发——v1 没被抛弃，两条线并行维护</p>
+<p>一周 9 个版本，说明 v2 已经进入正式迭代节奏，不是挂 beta 帽子的试验品了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/384099b6bebe62ea0c65ded5ec98adbcf914a0d3a648f42cab13755818ce1005/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f455257725a68596f6d716b716a6663455842667239397a57413975304d696245753247726b716c444c6d4a59375339426634786336765a6662707a30415644796b38725a5149535539626653755a516670704c455839686a79507466646834585869634c46396c595830526f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/384099b6bebe62ea0c65ded5ec98adbcf914a0d3a648f42cab13755818ce1005/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f455257725a68596f6d716b716a6663455842667239397a57413975304d696245753247726b716c444c6d4a59375339426634786336765a6662707a30415644796b38725a5149535539626653755a516670704c455839686a79507466646834585869634c46396c595830526f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oERWrZhYomqkqjfcEXBfr99zWA9u0MibEu2GrkqlDLmJY7S9Bf4xc6vZfbpz0AVDyk8rZQISU9bfSuZQfppLEX9hjyPtfdh4XXicLF9lYX0Ro/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<h2>装 v2：两条路，一个坑</h2>
+<p>官方给了两条安装路，选顺手的：</p>
+<p># 方式一：官方 curl 安装器（推荐）<br>
+curl -fsSL <a href="https://opencode.ai/v2/install" rel="nofollow">https://opencode.ai/v2/install</a> | bash</p>
+<p># 方式二：npm 装新包<br>
+npm install -g @opencode/cli</p>
+<p><strong>一个坑先记住</strong>：V1 和 V2 现在共用 <code class="notranslate">opencode</code>这一个命令，不再默认并行安装。beta 时期那种「装两个、opencode2 指 v2」的日子结束了。装 v2 前，先卸掉包管理器装的 v1——v2 的 curl 安装器会直接替换掉旧二进制。</p>
+<h2>升级必知的 3 个 Breaking Changes</h2>
+<p>官方迁移文档把破坏性改动明明白白列了三处，升级前不知道，装完大概率一脸懵：</p>
+<p>• <strong>插件 API 重构</strong>：V1 插件在 V2 跑不了，入口、hooks、工具、事件全按新 API 重写<br>
+• <strong>Server API 重构</strong>：V1 服务端 API 的集成要迁到新契约，用官方 <code class="notranslate">@opencode/client</code>包<br>
+• <strong>终端配置合并</strong>：分层 <code class="notranslate">tui.json(c)</code>变成单一全局 <code class="notranslate">~/.config/opencode/cli.json</code>，首次启动自动迁移</p>
+<p>好消息：除了这三块，你现有 <code class="notranslate">.opencode/</code>下的 agents、commands、skills 文件，官方承诺「应该不用改就能用」。真坏了算兼容性 bug，可以提 issue。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3b24eedea9fd8528730946c777cac40a03d46af29ee3986364e2b8830b1462ae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d71446f414b3747374a684f75473167476c51676e386c6e3673624442676a724e706157545338585530437039424373524b736a716348504549464f46744f706669624a524b4a754f664235447557527549364130536f4333556c517455774d3348382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/3b24eedea9fd8528730946c777cac40a03d46af29ee3986364e2b8830b1462ae/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d71446f414b3747374a684f75473167476c51676e386c6e3673624442676a724e706157545338585530437039424373524b736a716348504549464f46744f706669624a524b4a754f664235447557527549364130536f4333556c517455774d3348382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/oERWrZhYomqDoAK7G7JhOuG1gGlQgn8ln6sbDBgjrNpaWTS8XU0Cp9BCsRKsjqcHPEIFOFtOpfibJRKJuOfB5DuWRuI6A0SoC3UlQtUwM3H8/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<h2>配置迁移对照：最容易踩的改名清单</h2>
+<p>如果你自己手改配置，下面这张对照表系好安全带，最容易踩的就是这些：</p>
+<p>• <strong>权限动作改名</strong>：<code class="notranslate">bash</code>→<code class="notranslate">shell</code>、<code class="notranslate">task</code>→<code class="notranslate">subagent</code>、<code class="notranslate">write</code>/<code class="notranslate">patch</code>→<code class="notranslate">edit</code>；结构从「按工具分组」变成单一有序 <code class="notranslate">permissions</code>数组<br>
+• <strong>单数变复数</strong>：<code class="notranslate">agent</code>→<code class="notranslate">agents</code>、<code class="notranslate">command</code>→<code class="notranslate">commands</code>、<code class="notranslate">provider</code>→<code class="notranslate">providers</code>、<code class="notranslate">snapshot</code>→<code class="notranslate">snapshots</code>、<code class="notranslate">attachment</code>→<code class="notranslate">media</code><br>
+• <strong>compaction 改名</strong>：<code class="notranslate">preserve_recent_tokens</code>/<code class="notranslate">reserved</code>→<code class="notranslate">keep.tokens</code>/<code class="notranslate">buffer</code><br>
+• <strong>skills 合并</strong>：<code class="notranslate">paths</code>+<code class="notranslate">urls</code>两个字段合并成一个数组<br>
+• <strong>MCP 结构</strong>：服务器收进 <code class="notranslate">mcp.servers</code>，<code class="notranslate">enabled</code>变 <code class="notranslate">disabled</code>（语义反转），timeout 拆成 catalog/execution 两档<br>
+• <strong>providers 合并</strong>：<code class="notranslate">azure-cognitive-services</code>→<code class="notranslate">azure</code>、<code class="notranslate">google-vertex-anthropic</code>→<code class="notranslate">google-vertex</code>；<code class="notranslate">npm</code>→<code class="notranslate">package</code>（AI SDK 包加 <code class="notranslate">aisdk:</code>前缀）<br>
+• <strong>模型 variant</strong>：独立 <code class="notranslate">variant: high</code>字段，合并进模型引用写成 <code class="notranslate">anthropic/claude-sonnet-4-5#high</code></p>
+<p>看到这一长串先别慌——官方说得很明白：<strong>V2 直接读 V1 格式的配置，自动归一化，不强制你转</strong>。这些改名是给你「想转的时候」用的，不是升级的前置条件。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb9d4562b44cce81305e556f37fee02f863c463946a2cc15675156c3100973b7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d7039636f316f4674747473636e636a5066714b4b4348306f7647634f69616152554e6276706d74446e4676366635726f49667976684661306c537949784a51313869635937334f74414a72645a41653646546c4a7856357353496e574b4a413035476f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/fb9d4562b44cce81305e556f37fee02f863c463946a2cc15675156c3100973b7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d7039636f316f4674747473636e636a5066714b4b4348306f7647634f69616152554e6276706d74446e4676366635726f49667976684661306c537949784a51313869635937334f74414a72645a41653646546c4a7856357353496e574b4a413035476f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/oERWrZhYomp9co1oFtttscncjPfqKKCH0ovGcOiaaRUNbvpmtDnFv6f5roIfyvhFa0lSyIxJQ18icY73OtAJrdZAe6FTlJxV5sSInWKJA05Go/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<h2>迁移 5 步：官方推荐，不用重写</h2>
+<p>官方迁移指南给了套 5 步流程，核心思想就一句话：<strong>先跑起来，再慢慢转</strong>。</p>
+<p>① <strong>保留现有配置</strong>：V2 从同样位置读 <code class="notranslate">opencode.json</code>和 <code class="notranslate">.opencode/</code>，什么都不用动<br>
+② <strong>启动 V2 验证</strong>：确认模型、凭证、agents、permissions、MCP 服务器都正常<br>
+③ <strong>移植插件</strong>：V1 插件不兼容，这一步必做<br>
+④ <strong>移植集成</strong>：调过 V1 server API 的脚本/工具改到新契约<br>
+⑤ <strong>转换配置（可选）</strong>：想转 V2 原生格式时再转，不转也行</p>
+<p>第 5 步有个偷懒妙招——直接让 OpenCode 自己动手，给它这段指令：</p>
+<p>Migrate my OpenCode configuration, including file-based<br>
+definitions, from the V1 format to the native V2 format.<br>
+Preserve its behavior and all unrelated settings.</p>
+<p>它能通读整个配置文件，只改该改的，不动的设置不碰。V1/V2 字段在顶层可以共存，转了一半也没关系。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63fbd001b58a4b51ecde85446dd455daacfa516fd53b6317a0edb375df188d55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d6f6d39476b6772587043667254374a4c63494c7061797374624537786a576276746734323170316961646a65725934764c554a6a7131546f6b5264634370577970574d45344c6b67535a646a6963446838743862324e39614b515638523639755171632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/63fbd001b58a4b51ecde85446dd455daacfa516fd53b6317a0edb375df188d55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d6f6d39476b6772587043667254374a4c63494c7061797374624537786a576276746734323170316961646a65725934764c554a6a7131546f6b5264634370577970574d45344c6b67535a646a6963446838743862324e39614b515638523639755171632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/oERWrZhYomom9GkgrXpCfrT7JLcILpaystbE7xjWbvtg421p1iadjerY4vLUJjq1TokRdcCpWypWME4LkgSZdjicDh8t8b2N9aKQV8R69uQqc/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<h2>几个我挖出来的细节，别踩</h2>
+<p>翻迁移文档时挖到几个容易被忽略的点，提前给你打预防针：</p>
+<p>• <strong>V2 不跑 LSP 了</strong>：<code class="notranslate">lsp</code>配置会被接受但不再生效，依赖 LSP 诊断的工作流换成项目自带的 lint / typecheck / 编译命令<br>
+• <strong>转完别喂回 V1</strong>：V1/V2 用同一套配置路径，一旦转成 V2 原生格式，别再拿 V1 去读<br>
+• <strong>混写有边界</strong>：<code class="notranslate">mcp</code>/<code class="notranslate">compaction</code>/<code class="notranslate">experimental</code>里可以混写，但单个 agent/provider/command/model 内部必须保持一种格式<br>
+• <strong><code class="notranslate">logLevel</code>被忽略</strong>：改用环境变量 <code class="notranslate">OPENCODE_LOG_LEVEL</code><br>
+• <strong><code class="notranslate">autoshare</code>改 <code class="notranslate">share</code></strong>：布尔值变成 <code class="notranslate">"auto"</code>/<code class="notranslate">"disabled"</code>三态<br>
+• <strong>命令改名</strong>：别再用 <code class="notranslate">subtask</code>，已改名 <code class="notranslate">subagent</code>（旧名字仍接受，但那是兼容遗留）</p>
+<h2>所以，到底升不升？</h2>
+<p>我的建议按情况分：</p>
+<p>• <strong>主力干活、插件一堆的</strong>：先别急着切。v1 线还在维护，v1.18.31 上周刚发。等插件生态迁移完再动<br>
+• <strong>普通使用、无插件依赖</strong>：可以升了。官方全站切 v2 就是信号，配置还能自动迁移，翻车代价不大<br>
+• <strong>想尝鲜的</strong>：装 v2 前先备份配置（V1/V2 共用配置路径，回退前记得把原生格式配置改回去）</p>
+<p>官网已经替你投好票了——安装入口、文档、GitHub 链接全部切 v2。剩下的只是时间问题。</p>
+<blockquote>
+<p>转正从来不是版本号的事，是你愿不愿意跟着迁移的事。</p>
+</blockquote>
+<p>💬 你升级到 v2 了吗？配置迁移踩到过什么坑？评论区聊聊，我整理进避坑指南。</p>
+<hr>
+<blockquote>
+<p>如果觉得这篇文章有用，欢迎关注「AI 阿砚」，一个科研爱好者的 AI 探索笔记。</p>
+</blockquote></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
