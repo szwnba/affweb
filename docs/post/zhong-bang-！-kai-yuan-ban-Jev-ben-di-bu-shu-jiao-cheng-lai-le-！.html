@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content=" Datawhale干货 
+
+****开源版Jev：Laya模型****
+
+平时我们搭 Agent 工作流或者客服系统，经常会遇到这类需求：判断用户想干嘛、工单分到哪个部门、该调哪个具体工具。">
+<meta property="og:title" content="重磅！开源版Jev本地部署教程来了！">
+<meta property="og:description" content=" Datawhale干货 
+
+****开源版Jev：Laya模型****
+
+平时我们搭 Agent 工作流或者客服系统，经常会遇到这类需求：判断用户想干嘛、工单分到哪个部门、该调哪个具体工具。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/zhong-bang-%EF%BC%81-kai-yuan-ban-Jev-ben-di-bu-shu-jiao-cheng-lai-le-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>重磅！开源版Jev本地部署教程来了！</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">重磅！开源版Jev本地部署教程来了！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/786" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p> Datawhale干货 </p>
+<p><strong>开源版Jev：Laya模型</strong></p>
+<p>平时我们搭 Agent 工作流或者客服系统，经常会遇到这类需求：判断用户想干嘛、工单分到哪个部门、该调哪个具体工具。这类事情没有开放式创作的要求，可如果每次都扔给几十亿参数的自回归大模型，哪怕只吐一个词，也得干等几百毫秒，输出偶尔还夹带解释废话或者残缺的 JSON。</p>
+<p>前段时间 TypeSafe 推出 Jev 专门做这类判断，单次前向几毫秒就能搞定，但目前只有云端付费 API，权重没有开放。开源社区很快做出了完整复刻，Laya 用 Apache-2.0 协议放出了全部模型权重，可以拉回本地自己跑。</p>
+<p>这篇文章给大家简单介绍 Laya 是什么，然后介绍四步流程把它的部署跑通。指定模型、显存优化、实验仓库这些内容统一放在教程后面，不打断上手过程。文中的延迟和显存数据，都在 aarch64 架构的 GB10 算力卡（20 核 CPU，121 GB 统一内存，PyTorch 2.14.0+cu130）上测出。</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">文中用到的安装命令、最小脚本和全部实测日志都放在这个仓库里，可以直接 clone 下来跟着跑，如果显存不足的读者，想要看看运行结果可以去下面的地址，直接看执行日志，这样就不用下载模型运行了：
+https://github.com/li-xiu-qi/XiaokeAILabs/tree/main/experiments/test_jev_open_source/laya（https://github.com/li-xiu-qi/XiaokeAILabs/tree/main/experiments/test_jev_open_source/laya）</pre></div>
+<p>01</p>
+<p>Laya 是什么</p>
+<p>Laya 做决策，不生成文本。Qwen、Claude、ChatGPT 属于自回归解码器，推理时逐 token 串行生成，哪怕只输出一个类别名称，也得走完整个生成周期。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/77a124399593e5c24fc7bdea066d5285a524d9b0d66abb3c756c7cd22f54894a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a57365339767430635339445061325a53716962456352393572623433634569616270796b7a504869636a50795952624f343536394774663935626d7734774d4c54554e7a4869635766736963424f63317a6369636745383875754f6e4479676e34675657454a393755385758636b5a552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/77a124399593e5c24fc7bdea066d5285a524d9b0d66abb3c756c7cd22f54894a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a57365339767430635339445061325a53716962456352393572623433634569616270796b7a504869636a50795952624f343536394774663935626d7734774d4c54554e7a4869635766736963424f63317a6369636745383875754f6e4479676e34675657454a393755385758636b5a552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zW6S9vt0cS9DPa2ZSqibEcR95rb43cEiabpykzPHicjPyYRbO4569Gtf95bmw4wMLTUNzHicWfsicBOc1zcicgE88uuOnDygn4gVWEJ97U8WXckZU/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>Laya 走的是判别式路线，骨干是 ModernBERT 这类双向编码器。输入文本（State）和待判定的问题（Questions）一起输入到模型，末层直接输出各个选项的概率分布。实测单题前向 p50 在 8.31 毫秒（中文 multilingual 分支）到 16.41 毫秒（英文 english 分支）之间，三套权重全量常驻的 CUDA 占用在 4 到 6 GB，单卡即可承载。</p>
+<p>它不适合写文章或长文本总结，适合意图识别、路由分流、安全护栏这类确定性判定任务，作为大模型的前置组件降低流水线延迟。</p>
+<p>02</p>
+<p>保姆级部署跑通教程</p>
+<p>第一步，环境配置与依赖安装</p>
+<p>跑 Laya 建议准备一张 6 GB 以上显存的显卡，系统内存 16 GB 以上。Linux 和 macOS 都支持（x86_64 与 aarch64 架构均可），Python 要求 3.10 或更高（实测环境为 Python 3.12）。</p>
+<p>建议单独建一个干净的虚拟环境，避免和其他项目的依赖版本冲突。在终端敲下面几行（Windows 把第二行替换成 <code class="notranslate">~/laya-env/Scripts/activate</code>）。</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">python -m venv <span class="pl-k">~</span>/laya-env
+source ~/laya-env/bin/activate
+
+
+pip install laya</pre></div>
+<p>装完看一下版本。</p>
+<div class="highlight highlight-source-nginx"><pre class="notranslate">pip show laya</pre></div>
+<p>版本在 0.3.5 以上即可。国内服务器从 HuggingFace 拉权重时，先配置镜像环境，避免下载卡住。</p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-k">export</span> HF_ENDPOINT<span class="pl-c1">=</span><span class="pl-s1">https</span>:
+<span class="pl-k">export</span> <span class="pl-c1">HF_HUB_DISABLE_XET</span><span class="pl-c1">=</span><span class="pl-c1">1</span></pre></div>
+<p>第二步，权重与自动分流</p>
+<p>官方目前放出三个预训练权重，分工如下。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e0544f7b6898311a663c72dd64915ff7311dc8698c9f8a43a4b8ff0dbaec468/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a57365339767430635369624a7245734e3531307568686469637769613661735a31555177773947553345727053545642564b456a7943334a4f6e5043427531646962464f6e526a663833427951356348717a69627030457251417a41517958476245724c4b7673774e7046665970772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/2e0544f7b6898311a663c72dd64915ff7311dc8698c9f8a43a4b8ff0dbaec468/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a57365339767430635369624a7245734e3531307568686469637769613661735a31555177773947553345727053545642564b456a7943334a4f6e5043427531646962464f6e526a663833427951356348717a69627030457251417a41517958476245724c4b7673774e7046665970772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zW6S9vt0cSibJrEsN510uhhdicwia6asZ1UQww9GU3ErpSTVBVKEjyC3JOnPCBu1dibFOnRjf83ByQ5cHqzibp0ErQAzAQyXGbErLKvswNpFfYpw/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>日常使用不需要手动挑权重。官方封装的 <code class="notranslate">Router</code> 接口会识别输入语种并调度对应分支，输入以中文为主时自动走 <code class="notranslate">laya-multilingual</code>，直接初始化 Router 即可，具体写法就在下一步的脚本里。</p>
+<p>第三步，编写最小运行脚本</p>
+<p>我们先跑一个最简单的验证脚本 <code class="notranslate">test_laya.py</code>，看看它怎么接收输入并给出结果。</p>
+<div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-k">from</span> <span class="pl-s1">laya</span> <span class="pl-k">import</span> <span class="pl-v">Router</span>
+
+<span class="pl-s1">router</span> <span class="pl-c1">=</span> <span class="pl-en">Router</span>(<span class="pl-s1">device</span><span class="pl-c1">=</span><span class="pl-s">"cuda"</span>, <span class="pl-s1">preload</span><span class="pl-c1">=</span><span class="pl-c1">True</span>, <span class="pl-s1">max_loaded</span><span class="pl-c1">=</span><span class="pl-c1">3</span>)
+
+<span class="pl-s1">state</span> <span class="pl-c1">=</span> {
+    <span class="pl-s">"from"</span>: <span class="pl-s">"user@acme.com"</span>,
+    <span class="pl-s">"subject"</span>: <span class="pl-s">"Duplicate charge on invoice #4411"</span>,
+    <span class="pl-s">"body"</span>: <span class="pl-s">"Hi, we were billed twice for March. Please refund the duplicate today or we will cancel your plan."</span>
+}
+
+<span class="pl-s1">questions</span> <span class="pl-c1">=</span> {
+    <span class="pl-s">"department"</span>: {
+        <span class="pl-s">"type"</span>: <span class="pl-s">"choice"</span>,
+        <span class="pl-s">"instructions"</span>: <span class="pl-s">"Which department should handle this request?"</span>,
+        <span class="pl-s">"criteria"</span>: {
+            <span class="pl-s">"billing"</span>: <span class="pl-s">"invoices, payments, refunds"</span>,
+            <span class="pl-s">"technical"</span>: <span class="pl-s">"bugs, outages, system errors"</span>,
+            <span class="pl-s">"sales"</span>: <span class="pl-s">"pricing, new contracts"</span>,
+            <span class="pl-s">"other"</span>: <span class="pl-s">"everything else"</span>
+        }
+    }
+}
+
+<span class="pl-s1">result</span> <span class="pl-c1">=</span> <span class="pl-s1">router</span>.<span class="pl-c1">predict</span>(<span class="pl-s1">state</span>, <span class="pl-s1">questions</span>)
+
+<span class="pl-en">print</span>(<span class="pl-s">"路由到："</span>, <span class="pl-s1">result</span>[<span class="pl-s">"routing"</span>][<span class="pl-s">"model"</span>])
+<span class="pl-k">print</span>(<span class="pl-s">"判定结果："</span>, <span class="pl-s1">result</span>[<span class="pl-s">"answers"</span>][<span class="pl-s">"department"</span>][<span class="pl-s">"choice"</span>],
+      <span class="pl-s">"置信度："</span>, <span class="pl-en">round</span>(<span class="pl-s1">result</span>[<span class="pl-s">"answers"</span>][<span class="pl-s">"department"</span>][<span class="pl-s">"confidence"</span>], <span class="pl-c1">4</span>))</pre></div>
+<p>在终端执行，第一次跑会自动把权重下载到本地缓存。</p>
+<div class="highlight highlight-source-nginx"><pre class="notranslate">python test_laya.py</pre></div>
+<p>第四步，看懂返回结果</p>
+<p>执行完后，<code class="notranslate">result</code> 是一个标准 Python 字典，不需要用正则抠答案，也不用担心 JSON 缺括号。下面是在 GB10 上跑完 <code class="notranslate">test_laya.py</code> 拿到的完整真实返回结构。</p>
+<div class="highlight highlight-source-json"><pre class="notranslate">{
+<span class="pl-ii">  "model": "laya-rl-agent",</span>
+<span class="pl-ii">  "answers": {</span>
+<span class="pl-ii">    "department": {</span>
+<span class="pl-ii">      "type": "choice",</span>
+<span class="pl-ii">      "choice": "billing",</span>
+<span class="pl-ii">      "probabilities": {</span>
+<span class="pl-ii">        "billing": 0.9582,</span>
+<span class="pl-ii">        "technical": 0.017,</span>
+<span class="pl-ii">        "sales": 0.0134,</span>
+<span class="pl-ii">        "other": 0.0114</span>
+<span class="pl-ii">      </span>},
+<span class="pl-ii">      "confidence": 0.8419,</span>
+<span class="pl-ii">      "action": {</span>
+<span class="pl-ii">        "act_probability": 1.0</span>
+<span class="pl-ii">      }</span>
+<span class="pl-ii">    }</span>
+<span class="pl-ii">  },</span>
+<span class="pl-ii">  "usage": {</span>
+<span class="pl-ii">    "input_tokens": 96,</span>
+<span class="pl-ii">    "output_tokens": 0</span>
+<span class="pl-ii">  },</span>
+<span class="pl-ii">  "routing": {</span>
+<span class="pl-ii">    "model": "english",</span>
+<span class="pl-ii">    "repo": "convaiinnovations/laya",</span>
+<span class="pl-ii">    "reason": "English Latin text",</span>
+<span class="pl-ii">    "detection": {</span>
+<span class="pl-ii">      "script": "latin",</span>
+<span class="pl-ii">      "script_profile": {</span>
+<span class="pl-ii">        "latin": 1.0</span>
+<span class="pl-ii">      },</span>
+<span class="pl-ii">      "language": "en",</span>
+<span class="pl-ii">      "is_english": true,</span>
+<span class="pl-ii">      "language_undecided": false,</span>
+<span class="pl-ii">      "diacritic_rate": 0.0,</span>
+<span class="pl-ii">      "non_latin_fraction": 0.0</span>
+<span class="pl-ii">    },</span>
+<span class="pl-ii">    "workflow": null</span>
+<span class="pl-ii">  }</span>
+<span class="pl-ii">}</span></pre></div>
+<p>把这个返回体落到业务代码里，看三个核心字段。</p>
+<p>1. 胜出选项（choice）：直接读 <code class="notranslate">choice</code> 拿到结果 <code class="notranslate">billing</code>。答案里还有一个 <code class="notranslate">action.act_probability</code> 字段，官方在 Honest limits 说明里提过，它目前读出来几乎恒为 1.0，和准确率反向，做门控用 <code class="notranslate">confidence</code>，不要读这个字段。</p>
+<p>2. 置信度与概率分布（probabilities / confidence）：<code class="notranslate">probabilities</code> 给出各个候选标签的概率分布（和为 1），<code class="notranslate">confidence</code> 是校准后的综合置信度。可以按它设流转门槛，得分太低就转人工或者召回大模型兜底。</p>
+<p>3. 路由详情（routing）：<code class="notranslate">routing</code> 记录本次请求走了哪条分支以及判定理由。换成中文输入时，<code class="notranslate">reason</code> 会变成类似 <code class="notranslate">non-Latin script (han, 95% of letters); the English checkpoint cannot read it</code> 的描述（比例随输入的中文占比变化），并自动切到 <code class="notranslate">multilingual</code>。顶层的 <code class="notranslate">model</code> 字段固定显示为 <code class="notranslate">laya-rl-agent</code>，那是底层运行标识，判断实际分支要读 <code class="notranslate">routing.model</code>。</p>
+<p>除了单选题（<code class="notranslate">choice</code>），Laya 还支持打分题（<code class="notranslate">score</code>，输出各档位分布）和是非题（<code class="notranslate">boolean</code>，输出真值概率），在 <code class="notranslate">questions</code> 里改 <code class="notranslate">type</code> 指定。同一个 <code class="notranslate">state</code> 下可以放多个问题，单次前向一起算出。</p>
+<p>03</p>
+<p>指定模型与显存优化</p>
+<p>默认流程跑通之后，如果业务只涉及单一语种，或者显存比较紧张，可以手动指定模型分支。这里集中给出三种方式和它们的实测代价。</p>
+<p>第一种，Agent 直调锁定单个分支，绕过 Router，只加载一套权重。</p>
+<div class="highlight highlight-source-makefile"><pre class="notranslate">from laya import Agent
+
+
+<span class="pl-smi">agent</span> = Agent("convaiinnovations/laya", device="cuda", subfolder="multilingual")
+<span class="pl-smi">result</span> = agent.predict(state, questions)</pre></div>
+<p>第二种和第三种都基于 Router。构造时传 <code class="notranslate">default</code> 设全局兜底，它只在语言检测失效时生效，日常请求仍走自动检测；<code class="notranslate">predict</code> 时传 <code class="notranslate">model</code> 做单次覆盖，优先级最高，语种检测整个跳过。</p>
+<div class="highlight highlight-source-ini"><pre class="notranslate">router = Router(<span class="pl-k">device</span>=<span class="pl-s"><span class="pl-pds">"</span>cuda<span class="pl-pds">"</span></span>, <span class="pl-k">default</span>=<span class="pl-s"><span class="pl-pds">"</span>multilingual<span class="pl-pds">"</span></span>)
+
+
+result = router.predict(state, questions, <span class="pl-k">model</span>=<span class="pl-s"><span class="pl-pds">"</span>multilingual<span class="pl-pds">"</span></span>)</pre></div>
+<p>手动指定拿掉了路由保护，指定错分支的代价会直接体现在置信度上。我们用同一句中文输入把四种模式完整跑了一遍。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/66a9bacea13fec032d7f185d53d4206e4cae2035e6ad1f66ef3ed9adf6a2e0a4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a573653397674306353696268535730765a41534b50326365736e645744786832665a69624e49357669627a585a4269634a387a374b65676e6a4c6b5735696278474e774e4f4677325230745375537969636269614f724e734a326963444d6e684d5657556e4a7163636c7547727a7061504d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/66a9bacea13fec032d7f185d53d4206e4cae2035e6ad1f66ef3ed9adf6a2e0a4/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a573653397674306353696268535730765a41534b50326365736e645744786832665a69624e49357669627a585a4269634a387a374b65676e6a4c6b5735696278474e774e4f4677325230745375537969636269614f724e734a326963444d6e684d5657556e4a7163636c7547727a7061504d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zW6S9vt0cSibhSW0vZASKP2cesndWDxh2fZibNI5vibzXZBicJ8z7KegnjLkW5ibxGNwNOFw2R0tSuSyicbiaOrNsJ2icDMnhMVWUnJqccluGrzpaPM/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>后两行说明问题。同一句中文送给只见过英文的 english 分支，置信度从 1.0 掉到 0.50；送给没做过该场景微调的 typed-decisions 分支，只剩 0.21。中文场景下手动指定分支要用 multilingual，其余情况交给 Router 自动分流。</p>
+<p>三种调用方式的开销对比如下（中文输入，p50）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cdc3efa2356a6002f79d486454baa0ed5c0ac83ec5247f9cb0f32bd625f6d5d5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a573653397674306353384335454b41367269616a724c566f65626961616364454e566270796b7336787058416b4e656e73305238676f32534e316130784b65585376764c714f38436441627667686d4c71623647517862393873454462764b4531386e6b5a4b3845773977382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/cdc3efa2356a6002f79d486454baa0ed5c0ac83ec5247f9cb0f32bd625f6d5d5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a573653397674306353384335454b41367269616a724c566f65626961616364454e566270796b7336787058416b4e656e73305238676f32534e316130784b65585376764c714f38436441627667686d4c71623647517862393873454462764b4531386e6b5a4b3845773977382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zW6S9vt0cS8C5EKA6riajrLVoebiaacdENVbpyks6xpXAkNens0R8go2SN1a0xKeXSvvLqO8CdAbvghmLqb6GQxb98sEDbvKE18nkZK8Ew9w8/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>两个结论。延迟上三者持平，Router 做一次语种判定只多花 0.2 毫秒左右。显存差别大，Router 为了随时切换会把权重留在显存里，实测驻留 4.39 GB；Agent 锁定单分支只占 1.25 GB，单语言业务显存吃紧时用它最省。</p>
+<p>三个权重在 HuggingFace 上的主页如下，参数规模和定位都写在卡片里。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/840040387bd1d340a00fb66d192c39960ca84594b817993c455f52bb2c65335f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a573653397674306353395a69615a79746452706a53687778314b54343839507a4f4f377368514661706e7a314e3161744b75684b564963566c315651714c6f67733866715850383369613644395a69615532334c4f307169634c31474b334c73584c67364f5742696379696162424e4d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/840040387bd1d340a00fb66d192c39960ca84594b817993c455f52bb2c65335f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a573653397674306353395a69615a79746452706a53687778314b54343839507a4f4f377368514661706e7a314e3161744b75684b564963566c315651714c6f67733866715850383369613644395a69615532334c4f307169634c31474b334c73584c67364f5742696379696162424e4d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zW6S9vt0cS9ZiaZytdRpjShwx1KT489PzOO7shQFapnz1N1atKuhKVIcVl1VQqLogs8fqXP83ia6D9ZiaU23LO0qicL1GK3LsXLg6OWBicyiabBNM/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>convaiinnovations/laya 的 HuggingFace 卡片。卡片写明单次前向约 33 毫秒返回带概率的判定结果，且不做文本生成。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f1607b1b86fca05c73c8cadff8efcf11d68023bd7c38bbfa94dd53af7e1c16eb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a573653397674306353386f4a75784f467169626830446962526344374a377a7034666c6c535a6c53336866775769624f6259774f416d4e77346663645434536b75776f72764f4c324d5657486963486a5862473039786a65793376304749696376525750366c71524a4e64454f51382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/f1607b1b86fca05c73c8cadff8efcf11d68023bd7c38bbfa94dd53af7e1c16eb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a573653397674306353386f4a75784f467169626830446962526344374a377a7034666c6c535a6c53336866775769624f6259774f416d4e77346663645434536b75776f72764f4c324d5657486963486a5862473039786a65793376304749696376525750366c71524a4e64454f51382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zW6S9vt0cS8oJuxOFqibh0DibRcD7J7zp4fllSZlS3hfwWibObYwOAmNw4fcdT4SkuworvOL2MVWHicHjXbG09xjey3v0GIicvRWP6lqRJNdEOQ8/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p><code class="notranslate">convaiinnovations/laya-multilingual</code> 的 HuggingFace 卡片。底座换成 mmBERT-base，卡片明确写着除英文之外的场景都用这个权重。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e5e30a269d7ca6e97b384e974ce47a8d9c6e1b489e966132b57cc2936f8ae63/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a573653397674306353696352425035736b69634d32346f4b52566d785270706637704475546962557151325266685a573230797570787a6e315751555577336c62706c754c65415838425343363945726c387769616442634f3368374d51596777696276774b4146544659774e69636f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/9e5e30a269d7ca6e97b384e974ce47a8d9c6e1b489e966132b57cc2936f8ae63/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a573653397674306353696352425035736b69634d32346f4b52566d785270706637704475546962557151325266685a573230797570787a6e315751555577336c62706c754c65415838425343363945726c387769616442634f3368374d51596777696276774b4146544659774e69636f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zW6S9vt0cSicRBP5skicM24oKRVmxRppf7pDuTibUqQ2RfhZW20yupxzn1WQUUw3lbpluLeAX8BSC69Erl8wiadBcO3h7MQYgwibvwKAFTFYwNico/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p><code class="notranslate">convaiinnovations/laya-typed-decisions</code> 的 HuggingFace 卡片。它在主模型基础上针对工作流可观测性、客服、发票处理和安全事件四类场景微调。</p>
+<p>04</p>
+<p>实验仓库与源码</p>
+<p>文中的安装命令、验证脚本和测试过程都收录在开源实验仓库，直接 clone 就能跟着跑，不用逐段复制。</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">git clone https://github.com/li-xiu-qi/XiaokeAILabs.gitcd XiaokeAILabs/experiments/test_jev_open_source/laya</pre></div>
+<p>目录里除了最小脚本 <code class="notranslate">test_laya.py</code>，还有几个专用脚本：<code class="notranslate">laya-verify.py</code> 导出四种题型的完整协议结构，<code class="notranslate">laya-latency.py</code> 记录冷启动、多题合并与显存占用基准，<code class="notranslate">laya-direct.py</code> 和 <code class="notranslate">laya-pin.py</code> 对应上一节的两组实测，<code class="notranslate">laya-zh-en.py</code> 跑 20 组双语平行对照，<code class="notranslate">laya-scale.py</code> 是 1 到 256 题的合并扩展基准，<code class="notranslate">laya-common.py</code> 是模型架构与置信度算法的本地复刻。脚本的原始终端输出都在 <code class="notranslate">docs/logs/</code> 下，文中每个数字都能回溯到日志。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/57eeefb9072f0e325325b750b98e1671798f29f36fd452d43694f6d66f709e26/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a57365339767430635369626d6d4759704a466d306a59546f4143643936696169616961366a5a6e4a357a6c434d7334666d33474e4d7955777a4b50524d4a515866683469624d6367723867724c516a5a69625a4f717334567846797865483942346a3351765a35554a474e4869616e47592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/57eeefb9072f0e325325b750b98e1671798f29f36fd452d43694f6d66f709e26/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a57365339767430635369626d6d4759704a466d306a59546f4143643936696169616961366a5a6e4a357a6c434d7334666d33474e4d7955777a4b50524d4a515866683469624d6367723867724c516a5a69625a4f717334567846797865483942346a3351765a35554a474e4869616e47592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zW6S9vt0cSibmmGYpJFm0jYToACd96iaiaia6jZnJ5zlCMs4fm3GNMyUwzKPRMJQXfh4ibMcgr8grLQjZibZOqs4VxFyxeH9B4j3QvZ5UJGNHianGY/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>不想 clone 整个仓库、只想跑最小脚本的，可以直接打开单文件页面复制。</p>
+<div class="highlight highlight-source-shell"><pre class="notranslate">https://github.com/li-xiu-qi/XiaokeAILabs/blob/main/experiments/test_jev_open_source/laya/test_laya.py（https://github.com/li-xiu-qi/XiaokeAILabs/blob/main/experiments/test_jev_open_source/laya/test_laya.py</pre></div>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d09e4a0fd1ff6da471cf5bc05e515f682f2ff8408c6ffd9af81dd348d52a607/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a5736533976743063536963735545644d3356704f5044556b69637157524f7a4d497549546963484954577a456157635152656346557434354530506d557a38797135765230644c3238474c61347733476a797a437a3462777453396e6837786b487a36467976516a4869636351592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/2d09e4a0fd1ff6da471cf5bc05e515f682f2ff8408c6ffd9af81dd348d52a607/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a5736533976743063536963735545644d3356704f5044556b69637157524f7a4d497549546963484954577a456157635152656346557434354530506d557a38797135765230644c3238474c61347733476a797a437a3462777453396e6837786b487a36467976516a4869636351592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zW6S9vt0cSicsUEdM3VpOPDUkicqWROzMIuITicHITWzEaWcQRecFUt45E0PmUz8yq5vR0dL28GLa4w3GjyzCz4bwtS9nh7xkHz6FyvQjHiccQY/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>05</p>
+<p>中文场景的注意事项</p>
+<p>整理中文测试集并做中英双语对照时，有四点经验可以在落地时参考。</p>
+<p>1. 分类准确度基本过关：客服场景的 20 组中英双语平行测试中，多语言版本的中文分类准确率为 95%，和英文主模型持平，日常工单分发能够胜任。</p>
+<p>2. 多语言版本置信度容易偏高：实测中文样本的平均置信度为 0.866，高于英文样本的 0.506，个别分类错误的样本也给出 0.90 以上的高分。设计自动放行逻辑时，中文场景的拦截阈值建议提到 0.95 以上。</p>
+<p>3. 是非题建议改成单选题：当前版本的 <code class="notranslate">boolean</code> 题型处理中文时，概率值会向中间压缩，容易漏判。二元判定需求可以直接定义成提供正反两个选项的单选题（<code class="notranslate">choice</code>），判定更稳健。</p>
+<p>4. 服务启动后先预热：模型刚载入显存后的第一次前向受底层 CUDA 初始化影响，首条耗时可能达到 1.9 秒。业务接流量前先传一条测试文本空跑，后续请求就进入毫秒级。</p>
+<p>06</p>
+<p>写在最后</p>
+<p>搭 Agent 流水线时，不是每个节点都需要自回归大模型。意图分类、参数分流、输入合规这类标准明确的判断，交给判别式轻量模型，可以把局部响应压到十几毫秒，也能省下 Token 开销。先把环境搭好、最小脚本跑通，再回头看它和大模型的分工边界，会清楚很多。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d386483ad70c4e8bd13e45d47b182fd1f46614311021727aef5b868dd09eab15/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7649396e596539346673477875335035596962544f3839396f6b5330583957614c6d51437469613455384575317857437a397438517471395048365431625463786962696143496b477a41787065526b524659716962566d7753772f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d7765627023696d67496e6465783d3230"><img src="https://camo.githubusercontent.com/d386483ad70c4e8bd13e45d47b182fd1f46614311021727aef5b868dd09eab15/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7649396e596539346673477875335035596962544f3839396f6b5330583957614c6d51437469613455384575317857437a397438517471395048365431625463786962696143496b477a41787065526b524659716962566d7753772f3634303f77785f666d743d6f7468657226777866726f6d3d352677785f6c617a793d312677785f636f3d312674703d7765627023696d67496e6465783d3230" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/vI9nYe94fsGxu3P5YibTO899okS0X9WaLmQCtia4U8Eu1xWCz9t8Qtq9PH6T1bTcxibiaCIkGzAxpeRkRFYqibVmwSw/640?wx_fmt=other&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1&amp;tp=webp#imgIndex=20" style="max-width: 100%;"></a></p>
+<p><strong>一起“点****赞”****三连↓</strong></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
