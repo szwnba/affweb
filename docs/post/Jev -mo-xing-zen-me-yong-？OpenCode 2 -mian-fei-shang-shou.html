@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/mmbiz_png/oERWrZhYomozAurYm2TsIXPZibXR1u8EjsMkejkvmnArJb1Jy65xaBYzL8lhpibS4QaUd6j3EBQrKSicCO82fl6otlTFP4UtbicNEaS5dQq2yQc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+上周朋友圈被一个叫 Jev 的模型刷屏了，说它比大模型快两个数量级，还不会幻觉。">
+<meta property="og:title" content="Jev 模型怎么用？OpenCode 2 免费上手">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/mmbiz_png/oERWrZhYomozAurYm2TsIXPZibXR1u8EjsMkejkvmnArJb1Jy65xaBYzL8lhpibS4QaUd6j3EBQrKSicCO82fl6otlTFP4UtbicNEaS5dQq2yQc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+上周朋友圈被一个叫 Jev 的模型刷屏了，说它比大模型快两个数量级，还不会幻觉。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Jev%20-mo-xing-zen-me-yong-%EF%BC%9FOpenCode%202%20-mian-fei-shang-shou.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Jev 模型怎么用？OpenCode 2 免费上手</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Jev 模型怎么用？OpenCode 2 免费上手</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/789" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dc1080929f0428f8d46319fd4f78d73621e1e9c72dc0238ede6c990aa6604922/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d6f7a417572596d3254734958505a69625852317538456a734d6b656a6b766d6e41724a62314a793635786142597a4c386c68706962533451615564366a33454251724b536963434f3832666c366f746c5446503455746269634e45615335645171327951632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/dc1080929f0428f8d46319fd4f78d73621e1e9c72dc0238ede6c990aa6604922/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d6f7a417572596d3254734958505a69625852317538456a734d6b656a6b766d6e41724a62314a793635786142597a4c386c68706962533451615564366a33454251724b536963434f3832666c366f746c5446503455746269634e45615335645171327951632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/oERWrZhYomozAurYm2TsIXPZibXR1u8EjsMkejkvmnArJb1Jy65xaBYzL8lhpibS4QaUd6j3EBQrKSicCO82fl6otlTFP4UtbicNEaS5dQq2yQc/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>上周朋友圈被一个叫 Jev 的模型刷屏了，说它比大模型快两个数量级，还不会幻觉。我兴冲冲打开 OpenCode 想试试，结果在模型列表里翻了两遍——没有。</p>
+<p>后来查了一圈才明白：Jev 是 <strong>9 月 15 号才发布</strong>的模型，我用的 OpenCode v1 内置列表还没跟上它；而且它压根不是拿来聊天的，是拿来<strong>做决定的</strong>。想用上它，得装 OpenCode 2。</p>
+<p>装完顺手把 OpenCode 2 的免费模型清单也翻了个底朝天——这一翻，还真翻出点东西。</p>
+<h2>先搞清楚：Jev 不是聊天机器人</h2>
+<p>Jev 是 TypeSafe AI 出的第一款 <strong>System One 决策模型</strong>，官方藏了两年才放出来。它的核心特点一句话就能说清：<strong>不生成任何文本，只回答结构化问题</strong>。</p>
+<p>你给它一个场景 + 几个问题，它返回的是答案本身，还附赠一个「这个答案我有多确定」的概率。官方说它比传统 LLM 快<strong>两个数量级</strong>——因为不吐字，只算数，速度自然不是一个量级。</p>
+<p>那「不会幻觉」怎么说？传统大模型答非所问，是因为它肚子里有一整套「编故事」的机制；Jev 的输出被限制在几个格式里，想编也没有出口。所以官方敢说它 <strong>"can't hallucinate"</strong>——不是不容易幻觉，是结构上就幻觉不了。</p>
+<p>它的「语言」只有三种，官方叫三原语：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/86390cb86a548935cd6600991677259b909677f5ee4ff2af31a84d9addcfc89d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f455257725a68596f6d706962384250724e304e6735746c58384869636961546349647750696138357a436b7847676456714b6b426d3762486252336e6643464a61676669616b537377786c514969626e4c68567469624731757233446c5764786f4359795839656e766f327961336a6961342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/86390cb86a548935cd6600991677259b909677f5ee4ff2af31a84d9addcfc89d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6f455257725a68596f6d706962384250724e304e6735746c58384869636961546349647750696138357a436b7847676456714b6b426d3762486252336e6643464a61676669616b537377786c514969626e4c68567469624731757233446c5764786f4359795839656e766f327961336a6961342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/oERWrZhYompib8BPrN0Ng5tlX8HiciaTcIdwPia85zCkxGgdVqKkBm7bHbR3nfCFJagfiakSswxlQIibnLhVtibG1ur3DlWdxoCYyX9envo2ya3jia4/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>• <strong>noul（是/否）</strong>：返回 0 到 1 的概率。比如「这笔订单需要人工审核吗？」→ 0.87，意思是 87% 需要。<br>
+• <strong>choice（多选一）</strong>：最多 255 个选项，返回选了哪个 + 每个选项的概率分布。比如「这个 bug 派给哪个团队？」→ 前端 62%、后端 21%、API 12%。<br>
+• <strong>score（打分）</strong>：2 到 10 级有序等级，返回概率加权后的位置，可以落在两个等级中间。比如「这段代码可维护性几分？」→ 6.4 分。</p>
+<h2>为什么需要这么个「不说话的 AI」</h2>
+<p>你可能觉得奇怪：让 AI 做决定，直接用大模型不就行了？还别说，真不是一回事。</p>
+<p>传统做法是：写一大段提示词，让大模型输出一坨 JSON，再写代码去解析、校验、兜底。费 token 不说，最大的坑是格式随缘——今天给你 `{"level": "high"}`，明天给你 `"答案是 high，因为你描述的情况看起来比较严重"`。解析代码写得再稳，也架不住模型哪天心情不好。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7cb25e97e7cbbea8501fdb97a6f6f84ca62c381fdf9da6e5c05be60cf0a95cf5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d7046666a545169614a325969634446397337363836424562476a367263484b63504f505063794570414d71306d4e6a78657750394973635669617637706838325236674d354836416741696363543138523054696369617a626a317a674d46645569634f6a39466b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/7cb25e97e7cbbea8501fdb97a6f6f84ca62c381fdf9da6e5c05be60cf0a95cf5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d7046666a545169614a325969634446397337363836424562476a367263484b63504f505063794570414d71306d4e6a78657750394973635669617637706838325236674d354836416741696363543138523054696369617a626a317a674d46645569634f6a39466b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/oERWrZhYompFfjTQiaJ2YicDF9s7686BEbGj6rcHKcPOPPcyEpAMq0mNjxewP9IscViav7ph82R6gM5H6AgAiccT18R0Ticiazbj1zgMFdUicOj9Fk/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>Jev 把「生成内容」和「做决定」拆开了：做决定的事交给它，概率清清楚楚，结构永远不变；要解释、要润色、要写代码，再交给大模型。各干各的活，都不拧巴。</p>
+<p>适合它的场景都是「要拍板」的活：工单自动分类、内容安全拦截、代码评审预筛、A/B 实验分流……本质上是把过去用 if-else 写死、或用大模型猜的规则，换成一个又快又稳的决策器。</p>
+<h2>怎么在 OpenCode 2 里免费用到 Jev</h2>
+<p>先说前提：Jev 走的是独立的 <strong>systemone 端点</strong>，不是普通对话接口，所以老版本 OpenCode 的模型列表里看不到它——我开头找了两遍没找着，就是这个原因。要解锁它，两条路：装 OpenCode 2，或者直接在命令行里调用 Zen 的 systemone 接口。</p>
+<p>OpenCode 2 上周刚转正（怎么迁我上一篇写过，这里不啰嗦），装它一步到位：</p>
+<p># 任选一条<br>
+npm install -g @opencode/cli<br>
+curl -fsSL <a href="https://opencode.ai/v2/install" rel="nofollow">https://opencode.ai/v2/install</a> | bash</p>
+<p>装完去 <strong>opencode.ai/console</strong>登录，生成一个 Zen API key。接下来就能直接调 Jev 了。下面是个工单路由的完整例子——判断一条工单是否紧急，再决定派给哪个团队：</p>
+<p>curl <a href="https://opencode.ai/zen/v1/systemone" rel="nofollow">https://opencode.ai/zen/v1/systemone</a> \<br>
+  -H "Authorization: Bearer $OPENCODE_KEY" \<br>
+  -d '{<br>
+    "model": "jev-1.13-free",<br>
+    "state": { "title": "用户登录后白屏", "location": "frontend" },<br>
+    "questions": [<br>
+      { "id": "q1", "type": "noul",<br>
+        "question": "该问题是否紧急？" },<br>
+      { "id": "q2", "type": "choice",<br>
+        "question": "该派给哪个团队？",<br>
+        "options": ["前端", "后端", "API", "其他"] }<br>
+    ]<br>
+  }'</p>
+<p>返回（结构示意，字段以官方文档为准）：</p>
+<p>{<br>
+  "answers": [<br>
+    { "id": "q1", "type": "noul", "answer": 0.87, "confidence": 0.95 },<br>
+    { "id": "q2", "type": "choice", "answer": "前端",<br>
+      "all_probs": { "前端": 0.62, "后端": 0.21,<br>
+        "API": 0.12, "其他": 0.05 } }<br>
+  ]<br>
+}</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8a575e25a99fa7bcdb3f833cd56029c51290fae191550cf67df1710ba098fbe1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d6f354553624241324c4d64456a6b32705a337750343841794d47346e64754b3573504b5559334369614c49796a5973395932433956587241754a703141646d49794b4d5a7853643941517948346e436c69635a715369636962536e75777a614642704f54552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/8a575e25a99fa7bcdb3f833cd56029c51290fae191550cf67df1710ba098fbe1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d6f354553624241324c4d64456a6b32705a337750343841794d47346e64754b3573504b5559334369614c49796a5973395932433956587241754a703141646d49794b4d5a7853643941517948346e436c69635a715369636962536e75777a614642704f54552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/oERWrZhYomo5ESbBA2LMdEjk2pZ3wP48AyMG4nduK5sPKUY3CiaLIyjYs9Y2C9VXrAuJp1AdmIyKMZxSd9AQyH4nClicZqSicibSnuwzaFBpOTU/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>两个问题一起问，一个来回就出结果——<strong>同一个上下文里的问题，Jev 是并行评估的</strong>，官方说「几百个问题和一个问题耗时差不多」。这才是它快得离谱的真相。</p>
+<p>想要更省事，可以把 Jev 直接接进编程工作流——TypeSafe 官方出了个 skills 技能包，装进 OpenCode / Claude Code 这类工具后，直接用 /typesafe-ai 就能让 agent 在流程里调用 Jev 做决策：</p>
+<p>npx skills add typesafe-ai/skills --skill typesafe-ai -g<br>
+# 然后在对话里：/typesafe-ai 帮我决定这个 bug 要不要阻塞发布</p>
+<h2>用 Jev 的四个坑</h2>
+<p>这模型好是好，但它有自己的脾气，不摸清楚会翻车。</p>
+<p>一是 <strong>noul 的 0.5 不是「也许」，是「我不知道」</strong>。官方文档明确说过：0.5 表示模型没有足够信息，不是模棱两可。你把 0.5 当中间值去做阈值判断，等于让一个「没看懂」的模型替你拍板。</p>
+<p>二是 <strong>choice 的概率加起来必然等于 1</strong>，所以一定要留一个「其他」选项当逃生舱。不然 Jev 只能在你给的几个选项里硬选，哪怕它觉得都不对。</p>
+<p>三是 <strong>score 是有序等级，不是精确数值</strong>。6.4 分和 6.6 分没有意义差别，别拿打分结果去做加减乘除——官方自己都强调，score 只能比大小，不能当度量。</p>
+<p>四是 <strong>同一个问题，换一种原语问，答案可能直接打架</strong>。官方文档里就放过这种翻车案例：同一件事用 noul 问和用 choice 问，结论完全相反。所以别拿单次结果当真理，关键决策要么多问几个角度，要么人再过一道。</p>
+<p>另外记住：<strong>jev-1.13-free 是限时免费</strong>（官方标注 limited time），跟 OpenCode 里其他免费模型一样，说不准哪天就下班了。白嫖要趁早，重要流程别绑死它。</p>
+<h2>顺手盘点：OpenCode 2 的免费模型全家桶</h2>
+<p>既然装了 v2，顺便把它的免费模型清单翻了——目前官方页面列出 <strong>9 个免费模型</strong>，8 个是拿来写代码/对话的，1 个就是 Jev（决策专用）：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/68de7a03b076bf934b3a0efd718c9bd9e2df4059433adbc06d0addd6fcd8e8bb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d70786270554b45446a5566336442626a4c494d537a5430646a43447a4c5a6f7a6f4469634d3432554e7733634262365674386a5a766963504a64637474696269634a706d315152514c6f4d3651784e5273386b3566635568427942464a5469626751766862412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/68de7a03b076bf934b3a0efd718c9bd9e2df4059433adbc06d0addd6fcd8e8bb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6f455257725a68596f6d70786270554b45446a5566336442626a4c494d537a5430646a43447a4c5a6f7a6f4469634d3432554e7733634262365674386a5a766963504a64637474696269634a706d315152514c6f4d3651784e5273386b3566635568427942464a5469626751766862412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/oERWrZhYompxbpUKEDjUf3dBbjLIMSzT0djCDzLZozoDicM42UNw3cBb6Vt8jZvicPJdcttibicJpm1QRQLoM6QxNRs8k5fcUhByBFJTibgQvhbA/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>• <strong>Big Pickle</strong>——OpenCode 自家主力，日常写代码最稳的选择<br>
+• <strong>Space Bunny Free</strong>——另一个自家模型，官方标注零保留策略（数据不留存）<br>
+• <strong>MiMo-V2.6-Flash Free / MiMo-V2.5 Free</strong>——小米家的开源模型<br>
+• <strong>Ling 3.0 Flash Fin Free</strong>——阶跃星辰，长上下文场景好用<br>
+• <strong>Nemotron 3 Ultra Free / Nemotron 3.5 Lightning Free</strong>——NVIDIA 家的开源模型<br>
+• <strong>Muse Spark 1.3 Contributor Free</strong>——Meta 出品，写代码表现不错<br>
+• <strong>Jev 1.13 Free</strong>——TypeSafe 决策模型，本文主角，不能聊天，只做决定</p>
+<p>搭配思路很简单：<strong>写代码用 Big Pickle，长文档用 Ling/Nemotron，要拍板的事丢给 Jev</strong>——三个活儿三种模型，一分钱不花。</p>
+<p>最后说句实在的：Jev 不是来替代大模型的，它是来「分活」的。以前让 AI 干活，全靠一张嘴说；现在有了专门「拍板」的模型，AI 编程这件事开始分角色了——<strong>这比多一个会聊天的模型有意思多了</strong>。</p>
+<blockquote>
+<p>让 AI 写代码已经不难了，难的是让它在关键时刻敢拍板。Jev 补上的，正是这一块。</p>
+</blockquote>
+<p>💬 如果你要用 Jev 帮你做决定，你会先拿它来分什么？评论区和我说说。</p>
+<hr>
+<blockquote>
+<p>如果觉得这篇文章有用，欢迎关注「AI 阿砚」，一个科研爱好者的 AI 探索笔记。</p>
+</blockquote></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
