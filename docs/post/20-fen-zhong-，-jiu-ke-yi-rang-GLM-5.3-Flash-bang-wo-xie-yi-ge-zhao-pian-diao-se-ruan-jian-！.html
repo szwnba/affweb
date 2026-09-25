@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="我每次写拆解文章，拍的照片都是好几个G的RAW格式的照片，然后每次使用LightRoom进行调色、输出，这个时间大概在半个小时左右。">
+<meta property="og:title" content="20分钟，就可以让GLM-5.3-Flash帮我写一个照片调色软件！">
+<meta property="og:description" content="我每次写拆解文章，拍的照片都是好几个G的RAW格式的照片，然后每次使用LightRoom进行调色、输出，这个时间大概在半个小时左右。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/20-fen-zhong-%EF%BC%8C-jiu-ke-yi-rang-GLM-5.3-Flash-bang-wo-xie-yi-ge-zhao-pian-diao-se-ruan-jian-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>20分钟，就可以让GLM-5.3-Flash帮我写一个照片调色软件！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">20分钟，就可以让GLM-5.3-Flash帮我写一个照片调色软件！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/791" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>我每次写拆解文章，拍的照片都是好几个G的RAW格式的照片，然后每次使用LightRoom进行调色、输出，这个时间大概在半个小时左右。但是其实每次的工作流都是固定的：</p>
+<p>1、把照片从相机存储卡传输到电脑上；</p>
+<p>2、打开Light Room，然后导入照片；</p>
+<p>3、调色；</p>
+<p>4、渲染输出；</p>
+<p>今天早上突然想到，我每次的操作，包括调色手法都是基本一致的，那能不能让AI帮我干这事？于是有了下面的对话：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7be01c161c5f0e330eea4dacd70872001c7c845caf9c5c4bd625edc8f1657d98/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f514557417a36666963434362496e46636a337753746e4236444c703169637377733634626961785175696336345257627968635156304858476c525479315865735372456a684e714e6769616a794f4e45333773657a6963566c696248533348705a5958755351512f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/7be01c161c5f0e330eea4dacd70872001c7c845caf9c5c4bd625edc8f1657d98/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f514557417a36666963434362496e46636a337753746e4236444c703169637377733634626961785175696336345257627968635156304858476c525479315865735372456a684e714e6769616a794f4e45333773657a6963566c696248533348705a5958755351512f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ny7gib3BrpOQEWAz6ficCCbInFcj3wStnB6DLp1icsws64biaxQuic64RWbyhcQV0HXGlRTy1XesSrEjhNqNgiajyONE37sezicVlibHS3HpZYXuSQQ/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>AI接受到方案之后提出了两条选择。我作为伟大的软件产品经理，给它指明了更好的方向：Python加rawpy解码RAW，再把我的调色参数复刻成代码，最后打包成exe。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a14e145ff8895e6639252326d3dd1e284ad83059dcb9a040da50b8659115543e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6e7937676962334272704f544e6f727063575346313974674f30466435576263644c5856466a6b45793563414e3150354f575574487a435975494c446c4f334d3542344a78495a783554724f6e713749744a7a4b6f36434b484466765357536a7755443041796c6471397a632f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/a14e145ff8895e6639252326d3dd1e284ad83059dcb9a040da50b8659115543e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6e7937676962334272704f544e6f727063575346313974674f30466435576263644c5856466a6b45793563414e3150354f575574487a435975494c446c4f334d3542344a78495a783554724f6e713749744a7a4b6f36434b484466765357536a7755443041796c6471397a632f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/ny7gib3BrpOTNorpcWSF19tgO0Fd5WbcdLXVFjkEy5cAN1P5OWUtHzCYuILDlO3M5B4JxIZx5TrOnq7ItJzKo6CKHDfvSWSjwUD0Ayldq9zc/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>为了让它知道什么样的调色比较好，我作为伟大的设计师给它打了个样。左边原图直出，灰蒙蒙一片；右边一键出片，橙色外壳和蓝色EC5插头都从背景里跳出来了。我把这两天张图喂给它，让它分析调色参数并记录在案。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/702d246d57b672a5481956a9e8e551a8b42871510bda57c1c36228aa9761ed3a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6e7937676962334272704f5161674f526f476b344e69633875306171384c41595746506a776962656d714735324b585868436962696373656a6631307669636962704637504558725a7368755366734f645964346a387567454d7230316332543467636d385169634e4d4c6b50686b4869616962632f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/702d246d57b672a5481956a9e8e551a8b42871510bda57c1c36228aa9761ed3a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f6e7937676962334272704f5161674f526f476b344e69633875306171384c41595746506a776962656d714735324b585868436962696373656a6631307669636962704637504558725a7368755366734f645964346a387567454d7230316332543467636d385169634e4d4c6b50686b4869616962632f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/ny7gib3BrpOQagORoGk4Nic8u0aq8LAYWFPjwibemqG52KXXhCibicsejf10vicibpF7PEXrZshuSfsOdYd4j8ugEMr01c2T4gcm8QicNMLkPhkHiaibc/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>这是它工作过程中出来的数据曲线。拿同一张照片的LRC成片和代码直出片，一个通道一个通道做分位数匹配，拟合出整条映射曲线。做完一比对：对比度66.0对66.1，中灰126对128——差出去的那点，肉眼分不出来。</p>
+<p>反推还揪出一个反常识的真相：R、G、B三个通道的增益几乎一样，都是×1.21。也就是说，这套调色从头到尾没拉过色温，全片的暖调是"暖阴影"给的——阴影里蓝色被压得比红色狠。就这一个发现，二十分钟已经值回来了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e06228c80b608e5130909640186bccfdb5a69d19b5bfeb5023d7c4a0cc9d4f3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f5455335259425a704768506242367670785a754d6737726f6232527a3731544f4e486744556d574431384f4b317231696362727a786c33576638586578624b735635376962776d69616e4c424e52433034707142724244463172696331746962595778696253492f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/9e06228c80b608e5130909640186bccfdb5a69d19b5bfeb5023d7c4a0cc9d4f3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f5455335259425a704768506242367670785a754d6737726f6232527a3731544f4e486744556d574431384f4b317231696362727a786c33576638586578624b735635376962776d69616e4c424e52433034707142724244463172696331746962595778696253492f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ny7gib3BrpOTU3RYBZpGhPbB6vpxZuMg7rob2Rz71TONHgDUmWD18OK1r1icbrzxl3Wf8XexbKsV57ibwmianLBNRC04pqBrBDF1ric1tibYWxibSI/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>最终它做出了我想要的软件，界面就长这样，没有一行让人头皮发麻的命令行。照片文件夹、输出目录、三个风格单选，点开始就行。风格选第一个，会自动读取批次标定文件——把我LRC手调的风格整个复刻过去。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bafeabcb130e595332e8f234ca653f9f602756a7c619e5c8c1fdb244877e5288/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f5433475937654376774a77766f57637646686d656c6a3138497449484854313769626c46776e6143596242433155745644576c37574b6961656b5a74735464556961416d4c546a39756961524b5939566b316d49376d4c4c7a6961614a4251344958586963464d2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/bafeabcb130e595332e8f234ca653f9f602756a7c619e5c8c1fdb244877e5288/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f5433475937654376774a77766f57637646686d656c6a3138497449484854313769626c46776e6143596242433155745644576c37574b6961656b5a74735464556961416d4c546a39756961524b5939566b316d49376d4c4c7a6961614a4251344958586963464d2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ny7gib3BrpOT3GY7eCvwJwvoWcvFhmelj18ItIHHT17iblFwnaCYbBC1UtVDWl7WKiaekZtsTdUiaAmLTj9uiaRKY9Vk1mI7mLLziaaJBQ4IXXicFM/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>67张RAW，14.5分钟跑完，全程没人盯，张张都是7028×4688的全尺寸JPEG。我自己调色加导出大概需要20分钟，相当于它花了14.5分钟，帮我节省了20分钟摸鱼时间。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/383f89b222fdb754d87f83a2e97a9e2dc8dc5fa89cb93ce31ebd997ffb02edfe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f5338436767613451353945644a44364532454f634f655037436f6432794c5a706961313962486e4372326851646b396830574146446b6c6f476b516963636c6c455974433574763274356d6c416377525678736e394b65305862774a36736b416333492f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/383f89b222fdb754d87f83a2e97a9e2dc8dc5fa89cb93ce31ebd997ffb02edfe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f5338436767613451353945644a44364532454f634f655037436f6432794c5a706961313962486e4372326851646b396830574146446b6c6f476b516963636c6c455974433574763274356d6c416377525678736e394b65305862774a36736b416333492f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ny7gib3BrpOS8Cgga4Q59EdJD6E2EOcOeP7Cod2yLZpia19bHnCr2hQdk9h0WAFDkloGkQiccllEYtC5tv2t5mlAcwRVxsn9Ke0XbwJ6skAc3I/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>整个软件算是刚出生就上岗了。我手动测试了一下，137张RAW，把文件夹拖进exe选好就开跑——这张118/137的进度条截图，是我按下开始之后顺手截的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1bb5fa3d07a10d1464e9113db91494384b1e7c20495c2dfd22007f02a5183d20/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f515a6e5144566665356339304e374a4e6548797531614f696369634a5a4a6f72625a4879646d757874715441756d4669626961776b34556c4e516c6453634d42566869616c49356b43426449416963354d5561586962684e764a343267654c5378696149544c6f7a382f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/1bb5fa3d07a10d1464e9113db91494384b1e7c20495c2dfd22007f02a5183d20/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f6e7937676962334272704f515a6e5144566665356339304e374a4e6548797531614f696369634a5a4a6f72625a4879646d757874715441756d4669626961776b34556c4e516c6453634d42566869616c49356b43426449416963354d5561586962684e764a343267654c5378696149544c6f7a382f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ny7gib3BrpOQZnQDVfe5c90N7JNeHyu1aOicicJZJorbZHydmuxtqTAumFibiawk4UlNQldScMBVhialI5kCBdIAic5MUaXibhNvJ42geLSxiaITLoz8/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>跑完的137张拼一屏，风格整整齐齐。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fbb3b8281b2a1708133beaa71e8cf5e1f9852e799bf7874a8ddd9dc104828f5f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6e7937676962334272704f527a576134373336765036784c6e773754474a3536544f306962397856784c4e516d4f3679743537707274586f754c58513038707349366c4f4b4c696137453679366f38484e7778616d68637a417a3863416241707361436b785a69636e7038566447552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/fbb3b8281b2a1708133beaa71e8cf5e1f9852e799bf7874a8ddd9dc104828f5f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6e7937676962334272704f527a576134373336765036784c6e773754474a3536544f306962397856784c4e516d4f3679743537707274586f754c58513038707349366c4f4b4c696137453679366f38484e7778616d68637a417a3863416241707361436b785a69636e7038566447552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/ny7gib3BrpORzWa4736vP6xLnw7TGJ56TO0ib9xVxLNQmO6yt57prtXouLXQ08psI6lOKLia7E6y6o8HNwxamhczAz8cAbApsaCkxZicnp8VdGU/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>最后，我还顺手让它给这个软件搞了个图标。深紫底子配一张迷你色卡，六块颜色正好是这套配方的橙蓝互补。</p>
+<p>后面我打算给这个软件加一些功能，比如输入两个照片让它出lut，并把这个lut记录在下拉菜单中可以自由选择，这样就能更轻松的出片了。</p>
+<p>AI最牛逼的功能就是写代码，现在就是一旦有需求先让它给你写个软件，基本上简单的软件10-20分钟搞定，复杂的软件一两个小时搞定。最重要的是，写好的软件用起来不会再花费任何Tokens（除非是大预言模型类界面软件），相当于用AI做了一个下蛋的母鸡。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
