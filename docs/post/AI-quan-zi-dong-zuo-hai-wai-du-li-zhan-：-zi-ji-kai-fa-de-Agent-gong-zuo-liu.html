@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="我做网站、做 SEO 很多年了。">
+<meta property="og:title" content="AI全自动做海外独立站：自己开发的Agent工作流">
+<meta property="og:description" content="我做网站、做 SEO 很多年了。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/AI-quan-zi-dong-zuo-hai-wai-du-li-zhan-%EF%BC%9A-zi-ji-kai-fa-de-Agent-gong-zuo-liu.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>AI全自动做海外独立站：自己开发的Agent工作流</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">AI全自动做海外独立站：自己开发的Agent工作流</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/794" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>我做网站、做 SEO 很多年了。</p>
+<p>以前做一个英文独立站，真正麻烦的从来不是买域名、装 WordPress。麻烦的是后面那一整条链：建站、英文内容、SEO、更新、数据分析、内链、变现，任何一环掉了，前面的投入都可能白费。</p>
+<p>所以过去真正把一个站长期做起来，往往得几个人配合。网站开发、英文编辑、SEO、运营，这几块基本缺不了。</p>
+<p>这也是为什么过去4个多月，我一直在做一件事：把我这些年做网站、做 SEO、踩过的坑，一点点塞进 AI 里，最后做成一套我自己用的独立站 Agent。</p>
+<p>这4个多月里，Claude 订阅和相关费用我前前后后花了6000美元。现在这套工作流里，站长真正需要自己做的，主要就是定方向、做判断、拍板。剩下大部分执行工作，我都在往 Agent 里塞。</p>
+<p>现在这套工作流，已经能自动做这些事</p>
+<p>挖关键词、找选题、采集素材、开发网站、写内容、做内链、定时更新、拉 Google / Bing 数据、给优化建议、接联盟商品。人主要负责：定行业、定网站定位、审页面、定变现方式、做最终判断。</p>
+<p>以前做英文独立站，最贵的不是服务器，是人</p>
+<p>先说内容。</p>
+<p>一个英文内容站想靠 Google、Bing 长期拿流量，不可能只发十几篇文章就不管了。以前如果两年做500篇内容，一篇外包20美元，光稿费就是1万美元。</p>
+<p>更麻烦的是，外包不是交稿就结束。你还得有人审：英文顺不顺，本土化对不对，有没有瞎写，能不能真的解决搜索用户的问题。</p>
+<p>再往后是 SEO。关键词怎么挖、栏目怎么搭、哪些页面该先做、内链怎么放、旧文章什么时候改，这些都很吃经验。</p>
+<p>我自己做了十几年网站以后，越来越确定一件事：真正费钱的不是某一个工具，而是整套执行要靠很多人长期配合。</p>
+<p>所以我先把“方向”留给人，执行交给Agent</p>
+<p>我这套系统第一步不是写文章，也不是建网站。</p>
+<p>第一步永远是站长自己决定：我要做什么行业，这个站给谁看，最后靠什么赚钱。</p>
+<p>这一步我没有交给 AI。因为方向选错了，后面自动化得越快，只会错得越快。</p>
+<p>方向确定以后，才把网站定位告诉 Agent。后面它就会沿着这个定位往下跑。</p>
+<p>第一件自动化的事：把未来3到5年的选题先铺出来</p>
+<p>我把关键词分成三层：主词、副词、长尾词。</p>
+<p>AI 先挖，主词我会人工筛一次，副词和长尾词再继续自动扩。一个站下来，通常会得到上百个主词、副词，再往下扩成几百到几千条具体话题。</p>
+<p>这些词不是拿来存表格的，它们会直接决定以后网站建哪些栏目、哪些支柱页、未来几年不断写哪些话题。</p>
+<p>也就是说，在真正建站之前，这个站未来3到5年的内容地图，已经先铺出来了。</p>
+<p>第二件事：不是让AI凭空写，而是先让它去找素材</p>
+<p>我现在做的核心方向是中国文化出海，所以 Agent 会根据前面筛出来的关键词，到国内平台找原始内容。</p>
+<p>B站这一块可以自动去搜索视频、下载视频、抽字幕、抽关键帧、筛图片、判断内容质量。公众号这块还需要人工处理一部分内容源，但后面的素材整理可以继续交给 Agent。</p>
+<p>我不太喜欢那种给 AI 一个标题，就让它凭空写一篇的做法。先有真实素材，再做整理、重写、本地化，出来的内容质量完全不是一个东西。</p>
+<p>第三件事：网站、主题、插件，都让Agent自己开发</p>
+<p>关键词和素材准备差不多以后，Agent 就开始开发网站。</p>
+<p>底层我还是用 WordPress，但我现在不用第三方主题，也尽量不用第三方插件。主题和需要的功能，直接让 Agent 从0开发。</p>
+<p>我把自己这些年做站积累下来的技术 SEO 标准、页面要求、on-page SEO 规则，全部写进 Agent 的开发标准里。这样以后做新站，不用每次重新想一遍。</p>
+<p>技术和 SEO 规则交给 Agent，审美我自己来决定。每个人喜欢的页面都不一样，这一块我会找自己觉得好看的页面和模块，让 AI 去学。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0f4318a78869b19b4280f025910f23ad74ab37e2685b95f2d648c2c69daa79e6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7945576d726642486d4d36306b67734c64304846506963575476706d777a6f496d44783742577a4a536963426237513650646c5a616f50485a6a67346c4463595843486a3654784b5a3476397166794338503477396654356279354c663752666c4a74556a443667554d4938412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/0f4318a78869b19b4280f025910f23ad74ab37e2685b95f2d648c2c69daa79e6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7945576d726642486d4d36306b67734c64304846506963575476706d777a6f496d44783742577a4a536963426237513650646c5a616f50485a6a67346c4463595843486a3654784b5a3476397166794338503477396654356279354c663752666c4a74556a443667554d4938412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/yEWmrfBHmM60kgsLd0HFPicWTvpmwzoImDx7BWzJSicBb7Q6PdlZaoPHZjg4lDcYXCHj6TxKZ4v9qfyC8P4w9fT5by5Lf7RflJtUjD6gUMI8A/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>▲ 这是我做的中国文化英文站页面之一。页面技术框架和SEO规则交给Agent，具体视觉我自己定方向。</p>
+<p>第四件事：上线以后，Agent继续自己更新</p>
+<p>网站上线之前，我一般会先把首页、几个支柱页、隐私政策、联系我们、关于我们这些基础页面做好，再放十几篇初始内容。</p>
+<p>英文内容这块我现在还是保留了一名英语很强的编辑做审核。原因很简单：内容质量不是一开始就能调到完美，Agent 也要不断靠真实输出继续优化。</p>
+<p>网站正式上线以后，我会给 Agent 设定定时任务。一天更新5篇、10篇都可以，到时间它自己发。</p>
+<p>新文章发布以后，内链它自己处理；旧文章要不要补新内容，它也会随着素材库变大继续回头更新。</p>
+<p>第五件事：自己拉Google、Bing数据，再给我优化方案</p>
+<p>我现在会让 Agent 连接 Google、Bing 站长工具。</p>
+<p>我设的是每周拉一次数据。哪些关键词开始涨、哪些页面掉了、哪些文章曝光多但点击低、哪些旧内容应该更新，它先自己分析。</p>
+<p>分析完以后，它把方案给我。我懂的地方自己判断，不想管的部分也可以继续让它按规则往下执行。</p>
+<p>第六件事：网站变现，也尽量自动化</p>
+<p>我现在做的中国文化出海站，变现方式主要有几种。</p>
+<p>1. 展示广告</p>
+<p>有流量以后申请广告平台，放到网站上，访客进来就能产生广告收入。</p>
+<p>2. 联盟营销</p>
+<p>我只需要把联盟账号 ID 给 Agent，后面的商品查找、链接处理、插入页面，都可以继续往自动化走。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c550cbe282c5e4bc5c4ff02718e05cece6aadbcc5a87cd4c7697659e7251e7e2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7945576d726642486d4d3454793257634a3034515a74315a484b6172457a624d524b4534373567636574523362365a69634c546a6a65414472614967627844315837594f69627446546e575369624d4359744a48436234736747314855683744596b56655351724e33565479746b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/c550cbe282c5e4bc5c4ff02718e05cece6aadbcc5a87cd4c7697659e7251e7e2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7945576d726642486d4d3454793257634a3034515a74315a484b6172457a624d524b4534373567636574523362365a69634c546a6a65414472614967627844315837594f69627446546e575369624d4359744a48436234736747314855683744596b56655351724e33565479746b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/yEWmrfBHmM4Ty2WcJ04QZt1ZHKarEzbMRKE475gcetR3b6ZicLTjjeADraIgbxD1X7YOibtFTnWSibMCYtJHCb4sgG1HUh7DYkVeSQrN3VTytk/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>▲ 我的茶叶站里接入的联盟商品模块，商品和推广链接可以交给Agent持续处理。</p>
+<p>我前段时间这个茶叶站，当天有4个用户点击亚马逊推广链接，出了2单。因为商品当时还没发货，所以佣金还没有最终计算。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4b799ea2f8fe4fd33918ea2001f0bb35ed2225ba35b0c938dd5af162b93c4a2b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7945576d726642486d4d354f666a38557570326f544931574c4a6c5976584b4f4d616f645042525569617659503554565675494b4a566d306c554a6c49616f4b424f4364556542646854543869635a726a6c52706962484f35653565617153696164454263447a6b31546566616961382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/4b799ea2f8fe4fd33918ea2001f0bb35ed2225ba35b0c938dd5af162b93c4a2b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7945576d726642486d4d354f666a38557570326f544931574c4a6c5976584b4f4d616f645042525569617659503554565675494b4a566d306c554a6c49616f4b424f4364556542646854543869635a726a6c52706962484f35653565617153696164454263447a6b31546566616961382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/yEWmrfBHmM5Ofj8Uup2oTI1WLJlYvXKOMaodPBRUiavYP5TVVuIKJVm0lUJlIaoKBOCdUeBdhTT8icZrjlRpibHO5e5eaqSiadEBcDzk1Tefaia8/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>▲ 当时的联盟数据：4次点击、2笔订单，商品尚未发货，所以佣金暂时还没结算。</p>
+<p>3. 数字产品</p>
+<p>清单、电子书、课程、可打印产品，都可以直接放在网站里卖。我这块目前由团队里另外两个人负责开发。</p>
+<p>4. 自己卖实物</p>
+<p>前期我还是更愿意先导到联盟。等流量跑起来，再考虑自己卖实物。我通常只看低成本、小、轻的产品，太重、太贵、物流麻烦的货，我不会优先做。</p>
+<p>5. 品牌合作</p>
+<p>网站有流量以后，品牌方也会主动来找。赞助文章、测评文章、CPS 都可以谈。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8905d9455adbd704ae0a226d343ad162d7984a246bd952b30e31884243635311/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7945576d726642486d4d354c4163667231465848556a30534b4d7937503569636a504f366962705370484457584a4434684d52674153634352454a49444b616a46654e616169625950396e4d5547725969636e4f5a49595856736c3967744c63727057337a58634856364375384c512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/8905d9455adbd704ae0a226d343ad162d7984a246bd952b30e31884243635311/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7945576d726642486d4d354c4163667231465848556a30534b4d7937503569636a504f366962705370484457584a4434684d52674153634352454a49444b616a46654e616169625950396e4d5547725969636e4f5a49595856736c3967744c63727057337a58634856364375384c512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/yEWmrfBHmM5LAcfr1FXHUj0SKMy7P5icjPO6ibpSpHDWXJD4hMRgAScCREJIDKajFeNaaibYP9nMUGrYicnOZIYXVsl9gtLcrpW3zXcHV6Cu8LQ/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>▲ 最近收到的合作咨询之一，对方直接来谈赞助文章、评测、推荐榜单和广告位。</p>
+<p>6. 邮件名单</p>
+<p>国外网站的“私域”主要就是邮箱。用一份用户正需要的资料换邮箱，后面就能不断把人叫回来。</p>
+<p>7. 卖站</p>
+<p>一个已经有稳定流量、收入和内容库的网站，本身就是数字资产。做起来、运营一段时间、再整站出售，也是一条单独的变现路径。</p>
+<p>我现在自己真正需要做的事，其实只剩几件</p>
+<p>把整套流程跑下来以后，我现在真正需要自己做的事情，大概就这些：</p>
+<p>定行业；<br>
+定网站定位；<br>
+审核主关键词和支柱页；<br>
+决定页面长什么样；<br>
+决定网站最终怎么变现；<br>
+看 Agent 给的数据和优化方案，然后拍板。</p>
+<p>剩下大量重复执行的事，我都尽量交给 Agent。</p>
+<p>这也是我这4个多月最想解决的问题：不是让 AI 帮我写几篇文章，而是把我过去十几年的网站运营和 SEO 经验，真正变成一套能持续执行的系统。</p>
+<p>以前我脑子里知道“这个页面该怎么改”“这个词值不值得做”“这篇文章为什么不该发”，这些经验只能靠我自己判断。</p>
+<p>现在我在做的，就是把这些判断一点点拆出来，变成 Agent 可以重复执行的规则。</p>
+<p>所以我现在看 AI 独立站，已经不是“AI 会不会建站”这个层面了。真正让我觉得有意思的是：以前需要一个小团队长期维护的事情，现在能不能被压缩成一个人做判断、一套 Agent 负责执行。</p>
+<hr></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
