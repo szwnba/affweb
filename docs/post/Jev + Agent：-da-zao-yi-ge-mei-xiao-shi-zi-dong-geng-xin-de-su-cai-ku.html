@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="Jev
+
+Hi，我是 Peter。">
+<meta property="og:title" content="Jev + Agent：打造一个每小时自动更新的素材库">
+<meta property="og:description" content="Jev
+
+Hi，我是 Peter。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Jev%20%2B%20Agent%EF%BC%9A-da-zao-yi-ge-mei-xiao-shi-zi-dong-geng-xin-de-su-cai-ku.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Jev + Agent：打造一个每小时自动更新的素材库</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Jev + Agent：打造一个每小时自动更新的素材库</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/792" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>Jev</p>
+<p>Hi，我是 Peter。</p>
+<p>前几天在玩 TypeSafe 刚发的 Jev 模型，有点意思。</p>
+<p>简单说，它是一个不聊天、不写字的模型——只做判断。你给它一张表，它一格一格填好，每格再标个把握。</p>
+<p>快，也便宜，就是只读字不看图。我拿它把平台的素材库过了一遍，把过程和感受写一下。</p>
+<p>01</p>
+<p>什么是 Jev</p>
+<p>9 月 15 日发布，这是 TypeSafe 当时的公告：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6eba46d73dca9e57acbc58a572cec00e8aeaa63fe39ace00057a41642a2ae8cb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6e41657932504454305854484d47526c70696230584c785041343273463942785041516c4f6771337442673045544a4653454c49634966546a497569615257435970546f744d364a4a6d764c6356573142666961446c4858655269626d57436d48723469617534747463636e417652772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/6eba46d73dca9e57acbc58a572cec00e8aeaa63fe39ace00057a41642a2ae8cb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6e41657932504454305854484d47526c70696230584c785041343273463942785041516c4f6771337442673045544a4653454c49634966546a497569615257435970546f744d364a4a6d764c6356573142666961446c4858655269626d57436d48723469617534747463636e417652772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/nAey2PDT0XTHMGRlpib0XLxPA42sF9BxPAQlOgq3tBg0ETJFSELIcIfTjIuiaRWCYpTotM6JJmvLcVW1BfiaDlHXeRibmWCmHr4iau4ttccnAvRw/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>Jev 公告</p>
+<p>无非三件事。</p>
+<p>只做判断</p>
+<p>不聊天，不写一个字。能回的就三种，几选一、打个分、是或否。</p>
+<p>每个判断带把握</p>
+<p>它会告诉你有多确定，拿不准的它自己会标出来。</p>
+<p>快</p>
+<p>一次判断 70 到 500 毫秒，基本是一眼的事。</p>
+<p>价格这块，输入每百万 Token $0.042，输出不收钱。</p>
+<p>便宜，是因为它不写字。同样的量给大模型，光输入就是每百万 $0.20 到 $10，输出一般还要贵好几倍。</p>
+<p>我是 19 号申请的，1 个小时就通过了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5765cc94c27112f2a58dbe91aa007c5b91a770762fe66bce2737a0164f0ef1a1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6e416579325044543058535276763265487963365a355048584a6c696351577a4b58596f727556427046504f6c6c4166316e31443755485839696277715439506b54473135755861794d507153725239727a6778724e696239644f74686f4a46546569636c794d78654b375a51544d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/5765cc94c27112f2a58dbe91aa007c5b91a770762fe66bce2737a0164f0ef1a1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6e416579325044543058535276763265487963365a355048584a6c696351577a4b58596f727556427046504f6c6c4166316e31443755485839696277715439506b54473135755861794d507153725239727a6778724e696239644f74686f4a46546569636c794d78654b375a51544d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/nAey2PDT0XSRvv2eHyc6Z5PHXJlicQWzKXYoruVBpFPOllAf1n1D7UHX9ibwqT9PkTG15uXayMPqSrR9rzgxrNib9dOthoJFTeiclyMxeK7ZQTM/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>申请通过的邮件</p>
+<p>不过 20 号申请入口又关了。想试的圈友，Vercel 的 AI Gateway 上可以玩，Cloudflare 上也能直接调。</p>
+<p>我实测的一轮，400 条素材读了 67.1 万 Token，按标价不到 3 美分。</p>
+<p>02</p>
+<p>我用它做了什么</p>
+<p>我把 RollerAds 的素材库接了出来，一个平台就有 4,000 多条素材。</p>
+<p>如果直接丢给 Agent 整理、分析，四千多条一条条读，又慢又烧 Token。</p>
+<p>所以先让 Jev 过一遍。演示里左边每一格是一条推送广告，读到哪条亮哪条：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/725b55541bfab4a9e23d6137a5eff43b1301c143ad378b0a8c22532cc33f43eb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6e4165793250445430585434614a5267526e6a6e4c42504e7444664347336d57376c5a43336e4b356d715a33567458714369624c4e327638336848347030493841596630704a4870314b564d6b4157374c445a696264686e797a4a696236705669614537644d4e4d44616f304842452f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/725b55541bfab4a9e23d6137a5eff43b1301c143ad378b0a8c22532cc33f43eb/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6769662f6e4165793250445430585434614a5267526e6a6e4c42504e7444664347336d57376c5a43336e4b356d715a33567458714369624c4e327638336848347030493841596630704a4870314b564d6b4157374c445a696264686e797a4a696236705669614537644d4e4d44616f304842452f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_gif/nAey2PDT0XT4aJRgRnjnLBPNtDfCG3mW7lZC3nK5mqZ3VtXqCibLN2v83hH4p0I8AYf0pJHp1KVMkAW7LDZibdhnyzJib6pViaE7dMNMDao0HBE/640?wx_fmt=gif&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>Jev 20.6 秒读完 400 条素材</p>
+<p>每条素材，Jev 要回答 12 个问题，挑几个说。</p>
+<p>•  钩子——走的什么套路</p>
+<p>•  优惠——有没有、给的什么</p>
+<p>•  CTA——让用户干什么</p>
+<p>•  吹得多狠——0 到 2 分</p>
+<p>•  审核风险——会不会被拒</p>
+<p>•  推送适配——适不适合 Push</p>
+<p>400 条，20.6 秒读完，一共 4,800 个判断。照这个速度推，库里 4,107 条全读一遍，三分半左右。</p>
+<p>读完的结果后，每条素材身上多了几个标签，再加上平台原本的 CTR 和曝光：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e0ec14a3bedb1195df7376952b1f910ff1b1b202a259754d8c4574e5522be52/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6e4165793250445430585378486b54417079555249784c31696134316c6961664d524d54754c69635a487749696136773048737a6a4c7275783965634c523749337041307a774f546b30417932644f6e69636e6d784435504c76653869626962744c6f62356c6c706f51726c466963426a6b552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/8e0ec14a3bedb1195df7376952b1f910ff1b1b202a259754d8c4574e5522be52/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6e4165793250445430585378486b54417079555249784c31696134316c6961664d524d54754c69635a487749696136773048737a6a4c7275783965634c523749337041307a774f546b30417932644f6e69636e6d784435504c76653869626962744c6f62356c6c706f51726c466963426a6b552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/nAey2PDT0XSxHkTApyURIxL1ia41liafMRMTuLicZHwIia6w0HszjLrux9ecLR7I3pA0zwOTk0Ay2dOnicnmxD5PLve8ibibtLob5llpoQrlFicBjkU/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>素材库</p>
+<p>拿一条举例。</p>
+<p>#1269 是一条英国的寿险广告，图上就一个问题，你是不是 1946 到 1976 年出生，下面两个按钮 Yes 和 No。</p>
+<p>平台上跑了 42 万多次曝光，CTR 0.93%。Jev 判它好奇型，把握 0.92。</p>
+<p>吹得多狠打了 0.42 分，满分 2。审核风险 0.14，推送适配只有 0.47，Jev 觉得它放在 Push 上一般。</p>
+<p>点开素材，右边就是 Jev 的判读：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9360c8a435e11a6cbf39eb9bbd6cee53b6109c7ecb1b4a9db7a26e588b036914/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6e4165793250445430585469637963567169634e58363031635a50456c4b36776d4d696364633143364f584d7146326246444877374a73485276323839673062784170553335687539666141345a447a365354626350676c596c74516e33696335685466786962516a4f5979665835302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/9360c8a435e11a6cbf39eb9bbd6cee53b6109c7ecb1b4a9db7a26e588b036914/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6e4165793250445430585469637963567169634e58363031635a50456c4b36776d4d696364633143364f584d7146326246444877374a73485276323839673062784170553335687539666141345a447a365354626350676c596c74516e33696335685466786962516a4f5979665835302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/nAey2PDT0XTicycVqicNX601cZPElK6wmMicdc1C6OXMqF2bFDHw7JsHRv289g0bxApU35hu9faA4ZDz6STbcPglYltQn3ic5hTfxibQjOYyfX50/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>#1269 的 Jev 判读</p>
+<p>感受：快。400 条一眼扫完，比丢给 Agent 一条条读爽一截——当然，它只会判断，写东西我们还得靠 Agent。</p>
+<p>03</p>
+<p>交给 Agent</p>
+<p>标签有了，就能按我们的规则排。</p>
+<p>比如 GEO 选肯尼亚，钩子选信息型，风险选低，按平台 CTR 排。四千条一下缩到十几条。</p>
+<p>Jev 拿不准的那些，直接不进。筛出来的这十几条，就是我说的置信样本。</p>
+<p>这时候才轮到 Agent。它拿着这批样本，照着钩子和结构做二创，改出一批新文案，自动批量去测。</p>
+<p>这可能是我想到的形态：Jev 读料和筛料，Agent 管测和二创。</p>
+<p>我们自己在跑的素材，CTR 0.08%。平台库里排前面的，在 2% 上下。</p>
+<p>两边口径不完全一样，但差距摆在那。素材是投流里最大的变量，找、测、改又是最费时间的。</p>
+<p>04</p>
+<p>我的思考</p>
+<p>1. 快和便宜，是我最直观的感受。</p>
+<p>并且我认为最有价值的是：替 Agent 读料。</p>
+<p>素材库先让 Jev 读完、筛好，Agent 拿到的是十几条置信样本，Token 只花在二创和测试上。</p>
+<p>2. 可玩性，投放这块能干的不少。</p>
+<p>素材库打标签，每小时补一轮，新素材进库就带上标签。重复劳动，交给它合适。</p>
+<p>整库读完还能数行情。这 400 条里，钩子将近一半是功能介绍，一半以上根本不提优惠，CTA 最多的是了解和领取。</p>
+<p>这种盘面，一条条翻是翻不出来的。</p>
+<p>Agent 改出来的新文案，上线前也可以先过一遍 Jev，钩子跑偏的直接打回。</p>
+<p>总的来说，先让 Jev 读、再让 Agent 写，方向是对的。投流里素材多、判断多，全丢给大模型，Token 扛不住。</p>
+<p>但现在这个阶段，它更适合打标签、做初筛这种活。它给的是概率，拍板的还是我们。</p>
+<p>总之，Token 烧得心疼的圈友，可以试试让 Jev 先帮你读一遍。</p>
+<p>希望这篇能对你有所启发！</p>
+<p>更多 Affiliate Marketing 干货，请前往星球/飞书获取 👇</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
