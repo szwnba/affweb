@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="本文脉络
+
+01Jev × Codex
+
+02先说结论
+
+03Jev 到底是什么？
+
+最近我折腾 **Codex Desktop** 的时候，突然意识到一个问题：
+
+我们是不是**把“大模型”用得太重了**？
+
+有些事情，明明只需要做一个很简单的判断。">
+<meta property="og:title" content="Jev × Codex：我给 Codex 接了一个“快脑”，Agent 终于开始真正分工了">
+<meta property="og:description" content="本文脉络
+
+01Jev × Codex
+
+02先说结论
+
+03Jev 到底是什么？
+
+最近我折腾 **Codex Desktop** 的时候，突然意识到一个问题：
+
+我们是不是**把“大模型”用得太重了**？
+
+有些事情，明明只需要做一个很简单的判断。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Jev%20%C3%97%20Codex%EF%BC%9A-wo-gei-%20Codex%20-jie-le-yi-ge-%E2%80%9C-kuai-nao-%E2%80%9D%EF%BC%8CAgent%20-zhong-yu-kai-shi-zhen-zheng-fen-gong-le.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Jev × Codex：我给 Codex 接了一个“快脑”，Agent 终于开始真正分工了</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Jev × Codex：我给 Codex 接了一个“快脑”，Agent 终于开始真正分工了</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/795" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>本文脉络</p>
+<p>01Jev × Codex</p>
+<p>02先说结论</p>
+<p>03Jev 到底是什么？</p>
+<p>最近我折腾 <strong>Codex Desktop</strong> 的时候，突然意识到一个问题：</p>
+<p>我们是不是<strong>把“大模型”用得太重了</strong>？</p>
+<p>有些事情，明明只需要做一个很简单的判断。</p>
+<p>比如：</p>
+<p>•测试过没过？</p>
+<p>•下一步该点哪个按钮？</p>
+<p>•这条命令危险不危险？</p>
+<p>•现在该继续，还是停止？</p>
+<p>•5 个工具里，到底该选哪个？</p>
+<p>结果我们还是习惯性地把这些问题，全丢给 Codex、Claude、GPT 去做一遍完整推理。</p>
+<p>就像你只是想问一句：</p>
+<p>“红灯能不能走？”</p>
+<p>结果对方先给你写了一篇 800 字交通法规分析。</p>
+<p>这就有点不对劲了。</p>
+<p>所以这两天我试了一个很有意思的组合：</p>
+<h3>01Jev × Codex</h3>
+<p>简单说：</p>
+<p>引用</p>
+<p>Jev 负责快判断，<strong>Codex 负责深思考</strong>。</p>
+<p>我第一次把这两个东西接起来的时候，最大的感受不是“<strong>又多了一个模型</strong>”。</p>
+<p>而是：</p>
+<p>Agent 终于开始像一个真正的软件系统了。</p>
+<p>不是一个大模型包办一切。</p>
+<p>而是不同角色，开始分工。</p>
+<h3>02先说结论</h3>
+<p>如果你正在用 Codex Desktop，或者你本身就在研究 <strong>Agent、MCP、Computer Use、Harness Engineering</strong>，</p>
+<p>那 Jev 很值得关注。</p>
+<p>因为它解决的不是“模型够不够聪明”这个问题。</p>
+<p>而是另一个更工程化的问题：</p>
+<p>引用</p>
+<p>什么任务，根本不值得动用一次复杂推理？</p>
+<p>这件事，我觉得比“再换一个更强模型”有意思得多。</p>
+<p>一个成熟的 Agent，不应该让最贵、最强的模型处理所有事情。</p>
+<p>真正重要的是：让不同能力的模型，去做最适合它们的那一步。</p>
+<h3>03Jev 到底是什么？</h3>
+<p>第一次看到 Jev，我也差点把它理解成“又一个大模型”。</p>
+<p>但用了之后，我觉得这个理解不太准确。</p>
+<p>Jev 更像一个：</p>
+<h3>04快速决策层</h3>
+<p>它不擅长写长文。</p>
+<p>也不是拿来写大段代码的。</p>
+<p>它更擅长这些事：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>check<br>
+pick<br>
+rate<br>
+classify<br>
+route</p>
+<p>翻译成人话就是：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>判断<br>
+选择<br>
+评分<br>
+分类<br>
+路由</p>
+<p>比如：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>npm test</p>
+<p>128 passed<br>
+0 failed</p>
+<p>这个问题：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>测试成功了吗？</p>
+<p>Jev 只需要回答：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>PASS</p>
+<p>就够了。</p>
+<p>不需要再进行一轮复杂推理。</p>
+<h3>这件事看起来很小，但其实很关键</h3>
+<p>因为今天大部分 Agent 的结构其实是这样的：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>任务<br>
+↓<br>
+大模型<br>
+↓<br>
+工具<br>
+↓<br>
+大模型<br>
+↓<br>
+工具<br>
+↓<br>
+大模型<br>
+↓<br>
+判断<br>
+↓<br>
+大模型<br>
+↓<br>
+结束</p>
+<p>几乎所有事情都经过<strong>同一个模型</strong>。</p>
+<p>这就像一家公司里：</p>
+<p>•老板自己写 PPT。</p>
+<p>•老板自己收快递。</p>
+<p>•老板自己判断报销单。</p>
+<p>•老板自己开门。</p>
+<p>•老板自己扫地。</p>
+<p>理论上都能做。</p>
+<p>但这绝对不是一个好的组织结构。</p>
+<p>Agent 也是一样。</p>
+<h3>05为什么我要把 Jev 接到 Codex？</h3>
+<p>因为 Codex 很强。</p>
+<p>它特别适合做：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>写代码<br>
+看代码<br>
+Debug<br>
+架构设计<br>
+复杂任务规划<br>
+多步骤执行</p>
+<p>这些事，本来就应该交给强模型。</p>
+<p>但问题是：</p>
+<p>Agent 的整个执行过程中，并不是每一步都需要深度推理。</p>
+<p>比如一个典型 Coding Agent：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>理解需求<br>
+↓<br>
+找代码<br>
+↓<br>
+修改代码<br>
+↓<br>
+运行测试<br>
+↓<br>
+判断测试结果<br>
+↓<br>
+决定继续还是结束<br>
+↓<br>
+看 Git Diff<br>
+↓<br>
+判断是否提交</p>
+<p>你仔细看。</p>
+<p>里面真正需要复杂推理的，可能只有：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>怎么改？<br>
+为什么错？<br>
+用什么架构？</p>
+<p>而这些：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>测试有没有通过？<br>
+下一步用哪个工具？<br>
+结果是否符合要求？</p>
+<p>其实更像“判断题”。</p>
+<p>这时候 Jev 就有意义了。</p>
+<p>可截图金句</p>
+<p>Codex 更像“工程师”。</p>
+<p>Jev 更像**“调度员 + 质检员 + 守门员”**。</p>
+<h3>06我更愿意把它叫做“双速 Agent”</h3>
+<p>如果用一个很直观的类比：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Jev<br>
+快速判断<br>
+低延迟<br>
+低成本</p>
+<p>Codex<br>
+复杂推理<br>
+高能力<br>
+深执行</p>
+<p>所以整个 Agent 会变成：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>简单问题 → Jev<br>
+复杂问题 → Codex</p>
+<p>我很喜欢这种结构。</p>
+<p>因为它开始有点像人脑的工作方式。</p>
+<p>有些事你根本不会认真思考。</p>
+<p>比如：</p>
+<p>“门是开着还是关着？”</p>
+<p>你一眼就知道。</p>
+<p>但如果有人问：</p>
+<p>“这个项目为什么上线以后留存下降？”</p>
+<p>你才会真正进入深度分析。</p>
+<p>Agent 也应该如此。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/025b6769fda195dcecbf017dbf38784c85a4209b9da99f506c8ed38abed62ad3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7471637a45354c584155646169624a7a4f415a6962675a44543547665779686a3453745847626266785a6b59696335746638794c684c326962336d64307377464861555453443673597271714c4c5949596c4d6b397042637657324a69635a6963736544514f33793854625572447a4c4d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/025b6769fda195dcecbf017dbf38784c85a4209b9da99f506c8ed38abed62ad3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7471637a45354c584155646169624a7a4f415a6962675a44543547665779686a3453745847626266785a6b59696335746638794c684c326962336d64307377464861555453443673597271714c4c5949596c4d6b397042637657324a69635a6963736544514f33793854625572447a4c4d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/tqczE5LXAUdaibJzOAZibgZDT5GfWyhj4StXGbbfxZkYic5tf8yLhL2ib3md0swFHaUTSD6sYrqqLLYIYlMk9pBcvW2JicZicseDQO3y8TbUrDzLM/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>用户任务<br>
+                 ↓<br>
+              Codex<br>
+        规划 / 推理 / 写代码<br>
+                 ↓<br>
+               Jev<br>
+        判断 / 路由 / 验证<br>
+                 ↓<br>
+              Tools</p>
+<p><strong>一个负责深思，一个负责快断</strong>。</p>
+<h3>07一个最简单的例子</h3>
+<p>假设我让 Codex：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>找到 PlayerHealth 是在哪里定义的。</p>
+<p>现在系统里有这些工具：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Browser<br>
+Terminal<br>
+grep<br>
+Git<br>
+Python<br>
+Computer Use</p>
+<p>Codex 当然可以自己想一遍。</p>
+<p>然后得出：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>用 grep</p>
+<p>没问题。</p>
+<p>但这种事真的需要一次完整推理吗？</p>
+<p>未必。</p>
+<p>可以直接问 Jev：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Goal:<br>
+Find PlayerHealth definition.</p>
+<p>Options:</p>
+<p>1. Browser<br>
+2. grep<br>
+3. Run game<br>
+4. Git history</p>
+<p>Jev：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>pick → grep</p>
+<p>结束。</p>
+<p>真正的代码搜索，再交给 Codex 或工具执行。</p>
+<p>这就是：</p>
+<h3>08判断和执行分离</h3>
+<p>Agent 最浪费能力的一种方式，就是让“会思考的模型”反复做“不需要思考的事”。</p>
+<h3>09我现在比较喜欢的架构</h3>
+<p>我最后会把它做成这样：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>用户任务<br>
+                    ↓<br>
+               Codex Planner<br>
+                    ↓<br>
+                Jev Router<br>
+                    ↓<br>
+        ┌───────────┼───────────┐<br>
+        ↓           ↓           ↓<br>
+      Shell       Browser     Computer<br>
+        ↓           ↓           ↓<br>
+        └───────────┼───────────┘<br>
+                    ↓<br>
+                  Result<br>
+                    ↓<br>
+              Jev Evaluator<br>
+                    ↓<br>
+           PASS / FAIL<br>
+              ↓       ↓<br>
+           Finish   Codex Debug</p>
+<p>这里 Codex 负责的是：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>复杂推理<br>
+规划<br>
+生成<br>
+Debug<br>
+架构</p>
+<p>而 Jev 负责：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Tool Router<br>
+Result Checker<br>
+Risk Gate<br>
+Retry Gate<br>
+Finish Gate</p>
+<p>这就很像一个真正的软件系统了。</p>
+<h3>10怎么把 Jev 接进 Codex？</h3>
+<p>真正安装其实没有想象中复杂。</p>
+<p>我采用的是 <strong>jev-use</strong> 这条路线。</p>
+<p>重点是：</p>
+<p>我不是把 Jev 替换成 Codex 的主模型。</p>
+<p>而是把 Jev 当成一个 <strong>MCP / Skill / Decision Layer</strong> 接进 Codex。</p>
+<p>这两种思路差别非常大。</p>
+<p>前者是替换。</p>
+<p>后者是分工。</p>
+<p>我明显更推荐后者。</p>
+<h3>第一步：检查 Node</h3>
+<p>先打开终端：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>node -v<br>
+npm -v</p>
+<p>只要能看到版本号就行。</p>
+<h3>第二步：安装 jev-use</h3>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>npx -y jev-use install</p>
+<p>然后跑：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>npx -y jev-use doctor</p>
+<p>我强烈建议不要跳过 doctor。</p>
+<p>因为 Agent 类工具最烦的一件事，就是：</p>
+<p>“看起来装好了，但实际上链路没通。”</p>
+<p>所以我一般先确认：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Codex<br>
+↓<br>
+MCP<br>
+↓<br>
+Jev</p>
+<p>这条链真的能跑起来。</p>
+<h3>11API Key 怎么配？</h3>
+<p>如果你使用对应的 <strong>Jev Provider</strong>，可以配置环境变量。</p>
+<p>macOS / Linux：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>export TYPESAFE_API_KEY="你的 API Key"</p>
+<p>然后：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>npx -y jev-use doctor</p>
+<p>Windows PowerShell：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>$env:TYPESAFE_API_KEY="你的 API Key"</p>
+<p>这里有个很基础，但还是要提醒的点：</p>
+<p>不要把 API Key 写进 Git 仓库。</p>
+<p>尤其是这种 Agent 项目。</p>
+<p>因为后续通常还会接：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>MCP<br>
+数据库<br>
+浏览器<br>
+第三方 API</p>
+<p>密钥一多，最容易出问题。</p>
+<h3>12没有 API Key，也可以先测试</h3>
+<p>如果只是想先验证整个链路，可以用 <strong>Mock</strong>。</p>
+<p>macOS / Linux：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>export JEV_BACKEND=mock</p>
+<p>Windows：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>$env:JEV_BACKEND="mock"</p>
+<p>然后继续：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>npx -y jev-use doctor</p>
+<p>我个人比较喜欢这种做法。</p>
+<p>先确认：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>工程结构是通的</p>
+<p>然后再处理：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>模型<br>
+Provider<br>
+延迟<br>
+费用</p>
+<p>这样排查问题简单很多。</p>
+<h3>13第一个测试：PASS 还是 FAIL</h3>
+<p>我会直接让 Codex 调 Jev：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Use Jev to check:</p>
+<p>npm test returned exit code 0.</p>
+<p>128 tests passed.<br>
+0 failed.</p>
+<p>Did the test succeed?</p>
+<p>如果这时候 Jev 返回：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>PASS</p>
+<p>那基本就说明最核心的一条链已经通了。</p>
+<p>而且你会立刻明白：</p>
+<p>Jev 的价值不在“会说多少话”。</p>
+<p>恰恰相反。</p>
+<p>它的价值是：</p>
+<h3>14少说话，快做决定</h3>
+<h3>15第二个测试：选哪个工具？</h3>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Goal:</p>
+<p>Find where PlayerHealth is defined.</p>
+<p>Available tools:</p>
+<p>1. grep repository<br>
+2. Browser<br>
+3. Run game<br>
+4. Git history</p>
+<p>Use Jev to pick the best next action.</p>
+<p>理想情况：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>grep repository</p>
+<p>这个能力一旦稳定，Jev 就可以真正承担：</p>
+<h3>16Tool Router</h3>
+<h3>17第三个测试，我觉得更实用</h3>
+<h3>命令风险 Gate</h3>
+<p>比如 Codex 想执行：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>git reset --hard</p>
+<p>先别直接跑。</p>
+<p>让 Jev 判断：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Rate command risk:</p>
+<p>git reset --hard</p>
+<p>Choose:</p>
+<p>routine<br>
+review<br>
+dangerous</p>
+<p>然后整个系统可以变成：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>命令<br>
+↓<br>
+Jev<br>
+↓<br>
+低风险 → 自动执行<br>
+中风险 → 询问用户<br>
+高风险 → 阻止</p>
+<p>这个时候 Jev 已经不是“模型助手”了。</p>
+<p>它变成了：</p>
+<h3>18Agent 的安全闸门</h3>
+<p>真正可靠的 Agent，不只是“会做事”。</p>
+<p>它还要知道：</p>
+<p>什么时候可以自己做，什么时候必须停下来问人。</p>
+<h3>19真正重要的一步：不要每次都手动说“Use Jev”</h3>
+<p>如果每次都手写：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Use Jev to...</p>
+<p>那这个系统还是很原始。</p>
+<p>真正应该做的是：</p>
+<h3>20把分工规则写进 AGENTS.md</h3>
+<p>比如：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p># Jev routing rules</p>
+<p>Use Jev for decisions that do not require generating substantial text.</p>
+<p>Prefer Jev for:</p>
+<p>- yes/no checks<br>
+- choosing one option from a known list<br>
+- test pass/fail judgment<br>
+- command risk classification<br>
+- tool selection<br>
+- retry / continue / stop decisions<br>
+- confidence scoring<br>
+- validation gates</p>
+<p>Use Codex directly for:</p>
+<p>- writing code<br>
+- explaining concepts<br>
+- debugging complex problems<br>
+- architecture design<br>
+- generating documentation<br>
+- tasks requiring multi-step reasoning</p>
+<p>If Jev is uncertain or returns escalation,<br>
+continue the task using Codex reasoning.</p>
+<p>这一步特别关键。</p>
+<p>因为从这里开始：</p>
+<p>Agent 不再只是“能调用 Jev”。</p>
+<p>而是：</p>
+<h3>21知道什么时候应该调用 Jev</h3>
+<p>这两个层次完全不同。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33e7ad3f5a6cc68661cf49a03559b14395ff01382bac0e803e461482ec4ef58c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7471637a45354c5841556469626b4f784d66453453624a3559324441704b6e47717357507144346c6a71456b6a6f3148676d4b72474b4c4a377949733669626962774a69626963676466346631384a7a367a76466c69634f3865484b344c5162326c4b54494f566853306769633963726961412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/33e7ad3f5a6cc68661cf49a03559b14395ff01382bac0e803e461482ec4ef58c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7471637a45354c5841556469626b4f784d66453453624a3559324441704b6e47717357507144346c6a71456b6a6f3148676d4b72474b4c4a377949733669626962774a69626963676466346631384a7a367a76466c69634f3865484b344c5162326c4b54494f566853306769633963726961412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/tqczE5LXAUdibkOxMfE4SbJ5Y2DApKnGqsWPqD4ljqEkjo1HgmKrGKLJ7yIs6ibibwJibicgdf4f18Jz6zvFlicO8eHK4LQb2lKTIOVhS0gic9criaA/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>当前任务<br>
+                  ↓<br>
+          是否需要复杂推理？<br>
+             ↙        ↘<br>
+           否            是<br>
+           ↓             ↓<br>
+          Jev           Codex<br>
+           ↓             ↓<br>
+        判断结果       深度执行<br>
+             ↘        ↙<br>
+               Tools</p>
+<p><strong>模型不是越强越好，匹配任务才重要</strong>。</p>
+<h3>22接进去之后，Coding Agent 会发生什么变化？</h3>
+<p>传统流程：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>需求<br>
+↓<br>
+Codex<br>
+↓<br>
+搜索<br>
+↓<br>
+Codex<br>
+↓<br>
+改代码<br>
+↓<br>
+Codex<br>
+↓<br>
+测试<br>
+↓<br>
+Codex<br>
+↓<br>
+判断<br>
+↓<br>
+Codex</p>
+<p>几乎每一步都靠主模型。</p>
+<p>加上 Jev 以后：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>需求<br>
+↓<br>
+Codex Plan<br>
+↓<br>
+Jev Pick Tool<br>
+↓<br>
+Tool<br>
+↓<br>
+Codex Write Code<br>
+↓<br>
+Run Tests<br>
+↓<br>
+Jev Check<br>
+↓<br>
+PASS?<br>
+├─ YES → Jev Risk Check → Finish<br>
+└─ NO  → Codex Debug → 再测试</p>
+<p>一下就清楚很多。</p>
+<p>这时候 Agent 开始有了：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Planner<br>
+Router<br>
+Executor<br>
+Evaluator</p>
+<p>不同角色。</p>
+<h3>23这其实就是 Harness Engineering</h3>
+<p>我最近越来越觉得：</p>
+<p>Agent 开发的重点，已经发生变化了。</p>
+<p>最开始大家玩的是：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Prompt Engineering</p>
+<p>后来大家开始讲：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Context Engineering</p>
+<p>但当 Agent 真正开始调用工具、跑代码、操作电脑以后，问题已经不只是 Prompt 了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/449e3f0b6a6d74312de23e53b5885b921dbef2749a1d0b046ce2d0152073e0f2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7471637a45354c584155656643385242633356306b6751527467613779484f623938534d766c5239457858556361794469627341654e69624c72704963715854426569616375496d39763154595747715869637933505567644d507958374847725a4761726f4738637077623867672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/449e3f0b6a6d74312de23e53b5885b921dbef2749a1d0b046ce2d0152073e0f2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7471637a45354c584155656643385242633356306b6751527467613779484f623938534d766c5239457858556361794469627341654e69624c72704963715854426569616375496d39763154595747715869637933505567644d507958374847725a4761726f4738637077623867672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/tqczE5LXAUefC8RBc3V0kgQRtga7yHOb98SMvlR9ExXUcayDibsAeNibLrpIcqXTBeiacuIm9v1TYWGqXicy3PUgdMPyX7HGrZGaroG8cpwb8gg/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>这时候更重要的是：</p>
+<p>代码块：粘贴后请核对换行；过长建议改用截图。</p>
+<p>Harness Engineering</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>

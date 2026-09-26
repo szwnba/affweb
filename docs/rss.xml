@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Johnson的备忘录</title><link>https://126.plus</link><description>这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</description><copyright>Johnson的备忘录</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png</url><title>avatar</title><link>https://126.plus</link></image><lastBuildDate>Fri, 25 Sep 2026 13:56:46 +0000</lastBuildDate><managingEditor>Johnson的备忘录</managingEditor><ttl>60</ttl><webMaster>Johnson的备忘录</webMaster><item><title>AI全自动做海外独立站：自己开发的Agent工作流</title><link>https://126.plus/post/AI-quan-zi-dong-zuo-hai-wai-du-li-zhan-%EF%BC%9A-zi-ji-kai-fa-de-Agent-gong-zuo-liu.html</link><description>我做网站、做 SEO 很多年了。</description><guid isPermaLink="true">https://126.plus/post/AI-quan-zi-dong-zuo-hai-wai-du-li-zhan-%EF%BC%9A-zi-ji-kai-fa-de-Agent-gong-zuo-liu.html</guid><pubDate>Fri, 25 Sep 2026 13:56:15 +0000</pubDate></item><item><title>Jev + Agent：打造一个每小时自动更新的素材库</title><link>https://126.plus/post/Jev%20%2B%20Agent%EF%BC%9A-da-zao-yi-ge-mei-xiao-shi-zi-dong-geng-xin-de-su-cai-ku.html</link><description>Jev
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Johnson的备忘录</title><link>https://126.plus</link><description>这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</description><copyright>Johnson的备忘录</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png</url><title>avatar</title><link>https://126.plus</link></image><lastBuildDate>Sat, 26 Sep 2026 08:12:26 +0000</lastBuildDate><managingEditor>Johnson的备忘录</managingEditor><ttl>60</ttl><webMaster>Johnson的备忘录</webMaster><item><title>Jev × Codex：我给 Codex 接了一个“快脑”，Agent 终于开始真正分工了</title><link>https://126.plus/post/Jev%20%C3%97%20Codex%EF%BC%9A-wo-gei-%20Codex%20-jie-le-yi-ge-%E2%80%9C-kuai-nao-%E2%80%9D%EF%BC%8CAgent%20-zhong-yu-kai-shi-zhen-zheng-fen-gong-le.html</link><description>本文脉络
+
+01Jev × Codex
+
+02先说结论
+
+03Jev 到底是什么？
+
+最近我折腾 **Codex Desktop** 的时候，突然意识到一个问题：
+
+我们是不是**把“大模型”用得太重了**？
+
+有些事情，明明只需要做一个很简单的判断。</description><guid isPermaLink="true">https://126.plus/post/Jev%20%C3%97%20Codex%EF%BC%9A-wo-gei-%20Codex%20-jie-le-yi-ge-%E2%80%9C-kuai-nao-%E2%80%9D%EF%BC%8CAgent%20-zhong-yu-kai-shi-zhen-zheng-fen-gong-le.html</guid><pubDate>Sat, 26 Sep 2026 08:11:55 +0000</pubDate></item><item><title>AI全自动做海外独立站：自己开发的Agent工作流</title><link>https://126.plus/post/AI-quan-zi-dong-zuo-hai-wai-du-li-zhan-%EF%BC%9A-zi-ji-kai-fa-de-Agent-gong-zuo-liu.html</link><description>我做网站、做 SEO 很多年了。</description><guid isPermaLink="true">https://126.plus/post/AI-quan-zi-dong-zuo-hai-wai-du-li-zhan-%EF%BC%9A-zi-ji-kai-fa-de-Agent-gong-zuo-liu.html</guid><pubDate>Fri, 25 Sep 2026 13:56:15 +0000</pubDate></item><item><title>Jev + Agent：打造一个每小时自动更新的素材库</title><link>https://126.plus/post/Jev%20%2B%20Agent%EF%BC%9A-da-zao-yi-ge-mei-xiao-shi-zi-dong-geng-xin-de-su-cai-ku.html</link><description>Jev
 
 Hi，我是 Peter。</description><guid isPermaLink="true">https://126.plus/post/Jev%20%2B%20Agent%EF%BC%9A-da-zao-yi-ge-mei-xiao-shi-zi-dong-geng-xin-de-su-cai-ku.html</guid><pubDate>Fri, 25 Sep 2026 09:47:38 +0000</pubDate></item><item><title>Jev + Agent：打造一个每小时自动更新的素材库</title><link>https://126.plus/post/Jev%20%2B%20Agent%EF%BC%9A-da-zao-yi-ge-mei-xiao-shi-zi-dong-geng-xin-de-su-cai-ku.html</link><description>Jev
 
