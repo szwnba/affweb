@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="关注「雷一言」 · 分享 AI 工具与真实工作流
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/0EWRpOXNpkIFAFPjS48hJl7FEyxNnjnr2RZ7Dfb3Mz1aXKZ08icq5RZjhe4WXevmZaC9Ajhiceo2XwCuhHm2qZSTxIoplbRjrRBo96MiaT4AdE/640?wx_fmt=gif&from=appmsg#imgIndex=0)
+
+这是一言的第 33 期分享
+
+大家好，我是一言。">
+<meta property="og:title" content="稳定抓取公众号文章后，我把全网 AI 热点也接进了 DeepSeek Harness">
+<meta property="og:description" content="关注「雷一言」 · 分享 AI 工具与真实工作流
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/0EWRpOXNpkIFAFPjS48hJl7FEyxNnjnr2RZ7Dfb3Mz1aXKZ08icq5RZjhe4WXevmZaC9Ajhiceo2XwCuhHm2qZSTxIoplbRjrRBo96MiaT4AdE/640?wx_fmt=gif&from=appmsg#imgIndex=0)
+
+这是一言的第 33 期分享
+
+大家好，我是一言。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wen-ding-zhua-qu-gong-zhong-hao-wen-zhang-hou-%EF%BC%8C-wo-ba-quan-wang-%20AI%20-re-dian-ye-jie-jin-le-%20DeepSeek%20Harness.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>稳定抓取公众号文章后，我把全网 AI 热点也接进了 DeepSeek Harness</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">稳定抓取公众号文章后，我把全网 AI 热点也接进了 DeepSeek Harness</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/798" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>关注「雷一言」 · 分享 AI 工具与真实工作流</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/624c52a81d61436e1e37e11b93c1d6f651ead2094804fc5db566443a7fcdd00e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f30455752704f584e706b49464146506a533438684a6c37464579784e6e6a6e7232525a37446662334d7a3161584b5a303869637135525a6a686534575865766d5a614339416a686963656f325877437568486d32715a535478496f706c62526a7252426f39364d696154344164452f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/624c52a81d61436e1e37e11b93c1d6f651ead2094804fc5db566443a7fcdd00e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f30455752704f584e706b49464146506a533438684a6c37464579784e6e6a6e7232525a37446662334d7a3161584b5a303869637135525a6a686534575865766d5a614339416a686963656f325877437568486d32715a535478496f706c62526a7252426f39364d696154344164452f3634303f77785f666d743d6769662666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/0EWRpOXNpkIFAFPjS48hJl7FEyxNnjnr2RZ7Dfb3Mz1aXKZ08icq5RZjhe4WXevmZaC9Ajhiceo2XwCuhHm2qZSTxIoplbRjrRBo96MiaT4AdE/640?wx_fmt=gif&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>这是一言的第 33 期分享</p>
+<p>大家好，我是一言。</p>
+<p>前几篇文章中，我将公众号文章抓取到本地，并且把爆文监控、文章搜索也接入到 DeepSeek Harness 中。</p>
+<p>现在的这套东西可以做到三件事情：</p>
+<p>terminalTEXT</p>
+<p>保存公众号文章</p>
+<p>发现反常上涨的爆文</p>
+<p>从 8892 篇文章里检查一个主题</p>
+<p>跑起来之后，我发现还需要一个更早的入口。</p>
+<p>这些信号都来自公众号。等到一篇文章开始上升的时候，在微信上通常已经有其他人写过了。我想要再往前走一步：先看看官方博客、X 和海外媒体都在谈论些什么，然后再回来检查一下公众号里有没有人跟进。</p>
+<p>这次，我将卡兹克制作的 AIHOT 放在了整个链条的最前端。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/daff35d395f3dbc1d8eb8d2f5ef4c66f315a0b901bebcc1e63b55e09e9edae7d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f30455752704f584e706b4c4d726f30387a6546446b55427778666d714e73337068514465696155386f454d336130504261486a6d70376a756765493056716c7670746b4c42306d4972744f5855504f536c34567137516b4c7651733866776a47664b6c43696177566372384a4d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/daff35d395f3dbc1d8eb8d2f5ef4c66f315a0b901bebcc1e63b55e09e9edae7d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f30455752704f584e706b4c4d726f30387a6546446b55427778666d714e73337068514465696155386f454d336130504261486a6d70376a756765493056716c7670746b4c42306d4972744f5855504f536c34567137516b4c7651733866776a47664b6c43696177566372384a4d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0EWRpOXNpkLMro08zeFDkUBwxfmqNs3phQDeiaU8oEM3a0PBaHjmp7jugeI0VqlvptkLB0mIrtOXUPOSl4Vq7QkLvQs8fwjGfKlCiawVcr8JM/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>8 月 31 日的 AIHOT 热点榜</p>
+<p>AIHOT 负责寻找外界正在升温的话题，WeRSS 负责检查公众号的覆盖情况，DeepSeek Harness 将两边的数据合在一起进行判断。</p>
+<p>8 月 31 日，我完成了第一轮运行。</p>
+<p>ChatGPT Work 在最近 30 天的公众号库中没有被命中。MiniMax H3 已经有 15 篇相关的文章，“AI 直播”这个具体的角度也没有被命中。</p>
+<p>Harness 最后把 ChatGPT Work 上手对比列为首选，把 H3 Max AI 直播留作备选。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/01d3b0efba5020fe838ea62be7e271e33de8d21120c54c17128fc1a4e57fefc2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30455752704f584e706b4a4d5a64744771544874734e58523768325233624a6a654d496a4c61366a416d566e6d7546304d3774656a7669626c464a50776f69625a54546b696165384162386e54356f315a35457a6347736b516a4b61573650696352487678704e42337347675933342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/01d3b0efba5020fe838ea62be7e271e33de8d21120c54c17128fc1a4e57fefc2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30455752704f584e706b4a4d5a64744771544874734e58523768325233624a6a654d496a4c61366a416d566e6d7546304d3774656a7669626c464a50776f69625a54546b696165384162386e54356f315a35457a6347736b516a4b61573650696352487678704e42337347675933342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0EWRpOXNpkJMZdtGqTHtsNXR7h2R3bJjeMIjLa6jAmVnmuF0M7tejviblFJPwoibZTTkiae8Ab8nT5o1Z5EzcGskQjKaW6PicRHvxpNB3sGgY34/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>Harness 把 AIHOT 热点与 8892 篇本地公众号文章对照</p>
+<p>原来的公众号文章要等到涨起来之后再看，现在可以提前查看外部热点和微信内容之间的时间差。</p>
+<p>01.AIHOT 是如何接入的Connect</p>
+<p>卡总的 AIHOT 的 Agent 页面已经提供了 Skill、MCP、RSS 和 REST API 四种入口。本次选择了 REST API，并且把它封装到上一篇使用的 dsh-wechat-archive 插件中。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0289793b087276b9404741d6e16021b9a315a66fce870421a44755f5a0246859/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30455752704f584e706b49674a7a6a6476456c6c554656705a4b6733664669636d6f6f476a663173716768724c767a684650636c526a6962675548656772316e61353076506d38447534776336617041454b65664e755357745a614a376762726d366573304479317162766e6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/0289793b087276b9404741d6e16021b9a315a66fce870421a44755f5a0246859/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30455752704f584e706b49674a7a6a6476456c6c554656705a4b6733664669636d6f6f476a663173716768724c767a684650636c526a6962675548656772316e61353076506d38447534776336617041454b65664e755357745a614a376762726d366573304479317162766e6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0EWRpOXNpkIgJzjdvEllUFVpZKg3fFicmooGjf1sqghrLvzhFPclRjibgUHegr1na50vPm8Du4wc6apAEKefNuSWtZaJ7gbrm6es0Dy1qbvnk/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>AIHOT 的 Agent 接入页：页面提供 Agent Skill、MCP、RSS 和 REST API 四种入口</p>
+<p>插件中增加了两个工具：</p>
+<p>terminalTEXT</p>
+<p>aihot_recent_items：读取近 24 小时或 7 天精选</p>
+<p>aihot_hot_topics：读取当前多来源热点</p>
+<p>启动 Harness 之后，我首先用下面这句话来检验两路数据：</p>
+<p>terminalTEXT</p>
+<p>检查本地公众号资料库的数据量和最新文章时间，</p>
+<p>再读取 AIHOT 最近 24 小时精选。</p>
+<p>可以看到公众号的数量、文章的数量以及 AIHOT 热点，说明两边已经打通了。</p>
+<p>每条 AIHOT 的结果都会保留标题、摘要、发布时间、来源数量、AIHOT 页面以及原始链接。Harness 可以先看摘要，然后顺着原始来源去核实。</p>
+<p>Anthropic 版权音乐诉讼中，AIHOT 也保留了热度的变化。目前的热度是 34，过去 24 小时最高是 48。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad22a845cc6479bb510e8e1460da1db6ce821570fb99992a75bee902348c25ac/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f30455752704f584e706b4b753733657530706c50646c664e50326c53696134507274304d566962464551544b7536756961327952676251346d633376765956424b566b54624a684e4f46724173525a68554d7043434f624770556a6761455a4c6f706a467a516b62536f6f73384d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/ad22a845cc6479bb510e8e1460da1db6ce821570fb99992a75bee902348c25ac/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f30455752704f584e706b4b753733657530706c50646c664e50326c53696134507274304d566962464551544b7536756961327952676251346d633376765956424b566b54624a684e4f46724173525a68554d7043434f624770556a6761455a4c6f706a467a516b62536f6f73384d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0EWRpOXNpkKu73eu0plPdlfNP2lSia4Prt0MVibFEQTKu6uia2yRgbQ4mc3vvYVBKVkTbJhNOFrAsRZhUMpCCObGpUjgaEZLopjFzQkbSoos8M/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>Anthropic 版权诉讼在 AIHOT 中的真实热度曲线：当前热度 34，过去 24 小时峰值达到 48</p>
+<p>继续往下看，同一个事件已经被合并到 The Decoder、The Verge、TechCrunch 和 X 上的 4 条公开报道中，并按照发布时间排列在同一条故事线上。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc5cd79b743ac9eabb73aaaa719cb2166f3bef73779009d5ac3a2c67fbddb415/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30455752704f584e706b4a51796963675136727135786b456446696376544b50484c6f314c6b685043486179696361496d753754717742676a36796553664d4e4474754c736a7a70444668386f7a7946514a7a534f6e79536f50564a353238655a7177766451734a6e4e4258764d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/cc5cd79b743ac9eabb73aaaa719cb2166f3bef73779009d5ac3a2c67fbddb415/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30455752704f584e706b4a51796963675136727135786b456446696376544b50484c6f314c6b685043486179696361496d753754717742676a36796553664d4e4474754c736a7a70444668386f7a7946514a7a534f6e79536f50564a353238655a7177766451734a6e4e4258764d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0EWRpOXNpkJQyicgQ6rq5xkEdFicvTKPHLo1LkhPCHayicaImu7TqwBgj6yeSfMNDtuLsjzpDFh8ozyFQJzSOnySoPVJ528eZqwvdQsJnNBXvM/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>AIHOT 把同一事件的 4 条公开报道合并进时间线，并保留来源、发布时间和各自摘要</p>
+<p>以前我要打开热点榜，然后在公众号库中一个个查找。现在一句话就可以触发两个 AIHOT 工具，外部信号直接进入下一个环节。</p>
+<p>02.让 8892 篇公众号文章进行检查覆盖Compare</p>
+<p>我又给插件添加了第三个功能，也就是 wechat_topic_coverage。</p>
+<p>Harness 会从热点中抽取产品名、事件名以及常用的别名，再到最近 30 天的公众号标题和摘要里进行搜索。工具用来合并重复的文章，并且给出被匹配的数量、相关的账号、现在的阅读数以及原文链接。如果要查得更深入一些，也可以继续搜索正文。</p>
+<p>原来的插件可以检查资料库、搜索文章、查找低基数异常以及比较账号。再加上这次的三种工具之后，Harness 总共可以调用七种能力：</p>
+<p>terminalTEXT</p>
+<p>外部热点：24 小时精选、多来源热点</p>
+<p>本地资料：数据状态、文章搜索、异常爆文、账号比较、主题覆盖</p>
+<p>Harness 完成四次调用之后，会把外部热点和本地覆盖一起放入同一个结果中。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f40311703d0c844ae8671507fed43cd0e96de9e78096ad06037bdeb224b19c7c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f30455752704f584e706b4c756e6961447439716e766b59685365555365623467306f395072757644626368706d59484e5a6773535a4c35576170395169634663746d7a365842396c696243504a4e4a483776416963777830704f7035727737707970685733524874593063367443492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/f40311703d0c844ae8671507fed43cd0e96de9e78096ad06037bdeb224b19c7c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f30455752704f584e706b4c756e6961447439716e766b59685365555365623467306f395072757644626368706d59484e5a6773535a4c35576170395169634663746d7a365842396c696243504a4e4a483776416963777830704f7035727737707970685733524874593063367443492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0EWRpOXNpkLuniaDt9qnvkYhSeUSeb4g0o9PruvDbchpmYHNZgsSZL5Wap9QicFctmz6XB9libCPJNJH7vAicwx0pOp5rw7pyphW3RHtY0c6tCI/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>DeepSeek Harness 收到选题问题后，依次调用 AIHOT 精选、热点榜、本地资料库状态和公众号主题覆盖四个工具</p>
+<p>AIHOT 负责回答“外面正在发生什么”，WeRSS 负责回答“微信已经写到哪一步”，Harness 负责决定先调用谁、搜索哪些关键词，以及最后保留哪个方向。</p>
+<p>03.运行一次之后，留下两条路Result</p>
+<p>四条热点分别产生了两种可以继续研究的结果。</p>
+<p>1. 主题、角度都没有内容</p>
+<p>ChatGPT Work 在本地库中没有找到任何相关的内容。外部已经完成了对功能的整理，但是微信样本中没有相同主题的文章。</p>
+<p>Harness 给出的方向是：先做一篇 Work Cloud 和 Work Local 的上手对比。</p>
+<p>2. 产品很拥挤，具体的场景还有空白</p>
+<p>MiniMax H3 相关的内容已经命中了 15 篇，其中有的文章阅读量已经超过了 5 万次；继续写常规模型评测的话，很容易就撞到之前的内容了。</p>
+<p>我在 WeRSS 中直接搜索 MiniMax H3，得到了 46 条原始记录。合并重复的内容并且限定在最近 30 天之内，插件保留了 15 篇相关的样本。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab1fbf5f3484a4bdb34b9e84f3f77d5e4b454ade3282ac50ee5c7c3590c94ae0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30455752704f584e706b4c785766577555436b6961554d566a367544454a4f6961626963624a3369616c663069623142765a69637045534d6c38645178647752733054656a714a6a3052544d787469626d4d4f3455646a6d7650326477416b41385536676a5a36556963504445647a744e79772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/ab1fbf5f3484a4bdb34b9e84f3f77d5e4b454ade3282ac50ee5c7c3590c94ae0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f30455752704f584e706b4c785766577555436b6961554d566a367544454a4f6961626963624a3369616c663069623142765a69637045534d6c38645178647752733054656a714a6a3052544d787469626d4d4f3455646a6d7650326477416b41385536676a5a36556963504445647a744e79772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0EWRpOXNpkLxWfWuUCkiaUMVj6uDEJOiabicbJ3ialf0ib1BvZicpESMl8dQxdwRs0TejqJj0RTMxtibmMO4UdjmvP2dwAkA8U6gjZ6UicPDEdztNyw/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>WeRSS 真实搜索结果：MiniMax H3 返回 46 条原始记录，列表里已经出现实测、玩法、开源和横向对比等写法</p>
+<p>最后说一下</p>
+<p>Node_ID: END</p>
+<p>总的来说，这套流程对于内容创作者来说是友好的。</p>
+<p>它首先会找出值得研究的话题，然后和公众号的历史文章进行选题对比，告诉我哪些方向已经写得很挤，哪些具体的场景还有内容空白。</p>
+<p>如果这篇内容对你有帮助，可以点个免费的赞，也可以把文章分享给需要的人。</p>
+<p>拜托了，这对我一直持续创作都非常重要。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7fbfd47168c36286eaa2466622233f529797de5028aacc9d1b8eab27cf761eb6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f30455752704f584e706b49614f6b647231676f5955756e6963414e5a487a52747730304c497441736269634e715377704e5551585049634979653341364f646e616a64764b5543575844783173524a6779377932396444574638516c4e47677738434c4766447969616869627531592f3634303f77785f666d743d6f746865722666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/7fbfd47168c36286eaa2466622233f529797de5028aacc9d1b8eab27cf761eb6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f30455752704f584e706b49614f6b647231676f5955756e6963414e5a487a52747730304c497441736269634e715377704e5551585049634979653341364f646e616a64764b5543575844783173524a6779377932396444574638516c4e47677738434c4766447969616869627531592f3634303f77785f666d743d6f746865722666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0EWRpOXNpkIaOkdr1goYUunicANZHzRtw00LItAsbicNqSwpNUQXPIcIye3A6OdnajdvKUCWXDx1sRJgy7y29dDWF8QlNGgw8CLGfDyiahibu1Y/640?wx_fmt=other&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
