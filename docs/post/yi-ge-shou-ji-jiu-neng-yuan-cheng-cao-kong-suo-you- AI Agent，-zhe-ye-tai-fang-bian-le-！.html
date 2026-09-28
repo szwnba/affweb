@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="电脑上同时装了 Claude Code 和 Codex，哪个额度用完就换哪个来用。">
+<meta property="og:title" content="一个手机就能远程操控所有 AI Agent，这也太方便了！">
+<meta property="og:description" content="电脑上同时装了 Claude Code 和 Codex，哪个额度用完就换哪个来用。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yi-ge-shou-ji-jiu-neng-yuan-cheng-cao-kong-suo-you-%20AI%20Agent%EF%BC%8C-zhe-ye-tai-fang-bian-le-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>一个手机就能远程操控所有 AI Agent，这也太方便了！</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">一个手机就能远程操控所有 AI Agent，这也太方便了！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/801" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>电脑上同时装了 Claude Code 和 Codex，哪个额度用完就换哪个来用。</p>
+<p>有时候也会忙起来，打开四五个终端窗口，每个窗口都安排一个 Agent 在干活。</p>
+<p>谁跑到了哪一步，谁卡在权限上确认，谁已经完成了任务，只能挨个窗口查看，颇为麻烦。</p>
+<p>当然现在的 Agent 工具，基本各自都有手机远程功能，人不在电脑前也能查看进度、下达指令。</p>
+<p>但各家的手机远程只管自家 Agent，同时用着几家，就得在几个 App 之间来回切换。</p>
+<p>有些纯命令行的 Agent 连手机端都没有，想看一眼进度，还是得回到电脑前才行。</p>
+<p>直到最近，我在 GitHub 上发现了一个能把这些 Agent 全部收到一起管理的开源项目：<strong>Paseo</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/86f62abb15258dbb51c090384aa10fc1bdbffdda546e9e5df1b691001207de07/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d696130307041626f6450513071354f616569634771496c657654727544593058574d335a71704d4b696334796a356675773849356f364b764d6e784243716365434a74574b596e3142696342686d4e31326b647a45414c526963474e5973777341455748412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/86f62abb15258dbb51c090384aa10fc1bdbffdda546e9e5df1b691001207de07/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d696130307041626f6450513071354f616569634771496c657654727544593058574d335a71704d4b696334796a356675773849356f364b764d6e784243716365434a74574b596e3142696342686d4e31326b647a45414c526963474e5973777341455748412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQomia00pAbodPQ0q5OaeicGqIlevTruDY0XWM3ZqpMKic4yj5fuw8I5o6KvMnxBCqceCJtWKYn1BicBhmN12kdzEALRicGNYswsAEWHA/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>目前已斩获 18700+ Star，支持 Claude Code、Codex、OpenCode 和 Pi 等 Agent 工具。</p>
+<p>它主要是给它们做了一层统一的管理界面，所有 Agent 仍是跑在我们的电脑本地上。</p>
+<p>比如像账号、配置、开发环境，甚至各自装好的 Skill、MCP 插件，都是属于 Agent 的。</p>
+<p>打开 Paseo，在界面的左侧列表栏，可以直观看到所有正在执行任务 Agent 的状态。</p>
+<p>哪个 Agent 在干活、哪个没有执行任务、哪个需要确认，一眼就看清楚。</p>
+<p>如果想下达任务指令，先选择项目然后在中间底部对话框里，选择 Agent 和模型，直接发送消息即可。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/71961a11ee876caead66ae1ea0b65f0dfb1b2dc511bc7514c19737466b9965bc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6d64355a645279524e32454e64525430534e6b65704771365769624d5971394643524a696271394652665342547169623061525147356f63427a51726a61746a304e5955536a7547477379425141385a70373762756d34584434757a52763863536b6b772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/71961a11ee876caead66ae1ea0b65f0dfb1b2dc511bc7514c19737466b9965bc/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6d64355a645279524e32454e64525430534e6b65704771365769624d5971394643524a696271394652665342547169623061525147356f63427a51726a61746a304e5955536a7547477379425141385a70373762756d34584434757a52763863536b6b772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQomd5ZdRyRN2ENdRT0SNkepGq6WibMYq9FCRJibq9FRfSBTqib0aRQG5ocBzQrjatj0NYUSjuGGsyBQA8Zp77bum4XD4uzRv8cSkkw/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>当需要新建任务时，还可以自由选择交给哪一家的 Agent，甚至能指定用哪一个模型。</p>
+<p>更有意思的是，装上 Paseo 提供的 Skill 之后，还能让这几家 Agent 互相协作执行任务。</p>
+<p>比如输入 <code class="notranslate">/paseo-handoff</code> 指令，可以把任务从一个 Agent 交接给另一个。</p>
+<p>比如我们可以先让 Claude 做需求规划，然后再交接给 Codex 去开发实现功能。</p>
+<p>而 <code class="notranslate">/paseo-advisor</code> 指令，则是拉一个 Agent 过来当顾问，只给意见，不接手干活。</p>
+<p>还有一个 <code class="notranslate">/paseo-committee</code> 指令，能让两个风格不同的 Agent 组成一个小组，一起分析问题根因并给出方案，也方便对比。</p>
+<p>这种跨着 Agent 的协作，也只有把它们放到同一个地方管理之后，才配合得如此丝滑。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f2acec159ebab5fa502c6ced1df8fad698f9758e0a2dd7e492251a6a5e68c29/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d6f356b684b7153734349754837786b58484b4f4d7a66767a6f575736507272534f69625075496d556e725a7a69636e4d30774a4474786634594f55325751366a36373966665a6b696379386d4d57616e39554b6b4b3862796b3157716b6e32746c67452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/5f2acec159ebab5fa502c6ced1df8fad698f9758e0a2dd7e492251a6a5e68c29/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6d6f356b684b7153734349754837786b58484b4f4d7a66767a6f575736507272534f69625075496d556e725a7a69636e4d30774a4474786634594f55325751366a36373966665a6b696379386d4d57616e39554b6b4b3862796b3157716b6e32746c67452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQomo5khKqSsCIuH7xkXHKOMzfvzoWW6PrrSOibPuImUnrZzicnM0wJDtxf4YOU2WQ6j679ffZkicy8mMWan9UKkK8byk1Wqkn2tlgE/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>另外 Paseo 还提供 iOS 和 Android 手机客户端，在桌面端的设置里配对一下设备就能连上。</p>
+<p>连上之后，就可以手机上看到的就是电脑上那一份 Agent 列表，不管是哪家的都在里面。</p>
+<p>出门吃个饭的工夫，任务跑到哪了、要不要再补一句指令，拿出手机就能处理。</p>
+<p>在手机上打字写需求多少有点麻烦，所以它还支持语音，直接口述任务也行。</p>
+<p>而且语音识别可以放在本机上运行，不用担心录音被传到别处去。</p>
+<p>除了手机，还有桌面端、Web 端和命令行可以用，连的都是电脑上同一个本地服务。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a633533fd4c13ec20b093e5f3f02603d33947632216817174d560097368ebd0e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6c69613271626963557243453136334a35595870486269635261764c78316556486c6a7038696276764b5135386b6e42383973504d5661686772744a667254424868666568705872425a4b4271716f4c30715441415537524c4d306b684d644e55623836552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/a633533fd4c13ec20b093e5f3f02603d33947632216817174d560097368ebd0e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6c69613271626963557243453136334a35595870486269635261764c78316556486c6a7038696276764b5135386b6e42383973504d5661686772744a667254424868666568705872425a4b4271716f4c30715441415537524c4d306b684d644e55623836552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQolia2qbicUrCE163J5YXpHbicRavLx1eVHljp8ibvvKQ58knB89sPMVahgrtJfrTBHhfehpXrBZKBqqoL0qTAAU7RLM0khMdNUb86U/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>几个 Agent 同时改一个项目，最怕的就是互相覆盖文件，这点 Paseo 也考虑到了。</p>
+<p>它可以给每个 Agent 单独建一个 git worktree，各自在独立的目录和分支里干活，互相碰不到。</p>
+<p>等 Agent 改完之后，直接在界面里对照着基线分支看改动，确认没问题再合并，或者顺手开一个 PR。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b85b66b7011171aa46a44c42b5164bf865801cd4402737d80a8924d6582806bf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b50344d4d505953794d74303063475a797369636b7046426e4c486e4654324854624d4d734243616961484b5358707934696359665a59753257706c73557a48744437737758444a716c6668656c435769626961476b645752334978636f5a597065734c57772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/b85b66b7011171aa46a44c42b5164bf865801cd4402737d80a8924d6582806bf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6b50344d4d505953794d74303063475a797369636b7046426e4c486e4654324854624d4d734243616961484b5358707934696359665a59753257706c73557a48744437737758444a716c6668656c435769626961476b645752334978636f5a597065734c57772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQokP4MMPYSyMt00cGZysickpFBnLHnFT2HTbMMsBCaiaHKSXpy4icYfZYu2WplsUzHtD7swXDJqlfhelCWibiaGkdWR3IxcoZYpesLWw/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>隐私方面，项目没有遥测、没有追踪，也不强制我们登录账号。</p>
+<p>手机配对走的是端到端加密的中继，不想用中继的话，也可以通过 Tailscale 这类工具直连。</p>
+<p>另外 App 里能做的事，在终端里用命令行也都能做，还提供了 TypeScript SDK 方便接进自己的工具里。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed46ebbd1f0546fe5271dfe07c33eb99b505ee435ee44ce4d4ac85cb4bcb52b9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6c35686d676871394a5935387436505569624a70413544673269614a6d4258457676305246483462393237534a6f69615039724353795a68325471486961553767755269635a6e4d636e445750626459744f77394f4e784946464c6b6c566648497739714c592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/ed46ebbd1f0546fe5271dfe07c33eb99b505ee435ee44ce4d4ac85cb4bcb52b9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6c35686d676871394a5935387436505569624a70413544673269614a6d4258457676305246483462393237534a6f69615039724353795a68325471486961553767755269635a6e4d636e445750626459744f77394f4e784946464c6b6c566648497739714c592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQol5hmghq9JY58t6PUibJpA5Dg2iaJmBXEvv0RFH4b927SJoiaP9rCSyZh2TqHiaU7guRicZnMcnDWPbdYtOw9ONxIFFLklVfHIw9qLY/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>上手也比较简单，前提是电脑上至少装好了一个 Agent CLI，并且已经配好自己的账号。</p>
+<p>因为 Paseo 本身不提供模型服务，用的都是我们自己原有的订阅，项目开源免费。</p>
+<p>到官网或者 GitHub 的发布页面下载桌面端，打开之后本地服务会自动启动，不用再装别的东西。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da6f58875d110f8f4ccf80dae1f0082baeb5908bf7018ea660422f781e069bd0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6c47623669637a464b78786d6655786a796145776961376c434b6963644f756344676c4545567155524d583769624d3169636e4430386a474e6c375557343259677455353566427a3045394e63354d59564d49726c55546462744155326963796b36754b4863302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/da6f58875d110f8f4ccf80dae1f0082baeb5908bf7018ea660422f781e069bd0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f736e784948577577516f6c47623669637a464b78786d6655786a796145776961376c434b6963644f756344676c4545567155524d583769624d3169636e4430386a474e6c375557343259677455353566427a3045394e63354d59564d49726c55546462744155326963796b36754b4863302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/snxIHWuwQolGb6iczFKxxmfUxjyaEwia7lCKicdOucDglEEVqURMX7ibM1icnD08jGNl7UW42YgtU55fBz0E9Nc5MYVMIrlUTdbtAU2icyk6uKHc0/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>要是想放到服务器或者远程机器上跑，也可以用命令行的方式来安装，两条命令即可：</p>
+<div class="highlight highlight-source-css"><pre class="notranslate"><span class="pl-ent">npm</span> <span class="pl-ent">install</span> <span class="pl-ent">-g </span><span class="pl-k">@getpaseo</span><span class="pl-c1">/</span>cli
+paseo</pre></div>
+<p>启动时会询问要不要开启加密中继，主要是用来给手机配对，按引导操作即可。</p>
+<p>另外官方也提供了 Docker 镜像，大家可以自由选择哪种方式使用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb715db1eb8c2a6105e681b8c001ab9888fdaf3927e314e8772635d32ed19ac4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6c746a444d5a696147483777464c656961484d395534487949575473616e754a4b6f42464552656f6963773469634d3771365475673043333261486e7a6437334a355a743668644e4a43315451726162306962623131304b77754467456e4e6f3069625479646b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/cb715db1eb8c2a6105e681b8c001ab9888fdaf3927e314e8772635d32ed19ac4/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f736e784948577577516f6c746a444d5a696147483777464c656961484d395534487949575473616e754a4b6f42464552656f6963773469634d3771365475673043333261486e7a6437334a355a743668644e4a43315451726162306962623131304b77754467456e4e6f3069625479646b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/snxIHWuwQoltjDMZiaGH7wFLeiaHM9U4HyIWTsanuJKoBFEReoicw4icM7q6Tug0C32aHnzd73J5Zt6hdNJC1TQrab0ibb110KwuDgEnNo0ibTydk/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<h3>写在最后</h3>
+<p>今年新的 Agent 工具一个接一个地出，很多人电脑上都不止装了一个。</p>
+<p>但真正天天在用的人会发现，麻烦往往不在哪个 Agent 更聪明，而在同时开着好几个管不过来。</p>
+<p>Paseo 选的这条路挺聪明，它不去造一个新的 Agent，只做管理这一层，还能通过插件接入新的 Agent。</p>
+<p>在我看来，往后 Agent 只会越来越多，各家都想把人留在自己的 App 里，统一入口这件事只能由第三方来做。</p>
+<p>所以同时在用两三家命令行 Agent、又经常并行跑好几个任务的朋友，很适合装上 Paseo 试一试。</p>
+<p>往后再多装一个新的 Agent，只要 Paseo 支持，就不用多开一个窗口、多装一个 App 了。</p>
+<p>GitHub 项目地址：<a href="https://github.com/getpaseo/paseo">https://github.com/getpaseo/paseo</a></p>
+<p>今天的分享到此结束，感谢大家抽空阅读，我们下期再见，Respect！</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
