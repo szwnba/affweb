@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="💡 极客导读 · 进阶实操
+
+       上一期我们手把手教大家搞定了 Meta Muse 的海外环境、突破了年龄认证，并领到了 **300 亿基础额度 + 10 亿专属邀请码**。">
+<meta property="og:title" content="注册了Meta Muse不知道怎么玩？这1081个真实用例直接抄作业！">
+<meta property="og:description" content="💡 极客导读 · 进阶实操
+
+       上一期我们手把手教大家搞定了 Meta Muse 的海外环境、突破了年龄认证，并领到了 **300 亿基础额度 + 10 亿专属邀请码**。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/zhu-ce-le-Meta%20Muse-bu-zhi-dao-zen-me-wan-%EF%BC%9F-zhe-1081-ge-zhen-shi-yong-li-zhi-jie-chao-zuo-ye-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>注册了Meta Muse不知道怎么玩？这1081个真实用例直接抄作业！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">注册了Meta Muse不知道怎么玩？这1081个真实用例直接抄作业！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/807" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>💡 极客导读 · 进阶实操</p>
+<p>       上一期我们手把手教大家搞定了 Meta Muse 的海外环境、突破了年龄认证，并领到了 <strong>300 亿基础额度 + 10 亿专属邀请码</strong>。但不少读者反馈：<em>“账号搞定了，Token 也到手了，但进到后台对着空白对话框完全懵了——它到底能帮我干啥？”</em> 今天就为大家深扒目前海外爆火的开源用例宝库（收录了 <strong>1,081 个一手实操项目</strong>），带你看看全球极客是怎样把它当成全天候数字劳动力“疯狂榨干”的！     </p>
+<p>一、 底层认知颠覆：Muse 根本不是聊天框！</p>
+<p>如果你把 Meta Muse 当作 ChatGPT 或 Claude 那样“你问一句、它答一段”的聊天机器人，那真的是暴殄天物了。</p>
+<p>传统的大语言模型是一个**「顾问」<strong>——它只能在你的浏览器窗口里给你出谋划策，最后点鼠标、填表单、查数据的脏活累活还得你亲手干。而 Meta Muse 的本质是一个</strong>「拥有独立操作环境的全天候数字打工人（Agent）」**：</p>
+<p>     • <strong>全自主环境</strong>：它拥有自己的虚拟沙箱和浏览器，不需要你时刻盯着屏幕；<br>
+     • <strong>异步任务执行</strong>：交代一个任务后，你哪怕关机去睡觉或去健身，它会在后台持续跑几十分钟甚至几小时，直到把整套流程执行完毕；<br>
+     • <strong>连接器（Connectors）打通现实世界</strong>：它不仅能读网页，还能直接接管你的邮件系统、广告投放后台、社交账号，甚至远程调度外部硬件。   </p>
+<p>二、 藏宝图公开：被全球极客推爆的 1081 个实测用例库</p>
+<p>为了弄清楚 Muse 在真实世界里到底被用到了什么极致境界，海外独立开发者社区专门搭建了一个名为 <strong>shipwithmuse.live</strong> 的开源目录：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/be6c1cb569b4af50587493578f63f1146648041a167d4499e1daee26bdd04c4f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f44745132417453366e38684358304e385642493277744e5549653769634851326664427467446b4938643856304f6137376b6e465a623445446e64494f587769627250796546357468385878774a61426868463776637638757756536750536a58453356504a646a466b46574d2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/be6c1cb569b4af50587493578f63f1146648041a167d4499e1daee26bdd04c4f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f44745132417453366e38684358304e385642493277744e5549653769634851326664427467446b4938643856304f6137376b6e465a623445446e64494f587769627250796546357468385878774a61426868463776637638757756536750536a58453356504a646a466b46574d2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/DtQ2AtS6n8hCX0N8VBI2wtNUIe7icHQ2fdBtgDkI8d8V0Oa77knFZb4EDndIOXwibrPyeF5th8XxwJaBhhF7vcv8uwVSgPSjXE3VPJdjFkFWM/640?from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a><br>
+     </p>
+<p>▲ 图 1：shipwithmuse.live 官方 1081 个实测用例全景看板</p>
+<p>该用例库汇集了全网 X（Twitter）、Reddit、GitHub 以及 YouTube 上的真实案例，目前已收录 <strong>1,081 个有据可查的落地项目</strong>。它不是空谈概念，而是每一个都带有真实截图、完整代码或实测视频。下面我们挑出其中最具代表性的 4 大神仙流派供你直接抄作业！</p>
+<p>三、 四大神仙流派：教你用几十亿 Token 真正产生生产力</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2a7fbc14fae67e16e9e733e1feda7ae78fe258ca0654ea6c44301f46c48adf8e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44745132417453366e386a684e305969634670704f6d5956614d416869613366584741685a47344c52334f687a77746a415577665277426d5771457871517556415969637038567174395076527967514a68376651746752786961696339684f547635434562463435536e77317652492f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/2a7fbc14fae67e16e9e733e1feda7ae78fe258ca0654ea6c44301f46c48adf8e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f44745132417453366e386a684e305969634670704f6d5956614d416869613366584741685a47344c52334f687a77746a415577665277426d5771457871517556415969637038567174395076527967514a68376651746752786961696339684f547635434562463435536e77317652492f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/DtQ2AtS6n8jhN0YicFppOmYVaMAhia3fXGAhZG4LR3OhzwtjAUwfRwBmWqExqQuVAYicp8Vqt9PvRygQJh7fQtgRxiaic9hOTv5CEbF45Snw1vRI/640?from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a><br>
+     </p>
+<p>▲ 图 2：海外开发者实测：每周省下 $1,742 广告费 &amp; 批量全自动删除数据隐私</p>
+<p>▍ 流派 1：全自动数字跑腿（Errands）—— 真正替你省钱和赚钱</p>
+<p>这是用例库中数量最多（206 个用例）也是回报最直接的玩法。只要给它明确的目标，它就是你不知疲倦的私人助理：</p>
+<p>• <strong>神仙案例 A：每周帮博主止损 $1,742 广告费</strong><br>
+   海外博主 Dmitry Korzhov 分享：他只问了 Muse 一句话：<em>“帮我查查上周的广告投放消耗”</em>。Muse 在后台自主抓取了 Meta Ads、Pixel 和 GA4 的数据，发现转化数据对不上；随后自动按受众年龄、设备和素材拆解，<strong>揪出了 4 个已经死掉却每天在偷偷空耗预算的广告组</strong>，每周替他省下 <strong>$1,742 美元（约合 1.2 万元人民币）</strong>！</p>
+<p>• <strong>神仙案例 B：免费替代付费隐私工具（DIY Incogni）</strong><br>
+   在海外，为了防止个人信息被垃圾邮件轰炸，许多人每月花几十刀买 Incogni 服务。而一位极客仅用了 Muse 每周 2% 的免费额度，命令它：<em>“扫描所有收集过我个人信息的数据经纪商（Data Brokers），代表我批量发送 GDPR / CCPA 个人数据删除要求邮件”</em>。Muse 自主在后台发完了全部合规邮件，完全零成本平替了专业付费服务！</p>
+<p>• <strong>神仙案例 C：人在健身房，AI 替你二手砍价</strong><br>
+   用户在健身房运动，Muse 在后台自动连接二手市场挂单二手物品，并在买家发来私信时<strong>全自主进行价格博弈和砍价沟通</strong>，直接把最终成交单推送到用户手机上。</p>
+<p>📋 抄作业 Prompt 模板 · 自动财务/数据巡检助理：</p>
+<p>You are my autonomous auditing agent. Connect to my [Platform/Service] reports for the last 7 days. 1. Compare my total ad spend against my actual revenue and conversions. 2. Identify any campaigns, ad sets, or subscriptions that have zero conversions or anomalous cost spikes. 3. Generate a prioritized executive report highlighting where budget is leaking and outline the exact pause/stop actions I should take.</p>
+<p>▍ 流派 2：极客与开发专属（Coding &amp; Dev Tools）—— 174 个实操</p>
+<p>对于程序员和独立开发者，Muse 的代码能力更是强悍到了恐怖的程度：</p>
+<p>• <strong>一句话生成带音效的 3D 游戏（One-Shot Game Dev）</strong>：直接用自然语言描述规则，Muse 能单次生成包含物理引擎、真实立体音效的 3D 乒乓球或海盗跳跃游戏；<br>
+   • <strong>VS Code 原生常驻结对</strong>：通过社区开源的 <code class="notranslate">Muse Spark Code</code> 插件，你可以直接把 Muse 的执行能力装进本地 VS Code 编辑器，让它直接在工作区帮你读写代码、运行终端测试；<br>
+   • <strong>Unity CLI 自动化转 VR</strong>：有团队利用 Muse 编排 Unity 命令行工具，将传统的 Mini Golf 项目全自动编译适配为 Meta Quest 上的 VR 版本。</p>
+<p>▍ 流派 3：连接器生态（Connectors &amp; MCP）—— Muse 的“App Store 时刻”</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a625ab6b9b5b02bdf0ecdd4e38ca1e393373880c542eeb8193e113f1028aa8a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f44745132417453366e386a5269616141637935756a4266534a634d346755573144566b46577a77346a4c4f444d65796f5754626571776542516771614633543139656373686773784869634e656b6e50454c5830484f79696235303469634137664b4e537a466465336b37757330592f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/7a625ab6b9b5b02bdf0ecdd4e38ca1e393373880c542eeb8193e113f1028aa8a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f44745132417453366e386a5269616141637935756a4266534a634d346755573144566b46577a77346a4c4f444d65796f5754626571776542516771614633543139656373686773784869634e656b6e50454c5830484f79696235303469634137664b4e537a466465336b37757330592f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/DtQ2AtS6n8jRiaaAcy5ujBfSJcM4gUW1DVkFWzw4jLODMeyoWTbeqweBQgqaF3T19ecshgsxHicNeknPELX0HOyib504icA7fKNSzFde3k7us0Y/640?from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a><br>
+     </p>
+<p>▲ 图 3：涵盖全网 18 个平台的社交调度与外部连接器矩阵</p>
+<p>如果说模型本身是大脑，<strong>连接器（Connectors）就是 Muse 的双手双脚</strong>。在用例库中，极客们构建了各种脑洞大开的插件：</p>
+<p>• <strong>posterly</strong>：只要在 Muse 里确认一篇文章或一段动态，连接器会自动同步分发到 Twitter、LinkedIn、Threads 等全球 18 个主流社媒平台；<br>
+   • <strong>硬件实体互联</strong>：甚至有极客编写了专属协议，让 Muse 在收到网络指令后，自主驱动实体机械小车（Rover）在房间内避障巡逻。</p>
+<p>▍ 流派 4：本地与离线开源部署（Muse Glimmer）</p>
+<p>很多团队担心把敏感商业数据上传云端，Meta 也早有准备——官方开源了名为 <strong>Muse Glimmer 30B</strong> 的本地小钢炮模型：</p>
+<p>在用例库中有大量的本地实测：在搭载 M3 Max / M5 Max 的 Mac 电脑上，或者通过浏览器端 WebGPU 纯本地无损跑 Glimmer，不仅响应飞快，而且商业机密 100% 不出本地！</p>
+<p>四、🎁 新读者快速上车：兑现邀请码，各得 10 亿词元！</p>
+<p>如果你还没有 Muse 账号，或者刚注册还没领取额外奖励，请务必在加入后的 <strong>48 小时内</strong>，通过账号的**“设置（Settings）”<strong>兑现以下任一专属邀请码，我们就能</strong>分别获得 10 亿个额外 Muse 词元（Token）**：</p>
+<p>VIP 专属邀请码 01</p>
+<p>       E1C4EM     </p>
+<p>       👉 快速加入通道：<a href="https://muse.ai/join" rel="nofollow">https://muse.ai/join</a><br>
+<em>注：请在加入后 48 小时内前往设置兑现，立享 10 亿额外词元额度！</em></p>
+<p>VIP 专属邀请码 02</p>
+<p>       48T4WJ     </p>
+<p>       👉 快速加入通道：<a href="https://muse.ai/join" rel="nofollow">https://muse.ai/join</a><br>
+<em>注：请在加入后 48 小时内前往设置兑现，立享 10 亿额外词元额度！</em></p>
+<p>       💡 极客降维 · 星语手记     </p>
+<p>       从单向问答的 ChatBot 到能够自主行动、调度全网 API 的 Agent，以 Meta Muse 为代表的智能体生态正在掀起下一场生产力革命。工具就在手边，Token 也管够，差的只是你脑海中的一个任务指令。建议打开 <strong>shipwithmuse.live</strong>，按你的业务领域搜索几个灵感案例，真正让 AI 替你把繁琐的生活与开发日常接管起来！     </p>
+<p>极客降维打击 · 深度实操</p>
+<p>拆解全球前沿开源项目与实用AI工具，把复杂技术降维讲透。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
