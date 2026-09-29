@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="今天，我做了一个决定，把我那个月活百万的AI热点资讯网站。">
+<meta property="og:title" content="开源100万月活级产品AIHOT，愿每个行业也都有自己的「AIHOT」。">
+<meta property="og:description" content="今天，我做了一个决定，把我那个月活百万的AI热点资讯网站。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/kai-yuan-100-wan-yue-huo-ji-chan-pin-AIHOT%EF%BC%8C-yuan-mei-ge-xing-ye-ye-du-you-zi-ji-de-%E3%80%8CAIHOT%E3%80%8D%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>开源100万月活级产品AIHOT，愿每个行业也都有自己的「AIHOT」。</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">开源100万月活级产品AIHOT，愿每个行业也都有自己的「AIHOT」。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/803" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>今天，我做了一个决定，把我那个月活百万的AI热点资讯网站。</p>
+<p>AIHOT，正式开源。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bc40bc0ac8dddb0c65696d33007002c916753d235e3af95d021d0ccf0db5f8ad/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71576e716a4c53706f5a4e45594675397246696356696232696269615755305449303553367a67566763757750675a494b474e6962734c3343515031453076567961654441336b6d3864657345666d6e62364f30514d6b58514d3169616869637662426b6b364366592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/bc40bc0ac8dddb0c65696d33007002c916753d235e3af95d021d0ccf0db5f8ad/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71576e716a4c53706f5a4e45594675397246696356696232696269615755305449303553367a67566763757750675a494b474e6962734c3343515031453076567961654441336b6d3864657345666d6e62364f30514d6b58514d3169616869637662426b6b364366592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqWnqjLSpoZNEYFu9rFicVib2ibiaWU0TI05S6zgVgcuwPgZIKGNibsL3CQP1E0vVyaeDA3km8desEfmnb6O0QMkXQM1iahicvbBkk6CfY/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>就是这个小东西，网址在此（前段时间刚买下的新域名，是不是很好记哈哈哈）：<a href="https://aihot.news/" rel="nofollow">https://aihot.news/</a></p>
+<p>这个小东西真的迭代了很久了，本来是我们公司自己内部用的一个监控热点帮我们找选题的、连网站都没有的飞书机器人，没想到，发展到了今天，居然都有了百万月活，有了近10万的Skill用户，更别提有多少基于AIHOT的API进行二次开发的对外分发的项目了。</p>
+<p>从年前借助AI开发第一版到现在，一晃眼，7、8个月就这么过去了。</p>
+<p>很多人问我说，为啥你到现在都不商业化，为啥一直免费做，是不是未来要割把大的。。。</p>
+<p>我每次都很无语，我其实就是单纯的很喜欢做产品，可能也是我自己的性格的原因，大家的鼓励和正反馈，真的是我无数个深夜最大的动力。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/41a31fa708fbb217e4bacd7551287fdecd06fa4e2c3585e5ea97857ff2ef1363/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71584c6b30563144624f5070646961665536717836494e376134646e306531393147686443384869623351325a446e66424965797a63326963426b6b76544d31685579537a63426f303375315a6963443852416b41574d3648556d66314245544363687738302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/41a31fa708fbb217e4bacd7551287fdecd06fa4e2c3585e5ea97857ff2ef1363/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71584c6b30563144624f5070646961665536717836494e376134646e306531393147686443384869623351325a446e66424965797a63326963426b6b76544d31685579537a63426f303375315a6963443852416b41574d3648556d66314245544363687738302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqXLk0V1DbOPpdiafU6qx6IN7a4dn0e191GhdC8Hib3Q2ZDnfBIeyzc2icBkkvTM1hUySzcBo03u1ZicD8RAkAWM6HUmf1BETCchw80/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>然后就说到开源AIHOT。</p>
+<p>这个念头其实有很久了，因为过去有无数的朋友，在我的各种平台下或评论或私信。</p>
+<p>他们有法律行业的、有HR行业的、有金融行业的、有贵金属行业的等等等等，每一个人，都有监控自己行业一些最新资讯和热点的需求。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/53c9a1497a3e87a712e71fbada94a71edd7ddfe9f72b7907357fca7d7ec8049a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71566d594b776f5256633873685348474c5134644455636871793357357a346a5a6e4e414e577051766f6243414755526e656e6b4a415975676d754a394351616a33615a67423666613534434f464a696146516274485267566b616d525a4169616162342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/53c9a1497a3e87a712e71fbada94a71edd7ddfe9f72b7907357fca7d7ec8049a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71566d594b776f5256633873685348474c5134644455636871793357357a346a5a6e4e414e577051766f6243414755526e656e6b4a415975676d754a394351616a33615a67423666613534434f464a696146516274485267566b616d525a4169616162342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqVmYKwoRVc8shSHGLQ4dDUchqy3W5z4jZnNANWpQvobCAGURnenkJAYugmuJ9CQaj3aZgB6fa54COFJiaFQbtHRgVkamRZAiaab4/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>但是我不可能满足大家所有的需求，一个是我没有那么大的精力，第二个是我也没有那个行业的KnowHow，我连什么是有用的信源都不知道，那我怎么可能能做好呢？</p>
+<p>所以其实在过去，我一直就有把这个东西开源给所有人的想法。</p>
+<p>既然我没有办法满足所有人，那不如就把火种交到大家自己的手上。</p>
+<p>但是这个想法一拖，就拖到了今天。</p>
+<p>原因很简单，是因为我感觉我没有脸开源，之前这个AIHOT的架构，做的实在是太烂了，半年前，我对于开发是一个完完全全的门外汉，一丁点都不懂，现在我能算是一个外行，对于一些大的架构什么的，开始有一些了解了，毕竟真的是在干中学，学了半年的时间。</p>
+<p>所以呢，之前的AIHOT就是一个大型的屎山，经常改了这个地方，另一个地方出bug了，改个模型榜，我都不知道热点榜是怎么能崩掉的。</p>
+<p>它每天也给我弹无数的告警和报错信息。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5569303425e5c8fbbabe8affb0f81ccdf564ad3b98bb67ecd4f16f02452d6134/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715551366176396244596752546961686273617a724d6a424a4b33696255696261384963384738514666696354686a7556374b4c547a7543324a4576675764616f666f417357527833757a4d325a6635546e536c794f526c56363532734a49734b6e4f6a34632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/5569303425e5c8fbbabe8affb0f81ccdf564ad3b98bb67ecd4f16f02452d6134/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715551366176396244596752546961686273617a724d6a424a4b33696255696261384963384738514666696354686a7556374b4c547a7543324a4576675764616f666f417357527833757a4d325a6635546e536c794f526c56363532734a49734b6e4f6a34632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqUQ6av9bDYgRTiahbsazrMjBJK3ibUiba8Ic8G8QFficThjuV7KLTzuC2JEvgWdaofoAsWRx3uzM2Zf5TnSlyORlV652sJIsKnOj4c/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>你就说吓不吓人吧。</p>
+<p>每天早上醒来，我都胆战心惊，特别害怕看到飞书上这个群又有十几条的未读消息。</p>
+<p>所以这样的屎山，我怎么敢给大家开源呢？这不是找骂吗？</p>
+<p>于是，时间就这么一点一点过去了，几个月的时间，转瞬即逝。</p>
+<p>直到，这个中秋。</p>
+<p>我终于有了3天几乎可以不需要出门，不需要跟外界有进行任何交流的假期，可以安安心心的在家里vibe coding，玩AI，做我喜欢的东西。</p>
+<p>于是，那个念头又回来了。</p>
+<p>重写一下AIHOT，然后，给大家开源吧。</p>
+<p>你知道的，念头这个东西，一旦在你脑海中形成了，就再也挥之不去了。</p>
+<p>念念不忘，必有回响。</p>
+<p>于是，说干就干。</p>
+<p>我花了一天的时间，搞定了Claude账号，这次，终于可以常用不被封号了（不要问我怎么解决的，有心的可以去我的X上搜），然后用上了Claude Opus 5.5。</p>
+<p>用上的那一刻，就是如图的表情。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d0e8e6c2a1cc31a0fe9e5b4bd59c1d318bce1d4868a7d8d795c1aa67c7291a2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71554b4b71436e656b787969617365576d696269634f66326962516754555a784f6166536a6e6b4b655876706269626146453043376b72357a78664b4757746f44674f6a62345a414b426961553869626c427958437a654867644a315054504c456c38576533664b302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/1d0e8e6c2a1cc31a0fe9e5b4bd59c1d318bce1d4868a7d8d795c1aa67c7291a2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71554b4b71436e656b787969617365576d696269634f66326962516754555a784f6166536a6e6b4b655876706269626146453043376b72357a78664b4757746f44674f6a62345a414b426961553869626c427958437a654867644a315054504c456c38576533664b302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqUKKqCnekxyiaseWmibicOf2ibQgTUZxOafSjnkKeXvpbibaFE0C7kr5zxfKGWtoDgOjb4ZAKBiaU8iblByXCzeHgdJ1PTPLEl8We3fK0/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>Claude Opus 5.5和GPT-6 Astra在手，终于，我开启了重写的日子。</p>
+<p>作为一个纯粹的外行，你让我去重写整个的项目，那几乎是不可能的。</p>
+<p>所以这个事，当然就需要交给最强的AI了。</p>
+<p>那大家也都知道，AI会有个问题，就是即使强如Claude Opus 5.5和GPT-6 Astra这样的模型，一旦读了历史的代码库，它也会受屎山影响，导致我们整个的重构是不完整、不彻底，是没有办法从底层进行重构的。</p>
+<p>那有没有更好的方式呢？</p>
+<p>我想到了一个办法，就是回归到第一性原理。为什么要看那些代码呢？我们本质上是要给用户提供我们的功能，根本没有人关心背后的代码是怎么写的，只要你的功能提供的准确，用户体验足够好，速度足够的快，那就是好东西。</p>
+<p>所以，那不如回归到一个产品经理最原始的东西吧。</p>
+<p>我们把整个的旧代码库蒸馏成一个全面的解耦的功能文档。</p>
+<p>于是，我打开了Codex，选中GPT-6 Astra，我就先发了这么一段，直接口喷的，大家可以无视。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1c0b8844ad291b7b5de8b0a28f84dc6ff70edbaf627aba358cc8dc944778fb05/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71566769613258476231314373335474726a3635656272414543453862465a384447733539427639564a715779686178427569626a416a59706961303730324f574a5a7341626d5336326962483372324e534b736c616f56696269636542576963394a47366d4773772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/1c0b8844ad291b7b5de8b0a28f84dc6ff70edbaf627aba358cc8dc944778fb05/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71566769613258476231314373335474726a3635656272414543453862465a384447733539427639564a715779686178427569626a416a59706961303730324f574a5a7341626d5336326962483372324e534b736c616f56696269636542576963394a47366d4773772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqVgia2XGb11Cs3Ttrj65ebrAECE8bFZ8DGs59Bv9VJqWyhaxBuibjAjYpia0702OWJZsAbmS62ibH3r2NSKslaoVibiceBWic9JG6mGsw/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>在给了我一顿回复和分析之后，我又发了一段更加傻瓜式的Prompt，里面有可能有一些夸张式不现实的要求，反正是让AI干活，大家懂那个意思就好。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/379c4aaa5e182f4a85072b525896894df88314bbdc1e2f8d917677038a7f9385/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7158755878796b556a54383869624d55633969637069616c5a58324d524361486c73346961416a7637716639326a716961794d6e7546583542794c45596a50676962414648504d37327562626152755879633672426d6f52507a69616b347143714236346f6961466e732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/379c4aaa5e182f4a85072b525896894df88314bbdc1e2f8d917677038a7f9385/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7158755878796b556a54383869624d55633969637069616c5a58324d524361486c73346961416a7637716639326a716961794d6e7546583542794c45596a50676962414648504d37327562626152755879633672426d6f52507a69616b347143714236346f6961466e732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqXuXxykUjT88ibMUc9icpialZX2MRCaHls4iaAjv7qf92jqiayMnuFX5ByLEYjPgibAFHPM72ubbaRuXyc6rBmoRPziak4qCqB64oiaFns/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>然后记得，还要让模型出一个交接包。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4e3c577f45d8b63548187b889ab650882ca2a9457ba1beb262017996c0a2194f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71565a416963396670506f4e4770507869636b72314857384572776b6f45635566564a516838616248337438476365504d597558363757426d614237675871685034475453683748766f4c49525464386f53344e496961346a674a3632686d7564774462412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/4e3c577f45d8b63548187b889ab650882ca2a9457ba1beb262017996c0a2194f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71565a416963396670506f4e4770507869636b72314857384572776b6f45635566564a516838616248337438476365504d597558363757426d614237675871685034475453683748766f4c49525464386f53344e496961346a674a3632686d7564774462412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqVZAic9fpPoNGpPxickr1HW8ErwkoEcUfVJQh8abH3t8GcePMYuX67WBmaB7gXqhP4GTSh7HvoLIRTd8oS4NIia4jgJ62hmudwDbA/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>在跑Codex的时候，我同时又打开了Claude，选中Claude Fable 5.1。</p>
+<p>让它干一遍跟GPT-6 Astra同样的活，尽可能的让这个文档和交接包做的更加合理。</p>
+<p>再然后，就是让Claude Opus 5.5审查和开发了。</p>
+<p>在我整个的流程中，Claude Opus 5.5都是绝对的开发主力，这一次，Claude是真的太强了，不仅模型智力极强，还是一个究极水桶，无论是审美还是写文章，还是开发，还是耐用度，还是在理解你的需求上，都是这个时代独一档的模型。</p>
+<p>甚至还有人做了这张图。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e04749c45d405dc890b87fe870393a3f6ca6f2d9f04b678c146bc076e28a31aa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71586a6669637369627a364f4b5a364d4b32524a6c706e6d68727333346361574f33334f7566356c715470366b6f5449653269613437674a63437575747436454e76747862797869613631543754623741794c7a53366e71444e4d414f57717a4b616847774d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/e04749c45d405dc890b87fe870393a3f6ca6f2d9f04b678c146bc076e28a31aa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71586a6669637369627a364f4b5a364d4b32524a6c706e6d68727333346361574f33334f7566356c715470366b6f5449653269613437674a63437575747436454e76747862797869613631543754623741794c7a53366e71444e4d414f57717a4b616847774d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqXjficsibz6OKZ6MK2RJlpnmhrs34caWO33Ouf5lqTp6koTIe2ia47gJcCuutt6ENvtxbyxia61T7Tb7AyLzS6nqDNMAOWqzKahGwM/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>整个重写的过程就不给大家一一赘述了，在开发完以后，我总结了12步。</p>
+<p>有兴趣的可以看一看，当然我不是什么专业开发者，我就是一个设计师出身的纯外行，我只是分享一下我自己的重写过程，这个过程如果能对大家有一点点启发，那我觉得就很棒了。。。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a03945b1e32651db0db75406fe80bd512bb6b147492caa0c5c5a615c0ff47a28/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f326a6a66516f5a4c6f71575278466b6a4c33746d3648544a7572634c376d3143464c7277595658366b445a5a34553154676569616a4c4d4e6132627769614d44416c526250684d336f564665464c69626d5735367253324b39333950757173774b6154314d4a6377684d614543382f3634303f77785f666d743d6a70656723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/a03945b1e32651db0db75406fe80bd512bb6b147492caa0c5c5a615c0ff47a28/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f326a6a66516f5a4c6f71575278466b6a4c33746d3648544a7572634c376d3143464c7277595658366b445a5a34553154676569616a4c4d4e6132627769614d44416c526250684d336f564665464c69626d5735367253324b39333950757173774b6154314d4a6377684d614543382f3634303f77785f666d743d6a70656723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2jjfQoZLoqWRxFkjL3tm6HTJurcL7m1CFLrwYVX6kDZZ4U1TgeiajLMNa2bwiaMDAlRbPhM3oVFeFLibmW56rS2K939PuqswKaT1MJcwhMaEC8/640?wx_fmt=jpeg#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>最终的重写结果，大家可以看看这个图。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/776b5e88fd6fab6be616cc4f678962519c8710f780f2cc26d013e0993a651000/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a6a66516f5a4c6f71556962433253516f65546b696135424b6963374f5739696375585669614f623842746e6455795057593549587866314359696268476d324e53626a70797645454c736a574d784d7a674b6f46706e616a47496e34365458446c637975596738664c306d553675512f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/776b5e88fd6fab6be616cc4f678962519c8710f780f2cc26d013e0993a651000/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a6a66516f5a4c6f71556962433253516f65546b696135424b6963374f5739696375585669614f623842746e6455795057593549587866314359696268476d324e53626a70797645454c736a574d784d7a674b6f46706e616a47496e34365458446c637975596738664c306d553675512f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2jjfQoZLoqUibC2SQoeTkia5BKic7OW9icuXViaOb8BtndUyPWY5IXxf1CYibhGm2NSbjpyvEELsjWMxMzgKoFpnajGIn46TXDlcyuYg8fL0mU6uQ/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>整体上架构应该是比较干净的了，对于Agent开发也是非常友好的了，因为模块化足够的清晰，他们只需要去读最少的上下文，就能精准地进行定位，前端也进行了全部的统一，都做成了组件化，几个页面也都重新设计了UI视觉。</p>
+<p>比如日报页。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff3b8b73a9ffd6aaebb22388e2b8821cbcfe614ac31ef5536f62467cbffc55dd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715855774b376b3872304135764b55764e76565853526d62497275616a66696276427a42445348466c474a41396961495876395277515a4c527a704547546a5265546c3374517869626b696341786e47654f4b66554d567957696237776e69616f417055494a54732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/ff3b8b73a9ffd6aaebb22388e2b8821cbcfe614ac31ef5536f62467cbffc55dd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715855774b376b3872304135764b55764e76565853526d62497275616a66696276427a42445348466c474a41396961495876395277515a4c527a704547546a5265546c3374517869626b696341786e47654f4b66554d567957696237776e69616f417055494a54732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqXUwK7k8r0A5vKUvNvVXSRmbIruajfibvBzBDSHFlGJA9iaIXv9RwQZLRzpEGTjReTl3tQxibkicAxnGeOKfUMVyWib7wniaoApUIJTs/640?wx_fmt=png&amp;from=appmsg#imgIndex=11" style="max-width: 100%;"></a></p>
+<p>比如Tibo重置监控页。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab689eccaae446344a1f9f75df09996cc289194d3ee4ddd4fe7dfa489a59bf54/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156413461304f6a46696255416d776a4b7175636a4a41636961594a46766c4853376d5a6b7469624d587568597a6f774d6961705166515451635563383662397a76484d7a5850554a516d34553771564956646e6b564e514b73566b6e696361353254726770412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/ab689eccaae446344a1f9f75df09996cc289194d3ee4ddd4fe7dfa489a59bf54/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156413461304f6a46696255416d776a4b7175636a4a41636961594a46766c4853376d5a6b7469624d587568597a6f774d6961705166515451635563383662397a76484d7a5850554a516d34553771564956646e6b564e514b73566b6e696361353254726770412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqVA4a0OjFibUAmwjKqucjJAciaYJFvlHS7mZktibMXuhYzowMiapQfQTQcUc86b9zvHMzXPUJQm4U7qVIVdnkVNQKsVknica52TrgpA/640?wx_fmt=png&amp;from=appmsg#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>比如热点榜。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/911df26dbe66fe5a650b0efe4fb57954d7feb556af5d8a2612caac8b0519489b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71576c624136527244484c3941304279446559504b3475714b724d4344793562426e3256696367375a6e59517749466a5a6f63366c543377315850324a634d55333539556f734a465835324a6d5a6962576a6d357352427a4e744532654162564b5965382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133"><img src="https://camo.githubusercontent.com/911df26dbe66fe5a650b0efe4fb57954d7feb556af5d8a2612caac8b0519489b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71576c624136527244484c3941304279446559504b3475714b724d4344793562426e3256696367375a6e59517749466a5a6f63366c543377315850324a634d55333539556f734a465835324a6d5a6962576a6d357352427a4e744532654162564b5965382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqWlbA6RrDHL9A0ByDeYPK4uqKrMCDy5bBn2Vicg7ZnYQwIFjZoc6lT3w1XP2JcMU359UosJFX52JmZibWjm5sRBzNtE2eAbVKYe8/640?wx_fmt=png&amp;from=appmsg#imgIndex=13" style="max-width: 100%;"></a></p>
+<p>比如关于页。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5434751f9eeb81038875110cbe1f13c673913404eeebb814e90ef5a9dd8837fe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71566833433335464b304f69635530725a6f5755517a68364d436c304564666c4d3562463438664739547a304a374d616e326632347735685238466a4236434f674c476731696335377a69634b70464f6d36476d764b6e4256364b6b4b467968613669636961672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/5434751f9eeb81038875110cbe1f13c673913404eeebb814e90ef5a9dd8837fe/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71566833433335464b304f69635530725a6f5755517a68364d436c304564666c4d3562463438664739547a304a374d616e326632347735685238466a4236434f674c476731696335377a69634b70464f6d36476d764b6e4256364b6b4b467968613669636961672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqVh3C35FK0OicU0rZoWUQzh6MCl0EdflM5bF48fG9Tz0J7Man2f24w5hR8FjB6COgLGg1ic57zicKpFOm6GmvKnBV6KkKFyha6iciag/640?wx_fmt=png&amp;from=appmsg#imgIndex=14" style="max-width: 100%;"></a></p>
+<p>等等。</p>
+<p>性能和速度上也有了大幅的提升。</p>
+<p>于是，AIHOT 2.0版本也上线了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/75b491b6844667f71c5ac87c3417594061599aa5b46f69c63a9e5660ffbd57c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715832627847564e554877316a7467764d354a434c4b654539656265426a767a53584d344f3337634f6f46696150436c504d5130507a4a79447046466c6d67746f464756774a73556d61457558334f704e714e7042476452526c7a584869636c71524d302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135"><img src="https://camo.githubusercontent.com/75b491b6844667f71c5ac87c3417594061599aa5b46f69c63a9e5660ffbd57c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715832627847564e554877316a7467764d354a434c4b654539656265426a767a53584d344f3337634f6f46696150436c504d5130507a4a79447046466c6d67746f464756774a73556d61457558334f704e714e7042476452526c7a584869636c71524d302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqX2bxGVNUHw1jtgvM5JCLKeE9ebeBjvzSXM4O37cOoFiaPClPMQ0PzJyDpFFlmgtoFGVwJsUmaEuX3OpNqNpBGdRRlzXHiclqRM0/640?wx_fmt=png&amp;from=appmsg#imgIndex=15" style="max-width: 100%;"></a></p>
+<p>我也终于，敢给大家，开源了。</p>
+<p>每个行业现在也都可以有自己的AIHOT了。</p>
+<p>开源地址：<a href="https://github.com/KKKKhazix/AIHOT">https://github.com/KKKKhazix/AIHOT</a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5099c60cc937313e61d63f97eaaf20c4c56ee1edb379905efa57dec12978ef03/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7155547931647359564a576e7873566551645374495a433832593770715866686555776671416d6f6d31384177594b61576a5a71456a7a5769635951744a676c6537516f38596d724657687942424569635069616a5a754d346f595043613532474f4a766b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136"><img src="https://camo.githubusercontent.com/5099c60cc937313e61d63f97eaaf20c4c56ee1edb379905efa57dec12978ef03/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7155547931647359564a576e7873566551645374495a433832593770715866686555776671416d6f6d31384177594b61576a5a71456a7a5769635951744a676c6537516f38596d724657687942424569635069616a5a754d346f595043613532474f4a766b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqUTy1dsYVJWnxsVeQdStIZC82Y7pqXfheUwfqAmom18AwYKaWjZqEjzWicYQtJgle7Qo8YmrFWhyBBEicPiajZuM4oYPCa52GOJvk/640?wx_fmt=png&amp;from=appmsg#imgIndex=16" style="max-width: 100%;"></a></p>
+<p>我把能开源的全部都开源了，包括我的采集流程、精选评分流程、聚簇机制等等，生产环境里面用到的所有Prompt我也都开源了。</p>
+<p>但是因为这种网站的特殊性，所以呢，像具体信源这些就没办法放出来了，主要怕引起一些争议，同时确实对于其他各行各业的大家来说，也确实没什么用。</p>
+<p>基于这个框架，大家可以尽情的去构建自己的产品。</p>
+<p>不过这里也确实说一句，我可能确实没有办法保证我未来在AIHOT的每一次迭代，也都会同步的更新到这个仓库里面，因为更新太频繁了，且很多也是AI行业的特化，所以，我只能说，未来我尽量。</p>
+<p>但我觉得它最大的意义，还是作为一个基础框架，能给到所有的行业，所有的人。</p>
+<p>法律行业、HR行业、金融行业、贵金属行业等等各行各业的朋友。</p>
+<p>我不懂你们的行业，不知道你们该看哪些信源，也不知道什么样的消息，对你们来说才叫热点。</p>
+<p>但你们懂。</p>
+<p>打开你们的Agent把这个仓库交给你的Agent，让它把信源换成你们自己的，把精选的标准，换成你们自己的标准和KnowHow。</p>
+<p>剩下的，就交给时间吧。</p>
+<p>半年以前，我连代码是什么都看不太懂。</p>
+<p>半年以后，我终于可以把一个曾经只属于我的小东西，交到更多人的手里。</p>
+<p>我不知道它最后会被改成什么样子，会走到多远的地方。</p>
+<p>但这可能就是开源最浪漫的地方。</p>
+<p>AIHOT曾经只是我无数个深夜里，一个很小、很小的念头。</p>
+<p>今天，我把它放在这里。</p>
+<p>剩下的路，就交给你们了。</p>
+<p><strong>愿我们都能用AI，把那些曾经只有少数人才能做到的事，一点一点，变成普通人也可以拥有的能力。</strong></p>
+<p>也愿诸君，乾坤既大，草木尤青。</p>
+<p>本心择路，笃志前行。</p>
+<p>未来必定。</p>
+<p>一路，顺风。</p>
+<p><strong>以上，既然看到这里了，如果觉得不错，随手点个赞、在看、转发三连吧，如果想第一时间收到推送，也可以给我个星标⭐～谢谢你看我的文章，我们，下次再见。</strong></p>
+<p>&gt;/ 作者：卡兹克</p>
+<p>&gt;/ 投稿或爆料，请联系邮箱：<a href="mailto:wzglyay@virxact.com">wzglyay@virxact.com</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
